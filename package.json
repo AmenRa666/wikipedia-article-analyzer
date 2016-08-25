@@ -1,0 +1,28 @@
+{
+  "name": "wikipedia-article-analyzer",
+  "version": "0.1.0",
+  "description": "An analyzer to extract text features from Wikipedia articles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmenRa666/wikipedia-article-analyzer.git"
+  },
+  "keywords": [
+    "wikipedia",
+    "analyzer",
+    "analiser",
+    "article"
+  ],
+  "author": "Elias Bassani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmenRa666/wikipedia-article-analyzer/issues"
+  },
+  "homepage": "https://github.com/AmenRa666/wikipedia-article-analyzer#readme",
+  "dependencies": {
+    "syllable": "^1.0.0"
+  }
+}
