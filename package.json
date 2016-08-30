@@ -24,6 +24,15 @@
   "homepage": "https://github.com/AmenRa666/wikipedia-article-analyzer#readme",
   "dependencies": {
     "async": "^2.0.1",
+    "automated-readability": "^1.0.0",
+    "coleman-liau": "^1.0.0",
+    "dale-chall-formula": "^1.0.0",
+    "flesch": "^1.0.0",
+    "flesch-kincaid": "^1.0.0",
+    "gunning-fog": "^1.0.0",
+    "nlp-syllables": "0.0.5",
+    "nlp_compromise": "^6.5.0",
+    "smog-formula": "^1.0.0",
     "syllable": "^1.0.0",
     "wordpos": "^1.1.0"
   }

@@ -4,10 +4,11 @@ var syllable = require('syllable')
 var fs = require('fs')
 var WordPOS = require('wordpos')
 
-var lengthFeatureAnalyzer = require('./modules/lengthFeaturesAnalyzer')
-var structureFeaturesAnalyzer = require('./modules/structureFeaturesAnalyzer')
-var styleFeaturesAnalyzer = require('./modules/styleFeaturesAnalyzer')
-var lexicalFeaturesAnalyzer = require('./modules/lexicalFeaturesAnalyzer')
+var lengthAnalyzer = require('./analyzers/lengthAnalyzer')
+var structureAnalyzer = require('./analyzers/structureAnalyzer')
+var styleAnalyzer = require('./analyzers/styleAnalyzer')
+var lexicalAnalyzer = require('./analyzers/lexicalAnalyzer')
+var readabilityAnalyzer = require('./analyzers/readabilityAnalyzer')
 
 
 // LOGIC
@@ -89,9 +90,27 @@ fs.readFile(filename, 'utf8', function(err, data) {
   // })
 
 
-  lexicalFeaturesAnalyzer.analyze(text, (results) => {
-    console.log(results);
-  })
+  // lexicalFeaturesAnalyzer.analyze(text, (results) => {
+  //   console.log(results);
+  // })
+
+
+
+
+
+
+
+
+
+  readabilityAnalyzer.analyze()
+
+
+
+
+
+
+
+
 
 
   // Count characters

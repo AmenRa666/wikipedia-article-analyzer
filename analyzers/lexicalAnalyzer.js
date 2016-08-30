@@ -50,7 +50,7 @@ const getDifferentWordsPerSentence = (text, sentences, cb) => {
     var words = sentence.split(" ")
     var cleanWords = []
     words.forEach((word) => {
-      // Dash symbol (-) will not be removed not removed
+      // Dash symbol (-) will not be removed 
       var cleanWord = word.replace(/[".,\/#!$%\^&\*;:{}=\\_`~()]|'s/g,"").toLowerCase()
       cleanWords.push(cleanWord)
     })

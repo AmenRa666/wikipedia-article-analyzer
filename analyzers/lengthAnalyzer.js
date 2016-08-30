@@ -20,8 +20,9 @@ const countSyllables = (text) => {
 // Count words
 const countWords = (text) => {
   text = text.replace(/\n/g, ' ')
-  var cleanText = text.replace(/[".,\/#!$%\^&\*;:{}=\-_`~()\[\]]|'s/g,"")
-  var wordCount = text.split(' ').length
+  // Remove all non-letter/digit symbols and saxon genitive
+  var cleanText = text.replace(/\W|'s/g,"")
+  var wordCount = cleanText.split(' ').length
   return wordCount
 }
 
