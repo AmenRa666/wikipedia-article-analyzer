@@ -83,58 +83,69 @@ fs.readFile(filename, 'utf8', function(err, data) {
   var expandedText = nlp.text(text).contractions.expand().text()
 
   // Count questions
-  var questionCount = 0
-  sentences.forEach((sentence) => {
-    if (nlp.sentence(sentence.str).sentence_type() == 'interrogative') {
-      questionCount++
-    }
-  })
+  var questionCount = sentences.filter((sentence) => {
+    return nlp.sentence(sentence.str).sentence_type() == 'interrogative'
+  }).length
+
+  // Count questions
+  var exclamationCount = sentences.filter((sentence) => {
+    return nlp.sentence(sentence.str).sentence_type() == 'exclamative'
+  }).length
 
   // Normalize text (remove all punctation except for dots)
   var normalizedText = nlp.text(expandedText).normal();
 
-  // Remove dots
-  var noDotsText = normalizedText.replace(/\./g, '')
+  // Remove dots, question mark and exclamation mark
+  var noPontsText = normalizedText.replace(/[\.|?|!]/g, '')
 
-  // Remove white spaces
-  var noWhiteSpacesNoDotsText = noDotsText.replace(/ /g, '')
-
-  // Count characters
-  var charactersCount = text.length
-
-  // Count characters (without white spaces)
-  var characterCountNoWhiteSpaces = noWhiteSpacesNoDotsText.length
+  // Remove white spaces (white spaces excluded)
+  var characterCount = noPontsText.replace(/ /g, '').length
 
   // Words array
-  var words = noDotsText.split(' ')
+  var words = noPontsText.split(' ')
 
   // Count words
   var wordCount = words.length
 
   // Count syllable
   var syllableCount = 0
-
-
   words.forEach((word) => {
     syllableCount = syllableCount + nlp.term(word).syllables().length
   })
 
-  // LENGHT FEATURE END //
+  //////////////////////// LENGHT FEATURES END ////////////////////////
 
-  // READABILITY FEATURES BEGIN //
+  //////////////////////// READABILITY FEATURES BEGIN ////////////////////////
 
   // Complex words count
-  var complexWordsCount = 0
-  var daleChallComplexWordCount = 0
+  var complexWordsCount = words.filter((word) => {
+    return nlp.term(word).syllables().length >= 3
+  }).length
 
-  words.forEach((word) => {
-    if (nlp.term(word).syllables().length >= 3) {
-      complexWordsCount++
-    }
-    if (daleChall.indexOf(word.toLowerCase()) == -1) {
-      daleChallComplexWordCount++
-    }
-  })
+  // Dale-Chall complex word count
+  var daleChallComplexWordCount = words.filter((word) => {
+    return daleChall.indexOf(word.toLowerCase()) == -1
+  }).length
+
+  // Long words count
+  var longWordsCount = words.filter(function (word) {
+    return word.length > 6
+  }).length
+
+  // words.forEach((word) => {
+  //   if (nlp.term(word).syllables().length >= 3) {
+  //     complexWordsCount++
+  //   }
+  //   if (daleChall.indexOf(word.toLowerCase()) == -1) {
+  //     daleChallComplexWordCount++
+  //   }
+  //   if (word.length > 6) {
+  //     longWordsCount++
+  //   }
+  // })
+
+  // Periods count
+  var periodsCount = sentenceCount + (text.match(/:/g) || []).length
 
   // Automated Readability Index
   var ari = automatedReadability({
@@ -147,7 +158,7 @@ fs.readFile(filename, 'utf8', function(err, data) {
   var cli = colemanLiau({
     sentence: sentenceCount,
     word: wordCount,
-    character: characterCount
+    letter: characterCount
   })
 
   // Flesch Reading Ease
@@ -181,12 +192,41 @@ fs.readFile(filename, 'utf8', function(err, data) {
   var dc = daleChallFormula({
     word: wordCount,
     sentence: sentenceCount,
-    difficultWord: 0
+    difficultWord: daleChallComplexWordCount
   });
 
+  // Läsbarhets Index
+  var lix = (wordCount/periodsCount) + (longWordsCount*100/wordCount)
 
-  // READABILITY FEATURE END //
+  // Linsear Write Formula
+  var lwfSimpleWordsCount = 0
+  var lwfComplexWordsCount = 0
 
+  for (var i = 0; i < 99; i++) {
+    var word = words[Math.floor(Math.random()*words.length)]
+    if (nlp.term(word).syllables().length >= 3) {
+      lwfComplexWordsCount++
+    }
+    else {
+      lwfSimpleWordsCount++
+    }
+  }
+
+  var lwf = (lwfSimpleWordsCount + 3*lwfComplexWordsCount)/sentenceCount
+  if (lwf > 20) {
+    lwf = lwf/2
+  }
+  else {
+    lwf = (lwf-2)/2
+  }
+
+  //////////////////////// READABILITY FEATURES END ////////////////////////
+
+  //////////////////////// LEXICAL FEATURES BEGIN ////////////////////////
+
+  
+
+  //////////////////////// LEXICAL FEATURES END ////////////////////////
 
 
 })
