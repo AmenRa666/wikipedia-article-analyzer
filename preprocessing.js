@@ -3,6 +3,7 @@
 var nlp = require('nlp_compromise')
 nlp.plugin(require('nlp-syllables'))
 var fs = require('fs')
+var WordPOS = require('wordpos')
 
 // Readability Modules
 var automatedReadability = require('automated-readability')
@@ -51,6 +52,8 @@ fs.readFile(filename, 'utf8', function(err, data) {
 
   console.log('- - - - - - - - - - - - - - - - - - - -')
 
+  var wordpos = new WordPOS()
+
   // Remove "new line"
   text = text.replace(/\n/g, ' ')
 
@@ -96,13 +99,13 @@ fs.readFile(filename, 'utf8', function(err, data) {
   var normalizedText = nlp.text(expandedText).normal();
 
   // Remove dots, question mark and exclamation mark
-  var noPontsText = normalizedText.replace(/[\.|?|!]/g, '')
+  var noPointsText = normalizedText.replace(/[\.|?|!]/g, '')
 
-  // Remove white spaces (white spaces excluded)
-  var characterCount = noPontsText.replace(/ /g, '').length
+  // Character count (white spaces excluded)
+  var characterCount = noPointsText.replace(/ /g, '').length
 
   // Words array
-  var words = noPontsText.split(' ')
+  var words = noPointsText.split(' ')
 
   // Count words
   var wordCount = words.length
@@ -118,7 +121,7 @@ fs.readFile(filename, 'utf8', function(err, data) {
   //////////////////////// READABILITY FEATURES BEGIN ////////////////////////
 
   // Complex words count
-  var complexWordsCount = words.filter((word) => {
+  var complexWordCount = words.filter((word) => {
     return nlp.term(word).syllables().length >= 3
   }).length
 
@@ -128,19 +131,19 @@ fs.readFile(filename, 'utf8', function(err, data) {
   }).length
 
   // Long words count
-  var longWordsCount = words.filter(function (word) {
+  var longWordCount = words.filter(function (word) {
     return word.length > 6
   }).length
 
   // words.forEach((word) => {
   //   if (nlp.term(word).syllables().length >= 3) {
-  //     complexWordsCount++
+  //     complexWordCount++
   //   }
   //   if (daleChall.indexOf(word.toLowerCase()) == -1) {
   //     daleChallComplexWordCount++
   //   }
   //   if (word.length > 6) {
-  //     longWordsCount++
+  //     longWordCount++
   //   }
   // })
 
@@ -151,14 +154,14 @@ fs.readFile(filename, 'utf8', function(err, data) {
   var ari = automatedReadability({
     sentence: sentenceCount,
     word: wordCount,
-    character: characterCount
+    character: text.replace(/ /g, '').length
   })
 
   // Coleman-Liau Index
   var cli = colemanLiau({
     sentence: sentenceCount,
     word: wordCount,
-    letter: characterCount
+    letter: words.length
   })
 
   // Flesch Reading Ease
@@ -179,13 +182,13 @@ fs.readFile(filename, 'utf8', function(err, data) {
   var gfi = gunningFog({
       sentence: sentenceCount,
       word: wordCount,
-      complexPolysillabicWord: complexWordsCount
+      complexPolysillabicWord: complexWordCount
     });
 
   // SMOG Grade
   var smog = smogFormula({
     sentence: sentenceCount,
-    polysillabicWord: complexWordsCount
+    polysillabicWord: complexWordCount
   });
 
   // Dale-Chall
@@ -196,23 +199,42 @@ fs.readFile(filename, 'utf8', function(err, data) {
   });
 
   // Läsbarhets Index
-  var lix = (wordCount/periodsCount) + (longWordsCount*100/wordCount)
+  var lix = (wordCount/periodsCount) + (longWordCount*100/wordCount)
+
+  // console.log('x x x x x x');
+  // console.log(dc);
+  // console.log(ari);
+  // console.log(cli);
+  // console.log(fre);
+  // console.log(fkgl);
+  // console.log(gfi);
+  // console.log('x x x x x x');
+
+
+  // Dale-Chall Readability Index	11
+  // Automated Readability Index	22.9
+  // Coleman-Liau Index	19.4
+  // Flesch Reading Ease Score	25.5
+  // Flesch-Kincaid Grade Level	17.7
+  // Gunning Fog Index	20.9
+
+
 
   // Linsear Write Formula
-  var lwfSimpleWordsCount = 0
-  var lwfComplexWordsCount = 0
+  var lwfSimpleWordCount = 0
+  var lwfComplexWordCount = 0
 
   for (var i = 0; i < 99; i++) {
     var word = words[Math.floor(Math.random()*words.length)]
     if (nlp.term(word).syllables().length >= 3) {
-      lwfComplexWordsCount++
+      lwfComplexWordCount++
     }
     else {
-      lwfSimpleWordsCount++
+      lwfSimpleWordCount++
     }
   }
 
-  var lwf = (lwfSimpleWordsCount + 3*lwfComplexWordsCount)/sentenceCount
+  var lwf = (lwfSimpleWordCount + 3*lwfComplexWordCount)/sentenceCount
   if (lwf > 20) {
     lwf = lwf/2
   }
@@ -224,9 +246,85 @@ fs.readFile(filename, 'utf8', function(err, data) {
 
   //////////////////////// LEXICAL FEATURES BEGIN ////////////////////////
 
-  
+  // Words per sentence
+  var wordsPerSentence = wordCount/sentenceCount
+
+  // Different words per sentence
+  var differentWordsPerSentence = words.getUniques().length/sentenceCount
+
+  // Different words ratio
+  var differentWordsRatio = words.getUniques().length/wordCount
+
+  // Nouns ratio
+  var nounsRatio = 0
+
+  // ASINCRONO
+  wordpos.getNouns(noPointsText, (differentNouns) => {
+    differentNouns.forEach((noun) => {
+      var regex = new RegExp(noun, 'g');
+      var matchCount = (noPointsText.match(regex)).length
+      nounsRatio = nounsRatio + matchCount/wordCount
+    })
+    // console.log(nounsRatio);
+  });
+
+  // Different nouns ratio
+  var differentNounsRatio = 0
+
+  // ASINCRONO
+  wordpos.getNouns(noPointsText, (differentNouns) => {
+    differentNounsRatio = differentNouns.length/wordCount
+    // console.log(differentNounsRatio);
+  });
+
+  // Verbs ratio
+  var verbsRatio = 0
+
+  // ASINCRONO
+  wordpos.getVerbs(noPointsText, (differentVerbs) => {
+    differentVerbs.forEach((verbs) => {
+      var regex = new RegExp(verbs, 'g');
+      var matchCount = (noPointsText.match(regex)).length
+      verbsRatio = verbsRatio + matchCount/wordCount
+    })
+    // console.log(verbsRatio);
+  });
+
+  // Different verbs ratio
+  var differentVerbsRatio = 0
+
+  // ASINCRONO
+  wordpos.getVerbs(noPointsText, (differentVerbs) => {
+    differentVerbsRatio = differentVerbs.length/wordCount
+    // console.log(differentVerbsRatio);
+  });
+
+  // Syllables per word
+  var syllablesPerWord = syllableCount/wordCount
+
+  // Character per word
+  var charactersPerWord = characterCount/wordCount
+
+
+
+
 
   //////////////////////// LEXICAL FEATURES END ////////////////////////
 
 
 })
+
+// 8. Copulas per sentence: numero medio di copule per frase che com- pone l’articolo;
+
+
+Array.prototype.getUniques = function(){
+   var u = {}, a = [];
+   for(var i = 0, l = this.length; i < l; ++i){
+      if(u.hasOwnProperty(this[i])) {
+         continue;
+      }
+      a.push(this[i]);
+      u[this[i]] = 1;
+   }
+   return a;
+}
