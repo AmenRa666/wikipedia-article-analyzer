@@ -5,6 +5,7 @@ var async = require('async')
 var nlp = require('nlp_compromise')
 
 var syllable = require('syllable')
+
 var automatedReadability = require('automated-readability')
 var colemanLiau = require('coleman-liau')
 var flesch = require('flesch')
@@ -20,12 +21,7 @@ var daleChall = require('dale-chall');
 
 const analyze = () => {
 
-  text = 'The rule of rhythm in prose is not so intricate. Here, too, we write in groups, or phrases, as I prefer to call them, for the prose phrase is greatly longer and is much more nonchalantly uttered than the group in verse; so that not only is there a greater interval of continuous sound between the pauses, but, for that very reason, word is linked more readily to word by a more summary enunciation. Still, the phrase is the strict analogue of the group, and successive phrases, like successive groups, must differ openly in length and rhythm. The rule of scansion in verse is to suggest no measure but the one in hand; in prose, to suggest no measure at all. Prose must be rhythmical, and it may be as much so as you will; but it must not be metrical. It may be anything, but it must not be verse.'
-
-  // text = 'Existing computer programs that measure readability are based largely upon subroutines which estimate number of syllables, usually by counting vowels. The shortcoming in estimating syllables is that it necessitates keypunching the prose into the computer. There is no need to estimate syllables since word length in letters is a better predictor of readability than word length in syllables. Therefore, a new readability formula was computed that has for its predictors letters per 100 words and sentences per 100 words. Both predictors can be counted by an optical scanning device, and thus the formula makes it economically feasible for an organization such as the U.S. Office of Education to calibrate the readability of all textbooks for the public school system.'
-  //
-  // text = 'The Australian platypus is seemingly a hybrid of a mammal and reptilian creature.'
-
+  // Remove "new line"
   text = text.replace(/\n/g, ' ')
 
   // Remove dots from acronyms (things like '.5' will remain)
@@ -51,10 +47,13 @@ const analyze = () => {
   var sentenceCount = text.split('. ').length
 
   // Remove all non-letter/digit symbols and saxon genitive
-  var cleanText = text.replace(/\W|'s/g,"")
+  var cleanText = text.replace(/\W|'s/g,"") // RIVEDERE
+
 
   // Words array
-  var words = text.split(' ')
+  var words = text.replace(/\W/g," ").split(' ')
+
+  console.log(words);
 
   // Word count
   var wordCount = words.length
@@ -67,12 +66,6 @@ const analyze = () => {
 
   // Syllable count
   var syllableCount = syllable(cleanText)
-
-
-
-
-
-
 
   // Complex words count
   var complexWordsCount = 0
@@ -88,9 +81,9 @@ const analyze = () => {
     // console.log('- - - - -');
 
     if (wordSyllables.syllables().length != syllable(word)) {
-      console.log('x x x x x x x');
-      console.log(word);
-      console.log('x x x x x x x');
+      // console.log('x x x x x x x');
+      // console.log(word);
+      // console.log('x x x x x x x');
     }
 
     if (syllable(word) >= 3) {
@@ -106,12 +99,11 @@ const analyze = () => {
   // Count Dale-Chall complex words
   words.forEach((word) => {
     if (daleChall.indexOf(word.toLowerCase()) == -1) {
-      console.log(word);
+      // console.log(word);
       daleChallComplexWordCount++
     }
   })
 
-  console.log(daleChallComplexWordCount);
 
 
 
@@ -121,6 +113,9 @@ const analyze = () => {
   // console.log(wordCount);
   // console.log(syllableCount);
   // console.log(complexWordsCount);
+
+
+
 
   // Automated Readability Index
   var ari = automatedReadability({
@@ -150,23 +145,28 @@ const analyze = () => {
     syllable: syllableCount
   })
 
-
+  // Gunning Fog Index
   var gfi = gunningFog({
       sentence: sentenceCount,
       word: wordCount,
       complexPolysillabicWord: complexWordsCount
     });
 
+  // SMOG Grade
   var smog = smogFormula({
     sentence: sentenceCount,
     polysillabicWord: complexWordsCount
   });
 
+  // Dale-Chall
   var dc = daleChallFormula({
     word: wordCount,
     sentence: sentenceCount,
     difficultWord: 0
   });
+
+
+
 
   // ESEMPIO SBAGLIATO
   // var dc = daleChallFormula({
