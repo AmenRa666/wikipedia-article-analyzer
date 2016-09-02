@@ -45,7 +45,7 @@ const getSentences = (text, cb) => {
 const getLargestSentenceSize = (sentences, cb) => {
   var largestSentenceSize = 0
   sentences.forEach((sentence) => {
-    sentenceLengthInWords = sentence.split(' ').length
+    var sentenceLengthInWords = sentence.split(' ').length
     if (sentenceLengthInWords > largestSentenceSize) {
       largestSentenceSize = sentenceLengthInWords
     }

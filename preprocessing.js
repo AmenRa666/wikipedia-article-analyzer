@@ -85,21 +85,27 @@ fs.readFile(filename, 'utf8', function(err, data) {
   // Expand contractions
   var expandedText = nlp.text(text).contractions.expand().text()
 
-  // Count questions
-  var questionCount = sentences.filter((sentence) => {
-    return nlp.sentence(sentence.str).sentence_type() == 'interrogative'
-  }).length
-
-  // Count questions
-  var exclamationCount = sentences.filter((sentence) => {
-    return nlp.sentence(sentence.str).sentence_type() == 'exclamative'
-  }).length
-
   // Normalize text (remove all punctation except for dots)
   var normalizedText = nlp.text(expandedText).normal();
 
-  // Remove dots, question mark and exclamation mark
-  var noPointsText = normalizedText.replace(/[\.|?|!]/g, '')
+  // var text2 = 'shavdfv ()/ [] (ciao) {ciao} [asdasd] ? she\' pretty! .,\/#!$%\^&\*;:{}=\-_`~()\[\] 2 + 5 3+6'
+  // text2 = nlp.text(text2).contractions.expand().text()
+  // text2 = nlp.text(text2).normal()
+  //
+  // console.log(text2.replace(/[\.|?|!|{|}|\[|\]]/g, ''));
+
+  // Remove dots, question mark and exclamation mark and brackets
+  var noPointsText = normalizedText.replace(/[\.|?|!|{|}|\[|\]]/g, '')
+
+  //  ".,\/#!$%\^&\*;:{}=\-_`~()\[\]
+
+  // Root text (she sold seashells -> she sell seashell)
+  var rootText = nlp.text(expandedText).root()
+
+  //     DA USARE ASSOLUTAMENTE !!!!!!!!!!!
+  // wordpos.getPOS(rootText, console.log)
+
+  //////////////////////// LENGHT BEGIN END ////////////////////////
 
   // Character count (white spaces excluded)
   var characterCount = noPointsText.replace(/ /g, '').length
@@ -259,7 +265,7 @@ fs.readFile(filename, 'utf8', function(err, data) {
   var nounsRatio = 0
 
   // ASINCRONO
-  wordpos.getNouns(noPointsText, (differentNouns) => {
+  wordpos.getNouns(rootText, (differentNouns) => {
     differentNouns.forEach((noun) => {
       var regex = new RegExp(noun, 'g');
       var matchCount = (noPointsText.match(regex)).length
@@ -272,7 +278,7 @@ fs.readFile(filename, 'utf8', function(err, data) {
   var differentNounsRatio = 0
 
   // ASINCRONO
-  wordpos.getNouns(noPointsText, (differentNouns) => {
+  wordpos.getNouns(rootText, (differentNouns) => {
     differentNounsRatio = differentNouns.length/wordCount
     // console.log(differentNounsRatio);
   });
@@ -281,7 +287,7 @@ fs.readFile(filename, 'utf8', function(err, data) {
   var verbsRatio = 0
 
   // ASINCRONO
-  wordpos.getVerbs(noPointsText, (differentVerbs) => {
+  wordpos.getVerbs(rootText, (differentVerbs) => {
     differentVerbs.forEach((verbs) => {
       var regex = new RegExp(verbs, 'g');
       var matchCount = (noPointsText.match(regex)).length
@@ -294,7 +300,7 @@ fs.readFile(filename, 'utf8', function(err, data) {
   var differentVerbsRatio = 0
 
   // ASINCRONO
-  wordpos.getVerbs(noPointsText, (differentVerbs) => {
+  wordpos.getVerbs(rootText, (differentVerbs) => {
     differentVerbsRatio = differentVerbs.length/wordCount
     // console.log(differentVerbsRatio);
   });
@@ -305,16 +311,285 @@ fs.readFile(filename, 'utf8', function(err, data) {
   // Character per word
   var charactersPerWord = characterCount/wordCount
 
-
-
-
-
   //////////////////////// LEXICAL FEATURES END ////////////////////////
+
+  //////////////////////// STYLE FEATURES BEGIN ////////////////////////
+
+  // Largest sentence size (in words)
+  var largestSentenceSize = 0
+  sentences.forEach((sentence) => {
+    // Expand contractions (i'll -> i will)
+    var expandedSentence = sentence.contractions.expand().text()
+    var sentenceLengthInWords = expandedSentence.split(' ').length
+    if (sentenceLengthInWords > largestSentenceSize) {
+      largestSentenceSize = sentenceLengthInWords
+    }
+  })
+
+  // Mean sentence size (in words)
+  var meanSentenceSize = wordCount/sentenceCount
+
+  // Large sentence rate
+  var largeSentenceCount = 0
+  sentences.forEach((sentence) => {
+    // Expand contractions (i'll -> i will)
+    var expandedSentence = sentence.contractions.expand().text()
+    var sentenceLengthInWords = expandedSentence.split(' ').length
+    if (sentenceLengthInWords > meanSentenceSize + 10) {
+      largeSentenceCount++
+    }
+  })
+  var largeSentenceRate = largeSentenceCount/sentenceCount
+
+  // Short sentence rate
+  var shortSentenceCount = 0
+  sentences.forEach((sentence) => {
+    // Expand contractions (i'll -> i will)
+    var expandedSentence = sentence.contractions.expand().text()
+    var sentenceLengthInWords = expandedSentence.split(' ').length
+    if (sentenceLengthInWords < meanSentenceSize - 5) {
+      shortSentenceCount++
+    }
+  })
+  var shortSentenceRate = shortSentenceCount/sentenceCount
+
+  // Nouns per sentence
+  var nounsPerSentence = 0
+  // ASINCRONO
+  wordpos.getNouns(rootText, (differentNouns) => {
+    differentNouns.forEach((noun) => {
+      var regex = new RegExp(noun, 'g');
+      var matchCount = (noPointsText.match(regex)).length
+      nounsPerSentence = nounsPerSentence + matchCount/sentenceCount
+    })
+    // console.log(nounsPerSentence);
+  });
+
+  // Verbs per sentence
+  var verbsPerSentence = 0
+  // ASINCRONO
+  wordpos.getVerbs(rootText, (differentVerbs) => {
+    differentVerbs.forEach((verb) => {
+      var regex = new RegExp(verb, 'g');
+      var matchCount = (noPointsText.match(regex)).length
+      verbsPerSentence = verbsPerSentence + matchCount/sentenceCount
+    })
+    // console.log(verbsPerSentence);
+  });
+
+  // Auxiliary verb count
+  var auxiliaryVerbs = [
+    'do',
+    'does',
+    'did',
+    'have',
+    'has',
+    'had',
+    'having',
+    'be',
+    'am',
+    'are',
+    'is',
+    'was',
+    'were',
+    'been',
+    'being',
+    'shall',
+    'will',
+    'should',
+    'would',
+    'can',
+    'could',
+    'may',
+    'might',
+    'must'
+  ]
+
+  var auxiliaryVerbCount = 0
+
+  // use words and not verbs because of some lack in WordPOS
+  words.forEach((word) => {
+    for (var i = 0; i < auxiliaryVerbs.length; i++) {
+      if(word == auxiliaryVerbs[i]) {
+        auxiliaryVerbCount++
+        break
+      }
+    }
+  })
+
+  // Question count
+  var questionCount = sentences.filter((sentence) => {
+    return nlp.sentence(sentence.str).sentence_type() == 'interrogative'
+  }).length
+
+  // Exclamation count
+  var exclamationCount = sentences.filter((sentence) => {
+    return nlp.sentence(sentence.str).sentence_type() == 'exclamative'
+  }).length
+
+  // Pronoun count
+  var pronounCount = 0
+
+  var pronouns = [
+    // Personal pronouns (subject)
+   'i',
+   'you',
+   'he',
+   'she',
+   'it',
+   'we',
+   'they',
+    // Personal pronouns (object)
+   'me',
+   'him',
+   'her',
+   'us',
+   'them',
+   // There
+   'there',
+    // Possessive pronouns
+   'mine',
+   'yours',
+   'his',
+   'hers',
+   'its',
+   'ours',
+   'theirs',
+    // This, that, these and those
+   'this',
+   'that',
+   'these',
+   'those',
+    // Questions
+   'who',
+   'whose',
+   'what',
+   'which',
+    // Reflexive pronouns
+   'myself',
+   'yourself',
+   'himself',
+   'herself',
+   'itself',
+   'ourselves',
+   'yourselves',
+   'themselves',
+    // Indefinite pronouns ("no one" is missing)
+   'somebody',
+   'someone',
+   'something',
+   'anybody',
+   'anyone',
+   'anything',
+   'nobody',
+   'noone',
+   'nothing',
+   'everybody',
+   'everyone',
+   'everything'
+  ]
+
+  words.forEach((word) => {
+    for (var i = 0; i < pronouns.length; i++) {
+      if(word == pronouns[i]) {
+        pronounCount++
+        break
+      }
+    }
+  })
+
+  // Coordinating conjunction count
+  var coordinatingConjunctionCount = 0
+  var coordinatingConjunctions = [
+    'And',
+    'but',
+    'for',
+    'nor',
+    'or',
+    'so',
+    'yet'
+  ]
+  words.forEach((word) => {
+    for (var i = 0; i < coordinatingConjunctions.length; i++) {
+      if(word == coordinatingConjunctions[i]) {
+        coordinatingConjunctionCount++
+        break
+      }
+    }
+  })
+
+
+
+
+  // Number of sentences that start with *
+
+  var sentencesFirstWord = []
+
+  sentences.forEach((sentence) => {
+    sentencesFirstWord.push(sentence.str.split(' ')[0].replace(/\W|'+s/g,"").toLowerCase())
+  })
+
+  // Number of sentences that start with a pronoun
+  var startWithPronoun = 0
+  sentencesFirstWord.forEach((word) => {
+    for (var i = 0; i < pronouns.length; i++) {
+      if (word == pronouns[i]) {
+        startWithPronoun++
+        break
+      }
+    }
+  })
+
+  // Number of sentences that start with an article
+  var startWithArticle = 0
+
+  // Number of sentences that start with a conjunction
+  var startWithConjunction = 0
+
+  // Number of sentences that start with a pronoun
+  var startWithSubordinatingConjunction = 0
+
+  // Number of sentences that start with a pronoun
+  var startWithInterrogativePronoun = 0
+
+  // Number of sentences that start with a pronoun
+  var startWithPreposition = 0
+
+
+  console.log(startWithPronoun);
+
+
+
+
+  //////////////////////// STYLE FEATURES END ////////////////////////
+
+
+
+
+
 
 
 })
 
-// 8. Copulas per sentence: numero medio di copule per frase che com- pone l’articolo;
+
+// 3. Large sentence rate: percentuale di frasi la cui lunghezza è superiore
+// di 10 parole alla lunghezza media delle frasi dell’articolo;
+// 4. Short sentence rate: percentuale di frasi la cui lunghezza è più corta di 5 parole rispetto alla lunghezza media delle frasi dell’articolo.
+// 5. Nouns per sentence: numero medio di sostantivi per frase; (NUO- VA)
+// 6. Auxiliary verb count: numero di verbi ausiliari presenti nel conte- nuto dell’articolo;
+// 7. Question count: numero di domande presenti nel contenuto dell’ar- ticolo;
+// 8. Pronoun count: numero di pronomi presenti nel contenuto dell’arti- colo;
+// 9. Passive voice count: numero di voci passive presenti nel contenuto dell’articolo;
+// 10. Conjunction rate: numero medio di congiunzioni presenti nel conte- nuto dell’articolo;
+// 11. Nominalization ratio: rapporto tra il numero di nominalizzazioni e il numero totale di parole che compongono il contenuto dell’articolo;
+// 12. Preposition rate: rapporto tra il numero di preposizioni e il numero totale di parole che compongono il contenuto dell’articolo;
+// 13. “To be” verb rate: rapporto tra il numero di voci del verbo essere e il numero totale di parole che compongono il contenuto dell’articolo;
+// 14. Number of sentences that start with a pronoun: numero totale di frasi che iniziano con un pronome;
+// 15. Number of sentences that start with an article: numero totale di frasi che iniziano con un articolo;
+// 16. Number of sentences that start with a conjunction: numero totale di frasi che iniziano con una congiunzione;
+// 17. Number of sentences that start with a subordinating con- junction: numero totale di frasi che iniziano con una congiunzione subordinante;
+// 18. Number of sentences that start with an interrogative pronoun: numero totale di frasi che iniziano con un pronome interrogativo;
+// 19. Number of sentences that start with a preposition: numero totale di frasi che iniziano con una preposizione;
 
 
 Array.prototype.getUniques = function(){
