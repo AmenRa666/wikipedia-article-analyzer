@@ -268,7 +268,7 @@ fs.readFile(filename, 'utf8', function(err, data) {
   wordpos.getNouns(rootText, (differentNouns) => {
     differentNouns.forEach((noun) => {
       var regex = new RegExp(noun, 'g');
-      var matchCount = (noPointsText.match(regex)).length
+      var matchCount = (noPointsText.match(regex || [])).length
       nounsRatio = nounsRatio + matchCount/wordCount
     })
     // console.log(nounsRatio);
@@ -290,7 +290,7 @@ fs.readFile(filename, 'utf8', function(err, data) {
   wordpos.getVerbs(rootText, (differentVerbs) => {
     differentVerbs.forEach((verbs) => {
       var regex = new RegExp(verbs, 'g');
-      var matchCount = (noPointsText.match(regex)).length
+      var matchCount = (noPointsText.match(regex || [])).length
       verbsRatio = verbsRatio + matchCount/wordCount
     })
     // console.log(verbsRatio);
@@ -359,7 +359,7 @@ fs.readFile(filename, 'utf8', function(err, data) {
   wordpos.getNouns(rootText, (differentNouns) => {
     differentNouns.forEach((noun) => {
       var regex = new RegExp(noun, 'g');
-      var matchCount = (noPointsText.match(regex)).length
+      var matchCount = (noPointsText.match(regex || [])).length
       nounsPerSentence = nounsPerSentence + matchCount/sentenceCount
     })
     // console.log(nounsPerSentence);
@@ -371,7 +371,7 @@ fs.readFile(filename, 'utf8', function(err, data) {
   wordpos.getVerbs(rootText, (differentVerbs) => {
     differentVerbs.forEach((verb) => {
       var regex = new RegExp(verb, 'g');
-      var matchCount = (noPointsText.match(regex)).length
+      var matchCount = (noPointsText.match(regex || [])).length
       verbsPerSentence = verbsPerSentence + matchCount/sentenceCount
     })
     // console.log(verbsPerSentence);

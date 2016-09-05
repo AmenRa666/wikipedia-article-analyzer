@@ -35,6 +35,7 @@
     "nlp_compromise": "^6.5.0",
     "smog-formula": "^1.0.0",
     "syllable": "^1.0.0",
-    "wordpos": "^1.1.0"
+    "wordpos": "^1.1.0",
+    "xml2js": "^0.4.17"
   }
 }
