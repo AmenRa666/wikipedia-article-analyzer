@@ -36,12 +36,15 @@ fs.readFile(filename, 'utf8', function(err, data) {
 
     // console.log(sectionCount);
 
-  var str1 = '==caaaaaaandy== ===caaaaaaandy=== ==caaaaaaandy=='
+  var str1 = '==caaaaa aandy== ===caaaaaaandy=== ==caaaaaaandy=='
   var str2 = '===caaaaaaandy==='
-  var regex = /==.+==/g
-  var match = (str1.match(regex) || []).length
-  console.log(regex.test(str1))
-  console.log(regex.test(str2))
-  console.log(match);
+  // var regex = /==.+==/g
+  // var match = (str1.match(regex) || []).length
+  // console.log(regex.test(str1))
+  // console.log(regex.test(str2))
+  // console.log(match);
+  const regex = /==(.+?)==/g
+  const res = str1.match(regex)
+  console.log(res)
   })
 })
