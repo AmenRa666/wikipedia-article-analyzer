@@ -33,6 +33,8 @@
     "gunning-fog": "^1.0.0",
     "nlp-syllables": "0.0.5",
     "nlp_compromise": "^6.5.0",
+    "python-shell": "^0.4.0",
+    "rimraf": "^2.5.4",
     "smog-formula": "^1.0.0",
     "syllable": "^1.0.0",
     "wordpos": "^1.1.0",

@@ -32,19 +32,40 @@ fs.readFile(filename, 'utf8', function(err, data) {
 
     var articleText = result.mediawiki.page[0].revision[0].text[0]._
 
-    // var sectionCount = (articleText.match(/=+=/g || []).length
+    var sectionsRegex = /==(.+?)==/g
+    var rawSections = articleText.match(sectionsRegex) || []
 
-    // console.log(sectionCount);
+    // Section count
+    var sectionTitles = rawSections.filter((element) => {
+      return element.charAt(2) != '='
+    })
+    var sectionCount = sectionTitles.length
 
-  var str1 = '==caaaaa aandy== ===caaaaaaandy=== ==caaaaaaandy=='
-  var str2 = '===caaaaaaandy==='
-  // var regex = /==.+==/g
-  // var match = (str1.match(regex) || []).length
-  // console.log(regex.test(str1))
-  // console.log(regex.test(str2))
-  // console.log(match);
-  const regex = /==(.+?)==/g
-  const res = str1.match(regex)
-  console.log(res)
+    // Subsection count
+    var subsectionTitles = rawSections.filter((element) => {
+      return element.charAt(2) == '=' && element.charAt(3) != '='
+    })
+    var subsectionCount = subsectionTitles.length
+
+    var sections = articleText.split(sectionTitles[0])
+
+    console.log(sections.length);
+
+
+  //
+  //   // var sectionCount = (articleText.match(/=+=/g || []).length
+  //
+  //   // console.log(sectionCount);
+  //
+  // var str1 = '==caaaaa aandy== ===caaaaaaandy=== ==caaaaaaandy=='
+  // var str2 = '===caaaaaaandy==='
+  // // var regex = /==.+==/g
+  // // var match = (str1.match(regex) || []).length
+  // // console.log(regex.test(str1))
+  // // console.log(regex.test(str2))
+  // // console.log(match);
+  // const regex = /==(.+?)==/g
+  // const res = articleText.match(regex) || []
+  // console.log(rawSections)
   })
 })

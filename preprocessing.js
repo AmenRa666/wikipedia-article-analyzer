@@ -1,5 +1,6 @@
 // MODULES
 
+var xml2js = require('xml2js')
 var nlp = require('nlp_compromise')
 nlp.plugin(require('nlp-syllables'))
 var fs = require('fs')
@@ -19,6 +20,7 @@ var daleChall = require('dale-chall');
 // LOGIC
 
 var filename = process.argv[2]
+var xml = process.argv[3]
 
 // Make sure we got a filename on the command line.
 if (process.argv.length < 3) {
@@ -48,11 +50,11 @@ fs.readFile(filename, 'utf8', function(err, data) {
   // Delete the title
   text = text.substring(text.indexOf("\n") + 2)
   // Delete the closing 'doc' tag
-  text = text.substring(0, text.indexOf("</doc>") - 3)
-
-  console.log('- - - - - - - - - - - - - - - - - - - -')
+  text = text.substring(0, text.indexOf("</doc>"))
 
   var wordpos = new WordPOS()
+
+  var orginalText = text
 
   // Remove "new line"
   text = text.replace(/\n/g, ' ')
@@ -82,17 +84,13 @@ fs.readFile(filename, 'utf8', function(err, data) {
   // Sentence count
   var sentenceCount = sentences.length
 
+  console.log(sentenceCount);
+
   // Expand contractions
   var expandedText = nlp.text(text).contractions.expand().text()
 
   // Normalize text (remove all punctation except for dots)
   var normalizedText = nlp.text(expandedText).normal();
-
-  // var text2 = 'shavdfv ()/ [] (ciao) {ciao} [asdasd] ? she\' pretty! .,\/#!$%\^&\*;:{}=\-_`~()\[\] 2 + 5 3+6'
-  // text2 = nlp.text(text2).contractions.expand().text()
-  // text2 = nlp.text(text2).normal()
-  //
-  // console.log(text2.replace(/[\.|?|!|{|}|\[|\]]/g, ''));
 
   // Remove dots, question mark and exclamation mark and brackets
   var noPointsText = normalizedText.replace(/[\.|?|!|{|}|\[|\]]/g, '')
@@ -207,25 +205,6 @@ fs.readFile(filename, 'utf8', function(err, data) {
   // Läsbarhets Index
   var lix = (wordCount/periodsCount) + (longWordCount*100/wordCount)
 
-  // console.log('x x x x x x');
-  // console.log(dc);
-  // console.log(ari);
-  // console.log(cli);
-  // console.log(fre);
-  // console.log(fkgl);
-  // console.log(gfi);
-  // console.log('x x x x x x');
-
-
-  // Dale-Chall Readability Index	11
-  // Automated Readability Index	22.9
-  // Coleman-Liau Index	19.4
-  // Flesch Reading Ease Score	25.5
-  // Flesch-Kincaid Grade Level	17.7
-  // Gunning Fog Index	20.9
-
-
-
   // Linsear Write Formula
   var lwfSimpleWordCount = 0
   var lwfComplexWordCount = 0
@@ -271,7 +250,6 @@ fs.readFile(filename, 'utf8', function(err, data) {
       var matchCount = (noPointsText.match(regex || [])).length
       nounsRatio = nounsRatio + matchCount/wordCount
     })
-    // console.log(nounsRatio);
   });
 
   // Different nouns ratio
@@ -280,7 +258,6 @@ fs.readFile(filename, 'utf8', function(err, data) {
   // ASINCRONO
   wordpos.getNouns(rootText, (differentNouns) => {
     differentNounsRatio = differentNouns.length/wordCount
-    // console.log(differentNounsRatio);
   });
 
   // Verbs ratio
@@ -293,7 +270,6 @@ fs.readFile(filename, 'utf8', function(err, data) {
       var matchCount = (noPointsText.match(regex || [])).length
       verbsRatio = verbsRatio + matchCount/wordCount
     })
-    // console.log(verbsRatio);
   });
 
   // Different verbs ratio
@@ -302,7 +278,6 @@ fs.readFile(filename, 'utf8', function(err, data) {
   // ASINCRONO
   wordpos.getVerbs(rootText, (differentVerbs) => {
     differentVerbsRatio = differentVerbs.length/wordCount
-    // console.log(differentVerbsRatio);
   });
 
   // Syllables per word
@@ -362,7 +337,6 @@ fs.readFile(filename, 'utf8', function(err, data) {
       var matchCount = (noPointsText.match(regex || [])).length
       nounsPerSentence = nounsPerSentence + matchCount/sentenceCount
     })
-    // console.log(nounsPerSentence);
   });
 
   // Verbs per sentence
@@ -374,7 +348,6 @@ fs.readFile(filename, 'utf8', function(err, data) {
       var matchCount = (noPointsText.match(regex || [])).length
       verbsPerSentence = verbsPerSentence + matchCount/sentenceCount
     })
-    // console.log(verbsPerSentence);
   });
 
   // Auxiliary verb count
@@ -555,12 +528,6 @@ fs.readFile(filename, 'utf8', function(err, data) {
   // Number of sentences that start with a pronoun
   var startWithPreposition = 0
 
-
-  console.log(startWithPronoun);
-
-
-
-
   //////////////////////// STYLE FEATURES END ////////////////////////
 
 
@@ -569,27 +536,100 @@ fs.readFile(filename, 'utf8', function(err, data) {
 
 
 
+
+
+
+
+
+  //////////////////////// STRUCTURE FEATURES BEGIN ////////////////////////
+
+  var parser = new xml2js.Parser()
+
+  // Read the file and print its contents.
+  fs.readFile(xml, 'utf8', function(err, data) {
+    if (err) throw err
+
+    console.log('- - - - - - - - - - - - - - - - - - - -')
+    console.log('XML LOADED: ' + xml)
+    console.log('- - - - - - - - - - - - - - - - - - - -')
+
+    parser.parseString(data, function (err, result) {
+      // console.dir(result)
+      console.log('Done')
+
+      var articleTextFromXML = result.mediawiki.page[0].revision[0].text[0]._
+
+      var sectionsRegex = /==(.+?)==/g
+      var rawSections = articleTextFromXML.match(sectionsRegex) || []
+
+      // Section count
+      var sectionTitles = rawSections.filter((element) => {
+        return element.charAt(2) != '='
+      })
+      // +1 because of introduction/abstract
+      var sectionCount = sectionTitles.length + 1
+
+      // Subsection count
+      var subsectionTitles = rawSections.filter((element) => {
+        return element.charAt(2) == '=' && element.charAt(3) != '='
+      })
+      var subsectionCount = subsectionTitles.length
+
+      // Pragraph count (+1 because of the last paragraph)
+      var paragraphCount = orginalText.split('.\n').length + 1
+
+      // Citation count
+      var citationsRegex = /&lt;ref|{{sfn\|/g
+      var citationCount = (articleTextFromXML.toLowerCase().match(citationsRegex) || []).length
+
+      // Citation count per text length (number of sentences)
+      var citationCountPerTextLength = citationCount/sentenceCount
+
+      // Citation count per section
+      var citationCountPerSection = citationCount/sectionCount
+
+      // External links count
+      var webURLRegex = /\|url=|\| url=|url =| url =|\[http/g
+      var externalLinksCount = (articleTextFromXML.toLowerCase().match(webURLRegex) || []).length
+
+      // External links per text length (number of sentences)
+      var externalLinksPerTextLength = externalLinksCount/sentenceCount
+
+      // External links per text length (number of sentences)
+      var externalLinksPerSection = externalLinksCount/sectionCount
+
+      // Image count
+      var imageRegex = /\[\[file:|\[\[image:/g
+      var imageCount = (articleTextFromXML.toLowerCase().match(imageRegex) || []).length
+
+      // Image per section
+      var imagePerSection = imageCount/sectionCount
+
+      // Image per text length (number of sentence)
+      var imagePerTextLength = imageCount/sentenceCount
+
+    //
+    //   // var sectionCount = (articleTextFromXML.match(/=+=/g || []).length
+    //
+    //   // console.log(sectionCount);
+    //
+    // var str1 = '==caaaaa aandy== ===caaaaaaandy=== ==caaaaaaandy=='
+    // var str2 = '===caaaaaaandy==='
+    // // var regex = /==.+==/g
+    // // var match = (str1.match(regex) || []).length
+    // // console.log(regex.test(str1))
+    // // console.log(regex.test(str2))
+    // // console.log(match);
+    // const regex = /==(.+?)==/g
+    // const res = articleTextFromXML.match(regex) || []
+    // console.log(rawSections)
+    })
+  })
+
+  //////////////////////// STRUCTURE FEATURES END ////////////////////////
+
 })
 
-
-// 3. Large sentence rate: percentuale di frasi la cui lunghezza è superiore
-// di 10 parole alla lunghezza media delle frasi dell’articolo;
-// 4. Short sentence rate: percentuale di frasi la cui lunghezza è più corta di 5 parole rispetto alla lunghezza media delle frasi dell’articolo.
-// 5. Nouns per sentence: numero medio di sostantivi per frase; (NUO- VA)
-// 6. Auxiliary verb count: numero di verbi ausiliari presenti nel conte- nuto dell’articolo;
-// 7. Question count: numero di domande presenti nel contenuto dell’ar- ticolo;
-// 8. Pronoun count: numero di pronomi presenti nel contenuto dell’arti- colo;
-// 9. Passive voice count: numero di voci passive presenti nel contenuto dell’articolo;
-// 10. Conjunction rate: numero medio di congiunzioni presenti nel conte- nuto dell’articolo;
-// 11. Nominalization ratio: rapporto tra il numero di nominalizzazioni e il numero totale di parole che compongono il contenuto dell’articolo;
-// 12. Preposition rate: rapporto tra il numero di preposizioni e il numero totale di parole che compongono il contenuto dell’articolo;
-// 13. “To be” verb rate: rapporto tra il numero di voci del verbo essere e il numero totale di parole che compongono il contenuto dell’articolo;
-// 14. Number of sentences that start with a pronoun: numero totale di frasi che iniziano con un pronome;
-// 15. Number of sentences that start with an article: numero totale di frasi che iniziano con un articolo;
-// 16. Number of sentences that start with a conjunction: numero totale di frasi che iniziano con una congiunzione;
-// 17. Number of sentences that start with a subordinating con- junction: numero totale di frasi che iniziano con una congiunzione subordinante;
-// 18. Number of sentences that start with an interrogative pronoun: numero totale di frasi che iniziano con un pronome interrogativo;
-// 19. Number of sentences that start with a preposition: numero totale di frasi che iniziano con una preposizione;
 
 
 Array.prototype.getUniques = function(){
