@@ -103,7 +103,7 @@ fs.readFile(filename, 'utf8', function(err, data) {
   //     DA USARE ASSOLUTAMENTE !!!!!!!!!!!
   // wordpos.getPOS(rootText, console.log)
 
-  //////////////////////// LENGHT BEGIN END ////////////////////////
+  //////////////////////// LENGHT FEATURES BEGIN ////////////////////////
 
   // Character count (white spaces excluded)
   var characterCount = noPointsText.replace(/ /g, '').length
