@@ -31,6 +31,8 @@
     "flesch": "^1.0.0",
     "flesch-kincaid": "^1.0.0",
     "gunning-fog": "^1.0.0",
+    "mathjs": "^3.5.1",
+    "natural": "^0.4.0",
     "nlp-syllables": "0.0.5",
     "nlp_compromise": "^6.5.0",
     "python-shell": "^0.4.0",

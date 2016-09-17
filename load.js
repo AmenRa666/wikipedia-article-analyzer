@@ -5,12 +5,30 @@ var xml2js = require('xml2js')
 var nlp = require('nlp_compromise')
 nlp.plugin(require('nlp-syllables'))
 var WordPOS = require('wordpos')
+var math = require('mathjs')
+var natural = require('natural')
+// Readability Modules
+var automatedReadability = require('automated-readability')
+var colemanLiau = require('coleman-liau')
+var flesch = require('flesch')
+var fleschKincaid = require('flesch-kincaid')
+var gunningFog = require('gunning-fog')
+var smogFormula = require('smog-formula');
+var daleChallFormula = require('dale-chall-formula')
+var daleChall = require('dale-chall');
 
 
 // Logic
 var xmlFilename = process.argv[2]
 var parser = new xml2js.Parser()
+var wordpos = new WordPOS()
 
+// POS tagger
+var Tagger = require("natural").BrillPOSTagger
+var base_folder = "./node_modules/natural/lib/natural/brill_pos_tagger/data/English"
+var rules_file = base_folder + "/tr_from_posjs.txt"
+var lexicon_file = base_folder + "/lexicon_from_posjs.json"
+var default_category = 'N'
 
 // Make sure we got a filename on the command line.
 if (process.argv.length < 3) {
@@ -90,10 +108,16 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
           title: title,
           abstract: '',
           text: textWithSectionTitles,
+          textFromXML: articleTextFromXML,
+          onlyLettersAndNumbersText: '',
+          words: [],
           sections: [],
+          sentences: [],
           features: {
             lengthFeatures: {},
-            structureFeatures : {}
+            structureFeatures : {},
+            styleFeatures: {},
+            readabilityFeatures: {}
           }
         }
 
@@ -138,6 +162,8 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
         for (var i = 0; i < sectionIndexes.length; i++) {
           if (i == 0) {
             articleJSON.abstract = textWithSectionTitles.substring(sectionIndexes[i], sectionIndexes[i+1]).trim()
+            // Put abstract in sections array
+            articleJSON.sections.push(textWithSectionTitles.substring(sectionIndexes[i], sectionIndexes[i+1]).trim())
           }
           else if (i == sectionIndexes.length - 1) {
             articleJSON.sections.push(textWithSectionTitles.substring(sectionIndexes[i]).trim())
@@ -154,10 +180,10 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
 
         // Extract sentences
         var sentences = nlp.text(text).sentences
+        articleJSON.sentences = sentences
 
         // Expand contractions
         var expandedText = nlp.text(text).contractions.expand().text()
-        // console.log(expandedText);
 
         // Normalize text (remove all punctation, except for dots, and 'new line')
         var normalizedText = nlp.text(expandedText).normal();
@@ -165,24 +191,41 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
         // Remove dots, question marks, exclamation marks and brackets
         var noPointsText = normalizedText.replace(/[\.|?|!|{|}|\[|\]]/g, '')
 
+        // Text composed only by letters and numbers (no white spaces)
+        var onlyLettersAndNumbersText = noPointsText.replace(/ /g, '')
+        articleJSON.onlyLettersAndNumbersText = onlyLettersAndNumbersText
+
+        // Words array
+        var words = noPointsText.split(' ')
+        articleJSON.words = words
+
         // Root text (she sold seashells -> she sell seashell)
         var rootText = nlp.text(expandedText).root()
 
-        //     DA USARE ASSOLUTAMENTE !!!!!!!!!!!
-        // wordpos.getPOS(rootText, console.log)
+        var nouns = 0
+
+        var tagger = new Tagger(lexicon_file, rules_file, default_category, function(error) {
+          if (error) {
+            console.log(error);
+          }
+          else {
+            var sentence = ['you', 'love', 'ny'];
+            console.log(JSON.stringify(tagger.tag(sentence)));
+          }
+        });
+
+
+
 
         ////////////////////////////////////////////////////////////////////////
         /////////////////////////// LENGHT FEATURES ////////////////////////////
         ////////////////////////////////////////////////////////////////////////
 
         // Character count (letters and numbers)
-        var characterCount = noPointsText.replace(/ /g, '').length
-
-        // Words array
-        var words = noPointsText.split(' ')
+        var characterCount = articleJSON.onlyLettersAndNumbersText.length
 
         // Count words
-        var wordCount = words.length
+        var wordCount = articleJSON.words.length
 
         // Count syllable
         var syllableCount = 0
@@ -191,7 +234,7 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
         })
 
         // Sentence count
-        var sentenceCount = sentences.length
+        var sentenceCount = articleJSON.sentences.length
 
         var lengthFeatures = {
           characterCount: characterCount,
@@ -206,6 +249,7 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
         ////////////////////////// STRUCTURE FEATURES //////////////////////////
         ////////////////////////////////////////////////////////////////////////
 
+        // Section count (abstract included)
         var sectionCount = articleJSON.sections.length
 
         // Subsection count
@@ -221,62 +265,338 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
         var meanSectionSize = articleJSON.features.lengthFeatures.characterCount/sectionCount
 
         // Mean paragraph count (in words)
-        var meanParagraphCount = articleJSON.features.lengthFeatures.wordCount/paragraphCount
+        var meanParagraphSize = articleJSON.features.lengthFeatures.wordCount/paragraphCount
+
+        // Section sizes
+        var sectionSizes = []
+        articleJSON.sections.forEach((section) => {
+          // Expand contractions
+          var expandedSectionText = nlp.text(section).contractions.expand().text()
+          // Normalize text (remove all punctation, except for dots, and 'new line')
+          var normalizedSectionText = nlp.text(expandedSectionText).normal();
+          // Remove dots, question marks, exclamation marks and brackets
+          var noPointsSectionText = normalizedSectionText.replace(/[\.|?|!|{|}|\[|\]]/g, '')
+          var sectionSize = noPointsSectionText.replace(/ /g, '').length
+          sectionSizes.push(sectionSize)
+        })
 
         // Size of the largest section (in characters (letters and numbers))
-        var largestSectionSize = 0
-        articleJSON.sections.forEach((section) => {
-          // Expand contractions
-          var expandedSectionText = nlp.text(section).contractions.expand().text()
-          // Normalize text (remove all punctation, except for dots, and 'new line')
-          var normalizedSectionText = nlp.text(expandedSectionText).normal();
-          // Remove dots, question marks, exclamation marks and brackets
-          var noPointsSectionText = normalizedSectionText.replace(/[\.|?|!|{|}|\[|\]]/g, '')
-          var sectionSize = noPointsSectionText.replace(/ /g, '').length
-          if (sectionSize > largestSectionSize) {
-            largestSectionSize = sectionSize
-          }
-        })
+        var largestSectionSize = sectionSizes.max()
 
         // Size of the shortest section (in characters (letters and numbers))
-        var shortestSectionSize = largestSectionSize
-        articleJSON.sections.forEach((section) => {
-          // Expand contractions
-          var expandedSectionText = nlp.text(section).contractions.expand().text()
-          // Normalize text (remove all punctation, except for dots, and 'new line')
-          var normalizedSectionText = nlp.text(expandedSectionText).normal();
-          // Remove dots, question marks, exclamation marks and brackets
-          var noPointsSectionText = normalizedSectionText.replace(/[\.|?|!|{|}|\[|\]]/g, '')
-          var sectionSize = noPointsSectionText.replace(/ /g, '').length
-          if (sectionSize < shortestSectionSize) {
-            shortestSectionSize = sectionSize
-          }
-        })
+        var shortestSectionSize = sectionSizes.min()
 
         // Largest-Shortest section ratio
         var largestShortestSectionRatio = largestSectionSize/shortestSectionSize
+
+        // Standard deviation of the section size
+        var sectionSizeStandardDeviation = math.std(sectionSizes)
+
+        // Mean of subsections per section
+        var meanOfSubsectionsPerSection = subsectionCount/sectionCount
+
+        // Abstract size (in characters (letters and numbers))
+        var abstractSize = sectionSizes[0]
+
+        // Abstract size-ArtcileLength ratio
+        var abstractSizeArtcileLengthRatio = abstractSize/articleJSON.features.lengthFeatures.characterCount
+
+        // Citation count
+        var citationsRegex = /<ref|&lt;ref|{{sfn\|/g
+        var citationCount = (articleJSON.textFromXML.toLowerCase().match(citationsRegex) || []).length
+
+        // Citation count per text length (number of sentences)
+        var citationCountPerTextLength = citationCount/articleJSON.features.lengthFeatures.sentenceCount
+
+        // Citation count per section
+        var citationCountPerSection = citationCount/sectionCount
+
+        // External links count
+        var webURLRegex = /\|url=|\| url=|url =| url =|\[http/g
+        var externalLinksCount = (articleJSON.textFromXML.toLowerCase().match(webURLRegex) || []).length
+
+        // External links per text length (number of sentences)
+        var externalLinksPerTextLength = externalLinksCount/articleJSON.features.lengthFeatures.sentenceCount
+
+        // External links per text length (number of sentences)
+        var externalLinksPerSection = externalLinksCount/sectionCount
+
+        // Image count (It's not perfect because of Wikipedia syntax)
+        var imageRegex = /\[\[file:|\[\[image:/g
+        var imageCount = (articleJSON.textFromXML.toLowerCase().match(imageRegex) || []).length
+
+        // Image per text length (number of sentence)
+        var imagePerTextLength = imageCount/articleJSON.features.lengthFeatures.sentenceCount
+
+        // Image per section
+        var imagePerSection = imageCount/sectionCount
 
         var structureFeatures = {
           sectionCount: sectionCount,
           subsectionCount: subsectionCount,
           paragraphCount: paragraphCount,
           meanSectionSize: meanSectionSize,
-          meanParagraphCount: meanParagraphCount,
+          meanParagraphSize: meanParagraphSize,
           largestSectionSize: largestSectionSize,
           shortestSectionSize:shortestSectionSize,
-          largestShortestSectionRatio: largestShortestSectionRatio
-
+          largestShortestSectionRatio: largestShortestSectionRatio,
+          sectionSizeStandardDeviation: sectionSizeStandardDeviation,
+          meanOfSubsectionsPerSection: meanOfSubsectionsPerSection,
+          abstractSize: abstractSize,
+          abstractSizeArtcileLengthRatio: abstractSizeArtcileLengthRatio,
+          citationCount: citationCount,
+          citationCountPerTextLength: citationCountPerTextLength,
+          citationCountPerSection: citationCountPerSection,
+          externalLinksCount: externalLinksCount,
+          externalLinksPerTextLength: externalLinksPerTextLength,
+          externalLinksPerSection: externalLinksPerSection,
+          imageCount: imageCount,
+          imagePerTextLength: imagePerTextLength,
+          imagePerSection: imagePerSection
         }
 
         articleJSON.features.structureFeatures = structureFeatures
 
+        ////////////////////////////////////////////////////////////////////////
+        //////////////////////////// STYLE FEATURES ////////////////////////////
+        ////////////////////////////////////////////////////////////////////////
+
+        // Largest sentence size (in words)
+        var largestSentenceSize = 0
+        articleJSON.sentences.forEach((sentence) => {
+          // Expand contractions (i'll -> i will)
+          var expandedSentence = sentence.contractions.expand().text()
+          var sentenceLengthInWords = expandedSentence.split(' ').length
+          if (sentenceLengthInWords > largestSentenceSize) {
+            largestSentenceSize = sentenceLengthInWords
+          }
+        })
+
+        // Mean sentence size (in words)
+        var meanSentenceSize = articleJSON.features.lengthFeatures.wordCount/articleJSON.features.lengthFeatures.sentenceCount
+
+        // Large sentence rate
+        var largeSentenceCount = 0
+        articleJSON.sentences.forEach((sentence) => {
+          // Expand contractions (i'll -> i will)
+          var expandedSentence = sentence.contractions.expand().text()
+          var sentenceLengthInWords = expandedSentence.split(' ').length
+          if (sentenceLengthInWords > meanSentenceSize + 10) {
+            largeSentenceCount++
+          }
+        })
+        var largeSentenceRate = largeSentenceCount/articleJSON.features.lengthFeatures.sentenceCount
+
+        // Short sentence rate
+        var shortSentenceCount = 0
+        sentences.forEach((sentence) => {
+          // Expand contractions (i'll -> i will)
+          var expandedSentence = sentence.contractions.expand().text()
+          var sentenceLengthInWords = expandedSentence.split(' ').length
+          if (sentenceLengthInWords < meanSentenceSize - 5) {
+            shortSentenceCount++
+          }
+        })
+        var shortSentenceRate = shortSentenceCount/articleJSON.features.lengthFeatures.sentenceCount
+
+        // // Nouns per sentence
+        // var nounsPerSentence = 0
+        // // ASINCRONO
+        // wordpos.getNouns(rootText, (differentNouns) => {
+        //   differentNouns.forEach((noun) => {
+        //     var regex = new RegExp(noun, 'g');
+        //     var matchCount = (noPointsText.match(regex || [])).length
+        //     nounsPerSentence = nounsPerSentence + matchCount/articleJSON.features.lengthFeatures.sentenceCount
+        //   })
+        //   console.log(nounsPerSentence);
+        // });
+        //
+        // // Verbs per sentence
+        // var verbsPerSentence = 0
+        // // ASINCRONO
+        // wordpos.getVerbs(rootText, (differentVerbs) => {
+        //   differentVerbs.forEach((verb) => {
+        //     var regex = new RegExp(verb, 'g');
+        //     var matchCount = (noPointsText.match(regex || [])).length
+        //     verbsPerSentence = verbsPerSentence + matchCount/articleJSON.features.lengthFeatures.sentenceCount
+        //   })
+        // });
+
+        var styleFeatures = {
+          largestSentenceSize: largestSentenceSize,
+          meanSentenceSize: meanSentenceSize,
+          largeSentenceRate: largeSentenceRate,
+          shortSentenceCount: shortSentenceCount
+        }
+
+        articleJSON.features.styleFeatures = styleFeatures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ////////////////////////////////////////////////////////////////////////
+        ///////////////////////// READABILITY FEATURES /////////////////////////
+        ////////////////////////////////////////////////////////////////////////
+
+        // // Complex words count
+        // var complexWordCount = articleJSON.words.filter((word) => {
+        //   return nlp.term(word).syllables().length >= 3
+        // }).length
+        //
+        // // Dale-Chall complex word count
+        // var daleChallComplexWordCount = articleJSON.words.filter((word) => {
+        //   return daleChall.indexOf(word.toLowerCase()) == -1
+        // }).length
+        //
+        // // Long words count
+        // var longWordCount = articleJSON.words.filter(function (word) {
+        //   return word.length > 6
+        // }).length
+
+        // Complex words count
+        var complexWordCount = 0
+
+        // Dale-Chall complex word count
+        var daleChallComplexWordCount = 0
+
+        // Long words count
+        var longWordCount = 0
+
+        articleJSON.words.forEach((word) => {
+          if (nlp.term(word).syllables().length >= 3) {
+            complexWordCount++
+          }
+          if (daleChall.indexOf(word.toLowerCase()) == -1) {
+            daleChallComplexWordCount++
+          }
+          if (word.length > 6) {
+            longWordCount++
+          }
+        })
+
+        var characterCount = articleJSON.features.lengthFeatures.characterCount
+        var wordCount = articleJSON.features.lengthFeatures.wordCount
+        var sentenceCount = articleJSON.features.lengthFeatures.sentenceCount
+        var syllableCount = articleJSON.features.lengthFeatures.syllableCount
+
+        // Periods count
+        var periodCount = sentenceCount + (articleJSON.text.match(/:/g) || []).length
+
+        // Automated Readability Index
+        var ari = automatedReadability({
+          sentence: sentenceCount,
+          word: articleJSON.features.lengthFeatures.wordCount,
+          character: characterCount
+        })
+
+        // Coleman-Liau Index
+        var cli = colemanLiau({
+          sentence: sentenceCount,
+          word: wordCount,
+          letter: characterCount
+        })
+
+        // Flesch Reading Ease
+        var fre = flesch({
+          sentence: sentenceCount,
+          word: wordCount,
+          syllable: syllableCount
+        })
+
+        // Flesch-Kincaid Grade Level
+        var fkgl = fleschKincaid({
+          sentence: sentenceCount,
+          word: wordCount,
+          syllable: syllableCount
+        })
+
+        // Gunning Fog Index
+        var gfi = gunningFog({
+            sentence: sentenceCount,
+            word: wordCount,
+            complexPolysillabicWord: complexWordCount
+          });
+
+        // SMOG Grade
+        var smog = smogFormula({
+          sentence: sentenceCount,
+          polysillabicWord: complexWordCount
+        });
+
+        // Dale-Chall
+        var dc = daleChallFormula({
+          word: wordCount,
+          sentence: sentenceCount,
+          difficultWord: daleChallComplexWordCount
+        });
+
+        // Läsbarhets Index
+        var lix = (wordCount/periodCount) + (longWordCount*100/wordCount)
+
+        // Linsear Write Formula
+        var lwfSimpleWordCount = 0
+        var lwfComplexWordCount = 0
+
+        for (var i = 0; i < 99; i++) {
+          var word = words[Math.floor(Math.random()*words.length)]
+          if (nlp.term(word).syllables().length >= 3) {
+            lwfComplexWordCount++
+          }
+          else {
+            lwfSimpleWordCount++
+          }
+        }
+
+        var lwf = (lwfSimpleWordCount + 3*lwfComplexWordCount)/sentenceCount
+        if (lwf > 20) {
+          lwf = lwf/2
+        }
+        else {
+          lwf = (lwf-2)/2
+        }
+
+        //////////////////////// READABILITY FEATURES END ////////////////////////
+
+        var readabilityFeatures = {
+          automatedReadabilityIndex: ari,
+          colemanLiauIndex: cli,
+          fleshReadingEase: fre,
+          fleschKincaidGradeLevel: fkgl,
+          gunningFogIndex: gfi,
+          lasbarhetsIndex: lix,
+          smogGrading: smog,
+          linsearWriteFormula: lwf,
+          daleChallReadabilityFormula: dc
+        }
+
+        articleJSON.features.readabilityFeatures = readabilityFeatures
+
+
+
+
+
+
+
+
         console.log(articleJSON.features);
-
-
-
-
-
-
 
       })
 
@@ -298,4 +618,7 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
 
 Array.prototype.min = function() {
   return Math.min.apply(null, this);
+};
+Array.prototype.max = function() {
+  return Math.max.apply(null, this);
 };
