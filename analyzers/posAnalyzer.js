@@ -39,7 +39,10 @@ var resultObj = {
   adverbsRate: 0,
   differentAdverbCount: 0,
   differentAdverbsRate: 0,
+  posTrigrams: {}
 }
+
+var taggedWordsGLOBAL = []
 
 ////////////////////////////////////////////////////////////////////////////////
 ///////////////////////////////////// TAGS /////////////////////////////////////
@@ -209,7 +212,9 @@ const tag = (text, cb) => {
     var taggedWords = resp.split(' ')
     var _taggedWords = []
     taggedWords.forEach((taggedWord) => {
+      // Array with two element, word and tag
       taggedWord = taggedWord.split('_')
+      // If the tag is not in the 'tags' array the element will be discarded
       if (_.indexOf(tags, taggedWord[1]) != -1) {
         taggedWord = {
           word: taggedWord[0],
@@ -218,6 +223,9 @@ const tag = (text, cb) => {
         _taggedWords.push(taggedWord)
       }
     })
+
+    taggedWordsGLOBAL = _taggedWords
+
     var taggedWordsGroupedByTag = _.groupBy(_taggedWords, 'tag')
 
     coordinatingConjunctions = _.pluck(taggedWordsGroupedByTag[coordinatingConjunctionTag], 'word') || []
@@ -311,28 +319,33 @@ const countAdverbs = (cb) => {
   cb(null, 'countAdverbs')
 }
 
-const getPosTrigrams = (taggedWords) => {
-
-  var wordTags = _.pluck(taggedWords, 'tag')
-
-  var posTrigrams = [], i;
-  for (i = 0; i < wordTags.length; i += 3) {
+const getPosTrigrams = (cb) => {
+  var wordTags = _.pluck(taggedWordsGLOBAL, 'tag')
+  var posTrigrams = {}
+  for (var i = 0; i < wordTags.length; i += 3) {
     trigram = {
       posTrigram: wordTags.slice(i, i + 3)
     }
-    posTrigrams.push(trigram);
+    if (wordTags.slice(i, i + 3).length == 3) {
+      if (wordTags.slice(i, i + 3) in posTrigrams) {
+        posTrigrams[wordTags.slice(i, i + 3)]++
+      }
+      else {
+        posTrigrams[wordTags.slice(i, i + 3)] = 1
+      }
+    }
   }
 
-  var posTrigramsGrouped = _.toArray(_.groupBy(posTrigrams, 'posTrigram'))
+  resultObj.posTrigrams = posTrigrams
 
-  // console.log(posTrigramsGrouped);
+  // for (var property in posTrigrams) {
+  //   // console.log(posTrigrams[property]);
+  //   if (posTrigrams.hasOwnProperty(property)) {
+  //       console.log(posTrigrams[property]);
+  //   }
+  // }
 
-  posTrigramsGrouped.forEach((trigram) => {
-    if (trigram.length > 10) {
-      console.log(trigram.length);
-    }
-  })
-
+  cb(null, 'getPosTrigrams')
 }
 
 const analyze = (text, cb) => {
@@ -344,7 +357,8 @@ const analyze = (text, cb) => {
         countVerbs,
         countPronouns,
         countAdjectives,
-        countAdverbs
+        countAdverbs,
+        getPosTrigrams
       ], cb )
     }
   ],
@@ -355,6 +369,5 @@ const analyze = (text, cb) => {
 }
 
 
-
-
+// EXPORTS
 module.exports.analyze = analyze

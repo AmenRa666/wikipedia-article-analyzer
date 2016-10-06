@@ -7,6 +7,7 @@ nlp.plugin(require('nlp-syllables'))
 var WordPOS = require('wordpos')
 var math = require('mathjs')
 var natural = require('natural')
+var _ = require('underscore')
 // Readability Modules
 var automatedReadability = require('automated-readability')
 var colemanLiau = require('coleman-liau')
@@ -16,6 +17,9 @@ var gunningFog = require('gunning-fog')
 var smogFormula = require('smog-formula');
 var daleChallFormula = require('dale-chall-formula')
 var daleChall = require('dale-chall');
+// Analizers
+var posAnalyzer = require('./analyzers/posAnalyzer.js')
+var trigramAnalyzer = require('./analyzers/trigramAnalyzer.js')
 
 
 // Logic
@@ -484,7 +488,7 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
         // Automated Readability Index
         var ari = automatedReadability({
           sentence: sentenceCount,
-          word: articleJSON.features.lengthFeatures.wordCount,
+          word: wordCount,
           character: characterCount
         })
 
@@ -554,7 +558,7 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
           lwf = (lwf-2)/2
         }
 
-        //////////////////////// READABILITY FEATURES END ////////////////////////
+        /////////////////////// READABILITY FEATURES END ///////////////////////
 
         var readabilityFeatures = {
           automatedReadabilityIndex: ari,
@@ -570,32 +574,19 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
 
         articleJSON.features.readabilityFeatures = readabilityFeatures
 
+        console.log(articleJSON.features.readabilityFeatures);
 
 
 
-        // console.log(articleJSON.features.lengthFeatures.wordCount);
-        var posTagger = require('./posTagger.js')
-        // console.log(articleJSON.plainText);
-        posTagger.analyze(articleJSON.plainText, (result) => {
-          console.log(result.nounCount);
-        })
 
 
-        // console.log(articleJSON.features);
+
+
+
 
       })
-
-
-
-
-
-
-
     })
-
-
   })
-
 })
 
 
@@ -607,3 +598,26 @@ Array.prototype.min = function() {
 Array.prototype.max = function() {
   return Math.max.apply(null, this);
 };
+
+
+
+
+// POS ANALYZER
+// posAnalyzer.analyze(articleJSON.plainText, (result) => {
+//   console.log(result.posTrigrams);
+// })
+
+// TRIGRAM ANALYZER
+// Print sorted (desc) trigrams
+// trigramAnalyzer.getPosTrigrams(articleJSON.plainText, (results) => {
+//   // var sortable = _.toArray(results)
+//   var sortedTrigrams = []
+//   for (var result in results)
+//     sortedTrigrams.push([result, results[result]])
+//   sortedTrigrams.sort(
+//     (a, b) => {
+//       return b[1] - a[1]
+//     }
+//   )
+//   console.log(sortedTrigrams)
+// })
