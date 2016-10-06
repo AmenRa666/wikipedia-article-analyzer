@@ -23,12 +23,6 @@ var xmlFilename = process.argv[2]
 var parser = new xml2js.Parser()
 var wordpos = new WordPOS()
 
-// POS tagger
-var Tagger = require("natural").BrillPOSTagger
-var base_folder = "./node_modules/natural/lib/natural/brill_pos_tagger/data/English"
-var rules_file = base_folder + "/tr_from_posjs.txt"
-var lexicon_file = base_folder + "/lexicon_from_posjs.json"
-var default_category = 'N'
 
 // Make sure we got a filename on the command line.
 if (process.argv.length < 3) {
@@ -109,6 +103,7 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
           abstract: '',
           text: textWithSectionTitles,
           textFromXML: articleTextFromXML,
+          plainText: '',
           onlyLettersAndNumbersText: '',
           words: [],
           sections: [],
@@ -174,7 +169,8 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
         }
 
         // Section titles have been removed
-        var text = textWithSectionTitles
+        var text = textWithSectionTitles.replace(/\r?\n|\r/g, ' ')
+        articleJSON.plainText = text
 
         ////////////// PREPROCESSING ////////////
 
@@ -201,21 +197,6 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
 
         // Root text (she sold seashells -> she sell seashell)
         var rootText = nlp.text(expandedText).root()
-
-        var nouns = 0
-
-        var tagger = new Tagger(lexicon_file, rules_file, default_category, function(error) {
-          if (error) {
-            console.log(error);
-          }
-          else {
-            var sentence = ['you', 'love', 'ny'];
-            console.log(JSON.stringify(tagger.tag(sentence)));
-          }
-        });
-
-
-
 
         ////////////////////////////////////////////////////////////////////////
         /////////////////////////// LENGHT FEATURES ////////////////////////////
@@ -592,11 +573,15 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
 
 
 
+        // console.log(articleJSON.features.lengthFeatures.wordCount);
+        var posTagger = require('./posTagger.js')
+        // console.log(articleJSON.plainText);
+        posTagger.analyze(articleJSON.plainText, (result) => {
+          console.log(result);
+        })
 
 
-
-
-        console.log(articleJSON.features);
+        // console.log(articleJSON.features);
 
       })
 
