@@ -13,7 +13,7 @@ var tagger = new Tagger({
 });
 
 // Object to return
-var returnObj = {
+var resultObj = {
   nouns: [],
   nounCount: 0,
   nounsRate: 0,
@@ -258,56 +258,56 @@ const tag = (text, cb) => {
     whAdverbs = _.pluck(taggedWordsGroupedByTag[whAdverbTag], 'word') || []
 
     // All type of nouns together (no proper nouns)
-    returnObj.nouns = singolarCommonNounsAndMasses.concat(pluralCommonNouns)
+    resultObj.nouns = singolarCommonNounsAndMasses.concat(pluralCommonNouns)
 
     // All type of verbs together
-    returnObj.verbs = modalAuxiliaries.concat(pastTenseVerbs, presentParticipleAndGerundVerbs, pastParticipleVerbs, notThirdPersonSingularPresentTenseVerbs, thirdPersonSingularPresentTenseVerbs)
+    resultObj.verbs = modalAuxiliaries.concat(pastTenseVerbs, presentParticipleAndGerundVerbs, pastParticipleVerbs, notThirdPersonSingularPresentTenseVerbs, thirdPersonSingularPresentTenseVerbs)
 
     // All type of pronouns together
-    returnObj.pronouns = personalPronouns.concat(personalPronouns, existentialTheres, whPronouns, possessiveWHPronouns)
+    resultObj.pronouns = personalPronouns.concat(personalPronouns, existentialTheres, whPronouns, possessiveWHPronouns)
 
     // All type of adjectives together
-    returnObj.adjectives = ordinalAdjectivesAndNumerals.concat(comparativeAdjectives, superlativeAdjectives)
+    resultObj.adjectives = ordinalAdjectivesAndNumerals.concat(comparativeAdjectives, superlativeAdjectives)
 
     // All type of adverbs together
-    returnObj.adverbs = adverbs.concat(comparativeAdverbs, superlativeAdverbs)
+    resultObj.adverbs = adverbs.concat(comparativeAdverbs, superlativeAdverbs)
 
     cb(null, 'tag')
   })
 }
 
 const countNouns = (cb) => {
-  returnObj.nounCount = returnObj.nouns.length
-  var differentNouns = _.uniq(_adjectives)
-  returnObj.differentNounCount = differentAdjectives.length
+  resultObj.nounCount = resultObj.nouns.length
+  var differentNouns = _.uniq(resultObj.nouns)
+  resultObj.differentNounCount = differentNouns.length
   cb(null, 'countNouns')
 }
 
 const countVerbs = (cb) => {
-  returnObj.verbCount = returnObj.verbs.length
-  var differentVerbs = _.uniq(_adjectives)
-  returnObj.differentVerbsCount = differentAdjectives.length
+  resultObj.verbCount = resultObj.verbs.length
+  var differentVerbs = _.uniq(resultObj.verbs)
+  resultObj.differentVerbsCount = differentVerbs.length
   cb(null, 'countVerbs')
 }
 
 const countPronouns = (cb) => {
-  returnObj.pronounCount = returnObj.pronouns.length
-  var differentPronouns = _.uniq(_adjectives)
-  returnObj.differentPronounsCount = differentAdjectives.length
+  resultObj.pronounCount = resultObj.pronouns.length
+  var differentPronouns = _.uniq(resultObj.pronouns)
+  resultObj.differentPronounsCount = differentPronouns.length
   cb(null, 'countPronouns')
 }
 
 const countAdjectives = (cb) => {
-  returnObj.returnObj.adjectiveCount = returnObj.adjectives.length
-  var differentAdjectives = _.uniq(_adjectives)
-  returnObj.differentAdjectiveCount = differentAdjectives.length
+  resultObj.adjectiveCount = resultObj.adjectives.length
+  var differentAdjectives = _.uniq(resultObj.adjectives)
+  resultObj.differentAdjectiveCount = differentAdjectives.length
   cb(null, 'countAdjectives')
 }
 
 const countAdverbs = (cb) => {
-  returnObj.adverbCount = returnObj.adverbs.length
-  var differentAdverbs = _.uniq(_adjectives)
-  returnObj.differentAdverbCount = differentAdjectives.length
+  resultObj.adverbCount = resultObj.adverbs.length
+  var differentAdverbs = _.uniq(resultObj.adverbs)
+  resultObj.differentAdverbCount = differentAdverbs.length
   cb(null, 'countAdverbs')
 }
 
@@ -338,18 +338,23 @@ const getPosTrigrams = (taggedWords) => {
 const analyze = (text, cb) => {
   async.series([
     async.apply(tag, text),
-    async.parallel([
-      countNouns,
-      countVerbs,
-      countPronouns,
-      countAdjectives,
-      countAdverbs
-    ])
+    (cb) => {
+      async.parallel([
+        countNouns,
+        countVerbs,
+        countPronouns,
+        countAdjectives,
+        countAdverbs
+      ], cb )
+    }
   ],
-  cb(returnObj))
+  (err, result) => {
+    cb(resultObj)
+  }
+  )
 }
 
 
 
 
-module.exports.analyze = tag
+module.exports.analyze = analyze

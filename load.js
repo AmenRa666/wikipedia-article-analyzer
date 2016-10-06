@@ -577,7 +577,7 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
         var posTagger = require('./posTagger.js')
         // console.log(articleJSON.plainText);
         posTagger.analyze(articleJSON.plainText, (result) => {
-          console.log(result);
+          console.log(result.nounCount);
         })
 
 
