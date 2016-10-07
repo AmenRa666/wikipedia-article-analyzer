@@ -426,6 +426,159 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+        ////////////////////////////////////////////////////////////////////////
+        ///////////////////////// READABILITY FEATURES /////////////////////////
+        ////////////////////////////////////////////////////////////////////////
+
+        // // Complex words count
+        // var complexWordCount = articleJSON.words.filter((word) => {
+        //   return nlp.term(word).syllables().length >= 3
+        // }).length
+        //
+        // // Dale-Chall complex word count
+        // var daleChallComplexWordCount = articleJSON.words.filter((word) => {
+        //   return daleChall.indexOf(word.toLowerCase()) == -1
+        // }).length
+        //
+        // // Long words count
+        // var longWordCount = articleJSON.words.filter(function (word) {
+        //   return word.length > 6
+        // }).length
+
+        // Complex words count
+        var complexWordCount = 0
+
+        // Dale-Chall complex word count
+        var daleChallComplexWordCount = 0
+
+        // Long words count
+        var longWordCount = 0
+
+        articleJSON.words.forEach((word) => {
+          if (nlp.term(word).syllables().length >= 3) {
+            complexWordCount++
+          }
+          if (daleChall.indexOf(word.toLowerCase()) == -1) {
+            daleChallComplexWordCount++
+          }
+          if (word.length > 6) {
+            longWordCount++
+          }
+        })
+
+        var characterCount = articleJSON.features.lengthFeatures.characterCount
+        var wordCount = articleJSON.features.lengthFeatures.wordCount
+        var sentenceCount = articleJSON.features.lengthFeatures.sentenceCount
+        var syllableCount = articleJSON.features.lengthFeatures.syllableCount
+
+        // Periods count
+        var periodCount = sentenceCount + (articleJSON.text.match(/:/g) || []).length
+
+        // Automated Readability Index
+        var ari = automatedReadability({
+          sentence: sentenceCount,
+          word: wordCount,
+          character: characterCount
+        })
+
+        // Coleman-Liau Index
+        var cli = colemanLiau({
+          sentence: sentenceCount,
+          word: wordCount,
+          letter: characterCount
+        })
+
+        // Flesch Reading Ease
+        var fre = flesch({
+          sentence: sentenceCount,
+          word: wordCount,
+          syllable: syllableCount
+        })
+
+        // Flesch-Kincaid Grade Level
+        var fkgl = fleschKincaid({
+          sentence: sentenceCount,
+          word: wordCount,
+          syllable: syllableCount
+        })
+
+        // Gunning Fog Index
+        var gfi = gunningFog({
+            sentence: sentenceCount,
+            word: wordCount,
+            complexPolysillabicWord: complexWordCount
+          });
+
+        // SMOG Grade
+        var smog = smogFormula({
+          sentence: sentenceCount,
+          polysillabicWord: complexWordCount
+        });
+
+        // Dale-Chall
+        var dc = daleChallFormula({
+          word: wordCount,
+          sentence: sentenceCount,
+          difficultWord: daleChallComplexWordCount
+        });
+
+        // Läsbarhets Index
+        var lix = (wordCount/periodCount) + (longWordCount*100/wordCount)
+
+        // Linsear Write Formula
+        var lwfSimpleWordCount = 0
+        var lwfComplexWordCount = 0
+
+        for (var i = 0; i < 99; i++) {
+          var word = words[Math.floor(Math.random()*words.length)]
+          if (nlp.term(word).syllables().length >= 3) {
+            lwfComplexWordCount++
+          }
+          else {
+            lwfSimpleWordCount++
+          }
+        }
+
+        var lwf = (lwfSimpleWordCount + 3*lwfComplexWordCount)/sentenceCount
+        if (lwf > 20) {
+          lwf = lwf/2
+        }
+        else {
+          lwf = (lwf-2)/2
+        }
+
+        var readabilityFeatures = {
+          automatedReadabilityIndex: ari,
+          colemanLiauIndex: cli,
+          fleshReadingEase: fre,
+          fleschKincaidGradeLevel: fkgl,
+          gunningFogIndex: gfi,
+          lasbarhetsIndex: lix,
+          smogGrading: smog,
+          linsearWriteFormula: lwf,
+          daleChallReadabilityFormula: dc
+        }
+
+        articleJSON.features.readabilityFeatures = readabilityFeatures
+
+        /////////////////////// READABILITY FEATURES END ///////////////////////
+
+
+
+
+
         // console.log(articleJSON.features.readabilityFeatures);
 
 
