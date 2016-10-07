@@ -68,6 +68,7 @@ const getAutomatedReadabilityIndex = (cb) => {
     word: wordCount,
     character: characterCount
   })
+  cb(null, 'Automated Readability Index')
 }
 
 // Coleman-Liau Index
@@ -77,6 +78,7 @@ const getColemanLiauIndex = (cb) => {
     word: wordCount,
     letter: characterCount
   })
+  cb(null, 'Coleman Liau Index')
 }
 
 // Flesch Reading Ease
@@ -86,6 +88,7 @@ const getFleshReadingEase = (cb) => {
     word: wordCount,
     syllable: syllableCount
   })
+  cb(null, 'Flesh Reading Ease')
 }
 
 // Flesch-Kincaid Grade Level
@@ -95,6 +98,7 @@ const getFleschKincaidGradeLevel = (cb) => {
     word: wordCount,
     syllable: syllableCount
   })
+  cb(null, 'Flesh Kincaid Grade Level')
 }
 
 // Gunning Fog Index
@@ -104,11 +108,13 @@ const getGunningFogIndex = (cb) => {
     word: wordCount,
     complexPolysillabicWord: complexWordCount
   })
+  cb(null, 'Gunning Fog Index')
 }
 
 // Läsbarhets Index
 const getLasbarhetsIndex = (cb) => {
   readabilityFeatures.lasbarhetsIndex = (wordCount/periodCount) + (longWordCount*100/wordCount)
+  cb(null, 'Lasbarhets Index')
 }
 
 // SMOG Grade
@@ -117,6 +123,7 @@ const getSmogGrading = (cb) => {
     sentence: sentenceCount,
     polysillabicWord: complexWordCount
   })
+  cb(null, 'SMOG Grading')
 }
 
 // Linsear Write Formula
@@ -143,6 +150,7 @@ const getLinsearWriteFormula = (cb) => {
     lwf = (lwf-2)/2
   }
   readabilityFeatures.linsearWriteFormula = lwf
+  cb(null, 'Linsear Write Formula')
 }
 
 // Dale-Chall
@@ -152,16 +160,16 @@ const getDaleChallReadabilityFormula = (cb) => {
     sentence: sentenceCount,
     difficultWord: daleChallComplexWordCount
   })
+  cb(null, 'Dale-Chall Readability Formula')
 }
 
-const analyze = (characterCount, wordCount, sentenceCount, syllableCount, words, text, cb) => {
-  characterCount = characterCount
-  wordCount = wordCount
-  sentenceCount = sentenceCount
-  syllableCount = syllableCount
-  words = words
-  text = text
-
+const analyze = (_characterCount, _wordCount, _sentenceCount, _syllableCount, _words, _text, cb) => {
+  characterCount = _characterCount
+  wordCount = _wordCount
+  sentenceCount = _sentenceCount
+  syllableCount = _syllableCount
+  words = _words
+  text = _text
   async.series([
     preprocess,
     (cb) => {

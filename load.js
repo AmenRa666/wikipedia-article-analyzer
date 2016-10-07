@@ -20,6 +20,7 @@ var daleChall = require('dale-chall');
 // Analizers
 var posAnalyzer = require('./analyzers/posAnalyzer.js')
 var trigramAnalyzer = require('./analyzers/trigramAnalyzer.js')
+var readabilityAnalyzer = require('./analyzers/readabilityAnalyzer.js')
 
 
 // Logic
@@ -558,8 +559,6 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
           lwf = (lwf-2)/2
         }
 
-        /////////////////////// READABILITY FEATURES END ///////////////////////
-
         var readabilityFeatures = {
           automatedReadabilityIndex: ari,
           colemanLiauIndex: cli,
@@ -574,7 +573,13 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
 
         articleJSON.features.readabilityFeatures = readabilityFeatures
 
-        console.log(articleJSON.features.readabilityFeatures);
+        /////////////////////// READABILITY FEATURES END ///////////////////////
+
+
+
+
+
+        // console.log(articleJSON.features.readabilityFeatures);
 
 
 
@@ -600,6 +605,23 @@ Array.prototype.max = function() {
 };
 
 
+
+
+
+
+
+
+// readabilityAnalyzer.analyze(
+//   articleJSON.features.lengthFeatures.characterCount,
+//   articleJSON.features.lengthFeatures.wordCount,
+//   articleJSON.features.lengthFeatures.sentenceCount,
+//   articleJSON.features.lengthFeatures.syllableCount,
+//   articleJSON.words,
+//   articleJSON.text,
+//   (result) => {
+//     articleJSON.features.readabilityFeatures = result
+//   }
+// )
 
 
 // POS ANALYZER
