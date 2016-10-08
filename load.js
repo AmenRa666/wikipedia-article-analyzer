@@ -21,6 +21,7 @@ var daleChall = require('dale-chall');
 var posAnalyzer = require('./analyzers/posAnalyzer.js')
 var trigramAnalyzer = require('./analyzers/trigramAnalyzer.js')
 var readabilityAnalyzer = require('./analyzers/readabilityAnalyzer.js')
+var lengthAnalyzer = require('./analyzers/lengthAnalyzer.js')
 
 
 // Logic
@@ -454,10 +455,12 @@ Array.prototype.max = function() {
 
 
 
+// LENGTH ANALYZER
+// lengthAnalyzer.analyze(articleJSON.words, articleJSON.sentences, (result) => {
+//   articleJSON.features.lengthFeatures = result
+// })
 
-
-
-
+// READABILITY ANALYZER
 // readabilityAnalyzer.analyze(
 //   articleJSON.features.lengthFeatures.characterCount,
 //   articleJSON.features.lengthFeatures.wordCount,

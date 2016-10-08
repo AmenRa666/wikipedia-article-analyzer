@@ -52,9 +52,7 @@ var taggedWordsGLOBAL = []
 // read at http://www.comp.leeds.ac.uk/amalgam/tagsets/upenn.html
 // for en extensive explaination
 
-var tags = [
-  'CC', 'CD', 'DT', 'EX', 'FW', 'IN', 'JJ', 'JJR', 'JJS', 'LS', 'MD', 'NN', 'NNS', 'NNP', 'NNPS', 'PDT', 'POS', 'PRP', 'PRP$', 'RB', 'RBR', 'RBS', 'RP', 'SYM', 'TO', 'UH', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ', 'WDT', 'WP', 'WP$', 'WRB',
-]
+var tags = ['CC', 'CD', 'DT', 'EX', 'FW', 'IN', 'JJ', 'JJR', 'JJS', 'LS', 'MD', 'NN', 'NNS', 'NNP', 'NNPS', 'PDT', 'POS', 'PRP', 'PRP$', 'RB', 'RBR', 'RBS', 'RP', 'SYM', 'TO', 'UH', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ', 'WDT', 'WP', 'WP$', 'WRB']
 
 // CC conjunction, coordinating
 var coordinatingConjunctionTag = 'CC'
@@ -361,8 +359,7 @@ const analyze = (text, cb) => {
         getPosTrigrams
       ], cb )
     }
-  ],
-  (err, result) => {
+  ], (err, result) => {
     cb(resultObj)
   }
   )

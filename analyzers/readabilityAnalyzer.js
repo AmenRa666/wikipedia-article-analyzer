@@ -185,12 +185,10 @@ const analyze = (_characterCount, _wordCount, _sentenceCount, _syllableCount, _w
         getDaleChallReadabilityFormula
       ], cb )
     }
-  ],
-  (err, result) => {
+  ], (err, result) => {
     cb(readabilityFeatures)
   }
   )
-
 }
 
 // EXPORTS
