@@ -22,6 +22,7 @@ var posAnalyzer = require('./analyzers/posAnalyzer.js')
 var trigramAnalyzer = require('./analyzers/trigramAnalyzer.js')
 var readabilityAnalyzer = require('./analyzers/readabilityAnalyzer.js')
 var lengthAnalyzer = require('./analyzers/lengthAnalyzer.js')
+var structureAnalyzer = require('./analyzers/structureAnalyzer.js')
 
 
 // Logic
@@ -113,6 +114,7 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
           onlyLettersAndNumbersText: '',
           words: [],
           sections: [],
+          subsectionIndexes: [],
           sentences: [],
           features: {
             lengthFeatures: {},
@@ -131,6 +133,7 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
             textWithSectionTitles = textWithSectionTitles.replace(subsectionTitle + '.', '')
           }
         })
+        articleJSON.subsectionIndexes = subsectionIndexes
 
         // Initialized with element 0 because it's the index of the abstract
         var sectionIndexes = [0]
@@ -231,118 +234,6 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
         }
 
         articleJSON.features.lengthFeatures = lengthFeatures
-
-        ////////////////////////////////////////////////////////////////////////
-        ////////////////////////// STRUCTURE FEATURES //////////////////////////
-        ////////////////////////////////////////////////////////////////////////
-
-        // Section count (abstract included)
-        var sectionCount = articleJSON.sections.length
-
-        // Subsection count
-        var subsectionCount = subsectionIndexes.length
-
-        // Paragraph count
-        var paragraphCount = 0
-        articleJSON.sections.forEach((section) => {
-          paragraphCount = paragraphCount + section.split('.\n').length
-        })
-
-        // Mean section size (in characters (letters and numbers))
-        var meanSectionSize = articleJSON.features.lengthFeatures.characterCount/sectionCount
-
-        // Mean paragraph count (in words)
-        var meanParagraphSize = articleJSON.features.lengthFeatures.wordCount/paragraphCount
-
-        // Section sizes
-        var sectionSizes = []
-        articleJSON.sections.forEach((section) => {
-          // Expand contractions
-          var expandedSectionText = nlp.text(section).contractions.expand().text()
-          // Normalize text (remove all punctation, except for dots, and 'new line')
-          var normalizedSectionText = nlp.text(expandedSectionText).normal();
-          // Remove dots, question marks, exclamation marks and brackets
-          var noPointsSectionText = normalizedSectionText.replace(/[\.|?|!|{|}|\[|\]]/g, '')
-          var sectionSize = noPointsSectionText.replace(/ /g, '').length
-          sectionSizes.push(sectionSize)
-        })
-
-        // Size of the largest section (in characters (letters and numbers))
-        var largestSectionSize = sectionSizes.max()
-
-        // Size of the shortest section (in characters (letters and numbers))
-        var shortestSectionSize = sectionSizes.min()
-
-        // Largest-Shortest section ratio
-        var largestShortestSectionRatio = largestSectionSize/shortestSectionSize
-
-        // Standard deviation of the section size
-        var sectionSizeStandardDeviation = math.std(sectionSizes)
-
-        // Mean of subsections per section
-        var meanOfSubsectionsPerSection = subsectionCount/sectionCount
-
-        // Abstract size (in characters (letters and numbers))
-        var abstractSize = sectionSizes[0]
-
-        // Abstract size-ArtcileLength ratio
-        var abstractSizeArtcileLengthRatio = abstractSize/articleJSON.features.lengthFeatures.characterCount
-
-        // Citation count
-        var citationsRegex = /<ref|&lt;ref|{{sfn\|/g
-        var citationCount = (articleJSON.textFromXML.toLowerCase().match(citationsRegex) || []).length
-
-        // Citation count per text length (number of sentences)
-        var citationCountPerTextLength = citationCount/articleJSON.features.lengthFeatures.sentenceCount
-
-        // Citation count per section
-        var citationCountPerSection = citationCount/sectionCount
-
-        // External links count
-        var webURLRegex = /\|url=|\| url=|url =| url =|\[http/g
-        var externalLinksCount = (articleJSON.textFromXML.toLowerCase().match(webURLRegex) || []).length
-
-        // External links per text length (number of sentences)
-        var externalLinksPerTextLength = externalLinksCount/articleJSON.features.lengthFeatures.sentenceCount
-
-        // External links per text length (number of sentences)
-        var externalLinksPerSection = externalLinksCount/sectionCount
-
-        // Image count (It's not perfect because of Wikipedia syntax)
-        var imageRegex = /\[\[file:|\[\[image:/g
-        var imageCount = (articleJSON.textFromXML.toLowerCase().match(imageRegex) || []).length
-
-        // Image per text length (number of sentence)
-        var imagePerTextLength = imageCount/articleJSON.features.lengthFeatures.sentenceCount
-
-        // Image per section
-        var imagePerSection = imageCount/sectionCount
-
-        var structureFeatures = {
-          sectionCount: sectionCount,
-          subsectionCount: subsectionCount,
-          paragraphCount: paragraphCount,
-          meanSectionSize: meanSectionSize,
-          meanParagraphSize: meanParagraphSize,
-          largestSectionSize: largestSectionSize,
-          shortestSectionSize:shortestSectionSize,
-          largestShortestSectionRatio: largestShortestSectionRatio,
-          sectionSizeStandardDeviation: sectionSizeStandardDeviation,
-          meanOfSubsectionsPerSection: meanOfSubsectionsPerSection,
-          abstractSize: abstractSize,
-          abstractSizeArtcileLengthRatio: abstractSizeArtcileLengthRatio,
-          citationCount: citationCount,
-          citationCountPerTextLength: citationCountPerTextLength,
-          citationCountPerSection: citationCountPerSection,
-          externalLinksCount: externalLinksCount,
-          externalLinksPerTextLength: externalLinksPerTextLength,
-          externalLinksPerSection: externalLinksPerSection,
-          imageCount: imageCount,
-          imagePerTextLength: imagePerTextLength,
-          imagePerSection: imagePerSection
-        }
-
-        articleJSON.features.structureFeatures = structureFeatures
 
         ////////////////////////////////////////////////////////////////////////
         //////////////////////////// STYLE FEATURES ////////////////////////////
@@ -459,6 +350,19 @@ Array.prototype.max = function() {
 // lengthAnalyzer.analyze(articleJSON.words, articleJSON.sentences, (result) => {
 //   articleJSON.features.lengthFeatures = result
 // })
+
+// STRUCTURE ANALYZER
+// structureAnalyzer.analyze(
+//   articleJSON.sections,
+//   articleJSON.subsectionIndexes,
+//   articleJSON.features.lengthFeatures.characterCount,
+//   articleJSON.features.lengthFeatures.wordCount,
+//   articleJSON.features.lengthFeatures.sentenceCount,
+//   articleJSON.textFromXML,
+//   (result) => {
+//     articleJSON.features.structureFeatures = result
+//   }
+// )
 
 // READABILITY ANALYZER
 // readabilityAnalyzer.analyze(
