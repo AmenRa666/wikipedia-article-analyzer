@@ -2,10 +2,15 @@
 var Tagger = require("node-stanford-postagger/postagger").Tagger
 var _ = require('underscore')
 var async = require('async')
+var nlp = require('nlp_compromise')
+nlp.plugin(require('nlp-syllables'))
 
 
 // LOGIC
 var lexicalFeatures = {
+  differentWordCount: 0,
+  differentWordsPerSentence: 0,
+  differentWordsRate: 0,
   nounCount: 0,
   nounsPerSentence: 0,
   nounsRate: 0,
@@ -35,16 +40,37 @@ var lexicalFeatures = {
   adverbsRate: 0,
   differentAdverbCount: 0,
   differentAdverbsPerSentence: 0,
-  differentAdverbsRate: 0
+  differentAdverbsRate: 0,
+  syllablesPerWord: 0,
+  charactersPerWord: 0
 }
 
+var words = []
 var nouns = []
 var verbs = []
 var pronouns = []
 var adjectives = []
 var adverbs = []
-var sentenceCount = 0
+var words = []
+var characterCount = 0
 var wordCount = 0
+var syllableCount = 0
+var sentenceCount = 0
+
+const differentWordCount = (cb) => {
+  lexicalFeatures.differentWordCount = _.uniq(words).length
+  cb(null, 'Count Words')
+}
+
+const differentWordsPerSentence = (cb) => {
+  lexicalFeatures.differentWordsPerSentence = lexicalFeatures.differentWordCount/sentenceCount
+  cb(null, 'Get Different Words Per Sentence')
+}
+
+const differentWordsRate = (cb) => {
+  lexicalFeatures.differentWordsRate = lexicalFeatures.differentWordCount/wordCount
+  cb(null, 'Get Different Words Rate')
+}
 
 const countNouns = (cb) => {
   lexicalFeatures.nounCount = nouns.length
@@ -196,9 +222,25 @@ const getDifferentAdverbsRate = (cb) => {
   cb(null, 'Get Different Adverbs Rate')
 }
 
+const getSyllablesPerWord = (cb) => {
+  lexicalFeatures.syllablesPerWord = syllableCount/wordCount
+  cb(null, 'Get Syllables Per Word')
+}
+
+const getCharactersPerWord = (cb) => {
+  lexicalFeatures.charactersPerWord = characterCount/wordCount
+  cb(null, 'Get Characters Per Word')
+}
+
 /////////////////////////////////// ANALYZE ///////////////////////////////////
 
-const analyze = (pos, _sentenceCount, _wordCount, cb) => {
+const analyze = (pos, _words, _characterCount, _wordCount, _syllableCount, _sentenceCount, cb) => {
+  words = _words
+  characterCount = _characterCount
+  wordCount = _wordCount
+  syllableCount = _syllableCount
+  sentenceCount = _sentenceCount
+
   // All type of nouns together (no proper nouns)
   nouns = pos.singolarCommonNounsAndMasses.concat(pos.pluralCommonNouns)
 
@@ -214,10 +256,22 @@ const analyze = (pos, _sentenceCount, _wordCount, cb) => {
   // All type of adverbs together
   adverbs = pos.adverbs.concat(pos.comparativeAdverbs, pos.superlativeAdverbs)
 
-  sentenceCount = _sentenceCount
-  wordCount = _wordCount
-
   async.parallel([
+    getSyllablesPerWord,
+    getCharactersPerWord,
+
+    (cb) => {
+      async.series([
+        differentWordCount,
+        (cb) => {
+          async.parallel([
+            differentWordsPerSentence,
+            differentWordsRate
+          ], cb )
+        }
+      ], cb)
+    },
+
     (cb) => {
       async.series([
         countNouns,

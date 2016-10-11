@@ -328,16 +328,19 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
 
 
 
-        // posTagger.tag(articleJSON.plainText, (pos) => {
-        //   lexicalAnalyzer.analyze(
-        //     pos,
-        //     articleJSON.features.lengthFeatures.sentenceCount,
-        //     articleJSON.features.lengthFeatures.wordCount,
-        //     (lexicalFeatures) => {
-        //     console.log(lexicalFeatures);
-        //     }
-        //   )
-        // })
+        posTagger.tag(articleJSON.plainText, (pos) => {
+          lexicalAnalyzer.analyze(
+            pos,
+            articleJSON.words,
+            articleJSON.features.lengthFeatures.characterCount,
+            articleJSON.features.lengthFeatures.wordCount,
+            articleJSON.features.lengthFeatures.syllableCount,
+            articleJSON.features.lengthFeatures.sentenceCount,
+            (lexicalFeatures) => {
+            console.log(lexicalFeatures);
+            }
+          )
+        })
 
 
         // posTagger.tag(articleJSON.plainText, (pos) => {
