@@ -17,12 +17,15 @@ var gunningFog = require('gunning-fog')
 var smogFormula = require('smog-formula');
 var daleChallFormula = require('dale-chall-formula')
 var daleChall = require('dale-chall');
+// POS Tagger
+var posTagger = require('./posTagger.js')
 // Analizers
 var posAnalyzer = require('./analyzers/posAnalyzer.js')
 var trigramAnalyzer = require('./analyzers/trigramAnalyzer.js')
 var readabilityAnalyzer = require('./analyzers/readabilityAnalyzer.js')
 var lengthAnalyzer = require('./analyzers/lengthAnalyzer.js')
 var structureAnalyzer = require('./analyzers/structureAnalyzer.js')
+var lexicalAnalyzer = require('./analyzers/lexicalAnalyzer.js')
 
 
 // Logic
@@ -188,7 +191,7 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
         articleJSON.sentences = sentences
 
         // Expand contractions
-        var expandedText = nlp.text(text).contractions.expand().text()
+        var expandedText = nlp.text(text.toLowerCase()).contractions.expand().text()
 
         // Normalize text (remove all punctation, except for dots, and 'new line')
         var normalizedText = nlp.text(expandedText).normal();
@@ -243,12 +246,21 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
         var largestSentenceSize = 0
         articleJSON.sentences.forEach((sentence) => {
           // Expand contractions (i'll -> i will)
-          var expandedSentence = sentence.contractions.expand().text()
+          var expandedSentence = nlp.text(sentence.str.toLowerCase()).contractions.expand().text()
           var sentenceLengthInWords = expandedSentence.split(' ').length
           if (sentenceLengthInWords > largestSentenceSize) {
             largestSentenceSize = sentenceLengthInWords
           }
         })
+
+
+
+
+
+
+
+
+
 
         // Mean sentence size (in words)
         var meanSentenceSize = articleJSON.features.lengthFeatures.wordCount/articleJSON.features.lengthFeatures.sentenceCount
@@ -257,7 +269,7 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
         var largeSentenceCount = 0
         articleJSON.sentences.forEach((sentence) => {
           // Expand contractions (i'll -> i will)
-          var expandedSentence = sentence.contractions.expand().text()
+          var expandedSentence = nlp.text(sentence.str.toLowerCase()).contractions.expand().text()
           var sentenceLengthInWords = expandedSentence.split(' ').length
           if (sentenceLengthInWords > meanSentenceSize + 10) {
             largeSentenceCount++
@@ -267,9 +279,9 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
 
         // Short sentence rate
         var shortSentenceCount = 0
-        sentences.forEach((sentence) => {
+        articleJSON.sentences.forEach((sentence) => {
           // Expand contractions (i'll -> i will)
-          var expandedSentence = sentence.contractions.expand().text()
+          var expandedSentence = nlp.text(sentence.str.toLowerCase()).contractions.expand().text()
           var sentenceLengthInWords = expandedSentence.split(' ').length
           if (sentenceLengthInWords < meanSentenceSize - 5) {
             shortSentenceCount++
@@ -312,6 +324,27 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
 
 
 
+
+
+
+
+        // posTagger.tag(articleJSON.plainText, (pos) => {
+        //   lexicalAnalyzer.analyze(
+        //     pos,
+        //     articleJSON.features.lengthFeatures.sentenceCount,
+        //     articleJSON.features.lengthFeatures.wordCount,
+        //     (lexicalFeatures) => {
+        //     console.log(lexicalFeatures);
+        //     }
+        //   )
+        // })
+
+
+        // posTagger.tag(articleJSON.plainText, (pos) => {
+        //   posAnalyzer.getPosTrigrams(pos.taggedWords, (posTrigrams) => {
+        //     console.log(posTrigrams);
+        //   })
+        // })
 
 
 

@@ -19,13 +19,13 @@ var structureFeatures = {
   abstractSize: 0,
   abstractSizeArtcileLengthRatio: 0,
   citationCount: 0,
-  citationCountPerTextLength: 0,
+  citationCountPerSentence: 0,
   citationCountPerSection: 0,
   externalLinksCount: 0,
-  externalLinksPerTextLength: 0,
+  externalLinksPerSentence: 0,
   externalLinksPerSection: 0,
   imageCount: 0,
-  imagePerTextLength: 0,
+  imagePerSentence: 0,
   imagePerSection: 0
 }
 
@@ -122,8 +122,8 @@ const countCitations = (cb) => {
   cb(null, 'Count Citations')
 }
 
-const getCitationCountPerTextLength = (cb) => {
-  structureFeatures.citationCountPerTextLength = structureFeatures.citationCount/sentenceCount
+const getCitationCountPerSentence = (cb) => {
+  structureFeatures.citationCountPerSentence = structureFeatures.citationCount/sentenceCount
   cb(null, 'Get Citation Count Per Text Length')
 }
 
@@ -138,8 +138,8 @@ const countExternalLinks = (cb) => {
   cb(null, 'Count External Links')
 }
 
-const getExternalLinksPerTextLength = (cb) => {
-  structureFeatures.externalLinksPerTextLength = structureFeatures.externalLinksCount/sentenceCount
+const getExternalLinksPerSentence = (cb) => {
+  structureFeatures.externalLinksPerSentence = structureFeatures.externalLinksCount/sentenceCount
   cb(null, 'Get External Links Per Text Length')
 }
 
@@ -154,8 +154,8 @@ const countImages = (cb) => {
   cb(null, 'Count Images')
 }
 
-const getImagesPerTextLength = (cb) => {
-  imagePerTextLength = structureFeatures.imageCount/sentenceCount
+const getImagesPerSentence = (cb) => {
+  imagePerSentence = structureFeatures.imageCount/sentenceCount
   cb(null, 'Get Images Per Text Length')
 }
 
@@ -222,7 +222,7 @@ const analyze = (_sections, _subsectionIndexes, _characterCount, _wordCount, _se
       countCitations,
       (cb) => {
         async.parallel([
-          getCitationCountPerTextLength,
+          getCitationCountPerSentence,
           getCitationCountPerSection
         ], cb )
       }
@@ -233,7 +233,7 @@ const analyze = (_sections, _subsectionIndexes, _characterCount, _wordCount, _se
       countExternalLinks,
       (cb) => {
         async.parallel([
-          getExternalLinksPerTextLength,
+          getExternalLinksPerSentence,
           getExternalLinksPerSection
         ], cb )
       }
@@ -244,7 +244,7 @@ const analyze = (_sections, _subsectionIndexes, _characterCount, _wordCount, _se
       countImages,
       (cb) => {
         async.parallel([
-          getImagesPerTextLength,
+          getImagesPerSentence,
           getImagesLinksPerSection
         ], cb )
       }
