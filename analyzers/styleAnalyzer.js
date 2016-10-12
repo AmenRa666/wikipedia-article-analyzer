@@ -4,18 +4,27 @@ var nlp = require('nlp_compromise')
 
 
 // LOGIC
-
 var styleFeatures = {
-  largestSentenceSize: 0,
   meanSentenceSize: 0,
+  largestSentenceSize: 0,
+  shortestSentenceSize: 0,
   largeSentenceRate: 0,
   shortSentenceCount: 0
+  questionCount: 0,
+  questionRatio: 0,
+  exclamationCount: 0,
+  exclamationRatio: 0
 }
 
 
 var sentences = []
 var wordCount = 0,
 var sentenceCount = 0
+
+const getMeanSentenceSize = (cb) => {
+  styleFeatures.meanSentenceSize = wordCount/sentenceCount
+  cb(null, 'Get Mean Sentence Size')
+}
 
 const getLargestSentenceSize = (cb) => {
   var largestSentenceSize = 0
@@ -26,13 +35,21 @@ const getLargestSentenceSize = (cb) => {
     if (sentenceLengthInWords > largestSentenceSize) {
       largestSentenceSize = sentenceLengthInWords
     }
-    styleFeatures.largestSentenceSize = styleFeatures
+    styleFeatures.largestSentenceSize = largestSentenceSize
   cb(null, 'Get Largest Sentence Size')
 }
 
-const getMeanSentenceSize = (cb) => {
-  styleFeatures.meanSentenceSize = wordCount/sentenceCount
-  cb(null, 'Get Mean Sentence Size')
+const getShortestSentenceSize = (cb) => {
+  var shortestSentenceSize = 0
+  sentences.forEach((sentence) => {
+    // Expand contractions (i'll -> i will)
+    var expandedSentence = sentence.contractions.expand().text()
+    var sentenceLengthInWords = expandedSentence.split(' ').length
+    if (sentenceLengthInWords < shortestSentenceSize) {
+      shortestSentenceSize = sentenceLengthInWords
+    }
+    styleFeatures.shortestSentenceSize = shortestSentenceSize
+  cb(null, 'Get Shortest Sentence Size')
 }
 
 const getLargeSentenceRate = (cb) => {

@@ -41,6 +41,18 @@ var lexicalFeatures = {
   differentAdverbCount: 0,
   differentAdverbsPerSentence: 0,
   differentAdverbsRate: 0,
+  coordinatingConjunctionCount: 0,
+  coordinatingConjunctionsPerSentence: 0,
+  coordinatingConjunctionsRate: 0,
+  differentCoordinatingConjunctionCount: 0,
+  differentCoordinatingConjunctionsPerSentence: 0,
+  differentCoordinatingConjunctionsRate: 0,
+  subordinatingPrepositionAndConjunctionCount: 0,
+  subordinatingPrepositionsAndConjunctionsPerSentence: 0,
+  subordinatingPrepositionsAndConjunctionsRate: 0,
+  differentSubordinatingPrepositionAndConjunctionCount: 0,
+  differentSubordinatingPrepositionsAndConjunctionsPerSentence: 0,
+  differentSubordinatingPrepositionsAndConjunctionsRate: 0,
   syllablesPerWord: 0,
   charactersPerWord: 0
 }
@@ -51,6 +63,8 @@ var verbs = []
 var pronouns = []
 var adjectives = []
 var adverbs = []
+var coordinatingConjunctions = []
+var subordinatingPrepositionsAndConjunctions = []
 var words = []
 var characterCount = 0
 var wordCount = 0
@@ -222,6 +236,79 @@ const getDifferentAdverbsRate = (cb) => {
   cb(null, 'Get Different Adverbs Rate')
 }
 
+const countCoordinatingConjunctions = (cb) => {
+  lexicalFeatures.coordinatingConjunctionCount = coordinatingConjunctions.length
+  cb(null, 'Count Coordinating Conjunctions')
+}
+
+const getCoordinatingConjunctionsPerSentence = (cb) => {
+  lexicalFeatures.coordinatingConjunctionsPerSentence = lexicalFeatures.coordinatingConjunctionCount/sentenceCount
+  cb(null, 'Get Coordinating Conjunctions Per Sentence')
+}
+
+const getCoordinatingConjunctionsRate = (cb) => {
+  lexicalFeatures.coordinatingConjunctionsRate = lexicalFeatures.coordinatingConjunctionCount/wordCount
+  cb(null, 'Get Coordinating Conjunctions Rate')
+}
+
+const countDifferentCoordinatingConjunctions = (cb) => {
+  lexicalFeatures.differentCoordinatingConjunctionCount = _.uniq(coordinatingConjunctions).length
+  cb(null, 'Count Different Coordinating Conjunctions')
+}
+
+const getDifferentCoordinatingConjunctionsPerSentence = (cb) => {
+  lexicalFeatures.differentCoordinatingConjunctionsPerSentence = lexicalFeatures.differentCoordinatingConjunctionCount/sentenceCount
+  cb(null, 'Get Different Coordinating Conjunctions Per Sentence')
+}
+
+const getDifferentCoordinatingConjunctionsRate = (cb) => {
+  lexicalFeatures.differentCoordinatingConjunctionsRate = lexicalFeatures.differentCoordinatingConjunctionCount/wordCount
+  cb(null, 'Get Different Coordinating Conjunctions Rate')
+}
+
+
+
+
+const countSubordinatingPrepositionsAndConjunctions = (cb) => {
+  console.log(subordinatingPrepositionsAndConjunctions);
+  lexicalFeatures.subordinatingPrepositionAndConjunctionCount = subordinatingPrepositionsAndConjunctions.length
+  cb(null, 'Count Subordinating Prepositions And Conjunctions')
+}
+
+const getSubordinatingPrepositionsAndConjunctionsPerSentence = (cb) => {
+  lexicalFeatures.subordinatingPrepositionsAndConjunctionsPerSentence = lexicalFeatures.subordinatingPrepositionAndConjunctionCount/sentenceCount
+  cb(null, 'Get Subordinating Prepositions And Conjunctions Per Sentence')
+}
+
+const getSubordinatingPrepositionsAndConjunctionsRate = (cb) => {
+  lexicalFeatures.subordinatingPrepositionsAndConjunctionsRate = lexicalFeatures.subordinatingPrepositionAndConjunctionCount/wordCount
+  cb(null, 'Get Subordinating Prepositions And Conjunctions Rate')
+}
+
+const countDifferentSubordinatingPrepositionsAndConjunctions = (cb) => {
+  lexicalFeatures.differentSubordinatingPrepositionAndConjunctionCount = _.uniq(subordinatingPrepositionsAndConjunctions).length
+  cb(null, 'Count Different Subordinating Prepositions And Conjunctions')
+}
+
+const getDifferentSubordinatingPrepositionsAndConjunctionsPerSentence = (cb) => {
+  lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsPerSentence = lexicalFeatures.differentSubordinatingPrepositionAndConjunctionCount/sentenceCount
+  cb(null, 'Get Different Subordinating Prepositions And Conjunctions Per Sentence')
+}
+
+const getDifferentSubordinatingPrepositionsAndConjunctionsRate = (cb) => {
+  lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsRate = lexicalFeatures.differentSubordinatingPrepositionAndConjunctionCount/wordCount
+  cb(null, 'Get Different Subordinating Prepositions And Conjunctions Rate')
+}
+
+
+
+
+
+
+
+
+
+
 const getSyllablesPerWord = (cb) => {
   lexicalFeatures.syllablesPerWord = syllableCount/wordCount
   cb(null, 'Get Syllables Per Word')
@@ -255,6 +342,10 @@ const analyze = (pos, _words, _characterCount, _wordCount, _syllableCount, _sent
 
   // All type of adverbs together
   adverbs = pos.adverbs.concat(pos.comparativeAdverbs, pos.superlativeAdverbs)
+
+  coordinatingConjunctions = pos.coordinatingConjunctions
+
+  subordinatingPrepositionsAndConjunctions = pos.subordinatingPrepositionsAndConjunctions
 
   async.parallel([
     getSyllablesPerWord,
@@ -387,6 +478,54 @@ const analyze = (pos, _words, _characterCount, _wordCount, _syllableCount, _sent
           async.parallel([
             getDifferentAdverbsPerSentence,
             getDifferentAdverbsRate
+          ], cb )
+        }
+      ], cb)
+    },
+
+    (cb) => {
+      async.series([
+        countCoordinatingConjunctions,
+        (cb) => {
+          async.parallel([
+            getCoordinatingConjunctionsPerSentence,
+            getCoordinatingConjunctionsRate
+          ], cb )
+        }
+      ], cb)
+    },
+
+    (cb) => {
+      async.series([
+        countDifferentCoordinatingConjunctions,
+        (cb) => {
+          async.parallel([
+            getDifferentCoordinatingConjunctionsPerSentence,
+            getDifferentCoordinatingConjunctionsRate
+          ], cb )
+        }
+      ], cb)
+    },
+
+    (cb) => {
+      async.series([
+        countSubordinatingPrepositionsAndConjunctions,
+        (cb) => {
+          async.parallel([
+            getSubordinatingPrepositionsAndConjunctionsPerSentence,
+            getSubordinatingPrepositionsAndConjunctionsRate
+          ], cb )
+        }
+      ], cb)
+    },
+
+    (cb) => {
+      async.series([
+        countDifferentSubordinatingPrepositionsAndConjunctions,
+        (cb) => {
+          async.parallel([
+            getDifferentSubordinatingPrepositionsAndConjunctionsPerSentence,
+            getDifferentSubordinatingPrepositionsAndConjunctionsRate
           ], cb )
         }
       ], cb)

@@ -1,4 +1,4 @@
-// Modules
+// MODULES
 var PythonShell = require('python-shell');
 var fs = require('fs')
 var xml2js = require('xml2js')
@@ -28,7 +28,7 @@ var structureAnalyzer = require('./analyzers/structureAnalyzer.js')
 var lexicalAnalyzer = require('./analyzers/lexicalAnalyzer.js')
 
 
-// Logic
+// LOGIC
 var xmlFilename = process.argv[2]
 var parser = new xml2js.Parser()
 var wordpos = new WordPOS()
@@ -320,6 +320,9 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
         }
 
         articleJSON.features.styleFeatures = styleFeatures
+
+
+
 
 
 

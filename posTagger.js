@@ -18,7 +18,7 @@ var pos = {
   determiners: [],
   existentialTheres: [],
   foreignWords: [],
-  subordinatingPrepositionAndConjunctions: [],
+  subordinatingPrepositionsAndConjunctions: [],
   ordinalAdjectivesAndNumerals: [],
   comparativeAdjectives: [],
   superlativeAdjectives: [],
@@ -77,7 +77,7 @@ var existentialThereTag = 'EX'
 var foreignWordTag = 'FW'
 
 // IN preposition or conjunction, subordinating
-var subordinatingPrepositionAndConjunctionCTag = 'IN'
+var subordinatingPrepositionsAndConjunctionsTag = 'IN'
 
 // JJ adjective or numeral, ordinal
 var ordinalAdjectiveAndNumeralTag = 'JJ'
@@ -202,7 +202,7 @@ const tag = (text, cb) => {
     pos.determiners = _.pluck(taggedWordsGroupedByTag[determinerTag], 'word') || []
     pos.existentialTheres = _.pluck(taggedWordsGroupedByTag[existentialThereTag], 'word') || []
     pos.foreignWords = _.pluck(taggedWordsGroupedByTag[foreignWordTag], 'word') || []
-    pos.subordinatingPrepositionAndConjunctions = _.pluck(taggedWordsGroupedByTag[subordinatingPrepositionAndConjunctionCTag], 'word') || []
+    pos.subordinatingPrepositionsAndConjunctions = _.pluck(taggedWordsGroupedByTag[subordinatingPrepositionsAndConjunctionsTag], 'word') || []
     pos.ordinalAdjectivesAndNumerals = _.pluck(taggedWordsGroupedByTag[ordinalAdjectiveAndNumeralTag], 'word') || []
     pos.comparativeAdjectives = _.pluck(taggedWordsGroupedByTag[superlativeAdjectiveTag], 'word') || []
     pos.superlativeAdjectives = _.pluck(taggedWordsGroupedByTag[superlativeAdjectiveTag], 'word') || []

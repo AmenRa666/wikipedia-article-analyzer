@@ -117,6 +117,35 @@ const getAbstractSizeArtcileLengthRatio = (cb) => {
 }
 
 const countCitations = (cb) => {
+
+  ////////////////////////////// PROVA UNIQUE REF //////////////////////////////
+
+  // var citationCountText = textFromXML.replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/<ref/g, '\n\n<ref').replace(/\/>/g, '/>\n\n').replace(/\/ref>/g, '/ref>\n\n').replace(/ /g, '')
+  //
+  // // console.log(citationCountText);
+  //
+  // // var citationsRegex = /<ref|&lt;ref|{{sfn\|/g
+  //
+  // // var citationsRegex = /<ref.*\/>|<ref.*\/ref>/g
+  // var citationsRegex = /<ref.*\/ref>/g
+  // // var citationsRegex = /<ref.*\/>/g
+  //
+  // // var citationsRegex = /&lt;ref.*ref&gt;|{{sfn.*}}|<ref.*ref>|<ref.*\/>/g
+  //
+  // // var citationsRegex = /&lt;ref.*ref&gt;/g
+  // structureFeatures.citationCount = (citationCountText.toLowerCase().match(citationsRegex) || []).length
+  //
+  // // console.log(textFromXML);
+  //
+  //
+  //
+  //
+  // console.log(structureFeatures.citationCount);
+  // console.log(_.uniq(citationCountText.toLowerCase().match(citationsRegex)).length);
+  // console.log(citationCountText.toLowerCase().match(citationsRegex));
+
+  //////////////////////////////////////////////////////////////////////////////
+
   var citationsRegex = /<ref|&lt;ref|{{sfn\|/g
   structureFeatures.citationCount = (textFromXML.toLowerCase().match(citationsRegex) || []).length
   cb(null, 'Count Citations')
