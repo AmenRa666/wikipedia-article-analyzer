@@ -9,16 +9,22 @@ var styleFeatures = {
   largestSentenceSize: 0,
   shortestSentenceSize: 0,
   largeSentenceRate: 0,
-  shortSentenceCount: 0
+  shortSentenceRate: 0,
   questionCount: 0,
   questionRatio: 0,
   exclamationCount: 0,
-  exclamationRatio: 0
+  exclamationRatio: 0,
+  toBeVerbCount: 0,
+  toBeVerbRatio: 0,
+  toBeVerbPerSentence: 0,
+  toBeVerbRate: 0
 }
 
-
+var pos = []
+var verbs = []
+var words = []
 var sentences = []
-var wordCount = 0,
+var wordCount = 0
 var sentenceCount = 0
 
 const getMeanSentenceSize = (cb) => {
@@ -35,12 +41,13 @@ const getLargestSentenceSize = (cb) => {
     if (sentenceLengthInWords > largestSentenceSize) {
       largestSentenceSize = sentenceLengthInWords
     }
-    styleFeatures.largestSentenceSize = largestSentenceSize
+  })
+  styleFeatures.largestSentenceSize = largestSentenceSize
   cb(null, 'Get Largest Sentence Size')
 }
 
 const getShortestSentenceSize = (cb) => {
-  var shortestSentenceSize = 0
+  var shortestSentenceSize = sentences[0].str.length
   sentences.forEach((sentence) => {
     // Expand contractions (i'll -> i will)
     var expandedSentence = sentence.contractions.expand().text()
@@ -48,7 +55,8 @@ const getShortestSentenceSize = (cb) => {
     if (sentenceLengthInWords < shortestSentenceSize) {
       shortestSentenceSize = sentenceLengthInWords
     }
-    styleFeatures.shortestSentenceSize = shortestSentenceSize
+  })
+  styleFeatures.shortestSentenceSize = shortestSentenceSize
   cb(null, 'Get Shortest Sentence Size')
 }
 
@@ -112,7 +120,64 @@ const getExclamationRatio = (cb) => {
   cb(null, 'Get Exclamation Ratio')
 }
 
-const analyze = (_sentences, _wordCount, _sentenceCount, cb) => {
+const countToBeVerb = (cb) => {
+  var count = 0
+  words.forEach((word) => {
+    if (word == 'am' || word == 'are' || word == 'is' || word == 'was' || word == 'were' || word == 'been' || word == 'being') {
+      count++
+    }
+  })
+  styleFeatures.toBeVerbCount = count
+  styleFeatures.toBeVerbRatio = count/verbs.length
+  styleFeatures.toBeVerbPerSentence = count/sentenceCount
+  styleFeatures.toBeVerbRate = count/wordCount
+  cb(null, 'Count To Be Verb')
+}
+
+const analyze = (_pos, _words, _sentences, _wordCount, _sentenceCount, cb) => {
+  pos = _pos
+  words = _words
+  sentences = _sentences
+  wordCount = _wordCount
+  sentenceCount = _sentenceCount
+  // All type of verbs together
+  verbs = pos.modalAuxiliaries.concat(pos.pastTenseVerbs, pos.presentParticipleAndGerundVerbs, pos.pastParticipleVerbs, pos.notThirdPersonSingularPresentTenseVerbs, pos.thirdPersonSingularPresentTenseVerbs)
+
+  async.parallel([
+    (cb) => {
+      async.series([
+        getMeanSentenceSize,
+        (cb) => {
+          async.parallel([
+            getLargeSentenceRate,
+            getShortSentenceRate
+          ], cb)
+        }
+      ], cb)
+    },
+
+    getLargestSentenceSize,
+    getShortestSentenceSize,
+
+    (cb) => {
+      async.series([
+        countQuestions,
+        getQuestionRatio
+      ], cb)
+    },
+
+    (cb) => {
+      async.series([
+        countExclamations,
+        getExclamationRatio
+      ], cb)
+    },
+
+    countToBeVerb
+
+  ], (err, result) => {
+    cb(styleFeatures)
+  })
 
 }
 

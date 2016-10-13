@@ -341,7 +341,7 @@ const analyze = (pos, _words, _characterCount, _wordCount, _syllableCount, _sent
   adjectives = pos.ordinalAdjectivesAndNumerals.concat(pos.comparativeAdjectives, pos.superlativeAdjectives)
 
   // All type of adverbs together
-  adverbs = pos.adverbs.concat(pos.comparativeAdverbs, pos.superlativeAdverbs)
+  adverbs = pos.adverbs.concat(pos.comparativeAdverbs, pos.superlativeAdverbs, pos.whAdverbTag)
 
   coordinatingConjunctions = pos.coordinatingConjunctions
 

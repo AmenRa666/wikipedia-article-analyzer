@@ -8,6 +8,7 @@ var WordPOS = require('wordpos')
 var math = require('mathjs')
 var natural = require('natural')
 var _ = require('underscore')
+var async = require('async')
 // Readability Modules
 var automatedReadability = require('automated-readability')
 var colemanLiau = require('coleman-liau')
@@ -26,6 +27,7 @@ var readabilityAnalyzer = require('./analyzers/readabilityAnalyzer.js')
 var lengthAnalyzer = require('./analyzers/lengthAnalyzer.js')
 var structureAnalyzer = require('./analyzers/structureAnalyzer.js')
 var lexicalAnalyzer = require('./analyzers/lexicalAnalyzer.js')
+var styleAnalyzer = require('./analyzers/styleAnalyzer.js')
 
 
 // LOGIC
@@ -33,6 +35,28 @@ var xmlFilename = process.argv[2]
 var parser = new xml2js.Parser()
 var wordpos = new WordPOS()
 
+var pos = []
+var words = []
+
+var articleJSON = {
+  id: '',
+  title: '',
+  abstract: '',
+  text: '',
+  textFromXML: '',
+  plainText: '',
+  onlyLettersAndNumbersText: '',
+  words: [],
+  sections: [],
+  subsectionIndexes: [],
+  sentences: [],
+  features: {
+    lengthFeatures: {},
+    structureFeatures : {},
+    styleFeatures: {},
+    readabilityFeatures: {}
+  }
+}
 
 // Make sure we got a filename on the command line.
 if (process.argv.length < 3) {
@@ -68,6 +92,7 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
       parser.parseString(xmlArticle, function (err, result) {
 
         var articleTextFromXML = result.mediawiki.page[0].revision[0].text[0]._
+        articleJSON = articleTextFromXML
 
         var sectionsRegex = /==(.+?)==/g
         var rawSections = articleTextFromXML.match(sectionsRegex) || []
@@ -97,35 +122,18 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
 
         // ID
         var id = extractedArticle.split('\"')[1]
+        articleJSON.id = id
         console.log('ID: ' + id);
 
         // Article title
         var title = textWithTitleAndSectionTitles.substring(0, textWithTitleAndSectionTitles.indexOf("\n"))
+        articleJSON.title = title
         console.log('Title: ' + title);
         console.log('- - - - - - - - - - - - - - - - - - - -')
 
         // Delete the title
         var textWithSectionTitles = textWithTitleAndSectionTitles.substring(textWithTitleAndSectionTitles.indexOf("\n")).trim()
-
-        var articleJSON = {
-          id: id,
-          title: title,
-          abstract: '',
-          text: textWithSectionTitles,
-          textFromXML: articleTextFromXML,
-          plainText: '',
-          onlyLettersAndNumbersText: '',
-          words: [],
-          sections: [],
-          subsectionIndexes: [],
-          sentences: [],
-          features: {
-            lengthFeatures: {},
-            structureFeatures : {},
-            styleFeatures: {},
-            readabilityFeatures: {}
-          }
-        }
+        articleJSON.text = textWithSectionTitles
 
         // Subsection indexes
         var subsectionIndexes = []
@@ -165,20 +173,23 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
         //   }
         // }
 
+        var sections = []
+
         // Get abstract and sections
         for (var i = 0; i < sectionIndexes.length; i++) {
           if (i == 0) {
             articleJSON.abstract = textWithSectionTitles.substring(sectionIndexes[i], sectionIndexes[i+1]).trim()
             // Put abstract in sections array
-            articleJSON.sections.push(textWithSectionTitles.substring(sectionIndexes[i], sectionIndexes[i+1]).trim())
+            sections.push(textWithSectionTitles.substring(sectionIndexes[i], sectionIndexes[i+1]).trim())
           }
           else if (i == sectionIndexes.length - 1) {
-            articleJSON.sections.push(textWithSectionTitles.substring(sectionIndexes[i]).trim())
+            sections.push(textWithSectionTitles.substring(sectionIndexes[i]).trim())
           }
           else {
-            articleJSON.sections.push(textWithSectionTitles.substring(sectionIndexes[i], sectionIndexes[i+1]).trim())
+            sections.push(textWithSectionTitles.substring(sectionIndexes[i], sectionIndexes[i+1]).trim())
           }
         }
+        articleJSON.sections = sections
 
         // Section titles have been removed
         var text = textWithSectionTitles.replace(/\r?\n|\r/g, ' ')
@@ -204,8 +215,10 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
         articleJSON.onlyLettersAndNumbersText = onlyLettersAndNumbersText
 
         // Words array
-        var words = noPointsText.split(' ')
+        words = noPointsText.split(' ')
         articleJSON.words = words
+
+
 
         // Root text (she sold seashells -> she sell seashell)
         var rootText = nlp.text(expandedText).root()
@@ -214,80 +227,80 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
         /////////////////////////// LENGHT FEATURES ////////////////////////////
         ////////////////////////////////////////////////////////////////////////
 
-        // Character count (letters and numbers)
-        var characterCount = articleJSON.onlyLettersAndNumbersText.length
-
-        // Count words
-        var wordCount = articleJSON.words.length
-
-        // Count syllable
-        var syllableCount = 0
-        words.forEach((word) => {
-          syllableCount = syllableCount + nlp.term(word).syllables().length
-        })
-
-        // Sentence count
-        var sentenceCount = articleJSON.sentences.length
-
-        var lengthFeatures = {
-          characterCount: characterCount,
-          wordCount: wordCount,
-          syllableCount: syllableCount,
-          sentenceCount: sentenceCount
-        }
-
-        articleJSON.features.lengthFeatures = lengthFeatures
+        // // Character count (letters and numbers)
+        // var characterCount = articleJSON.onlyLettersAndNumbersText.length
+        //
+        // // Count words
+        // var wordCount = articleJSON.words.length
+        //
+        // // Count syllable
+        // var syllableCount = 0
+        // words.forEach((word) => {
+        //   syllableCount = syllableCount + nlp.term(word).syllables().length
+        // })
+        //
+        // // Sentence count
+        // var sentenceCount = articleJSON.sentences.length
+        //
+        // var lengthFeatures = {
+        //   characterCount: characterCount,
+        //   wordCount: wordCount,
+        //   syllableCount: syllableCount,
+        //   sentenceCount: sentenceCount
+        // }
+        //
+        // articleJSON.features.lengthFeatures = lengthFeatures
 
         ////////////////////////////////////////////////////////////////////////
         //////////////////////////// STYLE FEATURES ////////////////////////////
         ////////////////////////////////////////////////////////////////////////
 
-        // Largest sentence size (in words)
-        var largestSentenceSize = 0
-        articleJSON.sentences.forEach((sentence) => {
-          // Expand contractions (i'll -> i will)
-          var expandedSentence = nlp.text(sentence.str.toLowerCase()).contractions.expand().text()
-          var sentenceLengthInWords = expandedSentence.split(' ').length
-          if (sentenceLengthInWords > largestSentenceSize) {
-            largestSentenceSize = sentenceLengthInWords
-          }
-        })
-
-
-
-
-
-
-
-
-
-
-        // Mean sentence size (in words)
-        var meanSentenceSize = articleJSON.features.lengthFeatures.wordCount/articleJSON.features.lengthFeatures.sentenceCount
-
-        // Large sentence rate
-        var largeSentenceCount = 0
-        articleJSON.sentences.forEach((sentence) => {
-          // Expand contractions (i'll -> i will)
-          var expandedSentence = nlp.text(sentence.str.toLowerCase()).contractions.expand().text()
-          var sentenceLengthInWords = expandedSentence.split(' ').length
-          if (sentenceLengthInWords > meanSentenceSize + 10) {
-            largeSentenceCount++
-          }
-        })
-        var largeSentenceRate = largeSentenceCount/articleJSON.features.lengthFeatures.sentenceCount
-
-        // Short sentence rate
-        var shortSentenceCount = 0
-        articleJSON.sentences.forEach((sentence) => {
-          // Expand contractions (i'll -> i will)
-          var expandedSentence = nlp.text(sentence.str.toLowerCase()).contractions.expand().text()
-          var sentenceLengthInWords = expandedSentence.split(' ').length
-          if (sentenceLengthInWords < meanSentenceSize - 5) {
-            shortSentenceCount++
-          }
-        })
-        var shortSentenceRate = shortSentenceCount/articleJSON.features.lengthFeatures.sentenceCount
+        // // Largest sentence size (in words)
+        // var largestSentenceSize = 0
+        // articleJSON.sentences.forEach((sentence) => {
+        //   // Expand contractions (i'll -> i will)
+        //   var expandedSentence = nlp.text(sentence.str.toLowerCase()).contractions.expand().text()
+        //   var sentenceLengthInWords = expandedSentence.split(' ').length
+        //   if (sentenceLengthInWords > largestSentenceSize) {
+        //     largestSentenceSize = sentenceLengthInWords
+        //   }
+        // })
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        // // Mean sentence size (in words)
+        // var meanSentenceSize = articleJSON.features.lengthFeatures.wordCount/articleJSON.features.lengthFeatures.sentenceCount
+        //
+        // // Large sentence rate
+        // var largeSentenceCount = 0
+        // articleJSON.sentences.forEach((sentence) => {
+        //   // Expand contractions (i'll -> i will)
+        //   var expandedSentence = nlp.text(sentence.str.toLowerCase()).contractions.expand().text()
+        //   var sentenceLengthInWords = expandedSentence.split(' ').length
+        //   if (sentenceLengthInWords > meanSentenceSize + 10) {
+        //     largeSentenceCount++
+        //   }
+        // })
+        // var largeSentenceRate = largeSentenceCount/articleJSON.features.lengthFeatures.sentenceCount
+        //
+        // // Short sentence rate
+        // var shortSentenceCount = 0
+        // articleJSON.sentences.forEach((sentence) => {
+        //   // Expand contractions (i'll -> i will)
+        //   var expandedSentence = nlp.text(sentence.str.toLowerCase()).contractions.expand().text()
+        //   var sentenceLengthInWords = expandedSentence.split(' ').length
+        //   if (sentenceLengthInWords < meanSentenceSize - 5) {
+        //     shortSentenceCount++
+        //   }
+        // })
+        // var shortSentenceRate = shortSentenceCount/articleJSON.features.lengthFeatures.sentenceCount
 
         // // Nouns per sentence
         // var nounsPerSentence = 0
@@ -312,38 +325,15 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
         //   })
         // });
 
-        var styleFeatures = {
-          largestSentenceSize: largestSentenceSize,
-          meanSentenceSize: meanSentenceSize,
-          largeSentenceRate: largeSentenceRate,
-          shortSentenceCount: shortSentenceCount
-        }
+        // var styleFeatures = {
+        //   largestSentenceSize: largestSentenceSize,
+        //   meanSentenceSize: meanSentenceSize,
+        //   largeSentenceRate: largeSentenceRate,
+        //   shortSentenceCount: shortSentenceCount
+        // }
+        //
+        // articleJSON.features.styleFeatures = styleFeatures
 
-        articleJSON.features.styleFeatures = styleFeatures
-
-
-
-
-
-
-
-
-
-
-
-        posTagger.tag(articleJSON.plainText, (pos) => {
-          lexicalAnalyzer.analyze(
-            pos,
-            articleJSON.words,
-            articleJSON.features.lengthFeatures.characterCount,
-            articleJSON.features.lengthFeatures.wordCount,
-            articleJSON.features.lengthFeatures.syllableCount,
-            articleJSON.features.lengthFeatures.sentenceCount,
-            (lexicalFeatures) => {
-            console.log(lexicalFeatures);
-            }
-          )
-        })
 
 
         // posTagger.tag(articleJSON.plainText, (pos) => {
@@ -354,23 +344,123 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
 
 
 
+        // posTagger.getFirstWordTags(sentences, (results) =>{
+        //   posAnalyzer.getNumberOfSentencesThatStartWith(results, articleJSON.sentences, articleJSON.features.lengthFeatures.sentenceCount, (numberOfSentencesThatStartWith) => {
+        //     console.log(numberOfSentencesThatStartWith);
+        //   })
+        // })
+
+
+
+
+
+        async.series([
+          getLengthFeatures,
+          getTags,
+          getStructureFeatures,
+          getReadabilityIndexes,
+          getLexicalFeatures,
+          getStyleFeatures,
+        ], (res, result) => {
+          console.log(JSON.stringify(articleJSON.features, null, 2));
+        })
+
+
+
+
+
+
+
+
 
 
 
         // console.log(articleJSON.features.readabilityFeatures);
 
 
-
-
-
-
-
-
-
       })
     })
   })
 })
+
+
+const getLengthFeatures = (cb) => {
+  lengthAnalyzer.analyze(
+    articleJSON.words,
+    articleJSON.sentences,
+    (lengthFeatures) => {
+      articleJSON.features.lengthFeatures = lengthFeatures
+      cb(null, 'Get Length Features')
+    }
+  )
+}
+
+const getTags = (cb) => {
+  posTagger.tag(articleJSON.plainText, (pos) => {
+    articleJSON.pos = pos
+    cb(null, 'Get POS')
+  })
+}
+
+const getStructureFeatures = (cb) => {
+  structureAnalyzer.analyze(
+    articleJSON.sections,
+    articleJSON.subsectionIndexes,
+    articleJSON.features.lengthFeatures.characterCount,
+    articleJSON.features.lengthFeatures.wordCount,
+    articleJSON.features.lengthFeatures.sentenceCount,
+    articleJSON.textFromXML,
+    (structureFeatures) => {
+      articleJSON.features.structureFeatures = structureFeatures
+      cb(null, 'Get Structure Features')
+    }
+  )
+}
+
+const getReadabilityIndexes = (cb) => {
+  readabilityAnalyzer.analyze(
+    articleJSON.features.lengthFeatures.characterCount,
+    articleJSON.features.lengthFeatures.wordCount,
+    articleJSON.features.lengthFeatures.sentenceCount,
+    articleJSON.features.lengthFeatures.syllableCount,
+    articleJSON.words,
+    articleJSON.text,
+    (readabilityFeatures) => {
+      articleJSON.features.readabilityFeatures = readabilityFeatures
+      cb(null, 'Get Readability Indexes Features')
+    }
+  )
+}
+
+const getLexicalFeatures = (cb) => {
+  lexicalAnalyzer.analyze(
+    pos,
+    articleJSON.words,
+    articleJSON.features.lengthFeatures.characterCount,
+    articleJSON.features.lengthFeatures.wordCount,
+    articleJSON.features.lengthFeatures.syllableCount,
+    articleJSON.features.lengthFeatures.sentenceCount,
+    (lexicalFeatures) => {
+      articleJSON.features.lexicalFeatures = lexicalFeatures
+      cb(null, 'Get Lexical Features')
+    }
+  )
+}
+
+const getStyleFeatures = (cb) => {
+  styleAnalyzer.analyze(
+    pos,
+    articleJSON.words,
+    articleJSON.sentences,
+    articleJSON.features.lengthFeatures.wordCount,
+    articleJSON.features.lengthFeatures.sentenceCount,
+    (styleFeatures) => {
+      articleJSON.features.styleFeatures = styleFeatures
+      cb(null, 'Get Style Features')
+    }
+  )
+}
+
 
 
 
@@ -385,7 +475,7 @@ Array.prototype.max = function() {
 
 
 
-// LENGTH ANALYZER
+// // LENGTH ANALYZER
 // lengthAnalyzer.analyze(articleJSON.words, articleJSON.sentences, (result) => {
 //   articleJSON.features.lengthFeatures = result
 // })

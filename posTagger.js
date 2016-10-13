@@ -1,6 +1,8 @@
 // MODULES
 var Tagger = require("node-stanford-postagger/postagger").Tagger
 var _ = require('underscore')
+var async = require('async')
+
 
 // LOGIC
 
@@ -247,11 +249,64 @@ const tag = (text, cb) => {
     // var _adjectives = ordinalAdjectivesAndNumerals.concat(comparativeAdjectives, superlativeAdjectives)
     //
     // // All type of adverbs together
-    // var _adverbs = adverbs.concat(comparativeAdverbs, superlativeAdverbs)
+    // var _adverbs = adverbs.concat(comparativeAdverbs, superlativeAdverbs, whAdverbTag)
 
     cb(pos)
   })
 }
 
+
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+var sentencesFirstWordTags = []
+
+const getFirstWordTags = (sentences, cb) => {
+  var _sentences = []
+  sentences.forEach((sentence) => {
+    _sentences.push(sentence.str)
+  })
+  async.eachSeries(
+    _sentences,
+    getFirstWordTag,
+    (err, results) => {
+      var hist = {};
+      sentencesFirstWordTags.map((a) => {
+        if (a in hist) {
+          hist[a] ++;
+        }
+        else {
+          hist[a] = 1;
+        }
+      })
+      cb(hist)
+    }
+  )
+}
+
+const getFirstWordTag = (sentence, cb) => {
+  tagger.tag(sentence, function(err, resp) {
+    if (err) {
+      console.log(err);
+    }
+    else {
+      resp = resp.join(' ')
+      var taggedWords = resp.split(' ')
+      var _taggedWords = []
+      firstWord = taggedWords[0].split('_')
+      if (_.indexOf(tags, firstWord[1]) != -1) {
+        var firstWordTag = firstWord[1]
+        sentencesFirstWordTags.push(firstWord[1])
+      }
+    }
+    cb(null, 'Get First WOrd Tag')
+  })
+}
+
+
+
 // EXPORTS
 module.exports.tag = tag
+
+module.exports.getFirstWordTags = getFirstWordTags
