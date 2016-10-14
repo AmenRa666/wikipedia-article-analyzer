@@ -4,9 +4,7 @@ var fs = require('fs')
 var xml2js = require('xml2js')
 var nlp = require('nlp_compromise')
 nlp.plugin(require('nlp-syllables'))
-var WordPOS = require('wordpos')
 var math = require('mathjs')
-var natural = require('natural')
 var _ = require('underscore')
 var async = require('async')
 // Readability Modules
@@ -34,7 +32,6 @@ var articleAnalyzer = require('./articleAnalyzer.js')
 // LOGIC
 var xmlFilename = process.argv[2]
 var parser = new xml2js.Parser()
-var wordpos = new WordPOS()
 
 // Make sure we got a filename on the command line.
 if (process.argv.length < 3) {

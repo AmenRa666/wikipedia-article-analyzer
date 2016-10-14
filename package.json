@@ -31,18 +31,13 @@
     "flesch": "^1.0.0",
     "flesch-kincaid": "^1.0.0",
     "gunning-fog": "^1.0.0",
-    "java": "^0.7.2",
     "mathjs": "^3.5.1",
-    "natural": "^0.4.0",
     "nlp-syllables": "0.0.5",
     "nlp_compromise": "^6.5.0",
     "node-stanford-postagger": "0.0.1",
     "python-shell": "^0.4.0",
-    "rimraf": "^2.5.4",
     "smog-formula": "^1.0.0",
-    "syllable": "^1.0.0",
     "underscore": "^1.8.3",
-    "wordpos": "^1.1.0",
     "xml2js": "^0.4.17"
   }
 }
