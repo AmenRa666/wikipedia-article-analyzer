@@ -28,35 +28,13 @@ var lengthAnalyzer = require('./analyzers/lengthAnalyzer.js')
 var structureAnalyzer = require('./analyzers/structureAnalyzer.js')
 var lexicalAnalyzer = require('./analyzers/lexicalAnalyzer.js')
 var styleAnalyzer = require('./analyzers/styleAnalyzer.js')
+var articleAnalyzer = require('./articleAnalyzer.js')
 
 
 // LOGIC
 var xmlFilename = process.argv[2]
 var parser = new xml2js.Parser()
 var wordpos = new WordPOS()
-
-var pos = []
-var words = []
-
-var articleJSON = {
-  id: '',
-  title: '',
-  abstract: '',
-  text: '',
-  textFromXML: '',
-  plainText: '',
-  onlyLettersAndNumbersText: '',
-  words: [],
-  sections: [],
-  subsectionIndexes: [],
-  sentences: [],
-  features: {
-    lengthFeatures: {},
-    structureFeatures : {},
-    styleFeatures: {},
-    readabilityFeatures: {}
-  }
-}
 
 // Make sure we got a filename on the command line.
 if (process.argv.length < 3) {
@@ -92,7 +70,6 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
       parser.parseString(xmlArticle, function (err, result) {
 
         var articleTextFromXML = result.mediawiki.page[0].revision[0].text[0]._
-        articleJSON = articleTextFromXML
 
         var sectionsRegex = /==(.+?)==/g
         var rawSections = articleTextFromXML.match(sectionsRegex) || []
@@ -122,18 +99,15 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
 
         // ID
         var id = extractedArticle.split('\"')[1]
-        articleJSON.id = id
         console.log('ID: ' + id);
 
         // Article title
         var title = textWithTitleAndSectionTitles.substring(0, textWithTitleAndSectionTitles.indexOf("\n"))
-        articleJSON.title = title
         console.log('Title: ' + title);
         console.log('- - - - - - - - - - - - - - - - - - - -')
 
         // Delete the title
         var textWithSectionTitles = textWithTitleAndSectionTitles.substring(textWithTitleAndSectionTitles.indexOf("\n")).trim()
-        articleJSON.text = textWithSectionTitles
 
         // Subsection indexes
         var subsectionIndexes = []
@@ -144,7 +118,6 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
             textWithSectionTitles = textWithSectionTitles.replace(subsectionTitle + '.', '')
           }
         })
-        articleJSON.subsectionIndexes = subsectionIndexes
 
         // Initialized with element 0 because it's the index of the abstract
         var sectionIndexes = [0]
@@ -161,24 +134,13 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
           return a - b
         })
 
-        // Log abstract and sections
-        // for (var i = 0; i < sectionIndexes.length; i++) {
-        //   if (i == sectionIndexes.length - 1) {
-        //     console.log(textWithSectionTitles.substring(sectionIndexes[i]).trim());
-        //     console.log('- - - - - - - - - - - - - - - - - - - -')
-        //   }
-        //   else {
-        //     console.log(textWithSectionTitles.substring(sectionIndexes[i], sectionIndexes[i+1]).trim());
-        //     console.log('- - - - - - - - - - - - - - - - - - - -')
-        //   }
-        // }
-
         var sections = []
+        var abstract = ''
 
         // Get abstract and sections
         for (var i = 0; i < sectionIndexes.length; i++) {
           if (i == 0) {
-            articleJSON.abstract = textWithSectionTitles.substring(sectionIndexes[i], sectionIndexes[i+1]).trim()
+            abstract = textWithSectionTitles.substring(sectionIndexes[i], sectionIndexes[i+1]).trim()
             // Put abstract in sections array
             sections.push(textWithSectionTitles.substring(sectionIndexes[i], sectionIndexes[i+1]).trim())
           }
@@ -189,17 +151,14 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
             sections.push(textWithSectionTitles.substring(sectionIndexes[i], sectionIndexes[i+1]).trim())
           }
         }
-        articleJSON.sections = sections
 
         // Section titles have been removed
         var text = textWithSectionTitles.replace(/\r?\n|\r/g, ' ')
-        articleJSON.plainText = text
 
         ////////////// PREPROCESSING ////////////
 
         // Extract sentences
         var sentences = nlp.text(text).sentences
-        articleJSON.sentences = sentences
 
         // Expand contractions
         var expandedText = nlp.text(text.toLowerCase()).contractions.expand().text()
@@ -212,13 +171,9 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
 
         // Text composed only by letters and numbers (no white spaces)
         var onlyLettersAndNumbersText = noPointsText.replace(/ /g, '')
-        articleJSON.onlyLettersAndNumbersText = onlyLettersAndNumbersText
 
         // Words array
         words = noPointsText.split(' ')
-        articleJSON.words = words
-
-
 
         // Root text (she sold seashells -> she sell seashell)
         var rootText = nlp.text(expandedText).root()
@@ -354,29 +309,10 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
 
 
 
-        async.series([
-          getLengthFeatures,
-          getTags,
-          getStructureFeatures,
-          getReadabilityIndexes,
-          getLexicalFeatures,
-          getStyleFeatures,
-        ], (res, result) => {
+
+        articleAnalyzer.analyze(articleTextFromXML, id, title, textWithSectionTitles, subsectionIndexes, abstract, sections, text, sentences, onlyLettersAndNumbersText, words, (articleJSON) => {
           console.log(JSON.stringify(articleJSON.features, null, 2));
         })
-
-
-
-
-
-
-
-
-
-
-
-        // console.log(articleJSON.features.readabilityFeatures);
-
 
       })
     })
@@ -384,82 +320,7 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
 })
 
 
-const getLengthFeatures = (cb) => {
-  lengthAnalyzer.analyze(
-    articleJSON.words,
-    articleJSON.sentences,
-    (lengthFeatures) => {
-      articleJSON.features.lengthFeatures = lengthFeatures
-      cb(null, 'Get Length Features')
-    }
-  )
-}
 
-const getTags = (cb) => {
-  posTagger.tag(articleJSON.plainText, (pos) => {
-    articleJSON.pos = pos
-    cb(null, 'Get POS')
-  })
-}
-
-const getStructureFeatures = (cb) => {
-  structureAnalyzer.analyze(
-    articleJSON.sections,
-    articleJSON.subsectionIndexes,
-    articleJSON.features.lengthFeatures.characterCount,
-    articleJSON.features.lengthFeatures.wordCount,
-    articleJSON.features.lengthFeatures.sentenceCount,
-    articleJSON.textFromXML,
-    (structureFeatures) => {
-      articleJSON.features.structureFeatures = structureFeatures
-      cb(null, 'Get Structure Features')
-    }
-  )
-}
-
-const getReadabilityIndexes = (cb) => {
-  readabilityAnalyzer.analyze(
-    articleJSON.features.lengthFeatures.characterCount,
-    articleJSON.features.lengthFeatures.wordCount,
-    articleJSON.features.lengthFeatures.sentenceCount,
-    articleJSON.features.lengthFeatures.syllableCount,
-    articleJSON.words,
-    articleJSON.text,
-    (readabilityFeatures) => {
-      articleJSON.features.readabilityFeatures = readabilityFeatures
-      cb(null, 'Get Readability Indexes Features')
-    }
-  )
-}
-
-const getLexicalFeatures = (cb) => {
-  lexicalAnalyzer.analyze(
-    pos,
-    articleJSON.words,
-    articleJSON.features.lengthFeatures.characterCount,
-    articleJSON.features.lengthFeatures.wordCount,
-    articleJSON.features.lengthFeatures.syllableCount,
-    articleJSON.features.lengthFeatures.sentenceCount,
-    (lexicalFeatures) => {
-      articleJSON.features.lexicalFeatures = lexicalFeatures
-      cb(null, 'Get Lexical Features')
-    }
-  )
-}
-
-const getStyleFeatures = (cb) => {
-  styleAnalyzer.analyze(
-    pos,
-    articleJSON.words,
-    articleJSON.sentences,
-    articleJSON.features.lengthFeatures.wordCount,
-    articleJSON.features.lengthFeatures.sentenceCount,
-    (styleFeatures) => {
-      articleJSON.features.styleFeatures = styleFeatures
-      cb(null, 'Get Style Features')
-    }
-  )
-}
 
 
 

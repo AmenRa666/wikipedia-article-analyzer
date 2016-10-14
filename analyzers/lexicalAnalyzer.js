@@ -270,7 +270,6 @@ const getDifferentCoordinatingConjunctionsRate = (cb) => {
 
 
 const countSubordinatingPrepositionsAndConjunctions = (cb) => {
-  console.log(subordinatingPrepositionsAndConjunctions);
   lexicalFeatures.subordinatingPrepositionAndConjunctionCount = subordinatingPrepositionsAndConjunctions.length
   cb(null, 'Count Subordinating Prepositions And Conjunctions')
 }
