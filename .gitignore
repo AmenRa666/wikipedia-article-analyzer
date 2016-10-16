@@ -39,5 +39,5 @@ jspm_packages
 # Temporary Files
 tmp
 
-# Jar
-jar
+# XMLs of articles
+articleXML
