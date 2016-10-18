@@ -26,24 +26,24 @@ const getPosTrigrams = (taggedWords, cb) => {
 }
 
 
-  var numberOfSentencesThatStartWith = {
-    coordinatingConjunction: 0,
-    determiner: 0,
-    subordinatingPrepositionOrConjunction: 0,
-    adjective: 0,
-    noun: 0,
-    pronoun: 0,
-    adverb: 0,
-    article: 0,
-    coordinatingConjunctionRatio: 0,
-    determinerRatio: 0,
-    subordinatingPrepositionOrConjunctionRatio: 0,
-    adjectiveRatio: 0,
-    nounRatio: 0,
-    pronounRatio: 0,
-    adverbRatio: 0,
-    articleRatio: 0
-  }
+var numberOfSentencesThatStartWith = {
+  coordinatingConjunction: 0,
+  determiner: 0,
+  subordinatingPrepositionOrConjunction: 0,
+  adjective: 0,
+  noun: 0,
+  pronoun: 0,
+  adverb: 0,
+  article: 0,
+  coordinatingConjunctionRatio: 0,
+  determinerRatio: 0,
+  subordinatingPrepositionOrConjunctionRatio: 0,
+  adjectiveRatio: 0,
+  nounRatio: 0,
+  pronounRatio: 0,
+  adverbRatio: 0,
+  articleRatio: 0
+}
 
 
 var firstWordsTags = {}
@@ -209,8 +209,7 @@ const countModalAuxiliaries = (pos, _wordCount, _sentenceCount, cb) => {
   wordCount = _wordCount
   sentenceCount = _sentenceCount
 
-  // All type of verbs together
-  verbs = pos.modalAuxiliaries.concat(pos.pastTenseVerbs, pos.presentParticipleAndGerundVerbs, pos.pastParticipleVerbs, pos.notThirdPersonSingularPresentTenseVerbs, pos.thirdPersonSingularPresentTenseVerbs)
+  verbs = pos.modalAuxiliaries.concat(pos.pastTenseVerbs, pos.notThirdPersonSingularPresentTenseVerbs, pos.thirdPersonSingularPresentTenseVerbs)
 
   var modalAuxiliaryVerbCount = pos.modalAuxiliaries.length
 

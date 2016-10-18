@@ -8,9 +8,9 @@ var _ = require('underscore')
 
 
 // LOGIC
-var filename = 'articleList.txt'
+var filename = 'aClassArticleList.txt'
 var url = 'https://en.wikipedia.org/wiki/Special:Export/'
-var path = 'articleXML/'
+var path = 'aClassArticlesXML/'
 var i = 1
 
 const writeFile = (title, contents, cb) => {
@@ -26,10 +26,10 @@ const writeFile = (title, contents, cb) => {
 }
 
 const downloadXML = (title, cb) => {
-  var urlXML = url + qs.escape(title)
+  var urlXML = url + qs.escape(decodeURI(title))
   request(urlXML, (error, response, body) => {
     if (!error && response.statusCode == 200) {
-      writeFile(title, body, cb)
+      writeFile(decodeURI(title), body, cb)
     }
     else {
       cb('Error downloading: ' + title, null)

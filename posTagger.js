@@ -255,12 +255,82 @@ const tag = (text, cb) => {
   })
 }
 
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+var taggedSentences = []
+var sentencesTags = []
+
+const tagSentence = (sentence, cb) => {
+
+  tagger.tag(sentence, function(err, resp) {
+    if (err) {
+      console.log(err);
+    }
+    else {
+      resp = resp.join(' ')
+      var taggedWords = resp.split(' ')
+      var sentenceTags = []
+      var taggedSentence = []
+      taggedWords.forEach((taggedWord) => {
+        // Array with two element, word and tag
+        taggedWord = taggedWord.split('_')
+        // If the tag is not in the 'tags' array the element will be discarded
+        if (_.indexOf(tags, taggedWord[1]) != -1) {
+          taggedWord = {
+            word: taggedWord[0],
+            tag: taggedWord[1]
+          }
+          taggedSentence.push(taggedWord)
+          sentenceTags.push(taggedWord[1])
+        }
+      })
+      taggedSentences.push(taggedSentence)
+      sentencesTags.push(sentenceTags)
+    }
+    cb(null, 'Tag Sentence')
+  })
+
+}
+
+const tagSentences = (sentences, cb) => {
+  var _sentences = []
+  sentences.forEach((sentence) => {
+    _sentences.push(sentence.str)
+  })
+  async.eachSeries(
+    _sentences,
+    tagSentence,
+    (err, results) => {
+      cb(sentencesTags)
+    }
+  )
+}
 
 ////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 
 var sentencesFirstWordTags = []
+
+const getFirstWordTag = (sentence, cb) => {
+  tagger.tag(sentence, function(err, resp) {
+    if (err) {
+      console.log(err);
+    }
+    else {
+      resp = resp.join(' ')
+      var taggedWords = resp.split(' ')
+      firstWord = taggedWords[0].split('_')
+      if (_.indexOf(tags, firstWord[1]) != -1) {
+        var firstWordTag = firstWord[1]
+        sentencesFirstWordTags.push(firstWord[1])
+      }
+    }
+    cb(null, 'Get First WOrd Tag')
+  })
+}
 
 const getFirstWordTags = (sentences, cb) => {
   var _sentences = []
@@ -284,27 +354,6 @@ const getFirstWordTags = (sentences, cb) => {
     }
   )
 }
-
-const getFirstWordTag = (sentence, cb) => {
-  tagger.tag(sentence, function(err, resp) {
-    if (err) {
-      console.log(err);
-    }
-    else {
-      resp = resp.join(' ')
-      var taggedWords = resp.split(' ')
-      var _taggedWords = []
-      firstWord = taggedWords[0].split('_')
-      if (_.indexOf(tags, firstWord[1]) != -1) {
-        var firstWordTag = firstWord[1]
-        sentencesFirstWordTags.push(firstWord[1])
-      }
-    }
-    cb(null, 'Get First WOrd Tag')
-  })
-}
-
-
 
 // EXPORTS
 module.exports.tag = tag

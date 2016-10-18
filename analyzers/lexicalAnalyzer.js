@@ -1,9 +1,9 @@
 // MODULES
-var Tagger = require("node-stanford-postagger/postagger").Tagger
 var _ = require('underscore')
 var async = require('async')
 var nlp = require('nlp_compromise')
 nlp.plugin(require('nlp-syllables'))
+var Lemmer = require('lemmer')
 
 
 // LOGIC
@@ -60,6 +60,7 @@ var lexicalFeatures = {
 var words = []
 var nouns = []
 var verbs = []
+var difVerbs = []
 var pronouns = []
 var adjectives = []
 var adverbs = []
@@ -102,7 +103,18 @@ const getNounsRate = (cb) => {
 }
 
 const countDifferentNouns = (cb) => {
-  lexicalFeatures.differentNounCount = _.uniq(nouns).length
+  var singularNouns = []
+  for (var i = 0; i < nouns.length; i++) {
+    if (nouns[i].substr(nouns[i].length - 1) == 's') {
+      console.log(nouns[i]);
+      console.log(nouns[i].substring(0, nouns[i].length - 1));
+      singularNouns.push(nouns[i].substring(0, nouns[i].length - 1))
+    }
+    else {
+      singularNouns.push(nouns[i])
+    }
+  }
+  lexicalFeatures.differentNounCount = _.uniq(singularNouns).length
   cb(null, 'Count Different Nouns')
 }
 
@@ -132,7 +144,7 @@ const getVerbsRate = (cb) => {
 }
 
 const countDifferentVerbs = (cb) => {
-  lexicalFeatures.differentVerbCount = _.uniq(verbs).length
+  lexicalFeatures.differentVerbCount = _.uniq(difVerbs).length
   cb(null, 'Count Different Verbs')
 }
 
@@ -266,9 +278,6 @@ const getDifferentCoordinatingConjunctionsRate = (cb) => {
   cb(null, 'Get Different Coordinating Conjunctions Rate')
 }
 
-
-
-
 const countSubordinatingPrepositionsAndConjunctions = (cb) => {
   lexicalFeatures.subordinatingPrepositionAndConjunctionCount = subordinatingPrepositionsAndConjunctions.length
   cb(null, 'Count Subordinating Prepositions And Conjunctions')
@@ -299,15 +308,6 @@ const getDifferentSubordinatingPrepositionsAndConjunctionsRate = (cb) => {
   cb(null, 'Get Different Subordinating Prepositions And Conjunctions Rate')
 }
 
-
-
-
-
-
-
-
-
-
 const getSyllablesPerWord = (cb) => {
   lexicalFeatures.syllablesPerWord = syllableCount/wordCount
   cb(null, 'Get Syllables Per Word')
@@ -327,11 +327,13 @@ const analyze = (pos, _words, _characterCount, _wordCount, _syllableCount, _sent
   syllableCount = _syllableCount
   sentenceCount = _sentenceCount
 
-  // All type of nouns together (no proper nouns)
-  nouns = pos.singolarCommonNounsAndMasses.concat(pos.pluralCommonNouns)
+  // All type of nouns together
+  nouns = pos.singolarCommonNounsAndMasses.concat(pos.pluralCommonNouns, pos.singularProperNouns, pos.pluralProperNouns)
 
-  // All type of verbs together
-  verbs = pos.modalAuxiliaries.concat(pos.pastTenseVerbs, pos.presentParticipleAndGerundVerbs, pos.pastParticipleVerbs, pos.notThirdPersonSingularPresentTenseVerbs, pos.thirdPersonSingularPresentTenseVerbs)
+  verbs = pos.modalAuxiliaries.concat(pos.pastTenseVerbs, pos.notThirdPersonSingularPresentTenseVerbs, pos.thirdPersonSingularPresentTenseVerbs)
+
+  difVerbs = pos.modalAuxiliaries.concat(pos.pastTenseVerbs, pos.notThirdPersonSingularPresentTenseVerbs, pos.thirdPersonSingularPresentTenseVerbs, pos.presentParticipleAndGerundVerbs,
+  pos.pastParticipleVerbs)
 
   // All type of pronouns together
   pronouns = pos.personalPronouns.concat(pos.personalPronouns, pos.existentialTheres, pos.whPronouns, pos.possessiveWHPronouns)
@@ -346,195 +348,207 @@ const analyze = (pos, _words, _characterCount, _wordCount, _syllableCount, _sent
 
   subordinatingPrepositionsAndConjunctions = pos.subordinatingPrepositionsAndConjunctions
 
-  async.parallel([
-    getSyllablesPerWord,
-    getCharactersPerWord,
+  Lemmer.lemmatize(difVerbs, function(err, _lemmatizedDifVerbs){
+    if (err) console.log(err);
+    // difVerbs = _lemmatizedDifVerbs
 
-    (cb) => {
-      async.series([
-        differentWordCount,
-        (cb) => {
-          async.parallel([
-            differentWordsPerSentence,
-            differentWordsRate
-          ], cb )
-        }
-      ], cb)
-    },
 
-    (cb) => {
-      async.series([
-        countNouns,
-        (cb) => {
-          async.parallel([
-            getNounsPerSentence,
-            getNounsRate
-          ], cb )
-        }
-      ], cb)
-    },
 
-    (cb) => {
-      async.series([
-        countDifferentNouns,
-        (cb) => {
-          async.parallel([
-            getDifferentNounsPerSentence,
-            getDifferentNounsRate
-          ], cb )
-        }
-      ], cb)
-    },
 
-    (cb) => {
-      async.series([
-        countVerbs,
-        (cb) => {
-          async.parallel([
-            getVerbsPerSentence,
-            getVerbsRate
-          ], cb )
-        }
-      ], cb)
-    },
+    async.parallel([
+      getSyllablesPerWord,
+      getCharactersPerWord,
 
-    (cb) => {
-      async.series([
-        countDifferentVerbs,
-        (cb) => {
-          async.parallel([
-            getDifferentVerbsPerSentence,
-            getDifferentVerbsRate
-          ], cb )
-        }
-      ], cb)
-    },
+      (cb) => {
+        async.series([
+          differentWordCount,
+          (cb) => {
+            async.parallel([
+              differentWordsPerSentence,
+              differentWordsRate
+            ], cb )
+          }
+        ], cb)
+      },
 
-    (cb) => {
-      async.series([
-        countPronouns,
-        (cb) => {
-          async.parallel([
-            getPronounsPerSentence,
-            getPronounsRate
-          ], cb )
-        }
-      ], cb)
-    },
+      (cb) => {
+        async.series([
+          countNouns,
+          (cb) => {
+            async.parallel([
+              getNounsPerSentence,
+              getNounsRate
+            ], cb )
+          }
+        ], cb)
+      },
 
-    (cb) => {
-      async.series([
-        countDifferentPronouns,
-        (cb) => {
-          async.parallel([
-            getDifferentPronounsPerSentence,
-            getDifferentPronounsRate
-          ], cb )
-        }
-      ], cb)
-    },
+      (cb) => {
+        async.series([
+          countDifferentNouns,
+          (cb) => {
+            async.parallel([
+              getDifferentNounsPerSentence,
+              getDifferentNounsRate
+            ], cb )
+          }
+        ], cb)
+      },
 
-    (cb) => {
-      async.series([
-        countAdjectives,
-        (cb) => {
-          async.parallel([
-            getAdjectivePerSentence,
-            getAdjectiveRate
-          ], cb )
-        }
-      ], cb)
-    },
+      (cb) => {
+        async.series([
+          countVerbs,
+          (cb) => {
+            async.parallel([
+              getVerbsPerSentence,
+              getVerbsRate
+            ], cb )
+          }
+        ], cb)
+      },
 
-    (cb) => {
-      async.series([
-        countDifferentAdjectives,
-        (cb) => {
-          async.parallel([
-            getDifferentAdjectivesPerSentence,
-            getDifferentAdjectivesRate
-          ], cb )
-        }
-      ], cb)
-    },
+      (cb) => {
+        async.series([
+          countDifferentVerbs,
+          (cb) => {
+            async.parallel([
+              getDifferentVerbsPerSentence,
+              getDifferentVerbsRate
+            ], cb )
+          }
+        ], cb)
+      },
 
-    (cb) => {
-      async.series([
-        countAdverbs,
-        (cb) => {
-          async.parallel([
-            getAdverbsPerSentence,
-            getAdverbsRate
-          ], cb )
-        }
-      ], cb)
-    },
+      (cb) => {
+        async.series([
+          countPronouns,
+          (cb) => {
+            async.parallel([
+              getPronounsPerSentence,
+              getPronounsRate
+            ], cb )
+          }
+        ], cb)
+      },
 
-    (cb) => {
-      async.series([
-        countDifferentAdverbs,
-        (cb) => {
-          async.parallel([
-            getDifferentAdverbsPerSentence,
-            getDifferentAdverbsRate
-          ], cb )
-        }
-      ], cb)
-    },
+      (cb) => {
+        async.series([
+          countDifferentPronouns,
+          (cb) => {
+            async.parallel([
+              getDifferentPronounsPerSentence,
+              getDifferentPronounsRate
+            ], cb )
+          }
+        ], cb)
+      },
 
-    (cb) => {
-      async.series([
-        countCoordinatingConjunctions,
-        (cb) => {
-          async.parallel([
-            getCoordinatingConjunctionsPerSentence,
-            getCoordinatingConjunctionsRate
-          ], cb )
-        }
-      ], cb)
-    },
+      (cb) => {
+        async.series([
+          countAdjectives,
+          (cb) => {
+            async.parallel([
+              getAdjectivePerSentence,
+              getAdjectiveRate
+            ], cb )
+          }
+        ], cb)
+      },
 
-    (cb) => {
-      async.series([
-        countDifferentCoordinatingConjunctions,
-        (cb) => {
-          async.parallel([
-            getDifferentCoordinatingConjunctionsPerSentence,
-            getDifferentCoordinatingConjunctionsRate
-          ], cb )
-        }
-      ], cb)
-    },
+      (cb) => {
+        async.series([
+          countDifferentAdjectives,
+          (cb) => {
+            async.parallel([
+              getDifferentAdjectivesPerSentence,
+              getDifferentAdjectivesRate
+            ], cb )
+          }
+        ], cb)
+      },
 
-    (cb) => {
-      async.series([
-        countSubordinatingPrepositionsAndConjunctions,
-        (cb) => {
-          async.parallel([
-            getSubordinatingPrepositionsAndConjunctionsPerSentence,
-            getSubordinatingPrepositionsAndConjunctionsRate
-          ], cb )
-        }
-      ], cb)
-    },
+      (cb) => {
+        async.series([
+          countAdverbs,
+          (cb) => {
+            async.parallel([
+              getAdverbsPerSentence,
+              getAdverbsRate
+            ], cb )
+          }
+        ], cb)
+      },
 
-    (cb) => {
-      async.series([
-        countDifferentSubordinatingPrepositionsAndConjunctions,
-        (cb) => {
-          async.parallel([
-            getDifferentSubordinatingPrepositionsAndConjunctionsPerSentence,
-            getDifferentSubordinatingPrepositionsAndConjunctionsRate
-          ], cb )
-        }
-      ], cb)
-    },
+      (cb) => {
+        async.series([
+          countDifferentAdverbs,
+          (cb) => {
+            async.parallel([
+              getDifferentAdverbsPerSentence,
+              getDifferentAdverbsRate
+            ], cb )
+          }
+        ], cb)
+      },
 
-  ],
-  (err, result) => {
-    cb(lexicalFeatures)
+      (cb) => {
+        async.series([
+          countCoordinatingConjunctions,
+          (cb) => {
+            async.parallel([
+              getCoordinatingConjunctionsPerSentence,
+              getCoordinatingConjunctionsRate
+            ], cb )
+          }
+        ], cb)
+      },
+
+      (cb) => {
+        async.series([
+          countDifferentCoordinatingConjunctions,
+          (cb) => {
+            async.parallel([
+              getDifferentCoordinatingConjunctionsPerSentence,
+              getDifferentCoordinatingConjunctionsRate
+            ], cb )
+          }
+        ], cb)
+      },
+
+      (cb) => {
+        async.series([
+          countSubordinatingPrepositionsAndConjunctions,
+          (cb) => {
+            async.parallel([
+              getSubordinatingPrepositionsAndConjunctionsPerSentence,
+              getSubordinatingPrepositionsAndConjunctionsRate
+            ], cb )
+          }
+        ], cb)
+      },
+
+      (cb) => {
+        async.series([
+          countDifferentSubordinatingPrepositionsAndConjunctions,
+          (cb) => {
+            async.parallel([
+              getDifferentSubordinatingPrepositionsAndConjunctionsPerSentence,
+              getDifferentSubordinatingPrepositionsAndConjunctionsRate
+            ], cb )
+          }
+        ], cb)
+      },
+
+    ],
+    (err, result) => {
+      cb(lexicalFeatures)
+    })
+
+
+
+
+
   })
-
 }
 
 
