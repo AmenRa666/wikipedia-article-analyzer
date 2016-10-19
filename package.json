@@ -34,6 +34,8 @@
     "lemmer": "^0.1.6",
     "mathjs": "^3.5.1",
     "mkdirp": "^0.5.1",
+    "mongodb": "^2.2.10",
+    "mongoose": "^4.6.4",
     "natural": "^0.4.0",
     "nlp-syllables": "0.0.5",
     "nlp_compromise": "^6.5.0",
