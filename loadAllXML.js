@@ -7,7 +7,7 @@ nlp.plugin(require('nlp-syllables'))
 var math = require('mathjs')
 var _ = require('underscore')
 var async = require('async')
-// POS Tagger
+ var time = require('node-tictoc');
 // Analizer
 var articleAnalyzer = require('./articleAnalyzer.js')
 // Database Agent
@@ -17,14 +17,14 @@ var dbAgent = require('./dbAgent.js')
 var filename = 'articleList.txt'
 var path = './articleXML/'
 
-
 const load = (title, cb) => {
 
-  var xmlFilename = path + title
+  var xmlFilename = path + title + '.xml'
   var parser = new xml2js.Parser()
 
   // Read the file and print its contents.
   fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
+    time.tic();
     if (err) throw err
 
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -266,16 +266,14 @@ const load = (title, cb) => {
               qualityClass: 5
             }
 
-            dbAgent.insert(article)
-
+            dbAgent.insert(article, cb)
+            time.toc();
 
           })
-
         })
       })
     })
   })
-
 }
 
 

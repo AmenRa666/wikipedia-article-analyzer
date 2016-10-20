@@ -3,7 +3,7 @@ var mongoose = require('mongoose')
 mongoose.connect('mongodb://localhost/wikipedia')
 
 // models
-var Article = require('./models/article.js').Article
+var Article = require('../models/article.js').Article
 
 // get notified if we connect successfully or if a connection error occurs
 var db = mongoose.connection
@@ -12,5 +12,6 @@ db.once('open', function() {
   console.log('Connected to MongoDB')
   Article.remove({}, function(err) {
      console.log('Collection restarted')
+     process.exit()
   })
 })

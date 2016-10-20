@@ -12,9 +12,12 @@ db.once('open', function() {
   console.log('Connected to MongoDB')
 })
 
-exports.insert = function(article) {
+exports.insert = function(article, cb) {
   Article.create(article, function (err, obj) {
     if (err) return handleError(err)
-    else console.log('Article saved!')
+    else {
+      console.log('Article saved!')
+      cb(null, 'Article Saved')
+    }
   })
 }
