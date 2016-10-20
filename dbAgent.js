@@ -5,8 +5,6 @@ mongoose.connect('mongodb://localhost/wikipedia')
 // models
 var Article = require('./models/article.js').Article
 
-console.log(Article);
-
 // get notified if we connect successfully or if a connection error occurs
 var db = mongoose.connection
 db.on('error', console.error.bind(console, 'connection error:'))

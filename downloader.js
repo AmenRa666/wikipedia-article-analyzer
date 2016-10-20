@@ -11,15 +11,15 @@ var _ = require('underscore')
 var filename = 'articleList.txt'
 var url = 'https://en.wikipedia.org/wiki/Special:Export/'
 var path = 'articleXML/'
-var i = 1
+var index = 1
 
 const writeFile = (title, contents, cb) => {
   mkdirp(path, function (err) {
     if (err) return cb(err);
     title = title.replace(/\//g, '\u2215') // REPLACE SLASH
     fs.writeFile(path + title + '.xml', contents, () => {
-      console.log(i +' SAVED: '+ title);
-      i++
+      console.log(index +' SAVED: '+ title);
+      index++
       cb(null, 'Article Downloaded')
     })
   });

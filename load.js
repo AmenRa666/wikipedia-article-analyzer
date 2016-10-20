@@ -27,7 +27,8 @@ var structureAnalyzer = require('./analyzers/structureAnalyzer.js')
 var lexicalAnalyzer = require('./analyzers/lexicalAnalyzer.js')
 var styleAnalyzer = require('./analyzers/styleAnalyzer.js')
 var articleAnalyzer = require('./articleAnalyzer.js')
-
+// Database Agent
+var dbAgent = require('./dbAgent.js')
 
 // LOGIC
 var xmlFilename = process.argv[2]
@@ -175,140 +176,116 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
         // Root text (she sold seashells -> she sell seashell)
         var rootText = nlp.text(expandedText).root()
 
-        ////////////////////////////////////////////////////////////////////////
-        /////////////////////////// LENGHT FEATURES ////////////////////////////
-        ////////////////////////////////////////////////////////////////////////
-
-        // // Character count (letters and numbers)
-        // var characterCount = articleJSON.onlyLettersAndNumbersText.length
-        //
-        // // Count words
-        // var wordCount = articleJSON.words.length
-        //
-        // // Count syllable
-        // var syllableCount = 0
-        // words.forEach((word) => {
-        //   syllableCount = syllableCount + nlp.term(word).syllables().length
-        // })
-        //
-        // // Sentence count
-        // var sentenceCount = articleJSON.sentences.length
-        //
-        // var lengthFeatures = {
-        //   characterCount: characterCount,
-        //   wordCount: wordCount,
-        //   syllableCount: syllableCount,
-        //   sentenceCount: sentenceCount
-        // }
-        //
-        // articleJSON.features.lengthFeatures = lengthFeatures
-
-        ////////////////////////////////////////////////////////////////////////
-        //////////////////////////// STYLE FEATURES ////////////////////////////
-        ////////////////////////////////////////////////////////////////////////
-
-        // // Largest sentence size (in words)
-        // var largestSentenceSize = 0
-        // articleJSON.sentences.forEach((sentence) => {
-        //   // Expand contractions (i'll -> i will)
-        //   var expandedSentence = nlp.text(sentence.str.toLowerCase()).contractions.expand().text()
-        //   var sentenceLengthInWords = expandedSentence.split(' ').length
-        //   if (sentenceLengthInWords > largestSentenceSize) {
-        //     largestSentenceSize = sentenceLengthInWords
-        //   }
-        // })
-        //
-        //
-        //
-        //
-        //
-        //
-        //
-        //
-        //
-        //
-        // // Mean sentence size (in words)
-        // var meanSentenceSize = articleJSON.features.lengthFeatures.wordCount/articleJSON.features.lengthFeatures.sentenceCount
-        //
-        // // Large sentence rate
-        // var largeSentenceCount = 0
-        // articleJSON.sentences.forEach((sentence) => {
-        //   // Expand contractions (i'll -> i will)
-        //   var expandedSentence = nlp.text(sentence.str.toLowerCase()).contractions.expand().text()
-        //   var sentenceLengthInWords = expandedSentence.split(' ').length
-        //   if (sentenceLengthInWords > meanSentenceSize + 10) {
-        //     largeSentenceCount++
-        //   }
-        // })
-        // var largeSentenceRate = largeSentenceCount/articleJSON.features.lengthFeatures.sentenceCount
-        //
-        // // Short sentence rate
-        // var shortSentenceCount = 0
-        // articleJSON.sentences.forEach((sentence) => {
-        //   // Expand contractions (i'll -> i will)
-        //   var expandedSentence = nlp.text(sentence.str.toLowerCase()).contractions.expand().text()
-        //   var sentenceLengthInWords = expandedSentence.split(' ').length
-        //   if (sentenceLengthInWords < meanSentenceSize - 5) {
-        //     shortSentenceCount++
-        //   }
-        // })
-        // var shortSentenceRate = shortSentenceCount/articleJSON.features.lengthFeatures.sentenceCount
-
-        // // Nouns per sentence
-        // var nounsPerSentence = 0
-        // // ASINCRONO
-        // wordpos.getNouns(rootText, (differentNouns) => {
-        //   differentNouns.forEach((noun) => {
-        //     var regex = new RegExp(noun, 'g');
-        //     var matchCount = (noPointsText.match(regex || [])).length
-        //     nounsPerSentence = nounsPerSentence + matchCount/articleJSON.features.lengthFeatures.sentenceCount
-        //   })
-        //   console.log(nounsPerSentence);
-        // });
-        //
-        // // Verbs per sentence
-        // var verbsPerSentence = 0
-        // // ASINCRONO
-        // wordpos.getVerbs(rootText, (differentVerbs) => {
-        //   differentVerbs.forEach((verb) => {
-        //     var regex = new RegExp(verb, 'g');
-        //     var matchCount = (noPointsText.match(regex || [])).length
-        //     verbsPerSentence = verbsPerSentence + matchCount/articleJSON.features.lengthFeatures.sentenceCount
-        //   })
-        // });
-
-        // var styleFeatures = {
-        //   largestSentenceSize: largestSentenceSize,
-        //   meanSentenceSize: meanSentenceSize,
-        //   largeSentenceRate: largeSentenceRate,
-        //   shortSentenceCount: shortSentenceCount
-        // }
-        //
-        // articleJSON.features.styleFeatures = styleFeatures
-
-
-
-        // posTagger.tag(articleJSON.plainText, (pos) => {
-        //   posAnalyzer.getPosTrigrams(pos.taggedWords, (posTrigrams) => {
-        //     console.log(posTrigrams);
-        //   })
-        // })
-
-
-
-        // posTagger.getFirstWordTags(sentences, (results) =>{
-        //   posAnalyzer.getNumberOfSentencesThatStartWith(results, articleJSON.sentences, articleJSON.features.lengthFeatures.sentenceCount, (numberOfSentencesThatStartWith) => {
-        //     console.log(numberOfSentencesThatStartWith);
-        //   })
-        // })
-
-
-
-
-
-
         articleAnalyzer.analyze(articleTextFromXML, id, title, textWithSectionTitles, subsectionIndexes, abstract, sections, text, sentences, onlyLettersAndNumbersText, words, (articleJSON) => {
-          console.log(JSON.stringify(articleJSON.features, null, 2));
+          // console.log(JSON.stringify(articleJSON.features, null, 2));
+
+          var article = {
+            // Length Features
+            characterCount: articleJSON.features.lengthFeatures.characterCount,
+            wordCount: articleJSON.features.lengthFeatures.wordCount,
+            syllableCount: articleJSON.features.lengthFeatures.syllableCount,
+            sentenceCount: articleJSON.features.lengthFeatures.sentenceCount,
+            // Structure Features
+            sectionCount: articleJSON.features.structureFeatures.sectionCount,
+            subsectionCount: articleJSON.features.structureFeatures.subsectionCount,
+            paragraphCount: articleJSON.features.structureFeatures.paragraphCount,
+            meanSectionSize: articleJSON.features.structureFeatures.meanSectionSize,
+            meanParagraphSize: articleJSON.features.structureFeatures.meanParagraphSize,
+            largestSectionSize: articleJSON.features.structureFeatures.largestSectionSize,
+            shortestSectionSize: articleJSON.features.structureFeatures.shortestSectionSize,
+            largestShortestSectionRatio: articleJSON.features.structureFeatures.largestShortestSectionRatio,
+            sectionSizeStandardDeviation: articleJSON.features.structureFeatures.sectionSizeStandardDeviation,
+            meanOfSubsectionsPerSection: articleJSON.features.structureFeatures.meanOfSubsectionsPerSection,
+            abstractSize: articleJSON.features.structureFeatures.abstractSize,
+            abstractSizeArtcileLengthRatio: articleJSON.features.structureFeatures.abstractSizeArtcileLengthRatio,
+            citationCount: articleJSON.features.structureFeatures.citationCount,
+            citationCountPerSentence: articleJSON.features.structureFeatures.citationCountPerSentence,
+            citationCountPerSection: articleJSON.features.structureFeatures.citationCountPerSection,
+            externalLinksCount: articleJSON.features.structureFeatures.externalLinksCount,
+            externalLinksPerSentence: articleJSON.features.structureFeatures.externalLinksPerSentence,
+            externalLinksPerSection: articleJSON.features.structureFeatures.externalLinksPerSection,
+            imageCount: articleJSON.features.structureFeatures.imageCount,
+            imagePerSentence: articleJSON.features.structureFeatures.imagePerSentence,
+            imagePerSection: articleJSON.features.structureFeatures.imagePerSection,
+            // Style Features
+            meanSentenceSize: articleJSON.features.styleFeatures.meanSentenceSize,
+            largestSentenceSize: articleJSON.features.styleFeatures.largestSentenceSize,
+            shortestSentenceSize: articleJSON.features.styleFeatures.shortestSentenceSize,
+            largeSentenceRate: articleJSON.features.styleFeatures.largeSentenceRate,
+            shortSentenceRate: articleJSON.features.styleFeatures.shortSentenceRate,
+            questionCount: articleJSON.features.styleFeatures.questionCount,
+            questionRatio: articleJSON.features.styleFeatures.questionRatio,
+            exclamationCount: articleJSON.features.styleFeatures.exclamationCount,
+            exclamationRatio: articleJSON.features.styleFeatures.exclamationRatio,
+            toBeVerbCount: articleJSON.features.styleFeatures.toBeVerbCount,
+            toBeVerbRatio: articleJSON.features.styleFeatures.toBeVerbRatio,
+            toBeVerbPerSentence: articleJSON.features.styleFeatures.toBeVerbPerSentence,
+            toBeVerbRate: articleJSON.features.styleFeatures.toBeVerbRate,
+            // Readability Features
+            automatedReadabilityIndex: articleJSON.features.readabilityFeatures.automatedReadabilityIndex,
+            colemanLiauIndex: articleJSON.features.readabilityFeatures.colemanLiauIndex,
+            fleshReadingEase: articleJSON.features.readabilityFeatures.fleshReadingEase,
+            fleschKincaidGradeLevel: articleJSON.features.readabilityFeatures.fleschKincaidGradeLevel,
+            gunningFogIndex: articleJSON.features.readabilityFeatures.gunningFogIndex,
+            lasbarhetsIndex: articleJSON.features.readabilityFeatures.lasbarhetsIndex,
+            smogGrading: articleJSON.features.readabilityFeatures.smogGrading,
+            linsearWriteFormula: articleJSON.features.readabilityFeatures.linsearWriteFormula,
+            daleChallReadabilityFormula: articleJSON.features.readabilityFeatures.daleChallReadabilityFormula,
+            // Lexical Features
+            differentWordCount: articleJSON.features.lexicalFeatures.differentWordCount,
+            differentWordsPerSentence: articleJSON.features.lexicalFeatures.differentWordsPerSentence,
+            differentWordsRate: articleJSON.features.lexicalFeatures.differentWordsRate,
+            nounCount: articleJSON.features.lexicalFeatures.nounCount,
+            nounsPerSentence: articleJSON.features.lexicalFeatures.nounsPerSentence,
+            nounsRate: articleJSON.features.lexicalFeatures.nounsRate,
+            differentNounCount: articleJSON.features.lexicalFeatures.differentNounCount,
+            differentNounsPerSentence: articleJSON.features.lexicalFeatures.differentNounsPerSentence,
+            differentNounsRate: articleJSON.features.lexicalFeatures.differentNounsRate,
+            verbCount: articleJSON.features.lexicalFeatures.verbCount,
+            verbsPerSentence: articleJSON.features.lexicalFeatures.verbsPerSentence,
+            verbsRate: articleJSON.features.lexicalFeatures.verbsRate,
+            differentVerbCount: articleJSON.features.lexicalFeatures.differentVerbCount,
+            differentVerbsPerSentence: articleJSON.features.lexicalFeatures.differentVerbsPerSentence,
+            differentVerbsRate: articleJSON.features.lexicalFeatures.differentVerbsRate,
+            pronounCount: articleJSON.features.lexicalFeatures.pronounCount,
+            pronounsPerSentence: articleJSON.features.lexicalFeatures.pronounsPerSentence,
+            pronounsRate: articleJSON.features.lexicalFeatures.pronounsRate,
+            differentPronounCount: articleJSON.features.lexicalFeatures.differentPronounCount,
+            differentPronounsPerSentence: articleJSON.features.lexicalFeatures.differentPronounsPerSentence,
+            differentPronounsRate: articleJSON.features.lexicalFeatures.differentPronounsRate,
+            adjectiveCount: articleJSON.features.lexicalFeatures.adjectiveCount,
+            adjectivesPerSentence: articleJSON.features.lexicalFeatures.adjectivesPerSentence,
+            adjectivesRate: articleJSON.features.adjectivesRate,
+            differentAdjectiveCount: articleJSON.features.lexicalFeatures.differentAdjectiveCount,
+            differentAdjectivesPerSentence: articleJSON.features.lexicalFeatures.differentAdjectivesPerSentence,
+            differentAdjectivesRate: articleJSON.features.lexicalFeatures.differentAdjectivesRate,
+            adverbCount: articleJSON.features.lexicalFeatures.adverbCount,
+            adverbsPerSentence: articleJSON.features.lexicalFeatures.adverbsPerSentence,
+            adverbsRate: articleJSON.features.lexicalFeatures.adverbsRate,
+            differentAdverbCount: articleJSON.features.lexicalFeatures.differentAdverbCount,
+            differentAdverbsPerSentence: articleJSON.features.lexicalFeatures.differentAdverbsPerSentence,
+            differentAdverbsRate: articleJSON.features.lexicalFeatures.differentAdverbsRate,
+            coordinatingConjunctionCount: articleJSON.features.lexicalFeatures.coordinatingConjunctionCount,
+            coordinatingConjunctionsPerSentence: articleJSON.features.lexicalFeatures.coordinatingConjunctionsPerSentence,
+            coordinatingConjunctionsRate: articleJSON.features.lexicalFeatures.coordinatingConjunctionsPerSentence,
+            differentCoordinatingConjunctionCount: articleJSON.features.lexicalFeatures.differentCoordinatingConjunctionCount,
+            differentCoordinatingConjunctionsPerSentence: articleJSON.features.lexicalFeatures.differentCoordinatingConjunctionsPerSentence,
+            differentCoordinatingConjunctionsRate: articleJSON.features.lexicalFeatures.differentCoordinatingConjunctionsRate,
+            subordinatingPrepositionAndConjunctionCount: articleJSON.features.lexicalFeatures.subordinatingPrepositionAndConjunctionCount,
+            subordinatingPrepositionsAndConjunctionsPerSentence: articleJSON.features.lexicalFeatures.subordinatingPrepositionsAndConjunctionsPerSentence,
+            subordinatingPrepositionsAndConjunctionsRate: articleJSON.features.lexicalFeatures.subordinatingPrepositionsAndConjunctionsRate,
+            differentSubordinatingPrepositionAndConjunctionCount: articleJSON.features.lexicalFeatures.differentSubordinatingPrepositionAndConjunctionCount,
+            differentSubordinatingPrepositionsAndConjunctionsPerSentence: articleJSON.features.lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsPerSentence,
+            differentSubordinatingPrepositionsAndConjunctionsRate: articleJSON.features.lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsRate,
+            syllablesPerWord: articleJSON.features.lexicalFeatures.syllablesPerWord,
+            charactersPerWord: articleJSON.features.lexicalFeatures.charactersPerWord,
+            // Quality Class
+            qualityClass: 5
+          }
+
+          dbAgent.insert(article)
+
+
         })
 
       })
@@ -329,58 +306,3 @@ Array.prototype.min = function() {
 Array.prototype.max = function() {
   return Math.max.apply(null, this);
 };
-
-
-
-
-// // LENGTH ANALYZER
-// lengthAnalyzer.analyze(articleJSON.words, articleJSON.sentences, (result) => {
-//   articleJSON.features.lengthFeatures = result
-// })
-
-// STRUCTURE ANALYZER
-// structureAnalyzer.analyze(
-//   articleJSON.sections,
-//   articleJSON.subsectionIndexes,
-//   articleJSON.features.lengthFeatures.characterCount,
-//   articleJSON.features.lengthFeatures.wordCount,
-//   articleJSON.features.lengthFeatures.sentenceCount,
-//   articleJSON.textFromXML,
-//   (result) => {
-//     articleJSON.features.structureFeatures = result
-//   }
-// )
-
-// READABILITY ANALYZER
-// readabilityAnalyzer.analyze(
-//   articleJSON.features.lengthFeatures.characterCount,
-//   articleJSON.features.lengthFeatures.wordCount,
-//   articleJSON.features.lengthFeatures.sentenceCount,
-//   articleJSON.features.lengthFeatures.syllableCount,
-//   articleJSON.words,
-//   articleJSON.text,
-//   (result) => {
-//     articleJSON.features.readabilityFeatures = result
-//   }
-// )
-
-
-// POS ANALYZER
-// posAnalyzer.analyze(articleJSON.plainText, (result) => {
-//   console.log(result.posTrigrams);
-// })
-
-// TRIGRAM ANALYZER
-// Print sorted (desc) trigrams
-// trigramAnalyzer.getPosTrigrams(articleJSON.plainText, (results) => {
-//   // var sortable = _.toArray(results)
-//   var sortedTrigrams = []
-//   for (var result in results)
-//     sortedTrigrams.push([result, results[result]])
-//   sortedTrigrams.sort(
-//     (a, b) => {
-//       return b[1] - a[1]
-//     }
-//   )
-//   console.log(sortedTrigrams)
-// })
