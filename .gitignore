@@ -40,5 +40,11 @@ jspm_packages
 tmp
 
 # XMLs of articles
-articleXML
+articlesXML
+featuredArticlesXML
 aClassArticlesXML
+goodArticlesXML
+bClassArticlesXML
+cClassArticlesXML
+startArticlesXML
+stubArticlesXML
