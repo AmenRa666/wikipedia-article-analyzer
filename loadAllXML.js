@@ -14,15 +14,17 @@ var articleAnalyzer = require('./articleAnalyzer.js')
 var dbAgent = require('./dbAgent.js')
 
 // LOGIC
-var listsFolder = 'articleLists/'
-var articleLists = ['featuredArticleList.txt', 'aClassArticleList.txt', 'goodArticleList.txt', 'bClassArticleList.txt', 'cClassArticleList.txt', 'startArticleList.txt', 'stubArticleList.txt']
-var folder = 'articleXML/'
-var path = ['featuredArticlesXML/', 'aClassArticlesXML/', 'goodArticlesXML/', 'bClassArticlesXML/', 'cClassArticlesXML/', 'startArticlesXML/', 'stubArticlesXML/']
+// var listsFolder = 'articleLists/'
+// var articleLists = ['featuredArticleList.txt', 'aClassArticleList.txt', 'goodArticleList.txt', 'bClassArticleList.txt', 'cClassArticleList.txt', 'startArticleList.txt', 'stubArticleList.txt']
+var folder = 'articlesXML/'
+var paths = ['featuredArticlesXML/', 'aClassArticlesXML/', 'goodArticlesXML/', 'bClassArticlesXML/', 'cClassArticlesXML/', 'startArticlesXML/', 'stubArticlesXML/']
+var pathIndex = 0
 var qualityClass = 5
 
-const load = (title, cb) => {
 
-  var xmlFilename = path + title + '.xml'
+const load = (file, cb) => {
+
+  var xmlFilename = folder + paths[pathIndex] + file
   var parser = new xml2js.Parser()
 
   // Read the file and print its contents.
@@ -30,7 +32,7 @@ const load = (title, cb) => {
     if (err) throw err
 
     console.log('- - - - - - - - - - - - - - - - - - - -')
-    console.log('XML LOADED: ' + xmlFilename)
+    console.log('XML LOADED: ' + file)
     console.log('- - - - - - - - - - - - - - - - - - - -')
 
     // Remove subsubsection titles and similar
@@ -277,35 +279,62 @@ const load = (title, cb) => {
   })
 }
 
-const readFile = (filename, cb) => {
-  fs.readFile(listsFolder + filename, 'utf8', function(err, data) {
-    if (err) throw err;
-    console.log(filename + ': LOADED');
-    var titles = data.trim().split('\n')
-    for (var i = 0; i < titles.length; i++) {
-      titles[i] = decodeURI(titles[i].trim())
+// const readFile = (filename, cb) => {
+//   fs.readFile(listsFolder + filename, 'utf8', function(err, data) {
+//     if (err) throw err;
+//     console.log(filename + ': LOADED');
+//     var titles = data.trim().split('\n')
+//     for (var i = 0; i < titles.length; i++) {
+//       titles[i] = decodeURI(titles[i].trim())
+//     }
+//     console.log('Articles analysis: STARTING');
+//     async.eachSeries(
+//       titles,
+//       load,
+//       (err, result) => {
+//       if (err) {
+//         console.log(err);
+//       }
+//       else {
+//         qualityClass--
+//         console.log('Articles analysis: DONE');
+//       }
+//     })
+//   })
+// }
+
+
+
+const readAllFiles = (path, cb) => {
+  fs.readdir(folder + path, (err, files) => {
+    if (err) console.log(err);
+    else {
+      console.log('Articles analysis: STARTING');
+      async.eachSeries(
+        files,
+        load,
+        (err, result) => {
+          if (err) {
+            console.log(err);
+          }
+          else {
+            pathIndex++
+            qualityClass--
+            console.log('Articles analysis: DONE');
+            cb(null, 'Read All Files')
+        }
+      })
     }
-    console.log('Articles analysis: STARTING');
-    async.eachSeries(
-      titles,
-      load,
-      (err, result) => {
-      if (err) {
-        console.log(err);
-      }
-      else {
-        qualityClass--
-        console.log('Articles analysis: DONE');
-      }
-    })
   })
 }
+
+
 
 time.tic();
 
 async.eachSeries(
-  articleLists,
-  readFile,
+  paths,
+  readAllFiles,
   (err, result) => {
     if (err) console.log(err);
     else console.log('All articles have been analyzed!');
