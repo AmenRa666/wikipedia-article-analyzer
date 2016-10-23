@@ -53,7 +53,7 @@ const downloadFeaturedArticles = (cb) => {
     console.log('Featured Article List: LOADED');
     var titles = data.trim().split('\n')
     for (var i = 0; i < titles.length; i++) {
-      titles[i] = decodeURI(titles[i].trim())
+      titles[i] = decodeURIComponent(titles[i].trim())
     }
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Featured Articles download: STARTING');
@@ -75,7 +75,7 @@ const downloadFeaturedArticles = (cb) => {
 }
 
 const downloadAClassArticles = (cb) => {
-  var filename = './articleLists/aCLassArticleList.txt'
+  var filename = './articleLists/aClassArticleList.txt'
   index = 1
   fs.readFile(filename, 'utf8', function(err, data) {
     if (err) throw err;
@@ -83,7 +83,7 @@ const downloadAClassArticles = (cb) => {
     console.log('A Class Article List: LOADED');
     var titles = data.trim().split('\n')
     for (var i = 0; i < titles.length; i++) {
-      titles[i] = decodeURI(titles[i].trim())
+      titles[i] = decodeURIComponent(titles[i].trim())
     }
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('A Class Articles download: STARTING');
@@ -113,7 +113,7 @@ const downloadGoodArticles = (cb) => {
     console.log('Good Article List: LOADED');
     var titles = data.trim().split('\n')
     for (var i = 0; i < titles.length; i++) {
-      titles[i] = decodeURI(titles[i].trim())
+      titles[i] = decodeURIComponent(titles[i].trim())
     }
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Good Articles download: STARTING');
@@ -135,7 +135,7 @@ const downloadGoodArticles = (cb) => {
 }
 
 const downloadBClassArticles = (cb) => {
-  var filename = './articleLists/bCLassArticleList.txt'
+  var filename = './articleLists/bClassArticleList.txt'
   index = 1
   fs.readFile(filename, 'utf8', function(err, data) {
     if (err) throw err;
@@ -143,7 +143,7 @@ const downloadBClassArticles = (cb) => {
     console.log('B Class Article List: LOADED');
     var titles = data.trim().split('\n')
     for (var i = 0; i < titles.length; i++) {
-      titles[i] = decodeURI(titles[i].trim())
+      titles[i] = decodeURIComponent(titles[i].trim())
     }
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('B Class Articles download: STARTING');
@@ -165,7 +165,7 @@ const downloadBClassArticles = (cb) => {
 }
 
 const downloadCClassArticles = (cb) => {
-  var filename = './articleLists/cCLassArticleList.txt'
+  var filename = './articleLists/cClassArticleList.txt'
   index = 1
   fs.readFile(filename, 'utf8', function(err, data) {
     if (err) throw err;
@@ -173,7 +173,7 @@ const downloadCClassArticles = (cb) => {
     console.log('C Class Article List: LOADED');
     var titles = data.trim().split('\n')
     for (var i = 0; i < titles.length; i++) {
-      titles[i] = decodeURI(titles[i].trim())
+      titles[i] = decodeURIComponent(titles[i].trim())
     }
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('C Class Articles download: STARTING');
@@ -203,7 +203,7 @@ const downloadStartArticles = (cb) => {
     console.log('Start Article List: LOADED');
     var titles = data.trim().split('\n')
     for (var i = 0; i < titles.length; i++) {
-      titles[i] = decodeURI(titles[i].trim())
+      titles[i] = decodeURIComponent(titles[i].trim())
     }
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Start Articles download: STARTING');
@@ -233,7 +233,7 @@ const downloadStubArticles = (cb) => {
     console.log('Stub Article List: LOADED');
     var titles = data.trim().split('\n')
     for (var i = 0; i < titles.length; i++) {
-      titles[i] = decodeURI(titles[i].trim())
+      titles[i] = decodeURIComponent(titles[i].trim())
     }
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Stub Articles download: STARTING');
@@ -275,7 +275,7 @@ function(err, results) {
 //   console.log('Article List: LOADED');
 //   var titles = data.trim().split('\n')
 //   for (var i = 0; i < titles.length; i++) {
-//     titles[i] = decodeURI(titles[i].trim())
+//     titles[i] = decodeURIComponent(titles[i].trim())
 //   }
 //   console.log('Articles download: STARTING');
 //   async.eachSeries(
