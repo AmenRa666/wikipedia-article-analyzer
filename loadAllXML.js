@@ -14,8 +14,11 @@ var articleAnalyzer = require('./articleAnalyzer.js')
 var dbAgent = require('./dbAgent.js')
 
 // LOGIC
-var filename = 'articleList.txt'
-var path = './articleXML/'
+var listsFolder = 'articleLists/'
+var articleLists = ['featuredArticleList.txt', 'aClassArticleList.txt', 'goodArticleList.txt', 'bClassArticleList.txt', 'cClassArticleList.txt', 'startArticleList.txt', 'stubArticleList.txt']
+var folder = 'articleXML/'
+var path = ['featuredArticlesXML/', 'aClassArticlesXML/', 'goodArticlesXML/', 'bClassArticlesXML/', 'cClassArticlesXML/', 'startArticlesXML/', 'stubArticlesXML/']
+var qualityClass = 5
 
 const load = (title, cb) => {
 
@@ -163,6 +166,8 @@ const load = (title, cb) => {
             // console.log(JSON.stringify(articleJSON.features, null, 2));
 
             var article = {
+              id: id,
+              title: title,
               // Length Features
               characterCount: articleJSON.features.lengthFeatures.characterCount,
               wordCount: articleJSON.features.lengthFeatures.wordCount,
@@ -263,7 +268,7 @@ const load = (title, cb) => {
               syllablesPerWord: articleJSON.features.lexicalFeatures.syllablesPerWord,
               charactersPerWord: articleJSON.features.lexicalFeatures.charactersPerWord,
               // Quality Class
-              qualityClass: 5
+              qualityClass: qualityClass
             }
 
             dbAgent.insert(article, cb)
@@ -276,20 +281,31 @@ const load = (title, cb) => {
   })
 }
 
-
-fs.readFile(filename, 'utf8', function(err, data) {
-  if (err) throw err;
-  console.log('Article List: LOADED');
-  var titles = data.trim().split('\n')
-  for (var i = 0; i < titles.length; i++) {
-    titles[i] = decodeURI(titles[i].trim())
-  }
-  console.log('Articles analysis: STARTING');
-  async.eachSeries(
-    titles,
-    load,
-    (err, result) => {
-    if (err) console.log(err);
-    else console.log('Articles analysis: DONE');
+const readFile = (filename, cb) => {
+  fs.readFile(listsFolder + filename, 'utf8', function(err, data) {
+    if (err) throw err;
+    console.log(filename + ': LOADED');
+    var titles = data.trim().split('\n')
+    for (var i = 0; i < titles.length; i++) {
+      titles[i] = decodeURI(titles[i].trim())
+    }
+    console.log('Articles analysis: STARTING');
+    async.eachSeries(
+      titles,
+      load,
+      (err, result) => {
+      if (err) console.log(err);
+      qualityClass--
+      else console.log('Articles analysis: DONE');
+    })
   })
-})
+}
+
+async.eachSeries(
+  articleLists,
+  readFile,
+  (err, result) => {
+    if (err) console.log(err);
+    else console.log('All articles have been analyzed!');
+  }
+)
