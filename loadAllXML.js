@@ -27,7 +27,6 @@ const load = (title, cb) => {
 
   // Read the file and print its contents.
   fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
-    time.tic();
     if (err) throw err
 
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -270,10 +269,7 @@ const load = (title, cb) => {
               // Quality Class
               qualityClass: qualityClass
             }
-
             dbAgent.insert(article, cb)
-            time.toc();
-
           })
         })
       })
@@ -294,12 +290,18 @@ const readFile = (filename, cb) => {
       titles,
       load,
       (err, result) => {
-      if (err) console.log(err);
-      qualityClass--
-      else console.log('Articles analysis: DONE');
+      if (err) {
+        console.log(err);
+      }
+      else {
+        qualityClass--
+        console.log('Articles analysis: DONE');
+      }
     })
   })
 }
+
+time.tic();
 
 async.eachSeries(
   articleLists,
@@ -309,3 +311,5 @@ async.eachSeries(
     else console.log('All articles have been analyzed!');
   }
 )
+
+time.toc();
