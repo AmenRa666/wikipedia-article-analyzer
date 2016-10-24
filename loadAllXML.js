@@ -17,9 +17,11 @@ var dbAgent = require('./dbAgent.js')
 // var listsFolder = 'articleLists/'
 // var articleLists = ['featuredArticleList.txt', 'aClassArticleList.txt', 'goodArticleList.txt', 'bClassArticleList.txt', 'cClassArticleList.txt', 'startArticleList.txt', 'stubArticleList.txt']
 var folder = 'articlesXML/'
-var paths = ['featuredArticlesXML/', 'aClassArticlesXML/', 'goodArticlesXML/', 'bClassArticlesXML/', 'cClassArticlesXML/', 'startArticlesXML/', 'stubArticlesXML/']
+// var paths = ['featuredArticlesXML/', 'aClassArticlesXML/', 'goodArticlesXML/', 'bClassArticlesXML/', 'cClassArticlesXML/', 'startArticlesXML/', 'stubArticlesXML/']
+var paths = ['aClassArticlesXML/', 'goodArticlesXML/', 'bClassArticlesXML/', 'cClassArticlesXML/', 'startArticlesXML/', 'stubArticlesXML/']
 var pathIndex = 0
-var qualityClass = 5
+// var qualityClass = 5
+var qualityClass = 4
 
 
 const load = (file, cb) => {
@@ -310,6 +312,7 @@ const readAllFiles = (path, cb) => {
     if (err) console.log(err);
     else {
       console.log('Articles analysis: STARTING');
+      console.log(files);
       async.eachSeries(
         files,
         load,
