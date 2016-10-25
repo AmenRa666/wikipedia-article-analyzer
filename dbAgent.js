@@ -12,8 +12,8 @@ db.once('open', function() {
   console.log('Connected to MongoDB')
 })
 
-exports.insert = function(article, cb) {
-  Article.create(article, function (err, obj) {
+const insert = (article, cb) => {
+  Article.create(article, (err, obj) => {
     if (err) return handleError(err)
     else {
       console.log('Article saved!')
@@ -21,3 +21,24 @@ exports.insert = function(article, cb) {
     }
   })
 }
+
+const findByTitle = (title, cb) => {
+  var query = {"title":title}
+  Article.findOne(query, (err, doc) => {
+    if (err) console.log(err);
+    else cb(doc)
+  })
+}
+
+const findById = (id, cb) => {
+  var query = {"id":id}
+  Article.findOne(query, (err, doc) => {
+    if (err) console.log(err);
+    else cb(doc)
+  })
+}
+
+// EXPORTS
+module.exports.insert = insert
+module.exports.findByTitle = findByTitle
+module.exports.findById = findById

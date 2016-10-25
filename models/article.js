@@ -4,6 +4,8 @@ var Schema = mongoose.Schema;
 
 // schema maps to a MongoDB collection and defines the shape of the documents within that collection
 var articlesSchema = new Schema({
+  id: Number,
+  title: String,
   // Length Features
   characterCount: Number,
   wordCount: Number,
