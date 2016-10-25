@@ -109,6 +109,8 @@ const load = (file, cb) => {
               // Subsection indexes
               var subsectionIndexes = []
               subsectionTitlesXML.forEach((subsectionTitle) => {
+                subsectionTitle = subsectionTitle.replace(new RegExp('[.\\\\+*?\\[\\^\\]$(){}=!<>|:\\-]', 'g'), '\\$&')
+                console.log(subsectionTitle);
                 var index = textWithSectionTitles.search(subsectionTitle + '.')
                 if (index > -1) {
                   subsectionIndexes.push(index)
@@ -120,6 +122,7 @@ const load = (file, cb) => {
               var sectionIndexes = [0]
 
               sectionTitlesXML.forEach((sectionTitle) => {
+                sectionTitle = sectionTitle.replace(new RegExp('[.\\\\+*?\\[\\^\\]$(){}=!<>|:\\-]', 'g'), '\\$&')
                 var index = textWithSectionTitles.search(sectionTitle + '.')
                 if (index > -1) {
                   sectionIndexes.push(index)
