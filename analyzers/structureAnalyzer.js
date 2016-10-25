@@ -81,12 +81,32 @@ const getSectionSizes = (cb) => {
 }
 
 const getLargestSectionSize = (cb) => {
-  structureFeatures.largestSectionSize = sectionSizes.max()
+  var largestSectionSize = 0
+  sectionSizes.forEach((sectionSize) => {
+    if (sectionSize != 0 && sectionSize > largestSectionSize) {
+      largestSectionSize = sectionSize
+    }
+  })
+  structureFeatures.largestSectionSize = largestSectionSize
+  
+  // INDRODUCE ERRORI PROBABILMENTE A CAUSA DI WIKIEXTRACTOR.PY
+  // structureFeatures.largestSectionSize = sectionSizes.max()
+
   cb(null, 'Get Largest Section Size')
 }
 
 const getShortestSectionSize = (cb) => {
-  structureFeatures.shortestSectionSize = sectionSizes.min()
+  var shortestSectionSize = 1000000
+  sectionSizes.forEach((sectionSize) => {
+    if (sectionSize != 0 && sectionSize < shortestSectionSize) {
+      shortestSectionSize = sectionSize
+    }
+  })
+  structureFeatures.shortestSectionSize = shortestSectionSize
+
+  // INDRODUCE ERRORI PROBABILMENTE A CAUSA DI WIKIEXTRACTOR.PY
+  // structureFeatures.shortestSectionSize = sectionSizes.min()
+
   cb(null, 'Get Shortest Section Size')
 }
 
