@@ -88,7 +88,7 @@ const getLargestSectionSize = (cb) => {
     }
   })
   structureFeatures.largestSectionSize = largestSectionSize
-  
+
   // INDRODUCE ERRORI PROBABILMENTE A CAUSA DI WIKIEXTRACTOR.PY
   // structureFeatures.largestSectionSize = sectionSizes.max()
 
@@ -204,7 +204,7 @@ const countImages = (cb) => {
 }
 
 const getImagesPerSentence = (cb) => {
-  imagePerSentence = structureFeatures.imageCount/sentenceCount
+  structureFeatures.imagePerSentence = structureFeatures.imageCount/sentenceCount
   cb(null, 'Get Images Per Text Length')
 }
 
