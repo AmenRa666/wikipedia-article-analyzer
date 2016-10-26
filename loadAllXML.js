@@ -109,8 +109,8 @@ const load = (file, cb) => {
               // Subsection indexes
               var subsectionIndexes = []
               subsectionTitlesXML.forEach((subsectionTitle) => {
-                var pattern = subsectionTitle.replace(new RegExp('[.\\\\+*?\\[\\^\\]$(){}=!<>|:\\-]', 'g'), '\\$&') + '.'
-                var regex = new RegExp(pattern, '')
+                var subsectionPattern = subsectionTitle.replace(new RegExp('[.\\\\+*?\\[\\^\\]$(){}=!<>|:\\-]', 'g'), '\\$&') + '.'
+                var regex = new RegExp(subsectionPattern, '')
                 var index = textWithSectionTitles.search(regex)
                 if (index > -1) {
                   subsectionIndexes.push(index)
@@ -120,10 +120,9 @@ const load = (file, cb) => {
 
               // Initialized with element 0 because it's the index of the abstract
               var sectionIndexes = [0]
-
               sectionTitlesXML.forEach((sectionTitle) => {
-                sectionTitle = sectionTitle.replace(new RegExp('[.\\\\+*?\\[\\^\\]$(){}=!<>|:\\-]', 'g'), '\\$&')
-                var index = textWithSectionTitles.search(sectionTitle + '.')
+                var sectionPattern = sectionTitle.replace(new RegExp('[.\\\\+*?\\[\\^\\]$(){}=!<>|:\\-]', 'g'), '\\$&')
+                var index = textWithSectionTitles.search(sectionPattern + '.')
                 if (index > -1) {
                   sectionIndexes.push(index)
                   textWithSectionTitles = textWithSectionTitles.replace(sectionTitle + '.', '')

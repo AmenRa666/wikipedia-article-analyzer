@@ -81,7 +81,7 @@ const getSectionSizes = (cb) => {
 }
 
 const getLargestSectionSize = (cb) => {
-  var largestSectionSize = 0
+  var largestSectionSize = 1
   sectionSizes.forEach((sectionSize) => {
     if (sectionSize != 0 && sectionSize > largestSectionSize) {
       largestSectionSize = sectionSize
@@ -96,12 +96,10 @@ const getLargestSectionSize = (cb) => {
 }
 
 const getShortestSectionSize = (cb) => {
-  var shortestSectionSize = 1000000
-  sectionSizes.forEach((sectionSize) => {
-    if (sectionSize != 0 && sectionSize < shortestSectionSize) {
-      shortestSectionSize = sectionSize
-    }
-  })
+  var shortestSectionSize = sectionSizes.min()
+  if (shortestSectionSize < 1) {
+    shortestSectionSize = 1
+  }
   structureFeatures.shortestSectionSize = shortestSectionSize
 
   // INDRODUCE ERRORI PROBABILMENTE A CAUSA DI WIKIEXTRACTOR.PY
