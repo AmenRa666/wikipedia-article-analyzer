@@ -24,6 +24,7 @@ db.once('open', function() {
 
       for (var i = 0; i < docs.length; i++) {
         var differentWordCount = docs[i].differentWordCount
+        
         docs[i].differentNounsDifferentWordsRatio = docs[i].differentNounCount/differentWordCount,
 
         docs[i].differentVerbsDifferentWordsRatio = docs[i].differentVerbCount/differentWordCount,

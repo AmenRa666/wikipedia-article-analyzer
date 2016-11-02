@@ -16,7 +16,7 @@ var pathIndex = 0
 var index = 1
 
 const writeFile = (title, contents, cb) => {
-  mkdirp(folder + paths[pathIndex], function (err) {
+  mkdirp(folder + paths[pathIndex], (err) => {
     if (err) {
       console.log(err);
       return cb(err);
@@ -47,7 +47,7 @@ const downloadXML = (title, cb) => {
 const downloadFeaturedArticles = (cb) => {
   var filename = './articleLists/featuredArticleList.txt'
   index = 1
-  fs.readFile(filename, 'utf8', function(err, data) {
+  fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Featured Article List: LOADED');
@@ -77,7 +77,7 @@ const downloadFeaturedArticles = (cb) => {
 const downloadAClassArticles = (cb) => {
   var filename = './articleLists/aClassArticleList.txt'
   index = 1
-  fs.readFile(filename, 'utf8', function(err, data) {
+  fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('A Class Article List: LOADED');
@@ -107,7 +107,7 @@ const downloadAClassArticles = (cb) => {
 const downloadGoodArticles = (cb) => {
   var filename = './articleLists/goodArticleList.txt'
   index = 1
-  fs.readFile(filename, 'utf8', function(err, data) {
+  fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Good Article List: LOADED');
@@ -137,7 +137,7 @@ const downloadGoodArticles = (cb) => {
 const downloadBClassArticles = (cb) => {
   var filename = './articleLists/bClassArticleList.txt'
   index = 1
-  fs.readFile(filename, 'utf8', function(err, data) {
+  fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('B Class Article List: LOADED');
@@ -167,7 +167,7 @@ const downloadBClassArticles = (cb) => {
 const downloadCClassArticles = (cb) => {
   var filename = './articleLists/cClassArticleList.txt'
   index = 1
-  fs.readFile(filename, 'utf8', function(err, data) {
+  fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('C Class Article List: LOADED');
@@ -197,7 +197,7 @@ const downloadCClassArticles = (cb) => {
 const downloadStartArticles = (cb) => {
   var filename = './articleLists/startArticleList.txt'
   index = 1
-  fs.readFile(filename, 'utf8', function(err, data) {
+  fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Start Article List: LOADED');
@@ -227,7 +227,7 @@ const downloadStartArticles = (cb) => {
 const downloadStubArticles = (cb) => {
   var filename = './articleLists/stubArticleList.txt'
   index = 1
-  fs.readFile(filename, 'utf8', function(err, data) {
+  fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Stub Article List: LOADED');
@@ -270,7 +270,7 @@ function(err, results) {
 
 
 
-// fs.readFile(filename, 'utf8', function(err, data) {
+// fs.readFile(filename, 'utf8', (err, data) => {
 //   if (err) throw err;
 //   console.log('Article List: LOADED');
 //   var titles = data.trim().split('\n')

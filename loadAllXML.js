@@ -245,42 +245,49 @@ const load = (file, cb) => {
                   differentNounCount: articleJSON.features.lexicalFeatures.differentNounCount,
                   differentNounsPerSentence: articleJSON.features.lexicalFeatures.differentNounsPerSentence,
                   differentNounsRate: articleJSON.features.lexicalFeatures.differentNounsRate,
+                  differentNounsDifferentWordsRatio: articleJSON.features.lexicalFeatures.differentNounsDifferentWordsRatio,
                   verbCount: articleJSON.features.lexicalFeatures.verbCount,
                   verbsPerSentence: articleJSON.features.lexicalFeatures.verbsPerSentence,
                   verbsRate: articleJSON.features.lexicalFeatures.verbsRate,
                   differentVerbCount: articleJSON.features.lexicalFeatures.differentVerbCount,
                   differentVerbsPerSentence: articleJSON.features.lexicalFeatures.differentVerbsPerSentence,
                   differentVerbsRate: articleJSON.features.lexicalFeatures.differentVerbsRate,
+                  differentVerbsDifferentWordsRatio: articleJSON.features.lexicalFeatures.differentVerbsDifferentWordsRatio,
                   pronounCount: articleJSON.features.lexicalFeatures.pronounCount,
                   pronounsPerSentence: articleJSON.features.lexicalFeatures.pronounsPerSentence,
                   pronounsRate: articleJSON.features.lexicalFeatures.pronounsRate,
                   differentPronounCount: articleJSON.features.lexicalFeatures.differentPronounCount,
                   differentPronounsPerSentence: articleJSON.features.lexicalFeatures.differentPronounsPerSentence,
                   differentPronounsRate: articleJSON.features.lexicalFeatures.differentPronounsRate,
+                  differentPronounsDifferentWordsRatio: articleJSON.features.lexicalFeatures.differentPronounsDifferentWordsRatio,
                   adjectiveCount: articleJSON.features.lexicalFeatures.adjectiveCount,
                   adjectivesPerSentence: articleJSON.features.lexicalFeatures.adjectivesPerSentence,
                   adjectivesRate: articleJSON.features.adjectivesRate,
                   differentAdjectiveCount: articleJSON.features.lexicalFeatures.differentAdjectiveCount,
                   differentAdjectivesPerSentence: articleJSON.features.lexicalFeatures.differentAdjectivesPerSentence,
                   differentAdjectivesRate: articleJSON.features.lexicalFeatures.differentAdjectivesRate,
+                  differentAdjectivesDifferentWordsRatio: articleJSON.features.lexicalFeatures.differentAdjectivesDifferentWordsRatio,
                   adverbCount: articleJSON.features.lexicalFeatures.adverbCount,
                   adverbsPerSentence: articleJSON.features.lexicalFeatures.adverbsPerSentence,
                   adverbsRate: articleJSON.features.lexicalFeatures.adverbsRate,
                   differentAdverbCount: articleJSON.features.lexicalFeatures.differentAdverbCount,
                   differentAdverbsPerSentence: articleJSON.features.lexicalFeatures.differentAdverbsPerSentence,
                   differentAdverbsRate: articleJSON.features.lexicalFeatures.differentAdverbsRate,
+                  differentAdverbsDifferentWordsRatio: articleJSON.features.lexicalFeatures.differentAdverbsDifferentWordsRatio,
                   coordinatingConjunctionCount: articleJSON.features.lexicalFeatures.coordinatingConjunctionCount,
                   coordinatingConjunctionsPerSentence: articleJSON.features.lexicalFeatures.coordinatingConjunctionsPerSentence,
                   coordinatingConjunctionsRate: articleJSON.features.lexicalFeatures.coordinatingConjunctionsPerSentence,
                   differentCoordinatingConjunctionCount: articleJSON.features.lexicalFeatures.differentCoordinatingConjunctionCount,
                   differentCoordinatingConjunctionsPerSentence: articleJSON.features.lexicalFeatures.differentCoordinatingConjunctionsPerSentence,
                   differentCoordinatingConjunctionsRate: articleJSON.features.lexicalFeatures.differentCoordinatingConjunctionsRate,
+                  differentCoordinatingConjunctionsDifferentWordsRatio: articleJSON.features.lexicalFeatures.differentCoordinatingConjunctionsDifferentWordsRatio,
                   subordinatingPrepositionAndConjunctionCount: articleJSON.features.lexicalFeatures.subordinatingPrepositionAndConjunctionCount,
                   subordinatingPrepositionsAndConjunctionsPerSentence: articleJSON.features.lexicalFeatures.subordinatingPrepositionsAndConjunctionsPerSentence,
                   subordinatingPrepositionsAndConjunctionsRate: articleJSON.features.lexicalFeatures.subordinatingPrepositionsAndConjunctionsRate,
                   differentSubordinatingPrepositionAndConjunctionCount: articleJSON.features.lexicalFeatures.differentSubordinatingPrepositionAndConjunctionCount,
                   differentSubordinatingPrepositionsAndConjunctionsPerSentence: articleJSON.features.lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsPerSentence,
                   differentSubordinatingPrepositionsAndConjunctionsRate: articleJSON.features.lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsRate,
+                  differentSubordinatingPrepositionsAndConjunctionsDifferentWordsRatio: articleJSON.features.lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsDifferentWordsRatio,
                   syllablesPerWord: articleJSON.features.lexicalFeatures.syllablesPerWord,
                   charactersPerWord: articleJSON.features.lexicalFeatures.charactersPerWord,
                   // Quality Class
@@ -292,8 +299,6 @@ const load = (file, cb) => {
 
             }
           })
-
-
 
         })
       })
