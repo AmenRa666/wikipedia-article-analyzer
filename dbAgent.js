@@ -4,6 +4,7 @@ mongoose.connect('mongodb://localhost/wikipedia')
 
 // models
 var Article = require('./models/article.js').Article
+var Revision = require('./models/revision.js').Revision
 
 // get notified if we connect successfully or if a connection error occurs
 var db = mongoose.connection
@@ -12,7 +13,7 @@ db.once('open', function() {
   console.log('Connected to MongoDB')
 })
 
-const insert = (article, cb) => {
+const insertArticle = (article, cb) => {
   Article.create(article, (err, obj) => {
     if (err) return handleError(err)
     else {
@@ -38,7 +39,18 @@ const findById = (id, cb) => {
   })
 }
 
+const insertRevision = (revision, cb) => {
+  Revision.create(revision, (err, obj) => {
+    if (err) return handleError(err)
+    else {
+      console.log('Revision saved!')
+      cb(null, 'Revision Saved')
+    }
+  })
+}
+
 // EXPORTS
-module.exports.insert = insert
+module.exports.insertArticle = insertArticle
+module.exports.insertRevision = insertRevision
 module.exports.findByTitle = findByTitle
 module.exports.findById = findById

@@ -1,5 +1,5 @@
 // MODULES
-var PythonShell = require('python-shell');
+var PythonShell = require('python-shell')
 var fs = require('fs')
 var xml2js = require('xml2js')
 var nlp = require('nlp_compromise')
@@ -7,7 +7,7 @@ nlp.plugin(require('nlp-syllables'))
 var math = require('mathjs')
 var _ = require('underscore')
 var async = require('async')
- var time = require('node-tictoc');
+var time = require('node-tictoc')
 // Analizer
 var articleAnalyzer = require('./articleAnalyzer.js')
 // Database Agent
@@ -57,6 +57,7 @@ const load = (file, cb) => {
 
         // Parse XML file
         parser.parseString(xmlArticle, function (err, result) {
+          if (err) throw err
 
           var articleTextFromXML = result.mediawiki.page[0].revision[0].text[0]._
 
@@ -293,7 +294,7 @@ const load = (file, cb) => {
                   // Quality Class
                   qualityClass: qualityClass
                 }
-                dbAgent.insert(article, cb)
+                dbAgent.insertArticle(article, cb)
 
               })
 
