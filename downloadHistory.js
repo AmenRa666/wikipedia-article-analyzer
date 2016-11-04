@@ -6,11 +6,10 @@ var qs = require('querystring')
 var mkdirp = require('mkdirp');
 var _ = require('underscore')
 // Database Agent
-// var dbAgent = require('./dbAgent.js')
+var dbAgent = require('./dbAgent.js')
 
 
 // LOGIC
-var folder = 'articlesHistory/'
 var title = 'Raccoon'
 var bot = require('nodemw');
 
@@ -62,12 +61,11 @@ const saveRevision = (_revision, cb) => {
     user: _revision.user,
     timestamp: _revision.timestamp
   }
-  dbAgent.insert(revision, (cb))
+  dbAgent.insertRevision(revision, (cb))
 }
 
 const downloadFeaturedArticlesRevisionHistory = (cb) => {
   var filename = './articleLists/featuredArticleList.txt'
-  index = 1
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -85,7 +83,6 @@ const downloadFeaturedArticlesRevisionHistory = (cb) => {
       (err, result) => {
       if (err) console.log(err);
       else {
-        pathIndex++
         console.log('- - - - - - - - - - - - - - - - - - - -')
         console.log('Featured Articles donwload: DONE');
         console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -97,7 +94,6 @@ const downloadFeaturedArticlesRevisionHistory = (cb) => {
 
 const downloadAClassArticlesRevisionHistory = (cb) => {
   var filename = './articleLists/aClassArticleList.txt'
-  index = 1
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -115,7 +111,6 @@ const downloadAClassArticlesRevisionHistory = (cb) => {
       (err, result) => {
       if (err) console.log(err);
       else {
-        pathIndex++
         console.log('- - - - - - - - - - - - - - - - - - - -')
         console.log('A Class Articles donwload: DONE');
         console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -127,7 +122,6 @@ const downloadAClassArticlesRevisionHistory = (cb) => {
 
 const downloadGoodArticlesRevisionHistory = (cb) => {
   var filename = './articleLists/goodArticleList.txt'
-  index = 1
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -145,7 +139,6 @@ const downloadGoodArticlesRevisionHistory = (cb) => {
       (err, result) => {
       if (err) console.log(err);
       else {
-        pathIndex++
         console.log('- - - - - - - - - - - - - - - - - - - -')
         console.log('Good Articles donwload: DONE');
         console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -157,7 +150,6 @@ const downloadGoodArticlesRevisionHistory = (cb) => {
 
 const downloadBClassArticlesRevisionHistory = (cb) => {
   var filename = './articleLists/bClassArticleList.txt'
-  index = 1
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -175,7 +167,6 @@ const downloadBClassArticlesRevisionHistory = (cb) => {
       (err, result) => {
       if (err) console.log(err);
       else {
-        pathIndex++
         console.log('- - - - - - - - - - - - - - - - - - - -')
         console.log('B Class Articles donwload: DONE');
         console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -187,7 +178,6 @@ const downloadBClassArticlesRevisionHistory = (cb) => {
 
 const downloadCClassArticlesRevisionHistory = (cb) => {
   var filename = './articleLists/cClassArticleList.txt'
-  index = 1
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -205,7 +195,6 @@ const downloadCClassArticlesRevisionHistory = (cb) => {
       (err, result) => {
       if (err) console.log(err);
       else {
-        pathIndex++
         console.log('- - - - - - - - - - - - - - - - - - - -')
         console.log('C Class Articles donwload: DONE');
         console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -217,7 +206,6 @@ const downloadCClassArticlesRevisionHistory = (cb) => {
 
 const downloadStartArticlesRevisionHistory = (cb) => {
   var filename = './articleLists/startArticleList.txt'
-  index = 1
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -235,7 +223,6 @@ const downloadStartArticlesRevisionHistory = (cb) => {
       (err, result) => {
       if (err) console.log(err);
       else {
-        pathIndex++
         console.log('- - - - - - - - - - - - - - - - - - - -')
         console.log('Start Articles donwload: DONE');
         console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -247,7 +234,6 @@ const downloadStartArticlesRevisionHistory = (cb) => {
 
 const downloadStubArticlesRevisionHistory = (cb) => {
   var filename = './articleLists/stubArticleList.txt'
-  index = 1
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -265,7 +251,6 @@ const downloadStubArticlesRevisionHistory = (cb) => {
       (err, result) => {
       if (err) console.log(err);
       else {
-        pathIndex++
         console.log('- - - - - - - - - - - - - - - - - - - -')
         console.log('Stub Articles donwload: DONE');
         console.log('- - - - - - - - - - - - - - - - - - - -')

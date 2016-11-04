@@ -3,7 +3,7 @@
 
 // LOGIC
 
-const getPosTrigrams = (text, cb) => {
+const getTrigrams = (text, cb) => {
   var trigrams = {}
   for (var i = 0; i < text.length; i += 3) {
     trigram = {
@@ -23,4 +23,4 @@ const getPosTrigrams = (text, cb) => {
 
 
 // EXPORTS
-module.exports.getPosTrigrams = getPosTrigrams
+module.exports.getTrigrams = getTrigrams

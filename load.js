@@ -7,28 +7,8 @@ nlp.plugin(require('nlp-syllables'))
 var math = require('mathjs')
 var _ = require('underscore')
 var async = require('async')
-// Readability Modules
-var automatedReadability = require('automated-readability')
-var colemanLiau = require('coleman-liau')
-var flesch = require('flesch')
-var fleschKincaid = require('flesch-kincaid')
-var gunningFog = require('gunning-fog')
-var smogFormula = require('smog-formula');
-var daleChallFormula = require('dale-chall-formula')
-var daleChall = require('dale-chall');
-// POS Tagger
-var posTagger = require('./posTagger.js')
-// Analizers
-var posAnalyzer = require('./analyzers/posAnalyzer.js')
-var trigramAnalyzer = require('./analyzers/trigramAnalyzer.js')
-var readabilityAnalyzer = require('./analyzers/readabilityAnalyzer.js')
-var lengthAnalyzer = require('./analyzers/lengthAnalyzer.js')
-var structureAnalyzer = require('./analyzers/structureAnalyzer.js')
-var lexicalAnalyzer = require('./analyzers/lexicalAnalyzer.js')
-var styleAnalyzer = require('./analyzers/styleAnalyzer.js')
+// Analizer
 var articleAnalyzer = require('./articleAnalyzer.js')
-// Database Agent
-var dbAgent = require('./dbAgent.js')
 
 // LOGIC
 var xmlFilename = process.argv[2]
@@ -41,7 +21,7 @@ if (process.argv.length < 3) {
 }
 
 // Read the file and print its contents.
-fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
+fs.readFile(xmlFilename, 'utf8', (err, xmlArticle) => {
   if (err) throw err
 
   console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -57,15 +37,16 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
   };
 
   // Run Python script
-  PythonShell.run('WikiExtractor.py', options, function (err, results) {
+  PythonShell.run('WikiExtractor.py', options, (err, results) => {
     if (err) throw err
 
     // Load extracted article
-    fs.readFile('tmp/AA/wiki_00', 'utf8', function(err, extractedArticle) {
+    fs.readFile('tmp/AA/wiki_00', 'utf8', (err, extractedArticle) => {
       // Now we have the xml file and the clean article
 
       // Parse XML file
-      parser.parseString(xmlArticle, function (err, result) {
+      parser.parseString(xmlArticle, (err, result) => {
+        if (err) throw err
 
         var articleTextFromXML = result.mediawiki.page[0].revision[0].text[0]._
 
@@ -76,7 +57,7 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
         var sectionTitlesXML = rawSections.filter((element) => {
           return element.charAt(2) != '='
         })
-        sectionTitlesXML = sectionTitlesXML.map(function(sectionTitle) {
+        sectionTitlesXML = sectionTitlesXML.map((sectionTitle) => {
           sectionTitle = sectionTitle.substring(2)
           sectionTitle = sectionTitle.substring(0, sectionTitle.length - 2)
           return sectionTitle.trim()
@@ -86,7 +67,7 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
         var subsectionTitlesXML = rawSections.filter((element) => {
           return element.charAt(2) == '=' && element.charAt(3) != '='
         })
-        subsectionTitlesXML = subsectionTitlesXML.map(function(subsectionTitle) {
+        subsectionTitlesXML = subsectionTitlesXML.map((subsectionTitle) => {
           subsectionTitle = subsectionTitle.substring(3)
           subsectionTitle = subsectionTitle.substring(0, subsectionTitle.length - 2)
           return subsectionTitle.trim()
@@ -97,196 +78,236 @@ fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
 
         // ID
         var id = extractedArticle.split('\"')[1]
-        console.log('ID: ' + id);
 
-        // Article title
-        var title = textWithTitleAndSectionTitles.substring(0, textWithTitleAndSectionTitles.indexOf("\n"))
-        console.log('Title: ' + title);
-        console.log('- - - - - - - - - - - - - - - - - - - -')
+            // Article title
+            var title = textWithTitleAndSectionTitles.substring(0, textWithTitleAndSectionTitles.indexOf("\n"))
+            console.log('Title: ' + title);
+            console.log('- - - - - - - - - - - - - - - - - - - -')
 
-        // Delete the title
-        var textWithSectionTitles = textWithTitleAndSectionTitles.substring(textWithTitleAndSectionTitles.indexOf("\n")).trim()
+            // Delete the title
+            var textWithSectionTitles = textWithTitleAndSectionTitles.substring(textWithTitleAndSectionTitles.indexOf("\n")).trim()
 
-        // Subsection indexes
-        var subsectionIndexes = []
-        subsectionTitlesXML.forEach((subsectionTitle) => {
-          var index = textWithSectionTitles.search(subsectionTitle + '.')
-          if (index > -1) {
-            subsectionIndexes.push(index)
-            textWithSectionTitles = textWithSectionTitles.replace(subsectionTitle + '.', '')
-          }
-        })
+            // Subsection indexes
+            var subsectionIndexes = []
+            subsectionTitlesXML.forEach((subsectionTitle) => {
+              var subsectionPattern = subsectionTitle.replace(new RegExp('[.\\\\+*?\\[\\^\\]$(){}=!<>|:\\-]', 'g'), '\\$&') + '.'
+              var regex = new RegExp(subsectionPattern, '')
+              var index = textWithSectionTitles.search(regex)
+              if (index > -1) {
+                subsectionIndexes.push(index)
+                textWithSectionTitles = textWithSectionTitles.replace(subsectionTitle + '.', '')
+              }
+            })
 
-        // Initialized with element 0 because it's the index of the abstract
-        var sectionIndexes = [0]
+            // Initialized with element 0 because it's the index of the abstract
+            var sectionIndexes = [0]
+            sectionTitlesXML.forEach((sectionTitle) => {
+              var sectionPattern = sectionTitle.replace(new RegExp('[.\\\\+*?\\[\\^\\]$(){}=!<>|:\\-]', 'g'), '\\$&')
+              var index = textWithSectionTitles.search(sectionPattern + '.')
+              if (index > -1) {
+                sectionIndexes.push(index)
+                textWithSectionTitles = textWithSectionTitles.replace(sectionTitle + '.', '')
+              }
+            })
 
-        sectionTitlesXML.forEach((sectionTitle) => {
-          var index = textWithSectionTitles.search(sectionTitle + '.')
-          if (index > -1) {
-            sectionIndexes.push(index)
-            textWithSectionTitles = textWithSectionTitles.replace(sectionTitle + '.', '')
-          }
-        })
+            sectionIndexes.sort((a, b) => {
+              return a - b
+            })
 
-        sectionIndexes.sort((a, b) => {
-          return a - b
-        })
+            var sections = []
+            var abstract = ''
 
-        var sections = []
-        var abstract = ''
+            // Get abstract and sections
+            for (var i = 0; i < sectionIndexes.length; i++) {
+              if (i == 0) {
+                abstract = textWithSectionTitles.substring(sectionIndexes[i], sectionIndexes[i+1]).trim()
+                // Put abstract in sections array
+                sections.push(textWithSectionTitles.substring(sectionIndexes[i], sectionIndexes[i+1]).trim())
+              }
+              else if (i == sectionIndexes.length - 1) {
+                sections.push(textWithSectionTitles.substring(sectionIndexes[i]).trim())
+              }
+              else {
+                sections.push(textWithSectionTitles.substring(sectionIndexes[i], sectionIndexes[i+1]).trim())
+              }
+            }
 
-        // Get abstract and sections
-        for (var i = 0; i < sectionIndexes.length; i++) {
-          if (i == 0) {
-            abstract = textWithSectionTitles.substring(sectionIndexes[i], sectionIndexes[i+1]).trim()
-            // Put abstract in sections array
-            sections.push(textWithSectionTitles.substring(sectionIndexes[i], sectionIndexes[i+1]).trim())
-          }
-          else if (i == sectionIndexes.length - 1) {
-            sections.push(textWithSectionTitles.substring(sectionIndexes[i]).trim())
-          }
-          else {
-            sections.push(textWithSectionTitles.substring(sectionIndexes[i], sectionIndexes[i+1]).trim())
-          }
-        }
+            // Section titles have been removed
+            var text = textWithSectionTitles.replace(/\r?\n|\r/g, ' ')
 
-        // Section titles have been removed
-        var text = textWithSectionTitles.replace(/\r?\n|\r/g, ' ')
+            ////////////// PREPROCESSING ////////////
 
-        ////////////// PREPROCESSING ////////////
+            // Extract sentences
+            var sentences = nlp.text(text).sentences
 
-        // Extract sentences
-        var sentences = nlp.text(text).sentences
+            // Expand contractions
+            var expandedText = nlp.text(text.toLowerCase()).contractions.expand().text()
 
-        // Expand contractions
-        var expandedText = nlp.text(text.toLowerCase()).contractions.expand().text()
+            // Normalize text (remove all punctation, except for dots, and 'new line')
+            var normalizedText = nlp.text(expandedText).normal();
 
-        // Normalize text (remove all punctation, except for dots, and 'new line')
-        var normalizedText = nlp.text(expandedText).normal();
+            // Remove dots, question marks, exclamation marks and brackets
+            var noPointsText = normalizedText.replace(/[\.|?|!|{|}|\[|\]]/g, '')
 
-        // Remove dots, question marks, exclamation marks and brackets
-        var noPointsText = normalizedText.replace(/[\.|?|!|{|}|\[|\]]/g, '')
+            // Text composed only by letters and numbers (no white spaces)
+            var onlyLettersAndNumbersText = noPointsText.replace(/ /g, '')
 
-        // Text composed only by letters and numbers (no white spaces)
-        var onlyLettersAndNumbersText = noPointsText.replace(/ /g, '')
+            // Words array
+            words = noPointsText.split(' ')
 
-        // Words array
-        words = noPointsText.split(' ')
-
-        // Root text (she sold seashells -> she sell seashell)
-        var rootText = nlp.text(expandedText).root()
-
-        articleAnalyzer.analyze(articleTextFromXML, id, title, textWithSectionTitles, subsectionIndexes, abstract, sections, text, sentences, onlyLettersAndNumbersText, words, (articleJSON) => {
-          // console.log(JSON.stringify(articleJSON.features, null, 2));
-
-          var article = {
-            // Length Features
-            characterCount: articleJSON.features.lengthFeatures.characterCount,
-            wordCount: articleJSON.features.lengthFeatures.wordCount,
-            syllableCount: articleJSON.features.lengthFeatures.syllableCount,
-            sentenceCount: articleJSON.features.lengthFeatures.sentenceCount,
-            // Structure Features
-            sectionCount: articleJSON.features.structureFeatures.sectionCount,
-            subsectionCount: articleJSON.features.structureFeatures.subsectionCount,
-            paragraphCount: articleJSON.features.structureFeatures.paragraphCount,
-            meanSectionSize: articleJSON.features.structureFeatures.meanSectionSize,
-            meanParagraphSize: articleJSON.features.structureFeatures.meanParagraphSize,
-            largestSectionSize: articleJSON.features.structureFeatures.largestSectionSize,
-            shortestSectionSize: articleJSON.features.structureFeatures.shortestSectionSize,
-            largestShortestSectionRatio: articleJSON.features.structureFeatures.largestShortestSectionRatio,
-            sectionSizeStandardDeviation: articleJSON.features.structureFeatures.sectionSizeStandardDeviation,
-            meanOfSubsectionsPerSection: articleJSON.features.structureFeatures.meanOfSubsectionsPerSection,
-            abstractSize: articleJSON.features.structureFeatures.abstractSize,
-            abstractSizeArtcileLengthRatio: articleJSON.features.structureFeatures.abstractSizeArtcileLengthRatio,
-            citationCount: articleJSON.features.structureFeatures.citationCount,
-            citationCountPerSentence: articleJSON.features.structureFeatures.citationCountPerSentence,
-            citationCountPerSection: articleJSON.features.structureFeatures.citationCountPerSection,
-            externalLinksCount: articleJSON.features.structureFeatures.externalLinksCount,
-            externalLinksPerSentence: articleJSON.features.structureFeatures.externalLinksPerSentence,
-            externalLinksPerSection: articleJSON.features.structureFeatures.externalLinksPerSection,
-            imageCount: articleJSON.features.structureFeatures.imageCount,
-            imagePerSentence: articleJSON.features.structureFeatures.imagePerSentence,
-            imagePerSection: articleJSON.features.structureFeatures.imagePerSection,
-            // Style Features
-            meanSentenceSize: articleJSON.features.styleFeatures.meanSentenceSize,
-            largestSentenceSize: articleJSON.features.styleFeatures.largestSentenceSize,
-            shortestSentenceSize: articleJSON.features.styleFeatures.shortestSentenceSize,
-            largeSentenceRate: articleJSON.features.styleFeatures.largeSentenceRate,
-            shortSentenceRate: articleJSON.features.styleFeatures.shortSentenceRate,
-            questionCount: articleJSON.features.styleFeatures.questionCount,
-            questionRatio: articleJSON.features.styleFeatures.questionRatio,
-            exclamationCount: articleJSON.features.styleFeatures.exclamationCount,
-            exclamationRatio: articleJSON.features.styleFeatures.exclamationRatio,
-            toBeVerbCount: articleJSON.features.styleFeatures.toBeVerbCount,
-            toBeVerbRatio: articleJSON.features.styleFeatures.toBeVerbRatio,
-            toBeVerbPerSentence: articleJSON.features.styleFeatures.toBeVerbPerSentence,
-            toBeVerbRate: articleJSON.features.styleFeatures.toBeVerbRate,
-            // Readability Features
-            automatedReadabilityIndex: articleJSON.features.readabilityFeatures.automatedReadabilityIndex,
-            colemanLiauIndex: articleJSON.features.readabilityFeatures.colemanLiauIndex,
-            fleshReadingEase: articleJSON.features.readabilityFeatures.fleshReadingEase,
-            fleschKincaidGradeLevel: articleJSON.features.readabilityFeatures.fleschKincaidGradeLevel,
-            gunningFogIndex: articleJSON.features.readabilityFeatures.gunningFogIndex,
-            lasbarhetsIndex: articleJSON.features.readabilityFeatures.lasbarhetsIndex,
-            smogGrading: articleJSON.features.readabilityFeatures.smogGrading,
-            linsearWriteFormula: articleJSON.features.readabilityFeatures.linsearWriteFormula,
-            daleChallReadabilityFormula: articleJSON.features.readabilityFeatures.daleChallReadabilityFormula,
-            // Lexical Features
-            differentWordCount: articleJSON.features.lexicalFeatures.differentWordCount,
-            differentWordsPerSentence: articleJSON.features.lexicalFeatures.differentWordsPerSentence,
-            differentWordsRate: articleJSON.features.lexicalFeatures.differentWordsRate,
-            nounCount: articleJSON.features.lexicalFeatures.nounCount,
-            nounsPerSentence: articleJSON.features.lexicalFeatures.nounsPerSentence,
-            nounsRate: articleJSON.features.lexicalFeatures.nounsRate,
-            differentNounCount: articleJSON.features.lexicalFeatures.differentNounCount,
-            differentNounsPerSentence: articleJSON.features.lexicalFeatures.differentNounsPerSentence,
-            differentNounsRate: articleJSON.features.lexicalFeatures.differentNounsRate,
-            verbCount: articleJSON.features.lexicalFeatures.verbCount,
-            verbsPerSentence: articleJSON.features.lexicalFeatures.verbsPerSentence,
-            verbsRate: articleJSON.features.lexicalFeatures.verbsRate,
-            differentVerbCount: articleJSON.features.lexicalFeatures.differentVerbCount,
-            differentVerbsPerSentence: articleJSON.features.lexicalFeatures.differentVerbsPerSentence,
-            differentVerbsRate: articleJSON.features.lexicalFeatures.differentVerbsRate,
-            pronounCount: articleJSON.features.lexicalFeatures.pronounCount,
-            pronounsPerSentence: articleJSON.features.lexicalFeatures.pronounsPerSentence,
-            pronounsRate: articleJSON.features.lexicalFeatures.pronounsRate,
-            differentPronounCount: articleJSON.features.lexicalFeatures.differentPronounCount,
-            differentPronounsPerSentence: articleJSON.features.lexicalFeatures.differentPronounsPerSentence,
-            differentPronounsRate: articleJSON.features.lexicalFeatures.differentPronounsRate,
-            adjectiveCount: articleJSON.features.lexicalFeatures.adjectiveCount,
-            adjectivesPerSentence: articleJSON.features.lexicalFeatures.adjectivesPerSentence,
-            adjectivesRate: articleJSON.features.adjectivesRate,
-            differentAdjectiveCount: articleJSON.features.lexicalFeatures.differentAdjectiveCount,
-            differentAdjectivesPerSentence: articleJSON.features.lexicalFeatures.differentAdjectivesPerSentence,
-            differentAdjectivesRate: articleJSON.features.lexicalFeatures.differentAdjectivesRate,
-            adverbCount: articleJSON.features.lexicalFeatures.adverbCount,
-            adverbsPerSentence: articleJSON.features.lexicalFeatures.adverbsPerSentence,
-            adverbsRate: articleJSON.features.lexicalFeatures.adverbsRate,
-            differentAdverbCount: articleJSON.features.lexicalFeatures.differentAdverbCount,
-            differentAdverbsPerSentence: articleJSON.features.lexicalFeatures.differentAdverbsPerSentence,
-            differentAdverbsRate: articleJSON.features.lexicalFeatures.differentAdverbsRate,
-            coordinatingConjunctionCount: articleJSON.features.lexicalFeatures.coordinatingConjunctionCount,
-            coordinatingConjunctionsPerSentence: articleJSON.features.lexicalFeatures.coordinatingConjunctionsPerSentence,
-            coordinatingConjunctionsRate: articleJSON.features.lexicalFeatures.coordinatingConjunctionsPerSentence,
-            differentCoordinatingConjunctionCount: articleJSON.features.lexicalFeatures.differentCoordinatingConjunctionCount,
-            differentCoordinatingConjunctionsPerSentence: articleJSON.features.lexicalFeatures.differentCoordinatingConjunctionsPerSentence,
-            differentCoordinatingConjunctionsRate: articleJSON.features.lexicalFeatures.differentCoordinatingConjunctionsRate,
-            subordinatingPrepositionAndConjunctionCount: articleJSON.features.lexicalFeatures.subordinatingPrepositionAndConjunctionCount,
-            subordinatingPrepositionsAndConjunctionsPerSentence: articleJSON.features.lexicalFeatures.subordinatingPrepositionsAndConjunctionsPerSentence,
-            subordinatingPrepositionsAndConjunctionsRate: articleJSON.features.lexicalFeatures.subordinatingPrepositionsAndConjunctionsRate,
-            differentSubordinatingPrepositionAndConjunctionCount: articleJSON.features.lexicalFeatures.differentSubordinatingPrepositionAndConjunctionCount,
-            differentSubordinatingPrepositionsAndConjunctionsPerSentence: articleJSON.features.lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsPerSentence,
-            differentSubordinatingPrepositionsAndConjunctionsRate: articleJSON.features.lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsRate,
-            syllablesPerWord: articleJSON.features.lexicalFeatures.syllablesPerWord,
-            charactersPerWord: articleJSON.features.lexicalFeatures.charactersPerWord,
-            // Quality Class
-            qualityClass: 5
-          }
-
-          dbAgent.insert(article)
+            // Root text (she sold seashells -> she sell seashell)
+            var rootText = nlp.text(expandedText).root()
 
 
-        })
+            articleAnalyzer.analyze(articleTextFromXML, id, title, textWithSectionTitles, subsectionIndexes, abstract, sections, text, sentences, onlyLettersAndNumbersText, words, (articleJSON) => {
+              // console.log(JSON.stringify(articleJSON.features, null, 2));
+
+              var lengthFeatures = articleJSON.features.lengthFeatures
+              var structureFeatures = articleJSON.features.structureFeatures
+              var styleFeatures = articleJSON.features.styleFeatures
+              var readabilityFeatures = articleJSON.features.readabilityFeatures
+              var lexicalFeatures = articleJSON.features.lexicalFeatures
+              var trigrams = articleJSON.features.trigrams
+
+              var article = {
+                id: id,
+                title: title,
+                // Length Features
+                characterCount: lengthFeatures.characterCount,
+                wordCount: lengthFeatures.wordCount,
+                syllableCount: lengthFeatures.syllableCount,
+                sentenceCount: lengthFeatures.sentenceCount,
+                // Structure Features
+                sectionCount: structureFeatures.sectionCount,
+                subsectionCount: structureFeatures.subsectionCount,
+                paragraphCount: structureFeatures.paragraphCount,
+                meanSectionSize: structureFeatures.meanSectionSize,
+                meanParagraphSize: structureFeatures.meanParagraphSize,
+                largestSectionSize: structureFeatures.largestSectionSize,
+                shortestSectionSize: structureFeatures.shortestSectionSize,
+                largestShortestSectionRatio: structureFeatures.largestShortestSectionRatio,
+                sectionSizeStandardDeviation: structureFeatures.sectionSizeStandardDeviation,
+                meanOfSubsectionsPerSection: structureFeatures.meanOfSubsectionsPerSection,
+                abstractSize: structureFeatures.abstractSize,
+                abstractSizeArtcileLengthRatio: structureFeatures.abstractSizeArtcileLengthRatio,
+                citationCount: structureFeatures.citationCount,
+                citationCountPerSentence: structureFeatures.citationCountPerSentence,
+                citationCountPerSection: structureFeatures.citationCountPerSection,
+                externalLinksCount: structureFeatures.externalLinksCount,
+                externalLinksPerSentence: structureFeatures.externalLinksPerSentence,
+                externalLinksPerSection: structureFeatures.externalLinksPerSection,
+                imageCount: structureFeatures.imageCount,
+                imagePerSentence: structureFeatures.imagePerSentence,
+                imagePerSection: structureFeatures.imagePerSection,
+                // Style Features
+                meanSentenceSize: styleFeatures.meanSentenceSize,
+                largestSentenceSize: styleFeatures.largestSentenceSize,
+                shortestSentenceSize: styleFeatures.shortestSentenceSize,
+                largeSentenceRate: styleFeatures.largeSentenceRate,
+                shortSentenceRate: styleFeatures.shortSentenceRate,
+                questionCount: styleFeatures.questionCount,
+                questionRatio: styleFeatures.questionRatio,
+                exclamationCount: styleFeatures.exclamationCount,
+                exclamationRatio: styleFeatures.exclamationRatio,
+                toBeVerbCount: styleFeatures.toBeVerbCount,
+                toBeVerbRatio: styleFeatures.toBeVerbRatio,
+                toBeVerbPerSentence: styleFeatures.toBeVerbPerSentence,
+                toBeVerbRate: styleFeatures.toBeVerbRate,
+                modalAuxiliaryVerbCount: styleFeatures.modalAuxiliaryVerbCount,
+                modalAuxiliaryVerbsRatio: styleFeatures.modalAuxiliaryVerbsRatio,
+                modalAuxiliaryVerbsPerSentence: styleFeatures.modalAuxiliaryVerbsPerSentence,
+                modalAuxiliaryVerbsRate: styleFeatures.modalAuxiliaryVerbsRate,
+                passiveVoiceCount: styleFeatures.passiveVoiceCount,
+                passiveVoiceRatio: styleFeatures.passiveVoiceRatio,
+                passiveVoicePerSentence: styleFeatures.passiveVoicePerSentence,
+                passiveVoiceRate: styleFeatures.passiveVoiceRate,
+                numberOfSentencesThatStartWithACoordinatingConjunction: styleFeatures.numberOfSentencesThatStartWithACoordinatingConjunction,
+                numberOfSentencesThatStartWithADeterminer: styleFeatures.numberOfSentencesThatStartWithADeterminer,
+                numberOfSentencesThatStartWithASubordinatingPrepositionOrConjunction: styleFeatures.numberOfSentencesThatStartWithASubordinatingPrepositionOrConjunction,
+                numberOfSentencesThatStartWithAnAdjective: styleFeatures.numberOfSentencesThatStartWithAnAdjective,
+                numberOfSentencesThatStartWithANoun: styleFeatures.numberOfSentencesThatStartWithANoun,
+                numberOfSentencesThatStartWithAPronoun: styleFeatures.numberOfSentencesThatStartWithAPronoun,
+                numberOfSentencesThatStartWithAnAdverb: styleFeatures.numberOfSentencesThatStartWithAnAdverb,
+                numberOfSentencesThatStartWithAnArticle: styleFeatures.numberOfSentencesThatStartWithAnArticle,
+                numberOfSentencesThatStartWithACoordinatingConjunctionRatio: styleFeatures.numberOfSentencesThatStartWithACoordinatingConjunctionRatio,
+                numberOfSentencesThatStartWithADeterminerRatio: styleFeatures.numberOfSentencesThatStartWithADeterminerRatio,
+                numberOfSentencesThatStartWithASubordinatingPrepositionOrConjunctionRatio: styleFeatures.numberOfSentencesThatStartWithASubordinatingPrepositionOrConjunctionRatio,
+                numberOfSentencesThatStartWithAnAdjectiveRatio: styleFeatures.numberOfSentencesThatStartWithAnAdjectiveRatio,
+                numberOfSentencesThatStartWithANounRatio: styleFeatures.numberOfSentencesThatStartWithANounRatio,
+                numberOfSentencesThatStartWithAPronounRatio: styleFeatures.numberOfSentencesThatStartWithAPronounRatio,
+                numberOfSentencesThatStartWithAnAdverbRatio: styleFeatures.numberOfSentencesThatStartWithAnAdverbRatio,
+                numberOfSentencesThatStartWithAnArticleRatio: styleFeatures.numberOfSentencesThatStartWithAnArticleRatio,
+                // Readability Features
+                automatedReadabilityIndex: readabilityFeatures.automatedReadabilityIndex,
+                colemanLiauIndex: readabilityFeatures.colemanLiauIndex,
+                fleshReadingEase: readabilityFeatures.fleshReadingEase,
+                fleschKincaidGradeLevel: readabilityFeatures.fleschKincaidGradeLevel,
+                gunningFogIndex: readabilityFeatures.gunningFogIndex,
+                lasbarhetsIndex: readabilityFeatures.lasbarhetsIndex,
+                smogGrading: readabilityFeatures.smogGrading,
+                daleChallReadabilityFormula: readabilityFeatures.daleChallReadabilityFormula,
+                // Lexical Features
+                differentWordCount: lexicalFeatures.differentWordCount,
+                differentWordsPerSentence: lexicalFeatures.differentWordsPerSentence,
+                differentWordsRate: lexicalFeatures.differentWordsRate,
+                nounCount: lexicalFeatures.nounCount,
+                nounsPerSentence: lexicalFeatures.nounsPerSentence,
+                nounsRate: lexicalFeatures.nounsRate,
+                differentNounCount: lexicalFeatures.differentNounCount,
+                differentNounsPerSentence: lexicalFeatures.differentNounsPerSentence,
+                differentNounsRate: lexicalFeatures.differentNounsRate,
+                differentNounsDifferentWordsRatio: lexicalFeatures.differentNounsDifferentWordsRatio,
+                verbCount: lexicalFeatures.verbCount,
+                verbsPerSentence: lexicalFeatures.verbsPerSentence,
+                verbsRate: lexicalFeatures.verbsRate,
+                differentVerbCount: lexicalFeatures.differentVerbCount,
+                differentVerbsPerSentence: lexicalFeatures.differentVerbsPerSentence,
+                differentVerbsRate: lexicalFeatures.differentVerbsRate,
+                differentVerbsDifferentWordsRatio: lexicalFeatures.differentVerbsDifferentWordsRatio,
+                pronounCount: lexicalFeatures.pronounCount,
+                pronounsPerSentence: lexicalFeatures.pronounsPerSentence,
+                pronounsRate: lexicalFeatures.pronounsRate,
+                differentPronounCount: lexicalFeatures.differentPronounCount,
+                differentPronounsPerSentence: lexicalFeatures.differentPronounsPerSentence,
+                differentPronounsRate: lexicalFeatures.differentPronounsRate,
+                differentPronounsDifferentWordsRatio: lexicalFeatures.differentPronounsDifferentWordsRatio,
+                adjectiveCount: lexicalFeatures.adjectiveCount,
+                adjectivesPerSentence: lexicalFeatures.adjectivesPerSentence,
+                adjectivesRate: articleJSON.features.adjectivesRate,
+                differentAdjectiveCount: lexicalFeatures.differentAdjectiveCount,
+                differentAdjectivesPerSentence: lexicalFeatures.differentAdjectivesPerSentence,
+                differentAdjectivesRate: lexicalFeatures.differentAdjectivesRate,
+                differentAdjectivesDifferentWordsRatio: lexicalFeatures.differentAdjectivesDifferentWordsRatio,
+                adverbCount: lexicalFeatures.adverbCount,
+                adverbsPerSentence: lexicalFeatures.adverbsPerSentence,
+                adverbsRate: lexicalFeatures.adverbsRate,
+                differentAdverbCount: lexicalFeatures.differentAdverbCount,
+                differentAdverbsPerSentence: lexicalFeatures.differentAdverbsPerSentence,
+                differentAdverbsRate: lexicalFeatures.differentAdverbsRate,
+                differentAdverbsDifferentWordsRatio: lexicalFeatures.differentAdverbsDifferentWordsRatio,
+                coordinatingConjunctionCount: lexicalFeatures.coordinatingConjunctionCount,
+                coordinatingConjunctionsPerSentence: lexicalFeatures.coordinatingConjunctionsPerSentence,
+                coordinatingConjunctionsRate: lexicalFeatures.coordinatingConjunctionsPerSentence,
+                differentCoordinatingConjunctionCount: lexicalFeatures.differentCoordinatingConjunctionCount,
+                differentCoordinatingConjunctionsPerSentence: lexicalFeatures.differentCoordinatingConjunctionsPerSentence,
+                differentCoordinatingConjunctionsRate: lexicalFeatures.differentCoordinatingConjunctionsRate,
+                differentCoordinatingConjunctionsDifferentWordsRatio: lexicalFeatures.differentCoordinatingConjunctionsDifferentWordsRatio,
+                subordinatingPrepositionAndConjunctionCount: lexicalFeatures.subordinatingPrepositionAndConjunctionCount,
+                subordinatingPrepositionsAndConjunctionsPerSentence: lexicalFeatures.subordinatingPrepositionsAndConjunctionsPerSentence,
+                subordinatingPrepositionsAndConjunctionsRate: lexicalFeatures.subordinatingPrepositionsAndConjunctionsRate,
+                differentSubordinatingPrepositionAndConjunctionCount: lexicalFeatures.differentSubordinatingPrepositionAndConjunctionCount,
+                differentSubordinatingPrepositionsAndConjunctionsPerSentence: lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsPerSentence,
+                differentSubordinatingPrepositionsAndConjunctionsRate: lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsRate,
+                differentSubordinatingPrepositionsAndConjunctionsDifferentWordsRatio: lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsDifferentWordsRatio,
+                syllablesPerWord: lexicalFeatures.syllablesPerWord,
+                charactersPerWord: lexicalFeatures.charactersPerWord,
+                // TRIGRAMS
+                posTrigrams: trigrams.posTrigrams,
+                characterTrigrams: trigrams.characterTrigrams
+              }
+              console.log(article);
+              process.exit()
+            })
 
       })
     })

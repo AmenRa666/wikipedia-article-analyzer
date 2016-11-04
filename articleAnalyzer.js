@@ -15,6 +15,7 @@ var styleAnalyzer = require('./analyzers/styleAnalyzer.js')
 // LOGIC
 var pos = []
 var words = []
+var sentencesTags = []
 
 var articleJSON = {
   id: '',
@@ -32,7 +33,8 @@ var articleJSON = {
     lengthFeatures: {},
     structureFeatures : {},
     styleFeatures: {},
-    readabilityFeatures: {}
+    readabilityFeatures: {},
+    trigrams: {}
   }
 }
 
@@ -48,11 +50,19 @@ const getLengthFeatures = (cb) => {
 }
 
 const getTags = (cb) => {
-  posTagger.tag(articleJSON.plainText, (_pos) => {
+  posTagger.tag(articleJSON.sentences, (_pos, _sentencesTags) => {
     pos = _pos
+    sentencesTags = _sentencesTags
     cb(null, 'Get POS')
   })
 }
+
+// const getTags = (cb) => {
+//   posTagger.tag(articleJSON.plainText, (_pos) => {
+//     pos = _pos
+//     cb(null, 'Get POS')
+//   })
+// }
 
 const getStructureFeatures = (cb) => {
   structureAnalyzer.analyze(
@@ -106,11 +116,26 @@ const getStyleFeatures = (cb) => {
     articleJSON.sentences,
     articleJSON.features.lengthFeatures.wordCount,
     articleJSON.features.lengthFeatures.sentenceCount,
+    sentencesTags,
     (styleFeatures) => {
       articleJSON.features.styleFeatures = styleFeatures
       cb(null, 'Get Style Features')
     }
   )
+}
+
+const getPosTrigrams = (cb) => {
+  posAnalyzer.getPosTrigrams(sentencesTags, (posTrigrams) => {
+    articleJSON.features.trigrams.posTrigrams = posTrigrams
+    cb(null, 'Get POS Trigrams')
+  })
+}
+
+const getTrigrams = (cb) => {
+  trigramAnalyzer.getTrigrams(articleJSON.plainText, (trigrams) => {
+    articleJSON.features.trigrams.characterTrigrams = trigrams
+    cb(null, 'Get Trigrams')
+  })
 }
 
 const analyze = (articleTextFromXML, id, title, textWithSectionTitles, subsectionIndexes, abstract, sections, text, sentences, onlyLettersAndNumbersText, words, cb) => {
@@ -128,12 +153,30 @@ const analyze = (articleTextFromXML, id, title, textWithSectionTitles, subsectio
   articleJSON.words = words
 
   async.series([
-    getLengthFeatures,
-    getTags,
-    getStructureFeatures,
-    getReadabilityIndexes,
+    (cb) => {
+      async.parallel([
+        (cb) => {
+          async.series([
+            getLengthFeatures,
+            (cb) => {
+              async.parallel([
+                getStructureFeatures,
+                getReadabilityIndexes
+              ], cb)
+            },
+          ], cb)
+        },
+        (cb) => {
+          async.series([
+            getTags,
+            getPosTrigrams
+          ], cb)
+        },
+        getTrigrams
+      ], cb)
+    },
     getLexicalFeatures,
-    getStyleFeatures,
+    getStyleFeatures
   ], (res, result) => {
     cb(articleJSON)
   })

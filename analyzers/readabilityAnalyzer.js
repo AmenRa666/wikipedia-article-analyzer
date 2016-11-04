@@ -26,7 +26,7 @@ var readabilityFeatures = {
   gunningFogIndex: 0,
   lasbarhetsIndex: 0,
   smogGrading: 0,
-  linsearWriteFormula: 0,
+  // linsearWriteFormula: 0,
   daleChallReadabilityFormula: 0
 }
 
@@ -181,7 +181,7 @@ const analyze = (_characterCount, _wordCount, _sentenceCount, _syllableCount, _w
         getGunningFogIndex,
         getLasbarhetsIndex,
         getSmogGrading,
-        getLinsearWriteFormula,
+        // getLinsearWriteFormula,
         getDaleChallReadabilityFormula
       ], cb )
     }

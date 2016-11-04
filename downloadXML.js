@@ -3,7 +3,7 @@ var fs = require('fs')
 var request = require('request')
 var async = require('async')
 var qs = require('querystring')
-var mkdirp = require('mkdirp');
+var mkdirp = require('mkdirp')
 var _ = require('underscore')
 
 

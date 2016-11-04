@@ -5,7 +5,6 @@ var async = require('async')
 
 
 // LOGIC
-
 // Tagger
 var tagger = new Tagger({
   port: "9000",
@@ -175,84 +174,46 @@ var whAdverbTag = 'WRB'
 ////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 
-const tag = (text, cb) => {
-  tagger.tag(text, function(err, resp) {
-    if (err) return console.error(err)
+const groupBytag = (cb) => {
+  var taggedWordsGroupedByTag = _.groupBy(pos.taggedWords, 'tag')
 
-    resp = resp.join(' ')
-    var taggedWords = resp.split(' ')
-    var _taggedWords = []
-    taggedWords.forEach((taggedWord) => {
-      // Array with two element, word and tag
-      taggedWord = taggedWord.split('_')
-      // If the tag is not in the 'tags' array the element will be discarded
-      if (_.indexOf(tags, taggedWord[1]) != -1) {
-        taggedWord = {
-          word: taggedWord[0],
-          tag: taggedWord[1]
-        }
-        _taggedWords.push(taggedWord)
-      }
-    })
-
-    pos.taggedWords = _taggedWords
-
-    var taggedWordsGroupedByTag = _.groupBy(_taggedWords, 'tag')
-
-    pos.coordinatingConjunctions = _.pluck(taggedWordsGroupedByTag[coordinatingConjunctionTag], 'word') || []
-    pos.cardinalNumbers = _.pluck(taggedWordsGroupedByTag[cardinalNumberTag], 'word') || []
-    pos.determiners = _.pluck(taggedWordsGroupedByTag[determinerTag], 'word') || []
-    pos.existentialTheres = _.pluck(taggedWordsGroupedByTag[existentialThereTag], 'word') || []
-    pos.foreignWords = _.pluck(taggedWordsGroupedByTag[foreignWordTag], 'word') || []
-    pos.subordinatingPrepositionsAndConjunctions = _.pluck(taggedWordsGroupedByTag[subordinatingPrepositionsAndConjunctionsTag], 'word') || []
-    pos.ordinalAdjectivesAndNumerals = _.pluck(taggedWordsGroupedByTag[ordinalAdjectiveAndNumeralTag], 'word') || []
-    pos.comparativeAdjectives = _.pluck(taggedWordsGroupedByTag[superlativeAdjectiveTag], 'word') || []
-    pos.superlativeAdjectives = _.pluck(taggedWordsGroupedByTag[superlativeAdjectiveTag], 'word') || []
-    pos.listItemMarkers = _.pluck(taggedWordsGroupedByTag[listItemMarkerTag], 'word') || []
-    pos.modalAuxiliaries = _.pluck(taggedWordsGroupedByTag[modalAuxiliaryTag], 'word') || []
-    pos.singolarCommonNounsAndMasses = _.pluck(taggedWordsGroupedByTag[singolarCommonNounAndMassTag], 'word') || []
-    pos.pluralCommonNouns = _.pluck(taggedWordsGroupedByTag[pluralCommonNounTag], 'word') || []
-    pos.singularProperNouns = _.pluck(taggedWordsGroupedByTag[singularProperNounTag], 'word') || []
-    pos.pluralProperNouns = _.pluck(taggedWordsGroupedByTag[pluralProperNounTag], 'word') || []
-    pos.preDeterminers = _.pluck(taggedWordsGroupedByTag[preDeterminerTag], 'word') || []
-    pos.genitiveMarkers = _.pluck(taggedWordsGroupedByTag[genitiveMarkerTag], 'word') || []
-    pos.personalPronouns = _.pluck(taggedWordsGroupedByTag[personalPronounTag], 'word') || []
-    pos.possessivePronouns = _.pluck(taggedWordsGroupedByTag[possessivePronounTag], 'word') || []
-    pos.adverbs = _.pluck(taggedWordsGroupedByTag[adverbTag], 'word') || []
-    pos.comparativeAdverbs = _.pluck(taggedWordsGroupedByTag[comparativeAdverbTag], 'word') || []
-    pos.superlativeAdverbs = _.pluck(taggedWordsGroupedByTag[superlativeAdverbTag], 'word') || []
-    pos.particles = _.pluck(taggedWordsGroupedByTag[particleTag], 'word') || []
-    pos.symbols = _.pluck(taggedWordsGroupedByTag[symbolTag], 'word') || []
-    pos.tos = _.pluck(taggedWordsGroupedByTag[toTag], 'word') || []
-    pos.interjections = _.pluck(taggedWordsGroupedByTag[interjectionTag], 'word') || []
-    pos.baseFormVerbs = _.pluck(taggedWordsGroupedByTag[baseFormVerbTag], 'word') || []
-    pos.pastTenseVerbs = _.pluck(taggedWordsGroupedByTag[pastTenseVerbTag], 'word') || []
-    pos.presentParticipleAndGerundVerbs = _.pluck(taggedWordsGroupedByTag[presentParticipleAndGerundVerbTag], 'word') || []
-    pos.pastParticipleVerbs = _.pluck(taggedWordsGroupedByTag[pastParticipleVerbTag], 'word') || []
-    pos.notThirdPersonSingularPresentTenseVerbs = _.pluck(taggedWordsGroupedByTag[notThirdPersonSingularPresentTenseVerbTag], 'word') || []
-    pos.thirdPersonSingularPresentTenseVerbs = _.pluck(taggedWordsGroupedByTag[thirdPersonSingularPresentTenseVerbTag], 'word') || []
-    pos.whDeterminers = _.pluck(taggedWordsGroupedByTag[whDeterminerTag], 'word') || []
-    pos.whPronouns = _.pluck(taggedWordsGroupedByTag[whPronounTag], 'word') || []
-    pos.possessiveWHPronouns = _.pluck(taggedWordsGroupedByTag[possessiveWHPronounTag], 'word') || []
-    pos.whAdverbs = _.pluck(taggedWordsGroupedByTag[whAdverbTag], 'word') || []
-
-    // // All type of nouns together (no proper nouns)
-    // var _nouns = singolarCommonNounsAndMasses.concat(pluralCommonNouns)
-    //
-    // // All type of verbs together
-    // var _verbs = modalAuxiliaries.concat(pastTenseVerbs, presentParticipleAndGerundVerbs, pastParticipleVerbs, notThirdPersonSingularPresentTenseVerbs, thirdPersonSingularPresentTenseVerbs)
-    //
-    // // All type of pronouns together
-    // var _pronouns = personalPronouns.concat(personalPronouns, existentialTheres, whPronouns, possessiveWHPronouns)
-    //
-    // // All type of adjectives together
-    // var _adjectives = ordinalAdjectivesAndNumerals.concat(comparativeAdjectives, superlativeAdjectives)
-    //
-    // // All type of adverbs together
-    // var _adverbs = adverbs.concat(comparativeAdverbs, superlativeAdverbs, whAdverbTag)
-
-    cb(pos)
-  })
+  pos.coordinatingConjunctions = _.pluck(taggedWordsGroupedByTag[coordinatingConjunctionTag], 'word') || []
+  pos.cardinalNumbers = _.pluck(taggedWordsGroupedByTag[cardinalNumberTag], 'word') || []
+  pos.determiners = _.pluck(taggedWordsGroupedByTag[determinerTag], 'word') || []
+  pos.existentialTheres = _.pluck(taggedWordsGroupedByTag[existentialThereTag], 'word') || []
+  pos.foreignWords = _.pluck(taggedWordsGroupedByTag[foreignWordTag], 'word') || []
+  pos.subordinatingPrepositionsAndConjunctions = _.pluck(taggedWordsGroupedByTag[subordinatingPrepositionsAndConjunctionsTag], 'word') || []
+  pos.ordinalAdjectivesAndNumerals = _.pluck(taggedWordsGroupedByTag[ordinalAdjectiveAndNumeralTag], 'word') || []
+  pos.comparativeAdjectives = _.pluck(taggedWordsGroupedByTag[superlativeAdjectiveTag], 'word') || []
+  pos.superlativeAdjectives = _.pluck(taggedWordsGroupedByTag[superlativeAdjectiveTag], 'word') || []
+  pos.listItemMarkers = _.pluck(taggedWordsGroupedByTag[listItemMarkerTag], 'word') || []
+  pos.modalAuxiliaries = _.pluck(taggedWordsGroupedByTag[modalAuxiliaryTag], 'word') || []
+  pos.singolarCommonNounsAndMasses = _.pluck(taggedWordsGroupedByTag[singolarCommonNounAndMassTag], 'word') || []
+  pos.pluralCommonNouns = _.pluck(taggedWordsGroupedByTag[pluralCommonNounTag], 'word') || []
+  pos.singularProperNouns = _.pluck(taggedWordsGroupedByTag[singularProperNounTag], 'word') || []
+  pos.pluralProperNouns = _.pluck(taggedWordsGroupedByTag[pluralProperNounTag], 'word') || []
+  pos.preDeterminers = _.pluck(taggedWordsGroupedByTag[preDeterminerTag], 'word') || []
+  pos.genitiveMarkers = _.pluck(taggedWordsGroupedByTag[genitiveMarkerTag], 'word') || []
+  pos.personalPronouns = _.pluck(taggedWordsGroupedByTag[personalPronounTag], 'word') || []
+  pos.possessivePronouns = _.pluck(taggedWordsGroupedByTag[possessivePronounTag], 'word') || []
+  pos.adverbs = _.pluck(taggedWordsGroupedByTag[adverbTag], 'word') || []
+  pos.comparativeAdverbs = _.pluck(taggedWordsGroupedByTag[comparativeAdverbTag], 'word') || []
+  pos.superlativeAdverbs = _.pluck(taggedWordsGroupedByTag[superlativeAdverbTag], 'word') || []
+  pos.particles = _.pluck(taggedWordsGroupedByTag[particleTag], 'word') || []
+  pos.symbols = _.pluck(taggedWordsGroupedByTag[symbolTag], 'word') || []
+  pos.tos = _.pluck(taggedWordsGroupedByTag[toTag], 'word') || []
+  pos.interjections = _.pluck(taggedWordsGroupedByTag[interjectionTag], 'word') || []
+  pos.baseFormVerbs = _.pluck(taggedWordsGroupedByTag[baseFormVerbTag], 'word') || []
+  pos.pastTenseVerbs = _.pluck(taggedWordsGroupedByTag[pastTenseVerbTag], 'word') || []
+  pos.presentParticipleAndGerundVerbs = _.pluck(taggedWordsGroupedByTag[presentParticipleAndGerundVerbTag], 'word') || []
+  pos.pastParticipleVerbs = _.pluck(taggedWordsGroupedByTag[pastParticipleVerbTag], 'word') || []
+  pos.notThirdPersonSingularPresentTenseVerbs = _.pluck(taggedWordsGroupedByTag[notThirdPersonSingularPresentTenseVerbTag], 'word') || []
+  pos.thirdPersonSingularPresentTenseVerbs = _.pluck(taggedWordsGroupedByTag[thirdPersonSingularPresentTenseVerbTag], 'word') || []
+  pos.whDeterminers = _.pluck(taggedWordsGroupedByTag[whDeterminerTag], 'word') || []
+  pos.whPronouns = _.pluck(taggedWordsGroupedByTag[whPronounTag], 'word') || []
+  pos.possessiveWHPronouns = _.pluck(taggedWordsGroupedByTag[possessiveWHPronounTag], 'word') || []
+  pos.whAdverbs = _.pluck(taggedWordsGroupedByTag[whAdverbTag], 'word') || []
+  cb()
 }
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -283,7 +244,7 @@ const tagSentence = (sentence, cb) => {
             tag: taggedWord[1]
           }
           taggedSentence.push(taggedWord)
-          sentenceTags.push(taggedWord[1])
+          sentenceTags.push(taggedWord.tag)
         }
       })
       taggedSentences.push(taggedSentence)
@@ -291,7 +252,6 @@ const tagSentence = (sentence, cb) => {
     }
     cb(null, 'Tag Sentence')
   })
-
 }
 
 const tagSentences = (sentences, cb) => {
@@ -303,59 +263,13 @@ const tagSentences = (sentences, cb) => {
     _sentences,
     tagSentence,
     (err, results) => {
-      cb(sentencesTags)
-    }
-  )
-}
-
-////////////////////////////////////////////////////////////////////////////////
-////////////////////////////////////////////////////////////////////////////////
-////////////////////////////////////////////////////////////////////////////////
-
-var sentencesFirstWordTags = []
-
-const getFirstWordTag = (sentence, cb) => {
-  tagger.tag(sentence, function(err, resp) {
-    if (err) {
-      console.log(err);
-    }
-    else {
-      resp = resp.join(' ')
-      var taggedWords = resp.split(' ')
-      firstWord = taggedWords[0].split('_')
-      if (_.indexOf(tags, firstWord[1]) != -1) {
-        var firstWordTag = firstWord[1]
-        sentencesFirstWordTags.push(firstWord[1])
-      }
-    }
-    cb(null, 'Get First WOrd Tag')
-  })
-}
-
-const getFirstWordTags = (sentences, cb) => {
-  var _sentences = []
-  sentences.forEach((sentence) => {
-    _sentences.push(sentence.str)
-  })
-  async.eachSeries(
-    _sentences,
-    getFirstWordTag,
-    (err, results) => {
-      var hist = {};
-      sentencesFirstWordTags.map((a) => {
-        if (a in hist) {
-          hist[a] ++;
-        }
-        else {
-          hist[a] = 1;
-        }
+      pos.taggedWords = _.flatten(taggedSentences)
+      groupBytag(() => {
+        cb(pos, sentencesTags)
       })
-      cb(hist)
     }
   )
 }
 
 // EXPORTS
-module.exports.tag = tag
-
-module.exports.getFirstWordTags = getFirstWordTags
+module.exports.tag = tagSentences

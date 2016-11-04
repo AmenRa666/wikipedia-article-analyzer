@@ -80,17 +80,17 @@ var wordCount = 0
 var syllableCount = 0
 var sentenceCount = 0
 
-const differentWordCount = (cb) => {
+const countDifferentWords = (cb) => {
   lexicalFeatures.differentWordCount = _.uniq(words).length
-  cb(null, 'Count Words')
+  cb(null, 'Count Different Words')
 }
 
-const differentWordsPerSentence = (cb) => {
+const getDifferentWordsPerSentence = (cb) => {
   lexicalFeatures.differentWordsPerSentence = lexicalFeatures.differentWordCount/sentenceCount
   cb(null, 'Get Different Words Per Sentence')
 }
 
-const differentWordsRate = (cb) => {
+const getDifferentWordsRate = (cb) => {
   lexicalFeatures.differentWordsRate = lexicalFeatures.differentWordCount/wordCount
   cb(null, 'Get Different Words Rate')
 }
@@ -145,7 +145,7 @@ const getDifferentNounsRate = (cb) => {
 }
 
 const getDifferentNounsDifferentWordsRatio = (cb) => {
-  lexicalFeatures.differentNounsDifferentWordsRatio = lexicalFeatures.differentNounCount/differentWordCount
+  lexicalFeatures.differentNounsDifferentWordsRatio = lexicalFeatures.differentNounCount/lexicalFeatures.differentWordCount
   cb(null, 'Get Different Nouns Different Words Ratio')
 }
 
@@ -180,7 +180,7 @@ const getDifferentVerbsRate = (cb) => {
 }
 
 const getDifferentVerbsDifferentWordsRatio = (cb) => {
-  lexicalFeatures.differentVerbsDifferentWordsRatio = lexicalFeatures.differentVerbCount/differentWordCount
+  lexicalFeatures.differentVerbsDifferentWordsRatio = lexicalFeatures.differentVerbCount/lexicalFeatures.differentWordCount
   cb(null, 'Get Different Verbs Different Words Ratio')
 }
 
@@ -215,7 +215,7 @@ const getDifferentPronounsRate = (cb) => {
 }
 
 const getDifferentPronounsDifferentWordsRatio = (cb) => {
-  lexicalFeatures.differentPronounsDifferentWordsRatio = lexicalFeatures.differentPronounCount/differentWordCount
+  lexicalFeatures.differentPronounsDifferentWordsRatio = lexicalFeatures.differentPronounCount/lexicalFeatures.differentWordCount
   cb(null, 'Get Different Pronouns Different Words Ratio')
 }
 
@@ -250,7 +250,7 @@ const getDifferentAdjectivesRate = (cb) => {
 }
 
 const getDifferentAdjectivesDifferentWordsRatio = (cb) => {
-  lexicalFeatures.differentAdjectivesDifferentWordsRatio = lexicalFeatures.differentAdjectiveCount/differentWordCount
+  lexicalFeatures.differentAdjectivesDifferentWordsRatio = lexicalFeatures.differentAdjectiveCount/lexicalFeatures.differentWordCount
   cb(null, 'Get Different Adjectives Different Words Ratio')
 }
 
@@ -285,7 +285,7 @@ const getDifferentAdverbsRate = (cb) => {
 }
 
 const getDifferentAdverbsDifferentWordsRatio = (cb) => {
-  lexicalFeatures.differentAdverbsDifferentWordsRatio = lexicalFeatures.differentAdverbCount/differentWordCount
+  lexicalFeatures.differentAdverbsDifferentWordsRatio = lexicalFeatures.differentAdverbCount/lexicalFeatures.differentWordCount
   cb(null, 'Get Different Adverbs Different Words Ratio')
 }
 
@@ -320,7 +320,7 @@ const getDifferentCoordinatingConjunctionsRate = (cb) => {
 }
 
 const getDifferentCoordinatingConjunctionsDifferentWordsRatio = (cb) => {
-  lexicalFeatures.differentCoordinatingConjunctionsDifferentWordsRatio = lexicalFeatures.differentCoordinatingConjunctionCount/differentWordCount
+  lexicalFeatures.differentCoordinatingConjunctionsDifferentWordsRatio = lexicalFeatures.differentCoordinatingConjunctionCount/lexicalFeatures.differentWordCount
   cb(null, 'Get Different Coordinating Conjunctions Different Words Ratio')
 }
 
@@ -355,7 +355,7 @@ const getDifferentSubordinatingPrepositionsAndConjunctionsRate = (cb) => {
 }
 
 const getDifferentSubordinatingPrepositionsAndConjunctionsDifferentWordsRatio = (cb) => {
-  lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsDifferentWordsRatio = lexicalFeatures.differentSubordinatingPrepositionAndConjunctionCount/differentWordCount
+  lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsDifferentWordsRatio = lexicalFeatures.differentSubordinatingPrepositionAndConjunctionCount/lexicalFeatures.differentWordCount
   cb(null, 'Get Different Subordinating Prepositions And Conjunctions Different Words Ratio')
 }
 
@@ -413,11 +413,11 @@ const analyze = (pos, _words, _characterCount, _wordCount, _syllableCount, _sent
 
         (cb) => {
           async.series([
-            differentWordCount,
+            countDifferentWords,
             (cb) => {
               async.parallel([
-                differentWordsPerSentence,
-                differentWordsRate
+                getDifferentWordsPerSentence,
+                getDifferentWordsRate
               ], cb )
             }
           ], cb)

@@ -32,7 +32,7 @@ const load = (file, cb) => {
   var xmlFilename = folder + paths[pathIndex] + file
 
   // Read the file and print its contents.
-  fs.readFile(xmlFilename, 'utf8', function(err, xmlArticle) {
+  fs.readFile(xmlFilename, 'utf8', (err, xmlArticle) => {
     if (err) throw err
 
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -48,15 +48,15 @@ const load = (file, cb) => {
     };
 
     // Run Python script
-    PythonShell.run('WikiExtractor.py', options, function (err, results) {
+    PythonShell.run('WikiExtractor.py', options, (err, results) => {
       if (err) throw err
 
       // Load extracted article
-      fs.readFile('tmp/AA/wiki_00', 'utf8', function(err, extractedArticle) {
+      fs.readFile('tmp/AA/wiki_00', 'utf8', (err, extractedArticle) => {
         // Now we have the xml file and the clean article
 
         // Parse XML file
-        parser.parseString(xmlArticle, function (err, result) {
+        parser.parseString(xmlArticle, (err, result) => {
           if (err) throw err
 
           var articleTextFromXML = result.mediawiki.page[0].revision[0].text[0]._
@@ -68,7 +68,7 @@ const load = (file, cb) => {
           var sectionTitlesXML = rawSections.filter((element) => {
             return element.charAt(2) != '='
           })
-          sectionTitlesXML = sectionTitlesXML.map(function(sectionTitle) {
+          sectionTitlesXML = sectionTitlesXML.map((sectionTitle) => {
             sectionTitle = sectionTitle.substring(2)
             sectionTitle = sectionTitle.substring(0, sectionTitle.length - 2)
             return sectionTitle.trim()
@@ -78,7 +78,7 @@ const load = (file, cb) => {
           var subsectionTitlesXML = rawSections.filter((element) => {
             return element.charAt(2) == '=' && element.charAt(3) != '='
           })
-          subsectionTitlesXML = subsectionTitlesXML.map(function(subsectionTitle) {
+          subsectionTitlesXML = subsectionTitlesXML.map((subsectionTitle) => {
             subsectionTitle = subsectionTitle.substring(3)
             subsectionTitle = subsectionTitle.substring(0, subsectionTitle.length - 2)
             return subsectionTitle.trim()
@@ -309,7 +309,7 @@ const load = (file, cb) => {
 }
 
 // const readFile = (filename, cb) => {
-//   fs.readFile(listsFolder + filename, 'utf8', function(err, data) {
+//   fs.readFile(listsFolder + filename, 'utf8', (err, data) => {
 //     if (err) throw err;
 //     console.log(filename + ': LOADED');
 //     var titles = data.trim().split('\n')

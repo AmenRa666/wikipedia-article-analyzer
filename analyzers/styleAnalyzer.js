@@ -1,6 +1,7 @@
 // MODULES
 var async = require('async')
 var nlp = require('nlp_compromise')
+var passive = require('passive-voice');
 
 
 // LOGIC
@@ -17,15 +18,41 @@ var styleFeatures = {
   toBeVerbCount: 0,
   toBeVerbRatio: 0,
   toBeVerbPerSentence: 0,
-  toBeVerbRate: 0
+  toBeVerbRate: 0,
+  modalAuxiliaryVerbCount: 0,
+  modalAuxiliaryVerbsRatio: 0,
+  modalAuxiliaryVerbsPerSentence :0,
+  modalAuxiliaryVerbsRate: 0,
+  passiveVoiceCount: 0,
+  passiveVoiceRatio: 0,
+  passiveVoicePerSentence: 0,
+  passiveVoiceRate: 0,
+  numberOfSentencesThatStartWithACoordinatingConjunction: 0,
+  numberOfSentencesThatStartWithADeterminer: 0,
+  numberOfSentencesThatStartWithASubordinatingPrepositionOrConjunction: 0,
+  numberOfSentencesThatStartWithAnAdjective: 0,
+  numberOfSentencesThatStartWithANoun: 0,
+  numberOfSentencesThatStartWithAPronoun: 0,
+  numberOfSentencesThatStartWithAnAdverb: 0,
+  numberOfSentencesThatStartWithAnArticle: 0,
+  numberOfSentencesThatStartWithACoordinatingConjunctionRatio: 0,
+  numberOfSentencesThatStartWithADeterminerRatio: 0,
+  numberOfSentencesThatStartWithASubordinatingPrepositionOrConjunctionRatio: 0,
+  numberOfSentencesThatStartWithAnAdjectiveRatio: 0,
+  numberOfSentencesThatStartWithANounRatio: 0,
+  numberOfSentencesThatStartWithAPronounRatio: 0,
+  numberOfSentencesThatStartWithAnAdverbRatio: 0,
+  numberOfSentencesThatStartWithAnArticleRatio: 0
 }
 
 var pos = []
 var verbs = []
 var words = []
 var sentences = []
+var sentencesTags = []
 var wordCount = 0
 var sentenceCount = 0
+var firstWordsTags = {}
 
 const getMeanSentenceSize = (cb) => {
   styleFeatures.meanSentenceSize = wordCount/sentenceCount
@@ -120,7 +147,7 @@ const getExclamationRatio = (cb) => {
   cb(null, 'Get Exclamation Ratio')
 }
 
-const countToBeVerb = (cb) => {
+const getToBeVerbFeatures = (cb) => {
   var count = 0
   words.forEach((word) => {
     if (word == 'am' || word == 'are' || word == 'is' || word == 'was' || word == 'were' || word == 'been' || word == 'being') {
@@ -134,16 +161,196 @@ const countToBeVerb = (cb) => {
   cb(null, 'Count To Be Verb')
 }
 
-const analyze = (_pos, _words, _sentences, _wordCount, _sentenceCount, cb) => {
+const getPassiveVoiceFeatures = (cb) => {
+  var passiveVoiceCount = 0
+  sentences.forEach((sentence) => {
+    passiveVoiceCount = passiveVoiceCount + passive(sentence.str).length
+  })
+  styleFeatures.passiveVoiceCount = passiveVoiceCount
+  styleFeatures.passiveVoiceRatio = passiveVoiceCount/verbs.length
+  styleFeatures.passiveVoicePerSentence = passiveVoiceCount/sentenceCount
+  styleFeatures.passiveVoiceRate = passiveVoiceCount/wordCount
+  cb(null, 'Get Passive Voice Features')
+}
+
+const getModalAuxiliaryFeatures = (cb) => {
+  var modalAuxiliaryVerbCount = pos.modalAuxiliaries.length
+  styleFeatures.modalAuxiliaryVerbCount = modalAuxiliaryVerbCount
+  styleFeatures.modalAuxiliaryVerbsRatio = modalAuxiliaryVerbCount/verbs.length
+  styleFeatures.modalAuxiliaryVerbsPerSentence = modalAuxiliaryVerbCount/sentenceCount
+  styleFeatures.modalAuxiliaryVerbsRate = modalAuxiliaryVerbCount/wordCount
+  cb(null, 'Get Modal Auxiliaries Features')
+}
+
+////////////////////////////////////////////////////////////////////////////////
+///////////////////// NUMBER OF SENTENCES THAT START WITH //////////////////////
+////////////////////////////////////////////////////////////////////////////////
+
+const getNumberOfSentencesThatStartWithACoordinatingConjunction = (cb) => {
+  var count  = 0
+  if (firstWordsTags['CC'] != undefined) {
+    count = firstWordsTags['CC']
+  }
+  styleFeatures.numberOfSentencesThatStartWithACoordinatingConjunction = count
+  styleFeatures.numberOfSentencesThatStartWithACoordinatingConjunctionRatio = count/sentenceCount
+  cb(null, 'Get Number Of Sentences That Start With A Coordinating Conjunction')
+}
+
+const getNumberOfSentencesThatStartWithADeterminer = (cb) => {
+  var count  = 0
+  if (firstWordsTags['DT'] != undefined) {
+    count = firstWordsTags['DT']
+  }
+  if (firstWordsTags['WDT'] != undefined) {
+    count = count + firstWordsTags['WDT']
+  }
+  styleFeatures.numberOfSentencesThatStartWithADeterminer = count
+  styleFeatures.numberOfSentencesThatStartWithADeterminerRatio = count/sentenceCount
+  cb(null, 'Get Number Of Sentences That Start With A Determiner')
+}
+
+const getNumberOfSentencesThatStartWithASubordinatingPrepositionOrConjunction = (cb) => {
+  var count  = 0
+  if (firstWordsTags['IN'] != undefined) {
+    count = firstWordsTags['IN']
+  }
+  styleFeatures.numberOfSentencesThatStartWithASubordinatingPrepositionOrConjunction = count
+  styleFeatures.numberOfSentencesThatStartWithASubordinatingPrepositionOrConjunctionRatio = count/sentenceCount
+  cb(null, 'Get Number Of Sentences That Start With Subordinating Preposition Or Conjunction')
+}
+
+const getNumberOfSentencesThatStartWithAnAdjective = (cb) => {
+  var count  = 0
+  if (firstWordsTags['JJ'] != undefined) {
+    count = firstWordsTags['JJ']
+  }
+  if (firstWordsTags['JJR'] != undefined) {
+    count = count + firstWordsTags['JJR']
+  }
+  if (firstWordsTags['JJS'] != undefined) {
+    count = count + firstWordsTags['JJS']
+  }
+  styleFeatures.numberOfSentencesThatStartWithAnAdjective = count
+  styleFeatures.numberOfSentencesThatStartWithAnAdjectiveRatio = count/sentenceCount
+  cb(null, 'Get Number Of Sentences That Start With An Adjective')
+}
+
+const getNumberOfSentencesThatStartWithANoun = (cb) => {
+  var count  = 0
+  if (firstWordsTags['NN'] != undefined) {
+    count = firstWordsTags['NN']
+  }
+  if (firstWordsTags['NNS'] != undefined) {
+    count = count + firstWordsTags['NNS']
+  }
+  if (firstWordsTags['NNP'] != undefined) {
+    count = count + firstWordsTags['NNP']
+  }
+  if (firstWordsTags['NNPS'] != undefined) {
+    count = count + firstWordsTags['NNPS']
+  }
+  styleFeatures.numberOfSentencesThatStartWithANoun = count
+  styleFeatures.numberOfSentencesThatStartWithANounRatio = count/sentenceCount
+  cb(null, 'Get Number Of Sentences That Start With A Noun')
+}
+
+const getNumberOfSentencesThatStartWithAPronoun = (cb) => {
+  var count  = 0
+  if (firstWordsTags['PRP'] != undefined) {
+    count = firstWordsTags['PRP']
+  }
+  if (firstWordsTags['PRP$'] != undefined) {
+    count = count + firstWordsTags['PRP$']
+  }
+  if (firstWordsTags['EX'] != undefined) {
+    count = count + firstWordsTags['EX']
+  }
+  if (firstWordsTags['WP'] != undefined) {
+    count = count + firstWordsTags['WP']
+  }
+  if (firstWordsTags['WP'] != undefined) {
+    count = count + firstWordsTags['WP$']
+  }
+  styleFeatures.numberOfSentencesThatStartWithAPronoun = count
+  styleFeatures.numberOfSentencesThatStartWithAPronounRatio = count/sentenceCount
+  cb(null, 'Get Number Of Sentences That Start With A Pronoun')
+}
+
+const getNumberOfSentencesThatStartWithAnAdverb = (cb) => {
+  var count  = 0
+  if (firstWordsTags['RB'] != undefined) {
+    count = firstWordsTags['RB']
+  }
+  if (firstWordsTags['RBR'] != undefined) {
+    count = count + firstWordsTags['RBR']
+  }
+  if (firstWordsTags['RBS'] != undefined) {
+    count = count + firstWordsTags['RBS']
+  }
+  if (firstWordsTags['WRB'] != undefined) {
+    count = count + firstWordsTags['WRB']
+  }
+  styleFeatures.numberOfSentencesThatStartWithAnAdverb = count
+  styleFeatures.numberOfSentencesThatStartWithAnAdverbRatio = count/sentenceCount
+  cb(null, 'Get Number Of Sentences That Start With An Adverb')
+}
+
+const getNumberOfSentencesThatStartWithAnArticle = (cb) => {
+  var count = 0
+  sentences.forEach((sentence) => {
+    sentence = sentence.str.split(' ')
+    if (sentence[0] == 'The' || sentence[0] == 'the' || sentence[0] == 'A' || sentence[0] == 'a' || sentence[0] == 'An' || sentence[0] == 'an') {
+      count++
+    }
+  })
+  styleFeatures.numberOfSentencesThatStartWithAnArticle = count
+  styleFeatures.numberOfSentencesThatStartWithAnArticleRatio = count/sentenceCount
+  cb(null, 'Get Number Of Sentences That Start With An Article')
+}
+
+const getNumberOfSentencesThatStartWith = (cb) => {
+  var sentecesFirstTag = []
+  sentencesTags.forEach((sentenceTags) => {
+    sentecesFirstTag.push(sentenceTags[0])
+  })
+  sentecesFirstTag.map((a) => {
+    if (a in firstWordsTags) {
+      firstWordsTags[a] ++;
+    }
+    else {
+      firstWordsTags[a] = 1;
+    }
+  })
+
+  async.parallel([
+    getNumberOfSentencesThatStartWithACoordinatingConjunction,
+    getNumberOfSentencesThatStartWithADeterminer,
+    getNumberOfSentencesThatStartWithASubordinatingPrepositionOrConjunction,
+    getNumberOfSentencesThatStartWithAnAdjective,
+    getNumberOfSentencesThatStartWithANoun,
+    getNumberOfSentencesThatStartWithAPronoun,
+    getNumberOfSentencesThatStartWithAnAdverb,
+    getNumberOfSentencesThatStartWithAnArticle,
+  ], (err, result) => {
+    cb(null, 'Get Number Of Sentences That Start With')
+  })
+}
+
+const analyze = (_pos, _words, _sentences, _wordCount, _sentenceCount, _sentencesTags, cb) => {
   pos = _pos
   words = _words
   sentences = _sentences
   wordCount = _wordCount
   sentenceCount = _sentenceCount
+  sentencesTags = _sentencesTags
 
   verbs = pos.modalAuxiliaries.concat(pos.pastTenseVerbs, pos.notThirdPersonSingularPresentTenseVerbs, pos.thirdPersonSingularPresentTenseVerbs)
 
   async.parallel([
+    getModalAuxiliaryFeatures,
+    getNumberOfSentencesThatStartWith,
+    getPassiveVoiceFeatures,
+    getToBeVerbFeatures,
     (cb) => {
       async.series([
         getMeanSentenceSize,
@@ -172,8 +379,6 @@ const analyze = (_pos, _words, _sentences, _wordCount, _sentenceCount, cb) => {
         getExclamationRatio
       ], cb)
     },
-
-    countToBeVerb
 
   ], (err, result) => {
     cb(styleFeatures)

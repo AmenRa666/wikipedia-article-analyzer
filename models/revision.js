@@ -9,4 +9,4 @@ var revisionsSchema = new Schema({
 });
 
 // instances of Models are documents
-exports.Revision = mongoose.model('articles', articlesSchema);
+exports.Revision = mongoose.model('revisions', revisionsSchema);
