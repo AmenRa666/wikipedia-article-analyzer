@@ -8,6 +8,8 @@ var math = require('mathjs')
 var _ = require('underscore')
 var async = require('async')
 var time = require('node-tictoc')
+var jsonfile = require('jsonfile')
+var mkdirp = require('mkdirp')
 // Analizer
 var articleAnalyzer = require('./articleAnalyzer.js')
 // Database Agent
@@ -327,16 +329,17 @@ const load = (file, cb) => {
                 // Print trigrams
                 var trigramObj = {
                   posTrigrams: trigrams.posTrigrams,
-                  characterTrigrams: trigrams.characterTrigrams
+                  characterTrigrams: trigrams.characterTrigrams,
                   qualityClass: qualityClass
                 }
                 var fileToSave = id + '.json'
-                mkdirp('trigrams/', (err) => {
+                var trigramPath = 'trigrams/'
+                mkdirp(trigramPath, (err) => {
                   if (err) throw err
-                  jsonfile.writeFile(fileToSave, trigramObj, {spaces: 2}, (err) => {
+                  jsonfile.writeFile(trigramPath + fileToSave, trigramObj, {spaces: 2}, (err) => {
                     if (err) throw err
                     // Save the article in MongoDB
-                    dbAgent.insert(article, cb)
+                    dbAgent.insertArticle(article, cb)
                   })
                 })
 
