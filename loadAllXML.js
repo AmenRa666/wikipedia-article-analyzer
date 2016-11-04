@@ -24,11 +24,8 @@ var paths = ['featuredArticlesXML/','aClassArticlesXML/', 'goodArticlesXML/', 'b
 var pathIndex = 0
 var qualityClass = 7
 
-
 const load = (file, cb) => {
-
   var _title = file.replace(/_/g, ' ').replace(/\.xml/, '').trim()
-
   var xmlFilename = folder + paths[pathIndex] + file
 
   // Read the file and print its contents.
@@ -178,123 +175,170 @@ const load = (file, cb) => {
               // Root text (she sold seashells -> she sell seashell)
               var rootText = nlp.text(expandedText).root()
 
-
               articleAnalyzer.analyze(articleTextFromXML, id, title, textWithSectionTitles, subsectionIndexes, abstract, sections, text, sentences, onlyLettersAndNumbersText, words, (articleJSON) => {
                 // console.log(JSON.stringify(articleJSON.features, null, 2));
+
+                var lengthFeatures = articleJSON.features.lengthFeatures
+                var structureFeatures = articleJSON.features.structureFeatures
+                var styleFeatures = articleJSON.features.styleFeatures
+                var readabilityFeatures = articleJSON.features.readabilityFeatures
+                var lexicalFeatures = articleJSON.features.lexicalFeatures
+                var trigrams = articleJSON.features.trigrams
 
                 var article = {
                   id: id,
                   title: title,
                   // Length Features
-                  characterCount: articleJSON.features.lengthFeatures.characterCount,
-                  wordCount: articleJSON.features.lengthFeatures.wordCount,
-                  syllableCount: articleJSON.features.lengthFeatures.syllableCount,
-                  sentenceCount: articleJSON.features.lengthFeatures.sentenceCount,
+                  characterCount: lengthFeatures.characterCount,
+                  wordCount: lengthFeatures.wordCount,
+                  syllableCount: lengthFeatures.syllableCount,
+                  sentenceCount: lengthFeatures.sentenceCount,
                   // Structure Features
-                  sectionCount: articleJSON.features.structureFeatures.sectionCount,
-                  subsectionCount: articleJSON.features.structureFeatures.subsectionCount,
-                  paragraphCount: articleJSON.features.structureFeatures.paragraphCount,
-                  meanSectionSize: articleJSON.features.structureFeatures.meanSectionSize,
-                  meanParagraphSize: articleJSON.features.structureFeatures.meanParagraphSize,
-                  largestSectionSize: articleJSON.features.structureFeatures.largestSectionSize,
-                  shortestSectionSize: articleJSON.features.structureFeatures.shortestSectionSize,
-                  largestShortestSectionRatio: articleJSON.features.structureFeatures.largestShortestSectionRatio,
-                  sectionSizeStandardDeviation: articleJSON.features.structureFeatures.sectionSizeStandardDeviation,
-                  meanOfSubsectionsPerSection: articleJSON.features.structureFeatures.meanOfSubsectionsPerSection,
-                  abstractSize: articleJSON.features.structureFeatures.abstractSize,
-                  abstractSizeArtcileLengthRatio: articleJSON.features.structureFeatures.abstractSizeArtcileLengthRatio,
-                  citationCount: articleJSON.features.structureFeatures.citationCount,
-                  citationCountPerSentence: articleJSON.features.structureFeatures.citationCountPerSentence,
-                  citationCountPerSection: articleJSON.features.structureFeatures.citationCountPerSection,
-                  externalLinksCount: articleJSON.features.structureFeatures.externalLinksCount,
-                  externalLinksPerSentence: articleJSON.features.structureFeatures.externalLinksPerSentence,
-                  externalLinksPerSection: articleJSON.features.structureFeatures.externalLinksPerSection,
-                  imageCount: articleJSON.features.structureFeatures.imageCount,
-                  imagePerSentence: articleJSON.features.structureFeatures.imagePerSentence,
-                  imagePerSection: articleJSON.features.structureFeatures.imagePerSection,
+                  sectionCount: structureFeatures.sectionCount,
+                  subsectionCount: structureFeatures.subsectionCount,
+                  paragraphCount: structureFeatures.paragraphCount,
+                  meanSectionSize: structureFeatures.meanSectionSize,
+                  meanParagraphSize: structureFeatures.meanParagraphSize,
+                  largestSectionSize: structureFeatures.largestSectionSize,
+                  shortestSectionSize: structureFeatures.shortestSectionSize,
+                  largestShortestSectionRatio: structureFeatures.largestShortestSectionRatio,
+                  sectionSizeStandardDeviation: structureFeatures.sectionSizeStandardDeviation,
+                  meanOfSubsectionsPerSection: structureFeatures.meanOfSubsectionsPerSection,
+                  abstractSize: structureFeatures.abstractSize,
+                  abstractSizeArtcileLengthRatio: structureFeatures.abstractSizeArtcileLengthRatio,
+                  citationCount: structureFeatures.citationCount,
+                  citationCountPerSentence: structureFeatures.citationCountPerSentence,
+                  citationCountPerSection: structureFeatures.citationCountPerSection,
+                  externalLinksCount: structureFeatures.externalLinksCount,
+                  externalLinksPerSentence: structureFeatures.externalLinksPerSentence,
+                  externalLinksPerSection: structureFeatures.externalLinksPerSection,
+                  imageCount: structureFeatures.imageCount,
+                  imagePerSentence: structureFeatures.imagePerSentence,
+                  imagePerSection: structureFeatures.imagePerSection,
                   // Style Features
-                  meanSentenceSize: articleJSON.features.styleFeatures.meanSentenceSize,
-                  largestSentenceSize: articleJSON.features.styleFeatures.largestSentenceSize,
-                  shortestSentenceSize: articleJSON.features.styleFeatures.shortestSentenceSize,
-                  largeSentenceRate: articleJSON.features.styleFeatures.largeSentenceRate,
-                  shortSentenceRate: articleJSON.features.styleFeatures.shortSentenceRate,
-                  questionCount: articleJSON.features.styleFeatures.questionCount,
-                  questionRatio: articleJSON.features.styleFeatures.questionRatio,
-                  exclamationCount: articleJSON.features.styleFeatures.exclamationCount,
-                  exclamationRatio: articleJSON.features.styleFeatures.exclamationRatio,
-                  toBeVerbCount: articleJSON.features.styleFeatures.toBeVerbCount,
-                  toBeVerbRatio: articleJSON.features.styleFeatures.toBeVerbRatio,
-                  toBeVerbPerSentence: articleJSON.features.styleFeatures.toBeVerbPerSentence,
-                  toBeVerbRate: articleJSON.features.styleFeatures.toBeVerbRate,
+                  meanSentenceSize: styleFeatures.meanSentenceSize,
+                  largestSentenceSize: styleFeatures.largestSentenceSize,
+                  shortestSentenceSize: styleFeatures.shortestSentenceSize,
+                  largeSentenceRate: styleFeatures.largeSentenceRate,
+                  shortSentenceRate: styleFeatures.shortSentenceRate,
+                  questionCount: styleFeatures.questionCount,
+                  questionRatio: styleFeatures.questionRatio,
+                  exclamationCount: styleFeatures.exclamationCount,
+                  exclamationRatio: styleFeatures.exclamationRatio,
+                  toBeVerbCount: styleFeatures.toBeVerbCount,
+                  toBeVerbRatio: styleFeatures.toBeVerbRatio,
+                  toBeVerbPerSentence: styleFeatures.toBeVerbPerSentence,
+                  toBeVerbRate: styleFeatures.toBeVerbRate,
+                  modalAuxiliaryVerbCount: styleFeatures.modalAuxiliaryVerbCount,
+                  modalAuxiliaryVerbsRatio: styleFeatures.modalAuxiliaryVerbsRatio,
+                  modalAuxiliaryVerbsPerSentence: styleFeatures.modalAuxiliaryVerbsPerSentence,
+                  modalAuxiliaryVerbsRate: styleFeatures.modalAuxiliaryVerbsRate,
+                  passiveVoiceCount: styleFeatures.passiveVoiceCount,
+                  passiveVoiceRatio: styleFeatures.passiveVoiceRatio,
+                  passiveVoicePerSentence: styleFeatures.passiveVoicePerSentence,
+                  passiveVoiceRate: styleFeatures.passiveVoiceRate,
+                  numberOfSentencesThatStartWithACoordinatingConjunction: styleFeatures.numberOfSentencesThatStartWithACoordinatingConjunction,
+                  numberOfSentencesThatStartWithADeterminer: styleFeatures.numberOfSentencesThatStartWithADeterminer,
+                  numberOfSentencesThatStartWithASubordinatingPrepositionOrConjunction: styleFeatures.numberOfSentencesThatStartWithASubordinatingPrepositionOrConjunction,
+                  numberOfSentencesThatStartWithAnAdjective: styleFeatures.numberOfSentencesThatStartWithAnAdjective,
+                  numberOfSentencesThatStartWithANoun: styleFeatures.numberOfSentencesThatStartWithANoun,
+                  numberOfSentencesThatStartWithAPronoun: styleFeatures.numberOfSentencesThatStartWithAPronoun,
+                  numberOfSentencesThatStartWithAnAdverb: styleFeatures.numberOfSentencesThatStartWithAnAdverb,
+                  numberOfSentencesThatStartWithAnArticle: styleFeatures.numberOfSentencesThatStartWithAnArticle,
+                  numberOfSentencesThatStartWithACoordinatingConjunctionRatio: styleFeatures.numberOfSentencesThatStartWithACoordinatingConjunctionRatio,
+                  numberOfSentencesThatStartWithADeterminerRatio: styleFeatures.numberOfSentencesThatStartWithADeterminerRatio,
+                  numberOfSentencesThatStartWithASubordinatingPrepositionOrConjunctionRatio: styleFeatures.numberOfSentencesThatStartWithASubordinatingPrepositionOrConjunctionRatio,
+                  numberOfSentencesThatStartWithAnAdjectiveRatio: styleFeatures.numberOfSentencesThatStartWithAnAdjectiveRatio,
+                  numberOfSentencesThatStartWithANounRatio: styleFeatures.numberOfSentencesThatStartWithANounRatio,
+                  numberOfSentencesThatStartWithAPronounRatio: styleFeatures.numberOfSentencesThatStartWithAPronounRatio,
+                  numberOfSentencesThatStartWithAnAdverbRatio: styleFeatures.numberOfSentencesThatStartWithAnAdverbRatio,
+                  numberOfSentencesThatStartWithAnArticleRatio: styleFeatures.numberOfSentencesThatStartWithAnArticleRatio,
                   // Readability Features
-                  automatedReadabilityIndex: articleJSON.features.readabilityFeatures.automatedReadabilityIndex,
-                  colemanLiauIndex: articleJSON.features.readabilityFeatures.colemanLiauIndex,
-                  fleshReadingEase: articleJSON.features.readabilityFeatures.fleshReadingEase,
-                  fleschKincaidGradeLevel: articleJSON.features.readabilityFeatures.fleschKincaidGradeLevel,
-                  gunningFogIndex: articleJSON.features.readabilityFeatures.gunningFogIndex,
-                  lasbarhetsIndex: articleJSON.features.readabilityFeatures.lasbarhetsIndex,
-                  smogGrading: articleJSON.features.readabilityFeatures.smogGrading,
-                  linsearWriteFormula: articleJSON.features.readabilityFeatures.linsearWriteFormula,
-                  daleChallReadabilityFormula: articleJSON.features.readabilityFeatures.daleChallReadabilityFormula,
+                  automatedReadabilityIndex: readabilityFeatures.automatedReadabilityIndex,
+                  colemanLiauIndex: readabilityFeatures.colemanLiauIndex,
+                  fleshReadingEase: readabilityFeatures.fleshReadingEase,
+                  fleschKincaidGradeLevel: readabilityFeatures.fleschKincaidGradeLevel,
+                  gunningFogIndex: readabilityFeatures.gunningFogIndex,
+                  lasbarhetsIndex: readabilityFeatures.lasbarhetsIndex,
+                  smogGrading: readabilityFeatures.smogGrading,
+                  daleChallReadabilityFormula: readabilityFeatures.daleChallReadabilityFormula,
                   // Lexical Features
-                  differentWordCount: articleJSON.features.lexicalFeatures.differentWordCount,
-                  differentWordsPerSentence: articleJSON.features.lexicalFeatures.differentWordsPerSentence,
-                  differentWordsRate: articleJSON.features.lexicalFeatures.differentWordsRate,
-                  nounCount: articleJSON.features.lexicalFeatures.nounCount,
-                  nounsPerSentence: articleJSON.features.lexicalFeatures.nounsPerSentence,
-                  nounsRate: articleJSON.features.lexicalFeatures.nounsRate,
-                  differentNounCount: articleJSON.features.lexicalFeatures.differentNounCount,
-                  differentNounsPerSentence: articleJSON.features.lexicalFeatures.differentNounsPerSentence,
-                  differentNounsRate: articleJSON.features.lexicalFeatures.differentNounsRate,
-                  differentNounsDifferentWordsRatio: articleJSON.features.lexicalFeatures.differentNounsDifferentWordsRatio,
-                  verbCount: articleJSON.features.lexicalFeatures.verbCount,
-                  verbsPerSentence: articleJSON.features.lexicalFeatures.verbsPerSentence,
-                  verbsRate: articleJSON.features.lexicalFeatures.verbsRate,
-                  differentVerbCount: articleJSON.features.lexicalFeatures.differentVerbCount,
-                  differentVerbsPerSentence: articleJSON.features.lexicalFeatures.differentVerbsPerSentence,
-                  differentVerbsRate: articleJSON.features.lexicalFeatures.differentVerbsRate,
-                  differentVerbsDifferentWordsRatio: articleJSON.features.lexicalFeatures.differentVerbsDifferentWordsRatio,
-                  pronounCount: articleJSON.features.lexicalFeatures.pronounCount,
-                  pronounsPerSentence: articleJSON.features.lexicalFeatures.pronounsPerSentence,
-                  pronounsRate: articleJSON.features.lexicalFeatures.pronounsRate,
-                  differentPronounCount: articleJSON.features.lexicalFeatures.differentPronounCount,
-                  differentPronounsPerSentence: articleJSON.features.lexicalFeatures.differentPronounsPerSentence,
-                  differentPronounsRate: articleJSON.features.lexicalFeatures.differentPronounsRate,
-                  differentPronounsDifferentWordsRatio: articleJSON.features.lexicalFeatures.differentPronounsDifferentWordsRatio,
-                  adjectiveCount: articleJSON.features.lexicalFeatures.adjectiveCount,
-                  adjectivesPerSentence: articleJSON.features.lexicalFeatures.adjectivesPerSentence,
+                  differentWordCount: lexicalFeatures.differentWordCount,
+                  differentWordsPerSentence: lexicalFeatures.differentWordsPerSentence,
+                  differentWordsRate: lexicalFeatures.differentWordsRate,
+                  nounCount: lexicalFeatures.nounCount,
+                  nounsPerSentence: lexicalFeatures.nounsPerSentence,
+                  nounsRate: lexicalFeatures.nounsRate,
+                  differentNounCount: lexicalFeatures.differentNounCount,
+                  differentNounsPerSentence: lexicalFeatures.differentNounsPerSentence,
+                  differentNounsRate: lexicalFeatures.differentNounsRate,
+                  differentNounsDifferentWordsRatio: lexicalFeatures.differentNounsDifferentWordsRatio,
+                  verbCount: lexicalFeatures.verbCount,
+                  verbsPerSentence: lexicalFeatures.verbsPerSentence,
+                  verbsRate: lexicalFeatures.verbsRate,
+                  differentVerbCount: lexicalFeatures.differentVerbCount,
+                  differentVerbsPerSentence: lexicalFeatures.differentVerbsPerSentence,
+                  differentVerbsRate: lexicalFeatures.differentVerbsRate,
+                  differentVerbsDifferentWordsRatio: lexicalFeatures.differentVerbsDifferentWordsRatio,
+                  pronounCount: lexicalFeatures.pronounCount,
+                  pronounsPerSentence: lexicalFeatures.pronounsPerSentence,
+                  pronounsRate: lexicalFeatures.pronounsRate,
+                  differentPronounCount: lexicalFeatures.differentPronounCount,
+                  differentPronounsPerSentence: lexicalFeatures.differentPronounsPerSentence,
+                  differentPronounsRate: lexicalFeatures.differentPronounsRate,
+                  differentPronounsDifferentWordsRatio: lexicalFeatures.differentPronounsDifferentWordsRatio,
+                  adjectiveCount: lexicalFeatures.adjectiveCount,
+                  adjectivesPerSentence: lexicalFeatures.adjectivesPerSentence,
                   adjectivesRate: articleJSON.features.adjectivesRate,
-                  differentAdjectiveCount: articleJSON.features.lexicalFeatures.differentAdjectiveCount,
-                  differentAdjectivesPerSentence: articleJSON.features.lexicalFeatures.differentAdjectivesPerSentence,
-                  differentAdjectivesRate: articleJSON.features.lexicalFeatures.differentAdjectivesRate,
-                  differentAdjectivesDifferentWordsRatio: articleJSON.features.lexicalFeatures.differentAdjectivesDifferentWordsRatio,
-                  adverbCount: articleJSON.features.lexicalFeatures.adverbCount,
-                  adverbsPerSentence: articleJSON.features.lexicalFeatures.adverbsPerSentence,
-                  adverbsRate: articleJSON.features.lexicalFeatures.adverbsRate,
-                  differentAdverbCount: articleJSON.features.lexicalFeatures.differentAdverbCount,
-                  differentAdverbsPerSentence: articleJSON.features.lexicalFeatures.differentAdverbsPerSentence,
-                  differentAdverbsRate: articleJSON.features.lexicalFeatures.differentAdverbsRate,
-                  differentAdverbsDifferentWordsRatio: articleJSON.features.lexicalFeatures.differentAdverbsDifferentWordsRatio,
-                  coordinatingConjunctionCount: articleJSON.features.lexicalFeatures.coordinatingConjunctionCount,
-                  coordinatingConjunctionsPerSentence: articleJSON.features.lexicalFeatures.coordinatingConjunctionsPerSentence,
-                  coordinatingConjunctionsRate: articleJSON.features.lexicalFeatures.coordinatingConjunctionsPerSentence,
-                  differentCoordinatingConjunctionCount: articleJSON.features.lexicalFeatures.differentCoordinatingConjunctionCount,
-                  differentCoordinatingConjunctionsPerSentence: articleJSON.features.lexicalFeatures.differentCoordinatingConjunctionsPerSentence,
-                  differentCoordinatingConjunctionsRate: articleJSON.features.lexicalFeatures.differentCoordinatingConjunctionsRate,
-                  differentCoordinatingConjunctionsDifferentWordsRatio: articleJSON.features.lexicalFeatures.differentCoordinatingConjunctionsDifferentWordsRatio,
-                  subordinatingPrepositionAndConjunctionCount: articleJSON.features.lexicalFeatures.subordinatingPrepositionAndConjunctionCount,
-                  subordinatingPrepositionsAndConjunctionsPerSentence: articleJSON.features.lexicalFeatures.subordinatingPrepositionsAndConjunctionsPerSentence,
-                  subordinatingPrepositionsAndConjunctionsRate: articleJSON.features.lexicalFeatures.subordinatingPrepositionsAndConjunctionsRate,
-                  differentSubordinatingPrepositionAndConjunctionCount: articleJSON.features.lexicalFeatures.differentSubordinatingPrepositionAndConjunctionCount,
-                  differentSubordinatingPrepositionsAndConjunctionsPerSentence: articleJSON.features.lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsPerSentence,
-                  differentSubordinatingPrepositionsAndConjunctionsRate: articleJSON.features.lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsRate,
-                  differentSubordinatingPrepositionsAndConjunctionsDifferentWordsRatio: articleJSON.features.lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsDifferentWordsRatio,
-                  syllablesPerWord: articleJSON.features.lexicalFeatures.syllablesPerWord,
-                  charactersPerWord: articleJSON.features.lexicalFeatures.charactersPerWord,
+                  differentAdjectiveCount: lexicalFeatures.differentAdjectiveCount,
+                  differentAdjectivesPerSentence: lexicalFeatures.differentAdjectivesPerSentence,
+                  differentAdjectivesRate: lexicalFeatures.differentAdjectivesRate,
+                  differentAdjectivesDifferentWordsRatio: lexicalFeatures.differentAdjectivesDifferentWordsRatio,
+                  adverbCount: lexicalFeatures.adverbCount,
+                  adverbsPerSentence: lexicalFeatures.adverbsPerSentence,
+                  adverbsRate: lexicalFeatures.adverbsRate,
+                  differentAdverbCount: lexicalFeatures.differentAdverbCount,
+                  differentAdverbsPerSentence: lexicalFeatures.differentAdverbsPerSentence,
+                  differentAdverbsRate: lexicalFeatures.differentAdverbsRate,
+                  differentAdverbsDifferentWordsRatio: lexicalFeatures.differentAdverbsDifferentWordsRatio,
+                  coordinatingConjunctionCount: lexicalFeatures.coordinatingConjunctionCount,
+                  coordinatingConjunctionsPerSentence: lexicalFeatures.coordinatingConjunctionsPerSentence,
+                  coordinatingConjunctionsRate: lexicalFeatures.coordinatingConjunctionsPerSentence,
+                  differentCoordinatingConjunctionCount: lexicalFeatures.differentCoordinatingConjunctionCount,
+                  differentCoordinatingConjunctionsPerSentence: lexicalFeatures.differentCoordinatingConjunctionsPerSentence,
+                  differentCoordinatingConjunctionsRate: lexicalFeatures.differentCoordinatingConjunctionsRate,
+                  differentCoordinatingConjunctionsDifferentWordsRatio: lexicalFeatures.differentCoordinatingConjunctionsDifferentWordsRatio,
+                  subordinatingPrepositionAndConjunctionCount: lexicalFeatures.subordinatingPrepositionAndConjunctionCount,
+                  subordinatingPrepositionsAndConjunctionsPerSentence: lexicalFeatures.subordinatingPrepositionsAndConjunctionsPerSentence,
+                  subordinatingPrepositionsAndConjunctionsRate: lexicalFeatures.subordinatingPrepositionsAndConjunctionsRate,
+                  differentSubordinatingPrepositionAndConjunctionCount: lexicalFeatures.differentSubordinatingPrepositionAndConjunctionCount,
+                  differentSubordinatingPrepositionsAndConjunctionsPerSentence: lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsPerSentence,
+                  differentSubordinatingPrepositionsAndConjunctionsRate: lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsRate,
+                  differentSubordinatingPrepositionsAndConjunctionsDifferentWordsRatio: lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsDifferentWordsRatio,
+                  syllablesPerWord: lexicalFeatures.syllablesPerWord,
+                  charactersPerWord: lexicalFeatures.charactersPerWord,
+                  // TRIGRAMS
+                  // posTrigrams: trigrams.posTrigrams,
+                  // characterTrigrams: trigrams.characterTrigrams
                   // Quality Class
                   qualityClass: qualityClass
                 }
-                dbAgent.insertArticle(article, cb)
+
+                // Print trigrams
+                var trigramObj = {
+                  posTrigrams: trigrams.posTrigrams,
+                  characterTrigrams: trigrams.characterTrigrams
+                  qualityClass: qualityClass
+                }
+                var fileToSave = id + '.json'
+                mkdirp('trigrams/', (err) => {
+                  if (err) throw err
+                  jsonfile.writeFile(fileToSave, trigramObj, {spaces: 2}, (err) => {
+                    if (err) throw err
+                    // Save the article in MongoDB
+                    dbAgent.insert(article, cb)
+                  })
+                })
 
               })
 
@@ -307,32 +351,6 @@ const load = (file, cb) => {
   })
 
 }
-
-// const readFile = (filename, cb) => {
-//   fs.readFile(listsFolder + filename, 'utf8', (err, data) => {
-//     if (err) throw err;
-//     console.log(filename + ': LOADED');
-//     var titles = data.trim().split('\n')
-//     for (var i = 0; i < titles.length; i++) {
-//       titles[i] = decodeURI(titles[i].trim())
-//     }
-//     console.log('Articles analysis: STARTING');
-//     async.eachSeries(
-//       titles,
-//       load,
-//       (err, result) => {
-//       if (err) {
-//         console.log(err);
-//       }
-//       else {
-//         qualityClass--
-//         console.log('Articles analysis: DONE');
-//       }
-//     })
-//   })
-// }
-
-
 
 const readAllFiles = (path, cb) => {
   fs.readdir(folder + path, (err, files) => {
@@ -357,8 +375,6 @@ const readAllFiles = (path, cb) => {
   })
 }
 
-
-
 time.tic();
 
 async.eachSeries(
@@ -367,7 +383,8 @@ async.eachSeries(
   (err, result) => {
     if (err) console.log(err);
     else console.log('All articles have been analyzed!');
+    console.log('Time elapsed: ');
+    time.toc()
+    process.exit()
   }
 )
-
-time.toc();
