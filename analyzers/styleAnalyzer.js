@@ -21,7 +21,7 @@ var styleFeatures = {
   toBeVerbRate: 0,
   modalAuxiliaryVerbCount: 0,
   modalAuxiliaryVerbsRatio: 0,
-  modalAuxiliaryVerbsPerSentence :0,
+  modalAuxiliaryVerbsPerSentence : 0,
   modalAuxiliaryVerbsRate: 0,
   passiveVoiceCount: 0,
   passiveVoiceRatio: 0,
@@ -344,7 +344,47 @@ const analyze = (_pos, _words, _sentences, _wordCount, _sentenceCount, _sentence
   sentenceCount = _sentenceCount
   sentencesTags = _sentencesTags
 
+  firstWordsTags = {}
+
   verbs = pos.modalAuxiliaries.concat(pos.pastTenseVerbs, pos.notThirdPersonSingularPresentTenseVerbs, pos.thirdPersonSingularPresentTenseVerbs)
+
+  styleFeatures.meanSentenceSize = 0
+  styleFeatures.largestSentenceSize = 0
+  styleFeatures.shortestSentenceSize = 0
+  styleFeatures.largeSentenceRate = 0
+  styleFeatures.shortSentenceRate = 0
+  styleFeatures.questionCount = 0
+  styleFeatures.questionRatio = 0
+  styleFeatures.exclamationCount = 0
+  styleFeatures.exclamationRatio = 0
+  styleFeatures.toBeVerbCount = 0
+  styleFeatures.toBeVerbRatio = 0
+  styleFeatures.toBeVerbPerSentence = 0
+  styleFeatures.toBeVerbRate = 0
+  styleFeatures.modalAuxiliaryVerbCount = 0
+  styleFeatures.modalAuxiliaryVerbsRatio = 0
+  styleFeatures.modalAuxiliaryVerbsPerSentence = 0
+  styleFeatures.modalAuxiliaryVerbsRate = 0
+  styleFeatures.passiveVoiceCount = 0
+  styleFeatures.passiveVoiceRatio = 0
+  styleFeatures.passiveVoicePerSentence = 0
+  styleFeatures.passiveVoiceRate = 0
+  styleFeatures.numberOfSentencesThatStartWithACoordinatingConjunction = 0
+  styleFeatures.numberOfSentencesThatStartWithADeterminer = 0
+  styleFeatures.numberOfSentencesThatStartWithASubordinatingPrepositionOrConjunction = 0
+  styleFeatures.numberOfSentencesThatStartWithAnAdjective = 0
+  styleFeatures.numberOfSentencesThatStartWithANoun = 0
+  styleFeatures.numberOfSentencesThatStartWithAPronoun = 0
+  styleFeatures.numberOfSentencesThatStartWithAnAdverb = 0
+  styleFeatures.numberOfSentencesThatStartWithAnArticle = 0
+  styleFeatures.numberOfSentencesThatStartWithACoordinatingConjunctionRatio = 0
+  styleFeatures.numberOfSentencesThatStartWithADeterminerRatio = 0
+  styleFeatures.numberOfSentencesThatStartWithASubordinatingPrepositionOrConjunctionRatio = 0
+  styleFeatures.numberOfSentencesThatStartWithAnAdjectiveRatio = 0
+  styleFeatures.numberOfSentencesThatStartWithANounRatio = 0
+  styleFeatures.numberOfSentencesThatStartWithAPronounRatio = 0
+  styleFeatures.numberOfSentencesThatStartWithAnAdverbRatio = 0
+  styleFeatures.numberOfSentencesThatStartWithAnArticleRatio = 0
 
   async.parallel([
     getModalAuxiliaryFeatures,

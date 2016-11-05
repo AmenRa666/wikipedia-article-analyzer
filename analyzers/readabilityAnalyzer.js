@@ -17,7 +17,6 @@ var daleChall = require('dale-chall')
 
 
 // LOGIC
-
 var readabilityFeatures = {
   automatedReadabilityIndex: 0,
   colemanLiauIndex: 0,
@@ -170,6 +169,21 @@ const analyze = (_characterCount, _wordCount, _sentenceCount, _syllableCount, _w
   syllableCount = _syllableCount
   words = _words
   text = _text
+
+  readabilityFeatures.automatedReadabilityIndex = 0
+  readabilityFeatures.colemanLiauIndex = 0
+  readabilityFeatures.fleshReadingEase = 0
+  readabilityFeatures.fleschKincaidGradeLevel = 0
+  readabilityFeatures.gunningFogIndex = 0
+  readabilityFeatures.lasbarhetsIndex = 0
+  readabilityFeatures.smogGrading = 0
+  readabilityFeatures.daleChallReadabilityFormula = 0
+
+  complexWordCount = 0
+  daleChallComplexWordCount = 0
+  longWordCount = 0
+  periodCount = 0
+
   async.series([
     preprocess,
     (cb) => {

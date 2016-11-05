@@ -47,6 +47,11 @@ const countSentences = (cb) => {
 const analyze = (_words, _sentences, cb) => {
   words = _words
   sentences = _sentences
+  lengthFeatures.characterCount = 0
+  lengthFeatures.wordCount = 0
+  lengthFeatures.syllableCount = 0
+  lengthFeatures.sentenceCount = 0
+  
   async.parallel([
     countCharacters,
     countWords,

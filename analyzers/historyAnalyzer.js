@@ -25,7 +25,7 @@ fs.readFile(folder + title + '.txt', 'utf8', (err, historyFile) => {
 
   var _revisions = []
 
-  for (var i = 0; i < revisions.length; i++) {
+  for (let i = 0; i < revisions.length; i++) {
     if (revisions[i+1] == undefined) {
       _revisions.push(revisions[i])
     }

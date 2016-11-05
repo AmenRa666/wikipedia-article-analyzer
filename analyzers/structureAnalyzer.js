@@ -219,6 +219,29 @@ const analyze = (_sections, _subsectionIndexes, _characterCount, _wordCount, _se
   wordCount = _wordCount
   sentenceCount = _sentenceCount
   textFromXML = _textFromXML
+  sectionSizes = []
+
+  structureFeatures.sectionCount = 0
+  structureFeatures.subsectionCount = 0
+  structureFeatures.paragraphCount = 0
+  structureFeatures.meanSectionSize = 0
+  structureFeatures.meanParagraphSize = 0
+  structureFeatures.largestSectionSize = 0
+  structureFeatures.shortestSectionSize = 0
+  structureFeatures.largestShortestSectionRatio = 0
+  structureFeatures.sectionSizeStandardDeviation = 0
+  structureFeatures.meanOfSubsectionsPerSection = 0
+  structureFeatures.abstractSize = 0
+  structureFeatures.abstractSizeArtcileLengthRatio = 0
+  structureFeatures.citationCount = 0
+  structureFeatures.citationCountPerSentence = 0
+  structureFeatures.citationCountPerSection = 0
+  structureFeatures.externalLinksCount = 0
+  structureFeatures.externalLinksPerSentence = 0
+  structureFeatures.externalLinksPerSection = 0
+  structureFeatures.imageCount = 0
+  structureFeatures.imagePerSentence = 0
+  structureFeatures.imagePerSection = 0
 
   async.parallel([
     (cb) => {

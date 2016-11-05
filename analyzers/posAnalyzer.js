@@ -8,7 +8,7 @@ var async = require('async')
 const getPosTrigrams = (sentencesTags, cb) => {
   var posTrigrams = {}
   sentencesTags.forEach((sentenceTags) => {
-    for (var i = 0; i < sentenceTags.length; i += 3) {
+    for (let i = 0; i < sentenceTags.length; i += 3) {
       trigram = {
         posTrigram: sentenceTags.slice(i, i + 3)
       }
@@ -43,8 +43,6 @@ const getPosTrigrams = (sentencesTags, cb) => {
 
   cb(posTrigrams)
 }
-
-
 
 
 // EXPORTS

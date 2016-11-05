@@ -152,6 +152,29 @@ const analyze = (articleTextFromXML, id, title, textWithSectionTitles, subsectio
   articleJSON.onlyLettersAndNumbersText = onlyLettersAndNumbersText
   articleJSON.words = words
 
+  var pos = []
+  var words = []
+  var sentencesTags = []
+
+  articleJSON.features.lengthFeatures = {}
+  articleJSON.features.structureFeatures = {}
+  articleJSON.features.styleFeatures = {}
+  articleJSON.features.readabilityFeatures = {}
+  articleJSON.features.trigrams = {}
+
+  // async.series([
+  //   getLengthFeatures,
+  //   getStructureFeatures
+  //   getReadabilityIndexes,
+  //   getTags,
+  //   getPosTrigrams,
+  //   getTrigrams,
+  //   getLexicalFeatures,
+  //   getStyleFeatures
+  // ], (res, result) => {
+  //   cb(articleJSON)
+  // })
+
   async.series([
     (cb) => {
       async.parallel([
@@ -180,6 +203,7 @@ const analyze = (articleTextFromXML, id, title, textWithSectionTitles, subsectio
   ], (res, result) => {
     cb(articleJSON)
   })
+
 }
 
 

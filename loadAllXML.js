@@ -52,6 +52,7 @@ const load = (file, cb) => {
 
       // Load extracted article
       fs.readFile('tmp/AA/wiki_00', 'utf8', (err, extractedArticle) => {
+        if (err) throw err
         // Now we have the xml file and the clean article
 
         // Parse XML file
@@ -137,7 +138,7 @@ const load = (file, cb) => {
               var abstract = ''
 
               // Get abstract and sections
-              for (var i = 0; i < sectionIndexes.length; i++) {
+              for (let i = 0; i < sectionIndexes.length; i++) {
                 if (i == 0) {
                   abstract = textWithSectionTitles.substring(sectionIndexes[i], sectionIndexes[i+1]).trim()
                   // Put abstract in sections array
@@ -320,8 +321,8 @@ const load = (file, cb) => {
                   syllablesPerWord: lexicalFeatures.syllablesPerWord,
                   charactersPerWord: lexicalFeatures.charactersPerWord,
                   // TRIGRAMS
-                  // posTrigrams: trigrams.posTrigrams,
-                  // characterTrigrams: trigrams.characterTrigrams
+                  posTrigrams: trigrams.posTrigrams,
+                  characterTrigrams: trigrams.characterTrigrams
                   // Quality Class
                   qualityClass: qualityClass
                 }
