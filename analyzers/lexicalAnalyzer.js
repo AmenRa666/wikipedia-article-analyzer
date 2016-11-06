@@ -668,9 +668,6 @@ const analyze = (pos, _words, _characterCount, _wordCount, _syllableCount, _sent
         cb(lexicalFeatures)
       })
 
-
-
-
     })
   })
 }

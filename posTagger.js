@@ -257,6 +257,9 @@ const tagSentence = (sentence, cb) => {
 const tagSentences = (sentences, cb) => {
   var _sentences = []
 
+  taggedSentences = []
+  sentencesTags = []
+
   pos.taggedWords = []
   pos.coordinatingConjunctions = []
   pos.cardinalNumbers = []

@@ -322,7 +322,7 @@ const load = (file, cb) => {
                   charactersPerWord: lexicalFeatures.charactersPerWord,
                   // TRIGRAMS
                   posTrigrams: trigrams.posTrigrams,
-                  characterTrigrams: trigrams.characterTrigrams
+                  characterTrigrams: trigrams.characterTrigrams,
                   // Quality Class
                   qualityClass: qualityClass
                 }
