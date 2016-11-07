@@ -30,10 +30,12 @@ converter.fromFile("datasets/dataset.csv",function(err,result){
       ca2 = ca2 + a
     })
 
-
-
     console.log(ca1);
     console.log(ca2);
+
+
+
+
 
 
 

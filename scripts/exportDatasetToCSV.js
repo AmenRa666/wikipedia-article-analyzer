@@ -20,6 +20,11 @@ db.once('open', function() {
   Article.find({}, (err, docs) => {
     if (err) console.log(err);
     else if (docs) {
+
+      docs.sort(function(a, b) {
+        return b.qualityClass - a.qualityClass
+      })
+
       var csv = json2csv({ data: docs, fields: fields })
       fs.writeFile('../datasets/dataset.csv', csv, function(err) {
         if (err) throw err;
