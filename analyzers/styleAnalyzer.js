@@ -268,7 +268,7 @@ const getNumberOfSentencesThatStartWithAPronoun = (cb) => {
   if (firstWordsTags['WP'] != undefined) {
     count = count + firstWordsTags['WP']
   }
-  if (firstWordsTags['WP'] != undefined) {
+  if (firstWordsTags['WP$'] != undefined) {
     count = count + firstWordsTags['WP$']
   }
   styleFeatures.numberOfSentencesThatStartWithAPronoun = count
