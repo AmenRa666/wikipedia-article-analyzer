@@ -273,7 +273,7 @@ fs.readFile(xmlFilename, 'utf8', (err, xmlArticle) => {
                 differentPronounsDifferentWordsRatio: lexicalFeatures.differentPronounsDifferentWordsRatio,
                 adjectiveCount: lexicalFeatures.adjectiveCount,
                 adjectivesPerSentence: lexicalFeatures.adjectivesPerSentence,
-                adjectivesRate: articleJSON.features.adjectivesRate,
+                adjectivesRate: lexicalFeatures.adjectivesRate,
                 differentAdjectiveCount: lexicalFeatures.differentAdjectiveCount,
                 differentAdjectivesPerSentence: lexicalFeatures.differentAdjectivesPerSentence,
                 differentAdjectivesRate: lexicalFeatures.differentAdjectivesRate,
