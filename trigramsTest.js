@@ -18,31 +18,6 @@ var articlesTrigrams = {
   stub: []
 }
 
-
-
-// sentencesTags.forEach((sentenceTags) => {
-//
-//   for (let i = 0; i < sentenceTags.length; i += 3) {
-//
-//     trigram = {
-//       posTrigram: sentenceTags.slice(i, i + 3)
-//     }
-//
-//     if (sentenceTags.slice(i, i + 3).length == 3) {
-//
-//       if (sentenceTags.slice(i, i + 3) in posTrigrams) {
-//         posTrigrams[sentenceTags.slice(i, i + 3)]++
-//       }
-//
-//       else {
-//         posTrigrams[sentenceTags.slice(i, i + 3)] = 1
-//       }
-//     }
-//
-//   }
-//
-// })
-
 // Count the number of occurences of each trigrams in all fa articles
 var faPosTrigramsSums = {}
 // occurences mean of each trigrams in fa articles
@@ -417,7 +392,7 @@ const analyzeStub = (cb) => {
 
 const load = (file, cb) => {
   var articleTrigramsFile = fs.readFileSync(path + file, 'utf8')
-  var articleTrigrams = JSON.parse(articleTrigramsFile);
+  var articleTrigrams = JSON.parse(articleTrigramsFile)
 
   if (articleTrigrams.qualityClass == 7) {
     articlesTrigrams.fa.push(articleTrigrams)
@@ -513,70 +488,7 @@ const analyze = (cb) => {
       }
     }
 
-    var i = 1
-
-    posTrigramsList.forEach((posTrigrams) => {
-      if (faPosTrigramsPresence[posTrigrams] > 89 ||
-          aPosTrigramsPresence[posTrigrams] > 89 ||
-          gaPosTrigramsPresence[posTrigrams] > 89 ||
-          bPosTrigramsPresence[posTrigrams] > 89 ||
-          cPosTrigramsPresence[posTrigrams] > 89 ||
-          startPosTrigramsPresence[posTrigrams] > 89 ||
-          stubPosTrigramsPresence[posTrigrams] > 89
-      ) {
-
-        var max = 0
-
-        if (faPosTrigramsMeans[posTrigrams] > max) {
-          max = faPosTrigramsMeans[posTrigrams]
-        }
-        if (aPosTrigramsMeans[posTrigrams]  > max) {
-          max = aPosTrigramsMeans[posTrigrams]
-        }
-        if (gaPosTrigramsMeans[posTrigrams]  > max) {
-          max = gaPosTrigramsMeans[posTrigrams]
-        }
-        if (bPosTrigramsMeans[posTrigrams]  > max) {
-          max = bPosTrigramsMeans[posTrigrams]
-        }
-        if (cPosTrigramsMeans[posTrigrams]  > max) {
-          max = cPosTrigramsMeans[posTrigrams]
-        }
-        if (startPosTrigramsMeans[posTrigrams]  > max) {
-          max = startPosTrigramsMeans[posTrigrams]
-        }
-        if (stubPosTrigramsMeans[posTrigrams]  > max) {
-          max = stubPosTrigramsMeans[posTrigrams]
-        }
-
-        console.log('- - - - - - - - - -');
-        console.log(posTrigrams);
-        console.log(faPosTrigramsMeans[posTrigrams]/max);
-        console.log(aPosTrigramsMeans[posTrigrams]/max);
-        console.log(gaPosTrigramsMeans[posTrigrams]/max);
-        console.log(bPosTrigramsMeans[posTrigrams]/max);
-        console.log(cPosTrigramsMeans[posTrigrams]/max);
-        console.log(startPosTrigramsMeans[posTrigrams]/max);
-        console.log(stubPosTrigramsMeans[posTrigrams]/max);
-        // console.log('      - - - -      ');
-        // console.log(faPosTrigramsStdDev[posTrigrams]);
-        // console.log(aPosTrigramsStdDev[posTrigrams]);
-        // console.log(gaPosTrigramsStdDev[posTrigrams]);
-        // console.log(bPosTrigramsStdDev[posTrigrams]);
-        // console.log(cPosTrigramsStdDev[posTrigrams]);
-        // console.log(startPosTrigramsStdDev[posTrigrams]);
-        // console.log(stubPosTrigramsStdDev[posTrigrams]);
-        i++
-        console.log(i);
-      }
-    })
-
-
-
-
-
-
-
+    console.log(_.uniq(posTrigrams).length);
 
     cb()
   }

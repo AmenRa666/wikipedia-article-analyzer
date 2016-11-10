@@ -82,11 +82,18 @@ const getColemanLiauIndex = (cb) => {
 
 // Flesch Reading Ease
 const getFleshReadingEase = (cb) => {
-  readabilityFeatures.fleshReadingEase = flesch({
+  var fleshReadingEase = = flesch({
     sentence: sentenceCount,
     word: wordCount,
     syllable: syllableCount
   })
+  if (fleshReadingEase > 0) {
+    readabilityFeatures.fleshReadingEase = fleshReadingEase
+  }
+  else {
+    readabilityFeatures.fleshReadingEase = 0
+  }
+
   cb(null, 'Flesh Reading Ease')
 }
 
