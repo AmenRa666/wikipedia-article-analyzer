@@ -82,7 +82,7 @@ const getColemanLiauIndex = (cb) => {
 
 // Flesch Reading Ease
 const getFleshReadingEase = (cb) => {
-  var fleshReadingEase = = flesch({
+  var fleshReadingEase = flesch({
     sentence: sentenceCount,
     word: wordCount,
     syllable: syllableCount
