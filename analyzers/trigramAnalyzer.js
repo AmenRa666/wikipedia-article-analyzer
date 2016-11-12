@@ -5,7 +5,7 @@
 
 const getTrigrams = (text, cb) => {
   var trigrams = {}
-  for (var i = 0; i < text.length; i += 3) {
+  for (var i = 0; i <= text.length-3; i++) {
     trigram = {
       trigram: text.slice(i, i + 3)
     }

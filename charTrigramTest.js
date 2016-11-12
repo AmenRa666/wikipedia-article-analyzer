@@ -136,7 +136,7 @@ const printDataset = (cb) => {
     return b.qualityClass - a.qualityClass
   })
   var csv = json2csv({ data: articles, fields: fields })
-  fs.writeFile('datasets/charTrigramsDataset.csv', csv, function(err) {
+  fs.writeFile('datasets/charTrigramsDatasetLessThen90.csv', csv, function(err) {
     if (err) throw err;
     console.log('Char trigrams dataset Saved!')
     cb()
@@ -155,14 +155,6 @@ fs.readdir(path, (err, files) => {
           console.log(err);
         }
         else {
-
-          // for (var i = 0; i < charTrigrams.length; i++) {
-          //   charTrigrams[i] = '"' + charTrigrams[i] + '"'
-          // }
-          //
-          // console.log(charTrigrams.join(', '));
-          // process.exit()
-
           for (var i = 0; i < charTrigrams.length; i++) {
             // console.log(faCharTrigramsPresence[charTrigrams[i]])
             // console.log(aCharTrigramsPresence[charTrigrams[i]])
@@ -181,19 +173,26 @@ fs.readdir(path, (err, files) => {
               // startCharTrigramsPresence[charTrigrams[i]] > 90 &&
               // stubCharTrigramsPresence[charTrigrams[i]] > 90)
               // ||
-              (faCharTrigramsPresence[charTrigrams[i]] < 10 ||
-                aCharTrigramsPresence[charTrigrams[i]] < 10 ||
-                gaCharTrigramsPresence[charTrigrams[i]] < 10 ||
-                bCharTrigramsPresence[charTrigrams[i]] < 10 ||
-                cCharTrigramsPresence[charTrigrams[i]] < 10 ||
-                startCharTrigramsPresence[charTrigrams[i]] < 10 ||
-                stubCharTrigramsPresence[charTrigrams[i]] < 10)
+              (faCharTrigramsPresence[charTrigrams[i]] < 91 ||
+                aCharTrigramsPresence[charTrigrams[i]] < 91 ||
+                gaCharTrigramsPresence[charTrigrams[i]] < 91 ||
+                bCharTrigramsPresence[charTrigrams[i]] < 91 ||
+                cCharTrigramsPresence[charTrigrams[i]] < 91 ||
+                startCharTrigramsPresence[charTrigrams[i]] < 91 ||
+                stubCharTrigramsPresence[charTrigrams[i]] < 91)
             ) {
               charTrigrams.splice(i, 1)
               i--
             }
 
           }
+
+          // for (var i = 0; i < charTrigrams.length; i++) {
+          //   charTrigrams[i] = '"' + charTrigrams[i] + '"'
+          // }
+          //
+          // console.log(charTrigrams.join(', '));
+          // process.exit()
 
           fields = _.union(charTrigrams, ["qualityClass"])
 
@@ -206,6 +205,7 @@ fs.readdir(path, (err, files) => {
               }
               else {
                 printDataset(() => {
+                  console.log(charTrigrams);
                   console.log(charTrigrams.length);
                   console.log('Trigrams analysis: DONE')
                   process.exit()
