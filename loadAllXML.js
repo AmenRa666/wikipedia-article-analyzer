@@ -26,6 +26,8 @@ var paths = ['featuredArticlesXML/','aClassArticlesXML/', 'goodArticlesXML/', 'b
 var pathIndex = 0
 var qualityClass = 7
 
+var articleNumber = 1
+
 const load = (file, cb) => {
   var _title = file.replace(/_/g, ' ').replace(/\.xml/, '').trim()
   var xmlFilename = folder + paths[pathIndex] + file
@@ -35,8 +37,10 @@ const load = (file, cb) => {
     if (err) throw err
 
     console.log('- - - - - - - - - - - - - - - - - - - -')
-    console.log('XML LOADED: ' + file)
+    console.log(articleNumber + ' XML LOADED: ' + file)
     console.log('- - - - - - - - - - - - - - - - - - - -')
+
+    articleNumber++
 
     // Remove subsubsection titles and similar
     var subsubsectionRegex = /====(.+?)====/g
