@@ -49,8 +49,17 @@ const insertRevision = (revision, cb) => {
   })
 }
 
+const findRevisionByArticleTitle = (articleTitle, cb) => {
+  var query = {"articleTitle":articleTitle}
+  Revision.find(query, (err, docs) => {
+    if (err) console.log(err);
+    else cb(docs)
+  })
+}
+
 // EXPORTS
 module.exports.insertArticle = insertArticle
 module.exports.insertRevision = insertRevision
 module.exports.findByTitle = findByTitle
 module.exports.findById = findById
+module.exports.findRevisionByArticleTitle = findRevisionByArticleTitle
