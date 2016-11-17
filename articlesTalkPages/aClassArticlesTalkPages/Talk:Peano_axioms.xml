@@ -1,0 +1,832 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Peano axioms</title>
+    <ns>1</ns>
+    <id>10218154</id>
+    <revision>
+      <id>743122424</id>
+      <parentid>743082975</parentid>
+      <timestamp>2016-10-08T00:03:08Z</timestamp>
+      <contributor>
+        <username>CBM</username>
+        <id>1108292</id>
+      </contributor>
+      <comment>/* Peanos Original Formulation */  c</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="126168">{{Maths rating|class=A|importance=mid|field=foundations}}
+{{Article history
+|action1=WAR
+|action1date=10 April 2007
+|action1link=Wikipedia:WikiProject Mathematics/A-class rating/Peano axioms
+|action1result=approved
+|action1oldid=121639925
+}}
+&lt;center&gt;'''Archives''': {{archive list}}&lt;/center&gt;
+
+==Successor==
+
+Currently [[Successor function]] redirects here, yet its definition is deep in the middle of a section and rather brief. I feel this might not be enough explination for the layman to follow, and it could do with a little expansion. It might also be worth considering reverting [[Successor function]] back to a non redirect version. --[[User:Salix alba|Salix alba]] ([[User talk:Salix alba|talk]]) 16:31, 23 March 2007 (UTC)
+
+== Axiom 9 ==
+
+Axiom 9 is a little ambiguous about what K can be. Is it OK for K to contain numbers other than the naturals? --[[User:Salix alba|Salix alba]] ([[User talk:Salix alba|talk]]) 16:35, 23 March 2007 (UTC)
+
+:Sure; ''K'' can contain lots of other sets.  The axiom is phrased that way because Peano phrased it that way. In the modern context of ZF, you could start with a set ''K'' and then use a separation axiom to extract the set of natural numbers in ''K'',  so it would be natural to restrict the axiom to sets that only contain natural numbers. But Peano was doing this in 1889 well before axiomatic set theory; the word ''set'' in axiom 9 should be read in a natural-language way. [[User:CMummert|CMummert]] · &lt;small&gt;[[User talk:CMummert|talk]]&lt;/small&gt; 17:12, 23 March 2007 (UTC)
+
+== Peano arithmetic ==
+
+This sections is lacking in historical info, who first formalised it in this way? The text quotes Kaye 1991, but mathworld has two references with the name before that date:[http://mathworld.wolfram.com/PeanoArithmetic.html]
+*Kirby, L. and Paris, J. &quot;Accessible Independence Results for Peano Arithmetic.&quot; Bull. London Math. Soc. 14, 285-293, 1982.
+*Paris, J. and Harrington, L. &quot;A Mathematical Incompleteness in Peano Arithmetic.&quot; In Handbook of Mathematical Logic (Ed. J. Barwise). Amsterdam, Netherlands: North-Holland, pp. 1133-1142, 1977.
+
+I found that the formula
+#&lt;math&gt;\forall x,y,z ((x+y)+z = x+(y+z))&lt;/math&gt;
+might need a little typesetting. It took a second reading to realise that z was not a fuction. --[[User:Salix alba|Salix alba]] ([[User talk:Salix alba|talk]]) 19:21, 23 March 2007 (UTC)
+
+:The idea that addition and multiplication of naturals can be obtained from just successor dates back to at least 1920 (Skolem, &quot;Foundations of elementary arithmetic&quot;). The idea of expressing arithmetic as a first-order rather than second-order theory was certainly known in the 1930s and probably before; it was a subject of interest because the [[Lowenheim-Skolem theorem]] had just been proved and its meaning was not yet understood.   Kaye (1991) is just used as a contemporary standard reference; the subject of first-order arithmetic is extremely classical. You're right that the article would benefit from a paragraph on this.  [[User:CMummert|CMummert]] · &lt;small&gt;[[User talk:CMummert|talk]]&lt;/small&gt; 19:57, 23 March 2007 (UTC)
+
+::I added material on [[Charles Sanders Peirce]]'s priority over [[Peano]] and [[Dedekind]], citing Peirce's article and a scholarly article by Paul Shields. [[User:Kiefer.Wolfowitz|Kiefer.Wolfowitz]] ([[User talk:Kiefer.Wolfowitz|talk]]) 22:00, 10 April 2010 (UTC)
+
+:::Thanks. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 22:59, 10 April 2010 (UTC)
+
+The article doesn't seem to state that one requires the Peano axioms (minus induction) before one states PA-. For example, I can't see how to prove that x = y implies x + 1 = y + 1 from PA- alone. The author of the book from which PA- is taken clearly assumes this to be true without proof. In fact, I don't see how to prove any of the Peano axioms from PA-. Or is there something I'm not understanding about first order systems, e.g. formal substitution of equal things is permitted? [[Special:Contributions/2A02:810B:8940:CA0:3883:6EBA:41F6:994E|2A02:810B:8940:CA0:3883:6EBA:41F6:994E]] ([[User talk:2A02:810B:8940:CA0:3883:6EBA:41F6:994E|talk]])  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt; — Preceding [[Wikipedia:Signatures|undated]] comment added 19:58, 6 April 2015 (UTC)&lt;/span&gt;&lt;!--Template:Undated--&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Logical symbols ⊆ mathematical symbols ==
+
+&quot;''Peano's paper employs a logical symbolism and maintains a clear distinction between mathematical and logical symbols (...).''&quot;
+
+I think that logical symbols are mathematical symbols. Should it be &quot;''clear distinction between arithmetical and logical symbols''&quot;? [[User:Jayme|Jayme]] 02:13, 21 April 2007 (UTC)
+
+:The way things are ordinarily conceived in mathematical logic today, logical symbols such as &lt;math&gt;\forall&lt;/math&gt; and &lt;math&gt;\exists&lt;/math&gt; (and often including &lt;math&gt;=&lt;/math&gt;) are not considered &quot;mathematical&quot; per se.   Symbols that go beyond the basic logical symbols are considered &quot;mathematical&quot; because they are used to develop mathematical theories using the logic as a starting point.  Your viewpoint would be correct if all of logic was commonly viewed as a subfield of mathematics, but it isn't, and the distinction between the two is particularly important for mathematical logic.  [[User:CMummert|CMummert]] · &lt;small&gt;[[User talk:CMummert|talk]]&lt;/small&gt; 02:21, 21 April 2007 (UTC)
+
+== [[transfinite induction]] ==
+
+I believe the addition:
+: The axiom excludes [[well-ordered set]]s of [[order type]] larger than ω. The more general [[transfinite induction]] requires a &quot;limit case&quot; property.
+to be confusing and incorrect.  [[Complete induction]], although not quite correctly defined there, could also be used.  For example, replacing:
+::&lt;math&gt;\forall \bar{y} (\phi(0,\bar{y}) \land \forall x ( \phi(x,\bar{y})\Rightarrow\phi(x+1,\bar{y})) \Rightarrow \forall x \phi(x,\bar{y}))&lt;/math&gt;
+by
+::&lt;math&gt;\forall \bar{y} (\forall x ( \forall z(z &lt; x \Rightarrow \phi(z,\bar{y}))\Rightarrow\phi(x,\bar{y})) \Rightarrow \forall x \phi(x,\bar{y}))&lt;/math&gt;
+may be an appropriate formalization of complete induction.  &amp;mdash; [[User:Arthur Rubin|Arthur Rubin]] |  [[User_talk:Arthur_Rubin|(talk)]] 17:54, 18 July 2007 (UTC)
+
+:Perhaps my addition is not needed here. However, it is not clear what you try to say, what is wrong?--[[User:Patrick|Patrick]] 09:51, 19 July 2007 (UTC)
+
+::I thought it was just out of place; the induction axiom also excludes various non-well-ordered models. The second sentence mentions transfinite induction, which I don't think is relevant to Peano arithmetic. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 13:01, 19 July 2007 (UTC)
+
+== Category-theoretic vs. Categorical ==
+
+I changed this sec-head b/c 'categorical' means something different (as in having only one model up to isomorphism) and this is one of those areas where this meaning might be the intended/expected.  I, for one, came to that section expecting to find a discussion of the categoricity (or non-categoricity) of various formulations of the Peano postulates. [[User:Zero sharp|Zero sharp]] 20:48, 10 September 2007 (UTC)
+
+== Rewrite ==
+
+Let me say I fully support Kaustuv's rewrite of the article.  It removes a great deal of accumulated redundancy and makes the article more accessible. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 13:24, 13 September 2007 (UTC)
+:I'm afraid I fully oppose it.  It uses set-theoretic terminology when the simpler logical terminology will do, and logical terminology where set-theoretic terminology is needed.  My reason for reverting it turns out to be incorrect, but the full version of the induction axiom was moved to somewhere I didn't expect to see it.  There are probably more things that I disagree with, and some I agree with, but those are the problems that first came to mind.  &amp;mdash; [[User:Arthur Rubin|Arthur Rubin]] |  [[User_talk:Arthur_Rubin|(talk)]] 14:36, 13 September 2007 (UTC)
+::Certainly Kaustuv version isn't perfect, but I think it's a good step forward. I was planning to edit various parts once Kaustuv hd it in place. I'd like to switch back to Kaustuv's version, and I'll be glad to fix problems and address concerns raised here about it. Would that be acceptable? &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 15:01, 13 September 2007 (UTC)
+:::OK, the structure is better in Kastuv's versions, but the ''facts'' are wrong, in some cases subtly.  In addition to what I noted, '''formal mathematics''' should link to [[model theory]] rather than [[formal systems]], where we place what is essentially [[proof theory]].  I'm not sure we should place form over substance.  &amp;mdash; [[User:Arthur Rubin|Arthur Rubin]] |  [[User_talk:Arthur_Rubin|(talk)]] 15:15, 13 September 2007 (UTC)
+::::We should not place form over substance, but in this case I think the only way to achieve both is to start with a better form and then correct the substance. I significantly edited this page in January to correct various problems with the content [http://en.wikipedia.org/w/index.php?title=Peano_axioms&amp;offset=20070124134328&amp;action=history] , but I didn't pay enough attention to the form.  I don't mind working on the new version to fix any problems with the content that might be introduced. I was planning to give the article a detailed copyedit once Kaustuv had finished his edits this morning. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 15:26, 13 September 2007 (UTC)
+:::::OK, I've reverted my reversion, but I'll keep an eye on the article, as well.  Another problem I have is with the form of the axiom.  The &quot;current&quot; version of axiom 7 reads:
+::::::For every ''m'', ''n'' ∈ ''N'', if ''S''(''m'') = ''S''(''n''), then ''m'' = ''n''.
+:::::I think it should either be:
+::::::For all natural numbers ''m'' and ''n'', if ''S''(''m'') = ''S''(''n''), then ''m'' = ''n'',
+:::::or the logical form
+::::::&lt;math&gt;(\forall m)(\forall n)( S(m)=S(n) \rightarrow m=n)&lt;/math&gt;
+:::::or
+::::::&lt;math&gt;(\forall m \in \mathrm N)(\forall n \in \mathrm N)( S(m)=S(n) \rightarrow m=n)&lt;/math&gt;,
+:::::The mixed logical/natural language forms bother me.  &amp;mdash; [[User:Arthur Rubin|Arthur Rubin]] |  [[User_talk:Arthur_Rubin|(talk)]] 16:05, 13 September 2007 (UTC)
+
+:(&amp;larr;) I did some editing this afternoon. I sympathize with Arthur Rubin about the wording of the axioms; the previous version [http://en.wikipedia.org/w/index.php?title=Peano_axioms&amp;oldid=157002792] shows a format I would vouch for. I am a little concerned with the unhistorical presentation of the axioms, because I don't want the article to claim things about the original 9 axioms that are more recent changes.  In particular, the order of the axioms in the previous version is the order Peano presented them in, but the current version of the article has a different order. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 18:03, 13 September 2007 (UTC)
+
+I was afraid of strong negative reactions, which is why I didn't commit my rewrite in May. I just want to say that I don't care about this article at all really, so I am not going to argue for my version. Good luck. &lt;span style=&quot;white-space:nowrap&quot;&gt;— [[User talk:Kaustuv|Kaustuv Chaudhuri]]&lt;/span&gt; 19:52, 13 September 2007 (UTC)
+:On further reflection, I agree with Arthur's point above that the emphasis on set theory is unnecessary. I certainly am no fan of set theory; whenever I need to recall the Peano axioms and their standard properties that are listed in every logic textbook, I re-derive them from the only fact I have committed to memory: that nnos are initial in 1&amp;rarr;X&amp;rarr;X diagrams. I have changed the statements of the axioms to use a judgemental formulation (that is, using the &quot;is a natural number&quot; judgement). &lt;span style=&quot;white-space:nowrap&quot;&gt;— [[User talk:Kaustuv|Kaustuv Chaudhuri]]&lt;/span&gt; 04:24, 16 September 2007 (UTC)
+
+== [[Heyting arithmetic]] needs work ==
+
+That stub should be expanded and there should be some sort of comparison made with PA with regard to realizability and various completness/independence results. Not sure what goes where and how much of it is on WP already as sub- or strangely named articles. Just a note for any interested persons. &lt;span style=&quot;white-space:nowrap&quot;&gt;— [[User talk:Kaustuv|Kaustuv Chaudhuri]]&lt;/span&gt; 19:10, 29 November 2007 (UTC)
+
+== Section Models:Nonstandard Models ==
+
+This section is just wrong about categoricity.  First-order PA has many nonstandard models within any particular model of ZFC, and second-order PA has one ('standard') model (up to isomorphism) within each ('standard' or not) model of ZFC.  That is what categoricity means.  You can't even define the same kind of an isomorphism between models in different set theories as you can between models in the same set theory.
+
+It even contradicts the paragraph directly above.
+
+[[User:Xplat|Xplat]] ([[User talk:Xplat|talk]]) 06:31, 11 December 2007 (UTC)
+
+:You're right that that second paragraph got reworded sometime so that instead of saying that each model of set theory has a model of PA ''that it believes to be standard'', it just said each model of set theory has one model of PA. I reworded that paragraph, using the &quot;smallest&quot; model as a stand-in for the standard model because I think that is clearer. On the other hand, it is perfectly possible, working in ZFC, to define an isomorphism between two models of set theory, or between sets in different models of set theory. ZFC is not different from any other first-order theory in that respect.  I don't think that the article talks about isomorphisms between different models of set theory, though, and probably shouldn't. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 14:36, 11 December 2007 (UTC)
+
+::Heh, guess I wasn't quite clear when I said &quot;you can't define the same kind of an isomorphism&quot;.  What I meant was that an isomorphism between two internal structures in different internal models of ZFC is defined differently than an isomorphism between two structures considered as living directly in an instance of ZFC serving as the host theory of your model theory.  The difference is one of detail more than principle, of course, but it's still significant.  You can have things happen like two sets with the same elements having different powersets, for instance, which can't happen when working in a single model of ZFC.
+
+::In any case, that was a side issue; your edit addressed my concerns excellently.
+
+::[[User:Xplat|Xplat]] ([[User talk:Xplat|talk]]) 18:29, 11 December 2007 (UTC)
+:::The paragraph before Carl's edit was confusing because of its context, not so much its content. When discussing categoricity of second-order PA interpreted in second-order logic, it's an unnecessary complication to bring up models of ZFC. What categoricity means is that (up to isomorphism), only one such model ''exists'', period, Platonistically if you like.
+:::You don't gain anything by relativizing to a model of ZFC. If you're a realist about models of ZFC, then you might as well be a realist, period, because models of ZFC can be compared level-by-level to see which one is missing subsets it ought to have, and therefore which one is wrong. If you're not willing to be a realist, period, then you might as well stop talking about models too (except as linguistic metaphors/mental images/convenient figures of speech/what have you). --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 18:37, 11 December 2007 (UTC)
+
+::::So, does the &quot;right&quot; model of ZFC satisfy GCH or not?
+
+::::If you actually take a look at the categoricity theorem for PA&lt;sub&gt;2&lt;/sub&gt;, there are two major steps to the argument: (1) all minimal models of PA&lt;sub&gt;2&lt;/sub&gt; are isomorphic and (2) all models of PA&lt;sub&gt;2&lt;/sub&gt; are minimal.  (&quot;Minimal&quot; here means that the domain of first-order quantifiers contains only elements with numerals.)  The first step itself divides into (1a) any two minimal models have a one-to-one relation on their domains of individuals that preserves 0 and S, (1b) administrivia extending this to a full isomorphism including any other predefined function or relation symbols in the theory, and (1c) the implicit assumption that the one-to-one relation on the domains of individuals will automatically extend to one between the domains of properties of individuals.  This depends on a choice of the semantics of second-order logic, and for some choices it is untrue.  For the standard semantics, it is true, but the standard semantics implicitly depends on a choice of some sort of set theory to ground the notion of 'arbitrary subsets of the domain'.
+
+::::The step (1a) is another point where hidden assumptions come in.  Under any metatheory, any reasonable variant of arithmetic will prove inequalities between any two numerals that are not identical, and this lets the proof carry through.  However, one's metatheory may actually admit numerals with a nonstandard number of applications of S!  This shows that although under any given metatheory, minimal models of PA&lt;sub&gt;2&lt;/sub&gt; are isomorphic, what counts as a &quot;minimal&quot; model is metatheory-relative.
+
+::::Step (2) again depends on your semantics for second-order logic, in both of the above ways.  If you don't use the standard semantics of SOL, your semantics need to be strong enough to allow the property 'has every inductive property' to be defined.  Furthermore, they need to imply a strong enough relationship between the domains of first-order and second-order variables that the statement 'every number has every inductive property' is actually equivalent to the metatheoretical statement 'every number has a numeral' for the proof to go through.  On top of that, even once the proof has gone through, you still have the same ambiguity as in (1a) which only gives you one isomorphism class of models &lt;i&gt;per metatheory&lt;/i&gt;.
+
+::::Truly, I am not willing to be a realist, full stop, or even about models of ZFC.  I don't believe there's a &quot;True Arithmetic&quot; actually Out There that is negation-complete, or a canonical set of natural numbers, or a canonical tabulation of halting Turing machines (which are actually all the same thing).  Nonetheless model theory has its uses.  But we might be getting off topic here...
+
+::::[[User:Xplat|Xplat]] ([[User talk:Xplat|talk]]) 08:12, 15 December 2007 (UTC)
+
+Look, it's fine that you're not a realist and you still want to think about model theory. That describes lots of people. But models either exist or they don't. If they exist then the levels of the von Neumann hierarchy exist and are unique up to unique isomorphisms, GCH is either really true or really false even if we don't know which, etc. If they don't exist then your statements ''about'' models have the same status as any mathematical statements referencing objects you presumably don't believe in either. So either way the claim that the full second-order Peano Axioms are categorical is a true statement of mathematics, period, no qualification needed. How you ''interpret'' that statement ''does'' depend on your foundational philosophy, but not whether you accept the statement itself.
+
+If you don't believe in models as real objects, then the claim that there are different models of ZFC, having different (possibly non-isomorphic) candidates for the canonical model of second-order PA, must be interpreted however you personally go about interpreting claims containing terms (such as &quot;model&quot;) that do not denote real objects. But whatever interpretation that ''is'', it will also work for the claim that second-order PA is categorical in second-order logic.
+
+By the way, you seem to be conflating models with theories in the above, particularly when you speak of &quot;only one isomorphism class of models per metatheory&quot;. It's not &quot;per methatheory&quot; but rather &quot;per model of the methatheory&quot;. It is very important to keep this distinction straight, whether you're a realist or not -- mixing the two things up can easily lead you to outright, unambiguous ''mathematical'' errors, not just philosophical errors. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 21:25, 15 December 2007 (UTC)
+
+==Induction Axiom vs Induction Schema==
+The article claims the induction axiom is 2nd order and the induction schema is 1st order. But the way in which the two are stated reads almost identically, if one ignores the superfluous y vector. If there's a distinction here its a very fine one which ought to be made clearer
+[[User:Houseofwealth|Houseofwealth]] ([[User talk:Houseofwealth|talk]])
+
+== Addition ==
+
+In the section on Arithmetic, regarding + and x, the article states &quot;The respective functions and relations are constructed in second-order logic&quot; But then further down the article states &quot;The arithmetical operations of addition and multiplication and the order relation can also be defined using first-orer axioms.&quot; This appears contradictory to me. If it isn't, it would be nice to make the distinction clearer.
+[[User:Houseofwealth|Houseofwealth]] ([[User talk:Houseofwealth|talk]])  &lt;small&gt;—Preceding [[Wikipedia:Signatures|comment]] was added at 00:39, 15 April 2008 (UTC)&lt;/small&gt;&lt;!--Template:Undated--&gt; &lt;!--Autosigned by SineBot--&gt;
+
+The definition of addition (also, ofmultiplication) looks very simple. But there is a logical gap, when it is not say that wishing does not prove existence. Certainly, we desired an operation with such properties, but does not prove existence.[[User:Rehernan|Rehernan]] ([[User talk:Rehernan|talk]]) 05:06, 22 June 2013 (UTC)
+
+== Distributive Property ==
+
+How does one prove that multiplication distributes over addition for natural numbers?  That was just stated in the arithmetic section without explanation. [[User:Eebster the Great|Eebster the Great]] ([[User talk:Eebster the Great|talk]]) 17:48, 26 May 2008 (UTC)
+
+:A nifty question. Here's a shot at a proof without looking it up. I'm sure there's a one-liner proof out there.
+
+:: The question becomes even more challenging if we restrict our thinking to a &quot;Peano machine&quot; (it ''is'' Turing-equivalent) with only four instructions (generalized behaviors) that prescribe the motions of the machine, plus &quot;HALT&quot;; this machine works on an unbounded number of &quot;registers&quot; r named a, b, ... p, q, r, ... etc. The various &quot;numbers&quot; exist as &quot;counts&quot; in the &quot;registers&quot; (tally marks on a piece of paper ruled into discrete boxes, pebbles in a various holes, etc). The machine executes a &quot;program&quot; -- a sequence of motions -- from the following instruction set: { CLeaR contents of register r (CLR r) -- empty the register (invokes notion of &quot;zero&quot;), INCrement the contents of register r (INC r), If contents of register p Equals the contents of register q then Jump to instruction z (JE p,q,z), unconditional Jump to instruction z (J z), HALT }.
+
+::Given these primitive &quot;axioms&quot;, how can we know that distribution a*(b+c) = a*b + a*c is in fact &quot;legal&quot;? What do we have to do to prove this? For that matter, why do we assume that commutation a+b = b+a and a*b = b*a are &quot;legal&quot;?:
+
+:'''1''' First we have to define the notions of &quot;multiplication&quot; from &quot;addition&quot; -- multiplication is defined in terms of successive additions -- given that &quot;addition&quot; is, in turn, defined in terms of successive increments. Some simple looping sub-programs take care of this. We have to define the &quot;additive zero&quot;, and the &quot;multiplicative unit 1&quot; -- for all n, 1*n = n -- and we have to define the notion of a &quot;multiplicative zero&quot; i.e. for all n, n*0 = 0. (There also is a need for the commutation ''axiom'' or an inductive proof of commutation, or a defintion. Do we need a proof for a+b = b+a? I suspect that this can be proven.)
+
+:'''2''' Given s is any integer,  s = s+0
+::* Given a*(s) =&lt;sub&gt;def&lt;/sub&gt; a*s and s = s+0 then a*s = a*(s) = a*(s+0) ; the definition of the additive identity
+::* Likewise  a*s = a*s + 0 
+::* Therefore a*s = a*(s) = a*(s+0) = a*(s) + 0 ; symbol string a*(s) equals both a*(s+0) and a*(s), i.e.:
+:::* a*(s+0) = a*s + 0
+::* But we know also that a*0 = 0 ;the multiplicative &quot;zero&quot;
+::* So by equivalence of symbol strings,
+:::* a*(s+0) = a*s + a*0
+
+:'''3''' Something similar happens when we consider &quot;1&quot; -- the multiplicative identity
+::* Given that s = (a+b), then s = 1*s = 1*(a+b) = (a+b)
+::* And, since 1*a = a and 1*b = b, then (a+b) = 1*a + 1*b 
+::* Therefore, 1*(a+b) = 1*a + 1*b
+
+:'''4''' Now we have to proceed by induction, each time adding 1*(a+b) to the previous symbol-string
+::* Given that 1*(s)= s no matter what &quot;s&quot; is, then we've seen from above that:
+:::* 1*(a+b) = 1*a+1*b
+::* Add s=(a+b) to itself, i.e. s + s = (a+b)+(a+b) = 1*(a+b) + 1*(a+b) = (1*a + 1*b) + (1*a + 1*b)
+:::* 1*s + 1*s = 1*a + 1*a + 1*b + 1*b
+::* From the above we have: s + s = a + a + b + b
+:::* s + s =&lt;sub&gt;def&lt;/sub&gt; 2*s, a + a =&lt;sub&gt;def&lt;/sub&gt; 2*a, b + b =&lt;sub&gt;def&lt;/sub&gt; 2*b, etc
+::* Thus 2*s = 2*a + 2*b ;now we just have to be convinced that for all n, n+n = 2*n
+::* Thus, since s = a+b, 2*(a+b) = 2*a + 2*b
+::* We just continue this process of adding 1*(a+b) = 1*a + 1*b to the previous sums, ad infinitum ;i.e. invoke the axiom of induction
+
+Bill [[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 15:25, 27 May 2008 (UTC)
+
+:Oh, thanks, I see that now.  I think an induction proof could be a little conciser (anchor at &lt;math&gt;k = 0&lt;/math&gt;, then use the recursive definition of multiplication to get &lt;math&gt;k(a + b) = ka + kb \to (k + 1)(a + b) = k(a + b) + (a + b) = ka + kb + a + b = ka + a + kb + b = (ka + a) + (kb + b) = (k + 1)a + (k + 1)b&lt;/math&gt;.)  Still, I think that explanation helped me out.  [[User:Eebster the Great|Eebster the Great]] ([[User talk:Eebster the Great|talk]]) 22:38, 27 May 2008 (UTC)
+
+== Redundancy of n*0=0 ==
+
+A comment regarding [http://en.wikipedia.org/w/index.php?title=Peano_axioms&amp;curid=25005&amp;diff=234557158&amp;oldid=234547928 this] reversion. I thought of reverting it myself, but held back because I agree that it is redundant. The reverted edit used cancellation (which is certainly a property of addition, proved using induction), but here is a more elementary proof (in [[Coq]]):
+&lt;blockquote&gt;&lt;pre&gt;Lemma times_n_zero : forall n : nat, n * 0 = 0.
+Proof.
+  induction n.
+  trivial.
+  simpl in |- *. trivial.
+Qed.&lt;/pre&gt;&lt;/blockquote&gt;
+The &lt;code&gt;simpl&lt;/code&gt; step just rewrites (''S'' ''n'') * 0 to ''n'' * 0, which can be proved from the other axioms without induction. Of course the whole axiom is not derivable without the induction principle/schemata. Cursorily, it seems to be the only one in the system PA&lt;sup&gt;-&lt;/sup&gt; not independent of the rest in the presence of induction. &lt;span style=&quot;white-space:nowrap&quot;&gt;— [[User talk:Kaustuv|Kaustuv Chaudhuri]]&lt;/span&gt; 13:22, 27 August 2008 (UTC)
+:I was possibly a bit quick to revert the removal of n*0=0, I thought it better to revert and then we could have a discussion here. You may well be right that it is not needed In the alternative axiomatizations its not clear that we have a successor operation, axiom 14 may help. Ideally we should refer to the source Kaye 1991 for whether the axiom is included or not. --[[User:Salix alba|Salix alba]] ([[User talk:Salix alba|talk]]) 16:22, 27 August 2008 (UTC)
+
+::I have just verified the axioms from Kaye 1991 pp. 16-18. Kaye's axiom 6 is as currently stated. The problem came from this edit [http://en.wikipedia.org/w/index.php?title=Peano_axioms&amp;diff=prev&amp;oldid=217577614] which didn't realize these axioms are taken directly from Kaye. I added a hidden note to the page source about it. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 17:48, 27 August 2008 (UTC)
+
+::By the way, the successor operation is well defined in any model of PA-. If y &gt; x, then there is a z s.t. x + z = y. Thus z &gt; 0 (otherwise y = x), which means z &amp;ge; 1, which means y = x + z &amp;ge; x + 1. These steps correspond to various axioms of PA-. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 18:09, 27 August 2008 (UTC)
+
+:I don't see how you can prove that 0*0 = 0 without n*0=0. --[[User:Raijinili|Raijinili]] ([[User talk:Raijinili|talk]]) 09:06, 6 November 2008 (UTC)
+
+::Well, you can with this particular set of axioms, but the axioms do include n*0 = 0 as well. Start with
+:::0*0 = 0*(0+0) = 0*0 + 0*0
+::which corresponds to axioms 6 and 5. View this as being in the form 
+:::''a'' = ''a'' + ''c''&amp;nbsp;&amp;nbsp;&amp;nbsp;(1)
+::We're going to reason about ''c''. If ''c'' is 0, then we're done. Otherwise ''c'' &gt; 0, by the order axioms. But then ''a'' + 0 &lt; ''a'' + ''c'' by axiom 11, which means ''a'' &lt; ''a'' + ''c'' because ''a'' + 0 = ''a'' from axiom 6. But this means that ''a'' &lt; ''a'' because ''a'' = ''a'' + ''c'' from (1). This contradicts axiom 9. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 13:40, 6 November 2008 (UTC)
+
+:::Oh. Never worked with order much before. --[[User:Raijinili|Raijinili]] ([[User talk:Raijinili|talk]]) 04:45, 7 November 2008 (UTC)
+
+== Axiom of induction ==
+
+It's not just a method of reasoning. It also makes the set of natural numbers well-defined.
+
+Say that I have the regular natural numbers, and I throw a new element in there, called $. We can take successors of $, and this new set of numbers generated by $ and 0 can also be called &quot;the natural numbers&quot; by the first eight axioms. In fact, we can even throw in the inverse successors of $ with no issue (that is, x such that S(x) = $). The axiom of induction implies that, basically, since $ isn't guaranteed to be a natural number by induction, it's not a natural number. --[[User:Raijinili|Raijinili]] ([[User talk:Raijinili|talk]]) 08:54, 6 November 2008 (UTC)
+
+:The article says that the induction axiom is &quot;a method of reasoning about '''all''' natural numbers&quot; (emphasis mine). Indeed, as you point out, one shows that the natural numbers ''N'' satisfies:
+::&lt;math&gt;\forall n \in N.\ n = 0 \lor \exists m \in N.\ S m = n&lt;/math&gt;
+:by using the predicative form of the axiom for the predicate &lt;math&gt;\phi&lt;/math&gt; defined as:
+::&lt;math&gt;\phi(n) \triangleq n = 0 \lor \exists m \in N.\ S m = n&lt;/math&gt;.
+:I don't see what makes &lt;math&gt;\phi&lt;/math&gt; more special than any other inductive property of the naturals. The quoted sentence could perhaps be improved by replacing &quot;all&quot; with &quot;the set of&quot;. &lt;span style=&quot;white-space:nowrap&quot;&gt;— [[User talk:Kaustuv|Kaustuv Chaudhuri]]&lt;/span&gt; 15:07, 6 November 2008 (UTC)
+::What's that triangle? --[[User:Raijinili|Raijinili]] ([[User talk:Raijinili|talk]]) 05:59, 7 November 2008 (UTC)
+:::Some people use that to mean that the left side is being defined as the right side of the equation, sort of like := in some programming languages. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 13:12, 8 November 2008 (UTC)
+::::Well, my point was that without the axiom of induction, the set of natural numbers isn't well-defined up to isomorphism over the successor relation. --[[User:Raijinili|Raijinili]] ([[User talk:Raijinili|talk]]) 04:44, 12 November 2008 (UTC)
+
+I agree that the &quot;method of reasoning&quot; phrase is misleading. My way of looking at the axioms has always been:
+* 5 &amp; 6 say that 0, S(0), S(S(0)), etc. exist.
+* 7 &amp; 8 say that 0, S(0), S(S(0)), etc. are distinct.
+* 9 says that 0, S(0), S(S(0)), etc. are all there is (that is, they exhaust the natural numbers).
+Thus, my interpretation of 9 isn't as some strange ethereal tool for reasoning about natural numbers, but as a basic combinatorial fact which gives us the sort of structure we want in which every natural number can be reached from 0 by applying the successor relation. Incidentally, the article confusingly implies that this fact follows from 5 &amp; 6 when it says &quot;in general, any natural number ''n'' is ''S''&lt;sup&gt;''n''&lt;/sup&gt;(0)&quot; after introducing these axioms. I hope these problems can be cleared up, though I feel unqualified to reorganize the entire discussion of the axioms myself. --[[User:Kine|kine]] ([[User talk:Kine|talk]]) 06:12, 12 November 2008 (UTC)
+
+I don't think the interpretation of 9 is that thats all there is. Raijinili above shows an intuition of why, and also somewhere in the article is said that there are 'non-standard' models of the naturals (ie same axioms but different from the other natural numbers). On the other hand, given those axioms you allow for there to be more proofs than otherwise, and also, note that if you define proof as emanating from these axioms, you won't be able to say much about any element that is not 0 or  S^n(0) for some n. It may be good to put this in the article, maybe, as a way to clarify what is meant by a non standard model.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/128.30.87.46|128.30.87.46]] ([[User talk:128.30.87.46|talk]]) 22:44, 11 August 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+I guess that two formulations of the axiom 9 are equivalent and share the same problem: They refer to something that wasn't defined - what does the &quot;natural number&quot; mean. Let's look to formalization of what the author said:
+
+&lt;math&gt;(\varphi(0) \wedge \forall n ~ \varphi(n) \rightarrow \varphi(S(n))) \rightarrow (\forall n ~ \varphi(n) \rightarrow \mathcal{N}(n))&lt;/math&gt;,
+
+where predicate &lt;math&gt;\mathcal{N}&lt;/math&gt; (reading as &quot;is the natural number&quot;) was mentioned, but wasn't defined.
+
+Actually, I don't see any difference between &lt;math&gt;n \in K&lt;/math&gt; (in the first author's formulation of the axiom 9) and &lt;math&gt;\varphi(n)&lt;/math&gt; (in the second author's formulation of the axiom 9), though I've wrote the formula for the last case. But I see the common problem: Nobody knows what does the predicate &lt;math&gt;\mathcal{N}&lt;/math&gt; means.
+
+I can propose the definition:
+&lt;math&gt;\forall n ~ \mathcal{N}(n) \leftrightarrow (n=0 \vee \exists m ~ \mathcal{N}(m) \wedge n=S(m))&lt;/math&gt;,
+but it isn't the same that was written in formulations of the axiom 9...
+
+--[[User:Eugepros|Eugepros]] ([[User talk:Eugepros|talk]]) 13:03, 10 September 2009 (UTC)
+
+:In any axiomatic framework, there are things that are not defined, the so-called primitive concepts. In plane geometry, these are &quot;point&quot; and &quot;line&quot;. In Peano arithmetic, there is a single primitive concept: natural number. The Peano axioms do not define what natural numbers are, they instead describe certain properties of natural numbers that can be used to reason about natural numbers. However, in second-order logic there is only one model of the Peano axioms (up to isomorphism) and so the axioms do suffice to determine all properties of the natural numbers. One could say, informally, that the Peano axioms give an implicit definition of the natural numbers.
+
+:The most &quot;natural&quot; way to define the natural numbers is via an inductive definition:
+:# 0 is a natural number
+:# For any object ''x'', if ''x'' is a natural number than so is S(''x'')
+:# An object is only a natural number if it is forced to be one by rules #1 and #2
+:The difficulty here is that rule #3 is inherently second-order. The axiom of induction in Peano arithmetic is meant to agree with this inductive definition, in a certain way. But the inductive definition itself is not part of the Peano axioms; they simply take &quot;natural number&quot; to be an undefined concept. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 14:11, 10 September 2009 (UTC)
+
+Tnank you. I understand that there are primitive concepts. For example in set theory such a concept is &quot;set&quot;. But formal theory doesn't refer to such a concept explicitly: In ZFC all objects are &quot;sets&quot; and we don't need to define predicate &quot;is the set&quot;. But here the author formulates the axiom 9 by such a way that it refers to predicate &quot;is the natural number&quot; explicitly.
+
+Вy the way, I've made a mistake, correct formalization shold look as:
+
+&lt;math&gt;(\varphi(0) \wedge \forall n ~ \varphi(n) \rightarrow \varphi(S(n))) \rightarrow (\forall n ~ \mathcal{N}(n) \rightarrow \varphi(n))&lt;/math&gt;.
+
+If &lt;math&gt;K := \{n ~ : ~ \varphi(n)\}&lt;/math&gt;, then it means exactly the same as the first author's formulation.
+
+I understand that it's &quot;second order&quot;, because first order predicate calculus cannot formalize the clause: &quot;For any formula &lt;math&gt;\varphi&lt;/math&gt;...&quot;. But there is a solution: It can be formilized in meta-theory. The meta-theory can assert, that: &quot;For any formula of Peano arithmetic there is such an axiom...&quot;:
+
+&lt;math&gt;(\forall \varphi \in PA) ~ PA \vdash (\varphi(0) \wedge \forall n ~ \varphi(n) \rightarrow \varphi(S(n))) \rightarrow \forall n ~ \varphi(n)&lt;/math&gt;.
+
+It's the definition of standard &quot;schema of induction&quot;. But, as you can see, here we've lost part of the source sentence: &lt;math&gt;\dots \mathcal{N}(n) \rightarrow \dots&lt;/math&gt;. It's obvious why: because the predicate &lt;math&gt;\mathcal{N}&lt;/math&gt; is not defined in the language of Peano arithmetic.
+
+--[[User:Eugepros|Eugepros]] ([[User talk:Eugepros|talk]]) 06:15, 11 September 2009 (UTC)
+
+:But the axioms of ZFC, when written in English, do refer to the predicate &quot;is a set&quot;. Compare the article [[ZFC]], which has axioms such as &quot;If x and y are sets, then there exists a set which contains x and y as elements.&quot;. This is just a ''façon de parler'' that is often employed in writing axioms.
+
+:The article here does not state a formula version of any of the axioms, only the English versions. The formula version of axiom 9 would be:
+::&lt;math&gt;\forall K ([0 \in K \land \forall n ( n \in K \to Sn \in K)] \to \forall n ( n \in K)).&lt;/math&gt;
+:There is no need for a predicate &lt;math&gt;\mathcal{N}&lt;/math&gt; there. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 11:43, 11 September 2009 (UTC)
+
+:Also: the second-order version is much stronger than the version, stated in the metalanguage, that says &quot;for any formula &amp;phi;&quot;. The second-order version quantifies over ''all'' subsets of the naturals, even subsets for which there is no defining formula. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 12:23, 11 September 2009 (UTC)
+
+OK, your last comment ansvers to my first question, that I wanted to ask. But I have the second question:
+
+''What is the theory, that can accept this axiom?''
+
+In the set theory it's obviously wrong: There are sets, those include all naturals (&lt;math&gt;\mathbb{N} \subseteq K&lt;/math&gt;), but &lt;math&gt;\forall n (n \in K)&lt;/math&gt; is wrong for them. The last thing claims &lt;math&gt;K&lt;/math&gt; to include ALL objects of the theory. In the arithmetic this axiom cannot be expressed, because it knows nothing about sets...
+
+--[[User:Eugepros|Eugepros]] ([[User talk:Eugepros|talk]]) 12:49, 11 September 2009 (UTC)
+
+:You're asking which theory has the axiom
+::&lt;math&gt;\forall K ([0 \in K \land \forall n ( n \in K \to Sn \in K)] \to \forall n ( n \in K))&lt;/math&gt;
+:in its language? Answer: [[second-order arithmetic]]. Note that, because Peano arithmetic is just about numbers, the quantifier &lt;math&gt;\forall n&lt;/math&gt; does just quantify over numbers. The second-order quantifier &lt;math&gt;\forall K&lt;/math&gt; quantifies over sets of numbers. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 13:04, 11 September 2009 (UTC)
+
+Did I understand it correct, that the second order arithmetic cannot be expressed in first-order logic, because it uses special syntax: upper-case letter after a quantifier differs from lower-case? And this theory should know something about sets, but less than the set theory?
+
+And why should we deal with all those matters, when there is the simplier way? This axiom:
+
+&lt;math&gt;\forall K ([0 \in K \wedge \forall n ( n \in K \to S(n) \in K)] \to \forall n (n \in \mathbb{N} \to n \in K))&lt;/math&gt;
+
+can be added to ZFC with additional constant &lt;math&gt;\mathbb{N}&lt;/math&gt;. Then we can prove, that &lt;math&gt;\mathbb{N}&lt;/math&gt; is the minimal [[inductive set]] and that it exists and unique. I note, that it's almost your formula, but with additional precondition &quot;&lt;math&gt;\dots n \in \mathbb{N} \rightarrow \dots&lt;/math&gt;&quot; in the right part.
+
+--[[User:Eugepros|Eugepros]] ([[User talk:Eugepros|talk]]) 15:28, 11 September 2009 (UTC)
+
+:Second-order arithmetic ''can'' be expressed in first-order logic, but its strength only comes when one uses second-order semantics. It does indeed know a little bit of set theory (basically, just sets of natural numbers), but is much weaker than set theory. 
+
+:One does not need the Peano axioms in ZFC, since one can define the natural numbers there using just the ZFC axioms. The point of the Peano axioms is when you want to study arithmetic as its own theory, not inside set theory. One can verify in ZFC that the natural numbers do satisfy the Peano axioms, and thus the Peano axioms are consistent. But the point of the axioms is stand alone, just like a theory of geometry. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 22:07, 11 September 2009 (UTC)
+
+Carl, can I ask you one more stupid question?
+If we interpret arithmetic not in ZFC, but in [[General set theory]] (that's because I have doubts about existence of infinite sets), can we prove, that it's categorical theory? Assuming, that 9th axiom is given in second-order form.
+
+--[[User:Eugepros|Eugepros]] ([[User talk:Eugepros|talk]]) 07:15, 21 October 2009 (UTC)
+
+:No. If you try to work semantically, GST does not prove there is any model of PA, much less a categorical one. Actually GST has the same proof theoretic strength as PA, which means that if if you work with PA syntactically inside GST, rather than semantically, GST will still not be able to prove that PA is consistent.  Basically, GST and PA are two different ways of talking about finite sets: GST uses set-theoretic language while PA uses the language of natural numbers. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 10:38, 21 October 2009 (UTC)
+
+Does it mean, that our belief in existence of infinite sets is ''necessary'' to be sure, that aritmetics (in second order form) is categorical theory? And if I'm sceptical about infinities, then I won't be sure, that my comprehension of natural numbers is &quot;standard&quot;?
+
+--[[User:Eugepros|Eugepros]] ([[User talk:Eugepros|talk]]) 13:42, 21 October 2009 (UTC)
+
+:If you do not believe in infinite sets, then you do not believe that there is a set containing all the natural numbers, in which case you have more serious problems to worry about than whether Peano arithmetic is a categorical theory. If you do not believe in infinite sets then there is no model at all of the Peano axioms. Of course, in a trivial sense, that means that every two models are isomorphic... 
+
+:On the other hand, when we say &quot;natural number&quot; in real life, we know exactly what we mean, and we mean the standard type of natural number, not an element of a nonstandard model of Peano arithmetic. There is no danger of accidentally running into a nonstandard number in real life. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 13:52, 21 October 2009 (UTC)
+
+::What exactly do you both mean by &quot;infinite&quot;? Are you speaking of a completed infinite or of an intuitionistic never-to-be completed infinite? Correct me if I'm wrong, but Peano induction fits nicely with either the intuitionistic or constructivist infinite or with Hilbert's axiomatic Formalism (in which he invokes the axiom). Via Peano induction the &quot;infinite&quot; is extensible ad nauseum, and this doesn't offend either the intuitionist/constructist, nor the Formalist. Eugepros can decline to believe in completed infinite sets e.g. symbolized by a symbol ω so one can talk about NOT-ω, but still believe (&quot;intuitively&quot;) in an infinitely-extensible-but-never-to-be-completed set for which NOT-ω is meaningless. But now when Eugepros uses reductio ad absurdum he/she had better be cautious not to invoke a completed infinity. 
+
+::(Here's an interesting (spooky) explanation of the metaphysics behind this. It has to do with assertions about completed past and completing present versus the uncompleted, unknowable future. The unknowable future leads some metaphysicans to argue against incorrect use the [[Law of Excluded Middle]] (LoEM) with respect to truth of hypotheticals such as Aristotle's example p: &quot;There will be a naval battle tomorrow&quot;. For some metaphysicians application of the LoEM p V ~p to Aristotle's example is meaningless -- as p and ~p lie &quot;uncompleted&quot; in the future, neither p nor ~p have meaning. Thus the LoEM can be properly applied only to the completed past and the completing present, never to uncompleted hypotheticals. Andrews 1996 gives a closer-to-Peano-induction example p: &quot;There is an uninterrupted run of 1000 nines in the decimal expansion of B&quot; -- ~p is unprovable, no matter how far out your mu-operator cranks the computation, it may never terminate, so you may never know by (in-)exhaustive Peano-induction. cf User:Morton Shumway's discovery of Andrews' interesting paper: http://www2.swgc.mun.ca/animus/Articles/Volume%201/andrews.pdf).  Bill [[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 17:08, 21 October 2009 (UTC)
+
+:::Sure, but if you want to talk about a theory being &quot;categorical&quot; then you have to actually have models of the theory, and in the case of the Peano axioms a model would be a completed infinity. This is why constructive results are often very syntactical, because constructivists can make perfect sense out of &quot;Peano arithmetic is syntactically consistent&quot; even if they do not believe there is a completed model of Peano arithmetic. Similarly they can prove &quot;the product of two even numbers is always even&quot; even if there is no set containing all the even numbers. A computer science way to look at this is to view the natural numbers as a type, rather than as a set. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 17:38, 21 October 2009 (UTC)
+
+Wvbailey, I meant by &quot;infinity&quot; the corresponding axiom of set theory: &quot;There is such a set, that contains successors of all its elements&quot;. As far as I know, it means &quot;completed&quot; or &quot;actual&quot; infinity, but not &quot;becoming&quot; or &quot;potential&quot; one. I don't refuse that infinity categorically, but I'm sceptical about it (cannot accept the axiom). If I understand it right, the point of view: &quot;don't refuse categorically, but sceptical&quot; - ill conforms to the law of excluded middle. So, it means, that I should use intuitionistic predicate calculus. I would denote my position as &quot;constructivism&quot;, if I haven't heard, that many constructivists unconditionally accepted axiom of infinity.
+
+Carl, yes, I &quot;do not believe that there is a set containing all the natural numbers&quot;. But I cannot assert, that &quot;there is no model at all of the Peano axioms&quot;. I'm simply unaware of it. In real life I interpret &quot;natural number&quot; as a string of notches like this: &quot;|||||||&quot;. But there is the danger to collide with nonstandard number &quot;in real life&quot;, here is the example: The [[Goodstein's theorem]] will be provable in second-order arithmetic, if we can use infinit ordinal numbers. But there is contradictory example for first-order arithmetic. This contradictory example is a nonstandard number. I don't understand how this number can be written as a string of &quot;|&quot;, therefore this example means nothing for me. But someone, who believes in infinities, would prove, that such a number &quot;really exists&quot;. I would like to prove Goodstein's theorem without usage of infinities. Do I have a chance?
+
+--[[User:Eugepros|Eugepros]] ([[User talk:Eugepros|talk]]) 09:59, 22 October 2009 (UTC)
+
+:No, someone who believes in infinitary methods would not believe such a number &quot;exists&quot; as a standard natural number. Nonstandard numbers arise because first-order Peano arithmetic is not capable of properly defining &quot;finite&quot;, but this does not mean that we as human beings have any confusion about what a finite string is.  Some models of Peano arithmetic have nonstandard numbers, but this only means those models are wrong about what the natural numbers are. 
+
+:Usually, the term &quot;provable without the usage of infinities&quot; is made precise as &quot;provable in [[primitive recursive arithmetic]] (PRA). Since PRA is weaker than Peano Arithmetic, and Goodstein's theorem is not provable in Peano Arithmetic, you will not be able to prove Goodstein's theorem in PRA. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 11:15, 22 October 2009 (UTC)
+
+It's very strange situation: To be capable of properly defining &quot;finite&quot;, we have to believe that something &quot;infinite&quot; exists. Or is there another way? As far as I know, defining an impossible property usually is not a problem. Example: the property &quot;to be set of all sets&quot; is impossible - it's definable, but not existent. Why the property &quot;infinite&quot; must be existent to be definable? Or not?
+
+Concerning proof without the usage of infinities: I don't understand where proofs in first-order PA (or in GST) use infinities. Why should we limit ourselves to PRA?
+
+--[[User:Eugepros|Eugepros]] ([[User talk:Eugepros|talk]]) 13:42, 22 October 2009 (UTC)
+
+:It is not necessary to define &quot;infinite&quot; in order to define &quot;finite&quot;. If you want to stop using set theory, you have to really stop using set theory. One way to define things without set theory is via inductive definitions, which are not read as definitions in set theory but simply as definitions in English. For example, a set is finite if it is empty, or if it is obtained by adding one element to some other finite set. 
+
+:Peano arithmetic uses infinities in its proofs because the induction axioms can include quantifiers over the entire set of natural numbers. If one is going to deny that the set of natural numbers actually exists, one can hardly accept quantifying over this set. In primitive recursive arithmetic, the only induction that is present is for formulas that do not quantify over the natural numbers (in fact, primitive recursive arithmetic is a &quot;quantifier free&quot; theory of arithmetic). 
+
+:I think that this conversation has become off-topic for this talk page, since we are not really talking at all about how to improve the article. You might want to ask any future questions at [[WP:RD/Math|the math reference desk]]. Also, you will get a wider selection of answers there, rather than just my personal perspective. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 13:51, 22 October 2009 (UTC)
+
+::It's on-topic, though, for the [[Law of Excluded Middle]] article, and probably the [[Laws of thought]]. W.r.t the LoEM and the infinite, User:Morton Shumway raised some questions concerning its metaphysical background (e.g. the philosopher Hegel disallowed the LoEM, for example); this sent me back to Aristotle and Plato and forward from there . . . the talk page there reflects some recent historical reference-research that I and Shumway have been slowly adding. I've also created a [[User:Wvbailey/Law of Excluded Middle]] collection-point that I'm fleshing out with every piece of history I can come up with. My assumption is that metaphysics of the infinite inform a person's mathematics-foundational outlook, but I am also discovering it has a (tacit) role in the [[Philosophy of mind]], etc. etc. If either of you know of any good articles etc on either topic (law of excluded middle, laws of thought) please lemme know. Thanks, Bill [[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 15:19, 22 October 2009 (UTC)
+
+::You don't need infinities to prove Goodstein's theorem, if you can accept the idea that there is a lexicographical ordering on finite trees, and that each move in the  [http://math.andrej.com/2008/02/02/the-hydra-game/ &quot;hydra game&quot;] (repeatedly chopping off a branch from a tree and replacing it with branches closer to the root), changes the tree to one of lower lexicographical rank.  This is equivalent to the statement that [[epsilon nought]] is well-ordered, and also allows a finitary proof of the consistency of PA ([[Gentzen's consistency proof]]).  Note of course that this principle of induction on trees is strictly more powerful than PA's induction on natural numbers, and is itself not provable in PA.  Gentzen's proof is mentioned in the article in terms of Turing machines but I find the hydra metaphor to be more intuitive.  [[Special:Contributions/66.127.55.192|66.127.55.192]] ([[User talk:66.127.55.192|talk]]) 05:41, 23 January 2010 (UTC)
+
+:::The exposition of the axioms 6, 7, 8, on the succesor function was a little ahead of itself and difficult to fix given the subtlety of the subject matter. I wrote a different one, that is geared towards dismissing the misconceptions about which axiom does what. The current exposition treats  axioms 6, 7, 8 along with the mention of axiom 1 as a group, instead of examining them individually. Particular emphasis is given in the role of axiom 9 in relation of the intuitive notion of natural numbers. Comments are welcome. [[User:Nxavar|Nxavar]] ([[User talk:Nxavar|talk]]) 18:51, 28 May 2016 (UTC)
+
+::::I wonder why you deleted the text about axioms 1,6,7,8 together implying infiniteness of models. - Additionally, I'd like to &quot;advertise&quot; the diagram [[:File:Peano-7.pdf]], [[:File:Peano-8.pdf]], and [[:File:Peano-9.pdf]] here which shows a nonstandard model of the axioms except axiom 7, 8 and 9, respectively; they are also available as svg ([[:File:Peano-7 svg.svg]], [[:File:Peano-8 svg.svg]], [[:File:Peano-9 svg.svg]], but without repeating the pdfs' detailled description). However, if a citation was required for showing (some of) them, I wouldn't have one at hand. - [[User:Jochen Burghardt|Jochen Burghardt]] ([[User talk:Jochen Burghardt|talk]]) 09:33, 29 May 2016 (UTC)
+
+::::The presentation of the axioms 1, 6, 7, 8 actually imply the infinitude of natural numbers. The crucial phrase is ''unary representation''. If there was a circle in the successor fuunction, then some natural number would have two representations. [[User:Nxavar|Nxavar]] ([[User talk:Nxavar|talk]]) 20:48, 29 May 2016 (UTC)
+
+==zero in axiom 7 and 9==
+I think it is not necessary to assume that the zero of axiom 7 and that of axiom 9 are the same natural number.
+Consider: 
+
+A1: for all ''n'' in ''N'': ''Sn'' in ''N''
+
+A2: there is at least one ''e'' in ''N'': for all ''n'' in ''N'' ''Sn''≠''e''
+
+A3: for all ''n'', ''m'' in ''N'': if ''Sn''=''Sm'' then ''n''=''m''
+
+A4: there is at least ine ''e‘'' in ''N'': if [''Pe‘'' and (for all ''n'' in ''N'': if ''Pn'' then ''PSn'')] then for all ''n'' in ''N'': ''Pn''
+
+It is not difficult to prove that an ''e‘'' chosen from A4 also has the property of ''e'' of A2. After that is is not difficult to prove that ''e'' and ''e‘'' are uniquely defined and ''e''=''e‘''.
+
+Although Peano did not express this, should this observation not be mentioned?
+[[User:Jos.koot|Jos.koot]] ([[User talk:Jos.koot|talk]]) 10:31, 14 April 2009 (UTC)
+
+:I don't see why this variation of the axioms would be worth mentioning, unless it has actually been studied and applied by someone. There are all sorts of minor variations that can be made to the axioms, but in general they aren't going to be of encyclopedic interest. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 11:28, 14 April 2009 (UTC)
+
+::I find the idea interesting that the axioms can be replaced by seamingly weaker axioms without loosing strength. [[User:Jos.koot|Jos.koot]] ([[User talk:Jos.koot|talk]]) 15:13, 14 April 2009 (UTC)
+
+:::If one removes 0 from the signature, then there are no longer any closed terms, which is a technical nuisance (for example, the [[diagonal lemma]] assumes that there is a closed term for each natural number). So people would immediately require a definitional extension to regain 0; but then they would be back at the commonly-used signature and axioms. So I don't see that there is really much mathematical interest in studying Peano arithmetic in a language that does not contain 0; can you point at any literature that discusses it? &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 17:34, 14 April 2009 (UTC)
+::::The axioms of Peano do not imply 0 to represent zero. The meaning of 0 can be any natural number. A1..A4 do not remove 0 from the set. [[User:Jos.koot|Jos.koot]] ([[User talk:Jos.koot|talk]]) 15:16, 3 May 2009 (UTC)
+:::::However the term &quot;0&quot; does represent the least natural number in the model of Peano arithmetic at hand. As I was saying, without the symbol &quot;0&quot; there are no closed terms at all. But if one is going to include 0 in the signature, then there is no reason to beat around the bush with axioms that refer to it only indirectly. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 15:18, 3 May 2009 (UTC)
+:::::: Axioms A1..A4 do not remove the least natural number. It can be proven that the axioms allow to be proven the existence of one unique least natural number. [[User:Jos.koot|Jos.koot]] ([[User talk:Jos.koot|talk]]) 18:20, 3 May 2009 (UTC)
+::::::: Sure. My point is that there are important reasons for having 0 in the signature. I noticed that the article was not explicit about the signature, so I added a sentence. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 21:17, 3 May 2009 (UTC)
+:::::::: After proving that e and e' are unique and e=e', the signature is established. [[User:Jos.koot|Jos.koot]] ([[User talk:Jos.koot|talk]]) 16:06, 4 May 2009 (UTC)
+:::::::::See [[signature (mathematical logic)]]. The ordinary signature for Peano arithmetic has a constant symbol &quot;0&quot;, a unary function symbol &quot;S&quot;, and the equality relation symbol. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 16:50, 4 May 2009 (UTC)
+::::::::::&lt;small&gt;Aside: That is for second-order Peano arithmetic. For the first-order system, one normally also includes binary function symbols &quot;+&quot; and &quot;×&quot; (since leaving them out gives you a much weaker system). [[User talk:Algebraist|Algebraist]] 17:02, 4 May 2009 (UTC)&lt;/small&gt;
+:::::::::::First-order PA with only successor is able to define the addition and multiplication functions, and so one can make a definitional extension that includes them if one wants. So the axiom system in a signature with with only successor and 0 is just as strong as the semiring version, not weaker; there isn't any benefit in this context to second order PA. You're right that the semiring operations are included from the start in texts like Kaye's book. This is briefly discussed explained in the article in the section &quot;equivalent axiomatizations&quot;. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 17:23, 4 May 2009 (UTC)
+::::::::::::First-order PA with only successor is able to do no such thing. It's just the theory of a set N equipped with a function S that is injective, takes every value except 0, and has no cycles (proof: all these statements are clearly true in (N,0,S) and the theory I've just described is categorical in uncountable cardinals, hence complete). Thus the disjoint union of the natural numbers with the integers is a model of first-order PA with only successor, but there's no way of defining + and × to make it into a model of first-order PA. [[User talk:Algebraist|Algebraist]] 17:32, 4 May 2009 (UTC)
+:::::::::::::You're certainly right that it isn't possible to define addition and multiplication to make that a model of first-order PA. However, I would say it's the induction, rather than the signature, that's the issue in your example. I am so used to the usual first-order PA that it takes me a while to even think about the idea of PA that starts without addition and multiplication. But I understand what you're saying in any case. By the time you add necessary induction I am thinking of you have either expanded the signature or have moved in spirit to second order logic. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 00:36, 5 May 2009 (UTC)
+::::::::::::::Yes. The first-order language with just S and 0 is not very expressive (the theory we're talking about eliminates quantifiers in that language, and it's clear you can't say much with a quantifier-free formula), so the induction axioms it can state are not very strong. Even if you expand the signature by adding &quot;+&quot;, the [[Presburger arithmetic|theory you get]] is pretty weak: you really do need both &quot;+&quot; and &quot;×&quot; to be able to state enough induction axioms to get anywhere. [[User talk:Algebraist|Algebraist]] 13:55, 5 May 2009 (UTC)
+
+:How does your A4 imply your A2? &lt;span style=&quot;white-space:nowrap&quot;&gt;— [[User talk:Kaustuv|Kaustuv Chaudhuri]]&lt;/span&gt; 17:47, 14 April 2009 (UTC)
+::See http://www.telefonica.net/web2/koot/Peano.mht [[User:Jos.koot|Jos.koot]] ([[User talk:Jos.koot|talk]]) 15:32, 3 May 2009 (UTC)
+
+:::I can't open that file, and I doubt many other people can unless they happen to have a computer with internet explorer on it. Can you put it in an open format such as PDF? &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 16:58, 3 May 2009 (UTC)
+:::: Can you open http://www.telefonica.net/web2/koot/Peano.doc ? [[User:Jos.koot|Jos.koot]] ([[User talk:Jos.koot|talk]]) 18:16, 3 May 2009 (UTC)
+:::::Yes, fortunately openoffice can open that. PDF is really the way to go, though. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 21:17, 3 May 2009 (UTC)
+
+:::Your reasoning for your theorem 2 is circular. You suppose the negation of A2, and then conclude that A2 is contradicted.
+:::I don't believe that the following proposition is true in pure classical second order logic with equality:
+:::&lt;math&gt;\forall z \in N.\ (\forall P \in N \to o.\ P\,z \Rightarrow (\forall n \in N.\ P\,n \Rightarrow P(S\,n)) \Rightarrow \forall n \in N.\ P\,n) \Rightarrow \forall n \in N.\ S\,n \neq z&lt;/math&gt;.
+:::If this is not what you are proving, please restate what you want to prove more formally and unambiguously. &lt;span style=&quot;white-space:nowrap&quot;&gt;— [[User talk:Kaustuv|Kaustuv Chaudhuri]]&lt;/span&gt; 06:25, 6 May 2009 (UTC)
+::::Here is a different exposition.  &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 13:20, 6 May 2009 (UTC)
+&lt;blockquote&gt;&lt;div&gt;
+We work in second order logic. The signature has equality
+and a unary function symbol ''S''. We take A1&amp;ndash;A4 from above as the axioms. We want to show that all the Peano postulates hold. Looking at them, we need to show that 5 (which is trivial), 7, and 9 hold, because postulate 6 is trivial and 8 is our A3.
+
+Begin by adding to the signature a constant symbol 0, and adding an axiom that says that 0 satisfies axiom A4:
+:&lt;math&gt; \forall P ([P0 \land \forall n (Pn \to PSn)] \to \forall n Pn)&lt;/math&gt;  (A5)
+This extended signature and theory is a definitional extension of the original and thus has exactly the same models. Moreover, axiom A5 is exactly Peano postulate 9, so only postulate 7 remains. So we must prove: There is no ''n'' with ''Sn'' = 0.
+
+To prove this, suppose 0 = ''Sp'' for some ''p''. Let P(''n'') be the formula &lt;math&gt;\exists x ( n = Sx)&lt;/math&gt;. Then we have assumed that P(0) holds, and clearly P(''Sm'') holds for all ''m'', so by axiom A5, we have &lt;math&gt;\forall n P(n)&lt;/math&gt;, that is, &lt;math&gt;\forall n \exists x ( n = Sx)&lt;/math&gt;. This contradicts axiom A2.
+
+At this point, we have regained all the Peano postulates. The proof the 0 is the only element that is not a successor is then the same as in PA. 
+&lt;/div&gt;&lt;/blockquote&gt;
+
+=== From Suppes 1957 ===
+
+Suppes 1957 indirectly deals with a uniqueness axiom for zero when (operationally) the notion of zero is applied to division. The first subchapter is '''§8.5 The Problem of Division by Zero'''. This he follows up with '''§8.6 Conditional Definitions''' (where he discusses &quot;eliminating all the 'interesting' cases) and '''§8.7 Five approaches to Division by Zero'''. The following is from Suppes 1957:163-169: 
+:'''§8.5 The Problem of Division by Zero.''' 
+::&quot;That everything is not for the best in this best of all possible words, even in mathematics, is well illustrated by the vexing problem of defining the operation of division in the elementary theory of arithmetic. If we introduce the definition: 
+:::(1) x/y=z if and only if x = y*z 
+::&quot;we realize immediately that (1) does not satisfy the fourth restriction for equivalences definition operation symbols. For we cannot prove that given any two numbers x and y there is a unique z such that x = y*z. For instance, there is no z such that 1 = 0*z; and any number z has the property that 0 = 0*z.)... 
+::&quot;In spite of the difficulties besetting us there is a formally satsifactory way of defining division by zero. It is a so-called axiom-free definition since it requires no previous theorem to justify it. It does require that when y = 0, then x/y=0. Because of the several quantifiers occurring in the definiens we use logical notation to state the definition: 
+:::&quot; x/y = z ←→ (z')[z' = z ←→ x = y*z'] V [-(∃w)(z')(z' = w ←→ x = y*z') &amp; z = 0] 
+::[NOTE: This is a rather difficult definition in part because of Suppes's symbolism. Suppes is using the symbols as follows: ←→ means &quot;if and only if&quot; i.e. &quot;is logically equivalent to&quot;, = means &quot; identical to &quot;, (z') means &quot;for all (nowadays written ∀) numbers with the symbol z' &quot;, &quot; V &quot; is logical inclusive OR, &quot; - &quot; is logical NOT, ∃ means &quot;there exists at least one example of&quot;. The identity sign &quot; = &quot; is actually a predicate, a function that outputs { true, false }. So in words 
+::&quot;x/y is logically equivalent to EITHER OR BOTH of the following statements: 
+:::(a) For all numbers z', the notion &quot; z' is identical to z &quot; is logically equivalent to the notion &quot; x is identical to y*x' &quot; 
+::: OR (b) It's not the case that a number w exists such that, for all numbers z', the notion &quot; z' is identical to w &quot; is logically equivalent to the notion &quot; x is identical to y*z' &quot; AND at the same time the notion &quot; z is identical to 0 &quot;.] 
+
+::&quot;The complicated character of (5) argues strongly for some other solution, which we turn to in the next section. / Here it will suffice to say that there seems to be no method of handling division by zero which is uniformly satisfactory.&quot; (Suppes 1957:163-164)
+ 
+:&quot;'''§8.7 Five approaches to Division by Zero''' [etc.]&quot;
+
+For a curious correspondent I typed in all of §8.7 at [[Talk:Division by zero]]. Bill [[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 20:45, 14 April 2009 (UTC)
+
+== Successor is a function? ==
+
+I've had a great deal of trouble proving that if x=y, then S(x)=S(y); i.e., S(x) is a function.  This can be proved for specific, variable-free terms (e.g., if 0+0=0, then S(0+0)=S(0)), but as far as I can tell, not in general for terms with variables.  Other lists of the axioms I've seen (e.g., Mendelson 1997) state this as an axiom.  Is there something about the construction here I'm missing, or should the axiom be added?
+
+It's important for proving associativity and commutativity of addition and multiplication.
+[[User:Krohneew|Krohneew]] ([[User talk:Krohneew|talk]]) 23:37, 11 June 2010 (UTC)
+:In Hilbert-style deduction, it's a [[logical axiom]] &amp;mdash; because equality really means that two things are exactly the same, this implication is automatic, and does not say anything at all about ''S'' per se.  Usually we enumerate only the non-logical axioms, the ones that put an actual restriction on what sorts of interpretation the symbols can have. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 23:58, 11 June 2010 (UTC)
+
+::The semantics of first-order logic require that a function symbol (&quot;S&quot;) has to be interpreted as a function. If you have Mendelson's 4th edition this is on page 57, as part of the definition of an &quot;interpretation&quot;.  So in every interpretation, if &lt;math&gt;x_1 = x_2&lt;/math&gt; then &lt;math&gt;S(x_1) = S(x_2)&lt;/math&gt; because of this definition.  Moreover, because anything true in every interpretation is provable, under any complete set of proof rules, Mendelson's axiom S2 is already provable without assuming any axioms at all. 
+
+::In order to create a complete proof system, most authors include the so-called &quot;axioms of equality&quot;. One of these says that given any formula &amp;phi;, if a second formula &amp;psi; is created by replacing zero or more free instances of a variable ''a'' in &amp;phi; with the variable ''b'' then 
+:::&lt;math&gt;(a = b \land \phi) \vdash \psi&lt;/math&gt;
+::In this case, if you let &amp;phi; be &lt;math&gt;S(x_1) = S(x_1)&lt;/math&gt; and let &amp;psi; be &lt;math&gt;S(x_1) = S(x_2)&lt;/math&gt; then you can use the proof rule I just mentioned to prove Mendelson's axiom S2. So it is not necessary to assume S2 in any logic that includes the rules for equality. 
+
+::Mendelson, for whatever reason, seems to include some of the axioms of equality as axioms of his theories. However, he discusses theories with equality on pp. 94&amp;ndash;95. Most authors today simply take equality to be a &quot;special&quot; (i.e. logical) symbol, which is forced by definition to be interpreted as actual equality rather than by an arbitrary binary relation. &amp;mdash;&amp;nbsp;Carl &lt;small&gt; ([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 00:10, 12 June 2010 (UTC)
+
+:::I'd be happy if this &quot;axiom of equality&quot; were included on the peano axiom page proper, and I would be happy with equality to be &quot;special&quot;, i.e., logical.  But if equality is special, what is the need for axioms 1, 2, and 3 here?  If equality is not special, i.e., the underlying logic does not have equality, then the symbol '=' is merely a binary predicate mentioned in the axioms, and should not be invested with special meaning that does not derive directly from those axioms.  Replace &quot;x=y&quot; with A(x,y) in axioms 1, 2, and 3 and you get that A is an equivalence relation on terms.  If the logic itself does not have equality, there's no basis for saying that &quot;0+0&quot; and &quot;0&quot; are the same in any way; they just belong to the same equivalence class under A.[[User:Krohneew|Krohneew]] ([[User talk:Krohneew|talk]]) 17:55, 15 July 2010 (UTC)
+
+::::You're right &amp;mdash; I think we should drop axioms 1 through 4, which are just instances of logical axioms.  Did Peano himself include them?  If so, then we probably need to mention them, but in a &quot;historical&quot; context, rather than in presenting the way the Peano axioms are viewed today.  --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 21:35, 15 July 2010 (UTC)
+
+:::::The original Peano axioms are 9 in number. But van Heijenoort 1967 recognizes that &quot;axioms 2, 3, 4 and 5, which deal with identity, belong to the underlying logic. This leaves the 5 axioms that have become universally known as the 'Peano axioms' &quot;(cf p. 83) [Axiom #1 in the original is: &quot;1 is a number&quot;, Axiom #2 is: Given ''a'' is a number, ''a'' = ''a'', etc]. As noted above, he does not consider 0, but rather 1 as the first element in the numbers as created by the &quot;successor function&quot;. Bill [[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 00:21, 16 July 2010 (UTC)
+
+:::::I favor keeping all the axioms, because this article is meant to cover not just Peano arithmetic but also the historical subject of the actual axioms proposed by Peano. This is why we already have footnote 7, for example. A reader should be able to come here and leave with a list of exactly the axioms Peano listed. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 02:07, 16 July 2010 (UTC)
+
+::::::When I came to this page originally, I was hoping to work with the axioms, and wasn't interested in their history.  Not that the history isn't interesting, but it wasn't my original intent.  When I saw Axioms 1-4, I concluded that in this presentation, equality was not considered part of the underlying logic, and it caused me a lot of confusion.  A note discussing the situation and then a presentation of Peano's original axioms would have worked just fine. I'm not wedded to Peano's original axioms, though, so I'd be equally satisfied with a &quot;simplified&quot; presentation of axioms along with extra notes indicating Peano's originals. [[User:Krohneew|Krohneew]] ([[User talk:Krohneew|talk]]) 08:30, 16 July 2010 (UTC)
+
+:::::::I second Wvbailey in this. My experience is that the term &quot;Peano's axioms&quot; is used through out mathematics to mean &quot;a set of axioms in the spirit of Peano but in a modern setting&quot;. Because that is the common meaning within the field that is the description that should go here. And that is what people will come here looking for. A historical section about the original axioms should be added.[[User:Liiiii|Liiiii]] ([[User talk:Liiiii|talk]]) 20:52, 24 October 2013 (UTC)
+
+==Order type of non-standard model - meaning of symbols==
+&quot;It is natural to ask whether a countable nonstandard model can be explicitly constructed. It is possible to explicitly describe the order type of any countable nonstandard model: it is always ω + (ω* + ω)η&quot;.
+* What is &quot;η&quot; and &quot;ω*&quot;? (I assume that η is a placeholder for any countable ordinal; how is &quot;ω*&quot; defined? (Is it supposed to mean ε0, or something else?) - [[User:Mike Rosoft|Mike Rosoft]] ([[User talk:Mike Rosoft|talk]]) 10:28, 30 June 2010 (UTC)
+::The meaning is glossed in the next sentence. ω* is the reverse of ω (so ω*+ω is the order-type of the integers) and η is the order-type of the rationals (or of any dense unbounded countable order). [[User talk:Algebraist|Algebraist]] 10:52, 30 June 2010 (UTC)
+
+::I tried to clarify that paragraph some. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 11:29, 30 June 2010 (UTC)
+
+== Peano axioms vs. set theory axioms ==
+
+Considering the article ''[[Set-theoretic definition of natural numbers]]'', can one say that the Peano axioms are redundant/dispensable in set theory? Is there (still) a &quot;need&quot; to have Peano axioms when natural numbers can be defined from some apparently more general concept (i.e. set theory)? --[[User:Abdull|Abdull]] ([[User talk:Abdull|talk]]) 21:41, 6 September 2010 (UTC)
+:In most formulations of set theory (for example [[ZFC]]), the Peano axioms are simply theorems (once the natural numbers are defined as certain kinds of set).  Not clear what you mean by &quot;is there still a need to have [them]?&quot;.  It is of interest to know what arithmetic propositions can be proved in (first-order) Peano arithmetic, and which ones require stronger techniques such as set theory. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 00:52, 7 September 2010 (UTC)
+::Now you caught my interest. Do you have any exemplary arithmetic propositions at hand that can be proven in set theory but not with Peano axioms? --[[User:Abdull|Abdull]] ([[User talk:Abdull|talk]]) 18:37, 10 September 2010 (UTC)
+:::The classic examples are the [[Paris–Harrington theorem]], [[Goodstein's theorem]], and (the formalized arithmetical version of) the statement that the Peano axioms are consistent. [[User talk:Algebraist|Algebraist]] 18:41, 10 September 2010 (UTC)
+
+== Notation and zero ==
+
+[[User:Belnapj]] has been insisting in edit summaries that the notation '''W''' is standard for the &quot;whole numbers&quot;, including zero.
+
+This is simply false.  It is true that some authors use the term ''natural number'' in a way that includes zero and some do not.  However the '''W''' notation is very far from standard in research mathematics.  In my experience it is used in primary and secondary mathematics education in the United States, but never at the university level.  I am trying to avoid an edit war here, but the '''W''' notation is not acceptable, because it is not standard in serious mathematics. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 09:25, 26 January 2012 (UTC)
+
+:Yes, you are right. I'm going to give Belnapj a little while to comment first, but I'll plan to change the article back later today. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 10:04, 26 January 2012 (UTC)
+
+== Motivation for induction ==
+
+The article currently states &quot;Axioms 1, 6, 7 and 8 imply that the set of natural numbers is infinite, because it contains at least the infinite subset { 0, S(0), S(S(0)), … }, each element of which differs from the rest. To show that every natural number is included in this set requires an additional axiom, which is sometimes called the axiom of induction.&quot; Since '''N''' ''defined to be'' the set of natural numbers, shouldn't this be true without induction? The article essentially states (if I understand it correctly) &quot;To show that every natural number is included in the set of natural numbers requires induction.&quot; But whatever the set of natural numbers contains, it must contain the natural numbers, and must contain all of them; else it would be called the set of some-of-the-natural-numbers. If there is a distinction between the intuitive-natural-numbers and the formal-natural-numbers, then this distinction is unclear in the article. In Tao's Analysis I, for example, the (informal) motivation for the induction axiom is that the set of natural numbers could contain unwanted elements (&quot;rogue&quot; elements as he calls them, which basically are elements that are not part of the intuitive-natural-numbers), and induction ensures that '''N''' is a subset of {0,1,2,3,...}. The article also does not give a proof that &quot;every natural number is included&quot;, which might be adding to the confusion. [[User:Russell208|Russell208]] ([[User talk:Russell208|talk]]) 00:07, 19 April 2012 (UTC)
+
+:The issue is whether there are &quot;natural numbers&quot; that are not in the set {0, S(0), S(S(0)), ...}. The axiom of induction implies that that set is exactly the set of natural numbers - that there are no natural numbers that are not in that set. Those would be the &quot;rogue&quot; numbers that Tao is talking about. I do agree that the part of the article you quoted might be written more clearly, though.  &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 00:35, 19 April 2012 (UTC)
+
+Thanks Carl. After coming back to this article, I now realize my confusion rested on the phrase &quot;this set&quot; in the second sentence I quoted above (I thought it referred to the &quot;set of natural numbers&quot;, but apparently it refers to the set &quot;{0,S(0),...}&quot;, as evident from your comment). If it's all right, I might try to reword that part to make it less confusing for me (and possibly others). [[User:Russell208|Russell208]] ([[User talk:Russell208|talk]]) 04:10, 28 April 2012 (UTC)
+
+:Yes, please have at it. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 11:28, 28 April 2012 (UTC)
+
+== First-order theory of arithmetic ==
+
+Sorry for stupid question, but why don't I see among the axioms of first-order Peano arithmetic something about totality of increment function &lt;math&gt;S(x)&lt;/math&gt; : &lt;math&gt;\forall x \exists y~y= S(x)&lt;/math&gt; or so on? I understand, that it can be derived from &lt;math&gt;\exists y~y= S(0)&lt;/math&gt; by induction. But neither &lt;math&gt;\exists y~y= S(0)&lt;/math&gt; nor &lt;math&gt;\forall x ~ [\exists y~y= S(x) \to \exists y~y= S(S(x))]&lt;/math&gt; is among the axioms.
+[[User:Eugepros|Eugepros]] ([[User talk:Eugepros|talk]]) 07:21, 20 April 2012 (UTC)
+:As [[first-order logic]] is ordinarily formulated, that follows from the [[logical axiom]]s, and doesn't need to be included among the mathematical axioms. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 08:33, 20 April 2012 (UTC)
+
+Can you explain, HOW does it follows? As far as I know, totality of &lt;math&gt;S(x)&lt;/math&gt; is nontrivial fact, connected with our ''unobvious'' ability to increment arbitrary large number. How can it be derivable from a &quot;pure&quot; propositional or first-order logic?[[User:Eugepros|Eugepros]] ([[User talk:Eugepros|talk]]) 10:21, 20 April 2012 (UTC)
+:Well, I'm not going to try to figure out the formal derivation using logical axioms + modus ponens; I'll just explain it semantically.  A structure for a language in first-order logic includes an interpretation for every function symbol, which must be a total function.  In particular, in every structure for the language of PA, the interpretation of ''S'' is a total function.  By the completeness theorem, it follows that the totality of ''S'' can be proved without axioms. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 21:36, 20 April 2012 (UTC)
+::One thing I should probably point out is that this fact in itself doesn't imply that you get arbitrarily large numbers and can keep incrementing them.  For example, one structure for the language of PA has just a single element, 0.  Then ''S''(0)=0, because what else could it be?  This structure does not satisfy all the PA axioms, of course, but it does satisfy &quot;''S'' is total&quot;, as does every first-order structure for the language. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 01:10, 21 April 2012 (UTC)
+
+Hmm, Trovatore, the more I think about it, the more strange this &quot;semantic&quot; explanation looks for me. You say: &quot;A structure for a language in first-order logic includes an interpretation for every function symbol, which must be a total function&quot;. OK, let us extend the PA by the binary function symbol &quot;/&quot; (division) and the axiom: &lt;math&gt;\forall k,m,n ~ k = m / n \leftrightarrow k \times n = m&lt;/math&gt;. Does it mean, that the function is total? --[[User:Eugepros|Eugepros]] ([[User talk:Eugepros|talk]]) 09:51, 22 May 2012 (UTC)
+
+:Yes, if you put another function symbol into the signature, that would always be interpreted as a total function. That's how things are set up. Of course the axiom that you give there would be inconsistent with the rest of PA, but you could change it to say &lt;math&gt;(\forall k,m,n)[n \not = 0 \to ( k = m/n \leftrightarrow k \times n = m)]&lt;/math&gt; and that would be fine. Then the / function would be able to do whatever it wants when the second argument is 0, but it would still have to do something. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 11:19, 22 May 2012 (UTC)
+
+Here is how to prove $(\forall x)(\exists y)[f(x) = y]$ in a deductive system for first-order logic. First, you start with $f(x) = f(x)$, which is a logical axiom. Then you use existential generalization to get $(\exists y)[f(x) = y]$. Then you use universal generalization to get $(\forall x)(\exists y)[f(x) = y]$. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 11:19, 22 May 2012 (UTC)
+
+Carl, it's VERY strange. As far as I know, ''integer'' division is NOT total function. And the problem is not only division by zero: there is no an integer number k=1/2. Adding the symbol &quot;/&quot; and the forementioned axiom to PA, we don't establish a concept of rational numbers, we just make possible to prove something like 6/3=2.
+
+As for your proof of totality: I more or less can accept assertions like 1/2=1/2 as &quot;logical axioms&quot;, regardless of non-existence of an object &quot;1/2&quot;. But how can you substitute the term f(x), which contains the free variable x, for the statement of existence, when the formula contains the same variable in its other part? I consider it as an illegal trick. --[[User:Eugepros|Eugepros]] ([[User talk:Eugepros|talk]]) 07:49, 23 May 2012 (UTC)
+:Carl spoke too soon in suggesting his amended axiom.  Right, that axiom doesn't work either.  But that doesn't really change anything.  Function symbols in first-order logic always represent total functions, period.  Symbols for partial functions are fine in informal mathematics, and can be incorporated into variants of first-order logic with a little work, but in first-order logic strictly speaking, all function symbols are symbols for total functions. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 08:41, 23 May 2012 (UTC)
+
+Trovatore, I don't know what do you mean by &quot;informal mathematics&quot;. Partial functions are extensively used in mathematics and it's obvious, that they can be formalized in first-order logic. The interpetation, that every non-closed term corresponds to a total function, looks very strange. Perhaps, it's an inherent part of &quot;semantic&quot; approach, but I see nothing in the ''syntax'' of first-order logic, which lead us to such an inference. It's obvious, that the additional axiom &lt;math&gt;n \ne 0 \to (k = m/n \leftrightarrow k \times n = m)&lt;/math&gt; ''doesn't introduce'' rational numbers into the theory of natural numbers, in spite of the fact, that formulas like k=1/2 can be written in the extended syntax. Because &lt;math&gt;\nexists k ~ k=1/2&lt;/math&gt; is the truth for the theory - every bit as &lt;math&gt;\nexists k ~ 2 \times k=1&lt;/math&gt; is the truth for the PA. --[[User:Eugepros|Eugepros]] ([[User talk:Eugepros|talk]]) 10:12, 23 May 2012 (UTC)
+:Certainly, partial functions can be formalized in first-order logic.  Just not in a completely straightforward way by function symbols.  You need to do a little extra work.  This should not be particularly surprising &amp;mdash; first-order logic by itself is very spare, and you need to do extra work to formalize a lot of things.
+:One way is to add a constant symbol, &amp;perp; for example, intended to be interpreted as &quot;no value&quot; (some fixed object outside the universe of discourse you really have in mind, though technically for any structure for your language, its interpretation ''will'' be in that structure's universe).  Then you make all your partial functions total, by assigning the interpretation of &amp;perp; to the value of the function anywhere your intent is that the function not be defined.
+:Now for the case you're discussing, the axiom would become the following two axioms (hope I get this right; if not you can correct it as an exercise):
+::&lt;math&gt;\forall m \forall n\left([\exists k(m=k\cdot n)]\iff \frac{m}{n}\neq\perp\right)&lt;/math&gt;
+::&lt;math&gt;\forall m \forall n\left(\frac{m}{n}\neq\perp\implies\frac{m}{n}\cdot n=m\right)&lt;/math&gt;
+:--[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 19:13, 23 May 2012 (UTC)
+:::(Oh, and you'll also have to modify the rest of the axioms, exempting &amp;perp; from any of the other assumptions, and stipulating that the result of any term containing &amp;perp; is itself &amp;perp;.  For example ''S''(&amp;perp;)=&amp;perp;, 5+&amp;perp;=&amp;perp; 0&amp;sdot;&amp;perp;=&amp;perp; etc.) --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 19:21, 23 May 2012 (UTC)
+:::(And you'll need to add axioms saying that all the functions are total in the appropriate sense, e.g.
+::::&lt;math&gt;\forall n\forall m\left([n\neq\perp\land m\neq\perp]\implies m+n\neq\perp\right)&lt;/math&gt;
+:::)--[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 19:39, 23 May 2012 (UTC)
+
+Trovatore, I have two things to say about it:
+
+1) Addition such a constant &lt;math&gt;\perp&lt;/math&gt; makes the theory inconsistent, because it's provable that &lt;math&gt;\perp \ne \perp&lt;/math&gt;.
+
+2) Such a distorsion of syntax is absolutely aimless: If we want to add subtraction to the arithmetic, we simply add the axiom: &lt;math&gt;\forall k,m,n ~ (k - m = n \leftrightarrow k = m + n)&lt;/math&gt;. That's all: We already have the new theory with subtraction '''as a fact''' - in the sense of ''syntax''. Now you can &quot;semantically&quot; think anything about the function &quot;-&quot;, but it's the fact, that it is NOT total: The sentence &lt;math&gt;\nexists k ~ (k = 0 - 1)&lt;/math&gt; is provable. This fact is ensured by the syntax and none of &quot;semantics&quot; can change it. --[[User:Eugepros|Eugepros]] ([[User talk:Eugepros|talk]]) 07:13, 24 May 2012 (UTC)
+:::Look, this is the standard setup.  It's not handed down by God; there are alternative ways of formulating things that work just as well, and you might be able to come up with one.  But if you want to understand the literature, then you need to understand the standard formulation.  In the mean time we've gotten far afield from the purpose of article talk pages (see [[WP:TALK]]) &amp;mdash; my fault as well, I confess.
+:::If you have more questions about the standard setup or about possible variations to it, you can ask at [[WP:RD/Math]].  If you are out to reform mathematics, you need to look somewhere other than Wikipedia. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 07:51, 24 May 2012 (UTC)
+
+I only wanted to know why isn't there an axiom of totality of S(n) in &quot;First-order theory&quot; part of the article. I see such an axiom in the first part of the article - it has number 6. I was said, that every functional symbol in ANY first-order theory corresponds to a total function. But it's obviously wrong. That is not the case whether such an approach is &quot;standard&quot; or not, it's simply wrong: The totality of S(n) actually follows from nowhere, if there is no explicit axiom. --[[User:Eugepros|Eugepros]] ([[User talk:Eugepros|talk]]) 11:23, 24 May 2012 (UTC)
+:::That is just not true, as has been explained to you. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 03:11, 25 May 2012 (UTC)
+:Peano, himself, didn't have the advantage of modern logic (or logical notation).  In modern logic, all function symbols represent total function.  — [[User:Arthur Rubin|Arthur Rubin]]  [[User talk:Arthur Rubin|(talk)]] 14:46, 24 May 2012 (UTC)
+
+I'm used to think, that if an axiom isn't explicitly stated, then it doesn't exist. Perhaps the thing, which I know as &quot;first-order predicate calculus&quot;, is not a &quot;modern logic&quot;. But there is no axiom of totality for every function symbol there. And I know why: Because it would make theories with partial functions (like integer division) impossible.  --[[User:Eugepros|Eugepros]] ([[User talk:Eugepros|talk]]) 16:15, 24 May 2012 (UTC)
+:Never mind; Carl said it above.  It's a logical axiom, a consequence of the axiom of equality.  — [[User:Arthur Rubin|Arthur Rubin]]  [[User talk:Arthur Rubin|(talk)]] 17:13, 24 May 2012 (UTC)
+
+Using inference &lt;math&gt;\exists y ~ f(0) = y&lt;/math&gt; from &lt;math&gt;f(0) = f(0)&lt;/math&gt;? That is a wonderful way to prove someting like &lt;math&gt;\exists y ~ 0-1 = y&lt;/math&gt;. Does it mean, that adding the axiom &lt;math&gt;\forall k,m,n ~ (k - m = n \leftrightarrow k = m + n)&lt;/math&gt; to PA makes it inconsistent? --[[User:Eugepros|Eugepros]] ([[User talk:Eugepros|talk]]) 08:51, 25 May 2012 (UTC)
+:Yes. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 09:03, 25 May 2012 (UTC)
+
+Thank you. This &quot;modern logic&quot; is a very strange thing: Someone tried hard to make it awkward. --[[User:Eugepros|Eugepros]] ([[User talk:Eugepros|talk]]) 11:00, 25 May 2012 (UTC)
+:Not at all; it's very convenient.  You don't have to keep saying, &quot;such and such a term, ''if defined'', satisfies such and such a property&quot;.  It does mean you need to do some extra work to formalize partial functions.  --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 17:21, 25 May 2012 (UTC)
+
+== Non-uniqueness ==
+
+Several months ago, while reading an old textbook that presented the usual Peano axioms as a &quot;definition&quot; of the natural numbers, I realized that although Russell et al. agreed that the Peano axioms captured what was &quot;meant&quot; by the natural numbers, they were simply wrong — the Peano axioms need to be supplemented if they are to to nail down precisely the set of natural numbers and nothing else.  The simplest example I can give is that the same nine axioms apply to the set of ''even'' natural numbers.  I.e. if you give me an ordered set {a,b,c,d,e,f,...} that you say exhibits the natural numbers specified by the Peano axioms, I can select a proper ordered subset {a,c,e,g,i,k,...} from it that obeys all the same axioms.  Of course you can say that the two sets are &quot;isomorphic,&quot; but that really means no more nor less than that, taken as wholes, they obey the same axioms.  To fix this ambiguity, one needs something besides the uniformly-stepping &quot;successor&quot; notion.  (I think that by the time you extend the set to a field, you obtain this due to the interaction between addition and multiplication.)
+
+So far as I have been able to determine, this observation is new — at least, none of the references I consulted addressed it.  For the benefit of any readers who are trying to puzzle out the details rather than taking it all on faith, the article would be improved by ''some'' mention of this issue. — [[User:DAGwyn|DAGwyn]] ([[User talk:DAGwyn|talk]]) 09:59, 29 April 2012 (UTC)
+
+You may want to check out http://people.umass.edu/klement/imp/imp.html#chapter1. Towards the end of the chapter, Russell discusses this exact issue. [[User:Russell208|Russell208]] ([[User talk:Russell208|talk]]) 05:12, 30 April 2012 (UTC)
+
+:Re Dagwyn: no set of logical axioms can determine what the actual objects are - you can always replace the objects with something else, keeping the same structure, and the axioms will still hold. So the best that can be hoped for is that all models of the axioms are isomorphic. None of the references would be likely to address this because they would not view it as worth mentioning, it affects all axioms systems, and really has nothing to do with Peano arithmetic. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 11:03, 30 April 2012 (UTC)
+
+::My point is more subtle:  The Peano axioms constitute an ''incomplete'' specification for the desired set of natural numbers, because if you answered a math teacher's question &quot;What are the natural numbers?&quot; with &quot;Zero, two, four, six, eight, and so on,&quot; I'm sure that the teacher would refuse to accept that answer, although that set (along with the matching successor function) does satisfy all the Peano axioms.  The answer that would be acceptable to the teacher will be uniquely determined ''only'' if some additional constraints are imposed beyond the Peano axioms.  This is actually an important point, because presentations I've encountered state or strongly imply that the Peano axioms ''in themselves'' are sufficient to specify the ''usual'' set of natural numbers, which is not correct.  The standard augmentation of simply ''defining'' &quot;1&quot; to designate S(0), &quot;2&quot; to designate S(1), etc. provides labels for the ordered-set members (instead of the {a,b,c,d,e,f,...} I used previously), but even using these labels, there are proper subsets such as {0,2,4,6,8,...} which can satisfy all the axioms (but not the nomenclature rule, within the second system).  &quot;Successor&quot; in the second system designates a different operator than in the first, but within the context of the second system it has all the specified axiomatic properties.  The ''labels'' don't follow the standard convention within the second system, but that convention is not contained within the axioms.  So, to satisfy the aforementioned teacher, you need some additional requirement, such as that the standard nomenclature scheme ''also'' be used.  The axioms ''in themselves'' do not achieve the original intent of capturing what we ''mean'' by the set of natural numbers.  Actually, we care about more than just the ''set''; we care about the successor operator and nomenclature also, and probably even more than that.
+::I appreciate the cited reference to Russell's ''Introduction to Mathematical Philosophy'', which shows that this point was noted before.  Russell provides more examples; indeed, ''any'' countably infinite set can have a suitable successor function imposed upon it to satisfy the Peano axioms.  He agrees that the Peano axioms are unsatisfactory, if the goal is to specify natural numbers that have the &quot;real-world&quot; properties that we want them to have, and he states that additional rules of arithmetic are needed to accomplish that.  That's pretty much what I meant earlier when I talked about extending to a field in order to ensure the desired properties. — [[User:DAGwyn|DAGwyn]] ([[User talk:DAGwyn|talk]]) 13:12, 30 April 2012 (UTC)
+:::My guess is that the things you ahve read correctly say that the axioms determine the natural numbers &quot;''up to isomorphism''&quot;. No set of axioms can ever dictate what the objects of discourse actually ''are'', just how they behave. In any case this is not something that needs to be discussed in this article, for the same reason that it is not discussed in the sources. 
+
+:::Also, if the domain is {0, 2, 4, 6, 8, ...} then when talking about that domain we would still call 2 &quot;1&quot;, and call 4 &quot;2&quot;, and so on. It makes no difference whether S(0) is &quot;really&quot; &quot;1&quot;, we always ''call'' it 1 in the context of that model. This is somewhat humorous and confusing when the domain is {0, 2, 4, ...} but it has no mathematical significance. It's no different than having two people named &quot;President&quot; and &quot;Secretary&quot; and electing &quot;Secretary&quot; as the president and &quot;President&quot; as the secretary. That doesn't mean that the laws are underspecified, because the elected title &quot;president&quot; has nothing to with whether the person is really named &quot;President&quot;... &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 13:39, 30 April 2012 (UTC)
+
+::::Why are you guessing (incorrectly) about what I read?  You needn't explain axiomatics and isomorphism to me; I aced graduate-level advanced algebra classes, probably before you were born.  I have mentioned isomorphism (and labeling) all along, but there is more to my point.  It would be nice if you tried harder to understand what I wrote previously. — [[User:DAGwyn|DAGwyn]] ([[User talk:DAGwyn|talk]]) 23:28, 2 May 2012 (UTC)
+
+---
+
+I suggest that mathematicians approach Russell's mathematics and his attempts to define the numbers with a &quot;unit&quot; with caution. I used Russell's 1919 extensively when I expanded [[Logicism]]; his 1919 is a companion work to PM, and it suffers all the defects of PM. By 1927 (2nd edition of PM) Russell had virtually given up his efforts at &quot;logicising&quot; mathematics. The problems actually appear as early as Russell 1903. And what is at the core of the problems? His definitions of the null class and the unit class. To avoid impredicativity (and therefore a &quot;vicious circle&quot;) of the definition of the unit -- is it to be contained in the unit class too? -- he had to &quot;fictionalize&quot; the notion of class via his &quot;no-class theory&quot; (cf Goedel 1944:119 footnote in ''Russell's mathematical logic'' to be found, with commentary, in ''Kurt Goedel Collected Works Volume II'', Oxford University Press, ISBN-13 978-0-15-514721-c (v. 2.pbk.) ). 
+
+Here's a bit from Goedel -- a difficult paper but very useful analysis of the failure of &quot;logicism&quot;: 
+
+:&quot;Russell adduces two reasons against the extensional view of classes, namely the existence of (1) the null class, which cannot very well be a collection, and (2) the unit classes, which would have to be identical with their single elements. But it seems to me that these arguments could, if anything, at most prove that the null class and the unit classes (as distinct from their only element) are ficitions (introduced to simplify the calculus like the points at infinity in geometry), not that all classes are fictions.
+:&quot;But in Russell the paradoxes had produced a pronounced tendency to build up logic as far as possible without the assumption of the objective existence of such entities as classes and concepts. This lead to the formulation of the aforementioned &quot;no class theory&quot; . . .
+:&quot;This whole scheme of the no-class theory is of great interest as one of the few examples, carried out in detail of the tendency to eliminate assumptions about the existence of objects outside the &quot;data&quot; and to replace them by constructions on the basis of these data&lt;sup&gt;33&lt;/sup&gt; [33 The &quot;data&quot; are to be understood in a relative sense here; i.e., in our case as logic without the assumption of the existence of clases and concepts.] The result has been in this case essentially negative; i.e., the classes and concepts introduced in this way do not have all the properties required for their use in mathematics.&quot; (pages 131-132 in Volume II of ''Collected Works'').
+
+Early in the paper Goedel comments that there's something wrong with mathematical philosophy at a very deep level: &quot;I cannot help feeling that the problem raised by Frege's puzzling conclusion [about the &quot;True&quot;, all True sentences have the same signification, he compares it to the Eleatic doctrince of the &quot;One&quot; etc cf page 122] has only been evaded by Russell's theory of descriptions and that there is something behind it which is not yet completely understood&quot; (p. 123).
+
+Goedel ends with this interesting comment that reinforces his suspicion that something is flawed deep in the foundations:
+:&quot;It seems reasonable to suspect that it is this incomplete understanding of the foundations which is responsible for the fact that mathematical logic has up to now remained so far behind the high expectations of Peano and others . . . For how can one expect to solve mathematical problems systematically by mere analysis of the concepts occurring if our analysis so far does not even suffice to set up the axioms?&quot; (p. 140)
+
+My reading of Goedel is this: because the Peano axioms do not explicitly define &quot;the unit&quot;, they dodge the problem that caused Russell's logicism to crash on the rocks. But this allows the creation of &quot;homomorphic&quot; alternatives such as {0, 2, 4, . . .} etc. If Goedel is correct, only further foundations work will reveal whether this &quot;difficulty&quot; can be resolved so the axioms do indeed yield only the counting numbers as we know them: { 1, 2, 3, . . .}.  Bill [[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 15:41, 30 April 2012 (UTC)
+
+:Thanks for the additional discussion.  Indeed, when I first encountered the &quot;ramified theory of types&quot; I had the impression that the logic had run off the rails, and you've noted additional examples.  Perhaps the root problem is the attempt to ''synthesize'' mathematical systems out of (near-)nothingness (which we may call &quot;floating abstractions&quot;) rather than ''abstracting'' from observables.  It seems to be a matter of epistemology.  — [[User:DAGwyn|DAGwyn]] ([[User talk:DAGwyn|talk]]) 23:28, 2 May 2012 (UTC)
+
+Russell did not believe that the Peano axioms defined what we meant by natural numbers. His explicit statements on the subject in IMT and &quot;The Theory of Relations&quot; (the paper where he presented his more general version of the Frege/Russell definition of number as an extension of the Peano Symbolism to relations) state that he thinks the axioms characterize a set of relations which he refers to as &quot;progressions&quot;. His explicit position is essentially that &quot;The method of postulating what we want has many advantages, they are the same as those of theft over honest toil.&quot;. The fact that {&lt;x,y&gt;| x = y+1} is a progression over N is useful deductively, and thus he and Whitehead utilized the Peano definitions in the same vein as they used the Huntington axioms of set theory.  He explicitly preferred the Frege-Russell definition of number in set theoretic terms, as it provided in addition for those aspects of number which could not be given soley by the assumption that *S( { {} } ) is a progression. Namely, what it means for a brace of pheasants to have the same number as a flock of geese or pack of wolves. The Peano axioms for instance do not allow for a proof that {x},{y}∈1 -&gt; x=y, or for ~(x=y) -&gt; {x}∪{y}∈2. More generally, I think his position might be best summed up as that definition 'up to an isomorphism' (as a special case Peano's definition by abstraction as he would have known it) was insufficient for conceptual analysis, but rather that an analysis of the concept of number must be characterized by a model in the universal science of logic (which would then include set/attribute theory).
+
+In Sum: Russell thinks PA characterizes the set of progressions, not numbers. The fact that the ancestral of {(B,A)| B = {b|(Ex,a)(x∈b &amp; a∈A &amp; b-{x}=a) } is a progression is sufficient to generate many of its interesting properties, but not all of them. Just as the fact that George Bush is from Texas is sufficient to deduce that he is a Redneck, and many of his political positions, but not the fact that he enjoys painting naked portraits of himself. Hence, it would not be sufficient to define George Bush up to an isomorphism as a Texan, but would have to construct a model of him in some theory, where hopefully we can deduce his propensity to choking on peanuts.   &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/138.123.56.208|138.123.56.208]] ([[User talk:138.123.56.208|talk]]) 19:01, 28 February 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:I reverted your edit because for &quot;editorial&quot; reasons, not for factual reasons: The cite of Bertrand Russell is something definitive. You took issue with it, and that's fine, but you had something definitive to work with (&quot;Bertrand Russell&quot;), whereas the vagueness you left on the page will just incite me and others to hang a &quot;who?&quot; tag onto the remaining passive-voice vagueness. Improve the wording? Move your concerns to a footnote? You clearly know what you're talking about, so please make this definitive. We want documented facts. If there aren't any, then no facts are better than mistruths. Bill [[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 23:55, 28 February 2013 (UTC)
+
+Sadly, the reasons for my edit were purely negative, as was the edit itself. I do not know who it was that the original author might have been referring to. Dedekind, Peano, Tarski, and Hilbert all might have been likely suspects, but I simply have not yet encountered any definitive comments by any of these mathematicians on this particular reaction to Peano's axioms. All I do know with certainty is that this was most definitely not the position of Russell by any reasonably interpretation. Hence I removed the factually incorrect attribution (my reasons for not including citation in the article of course are that I have never yet seen citation provided for an omission), and hoped that someone who knew who the &quot;and others&quot; were would replace the vague residuum. All my knowledge in this particular case suffices for is the removal of an error, and regrettably it is currently not capable of furnishing an adequate replacement.
+-Cheers-  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/138.123.84.57|138.123.84.57]] ([[User talk:138.123.84.57|talk]]) 14:04, 8 April 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Dedekind's ''The Nature and Meaning of Numbers'' ==
+That is the title given to Dedekind's ''Was sind und was sollen die Zahlen'' in the &quot;Authorized Translation by Wooster Woodruff Beman, Late Professor of Mathematics, The University of Michigan&quot; in the Dover 1963 &quot;unabridged and unaltered republication of the English translation first published by The Open Court Publishing Company in 1901&quot;. This is corroborated by the paper &quot;Notes on Richard Dedekind’s Was sind und was sollen die Zahlen?&quot; David E. Joyce, Clark University, December 2005:
+
+:&quot;Richard Dedekind (1831–1916) published in 1888 a paper entitled ''Was sind und was sollen die Zahlen?'' variously translated as What are numbers and what should they be? or, as Beman did, The Nature of Meaning of Numbers. Dedekind added a second preface to the second edition in 1893. The second edition was translated into English by Wooster Woodruff Beman in 1901.
+
+:&quot;Much of Dedekind’s terminology and notation as translated by Beman differs from the modern standards, so I offer these notes, using current terminology and notation, to make his work more understandable.&quot; (http://aleph0.clarku.edu/~djoyce/numbers/dedekind.pdf)
+
+I vote for &quot;The Nature and Meaning of Numbers&quot;, with a footnote clarifying and presenting the alternate. The entire Open Court book of two papers can be found on line (at Project Gutenberg). Bill[[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 19:39, 14 August 2012 (UTC)
+:Hmm, I tend to prefer the most literal translation that's actually in wide use.  If Dedekind had wanted that title, he could have written ''Die Natur und die Bedeutung der Zahlen'' or some such (apologies if my German's a little off). --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 19:44, 14 August 2012 (UTC)
+
+It would be interesting to know why Beman came up with what he did: Dedekind was alive and kicking in 1901, and the translation is &quot;authorized&quot; whatever that means. I failed in my efforts to look up the words sind and sollen. Maybe we should reverse the sense of the footnote and say it is also known by the title ''The Nature and Meaning of Numbers'' for example, see the citations in [[Richard Dedekind]]. The reason for the added clarification? Even I was uncertain as to whether or not there was yet another paper by Dedekind published in 1888; the Preface to the first edition is dated 1887, not 1888. You can buy the Dover book (I did), and nowhere except on the back coverpage, very last sentence is the German name mentioned. (There's no introduction by the translator, for instance). So it's very easy to get confused, as I was. Bill[[User:Wvbailey|Wvbailey]] ([[User talk:Wvbailey|talk]]) 20:17, 14 August 2012 (UTC)
+:''sind'' is just the third-person plural present indicative of ''sein'', &quot;to be&quot;.  ''Sollen'' is usually a modal verb, meaning &quot;should&quot; in the sense of &quot;ought to&quot; (''sollen'' is both infinitive and third-person plural; I'm assuming in this case it's the second).  So the weird thing about the title is that there's no main verb to go with ''sollen''.
+:My guess is that that's either because ''sind'' is already there as a main verb, or because you don't really need a main verb if it's ''sein'', but at this point I'm way out of my depth in German and just speculating. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 20:27, 14 August 2012 (UTC)
+
+::the current translation is wrong:
+:::What are numbers and what should they be (German: Was sind und was sollen die Zahlen)
+::better would be &quot;What are numbers and what should they DO&quot;.  --[[User:345Kai|345Kai]] ([[User talk:345Kai|talk]]) 17:06, 11 January 2013 (UTC)
+
+::::I respectfully disagree.  The construction ''was soll X'' without an infinitive complement does not assume the infinitive ''tun''.  [http://woerterbuchnetz.de/DWB/?sigle=DWB&amp;lemid=GS30695&amp;hitlist=&amp;patternlist=&amp;mode=Gliederung Grimm] offers several useful glosses in the article on ''sollen'': ''wozu ist er gut, was ist er wert'', often with the implicit suggestion that X is worth nothing (II 4 b); ''was soll X werden / was soll X sein / was soll X bedeuten'' (II 4 g).  Beman's translation of Dedekind's title is a bit free, yes, but it does a better job of matching the sense of the German than the more literal translations suggested in this talk page, which make the mistake of trying to translate the words one by one, and not the title as a whole.   [[User:C.M.Sperberg-McQueen|C.M.Sperberg-McQueen]] ([[User talk:C.M.Sperberg-McQueen|talk]]) 01:11, 4 October 2013 (UTC)
+
+::::: The direct translation of &quot;Was sind und was sollen die Zahlen&quot; is: &quot;What are and what's the point of the numbers&quot;. In particular, &quot;was sollen die Zahlen&quot; is *not* the same as &quot;was sollen die Zahlen sein&quot;; the latter meaning &quot;what should the numbers be&quot;. And yes, I'm a native German speaker. --[[Special:Contributions/132.199.99.50|132.199.99.50]] ([[User talk:132.199.99.50|talk]]) 09:57, 21 July 2016 (UTC)
+
+== Pointed Unary Systems ==
+
+In the subject section, it seems to me that C should be a category *with terminal object* 1_C, not initial object as stated.  As there is always a unique arrow from an initial object to any specified object, it is not interesting to use such arrows as a way of specifying distinguished &quot;elements&quot;.
+[[Special:Contributions/96.57.52.138|96.57.52.138]] ([[User talk:96.57.52.138|talk]]) 18:28, 24 August 2012 (UTC)
+:I believe you are right, I fixed it.—[[User:EmilJ|Emil]]&amp;nbsp;[[User talk:EmilJ|J.]] 12:55, 27 August 2012 (UTC)
+::The Peano Axioms is few used. At  Analysis is more used the axioms of de real numbers.--[[Special:Contributions/201.240.59.201|201.240.59.201]] ([[User talk:201.240.59.201|talk]]) 23:08, 25 April 2013 (UTC)
+
+== PA&lt;sup&gt;–&lt;/sup&gt; axiom 13 ==
+
+Axiom 13 in the &quot;Equivalent Axiomatization&quot; '''PA&lt;sup&gt;–&lt;/sup&gt;''' states as a consequence of x&lt;y that \exists z. x+z=y. That consequence is also true when x=y. Is there a reason why this axiom is used, rather than the stronger claim that x&lt;y iff \neg\exists z. x=y+z? -- [[Special:Contributions/69.86.161.244|69.86.161.244]] ([[User talk:69.86.161.244|talk]]) 10:59, 5 November 2013 (UTC)
+:You probably meant &quot;the stronger claim ∀x,y∈N. x&lt;y⇔∃z∈N. z≠0 ∧ x+z=y&quot;? I think, this follows from (and is hence equivalent to) axiom 13 in the presence of the other axioms: If x&lt;y, then x+z=y for some z∈N by the weak version of axiom 13; were z=0, then x=x+0=y by axiom 6, contradicting x&lt;y. Conversely, if z≠0 ∧ x+z=y for some z, then 0&lt;z by axiom 15, hence x = 0+x &lt; z+x = y by axiom 11, using also commutativity (ax.2) and identity (ax.6). - [[User:Jochen Burghardt|Jochen Burghardt]] ([[User talk:Jochen Burghardt|talk]]) 12:07, 5 November 2013 (UTC)
+::That's a different definition of &lt; often put forward; but I don't see why the one I stated is not also adequate (taking the relevant quantifiers, with restrictions if the domain might have non-numbers in it, as understood). I supposed that the weaker axiom in the text is equivalent to these stronger ones in the presence of the other axioms, is the reason it's used just that, on its own, it's strictly weaker and in the context of the others, is adequate? --[[Special:Contributions/69.86.161.244|69.86.161.244]] ([[User talk:69.86.161.244|talk]]) 20:33, 9 November 2013 (UTC)
+
+== Talk about domino picture ==
+
+Talk about domino picture see [[Talk:Mathematical_induction#Explain_relation_between_Peano.27s_induction_axiom_and_exclusion_of_nonstandard_models_in_article]].
+
+== Addition and the cartesian product notation ==
+
+I mistakenly made [https://en.wikipedia.org/w/index.php?title=Peano_axioms&amp;oldid=614009050 this edit] yesterday, and looking at the history, I see that I wasn't the first.  That indicates to me that perhaps the notation could use a little more glossing, for the non-technical reader.  I propose this:
+
+&lt;blockquote&gt;
+[[Addition in N|Addition]] is a function which maps a [[Cartesian product]] of ''N'' (a pair of natural numbers) onto another natural number: ''N'' × ''N'' [[Function (mathematics)#Notation|→]] ''N''.  Addition is denoted with the symbol +, and is defined [[recursion|recursively]] as: ...
+&lt;/blockquote&gt;
+
+Is it okay if I make this change?
+- {{u|Klortho}} 21:23, 23 June 2014‎
+
+:(Added your signature and date from the history)
+:I consider it a good idea to improve the text to avoid that tempting mistake; I tried some improvements, but with limited success. However, your suggested text is not quite correct: the function maps a ''member'' of the Cartesian product of ''N'' with itself, i.e. a pair of natural numbers, to another natural number. Anyway, I wonder why nobody ever tried to change &quot;· : N × N → N&quot; in section &quot;Multiplication&quot; to &quot;· : N · N → N&quot;; apparently, there is a psychological fallacy associated with &quot;+&quot; vs. &quot;×&quot;, and the text should aim at it very precisely. Alternatively, we could drop the formal signature notation, and simply write 
+
+&lt;blockquote&gt;
+[[Addition in N|Addition]] is a function mapping two [[natural number]]s to another one; it is defined [[recursively]] as: ...
+&lt;/blockquote&gt;
+
+and similar for the remaining signatures. - [[User:Jochen Burghardt|Jochen Burghardt]] ([[User talk:Jochen Burghardt|talk]]) 20:05, 23 June 2014 (UTC)
+
+: Yes, that's good.  I am a big proponent of simpler language, and I don't see that the mention of Cartesian product adds anything essential, at that point in the article.  I ''thought'' about changing &quot;×&quot; to &quot;·&quot; in the multiplication section, but then realized maybe it should be the &quot;·&quot; that gets changed to &quot;×&quot;, and then balked because I realized I wasn't sure that either was correct. So, when you reverted my edit, I wasn't completely surprised. [[User:Klortho|Klortho]] ([[User talk:Klortho|talk]]) 02:07, 24 June 2014 (UTC)
+
+== Powers in Peano arithmetic. ==
+
+Seeing the recursive definitions of the addition and the multiplication, it is quite natural to ask why there isn't a similar recursive scheme for the power operation a^b (and for the factorial a!). 
+
+The answer is that the theory with + and x has enough expressive power to allow a derivation of those operations (whereas Presburger arithmetic wih + only would be unable to &quot;create&quot; x). More precisely, one can write a first order formula P(a,b,c) (written in the language of PA) equivalent to a^b=c -which means that for any integers a,b there exists an unique integer c such that P(a,b,c) and that the unique c' such that P(a,b+1,c') is bc (and, of course, P(a,1,a) is true).
+It would probably add too much weight to the article to give such a formula P but a reference would be welcome.
+
+Alain Gen  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/176.128.111.170|176.128.111.170]] ([[User talk:176.128.111.170|talk]]) 12:54, 7 October 2015 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:There are two possible theorems you could be looking for.  First, any recursive function is representible in PA (or, in fact in [[Robinson arithmetic]]).  We don't have even:
+::&lt;math&gt; \vdash_{RA}\forall a \forall b \exists !c P(a,b,c);&lt;/math&gt;
+:but we do have
+::&lt;math&gt; \forall a,b,c \in \mathbb N \vdash_{RA} (P(S^a 0, S^b 0, S^c 0)  \leftrightarrow (a^b = c) )&lt;/math&gt;
+:The other theorem relates to implementation of [[recursion (computer science)|recursion]] in PA; essentially, in this context, given a &quot;function&quot; f(a,b,c) [= a c, in this case] and a function g(a) [= a], one can construct a formula P, such that
+::&lt;math&gt;\vdash_{PA}\forall a \forall b \exists!c P(a,b,c)&lt;/math&gt;
+::&lt;math&gt;\vdash_{PA}\forall a \forall c g(a) = c \rightarrow P(a,1,c) \leftrightarrow  &lt;/math&gt;
+::&lt;math&gt;\vdash_{PA}\forall a \forall b \forall c P(a,b,c) \rightarrow P(a,b+1,f(a,b,c)) &lt;/math&gt;
+:That is, a function h such that
+::&lt;math&gt;h(a,1) = g(a)&lt;/math&gt;
+::&lt;math&gt;h(a,b+1) = f(a,b,h(a,b))&lt;/math&gt;
+: This is of the form
+:: &lt;math&gt;h(1) = g(a)&lt;/math&gt;
+:: &lt;math&gt;h(n+1)= f(a,n,h(n))&lt;/math&gt;
+: In PA, one can construct (and prove) the existence of a pairing function, &lt;math&gt;F: \mathbb N \times \mathbb N \overset{\underset{\text{1-1}}{}}{\mapsto} \mathbb N&lt;/math&gt;, and then a sequencing function, &lt;math&gt;H: \mathbb N \overset{\underset{\text{onto}}{}}{\mapsto} \mathbb N^{&lt;\mathbb N}&lt;/math&gt;, with the length and all coordinate functions definable.
+:It follows then that you can do simple recursion using the induction axiom; given a &quot;function&quot; H (n, &quot;F&quot;), which depends only on the values of F on arguments less than n, you can construct (and prove, in PA) a function F consistent with that, so that F(n) = H(n, F).  I don't know how to express that simply, but that might be what you're looking for.  :We have to be careful, because the induction step in [[Goodstein's theorem]] is definable in PA.  — [[User:Arthur Rubin|Arthur Rubin]]  [[User talk:Arthur Rubin|(talk)]] 16:55, 8 October 2015 (UTC)
+
+Thank you for your answer. I had in mind the second statement, concerning the implementation of recursion. The fact that primitive recursive functions can be implemented in PA (with a reference to the article detailing Gödel's trick ) would be welcome, especially for the curious reader who would want to compare PA with primitive recursive arthmetic.
+
+Alain Gen, 10 October 2015  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/176.128.111.170|176.128.111.170]] ([[User talk:176.128.111.170|talk]]) 13:41, 11 October 2015 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:See the recursive definition of exponentiation in my posting, &quot;The Modern Version of Peano's Axioms.&quot; It can't be original to me, though I can't find a source.
+
+:Exponentiation is just repeated multiplication. We have:
+
+::&lt;math&gt;x^2 = x\cdot x&lt;/math&gt;
+
+::&lt;math&gt;x^3 = x\cdot x \cdot x&lt;/math&gt;
+
+::&lt;math&gt;x^4 = x\cdot x \cdot x \cdot x&lt;/math&gt;
+
+:::&lt;math&gt;\vdots&lt;/math&gt;
+
+::&lt;math&gt;x^{S(n)} = x^n\cdot x&lt;/math&gt; for &lt;math&gt;n\geq 2
+&lt;/math&gt;
+:::&lt;math&gt;\vdots&lt;/math&gt;
+
+::There are infinitely many binary functions on ''all'' of &lt;math&gt;\mathbb{N}&lt;/math&gt; that satisfy the above conditions and the definitions of addition and multiplicataion, but they differ ''only'' on the value of &lt;math&gt;0^0&lt;/math&gt;.
+
+::--[[User:Danchristensen|Danchristensen]] ([[User talk:Danchristensen|talk]]) 01:40, 22 March 2016 (UTC)
+:::Dan, exponentiation is not part of the language of Peano arithmetic.  I see no particular need to mention it in this article.  It might be worth mentioning that it's definable, I suppose.  But we don't need to go into details. --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 04:29, 22 March 2016 (UTC)
+
+== Link to number theory misleading? ==
+
+The synopsis links to [[Number theory]], but that page’s synopsis describes number theory in the sense of integers, prime numbers etc. While this can certainly build on peano arithmetic, I’d argue that it _not_ what is meant in the sentence “including research into fundamental questions of whether number theory is consistent and complete.” Should the link simply be dropped, or maybe “number theory” replaced by something else? --[[User:Nomeata|Nomeata]] ([[User talk:Nomeata|talk]]) 21:20, 11 October 2015 (UTC)
+
+== The modern version of Peano's Axioms ==
+
+With the formalization of logic and set theory since Peano first published his axioms for the natural numbers in 1889, his axioms or the natural numbers have been reduced today to just five. Today, the axioms of equality are found in the rules of logic (e.g. FOL). Addition, multiplication and exponentiation can also be constructed using the Cartesian product, subset and function rules/axioms from set theory, so their definitions, too, are now separate from Peano's Axioms. 
+
+We have &lt;math&gt;(\mathbb{N}, S, 0)&lt;/math&gt; such that:
+
+1. &lt;math&gt;0\in \mathbb{N}&lt;/math&gt;
+
+2. &lt;math&gt;S: \mathbb{N} \to \mathbb{N}&lt;/math&gt;
+
+3. &lt;math&gt;S&lt;/math&gt; is injective
+
+4. &lt;math&gt;\forall x\in \mathbb{N}: S(x)\neq 0&lt;/math&gt;
+
+5. &lt;math&gt;\forall P\subseteq \mathbb{N}: [0\in P \land \forall x\in P:S(x)\in P \rightarrow P=\mathbb{N}]
+&lt;/math&gt;
+
+Sources: [http://www.britannica.com/topic/Peano-axioms Britannica], [http://mathworld.wolfram.com/PeanosAxioms.html Wolfram]
+
+
+==== Addition ====
+
+1. &lt;math&gt;\forall x\in \mathbb{N}:[x+0=x]&lt;/math&gt;
+
+2. &lt;math&gt;\forall x,y \in \mathbb{N}: [x+S(y)=S(x+y)]&lt;/math&gt;
+
+==== Multiplication ====
+
+1. &lt;math&gt;\forall x\in \mathbb{N}:[x\cdot 0=0]&lt;/math&gt;
+
+2. &lt;math&gt;\forall x,y \in \mathbb{N}: [ x\cdot S(y)=x\cdot y + x]&lt;/math&gt;
+
+==== Exponentiation ====
+
+1. &lt;math&gt;\forall x\in \mathbb{N}:[x\neq 0\rightarrow x^0=1]&lt;/math&gt;
+
+2. &lt;math&gt;0^1 = 0&lt;/math&gt;
+
+3. &lt;math&gt;\forall x, y \in \mathbb{N}: [x^{S(y)}=x^y\cdot x]&lt;/math&gt; 
+
+--[[User:Danchristensen|Danchristensen]] ([[User talk:Danchristensen|talk]]) 22:14, 21 March 2016 (UTC)
+::Dan, what is your purpose for posting this here?  Are you suggesting incorporating this into the article? --[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 23:31, 21 March 2016 (UTC)
+
+:::Yes. Incredibly, the article makes no mention of what seems to be the most widely used version of Peano's Axioms today. It is a MAJOR oversight.
+:::--[[User:Danchristensen|Danchristensen]] ([[User talk:Danchristensen|talk]]) 00:55, 22 March 2016 (UTC)
+::::I'm not too excited about what particular formulation we use.  I think exponentiation should be left out; it's not essential, just one of many functions you can define. -[[User:Trovatore|Trovatore]] ([[User talk:Trovatore|talk]]) 04:33, 22 March 2016 (UTC)
+
+:Those axioms are already in the article (apart from exponentiation, which is not usually included in axiomatizations of arithmetic). For the first five, your #1 is Peano's #1; your #2 is Peano's #6; your #3 is Peano's #7; your #4 is Peano's #8; your #5 is Peano's #9. So these are not a &quot;modern version&quot;; they are just Peano's original axioms. For the later ones. we have sections on &quot;Addition&quot; and &quot;Multiplication&quot; which discuss those. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 11:28, 21 July 2016 (UTC)
+
+== Peanos Original Formulation ==
+It seems that peano first only considered the positive integers, i.e. N+&lt;br&gt;
+and formulated his axioms with one instead of zero. See Page 55 here:  
+
+Hubert Kennedy, Life and Works of Giuseppe Peano, 2002&lt;br&gt;
+http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.201.8126
+
+This is much better expressed in the German wiki about Peano axioms,&lt;br&gt;  
+there we find a better introduction to the axioms:&lt;br&gt;
+https://de.wikipedia.org/wiki/Peano-Axiome#Urspr.C3.BCngliche_Formalisierung&lt;br&gt;  
+Peano betrachtete ursprünglich 1 als kleinste natürliche Zahl.
+[[User:Janburse|Jan Burse]] ([[User talk:Janburse|talk]]) 18:07, 7 October 2016 (UTC)
+
+:Yes, Peano did start with 1 instead of 0. The German wikipedia also seems to start with 0 instead of 1, as does this article, with an explanation. Peano's axioms included axioms not stated in the German wikipedia or the article mentioned above. There is a much more direct version of Peano's original article in ''From Frege to Gödel'', or see page XVII of [https://archive.org/details/arithmeticespri00peangoog] for the full list of 9 axioms. It is common in modern treatments to omit several of Peano's axioms which are now viewed as rules of logic, but this is anachronistic if we are trying to describe Peano's original axioms. &amp;mdash;&amp;nbsp;Carl &lt;small&gt;([[User:CBM|CBM]]&amp;nbsp;·&amp;nbsp;[[User talk:CBM|talk]])&lt;/small&gt; 00:02, 8 October 2016 (UTC)</text>
+      <sha1>l5pflvyk7afei7xsiesbr4kmt1sxr6j</sha1>
+    </revision>
+  </page>
+</mediawiki>

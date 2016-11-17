@@ -1,0 +1,111 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Adoption</title>
+    <ns>1</ns>
+    <id>83468</id>
+    <revision>
+      <id>742655854</id>
+      <parentid>742578780</parentid>
+      <timestamp>2016-10-05T00:18:58Z</timestamp>
+      <contributor>
+        <username>Lowercase sigmabot III</username>
+        <id>17518500</id>
+      </contributor>
+      <minor/>
+      <comment>Archiving 2 discussion(s) to [[Talk:Adoption/Archive 3]]) (bot</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4510">{{Vital article|level=4|topic=Life|class=B}}
+{{WP_AFOD |class=B |importance=Top}}
+{{Archive box| auto=yes |search=yes}}
+{{User:MiszaBot/config
+|archiveheader = {{aan}}
+|maxarchivesize = 100K
+|counter = 3
+|minthreadsleft = 5
+|algo = old(90d)
+|archive = Talk:Adoption/Archive %(counter)d
+}}
+
+==Archiving==
+I've moved the former archive 1 to archive 2, consolidated the former topical archives into what is now archive 1, and set up automated archiving. '''[[User:Graham87|Graham]]'''&lt;font color=&quot;green&quot;&gt;[[User talk:Graham87|87]]&lt;/font&gt; 09:12, 4 June 2014 (UTC)
+
+== New edits on Development ==
+
+I currently am involved in a Global Youth Studies and have been given the opportunity to edit the Adoption page, and therefore decided to update the development subsection. Although, after editing, I have run into some citing issues. I was wondering if someone could help me with these citing issues? 
+
+[[User:Cales23|Cales23]] ([[User talk:Cales23|talk]]) 16:14, 20 November 2014 (UTC)
+
+== Proposed merge with [[Relative outcomes of parenting by biological and adoptive parents]] ==
+
+There is already similar information in a section in the main article, would be better to move it to [[Adoption#Development of adoptees]] {{nowrap|'''[[User:RA0808|&lt;span style=&quot;color:red&quot;&gt;RA&lt;/span&gt;&lt;span style=&quot;background-color:red;color:white;&quot;&gt;0808&lt;/span&gt;]]''' [[User talk:RA0808|&lt;sup&gt;talk&lt;/sup&gt;]][[Special:Contributions/RA0808|&lt;sub&gt;contribs&lt;/sub&gt;]]}} 20:43, 12 August 2015 (UTC)
+:The topics aren't a 100% overlap because the &quot;development of adoptees&quot; section isn't specifically about development of adoptees as compared to non-adoptees. [[User:Threeomp|Threeomp]] ([[User talk:Threeomp|talk]]) 17:20, 13 August 2015 (UTC)
+
+== Adopting one's biological child ==
+
+In some jurisdications and circumsatnces it may be or have once been possible to legally adopt one's biological child.
+# In the UK ([http://www.publications.parliament.uk/pa/cm200001/cmselect/cmadopt/431/431iv30.htm until] the [http://www.legislation.gov.uk/ukpga/2002/38/contents Adoption and Children Act 2002]) and Ireland ([http://www.irishtimes.com/news/ireland/irish-news/change-sought-to-anomaly-in-adoption-law-1.1848049 currently] pending the [http://www.oireachtas.ie/viewdoc.asp?DocID=31838&amp;&amp;CatID=59 Adoption (Amendment) Bill 2016]) stepparent adoption required/s the birth parent to jointly adopt along with the stepparent.
+# In the UK ([http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1117842/ until] the [http://www.legislation.gov.uk/ukpga/1990/37/contents Human Fertilisation and Embryology Act 1990]) IVF parents had to adopt their child 
+# I'm not certain, but I believe that in Ireland (prior to the [http://www.irishstatutebook.ie/eli/1964/act/7/enacted/en/print.html Guardianship of Infants Act, 1964]) if an unmarried mother married the child's father, he would have to adopt the child to acquire guardianship, even though [[Legitimacy (family law)|legitimation]] would apply automatically per the [http://www.irishstatutebook.ie/eli/1931/act/13/section/1/enacted/en/html#sec1 Legitimacy Act, 1931].
+[[User:Jnestorius|jnestorius]]&lt;sup&gt;([[User talk:Jnestorius|talk]])&lt;/sup&gt; 12:10, 17 May 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:2|one external link|2 external links}} on [[Adoption]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=742578777 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20090111063708/http://www.statistics.gov.uk/CCI/nugget.asp?ID=592&amp;Pos=1&amp;ColRank=2&amp;Rank=384 to http://www.statistics.gov.uk/CCI/nugget.asp?ID=592&amp;Pos=1&amp;ColRank=2&amp;Rank=384
+*Added archive https://web.archive.org/web/20060926180012/http://www.acf.hhs.gov/programs/cb/stats_research/afcars/tar/report1/ar0199.htm to http://www.acf.hhs.gov/programs/cb/stats_research/afcars/trends.htm
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:InternetArchiveBot|'''&lt;span style=&quot;color:darkgrey;font-family:monospace&quot;&gt;InternetArchiveBot&lt;/span&gt;''']] &lt;span style=&quot;color:green;font-family:Rockwell&quot;&gt;([[User talk:InternetArchiveBot|Report bug]])&lt;/span&gt; 14:50, 4 October 2016 (UTC)</text>
+      <sha1>9mso49k5jufos6kqq5ozw3njt3peugo</sha1>
+    </revision>
+  </page>
+</mediawiki>

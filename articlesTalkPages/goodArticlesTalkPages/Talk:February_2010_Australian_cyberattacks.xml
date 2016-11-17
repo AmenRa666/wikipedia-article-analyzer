@@ -1,0 +1,110 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:February 2010 Australian cyberattacks</title>
+    <ns>1</ns>
+    <id>26193474</id>
+    <revision>
+      <id>555171940</id>
+      <parentid>466319651</parentid>
+      <timestamp>2013-05-15T05:35:48Z</timestamp>
+      <contributor>
+        <username>BattyBot</username>
+        <id>15996738</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:AWB/GF#Talk page general fixes|Talk page general fixes]] &amp; other cleanup using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5220">{{WikiProjectBannerShell|1=
+{{WikiProject Australia|class=GA|importance=Low|politics=yes}}
+{{WikiProject Internet culture|class=GA|importance=}}
+{{WikiProject Pornography|class=GA|importance=Low}}
+}}{{ArticleHistory
+|action1=AFD
+|action1date=18:49, 7 August 2010
+|action1link=Wikipedia:Articles for deletion/Operation Titstorm 
+|action1result=speedy keep
+|action1oldid=377257864
+
+|action2=GAN
+|action2date=03:44, 1 March 2011
+|action2link=Talk:Operation Titstorm/GA1
+|action2result=failed
+|action2oldid=416184732
+
+|action3=GAN
+|action3date=09:19, 2 March 2011
+|action3link=Talk:Operation Titstorm/GA2
+|action3result=listed
+|action3oldid=416708485
+|topic=Engtech
+
+|currentstatus=GA
+}}
+
+== Some incorrect information? ==
+
+I just read this article and it didn't seem to be that accurate or informative. For example, it lists what the proposed censor will block but doesn't refer to statements by government spokespeople where they have said it will &quot;block illegal content&quot; which naturally includes nearly half of the internet if Australian law is to be taken seriously. This has even been tested through requesting websites with merely illegal information, rather then illegal videos or pictures be added to the block list. Given sedition (advocating a change in government) and anonymous political comments are illegal to varying degrees in Australia, huge portions of the internet may end up blocked. Additionally, citing the source that says the Parliament website was only offline for 50 minutes gives an impression of a failed attack, while later in the article, it says there were varying estimates. I personally checked the Parliament website a full day after the attack started and it was still down. I believe they cycled their attacks. I'm not completely sure though. Maybe individual sites were down intermittently over a long period of time?--[[User:Senor Freebie|Senor Freebie]] ([[User talk:Senor Freebie|talk]]) 02:05, 15 February 2010 (UTC)
+:Feel free to grab it yourself in the future. Added &quot;illegal&quot; back in and &quot;at one time&quot; since that 50 mins got tons of coverage.[[User:Cptnono|Cptnono]] ([[User talk:Cptnono|talk]]) 04:14, 15 February 2010 (UTC)
+: There are other inaccurate depictions in the article. Ziff Davis claims thatthe title '''Operation Titstorm''' was changed to '''Operation FreeWebs''' due to adverse reaction to the DDoS attacks. That is mistaken. Titstorm was the first phase, FreeWebs was &quot;planned,&quot; for wont of a better word, at the same time Titstorm was, with every intention of laying out multiple phases of human rights and civil rights advocacy. [[User:Damotclese|Damotclese]] ([[User talk:Damotclese|talk]]) 20:32, 29 August 2011 (UTC)
+::It was not &quot;changed&quot; if you read the article and the sources. What you call a &quot;better word&quot; was actually discussed in sources. So go read the sources or go away. [[User:Cptnono|Cptnono]] ([[User talk:Cptnono|talk]]) 06:29, 30 August 2011 (UTC)
+
+== Can we haz mention ==
+It would be nice to also mention that &quot;Anonymous&quot; managed to successfully fight neo-Nazis online for additional background in to the collective's history. [[User:Damotclese|Fredric Rice]] ([[User talk:Damotclese|talk]]) 16:10, 15 February 2010 (UTC)
+:How does that relate to this article?--[[User:Senor Freebie|Senor Freebie]] ([[User talk:Senor Freebie|talk]]) 01:57, 16 February 2010 (UTC)
+:Operation Titstorm was launched by the collective called &quot;Anonymous.&quot; Obviously. [[User:Damotclese|Fredric Rice]] ([[User talk:Damotclese|talk]]) 17:44, 17 February 2010 (UTC)
+::We shouldn't stray too far from the main subject (this protest/attack) but the other stuff was in the related overage and seemed worthy of notice. There is an Anonymous article for in-depth info of other stuff.[[User:Cptnono|Cptnono]] ([[User talk:Cptnono|talk]]) 14:34, 19 February 2010 (UTC)
+::: I can certainly agree with that. After all, Anonymous' efforts to smack down neo-Nazis is already well covered elsewhere.[[User:Damotclese|Damotclese]] ([[User talk:Damotclese|talk]]) 20:34, 29 August 2011 (UTC)
+
+There is a redirect on Project Freeweb, Operation Titstorm was part of that activity.  The Redirection is straying from the purpose of the article.  Its not cool to use Wikipedia or any other article to promote groups however much we might agree with them (even though governments and companies do it all the friggin time).  However, in this case its directly relevant to Project Freeweb, that is the purpose of the article, The redirect to an arbitarily restrictive subject is censorship.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Tantaluman|Tantaluman]] ([[User talk:Tantaluman|talk]] • [[Special:Contributions/Tantaluman|contribs]]) 21:48, 20 February 2010 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+:You say &quot;censorship&quot; I say lack of coverage and you failing to do it yourself. Project Freeweb might meet the criteria for its own article. There has been little news coverage so that will need to be addressed if you wish to split it off.[[User:Cptnono|Cptnono]] ([[User talk:Cptnono|talk]]) 21:53, 20 February 2010 (UTC)
+
+{{Talk:Operation Titstorm/GA1}}
+{{Talk:Operation Titstorm/GA2}}</text>
+      <sha1>swc2fk6d1wyblqyd75n11sb6gxrlkx5</sha1>
+    </revision>
+  </page>
+</mediawiki>

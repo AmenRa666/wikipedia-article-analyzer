@@ -1,0 +1,262 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Architecture</title>
+    <ns>1</ns>
+    <id>903379</id>
+    <revision>
+      <id>745052114</id>
+      <parentid>744762980</parentid>
+      <timestamp>2016-10-19T01:07:24Z</timestamp>
+      <contributor>
+        <username>Lowercase sigmabot III</username>
+        <id>17518500</id>
+      </contributor>
+      <minor/>
+      <comment>Archiving 1 discussion(s) to [[Talk:Architecture/Archive 1]]) (bot</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23452">{{Talk header|search=yes}}
+{{Vital article|topic=Art|level=2|class=C}}
+{{Notice|{{find}}}}
+{{WikiProjectBannerShell|collapsed=yes|1=
+{{WikiProject Spoken Wikipedia|En-Architecture.ogg}}
+{{WikiProject Architecture|class=C|importance=top|attention=yes}}
+}}
+{{Press
+ | subject = article
+ | author=Joseph Matta, Jr.
+ | title=My View: Proposal for new County Government Center is sound
+ | org=[[Times-Herald Record]]
+ | url=http://www.recordonline.com/apps/pbcs.dll/article?AID=/20110404/OPINION/104040301/-1/OPINION04
+ | date=2011-04-01
+ | quote=The theory and purpose of architecture has evolved over time. The Wikipedia entry on architecture states that, according to the first-century Roman architect Vitruvius, a good building should satisfy these three principles:
+
+* Durability — It should stand up robustly and remain in good condition.
+* Utility — It should be useful and function well for the people using it.
+* Beauty — It should delight people and raise their spirits.
+
+I believe those principles should serve as the foundation of any building. 
+ | accessdate= 2011-04-08 
+}}
+{{WP1.0|v0.5=pass|class=C|category=Arts|core=yes|VA=yes|WPCD=yes}}
+{{Outline of knowledge coverage|architecture}}
+
+{{Auto archiving notice|bot=MiszaBot I|age=90|dounreplied=yes}}
+{{User:HBC Archive Indexerbot/OptIn
+|target=Talk:Architecture/Archive index
+|mask=Talk:Architecture/Archive &lt;#&gt;
+|leading_zeros=0
+|indexhere=yes}}{{User:MiszaBot/config
+|archiveheader = {{aan}}
+|maxarchivesize = 200K
+|counter = 1
+|minthreadsleft = 10
+|minthreadstoarchive = 1
+|algo = old(90d)
+|archive = Talk:Architecture/Archive %(counter)d
+}}
+
+== Lead image ==
+
+[[File:Il Duomo Florence Italy.JPG|thumb]]
+I kept quiet last time this was discussed - but - the cross section is a great drawing but this is an appalling low-resolution version, and the photo of Il Duomo is a nice view but again appallingly poor quality. I fully agree the building is appropriate but it really ought to be a decent image. Therefore I am nominating this, easily the best available, as a single lead image (with the same caption). Shall I try it and see what the reaction is? [[User:ProfDEH|ProfDEH]] ([[User talk:ProfDEH|talk]]) 19:33, 7 January 2014 (UTC)
+
+:{{Pro}}! I'm all for integrating a better quality photo and this one is pretty decent. Do it. -- [[User:Horst-schlaemma|Horst-schlaemma]] ([[User talk:Horst-schlaemma|talk]]) 22:08, 7 January 2014 (UTC)
+*'''Wait''' Since you realise this can be contentious, I would suggest to allow more time for discussion before rushing to change it. While I am fully for high quality, I generally prefer a daylight image. Also as less than 1% of readers would click on the image, is quite important how it looks at the size it is shown in the article. And at that scale I would say the proposed night image has a less good composition, with the two towers on the left distractingly positioned, and nasty shadows from the bottom-up light on the dome. --&lt;small&gt;[[User:Elekhh|ELEKHH]]&lt;sup&gt;[[User talk:Elekhh|T]]&lt;/sup&gt;&lt;/small&gt; 22:30, 7 January 2014 (UTC)
+
+Well it's indeed hard to find a proper daylight image of the Duomo, while that night view is pretty good.
+Some daylight views that could be considered imho:
+&lt;gallery&gt;
+File:Florence 2009 - 0952.jpg
+File:Santa Maria del Fiore - 0968.jpg
+File:Firenze - Veduta dal Piazzale Michelangelo.jpg
+File:Santa Maria del Fiore Florence.JPG
+File:Cupola duomo 2011.jpg
+File:Roofs Duomo Campanile Florence.jpg
+File:11 FI view1.JPG
+File:Duomosq.jpg
+File:Duomo di firenze, view.JPG
+File:Florence - Duomo sunset.jpg
+&lt;/gallery&gt;
+-- Cheers [[User:Horst-schlaemma|Horst-schlaemma]] ([[User talk:Horst-schlaemma|talk]]) 14:17, 8 January 2014 (UTC)
+
+I think we want the same view - the second image would be uncontentious? But also I think the cross section drawing should go, sadly - there are some nice versions on the web but nothing copyright-free that I can find. [[User:ProfDEH|ProfDEH]] ([[User talk:ProfDEH|talk]]) 15:03, 8 January 2014 (UTC) 
+
+:'''Response''' 
+:NOTE: This is about the '''dome''' of Florence Cathedral.  It isn't about Florence Cathedral (il Duomo) as a whole, but Brunelleschi's dome, most specifically. However, it is about the dome ''in context'': in the context of both the building it enhances and the city, not to mention the landscape.
+
+:The pictures were selected as a pair with the following criteria,
+:#The dome of Florence Cathedral revolutionisde architecture as a science and a discipline.  It marks the beginning point of the modern practice of architecture. 
+:#The structured method and oversight of it  actual process of construction was revolutionary. 
+:#While great cathedrals were always seen as &quot;belonging to the city&quot;, they were often built by itinerant workers. This was not the case. The process of construction this building was planned from a civic position that united the city directly through its workers. 
+:#Visually, it was planned to dominate not only the little red-roofed houses, but the basin of the Arno Valley in which it sits. It represents a supreme piece of town-planning and landscape planning.  
+
+:* The purpose of the drawing, whether it is high resolution or not, is to illustrate the role of the architect.  It would be nice to have a higher quality image that served the same purpose. However, deleting the image, simply because tit doesn't look good when you magnify it, is not appropriate. For the purpose of heading up this article (which is not about architectural drawing) the image, in combination with the second image, is serving its purpose effectively. 
+:The matter of the drawing has previously been under discussion, and the paired images were considered as one of the most pertinent combinations of images in the lead of any article on Wkipedia. I agree with this, having considered all possibilities in choosing them. 
+:However, I am in agreement to change the view of the dome for one of higher resolution, if it fits the other criteria.
+
+:*But what do your other images say? 
+::The first proposed image is about floodlighting. It isn't about architecture. It is a lousy picture of the dome, because the brightest light is on the side of the building.  This emphasis in the caption is not on &quot;great cathedral as an example of architecture&quot;.  It is about a ''particular architectural project&quot; (the building of the dome) that revolutionised architecture. 
+::The first image in the gallery isn't really about the dome. 
+::The second image in the gallery is a misty day, but otherwise is a good option, as it fits with the caption, which emphasises the role of the dome on both the building and in the context of the city. 
+::The next pic is too blue and over coloured- looks as if it has had the colour digitally upped. None of the other pictures relate to the caption. 
+::Remember that this is about the whole concept of architecture, not just a famous building. 
+::I would be happy to go with pic number 2 in the gallery. 
+
+:[[User:Amandajm|Amandajm]] ([[User talk:Amandajm|talk]]) 06:59, 9 January 2014 (UTC)
+
+The floodlit image is clearer but yes, the second image is the only real option and it's much better than the current image (although it could be better). I think it should be the lead image with the section below? You'd expect the lead image to be one of the best on the subject. 
+
+Of course [http://counterlightsrantsandblather1.blogspot.co.uk/2009/11/renaissance-saint-peters-michelangelo.html this] (scroll down to the 13th image) is the drawing I'd really like to see here, but who knows what the copyright status of that image might be. [[User:ProfDEH|ProfDEH]] ([[User talk:ProfDEH|talk]]) 10:44, 9 January 2014 (UTC)
+:The drawing is by [[Cigoli]] (1559-1613). His work is PD, with plenty already on [https://commons.wikimedia.org/wiki/Category:Cigoli Commons]. -&lt;small&gt;[[User:Elekhh|ELEKHH]]&lt;sup&gt;[[User talk:Elekhh|T]]&lt;/sup&gt;&lt;/small&gt; 13:20, 9 January 2014 (UTC) 
+::Thanks for your input [[User:Elekhh|ELEKHH]]. Are you happy with the change to the suggested photo? Re the layout, At present it works better with the plan above the photo, simply because of the respective widths of the images. On a normal computer screen, the narrow photo sits beside the text, while the wide image fills the space beneath it, next to the Table of Contents. [[User:Amandajm|Amandajm]] ([[User talk:Amandajm|talk]]) 13:47, 9 January 2014 (UTC)
+:::Fully agree with your comment above. If any, than the second image from the gallery is best, with the drawback that there is slightly less emphasis on the silhouette, but the advantage of providing much more detail when one clicks on it (placed them below for comparison again). Hope one day the &quot;Wiki Loves Monuments&quot; competition will focus more on getting useful images of highly notable buildings, rather than poor images of obscure local heritage.--&lt;small&gt;[[User:Elekhh|ELEKHH]]&lt;sup&gt;[[User talk:Elekhh|T]]&lt;/sup&gt;&lt;/small&gt; 14:30, 9 January 2014 (UTC)
+
+:Well, we could approach some flickr photographers if they're willing to upload better stuff.
+:Anyway, I think we should limit ourself to just 1 lead picture. The role of the architect can perfectly be explained beneath the photo, it doesn't need the additional drawing. That can be discussed in the concept section. Cheers [[User:Horst-schlaemma|Horst-schlaemma]] ([[User talk:Horst-schlaemma|talk]]) 17:37, 9 January 2014 (UTC)
+::I rather think sections and plans are particularly good to illustrate what architecture is about (i.e. not simply facades, but interior space, structure, etc.), and we rather lack architectural drawings in articles. --&lt;small&gt;[[User:Elekhh|ELEKHH]]&lt;sup&gt;[[User talk:Elekhh|T]]&lt;/sup&gt;&lt;/small&gt; 22:43, 9 January 2014 (UTC)
+:That I agree with. But still, this article is perfectly fine with one proper lead image. The pics shouldn't distract too much from the intro text itself. We can have drawings in the following sections for sure. Cheers [[User:Horst-schlaemma|Horst-schlaemma]] ([[User talk:Horst-schlaemma|talk]]) 23:14, 9 January 2014 (UTC) 
+::[[User:Horst-schlaemma|Horst-schlaemma]], The plan isn't a distraction. It complements the larger image. It is about the science and processes of architecture.  The larger image is the end result, and what it achieves.  Together the images give the big picture.  It is conceptual, not merely illustrative of &quot;a famous building&quot;.  We cannot ignore this comment:
+::''These two pics have stood for years and to my mind, were one of the best lead pic choices in all of wikipedia. With no clear consensus to change, they should be restored immediately.'' -(cut and pasted from comment by [[User:Merbabu]]  10:35, 24 February 2013 (UTC))
+::[[User:Amandajm|Amandajm]] ([[User talk:Amandajm|talk]]) 01:20, 10 January 2014 (UTC)
+
+This could be done for any scientific topic then, I don't think that leads us anywhere. But I won't bother too much. All the best, [[User:Horst-schlaemma|Horst-schlaemma]] ([[User talk:Horst-schlaemma|talk]]) 11:08, 10 January 2014 (UTC)
+
+I remain totally unconvinced that the first image should be a fuzzy drawing (with dodgy copyright status). I might try to upload the Cigoli drawing, not sure what the PD hurdles will be though. I suppose nobody is going to object to using that. [[User:ProfDEH|ProfDEH]] ([[User talk:ProfDEH|talk]]) 13:41, 10 January 2014 (UTC)
+
+OK more images for consideration: [[User:ProfDEH|ProfDEH]] ([[User talk:ProfDEH|talk]]) 17:05, 10 January 2014 (UTC)
+{{multiple image
+ | align     = center | direction = horizontal 
+ | image1    = Brunelleshi-and-Duomo-of-Florence.gif | width1 = 185 | caption1  = Current image
+ | image2    = Cigoli drawing of El Duomo Florence.jpg | width2 = 195 | caption2  = Alt1
+ | image3    = Florence dome drawing.jpg | width3 = 218 | caption3  = Alt2 
+ | image4    = Florence dome Cigoli drawing colour corrected.jpg | width4 = 220 | caption4=  Cigoli drawing with the yellow colour cast removed= Alt2 
+ }}
+
+:Moved them in a row for better comparison. I like both Alts. --&lt;small&gt;[[User:Elekhh|ELEKHH]]&lt;sup&gt;[[User talk:Elekhh|T]]&lt;/sup&gt;&lt;/small&gt; 00:34, 11 January 2014 (UTC) 
+
+::I have tried five possible combinations of the images. My preference is Option 5 which puts the colour adjusted version of the coloured drawing underneath the larger one. Note that sizes have been adjusted so that the dome appears similar in scale.  The colours go well in the two images (the yellow one is jarring.) The drawing is sufficiently clear at thumb. The sizing of the drawing at thumbnail sits well above the drawings in the text. Please run through the options and comment. [[User:Amandajm|Amandajm]] ([[User talk:Amandajm|talk]]) 02:31, 11 January 2014 (UTC)
+
+We may as well compare the other images too, although B does look good on the page. I prefer the whole drawing to the details and agree it looks best at the top.
+{{multiple image
+ | align     = center | direction = horizontal 
+ | image1    = Duomo Firenze.jpg | width1    = 320 | caption1  = A
+ | image2    = Santa Maria del Fiore - 0968.jpg | width2    = 300 | caption2  = B
+ | image3    = View of Santa Maria del Fiore in Florence.jpg | width3    = 300 | caption3  = C
+ }}
+I uploaded a copy of B by mistake, so View of Santa Maria del Fiore.jpg needs deleting from Commons. That is what is currently on the page, I will replace with Santa Maria del Fiore - 0968.jpg. [[User:ProfDEH|ProfDEH]] ([[User talk:ProfDEH|talk]]) 11:18, 11 January 2014 (UTC) 
+
+:C is a great image. It is very clear. [[User:Amandajm|Amandajm]] ([[User talk:Amandajm|talk]]) 12:17, 11 January 2014 (UTC)
+::Indeed, C is what I've been looking for. Thanks! -- Cheers [[User:Horst-schlaemma|Horst-schlaemma]] ([[User talk:Horst-schlaemma|talk]]) 12:43, 11 January 2014 (UTC)
+:::C is nice, but has a Non-Commercial license, so it will be deleted soon. Hence my earlier clumsy revert to B.--&lt;small&gt;[[User:Elekhh|ELEKHH]]&lt;sup&gt;[[User talk:Elekhh|T]]&lt;/sup&gt;&lt;/small&gt; 12:58, 11 January 2014 (UTC)
+
+::::Where was C coming from? Link? It's deleted already. :( No matter of the license, I liked the shot. -- [[User:Horst-schlaemma|Horst-schlaemma]] ([[User talk:Horst-schlaemma|talk]]) 14:35, 11 January 2014 (UTC)
+
+I believe the image has now been allocated the correct licence on Flickr, but I don't have time to upload it again right now. It's  [http://www.flickr.com/photos/bruciestokes/9717210565/ here]. [[User:ProfDEH|ProfDEH]] ([[User talk:ProfDEH|talk]]) 18:58, 11 January 2014 (UTC)
+:Given that the license on flickr is now ok, I requested it to be simply undeleted on Commons, so now is back with the same file name, and also visible above. Thanks ProfDEH for facilitating the release of this image under a wiki-suitable license. In terms of layout I am happy with Amandajm's [https://en.wikipedia.org/w/index.php?title=Architecture&amp;oldid=590164959 option 5], but now we can use C instead of B. --&lt;small&gt;[[User:Elekhh|ELEKHH]]&lt;sup&gt;[[User talk:Elekhh|T]]&lt;/sup&gt;&lt;/small&gt; 22:49, 12 January 2014 (UTC) 
+::The picture is magnificent.  I have made the changes to Option 5 and fixed the captions in accordance. [[User:Amandajm|Amandajm]] ([[User talk:Amandajm|talk]]) 01:00, 13 January 2014 (UTC)
+
+The colours go well together but this cropped version of the monochrome image is 800x800, much better resolution at full size. Not sure which I prefer, thought it was worth trying.
+[[File:Cigoli, Florence Dome cropped.jpg|thumb|Cigoli's drawing of Brunelleschi's Santa Maria del Fiore (Florence Cathedral): cropped to show the dome]]
+[[User:ProfDEH|ProfDEH]] ([[User talk:ProfDEH|talk]]) 13:19, 13 January 2014 (UTC)
+
+:Since Cigoli did it in colour, I think that the image ought to be reproduced in colour. Otherwise I would feel obliged to note in the caption that this was a black and white image of a coloured drawing, which is superfluous. The resolution is less significant than truth to the original. However, in an article in which we were discussing the finer points of the dome's construction, the higher resolution would be preferred. That isn't the case here.  [[User:Amandajm|Amandajm]] ([[User talk:Amandajm|talk]]) 23:45, 13 January 2014 (UTC)
+
+== Vandalism: &quot;LOLOLOLOL&quot;  before Intoduction ==
+
+There's a &quot;LOLOLOLOL&quot; between &quot;Further information&quot; and the beginning of the article. It's clearly a vandalism, but I don't know how to remove it! It doesn't appear in the Edit page. Could any one fix it?
+(Sorry, I'm new here! Maybe it's simple to do, but I don't know).
+--[[Special:Contributions/179.236.172.161|179.236.172.161]] ([[User talk:179.236.172.161|talk]]) 17:37, 16 January 2014 (UTC)Cecília Resende
+:A bot reverted the vandalism and it appears to have stayed in the cache for a while in vandalized form. It should be OK now, though you might have to clear your cache for it to appear correctly. '''&lt;font face=&quot;Arial&quot;&gt;[[User:Acroterion|&lt;font color=&quot;black&quot;&gt;Acroterion&lt;/font&gt;]] &lt;small&gt;[[User talk:Acroterion|&lt;font color=&quot;gray&quot;&gt;(talk)&lt;/font&gt;]]&lt;/small&gt;&lt;/font&gt;''' 18:00, 16 January 2014 (UTC)
+
+== List of architects ==
+
+A great list of key figures in architecture here (although not a definitive one obviously):
+http://www.theguardian.com/cities/2014/jan/27/abc-of-architects-buildings-andrea-stinga-federico-gonzalez
+[[User:ProfDEH|ProfDEH]] ([[User talk:ProfDEH|talk]]) 18:31, 27 January 2014 (UTC)
+
+== Lack of neutrality ==
+
+The concluding paragraph of the final section is not neutral and is exactly the same as the final paragraph of the article on postmodern architecture.  It sounds like it was added by an advocate of New Urbanism.  A copy and paste job.  Furthermore it is poorly written and has awkward syntax.  The link is broken for the article it cites.
+
+&quot;Concurrently, the recent movements of New Urbanism and New Classical Architecture promote a sustainable approach towards construction, that appreciates and develops smart growth, architectural tradition and classical design.[16][17] This in contrast to modernist and globally uniform architecture, as well as leaning against solitary housing estates and suburban sprawl.[18]&quot;  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/107.15.67.55|107.15.67.55]] ([[User talk:107.15.67.55|talk]]) 12:03, 16 July 2014 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Indian ==
+
+I have a problem with the sub topic of &quot;Indian Architecture&quot; and using the picture of the taj mahal which was designed and erected by Persian architects specifically brought to delhi by the king to carry out the building. To note is that the title says Indian but then the first sentence says Islamic. Its entirely confusing. you show persian, you title indian, but you talk about islamic.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Emesghali|Emesghali]] ([[User talk:Emesghali|talk]] • [[Special:Contributions/Emesghali|contribs]]) 21:54, 27 November 2014 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Architecting ==
+
+After some thought I decided to revert a new paragraph added to the introduction.  It duplicated the general definitions of architecture that are already there, and used the work 'architecting' which to my certain knowledge is never used in architecutr and possibly nowhere else. Software architecture is a wide field as the DAB page shows, and a link to that is quite enough coverage of what is a completely unrelated subject. [[User:ProfDEH|ProfDEH]] ([[User talk:ProfDEH|talk]]) 13:54, 8 February 2015 (UTC)
+
+==Off topic and pov material==
+An editor has been adding the following, initially into the lead (which I removed) and now into the body of the article: ''&quot;Although some regions have maintained their infrastructure to appear antiqued, other regions such as [[Dubai]] have developed a pretension for futuristic architecture&quot;.'' This content is very off-topic for a general article on architecture. It is also highly pov and culture specific, grounded in Islamic obsession about what it means to be &quot;modern&quot;: is Venice to be labeled &quot;antiqued&quot; because it is a mostly medieval and Renaissance city that is preserved as such? Would Venice be &quot;futuristic architecture&quot; if it were entirely demolished and replaced by lagoon skyscrapers? [[User:Tiptoethrutheminefield|Tiptoethrutheminefield]] ([[User talk:Tiptoethrutheminefield|talk]]) 15:21, 18 May 2015 (UTC)
+
+==comment==
+i do not agree with more than king's done architecture in history becase all modern buildings are not architecture and this means this architecture buildings have to fit in correct way to inside living people and not to working people or it fits correct to art people to different music halls or under the architecture law done buildings but new buildings are politics buildings and have no chance to be architecture and new means in most cases build behind ' 1924 ' included  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Waldemar Gregor Kaiser|Waldemar Gregor Kaiser]] ([[User talk:Waldemar Gregor Kaiser|talk]] • [[Special:Contributions/Waldemar Gregor Kaiser|contribs]]) 13:49, 28 May 2015 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Architecture-Opinion on the wiki page. ==
+
+Wikipedia allows for different kind of point of views to deliver unbiased information from a plethora of sources. I wanted to research architecture on Wikipedia in order to find different perspectives. The article allows for a brief overview of many different historical beginnings of architecture. The article also contained external links to other places for more in depth research which is very helpful. I was left satisfied with everything provided on this Wikipedia page.  &lt;!-- Template:Unsigned IP --&gt;&lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/209.51.93.170|209.51.93.170]] ([[User talk:209.51.93.170#top|talk]]) 02:21, 4 October 2016 (UTC)&lt;/small&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:3|one external link|3 external links}} on [[Architecture]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=744762976 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20130401072804/http://brunelleschi.imss.fi.it:80/itineraries/place/TheDomeOfSantaMariaFiore.html to http://brunelleschi.imss.fi.it/itineraries/place/TheDomeOfSantaMariaFiore.html
+*Added archive https://web.archive.org/web/20110721200353/http://www.gov.ns.ca/legislature/legc/bills/60th_1st/3rd_read/b115.htm to http://www.gov.ns.ca/legislature/legc/bills/60th_1st/3rd_read/b115.htm
+*Added archive https://web.archive.org/web/20150508072810/http://www.aia.org/ to http://www.aia.org
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:InternetArchiveBot|'''&lt;span style=&quot;color:darkgrey;font-family:monospace&quot;&gt;InternetArchiveBot&lt;/span&gt;''']] &lt;span style=&quot;color:green;font-family:Rockwell&quot;&gt;([[User talk:InternetArchiveBot|Report bug]])&lt;/span&gt; 08:22, 17 October 2016 (UTC)</text>
+      <sha1>3qcsm41ya2157lixn45gzas7n370sm0</sha1>
+    </revision>
+  </page>
+</mediawiki>

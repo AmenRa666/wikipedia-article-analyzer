@@ -1,0 +1,125 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Monroe Edwards</title>
+    <ns>1</ns>
+    <id>44932368</id>
+    <revision>
+      <id>710432487</id>
+      <parentid>708942438</parentid>
+      <timestamp>2016-03-16T23:10:20Z</timestamp>
+      <contributor>
+        <username>FACBot</username>
+        <id>22689343</id>
+      </contributor>
+      <comment>Promoting 'Monroe Edwards' to Featured Article status</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5560">{{ArticleHistory
+|currentstatus=FA
+
+|dykdate=20 January 2015
+|dykentry= ... that the 19th century forger and swindler '''[[Monroe Edwards]]''' once used forged letters to get money from [[John Spencer, Viscount Althorp|Lord Spencer]], but later repaid the nobleman with funds obtained from a later fraud?
+
+|action1=GAN
+|action1date=20:21, 1 April 2015 (UTC)
+|action1link=Talk:Monroe Edwards/GA1
+|action1result=listed
+|action1oldid=654542905
+
+|action2=FAC
+|action2date=2016-03-16
+|action2link=Wikipedia:Featured article candidates/Monroe Edwards/archive1
+|action2result=promoted
+|action2oldid=709549750
+}}
+
+
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|listas=Edward, Monroe|living=no|class=FA}}
+{{WikiProject United States|class=FA|importance=low|KY=yes|KY-importance=low|TX=yes|TX-importance=low}}
+{{WikiProject Criminal Biography|class=FA|importance=mid}}
+}}
+
+
+==DYK nom==
+[[Template:Did you know nominations/Monroe Edwards]] [[User:Ealdgyth|Ealdgyth]] - [[User talk:Ealdgyth|Talk]] 14:58, 3 January 2015 (UTC)
+
+{{Talk:Monroe Edwards/GA1}}
+
+== Quick comments ==
+
+*In the lead and in the body, I think you might want to make it clear that when Edwards moved to Texas it was a part of Mexico.  You could link to [[Mexican Texas]] and/or give a brief note that at the time it was part of Mexico.
+*Would it be useful to mention that slavery was banned in Mexico in 1832, and that the practice of using indentured blacks vs slaves was a factor in the revolution? (historical context for his actions)
+Overall, really interesting and well-done. [[User:Karanacs|Karanacs]] ([[User talk:Karanacs|talk]]) 14:51, 30 April 2015 (UTC)
+: The first won't be an issue to do (except finding the time) but the second - I don't have the general purpose works on Texas history to cover that - do you have a good sentence and source in mind? (Yes, I lived in Texas for a long time and ... never bought a book on Texas history. I really get bored with most non-equine history past the Reformation...) [[User:Ealdgyth|Ealdgyth]] - [[User talk:Ealdgyth|Talk]] 16:13, 30 April 2015 (UTC)
+::I can get you a sentence and source tomorrow, if that's okay. [[User:Karanacs|Karanacs]] ([[User talk:Karanacs|talk]]) 16:20, 30 April 2015 (UTC)
+
+
+Sincere apologies on forgetting to get this to you last week.  This is from {{Citation|last=Lack|first=Paul D.|title=The Texas Revolutionary Experience: A Political and Social History 1835&amp;ndash;1836|publisher=Texas A&amp;M University Press|location=College Station, TX|date=1992|isbn=0-89096-497-1}}, p 4.  ([[Talk:Texas_Revolution/Lack|notes here]]).
+
+I'm positive you can make it sound better than my attempt: 
+:Texas was a [[Mexican Texas|Mexican border province]].  In 1829, Mexico had abolished the importation of slaves, but gave Texas an exemption from emancipating any slaves already in the territory.  To circumvent the ban on importing more slaves, slave traders instead reclassified them as indentured servants with 99-year contracts.  The Mexican government cracked down on this practice in 1832, limiting terms of indenture to a maximum of ten years.
+[[User:Karanacs|Karanacs]] ([[User talk:Karanacs|talk]]) 19:50, 6 May 2015 (UTC)
+
+==More quick comments==
+I've had a quick look. Here are a few quick impressions:
+*The word &quot;swindle&quot; is used four times in the fairly brief  lead. You might vary this a little 
+*It's a bit misleading to say he was &quot;convicted partly because of his good looks&quot;, as this suggests that his appearance was part of his crime. It's properly explained in the text (his good looks helped witnessess to remember him), but I would rephrase in the lead, perhaps to: &quot;convicted partly because witnesses remembered his good looks&quot;, or some such. 
+*Early life section: &quot;Around 1822, Edwards was sent to New Orleans to learn business from a Mr. Morgan, a merchant there, but in 1823 Edwards' father moved to Galveston Island. By the late 1820s Morgan set up a trading post on San Jacinto Bay near Galveston.&quot; I am a great believer in spare prose, but these two sentences are terse to the extent of concealing their purpose. OK up to &quot;a merchant there&quot;, but a slightly fuller explanation is required of what then happened.
+*You have included a number of present-day values. Opinions vary on the usefulness of these comparisons, with me firmly in the sceptics camp. Everyone knows generally that pounds and dollars had much more purchasing power then than they have now – do they need to know more? If the figures are used, however, it should be recognised that there are different formulae in use that give different results, and that none of these can claim to be absolutely accurate. So it is better to give rounded estimates rather than spuriously accurate-sounding figures, especially when you say  &quot;''more than'' $44,000 (equivalent to $635,100 in 2015&quot; – an approximation cannot be converted to a precise figure. Thus:
+:*£250 = about £20,000
+:*$20,000 = about $450,000
+:*$25,000 = about $570,000
+:*more than $44,000 = about $650,000
+
+:Of course, some readers will wonder why, if $25,000 is equivalent to $570,000, an amount of $44,000 isn't worth nearly a million. That's another  problem with these formulae – they grind out figures with no explanation. Another reason for ditching the figures. 
+* In the short second paragraph of the &quot;Final scheme&quot; section, the name &quot;Edwards&quot; occurs six times. More use of pronouns, and a little rephrasing, would read better.
+
+Otherwise all looks neat and tidy. [[User:Brianboulton|Brianboulton]] ([[User talk:Brianboulton|talk]]) 14:45, 24 September 2015 (UTC)</text>
+      <sha1>nz6b8om3gxun4l1crtlv2kkhgp2nt9f</sha1>
+    </revision>
+  </page>
+</mediawiki>

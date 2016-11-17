@@ -1,0 +1,129 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Roekiah</title>
+    <ns>1</ns>
+    <id>36710338</id>
+    <revision>
+      <id>722038637</id>
+      <parentid>613016702</parentid>
+      <timestamp>2016-05-25T16:01:23Z</timestamp>
+      <contributor>
+        <username>Editør</username>
+        <id>13777740</id>
+      </contributor>
+      <comment>+header +project</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6644">{{Talk header}}
+{{ArticleHistory
+|action1=GAN
+|action1date=01:25, 9 September 2012
+|action1link=Talk:Roekiah/GA1
+|action1result=listed
+|action1oldid=511465654
+
+|action2=PR
+|action2date=17:08, 2 January 2014
+|action2link=Wikipedia:Peer review/Roekiah/archive1
+|action2result=reviewed
+|action2oldid= 588792606
+
+|dykdate=26 August 2012
+|dykentry=... that '''[[Roekiah]]''' and [[Rd Mochtar]] were the first celebrity couple in the [[Dutch East Indies]], despite Roekiah being married?
+
+|action3=FAC
+|action3date=10:01, 12 January 2014
+|action3link=Wikipedia:Featured article candidates/Roekiah/archive1
+|action3result=promoted
+|action3oldid=590342387
+|currentstatus=FA
+|maindate=May 5, 2014
+|topic=film
+|four=yes
+}}
+{{WikiProject banner shell|1=
+ {{WikiProject Biography|living=no|class=FA|listas=Roekiah|filmbio-work-group=yes|filmbio-priority=low}}
+ {{WikiProject Indonesia|class=FA|importance=low}}
+ {{WikiProject Netherlands|class=FA|dyk=yes}}
+}}
+
+{{Talk:Roekiah/GA1}}
+
+== ''Gagak Item / Gagak Hitam'' ==
+
+Just to let you know that I have changed a link from ''Gagam Hitam'' to ''Gagak Item'', since the latter is the predominant spelling; besides, the former spelling produces a red link.
+
+;Sources using ''Gagak Item''
+*{{cite news |title=Gagak Item |language=Dutch |url=http://kranten.kb.nl/view/article/id/ddd%3A011123023%3Ampeg21%3Ap003%3Aa0061 |work=Bataviaasch Nieuwsblad |location=Batavia |page=3 |date=19 December 1939 |publisher=Kolff &amp; Co. |accessdate=8 March 2013}}
+*{{cite news |title=(untitled) |language=Dutch |url=http://kranten.kb.nl/view/article/id/ddd%3A011123023%3Ampeg21%3Ap008%3Aa0088 |work=Bataviaasch Nieuwsblad |location=Batavia |page=8 |date=19 December 1939 |publisher=Kolff &amp; Co. |accessdate=8 March 2013}}
+*{{cite news |title=Filmaankondiging Cinema Palace: 'Gagak Item' |trans_title=Film Review, Cinema Palace: 'Gagak Item' |language=Dutch |url=http://kranten.kb.nl/view/article/id/ddd%3A011123019%3Ampeg21%3Ap012%3Aa0235 |work=Bataviaasch Nieuwsblad |location=Batavia |page=12 |date=21 December 1939 |publisher=Kolff &amp; Co. |accessdate=8 March 2013}}
+*{{cite news |title=(untitled) |language=Dutch |url=http://kranten.kb.nl/view/article/id/ddd%3A011121422%3Ampeg21%3Ap003%3Aa0035 |work=Soerabaijasch Handelsblad |location=Surabaya |page=3 |date=28 March 1940 |publisher=Kolff &amp; Co. |accessdate=8 March 2013}}
+*{{cite book |url=http://books.google.ca/books?hl=es&amp;id=sl92GYNaKJIC&amp;q=Roekiah#v=snippet&amp;q=Roekiah&amp;f=false |title=A to Z About Indonesian Film |language=Indonesian |isbn=978-979-752-367-1 |last=Imanjaya |first=Ekky  |publisher=Mizan |location=Bandung |year=2006 |page=111 |accessdate=8 March 2013}}
+*{{cite web |title=Kartolo |language=Indonesian |url=http://filmindonesia.or.id/movie/name/nmp4b99bf67c6f00_Kartolo |work=filmindonesia.or.id |publisher=Konfidan Foundation |accessdate=8 March 2013 |archivedate=22 September 2012 |archiveurl=http://www.webcitation.org/6ArwWAJBi |deadurl=no}}
+*{{cite web |title=Gagak Item |url=http://filmindonesia.or.id/movie/title/lf-g009-39-831646_gagak-item/credit |work=filmindonesia.or.id |publisher=Konfiden Foundation |location=Jakarta |accessdate=8 March 2013 |archiveurl=http://www.webcitation.org/6ErSEzrWF |archivedate=4 March 2013 |language=Indonesian |deadurl=no}}
+*{{cite web |title=Roekiah |url=http://www.imdb.com/name/nm4333044/ |work=[[Internet Movie Database]] |publisher=[[Amazon.com]] |accessdate=8 March 2013}}
+
+;Sources using ''Gagak Hitam''
+*{{cite web |url=http://filmindonesia.or.id/movie/name/nmp4b99beeb5c938_Roekiah |title=Roekiah |language=Indonesian |work=filmindonesia.or.id |publisher=Konfidan Foundation |accessdate=8 March 2013 |archivedate=13 August 2012 |archiveurl=http://www.webcitation.org/69snPEjny |deadurl=no}}
+*{{cite web |url=http://www.tamanismailmarzuki.com/tokoh/roekiah.html |title=Roekiah |language=Indonesian |publisher=[[Taman Ismail Marzuki]] |accessdate=8 March 2013 |archivedate=13 August 2012 |archiveurl=http://www.webcitation.org/69ssRGpll}}
+
+Note that the earliest sources, in Dutch, use ''Gagak Item''. [[User:Nite-Sirk|Nite-Sirk]] ([[User talk:Nite-Sirk|talk]]) 18:30, 8 March 2013 (UTC)
+*D'oh! Should have double checked the spelling. Thanks for catching that.&amp;nbsp;—&amp;nbsp;[[User:Crisco 1492|Crisco 1492]] ([[User talk:Crisco 1492|talk]]) 04:04, 9 March 2013 (UTC)
+:*(Particularly embarrassing as I wrote both...)&amp;nbsp;—&amp;nbsp;[[User:Crisco 1492|Crisco 1492]] ([[User talk:Crisco 1492|talk]]) 04:06, 9 March 2013 (UTC)
+
+== Nationality ==
+
+The article says she was an &quot;Indonesian kroncong singer and film actress&quot;. Wouldn't it be better to call her an Indian (I'm not that good at English, doesn't Indian only mean native American) singer? It was only until 1949 that Indonesia got acknowledged as a country. [[User:FeyBart|FeyBart]] ([[User talk:FeyBart|talk]]) 19:28, 5 May 2014 (UTC)
+
+: I should explain: these days, if you say someone is &quot;Indian&quot;, that means they are from [[India]]. As you may already know, when Christopher Columbus discovered what we now call the West Indies (part of the &quot;New World&quot;), he believed it was part of India, and therefore he thought that the inhabitants were Indians. The name &quot;Indian&quot; kind of stuck after that, which is why for man years the natives of the Americas were called Indians, even though of course they weren't actually from India. These days we say &quot;Native Americans&quot; or &quot;Amerindians&quot;. And this lady is from [[Bandung]], [[West Java]]. That was then part of what was known as the &quot;[[Dutch East Indies]]&quot; and what we would now call [[Indonesia]]. Actually &quot;Indonesia&quot; is a name which actually goes as far back as 1850. I think we have to call this lady Indonesian in the introduction for clarity. Immediately after the intro comes the biography which explains exactly where she was born. [[User:Invertzoo|Invertzoo]] ([[User talk:Invertzoo|talk]]) 21:02, 5 May 2014 (UTC)
+:*Thanks, Invertzoo. That's what I was going for.&amp;nbsp;—&amp;nbsp;[[User:Crisco 1492|Crisco 1492]] ([[User talk:Crisco 1492|talk]]) 00:24, 6 May 2014 (UTC)
+
+While we're on the subject of &quot;Indonesian&quot;, there was an addition to the IB to add that as her ethnicity, I'm not sure Indonesian classifies as an ethnicity, but thought I'd leave it to those with a better grasp to make the call. - [[User:SchroCat|SchroCat]] ([[User talk:SchroCat|talk]]) 05:58, 6 May 2014 (UTC)
+*Sorry I missed this. No, definitely a no go. Her ethnicity was mixed Sundanese and Malay. Indonesian was her nationality for the x months she lived past the proclamation (if we go with the 1945 independence date)&amp;nbsp;—&amp;nbsp;[[User:Crisco 1492|Crisco 1492]] ([[User talk:Crisco 1492|talk]]) 14:27, 15 June 2014 (UTC)</text>
+      <sha1>nyhy7qapny1v4yy3zfgtz9h1ymkja14</sha1>
+    </revision>
+  </page>
+</mediawiki>

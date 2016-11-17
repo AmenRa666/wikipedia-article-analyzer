@@ -1,0 +1,126 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Freedom of Worship (painting)</title>
+    <ns>1</ns>
+    <id>16900851</id>
+    <revision>
+      <id>740023351</id>
+      <parentid>711722145</parentid>
+      <timestamp>2016-09-18T16:09:09Z</timestamp>
+      <contributor>
+        <username>Prof.fink</username>
+        <id>7872235</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3359">{{Talk header}}
+{{Article history
+| action1       = GAN
+| action1date   = 03:54, 6 January 2014 (UTC)
+| action1link   = /GA1
+| action1result = listed
+| action1oldid  = 589393962
+|maindate= 6 January 2016
+
+| action2       = FAC
+| action2date   = 09:27, 12 July 2014 (UTC)
+| action2link   =Wikipedia:Featured article candidates/Freedom of Worship (painting)/archive1
+| action2result = promoted
+| action2oldid  = 615813900
+
+|action3=GTC
+|action3date=00:41, 13 July 2014 (UTC)
+|action3link=Wikipedia:Featured topic candidates/Four Freedoms/archive1
+|action3result=promoted
+
+|ftname=Four Freedoms
+|four=yes
+
+| currentstatus = FA
+| itndate       = 
+| dykdate       = 18 April 2008
+| dykentry      = ...that although [[Norman Rockwell]] felt '''''[[Freedom of Speech (painting)|Freedom of Speech]]''''' and '''''[[Freedom to Worship (painting)|Freedom to Worship]]''''' were the most successful of his ''[[Four Freedoms (Norman Rockwell)|Four Freedoms]]'' [[painting]] series, '''''[[Freedom from Want (painting)|Freedom from Want]]''''' has had the most enduring success?
+| topic         = Art and architecture
+| small         = 
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Holidays|class=FA|importance=mid}}
+{{WikiProject Human rights|class=FA|importance=mid}}
+{{WikiProject Media|class=FA|importance=mid}}
+{{WPReligion|class=FA|importance=mid}}}}
+{{Visual arts|class=FA}}
+}}
+
+{{Talk:Freedom of Worship (painting)/GA1}}
+
+== Possible bad link ==
+
+The section &quot;Critical review&quot; says:
+
+:Laura Claridge has written that the inspirational phrase &quot;Each according to the dictates of his own conscience&quot; is a &quot;platitude that suggests the plurality of Rockwell's own thoughts on religion: its likely source was a phrase included in the Thirteen Articles of Faith by Joseph Smith.&quot;[20] In fact, Rockwell repeatedly asked colleagues about possible sources of the quote and was not told about Smith's writing until after the series was published.[24] 
+
+The phrase &quot;Thirteen Articles of Faith&quot; currently links to the article 
+&quot;Jewish principles of faith&quot; https://en.wikipedia.org/wiki/Jewish_principles_of_faith , while the name &quot;Joseph Smith&quot; links to the founder of the Mormon religion.
+
+I suspect that we need to make &quot;Thirteen Articles of Faith&quot; link to a different article.
+
+-[[Special:Contributions/179.210.2.157|179.210.2.157]] ([[User talk:179.210.2.157|talk]]) 05:35, 6 January 2016 (UTC)
+
+==Intolerance==
+Towards the end the article says &quot;Critical review of the painting shows that some practitioners of particular faiths are disappointed by the acceptance of all faiths expressed in Freedom of Religion.&quot; Can this be clarified? It sounds like it's saying some people disapprove of the notion of religious tolerance, which seems controversial enough for further explanation. [[User:Brutannica|Brutannica]] ([[User talk:Brutannica|talk]]) 17:53, 6 January 2016 (UTC)
+
+
+==Questions from a guy from germany==
+
+Hi, 
+I'm just curious if anybody would agree that the guy above the woman with the rosary beads in the painting (the one that's holding his right hand to the chin) may represent an atheist? To me he looks as if he's in doubt to worship any kind of god.
+Besides that: where is the black person in the barbershop-painting? Can't find him.
+Thanks and regards from germany
+[[User:Prof.fink|Prof.fink]] ([[User talk:Prof.fink|talk]]) 16:08, 18 September 2016 (UTC)</text>
+      <sha1>0vd773gu6dum6qxo8r70rghjw2z9yl9</sha1>
+    </revision>
+  </page>
+</mediawiki>

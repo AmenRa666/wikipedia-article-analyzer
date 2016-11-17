@@ -1,0 +1,143 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:LANSA Flight 502</title>
+    <ns>1</ns>
+    <id>6946217</id>
+    <revision>
+      <id>730998579</id>
+      <parentid>556415911</parentid>
+      <timestamp>2016-07-22T07:04:20Z</timestamp>
+      <contributor>
+        <ip>58.110.96.92</ip>
+      </contributor>
+      <comment>Some sources say that the sole survivor was a passenger and not the co-pilot.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12296">{{WikiProjectBannerShell|1=
+{{WikiProject Disaster management}}
+{{WikiProject Aviation|class=GA|Accident-task-force=yes}}
+{{WikiProject Peru|class=GA|importance=low}}
+}}{{ArticleHistory
+|action1=GAN
+|action1date=00:50, 21 September 2006
+|action1result=listed
+|action1oldid=76897490
+
+|action2=GAR
+|action2date=22 June 2009
+|action2link=Talk:LANSA Flight 502/GA1
+|action2result=listed
+|action2oldid=297176637
+
+|currentstatus=GA
+|topic=Engtech
+}}
+
+==Good Article==
+
+I have passed this one even though it seems at first glance rather thin because, looking at what's out there, the article creators have used just about every source they could for an event 36 years in the past. It passes in the sense that it's almost as good as it's probably going to get and is regretfully too short to be a serious FA candidate.
+
+I would improve it a bit by changing things like &quot;Buffalo, NY&quot; to &quot;Buffalo, New York&quot; per [[WP:MoS|Wikipedia's style guidelines]], and adding some other categories this might fall into (I found a couple that I'll do already). [[User:Daniel Case|Daniel Case]] 13:32, 24 September 2006 (UTC)
+:Thanks for the vote and the advice. I'll try my best to keep improving it. This is my first GA ever - it is much appreciated! [[User:Crum375|Crum375]] 15:27, 24 September 2006 (UTC)
+
+==Photo links==
+There are a couple of issues in these external photo links.&lt;br&gt;
+First, there are 2 separate ones. The 'simplication' edit eliminated one, and I think both are important to get a good feel of the rising terrain (which is at the heart of this accident).&lt;br&gt;
+Second, this photo site has a peculiarity (probably intentional) that requires the user to click on the full image link (ads and all) to refresh the cache. Unless you first refresh your cache, you cannot see the clean image. My compromise solution for now is to alert the reader to this effect, which allows the reader to refresh the cache and have access to the clean image(s) for a few days (depending on the browser cache settings), after first clicking on the full image link. This may not be ideal, but it does allow the reader to enjoy the clean image. If someone can think of another way to achieve this goal, please advise.&lt;br&gt;
+Thanks, [[User:Crum375|Crum375]] 15:27, 24 September 2006 (UTC)
+
+: All other Wikipedia articles that link to Airliners.net do it with the appropriate URL, that looks like &lt;code&gt;&lt;nowiki&gt;http://www.airliners.net/open.file/1058793/M&lt;/nowiki&gt;&lt;/code&gt;. Any other link that looks different than that, or that links directly to the JPG will not load properly, because Airliners.Net will think that you are trying to do remote linking. Most websites are now preventing remote linking, by replacing the image with their logo or something else if it detects it is being loaded from another website. I removed one of the images because without the airplane above the runway, the view of the field elevation is better. If you want to reinstate it, be my guest, but please use the appropriate Airliners.Net URL. -- [[User:Airodyssey|AirOdyssey]] ([[User talk:Airodyssey|Talk]]) 20:00, 15 October 2006 (UTC)
+
+::I am copying here my response to you on your Talk page:
+
+::The instructions that you removed explain to the reader how to refresh his/her cache to enable the display of the single jpeg image which is much cleaner/nicer. All you need to do is follow the instructions: you preload the cache once by clicking on the provided right hand link, then you can view the associated jpeg image for several days from your cache by clicking on the left hand link. This is a technique I use throughout my articles. By removing the instructions you disabled that feature.
+::As far as the choice of having 2 separate images, I sifted for a long time through many images, trying to illusrate what a pilot would see taking off to the west. The ones I chose seemed to me to show it best, each one in its own way - the issue is the runway environment and the terrain ahead, not the airplane. By removing one of them you removed a nice view of the rising terrain. Please, before you remove an image like that in the future, or disable a feature, use the Discussion page. You can make a comment or suggestion there (here) , and I would be glad to respond. Thanks, [[User:Crum375|Crum375]] 20:09, 15 October 2006 (UTC)
+
+:::Please keep in mind I was trying to make a constructive edit, while removing the clutter and keeping in line with the other Wikipedia articles. Did you look at other Wikipedia articles giving Airliners.Net links?
+:::*[[Gol Transportes Aéreos Flight 1907#External links]]
+:::*[[JAT Flight 364#External links]]
+:::*[[TWA Flight 553#External links]]
+:::*[[United Airlines Flight 173#External links]]
+:::One thing is &quot;to look nice&quot;, another one is to give justice to the photographer by showing an image with the appropriate credits, while having a better viewer experience, by not having to make one extra click to view a photo. -- [[User:Airodyssey|AirOdyssey]] ([[User talk:Airodyssey|Talk]]) 20:21, 15 October 2006 (UTC)
+::::Again copying my response from your Talk page:
+
+::::Thank you for trying to be constructive. In this case, however, there are many articles that I can cite that use my cache-refreshing technique. The advantage is that you get to see a clear picture without clutter, which helps you focus on the content and message of the picture. In addition, if you looked carefully you would have noticed that the URL that you mention '''is''' included, that is in fact the 'right hand URL', which you need to click on once to prime/refresh your cache, and where you can get the info about the photo, the photographer details etc. It is the left hand link that gives you the clear image, and this is the one you removed. Please discuss these types of changes prior to reversion/removal. Thanks, [[User:Crum375|Crum375]] 20:28, 15 October 2006 (UTC)
+:::::After looking at the discussion, I find myself agreeing with Crum375. Having a greater number of pictures is looked upon favorably, and as there is currently only one picture, having two pictures improves the page. [[User:KazakhPol|KazakhPol]] 21:16, 15 October 2006 (UTC)
+
+::::::What about the Airliners.Net way of linking? -- [[User:Airodyssey|AirOdyssey]] ([[User talk:Airodyssey|Talk]]) 21:24, 15 October 2006 (UTC)
+
+If we're going to link to external pictures (and whether we should link to those two is a whole different kettle of fish) it's only courtesy that we follow their convention for linking to the page. There's also an issue of ease of use - I personally haven't been able to get either of them to display the image on its own; I fear that they'll just confuse people who would otherwise miss out on the photo, even if it does have adverts etc. round it. As a kludge, there's always the risk that it'll be broken, and stop working. If we link using the correct technique, there's an implicit undertaking from Airliners.net that they'll keep it working. Once you're at the page itself, those who wish to open the image in a new window on its own can do so easily enough. Anyway, I'm sure if the photographer felt that having the photo embedded in a page destroyed it, they'd find some other way to display it. --[[User:Scott Wilson|Scott Wilson]] 21:29, 15 October 2006 (UTC)
+
+:In order to avoid confusion for viewers (including myself when I first read this page), I'm considering removing the &quot;cache detour&quot; links (pointing to the JPG file), only to keep the actual Airliners.Net links as described before (&lt;nowiki&gt;http://www.airliners.net/open.file/1058793/M&lt;/nowiki&gt;) However, I will retain both pictures. Does that sound fair for everyone? -- [[User:Airodyssey|AirOdyssey]] ([[User talk:Airodyssey|Talk]]) 21:42, 15 October 2006 (UTC)
+
+::I see no problem in having both the 'embedded' link, where the image is embedded in the page and refreshes the cache as a side effect, ''as well as'' the 'standalone' link, where the image is viewed cleanly without clutter. The standalone image is available for several days (I believe it depends on the local cache setting) of quick retrieval and uncluttered viewing, whereas the embedded image, with detailed info about the image, is available as long as the host maintains it. Removing the standalone version would rob readers from being able to focus on a clean uncluttered image. When I look closely at image details, seeing the background clutter (which is often  brightly colored and animated) is a major distraction.  I see no reason to disable this option. [[User:Crum375|Crum375]] 22:07, 15 October 2006 (UTC)
+
+
+::::I am a member of the Airliners.net Customer Support team, and a user has recently brought this issue to our attention. Our official policy on use of images can be viewed [http://www.airliners.net/usephotos here]. If I can be of any further help, please do not hesitate to email me at chachu201@airliners.net  --[[User:Chachu207|Chachu207]] ::: [[User talk:Chachu207|Talk to me]] 23:53, 15 October 2006 (UTC)
+
+== LANSA Flight 502 ==
+
+This article is named after the location of the crash rather than after the flight number. After doing some poking around, I found that this is probably LANSA Flight 502, service from Cuzco to Lima. Online, a scanned LANSA timetable from circa 1968 lists the Cuzco-Lima service as Flight 502 and a United States Senate press release from August 2006 refers to this crash as the crash of LANSA Flight 502.
+
+Would it be prudent or necessary to rename this article? For the time being, I'll set up a redirect from [[LANSA Flight 502]] to this article. [[User:Plmoknijb|plmoknijb]] 17:22, 10 May 2007 (UTC)
+:The only way to add Flight 502 is if you can find a [[WP:V|reliable source]]. We could even accept a reliable primary source, if it's non controversial. So please provide the source, if you have it. Otherwise, even the redirect would have to be removed if unsourced. [[User:Crum375|Crum375]] 17:32, 10 May 2007 (UTC)
+::Yuh, the reliable source, I know. =) Well, these are the only easily accessible online sources I found: [http://www.timetableimages.com/ttimages/il2.htm 1968 LANSA timetable] and [http://www.senate.gov/~schumer/SchumerWebsite/pressroom/record_print.cfm?id=261952 Senator Schumer's office press release]. I would be hesitant to trust the senator's press release but the timetable is helpful. I checked the New York Times archives for articles related to the crash but none of them mention the flight number. (To be fair I think this is partly a function of the era of the crash.) I'll defer to your judgment on whether to put any mention of Flight 502 in the article, but I think it merits at least a redirect. I guess if one were really devoted a phone call to the senator's office might provide an answer. [[User:Plmoknijb|plmoknijb]] 16:19, 15 May 2007 (UTC)
+:::Since this is a non-contentious issue, I think we can rely on the combination of Shumer's press release and the timetable. I agree with a redirect for now, and perhaps move the name also. Thanks for the good detective work! [[User:Crum375|Crum375]] 16:31, 15 May 2007 (UTC)
+
+{{Talk:LANSA Flight 502/GA1}}
+
+==Aftermath==
+Not sure the aftermath section is particulaly notable (or referenced) and the mention of one non-notable student is not really required. ''It could have beens'' are not really encyclopedic and I would recommend that the section is removed.[[User:MilborneOne|MilborneOne]] ([[User talk:MilborneOne|talk]]) 17:50, 17 June 2009 (UTC)
+:&lt;s&gt;I think the &quot;non-notable student&quot; was written up in a news article about the crash, as were the other 15 who didn't take the flight I think it does add information and perspective about the crash for a reader, so I'll try to find those sources (not sure how they disappeared, perhaps the article clippings were sub-pages on the accident website, now all broken links)&lt;/s&gt;. [[User:Crum375|Crum375]] ([[User talk:Crum375|talk]]) 01:38, 18 June 2009 (UTC)
+:I decided to remove the Aftermath section per [[User:MilborneOne]]'s suggestion. It seems to [http://en.wikipedia.org/w/index.php?title=LANSA_Flight_502&amp;diff=283938306&amp;oldid=283937769 have been added] by an anon-IP a couple of months ago, with no sources. [[User:Crum375|Crum375]] ([[User talk:Crum375|talk]]) 02:30, 18 June 2009 (UTC)
+
+______
+Note - some sources say the sole survivor was a passenger and not the co-pilot
+____</text>
+      <sha1>ip27pllzidbp8foplozmq1vz869untp</sha1>
+    </revision>
+  </page>
+</mediawiki>

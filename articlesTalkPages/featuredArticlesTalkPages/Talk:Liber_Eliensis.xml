@@ -1,0 +1,105 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Liber Eliensis</title>
+    <ns>1</ns>
+    <id>20926255</id>
+    <revision>
+      <id>622370033</id>
+      <parentid>622284080</parentid>
+      <timestamp>2014-08-22T18:27:23Z</timestamp>
+      <contributor>
+        <username>Johnsoniensis</username>
+        <id>21165869</id>
+      </contributor>
+      <comment>e ang / wp</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3534">{{ArticleHistory|action1=GAN
+|action1date=22:09, 8 January 2010
+|action1link=Talk:Liber Eliensis/GA1
+|action1result=listed
+|action1oldid=336680686
+
+|action2=PR
+|action2date=16:13, 9 January 2011
+|action2link=Wikipedia:Peer review/Liber Eliensis/archive1
+|action2result=reviewed
+|action2oldid=406768878
+
+|action3=FAC
+|action3date=11:51, 1 June 2011
+|action3link=Wikipedia:Featured article candidates/Liber Eliensis/archive1
+|action3result=promoted
+|action3oldid=431885152
+
+| topic         = history
+| dykdate       = 6 July 2009
+|dykentry = {{*mp}}... that medieval historian [[Dorothy Whitelock]] called the '''''[[Liber Eliensis]]''''' &quot;unique among post-[[Norman conquest of England|Conquest]] monastic histories&quot;?
+|currentstatus=FA
+|four=yes
+|maindate=22 August 2014
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Anglo-Saxon Kingdoms|class=FA|importance=low}}
+{{WikiProject Books|class=FA}}
+{{WikiProject East Anglia|class=FA|importance=low}}
+{{WikiProject England|class=FA|importance=low}}
+{{WikiProject European history|class=FA|importance=low}}
+{{WikiProject Middle Ages|class=FA|importance=low}}
+{{WikiProject United Kingdom|class=FA|importance=low}}
+}}
+
+== Comments ==
+
+Since I was invited to comment, I'll do so. The general reader would probably find it more interesting if you had a better background section, covering the literary context. I.e. it is a fairly normal &quot;local history&quot; or &quot;cartulary narrative&quot; produced in England in the era after the Norman Conquest. Gransden's [http://books.google.co.uk/books?id=teWXo-Sl9hMC&amp;lpg=PP1&amp;dq=gransden%20historical%20writing&amp;pg=RA1-PA269 background chapter] (you can log out of google once you've reach your limit and then read on ... various ways to trick it) and [http://books.google.co.uk/books?id=A9GT60kKqEsC&amp;lpg=PP1&amp;dq=historia%20de%20sancto%20cuthberto&amp;pg=PA12 this]. Gransden claims it is the longest of these, a claim worth citing. 
+I think if you decide to expand it more, a separate section for authorship is probably necessary. Authorship isn't really background, but central to these texts. Just expanding the debate, why historians have sometimes believed it was these monks, why they believe it was authored (here at the community's request), and so on. The MS section might benefit from tabulation, and more discussion of the pros and cons of E versus F (which is what you'd expect to read). The article is decent in size, but you can take heart that the sources you are already using give you plenty of room for expansion should you desire it. [[User:Deacon of Pndapetzim|Deacon of Pndapetzim]] (&lt;small&gt;[[User talk:Deacon of Pndapetzim|Talk]]&lt;/small&gt;) 23:13, 1 July 2009 (UTC)
+:PS, can you expand on this: ''Along with those works, a work on the benefactors of the abbey was used''. A bit enigmatic! :) [[User:Deacon of Pndapetzim|Deacon of Pndapetzim]] (&lt;small&gt;[[User talk:Deacon of Pndapetzim|Talk]]&lt;/small&gt;) 23:13, 1 July 2009 (UTC)
+
+:: Okay, so basically expansion of what's already there, not so much that there are big gaping holes of missing sections (I haven't inadvertantly done the manuscript equivalent of say... leaving out the &quot;coronation&quot; section for a king). That was my main concern. I really did NOT pay much attention to manuscript and literary studies! U of I has Grandsen's works, I'm just waiting on them returning to check them out for myself. Thanks, Deacon. So much easier for someone ELSE to see things than for you to see what's missing in your own work. [[User:Ealdgyth|Ealdgyth]] - [[User talk:Ealdgyth|Talk]] 00:25, 2 July 2009 (UTC)</text>
+      <sha1>ed4wvip3qsqmfbyty6k0xe86gl57b6f</sha1>
+    </revision>
+  </page>
+</mediawiki>

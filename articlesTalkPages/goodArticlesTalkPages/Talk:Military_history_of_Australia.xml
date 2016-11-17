@@ -1,0 +1,96 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Military history of Australia</title>
+    <ns>1</ns>
+    <id>1471905</id>
+    <revision>
+      <id>576361232</id>
+      <parentid>576359903</parentid>
+      <timestamp>2013-10-08T23:25:07Z</timestamp>
+      <contributor>
+        <username>AustralianRupert</username>
+        <id>8731061</id>
+      </contributor>
+      <comment>archiving talk to [[Talk:Military history of Australia/Archive 1]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2858">{{talkheader}}
+{{ArticleHistory
+|action1=GAN
+|action1date=08:48, 16 April 2010
+|action1link=Talk:Military history of Australia/GA1 
+|action1result=listed
+|action1oldid=356148885
+
+|topic=history
+|currentstatus=GA
+}}
+{{WikiProjectBannerShell|1=
+{{WPMILHIST|class=GA|importance=high|attention=|collaboration-candidate=yes|past-collaboration=|peer-review= |old-peer-review=
+&lt;!-- Task force tags --&gt;
+|Australian-task-force=yes
+&lt;!-- B-Class checklist --&gt;
+&lt;!-- 1. It is suitably referenced, and all major points have appropriate inline citations. --&gt;
+|B-Class-1= yes
+&lt;!-- 2. It reasonably covers the topic, and does not contain major omissions or inaccuracies. --&gt;
+|B-Class-2= yes
+&lt;!-- 3. It has a defined structure, including a lead section and one or more sections of content. --&gt;
+|B-Class-3= yes
+&lt;!-- 4. It is free from major grammatical errors. --&gt;
+|B-Class-4= yes
+&lt;!-- 5. It contains appropriate supporting materials, such as an infobox, images, or diagrams. --&gt;
+|B-Class-5= yes}}
+{{WP Australia|class=GA|importance=high|military=yes|military-importance=Top|past-collaboration=[[2009-03-15]]–[[2009-04-22]]}} 
+}}
+
+== Napoleonic Wars ==
+
+I have seen referenced in some academic texts that the first overseas engagement the colonials participated in was when a couple of dozen were on the British side of the Napoleonic Wars. It was also during these wars that the colonials suffered their first overseas battle casualties. Can anybody confirm this and add it to the article?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/27.32.135.162|27.32.135.162]] ([[User talk:27.32.135.162|talk]]) 15:16, 8 October 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:G'day, yes I believe this is true, although there doesn't seem to be exact information on the numbers of Australians that served. A while back I was working on the [[Colonial forces of Australia]] article and added a small amount to that article. The reference to look at is Wilcox's ''Red Coat Dreaming: How Colonial Australia Embraced the British Army'' (2009), which is a very interesting account. The contention is that the British Army did not actively recruit from Australia at the time, although it is believed that &quot;hundreds&quot; of Australians served in the British Army. Wilcox identifies at least one Australian, Andrew Douglass White, who served as an engineer officer at the Battle of Waterloo in 1815, and another, Spicer Cookworthy, who served as a subaltern in the 1st Regiment of Foot during the Crimean War. It might be worthy of a quick paragraph, although I think it should be discussed first, given that it is already covered in the other article. Regards, [[User:AustralianRupert|AustralianRupert]] ([[User talk:AustralianRupert|talk]]) 23:10, 8 October 2013 (UTC)</text>
+      <sha1>g83byuct5knin61re94y4c5qli4336y</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,132 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:The Autobiography of Malcolm X</title>
+    <ns>1</ns>
+    <id>1812868</id>
+    <revision>
+      <id>609756597</id>
+      <parentid>596518393</parentid>
+      <timestamp>2014-05-23T03:05:03Z</timestamp>
+      <contributor>
+        <username>Lowercase sigmabot III</username>
+        <id>17518500</id>
+      </contributor>
+      <minor/>
+      <comment>Archiving 1 discussion(s) to [[Talk:The Autobiography of Malcolm X/Archive 3]]) (bot</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1984">{{User:MiszaBot/config
+|archiveheader = {{Automatic archive navigator}}
+|maxarchivesize = 200K
+|counter = 3
+|minthreadsleft = 0
+|minthreadstoarchive = 1
+|algo = old(90d)
+|archive = Talk:The Autobiography of Malcolm X/Archive %(counter)d
+}}
+{{ArticleHistory
+|action1=GAN
+|action1date=20:07, 21 October 2010
+|action1link=Talk:The Autobiography of Malcolm X/GA1
+|action1result=listed
+|action1oldid=392060430
+
+|action2=PR
+|action2date=05:54, 10 November 2010
+|action2link=Wikipedia:Peer review/The Autobiography of Malcolm X/archive1
+|action2result=reviewed
+|action2oldid=394647733
+
+|action3=PR
+|action3date=04:14, 7 December 2010
+|action3link=Wikipedia:Peer review/The Autobiography of Malcolm X/archive2
+|action3result=reviewed
+|action3oldid=398143962
+
+|action4=FAC
+|action4date=02:36, 24 January 2011
+|action4link=Wikipedia:Featured article candidates/The Autobiography of Malcolm X/archive1
+|action4result=not promoted
+|action4oldid=408854086
+
+|action5=FAC
+|action5date=19:34, 11 March 2011
+|action5link=Wikipedia:Featured article candidates/The Autobiography of Malcolm X/archive2
+|action5result=not promoted
+|action5oldid=418164015
+
+|action6=FAC
+|action6date=16:38, 1 May 2011
+|action6link=Wikipedia:Featured article candidates/The Autobiography of Malcolm X/archive3
+|action6result=not promoted
+|action6oldid=426827338
+
+|action7=FAC
+|action7date=05:54, 27 May 2011
+|action7link=Wikipedia:Featured article candidates/The Autobiography of Malcolm X/archive4
+|action7result=promoted
+|action7oldid=430408136
+
+|topic=Culture and society
+|currentstatus=FA
+|maindate=February 21, 2014
+}}
+{{Talk header|search=yes}}
+{{WikiProjectBannerShell|
+{{WikiProject Books|class=FA }}
+{{WikiProject African diaspora|class=FA |importance=mid }}
+{{WikiProject Islam|class=FA |importance=low }}
+}}
+{{American English}}
+{{auto archiving notice |bot=MiszaBot I |age=3 |units=months }}
+{{User:HBC Archive Indexerbot/OptIn
+|target=/Archive index |mask=/Archive &lt;#&gt; |leading_zeros=0 |indexhere=yes
+}}
+__TOC__</text>
+      <sha1>lo0draw1e5tu8bpslo6f6lm4dsvpbji</sha1>
+    </revision>
+  </page>
+</mediawiki>

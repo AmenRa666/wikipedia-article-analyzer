@@ -1,0 +1,114 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:The Volcano (British Columbia)</title>
+    <ns>1</ns>
+    <id>24879787</id>
+    <revision>
+      <id>713060267</id>
+      <parentid>653413628</parentid>
+      <timestamp>2016-04-01T18:12:17Z</timestamp>
+      <contributor>
+        <username>Cyberbot II</username>
+        <id>16283967</id>
+      </contributor>
+      <comment>Notification of altered sources needing review #IABot</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6671">{{Article history|action1=FAC
+|action1date=21:36, 6 July 2010
+|action1link=Wikipedia:Featured article candidates/The Volcano (British Columbia)/archive1
+|action1result=promoted
+|action1oldid=372103434
+|dykdate=27 June 2010
+| dykentry =... that '''[[The Volcano (British Columbia)|The Volcano]]''' in northwestern [[British Columbia]] is the youngest known [[volcano]] in [[Canada]] and its last eruption likely took place only 150 years ago?
+|currentstatus=FA
+|maindate=23 December 2010
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Volcanoes|class=FA|importance=Mid|Canada=yes|Canada-importance=High}}
+{{WikiProject Geology|class=FA|importance=low}}
+{{WikiProject Mountains|class=FA|importance=Top}}
+{{WikiProject Canada|bc=yes|geography=yes|class=FA|importance=mid}}}}
+
+== Tseax Cone and The ==
+
+Hi. [http://en.wikipedia.org/w/index.php?title=The_Volcano_(British_Columbia)&amp;diff=prev&amp;oldid=403851500 This edit] removes &quot;the&quot; from &quot;the Tseax Cone&quot;, whereas the [[Tseax Cone]] article uses &quot;the&quot; in ''(I think) ''every body text appearance. I absolutely wouldn't have a clue which is ''right, ''hence I'm not editing anything - I just wanted to mention the inconsistency for the attention of editors more experienced in the field. Thanks! [[User:DisillusionedBitterAndKnackered|DBaK]] ([[User talk:DisillusionedBitterAndKnackered|talk]]) 10:33, 23 December 2010 (UTC)
+:I am the one that largely wrote the Tseax Cone article, I just have not got the time and interest to rewrite its article right now. Most of my work on the Tseax Cone article goes back before I started bringing articles to FA class, and I did not have as great grammar/structure like I do now. But in most cases, the &quot;the&quot; before cinder cone names (e.g. Tseax Cone, Eve Cone, Williams Cone, etc) is optional. There is no right or wrong. Check out the Tseax Cone page on the Natural Resources Canada website [http://gsc.nrcan.gc.ca/volcanoes/cat/volcano_e.php?id=svb_tsx_107 here]. As you can see, they use both grammatic structures - &quot;Lava flows from the Tseax cone ponded near the Nass River, forming a vast, flat plain underlain by the lava flows&quot; and &quot;The eruption of Tseax cone is the only eruption in Canada for which legends of First Nations people have been verified&quot;. I took the &quot;the&quot; before Tseax Cone out of this article so it would be easiler to read. It is basically the same thing for [[Yukon]] - it is either &quot;Yukon&quot; or &quot;the Yukon&quot;. '''[[User:Volcanoguy|&lt;font color=&quot;red&quot;&gt;''Volcano''&lt;/font&gt;]][[User talk:Volcanoguy|&lt;font color=&quot;black&quot;&gt;''guy''&lt;/font&gt;]]''' 10:50, 23 December 2010 (UTC)
+::Fair enough, and thanks very much for the reply. I hadn't realized that the usages could be interchangeable, and I also hadn't looked at [[Tseax Cone]]'s edit history! I'm glad there's no consistency problem to worry about here. Cheers [[User:DisillusionedBitterAndKnackered|DBaK]] ([[User talk:DisillusionedBitterAndKnackered|talk]]) 11:10, 23 December 2010 (UTC)
+
+== High quality photos ==
+
+For a FA-class article, shouldn't there be some more high quality pictures? I always get a good visual idea from FAs, especially ones about nature, but from this one, I really got none. Is it due to how remote the park is that there's no photos? It would really improve the article to have several decent pictures of this: &quot;...it rises above the surrounding rugged landscape on a remote mountain ridge that represents the northern flank of a glaciated U-shaped valley&quot;.--[[User:Atkinson 291|Atkinson]] ([[User talk:Atkinson 291|talk]]) 13:31, 23 December 2010 (UTC)
+:The FA criteria does not say that high qulity photos are needed for FA-class articles. It is just this: &quot;It has images and other media where appropriate, with succinct captions, and acceptable copyright status. Images included follow the image use policy. Non-free images or media must satisfy the criteria for inclusion of non-free content and be labeled accordingly.&quot; The lack of high quality photos in this article is mostly because there is not many images of The Volcano - it is a remote peak. '''[[User:Volcanoguy|&lt;font color=&quot;red&quot;&gt;''Volcano''&lt;/font&gt;]][[User talk:Volcanoguy|&lt;font color=&quot;black&quot;&gt;''guy''&lt;/font&gt;]]''' 18:02, 23 December 2010 (UTC)
+On a side-topic, it's a little pointless to include a volcanic eruption from a different volcano. If users wanted to know what a volcanic eruption looked like, they could check that article. [[User:Brutannica|Brutannica]] ([[User talk:Brutannica|talk]]) 19:04, 23 December 2010 (UTC)
+:It is not just a volcnic eruption, it is the form of volcanic eruption that occurred at The Volcano. There are no pics of The Volcano in eruption, that's the problem. But because I do not think it is needed anymore, I have removed it. The article seemed a little bit clutered with that pic anyway. '''[[User:Volcanoguy|&lt;font color=&quot;red&quot;&gt;''Volcano''&lt;/font&gt;]][[User talk:Volcanoguy|&lt;font color=&quot;black&quot;&gt;''guy''&lt;/font&gt;]]''' 19:08, 23 December 2010 (UTC)
+
+==Name==
+Is it just me or is this sentence hilarious?
+&quot;In speech it may not be obvious whether The Volcano or the volcano is intended, leading to confusion.&quot;
+I mean, DUH. [[User:Brutannica|Brutannica]] ([[User talk:Brutannica|talk]]) 19:04, 23 December 2010 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:6|one external link|6 external links}} on [[The Volcano (British Columbia)]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=713060264 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Corrected formatting/usage for http://gsc.nrcan.gc.ca/volcanoes/map/index_e.php
+*Corrected formatting/usage for http://gsc.nrcan.gc.ca/volcanoes/cat/volcano_e.php?id=svb_lfk_040
+*Corrected formatting/usage for http://gsc.nrcan.gc.ca/volcanoes/gscvol_e.php
+*Corrected formatting/usage for http://gsc.nrcan.gc.ca/volcanoes/mon_e.php
+*Corrected formatting/usage for http://gsc.nrcan.gc.ca/volcanoes/cat/belt_stikine_e.php
+*Corrected formatting/usage for http://gsc.nrcan.gc.ca/volcanoes/haz_e.php
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II&lt;/sup&gt;]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner&lt;/span&gt;]]:Online&lt;/sub&gt;&lt;/small&gt; 18:12, 1 April 2016 (UTC)</text>
+      <sha1>043vgql6dngethiosuzqzsr972zjrr2</sha1>
+    </revision>
+  </page>
+</mediawiki>

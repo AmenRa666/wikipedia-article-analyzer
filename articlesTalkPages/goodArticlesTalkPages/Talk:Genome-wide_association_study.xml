@@ -1,0 +1,232 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Genome-wide association study</title>
+    <ns>1</ns>
+    <id>17491160</id>
+    <revision>
+      <id>690736416</id>
+      <parentid>689015956</parentid>
+      <timestamp>2015-11-15T09:33:58Z</timestamp>
+      <contributor>
+        <username>BattyBot</username>
+        <id>15996738</id>
+      </contributor>
+      <minor/>
+      <comment>Added {{[[Template:WPBS|WikiProjectBannerShell]]}}, [[WP:AWB/GF#Talk page general fixes|talk page general fixes]] &amp; other cleanup per [[WP:TPL]] using [[Project:AWB|AWB]] (11749)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16905">{{Article history
+|action1=PR
+|action1date=16:09, 18 December 2011
+|action1link=Wikipedia:Peer review/Genome-wide association study/archive1
+|action1result=reviewed
+|action1oldid=465713598
+
+|action2=FAC
+|action2date=03:38, 10 February 2012
+|action2link=Wikipedia:Featured article candidates/Genome-wide association study/archive1
+|action2result=not promoted
+|action2oldid=474851034
+
+| action3       = GAN
+| action3date   = 22:28, 22 January 2013 (UTC)
+| action3link   = Talk:Genome-wide_association_study/GA1
+| action3result = listed
+| action3oldid  = 534220014
+
+| currentstatus = GA
+| topic         = Biology and medicine
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Genetics|class=GA|importance=top|imageneeded=|imagedetails=|unref=}}
+{{WikiProject Computational Biology|class=GA|importance=high}}
+{{WikiProject Medicine|class=GA|importance=mid |genetics=yes |genetics-imp= Top}}
+}}
+
+== Difference between humans ==
+
+Note: the familiar statement that humans differ from each other by only about 0.1 % seems inaccurate because the two haplotypes of a diploid human genome differ by about 0.5 %, and that was shown for an individual with European ancestry through both parents (PMID: 17803354). Differences might be greater with greater geographical variation in ancestry.
+[[User:Daniel haft|Daniel haft]] ([[User talk:Daniel haft|talk]]) 19:39, 22 April 2009 (UTC)
+
+The statement seems correct for SNPs only and is also true for comparisons between a Han Chinese and the two European genomes (Nature 456, 60-65 (6 November 2008) | doi:10.1038/nature07484, see supplementary figure 2) 
+
+while the 0.5% is a more complex measure (all heterozygous bases, i.e., SNP, multi-nucleotide polymorphisms [MNP], indels, [complex variants + putative alternate alleles + CNV]/genome size; [2,894,929 + 939,799 + 10,000,000]/2,809,547,336) [[Special:Contributions/192.38.114.138|192.38.114.138]] ([[User talk:192.38.114.138|talk]]) 13:14, 20 July 2009 (UTC)
+:This might be the reason for the difference. --[[user:Hannes Röst|hroest]] 07:40, 18 May 2010 (UTC)
+
+== Hypothesis free ==
+I'm concerned about the statement that GWAS are &quot;hypothesis-free.&quot;  It's quite the opposite: every SNP tested is a hypothesis, and any analysis must be subject to corrections for multiple-hypothesis testing.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Uri.laserson|Uri.laserson]] ([[User talk:Uri.laserson|talk]] • [[Special:Contributions/Uri.laserson|contribs]]) 05:01, 15 October 2009 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+:They are hypothesis free compared to a single gene study --- there is no a priori hypothesis, which part of the genome might be involved  and all are tested. This does not mean that there are no hypothesis that are tested  but rather that a flat prior is assumed. Maybe reformulation might alleviate that...--[[user:Hannes Röst|hroest]] 07:40, 18 May 2010 (UTC)
+::I'm concerned by the statement as well, and I'll change it. I have heard &quot;hypothesis-free&quot; being used before, but it is not the right and it is not a commonly used. There is very much a hypothesis behind, namely that testing all SNPs will reveal which are associated. Correct words would be &quot;unbiased&quot; vs &quot;candidate-driven&quot;. --[[User:Lassefolkersen|LasseFolkersen]] ([[User talk:Lassefolkersen|talk]]) 20:01, 25 October 2011 (UTC)
+
+
+== Claim that noncoding are almost certainly NOT causal ==
+I reverted the recent edit that claims that noncoding are almost certainly NOT causal. That is not true. I agree that most GWAS hits still are not complete clear on which particular SNP in a block is the actual causal variant, but for the ones where it is known (e.g. SORT1-locus) it is noncoding SNPs that are ultimately causal. --[[User:Lassefolkersen|LasseFolkersen]] ([[User talk:Lassefolkersen|talk]]) 09:31, 22 November 2011 (UTC)
+
+==Under construction==
+I'm starting up a major revision of this article. So far I expanded the backgrounds and methods. Will get back to &quot;genes identified&quot; and &quot;limitations&quot;. Help and suggestions welcome!--[[User:Lassefolkersen|LasseFolkersen]] ([[User talk:Lassefolkersen|talk]]) 14:40, 6 December 2011 (UTC)
+
+I have tried to keep all the good bits that were already in the text (even though I rewrote some of them). One exception however: &quot;...these [ARMD] genes can predict half the risk of ARMD between siblings, and it is among the most successful examples of GWAS.&quot;. I think this sentence is highly useful, but the wording of ''prediction of half the risk between siblings'' is a bit confusing in comparison to the more commonly used ''proportion of heritability explained'' (which I also use later on). So apologies for removing a good bit - I just think the article will be less confusing without it --[[User:Lassefolkersen|LasseFolkersen]] ([[User talk:Lassefolkersen|talk]]) 08:38, 7 December 2011 (UTC)
+
+Ok, I'm pretty much done with the expansions I planned. Only need to clear up the citations. CitationBot has problems, but I'll try it later again. Then some grammar and prose check-ups, and then I'll have a couple of colleagues read it through. Other comments welcome! --[[User:Lassefolkersen|LasseFolkersen]] ([[User talk:Lassefolkersen|talk]]) 12:16, 7 December 2011 (UTC)
+
+
+
+==Peer review updates==
+I now had time to go through the reviews as found in the [[Wikipedia:Peer review/Genome-wide association study/archive1 | request for peer review]] page. The changes to the main text have already been comitted, and here is the point-by-point response.
+
+
+From [[User:Cryptic C62]]
+
+1) Except for the introduction sentence, all &quot;GWAS&quot; have now been replaced with GWA study/ies. This choice was  made for easier pluralization.
+
+2) &quot;From 2005&quot; was changed to &quot;published in 2005&quot;
+
+3) Today was replaced with the {{As of|year|month}} template, as this is definetly a statement that will age quickly.
+
+4) Surprisingly was deleted
+
+5) I have added the following summary of limitations section to the lead section &quot;Several GWA studies have received criticism for omitting important quality control steps, rendering the findings invalid. Largely this type of criticism can and is overcome in more modern publications. However, the fundamental methodology still have opponents.&quot;
+
+
+From [[User:The Rambling Man]]
+
+1) ok, I have changed the caption to follow the correct way of captioning things here.
+
+2) ok, I have removed the full stop after the caption
+
+3) ok, the [[User:Cryptic C62]] suggestions have been included
+
+4) I think anybody who reads an article called genome-wide association study will think less of it, if it expands DNA to deoxyribonucleic acid. &quot;DNA&quot; is so routinely used that the whole spectrum from science journals to popular newspaper articles assumes knowledge of it and leaves it out of acronym lists. 
+
+5) The SNP acronym is already expanded to single-nucleotide polymorphisms at first occurence. Could you perhaps be more specific on where you are aiming.
+
+6) ok - I use the Schena 1995 reference because that's the landmark microarray publication. 
+
+7) you might be right that &quot;unity&quot; is a more formal way. I didn't change it now though, because my aim was to loose as few readers to formality as possible. Feel free to change yourself if you think it is important.
+
+8) ok. I have moved it. It's a pity that the article doesn't have a lead figure though.
+
+9) ok, I have now used the correct format for dashes.
+
+
+
+
+:That should solve all the comments in this peer review. The only thing I miss in this article now is a good lead picture. Reviewer 2 asked for the previous lead, the manhattan plot, to be moved to the methods sections and I can't think of a better picture to illustrate GWAS. Suggestion, anyone? --[[User:Lassefolkersen|LasseFolkersen]] ([[User talk:Lassefolkersen|talk]]) 15:28, 21 December 2011 (UTC)
+
+== Late peer-review related comments ==
+
+Apologies for the lateness, but I was invited to contribute to the peer review through my talkpage.
+
+'''Lead:'''
+*I think the first sentence needs rewording; specifically &quot;to see if any variant is associated with a trait&quot; is unclear.
+*I also don't think genetic variant should link to SNP, it's not the only possible genetic variant (as the [[Genetic variant|dab]] shows) and if we're talking about SNPs it should just say SNP; it seems SNP GWAS are the focus of the rest of the lead. Admittedly other genetic variants can be used for GWAS so I suggest either a more general reference to genetic variation or removing the link... or we decide the entire article is about SNP GWAS, with a brief mention to the alternatives.
+*The lead is pretty hefty. I think it could be cut down, for example the details of the first GWAS (number of case/controls, outcome) aren't needed here. The lead should summarise the main article, so this detail should have been repeated in Results anyway (I suggest it's just moved there).
+*The second lead paragraph is also bloated, sentences like &quot;The results are then read into computers, where they can be analyzed&quot; could be removed.
+*Couple of word repeats in: &quot;...genetic variants ... if any variant is...&quot;; &quot;Typically ... and typically...&quot;.
+
+'''Body:''' (Prelim)
+*Has their been any debate on use (which I note is consistent) of GWA studies? Personally, I would prefer GWAS, that's the term I'm most familiar with, but if this has been decided by prior consensus then ignore me by all means.
+**edit: I should have read the above comments more closely!
+*In 'Background', the sentence &quot;In addition to the conceptual framework other enabling factors made GWA studies possible&quot; could be reworded for clarity, or preferably merged into the following sentence as it is being used as a verbose conjunction.
+*I'm not convinced WikiGWA deserves a mention in 'Results', if it is to be kept it needs a third-party source.
+*In 'Clinical applications', the final paragraph is of a dubiously-notable specific example published in ''Bioessays'', I suggest it is removed.
+*&quot;SNPs associated with diseases are currently numbered in the thousands&quot; requires a citation or should be removed, presumably some of these associations are exceptionally weak so if it remains it should be further qualified.
+*The limitation section has wording issues, for example: &quot;Although these issues can be taken care of, it is not always done&quot; sounds like synthesis and adds little. The following sentence also needs attention. They both could be removed and the citation kept with the previous statement.
+*There's also a quote without a citation directly following it (I've marked as such).
+
+Overall, the citations are mostly present when needed (I have not investigated the references themselves yet), the blue-linking is about right and the language is not overly technical. My criticisms are that sometimes the language could be tighter and I feel this article is missing some content, I suggest there are additional examples which convey the power and findings of these studies (failing that a CC-licensed publisher could add some nice diagrams, e.g. ''PLoS Genet.''). '''[[User:Jebus989|&lt;font color=#000000&gt;Jebus989&lt;/font&gt;]][[User talk:Jebus989|&lt;sup&gt;✰&lt;/sup&gt;]]''' 23:43, 4 January 2012 (UTC)
+
+
+
+
+'''Point-by-point response for lead:'''
+
+1) Could you come with more suggestions on what is unclear? Is it the use of the word trait? Or association? Instead of trait I could use &quot;property&quot; or &quot;characteristic&quot; or something like that. Association is more difficult to get around, but not impossible if I just use more words. How about ''&quot;(WGA study, or WGAS), is an examination of many common genetic variants in different individuals to see if they are more or less common depending on the characteristics of the individuals.&quot;''
+
+2) Changed genetic variants to point to genetic variants (thanks for pointing out). About the focus of the article on SNPs and/or &quot;other variant types&quot; (CNVs, etc) - a CNV study is also a GWA study, but I the vast majority of all GWA studies are on SNPs. So I kept focus on that, while still mentioning the more general genetic variants. Hence ''&quot;Typically SNPs are investigated&quot;.''
+
+3) Sure. I moved the sample size info to results.
+
+4) Ok. I removed a lot of it. The bits about risk-SNPs being outside coding regions were not even in the main text so I removed it also. I could probably fill in a little about that in the main later. TODO
+
+5) The variants-variants is the same sentence you comment on in 1). See there. The typical-typical... I would argue for keeping it this way. The reason is that it is not only SNPs and it is not only majory diseases. Only the vast majority of studies are. But if we don't write it with a &quot;typical&quot;-disclaimer all the people in the non-major-disease/other-phenotype/CNV groups will conclude that the text is wrong.
+
+
+
+'''Point-by-point response for prelim body:'''
+
+1) yes, 'GWAS' is a bit more widely used historically but I feel this is turning towards GWA study/ies, because it is so much easier for the writer to indicate pluralization. And so it also makes for more readable wikipedia article.
+
+2) I think I understand what you mean - how about ''&quot;In addition to the conceptual framework, the following technological factors enabled GWA studies: One was the advent....&quot;'' then it is more connected, and by writing technological it's emphasized that it is requirements apart from just the idea to test for many associations. Or did I understand this comment correctly?
+
+3) you are right - it is not very noteworthy yet. I think their manuscript for it must still be in review (I'm not associated with that group by the way). In contrast the most noteworthy attempt (the PNAS article reference, with http://www.genome.gov/gwastudies) is just so horribly in lack of updates that it seems wrong to let it stand as the sole source. How would you think about just removing the web-page reference but leaving the sentence &quot;''however, more updated resources might be found...''&quot;.
+
+4)I'll extend this SORT1 example rather than leave it. The bioessays-article was just a review covering all the research on it, which is much more heavy-weight. I'll do better and expand that, because I think this is one of the most notable examples at least of cardiovascular GWA studies. Certainly more than the Peginterferon-link which was here previously, but which I've heard very little about outside of wikipedia. TODO
+
+5) Ok I added the reference from the lead that was already used for the same. For now. You are undoubtly right that several of these are of less than strong significance, but finding out exactly how many is probably original research.
+
+6) I reworded it to &quot;''Ignoring these correctible issues has been cited as contributing to a general sense of problems with the GWA methodology''&quot;, because I think it is important comments from some of the heavy weighters in the field (Joe Pickrell etc. in the reference). Did this address your concern?
+
+7) I don't know. This factory-science-sentence was here before I started so I left it, to not upset previous authors. I'll just contract it into the cousin-frankel reference which was definetly a verifiable and much discussed opionion piece.
+
+
+That's it for now. I know I left some to-do loose ends, but it's getting late so I'll get back to them later. --[[User:Lassefolkersen|LasseFolkersen]] ([[User talk:Lassefolkersen|talk]]) 16:40, 5 January 2012 (UTC)
+
+:To reply to 1), I meant it in the sense that it could make GWAS seem like a genome-wide functional annotation exercise, as if we're looking to assign any variant any function. I am unable to suggest a clearer sentence, however, and it's a minor criticism which is cleared up by the following sentence. I think everything else I agree with, good work! '''[[User:Jebus989|&lt;font color=#000000&gt;Jebus989&lt;/font&gt;]][[User talk:Jebus989|&lt;sup&gt;✰&lt;/sup&gt;]]''' 09:53, 9 January 2012 (UTC)
+
+::Ok, now I have also cleared up the few to-do's I had postponed and added some PLoS genetics figures that looks a bit more professional. Also gave a custom-made figure to explain the methods a try. I'm not sure if it adds anything though --[[User:Lassefolkersen|LasseFolkersen]] ([[User talk:Lassefolkersen|talk]]) 10:08, 16 January 2012 (UTC)
+
+
+
+== Undo of first GWAS study ==
+After some research I reverted the changes on first GWA study to the 2005 CFH study by Klein et al. In addition I added &quot;the first ''successful'' GWA study&quot;. As far as I could see, the results from earlier studies such as the one by Ozaki et al were never reproduced successfully.--[[User:Lassefolkersen|LasseFolkersen]] ([[User talk:Lassefolkersen|talk]]) 11:17, 7 August 2012 (UTC)
+:Thanks for explaining. [[User:Bluerasberry|&lt;span style=&quot;background:#cedff2;color:#11e&quot;&gt;''' Blue Rasberry '''&lt;/span&gt;]][[User talk:Bluerasberry|&lt;span style=&quot;cursor:help&quot;&gt;&lt;span style=&quot;background:#cedff2;color:#11e&quot;&gt;(talk)&lt;/span&gt;&lt;/span&gt;]] 12:49, 7 August 2012 (UTC)
+
+{{Talk:Genome-wide association study/GA1}}</text>
+      <sha1>l6zf25sxaokvz0ax1je9sy90hh2nonk</sha1>
+    </revision>
+  </page>
+</mediawiki>

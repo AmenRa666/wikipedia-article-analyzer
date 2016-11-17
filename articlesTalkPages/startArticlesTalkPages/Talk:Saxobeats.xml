@@ -1,0 +1,85 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Saxobeats</title>
+    <ns>1</ns>
+    <id>32844857</id>
+    <revision>
+      <id>721357831</id>
+      <parentid>472217459</parentid>
+      <timestamp>2016-05-21T08:33:35Z</timestamp>
+      <contributor>
+        <username>Cartoon network freak</username>
+        <id>23369610</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2786">{{WikiProject Alexandra Stan|class=start|importance=top}}
+{{WikiProject Albums|class=start|importance=low}}
+{{WikiProject Electronic music|class=start|importance=low}}
+
+==File:AlexandraStan-Saxobeat.jpg Nominated for speedy Deletion==
+{|
+|-
+| [[File:Image-x-generic.svg|100px]] 
+| An image used in this article, [[commons:File:AlexandraStan-Saxobeat.jpg|File:AlexandraStan-Saxobeat.jpg]], has been nominated for speedy deletion at [[Wikimedia Commons]] for the following reason: ''Copyright violations'' 
+;What should I do?
+''Don't panic''; deletions can take a little longer at Commons than they do on Wikipedia. This gives you an opportunity to contest the deletion (although please review Commons guidelines before doing so). The best way to contest this form of deletion is by posting on the image talk page.
+* If the image is [[WP:NFCC|non-free]] then you may need to upload it to Wikipedia (Commons does not allow fair use)
+* If the image isn't freely licensed and there is no [[WP:FUR|fair use rationale]] then it cannot be uploaded or used.
+* If the image has already been deleted you may want to try [[commons:COM:UR|Commons Undeletion Request]]
+
+''This notification is provided by a Bot'' --[[User:CommonsNotificationBot|CommonsNotificationBot]] ([[User talk:CommonsNotificationBot|talk]]) 19:21, 23 August 2011 (UTC)
+|}
+
+== Delete request ==
+
+A dedicated page for the album should be created instead of redirecting it to the artist. [[User:Homelooks|Homelooks]] ([[User talk:Homelooks|talk]]) 14:06, 3 September 2011 (UTC)
+:Rather then deleting the page, the best approach would be to replace the redirect with an article, which does not require the prior deletion of the redirect. Looking at the edit history of the redirect/article, it appears there has been a dispute about whether the album justifies an article or should be redirected to the singer's article. I suggest you carefully consider the edit summaries in the dispute, particularly that this album may fail [[WP:NALBUMS]] prior to converting the redirect back into an article. If you decide that an article about the album can meet the relevant policies, go ahead and change the article back, but be sure to leave a very informative edit summary, or leave a comment explaining your justification here, with a note in the edit summary to check the talk page, and be prepared to discuss your position here on the talk page. [[User:Monty845|&lt;font color=&quot;Green&quot;&gt;Monty&lt;/font&gt;]][[User talk:Monty845|&lt;small&gt;&lt;sub&gt;&lt;font color=&quot;#A3BFBF&quot;&gt;845&lt;/font&gt;&lt;/sub&gt;&lt;/small&gt;]] 14:28, 3 September 2011 (UTC)
+::I'm sorry I don't have the time nor qualification for creating such an article. I was just suggesting a change that brought me suspect. [[User:Homelooks|Homelooks]] ([[User talk:Homelooks|talk]]) 14:32, 3 September 2011 (UTC)</text>
+      <sha1>3azwv9dewkfz9zr9ih71ifnsxle4hek</sha1>
+    </revision>
+  </page>
+</mediawiki>

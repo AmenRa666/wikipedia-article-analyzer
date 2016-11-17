@@ -1,0 +1,109 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Alfred Russel Wallace</title>
+    <ns>1</ns>
+    <id>1113413</id>
+    <revision>
+      <id>746691055</id>
+      <parentid>741662480</parentid>
+      <timestamp>2016-10-28T23:14:53Z</timestamp>
+      <contributor>
+        <username>ClueBot III</username>
+        <id>5207410</id>
+      </contributor>
+      <minor/>
+      <comment>Archiving 1 discussion to [[Talk:Alfred Russel Wallace/Archive1]]. (BOT)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1779">{{Vital article|level=4|topic=People|class=FA}}
+{{British English|date=November 2013}}
+{{Article history
+|action1=GAN
+|action1date=11:43, 26 February 2007
+|action1result=listed
+|action1oldid=111058237
+
+|action2=FAC
+|action2date=03:23, 12 April 2007
+|action2link=Wikipedia:Featured article candidates/Alfred Russel Wallace/archive1
+|action2result=not promoted
+|action2oldid=121377227
+
+|action3=FAC
+|action3date=17:31, 25 May 2007
+|action3link=Wikipedia:Featured article candidates/Alfred Russel Wallace
+|action3result=promoted
+|action3oldid=133371475
+
+|currentstatus=FA
+|maindate=January 8, 2009
+}}
+{{WikiProject banner shell|collapsed=yes|1=
+{{WikiProject Biography|living=no|class=FA|s&amp;a-work-group=yes|s&amp;a-priority=top|listas=Wallace, Alfred Russel}}
+{{WikiProject Evolutionary biology|class=FA|importance=High}}
+{{WikiProject History of Science|class=FA|importance=High}}
+{{WikiProject Indonesia| class=FA| importance=Low}}
+{{WikiProject Malaysia|class=FA|importance=Mid}}
+{{WikiProject Philosophy|class=FA|importance=Mid|philosopher=yes}}
+{{WikiProject Southeast Asia|class=FA|importance=Mid}}
+{{WikiProject Wales|class=FA |importance=Low}}
+}}
+{{On this day|date1=2005-06-18|oldid1=16335262|date2=2006-06-18|oldid2=59282357|date3=2007-06-18|oldid3=139049076|date4=2008-06-18|oldid4=219514391|date5=2009-06-18|oldid5=296701577|date6=2010-06-18|oldid6=368833611|date7=2011-06-18|oldid7=434990972|date8=2012-06-18|oldid8=498130466|date9=2013-06-18|oldid9=560385623|date10=2014-06-18|oldid10=613248018|date11=2015-06-18|oldid11=667491632}}
+
+{{WP1.0|v0.7=pass|class=FA|category=Natsci|small=yes}}
+{{Indonesian selected biography talk modern}}
+
+{{User:ClueBot III/ArchiveThis
+|archiveprefix=Talk:Alfred Russel Wallace/Archive
+|format=%%i
+|age=720
+|archivebox=yes
+|box-advert=yes
+}}</text>
+      <sha1>o577br7a6od3x70scjcuscrmhqdz1kf</sha1>
+    </revision>
+  </page>
+</mediawiki>

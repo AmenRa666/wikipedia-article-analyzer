@@ -1,0 +1,118 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Reverberation</title>
+    <ns>1</ns>
+    <id>4093959</id>
+    <revision>
+      <id>749275292</id>
+      <parentid>681246972</parentid>
+      <timestamp>2016-11-13T12:46:42Z</timestamp>
+      <contributor>
+        <username>ZoeB</username>
+        <id>7882</id>
+      </contributor>
+      <comment>Provide rationale for previous edit</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8280">{{WikiProject Professional sound production|class=C|importance=high}}
+{{Physics|class=C|importance=low|acoustics=yes}}
+
+== critical distance equation ==
+
+The units given dont tally, not sure what they're supposed to be, perhaps RT60's units should be meters (unlikely), or the constants value should be m^-1/2 s^1/2 = (s/m)^1/2, if the latter is the case the units would be nice if the constant was within the square root, ie dc = sqrt(k*V/RT60), with V in m^3, RT60 in s, k in s/m and dc in m. Maybe im being a bit pedantic here.  &lt;small&gt;—The preceding [[Wikipedia:Signatures|unsigned]] comment was added by [[Special:Contributions/{{{IP|{{{User|137.205.131.203}}}}}}|{{{IP|{{{User|137.205.131.203}}}}}}]] ([[User talk:{{{IP|{{{User|137.205.131.203}}}}}}|talk]]) {{{Time|01:43, August 24, 2007 (UTC)}}}&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+: I don't think you're being pedantic. It's a reasonable and valid point. Unfortunately, I don't know what the formula should be, so I can't correct it. [[User:Lovibond|Lovibond]] ([[User talk:Lovibond|talk]]) 01:23, 5 July 2008 (UTC)
+
+:: The c value is not a mathematical constant, which is the problem here.  The c value represents a value that has to do with the speed of sound in the room, and has units of s/m (in other models, the c is part of the denominator and has units of m/s). [[User:Kunderscoreuy|Kunderscoreuy]] ([[User talk:Kunderscoreuy|talk]]) 16:08, 13 February 2009 (UTC)
+
+::: The formula including speed of sound is incorrect - it should actually be 552V/Sac = T.  The units then work out as seconds.  Speed of sound can only be measured as metres per second - not seconds per metre!  [[Special:Contributions/88.96.167.214|88.96.167.214]] ([[User talk:88.96.167.214|talk]]) 16:49, 7 December 2009 (UTC)
+
+Shouldn't les paul get some credit for inventing it and whatnot? He's not in this article!  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/75.165.78.222|75.165.78.222]] ([[User talk:75.165.78.222|talk]]) 19:46, 12 April 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Copyvio ==
+
+The section &quot;Simulating reverberation&quot; was a pretty direct copy of the content of this page: http://3345.com.au/cyclopedia/lev3_sound_definitions_sound_effects_reverb.htm
+
+We cite them as a reference rather than the other way around, so I don't think they got it from us. The material there is copyrighted (and not under a free license AFAIK), so I pretty much had to axe the section. - [[User:Furrykef|furrykef]] ([[User_talk:Furrykef|Talk at me]]) 00:09, 11 May 2006 (UTC)
+
+== Reverb (audio effect) vs Reverberation (phenomenon) ==
+
+I'd like to split this article into two and expand on each one. The phenomenon of audio reverberation is something experienced in reverberant spaces; the practice of adding reverb to audio signals is distinct because it uses simulated reverberation. A discussion of plate, chamber, spring, digital, etc. reverbs should be an article to itself.
+
+I'd be glad to write an article about reverb from an audio effects standpoint; would someone else with better expertise on acoustics like to add to what's on this page? --[[User:G0zer|G0zer]] 06:03, 21 May 2006 (UTC)&lt;br /&gt;
+I've been doing a bit of work on the acoustics side of things slowly adding bits and editing it a bit, i plan to keep going till its pretty decent [[User:Noodle snacks|Noodle snacks]] 11:18, 22 August 2006 (UTC)&lt;br /&gt;
+I'd love to see some info about reverse reverb (audio effect) and I guess that's way off the reverb as a phenomenon. So I'd love to see someone split this article. --[[User:213.176.148.218|213.176.148.218]] 08:18, 27 June 2006 (UTC)&lt;br /&gt;
+I have started a section on reverse reverb, it is currently pretty short, next week when i get my mixer back I will place a sample of this up. [[User:Noodle snacks|Noodle snacks]] 11:17, 24 August 2006 (UTC)&lt;br /&gt;
+
+== Merger ==
+
+It seems to me that reverberation time and reverberation are practically duplicate pages for much of the information presented, and that reverberation time should be merged into reverberation to prevent redundancy. [[User:Noodle snacks|Noodle snacks]] 03:33, 6 September 2006 (UTC)
+
+== &quot;Compare with echo&quot; quote ==
+
+This is a very minor point. If the quote &quot;If so many reflections arrive at a listener that he is unable to distinguish between them, the proper term is reverberation&quot; is indeed a quote, it should be sourced. If it is not, I would recomend it be reworded to &quot;If so many reflections arrive at a listener that he or she is unable to distinguish between them&quot; to avoid both unecessary gendered language (can there not be a female listener?) and the 'singluar they' that I wrongly suggested before.[[User:Samshipstone|Samshipstone]] 18:44, 26 December 2006 (UTC)
+
+== Stages of reverberation ==
+An article on reveberation should identify the different stages: early reflections, and diffuse reflections. An illustration would be very helpful to explain these concepts.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Listentothewind|Listentothewind]] ([[User talk:Listentothewind|talk]] • [[Special:Contributions/Listentothewind|contribs]]) 20:12, 13 September 2007 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Spring Reverb Tanks Explained and Compared ==
+Why is this link allowed?  Some jerk just fixed it, which is bad because while it probably does a better job of explaining how spring reverb tanks work than any other page on the Internet, it is not perfect.  Why allow this sort of imperfection to creep into Wikipedia?  List most of the poor content on this page, that link should be deleted.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/63.228.116.228|63.228.116.228]] ([[User talk:63.228.116.228|talk]]) 02:59, 22 September 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+==Propose inclusion of source describing reverb==
+The lead gives a description of reverb, but does not mention that some degree of reverb adds qualities to a sound that are considered desirable. A book on applied physics for engineers states that reverb adds &quot;richness and fullness&quot; to the sound:
+*Reverberation in an auditorium adds &quot;richness and fullness&quot; to the sound of speaking or music, which may be considered desirable; however, if a hall produces too much reverberation, this &quot;...decreases clarity.&quot;&lt;ref&gt;{{cite book |last=Neeraj |first=Mehta |date= |title=Applied Physics for Engineers |url= |location= |publisher=PHI Learning Pvt. Ltd. |page=979 |isbn=}} &lt;/ref&gt;&lt;small&gt;&lt;span style=&quot;text-shadow:4px 4px 15px #00F,-4px -4px 15px #49F;&quot;&gt;[[User:OnBeyondZebrax|OnBeyondZebrax]]&lt;/span&gt; • &lt;span style=&quot;text-shadow:4px 4px 15px #F80,-4px -4px 15px #F08;&quot;&gt;[[User talk:OnBeyondZebrax|TALK]]&lt;/span&gt;&lt;/small&gt; 02:11, 16 September 2015 (UTC)
+::[[User:OnBeyondZebrax|OnBeyondZebrax]] That isn't what reverb is. The edit makes no sense what so ever. [[Special:Contributions/73.193.195.69|73.193.195.69]] ([[User talk:73.193.195.69|talk]]) 02:24, 16 September 2015 (UTC)
+
+== this editor ==
+
+https://en.wikipedia.org/wiki/Special:Contributions/OnBeyondZebrax is adding to the opening, material that is not what the opening is about. The opening is about what Reverb is. [[Special:Contributions/73.193.195.69|73.193.195.69]] ([[User talk:73.193.195.69|talk]]) 02:23, 16 September 2015 (UTC)
+
+== Rationale for deleting the &quot;Electronic reverb&quot; section ==
+
+As far as I can tell, the &quot;Electronic reverb&quot; section was entirely redundant.  The electronic reverbs it speaks of surely all use springs as in the above section, or digital formulae, as in the below section.  In other words, &quot;electronic reverbs&quot; is a more general term that encompasses plate, spring, digital and convolution reverbs, rather than being a separate method in its own right, disqualifying it from being a separate item in the list.  I've therefore [[https://en.wikipedia.org/w/index.php?title=Reverberation&amp;diff=749275033&amp;oldid=748143502 removed]] it.  I'm leaving this rationale here so anyone can freely sanity-check it. [[User:ZoeB|ZoeB]] ([[User talk:ZoeB|talk]]) 12:46, 13 November 2016 (UTC)</text>
+      <sha1>0l3jxifro71bqn53jv42uda95c112u0</sha1>
+    </revision>
+  </page>
+</mediawiki>

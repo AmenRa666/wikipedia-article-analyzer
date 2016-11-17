@@ -1,0 +1,81 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Glee: The Music, The Rocky Horror Glee Show</title>
+    <ns>1</ns>
+    <id>29213106</id>
+    <revision>
+      <id>620100524</id>
+      <parentid>453843012</parentid>
+      <timestamp>2014-08-06T14:48:00Z</timestamp>
+      <contributor>
+        <username>DepressedPer</username>
+        <id>4390460</id>
+      </contributor>
+      <comment>Added wikiproject.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2683">{{WikiProjectBannerShell|1=
+{{WikiProject Albums|class=C|importance=low}}
+{{WikiProject Television|class=C|importance=low|glee=yes|glee-importance=mid}}
+{{WikiProject Rock music|class=C|importance=low}}}}
+{{dyktalk|26 October|2010|entry=... that [[Jayma Mays]] will perform her audition song, &quot;[[Touch-a, Touch-a, Touch-a, Touch Me]]&quot;, for the [[The Rocky Horror Glee Show|''Rocky Horror'' tribute episode]] of ''[[Glee (TV series)|Glee]]'' and its '''[[Glee: The Music, The Rocky Horror Glee Show|accompanying extended play]]'''?}}
+
+== Length ==
+
+My CD is 21:40. [[Special:Contributions/75.68.52.240|75.68.52.240]] ([[User talk:75.68.52.240|talk]]) 22:01, 22 October 2010 (UTC)
+:The tracks are the same. Different retailers will have a couple of extra seconds of silence at the beginning or ends of tracks. Example: [http://itunes.apple.com/ca/album/glee-the-music-the-rocky-horror/id394623157 the iTunes Store] versus [http://www.allmusic.com/album/glee-the-music-the-rocky-horror-glee-show-r2027059 allmusic]. [[User:Yvesnimmo|Yves]] ([[User talk:Yvesnimmo|talk]]) 22:09, 22 October 2010 (UTC)
+
+== Credits do not include cast singers ==
+
+This is the only CD/EP where the allmusic credits omit all of the singers from the cast, listing only the production staff and non-cast vocalists. (As usual, instrumentalists are not credited.)
+
+It is inconceivable to me that the actual singers not be included; the problem is that constructing a complete list will be difficult. Almost everyone has some sort of solo, if the broadcast versions are indicative: John Stamos in &quot;Whatever Happened to Saturday Night?&quot;, Jayma Mays in &quot;Touch a Touch a Touch a Touch Me&quot;, and most of the entire cast in &quot;Time Warp&quot;. But it's &quot;pretty much&quot; that's the problem. Heather and Naya have a short verse in &quot;Touch a&quot;, Lea and Cory are leads in &quot;Dammit Janet&quot; and Mercedes in &quot;Sweet Transvestite&quot;, Dianna and Chris and Kevin and Jenna (and Heather) in &quot;Time Warp&quot;, and Matthew Morrison does some of the &quot;Creature of the Night&quot; repetitions in &quot;Touch a&quot;. Harry Shum, Jr. isn't ever credited for singing on other CDs, so I can't imagine he'd get a vocals credit for &quot;Time Warp&quot;...which leaves Chord Overstreet. Did he, or didn't he?
+
+So, we can be sure of Dianna Agron, Chris Colfer, Jayma Mays, Kevin McHale, Lea Michele, Cory Monteith, Heather Morris, Matthew Morrison, Naya Rivera, John Stamos, and Jenna Ushkowitz. Chord's the big question mark. Has anyone seen anything about him for this one? Or does someone have the actual EP, and can check the credits there? I'm pretty sure we can reference it directly, if so. [[User:BlueMoonset|BlueMoonset]] ([[User talk:BlueMoonset|talk]]) 18:08, 6 July 2011 (UTC)</text>
+      <sha1>ezwoe063k0z3963vctmkrt2b2kq9ps4</sha1>
+    </revision>
+  </page>
+</mediawiki>

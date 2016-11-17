@@ -1,0 +1,290 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Abu Dhabi</title>
+    <ns>1</ns>
+    <id>333129</id>
+    <revision>
+      <id>749400530</id>
+      <parentid>747178269</parentid>
+      <timestamp>2016-11-14T03:33:42Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>1 archive template merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27736">{{Old peer review|archive = 1}} 
+{{ArticleHistory
+|action1=GAN
+|action1date=04:51, 29 December 2012
+|action1link=Talk:Abu Dhabi/GA1
+|action1result=not listed
+|action1oldid=529198324
+|currentstatus=FGAN
+|topic=Places
+}}
+{{WikiProjectBannerShell|1=
+{{Vital article|level=4|topic=Geography|class=B}}
+{{WPCities|class=b|importance=Top}}
+{{WikiProject UAE|class=B|importance=Top|Abu Dhabi=yes|Abu Dhabi-importance=Top}}
+{{WikiProject Islands|class=B}}
+{{WP1.0|v0.5=pass|class=B|category=Geography|WPCD=yes}}
+}}
+{{archive box|{{nbsp}}[[/Archive 1|Archive 1]]}}
+
+== The Flag ==
+
+The flag for Abu Dhabi is different from that of UAE. The flag given for [[Abu Dhabi (emirate)]] is the one for Abu Dhabi city as well. My father works for the AUH govt. and I got this fact from there and also the UAE social studies. I believe this will be enough to reach the consensus. I am in a hurry to change the flag because it is just not right, what is now. -[[User:Stausifr|tausif r]] ([[User talk:Stausifr|talk]]) 05:28, 10 February 2012 (UTC)
+
+{{Talk:Abu Dhabi/GA1}}
+
+== First sentence inaccurate ==
+
+it says &quot;Abu Dhabi is the capital and second largest city of the United Arab Emirates..&quot; so far so good, but then &quot;.. the largest of the seven member emirates ..&quot;
+Surely this is inaccurate because as it says at the top this article's about the city, not the emirate?
+[[Special:Contributions/82.40.157.221|82.40.157.221]] ([[User talk:82.40.157.221|talk]]) 08:37, 12 April 2013 (UTC)
+:Yeah, there's some other issues, too. Like the area given is clearly not of a city, but of the entire emirate of Abu Dhabi. The population density seems right, but I'm no expert there. I'm assuming some of the errors come from googling information, as it seems impossible to get the city's size from a Google search, it just keeps giving the emirate size. It's proving difficult to find the size of the actual city, as every site I visit seems to have the same issue as the Google search did.. --[[User:Taoistextremist|Taoistextremist]] ([[User talk:Taoistextremist|talk]]) 20:24, 5 May 2013 (UTC)
+::It isn't easy to separate the two because Abu Dhabi's rise as a city can only be explained by developments in the emirate, for example the discovery of oil. There is also the context of the city as capital of the UAE, which cannot be disregarded. I don't think there's a major problem with the article, perhaps just some fine tuning is required in one or two places.[[User:Dromoyne|Dromoyne]] ([[User talk:Dromoyne|talk]]) 11:27, 6 May 2013 (UTC)
+:::But if they're two separate political entities, the emirate and the city, then they should not contain the same data when referring to land area. Also, now that I've investigated a little into the listed sources, I am unclear where the population data came from. The source listed for the information in the sidebar only has the city's population for 2009, yet the page claims it's for 2013, and the population density is not listed there. I may make a separate topic concerning this. In any case, I'm going to stand by the idea that as the city and emirate are separate political entities, data referring to one should not necessarily be used to refer to another. Ties of success between the city and the emirate it is within does not mean they need be confused factually. --[[User:Taoistextremist|Taoistextremist]] ([[User talk:Taoistextremist|talk]]) 02:45, 22 May 2013 (UTC)
+
+==Cultural References==
+
+No mention of the fact that early-to-mid 20th century culture contained numerous references to Abu Dhabi as a generic &quot;place far away from which you can't easily get back&quot;, or more generally as &quot;the middle of nowhere&quot;?  This was long before the Arab region became as financially or culturally prominent on the world stage as it is today; I'm quite certain Bugs Bunny and similar American icons frequently used &quot;mailed to Abu Dhabi&quot; as a cliche for getting rid of somebody more-or-less permanently.  [[Special:Contributions/65.128.248.40|65.128.248.40]] ([[User talk:65.128.248.40|talk]]) 00:10, 13 August 2013 (UTC)
+
+:That's from the Western perspective, of course, and you could say the same about most places in Arabia at that time - also America would have seemed impossibly remote to most Abu Dhabians. Perhaps the bedouin talked about &quot;mailing to America&quot; as a euphemism for getting rid of a troublesome camel :) [[User:ArabianLeopard|ArabianLeopard]] ([[User talk:ArabianLeopard|talk]]) 06:15, 13 August 2013 (UTC)
+
+:: [[Garfield (comics)|Garfield]] frequently tried to mail Nermal the kitten there. It's a funny place name, like &quot;[[Timbuktu]]&quot;. --[[User:The Iconoclast|The_Iconoclast]] ([[User talk:The Iconoclast|talk]]) 09:25, 24 September 2013 (UTC)
+
+Please, add this link to article
+*[http://makewebmap.com/city.php?kod=94 Current time, sunrise and sunset today+Abu Dhabi map] {{en icon}}
+
+== Blacklisted Links Found on the Main Page ==
+
+Cyberbot II has detected that page contains external links that have either been globally or locally blacklisted.
+Links tend to be blacklisted because they have a history of being spammed, or are highly innappropriate for Wikipedia.
+This, however, doesn't necessarily mean it's spam, or not a good link.
+If the link is a good link, you may wish to request whitelisting by going to the [[MediaWiki talk:Spam-whitelist|request page for whitelisting]].
+If you feel the link being caught by the blacklist is a false positive, or no longer needed on the blacklist, you may request the regex be removed or altered at the [[MediaWiki talk:Spam-blacklist|blacklist request page]].
+If the link is blacklisted globally and you feel the above applies you may request to whitelist it using the before mentioned request page, or request its removal, or alteration, at the [[meta:Talk:Spam Blacklist|request page on meta]].
+When requesting whitelisting, be sure to supply the link to be whitelisted and wrap the link in nowiki tags.
+The whitelisting process can take its time so once a request has been filled out, you may set the invisible parameter on the tag to true.
+Please be aware that the bot will replace removed tags, and will remove misplaced tags regularly.
+
+'''Below is a list of links that were found on the main page:'''
+
+*&lt;nowiki&gt;http://www.airport-technology.com/projects/abu_dhabi/&lt;/nowiki&gt;
+*:''Triggered by &lt;code&gt;\bairport-technology\.com\b&lt;/code&gt; on the local blacklist''
+
+If you would like me to provide more information on the talk page, contact [[User:Cyberpower678]] and ask him to program me with more info.
+
+From your friendly hard working bot.—[[User:Cyberbot II|&lt;span style=&quot;color:green;font-family:Neuropol&quot;&gt;cyberbot II]] [[User talk:Cyberbot II|&lt;sup style=&quot;color:green;font-family:arnprior&quot;&gt;Notify]]&lt;sub style=&quot;margin-left:-6.1ex;color:green;font-family:arnprior&quot;&gt;Online&lt;/sub&gt; 13:43, 3 April 2014 (UTC)
+
+== Orphaned references in [[:Abu Dhabi]] ==
+
+I check pages listed in [[:Category:Pages with incorrect ref formatting]] to try to fix reference errors. One of the things I do is look for content for [[User:AnomieBOT/docs/OrphanReferenceFixer|orphaned references]] in wikilinked articles. I have found content for some of [[:Abu Dhabi]]'s orphans, the problem is that I found more than one version. I can't determine which (if any) is correct for ''this'' article, so I am asking for a sentient editor to look it over and copy the correct ref content into this article.
+
+&lt;b&gt;Reference named &quot;amnesty.org&quot;:&lt;/b&gt;&lt;ul&gt;
+&lt;li&gt;From [[Amnesty International]]: Amnesty International [https://www.amnesty.org/en/library/asset/AMR23/006/2007/en/83aa83aa-d399-11dd-a329-2f46302a8cc6/amr230062007en.html &quot;Colombia: Amnesty International response to Andrés Ballesteros et al.&quot;], ''AMR 23/006/2007'', 21 February 2007. Retrieved on 20 January 2012.&lt;/li&gt;
+&lt;li&gt;From [[Stoning]]: Amnesty International (2008), [http://www.amnesty.org/en/library/asset/MDE13/001/2008/en/81d4eda6-2e67-4f69-844d-5a1a60dba9a7/mde130012008en.pdf Iran - End executions by Stoning]&lt;/li&gt;
+&lt;li&gt;From [[Egypt]]: {{cite web|url=http://www.amnesty.org/en/news/egypt-more-500-sentenced-death-grotesque-ruling-2014-03-24|title=Egypt: More than 500 sentenced to death in 'grotesque' ruling - Amnesty International|date=24 March 2014|work=amnesty.org}}&lt;/li&gt;
+&lt;li&gt;From [[Afghanistan]]: Amnesty International. &quot;Document&amp;nbsp;– Afghanistan: further information on fear for safety and new concern: Deliberate and arbitrary killings: Civilians in Kabul.&quot; 16 November 1995 Accessed at: [http://www.amnesty.org/en/library/asset/ASA11/015/1995/en/6d874caa-eb2a-11dd-92ac-295bdf97101f/asa110151995en.html Amnesty.org] {{webarchive |url=https://web.archive.org/web/20130726200033/http://www.amnesty.org/en/library/asset/ASA11/015/1995/en/6d874caa-eb2a-11dd-92ac-295bdf97101f/asa110151995en.html |date=July 26, 2013 }}&lt;/li&gt;
+&lt;li&gt;From [[Kabul]]: Amnesty International. &quot;DOCUMENT&amp;nbsp;– AFGHANISTAN: FURTHER INFORMATION ON FEAR FOR SAFETY AND NEW CONCERN: DELIBERATE AND ARBITRARY KILLINGS: CIVILIANS IN KABUL.&quot; 16 November 1995 Accessed at: http://www.amnesty.org/en/library/asset/ASA11/015/1995/en/6d874caa-eb2a-11dd-92ac-295bdf97101f/asa110151995en.html&lt;/li&gt;
+&lt;li&gt;From [[Human rights in the United Arab Emirates]]: {{cite web|url=http://www.amnesty.org/en/library/info/MDE25/018/2014/en|title=United Arab Emirates: &quot;There is no freedom here&quot;: Silencing dissent in the United Arab Emirates (UAE) |work=Amnesty International}}&lt;/li&gt;
+&lt;li&gt;From [[United Arab Emirates]]: {{cite web|url=https://www.amnesty.org/en/documents/mde25/0018/2014/en/|title=United Arab Emirates: Silencing dissent in the United Arab Emirates (UAE) |publisher=Amnesty International}}&lt;/li&gt;
+&lt;/ul&gt;
+
+I apologize if any of the above are effectively identical; I am just a simple computer program, so I can't determine whether minor differences are significant or not. [[User:AnomieBOT|AnomieBOT]][[User talk:AnomieBOT|&lt;font color=&quot;#888800&quot;&gt;⚡&lt;/font&gt;]] 23:34, 30 April 2015 (UTC)
+
+== Problems, problems, problems. ==
+
+I have a cousin who recently moved to Abu Dhabi. I came here to get a feeling for the city, but was disappointed by this article when I found the following problems.
+
+'''1. PHOTOGRAPHS POSING POSSIBLE COPYRIGHT VIOLATION.'''
+
+If the following photos were deleted because of: ''&quot;Freedom of panorama (i.e taking pictures of buildings or anything which is protected by copyright) is not allowed in U.A.E.&quot;'':
+* https://commons.wikimedia.org/wiki/Commons:Deletion_requests/File:ADIA_Tower_at_night.jpg
+* https://commons.wikimedia.org/wiki/Commons:Deletion_requests/File:Sheikh_Zayed_Mosque_courtyard.jpg
+* https://commons.wikimedia.org/wiki/Commons:Deletion_requests/File:EtisalatAbuDhabi.jpg
+
+...then why are these following photos allowed? Doesn't the same criteria apply?:
+* https://commons.wikimedia.org/wiki/File:The_Royal_International_Hotel_in_Abu_Dhabi,_UAE.JPG
+* https://en.wikipedia.org/wiki/Abu_Dhabi#/media/File:ADIA_Tower_and_The_Landmark_in_Abu_Dhabi.jpg
+* The mosque was constructed from 1996 to 2007 - is it still within the copyright laws of the UAE? https://en.wikipedia.org/wiki/Abu_Dhabi#/media/File:Front_of_Sheikh_Zayed_Mosque.jpg
+* https://en.wikipedia.org/wiki/Abu_Dhabi#/media/File:Hotel_Sofitel_Abu_Dhabi_Corniche_in_Abu_Dhabi,_UAE.JPG
+* https://en.wikipedia.org/wiki/Abu_Dhabi#/media/File:At_the_ADIPEC_2013.JPG
+* Although the word &quot;historic&quot; is used in the title of this file, the data entered doesn't reflect an historic background. Neither the date of the photo nor the name of photo-taker are included. https://en.wikipedia.org/wiki/Abu_Dhabi#/media/File:Abudabi1.jpg
+* Elements of this montage - https://commons.wikimedia.org/wiki/File:Montage_fotografico_de_Abu_Dhabi_%28EAU%29.jpg
+: * https://commons.wikimedia.org/wiki/File:Emirates_Palace-Abu_Dhabi3779.JPG
+: * https://commons.wikimedia.org/wiki/File:Montage_fotografico_de_Abu_Dhabi_%28EAU%29.jpg#/media/File:Ferrari_World_Abu_Dhabi.jpg
+: * and the  blue high-rise building in the upper right. I cannot find a separate WP file for it.
+* The photos from the Heritage Park / Heritage Village (the same place or two different places?) - what's the build date? Are the building designs still within the UAE's copyright period? If so, then include these photos in my question.
+* There are more building photos attached to other Abu Dhabi-related articles and in the Commons that seem to fall under this same copyright violation.
+
+'''2. HELPFUL PHOTOS STILL NEEDED.'''
+
+* A. The article states: ''&quot;Abu Dhabi is full of archeological evidence that points to civilizations. . .&quot;'' So, where is the photographic evidence of this? Surely photos of antiquities would not longer fall under copyright protection and are free to take and upload here. 
+* B. Do people actually live in this city? If so, where are the shots of the various residential neighborhoods? They can be wide shots in order to avoid the copyright problem. Where are the shots of street scenes with happy crowds strolling the sidewalks or attending events? Is it a religious or cultural violation to photograph people? Links to the [[Al Nahyan family]] sport some photos for the more recent members, so it seems no to be a taboo.  
+
+'''3. IN THE MEDIA SECTION.'''
+
+Regarding - ''&quot;In the Garfield comic series by Jim Davis, Garfield repeatedly tries to get rid of the annoying kitten Nermal by sending him to &quot;Anyone, Abu Dhabi.&quot; The latest movie of the Fast &amp; Furious franchise, Furious 7 (2015), had some scenes taken and or based in Abu Dhabi. In Sex and the City 2 (2010), most of the plot takes place in Abu Dhabi, although the movie is not filmed there.[100] The planet Jakku from Star Wars: The Force Awakens was filmed near Abu Dhabi.&quot;''
+
+At least the films bring money to the country's economy or at least serious recognition. The [[Garfield]] bit is just silly trivia. It does neither of those things and the Abu Dhabi mention could be any random far away place for all of the notability the reference imparts. Nothing about the country's reality or economy are contributed to in that reference. It's best put it onto the Garfield article if it needs to be anywhere at all. 
+
+'''4. EXTERNAL LINKS MASH-UP.'''
+
+This article seems to be a travel brochure and the external links contribute mightily to that impression. Many of them violate WP's external links rules. See [[WP:LINKSTOAVOID|links to avoid]] and look specifically at:
+* 5. Individual web pages[6] that primarily exist to sell products or services, or to web pages with objectionable amounts of advertising. For example, the mobile phone article does not link to web pages that mostly promote or advertise cell-phone products or services. 
+* 10. Social networking sites (such as Myspace, Facebook, LinkedIn, and Instagram), chat or discussion forums/groups (such as Yahoo! Groups), Twitter feeds, Usenet newsgroups or e-mail lists.
+* 11. Blogs, personal web pages and most fansites, except those written by a recognized authority. (This exception for blogs, etc., controlled by recognized authorities is meant to be very limited; as a minimum standard, recognized authorities who are individuals always meet Wikipedia's notability criteria for people.)
+* Also review the sections on [[WP:ADV|advertising and conflicts of interest]] and [[WP:NONENGEL|non-English-language content]].
+
+Authors, please repair these problems. Thank you, [[User:Wordreader|Wordreader]] ([[User talk:Wordreader|talk]]) 01:46, 20 June 2015 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:2|one external link|2 external links}} on [[Abu Dhabi]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=701503059 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20080619035313/http://www.tedad.ae:80/english/statistic/main_cities.html to http://tedad.ae/english/statistic/main_cities.html
+*Added archive https://web.archive.org/20090208022244/http://www.gowealthy.com:80/gowealthy/wcms/en/home/articles/entertainment/events-and-festivals/Official-holidays-in-UAE-kvOQ0zrKKl.html to http://www.gowealthy.com/gowealthy/wcms/en/home/articles/entertainment/events-and-festivals/Official-holidays-in-UAE-kvOQ0zrKKl.html
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=true}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 23:53, 24 January 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:6|one external link|6 external links}} on [[Abu Dhabi]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=706587750 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20100331120240/http://www.agedi.ae:80/SOEAssessment/EnvironmentalPolicyandRegulation/SOE%20Results/waste.pdf to http://www.agedi.ae/SOEAssessment/EnvironmentalPolicyandRegulation/SOE%20Results/waste.pdf
+*Added archive https://web.archive.org/20090709091632/http://archive.gulfnews.com:80/business/Banking_and_Finance/10329281.html to http://archive.gulfnews.com/business/Banking_and_Finance/10329281.html
+*Added archive https://web.archive.org/20090830162206/http://abudhabi.info:80/?page_id=7 to http://abudhabi.info/?page_id=7
+*Added archive https://web.archive.org/20090422000232/http://www.ameinfo.com:80/news/Company_News/E/Etihad_Airways/ to http://www.ameinfo.com/news/Company_News/E/Etihad_Airways/
+*Added archive https://web.archive.org/20090326030551/http://www.stat-usa.gov/agworld.nsf/505c55d16b88351a852567010058449b/898e8206171d628385256d02006df0d7/$FILE/TC3003.PDF to http://www.stat-usa.gov/agworld.nsf/505c55d16b88351a852567010058449b/898e8206171d628385256d02006df0d7/$FILE/TC3003.PDF
+*Added archive https://web.archive.org/20081011195137/http://www.saudiaramcoworld.com/ to http://www.saudiaramcoworld.com
+*Added archive http://web.archive.org/web/20110722034236/http://www.whatsonwhen.com/sisp/index.htm?fx=event&amp;event_id=157185 to http://www.whatsonwhen.com/sisp/index.htm?fx=event&amp;event_id=157185
+*Added archive http://web.archive.org/web/20130509081338/http://www.redbullairrace.com/cs/Satellite/en_air/Article/Red-Bull-Air-Race-airport-officially-opens-in-Abu-Dhabi-021242827336782 to http://www.redbullairrace.com/cs/Satellite/en_air/Article/Red-Bull-Air-Race-airport-officially-opens-in-Abu-Dhabi-021242827336782
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=true}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 04:04, 24 February 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:8|one external link|8 external links}} on [[Abu Dhabi]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=707803940 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive http://web.archive.org/web/20110706062319/http://www.adwec.ae/statistics/pdf/98-06/Water_Tables_Part2.PDF to http://www.adwec.ae/statistics/pdf/98-06/Water_Tables_Part2.PDF
+*Added archive http://web.archive.org/web/20110706062323/http://www.adwec.ae/statistics/pdf/98-06/Water_Tables_Part1.PDF to http://www.adwec.ae/statistics/pdf/98-06/Water_Tables_Part1.PDF
+*Added archive {newarchive} to http://www.soe.ae/Abu_Themespage.aspx?m=237
+*Added archive http://web.archive.org/web/20110706062327/http://www.adwec.ae/statistics/pdf/98-06/Electricity_Charts2006.PDF to http://www.adwec.ae/statistics/pdf/98-06/Electricity_Charts2006.PDF
+*Added archive http://web.archive.org/web/20110706062333/http://www.adwec.ae/statistics/pdf/98-06/Electricity_Tables_Part1.PDF to http://www.adwec.ae/statistics/pdf/98-06/Electricity_Tables_Part1.PDF
+*Added archive http://web.archive.org/web/20110706062338/http://www.adwec.ae/statistics/pdf/98-06/Electricity_Tables_Part2.PDF to http://www.adwec.ae/statistics/pdf/98-06/Electricity_Tables_Part2.PDF
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=failed}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 21:58, 1 March 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[Abu Dhabi]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=708062390 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive http://web.archive.org/web/20110531151014/http://www.soe.ae/Abu_Themespage.aspx?m=50&amp;amid=488 to http://www.soe.ae/Abu_Themespage.aspx?m=50&amp;amid=488
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=failed}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 11:22, 3 March 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:19|one external link|19 external links}} on [[Abu Dhabi]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=742323801 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive http://www.webcitation.org/6H7Jql2A9?url=http%3A%2F%2Fwww.brookings.edu%2Fresearch%2Finteractives%2Fglobal-metro-monitor-3 to http://www.brookings.edu/research/interactives/global-metro-monitor-3
+*Added archive https://web.archive.org/web/20130624113052/http://www.eceme.ensino.eb.br/cihm/Arquivos/PDF%20Files/99.pdf to http://www.eceme.ensino.eb.br/cihm/Arquivos/PDF%20Files/99.pdf
+*Added archive https://web.archive.org/web/20121124063521/http://www.danathotels.com:80/Hotels-Resorts/Al-Raha-Beach-Hotel to http://www.danathotels.com/Hotels-Resorts/Al-Raha-Beach-Hotel
+*Added archive https://web.archive.org/web/20121203093530/http://www.nbad.com:80/Pages/default.aspx to http://www.nbad.com/Pages/default.aspx
+*Added archive https://web.archive.org/web/20090723064003/http://www.visitabudhabi.ae:80/en/what.to.do/beaches.and.coasts.aspx to http://www.visitabudhabi.ae/en/what.to.do/beaches.and.coasts.aspx
+*Added archive https://web.archive.org/web/20160124235249/http://www.business24-7.ae/Articles/2009/4/Pages/18042009/04192009_26fb1a58877b40f09494c1f21817769e.aspx to http://www.business24-7.ae/Articles/2009/4/Pages/18042009/04192009_26fb1a58877b40f09494c1f21817769e.aspx
+*Added archive https://web.archive.org/web/20131202222330/http://visitabudhabi.ae/en/what.to.see/attractions/abu.dhabi.corniche.aspx to http://visitabudhabi.ae/en/what.to.see/attractions/abu.dhabi.corniche.aspx
+*Added archive https://web.archive.org/web/20090723064058/http://www.visitabudhabi.ae:80/en/uae.facts.and.figures/population.aspx to http://www.visitabudhabi.ae/en/uae.facts.and.figures/population.aspx
+*Added archive https://web.archive.org/web/20151029084750/http://www.uaeinteract.com:80/docs/Updated_version_of_Explore_Abu_Dhabi_through_Statistics,_2015_released/70020.htm to http://www.uaeinteract.com/docs/Updated_version_of_Explore_Abu_Dhabi_through_Statistics,_2015_released/70020.htm
+*Added archive https://web.archive.org/web/20090807054955/http://www.abudhabiairport.ae:80/news/news20090118.asp to http://www.abudhabiairport.ae/news/news20090118.asp
+*Corrected formatting/usage for http://www.ameinfo.com/news/Company_News/E/Etihad_Airways/
+*Added archive https://web.archive.org/web/20140701100118/http://visitabudhabi.ae/en/getting.here.and.around/getting.around/taxis.aspx to http://visitabudhabi.ae/en/getting.here.and.around/getting.around/taxis.aspx
+*Added archive https://web.archive.org/web/20080712070700/http://thenational.ae/article/20080629/ONLINESPECIAL/679771484/9999 to http://thenational.ae/article/20080629/ONLINESPECIAL/679771484/9999
+*Corrected formatting/usage for http://www.marketnewzealand.com/common/files/dubai-cg.pdf
+*Corrected formatting/usage for http://www.saudiaramcoworld.com
+*Added archive https://web.archive.org/web/20110706062313/http://www.abudhabiweek.ae/city-latest/19-sport-articles/85-brazilian-instructors-boost-school-jitsu-scheme to http://www.abudhabiweek.ae/city-latest/19-sport-articles/85-brazilian-instructors-boost-school-jitsu-scheme
+*Added archive https://web.archive.org/web/20100724140854/http://www.bethlehem-city.org/Twining.php to http://www.bethlehem-city.org/Twining.php
+*Added archive https://web.archive.org/web/20110518102012/http://www.zawya.com/Story.cfm/sidWAM20090203063026923/Abu%20Dhabi,%20Brisbane%20ink%20sister%20city%20agreement/ to http://www.zawya.com/Story.cfm/sidWAM20090203063026923/Abu%20Dhabi,%20Brisbane%20ink%20sister%20city%20agreement/
+*Added archive https://web.archive.org/web/20100729173219/http://www.adm.gov.ae:80/En/Menu/index.aspx?MenuID=59&amp;CatID=119&amp;mnu=Cat&amp;div=Cat to http://www.adm.gov.ae/en/Menu/index.aspx?MenuID=59&amp;CatID=119&amp;mnu=Cat&amp;div=Cat
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:InternetArchiveBot|'''&lt;span style=&quot;color:darkgrey;font-family:monospace&quot;&gt;InternetArchiveBot&lt;/span&gt;''']] &lt;span style=&quot;color:green;font-family:Rockwell&quot;&gt;([[User talk:InternetArchiveBot|Report bug]])&lt;/span&gt; 01:28, 3 October 2016 (UTC)
+
+==Useless Map==
+As there are no labels on the map in the inset (other than the name of the city itself), it conveys no useful information, whatsoever.  The body of water pictured could be anything from Lake Geneva to the Indian Ocean, and the surrounding land shapes fail to even establish what continent the city is located on.  Surely a better map can be found?  &lt;!-- Template:Unsigned IP --&gt;&lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/74.95.43.249|74.95.43.249]] ([[User talk:74.95.43.249#top|talk]]) 21:49, 31 October 2016 (UTC)&lt;/small&gt; &lt;!--Autosigned by SineBot--&gt;</text>
+      <sha1>5201a5a1kw5cshg4cjg4vsxpo6lxsi3</sha1>
+    </revision>
+  </page>
+</mediawiki>

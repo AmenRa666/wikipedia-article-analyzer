@@ -1,0 +1,91 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Hurricane Chantal (1989)</title>
+    <ns>1</ns>
+    <id>4466940</id>
+    <revision>
+      <id>746946166</id>
+      <parentid>746945961</parentid>
+      <timestamp>2016-10-30T14:29:02Z</timestamp>
+      <contributor>
+        <username>Jdcomix</username>
+        <id>24170287</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/Jdcomix|Jdcomix]] ([[User talk:Jdcomix|talk]]) to last version by Hurricanehink</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2156">{{ArticleHistory
+|action1=GAN
+|action1date=23:40, 9 January 2013
+|action1link=Talk:Hurricane Chantal (1989)/GA1
+|action1result=listed
+|action1oldid=532265673
+|currentstatus=GA
+|topic=meteorology
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject United States|class=A|importance=Low|TX=yes|TX-importance=Low}}
+{{WikiProject Houston|class=A|importance=Low}}
+{{WikiProject Tropical cyclones|class=A|importance=Low|storms-task-force=yes|atl-task-force=yes}}
+}}
+==Todo==
+Longer intro, and impact should be expanded greatly. Ways to improve the impact would be to have one paragraph describing meteorological statistics (highest recorded wind, highest rainfall amount, beach erosion, if any), and another describing the damage (number of houses damaged or destroyed, any other specifics that should be mentioned, damage total, and death total for the area). If possible, there should be a Mid-West section for the impact, as the storm apparently caused heavy rainfall in Michigan and Illinois. The numerous typos and grammar needs to be fixed, and there should be a 2005 USD estimate somewhee on the page. Overall, it's not very good right now, but the use of inline sources and the rainfall pic results in a start classification. [[User:Hurricanehink|Hurricanehink]] 16:17, 21 March 2006 (UTC)
+
+:Yeah, content is decent but the article quality is pretty low.—[[User:Jdorje|jdorje]] &lt;small&gt;([[User_talk:jdorje|talk]])&lt;/small&gt; 17:19, 21 March 2006 (UTC)
+== Bot report : Found duplicate references ! ==
+In [http://en.wikipedia.org/w/index.php?useskin=monobook&amp;title=Hurricane_Chantal_(1989)&amp;redirect=no&amp;oldid=227327270 the last revision I edited], I found duplicate named references, i.e. references sharing the same name, but not having the same content. Please check them, as I am not able to fix them automatically :)
+* &quot;The Thunderbolt.com&quot; :
+** &lt;nowiki&gt;[http://www.wx1der.com/wx0804.htm]&lt;/nowiki&gt;
+** &lt;nowiki&gt;[http://www.wx1der.com/wx0801.htm The Thunderbolt]&lt;/nowiki&gt;
+** &lt;nowiki&gt;[http://www.wx1der.com/wx0804.htm The Thunderbolt]&lt;/nowiki&gt;
+[[User:DumZiBoT|DumZiBoT]] ([[User talk:DumZiBoT|talk]]) 22:33, 11 August 2008 (UTC)
+
+{{Talk:Hurricane Chantal (1989)/GA1}}</text>
+      <sha1>musmfn4v06a5bl3jm87s3owp5g01e4b</sha1>
+    </revision>
+  </page>
+</mediawiki>

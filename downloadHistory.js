@@ -22,10 +22,19 @@ var client = new bot({
 
 var articleTitle = ''
 
+var bots = []
+
 const downloadRevisionHistory = (_title, cb) => {
+  console.log(_title);
   articleTitle = _title
   client.getArticleRevisions(articleTitle, (err, data) => {
     if (err) throw err
+
+    data.forEach((review) => {
+      if (bots.indexOf(review.user) > -1) {
+        data.splice(data.indexOf(review), 1)
+      }
+    })
 
     var revisions = data
     var _revisions = []
@@ -38,8 +47,6 @@ const downloadRevisionHistory = (_title, cb) => {
         _revisions.push(revisions[i])
       }
     }
-
-    console.log(articleTitle + ': ' +revisions.length);
 
     // cb(null, 'kasjhdkasjhd')
 
@@ -260,16 +267,23 @@ const downloadStubArticlesRevisionHistory = (cb) => {
   })
 }
 
-async.series([
-    downloadFeaturedArticlesRevisionHistory,
-    downloadAClassArticlesRevisionHistory,
-    downloadGoodArticlesRevisionHistory,
-    downloadBClassArticlesRevisionHistory,
-    downloadCClassArticlesRevisionHistory,
-    downloadStartArticlesRevisionHistory,
-    downloadStubArticlesRevisionHistory
-  ],
-  // optional callback
-  function(err, results) {
-    console.log('All articles revision history have been saved!');
-});
+fs.readFile("Bots.txt", 'utf8', (err, data) => {
+  if (err) throw err;
+  bots = _.uniq(data.trim().split(/[\n,\|]/))
+  console.log('Bots List: LOADED');
+
+  async.series([
+      downloadFeaturedArticlesRevisionHistory,
+      downloadAClassArticlesRevisionHistory,
+      downloadGoodArticlesRevisionHistory,
+      downloadBClassArticlesRevisionHistory,
+      downloadCClassArticlesRevisionHistory,
+      downloadStartArticlesRevisionHistory,
+      downloadStubArticlesRevisionHistory
+    ],
+    // optional callback
+    function(err, results) {
+      console.log('All articles revision history have been saved!');
+  });
+
+})

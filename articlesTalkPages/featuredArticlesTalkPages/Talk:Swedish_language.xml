@@ -1,0 +1,582 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Swedish language</title>
+    <ns>1</ns>
+    <id>224028</id>
+    <revision>
+      <id>678112628</id>
+      <parentid>675709186</parentid>
+      <timestamp>2015-08-27T13:08:51Z</timestamp>
+      <contributor>
+        <username>Cyberbot II</username>
+        <id>16283967</id>
+      </contributor>
+      <comment>Notification of altered sources needing review ([[en:WP:PEACHY|Peachy 2.0 (alpha 8)]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="90761">{{V0.5|class=FA|category=Langlit}}
+{{ArticleHistory
+|action1=PR
+|action1date=27 May 2005
+|action1link=Wikipedia:Peer review/Swedish language/archive1
+|action1result=reviewed
+|action1oldid=14318878
+
+|action2=FAC
+|action2date=2 June 2005
+|action2link=Wikipedia:Featured article candidates/Swedish language
+|action2result=promoted
+|action2oldid=14597740
+
+|action3=FAR
+|action3date=07:35, 8 December 2007
+|action3link=Wikipedia:Featured article review/Swedish language/archive1
+|action3result=kept
+|action3oldid=176476220
+
+|maindate=June 18, 2005
+|currentstatus=FA
+}}
+{{Vital article|level=4|topic=Language|class=FA}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Sweden|importance=top|class=FA}}
+{{WikiProject Languages|importance=high|class=FA}}
+{{WikiProject Finland|class=FA|importance=high}}
+{{WikiProject Åland Islands|class=FA|importance=top}}
+}}
+{{todo}}
+{{archives}}
+__TOC__
+
+
+==Untitled==
+:''Discussions on Swedish phonology have been moved to [[Talk:Swedish phonology]].''
+
+== Official status ==
+For some reason, Sweden was placed above Finland in the list of countries where Swedish is official. Such lists are alphabetical, (see [[German language]] or [[Spanish language]]) so I changed the order here.[[User:JdeJ|JdeJ]] ([[User talk:JdeJ|talk]]) 11:55, 1 January 2009 (UTC)
+
+== Number of speakers ==
+
+We need to establish a consensus for how to accurately present the number of speakers. The latest suggestion[http://en.wikipedia.org/w/index.php?title=Swedish_language&amp;diff=269629049&amp;oldid=268724679] is a step in the right direction, but it's very much a guesstimate. The number of native speakers of Swedish in Finland seems accurate since the figure comes from an official statistics bureau. The figure from Ethnologue is unreliable, however. Ethnologue does not conduct statistical studies and the cites no external sources in this case. The conclusion in the footnote mixes native and non-native; living in Sweden is not synonymous with being a native speaker of Swedish. I checked the article &quot;svenska&quot; in [[Nationalencyklopedin]], and noticed that they have added more detailed statistics. Their figures puts the number of native speakers at 8.5 million in 2007, breaking them down in the following way:
+
+*Sweden: 7.7 million
+*Finland: 295,000
+*US: 101,000
+*Norway: 43,000
+*UK: 32,000
+*Germany: 30,000
+*Spain: 17,000
+*France: 15,000
+*Denmark: 11,000
+*Canada: 9,000
+*Australia: 6,000
+*Switzerland: 6,000
+*Belgium: 5,000
+*Italy: 3,500
+
+These figures are interesting and seem quite believable to me. The US figure seems very high, but it could be plausible since US culture has a firm basis in Sweden and there might still be a lot of emigration there. I have no idea what the source is for these figures, though. There's a bibliography at the end of the article, but none of the titles seem to have anything to do with statistics, and the most recently published source is from 1999.
+
+I think the biggest problem is that we need a stricter division between native and non-native speakers, especially when it comes to Finland. If we include the large proportion of native Finnish speakers that can speak Swedish, we're probably talking about an additional million. And what about Denmark and Norway? At least half of all Norwegian speakers could be considered to be more or less fluent in Swedish.
+
+Does anyone else have ideas on how to handle this or suggestions about reliable sources?
+
+[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 14:16, 11 February 2009 (UTC)
+
+:Finland counts as Swedish-speakers those Finns who self-identify as ''[[Swedish-speaking Finns|finlandssvenskar]]''. That means they self-identify as native speakers of Swedish, although many are completely bilingual. On the other hand, Swedish has been an obligatory language at comprehensive school since 1970 and at high school since 18th century. Every Finn who is less than 40 years old has at least rudimentary Swedish skills. In addition, every Finn who has a higher education should be capable of speaking and writing Swedish at satisfactory level. However, this statistic is not followed by the authorities. --[[User:MPorciusCato|MPorciusCato]] ([[User talk:MPorciusCato|talk]]) 15:20, 11 February 2009 (UTC)
+
+::Something in the back of my head tells me that has been an EU publication (circa 2007? possibly prepared for the Commission) on the number of native speakers of the various official EU languages within the union, as well as the number of people who speaks/understood the languages. Its publishing was probably related to EU's (over?)ambitious goal that all citizens should know (at least) two foreign languages to a level where they can engage in an everyday conversation. Although the data probably only would refer to the number of speakers inside EU, this would cover most Swedish-speakers, and also contain data that could be of use for other articles. I don't remember the exact title or have a link, but perhaps it could be unearthed by some Googling? I did browse it online at some time, as I recall. [[User:Tomas e|Tomas e]] ([[User talk:Tomas e|talk]]) 19:10, 11 February 2009 (UTC)
+
+: Hi Peter. I appreciate the initiative! You are right that my guess is very rough, but it seemed to me that the old figure was way too high, so i whipped up a new estimate with the limit amount of data/time i had. If you have a better idea how to come up with a reliable number, go for it! -- [[User:Uluboz|Uluboz]] ([[User talk:Uluboz|talk]]) 20:00, 28 February 2009 (UTC)
+
+Many other language articles contain an estimate of the number of the total number of speakers, including also those that are non-native but are able to participate in a conversation in the language. For example, the article on the Dutch language refers to the Special Eurobarometer 243 from the European Commission &lt;ref&gt;http://ec.europa.eu/public_opinion/archives/ebs/ebs_243_en.pdf&lt;/ref&gt; to assert that in fact 5 million people in Europe speak Dutch as a foreign language. The same source assesses that 41 % of all Finnish people whose native tongue is not Swedish are able to converse in the language. The same applies to 11 % of the people in Denmark. The investigation was made in 2005, meaning that out of the 5,136,000 Finns that were not native Swedish speakers and out of the 5,419,000 Danes, 2,106,000 Finns and 596,000 Danes were able to converse in Swedish. 
+Regarding the number of speakers of Swedish in Sweden itself, there is not really any statistics on the knowledge among the foreign-born, but we can assume that any foreign-born who is a Swedish citizen is able to converse in the language. According to the SCB, that number would be 841,179&lt;ref&gt;http://www.scb.se/Pages/TableAndChart____26041.aspx&lt;/ref&gt;. 
+These groups add upp to approximately 3,543,000. Adding that to the number of native speakers currently displayed (8.7 million), gives us a total number of 12.2 million speakers. ([[User:Jonas Henriksson|Jonas Henriksson]] ([[User talk:Jonas Henriksson|talk]]) 22:57, 23 February 2013 (UTC))
+
+:These conclusions are based on deduction and a great deal of speculation on your part. What you're claiming is not [[WP:V|verifiable]] per Wikipedia policy. You need to find a [[WP:RS|reliable source]] where someone with some sort of authority states these figures. Deducing them from various surveys, which are very general in nature, is considered [[WP:OR|original research]].
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 23:54, 24 February 2013 (UTC)
+
+:Jonas, please don't add these kind of figures to the article despite the concerns about original research and whatnot. At the very least, having these figures in the lead is not appropriate, though it would be interesting to have a nuanced discussion about the number of non-native speakers in the body of the article.
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 06:55, 26 February 2013 (UTC)
+
+::Peter, ok, I am very sorry, perhaps it was too bold to make this change. However, even if unintended on your part, I must say that you are applying a double standard here. As I wrote above, the article about the [[Dutch language]] uses the responses from the Special Eurobarometer 243 to calculate the number of secondary speakers, mainly in Germany. These figures are in the lead of that article. Why can we use this source to count Germans as Dutch speakers but not Danes and Finns as Swedish speakers? 
+::I agree with you on that it is a speculation to assume that foreign-born that have Swedish citizenship can speak Swedish. Even if it is not a bold speculation, it is perhaps going too far. 
+::To be consistent, either the Danes and Finns speaking Swedish need to be added or the Germans speaking Dutch must be removed from the Dutch language article. The source is the same and the position of the figure is the same in the respective articles. Do you agree with me in that Wikipedia should treat figures from the very same source, the Eurobarometer, in the same way? ([[User:Jonas Henriksson|Jonas Henriksson]] ([[User talk:Jonas Henriksson|talk]]) 14:45, 26 February 2013 (UTC))
+
+:::This is not [[Dutch language]] and I don't agree that this particular source should be used in this way. In my view, it's far too imprecise about defining language proficiency to be cited in a lead (which is supposed to be a general summary limited to fairly certain facts). Like I said, it might be discussed in the body of an article, but I don't believe the figures are reliable enough to be in the lead.
+:::As for &quot;consistency&quot; across all of Wikipedia, you can't argue that the use of a given reference in one article has to be applied to all articles. Especially when we're talking about an FA and a B-class article. You should argue the relevance of certain references on their own merits, not on whether they're used in other articles or not. Again, we have policies for these cases: [[WP:Reliable sources]] and [[WP:Verifiability]].
+:::[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 15:13, 26 February 2013 (UTC)
+
+:::: I believe that any figure on the number of secondary speakers of a language would be somewhat imprecise regarding proficiency, unless there is a figure considering only those that have undergone a standardized assessment. I don't believe that any of the figures regarding secondary speakers of any language are based on such a high quality source on wikipedia. Yet mostly every language article dares to make this type of estimation, usually in the table on the right in the beginning. I am sorry to have intruded on your &quot;baby&quot; that won this award. I just found it bothering and unsufficient that many other language articles contained this figure whereas this particular article lacks it. I thought it was just something the authors had overlooked. However, I see that the article might risk its high status if it refers to less reliable sources. ([[User:Jonas Henriksson|Jonas Henriksson]] ([[User talk:Jonas Henriksson|talk]]) 16:49, 26 February 2013 (UTC))
+
+:::::Once again, mentioning it in the article is not a problem. Establishing it as uncontroversial in the lead is different. Please feel free to incorporate this in &quot;Geographic distribution&quot;. Just not in the lead. We have policies for that as well, so you might want to check out [[WP:LEAD]].
+:::::[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 08:53, 27 February 2013 (UTC)
+
+===Refs===
+&lt;references /&gt;
+
+== Finnish and Swedish ==
+
+I just saw a show where someone spoke a language that, as he explained, originated because people couldn't speak either Swedish or Finnish very well. Therefore they came up with that language which is apparently some sort of mix of the two. His flag was from top to bottom [[white]]-[[blue]]-[[yellow]]. Can anyone tell me where he was from? [[User:Mallerd|Mallerd]] ([[User talk:Mallerd|talk]]) 11:01, 22 August 2009 (UTC)
+
+:He was referring to [[Meänkieli]] which is spoken on the Finnish-Swedish border in the [[Torne Valley]]. It's basically a dialect of Finnish with a lot of Swedish influences that has been defined as a separate language because of repressive Swedish policies towards Finnish-speakers during the 20th century.
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 12:49, 22 August 2009 (UTC)
+
+Thank you very much :D [[User:Mallerd|Mallerd]] ([[User talk:Mallerd|talk]]) 17:10, 22 August 2009 (UTC)
+
+== Genders ==
+
+Aren't the &quot;n&quot; and &quot;t&quot; words considered genders (grammatically)? That's what I always thought (Swedish being my native tongue). [[User:MagnusW|MagnusW]] ([[User talk:MagnusW|talk]]) 23:26, 23 February 2010 (UTC)
+
+:Do you believe the article claims otherwise?
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 06:09, 24 February 2010 (UTC)
+
+== Vocabulary changes? ==
+
+I think [http://en.wikipedia.org/w/index.php?title=Swedish_language&amp;action=historysubmit&amp;diff=335937514&amp;oldid=335189173 these edits] by {{userIP|83.255.33.190}} are problematic for several reasons:
+*How is it relevant that some post-1950s Swedish loanwords from English are ultimately (arguably) of Scandinavian origin?
+:Varför är det inte relevant, att orden har lånats åt bägge håll? Ett typiskt intressant faktum som platsar alldeles utmärkt i sammanhanget som jag ser det. Om du inte känner till att ett stort antal engelska ord härstammar från skandinavien så se t.ex [[viking age]] (eller gör som jag, läs en bok om engelskans bakgrund och utveckling, kan rekommendera t.ex ''Baker: The English language''). [[Special:Contributions/83.255.33.190|83.255.33.190]] ([[User talk:83.255.33.190|talk]]) 08:48, 5 January 2010 (UTC)
+::Because the section is about the vocabulary of Swedish, talking about loanwords from Swedish in other languages is out of place there. We could have a section on the influence of Swedish on other languages, but that would have to include ''[[ombudsman]]'' and ''[[smörgåsbord]]'' and so forth. This section mentions the influence of other languages on Swedish. Talking about the influence of Swedish on other languages is [[WP:OFFTOPIC]]. [[User:Gabbe|Gabbe]] ([[User talk:Gabbe|talk]]) 14:06, 5 January 2010 (UTC)
+::: It's by no means off topic, the words mentioned are loanwords in Swedish, no reason at all to include ombudsman etc. [[Special:Contributions/83.255.34.156|83.255.34.156]] ([[User talk:83.255.34.156|talk]]) 14:16, 7 January 2010 (UTC)
+*&quot;Electricity&quot; is a somewhat misleading example of a French loan word in Swedish
+: Varför det? Det är ett av tusentals franska låneord och lär ursprungligen ha kommit in i svenskan med Gustav III i formen ''elektrifiera''. Det är minst lika vardagligt som de övriga. Jag listade ursprungligen (för några år sedan) betydligt fler ord, men de blev tyvärr borttagna, kanske av dig. [[Special:Contributions/83.255.33.190|83.255.33.190]] ([[User talk:83.255.33.190|talk]]) 08:48, 5 January 2010 (UTC)
+::The three examples already given are clear and listing them is concise and to the point. Adding more clutters the article, and risks making it [[WP:TLDR]]. And while the word ''elektricitet'' does come from French, it's arguably more of a [[New Latin]] loanword. As such, I'm not saying it's incorrect, it's just a bad example. [[User:Gabbe|Gabbe]] ([[User talk:Gabbe|talk]]) 14:06, 5 January 2010 (UTC)
+::: That really was an overly rigid and narrow-minded perception of what constitutes &quot;clutter&quot;. We can only hope that you wont't destroy ''too'' many other constructive and informative edits on Wikipedia with that kind of extreme minimalist attitude... and, for actual ''bad'' examples, please see below... [[Special:Contributions/83.255.34.156|83.255.34.156]] ([[User talk:83.255.34.156|talk]]) 14:16, 7 January 2010 (UTC)
+*The compound phrases weren't incorrect, and were meant to be &quot;extreme&quot; to illustrate that point.
+: Det finns ingen vits med påhittade extrema exempel. Det är naturligtvis bättre att visa ett par mer typiska sammansatta ord i svenskan, åtminstone om man vill ge en verklig bild av språket! Om den &quot;dåliga stavningen&quot; syftar på nagellackborttagare så sök på ordet, det finns det med. [[Special:Contributions/83.255.33.190|83.255.33.190]] ([[User talk:83.255.33.190|talk]]) 08:48, 5 January 2010 (UTC)
+::The [[WP:Talk page guidelines]] say to &quot;Use English&quot;, so please do so. If you feel capable of editing the article in English you are also capable of discussing your edits in English. --[[User:Futhark|Futhark]]|[[User talk:Futhark|Talk]] 11:33, 5 January 2010 (UTC)
+::&quot;Nagellackborttagningsmedel&quot; is not a &quot;made up&quot; example, but a rather common word. Also, the whole point of &quot;produktionsstyrningssystemsprogramvaruuppdatering&quot; is for it to show a hypothetical example. Abbreviating it changes the point of listing it. Of course we could change it to show an example of a word that's actually been used, like &quot;Nordöstersjökustartilleriflygspaningssimulatoranläggningsmaterielunderhållsuppföljningssystemdiskussionsinläggsförberedelsearbeten&quot;. Would that be better? [[User:Gabbe|Gabbe]] ([[User talk:Gabbe|talk]]) 14:06, 5 January 2010 (UTC)
+::: Of course not, if that example is real, it's plain retarded (just like the old one). Why not include other kinds of bad or silly usage of Swedish as well? Give us that really perverted image of the Swedish language... and put it under ''Vocabulary'', to make the confusion complete. [[Special:Contributions/83.255.34.156|83.255.34.156]] ([[User talk:83.255.34.156|talk]]) 14:16, 7 January 2010 (UTC)
+So I've reverted per [[WP:BRD]]. [[User:Gabbe|Gabbe]] ([[User talk:Gabbe|talk]]) 08:00, 5 January 2010 (UTC)
+:And oh, the bad spelling was a reference to the lowercase &quot;scandinavian&quot; and &quot;swedish&quot;. [[User:Gabbe|Gabbe]] ([[User talk:Gabbe|talk]]) 14:06, 5 January 2010 (UTC)
+::: What a shame! Certainly a good reason to revert the whole thing... [[Special:Contributions/83.255.34.156|83.255.34.156]] ([[User talk:83.255.34.156|talk]]) 14:16, 7 January 2010 (UTC)
+
+:(Objection: please use English in English Wikipedia, most editors don't speak Swedish! [[User:Rursus|Rursus]] dixit. ([[User talk:Rursus|&lt;span style=&quot;color: red; background: #FFFF80&quot;&gt;&lt;sup&gt;m&lt;/sup&gt;&lt;u&gt;bork&lt;sup&gt;3&lt;/sup&gt;&lt;/u&gt;&lt;/span&gt;]]!) 06:49, 17 April 2010 (UTC))
+
+== Mistranslation ==
+
+One of the words used as examples of Swedish [[grammar]] is mistranslated.  The word “kavaj” only refers to the jacket part of a [[suit (clothing)|suit]].  If you don't want to replace the word “suit” you may replace “kavaj” with “kostym”.  It is Swedish for “suit” in this sense of the word.  Yes, the two words are inflected the same way.
+
+2010-03-08  Lena Synnerholm, Märsta, Sweden.
+:Right! Now corrected, although ''mannen i grå kostyms hatt'' is so complex so as to occur very rarely in either spoken or written Swedish. [[User:Rursus|Rursus]] dixit. ([[User talk:Rursus|&lt;span style=&quot;color: red; background: #FFFF80&quot;&gt;&lt;sup&gt;m&lt;/sup&gt;&lt;u&gt;bork&lt;sup&gt;3&lt;/sup&gt;&lt;/u&gt;&lt;/span&gt;]]!) 06:54, 17 April 2010 (UTC)
+
+
+Don't know where in this talk to address this but 
+mannens i grå kostym hatt; &quot;the man's in a grey suit hat&quot;
+doesn't make any sense, it ought to be
+mannens grå kostym hatt; &quot;the man's grey suit hat&quot;  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Kille200|Kille200]] ([[User talk:Kille200|talk]] • [[Special:Contributions/Kille200|contribs]]) 11:14, 19 June 2011 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+:The phrase ''mannens grå kostym hatt'' (&quot;the man's grey suit hat&quot;) is ungrammatical. You could say ''mannens grå kostymhatt'' (&quot;the man's grey suit-hat&quot;), but then it would mean &quot;the grey suit-hat belonging to the man&quot;. The sentence ''mannens i grå kostym hatt'' (&quot;the man's in grey suit hat&quot;) is the formal (albeit archaic) way of saying &quot;the hat belonging to the man in a grey suit&quot;. For another example, the proper way of saying &quot;the cap belong to [[Charles XII of Sweden|Charles XII]]&quot; would be ''Karl:s den tolfte mössa'' rather than ''Karl den tolfte:s mössa'' which most people say nowadays. [[User:Gabbe|Gabbe]] ([[User talk:Gabbe|talk]]) 13:12, 19 June 2011 (UTC)
+
+== 'External links' requires a cleanup ==
+
+The 'external links' section is slowly becoming a link repository, and I have just reverted an edit that added more. The links should be checked for quality and usefulness, and the descriptions should be more encyclopaedic—&quot;only disadvantage - lack of examples of words usage&quot; is unnecessary commentary. Also, why are there two 'references' sections? [[User:Hayden120|Hayden120]] ([[User talk:Hayden120|talk]]) 14:19, 26 March 2010 (UTC)
+
+:Uhm... There is only one section called &quot;References&quot;.
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 18:36, 26 March 2010 (UTC)
+
+::Not on my computer. There is one below 'notes', and other at the very bottom of the page that only contains one link. [[User:Hayden120|Hayden120]] ([[User talk:Hayden120|talk]]) 01:36, 27 March 2010 (UTC)
+
+:::Ah. Escaped my notice.  Obviously just a misguided attempt to display a straightforward external link.
+:::[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 11:28, 28 March 2010 (UTC)
+
+== Colon usage ==
+
+The article reads:
+:''The colon is used with numbers, such as 10:50 kronor (&quot;10.50 SEK&quot;); for abbreviations such as 3:e for tredje (&quot;third&quot;) and S:t for Sankt (&quot;Saint&quot;);''
+What other kinds of numbers is the colon used with, except for price tags (as shown in the example) and timestamps? [[User:HannesP|HannesP]] ([[User talk:HannesP|talk]]) 19:10, 15 April 2010 (UTC)
+:For the rest, colon is used ''as in English'', like the previous sentence says. The paragraph does not explain how English uses it. At the very least a link is needed. [[User:Rursus|Rursus]] dixit. ([[User talk:Rursus|&lt;span style=&quot;color: red; background: #FFFF80&quot;&gt;&lt;sup&gt;m&lt;/sup&gt;&lt;u&gt;bork&lt;sup&gt;3&lt;/sup&gt;&lt;/u&gt;&lt;/span&gt;]]!) 06:57, 17 April 2010 (UTC)
+
+:F.ex. [[Colon_(punctuation)#Usage]]. [[User:Rursus|Rursus]] dixit. ([[User talk:Rursus|&lt;span style=&quot;color: red; background: #FFFF80&quot;&gt;&lt;sup&gt;m&lt;/sup&gt;&lt;u&gt;bork&lt;sup&gt;3&lt;/sup&gt;&lt;/u&gt;&lt;/span&gt;]]!) 07:17, 17 April 2010 (UTC)
+::That still doesn't quite answer my question. The article claims that it's used with numbers in general, but I can't think of any other instances other than &quot;10:50 kronor&quot; and &quot;klockan 13:37&quot;. [[User:HannesP|HannesP]] ([[User talk:HannesP|talk]]) 10:51, 18 April 2010 (UTC)
+:::It says &quot;with numbers&quot;, but not &quot;in general&quot;. What do you feel that a &quot;general&quot; interpetation of usage would be with the current wording, though?
+:::[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 14:35, 19 April 2010 (UTC)
+::::I would prefer an exhaustive list of the contexts where a colon is used as a number separator, instead of the open-ended phrase ‘such as’ that might lead the reader to believe that the colon is used — for example — as a decimal separator // [[User:HannesP|HannesP]] ([[User talk:HannesP|talk]]) 21:03, 19 April 2010 (UTC)
+:::::A full description of colon usage doesn't seem all that appropriate here. Possibly in [[Swedish orthography]], but certainly not in the main language article. It might even be a good idea to condense the orthography section and focus more on general traits than specific examples.
+:::::[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 22:20, 19 April 2010 (UTC)
+:::The article on Swedish orthography was redirected to the heading [[Swedish alphabet]] three years ago, when its contents did not extend behind a presentation of the character repertoire. In the interim, a detailed section has been added to it on, &quot;Spellings for the sje-phoneme /ɧ/&quot;, for which the original heading would be clearly the more appropriate. Perhaps it's now time to revert to it and migrate the material in the present article that might be better placed and elaborated upon there. A section on punctuation would be appropriate in that context, with the colon being one of several characters that would require at least some explanation. --[[User:Futhark|Futhark]]|[[User talk:Futhark|Talk]] 08:22, 20 April 2010 (UTC)
+
+==Dubious terms==
+A few dubious terms occur in the section '''Classification''':
+:&quot;Continental Scandinavian languages&quot; vs. &quot;Insular Scandinavian languages&quot;
+:&quot;a common Scandinavian language&quot;
+These terms need to be attested by sources. The subdivision of East Scandinavian (mutually intelligible, including Bokmål, Swedish, Danish and Scanian) vs. West Scandinavian (generally not mutually intelligible, including Faroese, Icelandic and local Nynorsk block dialects - Nynorsk is an artificial language) is the generally accepted division scheme. [[User:Rursus|Rursus]] dixit. ([[User talk:Rursus|&lt;span style=&quot;color: red; background: #FFFF80&quot;&gt;&lt;sup&gt;m&lt;/sup&gt;&lt;u&gt;bork&lt;sup&gt;3&lt;/sup&gt;&lt;/u&gt;&lt;/span&gt;]]!) 13:36, 17 April 2010 (UTC)
+
+:[http://www.nordiska.uu.se/institutionen/omraden/faroiska Here] is a page from Uppsala University that mentions this classification (in Swedish). Norwegian is historically a West Scandinavian language, which is why there is a need for this second classification based more on intelligibility.
+:[[User:Andejons|Andejons]] ([[User talk:Andejons|talk]]) 07:22, 19 April 2010 (UTC)
+:The section already says just that:
+::''In the established classification, it [Swedish] belongs to the East Scandinavian languages together with Danish, separating it from the West Scandinavian languages, consisting of Faroese, Icelandic and Norwegian.''
+:To the best of my knowledge this is not a controversial statement.
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 14:30, 19 April 2010 (UTC)
+
+
+== Sole administrative language of Finland? ==
+
+Certainly Swedish was not SOLE administrative language of Finland until 1902. Finnish (and sometimes even Russian) were used in administrative affairs in Finland already in the latter part of 19th century. [[Special:Contributions/62.78.196.51|62.78.196.51]] ([[User talk:62.78.196.51|talk]]) 18:37, 23 May 2010 (UTC)
+
+== Pronouns ==
+
+This section doesn't make sense to me:
+:Swedish pronouns are basically the same as those of English but distinguish two genders and have an additional object form, derived from the old dative form, as well as a distinct genitive case. Hon (&quot;she&quot;) has the following forms in nominative, genitive, and object form:
+:hon - hennes - henne
+# What's meant by &quot;same as those of English&quot;?
+# Why does it say &quot;'''but''' distinguish two genders&quot;? Doesn't English too...?
+# Why does it say &quot;additional object form&quot;? What is it added to? Doesn't English have object forms as well?
+# Why is only the inflection for &quot;hon&quot; given?
+# Isn't it a bit inaccurate to use the term &quot;genitive&quot; rather than &quot;possessive&quot; or something like that, considering the status of cases in Swedish?
+I suggest that this entire section be removed from the article. ~ [[User:HannesP|HannesP]] ([[User talk:HannesP|talk]]) 18:27, 27 June 2010 (UTC)
+
+:Rather than remove the section altogether, I've tried to tweaked the paragraph for clarity. Switching from the description &quot;basically the same as&quot;, to &quot;similar to those of English&quot; will make the section less disputable. I agree that long lists of examples should be removed, but it's therefore quite logical not to provide inflections for all the pronouns. ''Hon'' is merely an example. Full tables can be covered in [[Swedish grammar]].
+:Thanks for pointing out the vagueries. If you see any others, don't hesitate to specify them here or to correct them yourself.
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 06:22, 28 June 2010 (UTC)
+
+==Scanian flag==
+What relevance does the Scanian flag have in the article? It is grouped together with the Swedish flag to the left and the Ålandic flag to the right to form some kind of Swedish language troika. I am not claiming anything about the Scanian dialects and whether they form a language, are Danish or Swedish, just that it seems odd to use the Scanian flag to represent the Swedish language. Ålandic makes some sense though, but wouldn't the Swedish and Finnish flags do the work?
+'''JiPe''' ( [[Special:Contributions/193.10.117.138|193.10.117.138]] ([[User talk:193.10.117.138|talk]]) 17:22, 12 July 2010 (UTC) )
+
+:The layout of [[Template:Swedish language topics]] should be discussed at the template's own talkpage, not in the articles that it happens to be placed in.
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 17:52, 12 July 2010 (UTC)
+
+::I disagree. I know the red and yellow flag does not refer to Scania, but most people would make that connection. It's the confusing ''use'' of it in the article I question, not the validity of the flag troika ''itself''.
+::Analogous example. Say I question a link to a Wikipedia article on [[zebra]]s in the article. Wouldn't it be appropriate to discuss the link in the article's talk page rather than in the talk page of [[zebra]]?
+::'''JiPe''' ([[Special:Contributions/193.10.116.207|193.10.116.207]] ([[User talk:193.10.116.207|talk]]) 17:27, 6 August 2010 (UTC))
+
+:::I understand your concern about the confusion with the Scanian flag, but this isn't just a single wikilink, but an entire set of links. The template is included in a dozen different articles, so this definitely is an issue to be discussed at the template talkpage. But I see that you've already started a discussion over at [[Template talk:Swedish language topics]], so I'll give my opinion on the issue there.
+:::[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 18:04, 6 August 2010 (UTC)
+
+::::Is everything okay now? [[User:Hayden120|Hayden120]] ([[User talk:Hayden120|talk]]) 18:41, 6 August 2010 (UTC)
+
+== Pronunciation request ==
+
+Hi! Could someone help with the correct [[Wikipedia:IPA for Swedish and Norwegian|Swedish pronunciation with IPA]] of the names ''Robert (Robin) Sanno Fåhræus'' and ''Johan Torsten Lindqvist''? It would make a lot of help for the article: [[Fåhræus–Lindquist effect]] and later in the biographical articles of the two scientists. Pls answer on the page [[Wikipedia talk:Swedish Wikipedians' notice board]] Thanks, [[User:Timur lenk|Timur lenk]] ([[User talk:Timur lenk|talk]]) 21:42, 6 August 2010 (UTC)
+
+== Explanation request ==
+In the text there is reference to &quot;the spelling reform of 1906&quot;.  It's possible that I just missed that, but a quick search on the page for &quot;1906&quot; or &quot;reform&quot; showed nothing relevant.  If there was some official spelling, then I think it should be directly referred to, showing what were the reasons given, what were the differences made, who decided these differences and how was it &quot;policed&quot;.  State intervention in a language tell you a great deal about how a country thinks of its language and culture.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Jorvikian|Jorvikian]] ([[User talk:Jorvikian|talk]] • [[Special:Contributions/Jorvikian|contribs]]) 02:57, 13 September 2011 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+:I believe it might be an interesting addition to [[Swedish orthography]], but the impact wasn't really that massive. Swedish Wikipedia has an article on the reform, though: [[:sv:stavningsreformen 1906]].
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 06:32, 13 September 2011 (UTC)
+
+== Romani words ==
+There are some words from Romani in Swedish, with &quot;tjej&quot; perhaps the best known. The question is whether the words are many or important enough to be mentioned. There are surely words borrowed from tens of languages, all of which cannot be mentioned. We need a source on the Swedish language mentioning the Romani words as important. --[[User:LPfi|LPfi]] ([[User talk:LPfi|talk]]) 11:03, 14 January 2012 (UTC)
+
+:Dunno, really. But it's a good example of borrowing from a &quot;resident&quot; foreign language which isn't one of the major European languages. It's also a fairy good example of a source language for slang that is today considered common colloquialisms.
+:Best way to find out is probably to verify what the source says about it.
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 11:26, 14 January 2012 (UTC)
+::The borrowings from Romani originated in a manner similar to the [[rinkebysvenska]] of today. The colloquial nature of these words are often somewhat similar to [[List of English words of Yiddish origin|(US) English words of Yiddish origin]]. I removed Finnish, since borrowings from Finnish are very limited, and not worth mentioning here. [[User:Wakuran|惑乱 Wakuran]] ([[User talk:Wakuran|talk]]) 09:09, 13 June 2012 (UTC)
+
+== Where Swedish is &quot;spoken&quot; ==
+
+I doubt the list of countries where Swedish is spoken is entirely relevant. I've written more about it in general at [[Template talk:Infobox language#When is a language &quot;spoken&quot; somewhere?|Template talk:Infobox language]]. In essence, I don't think it is meaningful to say that a language is &quot;spoken&quot; somewhere if it does not have a local tradition in the country. I.e. it gives no more reason to say that a language is spoken somewhere because either a) at any given time there are many tourists speaking the language staying there, b) many exchange students live there, c) many expats live there.
+
+So with the exception of Sweden, parts of Finland and a single Ukrainian village, does Swedish have a local tradition in all of the countries on the list? Is it meaningful to say that Swedish is spoken in these countries? I personally doubt it. [[User:Njardarlogar|Njardarlogar]] ([[User talk:Njardarlogar|talk]]) 18:27, 14 June 2012 (UTC)
+:I don't think the Ukrainian village is meaningful to mention. It's way too minor. [[User:Wakuran|惑乱 Wakuran]] ([[User talk:Wakuran|talk]]) 19:42, 14 June 2012 (UTC)
+
+:The Ukrainian village is entirely irrelevant in my view, simply because there are virtually no native speakers. The 10,000 figure is nothing short of exaggerated. The figure is by today down to no more than 50, or perhaps even just a handful of elderly people.
+:The other figures, however, seem fairly relevant. Expatriate communities of several tens of thousands aren't exactly what I would consider insignificant, especially the ones living in the US, UK and Spain. And as far as I understand, these statistics don't include tourists.
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 13:32, 15 June 2012 (UTC)
+::There's also a fairly large Swedish expat community in places such as Oslo and Berlin, although it mostly consists of free-moving youth. [[User:Wakuran|惑乱 Wakuran]] ([[User talk:Wakuran|talk]]) 15:13, 15 June 2012 (UTC)
+:::Isn't the proper place for this discussion Template talk:Infobox language or maybe some language-relatede Wikipedia talk page? I think we all agree that all language articles should define &quot;spoken&quot; in the same way, but we won't get there discussing it here. What is the best place to reach a consensus about what &quot;spoken&quot; means?[[User:Sjö|Sjö]] ([[User talk:Sjö|talk]]) 17:23, 15 June 2012 (UTC)
+:::::I've started a general debate on the talk page of the template (see the link in my first paragraph here). What I wanted to achieve on ''this'' page was to figure out the exact background of the numbers provided after &quot;Spoken in&quot; in the infobox (Sweden and Finland excluded). If the speakers in the U.S., Spain, the UK and Canada are all expats, that is relevant information regardless.
+:::::Peter, I am not saying expats are ''insignificant'', I just don't see how it is relevant to list up expats; that is something that sounds more relevant for the  &quot;[[Swedes]]&quot; article. But yeah, what is relevant to include is something that should be discussed at the template talk page (or elsewhere), and I am hoping for feedback there, too. [[User:Njardarlogar|Njardarlogar]] ([[User talk:Njardarlogar|talk]]) 18:50, 15 June 2012 (UTC)
+::::::Agreed on the issues of form; this should be a centralized discussion.
+::::::[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 14:58, 18 June 2012 (UTC)
+
+== Final word on Noarootsi official Swedish ==
+
+I have been in touch with Noarootsi Parish through their official e-mail address and asked whether Swedish is in fact an official language there. Their reply was prompt and to the point:
+
+&quot;Swedish is not an official language in Noarootsi. Official language is Estonian, as it is in Estonia.
+
+Sincerely ,
+
+Annika Kapp
+
+Parish leader
+
+Noarootsi Vallavalitsus&quot;
+
+I know that a website source has been actually provided to support the statement, but I quite frankly don't consider it reliable. It links to Noarootsi's official homepage, but there is absolutely nothing there about official status for Swedish. Despite the fact that nordic.org claims otherwise, I'm removing this fact, because it's obviously based on some kind of misunderstanding or rumor without any supporting evidence or explanation.
+
+Unless someone objects, I will remove Noarootsi from the infobox and add a hidden comment instructing editors not to add that fact again without first checking with Noarootsi Parish.
+
+[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 11:00, 13 July 2012 (UTC)
+
+:I've emailed the web editors at nordic.org and asked about their source for the claim as it might very well be picked up from Wikipedia.[[User:Sjö|Sjö]] ([[User talk:Sjö|talk]]) 07:30, 14 July 2012 (UTC)
+
+::As did I, actually since I suspect the exact same thing. I hope that encourages them to be a bit more careful about their facts.
+
+::[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 08:26, 14 July 2012 (UTC)
+
+:::The statement about Swedish as an official language in Noarootsi/Nuckö has been removed from http://www.norden.org/en/the-nordic-region/language/ . [[User:Sjö|Sjö]] ([[User talk:Sjö|talk]]) 09:22, 9 September 2012 (UTC)
+
+::::Maybe they removed it because they couldn't find it on Wikipedia anymore. :-D
+::::[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 16:31, 9 September 2012 (UTC)
+:::::Which would be a perfect example of [http://xkcd.com/978/ &quot;citogenesis&quot;]... [[User:Gabbe|Gabbe]] ([[User talk:Gabbe|talk]]) 19:03, 9 September 2012 (UTC)
+
+==Runic alphabet mention==
+
+Is it fair to say that the mentioning of the Runic alphabet in the template is largely unnecessary? In fact, the Swedish language article is the only one of the Scandinavian language articles that mention this in the template. Seeing as the Runic alphabet fell out of use some 700 years ago, it's inclusion in the template just seems unnecessary. [[User:Halfdanr|Halfdanr]] ([[User talk:Halfdanr|talk]]) 15:42, 30 November 2012 (UTC)
+
+:Agreed; removed.
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 18:34, 30 November 2012 (UTC)
+
+==Colloquialism==
+
+This piece of text is deficient: '''mannen i grå kostyms hatt; &quot;the man in a grey suit's hat&quot;''' This sentence construction is colloquial and is used only in relaxed spoken language. It is not permitted in regular written Swedish. A schoolteacher would immediately correct it and a newspaper editor would rephrase it. The possessive &quot;-s&quot; may only be attached to the possessing noun, in this case &quot;mannen&quot;. (How do I know? I am a Swedish journalist.)  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/93.158.119.20|93.158.119.20]] ([[User talk:93.158.119.20|talk]]) 14:30, 26 February 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:In that case, I recommend that you check out what the [[Swedish Language Council]] has to say on the matter.[http://www.spraknamnden.se/fragor/arkiv_sprakrad_02.htm#konungens] This recommendation is from 2002, and just about no one used this type of construction even back then. This view on how genitive markers should be placed is very dated.
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 09:03, 27 February 2013 (UTC)
+
+::The Language Council agrees with me: &quot;Däremot bör man inte göra så i tillfälliga fraser, t.ex. skolorna i Stockholm. Det skall alltså inte vara ''skolorna i Stockholms elevantal''. Det får man i stället skriva om: ''Stockholmsskolornas elevantal'' eller ''elevantalet i skolorna i Stockholm''.&quot; Good.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/93.158.119.20|93.158.119.20]] ([[User talk:93.158.119.20|talk]]) 13:03, 27 February 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:::It says that ''in particular cases'' it is appropriate to reconstruct noun phrases. That's obviously not the same as &quot;may only be attached to the possessing noun&quot;.
+:::[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 15:47, 27 February 2013 (UTC)
+
+::::The quoted section of the Language Council's text '''explicitly rejects''' constructions of the type ''mannen i grå kostyms hatt; &quot;the man in a grey suit's hat&quot;'' and states that they shall be phrased in a different manner. If the Swedish Language Council is to be ignored in a Wikipedia article on Swedish, I have nothing further to add to the discussion.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/93.158.119.20|93.158.119.20]] ([[User talk:93.158.119.20|talk]]) 07:34, 1 March 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:::::There's a recommendation against using it, but that's not really the same thing as absolute proscription. The example sentences given in this article are intended to show how possession is marked gramatically in Swedish. If you have a better way of expressing this, please go ahead and tweak it. Just don't treat this article as though it was a [[manual of style]]. That's not what encyclopedias are for.
+:::::[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 14:34, 1 March 2013 (UTC)
+
+::::::''Svenska Akademiens språklära'' says that the enclitic -s is for spoken, and less formal language. The article could possibly make this a bit clearer - there is after all already a note about &quot;mannens i grå kostym hatt&quot; being archaic and formal. 
+::::::[[User:Andejons|Andejons]] ([[User talk:Andejons|talk]]) 21:25, 1 March 2013 (UTC)
+
+:About &quot;Stockholmsskolorna&quot;, isn't the best formulation simply &quot;stockholmsskolornas elevantal&quot; ? (still genitve, and decisive form of the schools in question ?, while number of pupils remains as &quot;elevantal&quot; )[[User:Boeing720|Boeing720]] ([[User talk:Boeing720|talk]]) 07:03, 18 March 2013 (UTC)
+
+== Scanian Swedish origins from Danish and the by Sweden forced renationalisation process ==
+
+Wasn't Scania Danish until 1658, followed by decades of wars between Denmark and Sweden until 1711 ?
+Does this really need sourcing ? Do user Peter Isosalo deny that Scanian sound different, uses a continental &quot;R&quot;
+and is not built upon standard Swedish, but as of the renationalisation of Scania ? Why do people speak Swedish at all in in the ex-Danish province, that still is just 4 to 100 km away from Denmark (depending of from where in Scania to where in Denmark You use a Craw flight's distance) While Finland Swedish is spoken of perhaps 100.000
+- all at Åland and as minority in a few other Finnish cities, Scanian Swedish is spoken by most of the province's
+1.3 million. Even immigrants adapts to Scanian Swedish if living in Scania - not &quot;standard Swedish&quot;. Please do specify what You really think needs sourcing. [[User:Boeing720|Boeing720]] ([[User talk:Boeing720|talk]]) 06:40, 18 March 2013 (UTC)
+:I don't speak or understand a Scandinavian language, so I am pretty clueless about the facts. Maybe I can help anyway.
+:I guess that Peter Isotalo has two concerns. One is probably that an encyclopedia article must ''summarise'' the available information, and cannot give disproportional space to specific subtopics except sometimes by way of example for expositional reasons. In this case, much of what you want to add is already present in summarised form: &quot;some of the dialects, such as those on the border between Norway and Sweden, especially parts of Bohuslän, Dalsland, western Värmland, western Dalarna, Härjedalen, Jämtland and Scania, could be described as intermediate dialects of the national standard languages.&quot; On the other hand, Finland Swedish and Rinkeby Swedish have their own subsections. If you want one for Scanian, you will have to explain it's not just a random regional variety.
+:The other point is sourcing. In principle, ''every'' claim made in a Wikipedia article must be supported by a reliable source rather than personal experience. In practice, the standard is significantly lower for articles in an early state of development, and then becomes higher as it matures. This article has Featured Article status, so the standard should be pretty high. On the other hand, it got this status in 2007, so in practice there will be a lot of unsourced information here and even more where it's not clear from which source it comes. As a result, there is a constant threat that the article will lose its status.
+:Are you aware that there is a separate article [[Scanian dialects]]? I think a good strategy would be to extend and improve that article first, if necessary (using reliable sources). And then, if there is a consensus for adding more on Scanian here, to summarise the relevant parts of that article and give the same reliable sources. According to that article, some see the Scanian dialects as a separate language. If this is not just some non-notable fringe idea, it could be sufficient reason for a more detailed treatment here.
+:If you are scared by the prospect of having to format your citations, just don't worry about it. You can just write descriptions in parentheses, for example, and then someone else will likely format them for you. For books, provide page numbers. [[User talk:Hans Adler|Hans Adler]] 11:33, 18 March 2013 (UTC)
+
+:(edit conflict) Finland Swedish has a separate section because it's a separate form of Swedish that has evolved outside Sweden. Linguistically, it is far more distinct and unique than any form of southern Swedish, despite the Danish roots of the latter. The whole complex issue of &quot;renationalisation of Scania&quot; and the events related to the Dano-Swedish wars of the 17th century are inherently political issues, not linguistic ones. As for [[Standard Swedish]], basically all regional dialects are included in the definition today. Only very isolated or rural dialects are excluded, and all of those who speak these type of dialects today are fluent in one or several regional forms of Standard Swedish. That means that Scanian is actually considered Standard Swedish, at least by linguists. What you're refering to is actually Central Standard Swdedish, the standard language that is dominant around Stockholm, and to a great extent national media.
+:If you want to include information specific to southern Sweden (Blekinge and Halland were just as Danish, mind you), I believe you need to justify it from a linguistic perspective. As for sources, you need to provide at least one [[WP:RS|reliable]] general reference. So far, you haven't presented anything. You should also try to express what you mean in [[International Phonetic Alphabet|IPA]] and with something like proper linguistic terminology, not merely through simple [[orthography]]. And an example of something you need a much more detailed reference for is the statement about how well Scanians understand Danish. I quite frankly doubt that this is true at all, and even if it is, modern Danish and modern Scanian are linguistically so different from one another that it likely has no relevance in the matter. It's more likely a result of regional cooperation and a higher degree of bilingualism than anything else.
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 12:00, 18 March 2013 (UTC)
+
+::To HansAdler. The reason why Scania differs from other dialects (in principal view, not pronounciation) is the very different history Scania (and Blekinge and Halland) has had, and the fact that even after 300 years Scania hasn't moved one inch closer to Stockholm, while Copenhagen is clearly visible across the Øresund. If Peter Isosalo now is so splendid in Phonetics why doesn't hehelp me improve thepart of thearticle instead of erasing it ? SFF hompage is not much, except their citings from well-known Scanian authors. But just like Franco in Spain didn't permit Cathalonian, Peter Isotalo is a spokesperson for some kind of equal Swedish authorithies. (I do not call him facist, but his attitude towards the Scanian question is similar to Franco and Catalunya). The &quot;great king&quot; Gustav II Adolf (known in Germany) has f.i. never ruled over Scania, just burned down thetown Vä, later replaced by Kristianstad (named after Danish king Christian IV) as examples.
+So when it comes to '''why''' Scania (and Blekinge and Halland) differs, this should not be too difficult to understand.    
+[[Special:Contributions/83.249.173.211|83.249.173.211]] ([[User talk:83.249.173.211|talk]]) 18:30, 18 March 2013 (UTC)
+&quot;Scanian are linguistically so different from one another that it likely has no relevance in the matter. It's more likely a result of regional cooperation and a higher degree of bilingualism than anything else.&quot; '''I accept this phrase.''' please put it in the article, Peter Isosaldo. That would be quite sufficient reguarding the lingvistic. But it also need someexplination and therefore simply &quot;Since Scania was Danish until the Treaty of Roskilde, 1658 ...&quot; followed by Peter Isosaldo's own citate - and I will have nothing more to add to thisquestion. OK ? [[Special:Contributions/83.249.173.211|83.249.173.211]] ([[User talk:83.249.173.211|talk]]) 18:30, 18 March 2013 (UTC)
+Sorry I didn't notice I was logged out [[User:Boeing720|Boeing720]] ([[User talk:Boeing720|talk]]) 18:31, 18 March 2013 (UTC)
+
+:I'm not the least interesting in helping you prove language theories based on your own personal views and the works of non-linguists. Your perception of Scanian as utterly unique among Swedish dialects is in my view highly exaggerated. If it actually is a valid point, just go find appropriate expert literature to support it. Call the Swedish institution of your local university if you need guidance. But please don't waste time ranting about how people who disagree with you are the equivalent of fascist dictators.
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 21:44, 18 March 2013 (UTC)
+
+===Reliable sources===
+Please note that http://www.scania.org/ can't be considered a [[WP:RS|reliable source]]. It's really just the homepage of [[:sv:Stiftelsen Skånsk Framtid|SFF]], a political organization that has an outspoken regionalist Scanian [[WP:POV|POV]]. The texts of this organization are either published in the name of the organization or written by non-experts. They do not appear to belong to any academic institute or recognized research center, nor are they [[peer review]]ed. Neither the organization itself nor its members appear to have any credibility as experts, particularly not in the field of linguistics.
+
+[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 14:24, 18 March 2013 (UTC)
+
+::Also you can not use &quot;common knowledge&quot; as a reliable source. We cannot have that in an encyclopedia. Also, please note that there is already a separate article on [[Scanian dialects]] so I am sure why we are recreating that information here. [[User:Dusty relic|&lt;font color=&quot;#654321&quot; face=&quot;Papyrus&quot;&gt;Dusty&lt;/font&gt;]]|[[User talk:Dusty relic|&amp;#x1f4ac;]]|[[WP:Community Portal#Open tasks|You can help!]] 14:32, 18 March 2013 (UTC)
+
+:::I agree to a certain point that &quot;common knowlidge&quot; is not good enough, but still user Peter Isosalo knows exactly what I mean. Why on eath would http://www.scania.org/ not be reliable. Admit that You do not want Scanian - under any circumstances
+among dialects. But still You use immigrant Scanian as a dialect. '''This stands to no reason at all'''. And what do You know 
+about f.i Peter Broberg and several other autors of f.i. &quot;333 årsboken&quot; that is cited at SFF ? They are - or was highly edjucated men. SFF are perhaps outspoken Scanian regionalist - but not politicans ! You proove again to have no knowledge of this issue ! Is it POV to stat that Scania was Danish until 1658 ? Or thar several wars then wasfought, with Scania often as centre of the wars ? Is it POV to state that Scania during the last 300 years have been &quot;swedified&quot; ? Who else do people not speak pure danish here ? POV ? It's the facts and Neutral points of view, only from an other perspective than from Stockholm.
+One reason for theauthors of the books cited at the SFF page is that Stockholm does not want to recognise Scanian points of view, NOT that the authors hass less academical skill ! And please answer how '''Scanian immigrant dialects''' are OK, but not native Scanian ? Stockholm needs to decide - is Scania Swedish or not. If Scania is Swedish then Scanian accent is well as imperative as immigrant's or finnish accents. [[Special:Contributions/83.249.173.211|83.249.173.211]] ([[User talk:83.249.173.211|talk]]) 18:03, 18 March 2013 (UTC)
+
+:I'll try to reply to these issues one by one:
+:*Scanian alone is mentioned, and linked, three times: as &quot;Southern Swedish&quot;, &quot;''skånska''&quot; and &quot;Scanian dialects&quot; under &quot;See also&quot;. And whether you approve or not, &quot;Immigrant Scanian&quot; is a form of Scanian spoken by native speakers. So it's mentioned more than any other dialect except Central Swedish, but that's only because it has become the dominant [[prestige dialect]].
+:*SFF is a political organization with a distinct political goal. It is not an academic institution. As such, it is not a [[WP:RS|reliable source]] when it comes to linguistics. That is not a comment on whether the political goal is good or bad. I'm just saying that they are not recognized as experts by other professional linguists.
+:*The &quot;Swedification&quot; of southern Sweden from the mid 17th-century is not really relevant to this article unless you can show how and why it had an impact on the Swedish language. And how it differs from the standardization of other dialects. Because the topic of this article is still language, not political, social or cultural history.
+:*As for Stockholm-based conspiracies, you're free to believe whatever you want. Blaming [[conspiracy theories]], however, isn't usually a good idea if you want to get your point across.
+:I can only stress that Scanian is mentioned as often as any other dialect in Sweden, even moreso. If you believe this is not enough, it's up to you to explain why it should be otherwise.
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 21:26, 18 March 2013 (UTC)
+
+::Resonse to user Peter Isosalo. I have not stated that scanian is more imperative than any other dialect or accent. But since article deals with immigrant's Swedish '''from Scania''', Finland-Swedish accent , I fail to see what's wrong with mentioning scanian ? It is possibly rather Danish than Swedish, however in SAOL (Word List of Swedish Academy) lots of Scanian word are adapted &quot;sviskon&quot;(katrinplommon),''a dried fruit'', &quot;spann&quot;(hink), ''bucket'', &quot;skoband&quot;(skosnöre), ''shoelace'', &quot;grishals&quot;(karré), ''a certain kind of pork meat'', &quot;hialös&quot;(orolig) ''upset or uneasy'', &quot;mölla&quot;(väderkvarn), ''mill'' - words that very seldom is used outside the ex-Danish provinces - others are not adapted and may hence be spelled in various ways &quot;hode&quot;(huvud) ''head'', kartofflor ''or'' pantofflor/potatis ''potatoes'', brenne/ved ''wood (to burn only)'' etc) Conc. SFF , it's beside the point, but this is not a political party in any sence. But '''of matter is''' that I only did refer to some Swedish books, written at academical level, that SFF simply has made (partial) available in English at their webbsite. So forget about SFF itself. The swedification process had impact on the language in the former Danish provinces. Danish turned during 300 years into Scanian - a new language or dialect. Just like Finland has been a Swedish province (or provinces). I fail to understand what You mean by conspiracy. If the last part of Your contribution is true, why is '''Finnish Swedish''' and '''Immigrant's Swedish''' (mostly Scanian immigrant's is mentioned) of importance. Concerning the latter pleanty of history is included in the article. I have not declined any other dialects to be described, only written about my own accent or dialect.  Eighter all dialects must have a chance to be described - or we have to remove all dialect/accents from theartical. You can not alone decide which is and which isn't worth mentioning. And a final point about phonetics, I'm not the least a shame of just see them as calliography (chinese signs). Even less can I get them into my keyboard. And am not alone of this. An encyclopedia must of course be up to a certain academical level, but not to the point that the readers in general need expert skills in order to understand. I realy belive that (to English readers in general) the phrase &quot;ch-sound as in chocolate&quot; is understood by far more people than a phonetic sign. '''Do You concider &quot;Bonniers lexikon&quot; from the 1960's as a good enough source, by the way ?''' [[User:Boeing720|Boeing720]] ([[User talk:Boeing720|talk]]) 22:58, 19 March 2013 (UTC)
+
+:::There's nothing wrong with mentioning Scanian. And that's exactly what we've don in the article. Several times, in fact, including variants spoken by the children of immigrants, ei native speakers of Scanian. But you appear to want detailed information about Scanian vocabulary and phonology. This is what I (and others) oppose, because we're not doing this for ''any'' dialect. And that's regardless of the sources.
+:::As for how reliable sources are, it depends on what they're used for. But overall, I'd say that a 50-year-old general encyclopedia is not a particularly good source to use for an article about language.
+:::[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 11:34, 20 March 2013 (UTC)
+::::I notice that in the bullet list of dialects, Scanian is not mentioned but &quot;South Swedish&quot; is mentioned and links to the article on Scanian dialects. Can we at least be consistent and change &quot;* South Swedish&quot; to &quot;* Scanian&quot; or &quot;* South Swedish (Scanian)&quot;? This might help to clear up the confusion. [[User:Dusty relic|&lt;font color=&quot;#654321&quot; face=&quot;Papyrus&quot;&gt;Dusty&lt;/font&gt;]]|[[User talk:Dusty relic|&amp;#x1f4ac;]]|[[WP:Community Portal#Open tasks|You can help!]] 16:29, 20 March 2013 (UTC)
+:::::Good that you brought it up, because it's supposed to refer to ''sydsvenska mål'', not Scanian specifically. I kinda forgot that for a moment there...
+:::::[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 17:23, 20 March 2013 (UTC)
+
+:To User Peter Isosalo. You have previously stated that the sources I did provide were not good enough for You. I now, for the second time ask You ''Do You concider the Swedish encyklopedia &quot;Bonniers Lexikon&quot; from the 1960's (also known as &quot;Äpplet&quot;, the Apple) to be a reliable source ?'' [[Special:Contributions/83.249.173.211|83.249.173.211]] ([[User talk:83.249.173.211|talk]]) 15:14, 21 March 2013 (UTC) My auto-login doesn't work after visits at other Wikipedias, sorry. [[User:Boeing720|Boeing720]] ([[User talk:Boeing720|talk]]) 15:16, 21 March 2013 (UTC)
+
+::And for the second time: no, because overall, older encyclopedias are often outdated or inaccurate. There's simply no reason to rely on it.
+::See [[WP:RS#Primary, secondary, and tertiary sources]] for a detailed explanation. There's a similar summary in Swedish at [[:sv:Wikipedia:Trovärdiga källor]]. There's a short paragraph on older encyclopedias in there. Just keep in mind that [[WP:RS]] is a practical guide on how to determine [[WP:Verifiability]], a central [[WP:Policy|policy]] of English Wikipedia. If you edit here, you're expected to try to get a general idea of what it says.
+::[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 17:52, 21 March 2013 (UTC)
+
+::::Peter Isosalo, could You then please give me an example of what you think is a reliable source ? Only litterature that supports Your own ideas perhaps ? When it comes to a sbuject as the Swedish language, &quot;Bonniers Lexikon&quot; (15 thick volumes) may not include &quot;Immigrant's Swedish&quot; , but do You really belive that the most spread Swedish encyklopedia after 1945 is unreliable concerning &quot;Swedish language&quot; until the time of it's printing ? It's not even older than me, by the way. [[User:Boeing720|Boeing720]] ([[User talk:Boeing720|talk]]) 21:05, 21 March 2013 (UTC)
+
+:::::The article is full of sources that are considered reliable and appropriate by myself and other editors, both general and specific ones. Many of those in turn have lists of other references that you can explore for yourself.
+:::::[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 05:41, 22 March 2013 (UTC)
+
+:::::Boeing720: I recommend you read the guideline &quot;[[Wikipedia:Identifying reliable sources]]&quot;. In my opinion, ''Bonniers Lexikon'' is not a very good source to use for an article like this. As a decades-old tertiary source, it can at best provide a superficial glance of the topic. In my view, it is superseded by the higher quality sources listed at &quot;[[Swedish language#References]]&quot;. [[User:Gabbe|Gabbe]] ([[User talk:Gabbe|talk]]) 09:47, 22 March 2013 (UTC)
+
+== Motivating recent revert ==
+
+I have reverted most of the recent edits by Boeing[http://en.wikipedia.org/w/index.php?title=Swedish_language&amp;diff=546103495&amp;oldid=545741680] that asked for citations or removed sourced content.
+
+Boeing, if you feel that a certain statement lacks reference support, it's not wrong to ask for one. But if you have a cohesive paragraph that has a reference at the end of it, you should at least ask about whether it supports the entire paragraph rather than ignoring it and placing a reference request after the first sentence. Unless there are very strong arguments for claiming that a sourced paragraph is unreliable, you're strictly speaking expected to look up the source yourself before questioning it.
+
+Also, keep in mind that references are not required in the [[WP:LEAD#Citations|lead section]] since it's a summary of the article as a whole (). If you feel the lead claims something that isn't referenced (or stated) in the article, you're better off simply removing it (but with a reasonably detailed motivation).
+
+Removing content referenced with reliable sources because of personal disagreement is not constructive editing. In these cases, you should motivate yourself in more detail, preferably citing other source that support your own arguments for removal.
+
+[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 06:34, 22 March 2013 (UTC)
+
+== Gender neutral pronouns? ==
+
+Doesn't Swedish have gender neutral pronouns? [[Special:Contributions/187.2.54.34|187.2.54.34]] ([[User talk:187.2.54.34|talk]]) 21:07, 19 February 2014 (UTC)
+
+:There's the neologism ''[[:wikt:hen#Swedish|hen]]'', but other than that it's no different than English or German.
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 12:11, 20 February 2014 (UTC)
+
+::[[:Wikt:den#Swedish|Den]] (it) can be used in some contexts: &quot;If a student wants a copy, ''it'' can e-mail...&quot;. [[:wikt:vederbörande|Vederbörande]] is a verb form, but fills the role of a pronoun. [[User:Sjö|Sjö]] ([[User talk:Sjö|talk]]) 14:50, 20 February 2014 (UTC)
+
+::So uhh... [[:wikt:hen#Swedish|hen]] is like [[Spivak pronoun]]? [[Special:Contributions/187.2.54.34|187.2.54.34]] ([[User talk:187.2.54.34|talk]]) 13:45, 21 February 2014 (UTC)
+:::Yes, it is. And I'm not a fan of Spivak pronouns. [[User:Thomas.W|'''Thomas.W''']] [[User talk:Thomas.W|'''''&lt;sup&gt;&lt;small&gt; talk&lt;/small&gt;&lt;/sup&gt;''''']] 18:28, 19 July 2014 (UTC)
+:::Yes, except ''hen'' is actually becoming fairly popular. The use has recently increased in newspapers, public service radio, parliamentary debates and in everyday spoken language. It's still considered somewhat controversial on ideological grounds, but it's nowhere near as obscure as &quot;ey&quot; or &quot;zie&quot;.
+:::[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 12:03, 20 July 2014 (UTC)
+
+== Possible FAR ==
+
+This article contains a couple of &quot;citation needed&quot; tags for potentially controversial statements and numerous completely unsourced paragraphs. This is not acceptable for an FA. [[User:Tezero|Tezero]] ([[User talk:Tezero|talk]]) 16:35, 19 June 2014 (UTC)
+
+Something in the article is cited to &quot;c&quot;. THE LETTER &quot;C&quot;! [[User:Tezero|Tezero]] ([[User talk:Tezero|talk]]) 01:58, 20 July 2014 (UTC)
+
+:I'm sure you noticed the attempt to bolster the referencing. Keep it civil.
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 10:04, 20 July 2014 (UTC)
+::I didn't mean to sound angry. It was just shocking. I have, however, placed a tag as the article still needs dozens more citations and no such edits have been made lately. [[User:Tezero|Tezero]] ([[User talk:Tezero|talk]]) 02:19, 13 August 2014 (UTC)
+
+==Possesive/Genitive ending/Suffix==
+I think that linguistically the 's is not a suffix but an enclitic, so it is probably both more technically correct and more easy to understand for laymen if we use &quot;genitive ending&quot; or &quot;possessive endning&quot;. I think genitive is also more technically correct in that it is not only used in cases of possession.  [[User talk:Maunus|User:Maunus ·ʍaunus·snunɐw·]] 17:53, 19 July 2014 (UTC)
+:The 2013 article by Muriel Norde &quot;Tracing the Origins of the Swedish group genitive&quot; seems to support my argument. [[User talk:Maunus|User:Maunus ·ʍaunus·snunɐw·]] 18:03, 19 July 2014 (UTC)
+
+::The point regarding these edits[https://en.wikipedia.org/w/index.php?title=Swedish_language&amp;diff=617601903&amp;oldid=617591611] is to explain how '':s'' is used with abbreviations. That genitive/possessive in Swedish is enclitic on a phrase level isn't really relevant. I've changed it to &quot;ending&quot;, though, but with piping to [[suffix]]. Details regarding ''-s''-endings belongs under &quot;[[Swedish language#Grammar|Grammar]]&quot; in my view.
+::[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 18:17, 19 July 2014 (UTC)
+:::I agree that the use of colon is not the right place to discuss the status of the genitive morpheme, but the doubts about its status as suffix or enclitic is a reason to avoid using suffix and instead use ending which subsumes both possibilities. Btw. is the use of colon in genitives really very prevalent? I dont remember seeing it. Is it used in all written registers? [[User talk:Maunus|User:Maunus ·ʍaunus·snunɐw·]] 18:30, 19 July 2014 (UTC)
+::I'm not a linguist, my field of professional expertise is very far from that, but used &quot;genitive ending&quot; because thats the term I was taught in school (in the UK) back in the 1960s. I also made a quick search on Google first, just to make sure that usage hadn't changed, with ''genitive OR possesive AND ending'' returning more than three times as many hits as ''genitive OR possessive AND suffix'' did. [[User:Thomas.W|'''Thomas.W''']] [[User talk:Thomas.W|'''''&lt;sup&gt;&lt;small&gt; talk&lt;/small&gt;&lt;/sup&gt;''''']] 18:26, 19 July 2014 (UTC)
+:::I dont think google searches should play a role in determining our choices of technical terminology. We should go with what is more accurate and less confusing. Also English and Swedish grammar are two different things so terminology that one was taught about English grammar is not necessarily valid for Swedish grammar as well.[[User talk:Maunus|User:Maunus ·ʍaunus·snunɐw·]] 18:30, 19 July 2014 (UTC)
+::::Don't forget that the articles we write aren't just aimed at professionals within a particular field, but should be readable, and understandable, also for laymen. The primary reason for making the Google searches was to make sure that the common terminology was the same in the US as in the UK. And the terms used here on the English Wikipedia should be English, even when describing other languages, since the articles are written for English speakers. [[User:Thomas.W|'''Thomas.W''']] [[User talk:Thomas.W|'''''&lt;sup&gt;&lt;small&gt; talk&lt;/small&gt;&lt;/sup&gt;''''']] 18:54, 19 July 2014 (UTC)
+:::::: You are correct that they should be readable for laymen, but the rest of your argument is incorrect. The aim of an enmcyclopedia is to educate the reader, this requires the use of precise and accurate terminology, which can then be explained to the reader. So yes, we do need to use linguistic concepts correctly in articles about linguistics. Especially featured articles. Secondly, There is an established English terminology for describing Swedish, and all other languages, and we cannot use the terms that are used to describe English to describe other languages that would be misinforming. So the argument that English descriptions of English grammar uses the term &quot;possessive ending&quot; is entirely irrelevant. What is relevant is what English terms are used in English language descriptions of Swedish, which call this a genitive, not possessive, morpheme (either and enclitic or a suffix).[[User talk:Maunus|User:Maunus ·ʍaunus·snunɐw·]] 19:29, 19 July 2014 (UTC)
+::::::: ... which is why I chose the term ''&quot;genitive ending&quot;'' in my [https://en.wikipedia.org/w/index.php?title=Swedish_language&amp;diff=prev&amp;oldid=617593348 first edit], and then wrote ''&quot;genitive (possessive) ending&quot;'', in a perhaps misguided attempt to clarify it further, in my [https://en.wikipedia.org/w/index.php?title=Swedish_language&amp;diff=617601528&amp;oldid=617599163 second edit]. [[User:Thomas.W|'''Thomas.W''']] [[User talk:Thomas.W|'''''&lt;sup&gt;&lt;small&gt; talk&lt;/small&gt;&lt;/sup&gt;''''']] 19:36, 19 July 2014 (UTC)
+:::::::::Which I think is fine, then in the grammar section we can discuss the morphemes status as a suffix or enclitic further.[[User talk:Maunus|User:Maunus ·ʍaunus·snunɐw·]] 19:45, 19 July 2014 (UTC)
+
+== personal thoughts ? ==
+''Comment moved from [[user talk:Peter Isotalo]]''[https://en.wikipedia.org/w/index.php?title=User_talk%3APeter_Isotalo&amp;diff=623776620&amp;oldid=623692540]
+:My intention was to introduce a comparing overview of the Swedish language in general, including its advantages and disadvantages with some exemplification. Like I wrote, it was intended to be a start of a such, less formal, less &quot;dry&quot;, part. I was expecting some resistance - possibly from You. (But please don't confuse this with our old debate about [[Scanian dialect|Scanian]]). So Please don't take offence. But what do You think was &quot;personal thoughts&quot; ? It's a '''well-known''' fact that Latin and Roman languages (which all are based on Latin) has a far more expressive grammar, especially regarding verb inflections. Where Swedish only has ''infinitive'' and six tenses, f.i. (Castellian) Spanish has three more (infinitive and nine other tenses). And also differ between ''ser'' and ''estar''. This may call for an example - &quot;''&lt;u&gt;Soy&lt;/u&gt; sueco''&quot; &amp; &quot;''&lt;u&gt;Estoy&lt;/u&gt; en Suecia''&quot; = &quot;&lt;u&gt;Jag är&lt;/u&gt; svensk&quot; (&lt;u&gt;I'm&lt;/u&gt; Swedish) &amp; &quot;&lt;u&gt;Jag är&lt;/u&gt; i Sverige&quot; (&lt;u&gt;I'm&lt;/u&gt; in Sweden), both verbs translates to &quot;att vara&quot; (to be), but offer a higher degree of expressiveness - ''to be what'' or ''to be where''. And it's '''equally well-known''' that the strength of the English language is its many synonyms with smaller distinctions. Do You really think such comparissions are unencyclopedical ? [[Per Olov Enquist]] did once explain how Swedish compensates for both its relatively poor grammar and its relatively poor vocabulary (from an academical point of view), and gave the example of how the sentence &quot;Han åt &lt;u&gt;ur&lt;/u&gt; gröten&quot; differs from  &quot;Han åt &lt;u&gt;upp&lt;/u&gt; gröten&quot; and also from &quot;Han åt &lt;u&gt;ur sin&lt;/u&gt; gröt&quot;, &quot;Han åt &lt;u&gt;upp sin&lt;/u&gt; gröt&quot; (all essentially means &quot;He ate the/his porridge&quot;), he ment the first was the better in this case, and reflected that &quot;Han&quot; (he) is used to, or is fond of eating &quot;gröt&quot; (porridge). While &quot;sin gröt&quot; gives too much attention to ''his porrage'' as such, and also the other exapmles lacked this perticular ''distinction''. ''I think there is a call for a section that covers such issues'', and it can of cource be changed, expanded and given more examples. The contribution You reverted was based on very well-known facts, and hence doesn't require any source(s). I didn't say my version was optimal, but a general section of that kind would be of benefit to the article. It was a start, '''without personal thoughts !'''
+:By the way, the 18th Century equals &quot;1700-talet&quot;. The wars between Sweden and Denmark (as independant nations) began when [[Gustav II Adolf]], king of Sweden, burned Danish [[Wæ]] (Vä) in 1612 (And king [[Christian IV]], king of Denmark, founded the nearby [[Kristianstad]] instead, in 1614.) The wars ''between'' Sweden and Denmark ended with the peace treaty of 2nd or 3rd June 1720, The third peace in Stockholm. War '''inside''' Sweden during the 16th century (&quot;1500-tal&quot;) were not between the Swedish and Danish ''nations'', but related to the [[Kalmar Union]], [[Nils Dacke]], Polish-Swedish king [[Sigismund]] (the offspring of [[Johan III]] and [[Katarina Jagellonica]]) and his uncle [[Karl IX]] and other issues which doesn't involve Denmark as a nation. Not even the &quot;Stockholms blodbad&quot; (Stockholm's bloodbath) was an international military conflict. [[User:Boeing720|Boeing720]] ([[User talk:Boeing720|talk]]) 22:42, 1 September 2014 (UTC)
+
+::First off, this has nothing to do with previous discussions. I'm not offended, I just don't agree with you.
+::Virtually all observations about &quot;poor&quot; grammar in any language are extremely subjective. There is a traditional view that languages with more morphological variation are &quot;richer&quot; while those with fewer are &quot;poorer&quot;. This coincides with the fact that classical languages like Greek, Latin and Sanskrit have more advanced morphologies than modern European languages (not to mention highly synthetic languages like Mandarin). All languages are rich in nuances, though, just in different ways. Number of speakers and level of social development is likely more relevant than morphology. Vocabulary is also difficult to say much about with the exception that a very widely spoken language like English likely has more attested words than a far more localized one, like Swedish.
+::General observations are not relevant in Wikipedia, especially if they aren't referenced. We're writing an encyclopedia, and we're ''supposed'' to be dry to some extent. The article has a standardized structure with sections where all aspects of Swedish can be described: &quot;Grammar&quot; and &quot;Vocabulary&quot; for example. There is no need for any separate &quot;general overview&quot; other than in the lead. And the lead is a summary of the article as a whole. Comparisons are relevant and I welcome them, but they should be as general as possible. They should be to world languages overall, or at least entire groups of languages (Indo-European or Germanic). And, above all, they should be properly referenced with [[WP:RS|reliable sources]].
+::As for [[Dano-Swedish war]]s, independent Sweden was at war with Denmark in the 16th century and the intense rivalry began in that century. I don't see the point of disputing that.
+::[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 09:39, 2 September 2014 (UTC)
+*I agree with Peter that the idea of describing the &quot;advantages and disadvantages&quot; of Swedish is not something that makes much sense in an encyclopedia - especially not without good sourcing. And you won't find good sourcing for that because contrary to what you write above it is a well known fact that all languages are equally able to express complex concepts and all aspects of human thought regardless of whether the grammar can be described as simple or complex. Your addition takes some popular beliefsd about language (that are unfortunately incorrect) and applies them to Swedish. What you wrote was clearly your personal thoughts about Swedish and they would be more relevant for a blog than for this article. Please read our policies WP:OR and WP:V. [[User talk:Maunus|User:Maunus ·ʍaunus·snunɐw·]] 18:27, 2 September 2014 (UTC)
+:::Although perhaps subjective, the Swedish language isn't regarded to have the same expressive grammar as Roman languages, also by its own great authors. English has a far larger amount of synonyms (in general) - that's undisputed. And how these aspects are delt with by celebrated Swedish authors, is of encyklopedical value, in my opinion. '''I did never state that Swedish wasn't expressive''', but rather attempted to explain why - dispite the abscense of several verb tences and its poor vocabulary. I used Per-Olov Engkvist as one example and source. I also think there is some call for comparings with other languages. But OK keep owning the article, but I strongly object to &quot;personal thought&quot;  [[User:Boeing720|Boeing720]] ([[User talk:Boeing720|talk]]) 22:32, 2 September 2014 (UTC)
+::::There's no [[WP:OWN|owning]] going on here. You're perfectly welcome to improve the article. The problem is that you're not using [[WP:RS|reliable sources]] that are relevant to the topic of Swedish as a language. Invoking the name of authors like [[P.O. Enquist]] is not in the least relevant. He's a writer, not an expert on linguistics, and this is a linguistic article, not [[Swedish literature]].
+::::[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 22:44, 2 September 2014 (UTC)
+:::::&quot;Owning&quot; was not the best choice of words, sorry. But what about f.i. the following wise words &quot;''Konst är något man inte kan, men kan man är det ingen konst''&quot; (untranslateable... ?)- I mean this to be a good example of ''handeling of the Swedish language'' which is a lcking chapter here. I made an attempt to start such a part, a general overview. Perhaps &quot;poor grammar&quot; also was a bad choice. But I still feel such a part would be of benefit for the article. Engqvist isn't relevant, but what I explained he explained once (and it was regarding an other autor, who he liked)  regards [[User:Boeing720|Boeing720]] ([[User talk:Boeing720|talk]]) 20:03, 3 September 2014 (UTC)
+:::::::If you can find reliable sources that describe these aspects of the Swedish language then adding it is a possibility, and we can start discussing whether to and how to include it. Without reliable sources it is not possible.  [[User talk:Maunus|User:Maunus ·ʍaunus·snunɐw·]] 20:16, 3 September 2014 (UTC)
+
+== Sound values, comparission ==
+
+[[File:Sound values.JPG|thumb|a comparison between English and Swedish (&amp; German ?) sound values ??]]
+I dare not make any changes to this excellent article. However, is this schematic true ? And could an improved variant possibly be of any use ? I cannot find any blowing &quot;sj-&quot; /&quot;sch&quot;-sound in English language, nor can I find the lisping &quot;th&quot;- or the rounded &quot;w&quot;- sounds in the Swedish language. Between Swedish and German I doubt there are any differencies. Though is the &quot;sch&quot;-sound absent in Danish. And I think so also in Norwegian. (I'm not very versed in Icelandic or Ducth dialects) [[User:Boeing720|Boeing720]] ([[User talk:Boeing720|talk]]) 07:33, 27 September 2014 (UTC)
+
+Perhaps there is no English answer to the ''long'' Swedish &quot;y&quot;-sound, like in &quot;Ystad&quot;, but the &quot;extra&quot; vowels &quot;
+Å, Ä &amp; Ö&quot; I think can be traced in English. Long &quot;Å&quot; like ''a'' in &quot;''alright''&quot;, short &quot;Å&quot; like ''o'' in &quot;''other''&quot;, long &quot;Ä&quot; like ''ai'' in &quot;''fair''&quot;, short &quot;Ä&quot; like ''a'' in &quot;''at''&quot;, long &quot;Ö&quot; like ''u'' in &quot;''church''&quot; or ''i'' in &quot;''bird''&quot; and short &quot;Ö&quot; like ''a'' and ''u'' in &quot;''&lt;u&gt;a&lt;/u&gt;n &lt;u&gt;u&lt;/u&gt;mbrella''&quot; (these examples may be a little depending of which British English accent one compares to) Sorry I'm bad at phonetic signs. [[User:Boeing720|Boeing720]] ([[User talk:Boeing720|talk]]) 07:58, 27 September 2014 (UTC)
+
+:The &quot;sj&quot;-sound&quot; is way too varied to make any such conclusions. I don't believe the graphic actually conveys any meaningful information except that certain fricatives are different from others.
+:We have articles for individual vowels if you want to comapre. Like [[close front rounded vowel]] or [[open back unrounded vowel]].
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 10:50, 27 September 2014 (UTC)
+::Thanks for the answer. There is though a part I'm not certain of what You refer to. With &quot;sj&quot;-sound variation, do You refer to ''Swedish'' , and f.i. the tendency perhaps typical in Stockholm and Uppland, when &quot;the sch-sound&quot; becomes &quot;tj&quot;/&quot;ch&quot; instead ? Or are there any kind of ''blowing round untoned'' in any English accent ? If my question is too stupid, just don't reply. I will study Your suggested links though, thanks [[User:Boeing720|Boeing720]] ([[User talk:Boeing720|talk]]) 14:02, 27 September 2014 (UTC)
+:::Yup, Swedish. And I don't think it's a stupid question at all. The [[sj-sound]] is complex enough to have its own article. There's also descriptions of it in [[Swedish phonology#Fricatives]]. It's not just a matter of [[dialect]], but also of a speaker's [[sociolect]]. Gender and social class are major influences, probably moreso than for any other [[phoneme]] in Swedish. 
+:::[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 06:58, 29 September 2014 (UTC)
+
+*It doesn't seem to be very useful to me. I have never seen linguists making this kind of comparison between languages. And in this case I don't think it is actually true, it give the impression that the lack of those two sounds are the only one that sets Swedish apart from English and German, and that is incorrect. [[User talk:Maunus|User:Maunus ·ʍaunus·snunɐw·]] 15:08, 27 September 2014 (UTC)
+
+== Runic quotes in Latin alphabet ==
+
+{{replyto|Peter Isotalo}} There's an apparent error in the &quot;Old Norse&quot; section, which gives various letter combinations and words from Old Norse, which is written in runes.  But the samples given are written in the Latin alphabet.  Ideally these would actually be written in runes with Latin transliteration.  I wasn't taking the time to do that, but I was at least pointing out (awkwardly, I admit) that the samples had be transliterated. How would you prefer to fix this? -- [[User:Beland|Beland]] ([[User talk:Beland|talk]]) 16:13, 2 December 2014 (UTC)
+
+:Since the article is not about runes and the text describes language change, I don't see what there is to fix. Not using runes is standard practice even in general literature outside of Wikipedia. The article also goes on to describe the introduction of the Latin alphabet. Adding runes and disclaimers seems like nothing but a distraction.
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 16:43, 2 December 2014 (UTC)
+
+== Too few speakers ==
+
+Even if the source is trustworthy so there are great suspicions that information is incorrect. The speakers are 9.2 million is in my opinion too few. The population of Sweden is 9.8 million and the language is obligatory in the Finnish school which has about 5 million inhabitants. Out of those belonging to 5,36% Swedish-speaking population of Finland. 
+
+(http://www.stat.fi/tup/suoluk/suoluk_vaesto_en.html and http://www.scb.se/sv_/Hitta-statistik/Statistik-efter-amne/Befolkning/Befolkningens-sammansattning/Befolkningsstatistik/)
+23:28, 06 August 2015 (CEST)  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:AbsoluteXP|AbsoluteXP]] ([[User talk:AbsoluteXP|talk]] • [[Special:Contributions/AbsoluteXP|contribs]]) &lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:In Sweden and Finland, a &quot;speaker&quot; of a language means a person with a complete command of the language and a custom to use that language privately. I, for example, speak Swedish and can manage myself even fluently, but I am not a &quot;Swedish-speaker&quot;, not even a bilingual because for me, Swedish is not a language of my private life. I am merely a &quot;Finnish-speaker&quot; who can also speak Swedish. Sweden has a large minority of immigrants who don't identify as &quot;Seedish-speakers&quot; in this sense. --[[User:MPorciusCato|MPorciusCato]] ([[User talk:MPorciusCato|talk]]) 13:28, 7 August 2015 (UTC)
+
+
+:So true, but we know that it is 5% have Swedish as a native language in Finland. That means about 300,000 people. We also know that Sweden has 9.8 million inhabitants most of whom have Swedish as their native language. Should we trust the source as saying that 9.2 million people have Swedish as a native language, it means that only 8.8 million people in Sweden have Swedish as their native language. Sure, there are many immigrants in Sweden but hardly 1 million.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:AbsoluteXP|AbsoluteXP]] ([[User talk:AbsoluteXP|talk]] • [[Special:Contributions/AbsoluteXP|contribs]]) 21:12, 7 August 2015 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+::The immigrant community constitutes about 15% of the Swedish population. See [[Immigration to Sweden]] --[[User:Futhark|Futhark]]|[[User talk:Futhark|Talk]] 22:14, 7 August 2015 (UTC)
+:::By the '''Swedish''' definition of &quot;immigrant&quot; (being born outside Sweden or having at least one parent who was born outside Sweden, a definition that makes the entire Swedish royal family &quot;immigrants&quot;...), yes. But that figure (which includes both ~60,000 [[Swedish-speaking Finns]] who have immigrated to Sweden, a considerable number of &quot;ethnic&quot; Swedes whose parents temporarily lived/worked in another country when their children were born and a very large number of people with one Swedish parent and one foreign-born parent...) has very little to do with whether they're Swedish-speakers or not, since many if not most of those who by the official definition are categorised as immigrants actually speak Swedish at home, and use it as their first language. [[User:Thomas.W|'''Thomas.W''']] [[User talk:Thomas.W|'''''&lt;sup&gt;&lt;small&gt; talk&lt;/small&gt;&lt;/sup&gt;''''']] 22:32, 7 August 2015 (UTC)
+::::Ethnologue only has the reference &quot;European commission 2012&quot; which isn't very helpful. Probably the meant [http://ec.europa.eu/public_opinion/archives/ebs/ebs_386_en.pdf this report], ''Europeans and their langagues'', which says that 93 % of respondents in Sweden had Swedish as their mother tongue. That puts it closer to the 8,840,000 speakers in Sweden that Ethnologue mentions. ([http://ec.europa.eu/languages/policy/strategic-framework/documents/ebs_386_anx_en.pdf This is the annex] with the tables if you want to study them in detail.) At least it's clear that the entire population of Sweden doesn't speak Swedish as their &quot;mother tongue&quot;. [[User:Sjö|Sjö]] ([[User talk:Sjö|talk]]) 07:24, 8 August 2015 (UTC)
+::::And 93% of 9.8 million, the current population, makes 9.1 million, plus ~300K in Finland, which gives a total of ~9.4 million. OR/SYNTH yes, but Ethnologue are about 300K off even if we multiply the 2012 population by 93% and add the Swedish-speaking Finns, meaning they obviously haven't included the Swedish-speakers (L1) in Finland in their figure. [[User:Thomas.W|'''Thomas.W''']] [[User talk:Thomas.W|'''''&lt;sup&gt;&lt;small&gt; talk&lt;/small&gt;&lt;/sup&gt;''''']] 18:53, 10 August 2015 (UTC)
+
+:[[User:AbsoluteXP|AbsoluteXP]], you are making your own conclusion about language proficiency based on raw population figures. That's basically [[WP:OR|original research]].
+:Also, the infobox clearly says &quot;Native speakers&quot;, so I don't understand why you'd bring up clearly non-native speakers of Swedish in Finland. Also, have you read the extensive additional information under &quot;Geographic distribution&quot;? I don't see much merit in the {{tl|dubious}} tag.[https://en.wikipedia.org/w/index.php?title=Swedish_language&amp;type=revision&amp;diff=674899114&amp;oldid=674789445]
+:[[User:Peter Isotalo|Peter]] &lt;sup&gt;[[User talk:Peter Isotalo|Isotalo]]&lt;/sup&gt; 18:40, 10 August 2015 (UTC)
+
+::The [[Swedish-speaking population of Finland]], numbering close to 300 000 are [[native speakers]] in the sense used by Ethnologue and the infobox. They must also be included in the Ethnologue figure for &quot;all countries&quot; to reach the number 9,197,090. But adding about 5 million non-native speakers is just wrong, and I agree with your assessment of WP:OR. My guess is that Ethnologue has taken the percentage 93 % multiplied by the latest available population figure to reach 8,840,000 speakers in Sweden. 0.93 x a number between the 2011 and 2012 population [http://www.scb.se/sv_/Hitta-statistik/Statistik-efter-amne/Befolkning/Befolkningens-sammansattning/Befolkningsstatistik/25788/25795/Helarsstatistik---Riket/26046/] will yield 8,840,000. So the number of speakers seems to be about right, but is probably a little higher today because of population growth. But it would be just as much OR to try to calculate a new number based on population growth, so the number should stay until there is a better source or an update from Ethnologue. [[User:Sjö|Sjö]] ([[User talk:Sjö|talk]]) 05:19, 12 August 2015 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[Swedish language]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=678112622 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20140301014821/http://person.sol.lu.se/PetraBoden/papers/Ey_mannen_wazzup.htm to http://person.sol.lu.se/PetraBoden/papers/Ey_mannen_wazzup.htm
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers. —[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 13:08, 27 August 2015 (UTC)</text>
+      <sha1>8zk69kzis6qv9xiiik5d50grh2rcmhj</sha1>
+    </revision>
+  </page>
+</mediawiki>

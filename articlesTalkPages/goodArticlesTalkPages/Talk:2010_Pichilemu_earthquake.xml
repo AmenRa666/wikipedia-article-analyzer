@@ -1,0 +1,132 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:2010 Pichilemu earthquake</title>
+    <ns>1</ns>
+    <id>26515138</id>
+    <revision>
+      <id>652034534</id>
+      <parentid>538914460</parentid>
+      <timestamp>2015-03-19T05:07:31Z</timestamp>
+      <contributor>
+        <username>Srich32977</username>
+        <id>8372814</id>
+      </contributor>
+      <comment>remove old maintained template, user retired</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5991">{{ArticleHistory
+|action1=GAN
+|action1date=04:36, 1 October 2010 (UTC)
+|action1link=Talk:2010 Pichilemu earthquake/GA1
+|action1result=listed
+|action1oldid=388043279
+
+|action2=PR
+|action2date=23:03, 17 October 2010
+|action2link=Wikipedia:Peer review/2010 Pichilemu earthquake/archive1
+|action2result=reviewed
+|action2oldid=389155305
+
+|action3=PR
+|action3date=19:20, 18 June 2012
+|action3link=Wikipedia:Peer review/2010 Pichilemu earthquake/archive2
+|action3result=reviewed
+|action3oldid=497543229
+
+| dykdate       = 18 March 2010
+| dykentry      = ... that 6.9 [[Moment magnitude scale|M&lt;sub&gt;w&lt;/sub&gt;]] '''[[2010 Pichilemu earthquake|Chile earthquake]]''' of March 2010 took place shortly before [[President of Chile|president]] [[Sebastián Piñera]], was sworn in?
+| topic         = Geography and places
+|currentstatus=GA
+}}
+{{talkheader}}
+{{WikiProjectBannerShell|1=
+{{WPCHILE|class=GA|importance=High}}
+{{WikiProject Earthquakes|class=GA|importance=High}}
+{{WikiProject Disaster management|class=GA|importance=High}}
+{{WP1.0|v0.9=pass|class=GA|category=Geography|v0.8=pass}}
+}}
+
+== merge ==
+
+an aftershock - should be merged --[[User:De Administrando Imperio|&lt;font color=&quot;#003399&quot;&gt;D'''A'''&lt;/font&gt;&lt;font color=&quot;red&quot;&gt;I&lt;/font&gt;]] ([[User talk:De Administrando Imperio|'''Δ''']]) 17:34, 11 March 2010 (UTC)
+
+no its a different earthquake [[Special:Contributions/78.184.32.58|78.184.32.58]] ([[User talk:78.184.32.58|talk]]) 17:37, 11 March 2010 (UTC)
+
+:AFTERSHOCK. Read sources [http://english.aljazeera.net/news/americas/2010/03/2010311152233248405.html] [http://news.bbc.co.uk/2/hi/americas/8561340.stm] --[[User:De Administrando Imperio|&lt;font color=&quot;#003399&quot;&gt;D'''A'''&lt;/font&gt;&lt;font color=&quot;red&quot;&gt;I&lt;/font&gt;]] ([[User talk:De Administrando Imperio|'''Δ''']]) 17:40, 11 March 2010 (UTC)
+
+::Not so sure about clear aftershock nature: [http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010tsa6.php#summary] says &quot;almost certainly occurred as the result of the change of regional stress caused by the February 27 earthquake&quot;, but then &quot;however, imply that the March 11 shocks occurred as the result of normal faulting within the subducting Nazca plate or the overriding South America plate, unlike the February 27 earthquake&quot;. Suggest to wait with merge until geological analysis comeplete. --[[Special:Contributions/190.161.142.101|190.161.142.101]] ([[User talk:190.161.142.101|talk]]) 18:33, 11 March 2010 (UTC)
+:::There's no need to be merged, it's a different earthquake. [[Special:Contributions/78.2.98.205|78.2.98.205]] ([[User talk:78.2.98.205|talk]]) 21:41, 12 March 2010 (UTC)
+
+==Move request==
+&lt;div class=&quot;boilerplate&quot; style=&quot;background-color: #efe; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #aaa;&quot;&gt;&lt;!-- Template:RM top --&gt;
+:''The following discussion is an archived discussion of a [[WP:RM|requested move]]. &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on the talk page. No further edits should be made to this section. ''
+
+The result of the move request was: '''page moved'''. [[User:December21st2012Freak|&lt;font color=&quot;Green&quot;&gt;'''December21st2012Freak'''&lt;/font&gt;]]  &lt;sup&gt;[[user talk:December21st2012Freak|&lt;font color=&quot;Olive&quot;&gt;'''Happy St. Patrick's Day!'''&lt;/font&gt;]]&lt;/sup&gt; 02:07, 16 March 2010 (UTC)
+
+----
+
+{{tlp|helpme}}
+
+[[:March 2010 Chile earthquake]] → [[2010 Pichilemu earthquake]] — Please move it to [[2010 Pichilemu earthquake]], it was specified by Chilean news media later, read: http://www.elrancahuaso.cl/admin/render/noticia/22248  http://www.el-carabobeno.com/p_pag_not.aspx?art=a120310i02&amp;id=t120310-i02  http://www.chile.com/tpl/articulo/detalle/ver.tpl?cod_articulo=118476 http://24horas.cl/videos.aspx?id=63158 &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/190.110.134.84|190.110.134.84]] ([[User talk:190.110.134.84|talk]]) 09:35, March 14, 2010&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt;
+
+:The correct process would be to post a formal request. Please go to [[Wikipedia:Requested moves]] and follow the instructions there. -- [[User:OlEnglish|&lt;font size=&quot;5&quot;&gt;&amp;oelig;&lt;/font&gt;]][[User talk:OlEnglish|&lt;sup&gt;&amp;trade;&lt;/sup&gt;]] 17:02, 14 March 2010 (UTC)
+:: [[simple:2010 Pichilemu earthquake]] has the correct information about this earthquake. --[[Special:Contributions/190.110.135.109|190.110.135.109]] ([[User talk:190.110.135.109|talk]]) 18:28, 14 March 2010 (UTC)
+http://24horas.cl/videos.aspx?id=63158
+:::'''Support'''.--[[User:De Administrando Imperio|&lt;font color=&quot;#003399&quot;&gt;D'''A'''&lt;/font&gt;&lt;font color=&quot;red&quot;&gt;I&lt;/font&gt;]] ([[User talk:De Administrando Imperio|'''Δ''']]) 20:52, 14 March 2010 (UTC)
+:''The above discussion is preserved as an archive of a [[WP:RM|requested move]].  &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on this talk page. No further edits should be made to this section.&lt;/div&gt;&lt;!-- Template:RM bottom --&gt;
+
+{{Talk:2010 Pichilemu earthquake/GA1}}
+
+==Mercalli==
+¿X Mercalli? :/  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/190.161.176.61|190.161.176.61]] ([[User talk:190.161.176.61|talk]]) 19:39, 20 January 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+*It reached X Mercalli magnitude in [[Navidad, Chile|Navidad]], and [[Pichilemu]], at least. [[User:Diego Grez|Diego Grez]] ([[User talk:Diego Grez|talk]]) 20:10, 20 January 2011 (UTC)
+
+:I just changed the shake map to one that, although less clear in some ways, shows various cities and gives a key to the colours using the Mercalli scale. This shows that intensities reached about X on that scale in the epicentral region. [[User:Mikenorton|Mikenorton]] ([[User talk:Mikenorton|talk]]) 21:12, 20 January 2011 (UTC)
+::Cool! [[User:Diego Grez|Diego Grez]] ([[User talk:Diego Grez|talk]]) 21:26, 20 January 2011 (UTC)</text>
+      <sha1>opxu75h2j8g2uxqavywe1iuu2sm9oaa</sha1>
+    </revision>
+  </page>
+</mediawiki>

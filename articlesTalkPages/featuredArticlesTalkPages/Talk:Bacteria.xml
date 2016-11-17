@@ -1,0 +1,229 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Bacteria</title>
+    <ns>1</ns>
+    <id>3872</id>
+    <revision>
+      <id>745732283</id>
+      <parentid>745677062</parentid>
+      <timestamp>2016-10-23T00:02:09Z</timestamp>
+      <contributor>
+        <username>Lowercase sigmabot III</username>
+        <id>17518500</id>
+      </contributor>
+      <minor/>
+      <comment>Archiving 1 discussion(s) to [[Talk:Bacteria/Archive 2]]) (bot</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17604">{{Skip to talk}}
+{{Talk header|search=yes}}
+{{Vital article|topic=Science|level=2|class=FA}}
+{{British English}}
+{{Article history
+|action1=FAC
+|action1date=14 January 2004
+|action1link=Wikipedia:Featured_article_candidates/Archived_nominations/Index/June_2003_to_January_2004#Bacteria
+|action1result=failed
+|action1oldid=47350127
+|action2=GAN
+|action2date=August 11 2006
+|action2result=listed
+|action2oldid=68920418
+|action3=GAR
+|action3date=16:05, 19 November 2006
+|action3link=Wikipedia:Good_articles/Disputes/Archive_8#Bacteria
+|action3result=delisted
+|action3oldid=88731969
+|action4=PR
+|action4date=10:47, 29 November 2006
+|action4link=Wikipedia:Peer review/Bacteria/archive1
+|action4result=Reviewed
+|action4oldid=90367862
+|action5=FAC
+|action5date=3 December 2006
+|action5link=Wikipedia:Featured article candidates/Bacteria
+|action5result=Promoted
+|action5oldid=91700947
+|currentstatus=FA
+|maindate=January 20, 2007
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Microbiology|importance=Top|class=FA|MCB=yes}}
+{{WikiProject Molecular and Cellular Biology|importance=Top|class=FA}}
+{{WikiProject Medicine|importance=Top|class=FA}}
+{{WikiProject Tree of Life|importance=Top|class=FA}}
+{{WikiProject Biology|importance=Top|class=FA}}
+{{WikiProject History of Science|importance=Top|class=FA}}
+}}
+
+{{PortalArticleBannerShell|collapsed=yes|1=
+
+{{Article-portal|picture=File:Asaphiscus Wheeleri 3.jpg|class=FA|boxurl=Portal:Cambrian/Natural world articles|portalbox=Natural world|portalname=Cambrian|location=Portal:Cambrian/Natural world articles/7}}
+
+
+}}
+{{press|date=2009|url=http://web.me.com/stewartbrand/DISCIPLINE_footnotes/6%E2%80%94Gene_Dreams.html|title=Whole Earth Discipline: An Ecopragmatist Manifesto|author=[[Stewart Brand]]|org=[[Viking Press|Viking Penguin]]|pages=175–176}}
+{{WP1.0|v0.5=pass|class=FA|importance=Top|category=Natsci|core=yes|VA=yes|WPCD=yes|small=yes}}
+{{Auto archiving notice|bot=MiszaBot I|age=30|dounreplied=yes}}
+{{User:HBC Archive Indexerbot/OptIn
+|target=Talk:Bacteria/Archive index
+|mask=Talk:Bacteria/Archive &lt;#&gt;
+|leading_zeros=0
+|indexhere=yes}}
+{{User:MiszaBot/config
+|archiveheader = {{aan}}
+|maxarchivesize = 200K
+|counter = 2
+|minthreadsleft = 10
+|minthreadstoarchive = 1
+|algo = old(30d)
+|archive = Talk:Bacteria/Archive %(counter)d
+}}
+
+== Number of Species suggestion ==
+
+This was originally written for the [[Species]] page, but was only added in a very abreviated form.  I would like to propose inserting it into this article, following the &quot;Classification and identification&quot; section.  
+
+
+== Number of Species ==
+
+Total number of bacterial [[species]] (estimated): 5–10&lt;ref&gt;{{cite journal |author=Sogin ML, Morrison HG, Huber JA, ''et al.'' |title=Microbial diversity in the deep sea and the underexplored &quot;rare biosphere&quot; |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=103 |issue=32 |pages=12115–20 |year=2006 |month=August |pmid=16880384 |pmc=1524930 |doi=10.1073/pnas.0605127103 |url=http://www.pnas.org/cgi/pmidlookup?view=long&amp;pmid=16880384 |postscript=.}}{{cite news |author=Cheung L |title=Thousands of microbes in one gulp |url=http://news.bbc.co.uk/1/hi/sci/tech/5232928.stm |publisher=BBC |date=Monday, 31 July 200  }}&lt;/ref&gt;, or even 1,000 million&lt;ref name=&quot;Schloss2004&quot;&gt;{{Cite journal | pmid = 15590780| pmc = 539005| year = 2004| author1 = Schloss| first1 = P. D.| title = Status of the microbial census| journal = Microbiology and molecular biology reviews : MMBR| volume = 68| issue = 4| pages = 686–91| last2 = Handelsman| first2 = J| doi = 10.1128/MMBR.68.4.686-691.2004}}&lt;/ref&gt; (identified and unidentified) bacteria worldwide.
+
+Of the 6,000 to 170,000 ''identified'' [[prokaryotic]] species there are:
+*16,000 [[prokaryotic]] species &quot;seen by science&quot;, based on the number of different 98% unique [[16S_ribosomal_RNA]] sequences in databases as of 2004&lt;ref name=&quot;Schloss2004&quot;&gt;{{Cite journal | pmid = 15590780| pmc = 539005| year = 2004| author1 = Schloss| first1 = P. D.| title = Status of the microbial census| journal = Microbiology and molecular biology reviews : MMBR| volume = 68| issue = 4| pages = 686–91| last2 = Handelsman| first2 = J| doi = 10.1128/MMBR.68.4.686-691.2004}}&lt;/ref&gt;.  This analysis was based on a total of 56,215 16S rRNA gene sequences, the total number of 16S rRNA gene sequences in 2010 was 1,483,016, almost 30 times as many&lt;ref name=&quot;RDP10&quot;&gt;{{Cite journal | last1 = Cole | first1 = J. R. | last2 = Wang | first2 = Q. | last3 = Cardenas | first3 = E. | last4 = Fish | first4 = J. | last5 = Chai | first5 = B. | last6 = Farris | first6 = R. J. | last7 = Kulam-Syed-Mohideen | first7 = A. S. | last8 = McGarrell | first8 = D. M. | last9 = Marsh | first9 = T. | last10 = Garrity | first10 = G. M. | last11 = Tiedje | first11 = J. M. | title = The Ribosomal Database Project: Improved alignments and new tools for rRNA analysis | doi = 10.1093/nar/gkn879 | journal = Nucleic Acids Research | volume = 37 | issue = Database issue | pages = D141–D145 | year = 2009 | pmc = 2686447 | pmid = 19004872}}&lt;/ref&gt;.
+*6,728 [[bacteria]] [[Type_strain]]s that are fully described, currently stored in culture collections, and with a sequenced [[16S_ribosomal_RNA]] gene (as of 2008)&lt;ref name=&quot;Yarza2008&quot;&gt;{{Cite journal | last1 = Yarza | first1 = P. | last2 = Richter | first2 = M. | last3 = Peplies | first3 = J. R. | last4 = Euzeby | first4 = J. | last5 = Amann | first5 = R. | last6 = Schleifer | first6 = K. H. | last7 = Ludwig | first7 = W. | last8 = Glöckner | first8 = F. O. | last9 = Rosselló-Móra | first9 = R. | doi = 10.1016/j.syapm.2008.07.001 | title = The All-Species Living Tree project: A 16S rRNA-based phylogenetic tree of all sequenced type strains | journal = Systematic and Applied Microbiology | volume = 31 | issue = 4 | pages = 241–250 | year = 2008 | pmid =  18692976| pmc = }}&lt;/ref&gt;.  
+* 165,676 [[bacteria]] species with some genetic sequence known (of which 10,045 were in [[Microbiological_culture]])), as of 2011&lt;ref name=NCBItaxonomy&gt;{{cite web|url=http://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=statistics |title=NCBI taxonomy tool |publisher=NCBI, NIH |accessdate=2011-01-08}}&lt;/ref&gt;
+* 4,794 [[Archaea]] species with some genetic sequence known (of which 395 were in [[Microbiological_culture]])), as of 2011&lt;ref name=NCBItaxonomy&gt;{{cite web|url=http://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=statistics |title=NCBI taxonomy tool |publisher=NCBI, NIH |accessdate=2011-01-08}}&lt;/ref&gt;
+
+
+=== Rationale ===
+
+Here is my reasoning for the above values: 
+
+This paper: The All-Species Living Tree project.  Yarza et al. 20008 http://www.ncbi.nlm.nih.gov/pubmed/18692976 &lt;ref name=&quot;Yarza2008&quot;&gt;{{Cite journal | last1 = Yarza | first1 = P. | last2 = Richter | first2 = M. | last3 = Peplies | first3 = J. R. | last4 = Euzeby | first4 = J. | last5 = Amann | first5 = R. | last6 = Schleifer | first6 = K. H. | last7 = Ludwig | first7 = W. | last8 = Glöckner | first8 = F. O. | last9 = Rosselló-Móra | first9 = R. | doi = 10.1016/j.syapm.2008.07.001 | title = The All-Species Living Tree project: A 16S rRNA-based phylogenetic tree of all sequenced type strains | journal = Systematic and Applied Microbiology | volume = 31 | issue = 4 | pages = 241–250 | year = 2008 | pmid =  18692976| pmc = }}&lt;/ref&gt;  provides a lower-bound estimate of 6728, since the Type Species they are describing are a subset of named species, almost all of which have been grown in pure culture and are in collections (see article).
+
+While the estimates of 5–10 million bacteria are still current, and probably better supported (as pointed out elsewhere, the species concept is even more difficult for these organisms) the paper listed below &lt;ref name=&quot;Schloss2004&quot;&gt;{{Cite journal | pmid = 15590780| pmc = 539005| year = 2004| author1 = Schloss| first1 = P. D.| title = Status of the microbial census| journal = Microbiology and molecular biology reviews : MMBR| volume = 68| issue = 4| pages = 686–91| last2 = Handelsman| first2 = J| doi = 10.1128/MMBR.68.4.686-691.2004}}&lt;/ref&gt; cites a range from 10^7 to 10^9 (10 to 1,000 million) for the estimated number of species on the planet.    
+
+There is also published estimates of 35,498 total species richness, based on the 16,000 species that have been &quot;seen by science&quot;.  This latter value is based on the number of different  [[16S_ribosomal_RNA]] or [[RRNA]] genes (also see [[Molecular_phylogenetics]]) that are 98% or more divergent as described in this paper:
+Status of the Microbial Census.  Schloss and Handelsman. 2004 http://www.ncbi.nlm.nih.gov/pubmed/15590780 &lt;ref name=&quot;Schloss2004&quot;&gt;{{Cite journal | pmid = 15590780| pmc = 539005| year = 2004| author1 = Schloss| first1 = P. D.| title = Status of the microbial census| journal = Microbiology and molecular biology reviews : MMBR| volume = 68| issue = 4| pages = 686–91| last2 = Handelsman| first2 = J| doi = 10.1128/MMBR.68.4.686-691.2004}}&lt;/ref&gt;.  However, the data they were basing their estimate on was much less than is in current databases, so I referenced release 10 to the RDP for a current number.  
+
+I've included values from the NCBI GenBank database's Taxonomy section since it is current, and the repository for all sequences.  NCBI also has a taxonomic identifier for each sequence.  &lt;ref name=NCBItaxonomy&gt;{{cite web|url=http://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/index.cgi?chapter=statistics |title=NCBI taxonomy tool |publisher=NCBI, NIH |accessdate=2011-01-08}}&lt;/ref&gt;
+
+===References===
+{{reflist}}
+
+== Copyright violation and incorrect information about Gram stain type ==
+
+[[User:Braineeee|Braineeee]] ([[User talk:Braineeee|talk]]) 20:32, 11 October 2014 (UTC)I'm in a Biology course in post secondary school (ie. College) and I needed to find some information about Gram staining. I found a page with the exact same image (from a published book) only a different color. Its the image claimed to have been made by LadyOfHats and uploaded by NI74 in 2006 on this page. Changing 10% of an image (ie. its color) or other copyrighted work does not make it yours to release for free on the internet or in the public domain. That is a violation of copyright law as well. The correct Gram stain for this type of bacteria is Gram negative (using a red/pink Safranin or Fuchsine) dye. The image on this page is blue, and that is completely incorrect, it should be pink. I'm just a tad bit upset that I had to add this comment, and I had to waste my time double checking this for a homework assignment. Other Wikipedia pages about bacteria have conflicting information with this one. My sources are: http://amrita.vlab.co.in/?sub=3&amp;brch=73&amp;sim=208&amp;cnt=1 and  http://en.wikipedia.org/wiki/Gram_staining.
+
+[[File:Average_prokaryote_cell-_en.svg|thumb|Number 1]]
+[[File:Gram Stain Anthrax.jpg|thumb|left|Number 2]]
+:Hi {{ping|Braineeee}} Thanks for your post. Is Number 1 the image you refer to first? If it is then it's almost certain that the book you read copied the image from Wikipedia rather than the other way around. [[User:LadyofHats]] makes amazing illustrations and releases them into the [[public domain]] so that anyone can republish them wherever they like.
+
+:I think you also refer to number 2 which was taken from p4. of [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2631903/pdf/11747719.pdf this paper] and I agree that it is a little different to the original. The image is in the public domain however as it was created by employees of the [[Centre for Disease Control]]. Unfortunately it is difficult to find good images for us to use and in this case this might be the best that we can find and we need someone with a good microscope to donate a better one. [[User:Smartse|SmartSE]] ([[User talk:Smartse|talk]]) 21:37, 11 October 2014 (UTC)
+
+== DNA and RNA ==
+
+This is a very useful source on bacteria. My thanks to to all who put it together . 
+
+I am confused about one thing. The text refers to bacteria having RNA in its chromosome whereas the diagram of a bacterium refers to DNA. is there an error in the diagram or am I missing something?
+Andrew Morris
+andrewmorris@msn.com  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/82.6.237.86|82.6.237.86]] ([[User talk:82.6.237.86|talk]]) 15:12, 1 April 2015 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+: I think you mean these two sentences: &quot;Most bacteria do not have a membrane-bound nucleus, and their genetic material is typically a single circular chromosome located in the cytoplasm in an irregularly shaped body called the nucleoid. The nucleoid contains the chromosome with its associated proteins and RNA.&quot; This means that the chromosome is made of DNA, but the nucleoid also contains RNA and proteins. Clarified [https://en.wikipedia.org/w/index.php?title=Bacteria&amp;diff=654535153&amp;oldid=650285190 here]. [[User:Opabinia regalis|Opabinia regalis]] ([[User talk:Opabinia regalis|talk]]) 19:47, 1 April 2015 (UTC)
+
+== Metabolism Section -- Table ==
+
+The table in the metabolism section list three energy sources:  phototrophs, lithotroph, and organotroph.  Technically, this is not correct, as lithotroph and organotroph refer to source of reducing equivalents.  Lithotrophs can be photolithotrophs or chemolithotrophs. ~~Glucono  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/50.149.237.104|50.149.237.104]] ([[User talk:50.149.237.104|talk]]) 12:33, 18 April 2015 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Semi-protected edit request on 13 July 2015 ==
+
+{{edit semi-protected|Bacteria|answered=yes}}
+&lt;!-- Begin request --&gt;
+
+Please add to the &quot;Further reading section&quot; the following reference:  '''Ogunseitan, O.A. (2005) Microbial Diversity: Form and Function in Prokaryotes. 312 pages. Wiley-Blackwell. ISBN: 978-1-4051-4448-3.
+
+&lt;!-- End request --&gt;
+[[User:Plebeiansix|Plebeiansix]] ([[User talk:Plebeiansix|talk]]) 18:19, 13 July 2015 (UTC)
+
+[[File:Yes check.svg|20px|link=]] '''Done'''&lt;!-- Template:EP --&gt; Sorry about the not done earlier. I was mistaken. I will add it in now.
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:6|one external link|6 external links}} on [[Bacteria]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=712160095 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive http://web.archive.org/web/20080802025916/http://www.asm.org/ASM/files/ccLibraryFiles/Filename/000000002765/znw00107000025.pdf to http://www.asm.org/ASM/files/ccLibraryFiles/Filename/000000002765/znw00107000025.pdf
+*Added archive http://web.archive.org/web/20110717183759/http://www.sci.uidaho.edu/newton/math501/Sp05/Shapiro.pdf to http://www.sci.uidaho.edu/newton/math501/Sp05/Shapiro.pdf
+*Added archive http://web.archive.org/web/20070928032546/http://www.msk.or.kr/jsp/view_old_journalD.jsp?paperSeq=2134 to http://www.msk.or.kr/jsp/view_old_journalD.jsp?paperSeq=2134
+*Added archive http://web.archive.org/web/20120119210136/http://www.bacterio.cict.fr/number.html to http://www.bacterio.cict.fr/number.html
+*Added archive http://web.archive.org/web/20080917230856/http://www.bacterio.cict.fr:80/eubacteria.html to http://www.bacterio.cict.fr/eubacteria.html
+*Added archive http://web.archive.org/web/20090130052842/http://ascb.org:80/ibioseminars/bassler/bassler1.cfm to http://ascb.org/ibioseminars/Bassler/Bassler1.cfm
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 10:30, 27 March 2016 (UTC)
+
+== Number of bacteria in human flora ==
+
+The oft-quoted factoid that bacterial cells in the human flora outnumber the human cells ten to one has been revisited and is at least worthy of more scrutiny, and hence, more careful phrasing. &lt;br&gt;
+Research [http://biorxiv.org/content/early/2016/01/06/036103 here] by Milo et al. January 2016  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/92.110.88.179|92.110.88.179]] ([[User talk:92.110.88.179|talk]]) 15:00, 24 April 2016 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Tag ==
+
+I have tagged the article with a [[Template:Lead too long|lead too long tag]]. My edit conforms to [[WP:LEADLENGTH]] and should not be reverted without providing a good reason. Also, at the time the article got promoted to FA‐status, the lead was shorter then it is now. —[[User:MartinZ02|MartinZ02]] ([[User talk:MartinZ02|talk]]) 13:52, 19 July 2016 (UTC)
+
+== Antibiotics use in developing countries in Introduction ==
+
+Antibiotics are used throughout the world, not just in the developing world. Could the introduction be changed to represent this? Indeed resistance to certain antimicrobials was actually found in the developing world first. Medications for malaria and Tb spring to mind.
+
+[[Special:Contributions/78.32.155.242|78.32.155.242]] ([[User talk:78.32.155.242|talk]]) 16:44, 22 October 2016 (UTC)</text>
+      <sha1>cm5zjt6e3l23bx62rctm30attyjfkkg</sha1>
+    </revision>
+  </page>
+</mediawiki>

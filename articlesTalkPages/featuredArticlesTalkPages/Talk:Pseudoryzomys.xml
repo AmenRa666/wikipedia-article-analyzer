@@ -1,0 +1,117 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Pseudoryzomys</title>
+    <ns>1</ns>
+    <id>23916755</id>
+    <revision>
+      <id>666482846</id>
+      <parentid>644506255</parentid>
+      <timestamp>2015-06-11T13:26:34Z</timestamp>
+      <contributor>
+        <username>Dthomsen8</username>
+        <id>6277327</id>
+      </contributor>
+      <minor/>
+      <comment>clean up, replaced: {{Rodent → {{WikiProject Rodents using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10156">{{ArticleHistory
+|action1=GAN
+|action1date=23:14, 5 October 2009
+|action1link=Talk:Brazilian False Rice Rat/GA1
+|action1result=listed
+|action1oldid=318146930
+
+|action2=FAC
+|action2date=20:14, 16 December 2009
+|action2link=Wikipedia:Featured article candidates/Pseudoryzomys/archive1
+|action2result=promoted
+|action2oldid=331558830
+
+| topic         = natsci
+|dykdate=9 August 2009
+|currentstatus=FA
+|four=no
+}}
+{{WikiProject Rodents|class=FA|importance=low}}
+{{Talk:Brazilian False Rice Rat/GA1}}
+
+==Onwards from GA==
+Some notes - [[User:Casliber|Casliber]] ([[User talk:Casliber|talk]] '''·''' [[Special:Contributions/Casliber|contribs]]) 23:14, 5 October 2009 (UTC)
+
+*Range map (agree this is a tricky problem)
+*Some more clarification of technical terms. Another reader would be good.
+*Some more thorough referencing (eg the chromosome sentence)
+
+:Great, thanks! I added the karyotype ref and some others. [[User talk:Ucucha|Ucucha]] 23:49, 5 October 2009 (UTC)
+
+==Citation templates==
+Is there really a good reason for these citation templates?  They make the references section a difficult-to-edit disaster of code.  I've never understood why the trend in wikipedia is to intentionally make citing sources the most complex part of the process.  --[[User:Aranae|Aranae]] ([[User talk:Aranae|talk]]) 00:26, 9 January 2010 (UTC)
+:On the contrary, the templates mean one doesn't need to remember the minutae of citation formatting, only fill in some fields. They also do neat stuff like [[Wikipedia:WikiProject Microformats/COinS|generating metadata]]. --[[User:Cybercobra|&lt;b&gt;&lt;font color=&quot;3773A5&quot;&gt;Cyber&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;FFB521&quot;&gt;cobra&lt;/font&gt;]] [[User talk:Cybercobra|(talk)]] 03:06, 9 January 2010 (UTC)
+::In a format with an incredibly steep learning curve.  Forcing editors to write this type of complex code to do the simplest (and most important) tasks really represents one of the biggest barriers to entry for experts who want to improve wikipedia.  This type of formatting is not straightforward in any respect.  --[[User:Aranae|Aranae]] ([[User talk:Aranae|talk]]) 03:46, 9 January 2010 (UTC)
+::Cybercobra, I wrote this article and added all its citation templates, and I find it much more convenient to just type out the citation than to use these templates and remember the names of all these parameters. Sure, there's probably some script that makes it easier, but all that is only adding complexity and solving a non-existing problem, because I have no problem at all with just typing out the citations.
+::I can see two possible advantages for using the cite templates. One is that citation formats are consistent across many articles. But whether this is even desirable is dubious. Both the citation template format and the format I commonly use give the same information, just with different punctuation and formatting. The second advantage consists of the COinS metadata. But these are rarely used at best, and it should be possible to generate these data automatically anyway even from non-templated citations.
+::There are also disadvantages for the use of citation templates (cf. recent discussion at [[WT:CITE]]). They slow down page load time, which is significant for people with slow connections. People in Bolivia or Paraguay who want to learn about this component of their fauna, who presumably don't have connections as fast as they are in the West, may indeed notice the difference. Then, as Aranae rightly notes, the use of cite templates complicates adding citations for people who don't know how to use the templates. You speak about the &quot;minutiae of citation formatting&quot;, but using cite templates forces one to learn the minutiae of parameter names in those templates, and that is something much more important. If someone adds a citation here and adds a space after the colon in a journal citation, which is inconsistent with the style I used here, the citation is still functional and the only problem is a minor inconsistency in the citations, a small problem that is easily fixed. If on the contrary I don't remember the correct parameter name in a cite template, it breaks the citation. Thus, both formats require one to remember such minutiae, but the consequences of not remembering them are more severe for the cite templates. In general, I prefer not to use templates where they are not urgently required, because they make it more difficult for new users willing to improve Wikipedia to do so. In addition (a minor point), the cite template style has several features that are inconsistent with the styles used in the scientific journals in the field.
+::In this article, your use of the citation templates created several problems, which result in the article currently not fulfilling some [[WP:FA?|FA criteria]]. Some of the footnotes refer to Percequillo et al., 2008, which is the IUCN account, but you have now disguised this reference as an external link, making it impossible to verify the conservation status from the information given in the article. The language text (&quot;in Portuguese&quot; etc.) is placed at different places in the citation in the several citations where it is used. This is apparently a problem with the templates themselves and not with your implementation, and it illustrates another problem: using complex templates instead of simple text makes it more difficult to achieve consistency on points like the place of the language label. Your edit created a problem in the Musser and Carleton, 2005 reference, where there are two periods behind the initials of DeeAnn Reeder. This illustrates the fact that even when using the citation templates, one has to remember minutiae, such as not putting a period at the end of the |editor= parameter. For some reason, you used the DOI for the Pardinas, 2008 reference, creating inconsistency with other citations where DOIs also exist. I gave my reasons for not using DOIs at [[WP:Featured article candidates/Pseudoryzomys/archive1|the FAC]]. Your current formatting creates needless text, because no one is interested (I hope) in seeing the DOI code. Just linking the title is more intuitive and economical, and this was the previous format. You placed the number of ''American Museum Novitates'' and some other papers within brackets, even though that is the most important piece of information for finding the paper.
+::Summarizing, I find the disadvantages of using the cite templates much more persuasive than the advantages. The templates add needless complexity and require one to learn at least as many minutiae as just typing the references does.
+::You also split some of the references to multiple papers. Not only did this create some other problems (ref. 29 and 31 are currently identical), but it also makes the article less visually appealing by creating strings of consecutive ref tags.
+::Last, I would like to draw your attention to the principles in [[WP:MOS#General principles]]. I believe your changes objectively made the article worse; you probably disagree, but we should be able to agree that both the previous style and the one you proposed are permissible, so the style preferred by the primary contributor (me) is to be used. I am open to objective arguments why I am wrong on the above. [[User talk:Ucucha|Ucucha]] 11:36, 9 January 2010 (UTC)
+:::I'm currently busy with other 'pedia tasks and the wall of text is rather off-putting, so I'm not going to make an issue of this. --[[User:Cybercobra|&lt;b&gt;&lt;font color=&quot;3773A5&quot;&gt;Cyber&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;FFB521&quot;&gt;cobra&lt;/font&gt;]] [[User talk:Cybercobra|(talk)]] 12:04, 11 January 2010 (UTC)
+::::Sorry if that is the case. I think my main point is in the paragraph &quot;Summarizing, I find the disadvantages of using the cite templates much more persuasive than the advantages. The templates add needless complexity and require one to learn at least as many minutiae as just typing the references does.&quot; [[User talk:Ucucha|Ucucha]] 12:18, 11 January 2010 (UTC)
+:My apologies for interposing here, but having just seen this I thought that [[Wikipedia:Centralized discussion/Wikipedia Citation Style]] may be of interest.&lt;br/&gt;— [[User:Ohms law|&lt;i&gt;V&lt;/i&gt; = &lt;i&gt;I&lt;/i&gt; * &lt;i&gt;R&lt;/i&gt;]] ([[User talk:Ohms law|talk to Ohms law]]) 00:21, 20 January 2010 (UTC)
+
+==  Brazilian False Rice Rat ==
+
+Why was it moved from &quot;Brazilian False Rice Rat&quot; despite [[WP:COMMONAME]]? [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 03:58, 9 September 2012 (UTC)
+:''Pseudoryzomys'' is a far more common name for this animal than &quot;Brazilian False Rice Rat&quot;. See generally [[User:Ucucha/Titles]]. [[User:Ucucha|Ucucha]] ([[User talk:Ucucha|talk]]) 14:23, 9 September 2012 (UTC)
+::In light of all that, should [[WP:COMMONNAME]] be amended?  You don't really seem to be selectively violating it if your practice is to use taxon titling when the taxon ''is'' actually the literally most common name.  There seems to be a problem between the most common meaning of &quot;common name&quot; and &quot;common name&quot; as a technical term.  [[WP:COMMONNAME]] seems to be talking about the literally most common name.  Perhaps a new guideline elsewhere to warn people of this important distinction.  [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 16:52, 9 September 2012 (UTC)
+:::Yes, my argument is that though ''Pseudoryzomys'' is not a &quot;common name&quot; in the technical sense of a name in the vernacular, but it is a &quot;common name&quot; in the sense of a name that is commonly used for the animal, and it is this second meaning of &quot;common name&quot; that is relevant to the policy. I don't have any interest at this point in a proposal to amend the policy, though. [[User:Ucucha|Ucucha]] ([[User talk:Ucucha|talk]]) 17:25, 9 September 2012 (UTC)
+The most popular article taxon-titled article might be [[Marsupial Wolf]]. It could be a useful example to use in a reminder or caveat.  [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 17:46, 9 September 2012 (UTC)
+::::Understood; you've done enough already, thanks.  You may want to watch [[Wikipedia_talk:Article_titles#When_the_most_common_name_is_not_a_.22common_name.22|this]], though. [[User:Chrisrus|Chrisrus]] ([[User talk:Chrisrus|talk]]) 19:33, 9 September 2012 (UTC)</text>
+      <sha1>42yccn1edc6mtbt66yjufweqtcai0yf</sha1>
+    </revision>
+  </page>
+</mediawiki>

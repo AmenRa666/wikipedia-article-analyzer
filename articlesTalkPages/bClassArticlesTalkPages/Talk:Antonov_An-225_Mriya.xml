@@ -1,0 +1,215 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Antonov An-225 Mriya</title>
+    <ns>1</ns>
+    <id>992539</id>
+    <revision>
+      <id>749651909</id>
+      <parentid>749644888</parentid>
+      <timestamp>2016-11-15T14:32:35Z</timestamp>
+      <contributor>
+        <username>Fnlayson</username>
+        <id>1216158</id>
+      </contributor>
+      <comment>Add Template Reflist-talk for sections with inline refs</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22661">{{Talk header}}
+{{WikiProjectBannerShell|
+{{WikiProject Aviation|class=B
+ |b1 &lt;!--Referencing &amp; citations--&gt; = y
+ |b2 &lt;!--Coverage and accuracy  --&gt; = y
+ |b3 &lt;!--Structure              --&gt; = y
+ |b4 &lt;!--Grammar and style      --&gt; = y
+ |b5 &lt;!--Supporting materials   --&gt; = y
+|Aircraft=yes |portal-link=Selected Aircraft/November}}
+{{WikiProject Ukraine|class=B |importance=High}}
+{{WikiProject Russia|class=B |importance=High|tech=yes}}
+{{WikiProject Soviet Union|class=B |importance=High}}
+}}
+
+==Payload/Range==
+This diagram [[File:RangePayload.PNG]] has some gaps for the An-225. These gaps could be filled with data from actual flights (such as the non-notable Thai-NC 120ton recently), but I don't know how we as a community can collect them. Also it is a problem to verify refueling between hops. The combination of payload and range is a defining characteristic of aircraft. [[User:TGCP|TGCP]] ([[User talk:TGCP|talk]]) 06:22, 23 June 2010 (UTC)
+
+:Sorry but you can't derive range data for an aircraft type from that sort of analysis - it is completely [[WP:OR]]. - [[User:Ahunt|Ahunt]] ([[User talk:Ahunt|talk]]) 13:15, 23 June 2010 (UTC)
+
+::Depends on how it is done. Plotting readily available data into a diagram is hardly original, but I guess that if a considerable amount of work is required, then it constitutes OR. [[User:TGCP|TGCP]] ([[User talk:TGCP|talk]]) 09:17, 24 June 2010 (UTC)
+
+:::You need to find a reliable ref that states the range, [[WP:OR]] doesn't allow this sort of math to come up with information. It wouldn't be sufficiently accurate anyway as you are never sure of all the factors involved, for instance fuel loads may be reduced for balanced field requirements, range my be extended with internal cargo compartment bladders, etc. - [[User:Ahunt|Ahunt]] ([[User talk:Ahunt|talk]]) 14:26, 24 June 2010 (UTC)
+
+::::I stumbled upon 100tons for 9600km at the External Link [http://ram-home.com/ram-old/an-225.html ram], that is good enough for now. Flight data might be found in an entry similar to [http://flightaware.com/live/flight/ADB388F this] - [http://flightaware.com/live/flight/ADB388F/history/20091015/1730Z/PHNL/KIAH/tracklog track] shows unrefueled flight. Single item cargo balance is highly prioritized, so fuel reduction for that reason is unlikely. Due to flight economics, fuel is likely to be reduced anyway. Because An225 has 300ton fuel capacity for 15,400km range, bladders are unlikely to be needed - as cargo weight goes up, fuel (and thus range) is reduced to stay below MTOW, so fuel bladders do not change the picture as long as they are counted as cargo. Anyway, care should be taken to distinguish theoretical from practical data.
+
+::::Sources disagree on external load - some say 200tons, some say 90tons. Buran was 42tons (Energia booster weight not found). 90tons could be today's limit. I wonder if anything has been carried externally since 2001 ? [[User:TGCP|TGCP]] ([[User talk:TGCP|talk]]) 22:03, 20 July 2010 (UTC)
+
+:::::oh, and the Antonov specs page has been dead for months now. [[User:TGCP|TGCP]] ([[User talk:TGCP|talk]]) 22:14, 20 July 2010 (UTC)
+:::::-spec page works, but news page is still out of order. An225 has overhead cranes [http://modelflyvning.dk/forum/attachment.php?attachmentid=14251&amp;d=1276201820] , but Google only showed An124-crane specs - perhaps you can search better than me? [[User:TGCP|TGCP]] ([[User talk:TGCP|talk]]) 23:26, 24 July 2010 (UTC)
+{{outdent}}
+I was having a read of the lovely article, and noticed the operational history section mentions jobs along with weights of each one, except for the Buran. Keep up the great work everyone ! &lt;span style=&quot;text-shadow:#c5C3e3  0.2em 0.2em 0.2em; class=texhtml&quot;&gt;[[User:Penyulap|&lt;span style=&quot;color:#002100&quot;&gt;'''Penyulap'''&lt;/span&gt;]]&lt;/span&gt;&lt;sub&gt;[[User talk:Penyulap|&lt;span style=&quot;color:07AA07&quot;&gt;''' talk'''&lt;/span&gt;]]&lt;/sub&gt; 13:18, 3 August 2011 (UTC)
+:FAI says the [http://www.fai.org/fai-record-file/?recordId=15193 Absolute payload record has been superseded] - how and when? The An-225 [http://www.fai.org/fai-record-file/?recordId=7129 still holds the record for its weight class, above 500 tonnes]. I can't imagine which aircraft less than 500t could heave over 250t in the air. [[User:TGCP|TGCP]] ([[User talk:TGCP|talk]]) 19:28, 2 October 2014 (UTC)
+::Not sure what you are trying to say both records refer to the same flight by the An-225 on 11 Sep 2011 from Kyiv to Odesa and return (assuming they are using American dates). [[User:MilborneOne|MilborneOne]] ([[User talk:MilborneOne|talk]]) 20:58, 2 October 2014 (UTC)
+::The point is that the Absolute record has been superseded, while the class record still holds (same flight, which broke numerous records in 2001. Click Record, use Halunenko as search). FAI uses &quot;retired by changes of the sporting code&quot; if they change the rules, but Superseded if the record is broken later. But what has superseeded the Absolute record ? [[User:TGCP|TGCP]] ([[User talk:TGCP|talk]]) 21:16, 2 October 2014 (UTC)
+
+== Rename ==
+The title needs to be renamed to include the official suffix-name of ''Mriya''. I don't see how it is different from [[Boeing 787 Dreamliner]]. If nobody responds within 10 days, I will go ahead with the rename. --[[User:Sp33dyphil|Sp33dyphil]] ©&lt;sup&gt;[[User talk:Sp33dyphil|hat]]&lt;/sup&gt;&lt;sub style='position: relative; left: -1.5em;'&gt;[[Special:Contributions/Sp33dyphil|ontributions]]&lt;/sub&gt; 03:58, 30 May 2012 (UTC)
+:The guideline is Manufacturer-Designation-Name as explained at [[Wikipedia:WikiProject Aircraft/Naming]], which agrees with your proposal! - [[User:Ahunt|Ahunt]] ([[User talk:Ahunt|talk]]) 11:48, 30 May 2012 (UTC)
+::I'm not going to move it back just yet... but did you really wait for consensus? One reply? Are you going to move all of the other antonov pages? [[User:SpigotMap|&lt;font color=&quot;BLACK&quot;&gt;'''Spigot'''&lt;/font&gt;]][[User talk:SpigotMap|&lt;font color=&quot;GRAY&quot;&gt;Map&lt;/font&gt;]] 00:13, 31 May 2012 (UTC)
+:::The style guideline suggests using the most common name for aircraft naming which I don't believe is &quot;Mriya&quot;... In fact it says a name should be left off if it may cause confusion. [[User:SpigotMap|&lt;font color=&quot;BLACK&quot;&gt;'''Spigot'''&lt;/font&gt;]][[User talk:SpigotMap|&lt;font color=&quot;GRAY&quot;&gt;Map&lt;/font&gt;]] 00:15, 31 May 2012 (UTC)
+::::The style guideline suggests using the most common name. Well, the only name I've ever come across is ''Mriya'', which is the official name given by Antonov. If I've missed any other names, please let me know. --[[User:Sp33dyphil|Sp33dyphil]] ©&lt;sup&gt;[[User talk:Sp33dyphil|hat]]&lt;/sup&gt;&lt;sub style='position: relative; left: -1.5em;'&gt;[[Special:Contributions/Sp33dyphil|ontributions]]&lt;/sub&gt; 06:08, 31 May 2012 (UTC)
+:::::Okay, you have a point. Most other non-Antonov Russian aircraft aren't necessarily &quot;named&quot;. If we are going to rename this article, perhaps we should rename all of them? [[User:SpigotMap|&lt;font color=&quot;BLACK&quot;&gt;'''Spigot'''&lt;/font&gt;]][[User talk:SpigotMap|&lt;font color=&quot;GRAY&quot;&gt;Map&lt;/font&gt;]] 23:44, 31 May 2012 (UTC)
+::::::All of the named Antonov aircraft that is. [[User:SpigotMap|&lt;font color=&quot;BLACK&quot;&gt;'''Spigot'''&lt;/font&gt;]][[User talk:SpigotMap|&lt;font color=&quot;GRAY&quot;&gt;Map&lt;/font&gt;]] 23:45, 31 May 2012 (UTC)
+:::::::Only a few Antonov aircraft are given names. --[[User:Sp33dyphil|Sp33dyphil]] ©&lt;sup&gt;[[User talk:Sp33dyphil|hat]]&lt;/sup&gt;&lt;sub style='position: relative; left: -1.5em;'&gt;[[Special:Contributions/Sp33dyphil|ontributions]]&lt;/sub&gt; 06:35, 1 June 2012 (UTC)
+
+== Questionable Citation ==
+There is a questionable citation (currently citation 23) that was obviously not fact-checked properly.
+([http://www.eyefortransport.com/content/frankfurt-hahn-airport-sets-world-record|Ukraine's An-225 aircraft sets new record for heaviest single cargo item transported by air], Eye for Transport, 18 August 2009.) To quote from the article:
+
+&lt;blockquote&gt;Frankfurt-Hahn has, for many years, been a key cargo base Its geographical location in the centre of Europe, the 24-hour operating licence, the 38 km runway and the short access and departure routes between apron and road are among this airport's key competitive advantages&lt;/blockquote&gt;
+A 38 kilometer long runway? Yes, this is a typo (Frankfurt-Hahn's main runway is 3.8km&lt;ref&gt;http://en.wikipedia.org/wiki/Frankfurt-Hahn_Airport&lt;/ref&gt;), but what other figures are wrong in this article?
+&lt;blockquote&gt;
+At 1623 metres long and 427 metres wide, the consignment - a generator for a gas power plant in Armenia and its loading frame - weighed in a record 18909 tonnes.
+&lt;/blockquote&gt;
+References: {{reflist}}
+:The [[http://www.eft.com/freight-transport/frankfurt-hahn-airport-sets-world-record EfT article]] obviously has ludicrous numbers, but the digits are mostly correct just missing a comma. The other reference is [http://www.aircargonews.com/091110/FT091113.html this] which has similar but correct numbers formed by nearly the same digits. I don't know if the missing commas disqualify the EtF article, as the verbal content is more informative. More refs may be found about the flight. [[User:TGCP|TGCP]] ([[User talk:TGCP|talk]]) 20:08, 30 May 2012 (UTC)
+::I have tweaked the refs now, and added a ref from the Buran article although that ref links back to Wikipedia. [[User:TGCP|TGCP]] ([[User talk:TGCP|talk]]) 20:59, 30 May 2012 (UTC)
+
+== Video Landing ==
+
+[https://www.youtube.com/watch?v=4r1663DqucA Video of example landing]
+
+Might be a useful external link.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Damotclese|Damotclese]] ([[User talk:Damotclese|talk]] • [[Special:Contributions/Damotclese|contribs]]) 17:21, 19 May 2013 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==Norwegian cargo para==
+I had deleted this as non-notable, but it has been reinserted. We have an entry for the longest and heaviest loads carried and in the past we have always removed attempts to add other miscellaneous loads that are neither bigger nor heavier, because the lists of various non-notable things carried gets very long very quickly and is [[WP:TRIVIA]]. Is there any reason to include this load now? - [[User:Ahunt|Ahunt]] ([[User talk:Ahunt|talk]]) 00:57, 23 June 2014 (UTC)
+
+:I don't see any obvious reason either, as it's not the first use by a Western government. As far as classified cargo, I don't see how that is significant, as I doubt it's the first time for that too. - [[User:BilCat|BilCat]] ([[User talk:BilCat|talk]]) 01:19, 23 June 2014 (UTC)
+:* Agreed. This is another cargo without more specifics. -[[User:Fnlayson|Fnlayson]] ([[User talk:Fnlayson|talk]]) 01:40, 23 June 2014 (UTC)
+:* +1. Record-breaking flights can be included as long as they're recognized as such, regular hauls are just too numerous. [[WP:INDISCRIMINATE|Wikipedia is not a logbook]]. --[[User:Illythr|illythr]] ([[User talk:Illythr|talk]]) 19:37, 23 June 2014 (UTC)
+
+*Would this make ''The An-225 has been contracted by the Canadian and U.S. governments to transport military supplies to the Middle East in support of coalition forces'' as not being particularly notable as well, just the aircraft doing its day job? [[User:MilborneOne|MilborneOne]] ([[User talk:MilborneOne|talk]]) 19:43, 23 June 2014 (UTC)
+*: It might be notable if that's what it's been doing for a prolonged period of time (i.e., as a significant part of its operational history). However, reference 35 doesn't support that statement. So I guess it should be deleted as well. --[[User:Illythr|illythr]] ([[User talk:Illythr|talk]]) 22:26, 23 June 2014 (UTC)
+
+==Horsepower==
+The standard formula for converting speed (528 mph) and thrust (309600 lbs) to the equivalent horsepower gives just under 436,000 hp needed to travel that speed. [[User:AMCKen|AMCKen]] ([[User talk:AMCKen|talk]]) 05:14, 2 October 2015 (UTC)
+
+== Errors in citations ==
+&lt;nowiki&gt;Citation 5: Cite error: Invalid &lt;ref&gt; tag; name &quot;ramAn225&quot; defined multiple times with different content (see the help page).
+Citation 23: Cite error: Invalid &lt;ref&gt; tag; name &quot;avzone&quot; defined multiple times with different content (see the help page).
+&lt;/nowiki&gt;
+{{Reflist-talk}}
+
+:Thanks, {{fixed}} - [[User:Ahunt|Ahunt]] ([[User talk:Ahunt|talk]]) 23:45, 23 November 2015 (UTC)
+
+==Flights included, flights excluded==
+The recent addition of &quot;first flights to Australia and India&quot; raises the question of which &quot;geographical location&quot; flights should be included and which should be excluded. The 225 has of course been chartered to fly to many places. If it stays in service much longer it will probably have flown to most countries in the world. Do we want to include a list of every place that it has landed at? &quot;First flight to the USA, first flight to Belize, first flight to Lichtenstein&quot; and so on? I am not at all convinced that the 225 just landing in a place by itself is notable. We certainly don't do this for other aircraft types. You won't see &quot;first time a [[Schweizer 1-26]] landed in Australia&quot; or even [[Boeing 747]] mentioned. My own thought is that while largest loads carried are notable that just landing in some country by itself is not. - [[User:Ahunt|Ahunt]] ([[User talk:Ahunt|talk]]) 12:26, 16 May 2016 (UTC)
+
+I agree with these comments, both on places and on loads.[[User:TSRL|TSRL]] ([[User talk:TSRL|talk]]) 12:40, 16 May 2016 (UTC)
+: It's newsworthy, but it's not notable to our purposes.
+: There could of course be historical exceptions to this, or where the flight itself is technically notable - first oceanic crossings etc, or where there is some political significance to it. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 13:01, 16 May 2016 (UTC)
+: Per Andy Dingley. Unless a particular incident stands out as significant for other reasons then no, it is not the kind of thing to include - here or anywhere else. The largest load carried is significant, but the time and place are just afterthoughts. The first trip outside the Soviet Union might be too, that sort of thing. &amp;mdash; Cheers, [[User:Steelpillow|Steelpillow]] ([[User Talk:Steelpillow|Talk]]) 14:51, 16 May 2016 (UTC)
+::Thank you everyone for your input. With no further comments in a couple of days I think it is safe to say we have a consensus here and so I will do a clean-up on the article to conform. - [[User:Ahunt|Ahunt]] ([[User talk:Ahunt|talk]]) 18:30, 18 May 2016 (UTC)
+
+== National origin in the Infobox ==
+If this aircraft was developed during the the time of the [[Soviet Union]] , then can't [[Ukraine]] also be mentioned. However &quot;free&quot; Ukranian SSR was, was it '''not''' a Nation. This could be solved in three ways, as I see it.
+# just using Soviet Union (which Ukranian SSR was a part of)
+# changeing it all to [[Russia]] and [[Ukraine]]
+# remove that line
+[[User:Boeing720|Boeing720]] ([[User talk:Boeing720|talk]]) 12:52, 21 June 2016 (UTC)
+
+:There is a fourth option, and that is to leave it as it is. Yes, it was developed under the Soviet Union, so that is correct, and I oppose adding Russia to that line. However, while I don't necessarily subscribe to the idea of Ukraine being a &quot;nation&quot; under the Soviet Union, that's not why I favor keeping Ukraine in the infobox. After the collapse of the Soviet Union and Ukraine's independence, the An-225 was placed into storage and stripped of its engines. It was refurbished in the late 1990s and reentered service in the early 2000s. Since this was done after Ukraine's independence, it makes sense to me to include the nation for that reason. - [[User:BilCat|BilCat]] ([[User talk:BilCat|talk]]) 14:10, 21 June 2016 (UTC)
+::While I am not going to argue against adding Ukraine, my first choice would be &quot;USSR&quot; as it was built by the Soviets. - [[User:Ahunt|Ahunt]] ([[User talk:Ahunt|talk]]) 20:44, 21 June 2016 (UTC)
+:::Bilcat - I think this is a question of '''development'''. We do not give the development credentials to all countries that has bought for instance the American F-16. Not even if its weaponry it totaly changed and re-developed elsewhere than in the USA. So even if the Ukranian air force has made some changes to the aircraft, it remains as a product developed by the Soviet Union or USSR. In these words (&quot;Soviet Union&quot; and &quot;USSR&quot;) are Ukrainian SSR included. But later changes are not sufficient enough to even change its name. [[User:Boeing720|Boeing720]] ([[User talk:Boeing720|talk]]) 09:06, 24 June 2016 (UTC)
+The line in question shows &quot;'''National''' origin&quot;. And by 1988 this undoubtably was Soviet Union / USSR.
+:SUPPORT - USSR or Soviet Union. [[User:Hammer5000|Hammer5000]] ([[User talk:Hammer5000|talk]]) 11:55, 27 June 2016 (UTC)
+
+== An-225 gone to China ==
+Recent sources indicate that the An-225 has been sold or traded to China, although useful details are scarce: &lt;ref&gt;http://uatoday.tv/business/antonov-to-manufacture-an-225-mriya-aircraft-in-china-738151.html&lt;/ref&gt; &lt;ref&gt;http://www.businessinsider.com/china-ukraine-build-antonov-an-225-2016-9&lt;/ref&gt;&lt;ref&gt;http://www.popsci.com/china-will-resurrect-worlds-largest-plane&lt;/ref&gt;[[User:Santamoly|Santamoly]] ([[User talk:Santamoly|talk]]) 09:24, 17 September 2016 (UTC)
+: No, that's not what they say.
+: There are two &quot;An-225&quot;.  One is the single working and flying heavy-lift aircraft, which is staying with [[Antonov Airlines]]. The other is the design and rights to build more. This is going to China.  A third component is the incomplete airframe, and whether that will ever be finished off and flown. I don't think the China deal makes that any clearer - the Chinese may well have bought the designs for their technical merit, not one old airframe, and they may wish to do the build and completion work in their own plants in China, rather than finish an aged airframe in a Ukrainian plant. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 10:29, 17 September 2016 (UTC)
+
+::The other factors, as noted, in this are that the Russian parts are no longer available for political reasons and will have to be fabricated to restart production and also that the Chinese company is smaller that some in the Chinese aerospace industry and may or may not have the resources to actually pursue this project. While it is possible that more An225s may be built in China, it is also quite likely that this episode may come to nothing. - [[User:Ahunt|Ahunt]] ([[User talk:Ahunt|talk]]) 10:56, 17 September 2016 (UTC)
+{{Reflist-talk}}
+
+== Single tail and Rear Cargo Door ==
+I removed a referenced allusion to the second AN-225 having a single vertical tail and rear cargo door.  I removed it for three reasons.  First, the second prototype fuselage has no rear cargo door and no provisions for a vertical tail on the top of the fuselage.  Second, the reference, which is readable on Google Books, only provides the data as a quote.  Finally, the reference did not support the wording in the article.  There is no reason to have this speculation in the article especially as hardware is built... without the vertical tail or cargo door.--[[User:Winged Brick|Winged Brick]] ([[User talk:Winged Brick|talk]]) 10:13, 4 October 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:7|one external link|7 external links}} on [[Antonov An-225 Mriya]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=744564891 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20110113080326/http://www.fai.org/news_archives/fai/000295.asp to http://www.fai.org/news_archives/fai/000295.asp
+*Corrected formatting/usage for http://www.mak.ru/english/kommissions/aviareg/certificates/sertifikati_tipa_na_vozdushnie_suda.html
+*Corrected formatting/usage for http://www.aircraft-info.net/aircraft/jet_aircraft/antonov/AN-225
+*Added archive https://web.archive.org/web/20110716133659/http://www.steelcon.com/fileadmin/user_upload/pdf/News/Steelcon__News_GB.pdf to http://www.steelcon.com/fileadmin/user_upload/pdf/News/Steelcon__News_GB.pdf
+*Added archive https://web.archive.org/web/20120430170935/http://www.eft.com:80/freight-transport/frankfurt-hahn-airport-sets-world-record to http://www.eft.com/freight-transport/frankfurt-hahn-airport-sets-world-record
+*Added archive https://web.archive.org/web/20100614024755/http://www.renewable-energy-sources.com:80/2010/06/11/lm-wind-powers-globlades-on-record-breaking-journey/ to http://www.renewable-energy-sources.com/2010/06/11/lm-wind-powers-globlades-on-record-breaking-journey/
+*Added archive https://web.archive.org/web/20110211044825/http://www.jv.dk:80/artikel/897243:Haderslev--Se-brugernes-billeder--Verdens-stoerste-transportfly-i-Skrydstrup to http://www.jv.dk/artikel/897243:Haderslev--Se-brugernes-billeder--Verdens-stoerste-transportfly-i-Skrydstrup
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=true}}
+
+Cheers.—[[User:InternetArchiveBot|'''&lt;span style=&quot;color:darkgrey;font-family:monospace&quot;&gt;InternetArchiveBot&lt;/span&gt;''']] &lt;span style=&quot;color:green;font-family:Rockwell&quot;&gt;([[User talk:InternetArchiveBot|Report bug]])&lt;/span&gt; 02:07, 16 October 2016 (UTC)
+
+:{{Checked} - [[User:Ahunt|Ahunt]] ([[User talk:Ahunt|talk]]) 13:58, 16 October 2016 (UTC)
+
+== Fire?! ==
+
+The article says:
+
+::On November 11, 2016 one of the plane's engines caught fire in Leipzig, Germany. The fire was extinguished within five minutes. The extent of damage is unknown.
+
+However it landed yesterday Nov. 14th in Brazil and is supposed to fly to Chile tomorrow. [[User:Tsf|Tsf]] ([[User talk:Tsf|talk]]) 12:21, 15 November 2016 (UTC)
+
+:The [http://en.apa.az/world-news/europe/world-s-largest-aircraft-catches-fire-at-leipzig-airport.html cited ref] does say that, but perhaps it was an insignificant event? Do you have a ref for it being in Brazil on the 14th? If so the original incident can probably be removed. - [[User:Ahunt|Ahunt]] ([[User talk:Ahunt|talk]]) 12:38, 15 November 2016 (UTC)
+
+::In Portuguese: http://www1.folha.uol.com.br/cotidiano/2016/11/1831903-maior-aviao-do-mundo-antonov-pousa-em-guarulhos-e-mobiliza-curiosos.shtml [[User:Tsf|Tsf]] ([[User talk:Tsf|talk]]) 13:32, 15 November 2016 (UTC)
+
+:::Thank you for that ref. I think that shows that either the &quot;fire&quot; report was mistaken or that the fire was very minor and not consequential. Either way the item can be removed from the article, which I will do. - [[User:Ahunt|Ahunt]] ([[User talk:Ahunt|talk]]) 13:46, 15 November 2016 (UTC)</text>
+      <sha1>a6y1t2uz5qhlymnv4t3jpmw086xpcxu</sha1>
+    </revision>
+  </page>
+</mediawiki>

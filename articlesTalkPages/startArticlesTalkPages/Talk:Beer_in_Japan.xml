@@ -1,0 +1,103 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Beer in Japan</title>
+    <ns>1</ns>
+    <id>19115961</id>
+    <revision>
+      <id>717303691</id>
+      <parentid>717303311</parentid>
+      <timestamp>2016-04-26T22:18:52Z</timestamp>
+      <contributor>
+        <username>Kortoso</username>
+        <id>339335</id>
+      </contributor>
+      <minor/>
+      <comment>/* Contradiction about history */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3758">{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Japan|class=start|importance=high}}
+{{WikiProject Beer|class=start|importance=Mid}}
+}}
+{{find}}
+
+==package sizes ?==
+grateful if someone could describe packaging sizes, ie how big are bottles / cans ? Especially, are these international/metric sizes ? 
+This has implications for import/export matters [[User:Feroshki|Feroshki]] ([[User talk:Feroshki|talk]]) 08:50, 30 January 2009 (UTC)
+
+==Contradiction about history ==
+The first two paragraphs are contradictory about the origin of beer production in Japan. The first para claims the Dutch introduced beer in the Edo period, which the second claims that it was the Germans in the Meji period. I do not know which is correct.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/67.89.42.34|67.89.42.34]] ([[User talk:67.89.42.34|talk]]) 16:35, 31 July 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+: A little bit of each, apparently.&lt;ref&gt;http://drinks.seriouseats.com/2011/08/a-brief-history-of-japanese-beer-sapporo-ichiban-craft-beer-in-japan.html&lt;/ref&gt; And here's something definitive:&lt;ref&gt;http://www.brewers.or.jp/english/09-history.html&lt;/ref&gt; [[User:Kortoso|Kortoso]] ([[User talk:Kortoso|talk]]) 22:15, 26 April 2016 (UTC)
+
+==Japenese popular culture = manga + anime==
+
+That is all. [[Special:Contributions/140.254.92.63|140.254.92.63]] ([[User talk:140.254.92.63|talk]]) 13:26, 27 June 2014 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:2|one external link|2 external links}} on [[Beer in Japan]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=699451415 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20070825202305/http://search.japantimes.co.jp:80/cgi-bin/fg20070413wc.html to http://search.japantimes.co.jp/cgi-bin/fg20070413wc.html
+*Added archive https://web.archive.org/20050407061846/http://www.brewers.or.jp:80/english/05-differ.html to http://www.brewers.or.jp/english/05-differ.html
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 11:46, 12 January 2016 (UTC)
+
+== Early beer in Japan ==
+
+http://www.nymtc.com/Japanese-Beer/#.Vx_nd_7mp1c
+: The history of Ishikawa Brewery started on September 1, 1863 (under the old calendar). The original location of the brewery was in Ogawa village on the opposite bank of the Tama River. In 1881, Ishikawa Brewery built a new kura (storehouse) in the present Kumagawa area and, in 1883, the whole business finished moving to this location. 
+After the Meiji Restoration, beer began to be brewed in the foreigners' colonies in Yokohama and Hokkaido and, in the 1880s or 1890s, beer making started in many places in Japan. Ishikawa Beer Brewery (presently Ishikawa Brewery Co., Ltd.) began making beer in February 1888 and, in June of the same year, they started selling their beer to customers in neighboring districts, Tokyo, and Yokohama by the designation of &quot;Nihon-Bakushu&quot; (&quot;JAPAN BEER&quot; on the English label). 
+: [[User:Kortoso|Kortoso]] ([[User talk:Kortoso|talk]]) 22:13, 26 April 2016 (UTC)</text>
+      <sha1>q4kh2k1rkn6o99m1iexzd4cdex71lz9</sha1>
+    </revision>
+  </page>
+</mediawiki>

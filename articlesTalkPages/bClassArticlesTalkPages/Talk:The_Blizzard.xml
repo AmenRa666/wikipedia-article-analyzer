@@ -1,0 +1,134 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:The Blizzard</title>
+    <ns>1</ns>
+    <id>6683714</id>
+    <revision>
+      <id>708875784</id>
+      <parentid>708875595</parentid>
+      <timestamp>2016-03-08T02:00:14Z</timestamp>
+      <contributor>
+        <username>SineBot</username>
+        <id>4936590</id>
+      </contributor>
+      <minor/>
+      <comment>Signing comment by [[User:Ccoleharrison|Ccoleharrison]] - &quot;/* Article Update */ new section&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6069">{{dashboard.wikiedu.org assignment | course = Wikipedia:Wiki_Ed/Dartmouth_College/Masterpieces_of_Russian_Fiction_(Winter_2016) | assignments = [[User:Mileswright22|Mileswright22]], [[User:Ccoleharrison|Ccoleharrison]], [[User:Camborghinimercy|Camborghinimercy]] | reviewers = [[User:Camborghinimercy|Camborghinimercy]] }}
+
+{{WikiProject Novels|class=B|importance=Mid|19thC-task-force=yes|19thC-importance=Mid|short-story-task-force=yes|short-story-importance=Mid|listas=Blizzard, The}}
+{{WikiProject Russia|class=B|importance=High|lit=yes}}
+
+== Proposals for Article Revision ==
+
+After reviewing The Blizzard article and comparing to similiar articles, we have some changes to the article that we would wish to make. The changes we are proposing to make to the article will be to add multiple new sections. These sections may include the considered genre of the work, theme(s), alternate translations (with links), and a possible modern adaptation section. We would also like to add the date of creation for this work. 
+
+Of course, all of the making of these proposed sections will be based on our ability to find credible and non-biased sources for the information required. The article, itself, is already well done, but we believe these changes would greatly strengthen the overall quality. [[User:Ccoleharrison|Ccoleharrison]] ([[User talk:Ccoleharrison|talk]]) 02:07, 29 January 2016 (UTC)
+
+== Potential Sources (Bibliography) ==
+
+Evdokimova, Svetlana. Alexander Pushkin's Little Tragedies: The Poetics of Brevity. Madison, Wisc.: U of Wisconsin, 2003. Print.
+
+Pushkin, Aleksandr Sergeevich, and Walter Arndt. Alexander Pushkin, Complete Prose Fiction. Stanford, CA: Stanford UP, 1983. Print.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Mileswright22|Mileswright22]] ([[User talk:Mileswright22|talk]] • [[Special:Contributions/Mileswright22|contribs]]) 05:05, 8 February 2016 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+[[User:Camborghinimercy|Camborghinimercy]] ([[User talk:Camborghinimercy|talk]]) 05:21, 8 February 2016 (UTC)
+Bethea, David M. The Pushkin Handbook. Madison: U of Wisconsin, 2005. Print.
+
+Bethea, David M., and Sergei Davydov. “Pushkin's Saturnine Cupid: The Poetics of Parody in the Tales of Belkin”
+
+Sh. Shvarzband. “The Genesis of Pushkin's &quot;tales of Belkin&quot;”.
+
+Bethea, David. The Slavic and East European Journal. &quot;The Other Pushkin: A Study of Alexander Pushkin's Prose Fiction&quot; 28.3
+
+John Garrard. &quot;TheRussian Novel from Pushkin to Pasternak.&quot; New Haven and London: Yale University Press, 1983. xii
+
+== Outline for proposed Article Revisions ==
+
+'''Title Section:	
+'''
+(Brief intro. to the story). This section is to remain the same. However, will we be reformatting the structure of the paragraph. Also additions will be need to made to the table of contents. Also include date (October 20 1830) manuscript finished (pg. 16,80 of Pushkin’s approach to literature)
+
+'''Plot Section:'''               May add some information gardnered from outside source, but mostly will remain the Same. Subsidiary photo of Pushkin will be added. 
+
+'''Themes:'''	Will add the themes discussed in Bethea’s Pushkin’s Saturnine Cupid: The Poetry of Parody in the tales of Belkin
+	
+'''Imitation:'''	Discuss how Pushkin may have written this work as a parody or imitation of other popular works. (first link in references section pushkins approach to literature)
+
+'''Structure:'''70 percent of sentence in the blizzard are simple sentences. (Pg 94 from above source)
+	Also talk about the different parts (9 in total) of the work (see Dennis Ward article)
+
+'''Musical Adap:'''	Remain the same
+
+'''References:''' 	Program notes* 
+
+Pushkin’s approach to literature (need to put in mla citation)
+
+Schomburg Center for Research in Black Culture, Photographs and Prints Division, The New York Public Library. &quot;Portrait of Alexander Pushkin.&quot; The New York Public Library Digital Collections. 1920. Web.
+
+Ward, Dennis. “The Structure of Pushkin's 'tales of Belkin'”. The Slavonic and East European Review 33.81 (1955): 516–527. Web.
+
+Bethea, David M., and Sergei Davydov. “Pushkin's Saturnine Cupid: The Poetics of Parody in the Tales of Belkin”. PMLA 96.1 (1981): 8–21. Web.
+
+'''External Links:''' 	Pushkin’s approach to literature, (https://books.google.com/books? id=fKSrAAAAIAAJ&amp;pg=PA83&amp;lpg=PA83&amp;dq=genre+of+alexander+pushkin+the+blizzard&amp;source=bl&amp;ots=dbQ7hl-wcx&amp;sig=r58bOwuFR0-K-qD-HO5dOLKnn-A&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwipq9Sxm47LAhXEbz4KHWsMCOoQ6AEIUjAI#v=snippet&amp;q=the%20blizzard&amp;f=false) (pg.82-83)
+
+	http://www.jstor.org/stable/4204669?seq=1#page_scan_tab_contents
+
+	. (http://digitalcollections.nypl.org/items/510d47de-7bfa-a3d9-e040-e00a18064a99)
+
+	http://www.jstor.org/stable/462001  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Ccoleharrison|Ccoleharrison]] ([[User talk:Ccoleharrison|talk]] • [[Special:Contributions/Ccoleharrison|contribs]]) 02:06, 24 February 2016 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Article Update ==
+
+Additional information regarding the in-text citations has been made. I will be editing the page to include more detail in the structure and style sections. I will also be looking to combine the film adaptions and music adaptions sections into one section entitled &quot;Adaptations&quot;.
+
+To clean up the article, I will be adding a bibliography section to ensure that the citations are noted properly. I will also be attempting to add a small themes section featuring the work of Richard Gregg, on behalf of the Slavic Review.
+
+These updates will be made in the coming hours.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Ccoleharrison|Ccoleharrison]] ([[User talk:Ccoleharrison|talk]] • [[Special:Contributions/Ccoleharrison|contribs]]) 01:59, 8 March 2016 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;</text>
+      <sha1>j4z5pt4izxx7agts1h9r7x8qps21pp7</sha1>
+    </revision>
+  </page>
+</mediawiki>

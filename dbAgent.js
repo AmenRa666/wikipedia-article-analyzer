@@ -23,11 +23,13 @@ const insertArticle = (article, cb) => {
   })
 }
 
-const findByTitle = (title, cb) => {
+const findArticleByTitle = (title, cb) => {
   var query = {"title":title}
   Article.findOne(query, (err, doc) => {
     if (err) console.log(err);
-    else cb(doc)
+    else {
+      cb(doc)
+    }
   })
 }
 
@@ -60,6 +62,6 @@ const findRevisionByArticleTitle = (articleTitle, cb) => {
 // EXPORTS
 module.exports.insertArticle = insertArticle
 module.exports.insertRevision = insertRevision
-module.exports.findByTitle = findByTitle
+module.exports.findArticleByTitle = findArticleByTitle
 module.exports.findById = findById
 module.exports.findRevisionByArticleTitle = findRevisionByArticleTitle

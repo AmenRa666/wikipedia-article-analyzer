@@ -1,0 +1,114 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:1846 Havana hurricane</title>
+    <ns>1</ns>
+    <id>3608560</id>
+    <revision>
+      <id>735926264</id>
+      <parentid>607771733</parentid>
+      <timestamp>2016-08-24T01:11:27Z</timestamp>
+      <contributor>
+        <username>Cloudchased</username>
+        <id>20381984</id>
+      </contributor>
+      <minor/>
+      <comment>Cloudchased moved page [[Talk:1846 San Francisco de Borja hurricane]] to [[Talk:1846 Havana hurricane]] over redirect: move over redirect ([[WP:COMMONNAME]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4857">{{GA|20:54, 21 January 2014 (UTC)|page=1|topic=natsci|oldid=595958251}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Tropical cyclones|class=A|importance=Mid|storms-task-force=yes|atl-task-force=yes}}
+{{WikiProject Cuba|class=A|importance=Mid}}
+{{WikiProject United States|class=A|importance=low|DE=yes|DE-importance=low}}
+}}
+
+== Inaccuracies ==
+Sigh...where do I begin?  For starters, why don't we try finding some sources for the &quot;facts&quot; section. [[User:Jdorje|Jdorje]] 18:53, 3 January 2006 (UTC)
+
+:How about sources in general that are online? I am getting to hate that encyclopedia of hurricanes. Not all of us have that, and it hard to verify that information we (at least I) don't have. [[User:Hurricanehink|Hurricanehink]] 19:57, 3 January 2006 (UTC)
+
+==Merge==
+::Anyone still opposed? [[User:Hurricanehink|Hurricanehink]] 21:41, 6 January 2006 (UTC)
+
+:::Opposed to a merge?  Yes, I don't think this one should be merged.  By all accounts (I did a quick google print search) this was a monolithic storm, and satisfies both notability and quantity-of-info criteria.  My complaint is just about the sloppy writing and research. [[User:Jdorje|Jdorje]] 22:14, 6 January 2006 (UTC)
+
+::::Sorry, that was meant for another article. As you can probably see based on your watchlist, I'm going through the articles and adding [[List of notable Atlantic hurricanes]], and that was meant for another storm. You are completely right, this is an important storm based on what's written. I still, however, want some online souces... [[User:Hurricanehink|Hurricanehink]] 22:20, 6 January 2006 (UTC)
+
+Strongly opposed to any merge. Sure, the information isn't great but it isn't a very well-known storm anyway and information will be scarce for historic hurricanes. It is far and away article-worthy. [[User:CrazyC83|CrazyC83]] 04:00, 23 August 2006 (UTC)
+
+== 917 mbar ==
+
+What's the source for the 917 mbar pressure?  Is it from the book reference?  The online reference given does not seem useful since it links to a directory of PDF files; what am I supposed to do here?  I find the 917 mbar hard to reconcile with the [[1900 Galveston Hurricane]] where a measruement of 930? mbar was considered &quot;obviously in error&quot; - how can these two &quot;facts&quot; be explained? — [[User:Jdorje|jdorje]] &lt;small&gt;([[User_talk:jdorje|talk]])&lt;/small&gt; 02:09, 30 March 2006 (UTC)
+
+:The directory of PDF files gives the information from the article. When I added that information, I just linked that at the bottom so I wouldn't have to link every last page for every little detail. Just to let you know, the pressure link is located [http://garnet.acns.fsu.edu/~jelsner/HHITProject/HHITyears/1846/storm2_pt1_other.pdf here]. [[User:Hurricanehink|Hurricanehink]] 02:12, 30 March 2006 (UTC)
+
+{{Talk:1846 Havana hurricane/GA1}}
+
+== Spanish info from &quot;Huracan de 1846&quot; ==
+
+*In Havana, the hurricane damaged churches and four convents
+*Roofs, walls, and windows were damaged at the [[University of Havana|Real Universidad]] 
+*Office of the [[Real Audiencia]] damaged, with doors and walls wrecked
+*Governor house was damaged, including the main gate, several destroyed walls, and Aztec lighting fixtures
+*The principal theatre in Havana was also damaged, as were post offices
+*Two military barracks were damaged (Walls and windows damaged). In one, the [[sump]] overflowed, contaminating the clean water supply. 
+*A mental health hospital lost a wall and an infirmary, and several other hospitals sustained similar damage
+*[[Castillo de San Pedro de la Roca]] - walls and windows damaged, as was the building directing ship traffic
+*2792 houses were knocked over or destroyed in Havana, while most others had damage to windows or walls; about 4,000 houses damaged were damaged between Havana and its suburbs
+*Dozens of damaged ships in the harbor of Havana, which wrecked sugar, tobacco, and other items onboard
+*1258 trees downed in the city
+*2314 people left homeless
+*Officials took up a collection to help residents who were affected on October 13 through the 28th, raising 8094 pesos
+*In [[Güines]], the storm wrecked large amounts of [[guano]], as well as damaging the local church, school, and hospital.
+*The width of the heaviest damage was about 70 to 80 miles across Cuba
+*Strong winds also recorded in Bahamas
+
+A ton of boats were damaged or destroyed, and there is a huge list of people that were injured or killed, but there is just too long of a list to go through, sorry. It goes into detail by other areas outside of Havana, but it's just too much text. Hope some of this helps! ♫ [[User:Hurricanehink|Hurricanehink]] (&lt;small&gt;[[User_talk:Hurricanehink|talk]]&lt;/small&gt;)  20:45, 29 January 2014 (UTC)
+:Thanks a ton for this, Hink! Now I just have to figure out how to cite this.... &gt;:D [[User:Cloudchased|Cloudchased]] ([[User talk:Cloudchased|talk]]) 21:15, 29 January 2014 (UTC)</text>
+      <sha1>1z020iyjgkv5gtdk6m6o3blm169m1qk</sha1>
+    </revision>
+  </page>
+</mediawiki>

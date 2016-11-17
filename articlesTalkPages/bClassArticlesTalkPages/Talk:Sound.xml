@@ -1,0 +1,173 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Sound</title>
+    <ns>1</ns>
+    <id>18994106</id>
+    <revision>
+      <id>738301400</id>
+      <parentid>738251230</parentid>
+      <timestamp>2016-09-08T03:24:08Z</timestamp>
+      <contributor>
+        <username>Lowercase sigmabot III</username>
+        <id>17518500</id>
+      </contributor>
+      <minor/>
+      <comment>Archiving 1 discussion(s) to [[Talk:Sound/Archive 1]]) (bot</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11999">{{Skip to talk}}
+{{Talk header|search=yes}}
+{{Vital article|topic=Science|level=3|class=B}}
+{{DelistedGA|December 26, 2006}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Physics| class=B | importance=top|acoustics=yes|fluid-dynamics=yes}}
+{{WikiProject Stagecraft|class=B|importance=high}}
+{{WikiProject Professional sound production|class=B|importance=top}}
+{{WikiProject Media|class=B}}
+{{WikiProject South Africa|class=B|importance=|PSP SA=yes}}
+{{WP1.0|v0.5=pass|class=B|category=Natsci|core=yes|VA=yes|WPCD=yes}} 
+}}
+{{Auto archiving notice|bot=MiszaBot I|age=30|dounreplied=yes}}
+{{User:HBC Archive Indexerbot/OptIn
+|target=Talk:Sound/Archive index
+|mask=Talk:Sound/Archive &lt;#&gt;
+|leading_zeros=0
+|indexhere=yes}}
+{{User:MiszaBot/config
+|archiveheader = {{aan}}
+|maxarchivesize = 200K
+|counter = 1
+|minthreadsleft = 10
+|minthreadstoarchive = 1
+|algo = old(30d)
+|archive = Talk:Sound/Archive %(counter)d
+}}
+
+== ARE YOU KIDDING? ==
+&quot;Man can only listen sound in 20Hz-20000Hz.&quot;
+How did this get onto a wiki page in the 21st century.  &quot;MAN????&quot;
+[[Special:Contributions/50.202.216.74|50.202.216.74]] ([[User talk:50.202.216.74|talk]]) 20:46, 7 September 2016 (UTC)
+
+== Sound ''Can'' Travel Through Vacuum? ==
+
+I know it's what we all learned in High School, but apparently [http://arxiv.org/pdf/1003.1408.pdf new research] has proven otherwise.  Maybe it's just quackery?  Someone more expert on these matters ought to take a look. [[Special:Contributions/67.41.68.211|67.41.68.211]] ([[User talk:67.41.68.211|talk]]) 09:18, 15 March 2012 (UTC)
+
+:The article does ''not'' say that sound can travel through a vacuum. Instead, it says that if you have a piezo-electric material and sound waves hit it, the sound waves can mechanically excite the material, which then creates electromagnetic waves. It is those waves that then cross the vacuum gap. --[[User:MichiHenning|MichiHenning]] ([[User talk:MichiHenning|talk]]) 22:37, 10 May 2012 (UTC)
+
+::Crude radio. [[User:Binksternet|Binksternet]] ([[User talk:Binksternet|talk]]) 02:36, 11 May 2012 (UTC)
+
+== Edit request on 10 May 2012 ==
+
+{{edit semi-protected|answered=yes}}
+&lt;!-- Begin request --&gt;
+Sound intensity link should point to [[Sound intensity]] rather than [[Intensity (physics)]], since there is a specific page for that. 
+&lt;!-- End request --&gt;
+[[User:Gozzilli|Gozzilli]] ([[User talk:Gozzilli|talk]]) 09:26, 10 May 2012 (UTC)
+:Seems reasonable, Done. [[User:Monty845|&lt;font color=&quot;Green&quot;&gt;Monty&lt;/font&gt;]][[User talk:Monty845|&lt;small&gt;&lt;sub&gt;&lt;font color=&quot;#A3BFBF&quot;&gt;845&lt;/font&gt;&lt;/sub&gt;&lt;/small&gt;]] 05:07, 14 May 2012 (UTC)
+
+== Grammar Edit ==
+
+The line &quot;Other species have a different range of hearing&quot; needs to become &quot;Other species have different ranges of hearing&quot; because the various species have different respective ranges of hearing and not just one single range. This is just a simple edit that I thought someone should change. &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/174.49.11.210|174.49.11.210]] ([[User talk:174.49.11.210|talk]]) 00:46, 25 May 2012‎ (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt;
+
+== If a tree falls in the forest and no one is around to hear it does it make a sound? ==
+
+If a tree falls in the forest and no one is around to hear it does it make a sound?
+— [[User:Malikis2cool|Malikis2cool]] ([[User talk:Malikis2cool|talk]]) 02:38, 28 March 2013 (UTC)
+
+: If a man speaks and there is no woman to hear him, is he still wrong?
+: [[User:MichiHenning|MichiHenning]] ([[User talk:MichiHenning|talk]]) 21:57, 2 June 2013 (UTC)
+
+
+::These are good questions, in earnest, and they illustrate that the concept of ''sound'' is not just a concept of mechanical disturbances propagated in matter, but is directly connected with the ''perception'' or ''sensation'' of these disturbances in the ear. Already by 1900 this duality of the definition of ''sound'' was recognized and should be represented in the article. [[User:Kbrose|Kbrose]] ([[User talk:Kbrose|talk]]) 21:28, 12 June 2013 (UTC)
+
+: The definition in this article does not require a human to hear it, only that it has frequencies that a human could hear.
+
+: How do you know that a tree has fallen in a forest? [[User:QuentinUK|QuentinUK]] ([[User talk:QuentinUK|talk]]) 01:46, 21 January 2014 (UTC)
+
+== &quot;Human Ear&quot; ==
+
+Predicted response of most readers: &quot;No s*** Sherlock&quot;. [[User:CubOfJudahsLion|CubOfJudahsLion]] ([[User talk:CubOfJudahsLion|talk]]) 20:22, 16 July 2013 (UTC)
+
+== Lost information on sound looking for a home ==
+
+The below information was included in the Music Therapy page, but did not belong there. Maybe some of this would be useful to include in the Sound article? 
+
+
+===Sound Phenomenon===
+The phenomenon we call [[sound]] is the propagation of wave-like mechanical vibrations or pulsations traveling through a medium such as air, water or metal.&lt;ref name=&quot;The New American Library&quot;&gt;{{cite book|last1=Asimov|first1=Isaac|title=Understanding Physics: Motion, Sound, Heat|date=1966|publisher=The New American Library|isbn=978-0451626622}}&lt;/ref&gt;  The periodicity of the vibration is typically known as the [[frequency]] and is the measure of the pulsations per a specific unit.  A common measure is pulsations per second which is expressed as hertz (Hz).&lt;ref name=&quot;The New American Library&quot;/&gt;  The term “sonic” is used as an adjective denoting a characteristic of sound and is technically a branch of acoustics.  The typical human experience of sound is generated within a hearing range limited to a low of 20&amp;nbsp;Hz and high of 20,000&amp;nbsp;Hz.&lt;ref&gt;{{cite book|last1=Rossing|first1=Thomas|title=Springer Handbook of Acoustics|date=2011|publisher=Springer|isbn=978-0-387-30425-0}}&lt;/ref&gt;  The experience of the sound frequency may be referred to as the pitch of the sound.  Lastly, a sound may be produced at a single pitch or be the simultaneous combination of multiple frequencies and as such, in music, would be referred to as chord.
+
+===Harmonics and Sound===
+In sound, we also have the phenomenon of harmonics which is based on the frequency of the vibration.  Specific multiples of the initial frequency create new pitches that are in the same periodicity as the initial frequency.&lt;ref&gt;{{cite book|last1=Klapuri, Davy|first1=Anssi, Manuel|title=Signal processing methods for music transcription|date=2008|publisher=Springer|isbn=978-0-387-30667-4}}&lt;/ref&gt;  Thusly, an original sound can be modified harmonically with adjustments either up or down the initial frequency while staying true to its periodicity.  This process may include the harmonious adjustment of frequencies normally outside of the human hearing range to become sounds within the 20&amp;nbsp;Hz to 20,000&amp;nbsp;Hz range and therefore an inaudible signal now becomes an audible sound.
+
+===Sound As A Constant Vibration===
+All particles, atoms and molecules are in constant vibratory motion and release elastic waves that in turn move their innate medium (such as water or air) as well as perturb the space around them.&lt;ref name=&quot;Park Street Press&quot;&gt;{{cite book|last1=Citro|first1=Massimo|title=The Basic Code of the Universe – The Science of the Invisible in Physics, Medicine and Spirituality|date=July 6, 2011|publisher=Park Street Press|location=Toronto, Canada|isbn=978-1594773914}}&lt;/ref&gt;  Consequently all matter down to the most miniscule in size produces “sound” although this sound is normally outside of the human range of hearing.  The “sound” produced by any particular substance will consequently have a highly specific set of pitches and chords that are both the identity and expression of that substance.&lt;ref name=&quot;Park Street Press&quot;/&gt;  With harmonic adjustments, this set of frequencies can be produced within the range of human hearing.  This set of signals is known as the Sonic Signature of the substance.
+
+===Sound As A Vibration===
+From a physical point of view, a substance that vibrates at the same frequency as another becomes a copy of it, even if it remains chemically different.  In water each molecule typically vibrates on its own, independently.  But if a substance is dissolved in the water or a frequency source is applied to the water, the vibrations of the water molecules can shift to be in resonance with the substance vibrations or the source frequency of a stimulating signal.&lt;ref name=&quot;Park Street Press&quot;/&gt;  Given that the human body is composed mostly of water, the possibility of generating effects within the body using Sonic Signatures becomes provocative.  As an example, one scientific researcher (Cyril W. Smith, PhD) played recorded and amplified sound derived from the thyroxin molecule over speakers to the conference audience and had to stop because members of the audience began to experience tachycardia which is a symptom of an excess of this particular thyroid hormone.&lt;ref&gt;{{cite journal|last1=Cyril|first1=Smith|title=Hidden properties of Water|journal=The Polyclinic Medical and Surgical Department|date=1999}}&lt;/ref&gt;
+
+===Sonic Signatures===
+Sonic Signatures can originate from sources other than the innate vibration of substances.  The most recognizable collection of Sonic Signatures is the expression we call music.  Music Therapy is a widely recognized modern healing agent with a deep social and cultural history.&lt;ref&gt;{{cite book|last1=Mattson|first1=Jill|title=Ancient Sounds – Modern Healing|date=Feb 2010|isbn=978-0982281406}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last1=Davis|first1=Doreen|title=Sound Bodies through Sound Therapy|date=2004/2013|isbn=978-0-9622326-5-7}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last1=Mattson|first1=Jill|title=Secret Sounds – Ultimate Healing|date=2011|isbn=9780982281437}}&lt;/ref&gt;   Sound vibration healing is also well known in yogic tradition with the use of “seed syllable mantras” (bija) and in Chinese Qi Gong (qi gong) where specific vocal sounds are used to stimulate specific organ systems in the body.,&lt;ref&gt;{{cite book|last1=Rajmani|first1=Tigunait, Pandit|title=The Power of Mantra &amp; The Mystery of Initiation|date=1996|publisher=Himalayan Press|location=Pennsylvannia|isbn=0-89389-176-2}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last1=Thomas|first1=Ashley-Farrand|title=Healing Mantras; Using Sound Affirmations for Personal Power, Creativity and Healing|date=1999|publisher=Ballantine Wellspring|location=New York|isbn=0-345-43170-7}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|last1=Johnson|first1=Jerry Allen|title=Chinese Medical Qi Gong Therapy|journal=1-885246-29-3|date=2002|issue=International Institute of Medical Qigong}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last1=Chia, Chia|first1=Mantaak, Maneewan|title=Fusion of the Five Elements 1: Basic and Advanced Meditations for Transforming Negative Emotions|date=1989|publisher=Healing Tao Books|location=New York|isbn=0-935621-18-0}}&lt;/ref&gt;
+
+{{reflist}}
+[[User:Njbetz|Njbetz]] ([[User talk:Njbetz|talk]]) 18:25, 12 December 2014 (UTC)
+
+== Page Protection? ==
+
+This page seems to be a hub for vandalism; if you look in the page [[Special:History/Sound|history]] you'll see that almost all of the recent edits are vandalism and their reversions. Maybe we should make it so that only registered users can edit this page? -'''[[User:Sonicwave32|&lt;span style=&quot;color:green;&quot;&gt;Sonicwave&lt;/span&gt;]] &lt;small&gt;[[User talk:Sonicwave32|&lt;sup&gt;&lt;span style=&quot;color:redBA7&quot;&gt;talk&lt;/span&gt;&lt;/sup&gt;]]&lt;/small&gt;''' 05:47, 20 February 2015 (UTC)
+
+== what affects sound properties. ==
+
+while i was doing my school project, i found it quite difficult to find the out how amplitude, frequency etc affected sound waves, i would appreciate it if somebody could add that information in around properties of sound, as there only seems to be a list of what affects sound rather than a discription of how.
+thanks.
+[[User:Loomhigh223555|Yours indubitably.]] ([[User talk:Loomhigh223555|talk]]) 09:02, 17 February 2016 (UTC)
+
+== About Longitudinal waves ==
+
+I have some more knowledge about longitudinal waves.You you allow, then can I edit the article. [[User:Reema Kumari (25)|Reema Kumari (25)]] ([[User talk:Reema Kumari (25)|talk]]) 16:21, 1 May 2016 (UTC)</text>
+      <sha1>ar0xik72r7lyh1rswruzjeaou87eeft</sha1>
+    </revision>
+  </page>
+</mediawiki>

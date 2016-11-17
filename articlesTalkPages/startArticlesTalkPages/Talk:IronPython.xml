@@ -1,0 +1,191 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:IronPython</title>
+    <ns>1</ns>
+    <id>2498639</id>
+    <revision>
+      <id>704468433</id>
+      <parentid>630800890</parentid>
+      <timestamp>2016-02-11T19:54:25Z</timestamp>
+      <contributor>
+        <username>Cyberbot II</username>
+        <id>16283967</id>
+      </contributor>
+      <comment>Notification of altered sources needing review #IABot</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11613">{{WikiProjectBannerShell|1=
+{{WikiProject Computing |class=start |importance=Unknown |science=y |science-importance=Unknown |software=y |software-importance=Unknown}}
+{{WikiProject Microsoft |class=Start |importance=unknown |net=yes |net-importance=mid}}
+}}
+
+== IronPython 3 Implementation ==
+
+Someone should mention this.  They mentioned the work started on it here- [[http://blog.ironpython.net/2014/03/ironpython-3-update.html]]  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/198.136.130.208|198.136.130.208]] ([[User talk:198.136.130.208|talk]]) 15:11, 23 October 2014 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==ironpython==
+My understanding is that IronPython is not attempting to be a complete Python implementation.  Can someone please further describe what IronPython really is other than just the whole python on dotnet rigamaroll?
+
+:IronPython is definitely trying to be a complete Python implementation. Do you have any evidence to the contrary? [[User:Sanxiyn|Sanxiyn]] 07:18, 18 June 2007 (UTC)
+
+---------------------------------------
+
+I expanded this article by describing (in my view) why IronPython make sense. Essentially, when developing a complex application framework, the server-side developer rarely understands how the downstream client-side developers will want to use the framework. Therefore, it often makes sense to push responsibility for developing analytics from the server-side to the client-side.
+
+IronPython greatly simplifies this objective, particularly since .NET is fairly rigid in the way it supports dynamic code structures. By integrating IronPython into an existing framework, the server-side developer, with minimal work, can greatly expand the range of analytics that client-side developer has access to. Instead of tweaking the interface everytime a new request comes in, the server-side developer can concentrate on maintaining clean data structures.
+
+I highlighted this with a short example.
+
+Hope this makes sense.
+
+-ronnotel (10/15/05)
+
+* Is it possible to restrict the capabilites of a script sent from the client to the server? If not, one could try to insert som dangerous code into the server...
+
+== see also setence is bad ==
+
+See also Boo, a language for .NET and Mono based on Python, but has features borrowed from C# and Ruby such as static typing and anonymous closures.
+
+it may give the impression nthat Ruby has static typing which AFAICT it doesn't --[[User:Nkour|Nkour]] 13:27, 23 November 2005 (UTC)
+
+:yeah. I agree. I was [[Wikipedia:Be bold in updating pages|bold]] and changed it. - [[User:Kesla|David Björklund]] &lt;small&gt;([[User_talk:Kesla|talk]])&lt;/small&gt; 01:15, 24 November 2005 (UTC)
+
+== Simple Windows Forms application ==
+
+The Simple Windows Forms application section is a how-to, and doesn't belong in an encyclopia article. [[User:165.189.91.148|165.189.91.148]] 21:36, 28 August 2006 (UTC)
+
+
+I have removed the how-to section : Hessian
+
+== Link to &quot;Python IDE Project&quot; is bogus. ==
+
+The link to the &quot;Python IDE Project&quot; seems to be spam.
+
+== Difficult to read? ==
+
+Honestly, I don't understand most of the article. I think it should be improved. Only thing I take away is that everything is somewhat dynamic.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.102.131.101|76.102.131.101]] ([[User talk:76.102.131.101|talk]]) 03:09, 10 March 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Why &quot;Iron&quot;? ==
+
+Is there any reason why the language has got the prefix &quot;Iron&quot;? With Jython or JPython it's clear, but what is so &quot;Iron&quot; about .NET? Is there any official explanation of the name? If so, it should be mentioned.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/85.220.140.42|85.220.140.42]] ([[User talk:85.220.140.42|talk]]) 12:20, 19 March 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:This would be interesting to know. It's probably just the name that they decided (Nython doesn't really click) and then IronRuby and IronScheme just followed along. &lt;span class=&quot;sigInvitatious&quot;&gt;[[User:Mahanga|Mahanga]]&lt;sup&gt;[[User talk:Mahanga|&lt;font color=&quot;green&quot;&gt;Talk&lt;/font&gt;]]&lt;/sup&gt;&lt;/span&gt; 23:06, 19 March 2008 (UTC)
+The name IronPython was chosen by Jim Hugunin who started the project and is an obscure reference to a childhood rhyme that he likes! [http://geekswithblogs.net/brians/archive/2008/06/14/122861.aspx Origin of the name IronPython] [[User:MichaelFoord|MichaelFoord]]
+
+== Sample code ==
+
+I rewrote the loop in the code sample to use the more Pythonic list comprehension syntax. However, I am confused about that last line there; why is the list being stated on its own line? Not sure what to do with it. [[User:Rainault|Rainault]] ([[User talk:Rainault|talk]]) 17:49, 5 June 2008 (UTC)
+
+== Unrelated reference removed ==
+
+(Full disclosure - I work for Resolver Systems)
+
+The referenced page &quot;Differences Between Resolver One's Formula Language and Python Expressions&quot; does not make the point that it was being cited to support.  Although Resolver One is written in IronPython, and is not compatible with CPython, the referenced page is not related to this.  Instead, it is description of a DSL used within the application, and in particular how that particular DSL differs from Python.  I was [[Wikipedia:Be bold in updating pages|bold]] and removed the reference.
+
+I don't think there is a page on the Resolver Systems website that explains how and why Resolver One is not CPython-compatible.  There probably should be!  I will put something here when there is - directly into the article if no-one objects.
+
+--[[User:Gpjt|Gpjt]] ([[User talk:Gpjt|talk]]) 11:40, 9 July 2008 (UTC)
+
+== Removed Introductory Sentence ==
+
+The following sentence in the introduction did not make sense as written, had no citation and seemed to be biased against the open source nature of the project &quot;As the open source license of IronPython does not apply to parts of its documentation, including the comparison fact sheet, it is not clear of how these differences affect compatibility with the reference implementation of CPython.&quot;. I don't think such discussion was helpful in the introductory status - I left the statement that products developed on top of IronPython are not compatible with CPython, although that is hardly the point of IronPython (to leverage the .NET framework through Python). [[User:MichaelFoord|MichaelFoord]] ([[User talk:MichaelFoord|talk]]) 19:27, 4 October 2008 (UTC)
+
+== The Issue of Compatibility==
+
+The water is being muddied here without need. There are two main issues with compatibility '''language''' and '''libs'''
+
+IronPython seeks to be 100% language compatible...
+
+&lt;blockquote&gt;
+It's well integrated with the rest of the .NET Framework and makes all .NET libraries easily available to Python programmers, while maintaining compatibility with the Python language.
+&lt;/blockquote&gt;
+
+It intends to be language compatible, and integrate with the .NET libraries. There's not a lot of ambiguity here as it doesn't speak to Python libs. Python libs written in Python should run in IronPython and if they don't might be considered a bug as they should be able to rely upon Python compatability.
+
+Python libs written in C (or whatever) as pyd '''extensions''' can not be expected to run out of the box as that would be a different compatibility issue extirely.
+
+IronPython is a Python language implementation.
+
+Applications written in Python may or may not be compatible with either IronPython or CPython (or JPython) depending on whether they use .NET specific features or C specific features (or Java specifc features).
+
+Appplications written in Python may or may not be compatible with either *nix or Windows systems depending on whether they use Windows specific features or *nix specific features.
+
+This is not a controversial area for a language to be in. There is no drama here. There are no tricky aspects that haven't been visited many times with other languages before. There is no divorcement from common sense.
+
+Historically the Python community has already dealt with such issues over windows which are why there are windows specific parts of the Python libs. It is why there are python and pythonw versions of CPython.
+
+&lt;ref&gt;http://www.codeplex.com/IronPython&lt;/ref&gt;
+
+--[[User:Carnagh|Carnagh]] ([[User talk:Carnagh|talk]]) 12:49, 28 April 2009 (UTC)
+
+
+=ironpython IDE = 
+The list of Iron pyhton IDE could be place in the page [http://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments#IronPython http://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments#IronPython] instead  speak of some ide in this article . 
+~~  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/92.142.0.11|92.142.0.11]] ([[User talk:92.142.0.11|talk]]) 18:42, 8 August 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+
+== Performance ==
+Though it claims to be significantly faster than CPython, the references show it is only faster in a few cases, and slower in most others.Maybe &quot;IronPython is generally slower than CPython, ..., but can be faster for some tasks&quot; instead? [[Special:Contributions/144.32.89.120|144.32.89.120]] ([[User talk:144.32.89.120|talk]]) 16:05, 12 August 2009 (UTC)
+:It ''is'' faster than CPython. Check yourself. Shootout reference runs IronPython on Mono, which is quite different from running IronPython on .NET. On the other hand, performance difference between Mono and .NET would be good to include. [[User:Sanxiyn|Sanxiyn]] ([[User talk:Sanxiyn|talk]]) 06:00, 14 August 2009 (UTC)
+
+:The referenced PyBench benchmark indicates mixed results.  Seems there are two areas where IronPython has performance deficiencies. First dictionaries - IronPython seems to be about 100 % slower on some of the dictionary stuff. Secondly, exception handling, IronPython seems to be faster when exceptions aren't raised. But raise an exception, and IronPython hits a brick wall - 50 x slower. IronPyton looks to be faster for a lot of things, though. In the end, your results will vary with your application mix. --[[User:Aflafla1|Aflafla1]] ([[User talk:Aflafla1|talk]]) 21:52, 18 November 2010 (UTC)
+I was bold and changed this.[[User:Rabidpoobear|Rabidpoobear]] ([[User talk:Rabidpoobear|talk]]) 05:01, 15 August 2009 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[IronPython]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=704468427 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20100223101738/http://www.ironpython.com:80/old.html to http://www.ironpython.com/old.html
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 19:54, 11 February 2016 (UTC)</text>
+      <sha1>kwnho4vitzls3lsxe11l3fmx6up6ogz</sha1>
+    </revision>
+  </page>
+</mediawiki>

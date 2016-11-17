@@ -1,0 +1,132 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Red rail</title>
+    <ns>1</ns>
+    <id>18471481</id>
+    <revision>
+      <id>745666310</id>
+      <parentid>723367117</parentid>
+      <timestamp>2016-10-22T15:17:07Z</timestamp>
+      <contributor>
+        <username>Wizardman</username>
+        <id>713860</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */Project cleanup, replaced: {{WP Mauritius → {{WikiProject Africa|Mauritius=yes using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8160">{{British English}}
+{{ArticleHistory
+|action1=GAN
+|action1date=04:59, 3 August 2012
+|action1link=Talk:Red Rail/GA1
+|action1result=listed
+|action1oldid=505493386
+|maindate= 2 June 2016
+
+|action2=FAC
+|action2date=10:06, 15 June 2013
+|action2link=Wikipedia:Featured article candidates/Red Rail/archive1
+|action2result=promoted
+|action2oldid=559999944
+|currentstatus=FA
+|topic=Natsci
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Birds|class=FA|importance=low}}
+{{WikiProject Africa|Mauritius=yes|importance=low|class=FA}}
+{{WikiProject Extinction|importance=mid|class=FA}}
+}}
+
+== Genus content ==
+
+There seems to be uncertainty over whether the Red Rail and the Rodrigues Rail should be kept in the same genus, Aphanapteryx, or in separate ones. The latest sources I have, authored by Anthony Cheke and Julian Hume, prefer to keep them separate, but literature not much older unites them. What to do? [[User:FunkMonk|FunkMonk]] ([[User talk:FunkMonk|talk]]) 20:06, 8 July 2012 (UTC)
+
+{{Talk:Red Rail/GA1}}
+
+See [[Wikipedia:Do not include the full text of lengthy primary sources]].  I think that MOS indicates that it would be better to paraphrase long quotations. Also it is in an old form of English and may not be readily understood all around the English speaking world. [[User:Snowmanradio|Snowman]] ([[User talk:Snowmanradio|talk]]) 19:42, 20 August 2012 (UTC)
+:The article is already a GA. But I have removed and paraphrased one quote anyway, which was incomplete and not as essential as the rest. If anything in the present quotes is hard to decipher, please note it, and I will add explanations in square brackets. [[User:FunkMonk|FunkMonk]] ([[User talk:FunkMonk|talk]]) 00:56, 21 August 2012 (UTC)
+
+== Peer review ==
+
+Ok, per your request on my talk page, I'm going take a look through the article and jot down anything that could do with tweaking.
+*Seems odd to start the article with &quot;By the 19th century&quot;
+*&quot;the Gelderland sketch&quot; As you're yet to introduce this, you can't really refer to it like this
+*Is Mundy's description the earliest? How did he know about the red cap trick? How long had people already been travelling to the island?
+*&quot;It had probably lived in the emperor's zoo for a while together with the other animals painted for the same series.[4] It was discovered in the Emperor's collection and published in 1868 by Georg von Frauenfeld, along with a painting of a Dodo from the same collection and artist.[5] It is thought to have been the only specimen that ever reached Europe.[14]&quot; Here, &quot;it&quot; alternately refers to the painting and the bird. Also, why capitalise the E of emperor?
+*Ship names should be in italics, just so you know. The names of paintings should be too- is &quot;Edwards' Dodo&quot; the name of the painting?
+*&quot;Extinct Mauritian reptiles include the Saddle-backed Mauritius giant tortoise, the Domed Mauritius giant tortoise, the Mauritian Giant Skink, and the Round Island Burrowing Boa. The Small Mauritian Flying Fox and the snail Tropidophora carinata lived on Mauritius and Réunion, but went extinct in both islands. Some plants, such as Casearia tinifolia and the Palm Orchid, have also become extinct.[4]&quot; I know that the common names of birds are capitalised, but I gather others usually aren't. Also, the whole Reunion/Réunion thing again!
+*I think the last paragraph of ecology should be moved to extinction; you could then move the second blockquote above the middle paragraph so the section doesn't end on a blockquote?
+*&quot;Mascarene expert Anthony Cheke has suggested that by the late 17th century, the name was transferred to the Red Rail, so that all post 1662 references to the Dodo are dubious.&quot; I don't follow
+*Mundy's comment at the end of the article is absolutely fascinating, but I wonder whether it belongs in the extinction section?
+::I think perhaps most of that section is actually about its relationship with humans, so I'll try to make extinction a subsection of that. I've moved the quote up. [[User:FunkMonk|FunkMonk]] ([[User talk:FunkMonk|talk]]) 01:22, 31 January 2013 (UTC)
+*Your referencing is a little inconsistent; if you're going to go for the &quot;Milburn, J. L.&quot; format, go for that with all of the names?
+*The italics are off on the Schlegel footnote
+*The Longchamps citation is oddly formatted- also, I'd go with spelling out journal names
+*The Fuller note lacks an ISBN
+*Having article titles in sentence case couldn't hurt!
+
+All in all, very nice. If you current FAC is anything to go by, this should sail through once the tweaks are made. My usual disclaimer: The articles only real flaw would be a failure to cite a certain key source, but you'd be in a better position than me to judge whether that had happened. I made [http://en.wikipedia.org/w/index.php?title=Red_Rail&amp;diff=533427984&amp;oldid=532738534 a few small fixes], please double-check. Hope these thoughts are helpful! [[User:J Milburn|J Milburn]] ([[User talk:J Milburn|talk]]) 21:44, 16 January 2013 (UTC)
+:Thanks, I'll fix what you mention, and ask if there's something I don't understand. I'm also waiting for James Greenway's &quot;Extinct and Vanishing Birds of the World&quot; to arrive with the mail, which might provide some more info to add. I always felt this article needed &quot;something&quot;, but I'm not sure what. There just isn't much known about the bird. [[User:FunkMonk|FunkMonk]] ([[User talk:FunkMonk|talk]]) 22:33, 16 January 2013 (UTC)
+*It appears there is a monograph on Mascarene rails in press, so I think I'll wait for that before I FAC this one. [[User:FunkMonk|FunkMonk]] ([[User talk:FunkMonk|talk]]) 12:40, 8 March 2013 (UTC)
+
+== [sic] ==
+
+{{Ping|FunkMonk}} You just [https://en.wikipedia.org/w/index.php?title=Red_rail&amp;type=revision&amp;diff=723335049&amp;oldid=723321725 reverted] an anonymous editor and claimed that &quot;We should not add (sic) unless the source does.&quot; Why do you claim this? If the original source contains a misspelling, surely &quot;[sic]&quot; would be appropriate? [[User:J Milburn|Josh Milburn]] ([[User talk:J Milburn|talk]]) 13:17, 2 June 2016 (UTC)
+:I'm not sure if it is a misspelling. The original says: &quot;all the others come running up as '''it''' to its aid and can be offered the same fate.&quot; &quot;It&quot; could refer to &quot;the running&quot;. Many of these old quotes are written in archaic language (though this seems to be a recent translation of 17th century German), and the wording may not make the same sense as today. So if that was the intention (which we don't know), how can we be the judge (OR) of whether it is a typo or not? [[User:FunkMonk|FunkMonk]] ([[User talk:FunkMonk|talk]]) 13:24, 2 June 2016 (UTC)
+::I'm not sure we'd need to play the &quot;guess the authors' intention&quot; game; it's more a matter of reassuring readers that this ''is'' what the authors said, no matter how wrong it looks to us. I'm not going to make the edit myself, but I'd lean towards inclusion of &quot;[sic]&quot;. [[User:J Milburn|Josh Milburn]] ([[User talk:J Milburn|talk]]) 13:32, 2 June 2016 (UTC)
+:::Seems something along those lines was just added by an IP. I'll not remove that, my objection was mainly to changing the wording itself of the quote, which is OR. So I'm happy with the current version. [[User:FunkMonk|FunkMonk]] ([[User talk:FunkMonk|talk]]) 13:37, 2 June 2016 (UTC)
+::::Yes- for what it's worth, I agree that changing the quote would be inappropriate. Glad to see it resolved in a way with which everyone's happy... [[User:J Milburn|Josh Milburn]] ([[User talk:J Milburn|talk]]) 15:03, 2 June 2016 (UTC)
+
+== similarities ==
+
+Could this animal be connected to an ostrich??? [[User:Nana kobina ghanaba|Nana kobina ghanaba]] ([[User talk:Nana kobina ghanaba|talk]]) 16:38, 2 June 2016 (UTC)
+:No, they're only very distantly related; take a look at [[List of birds#Phylogeny]]. Ostriches are members of the family [[Struthionidae]], which is in the [[Palaeognathae]] clade, while this is a [[Rallidae|rail]]. [[User:J Milburn|Josh Milburn]] ([[User talk:J Milburn|talk]]) 16:46, 2 June 2016 (UTC)
+::Hehe, it has been physically compared to a [[kiwi]], which is related to the ostrich, so that's the only connection I can think of... [[User:FunkMonk|FunkMonk]] ([[User talk:FunkMonk|talk]]) 16:50, 2 June 2016 (UTC)</text>
+      <sha1>6vjgwpyphxz8v7bg30zcsw6rbx1femx</sha1>
+    </revision>
+  </page>
+</mediawiki>

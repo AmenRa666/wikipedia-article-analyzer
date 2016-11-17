@@ -1,0 +1,120 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Galaxy Science Fiction</title>
+    <ns>1</ns>
+    <id>151715</id>
+    <revision>
+      <id>703754926</id>
+      <parentid>694626035</parentid>
+      <timestamp>2016-02-07T12:31:10Z</timestamp>
+      <contributor>
+        <username>Egeymi</username>
+        <id>16490385</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3601">{{Article history
+|action1=FAC
+|action1date=23:33, 23 October 2010
+|action1link=Wikipedia:Featured article candidates/Galaxy Science Fiction/archive1
+|action1result=promoted
+|action1oldid=392361666
+|currentstatus=FA
+}}
+{{WikiProjectBanners|collapsed=no|1=
+{{WikiProject Science Fiction|class=FA| importance=High}}
+{{WikiProject Media|class=FA|importance=low}}
+{{WikiProject Radio|class=FA|importance=low}}
+{{WikiProject Magazines|class=FA|importance=low}}
+}}
+{{User:MiszaBot/config
+|archiveheader = {{talkarchivenav}}
+|maxarchivesize = 125K
+|counter = 1
+|minthreadsleft = 4
+|minthreadstoarchive = 1
+|algo = old(100d)
+|archive = Talk:Galaxy Science Fiction/Archive %(counter)d
+}}
+{{Archive box|bot=MiszaBot I|age=100|auto=long|search=yes}}
+__TOC__
+== Silverberg ==
+
+Just a note for the future: I would like to use Silverberg's quote from ''Phases'' to support Tymm/Ashley's comment that Pohl came to a special arrangement with Silverberg in 1963.  Note also that T/A say it was unique; but Ashley's (later) book ''Gateways'' relates a similar arrangement between Ted White and Gordon Eklund; that's probably worth mentioning in a note. [[User:Mike Christie|Mike Christie]] [[User_talk:Mike Christie|(talk)]] 02:46, 31 August 2010 (UTC)
+:Resolved; I found a quote in ''Hell's Cartographers'' that covers this. [[User:Mike Christie|Mike Christie]] [[User_talk:Mike Christie|(talk)]] 16:09, 2 October 2010 (UTC)
+
+== To-do ==
+
+* &lt;s&gt;Rewrite and expand lead&lt;/s&gt; Done.
+* &lt;s&gt;Reorganize and compress material -- some repetition and some sequence issues.&lt;/s&gt; Done.
+* &lt;s&gt; Clean up remainder of old material still not fully integrated, e.g. illustrator section&lt;/s&gt; Done.
+* &lt;s&gt;Use Ortiz quotes from sandbox&lt;/s&gt; Done.
+* &lt;s&gt;Can we keep the existing images?  Check copyright on second one; what else could be used for first?  It's already in the collage.&lt;/s&gt;
+* &lt;s&gt;Use scan of back cover of first issue to illustrate &quot;You'll never see it ....&quot;&lt;/s&gt; Done.
+* &lt;s&gt;Review external links -- possibly link to E.J. Gold's site?&lt;/s&gt; Done.
+* &lt;s&gt;Clean up references and check footnotes are all organized properly.&lt;/s&gt; Done.
+* &lt;s&gt;MOS pass&lt;/s&gt; Done.
+* &lt;s&gt;Need to mention Avenue Victor Hugo&lt;/s&gt; Done.
+* &lt;s&gt;p. 28 of ''Hell's Cartographers'' has Silverberg's note on how Pohl agreed to buy whatever he wrote.&lt;/s&gt;
+* &lt;s&gt;Expand coverage of inverted L shape; use Gold's editorial quoted in Rosheim.&lt;/s&gt; Done.
+* &lt;s&gt;Source and expand Galaxy Novels and Magabooks.&lt;/s&gt; Done
+-- [[User:Mike Christie|Mike Christie]] [[User_talk:Mike Christie|(talk)]] 02:31, 10 September 2010 (UTC)
+== Galaxy Magabooks ==
+
+So what were the other two? Adding them to the footnote would be fine. [[User:Pmanderson|Septentrionalis]] &lt;small&gt;[[User talk:Pmanderson|PMAnderson]]&lt;/small&gt; 00:23, 4 November 2010 (UTC)
+
+:Per Tuck, vol 3, p.746, they are:
+:# del Rey, L. ''The Sky Is Falling &amp; Badge of Infamy''
+:#Williamson, J. ''The Legion of Time &amp; After World's End''
+:#Sturgeon, T. ''And My Fear is Great &amp; Baby Is Three''
+
+:I'll add them to the article at some point; just wanted to jot them here to remind myself since I'm in the middle of something else tonight.  Feel free to add them yourself if you like. [[User:Mike Christie|Mike Christie]] [[User_talk:Mike Christie|(talk)]] 00:57, 4 November 2010 (UTC)
+::Done, unless you want to tweak the reference. A nice selection; I have the first and did not realize it was unusual. [[User:Pmanderson|Septentrionalis]] &lt;small&gt;[[User talk:Pmanderson|PMAnderson]]&lt;/small&gt; 01:16, 4 November 2010 (UTC)
+:::Tweaked.  Thanks! [[User:Mike Christie|Mike Christie]] [[User_talk:Mike Christie|(talk)]] 01:48, 4 November 2010 (UTC)</text>
+      <sha1>sqltl7twpgxfny09iv4i3ut0venvgue</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,85 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Beyond the Sea (The X-Files)</title>
+    <ns>1</ns>
+    <id>23840588</id>
+    <revision>
+      <id>539282862</id>
+      <parentid>499083134</parentid>
+      <timestamp>2013-02-20T19:43:35Z</timestamp>
+      <contributor>
+        <username>Jj98</username>
+        <id>12683541</id>
+      </contributor>
+      <comment>{{WikiProject Television|class=A|importance=Low|episode-coverage=yes|episode-coverage-importance=Low}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1859">{{ArticleHistory
+|action1=GAN
+|action1date=08:49, 26 May 2011
+|action1link=Talk:Beyond the Sea (The X-Files)/GA1
+|action1result=listed
+|action1oldid=427617937
+|action2=GTC
+|action2date=19:45, 17 January 2012
+|action2link=Wikipedia:Featured topic candidates/The X-Files (season 1)/archive1
+|action2result=promoted
+
+|ftname=The X-Files (season 1)
+|currentstatus=GA
+|topic=television
+}}
+{{WikiProject Television|class=A|importance=Low|episode-coverage=yes|episode-coverage-importance=Low}}
+{{xfilesproject|class=A|importance=mid}}
+
+==Copyright violation in plot section==
+I've just removed the plot section as it was lifted from another source and pasted here in [http://en.wikipedia.org/w/index.php?title=Beyond_the_Sea_%28The_X-Files%29&amp;action=historysubmit&amp;diff=204536977&amp;oldid=200644569 this edit]. The same plot is at www.dramatica.com/story/analyses/analyses/x-files.html and apparently originally came from ''Wrapped in Plastic'', published in 1994. --[[User:Belovedfreak|&lt;span style=&quot;font-family: trebuchet&quot;&gt;Beloved&lt;/span&gt;]][[User talk:Belovedfreak|&lt;span style=&quot;font-family: trebuchet&quot;&gt;Freak&lt;/span&gt;]] 18:59, 24 April 2011 (UTC)
+:This is a favourite episode of mine, I have no problem putting together a self-penned plot summary tonight if you'd like. [[User:Grapple X|&lt;span style=&quot;color:#556655&quot;&gt;&lt;small&gt;'''GRAPPLE'''&lt;/small&gt;&lt;/span&gt;]] [[User talk:Grapple X|&lt;span style=&quot;color:#556655&quot;&gt;&lt;small&gt;'''X'''&lt;/small&gt;&lt;/span&gt;]] 19:07, 24 April 2011 (UTC)
+::Oh, great. It's a favourite of mine too :) but I haven't seen it for ages and don't have the season 1 DVD, so that would be great if you could. Hoping to pop this into GAN soon. Does the themes section I just added read ok to you? --[[User:Belovedfreak|&lt;span style=&quot;font-family: trebuchet&quot;&gt;Beloved&lt;/span&gt;]][[User talk:Belovedfreak|&lt;span style=&quot;font-family: trebuchet&quot;&gt;Freak&lt;/span&gt;]] 19:20, 24 April 2011 (UTC)</text>
+      <sha1>fns7l4xgyjoezpm4vw9gavv41pvpy5o</sha1>
+    </revision>
+  </page>
+</mediawiki>

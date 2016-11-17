@@ -1,0 +1,140 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Inner Hebrides</title>
+    <ns>1</ns>
+    <id>3983392</id>
+    <revision>
+      <id>742615536</id>
+      <parentid>742539106</parentid>
+      <timestamp>2016-10-04T19:06:47Z</timestamp>
+      <contributor>
+        <username>Ben MacDui</username>
+        <id>2259739</id>
+      </contributor>
+      <comment>/* Picture of Eilean Donan? */ A little research goes a long way....</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10513">{{WikiProjectBannerShell|1=
+{{WikiProject Scottish Islands|class=GA|importance=Top}}
+{{WikiProject Scotland|class=GA|importance=High}}
+{{WikiProject Islands|class=GA}}
+}}{{ArticleHistory
+|action1=GAN
+|action1date=09:53, 7 March 2011
+|action1link=Talk:Inner Hebrides/GA1
+|action1result=listed
+|action1oldid=417515276
+|action2=FTC
+|action2date=03:40, 23 June 2011
+|action2link=Wikipedia:Featured topic candidates/Islands of Scotland/archive1
+|action2result=promoted
+
+|ftname=Islands of Scotland
+|currentstatus=GA
+|topic=geography
+}}
+{{WPCD}}
+
+== Islands of the lower Firth of Clyde ==
+
+I would describe the [[Islands of the lower Firth of Clyde]] as forming part of the Inner Hebrides, yet no mention is made of them here, nor of the Inner Hebrides at that article. What do other think? Perhaps best to comment at the Talk item I started over there, to avoid a parallel strand:
+*[[Talk:Islands of the lower Firth of Clyde]]
+--[[User:Mais oui!|Mais oui!]] 22:54, 6 February 2006 (UTC)
+
+==Islands in the Inner Hebrides==
+
+A question was raised re the inclusion of The Summer Isles and other small islands north of Skye in the [[Inner Hebrides]] category. Encylopedia Britannica (1978) says '''Hebrides''' -  group of islands of the west coast of Scotland extending in an arc between 55.35 and 58.30 N and 5.26 and 8.40 W.” This includes Gigha, St.Kilda and everything up to Cape Wrath – although not for some reason, North Rona. The Collins Encyclopaedia of Scotland describes the Inner Hebrides as lying 'east of the Minch'. It’s not unequivocal, but as neither exclude the Summer Isles etc. See also Talk:Islands of the Clyde. [[User:Ben MacDui|Ben MacDui]] 08:18, 3 November 2006 (UTC)
+
+: I disagree. First that doesn't include everything up to Cape Wrath - Handa is at 5.20°W so excluded from that definition. Britannica online [http://www.britannica.com/eb/article-9042446/Inner-Hebrides] states about the Inner Hebrides: &quot;They stretch 150 miles (240 km) from Skye in the north to Islay in the south.&quot;. This clearly excludes the Summer Isles, Isle of Ewe, Handa etc. All of these islands are much closer to mainland Scotland than they are to the rest of the (Inner) Hebrides, so they are geographically distinct, and not generally regarded as part of the Hebrides. --[[User:Vclaw|Vclaw]] 17:21, 14 November 2006 (UTC)
+
+::So I imagine this means that either 1978 Brittanica editors consciously decided to include the Summer Isles, but not Handa for some unstated reason or that they were simply being slightly sloppy. As they had no need to categorise every last Hebridean islet I imagine the latter.  I am aware of the on-line citation and it is a simply a generalism. There is no collective noun for ‘small islands near the mainland of north-west Scotland that are not Hebrides’ that I am aware of. In ''The Islands of Western Scotland'' W.H. Murray sub-titles the book ‘The Inner and Outer Hebrides’ and mentions all west coast islands including Handa and the ‘Atlantic Outliers’. I have not read Hamish Haswell-Smith’s ‘’The Scottish Islands’’ from cover to cover but he by-passes the issue by dividing the Inner Hebrides up into sections and I can see no reference to these northern islands as being anything other than Hebridean.  If they are not Hebrides, then in order to clearly define what the islands of the west coast (excluding the Firth of Clyde) are, we can either say: ‘comprised of the Inner and Outer Hebrides’, or alternatively: ‘comprised of the Inner and Outer Hebrides and a small selection of in-shore islands north of an arbitrary line somewhere near Skye.’ These islands are geologically, geographically and culturally in every way similar to all the other Hebrides, and in short I do not believe there is any meaningful precedent for, or merit or elegance in excluding them. &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:Ben MacDui|Ben MacDui]] ([[User talk:Ben MacDui|talk]] • [[Special:Contributions/Ben MacDui|contribs]]) 13:31, 9 December 2006 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+I know a girl named Skye....  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/66.229.233.34|66.229.233.34]] ([[User talk:66.229.233.34|talk]]) 02:23, 12 June 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Island Template ==
+I have created a [[Template:Infobox Scottish island]] for use with Scottish islands which is based on the existing [[Template:Infobox Scotland place]] but which contains parameters which may be more useful for smaller islands which don't have their own police force or Lord Lieutenant. Comments are welcome on the associated talk page. 
+
+I have created it as a template for all Scottish islands and used an image of a longboat next to the Saltire to emphasise the difference with the Scotland place Template. The said image is called Image:McdonaldBoat.jpg. Before ancient foes of Clan Donald complain, I am assured by [[User:Calgacus]] that the proper name for this image is a 'Lymphad' and that its was actually purloined from the Russian wikipedia. He also points out that the same image appears for example at the bottom of Image:Norse-Gael_Warrior.PNG[http://en.wikipedia.org/wiki/Image:Norse-Gael_Warrior.PNG] and the Sinclair Orkney arms [http://www.atlasgeo.net/FOTW/flags/gb-ork.html#banner] [http://www.scotshistoryonline.co.uk/HSSforum/viewtopic.php?p=9479&amp;sid=380a353d09a66951c1f5089273add491] which suggests to me that the lymphad may be appropriate for all our isles whether they have a primarily Celtic or primarily Norse history. This note has been copied in various places including [[Talk:Orkney]] [[Talk:Shetland]] [[Talk:Hebrides]] [[Talk:Islands of the Clyde]] etc. 
+
+An example of the template may be found at:[[Flannan Isles]]
+
+There is space for references. Groupings and population information are available at [[List of islands of Scotland]] the latter being based on the 2001 census. Area measurements for the 162 islands of 100 acres or more in size are available in Haswell-Smith, Hamish. (2004) ''The Scottish Islands.'' Edinburgh. Canongate. I'd be happy to pass the relevant numbers on if needed, although I doubt I am going to get around to listing all 162. There is more on this subject at [[Template talk:Infobox Scottish island]]. [[User:Ben MacDui|Ben MacDui]] &lt;small&gt;[[User talk:Ben MacDui|(Talk)]]&lt;/small&gt; 10:32, 7 December 2006 (UTC)
+
+== [[:Category:Islands of Scotland]] ''vs.'' [[:Category:Hebrides]] ''vs.'' [[:Category:Inner Hebrides]] ==
+
+[[:Category:Inner Hebrides]] is a category within [[:Category:Hebrides]] which is in turn a category of [[:Category:Islands of Scotland]]. — [[User:Robertgreer|Robert Greer]] ([[User talk:Robertgreer|talk]]) 03:58, 4 March 2009 (UTC)
+
+{{Talk:Inner Hebrides/GA1}}
+
+== Picture of Eilean Donan? ==
+
+Eilean Donan isnt in the hebrides, its on the mainland. Why is there a picture of it?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.161.97.237|86.161.97.237]] ([[User talk:86.161.97.237|talk]]) 18:21, 19 June 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+
+Agreed, and since this has had no reply in 5 years, I'm removing it. Might as well have a picture of Edinburgh Castle.[[User:Adpsimpson|Andy]] ([[User talk:Adpsimpson|talk]]) 08:48, 4 October 2016 (UTC)
+
+:I am not inclined to answer every question posed by anon IPs, especially when they make unproven and erroneous assertions. The are no definitive defintions that I am aware of, but to quote a discussion on a different talk page that took place almost exactly 10 years ago: &quot;Encylopedia Britannica (1978) says 'Hebrides - group of islands of the west coast of Scotland extending in an arc between 55.35 and 58.30 N and 5.26 and 8.40 W.' This includes Gigha, St.Kilda and everything up to Cape Wrath – although not for some reason, North Rona.&quot; [[User:Ben MacDui|&lt;span style=&quot;color:#6495ED&quot;&gt;Ben&lt;/span&gt;]] [[User talk:Ben MacDui|&lt;span style=&quot;color:#D891EF&quot;&gt;Mac&lt;/span&gt;]][[Special:Contributions/Ben MacDui|&lt;span style=&quot;color:#228B22&quot;&gt;Dui&lt;/span&gt;]] 19:06, 4 October 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:6|one external link|6 external links}} on [[Inner Hebrides]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=678509264 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20120314061559/http://www.hie.co.uk/highlands-and-islands/area-information/argyll-and-the-islands/economic-profile.html to http://www.hie.co.uk/highlands-and-islands/area-information/argyll-and-the-islands/economic-profile.html
+*Added archive https://web.archive.org/20120406175501/http://www.hie.co.uk/highlands-and-islands/area-information/lochaber-skye-and-wester-ross/economic-profile.html to http://www.hie.co.uk/highlands-and-islands/area-information/lochaber-skye-and-wester-ross/economic-profile.html
+*Added archive https://web.archive.org/20120402215657/http://www.hie.co.uk:80/support-for-communities/growing-fragile-communities/default.html to http://www.hie.co.uk/support-for-communities/growing-fragile-communities/default.html
+*Added archive https://web.archive.org/20150505073345/http://www.calmac.co.uk/Timetables-Fares/timetables.html to http://www.calmac.co.uk/Timetables-Fares/timetables.html
+*Added archive https://web.archive.org/20130412205423/http://www.smo.uhi.ac.uk/en/colaiste/index.php to http://www.smo.uhi.ac.uk/en/colaiste/index.php
+*Added archive https://web.archive.org/20120211174554/http://www.highlandbiodiversity.com/htm/counties/skye_lochalsh/skye_lochalsh.pdf to http://www.highlandbiodiversity.com/htm/counties/skye_lochalsh/skye_lochalsh.pdf
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers. —[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 20:44, 29 August 2015 (UTC)</text>
+      <sha1>0na379wv7lir9oliit4bzkh4me60d2v</sha1>
+    </revision>
+  </page>
+</mediawiki>

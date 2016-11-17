@@ -1,0 +1,272 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:U.S. Route 50</title>
+    <ns>1</ns>
+    <id>2864873</id>
+    <revision>
+      <id>610639312</id>
+      <parentid>517547043</parentid>
+      <timestamp>2014-05-29T13:12:09Z</timestamp>
+      <contributor>
+        <username>Parkwells</username>
+        <id>5326371</id>
+      </contributor>
+      <minor/>
+      <comment>/* Lenghts missing */ spelling</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17315">{{ArticleHistory
+|action1=PR
+|action1date=15:10, 20 July 2007
+|action1link=Wikipedia:Peer review/U.S. Route 50/archive1
+|action1result=reviewed
+|action1oldid=145848190
+
+|action2=GAN
+|action2date=00:37, 15 August 2007
+|action2result=listed
+|action2oldid=151288863
+
+|action3=GAR
+|action3date=13:54, 6 June 2009 (UTC)
+|action3link=Talk:U.S. Route 50/GA1
+|action3result=kept
+|action3oldid=294780472
+
+|action4=WAR
+|action4date=21:41, 29 August 2009 (UTC)
+|action4link=Wikipedia:WikiProject U.S. Roads/Assessment/A-Class review/U.S. Route 50
+|action4result=failed
+|action4oldid=308370681
+
+|currentstatus=GA
+|topic=Engtech
+}}
+{{USRD|type=US|class=GA|needs-jctint=NA|needs-map=no|needs-kml=no|importance=Mid|PUSRD-SA=October 2007|PUSRD-DYK=February 2006}}
+
+== [[Highway 50]] ==
+
+A [[Highway 50]] article was started that should be merged into this one.  Perhaps more disambig or redirect pages are needed for the highway articles?  [[User:Malepheasant|Malepheasant]] 00:23, 21 January 2006 (UTC)
+:I'd say merge it. --'''[[User:Rschen7754|Rschen7754]] ([[User_talk:Rschen7754|talk]] - [[Special:Contributions/Rschen7754|contribs]]) ''' 03:20, 21 January 2006 (UTC)
+
+==Article Name==
+Is there any reason why this article's name violates [[Wikipedia:WikiProject_U.S._Highways#Naming_articles]]?  It should be [[U.S. Highway 50]], not [[U.S. Route 50]] [[user:Jeff02|-Jeff]] 18:16, 29 January 2006 (UTC)
+:I'm supposed to be studying... lol but I forgot to change it over. I'll do it later this week. --'''[[User:Rschen7754|Rschen7754]] ([[User_talk:Rschen7754|talk]] - [[Special:Contributions/Rschen7754|contribs]]) ''' 03:25, 30 January 2006 (UTC)
+:AASHTO uses Route, not Highway. --[[User:SPUI|SPUI]] ([[User talk:SPUI|talk]] - &lt;small&gt;[[User:SPUI/SFD|don't use sorted stub templates!]]&lt;/small&gt;) 03:36, 30 January 2006 (UTC)
+OK, I see the nc is changed now, I've heard it refered to as &quot;Route 50&quot; alot more than &quot;Highway 50&quot; anyway, so to me this is long overdue.[[user:Jeff02|-Jeff]] 16:30, 6 February 2006 (UTC)
+
+==Lengths in Ohio==
+From the [http://www.dot.state.oh.us/Techservsite/availpro/Road_%20Infor/SLD/ SLDs]
+*Hamilton 36.08
+*Clermont 18.43
+*Brown 8.41-0.01
+*Highland 28.59
+*Ross 37.68
+*Vinton 30.16
+*Athens 39.04
+*Washington 10.61
+
+==Lengths in California==
+From the [http://www.dot.ca.gov/hq/structur/strmaint/brlog2.htm bridge log]
+*Yolo 3.16
+*Sacramento 21.74+2.48
+*El Dorado 80.44+3.93-4.22+32.16-32.49
+
+==Lengths in Maryland==
+From the [http://www.sha.state.md.us/KeepingCurrent/performTrafficStudies/dataAndStats/hwyLocationRef/oppe/hlr.asp Highway Location Reference]
+*Garrett 9.17
+
+*Prince Georges 14.39
+*Anne Arundel 19.88
+*Queen Anne's 18.78
+*Talbot 25.45
+*Dorchester 16.90
+*Wicomico 30.695
+*Worcester 14.40
+:Cool, I'll go ahead and add these to [[U.S. Highway 50 in Maryland]] [[user:Jeff02|-Jeff]] 02:37, 30 January 2006 (UTC)
+
+==Lengths in Illinois==
+From the [http://www.dot.state.il.us/gist2/select.html GIS data]
+*Monroe 3.55
+*St. Clair 12.80-4.71+16.17+4.44+4.2-3.58+5.64
+*Clinton 32.02
+*Marion 1.45+14.68-14.42-1.45+24.23
+*Clay 23.73
+*Richland 20.97
+*Lawrence 21.59
+
+== This page is a mess ==
+
+Do we really need the lengths table?  If not we can just work the lengths into the states traversed section.[[user:Jeff02|-Jeff]] &lt;sup&gt;[[user talk:Jeff02|(talk)]]&lt;/sup&gt; 05:48, 20 May 2006 (UTC)
+:Nobody's responded yet so I'll go ahead and toss it, it's really causing more harm than good.  Lenths will be merged into the states traversed section.[[user:Jeff02|-Jeff]] &lt;sup&gt;[[user talk:Jeff02|(talk)]]&lt;/sup&gt; 19:20, 27 May 2006 (UTC)
+Another thing, the lists under the route description section need to be converted into paragraphs (preferably brief, additional info can be put into the state-specific articles).[[user:Jeff02|-Jeff]] &lt;sup&gt;[[user talk:Jeff02|(talk)]]&lt;/sup&gt; 02:53, 18 June 2006 (UTC)
+
+
+Jeff,
+Good job cleaning up this page (even if some of the messes you fixed were mine =-) ). Now that you've moved the &quot;lonliest road&quot; stuff to a sub page (U.S. 50 in Nevada), shouldn't searching for &quot;The Lonliest Road in America&quot; now redirect to the Nevada sub-page? How does one do this, or request this? (I'm still a relative newbie)
+Thanks
+[[User:Davemeistermoab|Davemeistermoab]] 17:29, 18 June 2006 (UTC)
+
+== Lengths table ==
+
+I've removed the lengths table again, it's too large (sticking well into the next section) and we already have the lengths listed under the states traversed section.[[user:Jeff02|-Jeff]] &lt;sup&gt;[[user talk:Jeff02|(talk)]]&lt;/sup&gt; 18:08, 8 July 2006 (UTC)
+
+
+==Sentence on capitals==
+&quot;US 50 serves both Jefferson City, Missouri, and Carson City, Nevada, two of only five state capitals not served by an Interstate highway.&quot;  &lt;- This sentence makes absolutely no sense. --[[User:65.25.93.126|65.25.93.126]] 06:53, 27 July 2006 (UTC)
+:There are five state capitals not served by and Interstate, Jefferson City and Carson City are two of them.  Both of those are served by US 50.  Makes perfect sense to me. Anyone think it could be reworded to be more understandable though?[[user:Jeff02|-Jeff]] &lt;sup&gt;[[user talk:Jeff02|(talk)]]&lt;/sup&gt; 04:44, 28 July 2006 (UTC)
+
+Actually, there are six: Juneau, AK; Annapolis, MD ; Jefferson City, MO; Carson City, NV; Dover, DE and Pierre, SD.  I made this change in the main page, from five to six. [[User:Viget99|Viget99]] 20:28, 10 January 2007 (UTC)
+
+Nevermind, this is viget99 again, I see that Annapolis could  arguably be served by I-97. [[User:70.130.223.84|70.130.223.84]] 03:15, 11 January 2007 (UTC)
+
+: It is also served by Interstate 595 (unsigned) [[User:Davemeistermoab|Davemeistermoab]] 06:40, 11 January 2007 (UTC)
+
+== More cleanup? ==
+
+This was tagged for cleanup (in the wrong place I might add), after I spent alot of time cleaning it up before, what still needs to be done?[[user:Jeff02|-Jeff]] &lt;sup&gt;[[user talk:Jeff02|(talk)]]&lt;/sup&gt; 03:23, 30 September 2006 (UTC)
+:A lot of the section headers on the project standard were changed a while ago, and this article uses a lot of the obsolete sections and headers. See [[WP:USH]] for the new standard and [[WT:USH]] for the basis for the change. --[[User:TwinsMetsFan|'''&lt;font color=&quot;#CC0018&quot;&gt;T&lt;/font&gt;&lt;font color=&quot;#0000C0&quot;&gt;M&lt;/font&gt;F''']] &lt;sup&gt;[[User talk:TwinsMetsFan|T]] - [[Special:Contributions/TwinsMetsFan|C]]&lt;/sup&gt; 03:29, 30 September 2006 (UTC)
+
+==October 19, 2006 reformatting/Why West to East?==
+I've rearranged the page as per the standards of [[WP:USH]].  The most notable change was reordering the states traversed from west to east, but the individual state sections need to be rewritten so they, too, read from west to east.[[User:ObtuseAngle|ObtuseAngle]] 16:14, 19 October 2006 (UTC)
+:I tried to add and change the US 50 in Ohio to include a west to east description. Someone else might want to take a look at it to make sure it flows well. Vbofficial 03:18, 9 July 2007 (UTC)
+
+::Why was the entire article written as west to east?  That does not make any historical sense, as it was not in keeping with development of communities, roads and railroads, most of which went from east to west (as the first sentence describes the road, too.)--[[User:Parkwells|Parkwells]] ([[User talk:Parkwells|talk]]) 14:13, 6 July 2008 (UTC)
+
+== Lengths missing ==
+They need to be readded, not sure how they fit in with the new format though, but content should not be removed when editing just to reformat the article.[[user:Jeff02|-Jeff]] &lt;sup&gt;[[user talk:Jeff02|(talk)]]&lt;/sup&gt; 06:08, 3 November 2006 (UTC)
+*They could go in the 'Notes' section but really, that sort of information belongs in the state-level articles. [[User:ObtuseAngle|ObtuseAngle]] 14:23, 3 November 2006 (UTC)
+
+== [[Cheverly, Maryland]] ==
+
+I don't see why it's notable enough for inclusion on the list of major cities.  It is one of only three places on that list that have a population that is less than 15,000; and the other two have high populations relative to the area around them,  Cheverly does not.  For a more exhaustive list of places along U.S. 50 one can see [[U.S. Route 50 in Maryland#Cities and towns]] or [[List of cities and towns along U.S. Route 50]].[[user:Jeff02|-Jeff]] &lt;sup&gt;[[user talk:Jeff02|(talk)]]&lt;/sup&gt; 18:00, 22 December 2006 (UTC)
+
+:It should not be on list - minor.--[[User:Parkwells|Parkwells]] ([[User talk:Parkwells|talk]]) 14:14, 6 July 2008 (UTC)
+
+== Ohio ==
+
+The article needs to be reversed to describe US 50 as you go from west to east, rather than from east to west as it currently does. &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/198.86.240.103|198.86.240.103]] ([[User talk:198.86.240.103|talk]]) 16:22, 1 March 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+:I tried to add and change the US 50 in Ohio to include a west to east description.  Someone else might want to take a look at it to make sure it flows well.  [[User:Vbofficial|Vbofficial]] 03:18, 9 July 2007 (UTC)
+
+:Why was the article written as west to east?  That does not make any sense, as it was not in keeping with historic development of communities, roads and railroads, all of which went from east to west (as the first sentence describes the road, too.)--[[User:Parkwells|Parkwells]] ([[User talk:Parkwells|talk]]) 14:11, 6 July 2008 (UTC)
+
+==History notes==
+Obviously the detailed history should go in the state articles. Here are some general notes. --[[User talk:NE2|NE2]] 22:31, 8 July 2007 (UTC)
+*[[Lincoln Highway]], Sacramento, CA to Ely, NV
+*[[Midland Trail]], Thistle, UT to Colorado?
+*[[Pikes Peak Ocean to Ocean Highway]], Price, UT to Florence, CO
+*[[National Park to Park Highway]], Salida, CO to Pueblo, CO
+*[[New Santa Fe Trail]], La Junta, CO to Kansas City, MO (via US 50S)
+*[[National Old Trails Road]], La Junta, CO to Kansas City, MO (via US 50N, except maybe between Garden City, KS and Larned, KS)
+*[[Victory Highway]], Kansas City, MO to Jefferson City, MO
+*[[Midland Trail]], Kansas City, MO? to Shoals, IN
+*[[Atlantic &amp; Pacific Highway]], Jefferson, MO to St. Louis, MO
+*[[Cincinnati-Parkersburg Way]], Cincinnati, OH to Parkersburg, WV?
+*[[Northwestern Turnpike]], Parkersburg, WV to Winchester, VA
+
+;State highway numbers
+*CA: no signed routes, but Legislative Route 11 (partly added in 1897; numbered in 1909)
+*NV: 3A, 2A, 2 (numbered by 1917[ftp://nas.library.unr.edu/Keck/HistTopoNV/Historic_Maps/HistHwyMaps/1917_NV_hwy_map.jpg])
+*UT: 8
+*CO: 6 (numbered in 1923)
+*KS: it appears that state highways were not numbered until the U.S. Routes
+*MO: 12 (numbered in 1922[http://www.cosmos-monitor.com/road/mo/hist/maps/etc/map1922-backlin.html])
+*IL: 12 (numbered in 1918)
+*IN: 5, 41, 4 (numbered in 1917[http://www.libraries.iub.edu/index.php?pageId=2980])
+*OH: 7, 27, 26, 144, 7 (numbered in 1923; had been Inter-County Highways 38, 8, 9, 258, 365, 160, 156, 7, and Main Market Route V by 1914)
+*WV: 1 (numbered in 1922)
+*VA: 36 (numbered in 1918 as 6; renumbered in 1923)
+*MD: no signed routes
+
+==Major junctions==
+What is a major junction?  An interstate?  If that is the case, then why are other U.S. routes considered then?  Is it based on large nearby cities?  If so, then why include small cities? Looking for clarification. [[User:Vbofficial|Vbofficial]] 17:02, 10 July 2007 (UTC)
+:I based it on major cities and spacing, essentially to give an idea of the routing without being too long (that's what the box below is for). --[[User talk:NE2|NE2]] 17:47, 10 July 2007 (UTC)
+::Well, I was basing it on having a route in each state and the importance of the route plus using something a little different than the norm.  I didn't see anything in Ohio and the one in Ind. was a U.S. in a smaller/less important city.  Personally, I don't like seeing I-75 over and over, for example, when U.S. 23 is a fairly major highway that reaches from Michigan to Fla.  It also allows us to link to other sites.  But no big deal.  [[User:Vbofficial|Vbofficial]] 17:59, 10 July 2007 (UTC)
+
+== long distance mileage signs ==
+
+*[[West Sacramento, California]] &amp;mdash; An unconventional mileage sign is at the western terminus of [[U.S. Route 50]], which gives the distance to [[Ocean City, Maryland]] as 3,073 miles (4,946 km). This distance is the length of US 50 according to older measurements. This sign was temporarily mislabeled at 3,037 miles in the 1990s for a time after an older sign was stolen in a fraternity prank. [http://www.cahighways.org/049-056.html#050/ ]  The sign has since been corrected.
+*[[Ocean City, Maryland]] - Another unconventional mileage sign is at the eastern terminus of [[U.S. Route 50]], showing the distance to the western terminus of the highway in [[Sacramento, California]] as 3,073 miles.
+
+
+== GA Review ==
+
+All is good in this article. It passes all the criteria, but I do have one suggestion, try to find a more updated length. 1989 is a bit outdated. Pass&lt;big&gt;[[User:Mitchazenia|Mit]]&lt;/big&gt;&lt;small&gt;[[User talk:Mitchazenia|ch]]&lt;/small&gt;&lt;sup&gt;[[Special:Contributions/Mitchazenia|contribs]]&lt;/sup&gt; 21:21, 19 August 2007 (UTC)
+
+== Junctions list for US 50 ==
+
+There seems to be an mini-edit war over the junctions for US 50. Below are the comments I've posted to the talk page of the anon editor who keeps adding US395 and US 95
+:I would just like to add, it is not practical to list the junctions of US 50 with EVERY US or interstate highway in that box. The list would be huge for a route that is 3000 miles long and traverses a dozen states. The list is not complete for that reason. With that said, I disagree with the junctions selected (US 93 as a major junction?) The consensus seems to be &quot;evenly spaced junctions&quot;. IMO the junctions should be US 95 and I-15, not US 93. Anyways, if you check the state specific articles for US 50 (such as [[U.S. Route 50 in Nevada]]), the junctions you are trying to add are there.
+
+It does beg the question WHY us 93? I-15/US-95/US-395 are definitely qualify as a major junction more than US 93. Shouldn't I-15 and I-35 be listed as they are major NS interstates?
+[[User:Davemeistermoab|Davemeistermoab]] 05:30, 7 September 2007 (UTC)
+
+:I attempted to space them out evenly, and choose decent-sized settlements. I-15 doesn't have one. --[[User talk:NE2|NE2]] 11:08, 7 September 2007 (UTC)
+::Fair enough, using that as the criteria the junction should be US 95 in Fallon, not US 93 in Ely. Ely was bordering on ghost town status for a while, although seems to be reviving. Fallon is one of the largest cities in Rural Nevada. Also US95 carries much more traffic than US 93. [[User:Davemeistermoab|Davemeistermoab]] 14:04, 7 September 2007 (UTC)
+:::Fallon/US 95 looks like a reasonable replacement for Ely/US 93 to me. --[[User:Polaron|Polaron]] | [[User talk:Polaron|Talk]] 15:42, 7 September 2007 (UTC)
+:::That looks reasonable. --[[User talk:NE2|NE2]] 12:10, 8 September 2007 (UTC)
+
+:*Hi.  I've protected the article.  Please let [[WP:RFPP|someone]] know when a consensus is reached.  Also, [[WP:3RR]] is important here.  [[User:Navou|Navou]] &lt;sup&gt; [[User talk:Navou|banter]] &lt;/sup&gt; 01:44, 9 September 2007 (UTC)
+::*A consensus already was reached. Some users don't believe in consensus, however. --'''[[User:Rschen7754|Rschen7754]]''' ([[User talk:Rschen7754|T]] [[Special:Contributions/Rschen7754|C]]) 03:33, 9 September 2007 (UTC)
+
+Wow... what happened here? It looks like an edit war between [[User:Mm555|Mm555]] and mainly [[User:O|O]], with O calling Mm555's changes of US 95 to US 395 vandalism - because there's supposedly a consensus here for US 95? I certainly have no problem with US 395; it's probably a better choice than US 95. --[[User talk:NE2|NE2]] 17:20, 9 September 2007 (UTC)
+:Not sure either. I also have no problem with US 395. I assumed it would not be acceptable because it is a 3dus and relatively close to Sacramento. But if we go by city size and traffic flow, that certainly is the major junction for Nevada. [[User:Davemeistermoab|Davemeistermoab]] 17:53, 9 September 2007 (UTC)
+::Well, if we're already going west to Fallon, we may as well go slightly further to Carson City. Being a 3DUS shouldn't be an issue; US 395 is longer than many 2DUSes. --[[User talk:NE2|NE2]] 18:09, 9 September 2007 (UTC)
+:::Only in Nevada (and Alaska) can you get away with saying &quot;slightly further&quot; meaning 1.3 hours=-). [[User:Davemeistermoab|Davemeistermoab]] 18:19, 9 September 2007 (UTC)
+
+So are there any objections to US 395? --[[User talk:NE2|NE2]] 21:18, 10 September 2007 (UTC)
+:I think the page can be unprotected now. I see this as an incident where well meaning editors lost their cool. I think everybody has calmed down now. In the bigger scheme of things it really doesn't matter which junction is representative of Nevada, as anybody who is interested is going to read the state articles anyways.[[User:Davemeistermoab|Davemeistermoab]] 04:20, 11 September 2007 (UTC)
+
+{{done}} [[User:Navou|Navou]] &lt;sup&gt; [[User talk:Navou|banter]] &lt;/sup&gt; 04:42, 11 September 2007 (UTC)
+
+==USRD GA audit==
+This article has failed the USRD GA audit and will be sent to [[WP:GAR]] if the issues are not resolved within one week. Please see [[WT:USRD]] for more details, and please ask me if you have any questions as to why this article failed. --'''[[User:Rschen7754|Rschen7754]]''' ([[User talk:Rschen7754|T]] [[Special:Contributions/Rschen7754|C]]) 07:13, 5 April 2009 (UTC)
+
+{{Talk:U.S. Route 50/GA1}}</text>
+      <sha1>5l31iyvlqmk6w2bqz5muiwt2ngoh9wp</sha1>
+    </revision>
+  </page>
+</mediawiki>

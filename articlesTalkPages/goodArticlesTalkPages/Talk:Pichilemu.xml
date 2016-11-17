@@ -1,0 +1,146 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Pichilemu</title>
+    <ns>1</ns>
+    <id>15053509</id>
+    <revision>
+      <id>710634830</id>
+      <parentid>695075477</parentid>
+      <timestamp>2016-03-18T03:24:22Z</timestamp>
+      <contributor>
+        <username>JJMC89 bot</username>
+        <id>27446209</id>
+      </contributor>
+      <minor/>
+      <comment>Replacing {{WikiProjectBanners}} with {{WikiProject banner shell}}) ([[WP:AWB|AWB]] [11972] bot</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4363">{{Talk header|search=y}}
+{{Article history|action1=PR
+|action1date=16:14, 1 April 2008
+|action1link=Wikipedia:Peer review/Pichilemu/archive1
+|action1result=reviewed
+|action1oldid=201895665
+
+|action2=GAN
+|action2date=14:12, 1 December 2009
+|action2link=Talk:Pichilemu/GA1
+|action2result=not listed
+|action2oldid=329033116
+
+|action3=PR
+|action3date=17:17, 7 January 2010 (UTC)
+|action3link=Wikipedia:Peer review/Pichilemu/archive2
+|action3result=reviewed
+|action3oldid=336324211
+
+|action4=GAN
+|action4date=23:30, 18 January 2010
+|action4link=Talk:Pichilemu/GA2
+|action4result=not listed
+|action4oldid=338459466
+
+|action5=PR
+|action5date=20:37, 5 July 2010 (UTC)
+|action5link=Wikipedia:Peer review/Pichilemu/archive3
+|action5result=reviewed
+|action5oldid=371782471
+
+|action6=GAN
+|action6date=3:03, 20 August 2010
+|action6link=Talk:Pichilemu/GA3
+|action6result=listed
+|action6oldid=379882293
+
+|action7=PR
+|action7date=19:48, 9 February 2011
+|action7link=Wikipedia:Peer review/Pichilemu/archive4
+|action7result=reviewed
+|action7oldid=412958458
+
+|action8=FAC
+|action8date=06:40, 24 May 2012
+|action8link=Wikipedia:Featured article candidates/Pichilemu/archive1
+|action8result=not promoted
+|action8oldid=493964964
+
+|action9=GAR
+|action9date=19 June 2014
+|action9link=Talk:Pichilemu/GA4
+|action9result=keep
+|action9oldid=609235861
+
+|topic=Geography
+|currentstatus=GA
+}}
+{{WikiProject banner shell|collapsed=yes|1=
+{{WikiProject Chile|class = GA
+| b1 &lt;!--Referencing &amp; citations--&gt; = yes
+| b2 &lt;!--Coverage and accuracy  --&gt; = yes
+| b3 &lt;!--Structure              --&gt; = yes
+| b4 &lt;!--Grammar and style      --&gt; = yes
+| b5 &lt;!--Supporting materials   --&gt; = yes
+|importance = Mid
+}}
+{{WikiProject Cities|class=GA|importance=High}}
+{{WP1.0|v0.9=pass|class=GA|category=Geography|v0.8=pass}}
+{{WikiProject Guild of Copy Editors|| user       = SMasters| date       = March 13, 2010}}
+}}
+{{Find sources notice}}
+{{GAR request}}
+{{Spoken Wikipedia request|[[User:Diego Grez|Diego Grez]] ([[User talk:Diego Grez|talk]])|recently promoted to [[WP:GA|good status]]; important article about a notable Chilean beach resort city}}
+
+==GA check==
+I am working my way through the Good articles listed at [[Wikipedia:Good_articles/Geography_and_places#Places|Places]]; having a quick look to see if they still meet the [[Wikipedia:Good article criteria|Good article criteria]]. I have reached this article. After I've had a quick look, I'll leave a note here.
+In general, initially I look to see if there are obvious issues: maintenance tags, unsourced sections, excessive media, etc, and if so, if this can be resolved quickly by myself. If it looks like there may be significant and/or several minor issues, I'll open a [[Wikipedia:Good article reassessment|GAR]] to see the extent of the problems. If it looks like there are sufficient concerns to put the GA listing in jeopardy, and that significant work is needed to resolve the concerns, I will notify the main contributors to the article, and put the GAR on hold. '''[[User:SilkTork|&lt;span style=&quot;color:purple; font-family: Segoe Script&quot;&gt;SilkTork&lt;/span&gt;]]''' '''[[User talk:SilkTork|&lt;font color=&quot;#347C2C&quot;&gt;&lt;sup&gt;✔Tea time&lt;/sup&gt;&lt;/font&gt;]]''' 10:45, 30 April 2014 (UTC)
+:I'll be keeping an eye here, and will do whatever that is necessary for Pichilemu to remain a GA. Thanks for your work SilkTork. [[User:Küñall|Küñall]] ([[User talk:Küñall|talk]]) 12:31, 30 April 2014 (UTC)
+:::Prose needs attention. There is an abundance of images, though this may be OK. The reason for selection of information is sometimes unclear; from the History section: &quot;Aureliano Oyarzún, professor of pathology at University of Chile, investigated pre-Ceramic middens from Pichilemu and Cahuil. His book Crónicas de Pichilemu–Cáhuil (Chronicles of Pichilemu–Cáhuil) was published posthumously, in 1957&quot; The National monuments section has a number of very short sub-sections. I think the layout issues are not serious, and can be fixed with a quick copy-edit, but the prose is a more serious issue, as that runs throughout the article, and it's also worth having a closer look at selection of information, so I'll open a GAR. '''[[User:SilkTork|&lt;span style=&quot;color:purple; font-family: Segoe Script&quot;&gt;SilkTork&lt;/span&gt;]]''' '''[[User talk:SilkTork|&lt;font color=&quot;#347C2C&quot;&gt;&lt;sup&gt;✔Tea time&lt;/sup&gt;&lt;/font&gt;]]''' 10:16, 2 May 2014 (UTC)
+
+{{Talk:Pichilemu/GA4}}</text>
+      <sha1>6xrbawzsprwyp0jyxmyq1wdsagi360b</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,84 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Crufts</title>
+    <ns>1</ns>
+    <id>650636</id>
+    <revision>
+      <id>535315266</id>
+      <parentid>535315165</parentid>
+      <timestamp>2013-01-28T09:11:19Z</timestamp>
+      <contributor>
+        <username>SineBot</username>
+        <id>4936590</id>
+      </contributor>
+      <minor/>
+      <comment>Signing comment by [[Special:Contributions/90.192.177.231|90.192.177.231]] - &quot;/* Pedigree Dogs Exposed Link */ new section&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2833">{{WikiProject Dogs|class=Start|importance=Mid|breeds=no}}
+{{copied|to=Charles Cruft|from=Crufts|diff=http://en.wikipedia.org/w/index.php?title=Charles_Cruft&amp;diff=next&amp;oldid=223969888}}
+==Clarify==
+Maybe the page needs clarification for non-specialists. Mostly in the area of the class names. --[[User:DomCleal|DomCleal]] 21:35, 12 May 2004 (UTC)
+
+:Maybe it needs deletion. It's nn dogcruft. --[[User:SPUI|SPUI]] ([[User talk:SPUI|talk]]) 03:08, 17 October 2005 (UTC)
+
+I feel someone needs to expand this article and explain a few points more clearly.  Reading it, I get the impression the original author had only a vague idea what they were on about.  I would do this myself, but I'm kind of busy with grade 12.  I know that sounds uppity and like I think I'm smarter then the person who wrote the article, but I don't - I just think it needs a bit of editing and explanation.
+
+:&quot;Original author&quot; consists of about 15 people so far who have added info from a variety of sources. Anyone who has the time &amp; resources to expand parts of the article is encouraged to do so, even if only a sentence here or paragraph there! :-)   [[User:Elf|Elf]] | [[User talk:Elf|Talk]] 22:14, 19 March 2006 (UTC)
+
+Fair enough.  I would say that most of what is here is accurate, just presented in an odd way.--[[User:The Wizard of Magicland|The Wizard of Magicland]] 23:43, 20 March 2006 (UTC)
+
+i have no idea what a &quot;dog competition&quot; includes. i was hoping this article would elucidate that. are they judged on breed, agility, good looking-ness? i have no idea. the criteria should definitely be in this article.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/77.102.81.103|77.102.81.103]] ([[User talk:77.102.81.103|talk]]) 13:49, 22 March 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+There is an article link down the bottom to &quot;An Idiot's Guide to Crufts&quot; - this explains it all pretty well! --[[User:Katheryn witha Y|Katheryn witha Y]] ([[User talk:Katheryn witha Y|talk]]) 18:08, 2 March 2012 (UTC)
+
+== Pedigree Dogs Exposed Link ==
+
+I came here to disagree with the link to PDE at the bottom refering to it as &quot;45-minute TV programme '''about Crufts''' 2009&quot;: it was about dog breeding in general, not Crufts in particular. But on following the link I would like to point out that it actually goes somewhere completely different and irrelevant. Can someone a) please change the wording and b) please fix the link?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/90.192.177.231|90.192.177.231]] ([[User talk:90.192.177.231|talk]]) 09:10, 28 January 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;</text>
+      <sha1>4ug9ehcf49czg10ls0w9gy0gqifp855</sha1>
+    </revision>
+  </page>
+</mediawiki>

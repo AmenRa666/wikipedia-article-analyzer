@@ -1,0 +1,120 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Battle of Bita Paka</title>
+    <ns>1</ns>
+    <id>14738774</id>
+    <revision>
+      <id>691539706</id>
+      <parentid>691434722</parentid>
+      <timestamp>2015-11-20T14:12:34Z</timestamp>
+      <contributor>
+        <username>AustralianRupert</username>
+        <id>8731061</id>
+      </contributor>
+      <comment>remove: not sure that this is right...New Britain is not a US territory as far as I'm aware. Happy to discuss if you disagree</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6006">{{Talk header}}
+{{ArticleHistory
+|action1=GAN
+|action1date=00:22, 2 November 2009
+|action1link=Talk:Battle of Bita Paka/GA1
+|action1result=not listed
+|action1oldid=323376679
+|action2=WAR
+|action2date=13:37, 25 December 2009
+|action2link=Wikipedia:WikiProject Military history/Assessment/Battle of Bita Paka
+|action2result=approved
+|action2oldid=333785195
+|action3=GAN
+|action3date=30 April 2011
+|action3link=Talk:Battle of Bita Paka/GA2
+|action3result=listed
+|action3oldid=426673278
+|currentstatus=GA
+|topic=war
+}}
+{{WikiProjectBannerShell|1=
+{{WPMILHIST|class=A|A-Class=pass|ANZSP=y|German=y|WWI=y}}
+{{WP Australia |class=A |importance=Low |military=yes |military-importance=mid}}
+{{WikiProject Papua New Guinea |class=A |importance=Low}}
+{{WikiProject Germany|class=A|importance=Low}}
+}}
+{{OnThisDay|date1=2011-09-11|oldid1=449877453|date2=2014-09-11|oldid2=624902006}}
+
+== additional info ==
+It would be good to have the name of the German commander, which (I suspect) is Hans Wuchert.  He went to Sydney NSW from Hongkong in 23 Mar 1907 on the Norddeutscher Lloyd Prinz Waldemar.  (New South Wales Government. Inward passenger lists. Series 13278, Reels 399-560, 2001-2122, 2751. State Records Authority of New South Wales. Kingswood, New South Wales, Australia.)  He is also mentioned in Hermann Hiery's &quot;The Neglected War''....which, if you were going to go further with this article (to A status, for example), I would suggest you include, for the sake of balance.  [[User:Auntieruth55|Auntieruth55]] ([[User talk:Auntieruth55|talk]]) 01:34, 2 November 2009 (UTC)
+
+:: Cheers. I have now included references to Hiery (mainly re the conduct of Australian troops during the battle and looting during the occupation) - although only sparingly and only where I can easily corroborate the info in another source. Although I admit to only having skim read parts of it to date I am a little dubious about it academically. I accept that it needs to be included for balance (and I don't doubt that much of its content is at least factually accurate), yet it barely seems balanced itself. [[User:Anotherclown|Anotherclown]] ([[User talk:Anotherclown|talk]]) 23:31, 12 December 2009 (UTC)
+
+==Preliminary GAR comments==
+This is an interesting article, and I'm glad to see that someone picked up this battle and has taken some time to explain it. There are some issues to overcome before this can be promoted.
+
+First, re prose...there are a lot of problems. In the first four paragraphs, I found incomplete sentences, verb tense strangeness (shifts, mostly), misspellings, and non-wikiness.
+
+stick to one tense. Past tense works well.
+check for spelling errors, then check again. since you spell Bita Paka as two words in your title, I think you should spell it that way in the text. You might write at some point, that it is also spelled Bitipaka (that should be in the lead).
+wikiness: German words (any non-english word in the English wiki) goes in italics. Generally, we would say Captain (Hauptman) Mayer. etc. Some people even put a link on the rank. Hauptman (Captain) Mayer. Or Captain Mayer.
+
+Focus: You've got plenty of the focus, but there is little in terms of the big picture. It would be helpful to have some background. Instead of jumping in &quot;Following the British request for ...&quot; (which should be after the British request), give us some background. Don't assume that everyone will know this is the outbreak of WWI. Tell us that. Then explain the situation, geographically, geopolitically, etc. ....What was the situation? Why did the British request help? How big (population) was this colony? (it was really small--Mead goes into that). Why was it strategically important? This is a problem throughout.
+
+clarity: be sure to say what you mean.
+
+For example: Both the Germans and Australians suffered a number of casualties, while the wireless station was subsequently captured by the Australians following a day of fighting. After a day of fighting, the Australians captured the wireless station. Both forces suffered casualties. (because there were casualties that were neither German nor Australian!) The above is an example: there are other instances as well that you'll see if you look for them. This article would benefit from a general map and a specific map of Biti Paka and its relationship to Kabukaul. (and Kabukaul's relationship to...) Most of your English speaking readers are not going to be familiar with this geography. I added the distance from Rabaul to Kokopo(Herbertshöhe), but it would be helpful to use the convert template to show other distances.  [[User:Auntieruth55|Auntieruth55]] ([[User talk:Auntieruth55|talk]]) 23:50, 7 November 2009 (UTC)
+
+==Sources on German relationships==
+*Christine Winter, &quot;A Good-Will Ship&quot;: The Light Cruiser Köln Visits Rabaul (1933).&quot;  ''Australian Journal of Politics &amp; History''.  Volume 54 Issue 1, Pages 44 - 54.
+ABSTRACT
+
+&quot;The concept of loyalty still holds a central space in many histories about New Guinean-Australian relations, especially during the Second World War, and translates into demands by Australians that New Guineans recognize Australia's political system as &quot;the best&quot;. In this article about the visit of the first German navy cruiser to New Guinea after the First World War, I tell a story not about loyalties, but about contesting colonial claims, namely Australia's insistence on &quot;loyalty&quot;, and Germany's demand for a &quot;return&quot; of her colony. The visit of Köln in 1933 raises questions such as: How did Germans and Australians negotiate living together in the Mandated Territory of New Guinea? How were divisions, grief, tensions, and hostilities after the First World War dealt with? What separated them, what united them, and what role did New Guineans play in this complex relationship?&quot;
+
+This man has some interesting pictures [http://www.montevideomaru.info/Montevideo/html/Early%20Rabaul.htm here].
+
+Cheers!  [[User:Auntieruth55|Auntieruth55]] ([[User talk:Auntieruth55|talk]]) 18:30, 3 January 2010 (UTC)</text>
+      <sha1>dpecsbf8xwy8kwiy82uj68s4g1b8ecc</sha1>
+    </revision>
+  </page>
+</mediawiki>

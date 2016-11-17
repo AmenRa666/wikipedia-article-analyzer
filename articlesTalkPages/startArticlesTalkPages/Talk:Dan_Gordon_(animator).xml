@@ -1,0 +1,103 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Dan Gordon (animator)</title>
+    <ns>1</ns>
+    <id>7541853</id>
+    <revision>
+      <id>622474970</id>
+      <parentid>622299953</parentid>
+      <timestamp>2014-08-23T14:45:52Z</timestamp>
+      <contributor>
+        <username>Mdann52 bot</username>
+        <id>19895351</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:Bots/requests for approval/Mdann52 bot 6|Task 6]]. Tidying up OTRS template + genfixes using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3451">{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=no
+|class=start
+|a&amp;e-work-group=yes
+|a&amp;e-priority=low
+|filmbio-work-group=yes
+|listas=Gordon, Dan
+}}
+{{WikiProject United States|class=Start|importance=low|listas=Gordon, Dan}}
+{{WikiProject Comics|class=start|importance=low|creators=yes|image=yes}}
+{{WikiProject Animation|class=Start|importance=low|American-animation=yes|American-animation-importance=low|people=yes}}
+{{WikiProject Television|class=start|importance=low}}
+}}
+{{ConfirmationOTRS|license=gfdl|source=http://cartoonsnap.blogspot.com/2009/01/dan-gordon-biography-life-and-work-of.html|id=2009021210066093}}
+
+==Untitled==
+Hi...I wrote this article for my blog, and I have added the words &quot;I, Sherm Cohen, am the author of this article, &quot;Dan Gordon -A Brush With Greatness,&quot; and I release its content under the terms of the GNU Free Documentation License, Version 1.3 and later.&quot; to my blog post at 
+
+http://cartoonsnap.blogspot.com/2009/01/dan-gordon-biography-life-and-work-of.html
+
+Please let me know if I need to do anything else to share this information on Wikipedia. Thanks.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Ramblindawg|Ramblindawg]] ([[User talk:Ramblindawg|talk]] • [[Special:Contributions/Ramblindawg|contribs]]) 22:41, 12 February 2009 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+:Received message at [[Ticket:2009021210066093]]. There's a GFDL release on the blog but it needs to be v1.2 or later. [[User:Stifle|Stifle]] ([[User talk:Stifle/wizard|talk]]) 21:54, 13 February 2009 (UTC)
+
+This is ramblindawg...I have gone back and added even more GFDL release information. It links to the 1.3 license. I have tried to include everything. Please let me know if I need to add anything else to share this information. Thanks. ramblindawg [[User:Ramblindawg|Ramblindawg]] ([[User talk:Ramblindawg|talk]]) 19:07, 17 February 2009 (UTC)
+
+'''Update and correction:''' I have added the words &quot;I, Sherm Cohen, am the author of this article, &quot;Dan Gordon -A Brush With Greatness,&quot; and I release its content under the terms of the GNU Free Documentation License, '''Version 1.2''' and later.&quot; to my blog post at 
+
+http://cartoonsnap.blogspot.com/2009/01/dan-gordon-biography-life-and-work-of.html  [[User:Ramblindawg|Ramblindawg]] ([[User talk:Ramblindawg|talk]]) 20:02, 17 February 2009 (UTC)
+:Received and noted. [[User:Stifle|Stifle]] ([[User talk:Stifle/wizard|talk]]) 21:40, 17 February 2009 (UTC)
+
+== removing POV tag with no active discussion per [[Template:POV]] ==
+
+I've removed an old neutrality tag from this page that appears to have no active discussion per the instructions at [[Template:POV]]:
+::This template is not meant to be a permanent resident on any article. Remove this template whenever:
+::#There is consensus on the talkpage or the NPOV Noticeboard that the issue has been resolved
+::#It is not clear what the neutrality issue is, and no satisfactory explanation has been given
+::#In the absence of any discussion, or if the discussion has become dormant.
+
+Since there's no evidence of ongoing discussion, I'm removing the tag for now. If discussion is continuing and I've failed to see it, however, please feel free to restore the template and continue to address the issues. Thanks to everybody working on this one! -- [[User:Khazar2|Khazar2]] ([[User talk:Khazar2|talk]]) 00:21, 30 June 2013 (UTC)</text>
+      <sha1>h7js78zqrawt7gxabmrjabh6t6bl5r6</sha1>
+    </revision>
+  </page>
+</mediawiki>

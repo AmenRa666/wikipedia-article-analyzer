@@ -1,0 +1,185 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Joker (comics)</title>
+    <ns>1</ns>
+    <id>1196798</id>
+    <revision>
+      <id>745736868</id>
+      <parentid>745595261</parentid>
+      <timestamp>2016-10-23T00:38:03Z</timestamp>
+      <contributor>
+        <username>Darkknight2149</username>
+        <id>20991119</id>
+      </contributor>
+      <comment>/* Proposed redirect */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16362">{{Skip to talk}}
+{{Talk header|noarchive=yes|search=no}}
+{{ArticleHistory
+|action1=GAN
+|action1date=01:15, 3 February 2008 (UTC)
+|action1link=Talk:Joker (comics)/Archive 2#Failed GA nomination
+|action1result=failed
+|action1oldid=188659163
+
+|action2=GAR
+|action2date=21:10, 22 March 2008
+|action2link=Wikipedia:Good article reassessment/Joker (comics)/1
+|action2result=not listed
+|action2oldid=199576852
+
+|action3=PR
+|action3date=19:27, 15 May 2008
+|action3link=Wikipedia:Peer review/Joker (comics)/archive1
+|action3result=reviewed
+|action3oldid=212423724
+
+|action4=GAN
+|action4date=21:50, 27 September 2012
+|action4link=Talk:Joker (comics)/GA1
+|action4result=failed
+|action4oldid=513624079
+
+|action5=GAN
+|action5date=16:05, 7 July 2014
+|action5link=Talk:Joker (comics)/GA2
+|action5result=failed
+|action5oldid=615776073
+
+|action6=GAN
+|action6date=04:50, 9 August 2014
+|action6link=Talk:Joker (comics)/GA3
+|action6result=failed
+|action6oldid=619470856
+
+
+|action7=GAN
+|action7date=03:34, 11 May 2015
+|action7link=Talk:Joker (comics)/GA4
+|action7result=listed
+|action7oldid=661216033
+
+|topic = language and literature
+|currentstatus=GA
+
+|action8=FAC
+|action8date=2015-08-15
+|action8link=Wikipedia:Featured article candidates/Joker (comics)/archive1
+|action8result=failed
+|action8oldid=676130760
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Comics|class=GA|importance=High|Batman=yes|DC-work-group=yes}}
+{{WikiProject Film|class=GA|Comic-book-task-force=yes}}
+{{WikiProject Television|class=GA|importance=low}}
+{{WikiProject Animation|class=GA|importance=low}}
+{{WikiProject Fictional characters|class=GA}}
+}}
+{{press|date=August 17, 2009|url=http://www.telegraph.co.uk/technology/wikipedia/6043534/The-50-most-viewed-Wikipedia-articles-in-2009-and-2008.html|title=The 50 most-viewed Wikipedia articles in 2009 and 2008|org=''[[The Daily Telegraph]]''}}
+ 
+{{Archives|auto=short|collapsible=yes|search=yes|bot=MiszaBot I|age=60}}
+{{User:MiszaBot/config
+|archiveheader = {{aan}}
+|maxarchivesize = 100K
+|counter = 5
+|algo = old(60d)
+|archive = Talk:Joker (comics)/Archive %(counter)d
+}}
+{{GOCE|user=Miniapolis|date=April 9, 2014}}
+
+== Other Versions: Earth 2 ==
+
+Under Other versions there should be a reference to the Earth 2 Joker
+who appeared as a villian against the Huntress and the Earth-2 Robin.  
+In this version, he had a tooth missing.
+
+== Scott Snyder's Batman #38, The Joker's immortality ==
+
+The Joker's immortality was established in Scott Snyder's Batman #38 and is part of the Batman: Endgame series. Is it worthy of note that comic panels in #38 credit the source of The Joker's immortality to a chemical called &quot;Dionesium&quot;? 
+
+Other panels show that Dionesium comes from the prehistoric meteor which gave Vandal Savage his immortality. It is also reveled that the meteor sparked pools of radiation, later called &quot;Lazarus Pits&quot;, which are used by Ra's Al Ghul for the purpose of regeneration. Is the correlation between these villains and their shared source of immortality worthy of mention?  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Amodernvillain|Amodernvillain]] ([[User talk:Amodernvillain|talk]] • [[Special:Contributions/Amodernvillain|contribs]]) 20:57, 12 November 2015 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:It's a major plot point and explains how Bruce Wayne (and possible the &quot;New 52&quot; Joker as well) was alive after he supposedly died there.  Also it is a major plot point in Batman vol 2 #40 where Batman uses an immune response blocker to test the Joker's supposed immortality.  If the Joker just found the pool then the block would prevent him from healing but if he as was claimed found the pool hundreds of years ago then the blocker would only slow his healing.--[[User:BruceGrubb|BruceGrubb]] ([[User talk:BruceGrubb|talk]]) 22:45, 23 June 2016 (UTC)
+
+== Post-Endgame ==
+
+I should mention that Bruce Wayne was said to have been exposed to the Dionesium pool the Joker had found (or had used centuries ago) and was restored to life with no memory of who he was.  While trying to figure out what to do with his life (with everything but being the Batman revealed to him by Alfred Pennyworth) he meets a stranger who smiles a lot (It is heavily implied that this is the Joker who has no real memory of who either of them was). While this is all going on Gotham in under siege by a criminal onslaught created a criminal known as Mister Bloom that only Batman can defeat. Realizing thanks to his talk with the smiling stranger that he is Batman he forces Alfred Pennyworth to use a machine Batman designed to turn a clone of him into the next Batman. After repeatedly going through a series of Elseworld like settings Bruce Wayne realizes the only way to truly restore Batman is to let Bruce Wayne die.
+
+Later Batman acquires the Mobius Chair and asks &quot;What's the Joker's real name?&quot; and the response causes him to say &quot;No that is not possible.  Eventually it is revealed that the answer was there are ''three'' Jokers who &quot;from the looks of the artwork, it appears that the three jokers include the original, Jerry Robinson Joker; the Brian Bolland Killing Joke Joker; and the Scott Snyder/Greg Capullo &quot;New 52&quot; Joker&quot;.  In ''DC Universe - Rebirth'' #1 Batman tells Alfred that the Joker was in Civic City killing people while the Joker has also been caught just outside Baltimore three hours ago and was in transit Arkham Asylum as there were talking.--[[User:BruceGrubb|BruceGrubb]] ([[User talk:BruceGrubb|talk]]) 13:38, 25 June 2016 (UTC)
+
+*ultimately that's too much detail. Do you want to have detailed plot descriptions for every appearance of the character? That may be the realm of a fan site, but not here. We don't know yet how much of this, if any, is going to be notable going forward. [[User:Killer Moff|Killer Moff]] ([[User talk:Killer Moff|talk]]) 08:42, 26 June 2016 (UTC)
+
+== &quot;arguably&quot; ==
+
+&quot;The character's maiming of Barbara arguably turned her into a more-important character in the DC Universe&quot; This is cited to a print source (Manning, Matthew K. (2011). The Joker: A Visual History of the Clown Prince of Crime), but I'm curious about the adverb &quot;arguably&quot;. It seems like a single source would argue one way or the other. Does this word actually come from the book? [[User:Argento Surfer|Argento Surfer]] ([[User talk:Argento Surfer|talk]]) 12:46, 8 September 2016 (UTC)
+:No. &quot;DC chose not to roll back Barbara Gordon's paralysis after ''The Killing Joke'', and in the process made her more important to the DC Universe than she had ever been as Batgirl. Training he r upper body to perfection but using a wheelchair for mobility, she moved into a Gotham clock tower and used her skills as a networked data-gatherer to feed information to other superheroes as the mysterious Oracle.&quot; [[User: Darkwarriorblake|Darkwarriorblake]] / [[User talk:Darkwarriorblake|SEXY ACTION TALK PAGE!]] 17:16, 8 September 2016 (UTC)
+::Thanks! I've rewritten that section to better match the source. [[User:Argento Surfer|Argento Surfer]] ([[User talk:Argento Surfer|talk]]) 17:35, 8 September 2016 (UTC)
+
+== Proposed redirect ==
+
+Any key detail on the character should be here on one page. This means [[The Joker (The Dark Knight)]] wouldn't have its own article. Its key details basically rehash parts of this page, and it's rather repetitive to have multiple pages on one character. [[User:SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;Snuggums&lt;/b&gt;]] ([[User talk:SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;talk&lt;/b&gt;]] / [[Special:Contributions/SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;edits&lt;/b&gt;]]) 03:28, 16 October 2016 (UTC)
+: I agree that there might be a bit too many pages on this character, but I don't think [[The Joker (The Dark Knight)]] is the page to remove. That particular version of the character has gained enough mainstream recognition and notability (not to mention reliable sources) to warrant an article. However, the page that I feel really needs to be deleted is [[Joker (character)]]. Apparently, when {{u|Darkwarriorblake}} first nominated [[Joker (comics)]] for '''Good Article''' status, it was denied because of a lack of a hub page for the Joker character. The problem with that is that [[Joker (comics)]] ''is'' the hub page for the character. The character is primarily a comics character, and the title &quot;Joker (comics)&quot; is to comply with Wikipedia's naming conventions. Not to mention that the article already has sections for &quot;Alternative versions&quot; and &quot;In other media&quot;. [[Joker (character)]] is 100% redundant and needs to be removed. '''[[User:Darkknight2149|Dark]]'''[[User talk:Darkknight2149|Knight]]'''[[Special:Contributions/Darkknight2149|2149]]''' 16:00, 17 October 2016 (UTC)
+::I'll try to nominate it for FAC again this weekend, then if the same user objects you can raise the issue with him. But while I explained those other articles, I was shouted down and my FAC was rejected. [[User: Darkwarriorblake|Darkwarriorblake]] / [[User talk:Darkwarriorblake|SEXY ACTION TALK PAGE!]] 16:56, 17 October 2016 (UTC)
+:::I don't deny that The Dark Knight's Joker got lots of publicity, but it still is the same basic character and we don't need to repeat character details on more than one page for a character. Having a separate &quot;Joker (character)&quot; article is no better when there is already this page. You can safely redirect it here with no reasonable worries. TDK edition can also be described here quite well in the &quot;Alternate versions&quot; and &quot;In other media&quot; sections. Having separate entries on each of his incarnations might be fine for a Batman/DC Comics fansite, but that's not what Wikipedia is or should be. [[User:SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;Snuggums&lt;/b&gt;]] ([[User talk:SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;talk&lt;/b&gt;]] / [[Special:Contributions/SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;edits&lt;/b&gt;]]) 17:09, 17 October 2016 (UTC)
+:::: {{re|Darkwarriorblake}} Understandable. The FAC is the reason I've been waiting to pursue a deletion.'''[[User:Darkknight2149|Dark]]'''[[User talk:Darkknight2149|Knight]]'''[[Special:Contributions/Darkknight2149|2149]]''' 18:59, 17 October 2016 (UTC)
+:::: {{re|SNUGGUMS}} There is too much information in the article to fit into that one section. The film character has also become a notable topic in its own right, which is why it has an article. We don't just give articles to every film version of comic characters. There's a reason why [[Batman (1989 film character)]] and [[Joker (Batman '66)]] don't have articles. '''[[User:Darkknight2149|Dark]]'''[[User talk:Darkknight2149|Knight]]'''[[Special:Contributions/Darkknight2149|2149]]''' 18:59, 17 October 2016 (UTC)
+::::: On the contrary, all you really need is a bit on casting, praise, accolades, and maybe production/plot details. That shouldn't have to take up more than two or three paragraphs. It essentially is borderline fancruft to have multiple pages for the same basic character. [[User:SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;Snuggums&lt;/b&gt;]] ([[User talk:SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;talk&lt;/b&gt;]] / [[Special:Contributions/SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;edits&lt;/b&gt;]]) 20:04, 17 October 2016 (UTC)
+::::::I have no opinion on the TDK Joker article existing or not, but it's content could not fit here as the film section is a summary rather than a detailed account. [[User: Darkwarriorblake|Darkwarriorblake]] / [[User talk:Darkwarriorblake|SEXY ACTION TALK PAGE!]] 21:25, 17 October 2016 (UTC)
+:::::::If mainly filled with plot, then such details are fine for TDK film's main page. [[User:SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;Snuggums&lt;/b&gt;]] ([[User talk:SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;talk&lt;/b&gt;]] / [[Special:Contributions/SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;edits&lt;/b&gt;]]) 21:35, 17 October 2016 (UTC)
+:::::::: The TDK article isn't mainly filled with plot. And the majority of the cited information in the article doesn't constitute fancruft. The TDK article doesn't really rehash much from this article and, as mentioned earlier, that version of the character has become a notable topic on its own. '''[[User:Darkknight2149|Dark]]'''[[User talk:Darkknight2149|Knight]]'''[[Special:Contributions/Darkknight2149|2149]]''' 18:20, 19 October 2016 (UTC)
+::::::::::I said having '''''multiple pages on the same basic character''''' is fancruft, not necessarily the amount of detail on the page. Don't forget how that and this are both the same basic character. If no aspect of Joker was notable at all, then any article on him would probably just redirect to a list of Batman characters. Wikipedia again isn't supposed to be a Batman/DC Comics fansite, which is the only type of place anyone could reasonably justify having multiple Joker articles. [[User:SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;Snuggums&lt;/b&gt;]] ([[User talk:SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;talk&lt;/b&gt;]] / [[Special:Contributions/SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;edits&lt;/b&gt;]]) 19:55, 19 October 2016 (UTC)
+
+I get that this isn't a Joker fansite, but which of the articles aren't warranted? We've established that [[Joker (character)]] will likely be deleted after the FAC (and rightly so). The only reason [[Joker in other media]] and [[Alternative versions of Joker]] exists is because not all of that information would fit in this article. [[Joker (graphic novel)]] has to do with a specific story, and not the character. [[Joker (comic book)]] is, again, not about the character. I've already explained my opinion on the TDK article. Are there any others? '''[[User:Darkknight2149|Dark]]'''[[User talk:Darkknight2149|Knight]]'''[[Special:Contributions/Darkknight2149|2149]]''' 21:50, 19 October 2016 (UTC)
+
+:&quot;Other media&quot; and &quot;Alternative versions&quot; really are lists (the former is a list of appearances while the latter is a list of incarnations) as opposed to character biographies like this (to some extent) is. Books are also a separate thing and fine to keep since they are specific stories. It's multiple '''''character articles''''' (lists aren't exactly the same as articles) that simply aren't warranted per the reasons I gave before. [[User:SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;Snuggums&lt;/b&gt;]] ([[User talk:SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;talk&lt;/b&gt;]] / [[Special:Contributions/SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;edits&lt;/b&gt;]]) 20:50, 20 October 2016 (UTC)
+:: But aside from the TDK article and [[Joker (character)]], which other character articles are there for the Joker? And while I agree on your position about this not being a ''Batman'' fansite, if the separate articles each have a reason to exist on their own (which [[Joker (character)]] doesn't), then I think we need a better reason to delete them than &quot;there's too many of them&quot;. As I mentioned earlier, the TDK article is well cited, noteworthy, and it doesn't rehash this article too much. [[User:Darkknight2149|Dark]]'''[[User talk:Darkknight2149|Knight]]'''[[Special:Contributions/Darkknight2149|2149]] 23:00, 20 October 2016 (UTC)
+:::There no other pages of such sort that I can think of. Citing again '''''IS NOT''''' the concern and doesn't change the fact that TDK Joker is still the same basic character as incarnations like Suicide Squad Joker or 1989 Joker. It basically is a disguised content fork. [[User:SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;Snuggums&lt;/b&gt;]] ([[User talk:SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;talk&lt;/b&gt;]] / [[Special:Contributions/SNUGGUMS|&lt;b style=&quot;color:#454545&quot;&gt;edits&lt;/b&gt;]]) 01:17, 21 October 2016 (UTC)
+:::: That reasoning pretty much comes down to your personal perception on how similar the versions are to one another, and isn't an objective reason to turn that page into a redirect. I, for instance, think that all three versions are very different from one another. And I've explained earlier the reasons that the TDK page exists, and the other versions you mentioned don't have enough notability, information, impact, ETC, to have an article (which is why the TDK character does and they don't). And, again, the article really doesn't rehash much from other articles except in the Plot section. And when it comes down to it, there just isn't a consensus to turn it into a redirect. I have yet to see anyone else support redirecting it here and there is too much encyclopedic content to simply merge it with this article. [[User:Darkknight2149|Dark]]'''[[User talk:Darkknight2149|Knight]]'''[[Special:Contributions/Darkknight2149|2149]] 00:37, 23 October 2016 (UTC)</text>
+      <sha1>gcrye43uitjsp2tyr64ky6lkbhzaar3</sha1>
+    </revision>
+  </page>
+</mediawiki>

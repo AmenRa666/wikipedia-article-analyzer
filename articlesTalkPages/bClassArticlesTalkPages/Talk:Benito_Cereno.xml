@@ -1,0 +1,88 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Benito Cereno</title>
+    <ns>1</ns>
+    <id>10928578</id>
+    <revision>
+      <id>711535871</id>
+      <parentid>711535754</parentid>
+      <timestamp>2016-03-23T14:03:21Z</timestamp>
+      <contributor>
+        <username>MackyBeth</username>
+        <id>18286345</id>
+      </contributor>
+      <comment>/* Delano is not the narrator */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3800">{{WikiProject Novels |class=B |importance=high |19thC-task-force=yes |19thC-importance=top |short-story-task-force=yes |short-story-importance=high}}
+
+== Inspiration?? ==
+
+I wonder if the ''Amistad'' incident was the source of Melville's plot to some degree.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/98.82.127.174|98.82.127.174]] ([[User talk:98.82.127.174|talk]]) 21:20, 9 September 2011 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:To my knowledge, no. After four and a half years you are probably not reading this answer, but it's good to clear it up anyway. Melville was in the South Sea when the US Supreme Court ruling over the Amistad case took place in 1841.[[User:MackyBeth|MackyBeth]] ([[User talk:MackyBeth|talk]]) 15:34, 9 March 2016 (UTC)
+
+== Delano is not the narrator ==
+Editing needed:
+The summary of the novel is not always accurate (e.g., it refers to Delano as narrator, a mistake contradicted elsewhere in the article) and is rather poorly written. The claim that the court proceedings draw on the case of the '''Amistad''' needs to be backed by references and accompanied by appropriate cross-references, if correct; or deleted, if incorrect.[[Special:Contributions/86.162.134.119|86.162.134.119]] ([[User talk:86.162.134.119|talk]]) 19:58, 16 May 2012 (UTC)
+
+:I just removed the suggestions that Delano is the narrator, but the plot summary needs other ways of improvement as well, I agree.[[User:MackyBeth|MackyBeth]] ([[User talk:MackyBeth|talk]]) 15:34, 9 March 2016 (UTC)
+
+::I made  a new plot summary last week, so that should be settled now.[[User:MackyBeth|MackyBeth]] ([[User talk:MackyBeth|talk]]) 14:03, 23 March 2016 (UTC)
+
+== Source: the real Amasa Delano ==
+Addendum:
+One, book not mentioned in this article is &quot;Delano's Voyages of Commerce and Discovery&quot; , Berkshire House Publishers.  This work was originally published as &quot;A Narrative of Voyages and Travels in The Northern Hemisphere&quot; in 1817 by Amasa Delano.  This book is a narrative of Amasa's life at sea and may be a reason why in the above he is referenced as a narrator. I obtained this book some years ago from The Franklin Delano Library.
+
+Specifically, I refer you to Chapter 18, page 245 where he writes of his experience in the incident with the Spanish Ship &quot;Tryal&quot;.  Perhaps reading his own account would shed more light.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Gsdelano3|Gsdelano3]] ([[User talk:Gsdelano3|talk]] • [[Special:Contributions/Gsdelano3|contribs]]) 19:11, 25 October 2013 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+:Good to hear someone has the entire book. Melville drew on chapter 18, which is reprinted as an appendix in the 1987 Northwestern-Newberry edition of ''The Piazza Tales and Other Prose Pieces'', and also in the Scudder essay listed in Works Cited. But I don't know if a scholar has ever compared the complete book to BC to see if Melville took bits and pieces from other chapters as well.[[User:MackyBeth|MackyBeth]] ([[User talk:MackyBeth|talk]]) 15:34, 9 March 2016 (UTC)
+
+== The picture at the top of the page: Delano for Melville? ==
+
+Today I added a picture of Amasa Delano to the Composition section, and I also switched Melville's 1885 picture for one that is not 30 years removed from when he wrote BC. Since this entry is about the story, not the writer, I wonder whether it would be a better idea to put Delano's image on top of the page. After all, he is a character in the story and Melville is not. So I'll contemplate this for a while.[[User:MackyBeth|MackyBeth]] ([[User talk:MackyBeth|talk]]) 20:29, 9 March 2016 (UTC)</text>
+      <sha1>2it250od43e2iolm4a5f1lcdkvngkba</sha1>
+    </revision>
+  </page>
+</mediawiki>

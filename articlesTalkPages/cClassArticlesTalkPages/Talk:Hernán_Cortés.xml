@@ -1,0 +1,179 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Hernán Cortés</title>
+    <ns>1</ns>
+    <id>215150</id>
+    <revision>
+      <id>743233100</id>
+      <parentid>743227221</parentid>
+      <timestamp>2016-10-08T17:30:37Z</timestamp>
+      <contributor>
+        <username>Tarl N.</username>
+        <id>6204540</id>
+      </contributor>
+      <comment>Undid revision 743227221 by [[Special:Contributions/67.170.227.181|67.170.227.181]] ([[User talk:67.170.227.181|talk]]) See [[WP:Talk]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12487">{{Skip to talk}}
+{{Talk header|search=yes}}
+{{User:MiszaBot/config
+|archiveheader = {{Talkarchivenav}}
+|maxarchivesize = 150K
+|counter = 1
+|minthreadsleft = 10
+|algo = old(60d)
+|archive = Talk:Hernán Cortés/Archive %(counter)d
+}}
+{{ArticleHistory
+|action1=GAN
+|action1date=21 June 2006
+|action1result=not listed
+|action1oldid=59738443
+|currentstatus=FGAN
+}}
+{{autoarchivingnotice|bot=MiszaBot I|age=30|small=no|dounreplied=yes}}
+&lt;!-- Metadata: see [[User:MiszaBot I]] --&gt;
+{{Vital article|level=4|topic=People|class=C}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Military history|class=Start
+|B-Class-1=no|B-Class-2=yes|B-Class-3=yes|B-Class-4=yes|B-Class-5=yes
+|Early-Modern-task-force=yes|Spanish=yes|Biography=yes}}
+{{WikiProject Mesoamerica|aztec=yes|class=C|importance=Top|attention=yes}}
+{{WikiProject Spain|class=C|importance=High}}
+{{WikiProject Biography|living=no|class=C|core=yes|military-work-group=yes |military-priority=top|listas=Cortes, Hernan}}
+{{WikiProject Mexico|class=C|importance=High}}}}
+{{WP1.0|v0.5=pass|class=C|category=History|WPCD=yes|importance=High}}
+{{OnThisDay|date1=2004-11-08|oldid1=9300476|date2=2005-11-08|oldid2=27727013}}
+
+== The section &quot;After the fall of Tenochtitlan&quot; needs work ==
+
+I am really not very comfortable with the following text but I'm not ready to remove it without a better understanding of the events described therein.  
+
+&lt;begin quoted text&gt;
+Bernal Diaz del Castillo tells us that other Spaniards supported him on his brutal decision to execute Cuauhtémoc. The execution eventually had to be carried out by Tlaxcallan soldiers.  Notarized testimony at his many subsequent trials (for murdering his legal wife, etc.) has abundant testimony from friends and enemies alike that this crime ruined Cortés. He never forgave himself and seems to have gone somewhat mad. 
+
+Cortés took off on a senseless, death-defying expedition through [[Guatemala]] to [[Honduras]] to punish a fellow Spaniard who had betrayed him, and with his departure all shadow of personal authority left Mexico. He became paranoid as well, having Cuauhtémoc hanged over the strong objections of his men.
+&lt;end quoted text&gt;
+
+
+My basic problem is that the above text is highly derogatory of Cortes and I just haven't seen any support for this assessment of his post-Tenochtitlan behavior.  A more neutral discussion of his exploration of Baja California seems to be in order.  I'll do try to do some research and then improve this section.
+
+== Link to online version of Cortez's first letter is wrong ==
+
+Hi there,
+
+I have noticed that the link provided to the online version of Cortez's first &quot;Carta de Relacion&quot; does not lead to the document (this is under &quot;Writings&quot;). Could someone change it? Please find below the correct link.
+
+http://digicoll.library.wisc.edu/cgi-bin/IbrAmerTxt/IbrAmerTxt-idx?type=header&amp;id=IbrAmerTxt.Spa0015&amp;pview=hide
+
+Thank you very much in advance.
+
+March 12, 2008 (4:11 EST)
+
+== [[Special:Contributions/173.89.14.170|173.89.14.170]] ([[User talk:173.89.14.170|talk]]) 15:34, 8 March 2009 (UTC) ==
+
+Okay first of all I want to announce that all the comments made by bcr were made by me! bcr wasn't a real account. That was just a name I came up with to sign under. This was something I signed under with a different IP address before. However, I was wondering if I could remove all the comments I made on this page. I don't think it's fair to leave my comments if nobody cares about them. &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:173.89.14.170|173.89.14.170]] ([[User talk:173.89.14.170|talk]] • [[Special:Contributions/173.89.14.170|contribs]]) 11:34, March 8, 2009&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+
+== Scuttled Ships ==
+
+I thought Matthew Restall's book mentioned that Cortes/Cortez never scuttled his ships and that the story was part of the myth surrounding Cortes/Cortez.  Please see page 19 of ''Seven Myths of the Spanish Conquest''  byron&lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/24.131.173.214|24.131.173.214]] ([[User talk:24.131.173.214|talk]]) 23:34, 25 November 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Irrelevant or inaccurate passage ==
+
+&lt;!-- Begin Request --&gt;
+The text reading &quot;Estrada sent Diego de Figueroa to the south; but de Figueroa raided graveyards and extorted contributions, meeting his end when the ship carrying these treasures sank&quot; should have either a [citation needed] or be removed entirely. The bearing of the information on the article is not clear, and the story does not appear under Diego de Figueroa's article.
+&lt;!-- End request --&gt;
+
+==Natural children?==
+Is 'natural children' (as in the first sentence of section '''Children''') some kind of standard phrase in English, meaning something like 'he made them himself', not another guy? Just curious... (since unnatural children would be weird). [[User:Rursus|Rursus]] dixit. ([[User talk:Rursus|&lt;span style=&quot;color: red; background: #FFFF80&quot;&gt;&lt;sup&gt;m&lt;/sup&gt;&lt;u&gt;bork&lt;sup&gt;3&lt;/sup&gt;&lt;/u&gt;&lt;/span&gt;]]!) 17:35, 13 August 2013 (UTC)
+
+: &quot;Natural Children&quot; is a polite way of saying &quot;illegitimate&quot; or &quot;bastards&quot;. This mattered in the 16th century. [[User:Tarlneustaedter|Tarl.Neustaedter]] ([[User talk:Tarlneustaedter|talk]]) 18:28, 13 August 2013 (UTC)
+
+== Early Life ==
+
+This section contains incorrect information regarding Cortés's studies. The second paragraph states: &quot;At the age of 14, Cortés was sent to study at the University of Salamanca in west-central Spain. This was Spain's great center of learning, and while accounts vary as to the nature of Cortés's studies, his later writings and actions suggest he studied Law and probably Latin.&quot; It is a myth that Cortés studied at the University of Salamanca. There is no record of his name in the comprehensive register of students of this university, and he himself made no such claim, despite his penchant for self-promotion; others who knew him well also said nothing of the sort. His biographer, Francisco López de Gómara, states in the first chapter of his ''History of the Conquest of Mexico'' (1552): &quot;When he was fourteen years of age, his parents sent him to study in Salamanca, where he studied for two years, learning grammar in the house of Francisco Núñez de Valera, who was married to Inés de Paz, the sister of Cortés's father.&quot; These are clearly pre-university studies, and the phrase &quot;in Salamanca&quot; refers to the city, not the university. When Cortés returned home, Gómara continues, &quot;his parents regretted it greatly, as they wished that he study Law, a rich faculty honored among all others.&quot; A good analysis of the myth of Cortés's university education and its sources is: David A. Boruchoff, “Hernán Cortés,” ''International Encyclopedia of the Social Sciences'', 2nd edition (Detroit: Macmillan Reference USA, 2008), 2: 146a-49a. Available online at http://www.encyclopedia.com/topic/Hernan_Cortes.aspx. I would correct the article, but it is protected. Maybe someone with authority can correct it instead. [[User:Onlythefactsmaam|Onlythefactsmaam]] ([[User talk:Onlythefactsmaam|talk]]) 15:24, 21 November 2013 (UTC)
+:You have more than sufficient authority to make that change (which is correct and impportant) yourself. Authority is a funciton of the quality of sources you have at your disposal, and Boruchoff is a fine and very reliable source.[[User talk:Maunus|User:Maunus ·ʍaunus·snunɐw·]] 18:22, 21 November 2013 (UTC)
+:: Made the change requested. [[User:Onlythefactmaam]] would not have been able to, not enough edits to qualify as autoconfirmed yet. [[User:Tarlneustaedter|Tarl.Neustaedter]] ([[User talk:Tarlneustaedter|talk]]) 19:20, 21 November 2013 (UTC)
+Why doesn't the article include the interesting information discussed here on the talk page? There are also a number of unreferenced notes in the article. My teachers always insist that our footnotes include the complete name of the authors cited and the titles and page numbers of the works, etc. A lot of the notes in the article are missing these things.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/67.87.31.178|67.87.31.178]] ([[User talk:67.87.31.178|talk]]) 16:48, 18 December 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Narrative confusion ==
+
+In the section, [[Hernán Cortés#Last years and legacy|Last years and legacy]], Cortés is described as &quot;heavily in debt&quot;. The narrative continues that &quot;he made a claim on the royal treasury, but was given a royal runaround&quot;. But in the following paragraph, we are informed that &quot;he died a wealthy ... man&quot; who &quot;left his many mestizo and white children well cared for in his will&quot;. The story is self contradictory. [[:File:Usher statue - closeup.jpg|&lt;font color=&quot;#2424BD&quot; size=&quot;3&quot; face=&quot;Courier New&quot;&gt;'''—&amp;nbsp;O'Dea'''&lt;/font&gt;]] ([[User talk:O'Dea|talk]]) 09:45, 20 December 2013 (UTC)
+
+: It was a confusing time. He died wealthy in property (Marquis of the valley of Oaxaca), but deeply in debt because of cash flow problems. This was a not uncommon situation. [[User:Tarlneustaedter|Tarl.Neustaedter]] ([[User talk:Tarlneustaedter|talk]]) 15:54, 20 December 2013 (UTC)
+
+::Thank you. If this is the case, a reliable verification needs to be found so the article can be clarified. It also needs to be explained how he could be &quot;heavily in debt&quot; and yet leave his family &quot;well cared for in his will&quot;. How could he not leave himself well cared for while he was alive? Could he not liquidate his assets? The explanation raises questions. [[:File:Usher statue - closeup.jpg|&lt;font color=&quot;#2424BD&quot; size=&quot;3&quot; face=&quot;Courier New&quot;&gt;'''—&amp;nbsp;O'Dea'''&lt;/font&gt;]] ([[User talk:O'Dea|talk]]) 19:34, 21 December 2013 (UTC)
+:::Generally feudal nobility could not liquidate their assets since titles could not be traded, and property was dependent on titles. But I agree that we should look at some reliable biographies to resolve his actual financial status at the end of his life.[[User talk:Maunus|User:Maunus ·ʍaunus·snunɐw·]] 00:16, 22 December 2013 (UTC)
+
+== Mexico City ==
+
+Of course the Spanish did not name Tenochtitlán &quot;Mexico City&quot; but Ciudad de México.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/189.234.222.153|189.234.222.153]] ([[User talk:189.234.222.153|talk]]) 19:14, 29 August 2014 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[Hernán Cortés]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=677911727 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20080808111913/http://students.ou.edu/P/Kathryn.R.Pruitt-1/spanishtreasure.html to http://students.ou.edu/P/Kathryn.R.Pruitt-1/spanishtreasure.html
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers. —[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 08:28, 26 August 2015 (UTC)
+
+
+== Chontal? ==
+
+The book referenced in the citation about Jerónimo de Aguilar refers to Aguilar as a &quot;Maya Language&quot; Speaker, but the Mayan languages are several related ones (among those Chontal, Yucatec, Cholan, Chortí) not a single one. It doesn't especifically say thet he was a &quot;Chontal&quot; speaker, as the article claims. 
+
+the book can be consulted here: &lt;ref&gt;https://books.google.com.mx/books?id=KiNrOAh9BbkC&amp;pg=PA765&amp;lpg=PA765&amp;dq=The+Epic+of+Latin+America+chontal&amp;source=bl&amp;ots=hKPGrA6itD&amp;sig=e8eDGkh5vEb-HWHlZ2dJEWPeRrc&amp;hl=es&amp;sa=X&amp;ved=0CCgQ6AEwAWoVChMItOqE1q33yAIVCuwmCh1r9ARZ#v=onepage&amp;q=aguilar&amp;f=false&lt;/ref&gt;
+
+[[User:Soparamens|Soparamens]] ([[User talk:Soparamens|talk]]) 18:20, 4 November 2015 (UTC)</text>
+      <sha1>osqzwactv6yp4y4v2rcwe5s7sksmwyx</sha1>
+    </revision>
+  </page>
+</mediawiki>

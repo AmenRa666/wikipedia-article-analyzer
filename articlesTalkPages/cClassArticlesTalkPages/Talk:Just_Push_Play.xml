@@ -1,0 +1,153 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Just Push Play</title>
+    <ns>1</ns>
+    <id>673412</id>
+    <revision>
+      <id>748808808</id>
+      <parentid>690662263</parentid>
+      <timestamp>2016-11-10T14:32:58Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Notification of altered sources needing review #IABot (v1.2.7)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9262">{{WikiProject Aerosmith|class=C|importance=high}}
+{{WikiProject Albums|class=C|importance=mid|b1=?&lt;!--References--&gt;|b2=?&lt;!--accuracy--&gt;|b3=?&lt;!--structure--&gt;|b4=?&lt;!--grammar--&gt;|b5=?&lt;!--materials--&gt;|b6=?&lt;!--accessibility--&gt;}}
+
+I'm missing [[Tom Hamilton (musician)]] on Personnel?! Is it correct, he didn't work on that album??
+
+== Song credits for Jaded ==
+
+This page says Hamilton/Tyler, but the [[Jaded (Aerosmith song)|Jaded]] page says Frederiksen/Tyler. Which one is correct? --[[User:LodeRunner|LodeRunner]] 22:25, 27 October 2006 (UTC)
+
+i beivle it was Tyler and Frederiksen, since he helped on most of the abum, and the CD manul says the same.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/66.30.52.10|66.30.52.10]] ([[User talk:66.30.52.10|talk]]) 00:51, 15 June 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Limited edition / Best Buy edition ==
+I found a used copy of what appears to be the limited/Best Buy edition, as it has the bonus track, &quot;Face&quot;. Face is listed on the back liner, but not in the liner notes. I can't find any mention of a video, but I've listened to the disc, and it DOES have Face on it. Also, my computer only sees a standard audio disc, with no indication of a video. Can anyone confirm that there is a version with the bonus track and a video, and that you actually either have it, or have seen it? If not, the mention of a video on this page may need to be removed. -- [[User:K1darkknight|K1darkknight]] ([[User talk:K1darkknight|talk]]) 18:47, 16 February 2009 (UTC)
+
+== Orphaned references in [[:Just Push Play]] ==
+
+I check pages listed in [[:Category:Pages with incorrect ref formatting]] to try to fix reference errors. One of the things I do is look for content for [[User:AnomieBOT/docs/OrphanReferenceFixer|orphaned references]] in wikilinked articles. I have found content for some of [[:Just Push Play]]'s orphans, the problem is that I found more than one version. I can't determine which (if any) is correct for ''this'' article, so I am asking for a sentient editor to look it over and copy the correct ref content into this article.
+
+&lt;b&gt;Reference named &quot;NLD&quot;:&lt;/b&gt;&lt;ul&gt;
+&lt;li&gt;From [[Aerosmith albums discography]]: {{cite web | url=http://dutchcharts.nl/showinterpret.asp?interpret=Aerosmith | title=Discographie Aerosmith | publisher=Hung Medien | work=''dutchcharts.nl'' | accessdate=September 30, 2012 | language=Dutch}}&lt;/li&gt;
+&lt;li&gt;From [[Aerosmith singles discography]]: [http://dutchcharts.nl/search.asp?search=Aerosmith&amp;cat=s Dutch peaks]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;b&gt;Reference named &quot;AUS&quot;:&lt;/b&gt;&lt;ul&gt;
+&lt;li&gt;From [[Hard rock]]: {{cite book|title=Australian Chart Book 1970 - 1992|author=David Kent|isbn=0-646-11917-6|year=1993|publisher=Australian Chart Book, St Ives, N.S.W.}}&lt;/li&gt;
+&lt;li&gt;From [[Aerosmith albums discography]]: {{cite web
+| url=http://www.australian-charts.com/
+| title=Australian Chart
+| publisher=australian-charts.com
+| accessdate=2008-06-24 | archiveurl= http://web.archive.org/web/20080622185559/http://australian-charts.com/| archivedate= 22 June 2008 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/li&gt;
+&lt;li&gt;From [[Aerosmith singles discography]]: [http://australian-charts.com/search.asp?search=Aerosmith&amp;cat=s Australian peaks]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;b&gt;Reference named &quot;allmusic&quot;:&lt;/b&gt;&lt;ul&gt;
+&lt;li&gt;From [[Honkin' on Bobo]]: http://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=10:dnfyxqqaldte&lt;/li&gt;
+&lt;li&gt;From [[Mick Jagger]]: {{cite web|last=Erlewine |first=Stephen Thomas |url={{Allmusic|class=artist|id=p4584|pure_url=yes}} |title=Mick Jagger Biography |publisher=Allmusic |accessdate=5 December 2010}}&lt;/li&gt;
+&lt;li&gt;From [[Classic Aerosmith: The Universal Masters Collection]]: {{cite web|url={{Allmusic|class=album|id=r563386|pure_url=yes}}|title=allmusic (((Classic Aerosmith: The Universal Masters Collection &gt; Overview)))|last=Erlewine|first=Stephen Thomas|publisher=[[Allmusic]]|accessdate=23 June 2010}}&lt;/li&gt;
+&lt;li&gt;From [[Joe Perry (musician)]]: {{cite web | url = {{Allmusic|class=artist|id=p3508|pure_url=yes}} | title = Aerosmith Biography | work = Stephen Thomas Erlewine | publisher = Allmusic}}&lt;/li&gt;
+&lt;li&gt;From [[Aerosmith singles discography]]: {{cite web|url={{Allmusic|class=artist |id=p604952/charts-awards/billboard-singles |pure_url=yes}} |title=Aerosmith - Awards |publisher=AllMusic |date= |accessdate=2012-06-26}}&lt;/li&gt;
+&lt;li&gt;From [[Aerosmith]]: {{cite web | url = {{Allmusic|class=artist|id=p3508|pure_url=yes}} | title = Aerosmith Biography |author = Stephen Thomas Erlewine | publisher = Allmusic}}&lt;/li&gt;
+&lt;li&gt;From [[Diane Warren]]: {{cite web|url=http://www.allmusic.com/artist/diane-warren-mn0000584360/biography|title=Diane Warren - Biography|work=[[AllMusic]]|accessdate=July 15, 2014}}&lt;/li&gt;
+&lt;li&gt;From [[Lord of the Thighs]]: {{cite web|title=Lord of the Thighs|url={{Allmusic|class=song|id=t841871|pure_url=yes}}|publisher=[[allmusic]]|accessdate=2009-06-18}}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;b&gt;Reference named &quot;British Hit Singles &amp; Albums&quot;:&lt;/b&gt;&lt;ul&gt;
+&lt;li&gt;From [[Aerosmith singles discography]]: {{cite book| first= David| last=Roberts| year= 2006| title= British Hit Singles &amp; Albums| edition= 19th| publisher= Guinness World Records Limited | location= London| isbn= 1-904994-10-5| page= 157}}&lt;/li&gt;
+&lt;li&gt;From [[Mick Jagger]]: {{cite book
+| first= David
+| last= Roberts
+| year= 2006
+| title= British Hit Singles &amp; Albums
+| edition= 19th
+| publisher=Guinness World Records Limited
+| location= London
+| isbn= 1-904994-10-5
+| page= 277}}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;b&gt;Reference named &quot;GER&quot;:&lt;/b&gt;&lt;ul&gt;
+&lt;li&gt;From [[Aerosmith singles discography]]: [http://www.officialcharts.de/suche.asp?search=Aerosmith&amp;x=0&amp;y=0&amp;country=de&amp;kategorie=single German peaks]&lt;/li&gt;
+&lt;li&gt;From [[Aerosmith albums discography]]: {{cite web
+| url=http://www.charts-surfer.de/musiksearch.php
+| title=German Chart
+| publisher=Charts-Surfer
+| accessdate=2008-06-24 }} {{Dead link|date=October 2010|bot=H3llBot}}&lt;/li&gt;
+&lt;/ul&gt;
+
+I apologize if any of the above are effectively identical; I am just a simple computer program, so I can't determine whether minor differences are significant or not. [[User:AnomieBOT|AnomieBOT]][[User talk:AnomieBOT|&lt;font color=&quot;#888800&quot;&gt;⚡&lt;/font&gt;]] 20:51, 14 November 2015 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:10|one external link|10 external links}} on [[Just Push Play]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=748808806 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20121024145946/http://australian-charts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a to http://australian-charts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a
+*Added archive https://web.archive.org/web/20110901005652/http://www.austriancharts.at/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a to http://austriancharts.at/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a
+*Added archive https://web.archive.org/web/20121025024120/http://danishcharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a to http://danishcharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a
+*Added archive https://web.archive.org/web/20121020161151/http://finnishcharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a to http://finnishcharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a
+*Added archive https://web.archive.org/web/20121014065351/http://italiancharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a to http://italiancharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a
+*Added archive https://web.archive.org/web/20121020210417/http://www.dutchcharts.nl/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a to http://www.dutchcharts.nl/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a
+*Added archive https://web.archive.org/web/20121103200033/http://norwegiancharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a to http://norwegiancharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a
+*Added archive https://web.archive.org/web/20110613110352/http://swisscharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a to http://swisscharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a
+*Added archive https://web.archive.org/web/20130115055129/http://www.bpi.co.uk/certifiedawards/search.aspx to http://www.bpi.co.uk/certifiedawards/search.aspx
+*Added archive https://web.archive.org/web/20110928074707/http://www.abpd.org.br/certificados_interna.asp to http://www.abpd.org.br/certificados_interna.asp
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:InternetArchiveBot|'''&lt;span style=&quot;color:darkgrey;font-family:monospace&quot;&gt;InternetArchiveBot&lt;/span&gt;''']] &lt;span style=&quot;color:green;font-family:Rockwell&quot;&gt;([[User talk:InternetArchiveBot|Report bug]])&lt;/span&gt; 14:32, 10 November 2016 (UTC)</text>
+      <sha1>881qd3l8gplbp4xzcplmb2c9tbqdy04</sha1>
+    </revision>
+  </page>
+</mediawiki>

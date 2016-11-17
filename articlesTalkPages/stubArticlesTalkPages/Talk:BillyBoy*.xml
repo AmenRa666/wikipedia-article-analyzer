@@ -1,0 +1,328 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:BillyBoy*</title>
+    <ns>1</ns>
+    <id>48079643</id>
+    <revision>
+      <id>734442577</id>
+      <parentid>725854947</parentid>
+      <timestamp>2016-08-14T10:52:05Z</timestamp>
+      <contributor>
+        <username>Rich Farmbrough</username>
+        <id>82835</id>
+      </contributor>
+      <minor/>
+      <comment>Add &quot;[[WP:List as|listas]]&quot; parameter using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25464">{{WikiProject banner shell|1=
+{{WikiProject Biography|living=yes|class=Stub|listas = Billyboy*}}
+{{WikiProject Fashion|living=yes|class=Stub}}
+| blp=yes
+}}
+{{User:MiszaBot/config
+| algo                = old(7d)
+| archive             = Talk:BillyBoy*/Archive %(counter)d
+| counter             = 1
+| maxarchivesize      = 150K
+| archiveheader       = {{Automatic archive navigator}}
+| minthreadstoarchive = 0
+| minthreadsleft      = 8
+}}
+
+{{archive navigation}}
+
+== Residence ==
+{{U|Suzy Wong}} has suggested that the residence is now/has been Switzerland.  I've been hunting for a [[WP:RS]].  Inferring from the location of this interview in 2011 it is possibly [[Delémont]], Switzerland:
+{{refbegin}}
+* {{cite web|url=http://www.rts.ch/play/tv/couleurs-locales/video/ju-rencontre-a-delemont-avec-billyboy-et-lala-un-couple-dartistes-pour-le-moins-hors-norme?id=3664799|title=JU: rencontre à Delémont avec BillyBoy et Lala, un couple d'artistes pour le moins hors norme|language=fr|date=&lt;!--18:55 --&gt;20 December 2011|work=[[Radio Télévision Suisse]]|accessdate=20 October 2015}}
+* {{cite news|url=http://www.estrepublicain.fr/actualite/2012/05/27/haute-couture-et-poupees|title=Haute couture et poupées|date=27 May 2012|accessdate=20 October 2015|first=Gwenola|last=Guidé|work=L'Est Républicain|quote=A l’été 2011, le couple s’est installé à Délémont}}
+* {{cite news|url=http://www.estrepublicain.fr/actualite/2012/05/27/d-amour-et-d-art|title=D’amour et d’art|work=L'Est Républicain|date=27 May 2012|accessdate=20 October 2015|quote=1997 : le couple s’installe en Suisse. Eté 2011 : le couple s’installe à Délémont, capitale du Jura Suisse}}
+{{refend}}
+Has anyone found anything else, or could help with a transcript of the above?
+—[[User:Sladen|Sladen]] ([[User talk:Sladen|talk]]) 09:25, 20 October 2015 (UTC)
+:The ''{{lang|fr|L'Est Républicain}}'' quote gives a good confirmation of moving to Delémont in summer 2011.  —[[User:Sladen|Sladen]] ([[User talk:Sladen|talk]]) 18:13, 20 October 2015 (UTC)
+::Second ''{{lang|fr|L'Est Républicain}}'' cite, from timeline for both moving to Switzerland, and moving to Delémont.  —[[User:Sladen|Sladen]] ([[User talk:Sladen|talk]]) 18:23, 20 October 2015 (UTC)
+
+{{refbegin}}
+* {{cite web|url=http://kingsqueer-art-collection.tumblr.com/artists|title=Nom de l'artiste : Jean-Luc Verna|work=King's Queer Art Collection|accessdate=30 October 2015|quote=En 1993 Lala et BillyBoy* s'installent à [[Trouville-sur-Mer|Trouville]] où ils poursuivent leurs activités. … Depuis 1997, Jean Pierre Lestrade/Lala et BillyBoy* sont installés en Suisse}}
+{{refend}}
+—[[User:Sladen|Sladen]] ([[User talk:Sladen|talk]]) 07:24, 30 October 2015 (UTC)
+
+== Letter from BillyBoy* ==
+
+Thanks to everyone who has been contributing to this article.
+
+I am a member of the [[Wikipedia:Volunteer Response Team]]. I received an email from BillyBoy*. He provided biographical details in hope that they could correct misinformation about this article. He expressed that he does not wish to be further involved in the development of this article, but would be grateful if people maintaining content here could correct what is published. He also expressed a wish that this article be deleted, but also understands that Wikipedia has its own policies and respects that.
+
+He reviewed the text at [[:Commons:Commons:Email templates]] and agreed to release the text of his email in accord with Wikipedia copyright licensing policy, and because he did that, I can share some of his text here in this talk page. Thanks to anyone who can consider this and guide good development of this article. Before I share the text, here are some other sources he recommended that editors use:
+
+*[http://www.fondationtanagra.com/en/article/about-the-founders-en/page/bonjour-switzerland-en About the Founders] at Fondation Tanagra
+*''Speaking of Facts'', his upcoming memoir to be released May 24th 2016 by [http://www.rizzoliusa.com/ Rizzoli International]. I think this might be [[RCS MediaGroup]].
+*[http://sumiko-watanabe.seesaa.net/ His gallerist's blog about his work] - this is in Japanese, but contains many details for a biography
+
+----------
+{{block indent |1=
+I have been living in Switzerland since the early 1990s, prior to that in the I was living briefly in Normandy (between Trouville/Deauville Normandy and Paris and London) and I grew up in New York City (Manhattan), Paris and London. I have been traveling with my private Montessori tutor since a child and we moved all over the world but home for me was mostly Paris and London though I always had my Park Avenue apartment. I moved permanently back to Europe in early 1978 (just a month or so prior to my birthday of 18 years) and lived between my house in London and my house in Paris.
+
+At birth, I spent the first few years in Austria in orphanage and then roughly 6-8 months prior to being age four throughout the Upper New York State in foster care and orphanage, the main caretaker, was a beautiful Egyptian lady who I was assigned to in orphanage and was responsible for my placements in varied foster care....my real parents conceived me age 14 (mother) and 15 (father). They commit suicide at ages 18 and 19 years old in Vienna, and my adoptive parents, Russian immigrants, were granted a finalised adoption when I was four. The process started in Vienna and ended in New York.
+
+My Montessori tutor was from the Dante family and was living on Staten Island. I occasionally was allowed to stay with him as a child. He later took me on trips throughout the world which my adoptive parents paid for and encouraged. They felt it was an essential part of my Montessori education. I left home at age 15 (and I lived in my own apartment on Park Avenue where Surreal Couture was born officially and with my tutor in Paris and London) and was under his tutelage and care until just before my 18th birthday when I moved permanently back to Europe, living between London and Paris. I never lived in the USA again and I stopped going to the USA altogether in 1990 after a show at FAO Schwarz and Barney's NY.
+
+I think a lot of this is in the plethora of press you can find on-line and on Fondation Tanagra...though early press mixed up many of these elements and they spread when they were referred to to create other articles. The best info is the most recent decade where I set the facts straight since I boycotted press for about ten years (a lot of the 90s) prior to the year 2000 though I was very active with work and private life. I was between Paris, Normandy and London those years. Though many articles occurred during that time, it was without my participation or authorisation. This is why facts are sometimes mixed up with articles written by not very pro journalists. Big magazines and press did get the facts correct. I had a great deal of press because of my work with my creation Mdvanii and my collecting, performing, writing and the other endeavours I do professionally. My partner usually relayed all pertinent info to journalists concerning work, I refused most interviews until 2000.
+
+Honestly, I do not know why all the focus on where I grew up since I am known for my work,.....not my origins.
+
+I gave up Austrian and American citizenships and am now only a Swiss citizen (I live, with my husband and son, in the Canton du Jura of Switzerland (where Delémont is, and where I lived for five years prior to the move to a new home) and I am married to my partner of 34 years, (we married in Delémont), Jean Pierre Lestrade a.k.a Lala and I have a son, Alec Jiri who was born Swiss.
+
+I would greatly appreciate if you can relay these facts to whomever is qualified to implant the corrections, as I do not wish to get involved with the wiki article...but feel it's only normal the basics are correct.....all the rest is easily available and can be found on-line.
+
+(also)
+
+My birth place (I was Austrian and was born in Vienna and adopted by Russians and
+brought to the USA - I am now a Swiss citizen, living in Switzerland since the
+early 1990s), My caretaker in foster homes was a &quot;beautiful Egyptian lady&quot; - not
+my mother, my mother was Austrian. The place my tutor came from was Staten Island
+though in your article is listed as where I was in orphanage. I came from Austria
+before age four where I was in an number of foster homes and orphanages in Austria
+and then New York. My adoption was finalised age four......my height (which is
+1.85 meter), and when I started my career (it depends which career, I was a model
+as a child though I started my true profession in 1974, not 1965) It seems most of
+the facts about me are all wrong as it stands now.
+ }}
+
+{{OTRS talk|issue=subject of article wished to share information|otrs=2015102010027351}}
+-------------
+[[User:Bluerasberry|&lt;span style=&quot;background:#cedff2;color:#11e&quot;&gt;''' Blue Rasberry '''&lt;/span&gt;]][[User talk:Bluerasberry|&lt;span style=&quot;background:#cedff2;color:#11e&quot;&gt;(talk)&lt;/span&gt;]] 15:04, 22 October 2015 (UTC)
+
+More from BillyBoy, also with OTRS permission in that same thread -
+-----------------------
+{{block indent |1=
+It seems like it is spinning out of control for things which are very clearly recorded for
+decades. Such as where I was born etc. Do these people actually look up the info on the
+net? On Fondation Tanagra there are HD articles which are the ones we felt best represent
+the amount of press I have received over the many years of my career. I can only reiterate
+they should open the articles and read them, especially the most recent. It's unfortunate
+that the main editor does not speak French. The newspapers they site are very conservative
+and very popular newspapers which tell the perfect facts.
+
+Could you please clarify that my name born name and legal name is only BillyBoy*. The rest
+of the prenames, Wilhelm (or actually Vylyam) and the other names: Zef Sh’muel Roberto
+Atlantide  etc were wishes my real parents had for me but were not respected  when I
+finally was named, so it is only BillyBoy*  ... the others were intended but not respected
+by my adopted parents and not used when writing my adoption certificate which bore my name
+as of the adoption. It is much too long a story to explain here and it is sort of
+abbreviated and awkwardly explained in a few interviews. The final line is my name is
+BillyBoy*
+
+The name is from Berwickshire:
+
+try this site
+
+http://answerscdn.com/Q/Where_does_the_surname_Boy_originate
+
+which says:
+
+the proud and noble English surname of Boy is first found in the very early records of
+Berwickshire, where they had held a family seat from ancient times.
+
+I am a contemporary artist first, as I started my work as an artist using the medium of
+fashion and jewellery designer, I am a performer, writer, I was for many years a fashion
+model, and a historian and collector and have always been called a socialite due to the
+fact I have known many famous people intimately with whom I was close to throughout my
+life.
+
+I hope you can get this information to these people. I do not wish to join wiki and get
+involved but it pains me to see such absurd reflections about myself when the info is
+clearly on the websites.
+
+(also)
+
+It's still rather incorrect the way it stands. How do people finally arrive to get these
+things correct? Are they reading the hundreds of press articles on the web, some of which
+are on the Fondation Tanagra website. One just has to read it. I was muse to Andy Warhol
+and knew all the people associated with him and I was very much friends with the art and
+fashion crowds in Paris and London since age 15. It seems they have no idea who I am.
+
+Can you pass on these elements as they seem to still not understand
+
+I am mostly know as a contemporary artist, historian, collector, expert (I have a degree
+from the Union in Paris for experts and have worked with every major auction house in
+Europe) and designer. Why am I being called a jewellery and fashion designer? It's only a
+fraction of what I do.
+
+FActs:
+
+1) I travel all over the world socialising with people all the time, I attend nearly all
+of the Paris and London social events, exhibitions and shows including fashion and find
+myself in the press all the time......and Delémont is ten minutes outside of Basel, where
+Art Basel is, which is one of the most mondaine events in the art world, if not THE most
+famous art event worldwide.
+
+2) I was brought to the USA when I was four years old, my Russian immigrant adoptive
+parents had already settled in the USA and took American citizenship prior to mine being
+given to me upon finalisation of adoption age four.
+
+3) The word &quot;factoid&quot; invented by my late friend Norman Mailer in referring to some
+regarding Marilyn Monroe, and the word means the opposite of what one of the editors is
+using to describe things. Factoid means that a non-factual piece of information has been
+so widely spread that it is assumed to be fact when in fact, it is NOT true. It means that
+something has been misunderstood or distorted so long nobody questions it. Just like my
+own story having an Egyptian mother ...when in fact she was my caretaker in between foster
+homes.
+
+Any help passing this on would be greatly appreciated.
+
+Yes, I give you permission to reiterate these three points...I appears that a few of the people doing it seem rather knowledgable in regard to my career and work, hopefully these people will sort things out. It would be nice if they got the main thing I do correct which is Contemporary artist, historian, curator and expert (certified by the Union  in France) and collector. I am a writer and a performer. The fashion and jewellery were only one of the things I have done in my career and ALL of these careers I have are fully documented. Again, I suggest they read the press and if they don't speak the language try to find someone who does....
+}}
+
+-----------------------
+[[User:Bluerasberry|&lt;span style=&quot;background:#cedff2;color:#11e&quot;&gt;''' Blue Rasberry '''&lt;/span&gt;]][[User talk:Bluerasberry|&lt;span style=&quot;background:#cedff2;color:#11e&quot;&gt;(talk)&lt;/span&gt;]] 16:27, 2 November 2015 (UTC)
+
+:::I'm wondering if there is some confusion over the ''article'' vs. the ''discussion''/Talk: page. The article itself is really only a minimal stub.  Regardless:
+:::#Eventually turned up a Dutch citation for ''{{xt|{{lang|nl|&quot;…Parijse socialite Billyboy*…&quot;}}}}''.[https://en.wikipedia.org/w/index.php?title=BillyBoy*&amp;diff=prev&amp;oldid=688850468]  URLs of articles/potential known-accurate cites always welcomed; this would likely speed things up considerably.
+:::#Changed {{!xt|&quot;who&quot;}} to {{xt|&quot;and&quot;}} for moving to NYC.[https://en.wikipedia.org/w/index.php?title=BillyBoy*&amp;diff=prev&amp;oldid=688850495]  This sentence is still uncited outright, non-self-published and ''known-accurate'' cites welcomed.
+:::#I've &lt;strike&gt;struck&lt;/strike&gt; the letters {{!xt|&quot;oid&quot;}} from the middle of {{xt|&quot;facts&quot;}} in the discussion (Talk:) page.[//en.wikipedia.org/w/index.php?title=Talk:BillyBoy*&amp;diff=prev&amp;oldid=688725573].  Such usage (with either modern meaning) only appeared on the discussion page in order to {{xt|&quot;try to find someone who does&quot;}}, for re-checking the spoken audio on a video.
+:::I've added auto-archiving[https://en.wikipedia.org/w/index.php?title=Talk%3ABillyBoy*&amp;type=revision&amp;diff=688715646&amp;oldid=688715143] as this discussion page was getting quite long.  The archive scans/cuttings on the ''Fondation Tanagra'' website are generally lacking full metadata (date + publication + author + editor + pagenumber + publisher + ISBN/ISSN) to allow tracking the originals down.  Would need a [[WP:RS]] to cite for the degree in Paris.   {{U|Bluerasberry}} if you have further communication, a CC-BY-SA picture(s) would be really useful; and of course article links/scans of cites with sufficient metadata to be able to cite. —[[User:Sladen|Sladen]] ([[User talk:Sladen|talk]]) 13:22, 3 November 2015 (UTC)
+::::{{u|Sladen}} There are often differences in how people imagine Wikipedia works depending on whether they edit or only read Wikipedia. I cannot say what the submitter thinks in this case.
+::::Like you, I want more sources with more metadata for Wikipedia. As a Wikipedian this is a pressing issue for me, but in email I am unable to make counterrequests for content. I need to respect this person's wishes to cut engagement - he said more than once that he does not wish to be involved.
+::::It is not your responsibility or obligation to volunteer more time here but I am grateful that you have. If anyone with interest in this biography wishes to contribute more then it seems that they could find a way to post suggestions for improvement either now or at any time in the future. [[User:Bluerasberry|&lt;span style=&quot;background:#cedff2;color:#11e&quot;&gt;''' Blue Rasberry '''&lt;/span&gt;]][[User talk:Bluerasberry|&lt;span style=&quot;background:#cedff2;color:#11e&quot;&gt;(talk)&lt;/span&gt;]] 15:13, 3 November 2015 (UTC)
+
+More from BillyBoy, 5 November 2015, also with OTRS permission in that same thread -
+-----------------------
+{{block indent |1=
+
+I appreciate what you have done to help their wiki entry on myself...it was really
+disturbing to see my life so poorly explained but now it seems on the right track.
+
+They still have not understood that my Russian immigrant parents were already established
+in the USA when I was brought to the USA. I explained this in my last message but
+hopefully, someone will right this. I'd hate my former adopted family to get angry at such
+an incorrect thing because they were very proud when they came to the USA and succeeded. I
+was brought to them...and finally fully legally adopted by age four.
+
+Also, I do costume jewellery, not custom jewelry.
+
+The other thing concerning my new book of memoirs. It was entirely written by myself and
+Jean Druesedow did a prologue text along with my husband .... I'd appreciate it if they'd
+distinguish this fact. It's clearly said on Amazon:
+
+http://www.amazon.com/Frocking-Life-Searching-Elsa-Schiaparelli/dp/08478438[..]
+
+If I see any other glaring errors I may write back to you, but it seems they are on a much
+better route than at first which was hard to reads such mistakes.
+
+All my many thanks to you, I truly appreciate your good Samaritan-ism! I always loved Wiki
+and find it very helpful when I think about someone or something and can get an accurate
+description....as a historian I am a stickler for details.
+--------------------
+
+(also)
+
+From November 12
+
+----------------------
+Can you inform the powers that be that I am the author of the following;
+
+Cyber Sexual Mdvanii: Temples of Fusion. Editions Fondation Tanagra. 2005. ISBN 9782970051145.
+BillyBoy* (2005). Liquid Screen in 19 Short Stories. Volume 1 of Cyber sexual Mdvanii. Editions Fondation Tanagra. pp. 1‒83. ISBN 9782970051107.
+
+and co - author with my husband on this book:
+
+http://www.blurb.com/b/4552992-the-lala-house
+
+I really appreciate your intervention on my behalf. It still seems very complicated...but at least they are starting to whittle down the facts to the truth...
+--------------------------
+}}
+[[User:Bluerasberry|&lt;span style=&quot;background:#cedff2;color:#11e&quot;&gt;''' Blue Rasberry '''&lt;/span&gt;]][[User talk:Bluerasberry|&lt;span style=&quot;background:#cedff2;color:#11e&quot;&gt;(talk)&lt;/span&gt;]] 16:56, 25 November 2015 (UTC)
+
+== Autobiography ==
+
+Boy has mentioned a 2016-autobiography ''Speaking of Facts'' expected in the future.  An early version appears to have existed (in some form) c.1990 and again c.2010, entitled ''My American Family, In One Era, Out The Other''.
+{{refbegin}}
+* {{cite news|url=http://www.nytimes.com/1990/03/14/garden/a-doll-for-the-90-s-beautiful-but-no-bimbo.html|title=A Doll for the 90's: Beautiful but No Bimbo|first=Anne|last=Bogart|newspaper=New York Times|date=14 March 1990|quote=after a rift with Mattel, Barbie's manufacturer, where he was a consultant and designer, BillyBoy quit, citing disillusionment with the corporate toy world. He soon formed the BillyBoy* Toys company with his partner, Jean-Pierre Lestrade.  … A 1987 special BillyBoy-signed Barbie doll edition, ''Feelin' Groovy Barbie Glamour a Go-Go Gift Set,'' now sells for about five times its original market price of $29.99,  … Though an Andy Warhol portrait of Barbie, a gift from the artist, looms large in BillyBoy's living room, … He has three books waiting to be published: a biography of Schiaparelli; a scholarly history of contemporary culture as reflected through dolls, ''A Child's Game''; and an autobiography, ''My American Family: In One Era, Out the Other,'' about his experiences in pop culture.}}
+* {{cite news|url=http://articles.chicagotribune.com/1989-09-27/entertainment/8901170552_1_double-breasted-suits-marshall-field-taupe|title=If You Can`t Make The Scene In Boss Or Abboud, Try A Coolie Suit|date=27 September 1989|first=Genevieve|last=Buck|work=Chicago Tribune|quote=write him, not us: BillyBoy Toys; c/o Surreal Productions; 6, rue de la Paix; 75002 Paris. … his autobiography will be out next fall (''My American Family, in One Era, Out the Other,'' Crown Publishers); he has another book underway (''A Child`s Game,'' the history of design through dolls) as well as &quot;a steamy sex novel&quot; (no title).}}
+* {{cite web|url=http://www.fluxumfoundation.com/en/what-we-do/was-billyboy*-barbie-s-be-atch-266|title=Was BillyBoy* Barbie's be-atch?|work=Flux Foundation|date=30 September 2009|quote=BillyBoy* gave an exclusive reading of a chapter from his autobiography, My American Family, In One Era, Out The Other (to be published), that examines the concept of identity and identification}}
+* {{cite web|url=http://mdvaniiism.blogspot.co.uk/2011/11/font-face-font-family-cambria-font-face.html|title=Introduction: Excerpt Number Two from &quot;My American Family - In One Era, Out the Other&quot; by BillyBoy*|date=24 November 2011|quote=I was manufactured and came out on the market in the year 1960 on March the 10th.|first=Billy|last=Boy}}
+* {{cite web|url=http://fierth.com/2010/09/billyboy-woodstock/|title=Clothes, Male Nakedness, Long Hair, Emma, Sweat ,….oh and Music, a Few Memories of Woodstock, 1969|format=Excerpted from ''My American Family; In One Era, Out The Other'', autobiography by BillyBoy*|date=September 2010|work=Fierth}}
+* {{cite web|url=http://fierth.com/2010/04/alexander-mcqueen-memoir/|title=Lee McQueen excerpt from ''My American Family; In One Era, Out The Other'', an autobiography by BillyBoy*|date=April 2010|work=Fierth}}
+* {{cite web|url=http://thepandorian.com/2010/08/billyboy-interview/|title=billyboy* interview|first=Predrag|last=Pajdic|date=31 August 2010|quote=I wrote my autobiography which is represented by Jeffrey Simmons in London … My autobiography My American Family, In One Era, Out The Other was bought and paid for in 1988 by Crown Publishers on the huge best-seller success of my Barbie book, Barbie Her Life and Times, The BillyBoy* Collection which came out a year before. They paid a fortune for it and by some miracle I am glad it happened this way. Jeffrey took it back and I got to keep the payment; it had something to do with the contractual deadline for publication. Anyway, the book back then was just about my successes and my positive outlook on life. Now, 20 years plus later I added all the sadness, the negative things and all those years of experience.}}
+{{refend}}
+—[[User:Sladen|Sladen]] ([[User talk:Sladen|talk]]) 22:44, 28 October 2015 (UTC)
+
+== ''Cyber Sexual Mdvanii: Temples of Fusion'' ==
+
+BillyBoy* is ''possibly'' one of the author(s) of:
+{{refbegin}}
+* {{cite book|url=https://books.google.co.uk/books?id=XXVIQwAACAAJ|title=Cyber Sexual Mdvanii: Temples of Fusion|publisher=Editions Fondation Tanagra|year=2005|isbn=9782970051145}}
+* {{cite book|url=https://books.google.co.uk/books?id=YKczQwAACAAJ|title=Liquid Screen in 19 Short Stories|volume=Volume 1 of Cyber sexual Mdvanii|author=BillyBoy*|publisher=Editions Fondation Tanagra|year=2005|isbn=9782970051107|pages=1‒83}}
+{{refend}}
+But there is insufficient metadata available to know.  —[[User:Sladen|Sladen]] ([[User talk:Sladen|talk]]) 19:51, 3 November 2015 (UTC)
+
+
+== Vogue UK 1988 ==
+
+This page refers to an article in ''Vogue UK'':
+{{refbegin}}
+* {{cite magazine|title=Mr William Boy|first1=Liz|last1=Jobey|first2=Michel|last2=Haddi|editor1-first=Elizabeth|editor1-last=Tilberis|work=Vogue UK|date=December 1988}}
+{{refend}}
+—[[User:Sladen|Sladen]] ([[User talk:Sladen|talk]]) 18:37, 19 November 2015 (UTC)
+
+== Something malfunctioned in the archiving ==
+
+Setting up archiving on Wikipedia can still be complicated.
+
+I [https://en.wikipedia.org/w/index.php?title=User_talk:%CE%A3&amp;oldid=692428052#Problem_with_archive_bot noted a problem] with the operator of the archiving bot. The bot removed content from this page without putting it into an archive. I replaced it here.
+
+I am not sure what went wrong or why. [[User:Bluerasberry|&lt;span style=&quot;background:#cedff2;color:#11e&quot;&gt;''' Blue Rasberry '''&lt;/span&gt;]][[User talk:Bluerasberry|&lt;span style=&quot;background:#cedff2;color:#11e&quot;&gt;(talk)&lt;/span&gt;]] 17:03, 25 November 2015 (UTC)
+
+== Paris 1979 vs. 1983 ==
+
+In [[Special:Diff/725854497]] I have reverted two changes made by an IP, because the changes also altered a {{tlx|citation}} {{para|quote}} which is exceedingly mis-leading.  The edits do appear well-intended (rather than vandalism), so it is possible that this area of the biography is also ambiguous in the historical record.  —[[User:Sladen|Sladen]] ([[User talk:Sladen|talk]]) 08:56, 18 June 2016 (UTC)</text>
+      <sha1>k99w2pp7wu7huprvtfujx5xthx1oxli</sha1>
+    </revision>
+  </page>
+</mediawiki>

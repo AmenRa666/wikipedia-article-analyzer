@@ -1,0 +1,115 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Bani Zeid</title>
+    <ns>1</ns>
+    <id>16476448</id>
+    <revision>
+      <id>712319804</id>
+      <parentid>710459725</parentid>
+      <timestamp>2016-03-28T12:00:57Z</timestamp>
+      <contributor>
+        <username>Cyberbot II</username>
+        <id>16283967</id>
+      </contributor>
+      <comment>Notification of altered sources needing review #IABot</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5093">{{Talk header|search=y}}
+{{Article history|action1       = GAN
+|action1date   = 19:49, 5 August 2013 (UTC)
+|action1link   = Talk:Bani Zeid/GA1 
+|action1result  = listed
+|action1oldid   = 567298587
+
+|topic          = Geography
+|currentstatus  = GA
+}}
+{{WikiProject banner shell|collapsed=yes|1=
+{{WikiProject Palestine|class=GA|importance=mid}}
+{{WikiProject Middle Ages|class=GA|importance=mid|Crusades-task-force=yes}}
+{{WikiProject Cities|class=GA|importance=low}}
+}}
+{{Find sources notice}}
+
+==GA check==
+I am working my way through the Good articles listed at [[Wikipedia:Good_articles/Geography_and_places#Places|Places]]; having a quick look to see if they still meet the [[Wikipedia:Good article criteria|Good article criteria]]. I have landed on this article. After I've had a quick look, I'll leave a note here indicating if I have concerns or not.
+
+In general, I see the process as this: 1) Give the article a quick look to see if there are obvious issues: maintenance tags, unsourced sections, excessive media, etc, resolving any minor issues as I do so; 2) If I have concerns, open a [[Wikipedia:Good article reassessment|GAR]] to see how serious those concerns are, resolving them myself if they are not serious; 3) If during the GAR I feel that there is significant work to be done (more than I can or am willing to do myself), I will put the GAR on hold and notify the main contributors.
+
+My aim and intention is to keep the article listed - I would rather the article was improved and kept listed than the article is delisted. Where a delisting seems likely due to amount of work needed, and main contributors are unavailable or unable for whatever reason to do the work, then appropriate WikiProjects will be notified at least seven days before a delisting would take place. '''[[User:SilkTork|&lt;span style=&quot;color:purple; font-family: Segoe Script&quot;&gt;SilkTork&lt;/span&gt;]]''' '''[[User talk:SilkTork|&lt;font color=&quot;#347C2C&quot;&gt;&lt;sup&gt;✔Tea time&lt;/sup&gt;&lt;/font&gt;]]''' 09:59, 1 May 2014 (UTC)
+:{{aye}} Needed a little bit of copy-editing and sourcing for the people claimed to have been born in the town; but that was all. No other issues noted, other than a minor query regarding the external links. Do they comply with [[WP:External links]]? Are they needed? I've tagged the external links to be checked - the tag can be removed when the links are checked. '''[[User:SilkTork|&lt;span style=&quot;color:purple; font-family: Segoe Script&quot;&gt;SilkTork&lt;/span&gt;]]''' '''[[User talk:SilkTork|&lt;font color=&quot;#347C2C&quot;&gt;&lt;sup&gt;✔Tea time&lt;/sup&gt;&lt;/font&gt;]]''' 13:30, 1 May 2014 (UTC)
+
+== Pal.rem site ==
+
+With [http://en.wikipedia.org/w/index.php?title=Bani_Zeid&amp;diff=607451767&amp;oldid=607049950 this] edit, links to the two Pal.rem sites were removed with the edit-line &quot;not appropriate per [[WP:EL]]&quot;.
+
+I disagree. While I would not consider the Pal.rem site as [[WP:RS]] (except for the Hadawi-copies), it  has several other useful purposes. For one thing, they often link/find old photos which can be used. The Pal.rem site also serves as a &quot;check&quot; on whether the 1922 and 1931 census data are correct. 
+
+Furthermore, the Pal.rem site has started to attract academic interest, it is discussed at length in Rochelle Davis: &quot;Palestinian village histories&quot; (Stanford University press, 2011), pp. XI, 65, 85, 103, 133, 161, 174, 239, 241, 249,  251,  253-54, 256, 267, 268, 275.
+
+As such, I believe it  qualifies under &quot;Sites that fail to meet criteria for reliable sources yet still contain information about the subject of the article from knowledgeable sources&quot;, Cheers, [[User:Huldra|Huldra]] ([[User talk:Huldra|talk]]) 17:37, 8 May 2014 (UTC)
+
+
+Also, ARIJ is funded by  the Spanish agency for International Cooperation for Development (AECID). Cheers,  [[User:Huldra|Huldra]] ([[User talk:Huldra|talk]]) 14:16, 29 May 2014 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:3|one external link|3 external links}} on [[Bani Zeid]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=712319801 my edit]. You may add {{tlx|cbignore}} after the link to keep me from modifying it, if I keep adding bad data, but formatting bugs should be reported instead. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether, but should be used as a last resort. I made the following changes:
+*Attempted to fix sourcing for http://west-bzm.org/about1.htm
+*Attempted to fix sourcing for http://west-bzm.org/munmembers.htm
+*Attempted to fix sourcing for http://www.palestine-studies.org/jq/fulltext/78012
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 12:00, 28 March 2016 (UTC)</text>
+      <sha1>47k3re6i38khxww8wa1spocv2s1pooi</sha1>
+    </revision>
+  </page>
+</mediawiki>

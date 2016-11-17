@@ -1,0 +1,115 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Ibero-Caucasian languages</title>
+    <ns>1</ns>
+    <id>253736</id>
+    <revision>
+      <id>443813162</id>
+      <parentid>381063994</parentid>
+      <timestamp>2011-08-09T05:00:52Z</timestamp>
+      <contributor>
+        <username>Greyhood</username>
+        <id>7227106</id>
+      </contributor>
+      <comment>assess</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10126">{{WikiProjectBannerShell|1=
+{{WikiProject Languages|class=Start|importance=Low}}
+{{WikiProject Caucasia|class=Start|importance=Low}}
+{{WikiProject Georgia (country)| class=Start|importance=Low}}
+{{WikiProject Turkey|class=Start|importance=Low|no-todolist=yes}}
+{{WikiProject Azerbaijan|class=Start|importance=Low}}
+{{WikiProject Iran|class=Start|importance=Low}}
+{{WikiProject Russia|class=Start|importance=Low|lang=yes|ethno=yes}}
+{{WikiProject Abkhazia|class=Start|importance=Low}}
+}}
+
+==Old talk==
+(( See also [[Talk:languages of the Caucasus]] ))
+I have rewritten this page to make it clear that the proposed grouping of North and South Caucasian families is still only a conjecture with no linguitic evidence (i.e. there is no evidence that these four families form a genetic clade). Also noted that the name &quot;Iberian&quot; (historically identified with Georgia) has problematic political connotations.&lt;br&gt;[[User:Jorge Stolfi|Jorge Stolfi]] 07:29, 27 Apr 2004 (UTC)
+
+Infact Colchis was Georgia, Iberia was to its east. I am not sure whether there is any historical evidence that Iberia was actually Georgian in Language. It is perfectably acceptable to talk about Transcaucasian Iberia as a geographical area just as we would talk about the Iberian penninsular. Basques, Portugese or Spanish are not upset by the application because it is from antiquity and no-one knows exactly who the Western Iberians were. Likewise the Eastern Iberians. I would object however to any attempt to sieze the term for one ethnic group (georgians) whithout the historical evidence to back this up. When this is the case the use of the term becomes tainted, even chauvinistic.[[User:Zestauferov|Zestauferov]] 05:35, 28 Apr 2004 (UTC)
+
+Hmm, it is getting even more confusing...&lt;br&gt;There may be one significant difference between the two Iberias, though. AFAIK, the name &quot;Iberian Peninsula&quot; has been used since classical times for the whole region, from the Pyrenees down, so it is accepted by all parties involved.  However the Caucasian &quot;Iberia&quot;, from what you say, never got to encompass all the &quot;North Caucasian&quot;-speaking regions -- or did it? If it did, wasn't Ossetia also included in it? Is there a record of when the Ossetians came to the North Caucasus?&lt;br&gt;[[User:Jorge Stolfi|Jorge Stolfi]] 06:57, 28 Apr 2004 (UTC)
+
+Good question. As far as my current understanding is, the territory which is now Ossetia may well have been classified as part of (transcaucasian) Iberia (again I don't have access to my UK library right now) but certainly Kalmykia would have been far beyond (and did not exist until after the oirat migrations). Do any on the Iberian penninsular inhabitants claim to be the original Iberians and that the others came later? I think this would be upsetting to the others if one group does. The ossetians are Alans, but maybe Alans were originally native to the Caucasus. Indeed, how do we know that the I.E.Alan tribes were not the original Iberians and that the other tribes gradually siezed the (transcaucasian) Iberian territory? As for the Avar/Lezgi/Dagerstanis, if Tolstov is right they may well have come to the west from Khwaresmia in the 5thC, so can we really call them Iberians? Needless to say they would certanly resent the suggestion that they came from the east now even if it were true, since there are plenty of factions ready to take over Dagestan &amp; attempt to push them out if it were true. It is impreialistic for outsiders to claim to have the soberness to sort out the history of a region whose inhabitants the same outsiders claim are incapable of being objective. Of course we should avoid original research but need to see a clear presentation of the original sources without any interpretation. 
+
+:Transcaucasian Iberia existed according to ancient writers A, B, &amp; C etc.. The term seems to have been used to cover an area roughly from parameters A to parameters B. Attested material culture includes A, B, C etc.. The term Iberian has been used in various designations (e.g. Protoiberian, Ibero-Caucasian, Hetto-Iberian) to refer to a hypothetical linguistic group linking the Basques, Etruscans, Pelasgs, Hattians, Circassians, Hurro-Uratuans, Vaynakh, Dagestanis &amp; Georgians together for reasons A, B, C. Source 1 2 3 etc.
+
+Something like that is sufficient. Any specific identifications of tribe names like Meshkhetians or Tabbals etc. should be accompanied by sources and appear under the appropriate sub-category. In this case are the Taibiri &amp; Meshkhetians thought to  be Georgians? then don't place them here put themunder Gerogians and mention the source for their classification there.[[User:Zestauferov|Zestauferov]] 16:30, 28 Apr 2004 (UTC)
+
+There seems to be an edit war going on here. I understand that there are two competing claims:
+
+* there is an established language family
+* this language family is only theorized
+
+and that additionally there is a debate about whether 'Iberian' is a word that should be used.
+
+I think the former debate seems to be creating the major edit war. What to do to resolve this? [[User:Martijn faassen|Martijn faassen]] 19:35, 3 May 2004 (UTC)
+
+:I wish I knew... All sources I have seen say that there is no visible connection between the north and south families. The &quot;other side&quot; claims that there are such connections, but has yet to explain what they are. (Many of the languages in the Caucasus are &quot;ergative&quot;, but since that is a binary attribute, which is easily lost or gained, linguists do not consider it proof of a genetic relationship.)&lt;br&gt;[[User:Jorge Stolfi|Jorge Stolfi]] 20:28, 3 May 2004 (UTC)
+
+::That indeed seems to be good reason not to state that there is such a language grouping as fact. What does the other side have to say? Any references that can be brought up to show that this group is more firmly established after all?
+
+::Note that the Levzur version of the article seems to contain some more information about the theory. It's currently an odd mix between saying that the relation between the phyla has not been established and POV statements about how outstanding a scientist Arnold Chikobava is. Unfortunately Levzur's initial revert after Jorge Stolfi's initial rewrite seems to have undone my minor NPOVing of the initial section in this parallel version... 
+
+::I really think we should be ''doing'' something about these articles that are evolving in parallel. This flip flopping of one article one day, the other the other day is really not helpful for anyone. I think the next step now is for Levzur to say something about this here. [[User:Martijn faassen|Martijn faassen]] 21:14, 3 May 2004 (UTC)
+::: I believe that most of the valid linguistic information that was present in Levzur's version is preserved in other pages, e.g. [[languages of the Caucasus]] and the pages about each family.  The ethnic information could fit in an article about [[peoples of the Caucasus]], but the version that existed until recently was deleted for being deemed too POV and Georgian-centric (see [[User:Zestauferov/Iberian Problem]]). The population numbers provided by Levzur are ambiguous -- it is never clear whether they count speakers of X, &quot;ethnic X&quot; (whatever that means), biological descendants of people who once were X, etc. -- and usually disagree with the numbers given in other apparently impartial sources.  So that page would have to be rewritten by a competent ''and impartial'' anthropologist, if such thing exists.  (Sadly, the current political situation in the Caucasus is not favorable to impartial ethnic analysis by the parties involved, or perhaps by anyone else...)&lt;br&gt;[[User:Jorge Stolfi|Jorge Stolfi]] 04:59, 4 May 2004 (UTC)
+
+==Anonymous reversions==
+213.157.209.197 is Levzur, in case anyone's wondering... -- [[User:ChrisO|ChrisO]] 15:58, 4 May 2004 (UTC)
+
+With all due respect, &quot;Iberian-Caucasian languages&quot; is not very good English. The appropriate form should be &quot;Ibero-Caucasian languages&quot; according to English word-formation rules. The article entitled &quot;Iberian-Caucasian languages&quot; should be renamed as (or moved to) &quot;Ibero-Caucasian languages&quot;. The first reference in the article could read &quot;The term '''Ibero-Caucasian''' (or '''Iberian-Caucasian''')&quot;, but subsequent references in the same article should just read &quot;Ibero-Caucasian&quot;. Furthermore, the reference to &quot;Iberian-Caucasian languages&quot; in the article &quot;Languages of the Caucasus&quot; should be changed to &quot;Ibero-Caucasian languages&quot;. Also, I don't understand why there is so much strife over this term that the page has to be locked. The term refers only to a hypothetical grouping of languages, a &quot;negative&quot; grouping (i.e. based on the fact that its &quot;member&quot; languages are not members of any of the major language families around them), rather than a &quot;positive&quot; grouping. It is, in other words, simply a geographic notion. There is no substantive evidence supporting this grouping as a real language family, or superfamily, or even &quot;phylum&quot;.
+[[User:Pasquale|Pasquale]] 19:53, 28 Jun 2004 (UTC)
+
+:Odd, this page was supposed to be unprotected already. I guess it was just overlooked. Anyway, the reason this page was protected and that there's so much strife over it is because there's one particular user who went by the name of Levzur who is fanatically dedicated to making this and several other articles conform to his personal point of view, despite all attempts by others to fix problems with it. This happens from time to time here on Wikipedia, and when all else fails the user in question usually winds up being banned. Levzur's case is still being examined but in the meantime we've taken to temporarily banning him whenever he tries messing with these articles, so it should be safe to go ahead and edit now without fear of your changes getting lost in an endless edit war. [[User:Bryan Derksen|Bryan]] 23:21, 28 Jun 2004 (UTC)
+
+:OK for the move, but note that the Arnold Chikobawa institute page (which according to Levzur supported the genetic relationship theory) uses &quot;Iberian-Caucasian linguistics&quot;, so this version should be mentioned as an alternative.&lt;br&gt;[[User:Jorge Stolfi|Jorge Stolfi]] 09:09, 2 Jul 2004 (UTC)</text>
+      <sha1>h4artkivrnbm0mcu4o7pe3ths292tkm</sha1>
+    </revision>
+  </page>
+</mediawiki>
