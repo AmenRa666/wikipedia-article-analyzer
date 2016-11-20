@@ -1,0 +1,224 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Partners in Crime (Doctor Who)</title>
+    <ns>0</ns>
+    <id>14687065</id>
+    <revision>
+      <id>729954456</id>
+      <parentid>729402775</parentid>
+      <timestamp>2016-07-15T18:52:49Z</timestamp>
+      <contributor>
+        <username>Bender235</username>
+        <id>88026</id>
+      </contributor>
+      <minor/>
+      <comment>clean up; http-&gt;https (see [[WP:VPR/Archive 127#RfC: Should we convert existing Google and Internet Archive links to HTTPS?|this RfC]]) using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="28469">{{DISPLAYTITLE:Partners in Crime (''Doctor Who'')}}
+{{Use dmy dates|date=November 2012}}
+{{Infobox Doctor Who episode
+| number = 189
+| serial_name = Partners in Crime
+| image = [[Image:Adipose.jpg|275px]]
+| caption = The [[List of Doctor Who monsters and aliens#Adipose|Adipose]], [[computer generated imagery|CGI]] aliens depicted using [[MASSIVE (software)|MASSIVE]], march through Central London towards Adipose Industries.
+| show = DW
+| type = episode
+| doctor = [[David Tennant]] ([[Tenth Doctor]])
+| companion = [[Catherine Tate]] ([[Donna Noble]])
+| guests =
+* [[Billie Piper]]&amp;nbsp;– [[Rose Tyler]]
+* [[Sarah Lancashire]]&amp;nbsp;– [[List of Doctor Who villains#Matron Cofelia|Ms. Foster]]
+* [[Bernard Cribbins]]&amp;nbsp;– [[Wilfred Mott]]
+* [[Jacqueline King]]&amp;nbsp;– [[Sylvia Noble]]
+* [[Verona Joseph]]&amp;nbsp;– Penny Carter
+* [[Jessica Gunning]]&amp;nbsp;– Stacey Campbell
+* [[Martin Ball]]&amp;nbsp;– Roger Davey
+* Rachid Sabitri&amp;nbsp;– Craig Staniland
+* Chandra Ruegg&amp;nbsp;– Claire Pope
+* Sue Kelvin&amp;nbsp;– Suzette Chambers
+* Jonathan Stratt&amp;nbsp;– Taxi driver
+| writer = [[Russell T Davies]]
+| director = [[James Strong (director)|James Strong]]
+| producer = [[Phil Collinson]]
+| executive_producer = [[Russell T Davies]]&lt;br /&gt;[[Julie Gardner]]
+|composer=[[Murray Gold]]
+| script_editor = Lindsey Alford
+| production_code = 4.1&lt;ref name=&quot;30reasons&quot;&gt;{{Cite journal
+ | date= 6 March 2008
+ | title= 30 reasons to be excited about Series 30!
+ | journal= [[Doctor Who Magazine]]
+ | issue= 393
+ | pages= 9–10
+}}&lt;/ref&gt;
+| date = 5 April 2008
+| length =  50 minutes
+| preceding = &quot;[[Voyage of the Damned (Doctor Who)|Voyage of the Damned]]&quot;
+| following = &quot;[[The Fires of Pompeii]]&quot;
+| series = [[Doctor Who (series 4)|Series 4]]
+| series_link = Series 4 (2008)
+}}
+&quot;'''Partners in Crime'''&quot; is the first episode of the [[Doctor Who (series 4)|fourth series]] of the British [[science fiction television]] series ''[[Doctor Who]]''. It was broadcast on [[BBC One]] on 5 April 2008. The episode reintroduced comedian [[Catherine Tate]] as [[Donna Noble]], who had previously appeared in &quot;[[The Runaway Bride (Doctor Who)|The Runaway Bride]]&quot;. Donna and the [[Doctor (Doctor Who)|Doctor]] ([[David Tennant]]) meet while separately investigating Adipose Industries, a company that has created a revolutionary [[Anti-obesity medication|diet pill]]. Together, they attempt to stop the death of thousands of people in London after the head of the company, the alien [[Miss Foster]] ([[Sarah Lancashire]]), creates the [[List of Doctor Who monsters and aliens#Adipose|Adipose]], short white aliens made from human [[body fat]].
+
+The episode's alien creatures, the Adipose, were created using the software ''[[MASSIVE (software)|MASSIVE]]'', commonly used for crowd sequences in fantasy and science fiction films. The episode is stylistically different from other ''Doctor Who'' episodes; &quot;Partners in Crime&quot; has no clear antagonist, and the creatures are in a different style to ''Doctor Who''{{'}}s regular &quot;big [and] scary&quot;&lt;ref name=&quot;confidential&quot; /&gt; monsters.
+
+&quot;Partners in Crime&quot; features the return of three supporting characters: [[Jacqueline King]] reprises her role as [[Sylvia Noble]] from &quot;[[The Runaway Bride (Doctor Who)|The Runaway Bride]]&quot;; [[Bernard Cribbins]] reprises his role as [[Wilfred Mott]] from &quot;[[Voyage of the Damned (Doctor Who)|Voyage of the Damned]]&quot;, to replace the character of Geoff Noble after actor Howard Attfield died; and [[Billie Piper]] briefly reprises her role as [[Rose Tyler]] for the first time since the second series' finale &quot;[[Doomsday (Doctor Who)|Doomsday]]&quot;, in a scene that was not included in preview showings.
+
+The episode received many positive reviews. Most critics liked the special effects used to create the Adipose. Critics also praised Tate's subdued acting in comparison to &quot;The Runaway Bride&quot;; Donna was changed from a &quot;shouting [[wikt:fishwife|fishwife]]&quot;&lt;ref name=&quot;noblecalling&quot; /&gt; to a more emotional person when she became a full-time companion. Critics' opinions were split over the episode's plot: opinion on executive producer [[Russell T Davies]]' writing ranged from &quot;pure pleasure&quot;&lt;ref name=&quot;preston&quot;/&gt; to &quot;the back of a [[cigarette pack|fag packet]]&quot;.&lt;ref name=&quot;hyland&quot;/&gt;
+
+==Plot==
+
+[[Donna Noble]] has become disenchanted with her normal life for two years since meeting the Doctor in &quot;[[The Runaway Bride (Doctor Who)|The Runaway Bride]]&quot;. She finds herself regretting her decision to decline the Doctor's invitation to travel in the [[TARDIS]]. She has started investigating conspiracy theories in the hope that she will find him again. She confides her regrets to her grandfather [[Wilfred Mott]], who met the Doctor before in &quot;[[Voyage of the Damned (Doctor Who)|Voyage of the Damned]]&quot;.
+
+The Doctor and Donna, neither one aware of the other's involvement, both investigate Adipose Industries, which is marketing a special [[diet pill]] to the people of London. They find that the pill's slogan, ''The Fat Just Walks Away'', is literal. The pills use latent body fat to [[parthenogenesis|parthenogenetically]] create small white aliens called Adipose that spawn at night and leave the host's body. The Doctor and Donna separately infiltrate the offices of Adipose Industries, each unaware that the other is there. Donna hides out in a toilet cubicle until they close, the Doctor stays in a storage room. As they explore the building, they suddenly encounter each other through opposite windows in an office. They are confronted by Miss Foster, an alien who is using Britain's overweight population to create the Adipose babies for the Adiposian First Family. Miss Foster pursues the Doctor and Donna around the building, finally catching them in an office. She tells the Doctor that the Adipose [[Story arcs in Doctor Who#Medusa Cascade|lost their breeding planet]] and hired Miss Foster to find a replacement. The Doctor uses Miss Foster's sonic pen and his [[sonic screwdriver]] to create a diversion and escape.
+
+Miss Foster accelerates her plans, knowing that the Doctor will attempt to stop her. Throughout London, the Adipose begin to spawn and soon number several thousand. The Doctor and Donna prevent total emergency parthenogenesis occurring, which would have killed those who had taken the pill, and the remainder of the young Adipose make their way to Adipose Industries. The Adiposian First Family arrive in a spaceship and begin collecting their young. The Doctor tries to warn Miss Foster about her safety, but she disregards him and is killed when the Adipose drop her from their transport beam to her death, to cover their unsanctioned colonization efforts. The Doctor refrains from killing the young Adipose because they are children, to which Donna remarks that his previous companion [[Martha Jones]] made him more human.
+
+At the end of the episode, Donna accepts the Doctor's original offer to travel in the TARDIS. The Doctor makes it clear to her that he only wants to be friends and nothing more, and she emphatically agrees. She makes a detour to leave her car keys in a litter bin, telling her mother Sylvia to collect them later. While there, she meets a blonde woman and asks her to help Sylvia find the keys. The woman turns out to be [[Rose Tyler]], who fades from view as she walks away from the area. In the final scene, Donna asks the Doctor to fly by her grandfather, Wilfred. He sees her in his telescope and celebrates on his [[Allotment (gardening)|allotment]].
+
+== Production ==
+
+=== Casting ===
+&quot;Partners in Crime&quot; features several actors returning to the series. Catherine Tate was offered the opportunity to return as Donna Noble during lunch with executive producer [[Julie Gardner]]. Tate, who expected Gardner would ask about appearing in a [[Biographical film|biopic]], later admitted it was &quot;the furthest thing from [her] mind&quot;.&lt;ref name=&quot;pod&quot;&gt;{{cite video
+ |people    = [[David Tennant|Tennant, David]]; [[Catherine Tate|Tate, Catherine]]; [[Phil Collinson|Collinson, Phil]]
+ |date      = 5 April 2008
+ |title     = Partners In Crime
+ |medium    = Podcast; MP3
+ |publisher = BBC
+}}&lt;/ref&gt; Tate's return was controversial amongst ''Doctor Who'' fans; the criticism she received was compared to [[Daniel Craig]] after he was cast as [[James Bond (character)|James Bond]].&lt;ref&gt;{{cite news|url=http://entertainment.uk.msn.com/tv/galleries/gallery.aspx?cp-documentid=7349404|title=Catherine Tate&amp;nbsp;— Are You Bovvered?|accessdate=7 April 2008|first=Lorna|last=Cooper|publisher=[[MSN]]|work=MSN UK Entertainment|location=United Kingdom| archiveurl = https://web.archive.org/web/20080409125102/http://entertainment.uk.msn.com/tv/galleries/gallery.aspx?cp-documentid=7349404| archivedate = 9 April 2008}}&lt;/ref&gt; Howard Attfield, who appeared as Donna's father Geoff in &quot;The Runaway Bride&quot;, filmed several scenes for this episode, but died before his scenes for the remainder of the season were completed. The producers retired his character out of respect, and dedicated him in the closing credits for the episode.&lt;ref name=&quot;pod&quot; /&gt; Producer [[Phil Collinson]] suggested transferring his traits to the unrelated character Stan Mott from &quot;[[Voyage of the Damned (Doctor Who)|Voyage of the Damned]]&quot;, and rewriting his role as Donna's grandfather. Executive producers [[Russell T Davies]] and Gardner liked the idea and recalled Bernard Cribbins to the role to re-film Attfield's scenes,&lt;ref name=&quot;pod&quot; /&gt; with the character renamed as Wilfred—a name Davies favoured for Donna's grandfather—in time for the credits of &quot;Voyage of the Damned&quot; to be changed.&lt;ref name=&quot;EpisodeOne&quot;&gt;{{cite episode |title=Episode 1 |series=Doctor Who: The Commentaries |serieslink=Doctor Who: The Commentaries |network=[[BBC]] |station=[[BBC 7]] |airdate=2008-04-06 |season=1 |number=1}}&lt;/ref&gt;
+
+=== Writing ===
+{{quote box|quote=I see her as a slightly warped Mary Poppins. She's quite austere. She's a strong woman. When I first read the script, I thought, oh, well, of course she's a baddie... but the more I read it, I thought, 'No, she's doing what she's doing for legitimate reasons.'|source=[[Sarah Lancashire]]&lt;ref name=&quot;supernanny&quot;&gt;{{cite journal|author = Cook, Benjamin|author2=Lancashire, Sarah |authorlink2=Sarah Lancashire |date=April 2008|title=Power Madam!|journal=[[Doctor Who Magazine]]|publisher=[[Panini Comics]]|location=[[Tunbridge Wells]], [[Kent]]|volume=394|pages=30–31|authorlink= Benjamin Cook (journalist)}}&lt;/ref&gt;|width=400px}}
+
+Davies took a different approach while writing the episode. David Tennant and Sarah Lancashire noted the character of Miss Foster had good intentions but was morally ambiguous.&lt;ref name=&quot;confidential&quot; /&gt;&lt;ref name=&quot;supernanny&quot; /&gt; The premise of the Adipose pill was equally ambiguous with rare side-effects, but was a &quot;win-win situation&quot; for anyone involved.&lt;ref name=&quot;confidential&quot;&gt;{{cite episode |title=A Noble Return |series=Doctor Who Confidential |serieslink=Doctor Who Confidential |network=BBC |station=BBC Three |airdate=2008-04-05 |season=4 |number=1  }}&lt;/ref&gt; Davies based the character of Miss Foster on ''[[Supernanny]]'' star [[Jo Frost]] and [[Argentina|Argentine]] philanthropist and politician [[Eva Perón]], and Lancashire compared her character to [[Mary Poppins (character)|Mary Poppins]].&lt;ref name=&quot;confidential&quot; /&gt; The Adipose are a different style to regular ''Doctor Who'' villains; antagonists such as Lazarus in &quot;[[The Lazarus Experiment]]&quot; or the werewolf in &quot;[[Tooth and Claw (Doctor Who)|Tooth and Claw]]&quot; were singular monsters designed to scare the audience; the Adipose were written as &quot;cute&quot; to provide a &quot;bizarre [and] surreal&quot; experience.&lt;ref name=&quot;confidential&quot; /&gt;
+
+Davies made some changes to Donna's character. The character was &quot;rounded&amp;nbsp;... out from being a shouting [[wikt:fishwife|fishwife]] to someone who's quite vulnerable and emotional&quot;.&lt;ref name=&quot;noblecalling&quot;&gt;{{cite journal |date=April 2008 |title=A Noble Calling |journal=[[Radio Times]] |issue=5–11 April 2008  |page=23 |publisher=BBC }}&lt;/ref&gt; Donna was written to provide a &quot;caustic&quot; and &quot;grown-up&quot; attitude towards the Doctor, in opposition to Rose and Martha, who fell in love with him. Tate considered Donna to be more equal to the Doctor because her character did not romanticise him, allowing her to question his morality more easily.&lt;ref name=&quot;confidential&quot; /&gt;
+
+==== Donna's mime ====
+In this production, the script requires Catherine Tate, as Donna Noble, to reintroduce herself to the Doctor in mime.  The stage directions by writer Russell T Davies are as follows.&lt;ref name=&quot;confidential&quot; /&gt;
+
+{{quote|Donna does a little mime: &quot;I came here, trouble, read about it, internet, I thought, trouble &lt;nowiki&gt;=&lt;/nowiki&gt; you! And this place is weird! Pills!  So I hid.  Back there.  Crept along.  Looked.  You.  Cos they...&quot;|Russell T Davies|&quot;Partners in Crime&quot; shooting script.&lt;ref name=&quot;confidential&quot; /&gt;}}
+
+Tate says Davies had suggested that she might come up with something on the day.  She improvised her [[mime]] during filming.&lt;ref name=&quot;confidential&quot; /&gt;
+
+=== Filming ===
+{{multiple image
+ | align     = right
+ | direction = horizontal
+ | header    = &lt;center&gt;Location of Adipose Industries&lt;/center&gt;
+ | header_align = center
+ | header_background =
+ | footer    =
+ | footer_align = left
+ | footer_background =
+ | width     =
+ | image1    = Churchill Way, Cardiff - geograph.org.uk - 1001848.jpg
+ | width1    = 182
+ | alt1      =
+ | caption1  = &lt;center&gt;Churchill Way, Cardiff&lt;/center&gt;
+ | image2    = Helmont House Cardiff.JPG
+ | width2    = 106
+ | alt2      =
+ | caption2  = &lt;center&gt;Helmont House&lt;/center&gt;
+}}
+
+The episode was in the fourth production block in the season, and was filmed in October 2007. The out-of-sequence filming allowed producers to use props to &quot;seed&quot; later episodes; ATMOS, a plot device in the episodes &quot;[[The Sontaran Stratagem]]&quot; and &quot;[[The Poison Sky]]&quot;, is referred to by a sticker on a taxi's windscreen.&lt;ref name=&quot;pod&quot; /&gt;&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/doctorwho/s4/episodes/S4_04|title=The Sontaran Strategem: Fact File|work=Doctor Who microsite|publisher=BBC|accessdate=2 July 2008}}&lt;/ref&gt; As the episode mostly takes place at night, many scenes were filmed in the early morning.&lt;ref name=&quot;confidential&quot; /&gt;
+
+The scene where Donna and the Doctor investigate Adipose was difficult to film. The scene took thirty shots to complete, and Tennant and Tate experienced problems avoiding each other on-screen. The scene was filmed in Picture Finance's call centre on the outskirts of [[Newport, Wales|Newport]] on an early Sunday morning, with the company's telephonists serving as extras.&lt;ref name=&quot;pod&quot; /&gt;&lt;ref&gt;{{cite web|last=Sullivan|first=Shannon Patrick|year=2006a|title=Partners In Crime|series=A Brief History of Time (Travel)|publisher=ShannonSullivan.com|location=St. John's|url=http://www.shannonsullivan.com/drwho/serials/2008a.html|publication-date=2009-10-17|accessdate=17 April 2011}}&lt;/ref&gt;
+
+Exterior shots of Adipose Industries were filmed at the British Gas building ([[Helmont House]]) in [[Cardiff city centre|Cardiff's city centre]]. For health and safety reasons, Tennant was prohibited from performing his own stunts in the window cleaning platform. His only shot that required stunts was when he catches Miss Foster's sonic pen, a shot that took several takes to perfect.&lt;ref name=&quot;confidential&quot; /&gt;
+
+=== Adipose ===
+The Adipose were inspired by a stuffed toy Davies owned.&lt;ref name=&quot;confidential&quot; /&gt; The name comes from the scientific name for body fat, [[adipose tissue]].&lt;ref name=&quot;littlemonsters&quot;&gt;{{cite journal |date=April 2008 |title=Little Monsters? |journal=[[Radio Times]] |issue=5–11 April 2008  |page=25 |publisher=BBC }}&lt;/ref&gt; Davies' brief outlined a &quot;cute&quot; child-friendly creature shaped like a block of [[lard]], similar to the [[Pillsbury Doughboy]].&lt;ref name=&quot;makingtheadipose&quot; /&gt;&lt;ref name=&quot;factfile&quot;&gt;{{cite web|url=http://www.bbc.co.uk/doctorwho/s4/episodes/?episode=s4_01&amp;action=factfile|title=Partners in Crime: Fact File|publisher=BBC|date=5 April 2008|accessdate=9 April 2008|work=Doctor Who microsite}}&lt;/ref&gt; Further consultation with [[post-production]] team [[The Mill (post-production)|The Mill]] resulted in the ears and the singular fang each Adipose has.&lt;ref name=&quot;makingtheadipose&quot;&gt;{{cite video|url=http://www.bbc.co.uk/doctorwho/s4/episodes/?episode=S4_01&amp;character=&amp;action=videostream&amp;playlist=/doctorwho/playlists/s4_01/video/s4_01_u_04.xml&amp;video=1|people=McKinney, Matt|title=Making the Adipose|date=5 April 2008|accessdate=6 April 2008|publisher=BBC|format=FLV}}&lt;/ref&gt; [[Stephen Regelous]], who won an [[Academy Award]] for his software ''[[Massive (software)|Massive]]'', flew to London to supervise the creation of the crowd special effects.&lt;ref name=&quot;littlemonsters&quot; /&gt; Regelous, a ''Doctor Who'' fan, was enthusiastic about helping The Mill with special effects, stating that &quot;When I first found out that the Mill was working on ''Doctor Who'', I was quietly hoping that Massive might be used to create hordes of Daleks or Cybermen and with series 4, I jumped at the opportunity to be involved.&quot;&lt;ref name=&quot;sneakpeek&quot;&gt;{{cite web|url=http://blogs.guardian.co.uk/organgrinder/2008/04/doctor_who_a_special_effects_s.html|title=Doctor Who: a special effects sneak peek|date=3 April 2008|first=Stephen|last=Brook|accessdate=6 April 2008|publisher=''[[The Guardian]]''|work=Organgrinder}}&lt;/ref&gt; The Mill created two types of Adipose: extras with artificial intelligence and independent movement, and &quot;hero&quot; Adipose, which were hand-animated.&lt;ref name=&quot;littlemonsters&quot; /&gt;
+
+== Broadcast and reception ==
+[[Image:Billie Piper in October 2006-Edited.JPG|thumb|upright|Tennant described [[Billie Piper]]'s return as a &quot;genuine prickle up the spine&quot;.]]
+
+=== Broadcast and ratings ===
+The episode was broadcast on 5 April 2008 at 18:20, the earliest timeslot since the show's revival in 2005. Davies criticised the BBC's scheduling department and claimed the show could lose 1.5&amp;nbsp;million viewers.&lt;ref&gt;{{cite web|url=http://www.doctorwhonews.net/2008/03/davies-criticizes-time-slot_5284.html|title=Davies criticizes Time Slot|first=Russell T|last=Davies|authorlink=Russell T Davies|author2=Marcus|date=25 March 2008|accessdate=9 July 2011|publisher=''[[Ariel (newspaper)|Ariel]]'', [[The Doctor Who News Page]]}}&lt;/ref&gt; The show retained a similar time of broadcast for a further four episodes, before returning to around 19:00. from &quot;[[The Doctor's Daughter]]&quot; onwards.&lt;ref&gt;{{cite web|url=http://www.doctorwhonews.net/2008/04/time-slot-will-change-later-in-series_6380.html|title=Time Slot will change later in Series|date=2 April 2008|accessdate=9 July 2011|first=Matt|last=Hilton|publisher=[[The Doctor Who News Page]]}}&lt;/ref&gt;&lt;ref&gt;Broadcast times - [http://www.digitalspy.co.uk/cult/a95244/s04e05-the-poison-sky.html &quot;The Poison Sky&quot;] and [http://www.digitalspy.co.uk/cult/a95290/s04e06-the-doctors-daughter.html &quot;The Doctor's Daughter&quot;]&lt;/ref&gt;
+
+The preview version of the episode supplied to the press and aired at the press launch omitted the scene that features Rose; before broadcast, only the production team, Tate, and Tennant had seen the scene.&lt;ref name=&quot;pod&quot; /&gt; The scene contains Rose's departure [[motif (music)|theme]], &quot;[[Doomsday (Doctor Who)#Music|Doomsday]]&quot;. Tennant commented &quot;on the night of transmission&amp;nbsp;... the ''[[Radio Times]]'' won't have told you it's coming, it'll come as a genuine&amp;nbsp;[...] prickle up the spine&quot;.&lt;ref name=&quot;pod&quot; /&gt;
+
+Overnight figures estimated the show was watched by 8.4&amp;nbsp;million viewers, with a peak of 8.7&amp;nbsp;million, 39.4% of the television audience. The consolidated rating was 9.1 million viewers. ''Doctor Who'' was therefore the most watched show on 5 April, although the [[Grand National]] had a higher peak with 10.1&amp;nbsp;million viewers.&lt;ref&gt;{{cite web|url=http://www.doctorwhonews.net/2008/04/partners-in-crime-final-ratings_496.html|title=Partners in Crime&amp;nbsp;— Final Ratings|date=16 April 2008|accessdate=9 July 2011|first=Matt|last=Hilton|publisher=[[The Doctor Who News Page]]}}&lt;/ref&gt;&lt;ref name=&quot;OG&quot;&gt;{{cite web|url=http://www.doctorwhonews.net/2008/04/partners-in-crime-overnight-ratings_7835.html|title=Partners in Crime&amp;nbsp;— Overnight Ratings|author=Marcus|publisher=[[The Doctor Who News Page]]|date=6 April 2008|accessdate=9 July 2011}}&lt;/ref&gt;&lt;ref name=&quot;AP&quot;&gt;{{cite news|url=http://www.telegraph.co.uk/news/uknews/1584232/Doctor-Who-draws-in-8.4m-viewers.html|title=8.4m viewers see Doctor Who return|publisher=[[The Daily Telegraph|The Telegraph]]|location=United Kingdom|date=6 April 2008|accessdate=9 July 2011}}&lt;/ref&gt;&lt;ref name=&quot;BBC&quot;&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/entertainment/7333321.stm|title= Doctor Who attracts 8.4m viewers|publisher=BBC|date=6 April 2008|accessdate=6 April 2008}}&lt;/ref&gt; The episode's [[Appreciation Index]] was 88 (considered &quot;Excellent&quot;), the highest for any television show aired on 5 April.&lt;ref name=&quot;PICAI&quot;&gt;{{cite web|url=http://www.doctorwhonews.net/2008/04/partners-in-crime-ai-figure-and-ratings_7809.html |date=7 April 2008|accessdate=9 July 2011|author=Marcus|publisher=[[The Doctor Who News Page]]|title=Partners in Crime: AI figure and Ratings update}}&lt;/ref&gt;
+
+=== Critical reception ===
+The episode received many positive reviews. John Preston, writing for ''[[The Daily Telegraph]]'', called the episode an &quot;undiluted triumph&quot;. Opening his review, he said &quot;last night's episode struck me as being as close to 50&amp;nbsp;minutes of pure pleasure as you're likely to get on television&quot;. He noted the episode's clever tackling of the topical theme of obesity, and its mixture of emotion and special effects. In closing, he said &quot;the dejected critic, denied even the smallest nit to pick, walks glumly away&quot;.&lt;ref name=&quot;preston&quot;&gt;{{cite news|url=http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2008/04/06/nwho206.xml|title=Doctor Who is as close to pure pleasure as you'll get on television|date=6 April 2008|accessdate=7 April 2008|first=John|last=Preston|publisher=''[[The Daily Telegraph]]''}}&lt;/ref&gt; Scott Matthewman of ''[[The Stage]]'' lamented that the Adipose were not threatening enough. He liked the Adipose's execution of Miss Foster, a &quot;momentary pause in mid-air, gravity only kicking in when the character looks down&quot;, comparing it to [[Wile E. Coyote]] and [[Chuck Jones]], which &quot;[was] a nice little touch in an episode&amp;nbsp;... full of them&quot;. He also appreciated Tate, saying that &quot;David Tennant finally has a partner who is approaching an equal&quot;.&lt;ref&gt;{{cite web|url=http://blogs.thestage.co.uk/tvtoday/2008/04/doctor-who-41-partners-in-crime/|title=Doctor Who 4.1: Partners in Crime|publisher=''[[The Stage]]''|first=Scott|last=Matthewman|work=TV Today|date=6 April 2008|accessdate=7 April 2008}}&lt;/ref&gt;  Sam Wollaston of ''[[The Guardian]]'' wrote that Tate was &quot;not right for this role&quot; and &quot;too hysterical, too comedy, not cool enough&quot;, and felt her inclusion was an attempt to trade on the popularity of her own series and &quot;broaden the appeal of [Dr Who] still further&quot;. He also found the music &quot;a bit oppressive&quot; but concluded that, despite these criticisms, the show was &quot;still awfully nice television&quot;.&lt;ref&gt;{{cite news|url=http://www.guardian.co.uk/media/2008/apr/07/television.tvandradioarts
+|title=The weekend's TV|date=7 April 2008|accessdate=7 April 2008|first=Sam|last=Wollaston|publisher=''[[The Guardian]]''}}&lt;/ref&gt; Keith Watson of ''[[Metro (Associated Metro Limited)|Metro]]'' gave the episode 4 stars out of 5. He admitted that despite his dislike of Tate, &quot;she isn't that bad&quot;. His review of the Adipose was positive, citing them as a reason of the quality of the show. Closing, he said &quot;it split [his] sides&quot;.&lt;ref&gt;{{cite news|publisher=[[Associated Newspapers Ltd]]|work=[[Metro (Associated Metro Limited)|Metro]], MetroLife|page=28|title=The Weekend's TV: A right Who ha|url=http://www.metro.co.uk/metrolife/article.html?in_article_id=136391&amp;in_page_id=9|first=Keith|last=Watson|date=7 April 2008|accessdate=7 April 2008}}&lt;/ref&gt;
+
+Jon Wise of ''[[The People]]'' said &quot;Doctor Who is a super-galactic way of spending a Saturday night indoors&quot;, and appreciated that Donna was not romantically interested in the Doctor, unlike Martha or Rose.&lt;ref&gt;{{cite news|url=http://www.people.co.uk/showbiz/wise/tm_headline=tardis-lands-in-spot-of-bovver%26method=full%26objectid=20374671%26siteid=93463-name_page.html|title=Tardis in a spot of bovver|first=Jon|last=Wise|publisher=''[[The People]]''|date=6 April 2008|accessdate=7 April 2008}}&lt;/ref&gt; Ben Rawson-Jones gave the episode a wholly positive review, summarising it as containing &quot;pure fantastic family fun, delivering a winning blend of action, comedy, poignancy and one unexpected shock cameo&quot;.&lt;ref&gt;{{cite web|url=http://www.digitalspy.co.uk/cult/a93160/s04e01-partners-in-crime.html|title=S04E01: 'Partners In Crime'|work=Cult: Doctor Who|publisher=[[Digital Spy]]|date=April 2008|accessdate=7 April 2008|first=Ben|last=Rawson-Jones}}&lt;/ref&gt;
+
+The episode received several negative reviews. Andrew Billen, writing for ''[[The Times]]'', lamented that Davies had &quot;forgotten that Doctor Who's main task is to send children [[behind the sofa|scuttling behind sofas]] while entertaining their fathers with the odd philosophical idea, the occasional classical reference, a joke or two they would probably not wish to explain and a wee bit of space totty&quot;. Billen also criticised the writing and acting, but commended Tate for a &quot;toned down performance&quot;.&lt;ref&gt;{{cite news|url=http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/tv_and_radio/article3684082.ece|title=Doctor Who; Louis Theroux's African Hunting Holiday|date=7 April 2008|accessdate=7 April 2008|first=Andrew|last=Billen|publisher=''[[The Times]]''}}&lt;/ref&gt; Alan Stanley Blair of [[SyFy Portal]] summarised it as &quot;a runaway Saturday morning cartoon in desperate need to a solid story&quot;. Blair found flaws with the comedy and the music in the episode, but was impressed with Tate's acting and Piper's cameo.&lt;ref&gt;{{cite web|url=http://www.syfyportal.com/news424905.html|title=Review: 'Doctor Who' - Partners In Crime|first=Alan Stanley|last=Blair|publisher=[[SyFy Portal]]|date=5 April 2008|accessdate=7 April 2008|archiveurl = https://web.archive.org/web/20080409183841/http://www.syfyportal.com/news424905.html |archivedate = 9 April 2008|deadurl=yes}}&lt;/ref&gt; Kevin O'Sullivan of the ''[[Sunday Mirror]]'' criticised Tate and Tennant for overacting, and had concerns about the writing: &quot;It didn't exactly ooze tension. All we got in the way of terrifying space enemies was Sarah Lancashire hamming it up as an intergalactic super nanny, a couple of security guards with guns and lots of cute little fat babies.&quot;&lt;ref&gt;{{cite web|url=http://www.mirror.co.uk/lifestyle/staying-in/what-s-on-tv/not-bovvered-by-the-doctor-301530|title=Not bovvered by the Doctor|first=Kevin|last=O'Sullivan|date=6 April 2008|accessdate=7 April 2008|publisher=''[[Sunday Mirror]]''}}&lt;/ref&gt; [[Ian Hyland]] of ''[[News of the World]]'' criticised the child-friendly storyline, comparing it to &quot;the back of a [[cigarette pack|fag packet]]&quot;. He also criticised Tennant for appearing &quot;jaded&quot; and Tate for &quot;still shouting&quot;.&lt;ref name=&quot;hyland&quot;&gt;{{cite web|url=http://blogs.notw.co.uk/hyland/2008/04/tates-on-board.html|title=Tate's on board, I ain't bothered|publisher=''[[News of the World]]''|first=Ian|last=Hyland|authorlink=Ian Hyland|date=6 April 2008|accessdate=7 April 2008| archiveurl = https://web.archive.org/web/20080409213203/http://blogs.notw.co.uk/hyland/2008/04/tates-on-board.html| archivedate = 9 April 2008}}&lt;/ref&gt;
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+{{Wikiquote|Tenth Doctor}}
+{{TardisIndexFile|Partners in Crime}}
+* {{BBCDWnew | year=2008 | id=S4_01 | title=Partners in Crime }}
+* {{Brief|id=2008a|title=Partners in Crime|quotes=y}}
+* {{Doctor Who RG|id=who_tv33|title=Partners in Crime|quotes=y}}
+* {{IMDb episode|1159991|Partners in Crime}}
+* [http://www.thewriterstale.com/pdfs/Doctor%20Who%204%20Ep.1%20-%20Shooting%20Script%20-%20Yellow%20-%2016.10.07.pdf Shooting Script for &quot;Partners in Crime&quot;]
+
+=== Reviews ===
+* {{DWRG| id=partnerscrime | title=Partners in Crime | quotes=y}}
+
+{{Doctor Who episodes|N4}}
+{{Doctor Who episodes by Russell T Davies |state=autocollapse}}
+
+{{featured article}}
+
+{{DEFAULTSORT:Partners In Crime (Doctor Who)}}
+[[Category:Tenth Doctor episodes|Partners in Crime]]
+[[Category:2008 television episodes]]
+[[Category:Screenplays by Russell T Davies]]
+[[Category:Doctor Who stories set on Earth]]</text>
+      <sha1>j8er55iqf3803ln9z42yoot7ndl9oy4</sha1>
+    </revision>
+  </page>
+</mediawiki>

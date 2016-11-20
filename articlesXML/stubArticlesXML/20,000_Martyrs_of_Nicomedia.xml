@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>20,000 Martyrs of Nicomedia</title>
+    <ns>0</ns>
+    <id>15045660</id>
+    <revision>
+      <id>744257106</id>
+      <parentid>738589855</parentid>
+      <timestamp>2016-10-14T03:20:22Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1934">[[File:20,000 martyrs of Nicomedia (Menologion of Basil II).jpg|300px|thumb|Miniature from the ''[[Menologion of Basil II]]'' honoring the Martyrs of Nicomedia]]
+The '''20,000 Martyrs of Nicomedia''' refers to victims of [[persecution of Christians]] in [[Nicomedia]] by the [[Roman Empire|Roman]] Emperors [[Diocletian]] and [[Maximian]] in the early [[4th century]] AD. 
+
+According to various [[martyrology|martyrologies]] and [[menologion]], the persecution included the burning of a church that held numerous Christians on [[Christmas Day]]. The [[Roman Martyrology]] reports four groups of martyrs from that time. 
+
+The number 20,000 may be apocryphal.&lt;ref name=&quot;Walsh2007&quot;/&gt; However, the martyrs of Nicomedia continue to be honored with feast days:&lt;ref name=&quot;Walsh2007&quot;&gt;{{cite book|author=Michael J. Walsh|title=A New Dictionary of Saints: East and West|url=https://books.google.com/books?id=8mUJ58SMMhEC&amp;pg=PA401|accessdate=23 August 2012|date=30 July 2007|publisher=Liturgical Press|isbn=978-0-8146-3186-7|page=401}}&lt;/ref&gt;
+they are commemorated on 28 December in the [[Eastern Orthodox Church]], and by the [[Byzantine Catholic]] and [[Latin Rite]] Catholic Churches.&lt;ref&gt;{{cite web|url=http://www.orthodox.net/menaion-december/28-20000-holy-martyrs-of-nicomedia.html|title=The 20,000 Holy Martyrs of Nicomedia|work=St. Nicholas Russian Orthodox Church|accessdate=23 August 2012}}&lt;/ref&gt;
+
+==See also==
+{{Portal|Saints}}
+*[[Anthimus of Nicomedia]]
+*[[Forty Martyrs of Sebaste]]
+*[[Ten thousand martyrs]]
+
+==References==
+{{Reflist}}
+[http://ocafs.oca.org/FeastSaintsViewer.asp?FSID=103664 Orthodox Church in America, 28 December]
+
+{{DEFAULTSORT:20000 Martyrs Of Nicomedia}}
+[[Category:Groups of Christian martyrs of the Roman era]]
+[[Category:Saints from Roman Anatolia]]
+[[Category:Date of birth unknown]]
+[[Category:4th-century Christian martyrs]]
+[[Category:4th-century Romans]]
+[[Category:4th-century deaths]]
+
+{{Saint-stub}}</text>
+      <sha1>73qsak0u7dnhfz6p3efououct1uq4z8</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,208 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>The Murders in the Rue Morgue</title>
+    <ns>0</ns>
+    <id>144684</id>
+    <revision>
+      <id>744145520</id>
+      <parentid>744090102</parentid>
+      <timestamp>2016-10-13T11:30:04Z</timestamp>
+      <contributor>
+        <username>Imdabes7</username>
+        <id>20493155</id>
+      </contributor>
+      <minor/>
+      <comment>/* Plot summary */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27922">{{About|the short story|other uses|Rue Morgue (disambiguation){{!}}Rue Morgue}}
+{{Infobox short story | &lt;!-- See [[Wikipedia:WikiProject Novels]] or [[Wikipedia:WikiProject Books]] --&gt;
+| name          = The Murders in the Rue Morgue
+| image         = [[File:RueMorgueManuscript.jpg|200px]]
+| caption       = Facsimile of Poe's original manuscript for &quot;The Murders in the Rue Morgue&quot;
+| title_orig    = 
+| translator    = 
+| author        = [[Edgar Allan Poe]]
+| country       = United States
+| language      = English
+| series        = 
+| genre         = [[Detective fiction]]&lt;br&gt;[[Short story]]
+| published_in  = ''[[Graham's Magazine]]''
+| publisher     = 
+| media_type    = Print ([[Magazine]])
+| pub_date      = April 1841
+| english_pub_date = 
+| preceded_by   = 
+| followed_by   = 
+}}
+
+&quot;'''The Murders in the Rue Morgue'''&quot; is a [[short story]] by [[Edgar Allan Poe]] published in ''[[Graham's Magazine]]'' in 1841.  It has been recognized as the first modern [[detective fiction|detective story]];&lt;ref name=Silverman171&gt;{{harvnb|Silverman|1991|p=171}}&lt;/ref&gt;&lt;ref name=Meyers123&gt;{{harvnb|Meyers|1992|p=123}}&lt;/ref&gt; Poe referred to it as one of his &quot;tales of [[wikt:ratiocination|ratiocination]]&quot;.&lt;ref name=Silverman171/&gt; Two works that share some similarities predate Poe's stories, including ''[[Mademoiselle de Scuderi|Das Fräulein von Scuderi]]'' (1819) by [[E. T. A. Hoffmann]]&lt;ref name=Booker507&gt;{{harvnb|Booker|2004|p=507}}&lt;/ref&gt; and ''[[Zadig]]'' (1747) by [[Voltaire]].&lt;ref name=Silverman173&gt;{{harvnb|Silverman|1991|p=173}}&lt;/ref&gt;
+
+[[C. Auguste Dupin]] is a man in [[Paris]] who solves the mystery of the brutal murder of two women. Numerous witnesses heard a suspect, though no one agrees on what language was spoken. At the murder scene, Dupin finds a hair that does not appear to be human.
+
+As the first fictional detective, Poe's Dupin displays many traits which became literary conventions in subsequent fictional detectives, including [[Sherlock Holmes]] and [[Hercule Poirot]]. Many later characters, for example, follow Poe's model of the brilliant detective, his personal friend who serves as [[narrator]], and the final revelation being presented before the reasoning that leads up to it. Dupin himself reappears in &quot;[[The Mystery of Marie Rogêt]]&quot; and &quot;[[The Purloined Letter]]&quot;.
+
+==Plot summary==
+[[File:Aubrey Beardsley - Edgar Poe 1.jpg|thumb|Illustration by [[Aubrey Beardsley]] of &quot;The Murders in the Rue Morgue&quot;, 1895]]
+The story opens with a lengthy explanation of ratiocination. Dupin demonstrates his prowess by deducing his companion's thoughts as if through apparent supernatural power. The story then turns to the baffling double murder of Madame L'Espanaye and her daughter at their home in the Rue Morgue, a fictional street in Paris. According to newspaper accounts, the mother was found in a yard behind the house, with multiple broken bones and her throat so deeply cut that her head fell off when the body was moved. The daughter was found strangled to death and stuffed upside down into a [[chimney]]. The murders occurred in a fourth-floor room that was locked from the inside; on the floor were found a bloody [[straight razor]], several bloody tufts of gray hair, and two bags of gold coins. Several witnesses reported hearing two voices at the time of the murder, one male and French, but disagreed on the language spoken by the other. The speech was unclear, and every witness admits that he does not know the language he claims to have heard.
+
+Paris natives Dupin and his friend, the unnamed narrator of the story, read these newspaper accounts with interest. The two live in seclusion and allow no visitors. They have cut off contact with &quot;former associates&quot; and venture outside only at night. &quot;We existed within ourselves alone&quot;, the narrator explains. When a bank clerk named Adolphe Le Bon is arrested even though no evidence exists pointing to his guilt (other than his delivering a goodly amount of money to the two ladies the day before), Dupin becomes intrigued and remembers a service that Le Bon once performed for him. He decides to offer his assistance to &quot;G–&quot;, &lt;!--note: this is not a reference to God, but a character whose (unrevealed) full name begins with &quot;G&quot;; please do not change!--&gt; the [[prefect]] of police.
+
+Because none of the witnesses can agree on the language the murderer spoke, Dupin concludes they were not hearing a human voice at all. He and the narrator examine the house thoroughly; the following day, Dupin dismisses the idea of both Le Bon's guilt and a robbery motive, citing the fact that the gold was not taken from the room. He also points out that the murderer would have had to have superhuman strength to force the daughter's body up the chimney. He formulates a method by which the murderer could have entered the room and killed both women, involving an agile climb up a [[lightning rod]] and a leap to a set of open window shutters. Showing an unusual tuft of hair he recovered from the scene, and demonstrating the impossibility of the daughter being strangled by a human hand, Dupin concludes that an &quot;Ourang-Outang&quot; ([[orangutan]]) killed the women. He has placed an advertisement in the local newspaper asking if anyone has lost such an animal, and a sailor soon arrives looking for it.
+
+The sailor offers to pay a reward, but Dupin is interested only in learning the circumstances behind the two murders. The sailor explains that he captured the orangutan while in [[Borneo]] and brought it back to Paris, but had trouble keeping it under control. When he saw the orangutan attempting to shave its face with his [[straight razor]], imitating his morning grooming, it fled into the streets and reached the Rue Morgue, where it climbed up and into the house. The orangutan seized the mother by the hair and was waving the razor, imitating a barber; when she screamed in fear, it flew into a rage, ripped her hair out, slashed her throat, and strangled the daughter. The sailor climbed up the lightning rod in an attempt to catch the animal, and the two voices heard by witnesses belonged to it and to him. Fearing punishment by its master, the orangutan threw the mother's body out the window and stuffed the daughter into the chimney before fleeing.
+
+The sailor sells the orangutan, Le Bon is released from custody, and the prefect of police mentions that people should mind their own business once Dupin tells him the story. Dupin comments to the narrator that G–&lt;!--note: this is not a reference to God, but a character whose (unrevealed) full name begins with &quot;G&quot;; please do not change!--&gt; is &quot; somewhat too cunning to be profound&quot;, but admires his ability &quot;''de nier ce qui est, et d'expliquer ce qui n'est pas''&quot; (a quote from ''[[Julie, or the New Heloise]]'' by [[Jean-Jacques Rousseau]]: &quot;to deny that which is, and explore that which is not&quot;).
+
+==Themes and analysis==
+[[File:Poe rue morgue byam shaw.JPG|thumb|left|The moment Dupin questions the sailor about the murders. Illustration by [[Byam Shaw]] for a London edition dated 1909 with caption ''&quot;The sailor's face flushed up; he started to his feet and grasped his cudgel&quot;.'']]
+In a letter to friend Dr. Joseph Snodgrass, Poe said of &quot;The Murders in the Rue Morgue&quot;, &quot;its ''theme'' was the exercise of ingenuity in detecting a murderer.&quot;&lt;ref name=Quinn354&gt;{{harvnb|Quinn|1998|p=354}}&lt;/ref&gt; Dupin is not a professional detective; he decides to investigate the murders in the Rue Morgue for his personal amusement. He also has a desire for truth and to prove a falsely accused man innocent. His interests are not financial and he even declines a monetary reward from the owner of the orangutan.&lt;ref&gt;{{harvnb|Whalen|2001|p=86}}&lt;/ref&gt; The revelation of the actual murderer removes the crime, as neither the orangutan nor its owner can be held responsible.&lt;ref&gt;{{harvnb|Cleman|1991|p=623}}&lt;/ref&gt; Later detective stories would have set up M. Le Bon, the suspect who is arrested, as appearing guilty as a [[Red herring (plot device)|red herring]], though Poe chose not to.&lt;ref&gt;{{harvnb|Quinn|1998|p=312}}&lt;/ref&gt;
+
+Poe wrote &quot;The Murders in the Rue Morgue&quot; at a time when crime was at the forefront in people's minds due to urban development. [[London]] had recently established its first professional police force and American cities were beginning to focus on scientific police work as newspapers reported murders and criminal trials.&lt;ref name=Silverman171/&gt; &quot;The Murders in the Rue Morgue&quot; continues an urban theme that was used several times in Poe's fiction, in particular &quot;[[The Man of the Crowd]]&quot;, likely inspired by Poe's time living in [[Philadelphia]].&lt;ref name=Silverman172&gt;{{harvnb|Silverman|1991|p=172}}&lt;/ref&gt;
+
+The tale has an underlying [[metaphor]] for the battle of brains vs. brawn. Physical strength, depicted as the orangutan as well as its owner, stand for violence: the orangutan is a murderer, while its owner admits he has abused the animal with a whip. The analyst's brainpower overcomes their violence.&lt;ref&gt;{{harvnb|Rosenheim|1997|p=75}}&lt;/ref&gt; The story also contains Poe's often-used theme of [[The Philosophy of Composition|the death of a beautiful woman]], which he called the &quot;most poetical topic in the world&quot;.&lt;ref name=Silverman173/&gt;&lt;ref&gt;{{harvnb|Hoffman|1972|p=110}}&lt;/ref&gt;
+
+===Dupin's method===
+Poe defines Dupin's method, ''ratiocination'', using the example of a card player: &quot;the extent of information obtained; lies not so much in the validity of the inference as in the quality of the observation.&quot;&lt;ref&gt;{{harvnb|Poe|1927|p=79}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Harrowitz|1984|pp=186–187}}&lt;/ref&gt; Poe then provides a narrative example where Dupin explains how he knew the narrator was thinking about the actor Chantilly.&lt;ref&gt;{{harvnb|Poe|1927|pp=82–83}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Harrowitz|1984|pp=187–192}}&lt;/ref&gt; Dupin then applies his method to the solving of this crime.
+
+Dupin's method emphasizes the importance of reading and the written word. The newspaper accounts pique his curiosity; he learns about orangutans from a written account by &quot;Cuvier&quot; — likely [[Georges Cuvier]], the French zoologist. This method also engages the reader, who follows along by reading the clues himself.&lt;ref&gt;{{harvnb|Thoms|2002|pp=133–134}}&lt;/ref&gt; Poe also emphasizes the power of the spoken word. When Dupin asks the sailor for information about the murders, the sailor himself acts out a partial death: &quot;The sailor's face flushed up as if he were struggling with suffocation... the next moment he fell back into his seat, trembling violently, and with the countenance of death itself.&quot;&lt;ref&gt;{{harvnb|Kennedy|1987|p=120}}&lt;/ref&gt;
+
+==Literary significance and reception==
+Poe biographer Jeffrey Meyers sums up the significance of &quot;The Murders in the Rue Morgue&quot;: &quot;[it] changed the history of world literature.&quot;&lt;ref name=Meyers123/&gt; Often cited as the first [[detective fiction]] story, the character of Dupin became the prototype for many future fictional detectives, including [[Arthur Conan Doyle]]'s [[Sherlock Holmes]] and [[Agatha Christie]]'s [[Hercule Poirot]]. The genre is distinctive from a general mystery story in that the focus is on analysis.&lt;ref name=Sova163&gt;{{harvnb|Sova|2001|pp=162–163}}&lt;/ref&gt; Poe's role in the creation of the detective story is reflected in the [[Edgar Award]]s, given annually by the [[Mystery Writers of America]].&lt;ref&gt;{{harvnb|Neimeyer|2002|p=206}}&lt;/ref&gt;
+
+&quot;The Murders in the Rue Morgue&quot; also established many [[Trope (literature)|tropes]] that would become common elements in mystery fiction: the [[Eccentricity (behavior)|eccentric]] but brilliant detective, the bumbling [[constabulary]], the first-person narration by a close personal friend. Poe also portrays the police in an unsympathetic manner as a sort of [[foil (literature)|foil]] to the detective.&lt;ref&gt;{{harvnb|Van Leer|1993|p=65}}&lt;/ref&gt; Poe also initiates the storytelling device where the detective announces his solution and then explains the reasoning leading up to it.&lt;ref&gt;{{harvnb|Cornelius|2002|p=33}}&lt;/ref&gt; It is also the first [[locked room mystery]] in detective fiction.&lt;ref name=Silverman174/&gt;
+
+Upon its release, &quot;The Murders in the Rue Morgue&quot; and its author were praised for the creation of a new profound novelty.&lt;ref name=Silverman173/&gt; The Pennsylvania ''Inquirer'' printed that &quot;it proves Mr Poe to be a man of genius... with an inventive power and skill, of which we know no parallel.&quot;&lt;ref name=Silverman174&gt;{{harvnb|Silverman|1991|p=174}}&lt;/ref&gt; Poe, however, downplayed his achievement in a letter to [[Philip Pendleton Cooke]]:&lt;ref&gt;{{harvnb|Kennedy|1987|p=119}}&lt;/ref&gt;
+{{quote|These tales of ratiocination owe most of their popularity to being something in a new key. I do not mean to say that they are not ingenious – but people think them more ingenious than they are – on account of their method and ''air'' of method. In the &quot;Murders in the Rue Morgue&quot;, for instance, where is the ingenuity in unraveling a web which you yourself... have woven for the express purpose of unraveling?&quot;&lt;ref name=Quinn354/&gt;}} Modern readers are occasionally put off by Poe's violation of an implicit narrative convention: readers should be able to guess the solution as they read. The twist ending, however, is a sign of &quot;bad faith&quot; on Poe's part because readers would not reasonably include an orangutan on their list of potential murderers.&lt;ref&gt;{{harvnb|Rosenheim|1997|p=68}}&lt;/ref&gt;
+
+==Inspiration==
+The word ''detective'' did not exist at the time Poe wrote &quot;The Murders in the Rue Morgue&quot;,&lt;ref name=Silverman173/&gt; though there were other stories that featured similar problem-solving characters. ''Das Fräulein von Scuderi'' (1819), by [[E. T. A. Hoffmann]], in which [[Mademoiselle de Scuderi|Mlle. de Scuderi]], a kind of 19th-century [[Miss Marple]], establishes the innocence of the police's favorite suspect in the murder of a jeweler, is sometimes cited as the first detective story.&lt;ref name=Booker507/&gt; Other forerunners include [[Voltaire]]'s ''[[Zadig]]'' (1748), with a main character who performs similar feats of analysis,&lt;ref name=Silverman171/&gt; themselves borrowed from ''[[The Three Princes of Serendip]]'', an Italian rendition of [[Amir Khusro]]'s &quot;[[Hasht-Bihisht (poem)|Hasht-Bihisht]]&quot;.&lt;ref&gt;{{harvnb|Merton|2006|p=16}}&lt;/ref&gt;
+
+Poe may also have been expanding on previous analytical works of his own including the essay on &quot;[[Maelzel's Chess Player]]&quot; and the comedic &quot;Three Sundays in a Week&quot;.&lt;ref name=Silverman174/&gt; As for the twist in the plot, Poe was likely inspired by the crowd reaction to an orangutan on display at the Masonic Hall in Philadelphia in July 1839.&lt;ref name=Meyers123/&gt; The name of the main character may have been inspired from the &quot;Dupin&quot; character in a series of stories first published in ''[[Burton's Gentleman's Magazine]]'' in 1828 called &quot;Unpublished passages in the Life of Vidocq, the French Minister of Police&quot;.&lt;ref&gt;{{harvnb|Cornelius|2002|p=31}}&lt;/ref&gt; Poe would likely have known the story, which features an analytical man who discovers a murderer, though the two plots share little resemblance. Murder victims in both stories, however, have their neck cut so badly that the head is almost entirely removed from the body.&lt;ref&gt;{{harvnb|Ousby|1972|p=52}}&lt;/ref&gt; Dupin actually mentions [[Eugène François Vidocq|Vidocq]] by name, dismissing him as &quot;a good guesser&quot;.&lt;ref&gt;{{harvnb|Quinn|1998|p=311}}&lt;/ref&gt;
+
+==Publication history==
+[[File:Murders Rue Morgue 1843 prose.jpg|thumb|''The Prose Romances of Edgar A. Poe'', No. I, William H. Graham, Philadelphia, 1843.]]
+Poe originally titled the story &quot;Murders in the Rue Trianon&quot; but renamed it to better associate with death.&lt;ref&gt;{{harvnb|Sova|2001|p=162}}&lt;/ref&gt; &quot;The Murders in the Rue Morgue&quot; first appeared in ''[[Graham's Magazine]]'' in April 1841 while Poe was working as an editor. He was paid an additional $56 for it — an unusually high figure; he was only paid $9 for &quot;[[The Raven]]&quot;.&lt;ref&gt;{{harvnb|Ostram|1987|pp=39,40}}&lt;/ref&gt; In 1843, Poe had the idea to print a series of [[pamphlet]]s with his stories entitled ''The Prose Romances of Edgar A. Poe''. He printed only one, &quot;The Murders in the Rue Morgue&quot; oddly collected with the [[satire|satirical]] &quot;[[The Man That Was Used Up]]&quot;. It sold for 12 and a half cents.&lt;ref&gt;{{harvnb|Ostram|1987|p=40}}&lt;/ref&gt; This version included 52 changes from the original text from ''Graham's'', including the new line: &quot;The Prefect is somewhat too cunning to be profound&quot;, a change from the original &quot;too cunning to be acute&quot;.&lt;ref&gt;{{harvnb|Quinn|1998|p=399}}&lt;/ref&gt; &quot;The Murders in the Rue Morgue&quot; was also reprinted in Wiley &amp; Putnam's collection of Poe's stories simply called ''Tales''. Poe did not take part in selecting which tales would be collected.&lt;ref&gt;{{harvnb|Quinn|1998|pp=465–466}}&lt;/ref&gt;
+
+Poe's sequel to &quot;The Murders in the Rue Morgue&quot; was &quot;[[The Mystery of Marie Rogêt]]&quot;, first serialized in December 1842 and January 1843. Though subtitled &quot;A Sequel to 'The Murders in the Rue Morgue'&quot;, &quot;The Mystery of Marie Rogêt&quot; shares very few common elements with &quot;The Murders in the Rue Morgue&quot; beyond the inclusion of C. Auguste Dupin and the Paris setting.&lt;ref&gt;{{harvnb|Sova|2001|p=165}}&lt;/ref&gt; Dupin reappeared in &quot;[[The Purloined Letter]]&quot;, which Poe called &quot;perhaps the best of my tales of ratiocination&quot; in a letter to [[James Russell Lowell]] in July 1844.&lt;ref&gt;{{harvnb|Quinn|1998|p=430}}&lt;/ref&gt;
+
+The original manuscript of &quot;The Murders in the Rue Morgue&quot; which was used for its first printing in ''Graham's Magazine'' was discarded in a wastebasket. An [[apprenticeship|apprentice]] at the office, J. M. Johnston, retrieved it and left it with his father for safekeeping. It was left in a music book, where it survived three house fires before being bought by [[George William Childs]]. In 1891, Childs presented the manuscript, re-bound with a letter explaining its history, to [[Drexel University]].&lt;ref&gt;{{harvnb|Boll|1943|p=302}}&lt;/ref&gt; Childs had also donated $650 for the completion of Edgar Allan Poe's new grave monument in [[Baltimore, Maryland]] in 1875.&lt;ref&gt;{{harvnb|Miller|1974|pp=46–47}}&lt;/ref&gt;
+
+&quot;The Murders in the Rue Morgue&quot; was one of the earliest of Poe's works to be translated into [[French language|French]]. Between June 11 and June 13, 1846, &quot;{{lang|fr|Un meurtre sans exemple dans les Fastes de la Justice}}&quot; was published in ''La Quotidienne'', a Paris newspaper. Poe's name was not mentioned and many details, including the name of the Rue Morgue and the main characters (&quot;Dupin&quot; became &quot;Bernier&quot;), were changed.&lt;ref name=Quinn517&gt;{{harvnb|Quinn|1998|p=517}}&lt;/ref&gt; On October 12, 1846, another uncredited translation, renamed &quot;Une Sanglante Enigme&quot;, was published in ''Le Commerce''. The editor of ''Le Commerce'' was accused of [[plagiarism|plagiarizing]] the story from ''La Quotidienne''. The accusation went to trial and the public discussion brought Poe's name to the attention of the French public.&lt;ref name=Quinn517/&gt;
+
+==Adaptations==
+&quot;The Murders in the Rue Morgue&quot; has been adapted for radio, film and television many times.
+
+* The first film adaptation was a short silent film made in 1914. [http://www.imdb.com/title/tt0004367/combined].
+* The first full-length version was ''[[Murders in the Rue Morgue (1932 film)|Murders in the Rue Morgue]]'' by [[Universal Pictures]] in 1932, directed by [[Robert Florey]] and starring [[Bela Lugosi]], [[Leon Ames (actor)|Leon Ames]] and [[Sidney Fox]], with [[Arlene Francis]].&lt;ref name=Sova163/&gt; The film bears little resemblance to the original story.
+* Another adaptation, ''[[Phantom of the Rue Morgue]]'', was released in 1954 by [[Warner Brothers]], directed by [[Roy Del Ruth]] and starring [[Karl Malden]] and [[Patricia Medina]].
+* A TV movie made by Syndicated in 1968, ''The Murders in the Rue de Morgue'', is an adaptation by [[James MacTaggart]], starring [[Walter Horsbrugh]], [[Charles Kay]] and [[Dennis Edwards (actor)|Dennis Edwards]].
+* A film in 1971 directed by [[Gordon Hessler]] with the title ''[[Murders in the Rue Morgue (1971 film)|Murders in the Rue Morgue]]'' had little to do with the Poe story.
+* On January 7, 1975, a radio-play version was broadcast on ''CBS Radio Mystery Theater''.
+* A made-for-TV movie, ''The Murders in the Rue Morgue'', aired in 1986. It was directed by [[Jeannot Szwarc]] and starred [[George C. Scott]], [[Rebecca De Mornay]], [[Ian McShane]], and [[Val Kilmer]].
+* It has also been adapted as a video game by Big Fish Games for their &quot;Dark Tales&quot; franchise under the title &quot;Dark Tales: Edgar Allan Poe's Murders in the Rue Morgue&quot;.&lt;ref&gt;{{cite book|last=Hischak|first=Thomas S.|title=American Literature on Stage and Screen|year=2012|publisher=McFarland|location=NC, USA|isbn=978-0-7864-6842-3|pages=153|url=http://www.mcfarlandbooks.com/book-2.php?id=978-0-7864-6842-3}}&lt;/ref&gt;
+* ''Murders in the Rue Morgue, and The Gold Bug'' (1973), a simplified version by [[Robert James Dixson]], was published by Regents Pub. Co.
+* The British heavy metal band [[Iron Maiden]] has a song called ''Murders in Rue Morgue'', based on the story.
+* ''[[Morgue Street]]'' is a 2012 short film directed by [[Alberto Viavattene]] starring [[Federica Tommasi]] and Désirée Giorgetti.&lt;ref&gt;http://www.imdb.com/name/nm2747564/&lt;/ref&gt;&lt;ref&gt;http://www.imdb.com/name/nm1408118/&lt;/ref&gt;
+
+==See also==
+{{portal|Novels}}
+*[[Rue Morgue (magazine)]]
+*[[Rue Morgue Radio]]
+
+==References==
+{{reflist|3}}
+
+===Sources===
+* {{cite journal |ref=harv |last1=Boll |first1=Ernest |date=May 1943 |title=The Manuscript of 'The Murders in the Rue Morgue' and Poe's Revisions |journal=Modern Philology |volume=40 |issue=4 }}
+* [[The Seven Basic Plots]]. {{cite book |ref=harv |last=Booker |first=Christopher |year=2004 |title=The Seven Basic Plots |location=London |publisher=Continuum |isbn=978-0-8264-8037-8 }}
+* {{cite journal |last=Cleman |first=John |date=December 1991 |pages=623–640 |title=Irresistible Impulses: Edgar Allan Poe and the Insanity Defense |location=Durham, NC |publisher=Duke University Press |journal=American Literature |volume=63 |issue=4 |url=http://www.jstor.org/stable/2926871 |ref=harv |doi=10.2307/2926871}}
+* {{citation |last=Cornelius |first=Kay |year=2002 |chapter=Biography of Edgar Allan Poe |editor=[[Harold Bloom]]  |title=Bloom's BioCritiques: Edgar Allan Poe |location=Philadelphia, PA |publisher=Chelsea House Publishers |isbn=978-0-7910-6173-2 }}
+* {{citation |last=Harrowitz |first=Nancy |year=1984 |chapter=The Body of the Detective Model: Charles S. Peirce and Edgar Allan Poe
+|pages=179–197 |editor=[[Umberto Eco]] |editor2=[[Thomas Sebeok]] |title=The Sign of Three: Dupin, Holmes, Peirce |publisher=''History Workshop'', Indiana University Press |publication-place=Bloomington, IN |isbn=978-0-253-35235-4 }}. Harrowitz discusses Dupin's method in the light of [[Charles Sanders Peirce]]'s logic of making good guesses or [[abductive reasoning]].
+* {{cite book |ref=harv |last=Hoffman |first=Daniel |year=1972 |title=Poe Poe Poe Poe Poe Poe Poe |location=Baton Rouge |publisher=Louisiana State University Press |isbn=978-0-8071-2321-8 }}
+* {{cite book |ref=harv |last=Kennedy |first=J. Gerald |year=1987 |title=Poe, Death, and the Life of Writing |location=New Haven |publisher=Yale University Press |isbn=978-0-300-03773-9 }}
+* {{cite book |ref=harv |last=Merton|first=Robert K. |title=The travels and adventures of serendipity : a study in sociological semantics and the sociology of science|year=2006|publisher=Princeton University Press|location=Princeton, NJ|isbn=978-0691126302|page=16|url=http://books.google.co.uk/books?id=ORJVDALLF0kC&amp;lpg=PA16&amp;dq=zadig%20amir&amp;pg=PA16#v=onepage&amp;q=zadig%20amir&amp;f=false|edition=Paperback}}
+* {{cite book |ref=harv |last=Meyers |first=Jeffrey |authorlink= |year=1992 |title=Edgar Allan Poe: His Life and Legacy |publisher=Cooper Square Press |location=New York |edition=Paperback |pages= |isbn=978-0-8154-1038-6 }}
+* {{cite journal |ref=harv |last=Miller |first=John C. |title=The Exhumations and Reburials of Edgar and Virginia Poe and Mrs. Clemm |journal=Poe Studies |volume=vii |issue=2 |date=December 1974 |pages=46–47 |url=http://www.eapoe.org/pstudies/ps1970/p1974204.htm |doi=10.1111/j.1754-6095.1974.tb00236.x}}
+* {{cite book |ref=harv |last=Neimeyer |first=Mark |year=2002 |chapter=Poe and Popular Culture |pages=205–224 |editor-last=Hayes |editor-first=Kevin J. |title=The Cambridge Companion to Edgar Allan Poe |location=Cambridge |publisher=Cambridge University Press |isbn=978-0-521-79727-6 }}
+* {{citation |last=Poe |first=Edgar Allan |year=1927 |authorlink=Edgar Allan Poe |title=Collected Works of Edgar Allan Poe |location=New York |publisher=Walter J. Black |isbn= }}
+* {{cite book |ref=harv |last=Ostram |first=John Ward |year=1987 |chapter=Poe's Literary Labors and Rewards |pages=37–47 |title=Myths and Reality: The Mysterious Mr. Poe |location=Baltimore |publisher=The Edgar Allan Poe Society |isbn= }}
+* {{cite journal |ref=harv |last=Ousby |first=Ian V. K. |date=December 1972 |title=The Murders in the Rue Morgue and 'Doctor D'Arsac': A Poe Source |journal=Poe Studies |volume=V |issue=2 |pages=52 |url=http://www.eapoe.org/pstudies/ps1970/p1972209.htm |doi=10.1111/j.1754-6095.1972.tb00201.x}}
+* {{cite book |ref=harv |last=Quinn |first=Arthur Hobson |year=1998 |title=Edgar Allan Poe: A Critical Biography |location=Baltimore |publisher=Johns Hopkins University Press |isbn=978-0-8018-5730-0}}
+* {{cite book |ref=harv |last=Rosenheim |first=Shawn James |title=The Cryptographic Imagination: Secret Writing from Edgar Poe to the Internet |publisher=Johns Hopkins University Press |location=Baltimore |edition= |year=1997 |isbn=978-0-8018-5332-6 }}
+* {{cite book |ref=harv |last=Silverman |first=Kenneth |year=1991 |authorlink=Kenneth Silverman |title=Edgar A. Poe: Mournful and Never-Ending Remembrance |publisher=Harper Perennial |location=New York |edition=Paperback |pages= |isbn=978-0-06-092331-0 }}
+* {{cite book |ref=harv |last=Sova |first=Dawn B. |year=2001 |title=Edgar Allan Poe A to Z: The Essential Reference to His Life and Work |publisher=Checkmark Books |location=New York |edition=Paperback |isbn=978-0-8160-4161-9 }}
+* {{cite book |ref=harv |last=Thoms |first=Peter |year=2002 |chapter=Poe's Dupin and the Power of Detection |pages=133–147 |editor-last=Hayes |editor-first=Kevin J. |title=The Cambridge Companion to Edgar Allan Poe |publisher=Cambridge University Press |location=Cambridge |isbn=978-0-521-79326-1 }}
+* {{cite book |ref=harv |last=Van Leer |first=David |year=1993 |chapter=Detecting Truth: The World of the Dupin Tales |pages=65–92 |title=The American Novel: New Essays on Poe's Major Tales |editor-last=Silverman |editor-first=Kenneth |editor-link=Kenneth Silverman |location=Cambridge |publisher=Cambridge University Press |isbn=978-0-521-42243-7 }}
+* {{cite book |ref=harv |last=Whalen |first=Terance |year=2001 |chapter=Poe and the American Publishing Industry |title=A Historical Guide to Edgar Allan Poe |editor-last=Kennedy |editor-first=J. Gerald |location=New York |publisher=Oxford University Press |isbn=978-0-19-512150-6 }}
+
+==External links==
+{{wikisource|Tales (Poe)/The Murders in the Rue Morgue|The Murders in the Rue Morgue}}
+{{Commons category}}
+* [http://poestories.com/text.php?file=murders Full text on PoeStories.com] with hyperlinked vocabulary words.
+* {{librivox book | title=The Murders in the Rue Morgue | author=Edgar Allan Poe}}
+*[http://www.eapoe.org/works/info/pt030.htm History of publications] at the [http://www.eapoe.org Edgar Allan Poe Society] online
+
+{{Edgar Allan Poe}}
+{{The Murders in the Rue Morgue}}
+{{good article}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Murders In The Rue Morgue, The}}
+[[Category:1841 short stories]]
+[[Category:Short stories by Edgar Allan Poe]]
+[[Category:Detective fiction short stories]]
+[[Category:Short stories set in Paris]]
+[[Category:Locked room mysteries]]
+[[Category:Works originally published in Graham's Magazine]]
+[[Category:Short stories adapted into films]]</text>
+      <sha1>qc3nimg0q6gcq7w8c4m6w1qphgq3qax</sha1>
+    </revision>
+  </page>
+</mediawiki>

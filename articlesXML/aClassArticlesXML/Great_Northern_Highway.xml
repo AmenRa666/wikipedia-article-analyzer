@@ -1,0 +1,489 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Great Northern Highway</title>
+    <ns>0</ns>
+    <id>1426845</id>
+    <revision>
+      <id>737681784</id>
+      <parentid>721521570</parentid>
+      <timestamp>2016-09-04T11:14:34Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Green Cardamom/WaybackMedic 2|WaybackMedic 2]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="81181">{{good article}}
+{{Use Australian English|date=April 2014}}
+{{Use dmy dates|date=April 2014}}
+{{Infobox Australian road
+| road_name    = Great Northern Highway
+| state        = wa
+| type         = highway
+| location     = Great Northern Highway route map.png
+| loc_caption  = Map of Western Australia with Great Northern Highway highlighted in red
+| length       = 3194.66
+| length_ref   = &lt;ref name=&quot;RIMS&quot;&gt;{{cite web |author=Main Roads Western Australia |title=Road Information Mapping System |url=http://gis.mainroads.wa.gov.au/roadinformationmap/ |publisher=Government of Western Australia |accessdate=20 June 2013}}&lt;/ref&gt;
+| gazetted     = 10 March 1944
+| gazetted_ref = &lt;ref name=&quot;gazetted 1944&quot; /&gt;
+| route        = {{Plainlist|
+* {{AUshield|N|95}} [[List of road routes in Western Australia#95|National Highway 95]] &lt;small&gt;(Middle&amp;nbsp;Swan – Mundabullangana)&lt;/small&gt;
+* {{AUshield|N|1}} [[List of road routes in Western Australia#1|National Highway 1]] &lt;small&gt;(Mundabullangana – Victoria Highway)&lt;/small&gt;
+* {{AUshield|R|1}} [[List of road routes in Western Australia#R1|National Route 1]] &lt;small&gt;(Midland – Muchea)&lt;/small&gt;
+}}
+| tourist      = {{Plainlist|
+* {{AUshield|T|203}} [[Swan Valley Tourist Drive]] &lt;small&gt;(Tourist Drive&amp;nbsp;203, Perth)&lt;/small&gt;
+* {{AUshield|T|350}} [[Geikie–Windjana Tourist Way]] &lt;small&gt;(Tourist Drive&amp;nbsp;350, Geikie Gorge National Park – Fitzroy Crossing)&lt;/small&gt;
+* {{AUshield|T|359}} [[Chittering Valley Tourist Way]] &lt;small&gt;(Tourist Drive&amp;nbsp;359, Bullsbrook)&lt;/small&gt;
+* {{AUshield|T|360}} [[Midlands Tourist Way]] &lt;small&gt;(Tourist Drive&amp;nbsp;360, Upper Swan – Walebing)&lt;/small&gt;
+}}
+| direction_a  = Southwest
+| end_a        = {{AUshield|R|1}}  [[Morrison Road]], &lt;small&gt;(National Routes&amp;nbsp;1), [[Midland, Western Australia|Midland,&amp;nbsp;Perth]]&lt;/small&gt;
+| exits        = {{Plainlist|
+* {{AUshield|S|3}} [[Reid Highway]] &lt;small&gt;(State Route&amp;nbsp;3)&lt;/small&gt;
+* {{AUshield|N|95|S|3}} [[Roe Highway]] &lt;small&gt;(National Highway&amp;nbsp;95 / State Route&amp;nbsp;3)&lt;/small&gt;
+* {{AUshield|R|1}} [[Brand Highway]] &lt;small&gt;(National Route&amp;nbsp;1)&lt;/small&gt;
+* {{AUshield|S|123}} [[Geraldton-Mount Magnet Road]] &lt;small&gt;(State Route&amp;nbsp;123)&lt;/small&gt;
+* [[Goldfields Highway]]
+* {{AUshield|R|1}} [[North West Coastal Highway]] &lt;small&gt;(National Route&amp;nbsp;1)&lt;/small&gt;
+* {{AUshield|N|1}} [[Victoria Highway]] &lt;small&gt;(National Highway&amp;nbsp;1)&lt;/small&gt;
+}}
+| direction_b  = Northeast
+| end_b        = Harbour Road, [[Wyndham, Western Australia|Wyndham]]
+| est          = 
+| through      ={{WAcity|Bullsbrook|New Norcia|Dalwallinu|Mount Magnet}}, {{WAcity|Meekatharra|Newman|Port Hedland|Broome}} {{WAcity|Fitzroy Crossing|Halls Creek}}
+}}
+
+'''Great Northern Highway''' links [[Western Australia]]'s capital city [[Perth]] with its northernmost port, [[Wyndham, Western Australia|Wyndham]]. With a length of almost {{convert|3200|km|mi|-2}}, it is the longest highway in Australia, with the majority included as part of the Perth Darwin [[National Highway (Australia)|National Highway]]. The highway is constructed as a [[Sealed road|sealed]], predominantly two-lane single carriageway, but with some single-lane bridges in the [[Kimberley region of Western Australia|Kimberley]]. Great Northern Highway travels through remote areas of the state, and is the only sealed road link between the [[Northern Territory]] and northern Western Australia. Economically, it provides vital access through the [[Wheatbelt (Western Australia)|Wheatbelt]] and [[Mid West (Western Australia)|Mid West]] to the resource-rich regions of the [[Pilbara]] and Kimberley. In these areas, the key industries of mining, agriculture and pastoral [[Station (Australian agriculture)|stations]], and tourism are all dependent on the highway.
+
+In Perth, the highway begins in [[Midland, Western Australia|Midland]] near [[Great Eastern Highway]], and further north intersects the [[Reid Highway|Reid]] and [[Roe Highway|Roe]] highways, which together form Perth's [[ring road]]. There are also three rural highways that spur off Great Northern Highway. [[Brand Highway]] and [[North West Coastal Highway]] provide an alternative coastal route between [[Muchea, Western Australia|Muchea]] and [[Port Hedland, Western Australia|Port Hedland]], while [[Victoria Highway]] carries the National Highway route and interstate traffic into the Northern Territory. Various [[List of road routes in Western Australia|road routes]] are allocated to sections of Great Northern Highway, including the [[Highway 1 (Australia)|Highway&amp;nbsp;1]] routes [[List of road routes in Western Australia#R1|National Route&amp;nbsp;1]] and [[List of road routes in Western Australia#1|National Highway&amp;nbsp;1]], as well as [[List of road routes in Western Australia#95|National Highway&amp;nbsp;95]].
+
+The highway was created in 1944 from existing roads in the Wheatbelt and a series of tracks through [[Remote Western Australia|remote pastoral areas]]. However, it was a hazardous route that could be dusty in the dry season, and boggy or washed away in the wet season. Some sections were effectively impassable sand, while others contained limestone outcrops. Economic growth and development in northern Western Australia prompted initial improvement efforts, and the federal government's Beef Roads Scheme in the 1960s resulted in a noticeably higher-quality road in the Kimberley. Construction of a sealed road from Perth to Wyndham, including numerous bridges to reduce the impact of seasonal flooding, took many years to complete. The last section opened on 16 December 1989, and received national media coverage. However, by then many older sections were either worn out or not up to modern standards. Various upgrades have been carried out in small sections, across the length of the highway, with further works planned. A major realignment of the highway in Perth is scheduled for construction between 2016 and 2019, as part of the [[NorthLink WA]] project that will also upgrade [[Tonkin Highway]].
+
+==Route description==
+Great Northern Highway is the main north-south route between Perth and the northern areas of Western Australia. Covering a distance of {{convert|3195|km}},&lt;ref name=RIMS /&gt; it is the longest highway in Australia.&lt;ref&gt;{{cite press release |last1=Briggs |first1=Jamie |last2=Nalder |first2=Dean |title=Shorter Travel Times on Australia's Longest Highway |url=http://www.minister.infrastructure.gov.au/jb/releases/2014/April/jb025_2014.aspx |publisher=Minister for Infrastructure
+and Regional Development, Commonwealth of Australia |date=9 April 2014 |accessdate=23 June 2014 |archiveurl=http://web.archive.org/web/20140623084823/http://www.minister.infrastructure.gov.au/jb/releases/2014/April/jb025_2014.aspx |archivedate=23 June 2014 |deadurl=no}} {{cite archives |archiveurl=http://www.webcitation.org/6bS5D8gog |archivedate=11 September 2015}}&lt;/ref&gt; From [[Midland, Western Australia|Midland]] in Perth's north-east, the highway heads generally north-east through the [[Wheatbelt (Western Australia)|Wheatbelt]] and [[Mid West (Western Australia)|Mid West]] to [[Newman, Western Australia|Newman]], north-west to the coastal [[Pilbara Iron|Pilbara]] town of [[Port Hedland, Western Australia|Port Hedland]], along the coastline to [[Broome, Western Australia|Broome]], east to [[Halls Creek, Western Australia|Halls Creek]], and finally north to [[Wyndham, Western Australia|Wyndham]], on the state's northern coastline. {{convert|60|km|mi|spell=In}} out from Wyndham, the highway intersects the start of [[Victoria Highway]], which carries interstate traffic to the [[Northern Territory]] via [[Kununurra, Western Australia|Kununurra]]. Various [[List of road routes in Western Australia|road routes]] are allocated to sections of Great Northern Highway, which is mostly a [[National Highway (Australia)|National Highway]] route, and also forms part of Australia's [[Highway 1 (Australia)|Highway&amp;nbsp;1]]. It is signed as [[List of road routes in Western Australia#R1|National Route&amp;nbsp;1]] from Midland to [[Middle Swan, Western Australia|Middle Swan]], [[List of road routes in Western Australia#95|National Highway&amp;nbsp;95]] and National Route&amp;nbsp;1 [[concurrency (road)|concurrently]] from Middle Swan to [[Muchea, Western Australia|Muchea]], National Highway&amp;nbsp;95 from Muchea to [[Mundabullangana, Western Australia|Mundabullangana]], and [[List of road routes in Western Australia#1|National Highway&amp;nbsp;1]] from Mundabullangana to Victoria Highway.&lt;ref name=GMaps /&gt; The vast majority of the highway is a two-lane single carriageway, although {{as of|2014|lc=y}} there are thirteen single-lane bridges and four single-lane [[Floodway (road)|floodways]] in the [[Kimberley (Western Australia)|Kimberley]].&lt;ref name=GMaps&gt;{{Google maps |url=https://www.google.com.au/maps/dir/-31.886096,116.005579/-15.46499,128.100081/@-22.7807442,122.3024323,2212918m/data=!3m1!1e3!4m11!4m10!1m6!3m4!1m2!1d116.022972!2d-31.787986!3s0x2a32b5e1681dca4d:0x1304f0b526a30350!4e1!1m1!4e1!3e0?hl=en |accessdate=12 February 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Kimberley Zone Fights for Double-lane Bridges |url=http://www.abc.net.au/news/2014-05-30/kimberley-zone-fights-for-double-lane-bridges/5489704 |accessdate=24 June 2014 |work=[[ABC News (Australia)|ABC News]] |publisher=[[Australian Broadcasting Corporation]] |date=30 May 2014 |archiveurl=http://web.archive.org/web/20140603074016/http://www.abc.net.au/news/2014-05-30/kimberley-zone-fights-for-double-lane-bridges/5489704 |archivedate=3 June 2014 |deadurl=no}} {{cite archives |archiveurl=http://www.webcitation.org/6bS5ObiA5 |archivedate=11 September 2015}}&lt;/ref&gt; The speed limit is {{convert|110|km/h|mi/h|disp=5}} except in and around [[built up area]]s.&lt;ref name=RIMS /&gt;
+
+Great Northern Highway travels to [[Remote Western Australia|remote areas]] of Western Australia, including the Munjina Roadhouse near the Hamersley Ranges,&lt;ref&gt;{{cite web |title=Women's Only Gathering |url=http://www.abc.net.au/local/stories/2010/05/19/2904029.htm |website=ABC North West WA |publisher=Australian Broadcasting Corporation |accessdate=23 June 2014 |date=19 May 2010 |archiveurl = http://web.archive.org/web/20140623082753/http://www.abc.net.au/local/stories/2010/05/19/2904029.htm |archivedate=23 June 2014 |deadurl=no}} {{cite archives |archiveurl=http://www.webcitation.org/6bS5Sqz8W |archivedate=11 September 2015}}&lt;/ref&gt; and the communities of [[Eighty Mile Beach]], [[Wallal]], [[Sandfire, Western Australia|Sandfire]] and [[Mandora Station|Mandora]], which are located between Broome and Port Hedland.&lt;ref&gt;{{cite web |last=Collins |first=Ben |title=The Nervous Wait for Information From the Cyclone Laurence Impact Area |url=http://www.abc.net.au/local/stories/2009/12/22/2778186.htm |website=ABC Kimberley |publisher=Australian Broadcasting Corporation |accessdate=23 June 2014 |date=22 December 2009 |archiveurl=http://web.archive.org/web/20140623083109/http://www.abc.net.au/local/stories/2009/12/22/2778186.htm |archivedate=23 June 2014 |deadurl=no}} {{cite archives |archiveurl=http://www.webcitation.org/6bS5YZVqJ |archivedate=11 September 2015}}&lt;/ref&gt; It is the only [[sealed road]] between the Northern Territory border and major population centres in the north of the state.&lt;ref name=&quot;Kimberley profile&quot; /&gt; Economically, Great Northern Highway is also a vital link in the resource rich regions of the Wheatbelt, Mid West, Pilbara, and Kimberley. The key industries of mining, agriculture, and pastoral stations are all dependent on the highway as a significant and in some cases only method of transport. Tourism accounts for a significant portion of the road's traffic, and is a growing part of or potential growth source for the regional economies. The highway provides access to a variety of tourist attractions, including [[New Norcia, Western Australia|New Norcia]], the [[Shire of Yilgarn|Yilgarn]] area, and various national parks, including [[Karijini National Park|Karijini]].&lt;ref name=&quot;Kimberley profile&quot;&gt;{{cite web |title=Kimberley Regional Profile |url=https://www.mainroads.wa.gov.au/Documents/Kimberley%20Regional%20Profile%202013-14.RCN-D14%5E23137815.PDF |publisher=Government of Western Australia |accessdate=23 June 2014 |author=Main Roads Western Australia |archiveurl=http://web.archive.org/web/20140510025337/https://www.mainroads.wa.gov.au/Documents/Kimberley%20Regional%20Profile%202013-14.RCN-D14%5E23137815.PDF |archivedate=10 May 2014 |deadurl=no |format=PDF |year=2013}} {{cite archives |archiveurl=http://www.webcitation.org/6bS5lWMn4 |archivedate=11 September 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Wheatbelt North Regional Profile |url=https://www.mainroads.wa.gov.au/Documents/Wheatbelt%20North%20Regional%20Profile.RCN-D13%5E23631257.PDF |publisher=Government of Western Australia |accessdate=23 June 2014 |author=Main Roads Western Australia |archiveurl=http://web.archive.org/web/20131227005748/https://www.mainroads.wa.gov.au/Documents/Wheatbelt%20North%20Regional%20Profile.RCN-D13%5E23631257.PDF |archivedate=27 December 2013 |deadurl=no |format=PDF |year=2013}} {{cite archives |archiveurl=http://www.webcitation.org/6bS5r6P6r |archivedate=11 September 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Mid West Regional Profile |url=https://www.mainroads.wa.gov.au/Documents/Midwest%20Regional%20Profile%202013.RCN-D13%5E23432526.PDF |publisher=Government of Western Australia |accessdate=23 June 2014 |author=Main Roads Western Australia |archiveurl=http://web.archive.org/web/20140123125034/https://www.mainroads.wa.gov.au/Documents/Midwest%20Regional%20Profile%202013.RCN-D13%5E23432526.PDF |archivedate=23 January 2014 |deadurl=no |format=PDF |year=2013}} {{cite archives |archiveurl=http://www.webcitation.org/6bS5znxB7 |archivedate=11 September 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Pilbara Regional Profile |url=https://www.mainroads.wa.gov.au/Documents/Pilbara%20Regional%20Profile%202013.RCN-D13%5E23728690.PDF|publisher=Government of Western Australia |accessdate=23 June 2014 |author=Main Roads Western Australia |archiveurl=http://web.archive.org/web/20140426045938/https://www.mainroads.wa.gov.au/Documents/Pilbara%20Regional%20Profile%202013.RCN-D13%5E23728690.PDF |archivedate=26 April 2014 |deadurl=no |format=PDF |year=2013}} {{cite archives |archiveurl=http://www.webcitation.org/6bS65i2nP |archivedate=11 September 2015}}&lt;/ref&gt; Parts of the highway itself are included in the tourist routes [[Swan Valley Tourist Drive]] (Tourist Drive&amp;nbsp;203) in Perth, [[Chittering Valley Tourist Way]] (Tourist Drive&amp;nbsp;359) in Bullsbrook, [[Midlands Tourist Way]] (Tourist Drive&amp;nbsp;360) from Upper Swan to Walebing, and [[Geikie–Windjana Tourist Way]] (Tourist Drive&amp;nbsp;350) from [[Geikie Gorge National Park]] to Fitzroy Crossing.&lt;ref name=TDWA&gt;{{cite web |title=Tourist Drives of Western Australia |url=http://www.tourism.wa.gov.au/Publications%20Library/Tourist%20Drives%20of%20WA.pdf |publisher=Main Roads Western Australia |accessdate=3 November 2013 |author=Main Roads Western Australia |author2=Western Australian Tourism Commission |author3=Royal Automobile Club |archiveurl=http://web.archive.org/web/20110404120927/http://www.tourism.wa.gov.au/Publications%20Library/Tourist%20Drives%20of%20WA.pdf |archivedate=4 April 2011 |deadurl=yes |format=PDF |pages=7, 8, 15, 37}} {{cite archives |archiveurl=http://www.webcitation.org/6Xhnr4Lw0 |archivedate=11 April 2015}}&lt;/ref&gt;
+
+Main Roads Western Australia [[Traffic count|monitors traffic volume]] across the state's road network, including various locations along Great Northern Highway.&lt;ref name=&quot;traffic digest&quot;&gt;{{cite web|title=Statewide Traffic Digest 2003/04 – 2008/09|url=https://www.mainroads.wa.gov.au/Documents/Traffic%20Digest.u_3169030r_1n_D11%5E2398970.PDF|publisher=Main Roads Western Australia|accessdate=22 June 2014|format=PDF|year=2009|archiveurl=http://www.webcitation.org/6IgQUkQeM|archivedate=7 August 2013|deadurl=no}} {{cite archives |archiveurl=https://web.archive.org/web/20150118123832/https://www.mainroads.wa.gov.au/Documents/Traffic%20Digest.u_3169030r_1n_D11%5E2398970.PDF |archivedate=18 January 2015}}&lt;/ref&gt;{{rp|3}} From 2007/08 to 2008/09, the recorded traffic volumes ranged between 7,830 and 17,710 vehicles per weekday in Perth,&lt;ref name=&quot;traffic digest&quot; /&gt;{{rp|37}} 510 to 2,990 in the Wheatbelt,&lt;ref name=&quot;traffic digest&quot; /&gt;{{rp|105}} 470 to 590 in the Mid West,&lt;ref name=&quot;traffic digest&quot; /&gt;{{rp|83}} 390 to 10,840 in the Pilbara,&lt;ref name=&quot;traffic digest&quot; /&gt;{{rp|87}} and 170 to 4,090 in the Kimberley.&lt;ref name=&quot;traffic digest&quot; /&gt;{{rp|15}} The highest percentage of [[Heavy vehicle|heavy traffic]] was 52.5%, north of Newman Drive in the Pilbara.&lt;ref name=&quot;traffic digest&quot; /&gt;{{rp|87}}
+Overall, Great Northern Highway performs favourably in terms of road safety, compared to other major highways in Western Australia. Whilst making up two thirds of the state's National Highway network, it was the location of only half of all recorded fatalities for 2005–2009. For that period, the sections of the highway from Wubin to the Sandfire Roadhouse, north-east of Port Hedland, were considered by the Australian Automobile Association to be among the lowest risk highway links in the state. However, the section from Perth to Wubin was rated as medium risk, and the northern sections of the highway were rated medium-high and high risk.&lt;ref name=&quot;HowSafeRoads2011&quot;&gt;{{cite web |url=http://www.aaa.asn.au/documents/reports%2F2012%2FAusRAP-report-2011-How-Safe-Are-Our-Roads.pdf |format=PDF |title=How Safe are our Roads? Rating Australia's National Network for Risk, 2011 |publisher=Australian Automobile Association |accessdate=22 June 2014 |date=19 January 2012 |author=Australian Road Assessment Program |pages=28–31 |archiveurl=http://web.archive.org/web/20140202042054/http://www.racq.com.au/__data/assets/pdf_file/0003/82578/AusRAP_-_Rating-Australias-National-Network-for-Risk_-_Benchmarking-the-performance-of-Australias-roads-in-the-Decade-of-Action.pdf |archivedate=2 February 2014 |deadurl=yes}} {{cite archives |archiveurl=http://www.webcitation.org/6bS6NxtBL |archivedate=11 September 2015}}&lt;/ref&gt; In 2013, Great Northern Highway received a similar rating, still higher overall than the other highways. Out of five stars, 21% was rated as one- or two-star, and 79% was rated three- or four-star, with the southern and northern ends of the highway generally less safe than the portion from Wubin to the Sandfire Roadhouse.&lt;ref&gt;{{cite web |title=AusRAP Star Ratings Report |url=http://www.mynrma.com.au/images/About-PDF/AAA_Star_Rating_Booklet_web.pdf |publisher=Australian Automobile Association |accessdate=27 November 2013  |format=PDF |pages=24, 45 |year=2013 |archiveurl=http://web.archive.org/web/20131127050116/http://www.mynrma.com.au/images/About-PDF/AAA_Star_Rating_Booklet_web.pdf |archivedate=27 November 2013 |deadurl=no}} {{cite archives |archiveurl=http://www.webcitation.org/6bS6WJd8F |archivedate=11 September 2015}}&lt;/ref&gt;
+
+===Perth===
+[[File:Bullsbrook SMC 2008.jpg|thumb|Within Perth, Bullsbrook is the northernmost urban area along Great Northern Highway.]]
+Great Northern Highway begins at [[Morrison Road]], Midland, in Perth's north-eastern suburbs, signed as National Route&amp;nbsp;1. Though it originally commenced at [[Great Eastern Highway]],&lt;ref&gt;{{cite news |url=http://nla.gov.au/nla.news-article84362276 |title=Better Road For Midland |newspaper=[[Daily News (Perth, Western Australia)|The Daily News]] |location=Perth, WA |date=26 November 1949 |accessdate=5 April 2014 |page=22}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://nla.gov.au/nla.news-article49048310 |title=Plan To Control Traffic.|newspaper=The West Australian|location=Perth, WA |date=22 August 1952 |accessdate=5 April 2014 |page=20}}&lt;/ref&gt; that section is no longer contiguous, and is now named Old Great Northern Highway. The highway heads north through [[Middle Swan, Western Australia|Middle Swan]], intersecting the start of [[Toodyay Road]] after {{convert|1.3|km|1}}, and then the meeting point of Reid and Roe Highways after another {{convert|1.4|km|1}}. Those highways come together from Perth's ring road, signed as State Route&amp;nbsp;3, and north of this intersection Great Northern Highway is concurrently allocated National Highway&amp;nbsp;95 and National Route&amp;nbsp;1. It continues north through the [[Swan Valley (Western Australia)|Swan Valley]] for {{convert|9.5|km|0}}, passing many wineries, restaurants, and other tourist attractions. The highway crosses the [[Swan River (Western Australia)|Swan River]] and intersects West Swan Road, before turning north-east to travel around the residential part of [[Upper Swan, Western Australia|Upper Swan]]. Great Northern Highway continues north for {{convert|spell=in|13|km|0}} beyond West Swan Road, past larger agricultural properties, to reach [[Bullsbrook, Western Australia|Bullsbrook]], the last urban area within the [[Perth Metropolitan Region]]. After {{convert|11.5|km|0}} beyond Bullsbrook, the highway reaches the edge of the [[Perth metropolitan area]] at the [[City of Swan]]–[[Shire of Chittering]] boundary, where it passes into the Wheatbelt.&lt;ref name=&quot;gmaps Midland-Muchea&quot;&gt;{{Google maps|url=https://www.google.com.au/maps/dir/-31.8860446,116.0055686/-31.8754365,116.009892/-31.8640956,116.0139692/-31.7800115,116.022226/-31.6699084,116.0308282/-31.6019846,116.0105718/-31.5767239,115.9959914/@-31.7081544,116.0182467,11z/am=t/data=!3m1!4b1!4m9!4m8!1m0!1m0!1m0!1m0!1m0!1m0!1m0!3e0 |accessdate=20 June 2014 |title=Great Northern Highway: Midland to Muchea |link=no}}&lt;/ref&gt;
+
+===Wheatbelt===
+[[File:E37 GNH Bindoon.jpg|thumb|left|upright=0.7|View south from Bindoon]]
+In the [[Wheatbelt (Western Australia)|Wheatbelt]], Great Northern Highway links small town sites with the surrounding rural farmland, occasionally passing by remnant patches of [[woodland]]s.&lt;ref name=&quot;gmaps Muchea-Wubin&quot;&gt;{{Google maps |url=https://www.google.com.au/maps/dir/-31.5767239,115.9959914/Bindoon+WA/-31.3493385,116.1156612/NEW+NORCIA/-30.6947664,116.2118027/-30.6263624,116.3649862/-30.491591,116.3622771/-30.4138584,116.6580616/-30.2766966,116.6639401/-30.1055496,116.6304408/@-30.7495851,116.3308432,9z/am=t/data=!3m1!4b1!4m22!4m21!1m0!1m5!1m1!1s0x2bcd1612aad4dfb9:0x400f6382479e2c0!2m2!1d116.0964945!2d-31.3860661!1m0!1m5!1m1!1s0x2bcda7980e2fca29:0x400f6382479e570!2m2!1d116.2131191!2d-30.9733981!1m0!1m0!1m0!1m0!1m0!1m0!3e0 |accessdate=21 June 2014|title=Great Northern Highway: Muchea to Wubin|link=no}}&lt;/ref&gt;
+From the north-eastern edge of Perth, the highway travels north for {{convert|spell=in|3|km|0}} to [[Muchea, Western Australia|Muchea]], where the [[Brand Highway]] and National Route&amp;nbsp;1 branch off to the north-west.&lt;ref name=&quot;gmaps Midland-Muchea&quot; /&gt; Great Northern Highway and National Highway&amp;nbsp;95 continue north-east for {{convert|26|km}}. It passes to the west of Lake Chittering, curves east to cross the [[Brockman River]], and then back north to [[Bindoon, Western Australia|Bindoon]]. {{convert|spell=In|5|km|0}} further north, [[Bindoon–Moora Road]] branches off to the north-west, while the highway skirts east briefly then continues north, reaching New Norcia after {{convert|46|km}}. The starting point of [[The Midlands Road]] is located at [[Walebing, Western Australia|Walebing]], {{convert|35|km}} further north; from there, Great Northern Highway heads north-east for {{convert|18|km}} to [[Bindi Bindi, Western Australia|Bindi Bindi]], north for {{convert|17|km}} to [[Miling, Western Australia|Miling]], then east for {{convert|33|km}} to the northern end of Northam–Pithara Road, and shortly thereafter  [[Pithara, Western Australia|Pithara]]. From here, another {{convert|16|km|0}} takes the road to [[Dalwallinu, Western Australia|Dalwallinu]], and [[Wubin, Western Australia|Wubin]] is {{convert|20|km}} further north.&lt;ref name=&quot;gmaps Muchea-Wubin&quot; /&gt;&lt;ref name=&quot;MRWA WN&quot;&gt;{{cite map |publisher=Government of Western Australia |author=Main Roads Western Australia |title=Wheatbelt North Region Map |date=13 August 2013 |url=https://www.mainroads.wa.gov.au/Documents/REGION%20STATE%20ROAD%20CONDITION%20MAP%20138%20138%20WHEATBELT%20NORTH.RCN-D13%5E233477.PDF |version=Version 1.0 |scale=1:721,154 |accessdate=20 December 2013 |archiveurl=http://www.webcitation.org/6JE6VLScT |archivedate=29 August 2013 |deadurl=no}}&lt;/ref&gt;
+
+===Mid West===
+[[File:Yalgoo Shire.jpg|thumb|North-east of Wubin, the highway travels into the [[Outback]].]]
+As Great Northern Highway heads north-east from Wubin out of the Wheatbelt, the vegetation changes to arid shrubland. In the [[Mid West (Western Australia)|Mid West region]], the long stretches between settlements show few signs of human activity, other than the highway itself. The first such settlement is [[Paynes Find, Western Australia|Paynes Find]], {{convert|154|km}} out from Wubin. At this point the highway heads north again, reaching [[Mount Magnet, Western Australia|Mount Magnet]] after {{convert|143|km}}, and then [[Cue, Western Australia|Cue]] after another {{convert|80|km}}. The road travels north-east for {{convert|115|km}} to [[Meekatharra, Western Australia|Meekatharra]], and then has a long {{convert|412|km|adj=on}} stretch up to the northern edge of the Mid West at the [[Fortescue River]], near [[Newman Airport]].&lt;ref name=&quot;gmaps Wubin-FortescueRiver&quot;&gt;{{Google maps |url=https://www.google.com.au/maps/dir/-30.1055496,116.6304408/PAYNES+FIND/-28.0652336,117.8486931/-27.4234402,117.898377/-26.5910594,118.4963577/-23.4011818,119.7944349/@-26.0157079,118.2143149,6z/am=t/data=!3m1!4b1!4m13!4m12!1m0!1m5!1m1!1s0x2bc8d6c8f25e56d7:0x400f6382479d1f0!2m2!1d117.6946024!2d-29.2591263!1m0!1m0!1m0!1m0!3e0 |accessdate=21 June 2014 |title=Great Northern Highway: Wubin to Fortescue River |link=no}}&lt;/ref&gt;&lt;ref name=&quot;MRWA MW&quot;&gt;{{cite map |publisher=Government of Western Australia |author=Main Roads Western Australia |title=Mid West Region Map |date=16 August 2013 |url=https://www.mainroads.wa.gov.au/Documents/REGION%20STATE%20ROAD%20CONDITION%20MAP%20138%20138%20MID%20WEST.RCN-D13%5E233479.PDF |version=Version 1.0 |scale=1:892,857 |accessdate = 12 January 2014|archiveurl = http://www.webcitation.org/6JE6QvGbi|archivedate = 29 August 2013|deadurl = no}}&lt;/ref&gt; Halfway along this stretch the highway passes a [[roadhouse (facility)|roadhouse]] at [[Kumarina, Western Australia|Kumarina]].&lt;ref name=&quot;ISA MW&quot;&gt;{{cite web|title=Midwest and Gascoyne Network|url=https://www.mainroads.wa.gov.au/Documents/ISA%20Network%20-%20Midwest%20and%20Gascoyne%20-%20Phased%20Implementation.u_3137500r_1n_0921-0162%5E2F04.PDF|work=Integrated Service Arrangement|publisher=Main Roads Western Australia|accessdate=12 January 2014|format=PDF|date=28 February 2011|archiveurl=http://www.webcitation.org/6IaO8pcK4|archivedate=3 August 2013|deadurl=no}}&lt;/ref&gt;
+
+===Pilbara===
+[[File:Aerial view of Newman, Western Australia.jpg|thumb|left|upright=0.7|alt=Aerial view of Newman, Western Australia|Great Northern Highway travels past the north-east of Newman.]]
+{{convert|spell=In|4|km}} after crossing the Fortescue River, Great Northern Highway intersects [[Marble Bar Road]], the highway's original alignment. It proceeds north to [[Marble Bar, Western Australia|Marble Bar]], mostly as an unsealed road, whilst the highway  deviates north-west, reaching [[Newman, Western Australia|Newman]] after {{convert|3|km|spell = in|0}}. The flat landscape gives way to gentle [[range (geographic)|ranges]], which the highway meanders around as it heads west-north-west for {{convert|109|km}}. It then curves around to the north, proceeding over a distance of {{convert|48|km}} to [[Karijini Road]], the entrance road to the Karijini National Park. The highway continues north for another {{convert|35|km}}, travelling through the north-eastern corner of the national park to [[Nanutarra Munjina Road]]. Great Northern Highway proceeds on its journey north, crossing the [[Yule River]] and its tributaries. The highway then runs parallel to the [[Turner River]] over a {{convert|220|km|adj=on}} distance until it reaches [[North West Coastal Highway]]. This junction is the northern terminus of the National Highway&amp;nbsp;95, and Great Northern Highway continues north-east as National Highway&amp;nbsp;1 – part of Australia's [[Highway&amp;nbsp;1 (Australia)|Highway&amp;nbsp;1]], which is signed as National Route&amp;nbsp;1 along North West Coastal Highway. The turnoff for Port Hedland is {{convert|32|km}} north-east of the intersection, and from there the highway heads east for {{convert|40|km}} to the northern end of Marble Bar Road, and reaching [[Pardoo, Western Australia|Pardoo]] after another {{convert|72|km}}. It parallels the coastline thereafter, passing into the [[Kimberley (Western Australia)|Kimberley region]] shortly after the Pardoo Roadhouse.&lt;ref name=&quot;gmaps FortescueRiver-Pardoo&quot;&gt;{{Google maps |url=https://www.google.com.au/maps/dir/-23.4012678,119.7945427/-23.3732229,119.7781728/-23.3605904,119.7543187/-23.0413249,118.8345093/-22.6684833,118.7014914/-22.3766642,118.6929076/-20.5705409,118.4370445/-20.3568062,118.6230845/-20.382433,118.9738865/Pardoo+WA/@-21.6143001,119.1157784,8z/am=t/data=!3m1!4b1!4m17!4m16!1m0!1m0!1m0!1m0!1m0!1m0!1m0!1m0!1m0!1m5!1m1!1s0x2b8a68dd7c32eae3:0x400f6382479ca80!2m2!1d119.5972138!2d-20.2178802!3e0?hl=en |accessdate=21 June 2014 |title=Great Northern Highway: Fortescue River to Pardoo |link=no}}&lt;/ref&gt;&lt;ref name=&quot;MRWA UR&quot;&gt;{{cite map |publisher=Government of Western Australia |title=Upper Regions Map: Kimberley, Pilbara and Gascoyne |date=13 August 2013 |url=https://www.mainroads.wa.gov.au/Documents/REGIONAL%20ROAD%20CONDITION%20MAP%20UPPER%20REGIONS%20MAP.RCN-D13%5E2343348.PDF |version=Version 1.0 |author=Main Roads Western Australia |accessdate=24 January 2014 |archiveurl=http://www.webcitation.org/6JE6QvGbi |archivedate=29 August 2013 |deadurl=no |scale=1:3,000,000}}&lt;/ref&gt;
+
+===Kimberley===
+[[File:MK-07435 Panton River.jpg|thumb|The Great Northern Highway passing the Little [[Phantom River, Western Australia|Phantom River]] between [[Halls Creek, Western Australia|Halls Creek]] and the [[Warmun Community, Western Australia|Warmun]]]]
+From Pardoo, Great Northern Highway travels north-east, paralleling the coastline for {{convert|455|km}}, and passing [[Eighty Mile Beach, Western Australia|Eighty Mile Beach]] near the [[Sandfire, Western Australia|Sandfire]] Roadhouse. The vegetation becomes denser woodlands once more as the highway heads into the Kimberley's [[tropical monsoon climate]]. At [[Roebuck, Western Australia|Roebuck]] the highway turns east, heading inland, while Broome Roads spurs off to the west, connecting to [[Broome, Western Australia|Broome]]. After {{convert|145|km}}, the highway crosses the [[Fitzroy River (Western Australia)|Fitzroy River]] on Willare Bridge and reaches the turnoff for [[Derby, Western Australia|Derby]], [[Derby Highway]], in [[Willare, Western Australia|Willare]]. Great Northern Highway continues east for {{convert|217|km}} to [[Fitzroy Crossing, Western Australia|Fitzroy Crossing]], where it crosses the Fitzroy River a second time. It continues east, curving around the southern side of the [[Margaret River (Kimberley)|Margaret River]], and reaching [[Tanami Road]] after {{convert|272|km}}. The town of [[Halls Creek, Western Australia|Halls Creek]] and the [[Duncan Road]] turnoff are {{convert|17|km}} north-east of there. From here the highway heads north for {{convert|313|km}}, past [[Warmun, Western Australia|Warmun]] to Victoria Highway.&lt;ref name=&quot;MRWA UR&quot; /&gt;&lt;ref name=&quot;gmaps Pardoo-Wyndham&quot;&gt;{{Google maps |url=https://www.google.com.au/maps/dir/Pardoo+WA/-17.8481502,122.5027641/-17.6337029,123.7387565/-18.2006861,125.5695383/-18.3244723,127.5546442/-18.2229253,127.6700902/-15.868445,128.372147/-15.8341865,128.3117278/-15.4861049,128.1207418/-15.4567973,128.103681/@-17.0147416,124.0116237,6z/am=t/data=!3m1!4b1!4m17!4m16!1m5!1m1!1s0x2b8a68dd7c32eae3:0x400f6382479ca80!2m2!1d119.5972138!2d-20.2178802!1m0!1m0!1m0!1m0!1m0!1m0!1m0!1m0!1m0!3e0?hl=en |accessdate=21 June 2014 |title=Great Northern Highway: Pardoo to Wyndham |link=no}}&lt;/ref&gt; The national highway route turns off at Victoria Highway, travelling past [[Kununurra, Western Australia|Kununurra]] to cross into the [[Northern Territory]].&lt;ref name=&quot;DistBook2013&quot;&gt;{{cite book|title=Distance Book|year=2013|publisher=Main Roads Western Australia|isbn=0-7309-7657-2|pages=4–5|url=http://www.mainroads.wa.gov.au/UsingRoads/TouringWAMaps/Pages/DistanceBook.aspx|edition=13th|accessdate=9 May 2014}}&lt;/ref&gt; Great Northern Highway, however, continues north-west without a route number, passing the eastern end of [[Gibb River Road]] after {{convert|8|km|0|spell = in}}, and reaching Wyndham following another {{convert|48|km}}. The highway continues on for {{convert|spell=in|6|km}} to reach the original townsite and the harbour,&lt;ref name=&quot;gmaps Pardoo-Wyndham&quot; /&gt; where it takes on the local names Odonnell Street, McPhee Street, and Harbour Road.&lt;ref name=RIMS /&gt;
+
+==History==
+
+===Highway origins===
+The name Great Northern Highway was first proposed in October 1940 by the state's Nomenclature Advisory Committee,{{refn|group=lower-alpha|Now the Geographic Names Committee&lt;ref&gt;{{cite web|title=Geographic Names Committee|url=http://www.landgate.wa.gov.au/corporate.nsf/web/Geographic+Names+Committee|publisher=Government of Western Australia|accessdate=22 March 2014|author=Western Australian Land Information Authority|archiveurl=https://web.archive.org/web/20130802165311/http://www.landgate.wa.gov.au/corporate.nsf/web/Geographic+Names+Committee|archivedate=2 August 2013|deadurl=no}}&lt;/ref&gt;}} to describe the main route from Midland to [[Geraldton, Western Australia]].&lt;ref name=MJA1940&gt;{{cite news |url=http://nla.gov.au/nla.news-article46744914 |title=Midland Junction Affairs |newspaper=[[The West Australian]] |location=Perth, WA |date=23 October 1940 |accessdate=22 March 2014 |page=3 }}&lt;/ref&gt; This was following the naming of the Great Eastern and [[Great Southern Highway|Great Southern]] highways.&lt;ref name=&quot;GLaG&quot;&gt;{{cite news |url = http://nla.gov.au/nla.news-article67277690|title = Local and General|newspaper = [[Geraldton Guardian and Express]]|date = 24 October 1940|accessdate = 22 March 2014|page = 2}}&lt;/ref&gt; The Midland Junction Municipal Council approved the name,&lt;ref name=MJA1940 /&gt; however at the Geraldton Municipal Council meeting, one councillor suggested that Great Midland Highway would be a better name. The reasoning was that Geraldton was in the centre of the state's coastline, not in the north. It was explained that the highway would continue north past Geraldton, and the council voted to approve the name.&lt;ref name=GLaG /&gt;
+
+By July 1941, the Nomenclature Advisory Committee's proposal had expanded to three highway names for the roads in the state's northern areas: Great Northern Highway for &quot;the road from Midland Junction Town Hall to Wyndham, via Walebing, Pithara, Wubin, Payne's Find, Mt. Magnet, Cue, Nannine, Meekatharra, Roy Hill, Nullagine, Marble Bar, Mulyee, De Grey, Pardoo, Wallal, Anna Plains, Le Grange, Broome, Derby, Noonkanbah, Fitzroy Crossing, Christmas Creek, Louisa Downs, Hall's Creek and Turkey Creek&quot;,&lt;ref name=NHwys /&gt; North West Coastal Highway for &quot;the road from Geraldton to De Grey, via Northampton, Galena, Carnarvon, Boolaganoo, Winning Pool, Giralia, Yanrey, Onslow, Peedamullah, Mardie, Karratha, Roebourne, Whim Creek, Mundabullangana and Port Hedland&quot;,&lt;ref name=NHwys /&gt; and Geraldton Highway for &quot;the road from Walebing to Geraldton via Mingenew&quot;.&lt;ref name=NHwys&gt;{{cite news |url=http://nla.gov.au/nla.news-article47153477 |title=Northern Highways |newspaper=The West Australian |location=Perth, WA |date=23 July 1941 |accessdate=22 March 2014 |page=6}}&lt;/ref&gt;{{refn|group=lower-alpha|Modern-day [[The Midlands Road]] and [[Brand Highway]]&lt;ref name=&quot;MRWA WN&quot;/&gt;&lt;ref name=&quot;MRWA MW&quot;/&gt;}} The proposal was well received by the local municipal councils and road boards.&lt;ref name=NHwys /&gt;&lt;ref&gt;{{cite news |url = http://nla.gov.au/nla.news-article67313098|title = Local and General|newspaper = Geraldton Guardian and Express|date = 31 July 1941|accessdate = 22 March 2014|page = 2}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url = http://nla.gov.au/nla.news-article67312173|title = Greenough Road Board|newspaper = Geraldton Guardian and Express|date = 14 August 1941|accessdate = 22 March 2014|page = 4}}&lt;/ref&gt;
+
+[[File:Fortescue in flood 1942 (retouched).jpg|thumb|A car struggles to cross the flooded Fortescue River (February 1942).]]
+The name Great Northern Highway was [[gazette]]d on 10 March 1944, under section&amp;nbsp;10 of the Land Act, 1933–1939.&lt;ref name=&quot;gazetted 1944&quot;&gt;{{Gazette WA|title=The Land Act, 1933–1937: Naming of Highway|file=1944/11|page=1944:165|date=10 March 1944|url=https://www.slp.wa.gov.au/gazette/gazette.nsf/searchgazette/A50B3BCCDBA73B5C48257727007C5D0C/$file/gg011.pdf|format=PDF}}&lt;/ref&gt; However, the highway was mostly a series of tracks through remote pastoral areas, with the [[sealed road]] ending just past the Wheatbelt town of Miling in 1950.{{efn|1=Between 1926 and 1928, the newly formed Main Roads Board (predecessor to the Main Roads Department, later renamed [[Main Roads Western Australia]]) took over control and maintenance of the road from Midland Junction to Meekatharra, and twenty-one other important roads, which were declared &quot;main roads&quot;. To increase the usability of the overall main road network, the work schedule for these roads prioritised sealing the worst individual segments, rather than any one road. For example, in 1928/29, twenty-two separate sections of the [[Albany Highway|Perth–Albany road]] were improved, but the whole route was not completed until 1939.&lt;ref name=VL /&gt;{{rp|27–28, 435}}}}&lt;ref name=VL /&gt;{{rp|120}} Driving was difficult and hazardous all year round. The road was very dusty in the [[dry season]], and some sections of the road were effectively impassable sand, while other sections contained limestone [[outcrop]]s that damaged tyres. During the [[wet season]], when rivers flooded, sections of road were essentially [[bog]]s, or worse still, were completely washed away.&lt;ref name=&quot;VL&quot;&gt;{{cite book |first = Leigh|last = Edmonds|title = The Vital Link: A History of Main Roads Western Australia 1926–1996|publisher = University of Western Australia Press|location = Nedlands, WA|year = 1997|isbn = 1-875560-87-4}}&lt;/ref&gt;{{rp|120–121}}
+
+===Sealing the highway===
+
+====Initial efforts====
+Economic growth and development in Western Australia's northern regions in the 1940s prompted the state to quadruple road funding between 1946 and 1952. Five &quot;gangs&quot; of workers were allocated to a {{convert|1600|mi|km|adj = on}} length of Great Northern Highway between Meekatharra and Wyndham. However, given the vast distance the highway travelled, and destructive cyclones in the Pilbara and Gascoyne that could destroy multiple weeks worth of work, the overall improvement was relatively insignificant. Over time, though, the road was improved.&lt;ref name=VL /&gt;{{rp|120–121}} New alignments were constructed, such as between Derby and Fitzroy Crossing in the late 1940s, which had originally followed the curve of the Fitzroy River, along its floodplain, and could only be used in the dry season. The new alignment was a more direct {{convert|180|mi|adj=on}} section, with the first {{convert|5|mi|0|spell=in}} sealed, a total of {{convert|68|mi}} of gravel road, and the remainder simply [[Dirt road|formed earth]]. Despite this low construction standard, the road remained passable except for short periods during heavy rain.&lt;ref name=VL /&gt;{{rp|120–121}}
+
+====Beef Roads Scheme====
+In 1961, the [[Government of Australia|federal government]] passed the Western Australian Grants (Beef Cattle Roads) Act 1961, known as the [[Beef Roads Scheme]], that encouraged road building in the [[Kimberley region of Western Australia|Kimberley]].&lt;ref name=VL /&gt;{{rp|168}} This had followed on from an earlier federal grant scheme in 1949 for the construction of a road from [[Nicholson, Western Australia|Nicholson]] to Wyndham.{{Refn|Modern-day [[Duncan Road]]&lt;ref name=RIMS /&gt;|group=lower-alpha}} The road allowed trucks to efficiently transport cattle to port, rather than the slow cattle drives that could lose stock and take weeks to complete.&lt;ref name=VL /&gt;{{rp|122}} The 1961 Beef Roads Scheme initially included upgrading the Wyndham to Halls Creek section of Great Northern Highway as one of three projects in the region. One year later the scheme was expanded to include the Broome to Halls Creek section of the highway, and several bridge construction projects.&lt;ref name=VL /&gt;{{rp|168}} However, the resources allocated to Great Northern Highway were needed to maintain the highway as an unsealed road in a usable condition, rather than to completely seal the roadway. In 1963, work was completed on stabilising a {{convert|42|mi|adj=on}} sandy section to prevent vehicles from becoming bogged, a {{convert|29|mi|adj=on}} section was realigned to avoid the [[Fortescue River]] floodplain, and {{convert|25|mi}} between Marble Bar and Port Hedland was also realigned to minimise the effects of wet weather.&lt;ref name=VL /&gt;{{rp|186}}
+
+====Perth to Newman====
+The projects funded by the Beef Roads Scheme resulted in a noticeably higher quality road in the Kimberley,&lt;ref name=VL /&gt;{{rp|221}} but work still progressed on other sections of the highway. In 1970, a single-lane sealed section was completed between Perth and Meekatharra. The project was one of the first in the state to be constructed by contractors rather than by Main Roads directly. It cost $9&amp;nbsp;million, two-thirds of which was spent after 1959.&lt;ref name=VL /&gt;{{rp|220}} The next section to be upgraded and sealed was from Meekatharra to Newman, a {{convert|414|km|mi|adj=mid|-long}} project that would take four and a half years to construct. Due to the remoteness of the location, airstrips were built alongside the highway, so that workers could be flown in from Geraldton. The highway was realigned in several spots, to avoid difficult areas, improve river crossings, or give drivers a more scenic view of the surrounding area. New bridges were constructed along the route, including a reinforced concrete bridge at the Fortescue River, and a four-span bridge over the Gascoyne River's Middle Branch. By December 1978, the sealed road reached Newman, with the project completed three months ahead of schedule, and at a cost of $20&amp;nbsp;million,  $1&amp;nbsp;million under budget. With a {{convert|7.4|m|ft|adj=mid|-wide}} seal and {{convert|2.4|m|ft|0|adj=mid|-wide}} [[shoulder (road)|shoulders]], the road could easily accommodate two lanes of traffic. Previously sealed sections, totalling {{convert|485|km}} of the highway, were less than half that width. Premier [[Charles Court]] opened the new and improved highway on 12 December 1978.&lt;ref name=VL /&gt;{{rp|297–9}}
+
+====Port Hedland to Wyndham====
+The two-lane sealed road between Halls Creek and Wyndham was also completed in 1978. It involved the construction of 21 bridges, and extensive earthworks designed to blend the road into the terrain. The section was opened on 23 July 1978 by the Minister for Transport, at a cost of over $20&amp;nbsp;million.&lt;ref name=VL /&gt;{{rp|299–300}} Meanwhile, work on sealing and upgrading the {{convert|476|km|mi|adj=mid|-long}} section from Port Hedland and Broome began in 1976. With up to five contractors and four Main Roads teams working throughout the project, it was completed at an extraordinarily rapid pace. It opened in April 1981 at a cost of $56&amp;nbsp;million. With the opening of this section, tourist traffic escalated. Cape Keraudren, [[Eighty Mile Beach]], and Broome became increasingly favoured destinations, especially for residents of the Pilbara.&lt;ref name=VL /&gt;{{rp|301}}
+
+[[File:Onderweg - Fitzroy Crossing - Purnululu (8991950691).jpg|thumb|Great Northern Highway south-east of Fitzroy Crossing]]
+Work accelerated in the 1980s as part of the [[Australian Bicentenary]] Road Development program. From October 1982, the program provided $2.5&amp;nbsp;billion to upgrade the country's roads in the lead up to Australia's bicentenary in 1988.&lt;ref name=VL /&gt;{{rp|302}} By this time, the only sections of Great Northern Highway yet to be sealed were a {{convert|275|km|adj=on}} stretch from Fitzroy Crossing to Halls Creek, and another {{convert|416|km}} between Newman and Port Hedland.&lt;ref name=VL /&gt;{{rp|314}} Construction of the Fitzroy Crossing to Halls Creek section began in October 1981. The route had been surveyed in 1979; with the collaboration of the [[Western Australian Museum]], Main Roads ensured it would not impact important Aboriginal heritage sites. After five years of work, including the construction of nine bridges, the widened and sealed section was completed on 7 September 1986. At the time, this was the final section of the nationwide Highway&amp;nbsp;1 to be sealed, and there was national interest. The media captured the completion on camera, while the federal Minister for Transport, [[Peter Morris (politician)|Peter Morris]], together with the Western Australian Minister for the North West, [[Ernie Bridge]], rode on the bitumen truck for the final spray.&lt;ref name=VL /&gt;{{rp|318–20}} With this section completed, the Newman to Port Hedland section of Great Northern Highway was the only significant section of unsealed highway in Western Australia.&lt;ref name=VL /&gt;{{rp|320}}
+
+====Newman to Port Hedland====
+A realignment of the highway between Newman and Port Hedland had been proposed since 1976, which would see the road deviate to the west at Newman, and travel via [[Wittenoom, Western Australia|Wittenoom]] instead of Marble Bar.&lt;ref name=VL /&gt;{{rp|238}} In the early 1980s, eleven route corridors were investigated by Main Roads. The potential impacts on the natural environment, regional economy, tourism, and resident population were considered, with particular concern for the crossing of the Hamersley Range.&lt;ref name=&quot;VL&quot; /&gt;{{rp|362–5}}
+
+[[File:Early 1992 - Gt Northern Hwy in Munjina Gorge, WA (8091933962).jpg|thumb|left|Great Northern Highway curves down through Munjina Gorge.]]
+As the highway would pass through the [[Hamersley National Park]],{{refn|Renamed Karijini National Park in 1991&lt;ref&gt;{{cite web |author1=Department of Conservation and Land Management |author2=National Parks and Nature Conservation Authority |title=Karijini National Park Management Plan No. 40 |url=http://www.dec.wa.gov.au/pdf/nature/management/karijini.pdf |format=PDF |page=1 |publisher=Government of Western Australia |year=1999 |accessdate=25 June 2014 |archiveurl=http://web.archive.org/web/20110312061348/http://www.dec.wa.gov.au/pdf/nature/management/karijini.pdf |archivedate=12 March 2011 |deadurl=yes}} {{cite archives |archiveurl=http://www.webcitation.org/6bS7KPw1m |archivedate=11 September 2015}}&lt;/ref&gt;|group=lower-alpha}} the [[Environmental Protection Authority of Western Australia|Environmental Protection Authority]] decided in 1983 that an Environment Review and Management Program report was required for the Newman to White Springs section. Consultants prepared the report for Main Roads, which found that the key risks were erosion, visual impact, and possible damage to flora. A detailed survey was carried out, which included the use of laser and infra-red measuring devices from within a helicopter, and numerous field trips to determine the final alignment and bridge sites. A comprehensive Environmental Impact Statement was then produced, and the project was approved in mid-1984.&lt;ref name=&quot;VL&quot; /&gt;{{rp|362–5}}
+
+In early 1986, the contract for this {{convert|12|km|adj=on}} segment through the Munjina and Mungina East gorges was awarded. Construction of this segment involved tight control over earthworks and machinery movements, to protect the National Park ecology. The finished road was a scenic route curving down through the Munjina Gorge and out onto the Fortescue River flood plain, with cuttings and embankments blending it in with the natural environment. It was opened on 12 June 1987 by the federal Minister for Transport, Peter Morris, having cost $28.4 million.&lt;ref name=&quot;VL&quot; /&gt;{{rp|362–5}}
+
+Other portions of the Newman – Port Hedland link were completed over the next two years,{{refn|group=lower-alpha|The contractors involved in the construction of the route between Newman and Port Hedland were [[CIMIC Group#Leighton Contractors|Leighton Contractors]], F.K. Kanny and Sons, [[CIMIC Group#Thiess|Thiess Contractors]], [[John Holland Group]] and Henry Walker Contracting.&lt;ref name=march1990&gt;{{cite journal|title=The Dream Becomes Reality |date=March 1990 |work=Western Roads: Official Journal of the Main Roads Department, Western Australia |volume=15 |issue=1 |page=1 |publisher=Main Roads Department |location=Perth, Western Australia}}&lt;/ref&gt;}} with the last part officially opened on 16 December 1989 by [[Bob Brown (Australian Labor politician)|Bob Brown]] and [[Bob Pearce]], the federal and state transport ministers. This last section of Great Northern Highway also completed the sealing of the [[National Highway (Australia)|National Highway]],&lt;ref name=VL /&gt;{{rp|362–5}}&lt;ref name=march1990/&gt; and the opening ceremony, held on location {{convert|212|km}} south of Port Hedland, received national media coverage.&lt;ref name=VL /&gt;{{rp|362–5}}
+
+===Fitzroy River crossing, Willare===
+In the late 1960s, Main Roads investigated alternative crossing points over the Fitzroy River, to replace the existing low-level bridge at Yeeda. Flooding in January 1966 had demonstrated that Willare was the best site. The new route would be {{convert|8|mi|0|spell=in}} longer, and required two bridges, but would result in a better quality road. When tenders were called, the river flooded again, washing away {{convert|170|ft}} of the old bridge. Rather than reconstruct the low-level crossing, the construction timeframe was shortened from 18 months to 38 weeks. The {{convert|1280|ft|m|adj=mid|-long}} Willare Bridge and {{convert|640|ft|m|adj=mid|-long}} Minnie River Bridge opened on 12 June 1968, having cost almost $700,000. While situated {{convert|7|ft|spell = in}} higher than the worst known flood level, the single-lane bridges were designed to accommodate more extensive flood levels, with the water flowing over them if necessary.&lt;ref name=VL /&gt;{{rp|221}}
+
+By the early 1980s, it was clear that the Fitzroy River crossing was still inadequate. Seasonal flooding had closed the road several times, and damaged the embankments leading up the bridges. The crossing had been closed for twenty four days in 1982; while in 1983, the most severe flooding since 1914 extensively damaged {{convert|2.6|km}} of the highway, closing it for twenty-five days. To alleviate the problem, two new bridges were built in 1985, and the road was widened and raised {{convert|2|to|3|m|spell = in}} above the flood plain. The earthworks for the project included constructing guide banks to direct excess water to flow over floodways, which were protected with rocks. This was designed to minimise the time the road would be closed in such a scenario. The $11&amp;nbsp;million upgraded crossing was opened on 19 December 1985 by the federal Minister for Transport, Peter Morris. Then, one month later, [[1985–86 Australian region cyclone season#Tropical Cyclone Hector|Cyclone Hector]] produced 70% more water than the crossing had been designed for. Water overflowed the road all along the flood plain, not just at designated floodways, ravaging the shoulders and then destroying sections of road. {{convert|spell=In|4|to|5|km}} of the highway was washed away, leaving the bridges isolated and disconnected. The road was closed from 27 January to 14 February 1986, with $200,000 spent just to make the crossing passable. It was then redesigned and rebuilt at a cost of $1.9&amp;nbsp;million to make it more flood resistant.&lt;ref name=VL /&gt;{{rp|315–8}}
+
+===Further improvements===
+[[File:Gone Driveabout 25, Great Northern Highway near Payne's Find, Western Australia, 25 Oct. 2010 - Flickr - PhillipC.jpg|thumb|right|alt=Photograph of single carriageway road|Standard two-lane road with unsealed shoulders near Paynes Find in 2010]]
+Despite the provision of a completely sealed road, there was still much work to be done on the highway, with many older sections either worn out or not up to modern standards. Narrow sections were widened to a full {{convert|spell=in|7|m}}, and repairs made to the road, shoulders, fencing, and [[Road surface marking|line markings]] as required, with work carried out in sections and progressing along the length of the highway.&lt;ref name=VL /&gt;{{rp|366}} Four [[overtaking lane]]s were constructed between Mount Magnet and Cue in 1991; and between 1991 and 1993, there were eight contracts awarded to widen, reconstruct, and seal a combined total of more than {{convert|190|km}} of the highway.&lt;ref name=VL /&gt;{{rp|366}}
+
+A range of projects were carried out across the length of the highway between 1996 and 2006. By 1998, a {{convert|157|km|adj=on}} section between the Sandfire Roadhouse and Victoria Highway had been improved at a cost of $1.1&amp;nbsp;million, and another {{convert|42|km}} north of Meekatharra was improved for $12&amp;nbsp;million in 1999. Two bridges were constructed in the vicinity of Halls Creek in 2000, and another four in 2004/05, replacing floodways so that the highway would remain open during floods. Similarly, {{convert|100|km}} north of Halls Creek, the {{convert|240|m|mi|adj=mid|-long}} Jarlalu Bridge over the Ord River was constructed to replace a single-lane floodway, and was opened in January 2003. That same year, the bridges over the Fortescue and Gascoyne Rivers were strengthened to increase the highway's load capacity. Modifications were made to the steep ascent of the [[Darling Scarp]] at Bindoon Hill between February 2002 and April 2003, and Great Northern Highway was realigned to bypass the Dalwallinu town centre.&lt;ref name=&quot;VLTTY&quot;&gt;{{cite book|last1 = Edmonds|first1 = Leigh|title = The Vital Link: The Transition Years 1996–2006|date = 2008|publisher = Main Roads Western Australia|location = East Perth, WA|isbn = 0-7309-7692-0|pages = 24–25, 28–29}}&lt;/ref&gt;
+
+Work on Great Northern Highway has been continuous. From 2004 to 2010, the Muchea to Wubin section was upgraded, with parts reconstructed and realigned, and traffic lights installed at the intersection with Brand Highway.&lt;ref&gt;{{cite web |author=Main Roads Western Australia |title=Great Northern Highway: Muchea to Wubin |url=https://www.mainroads.wa.gov.au/BuildingRoads/Projects/CompletedProjects/2010Earlier/Pages/gnhMuchea.aspx#.U6ZjnfmSx8E |publisher=Government of Western Australia |accessdate=22 June 2014 |archiveurl=http://web.archive.org/web/20131021150253/https://www.mainroads.wa.gov.au/BuildingRoads/Projects/CompletedProjects/2010Earlier/Pages/gnhMuchea.aspx |archivedate=21 October 2013 |deadurl=no |date=15 July 2003}} {{cite archives |archiveurl=http://www.webcitation.org/6bS7cbE7b |archivedate=11 September 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Great Northern Highway Upgrade: Muchea to Wubin |url=http://accessalliance.com.au/ |publisher=Access Alliance |accessdate=22 June 2014 |archiveurl=http://web.archive.org/web/20130408235604/http://accessalliance.com.au/ |archivedate=8 April 2013}} {{cite archives |archiveurl=http://www.webcitation.org/6bS7vnk6h |archivedate=11 September 2015}}&lt;/ref&gt; In the Kimberley, five sections between Halls Creek and Victoria Highway were improved between 2008 and 2009 with regards to pavement strength, alignment, safety, and flood resistance.&lt;ref&gt;{{cite web |author=Main Roads Western Australia |title=Great Northern Highway: Kimberley |url=https://www.mainroads.wa.gov.au/BuildingRoads/Projects/CompletedProjects/2010Earlier/Pages/gnhkimberley.aspx |publisher=Government of Western Australia |date=24 December 2003 |accessdate=22 June 2014 |archiveurl=http://web.archive.org/web/20131021150518/https://www.mainroads.wa.gov.au/BuildingRoads/Projects/CompletedProjects/2010Earlier/Pages/gnhkimberley.aspx |archivedate=21 October 2013 |deadurl=no}} {{cite archives |archiveurl=http://www.webcitation.org/6bS85cBki |archivedate=11 September 2015}}&lt;/ref&gt; From 2005 to 2010, the Perth section, through the Swan Valley, was upgraded, with the road widened, turning and overtaking lanes constructed, and street lighting improved.&lt;ref&gt;{{cite web |author1=Main Roads Western Australia |title=Great Northern Highway |url=https://www.mainroads.wa.gov.au/BuildingRoads/Projects/CompletedProjects/2011/Pages/gnh.aspx |publisher=Government of Western Australia |accessdate=22 June 2014 |archiveurl=http://web.archive.org/web/20140622054221/https://www.mainroads.wa.gov.au/BuildingRoads/Projects/CompletedProjects/2011/Pages/gnh.aspx#.U6Zs5_mSx8E |archivedate=22 June 2014 |deadurl=no |date=23 February 2013}} {{cite archives |archiveurl=http://www.webcitation.org/6bS8DCaQq |archivedate=11 September 2015}}&lt;/ref&gt; Construction of a realignment around Port Hedland's Wedgefield industrial area, including a new [[parclo interchange]] at Wilson Street, began towards the end of 2012.&lt;ref name=&quot;MRWA GNHport&quot;&gt;{{cite web |author1=Main Roads Western Australia |title=Great Northern Highway Realignment and Wallwork Road Bridge, Port Hedland |url=https://www.mainroads.wa.gov.au/BuildingRoads/Projects/Regional/Pages/GNHport.aspx |publisher=Government of Western Australia |date=19 November 2014 |accessdate=16 January 2015 |archiveurl=http://web.archive.org/web/20140729045432/https://www.mainroads.wa.gov.au/BuildingRoads/Projects/Regional/Pages/GNHport.aspx |archivedate=29 July 2014 |deadurl=yes}} {{cite archives |archiveurl=http://www.webcitation.org/6bS8Opj4w |archivedate=11 September 2015}}&lt;/ref&gt;&lt;ref name=&quot;PTH realign nearing completion&quot;&gt;{{cite web |author=Main Roads Western Australia |title=Great Northern Highway Realignment Project Nearing Completion |url=https://www.mainroads.wa.gov.au/Documents/Great%20Northern%20Highway%20Realignment%20Newsletter%20-%209%20June%202014.RCN-D14%5E23300539.PDF |publisher=Government of Western Australia |format=PDF |date=June 2014 |accessdate=22 June 2014 |archiveurl=http://web.archive.org/web/20140622060510/https://www.mainroads.wa.gov.au/Documents/Great%20Northern%20Highway%20Realignment%20Newsletter%20-%209%20June%202014.RCN-D14%5E23300539.PDF |archivedate=22 June 2014 |deadurl=no}} {{cite archives |archiveurl=http://www.webcitation.org/6bS8XhC1n |archivedate=11 September 2015}}&lt;/ref&gt; It was opened to traffic on 17 June 2014,&lt;ref name=&quot;ABC GNHport open&quot;&gt;{{cite news |title=Great Northern Highway Realignment Opens in Port Hedland |url=http://www.abc.net.au/news/2014-06-17/great-northern-highway-realignment-opens-in-port/5529430?&amp;section=news |accessdate=23 June 2014 |publisher=Australian Broadcasting Corporation |date=17 June 2014 |archiveurl=http://web.archive.org/web/20140623064711/http://www.abc.net.au/news/2014-06-17/great-northern-highway-realignment-opens-in-port/5529430?&amp;section=news |archivedate=23 June 2014 |deadurl=no |work=ABC News}} {{cite archives |archiveurl=http://www.webcitation.org/6bS8hyLj3 |archivedate=11 September 2015}}&lt;/ref&gt; and on 23 July 2014, Deputy Prime Minister [[Warren Truss]], Federal Member for Durack [[Melissa Price (politician)|Melissa Price]], and Pilbara MLA [[Brendon Grylls]] officially opened the project.&lt;ref name=&quot;MRWA GNHport&quot; /&gt;&lt;ref&gt;{{cite press release |author=&lt;!--Staff writer(s); no by-line.--&gt; |title=Highway Upgrade Sees Freight Capacity Soar |url=http://www.warrentruss.com/portfolio.php?id=2393 |publisher =[[Warren Truss]] |date = 23 July 2014 |accessdate=29 July 2014 |archiveurl=http://web.archive.org/web/20140729051142/http://www.warrentruss.com/press.php?id=2393 |archivedate=29 July 2014 |deadurl=no}} {{cite archives |archiveurl=http://www.webcitation.org/6bS8z4JeB |archivedate=11 September 2015}}&lt;/ref&gt; It was finalised in August.&lt;ref name=&quot;MRWA GNHport&quot; /&gt; In October 2013, construction began on a project to straighten and widen Great Northern Highway's curves around Bindi Bindi.&lt;ref&gt;{{cite web |author=Main Roads Western Australia |title=Great Northern Highway: Bindi Bindi to Lyons |url=https://www.mainroads.wa.gov.au/BuildingRoads/Projects/Regional/Pages/BindiBindi.aspx |publisher=Government of Western Australia |accessdate=16 January 2015 |archiveurl=http://web.archive.org/web/20140628014121/https://www.mainroads.wa.gov.au/BuildingRoads/Projects/Regional/Pages/BindiBindi.aspx |archivedate=28 June 2014 |deadurl=yes |date=9 December 2014}} {{cite archives |archiveurl=http://www.webcitation.org/6bS9FVDHl |archivedate=11 September 2015}}&lt;/ref&gt; The project was completed and opened to traffic on 27 February 2015, and allowed the speed limit to be raised from {{convert|80|to|110|km/h|disp=5|abbr=on}}.&lt;ref&gt;{{cite web |author=Main Roads Western Australia |title=Bindi Bindi Upgrade Now Open |url=https://www.mainroads.wa.gov.au/AboutMainRoads/News/Pages/Bindi-Bindi-upgrade-.aspx |accessdate=19 March 2015 |publisher=Government of Western Australia |date=27 February 2015 |archiveurl=https://web.archive.org/web/20150312182948/https://www.mainroads.wa.gov.au/AboutMainRoads/News/Pages/Bindi-Bindi-upgrade-.aspx |archivedate=12 March 2015 |deadurl=yes}} {{cite archives |archiveurl=http://www.webcitation.org/6X8Vafvim |archivedate=19 March 2013}}&lt;/ref&gt;
+A {{convert|21|km|mi|adj=mid|-long}} section between Batty Bog Road (north of New Norcia) and Walebing was reconstructed between September 2014&lt;ref&gt;{{cite web |author=Main Roads Western Australia |title=Project Newsletter: Great Northern Highway Muchea to Wubin Upgrade Stage 2 |url=https://www.mainroads.wa.gov.au/Documents/GNH%20Stage%202%20-%20Muchea%20to%20Wubin%20-%20Newsletter%20November%202014.RCN-D14%5E23620341.PDF |publisher=Government of Western Australia |page=2 |date=November 2014 |accessdate=11 September 2015 |archiveurl=https://web.archive.org/web/20150911025832/https://www.mainroads.wa.gov.au/Documents/GNH%20Stage%202%20-%20Muchea%20to%20Wubin%20-%20Newsletter%20November%202014.RCN-D14%5E23620341.PDF| archivedate=11 September 2015 |deadurl=no}}&lt;/ref&gt;&lt;ref&gt;{{cite web |author1=Main Roads Western Australia |title=Great Northern Highway: Batty Bog Road to Walebing Upgrade |url=https://www.mainroads.wa.gov.au/BuildingRoads/Projects/Regional/Pages/GNH-Walebing.aspx |publisher=Government of Western Australia |accessdate=22 June 2014 |archiveurl=https://web.archive.org/web/20140622074127/https://www.mainroads.wa.gov.au/BuildingRoads/Projects/Regional/Pages/GNH-Walebing.aspx |archivedate=22 June 2014 |deadurl=no |date=18 June 2014}}&lt;/ref&gt; and 2015.&lt;ref name=&quot;Muchea Wubin 2 newsletter Nov15&quot; /&gt;
+
+==Future==
+Further upgrading is planned for Great Northern Highway at its southern end, as well as elsewhere along the highway. Planning has been completed for widening an {{convert|11.4|km|adj=on}} section of Fitzroy Crossing, including replacing two single-lane bridges. {{As of|2014}}, the project is awaiting federal approval, and construction is unfunded.&lt;ref&gt;{{cite web |author1=Main Roads Western Australia |title=Great Northern Highway: Fitzroy Crossing to Gogo |url=https://www.mainroads.wa.gov.au/BUILDINGROADS/PROJECTS/REGIONAL/Pages/GNHfitzroy.aspx |publisher=Government of Western Australia |accessdate=22 June 2014 |archiveurl=https://web.archive.org/web/20140622074352/https://www.mainroads.wa.gov.au/BUILDINGROADS/PROJECTS/REGIONAL/Pages/GNHfitzroy.aspx |archivedate=22 June 2014 |deadurl=no |date=13 June 2014}}&lt;/ref&gt;
+
+===Perth Darwin National Highway===
+{{further|NorthLink WA}}
+[[File:Perth Darwin National Highway, Swan Valley bypass (NorthLinkWA).png|thumb|left|Perth Darwin National Highway Swan Valley bypass (dashed orange line)]]
+In the early 1990s, a corridor study conducted by Main Roads into the long-term needs of the Perth to Darwin National Highway concluded the existing Great Northern Highway, with bypasses around rural towns and the Swan Valley, was the most suitable route for the National Highway.&lt;ref name=&quot;PDNH Initial&quot;&gt;{{cite web |author1=Main Roads Western Australia |title=Perth–Darwin National Highway: Bullsbrook to Bindoon – Initial Alignment Development |url=https://www.mainroads.wa.gov.au/Documents/e80148_20061117104926804.u_1406837r_1n_D06%5E23141037.pdf |publisher=Government of Western Australia |accessdate=22 June 2014 |archiveurl=https://web.archive.org/web/20140622065337/https://www.mainroads.wa.gov.au/Documents/e80148_20061117104926804.u_1406837r_1n_D06%5E23141037.pdf |archivedate=22 June 2014 |pages=2–3 |format=PDF |date=October 2004}}&lt;/ref&gt; Planning the alignment for the southernmost section, from Reid Highway in Perth to Bindoon, was undertaken from 2003&lt;ref name=&quot;PDNH Initial&quot; /&gt; to 2013.&lt;ref name=&quot;PDNH-June2013&quot; /&gt;&lt;ref&gt;{{cite web|author1=Main Roads Western Australia|title=Perth Darwin National Highway Planning Study: Reid Highway to Bindoon|url=https://www.mainroads.wa.gov.au/BuildingRoads/Projects/CompletedProjects/2014/Pages/perthDarwin.aspx#.U6ZjyPmSx8E|publisher=Government of Western Australia|accessdate=22 June 2014|archiveurl=https://web.archive.org/web/20140622071206/https://www.mainroads.wa.gov.au/BuildingRoads/Projects/CompletedProjects/2014/Pages/perthDarwin.aspx|archivedate=22 June 2014 |deadurl=no|date=27 May 2014}}&lt;/ref&gt; It resulted in the planned alignment commencing from Tonkin Highway, bypassing the Swan Valley and Bullsbrook before reconnecting with Great Northern Highway near Brand Highway.&lt;ref name=&quot;PDNH-June2013&quot; /&gt;&lt;ref&gt;{{cite web |author1=Main Roads Western Australia |title=Perth Darwin National Highway Planning Study: Maralla Road to Muchea (Southern Section) |url=https://www.mainroads.wa.gov.au/Documents/Perth%20Darwin%20National%20Highway%20Planning%20Study%20update%20-%20September%202009.u_2841688r_1n_D10%5E23170438.PDF |publisher=Government of Western Australia |accessdate=22 June 2014 |archiveurl=https://web.archive.org/web/20140622070330/https://www.mainroads.wa.gov.au/Documents/Perth%20Darwin%20National%20Highway%20Planning%20Study%20update%20-%20September%202009.u_2841688r_1n_D10%5E23170438.PDF |archivedate=22 June 2014 |deadurl=no |format=PDF |date=September 2009}}&lt;/ref&gt; Great Northern Highway is then followed until the Brockman River,&lt;ref&gt;{{cite web |author1=Main Roads Western Australia |title=Perth Darwin National Highway Planning Study Muchea to Bindoon (Northern Section) |url=https://www.mainroads.wa.gov.au/Documents/PDNH%20Nth%20Newsletter%20Jan%202012%20Web%20version.u_3601753r_1n_D12%5E2354633.PDF |publisher=Government of Western Australia |accessdate=22 June 2014 |archiveurl=https://web.archive.org/web/20140622070723/https://www.mainroads.wa.gov.au/Documents/PDNH%20Nth%20Newsletter%20Jan%202012%20Web%20version.u_3601753r_1n_D12%5E2354633.PDF |archivedate=22 June 2014 |deadurl=no |format=PDF |date=January 2012}}&lt;/ref&gt; where the planned route deviates to the east to bypass Bindoon, reconnecting with the existing Highway near Bindoon–Moora Road.&lt;ref&gt;{{cite web|author1=Main Roads Western Australia|title=Perth Darwin National Highway Bindoon Townsite Deviation Planning Study: Final Community Newsletter|url=https://www.mainroads.wa.gov.au/Documents/Project%20Newsletter%20April%202011%20Perth%20Darwin%20National%20Highway.u_3234653r_1n_D11%5E23142729.PDF|publisher=Government of Western Australia|accessdate=22 June 2014|archiveurl=https://web.archive.org/web/20140622070956/https://www.mainroads.wa.gov.au/Documents/Project%20Newsletter%20April%202011%20Perth%20Darwin%20National%20Highway.u_3234653r_1n_D11%5E23142729.PDF|archivedate=22 June 2014 |deadurl=no|format=PDF|date=April 2011}}&lt;/ref&gt;
+
+The first stage of construction is being undertaken as part of the NorthLink WA project. Tonkin Highway's northern section will be [[grade separation|grade separated]], and the road extended northwards past [[Ellenbrook, Western Australia|Ellenbrook]] to Great Northern Highway near Brand Highway. The previously planned route of the bypass, prior to 2012, followed Lord Street, east of [[Whiteman Park]].&lt;ref&gt;{{cite news |url=http://www.inmycommunity.com.au/news-and-views/local-news/New-Darwin-route/7623855/ |title=New Darwin Route |date=30 May 2012 |accessdate=7 October 2012 |last=Frank |first=Caroline |newspaper=The Advocate |location=Midland, WA |archiveurl=http://www.webcitation.org/6IRfFUSra |archivedate=28 July 2013 |deadurl=yes}}&lt;/ref&gt; The project is funded by both the state and federal governments. Construction is expected to begin in 2016, and be completed by 2019.&lt;ref name=&quot;PDNH-June2013&quot;&gt;{{cite web|author=Main Road Western Australia|title=Perth Darwin National Highway Planning Study (Reid Highway to Maralla Road)|url=https://www.mainroads.wa.gov.au/Documents/PDNH%20Newsletter%20June%202013%20final.RCN-D13%5E23307912.PDF|publisher=Government of Western Australia|accessdate=18 June 2013|format=PDF|date=June 2013|archiveurl=http://www.webcitation.org/6IRf6nIes|archivedate=28 July 2013|deadurl=no}}&lt;/ref&gt;&lt;ref name=&quot;MRWA NLWA&quot;&gt;{{cite web|title=NorthLink WA|url=https://www.mainroads.wa.gov.au/BuildingRoads/Projects/planning/Pages/NorthlinkWA.aspx|publisher=Government of Western Australia|accessdate=20 December 2013|author=Main Roads Western Australia|archiveurl=https://web.archive.org/web/20131220030557/https://www.mainroads.wa.gov.au/BuildingRoads/Projects/planning/Pages/NorthlinkWA.aspx|archivedate=20 December 2013|deadurl=no|date=19 December 2013}}&lt;/ref&gt;{{Update after|2016|12}}
+
+===Muchea to Wubin Stage 2 Upgrade===
+In late 2015 Main Roads completed a planning review for an upgrade of the highway between Muchea and Wubin.&lt;ref name=&quot;Muchea Wubin 2 newsletter Nov15&quot;&gt;{{cite web|author1=Main Roads Western Australia|title=Great Northern Highway – Muchea to Wubin Upgrade Stage 2|url=https://www.mainroads.wa.gov.au/Documents/Great%20Northern%20Highway%20%5E96Muchea%20to%20Wubin%20Upgrade%20Stage%202%20Project%20Overview%20November%202015.RCN-D15%5E23698403.PDF|publisher=Government of Western Australia|accessdate=17 January 2016|archiveurl=https://web.archive.org/web/20160117092435/https://www.mainroads.wa.gov.au/Documents/Great%20Northern%20Highway%20%5E96Muchea%20to%20Wubin%20Upgrade%20Stage%202%20Project%20Overview%20November%202015.RCN-D15%5E23698403.PDF |archivedate=17 January 2016 |deadurl=no|format=PDF|date=November 2015}} {{cite archives |archiveurl=http://www.webcitation.org/6ebH1RAus#.pdf |archivedate=17 January 2016}}&lt;/ref&gt; Known as Muchea to Wubin Stage 2 Upgrade, the project continues work undertaken on this section from 2000 to improve the road to National Highway standards.&lt;ref name=&quot;Muchea Wubin 2 website&quot;&gt;{{cite web|author1=Main Roads Western Australia|title=Great Northern Highway - Muchea to Wubin Stage 2 Upgrade|url=https://www.mainroads.wa.gov.au/BuildingRoads/Projects/Regional/Pages/GNH_Muchea_Wubin.aspx|publisher=Government of Western Australia|accessdate=17 January 2016|archiveurl=https://web.archive.org/web/20160115051900/https://www.mainroads.wa.gov.au/BuildingRoads/Projects/Regional/Pages/GNH_Muchea_Wubin.aspx|archivedate=15 January 2015 |deadurl=no|date=18 November 2015}} {{cite archives |archiveurl=http://www.webcitation.org/6ebH0UYsX |archivedate=17 January 2015}}&lt;/ref&gt; Several bypasses, realignments, and other improvements have been planned at or near Muchea, Bindoon, New Norcia, Walebing, Miling, Pithara, Dalwallinu, Nugadong, and Wubin. Sections near Bindi Bindi and Batty Bog, completed in 2015, were included in the review.&lt;ref name=&quot;Muchea Wubin 2 newsletter Nov15&quot; /&gt; The highest priority works are scheduled to be completed between 2016 and 2019. These include the New Norcia Bypass, Milling Straight section, Muchea North section (designed to link to the [[NorthLink WA]] project), and Milling Bypass. {{As of|2015|11}}, designs are being finalised for the Walebing Curve, Dalwallinu Bypass, Nugadong, and Wubin Bypass section, while funding has not been confirmed for the Bindoon upgrades.&lt;ref name=&quot;Muchea Wubin 2 website&quot; /&gt;
+{{-}}
+
+==Major intersections==
+{{AUSinttop|length_ref=&lt;ref name=RIMS /&gt;}}
+{{AUS-WAint
+|type=concur
+|LGAC=Swan
+|LGAspan=6
+|location=Midland
+|km=0.00
+|road={{AUshield|R|1|T|203}} [[Morrison Road]] (National Route&amp;nbsp;1 west / Tourist Drive&amp;nbsp;203 west) / Keane Street south{{WAcity|p=on|perth|Midland}}
+|notes=Southern highway terminus; traffic light intersection; National Route&amp;nbsp;1 and Tourist Drive&amp;nbsp;203 southern concurrency termini}}
+{{AUS-WAint
+|location=Middle Swan
+|lspan=2
+|km=1.31
+|road={{AUshield|S|50|+|hospital}} [[Toodyay Road]] (State Route&amp;nbsp;50 north-east){{WAcity|p=on|Toodyay}}, [[Swan District Hospital]]
+|notes=Traffic light intersection}}
+{{AUS-WAint
+|type=concur
+|km=2.72
+|road={{AUshield|N|95|S|3}} [[Roe Highway]] (National Highway&amp;nbsp;95 / State Route&amp;nbsp;3) east / [[Reid Highway]] (State Route&amp;nbsp;3) west{{WAcity|p=on|perth|Guildford|Morley|Joondalup}}
+|notes=Traffic light intersection; National Highway&amp;nbsp;95 southern concurrency terminus}}
+{{AUS-WAint
+|type=concur
+|location_special=[[Belhus, Western Australia|Belhus]]–[[Upper Swan, Western Australia|Upper Swan]] boundary
+|km=12.56
+|road={{AUshield|S|52|T|203}} [[West Swan Road]] (State Route&amp;nbsp;52 / Tourist Drive&amp;nbsp;203){{WAcity|p=on|Guildford|Ellenbrook}}
+|notes=Traffic light controlled intersection; Tourist Drive&amp;nbsp;203 northern concurrency terminus; Tourist Drive&amp;nbsp;360 southern terminus}}
+{{AUS-WAint
+|type=concur
+|location=Bullsbrook
+|lspan=2
+|km=25.51
+|road={{AUshield|T|359}} Chittering Road (Tourist Drive&amp;nbsp;359){{WAcity|p=on|Chittering}}
+|notes=Tourist Drive&amp;nbsp;359 southern concurrency terminus}}
+{{AUS-WAint
+|type=concur
+|km=28.20
+|road={{AUshield|S|85|T|359}} Rutland Road (State Route&amp;nbsp;85 / Tourist Drive&amp;nbsp;359){{WAcity|p=on|Wanneroo}}
+|notes=Tourist Drive&amp;nbsp;359 northern concurrency terminus}}
+{{AUS-WAint
+|type=concur
+|LGAS=Chittering
+|LGAspan=5
+|location=Muchea
+|km=36.86
+|road={{AUshield|R|1}} [[Brand Highway]] (National Route&amp;nbsp;1) west / Muchea East Road eastbound{{WAcity|p=on|Gingin|Geraldton|Chittering}}
+|notes=Traffic light intersection; National Route&amp;nbsp;1 northern concurrency terminus}}
+{{AUS-WAint
+|location=Chittering
+|km=56.37
+|road={{AUshield|T|359}} Chittering Road (Tourist Drive&amp;nbsp;359){{WAcity|p=on|Chittering}}
+|notes=}}
+{{AUS-WAint
+|location=Bindoon
+|lspan=2
+|km=67.53
+|road={{AUshield|S|116}} [[Bindoon–Moora Road]] (State Route&amp;nbsp;116){{WAcity|p=on|Gingin|Moora|Geraldton}}
+|notes=}}
+{{AUS-WAint
+|km=72.34
+|road=Bindoon Dewars Pool Road{{WAcity|p=on|Toodyay}}
+|notes=}}
+{{AUS-WAint
+|location=Wannamal
+|km=92.84
+|road=[[Calingiri Road]]{{WAcity|p=on|Calingiri|Wongan Hills}}
+|notes=}}
+{{AUS-WAint
+|LGAS=Victoria Plains
+|LGAspan=3
+|location=Yarawindah
+|km=108.19
+|road=Mogumber–Yarawinda Road{{WAcity|p=on|Mogumber}}
+|notes=}}
+{{AUS-WAint
+|location=New Norcia
+|km=112.70
+|road=Calingiri–New Norcia Rd&amp;nbsp;– Calingiri
+|notes=}}
+{{AUS-WAint
+|location=Waddington
+|km=130.55
+|road=Waddington–Wongan Hills Road{{WAcity|p=on|Piawaning}}, Wongan Hills
+|notes=}}
+{{AUS-WAint
+|type=concur
+|LGAS=Moora
+|LGAspan=3
+|location=Walebing
+|km=148.9
+|road={{AUshield|T|360}} [[The Midlands Road]] (Tourist Drive&amp;nbsp;360){{WAcity|p=on|Moora|Geraldton}}
+|notes=Tourist Drive&amp;nbsp;360 northern concurrency terminus}}
+{{AUS-WAint
+|location=Bindi Bindi
+|km=166.42
+|road=Bindi Bindi–Toodyay Road south{{WAcity|p=on|Calcarra|Toodyay}}
+|notes=T junction: southbound highway traffic turns west, northbound traffic turns north}}
+{{AUS-WAint
+|location=Miling
+|km=178.66
+|road=Miling–Moora Road&amp;nbsp;– Moora
+|notes=}}
+{{AUS-WAint
+|LGAS=Dalwallinu
+|LGAspan=3
+|location=Marne
+|km=217.09
+|road={{AUshield|S|115}} [[Northam–Pithara Road]] (State Route&amp;nbsp;115){{WAcity|p=on|Wongan Hills|Northam}}
+|notes=}}
+{{AUS-WAint
+|location=Dalwallinu
+|km=231.87
+|road=Dalwallinu–Kalannie Road east / Dalwallinu West Road west{{WAcity|p=on|Kalannie}}
+|notes=}}
+{{AUS-WAint
+|location=Wubin
+|km=253.45
+|road=Mullewa-Wubin Road north{{WAcity|p=on|Perenjori|Mullewa}}
+|notes=T junction: northbound highway traffic turns east, southbound traffic turns south}}
+{{AUS-WAint
+|LGAS=Yalgoo
+|location=Paynes Find
+|km=408.64
+|road=Paynes Find–Sandstone Road{{WAcity|p=on|Sandstone}}
+|notes=}}
+{{AUS-WAint
+|LGAS=Mount Magnet
+|LGAspan=2
+|location=Mount Magnet
+|lspan=2
+|km=547.47
+|road={{AUshield|S|123}} [[Geraldton–Mount Magnet Road]] (State Route&amp;nbsp;123){{WAcity|p=on|Yalgoo|Geraldton}}
+|notes=}}
+{{AUS-WAint
+|km=550.42
+|road=[[Mount Magnet Sandstone Road]] east / Richardson Street west&amp;nbsp;– Sandstone, {{WAcity|Leinster}}
+|notes=}}
+{{AUS-WAint
+|LGAS=Meekatharra
+|LGAspan=2
+|location=Meekatharra
+|lspan=2
+|km=746.13
+|road=Landor–Meekatharra Road west / Roberts Street east{{WAcity|p=on|Gascoyne Junction|Carnarvon}}
+|notes=}}
+{{AUS-WAint
+|km=747.38
+|road=[[Goldfields Highway]]{{WAcity|p=on|Wiluna|Kalgoorlie}}
+|notes=}}
+{{AUS-WAint
+|LGAS=East Pilbara
+|location=Newman
+|km=1162.63
+|road={{AUshield|S|138}} [[Marble Bar Road]] (State Route&amp;nbsp;138){{WAcity|p=on|Nullagine|Marble Bar}}
+|notes=Former highway alignment}}
+{{AUS-WAint
+|LGAS=Ashburton
+|LGAspan=2
+|location=Juna Downs
+|km=1322.57
+|road=[[Karijini Road]]{{WAcity|p=on|Tom Price|Paraburdoo}}, [[Karijini National Park]]
+|notes=}}
+{{AUS-WAint
+|location=Karijini
+|km=1357.72
+|road={{AUshield|S|136}} [[Nanutarra Munjina Road]] (State Route&amp;nbsp;136)&amp;nbsp;– Tom Price
+|notes=Unsealed road}}
+{{AUS-WAint
+|type=trans
+|LGAT=Port Hedland
+|LGAspan=3
+|location=Mundabullangana
+|km=1577.03
+|road={{AUshield|R|1}} [[North West Coastal Highway]] (National Route&amp;nbsp;1) south-west{{WAcity|p=on|Whim Creek|Karratha|Roebounre}}
+|notes=T junction: northbound traffic turns north-east, southbound traffic turns south-east; route transition: National Highway&amp;nbsp;95 northern terminus, National Highway&amp;nbsp;1 southern terminus}}
+{{AUS-WAint
+|location_special=[[Port Hedland, Western Australia|Port Hedland]]–[[Wedgefield, Western Australia|Wedgefield]] boundary
+|km=1609.34
+|road=Wilson Street north-east / Wallwork Road south-east{{WAcity|p=on|Port Hedland|South Hedland}}
+|notes=[[Parclo interchange]]&lt;ref name=&quot;PTH realign nearing completion&quot; /&gt;}}
+{{AUS-WAint
+|location=Strelley
+|km=1649.21
+|road={{AUshield|S|138}} Marble Bar Road (State Route&amp;nbsp;138){{WAcity|p=on|Marble Bar|Nullagine|Newman}}
+|notes=Former highway alignment}}
+{{AUS-WAint
+|LGAS=Broome
+|location=Roebuck
+|km=2160.97
+|road=Broome Road west{{WAcity|p=on|Broome}}
+|notes=T junction: northbound highway traffic turns east, southbound traffic turns south}}
+{{AUS-WAint
+|LGAS=Derby-West Kimberley
+|LGAspan=3
+|location=Willare
+|km=2306.29
+|road=[[Derby Highway]] north{{WAcity|p=on|Derby}}
+|notes=T junction: northbound highway traffic turns east, southbound traffic turns south}}
+{{AUS-WAint
+|type=concur
+|location=King Leopold Ranges
+|km=2479.64
+|road={{AUshield|T|350}} Leopold Downs Road (Tourist Drive&amp;nbsp;350)&amp;nbsp;– [[Tunnel Creek National Park]], [[Windjana Gorge National Park]]
+|notes=Tourist Drive&amp;nbsp;350 western concurrency terminus}}
+{{AUS-WAint
+|type=concur
+|location=Fitzroy Crossing
+|km=2523.01
+|road={{AUshield|T|350}} Forrest Road (Tourist Drive&amp;nbsp;350)&amp;nbsp;– Fitzroy Crossing, [[Geikie Gorge National Park]]
+|notes=Tourist Drive&amp;nbsp;350 eastern concurrency terminus}}
+{{AUS-WAint
+|LGAS=Halls Creek
+|LGAspan=2
+|location=Mueller Ranges
+|km=2795.11
+|road=[[Tanami Road]]{{NTcity|p=on|Alice Springs}}
+|notes=}}
+{{AUS-WAint
+|location=Halls Creek
+|km=2819.53
+|road=[[Duncan Road]]{{WAcity|p=on|Nicholson}}, {{NTcity|Wave Hill}}
+|notes=}}
+{{AUS-WAint
+|type=trans
+|LGAS=Wyndham-East&amp;nbsp;Kimberley
+|LGAspan=3
+|location=Lake Argyle
+|lspan=2
+|km=3133.42
+|road={{AUshield|N|1}} [[Victoria Highway]] (National Highway&amp;nbsp;1) east{{WAcity|p=on|Kununurra}}, [[Katherine, Northern Territory|Katherine]]
+|notes=T junction: northbound traffic turns west, southbound traffic turns south; route transition: National Highway&amp;nbsp;1 continues south and east, no route number northbound}}
+{{AUS-WAint
+|km=3141.46
+|road=[[Gibb River Road]]{{WAcity|p=on|Mount Barnett}}
+|notes=}}
+{{AUS-WAint
+|location=Wyndham
+|km=3194.66
+|road=[[Harbour Road, Wyndham|Harbour Road]]
+|notes=Northern highway terminus}}
+{{Jctbtm|keys=concur,trans}}
+
+==See also==
+{{Portal|Australian Roads|Western Australia}}
+* [[Highways in Australia]]
+* [[List of highways in Western Australia]]
+* [[List of major roads in rural Western Australia]]
+* [[List of roadhouses in Western Australia]]
+
+==Notes==
+{{reflist|group=lower-alpha}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Attached KML|display=inline,title}}
+{{Plainlist|
+*{{commons category-inline}}
+*{{wikivoyage-inline}}
+}}
+
+{{Road infrastructure in Perth}}
+{{Road infrastructure in Western Australia}}
+{{WA road routes
+|route=National Highway 1
+|shield={{AUshield|N|1}}
+|roads={{WA road routes/R|H1}}
+|route2=National Highway 95
+|shield2={{AUshield|N|95}}
+|roads2={{WA road routes/R|95}}
+|route3=National Route 1
+|shield3={{AUshield|R|1}}
+|roads3={{WA road routes/R|R1}}
+}}
+
+[[Category:Highways and freeways in Perth, Western Australia]]
+[[Category:Highways in rural Western Australia]]
+[[Category:Pilbara]]
+[[Category:Kimberley (Western Australia)]]
+[[Category:Mid West (Western Australia)]]
+[[Category:Highway 1 (Australia)]]</text>
+      <sha1>8hjm3a5o8wcrtczaz0uu1vmv53jae34</sha1>
+    </revision>
+  </page>
+</mediawiki>

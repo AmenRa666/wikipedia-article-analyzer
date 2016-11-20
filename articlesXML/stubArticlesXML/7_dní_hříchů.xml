@@ -1,0 +1,110 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>7 dní hříchů</title>
+    <ns>0</ns>
+    <id>37512648</id>
+    <revision>
+      <id>585030919</id>
+      <parentid>572431577</parentid>
+      <timestamp>2013-12-07T19:56:45Z</timestamp>
+      <contributor>
+        <username>Behemoth</username>
+        <id>203360</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1776">{{Infobox film
+| name           = 7 dní hříchů
+| image          =
+| caption        =
+| director       = [[Jiří Chlumský]]
+| producer       = [[Daniel Krzywoň]]&lt;br /&gt;[[Josef Urban (writer)|Josef Urban]]
+| writer         = [[Josef Urban (writer)|Josef Urban]]
+| starring       = [[Vica Kerekés]]&lt;br /&gt;[[Ondřej Vetchý]]&lt;br /&gt;[[Jiří Schmitzer]]&lt;br /&gt;[[Anna Šišková]]&lt;br /&gt;[[Jarek Hylebrant]]&lt;br /&gt;[[Norbert Lichý]]&lt;br /&gt;[[Fedor Bondarchuk]]
+| music          = [[Boris Urbánek]]
+| cinematography = [[Ján Ďuriš]]&lt;br /&gt;[[Martin Šec]]
+| editing        = [[Vasilis Skalenakis]]
+| distributor    =
+| released       = {{film date|2012|11|1}}
+| runtime        = 107 minutes
+| country        = Czech Republic
+| language       = Czech
+| budget         =
+}}
+
+'''''7 dní hříchů''''' (English: 7 days of sins) is a 2012 [[Czech language|Czech]] [[Drama film|historical drama film]] directed by [[Jiří Chlumský]].
+
+* [[Vica Kerekes]] as Agnes
+* [[Ondřej Vetchý]] as Jan Olšan
+* [[Jiří Schmitzer]] as Ditrich
+* [[Anna Šišková]] as Helga
+* [[Norbert Lichý]] as Dohnal
+* [[Fedor Bondarchuk]] as Uvarov
+* [[Jarek Hylebrant]] as Jürgen Schreier
+* [[Igor Bareš]] as Přikryl
+* [[Atilla Mokos]] as Brachtl
+* [[Kostas Zerdaloglu]] as Bozděch
+
+== External links ==
+* [http://film7dnihrichu.cz/en/ Official film website]
+*{{Imdb title|id=2375922|title=7 dní hříchů}}
+* ''[http://www.csfd.cz/film/302588-7-dni-hrichu/ 7 dní hříchů]'' at CSFD.cz {{cs icon}}
+* ''[http://www.kinobox.cz/film/263355-7-dni-hrichu 7 dní hříchů]'' at cfn.cz {{cs icon}}
+
+
+{{DEFAULTSORT:7 dni hrichu}}
+[[Category:2012 films]]
+[[Category:Czech films]]
+[[Category:Czech-language films]]
+[[Category:2010s drama films]]
+[[Category:Czech action films]]
+
+{{CzechRepublic-film-stub}}</text>
+      <sha1>8gfs2e805ewblhlvqvf0bqe8v90o56z</sha1>
+    </revision>
+  </page>
+</mediawiki>

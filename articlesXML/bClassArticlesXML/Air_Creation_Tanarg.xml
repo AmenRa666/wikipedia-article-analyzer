@@ -1,0 +1,216 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Air Creation Tanarg</title>
+    <ns>0</ns>
+    <id>38670506</id>
+    <revision>
+      <id>742855878</id>
+      <parentid>668340430</parentid>
+      <timestamp>2016-10-06T06:24:26Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v1.2.4)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7115">&lt;!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. --&gt;
+{|{{Infobox Aircraft Begin
+ | name=Tanarg
+ | image=File:Air Creation Tanarg.JPG
+ | caption=Tanarg with the [[Air Creation iXess]] wing
+}}{{Infobox Aircraft Type
+ | type=[[Ultralight trike]] and [[Light-sport aircraft]]
+ | national origin=[[France]]
+ | manufacturer=[[Air Creation]]
+ | designer=
+ | first flight=
+ | introduced=
+ | retired=
+ | status=In production (2013)
+ | primary user=
+ | more users= &lt;!--Limited to three in total; separate using &lt;br /&gt; --&gt;
+ | produced= &lt;!--years in production--&gt;
+ | number built=
+ | program cost= &lt;!--Total program cost--&gt;
+ | unit cost= [[Euro|€]]40,000 (assembled, with [[Air Creation BioniX|BioniX wing]], 2011)
+ | developed from= 
+ | variants with their own articles=
+}}
+|}
+The '''Air Creation Tanarg''' is a [[France|French]] [[ultralight trike]], designed and produced by [[Air Creation]] of [[Aubenas]]. The aircraft is supplied as complete ready-to-fly-aircraft.&lt;ref name=&quot;WDLA11&quot;&gt;Bayerl, Robby; Martin Berkemeier; et al: ''World Directory of Leisure Aviation 2011-12'', page 198-200. WDLA UK, Lancaster UK, 2011. ISSN 1368-485X&lt;/ref&gt; In the United Kingdom the Tanarg is amateur-built from kits supplied by Air Creation.&lt;ref name=&quot;bmaa&quot;&gt;{{cite web|url=http://www.bmaa.org/files/hm16_tanarg.pdf?PHPSESSID=2b36711b0ed7f1564f420e44df59f557|title=Homebuilt Aircraft Data Sheet - HM16 Air Creation Tanarg / iXess 15 UK / iXess 13 UK / 912ES Biomnix 15|publisher=British Microlight Aircraft Association}}&lt;/ref&gt;
+
+==Design and development==
+[[File:Aile volante - Flickr - besopha.jpg|right|thumb|Air Creation Tanarg]]
+The Tanarg was designed as a long-range cruising trike to comply with the [[Fédération Aéronautique Internationale]] [[microlight]] category, including the category's maximum gross weight of {{convert|472.5|kg|lb|0|abbr=on}} with a [[ballistic parachute]]. It is also an accepted [[Special Light-Sport Aircraft]] in the [[United States]]. The Tanarg features a [[Flying wires|cable-braced]] [[hang glider]]-style [[high-wing]], weight-shift controls, a two-seats-in-[[tandem]], open cockpit, [[tricycle landing gear]] with [[wheel pants]] and a single engine in [[pusher configuration]].&lt;ref name=&quot;WDLA11&quot; /&gt;&lt;ref name=&quot;Tanarg&quot;&gt;{{cite web|url = http://www.aircreation.fr/en/catalog/tricycles/tanarg_240|title = Tanarg|accessdate = 28 February 2013|last = [[Air Creation]]|date = n.d.}}&lt;/ref&gt;&lt;ref name=&quot;FAASLSA&quot;&gt;{{cite web|url=http://www.faa.gov/aircraft/gen_av/light_sport/media/SLSA_Directory.xls |title=SLSA Make/Model Directory |accessdate=28 February 2013 |last=[[Federal Aviation Administration]] |date=7 January 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130516004527/http://www.faa.gov/aircraft/gen_av/light_sport/media/SLSA_Directory.xls |archivedate=16 May 2013 |df= }}&lt;/ref&gt;&lt;ref name=&quot;SLSA&quot;&gt;{{cite web|url = http://www.sportpilot.org/learn/slsa/|title = EAA's Listing of Special Light-Sport Aircraft|accessdate = 28 February 2013|last = [[Experimental Aircraft Association]]|date = 2013}}&lt;/ref&gt;
+
+The aircraft is made from mixed constriction, with bolted-together [[aluminum]] tubing, composites and [[carbon fibre]] panels, with its double surface wing covered in [[Dacron]] sailcloth. With the BioniX wing it has a {{convert|9.85|m|ft|1|abbr=on}} span that is supported by a single tube-type [[kingpost]] and uses an &quot;A&quot; frame weight-shift control bar. The powerplant options include the twin cylinder, liquid-cooled, [[two-stroke]], [[dual-ignition]] {{convert|64|hp|kW|0|abbr=on}} [[Rotax 582]] engine and  the four cylinder, air and liquid-cooled, [[four-stroke]], [[dual-ignition]] {{convert|80|hp|kW|0|abbr=on}} [[Rotax 912UL]] and {{convert|100|hp|kW|0|abbr=on}} [[Rotax 912ULS]] engines. With the 912 engine the aircraft has an empty weight of {{convert|249|kg|lb|0|abbr=on}} and a gross weight of {{convert|472.5|kg|lb|0|abbr=on}}, giving a useful load of {{convert|223.5|kg|lb|0|abbr=on}}. With full fuel of {{convert|70|l}} the payload is {{convert|183|kg|lb|0|abbr=on}}.&lt;ref name=&quot;WDLA11&quot; /&gt;&lt;ref name=&quot;Tanarg&quot; /&gt;&lt;ref name=&quot;FAASLSA&quot; /&gt;
+
+A number of different wings can be fitted to the basic trike, including the [[Air Creation iXess]], [[Air Creation Nuvix]], [[Air Creation Fun]] and [[Air Creation BioniX]].&lt;ref name=&quot;WDLA11&quot; /&gt;&lt;ref name=&quot;FAASLSA&quot; /&gt;
+&lt;!-- ==Operational history== --&gt;
+&lt;!-- ==Variants== --&gt;
+&lt;!-- ==Aircraft on display== --&gt;
+
+==Specifications (Tanarg 912 trike with a BioniX 15 wing) ==
+[[File:Ixess hang glider arp.jpg|right|thumb|Air Creation Tanarg with the [[Air Creation iXess]] wing]]
+{{Aircraft specs
+|ref=Bayerl and Air Creation&lt;ref name=&quot;WDLA11&quot; /&gt;&lt;ref name=&quot;Specs&quot;&gt;{{cite web|url = http://www.aircreation.fr/produits/tricyles/tanarg/ctp_tanarg_en_2012.pdf|title = Tanarg Technical Characteristics &amp; Performance|accessdate = 28 February 2013|last = [[Air Creation]]|date = n.d.}}&lt;/ref&gt;
+|prime units?=met&lt;!-- imp or kts first for US aircraft, and UK aircraft pre-metrification, met(ric) first for all others. You MUST choose a format, or no specifications will show --&gt;
+&lt;!--
+        General characteristics
+--&gt;
+|genhide=
+
+|crew=one
+|capacity=one passenger
+|length m=
+|length ft=
+|length in=
+|length note=
+|span m=9.85
+|span ft=
+|span in=
+|span note=
+|height m=3.45
+|height ft=
+|height in=
+|height note=
+|wing area sqm=15.1
+|wing area sqft=
+|wing area note=
+|aspect ratio=6.4:1
+|airfoil=
+|empty weight kg=249
+|empty weight lb=
+|empty weight note=
+|gross weight kg=472.5
+|gross weight lb=
+|gross weight note=
+|fuel capacity={{convert|70|l}}
+|more general=
+&lt;!--
+        Powerplant
+--&gt;
+|eng1 number=1
+|eng1 name=[[Rotax 912ULS]]
+|eng1 type=four cylinder, liquid and air-cooled, [[four stroke]] [[aircraft engine]]
+|eng1 kw=75
+|eng1 hp=
+
+|prop blade number=3
+|prop name=[[Arplast Helice]] composite
+|prop dia m=1.66
+|prop dia ft=
+|prop dia in=
+|prop note=
+
+&lt;!--
+        Performance
+--&gt;
+|perfhide=
+
+|max speed kmh=157
+|max speed mph=
+|max speed kts=
+|max speed note=
+|cruise speed kmh=135
+|cruise speed mph=
+|cruise speed kts=
+|cruise speed note=
+|stall speed kmh=55
+|stall speed mph=
+|stall speed kts=
+|stall speed note=
+|never exceed speed kmh=
+|never exceed speed mph=
+|never exceed speed kts=
+|never exceed speed note=
+|range km=
+|range miles=
+|range nmi=
+|range note=
+|endurance=
+|ceiling m=
+|ceiling ft=
+|ceiling note=
+|g limits=
+|roll rate=
+|glide ratio=
+|climb rate ms=6
+|climb rate ftmin=
+|climb rate note=
+|time to altitude=
+|sink rate ms=
+|sink rate ftmin=
+|sink rate note=
+|lift to drag=
+|wing loading kg/m2=30
+|wing loading lb/sqft=
+|wing loading note=maximum&lt;ref name=&quot;bmaa&quot; /&gt;
+|power/mass=
+|thrust/weight=
+|more performance=
+|avionics=
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Air Creation Tanarg}}
+*{{Official website|http://www.aircreation.fr/en/catalog/tricycles/tanarg_240}}
+{{Air Creation aircraft}}
+
+[[Category:French sport aircraft 2000–2009]]
+[[Category:French ultralight aircraft 2000–2009]]
+[[Category:Single-engine aircraft]]
+[[Category:Ultralight trikes]]
+[[Category:Homebuilt aircraft]]</text>
+      <sha1>tsumgloaiiaosp60nisooih4kkhxcpo</sha1>
+    </revision>
+  </page>
+</mediawiki>

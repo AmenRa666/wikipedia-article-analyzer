@@ -1,0 +1,253 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Aluminium chloride</title>
+    <ns>0</ns>
+    <id>1362114</id>
+    <revision>
+      <id>740693783</id>
+      <parentid>737589022</parentid>
+      <timestamp>2016-09-22T17:49:08Z</timestamp>
+      <contributor>
+        <username>BD2412</username>
+        <id>196446</id>
+      </contributor>
+      <minor/>
+      <comment>Per consensus in discussion at [[Talk:New York#Proposed action to resolve incorrect incoming links]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16704">{{good article}}
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477245740
+| Name =
+| ImageFile1 = Aluminium-trichloride-hexahydrate-white-and-yellow.jpg
+&lt;!-- | ImageSize = 150px --&gt;
+| ImageName1 = Aluminium chloride
+| ImageFile2 =
+| ImageName2 = Aluminium(III) Chloride
+| ImageFile3 = Aluminium-trichloride-dimer-3D-balls.png
+&lt;!-- | ImageSize1 = 150px  --&gt;
+| ImageName3 = Aluminium trichloride dimer
+| IUPACName = aluminium chloride
+| OtherNames = aluminium(III) chloride&lt;br/&gt;aluminum trichloride
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = LIF1N9568Y
+| InChI = 1/Al.3ClH/h;3*1H/q+3;;;/p-3
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 30114
+| SMILES = Cl[Al](Cl)Cl
+| InChIKey = VSCWAEJMTAWNJL-DFZHHIFOAR
+| SMILES1 = [Al](Cl)(Cl)Cl
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/Al.3ClH/h;3*1H/q+3;;;/p-3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = VSCWAEJMTAWNJL-UHFFFAOYSA-K
+| CASNo = 7446-70-0
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo_Comment = (anhydrous)
+| CASNo1_Ref = {{cascite|changed|??}}
+| CASNo1 = 10124-27-3
+| CASNo1_Comment = (hydrate)
+| CASNo2_Ref = {{cascite|changed|??}}
+| CASNo2 = 7784-13-6
+| CASNo2_Comment = (hexahydrate)
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID=22445
+| PubChem = 24012
+| RTECS = BD0530000
+| Gmelin = 1876
+ }}
+|Section2={{Chembox Properties
+| Formula = AlCl&lt;sub&gt;3&lt;/sub&gt;
+| MolarMass = 133.34 g/mol (anhydrous)&lt;br /&gt;241.43 g/mol (hexahydrate)
+| Appearance = white or pale yellow solid,&lt;br /&gt;[[hygroscopic]]
+| Density = 2.48 g/cm&lt;sup&gt;3&lt;/sup&gt; (anhydrous)&lt;br&gt; 1.3 g/cm&lt;sup&gt;3&lt;/sup&gt; (hexahydrate)
+| Solubility = 43.9 g/100 ml (0 °C)&lt;br /&gt;44.9 g/100 ml (10 °C)&lt;br /&gt;45.8 g/100 ml (20 °C)&lt;br /&gt;46.6 g/100 ml (30 °C)&lt;br /&gt;47.3 g/100 ml (40 °C)&lt;br /&gt;48.1 g/100 ml (60 °C)&lt;br /&gt;48.6 g/100 ml (80 °C)&lt;br /&gt;49 g/100 ml (100 °C)
+| SolubleOther = soluble in hydrogen chloride, ethanol, chloroform, carbon tetrachloride &lt;br&gt; slightly soluble in benzene
+| MeltingPtC = 192.4
+| MeltingPt_notes = &lt;br&gt; (anhydrous)&lt;br&gt; {{convert|100|C|F K}}&lt;br&gt; (hexahydrate)&lt;br&gt; {{convert|180|C|F K}}&lt;br&gt; (sublimes)
+| BoilingPtC = 120
+| BoilingPt_notes = (hexahydrate)
+| pKa =
+| Viscosity = 0.35 cP (197 °C)&lt;br&gt; 0.26 cP (237 °C)&lt;ref name=chemister&gt;http://chemister.ru/Database/properties-en.php?dbid=1&amp;id=353&lt;/ref&gt;
+| VaporPressure = 133.3 Pa (99 °C)&lt;br&gt; 13.3 kPa (151 °C)&lt;ref name=chemister /&gt;
+ }}
+|Section3={{Chembox Structure
+| MolShape = Trigonal planar&lt;br /&gt;([[monomer]]ic vapour)
+| Coordination = Octahedral (solid)&lt;br /&gt;Tetrahedral (liquid)
+| CrystalStruct = [[Monoclinic]], [[Pearson symbol|mS16]]
+| SpaceGroup = C12/m1, No. 12
+ }}
+|Section5={{Chembox Thermochemistry
+| DeltaHf = −704.2 kJ/mol&lt;ref name=chemister /&gt;&lt;ref name = zumdahl&gt;{{cite book| author = Zumdahl, Steven S.|title =Chemical Principles 6th Ed.| publisher = Houghton Mifflin Company| year = 2009| isbn = 0-618-94690-X}}&lt;/ref&gt;
+| Entropy = 111 J/mol·K&lt;ref name = zumdahl/&gt;
+| DeltaGf = -628.6 kJ/mol&lt;ref name=chemister /&gt;
+| HeatCapacity = 91 J/mol·K&lt;ref name=chemister /&gt;
+}}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = D10
+| ATCCode_suffix = AX01
+}}
+|Section7={{Chembox Hazards
+| GHSPictograms = {{GHS05}}&lt;ref name=&quot;sigma&quot;&gt;{{Sigma-Aldrich|id=563919|name=Aluminum chloride|accessdate=2014-05-05}}&lt;/ref&gt;
+| GHSSignalWord = Danger
+| HPhrases = {{H-phrases|314}}&lt;ref name=&quot;sigma&quot; /&gt;
+| PPhrases = {{P-phrases|280|310|305+351+338}}&lt;ref name=&quot;sigma&quot; /&gt;
+| NFPA-H = 3
+| NFPA-F = 0
+| NFPA-R = 2
+| EUClass = {{Hazchem C}}
+| RPhrases = {{R34}}
+| SPhrases = {{S1/2}}, {{S7/8}}, {{S28}}, {{S45}}
+| LD50 = ''anhydrous:'' &lt;br&gt; 380 mg/kg, rat (oral) &lt;hr&gt; ''hexahydrate:'' &lt;br&gt; 3311 mg/kg, rat (oral)
+| IDLH = N.D.&lt;ref name=PGCH&gt;{{PGCH|0024}}&lt;/ref&gt;
+| PEL = none&lt;ref name=PGCH/&gt;
+| REL = 2 mg/m&lt;sup&gt;3&lt;/sup&gt;&lt;ref name=PGCH/&gt;
+}}
+|Section8={{Chembox Related
+| OtherAnions = [[Aluminium fluoride]]&lt;br /&gt;[[Aluminium bromide]]&lt;br /&gt;[[Aluminium iodide]]
+| OtherCations = [[Boron trichloride]]&lt;br /&gt;[[Gallium trichloride]]&lt;br /&gt;[[Indium(III) chloride]]&lt;br /&gt;[[Magnesium chloride]]
+| OtherFunction_label = [[Lewis acid]]s
+| OtherFunction = [[Iron(III) chloride]]&lt;br /&gt;[[Boron trifluoride]]
+ }}
+}}
+
+'''Aluminium chloride''' (AlCl&lt;sub&gt;3&lt;/sub&gt;) is the main [[chemical compound|compound]] of [[aluminium]] and [[chlorine]]. It is white, but samples are often contaminated with [[Iron(III) chloride|iron trichloride]], giving it a yellow colour. The solid has a low melting and boiling point. It is mainly produced and consumed in the production of aluminium metal, but large amounts are also used in other areas of chemical industry. The compound is often cited as a [[Lewis acid]]. It is an example of an inorganic compound that &quot;[[Cracking (chemistry)|cracks]]&quot; at mild temperature, reversibly changing from a [[polymer]] to a [[monomer]].
+
+==Structure==
+AlCl&lt;sub&gt;3&lt;/sub&gt; adopts three different structures, depending on the temperature and the state (solid, liquid, gas). Solid AlCl&lt;sub&gt;3&lt;/sub&gt; is a sheet-like layered cubic close packed layers. In this framework, the Al centres exhibit [[octahedral coordination geometry]].&lt;ref name=&quot;Wells&quot;&gt;In contrast, AlBr&lt;sub&gt;3&lt;/sub&gt; has a more molecular structure, with the Al&lt;sup&gt;3+&lt;/sup&gt; centers occupying adjacent tetrahedral holes of the close-packed framework of Br&lt;sup&gt;−&lt;/sup&gt; ions.A. F. Wells, ''Structural Inorganic Chemistry'', Oxford Press, [[Oxford]], United Kingdom, 1984.&lt;/ref&gt; In the melt, aluminium trichloride exists as the [[Dimer (chemistry)|dimer]] Al&lt;sub&gt;2&lt;/sub&gt;Cl&lt;sub&gt;6&lt;/sub&gt;, with tetracoordinate aluminium. This change in structure is related to the lower density of the liquid phase (1.78&amp;nbsp;g/cm&lt;sup&gt;3&lt;/sup&gt;) vs solid aluminium trichloride (2.48&amp;nbsp;g/cm&lt;sup&gt;3&lt;/sup&gt;). Al&lt;sub&gt;2&lt;/sub&gt;Cl&lt;sub&gt;6&lt;/sub&gt; dimers are also found in the vapour phase. At higher [[temperature]]s, the Al&lt;sub&gt;2&lt;/sub&gt;Cl&lt;sub&gt;6&lt;/sub&gt; dimers [[Dissociation (chemistry)|dissociate]] into trigonal planar AlCl&lt;sub&gt;3&lt;/sub&gt;, which is structurally analogous to [[boron trifluoride|BF&lt;sub&gt;3&lt;/sub&gt;]]. The melt [[Electrical conductance|conducts]] [[electricity]] poorly,&lt;ref name=&quot;Greenwood&quot;&gt;N. N. Greenwood, A. Earnshaw, ''Chemistry of the Elements'', Pergamon Press, [[Oxford]], United Kingdom, 1984.&lt;/ref&gt; unlike more [[ionic bond|ionic]] [[halide]]s such as [[sodium chloride]].
+
+==Reactions==
+Anhydrous aluminium chloride is a powerful [[Lewis acid]], capable of forming Lewis acid-base adducts with even weak [[Lewis base]]s such as [[benzophenone]] and [[mesitylene]].&lt;ref name=&quot;Friedel&quot;&gt;G. A. Olah (ed.), ''Friedel-Crafts and Related Reactions'', Vol. 1, [[John Wiley &amp; Sons|Interscience]], [[New York City]], 1963.&lt;/ref&gt; It forms [[tetrachloroaluminate]] AlCl&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;−&lt;/sup&gt; in the presence of [[chloride]] ions.
+
+Aluminium chloride reacts with [[calcium hydride|calcium]] and [[magnesium hydride]]s in [[tetrahydrofuran]] forming tetrahydroaluminates.
+
+===Reactions with water===
+Aluminium chloride is hygroscopic, having a very pronounced affinity for water.  It fumes in moist air and hisses when mixed with liquid water as the Cl&lt;sup&gt;−&lt;/sup&gt; ions are displaced with H&lt;sub&gt;2&lt;/sub&gt;O molecules in the lattice to form the hexa[[hydrate]] AlCl&lt;sub&gt;3&lt;/sub&gt;·6H&lt;sub&gt;2&lt;/sub&gt;O (also white to yellowish in color). The anhydrous phase cannot be regained on heating as HCl is lost leaving aluminium hydroxide or alumina (aluminium oxide):
+:Al(H&lt;sub&gt;2&lt;/sub&gt;O)&lt;sub&gt;6&lt;/sub&gt;Cl&lt;sub&gt;3&lt;/sub&gt; → Al(OH)&lt;sub&gt;3&lt;/sub&gt; + 3 HCl + 3 H&lt;sub&gt;2&lt;/sub&gt;O
+On strong heating (~400°C), aluminium oxide is formed from the aluminium hydroxide via:
+:2 Al(OH)&lt;sub&gt;3&lt;/sub&gt; → Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; + 3 H&lt;sub&gt;2&lt;/sub&gt;O
+
+[[Aqueous solution]]s of AlCl&lt;sub&gt;3&lt;/sub&gt; are ionic and thus conduct [[electricity]] well. Such solutions are found to be [[acid]]ic, indicative of partial [[hydrolysis]] of the Al&lt;sup&gt;3+&lt;/sup&gt; ion. The reactions can be described (simplified) as:
+:[Al(H&lt;sub&gt;2&lt;/sub&gt;O)&lt;sub&gt;6&lt;/sub&gt;]&lt;sup&gt;3+&lt;/sup&gt; ⇌ [Al(OH)(H&lt;sub&gt;2&lt;/sub&gt;O)&lt;sub&gt;5&lt;/sub&gt;]&lt;sup&gt;2+&lt;/sup&gt; + H&lt;sup&gt;+&lt;/sup&gt;
+
+Aqueous solutions behave similarly to other [[aluminium]] [[salt]]s containing hydrated Al&lt;sup&gt;3+&lt;/sup&gt; [[ion]]s, giving a gelatinous [[precipitate]] of [[aluminium hydroxide]] upon reaction with dilute [[sodium hydroxide]]:
+:AlCl&lt;sub&gt;3&lt;/sub&gt; + 3 NaOH → Al(OH)&lt;sub&gt;3&lt;/sub&gt; + 3 [[sodium chloride|NaCl]]
+
+==Synthesis==
+Aluminium chloride is manufactured on a large scale by the [[exothermic]] reaction of [[aluminium]] metal with chlorine or [[hydrogen chloride]] at temperatures between {{convert|650|to|750|C}}.&lt;ref name=&quot;Greenwood&quot;/&gt;
+:2 Al + 3 Cl&lt;sub&gt;2&lt;/sub&gt; → 2 AlCl&lt;sub&gt;3&lt;/sub&gt;
+:2 Al + 6 HCl → 2 AlCl&lt;sub&gt;3&lt;/sub&gt; + 3 H&lt;sub&gt;2&lt;/sub&gt;
+
+Aluminum chloride may be formed via a single displacement reaction between copper chloride and aluminum metal.
+:2Al +3 CuCl&lt;sub&gt;2&lt;/sub&gt; →2AlCl&lt;sub&gt;3&lt;/sub&gt; + 3Cu
+
+In the US in 1993, approximately 21,000 tons were produced, not counting the amounts consumed in the production of aluminium.&lt;ref name=Ullmann/&gt;
+
+Hydrated aluminium trichloride is prepared by dissolving aluminium oxides in [[hydrochloric acid]]. Metallic aluminum also readily dissolves in hydrochloric acid ─ releasing hydrogen gas and generating considerable heat. Heating this solid does not produce anhydrous aluminium trichloride, the hexahydrate decomposes to [[aluminium hydroxide]] when heated:
+:Al(H&lt;sub&gt;2&lt;/sub&gt;O)&lt;sub&gt;6&lt;/sub&gt;Cl&lt;sub&gt;3&lt;/sub&gt; → Al(OH)&lt;sub&gt;3&lt;/sub&gt; + 3 HCl + 3 H&lt;sub&gt;2&lt;/sub&gt;O
+
+[[Aluminium]] also forms a lower [[chloride]], [[aluminium(I) chloride]] (AlCl), but this is very unstable and only known in the vapour phase.&lt;ref name=&quot;Greenwood&quot;/&gt;
+
+==Uses==
+===Anhydrous aluminium trichloride===
+AlCl&lt;sub&gt;3&lt;/sub&gt; is probably the most commonly used [[Lewis acid]] and also one of the most powerful. It finds application in the [[chemical industry]] as a [[catalyst]] for [[Friedel–Crafts reaction]]s, both acylations and alkylations. Important products are [[detergent]]s and [[ethylbenzene]]. It also finds use in [[polymerization]] and [[isomerization]] reactions of [[hydrocarbon]]s.
+
+The Friedel–Crafts reaction&lt;ref name=&quot;Friedel&quot;/&gt; is the major use for aluminium chloride, for example in the preparation of [[anthraquinone]] (for the [[dye]]stuffs industry) from [[benzene]] and [[phosgene]].&lt;ref name=&quot;Greenwood&quot;/&gt; In the general Friedel–Crafts reaction, an [[acyl chloride]] or [[alkyl halide]] reacts with an [[aromatic]] system as shown:&lt;ref name=&quot;Friedel&quot;/&gt;
+:[[File:Benzene Friedel-Crafts alkylation-diagram.svg|330px]]
+
+The alkylation reaction is more widely used than the acylation reaction, although its practice is more technically demanding because the reaction is more sluggish. For both reactions, the aluminium chloride, as well as other materials and the equipment, should be dry, although a trace of moisture is necessary for the reaction to proceed.{{cn|date=May 2013}} A general problem with the Friedel–Crafts reaction is that the aluminium chloride [[catalyst]] sometimes is required in full [[stoichiometry|stoichiometric]] quantities, because it [[Complex (chemistry)|complex]]es strongly with the products. This complication sometimes generates a large amount of corrosive waste. For these and similar reasons, more [[recycling|recyclable]] or [[green chemistry|environmentally benign]] catalysts have been sought. Thus, the use of aluminium trichloride in some applications is being displaced by [[zeolite]]s.
+
+Aluminium chloride can also be used to introduce [[aldehyde]] groups onto [[aromatic]] rings, for example via the [[Gattermann-Koch reaction]] which uses [[carbon monoxide]], [[hydrogen chloride]] and a [[copper(I) chloride]] [[co-catalyst]].&lt;ref&gt;L. G. Wade, ''Organic Chemistry'', 5th edition, [[Prentice Hall]], [[Upper Saddle River, New Jersey]], United States, 2003.&lt;/ref&gt;
+:[[File:AlCl3 formylation.gif|300px]]
+
+Aluminium chloride finds a wide variety of other applications in [[organic chemistry]].&lt;ref&gt;P. Galatsis, in: ''Handbook of Reagents for Organic Synthesis: Acidic and Basic Reagents'', (H. J. Reich, J. H. Rigby, eds.), pp. 12–15, [[John Wiley &amp; Sons|Wiley]], [[New York City]], 1999.&lt;/ref&gt; For example, it can catalyse the &quot;[[ene reaction]]&quot;, such as the addition of [[3-buten-2-one]] (methyl vinyl ketone) to [[carvone]]:&lt;ref&gt;{{cite journal | author = B. B. Snider | title = Lewis-acid catalyzed ene reactions | journal = [[Acc. Chem. Res.]] | volume = 13 | page = 426 | year = 1980 | doi = 10.1021/ar50155a007 | issue = 11}}&lt;/ref&gt;
+:[[File:AlCl3 ene rxn.gif|400px]]
+
+AlCl&lt;sub&gt;3&lt;/sub&gt; is also widely used for [[polymerization]] and [[isomerization]] reactions of [[hydrocarbon]]s. Important examples include the manufacture of [[ethylbenzene]], which used to make [[styrene]] and thus [[polystyrene]], and also production of [[dodecylbenzene]], which is used for making [[detergent]]s.&lt;ref name=&quot;Greenwood&quot;/&gt;
+
+Aluminium chloride combined with aluminium in the presence of an arene can be used to synthesize bis(arene) metal complexes, e.g. [[bis(benzene)chromium]], from certain metal halides via the so-called [[Ernst Otto Fischer|Fischer]]-Hafner synthesis.
+
+===Hydrated aluminium chlorides===
+The hexahydrate has few applications, but [[aluminium chlorohydrate]] is a common component in [[antiperspirant]]s at low concentrations.&lt;ref name=Ullmann&gt;Otto Helmboldt, L. Keith Hudson, Chanakya Misra, Karl Wefers, Wolfgang Heck, Hans Stark, Max Danner, Norbert Rösch &quot;Aluminum Compounds, Inorganic&quot; in Ullmann's Encyclopedia of Industrial Chemistry 2007, Wiley-VCH, Weinheim.{{DOI|10.1002/14356007.a01_527.pub2}}&lt;/ref&gt; [[Hyperhidrosis]] sufferers need a much higher concentration (12% or higher), sold under such brand names as Xeransis, Drysol, DryDerm, sunsola, Maxim, [[Odaban]], CertainDri, B+Drier, Chlorhydrol, Anhydrol Forte and [[Driclor]].
+
+==Symmetry and dipole moment==
+Aluminium chloride belongs to the point group D&lt;sub&gt;3h&lt;/sub&gt; in its monomeric form and D&lt;sub&gt;2h&lt;/sub&gt; in its dimeric form. Both forms of aluminium chloride, however, do not possess a dipole moment because the bond dipole moments cancel each other out.
+
+==Safety==
+Anhydrous AlCl&lt;sub&gt;3&lt;/sub&gt; reacts vigorously with [[base (chemistry)|base]]s, so suitable precautions are required. 
+It can cause irritation to the eyes, skin, and the respiratory system if inhaled or on contact.&lt;ref&gt;http://www.solvaychemicals.us/static/wma/pdf/5/1/1/8/ALCL.pdf&lt;/ref&gt;
+
+Aluminum chloride has been established as a [[neurotoxin]].&lt;ref name=&quot;Lankoff&quot;&gt;{{cite journal |vauthors=He BP, Strong MJ |title=A morphological analysis of the motor neuron degeneration and microglial reaction in acute and chronic in vivo aluminum chloride neurotoxicity |journal=J. Chem. Neuroanat. |volume=17 |issue=4 |pages=207–15 |date=January 2000 |pmid=10697247 |doi= 10.1016/S0891-0618(99)00038-1|url=}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |vauthors=Zubenko GS, Hanin I |title=Cholinergic and noradrenergic toxicity of intraventricular aluminum chloride in the rat hippocampus |journal=Brain Res. |volume=498 |issue=2 |pages=381–4 |date=October 1989 |pmid=2790490 |doi= 10.1016/0006-8993(89)91121-9|url=}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |vauthors=Peng JH, Xu ZC, Xu ZX |title=Aluminum-induced acute cholinergic neurotoxicity in rat |journal=Mol. Chem. Neuropathol. |volume=17 |issue=1 |pages=79–89 |date=August 1992 |pmid=1388451 |doi= 10.1007/BF03159983|url=|display-authors=etal}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|author = Banks, W.A.|author2=Kastin, A.J.|year = 1989|title = Aluminum-induced neurotoxicity: alterations in membrane function at the blood–brain barrier|journal = Neurosci Biobehav Rev|volume = 13|issue = 1|pages = 47–53|doi = 10.1016/S0149-7634(89)80051-X|pmid = 2671833}}&lt;/ref&gt;
+
+==References==
+&lt;!--This article uses the Cite.php citation mechanism. If you would like more information on how to add references to this article, please see http://meta.wikimedia.org/wiki/Cite/Cite.php --&gt;
+{{reflist}}
+
+==External links==
+{{Commons category|Aluminium chloride}}
+* [http://www.inchem.org/documents/icsc/icsc/eics1125.htm International Chemical Safety Card 1125]
+* [http://www.orgsyn.org/orgsyn/chemname.asp?nameID=33169 Index of Organic Synthesis procedures that utilize AlCl&lt;sub&gt;3&lt;/sub&gt;]
+* [http://www.chemguide.co.uk/inorganic/period3/chlorides.html The period 3 chlorides]
+* [http://www.solvaychemicals.us/static/wma/pdf/5/1/1/8/ALCL.pdf MSDS]
+* [http://www.chemicalsubstanceschimiques.gc.ca/fact-fait/alum-salts-sels-eng.php Government of Canada Fact Sheets and Frequently Asked Questions:  Aluminum Salts]
+
+{{Aluminium compounds}}
+
+{{Authority control}}
+[[Category:Chlorides]]
+[[Category:Metal halides]]
+[[Category:Aluminium compounds]]
+[[Category:Inorganic compounds]]
+[[Category:Reagents for organic chemistry]]
+[[Category:Deliquescent substances]]</text>
+      <sha1>2ydcak8oqxetytc9p0rhmh3ephtb4vu</sha1>
+    </revision>
+  </page>
+</mediawiki>

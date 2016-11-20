@@ -1,0 +1,276 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Webley Revolver</title>
+    <ns>0</ns>
+    <id>627020</id>
+    <revision>
+      <id>746025376</id>
+      <parentid>741408971</parentid>
+      <timestamp>2016-10-24T20:55:53Z</timestamp>
+      <contributor>
+        <ip>112.198.103.168</ip>
+      </contributor>
+      <comment>/* External links */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="28019">{{Infobox Weapon
+|name=Webley Mk VI Revolver
+|image=[[File:Webley IMG 6789.jpg|300px]]
+|caption=
+|origin= [[British Empire]]
+|type=[[Service pistol|Service]] [[Revolver]]
+&lt;!-- Type selection --&gt;
+|is_ranged=yes
+|is_UK=yes
+&lt;!-- Service history --&gt;
+|service=1887–1963
+|used_by=See ''[[Webley Revolver#Users|Users]]''
+|wars= [[Second Boer War]]&lt;br /&gt;[[World War I]]&lt;br /&gt;[[Irish War of Independence]]&lt;br /&gt;[[Irish Civil War]]&lt;br /&gt;[[World War II]]&lt;br /&gt;[[Indonesian National Revolution]]&lt;br /&gt;[[Korean War]]&lt;br /&gt;[[British Empire|British colonial conflicts]]&lt;br /&gt;[[The Troubles]]&lt;br /&gt;[[Dissident Irish Republican campaign]]&lt;br /&gt;numerous others
+&lt;!-- Production history --&gt;
+|designer=[[Webley &amp; Scott]]
+|design_date=1887
+|manufacturer=Webley &amp; Scott, [[Royal Small Arms Factory|RSAF Enfield]]
+|production_date=1887–1923
+|number=approx 125,000
+|variants=
+&lt;!-- General specifications --&gt;
+|weight= 2.4 lb (1.1 kg), unloaded
+|length=11.25 in. (286 mm)
+|part_length= 4.17 in. (106 mm)
+&lt;!-- Ranged weapon specifications --&gt;
+|cartridge= [[.455 Webley|.455 Webley Mk II]] 
+|caliber= .455 (11.6 mm)
+|action= Double Action revolver
+|rate= 20–30 rounds/minute
+|velocity= 620 ft/s (190 m/s)
+|range=50 yd
+|max_range=
+|feed=6-round cylinder
+|sights=Fixed front blade and rear notch
+}}
+
+The '''Webley Revolver''' (also known as the '''Webley Top-Break Revolver''' or '''Webley Self-Extracting Revolver''' ) was, in various [[Mark (designation)|marks]], the standard issue [[service pistol]] for the armed forces of the United Kingdom, the [[British Empire]] and the [[Commonwealth of Nations|Commonwealth]] from 1887 until 1963.
+
+The Webley is a [[Break-action|top-break]] revolver and breaking the revolver reloading operates the [[extractor (firearms)|extractor]], which removes [[cartridge (firearms)|cartridge]]s from the [[cylinder (firearms)|cylinder]]. The '''Webley Mk I''' service revolver was adopted in 1887 and the '''Mk IV''', rose to prominence during the [[Second Boer War|Boer War of 1899–1902]]. The '''Mk VI''', introduced in 1915 during the [[World War I|First World War]], is perhaps the best-known model.
+
+Firing large [[.455 Webley]] cartridges, Webley service revolvers are among the most powerful top-break revolvers ever produced. The .455 calibre Webley is no longer in military service but the [[.38/200]] Webley Mk IV variant is still in use as a police sidearm in a number of countries.&lt;ref&gt;[http://www.cruffler.com/historic-july99.html Historic firearm of the month, July 1999], Cruffler.com. Retrieved on 2006-12-02&lt;/ref&gt; With a modified, &quot;shaved&quot; cylinder and the use of a half [[moon clip]], the '''Webley Mk VI''' can fire the [[45 ACP]] cartridge,&lt;ref&gt;https://thefiringline.com/forums/showthread.php?t=517641&lt;/ref&gt; although [[Overpressure ammunition|overpressure]] or +P .45 ACP cartridges exceed Webley proof loads and should not be used.&lt;ref&gt;[http://britishmilitariaforums.yuku.com/topic/9296/CAUTION--455-REVOLVERS-ALTERED--SHOOT-45-ACP--45-Auto-Rim] Retrieved on 2015-09-28]&lt;/ref&gt; Many Webley Mk VIs were converted to fire 45 ACP ammunition after the remaining .455 Webley ammunition dwindled.
+
+==History==
+The British company [[Webley &amp; Scott]] (P. Webley &amp; Son before merger with W &amp; C Scott in 1897) produced a range of [[revolver]]s from the mid 19th to late 20th centuries.  As early as 1853 P. Webley and J. Webley began production of their first patented single action cap and ball revolvers.  Later under the trade name of P. Webley and Son, manufacturing included their own .44-caliber rim-fire solid frame revolver as well as licensed copies of Smith &amp; Wesson's Tip up break action revolvers.  The quintessential hinged frame, centre-fire revolvers for which the Webley name is best known first began production/development in the early 1870s most notably with the Webley-Pryse (1877) and Webley-Kaufman (1881) models.  The W.G. or Webley-Government models produced from 1885 through to the early 1900s, (often incorrectly referred to as the Webley-Green) are the most popular of the commercial top break revolvers and many were the private purchase choice of English military officers and target shooters in the period, coming in a .476/.455 calibre.  However other short-barrel solid-frame revolvers, including the [[Webley RIC]] ([[Royal Irish Constabulary]]) model and the [[British Bulldog revolver]], designed to be carried in a coat pocket for self-defence were far more commonplace during the period.  Today, undoubtedly best-known are the range of military revolvers, which were in service use across two World Wars and numerous colonial conflicts.&lt;ref&gt;{{Cite web|url=http://www.phelbs.com/HRFTX/tbbd.htm |accessdate=2011-03-28 |last=Ficken |first=Homer R. |title=Webley’s ‘The British Bull Dog’ Revolver: Serial Numbering and Variations }}&lt;/ref&gt;&lt;ref name=&quot;Kinard2004&quot;&gt;{{cite book|last=Kinard|first=Jeff|title=Pistols: An Illustrated History of Their Impact|url=https://books.google.com/books?id=ZVnuHX_6bG0C&amp;pg=PA141|year=2004|publisher=ABC-CLIO|isbn=978-1-85109-470-7|page=141}}&lt;/ref&gt;
+
+In 1887, the [[British Army]] was searching for a revolver to replace the largely unsatisfactory .476 [[Enfield Revolver|Enfield Mk I &amp; Mk II Revolvers]], the Enfield having only replaced the solid frame [[.450 Adams|Adams .450]] revolver which was a late 1860s conversion of the cap and ball [[Beaumont–Adams revolver]] in 1880. Webley &amp; Scott, who were already very well known makers of quality guns and had sold many pistols on a commercial basis to military officers and civilians alike, tendered the .455 calibre Webley Self-Extracting Revolver for trials.  The military was suitably impressed with the revolver (it was seen as a vast improvement over the Enfield revolvers then in service, which American designed Owen extraction system did not prove particularly satisfactory in service), and it was adopted on 8 November 1887 as the &quot;Pistol, Webley, Mk I&quot;.&lt;ref&gt;§ 6075, ''[[List of Changes|List of Changes in British War Material]]'' (hereafter referred to as &quot;LoC&quot;), H.M. Stationer's Office, periodical&lt;/ref&gt; The initial contract called for 10,000 Webley revolvers, at a price of [[£sd|£3/1/1]] each, with at least 2,000 revolvers to be supplied within eight months.&lt;ref&gt;Skennerton, Ian D., ''Small Arms Identification Series No. 9: .455 Pistol, Revolver No. 1 Mk VI'', p. 6, Arms &amp; Militaria Press, 1997.&lt;/ref&gt;
+
+The Webley revolver went through a number of changes, culminating in the Mk VI, which was in production between 1915 and 1923. The large .455 Webley revolvers were retired in 1947, although the Webley Mk IV .38/200 remained in service until 1963 alongside the Enfield No. 2 Mk I revolver.
+Commercial versions of all Webley service revolvers were also sold on the civilian market, along with a number of similar designs (such as the '''Webley-Government''' and '''Webley-Wilkinson''') that were not officially adopted for service, but were nonetheless purchased privately by military officers.
+
+&lt;gallery&gt;
+File:Webley_MkI_P0.jpg|A Webley Mark I Revolver, circa 1887, from Canada, cal .455 (Mk I) Webley
+File:Thinktank Birmingham - object 1949S00001.jpg|Webley Mark VI .455 service revolver
+Image:Webley-Mk-IV-p1030102.jpg|Close up of the cylinder (including thumb catch) on a Webley Mk VI service revolver
+Image:Webley 1868 RIC.JPG|Webley RIC 1868 cal [[.450 Adams|.450 CF]]
+File:Webley W. G. Model.JPG|Webley WG (a.k.a. Webley Government) Revolver cal .455/476 ([[.476 Enfield]])
+File:Webley IMG 6793.jpg|A Webley Revolver, opened
+File:IOF-32-REV-1.JPG|[[IOF .32 Revolver]]
+Image:Webleypocket.jpg|Copy of Webley Pocket Pistol in .38 S&amp;W, at [[Bagram Airfield]], Afghanistan
+Image:455in SAA Ball - Webley 455 Ammunition.jpg|.455 in SAA Ball ammunition.
+Image:380RevolverMkIIz Cartridges.JPG|A box of Second World War dated .380&quot; Revolver Mk IIz cartridges
+&lt;/gallery&gt;
+
+==Webley revolvers in military service==
+
+===Boer War===
+The Webley Mk IV, chambered in .455 Webley, was introduced in 1899 and soon became known as the &quot;[[Second Boer War|Boer War]] Model&quot;,&lt;ref&gt;Maze, Robert J., ''Howdah to High Power'', p. 44, Excalibur Publications, 2002.&lt;/ref&gt; on account of the large numbers of officers and [[non-commissioned officers]] who purchased it on their way to take part in the conflict. The Webley Mk IV served alongside a large number of other handguns, including the [[Mauser C96|Mauser C96 &quot;Broomhandle&quot;]] (as used by [[Winston Churchill]] during the War), earlier [[Beaumont–Adams revolver|Beaumont–Adams]] cartridge revolvers, and other top-break revolvers manufactured by gunmakers such as [[William Tranter]], and [[Kynoch]].
+
+===First World War===
+The standard-issue Webley revolver at the outbreak of the First World War was the Webley Mk V (adopted 9 December 1913&lt;ref&gt;Dowell, William Chipchase, ''The Webley Story'', p. 115. Commonwealth Heritage Foundation, 1987.&lt;/ref&gt;), but there were considerably more Mk IV revolvers in service in 1914,&lt;ref&gt;Dowell, William Chipchase, ''The Webley Story'', p. 114, Commonwealth Heritage Foundation, 1987.&lt;/ref&gt; as the initial order for 20,000 Mk V revolvers had not been completed when hostilities began.&lt;ref name = &quot;Dowell_Webley&quot;&gt;Dowell, William Chipchase, ''The Webley Story'', p. 115, Commonwealth Heritage Foundation, 1987.&lt;/ref&gt; On 24 May 1915, the Webley Mk VI was adopted as the standard sidearm for [[Commonwealth of Nations|British and Commonwealth]] troops&lt;ref name = &quot;Dowell_Webley&quot;/&gt; and remained so for the duration of the First World War, being issued to officers, airmen, naval crews, boarding parties, [[Trench raiding|trench raiders]], machine-gun teams, and [[tank]] crews. The Mk VI proved to be a very reliable and hardy weapon, well suited to the mud and adverse conditions of trench warfare, and several accessories were developed for the Mk VI, including a [[bayonet]] (made from a converted French Gras bayonet),&lt;ref&gt;Dowell, William Chipchase, ''The Webley Story'', p. 116, Commonwealth Heritage Foundation, 1987.&lt;/ref&gt; [[speedloader]] devices (the &quot;Prideaux Device&quot; and the Watson design),&lt;ref&gt;http://www.classic-arms.com/webley/Webley%201915.pdf&lt;/ref&gt;&lt;ref&gt;http://www.utting.org/writing/nvtu/shooting/prideaux-loader.pdf&lt;/ref&gt;&lt;ref&gt;Dowell, William Chipchase, ''The Webley Story'', p. 178, Commonwealth Heritage Foundation, 1987.&lt;/ref&gt; and a stock allowing for the revolver to be converted into a [[carbine]].&lt;ref&gt;Maze, Robert J., ''Howdah to High Power'', p. 49, Excalibur Publications, 2002.&lt;/ref&gt;
+
+Demand exceeded production, which was already behind as the war began. This forced the British
+government to buy substitute weapons chambered in .455 Webley from neutral countries. America provided the [[Smith &amp; Wesson Triple Lock|Smith &amp; Wesson 2nd Model &quot;Hand Ejector&quot;]] and [[Colt New Service|Colt New Service Revolver]]s. Spanish gunsmiths in [[Eibar]] made decent-quality copies of popular guns and were tapped to cheaply close the gap by making a .455 variant of their 11mm ''M1884'' or ''&quot;S&amp;W Model 7 ONÁ&quot;'' revolver, a copy of the [[Smith &amp; Wesson Model 3|Smith &amp; Wesson ''.44 Double Action First Model'']]. The ''Pistol, Revolver, Old Pattern, No. 1 Mk. 1'' was by [[Garate, Anitua y Cia.]] and the ''Pistol, Revolver, Old Pattern, No.2 Mk.1'' was by [[Trocaola, Aranzabal y Cia.]]. [[Orbea|Orbea Hermanos y Cia.]] made 10,000 pistols. [[Rexach &amp; Urgoite]] was tapped for an initial order of 500 revolvers, but they were rejected due to defects.
+
+===Second World War===
+[[File:Festungsmuseum Reuenthal Sonderausstellung Zuleger Webley Mk IV 38.jpg|thumb|right|Webley Mk IV in .38]]
+The official service pistol for the British military during the [[Second World War]] was the [[Enfield No. 2|Enfield No. 2 Mk I]] .38/200 calibre revolver,.&lt;ref&gt;Smith, W. H. B., ''1943 Basic Manual of Military Small Arms'' (Facsimile), p. 11, Stackpole Books, 1979.&lt;/ref&gt; Owing to a critical shortage of handguns, a number of other weapons were also adopted (first practically, then officially) to alleviate the shortage. As a result, both the Webley Mk IV in .38/200 and Webley Mk VI in .455 calibre were issued to personnel during the war.&lt;ref&gt;Stamps, Mark &amp; Skennerton, Ian D., ''.380 Enfield Revolver No. 2'', p. 87, Greenhill Books, 1993.&lt;/ref&gt;
+
+===Post-war===
+The Webley Mk VI (.455) and Mk IV (.38/200) revolvers were still issued to British and Commonwealth Forces after the Second World War; there were now extensive stockpiles of the revolvers in military stores. An armourer stationed in [[West Germany]] recalled (admittedly tongue-in-cheek) that by the time they were officially retired in 1963, the ammunition allowance was &quot;two cartridges per man, per year.&quot; This lack of ammunition was instrumental in keeping the Enfield and Webley revolvers in use so long: they were not wearing out because they were not being used.&lt;ref&gt;Stamps, Mark &amp; Skennerton, Ian D., ''.380 Enfield Revolver No. 2'', p. 117, Greenhill Books, 1993.&lt;/ref&gt;
+
+The Webley Mk IV .38 revolver was not completely replaced by the [[Browning Hi-Power]] until 1963, and saw use in the Korean War, the [[Suez Crisis]], [[Malayan Emergency]], and the [[Rhodesian Bush War]]. Many Enfield No. 2 Mk I revolvers were still circulating in British Military service as late as 1970.&lt;ref&gt;Stamps, Mark &amp; Skennerton, Ian D., ''.380 Enfield Revolver No. 2'', p. 119, Greenhill Books, 1993.&lt;/ref&gt;
+
+===Police use===
+The [[Hong Kong Police Force|Hong Kong Police]] and [[Singapore Police Force|Royal Singaporean Police]] were issued Webley Mk III &amp; Mk IV (38S&amp;W then.38/200 - Never use 38/200 in a Webley Mark III proofed for black powder 38S&amp;W only) revolvers from the 1930s. Singaporean police (and some other &quot;officials&quot;) Webleys were equipped with safety catches, a rather unusual feature in a revolver. These were gradually retired in the 1970s as they came in for repair, and were replaced with [[Smith &amp; Wesson Model 10]] .38 revolvers. The [[London Metropolitan Police]] were also known to use Webley revolvers, as were most colonial police units until just after the Second World War. There may still be some police units with Webley Mk IV revolvers that, whilst not issued, are still present in the armoury.
+
+The [[Ordnance Factories Organisation|Ordnance Factory Board of India]] still manufactures .380 Revolver Mk IIz cartridges,&lt;ref&gt;{{cite web |url=http://ofbindia.gov.in/products/data/ammunition/sc/10.htm |accessdate=2006-08-03 |title=Cartridge SA .380&quot; Ball Revolver|publisher=Indian Ordnance Factories}}&lt;/ref&gt; as well as a [[.32 S&amp;W Long|.32 calibre]] revolver (the [[IOF .32 Revolver]]) with {{convert|2|in|mm|sing=on}} barrel which is clearly based on the Webley Mk IV .38 service pistol.&lt;ref&gt;{{cite web |url=http://ofbindia.gov.in/products/data/weapons/wsc/3.htm |accessdate=2006-08-03 |title=Revolver 32 (7.65 mm x 23) |publisher=Indian Ordnance Factories}}&lt;/ref&gt;
+
+===Military service .455 Webley revolver marks and models===
+There were six different marks of .455 calibre Webley British Government Model revolvers approved for British military service at various times between 1887 and the end of the First World War:
+* '''Mk I''': The first Webley self-extracting revolver adopted for service, officially adopted 8 November 1887, with a {{convert|4|in|mm|sing=on}} barrel and &quot;bird's beak&quot; style grips. '''Mk I*''' was a factory upgrade of Mk I revolvers to match the Mk II.
+* '''Mk II''': Similar to the Mk I, with modifications to the hammer and grip shape, as well as a hardened steel shield for the blast-shield. Officially adopted 21 May 1895, with a {{convert|4|in|mm|sing=on}} barrel.&lt;ref&gt;§ 7816, LoC&lt;/ref&gt;
+* '''Mk III''': Identical to Mk II, but with modifications to the cylinder cam and related parts. Officially adopted 5 October 1897, most not issued, with exception of a number that were marked with the &quot;broad arrow&quot; acceptance stamp on the top strap. These few went to Royal Navy Service.&lt;ref&gt;§ 9039, LoC&lt;/ref&gt;
+* '''Mk IV''': The &quot;Boer War&quot; Model. Manufactured using much higher quality steel and case hardened parts, with the cylinder axis being a fixed part of the barrel and modifications to various other parts, including a re-designed blast-shield. Officially adopted 21 July 1899, with a {{convert|4|in|mm|sing=on}} barrel.&lt;ref&gt;§ 9787, LoC&lt;/ref&gt;
+* '''Mk V''': Similar to the Mk IV, but with cylinders {{convert|0.12|in|mm|sing=on}} wider to allow for the use of nitrocellulose propellant-based cartridges. Officially adopted 9 December 1913, with a {{convert|4|in|mm|sing=on}} barrel, although some models produced in 1915 had {{convert|5|in|mm|sing=on}} and {{convert|6|in|mm|sing=on}} barrels.&lt;ref&gt;§ 16783, LoC&lt;/ref&gt;
+* '''Mk VI''': Similar to the Mk V, but with a squared-off &quot;target&quot; style grip (as opposed to the &quot;bird's-beak&quot; style found on earlier marks and models) and a {{convert|6|in|mm|sing=on}} barrel. Officially adopted 24 May 1915,&lt;ref&gt;§ 17319, LoC&lt;/ref&gt; and also manufactured by RSAF Enfield under the designation '''Pistol, Revolver, Webley, No. 1 Mk VI''' 1921–1926.&lt;ref&gt;Skennerton, Ian D., ''Small Arms Identification Series No. 9: .455 Pistol, Revolver No. 1 Mk VI'', p. 10, Arms &amp; Militaria Press, 1997.&lt;/ref&gt;
+
+==The Webley Mk IV .38/200 Service Revolver==
+{{Infobox Weapon
+|name=Webley Mk IV .38/200 Service Revolver
+|image=[[Image:Webley Military Mark IV 1793.jpg|300px]]
+|caption=
+|origin=[[British Empire]]
+|type=[[Service pistol|Service revolver]]
+&lt;!-- Type selection --&gt;
+|is_ranged=yes
+|is_UK=yes
+&lt;!-- Service history --&gt;
+|service=1932–1963
+|used_by=[[British Empire|United Kingdom &amp; Colonies]], [[Commonwealth of Nations|British Commonwealth]],
+|wars= Second World War, Korean War, British colonial conflicts, numerous others
+&lt;!-- Production history --&gt;
+|designer=[[Webley &amp; Scott]]
+|design_date=1932
+|manufacturer=[[Webley &amp; Scott]]
+|production_date=1932–1978
+|number=approx. 500,000
+|variants=
+&lt;!-- General specifications --&gt;
+|weight= 2.4 lb (1.1 kg), unloaded
+|length=10.25 in (266 mm)
+|part_length=
+&lt;!-- Ranged weapon specifications --&gt;
+|cartridge= [[.38/200|.380&quot; Revolver Mk IIz]]
+|caliber= .38 (9 mm)
+|action= Double Action revolver
+|rate= 20–30 rounds/minute
+|velocity= 620 ft/s (190 m/s)
+|range={{convert|50|yd|abbr=on}}
+|max_range={{convert|300|yd|abbr=on}}
+|feed=6-round cylinder
+|sights=fixed front post and rear notch
+}}
+
+At the end of the First World War, the British military decided that the .455 calibre gun and cartridge was too large for modern military use and—after numerous tests and extensive trials—that a pistol in .38 calibre firing a 200-grain (13&amp;nbsp;g) bullet would be just as effective as the .455 for stopping an enemy.&lt;ref&gt;Stamps, Mark &amp; Skennerton, Ian D., ''.380 Enfield Revolver No. 2'', p. 9, Greenhill Books, 1993; Smith, W. H. B., ''1943 Basic Manual of Military Small Arms'' (Facsimile), p. 11, Stackpole Books, 1979.&lt;/ref&gt;
+
+Webley &amp; Scott immediately tendered the [[.38/200]] calibre Webley Mk IV revolver, which as well as being nearly identical in appearance to the .455 calibre Mk VI revolver (albeit scaled down for the smaller cartridge), was based on their .38 calibre Webley Mk III pistol, designed for the police and civilian markets.&lt;ref&gt;Maze, Robert J., ''Howdah to High Power'', p. 103, Excalibur Publications, 2002.&lt;/ref&gt; Much to their surprise, the British Government took the design to the [[Royal Small Arms Factory]] at [[Enfield Lock]], which&lt;!--removed &quot;used the design&quot; as this is denied in the next paragraph--&gt; came up with a revolver that was externally very similar looking to the .38/200 calibre Webley Mk IV, but was internally different enough that no parts from the Webley could be used in the Enfield and vice versa. The Enfield-designed pistol was quickly accepted under the designation ''[[Enfield No. 2|Pistol, Revolver, No. 2 Mk I]]'', and was adopted in 1932,&lt;ref&gt;§ A6862, LoC&lt;/ref&gt; followed in 1938 by the Mk I* (spurless hammer, double action only),&lt;ref&gt;§ B2289, LoC&lt;/ref&gt; and finally the Mk I** (simplified for wartime production) in 1942.&lt;ref&gt;§ B6712, LoC&lt;/ref&gt;
+
+Webley &amp; Scott sued the British Government over the incident, claiming £2250 as &quot;costs involved in the research and design&quot; of the revolver. This was contested by RSAF Enfield, which quite firmly stated that the [[Enfield No. 2 Mk I]] was designed by Captain Boys (the Assistant Superintendent of Design, later of [[Rifle, Anti-Tank, .55 in, Boys|Boys Anti-Tank Rifle]] fame) with assistance from Webley &amp; Scott, and not the other way around. Accordingly, their claim was denied. By way of compensation, the Royal Commission on Awards to Inventors eventually awarded Webley &amp; Scott £1250 for their work.&lt;ref&gt;Stamps, Mark &amp; Skennerton, Ian D., ''.380 Enfield Revolver No. 2'', p. 12, Greenhill Books, 1993.&lt;/ref&gt;
+
+RSAF Enfield proved unable to manufacture enough No. 2 revolvers to meet the military's wartime demands, and as a result Webley's Mk IV was also widely used within the [[British Army]] in World War Two.
+
+&lt;gallery&gt;
+Image:Revolver Enfield No2 Mk I.jpg|An Enfield No. 2 Mk I revolver—clearly based on the Webley revolver.
+&lt;/gallery&gt;
+{{Clear}}
+
+==Other well-known Webley Revolvers==
+Whilst the top-break, self-extracting revolvers used by the British and Commonwealth militaries are the best-known examples of Webley Revolvers, the company produced a number of other highly popular revolvers largely intended for the police and civilian markets.
+
+===Webley RIC===
+[[File:Webley 1868 RIC.JPG|thumb|Webley Royal Irish Constabulary Revolver]]
+The Webley RIC ([[Royal Irish Constabulary]]) model was Webley's first double-action revolver, and adopted by the RIC in 1868,&lt;ref&gt;Maze, Robert J., ''Howdah to High Power'', p. 30, Excalibur Publications, 2002.&lt;/ref&gt; hence the name. It was a solid frame, gate-loaded revolver, chambered in .442 Webley. General [[George Armstrong Custer]] was known to have owned a pair, which he is believed to have used at the [[Battle of the Little Bighorn]] in 1876.&lt;ref&gt;{{cite web |url=http://www.geocities.com/burntumber60/MPdoerner.html |title=Lt. Col. George Armstrong Custer at the Battle of the Little Bighorn |last=Doerner |first=John A |publisher=Martin Pate |accessdate =2006-08-03 |archiveurl=https://web.archive.org/web/20030924041023/http://www.geocities.com/burntumber60/MPdoerner.html |archivedate=2003-09-24}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.westernerspublications.ltd.uk/CAGB%20Guns%20at%20the%20LBH.htm |title=Guns at the Little Bighorn |last=Gallear |first=Mark |accessdate=2006-08-03 |year=2001 |publisher=Custer Association of Great Britain}}&lt;/ref&gt;
+
+A small number of early examples were produced in the huge .500 Tranter calibre, and later models were available chambered for the .450 Adams and other cartridges.  They were also widely copied in Belgium.
+
+===British Bull Dog===
+{{Main article|British Bull Dog revolver}}
+The British Bull Dog model was an enormously successful solid-frame design introduced by Webley in 1872.  It featured a {{convert|2.5|in|mm|sing=on}} barrel and was chambered for five .44 Short Rimfire, .442 Webley, or .450 Adams cartridges. A .44 calibre Belgian-made British Bulldog revolver was used to assassinate US President [[James Garfield]] on July 2, 1881 by [[Charles Guiteau]]. (Webley later added smaller scaled five chambered versions in .320 and .380 calibres, but did not mark them British Bull Dog.)
+
+It was designed to be carried in a coat pocket or kept on a night-stand, and many have survived to the present day in good condition, having seen little actual use.&lt;ref&gt;{{cite web |url=http://www.phelbs.com/HRFTX/tbbd.htm |accessdate=2011-04-02| last=Ficken |first=Homer R. |title=Webley's The British Bull Dog Revolver, Serial Numbering and Variations}}&lt;/ref&gt; Numerous copies of this design were made during the late 19th century in [[Belgium]], with smaller numbers also produced in Spain, France and the USA.&lt;ref&gt;{{cite web |url=http://guns.connect.fi/gow/QA14.html |accessdate=2006-08-03 |publisher=Gunwriters | last=Kekkonen |first=P.T. |title=British Bulldog revolver}}&lt;/ref&gt; They remained reasonably popular until the Second World War, but are now generally sought after only as collectors' pieces, since ammunition for them is for the most part no longer commercially manufactured.
+
+===Webley-Fosbery Automatic Revolver===
+{{Main article|Webley-Fosbery Automatic Revolver}}
+
+A highly unusual example of an &quot;automatic revolver&quot;, the Webley-Fosbery Automatic Revolver was produced between 1900 and 1915, and available in both a six-shot .455 Webley version, and an eight-shot [[.38 ACP]] (not to be confused with [[.380 ACP]]) version.&lt;ref&gt;Dowell, William Chipchase, ''The Webley Story'', p. 128, Commonwealth Heritage Foundation, 1987.&lt;/ref&gt;
+Unusually for a revolver, the Webley-Fosbery had a safety catch, and the light trigger pull, solid design, and reputation for accuracy ensured that the Webley-Fosbery remained popular with target shooters long after production had finished.&lt;ref&gt;Maze, Robert J., ''Howdah to High Power'', p. 78, Excalibur Publications, 2002.&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://world.guns.ru/handguns/hg91-e.htm |title=Webley top-break revolvers|publisher=world.guns.ru}}&lt;/ref&gt;
+
+==Users==
+&lt;!--READ FIRST: This section is for cited entries only. Please do not add entries into this list without a citation from a reliable source. All entries without a citation will be removed. Thank you.--&gt;
+&lt;!-- removed Canada (per section warning &amp; attached cite): http://www.canadiansoldiers.com/weapons/pistols.htm. &quot;Webley revolvers have never been primary issue Canadian sidearms.&quot; Commonwealth soldiers acquired Webleys as mentioned in cite. --&gt; 
+* {{flag|British Empire}}&lt;ref name=&quot;bishop1998&quot;&gt;Bishop, Chris (1998). ''Guns in Combat''. Chartwell Books, Inc. ISBN 0-7858-0844-2.&lt;/ref&gt;
+* {{flag|Hong Kong}}：Retired
+* {{flag|India}}
+* {{flag|Ireland}}
+* {{flag|Israel}}
+* {{flag|Luxembourg}}
+* {{flag|Philippines|1936}}
+* {{flag|Singapore}}：Retired
+
+==Notes==
+{{reflist|30em}}
+
+==References==
+* Dowell, William Chipchase, ''The Webley Story'', Commonwealth Heritage Foundation, Kirkland, WA (USA), 1987. ISBN 0-939683-04-0.
+* H.M. Stationer's Office, ''List of Changes in British War Material'', H.M.S.O, London (UK), Periodical.
+* Maze, Robert J., ''Howdah to High Power: A Century of Breechloading Service Pistols (1867–1967)'', Excalibur Publications, Tucson, AZ (USA), 2002. ISBN 1-880677-17-2.
+* Skennerton, Ian D., ''Small Arms Identification Series No. 9: .455 Pistol, Revolver No. 1 Mk VI'', Arms &amp; Militaria Press, Gold Coast, QLD (Australia), 1997. ISBN 0-949749-30-3.
+* Smith, W. H. B., ''1943 Basic Manual of Military Small Arms'' (Facsimile), Stackpole Books, Harrisburg, PA (USA), 1979. ISBN 0-8117-1699-6.
+* Stamps, Mark &amp; Skennerton, Ian D., ''.380 Enfield Revolver No. 2'', Greenhill Books, London (UK), 1993. ISBN 1-85367-139-8.
+* Wilson, Royce, &quot;A Tale of Two Collectables&quot;, ''Australian Shooter'' Magazine, March 2006.
+* Gerard Henrotin, &quot;The Webley service revolvers&quot;, ''HLebooks.com'' Downloadable ebook, 2007.
+
+==External links==
+* [http://www.rememuseum.org.uk/arms/pistols/armpr.htm#268 The Weapons Collection: Pistols Revolver], [[Royal Electrical and Mechanical Engineers|REME]] [[REME Museum of Technology|Museum of Technology]].
+* [http://americanrifleman.org/ArticlePage.aspx?id=1359&amp;cid=28 Historical Overview of the Webley Mk 4 Revolver from ''American Rifleman'']
+* [http://www.scribd.com/doc/73267250 (1947) E.B. 962 - Identification List for Pistol, Revolver, Webley, .38-Inch, Mark 4]
+* [http://hlebooks.com/pinterest/webley2.htm Webley revolver Model VI internal mechanism (technical drawing)]
+{{VictorianEraBritishWeapons}}
+{{GreatWarBritishWeapons}}
+{{WW2_Brit_Comm_Infantry_Guns}}
+{{.38 Calibre}}
+{{featured article}}
+
+[[Category:Revolvers of the United Kingdom]]
+[[Category:Early revolvers]]
+[[Category:Military revolvers]]
+[[Category:Police weapons]]
+[[Category:Double-action revolvers]]
+[[Category:Victorian-era weapons of the United Kingdom]]
+[[Category:World War I British infantry weapons]]
+[[Category:World War II infantry weapons of the United Kingdom]]
+[[Category:Weapons of the Philippine Commonwealth Army]]</text>
+      <sha1>h0b1744rlodmkb07z0ej58m2pti473d</sha1>
+    </revision>
+  </page>
+</mediawiki>

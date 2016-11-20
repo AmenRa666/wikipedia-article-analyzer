@@ -1,0 +1,164 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Sinoceratops</title>
+    <ns>0</ns>
+    <id>27500990</id>
+    <revision>
+      <id>731574624</id>
+      <parentid>731573815</parentid>
+      <timestamp>2016-07-26T06:31:35Z</timestamp>
+      <contributor>
+        <username>Mild Bill Hiccup</username>
+        <id>5202324</id>
+      </contributor>
+      <comment>Spelling/grammar correction</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12846">{{italic title}}{{Good article}}
+{{automatic taxobox
+| name = ''Sinoceratops''
+| fossil_range = &lt;br&gt;[[Late Cretaceous]], {{fossil range|earliest=72.8|72|66}}
+| image = Sinoceratops skeleton.jpg
+| image_width = 250px
+| image_caption = Restored skeleton
+| authority = [[Xu Xing (paleontologist)|Xu]] ''et al.'', [[2010 in paleontology|2010]]
+| display_parents = 3
+| type_species = {{extinct}}'''''Sinoceratops zhuchengensis'''''
+| type_species_authority = Xu ''et al.'', 2010
+}}
+
+'''''Sinoceratops''''' {{IPAc-en|ˌ|s|aɪ|n|oʊ|ˈ|s|ɛr|ə|t|ɒ|p|s}} is an [[extinct]] [[genus]] of [[ceratopsia]]n [[dinosaur]] that lived approximately 72 to 66 [[million years ago]] during the latter part of the [[Cretaceous]] [[Period (geology)|Period]] in what is now [[Shandong province]] in [[China]]. It was named in [[2010 in paleontology|2010]] by [[Xu Xing (paleontologist)|Xu Xing]] ''et al.'' for three skulls from [[Zhucheng]], China. The  name of its type species ''Sinoceratops zhuchengensis'' means &quot;Chinese horned face from Zhucheng&quot;, after the location of its discovery.
+
+''Sinoceratops'' was a medium-sized, averagely-built, ground-dwelling, [[quadrupedal]] [[herbivore]]. It could grow up to an estimated {{Convert|6|m|ft|1|abbr=on}} length and {{convert|2|m|ft}} height, and weigh up to {{convert|2|tonne|ton}}. It was the first [[ceratopsid]] dinosaur discovered in China, and the only ceratopsid known from Asia. All other [[centrosaurines]], and all [[chasmosaurines]], are known from fossils discovered in North America, except for possibly ''[[Turanoceratops]]''. ''Sinoceratops'' is also significant because it is one of the largest known centrosaurines, and is much larger than any other known [[basal (phylogenetics)|basal]] members of this group.
+
+''Sinoceratops'' was discovered in the [[Xingezhuang Formation]], which was deposited during the late Cretaceous. It lived alongside leptoceratopsids, saurolophines, and tyrannosaurines. The most common creature in the formation was ''[[Shantungosaurus]]'', to which most of the material has been assigned. The animals living alongside ''Sinoceratops'' and ''Shantungosaurus'' were ''[[Zhuchengceratops]]'', ''[[Huaxiaosaurus]]'', and ''[[Zhuchengtyrannus]]''.
+
+==Etymology==
+The genus name ''Sinoceratops'' means &quot;Chinese horned face&quot;, and is derived from the word ''Sino-'' referring to China from [[Latin]] ''Sina'', the country of its discovery, and the [[Ancient Greek|Greek]] words ''keras'' (κέρας) meaning &quot;horn&quot;, and ''ops'' (ωψ) meaning &quot;face&quot;.&lt;ref name=&quot;Liddell 1980&quot;&gt;{{cite book | author = [[Henry George Liddell|Liddell, Henry George]] and [[Robert Scott (philologist)|Robert Scott]] | year = 1980 | title = [[A Greek-English Lexicon]] (Abridged Edition) | publisher = Oxford University Press | location = United Kingdom | isbn = 0-19-910207-4}}&lt;/ref&gt; ''Sinoceratops'' was described and named by [[paleontologist]] [[Xu Xing (paleontologist)|Xu Xing]] and colleagues, in [[2010 in paleontology|2010]]. The [[type species]] is ''Sinoceratops zhuchengensis''. The [[specific name (zoology)|specific name]] refers to the location of its discovery, the city of [[Zhucheng]] which also financed the excavations.&lt;ref name=xu2010&gt;{{Cite journal|author=Xu, X., Wang, K., Zhao, X. &amp; Li, D.|year=2010|title=First ceratopsid dinosaur from China and its biogeographical implications|journal=Chinese Science Bulletin|volume=55|issue=16|pages=1631–1635|doi=10.1007/s11434-009-3614-5}}&lt;/ref&gt;
+
+==Description==
+[[Image:Sinoceratops NT.jpg|thumb|Restoration]]
+''Sinoceratops'' was a larger [[ceratopsia]]n [[ornithischia]]n, with an estimated length of about {{convert|6|m|ft|1}}, weight of {{convert|2|tonne|ton}}, and height of about {{convert|2|m|ft}}.&lt;ref name=&quot;sauriandata&quot;&gt;{{cite web|title=Saurian Database – Sinoceratops|url=http://sauria.joachim-gabel.de/register.php?lang=eng&amp;id=1513|publisher=Gabel Informations Technologie|accessdate=6 December 2013}}&lt;/ref&gt; [[Thomas R. Holtz Jr.]] estimated its length at {{convert|7|m|ft}} and weight at {{convert|2.3|tonne|ton}}, the weight of a [[rhinoceros]].&lt;ref name=&quot;holtz2012&quot;/&gt; It has a short, hooked horn on its nose (called a nasal [[Horn (anatomy)|horn]]), no horns above its eyes (brow horns), and a short [[neck frill]] with a series of forward-curving hornlets that gave the frill a crown-like appearance. Inside this row of hornlets there is a series of low knobs on the top of the frill, which are not seen in any other horned dinosaur. ''Sinoceratops'' is a member of the short-frilled ceratopsids, the Centrosaurinae. [[Holotype]] specimen ZCDM V0010 consists of a partial skull with most elements of the skull roof and partial braincase. The skull of ''Sinoceratops'' is estimated to be {{Convert|180|cm|ft|1|abbr=on}} long making it one of the largest known centrosaurine skulls.&lt;ref name=xu2010/&gt;
+
+===Distinguishing anatomical features===
+Features that differentiate an animal from most or all others are called a diagnosis. Some, but not all, of the features in a diagnosis are also [[autapomorphies]]. An autapomorphy is a distinctive anatomical feature that is unique to a given organism.&lt;ref name=&quot;futuyma2013&quot;&gt;{{cite book|last=Futuyma|first=D.J.|authorlink=Douglas J. Futuyma|year=2013|title=Evolutionary Biology|edition=Third|publisher=Sinauer Associaties Inc.|location=Sunderland|page=95|isbn=978-1-60535-115-5}}&lt;/ref&gt;
+
+According to Xu (2010), ''Sinoceratops'' can be distinguished based on the following diagnostic characteristics: there are at least ten robust, strongly curved hornlike processes along the rear margin of the combined [[Parietal bone#In dinosaurs|parietal]]s, while at the same time at least four hornlike processes on the combined [[Squamosal bone|squamosal]]s are present; there is a large accessory fenestra in front of the [[antorbital fenestra]] (differing from all other known centrosaurines); the external margin of the parietals is only weakly undulating (differing from all other known centrosaurines); and the presence of broad-based [[epoccipital]]s (differing from all other known centrosaurines).&lt;ref name=xu2010/&gt;
+
+==Discovery==
+[[File:Sinoceratops skull.svg|thumb|left|Illustration of the known portion of the skull]] 
+The [[holotype]] specimen ZCDM V0010, consisting of a partial [[skull]], including a [[braincase]], was in the summer of 2008 recovered at the [[Xingezhuang Formation]] of the [[Wangshi Group]] in [[Shandong]], China.&lt;ref name=xu2010/&gt; The specimen was collected in [[Sediment transport#Fluvial|fluvial sediments]] that were deposited during the [[Campanian]]-[[Maastrichtian]] [[Stage (stratigraphy)|stages]] of the [[Cretaceous]] period, approximately 72–66 million years ago.&lt;ref name=&quot;holtz2012&quot;/&gt; Two other specimens have been recovered from the same formation. Specimen ZCDM V0011 is a partial skull that consists of the skull roof and most of the braincase, and ZCDM V0012 represents a partial braincase.&lt;ref name=xu2010/&gt;
+
+The discovery was significant, because it represented the first ceratopsid known from China, and possibly the only ceratopsid from Asia. The only other possible Asian ceratopsid is ''[[Turanoceratops]]'', but recently, its identification as a ceratopsid has been questioned.&lt;ref name=xu2010/&gt;
+
+==Classification==
+''Sinoceratops'' was assigned to the [[taxon]] Centrosaurinae, as a [[basal (phylogenetics)|basal]] member by Xu et al. (2010) based on characteristics present in the skull.&lt;ref name=xu2010/&gt;  ''Sinoceratops'' bears several characteristics that resemble features in chasmosaurines, blurring the distinction between the Centrosaurinae and Chasmosaurinae. According to Xu e.a. the basal position of ''Sinoceratops'' indicates that ceratopids originated in Asia.&lt;ref name=xu2010/&gt; ''Sinoceratops'' however, shares a number of features with advanced centrosaurines such as ''Centrosaurus'' and ''Styracosaurus'' that are not seen in primitive centrosaurines like ''[[Diabloceratops]]'', including a well-developed nose horn and reduced brow horns. The implication might be that this genus represents a lineage that invaded Asia from North America through [[Beringia]].&lt;ref name=&quot;glut2012&quot;&gt;{{cite book|author=Glut, D.F.|year=2012|title=Dinosaurs, the Encyclopedia, Supplement 7|publisher=McFarland &amp; Company, Inc.|page=866|isbn=0-7864-4859-8}}&lt;/ref&gt;
+[[File:Sinoceratops zhuchengensis.jpg|thumb|right|Close up illustration of the head]]
+The cladogram below follows the [[phylogenetic]] analysis performed by Sampson ''et al.'' (2013), and the clade names within Centrosaurinae follow Fiorillo &amp; Tykoski (2012).&lt;ref name=P.perotorum&gt;{{Cite journal | last1 = Fiorillo | first1 = A. R. | last2 = Tykoski | first2 = R. S. | doi = 10.4202/app.2011.0033 | title = A new Maastrichtian species of the centrosaurine ceratopsid ''Pachyrhinosaurus'' from the North Slope of Alaska | journal = Acta Palaeontologica Polonica | volume = 57 | issue = 3 | pages = 561 | year = 2012 | pmid =  | pmc = }}&lt;/ref&gt;
+
+{{clade| style=font-size:85%;line-height:85%
+|label1=[[Ceratopsidae]]&amp;nbsp;
+|1={{clade
+   |1=[[Chasmosaurinae]]
+   |label2=&amp;nbsp;Centrosaurinae&amp;nbsp;
+   |2={{Clade
+      |1=''[[Diabloceratops eatoni]]''
+      |2={{Clade
+         |1={{Clade
+            |1=''[[Avaceratops lammersi]]''
+            |2=''[[Nasutoceratops titusi]]''}}
+         |2={{Clade
+            |1=''[[Albertaceratops nesmoi]]''
+            |2={{Clade
+               |1={{Clade
+                  |1={{Clade
+                     |1=''[[Rubeosaurus ovatus]]''
+                     |2=''[[Styracosaurus albertensis]]''}}
+                  |2={{Clade
+                     |1=''[[Spinops sternbergorum]]''
+                     |2={{Clade
+                        |1=''[[Centrosaurus apertus]]''
+                        |2=''[[Coronosaurus brinkmani]]''}} }} }}
+               |label2=[[Pachyrhinosaurini]]
+               |2={{clade
+                  |1={{Clade
+                     |1=''[[Xenoceratops foremostensis]]''
+                     |2='''''Sinoceratops zhuchengensis'''''}}
+                  |2={{clade
+                     |1=''[[Einiosaurus procurvicornis]]''
+                     |label2=&amp;nbsp;[[Pachyrostra]]&amp;nbsp;
+                     |2={{clade
+                        |1=''[[Achelousaurus horneri]]''
+                        |2={{clade
+                           |1=''[[Pachyrhinosaurus canadensis]]''
+                           |2={{clade
+                              |1=''[[Pachyrhinosaurus lakustai]]''
+                              |2=''[[Pachyrhinosaurus perotorum]]'' }} }} }} }} }} }} }} }} }} }} }}
+
+==Paleoecology==
+''Sinoceratops'' is known from the Xingezhuang Formation of southern China. It is known from skull material. Alongside it, in the formation, lived ''[[Shantungosaurus]]'', a very common hadrosaurid to which most of the material has been assigned,&lt;ref name=xu2010/&gt;&lt;ref name=&quot;hu1973&quot;/&gt; ''[[Zhuchengtyrannus]]'', an Asian tyrannosaurid related to ''[[Tarbosaurus]]'',&lt;ref name=xu2010/&gt; ''[[Zhuchengceratops]]'', an Asian leptoceratopsid,&lt;ref name=&quot;zhao2007&quot;&gt;{{cite journal|year=2007|title=''Zuchengosaurus maximus'' from Shandong Province|journal=Acta Geoscientia Sinica|volume=28|issue=2|pages=111–122|author1=Zhao, X. |author2=Li, D. |author3=Han, G. |author4=Zhao, H. |author5=Liu, F. |author6=Li, L. |author7=Fang, X.  |lastauthoramp=yes |doi=10.1007/s10114-005-0808-x}}&lt;/ref&gt; and ''[[Huaxiaosaurus]]'',&lt;ref name=&quot;zhao2011&quot;&gt;{{cite journal|year=2011|title=''Huaxiaosaurus aigahtens''|journal=Geological Bulletin of China|volume=30|issue=11|pages=1671–1688|author1=Zhao X. |author2=Wang K. |author3=Li D.  |lastauthoramp=yes }}&lt;/ref&gt; a possible older individual of ''Shantungosaurus''.&lt;ref name=&quot;holtz2012&quot;&gt;{{cite book|author=Holtz, T.R. Jr.|year=2012|title=Dinosaurs: The Most Complete, Up-to-Date Encyclopedia for Dinosaur Lovers of All Ages|url=http://www.geol.umd.edu/~tholtz/dinoappendix/HoltzappendixWinter2011.pdf|publisher=Indiana University Press|isbn=0-375-82419-7|page=47}}&lt;/ref&gt;&lt;ref name=&quot;zhao2011&quot;/&gt; Other possible remains have been assigned to ''[[Zhuchengosaurus]]'',&lt;ref name=&quot;zhao2007&quot;/&gt; a probable junior synonym of ''Shantungosaurus'',&lt;ref name=&quot;holtz2012&quot;/&gt; and material tentatively assigned to ''[[Tyrannosaurus]]''.&lt;ref name=&quot;hu1973&quot;&gt;{{cite journal|author=Hu, C.C.|year=1973|title=[A new hadrosaur from the Cretaceous of Chucheng, Shantung]|journal=Acta Geologica Sinica|volume=2|pages=179–206}}&lt;/ref&gt;
+
+==See also==
+{{portal|Dinosaurs|Asia|Paleontology}}
+* [[Timeline of ceratopsian research]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{cite web|title=''Sinoceratop zhuchengensis''|url=http://paleobiodb.org/cgi-bin/bridge.pl?a=basicTaxonInfo&amp;taxon_no=168665|publisher=Paleobiology Database: Classic}}
+
+{{Marginocephalia|T.}}
+
+[[Category:Centrosaurines]]
+[[Category:Late Cretaceous dinosaurs of Asia]]
+[[Category:Fossil taxa described in 2010]]
+[[Category:Taxa named by Xu Xing]]</text>
+      <sha1>qlfs80vt85x3nnic6j1ysoszygrtp4p</sha1>
+    </revision>
+  </page>
+</mediawiki>

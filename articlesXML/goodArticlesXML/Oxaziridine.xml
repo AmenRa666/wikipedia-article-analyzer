@@ -1,0 +1,205 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Oxaziridine</title>
+    <ns>0</ns>
+    <id>29890027</id>
+    <revision>
+      <id>723720807</id>
+      <parentid>693031186</parentid>
+      <timestamp>2016-06-04T20:13:58Z</timestamp>
+      <contributor>
+        <username>Dcirovic</username>
+        <id>11795905</id>
+      </contributor>
+      <minor/>
+      <comment>refs using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25478">{{Good article}}
+{{Chembox
+| IUPACName = Oxaziridine
+| SystematicName = Oxaziridine&lt;ref&gt;{{Cite web|title = CID 15817734 - PubChem Public Chemical Database|url = http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=15817734|work = The PubChem Project|location = USA|publisher = National Center for Biotechnology Information}}&lt;/ref&gt;
+| ImageFile = Oxaziridine.svg
+| ImageFile1 = Oxaziridine Ball and Stick.png
+| ImageSize1 = 150
+| ImageFile2 = Oxaziridine Space Fill.png
+| ImageSize2 = 125
+| ImageSize = 120px
+|Section1={{Chembox Identifiers
+| PubChem = 15817734
+| ChemSpiderID = 10614170
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| SMILES = C1NO1
+| StdInChI = 1S/CH3NO/c1-2-3-1/h2H,1H2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SJGALSBBFTYSBA-UHFFFAOYSA-N
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+}}
+|Section2={{Chembox Properties
+| C=1 | H=3 | N=1 | O=1 
+}}
+}}
+
+[[Image:GenericOxaziridine.png|thumb|right|A generic oxaziridine derivative.]]
+
+An '''oxaziridine''' is an [[Organic compound|organic molecule]] that features a three-membered [[Heterocyclic compound|heterocycle]] containing oxygen, nitrogen, and carbon. In their largest application, oxazidines are intermediates in the industrial production of [[hydrazine]].  Oxaziridine derivatives are also used as specialized reagents in organic chemistry for a variety of oxidations, including alpha hydroxylation of enolates, epoxidation and aziridination of olefins, and other heteroatom transfer reactions.  Oxaziridines also serve as precursors to amides and participate in [3+2] cycloadditions with various heterocumulenes to form substituted five-membered heterocycles.  Chiral oxaziridine derivatives effect asymmetric oxygen transfer to prochiral enolates as well as other substrates.  Some oxaziridines also have the property of a high barrier to inversion of the nitrogen, allowing for the possibility of chirality at the nitrogen center.
+
+==History==
+Oxaziridine derivatives were first reported in the mid-1950s by [[William D. Emmons|Emmons]]&lt;ref name=&quot;EammonsSeminal&quot;&gt;{{cite journal |  author=Emmons, W. D.|journal=[[J. Am. Chem. Soc.]]|year=1956|volume=78|pages=6208|doi=10.1021/ja01604a072 |  issue=23}}&lt;/ref&gt; and subsequently by Krimm&lt;ref name=&quot;KrimmSeminal&quot;&gt;{{cite journal |  author=Krimm, H.|journal=[[Chem. Abstr.]]|year=1957|volume=256}}&lt;/ref&gt; and Horner and Jürgens.&lt;ref name=&quot;HornerSeminal&quot;&gt;{{cite journal |author1=Horner, L. |author2=Jürgens, E. |  title=Notiz Über Darstellung und Eigenschaften Einiger Isonitrone (Oxazirane)|journal=[[Chemische Berichte]]|year=1957|volume=90|pages=2184|doi=10.1002/cber.19570901010 |  issue=10}}&lt;/ref&gt;  Whereas oxygen and nitrogen typically act as [[nucleophile]]s due to their high [[electronegativity]], oxaziridines allow for [[electrophile|electrophilic]] transfer of both heteroatoms.  This unusual reactivity is due to the presence of the highly strained three membered ring and the relatively weak N-O bond.  Nucleophiles tend to attack at the aziridine nitrogen when the nitrogen substituent is small (R&lt;sup&gt;1&lt;/sup&gt;= H), and at the oxygen atom when the nitrogen substituent has greater [[steric effects|steric bulk]].  The unusual electronics of the oxaziridine system may be exploited to perform a number of oxygen and nitrogen transfer reactions including, but not limited to: α-hydroxylation of [[enolate anion|enolates]], [[epoxide|epoxidation]] of alkenes, selective oxidation of [[sulfide]]s and [[selenide]]s, [[amination]] of ''N''-nucleophiles and ''N''-acylamidation.
+
+The [[Peroxide process]] for the industrial production of [[hydrazine]] through the oxidation of [[ammonia]] with [[hydrogen peroxide]] in the presence of ketones was developed in the early 1970s.&lt;ref name=&quot;PCUK&quot;&gt;{{citation | inventor1-first = Jean-Pierre | inventor1-last = Schirmann | inventor2-first = Jean | inventor2-last = Combroux | inventor3-first = Serge Yvon | inventor3-last = Delavarenne | assignee = Produits Chimiques Ugine Kuhlmann | country-code = US | patent-number = 3972878 | title = Method for preparing azines and hydrazones | issue-date = 1976-08-03}}. {{citation | inventor1-first = Jean-Pierre | inventor1-last = Schirmann | inventor2-first = Pierre | inventor2-last = Tellier | inventor3-first = Henri | inventor3-last = Mathais | inventor4-first = Francis | inventor4-last = Weiss | assignee = Produits Chimiques Ugine Kuhlmann | country-code = US | patent-number = 3978049 | title = Process for the preparation of hydrazine compounds | issue-date = 1976-08-31}}.&lt;/ref&gt;&lt;ref name=&quot;Atochem&quot;&gt;{{citation | inventor1-first = Jean-Pierre | inventor1-last = Schirmann | inventor2-first = Jean | inventor2-last = Combroux | inventor3-first = Serge Y. | inventor3-last = Delavarenne | assignee = Atochem | country-code = US | patent-number = 4724133 | title = Preparation of a concentrated aqueous solution of hydrazine hydrate | issue-date = 1988-02-09}}.&lt;/ref&gt;
+
+[[Chirality (chemistry)|Chiral]] camphorsulfonyloxaziridines proved useful in the syntheses of complex natural product, such as taxol which is marketed as a chemotherapy agent. Both the [[Holton Taxol total synthesis]] and the [[Wender Taxol total synthesis]] feature asymmetric α-hydroxylation with camphorsulfonyloxaziridine.
+
+:[[File:Oxaziridine reactions.png|500px|alt=Oxaziridine Reactions|A display of selected reactions that demonstrates the wide breadth of oxaziridine reactivity.]]
+
+==Synthesis==
+
+===N-H, N-Alkyl, N-Aryloxaziridines===
+The two main approaches to synthesis of N-H, N-alkyl, and N-aryloxaziridines are oxidation of [[imine]]s with [[peroxy acid|peracids]] (A) and amination of [[carbonyl]]s (B).
+
+[[Image:BasicSynthesis.png|center|450px|General Oxaziridine synthesis]]
+
+Additionally, oxidation of chiral imines and oxidation of imines with chiral peracids may yield enantiopure oxaziridines.  Some oxaziridines have the unique property of configurationally stable nitrogen atoms at room temperature due to an inversion barrier of 24 to 31 kcal/mol.  Enantiopure oxaziridines where stereochemistry is entirely due to configurationally stable nitrogen are reported.&lt;ref name=&quot;BigTyme&quot;&gt;{{cite journal |author1=Davis, F. A. |author2=Sheppard, A. C. |  title=Applications of oxaziridines in organic synthesis|journal=[[Tetrahedron (journal)|Tetrahedron]]|year=1989|volume=45|pages=5703|doi=10.1016/s0040-4020(01)89102-x |  issue=18}}&lt;/ref&gt;
+
+===''N''-Sulfonyloxaziridines===
+In the late 1970s and early 1980s [[Franklin A. Davis]] synthesized the first ''N''-sulfonyloxaziridines, which act exclusively as oxygen transfer reagents, and are the most predominantly used class of oxaziridines today.&lt;ref name=&quot;BigTyme2&quot;&gt;{{cite journal |author1=Davis, F. A. |author2=Stringer, O. D. |  title=Chemistry of oxaziridines. 2. Improved synthesis of 2-sulfonyloxaziridines|journal=[[The Journal of Organic Chemistry]]|year=1982|volume=47|pages=1774|doi=10.1021/jo00348a039 |  issue=9}}&lt;/ref&gt;  While originally synthesized with [[meta-Chloroperoxybenzoic acid|mCPBA]] and the [[Phase-transfer catalyst|phase transfer catalyst]] benzyltrimethylammonium chloride, an improved synthesis using [[oxone]] as the oxidant is now most prevalent.&lt;ref name=&quot;oxonePrep&quot;&gt;{{cite journal |author1=Davis, F. A. |author2=Chattopadhyay, S. |author3=Towson, J. C. |author4=Lal, S. |author5=Reddy, T. |  title=Chemistry of oxaziridines. 9. Synthesis of 2-sulfonyl- and 2-sulfamyloxaziridines using potassium peroxymonosulfate (oxone)|journal=[[The Journal of Organic Chemistry]]|year=1988|volume=53|pages=2087|doi=10.1021/jo00244a043 |  issue=9}}&lt;/ref&gt;
+
+Many N-sulfonyloxaziridines are used today, each with slightly different properties and reactivity.  These reagents are summarized in the table below.&lt;ref name=&quot;DavisRevOxygenTransfer&quot;&gt;{{cite journal |author1=Davis, F. A. |author2=Chen, B. C. |  title=Asymmetric hydroxylation of enolates with N-sulfonyloxaziridines|journal=[[Chem. Rev.]]|year=1992|volume=92|pages=919|doi=10.1021/cr00013a008 |  issue=5}}&lt;/ref&gt;&lt;ref name=&quot;DavisRevOxygenTransfer1&quot;&gt;{{cite journal |author1=Davis, F. A. |author2=Jenkins, R. H. |author3=Awad, S. B. |author4=Stringer, O. D. |author5=Watson, W. H. |author6=Galloy, J. |  title=Chemistry of oxaziridines. 3. Asymmetric oxidation of organosulfur compounds using chiral 2-sulfonyloxaziridines|journal=[[Journal of the American Chemical Society]]|year=1982|volume=104|pages=5412|doi=10.1021/ja00384a028 |  issue=20}}&lt;/ref&gt;&lt;ref name=&quot;table1&quot;&gt;{{cite journal |author1=Davis, F. A. |author2=Reddy, R. T. |author3=McCauley, J. P. |author4=Przeslawski, R. M. |author5=Harakal, M. E. |author6=Carroll, P. J. |  title=Chemistry of oxaziridines. 15. Asymmetric oxidations using 3-substituted 1,2-benzisothiazole 1,1-dioxide oxides|journal=[[The Journal of Organic Chemistry]]|year=1991|volume=56|pages=809|doi=10.1021/jo00002a056 |  issue=2}}&lt;/ref&gt;&lt;ref name=&quot;table2&quot;&gt;{{cite journal |author1=Towson, J. C. |author2=Weismiller, M. C. |author3=Lal, S. G. |author4=Sheppard, A. C. |author5=Davis, F. A. |journal=[[Org. Synth.]]|year=1990|volume=69|pages=158}}&lt;/ref&gt;&lt;ref name=&quot;table3&quot;&gt;{{cite journal |author1=Davis, F. A. |author2=Towson, J. C. |author3=Weismiller, M. C. |author4=Lal, S. |author5=Carroll, P. J. |  title=Chemistry of oxaziridines. 11. (Camphorylsulfonyl)oxaziridine: synthesis and properties|journal=[[Journal of the American Chemical Society]]|year=1988|volume=110|pages=8477|doi=10.1021/ja00233a025 |  issue=25}}&lt;/ref&gt;&lt;ref name=&quot;table4&quot;&gt;{{cite journal |author1=Bach, R. D. |author2=Coddens, B. A. |author3=McDouall, J. J. W. |author4=Schlegel, H. B. |author5=Davis, F. A. |  title=The mechanism of oxygen transfer from an oxaziridine to a sulfide and a sulfoxide: a theoretical study|journal=[[The Journal of Organic Chemistry]]|year=1990|volume=55|pages=3325|doi=10.1021/jo00297a062 |  issue=10}}&lt;/ref&gt;&lt;ref name=&quot;table5&quot;&gt;{{cite journal |author1=Davis, F. A. |author2=Kumar, A. |author3=Chen, B. C. |  title=Chemistry of oxaziridines. 16. A short, highly enantioselective synthesis of the AB-ring segments of .gamma.-rhodomycionone and .alpha.-citromycinone using (+)-[(8,8-dimethoxycamphoryl)sulfonyl]oxaziridine|journal=[[The Journal of Organic Chemistry]]|year=1991|volume=56|pages=1143|doi=10.1021/jo00003a042 |  issue=3}}&lt;/ref&gt;&lt;ref name=&quot;table6&quot;&gt;{{cite journal |author1=Davis, F. A. |author2=Weismiller, M. C. |author3=Lal, G. S. |author4=Chen, B. C. |author5=Przeslawski, R. M. |  title=(Camphorylsulfonyl)imine dianion in the synthesis of new optically pure (camphorylsulfonyl)oxaziridine derivatives|journal=[[Tetrahedron Letters]]|year=1989|volume=30|pages=1613|doi=10.1016/s0040-4039(00)99534-0 |  issue=13}}&lt;/ref&gt;&lt;ref name=&quot;table7&quot;&gt;{{cite journal |author1=Chen, B. C. |author2=Weismiller, M. C. |author3=Davis, F. A. |author4=Boschelli, D. |author5=Empfield, J. R. |author6=Smith, A. B. |  title=Enantioselective synthesis of (+)-kjellmanianone|journal=[[Tetrahedron (journal)|Tetrahedron]]|year=1991|volume=47|pages=173–82|doi=10.1016/S0040-4020(01)80914-5 |  issue=2}}&lt;/ref&gt;
+
+[[Image:N-sulfonyloxaziridineTable.png|center|450px|Table of various ''N''-sulfonyloxaziridine reagents]]
+
+===Perfluorinated oxaziridines===
+
+With highly electron withdrawing [[Perfluorinated compound|perfluoroalkyl substituents]], oxaziridines exhibit reactivity more similar to that of [[dioxirane]]s than typical oxaziridines.&lt;ref name=&quot;PerfluoroRev&quot;&gt;{{cite journal |  author=Petrov, V. A.; [[Giuseppe Resnati|Resnati, G.]] |  title=Polyfluorinated Oxaziridines:  Synthesis and Reactivity|journal=[[Chemical Reviews]]|year=1996|volume=96|pages=1809|doi=10.1021/cr941146h |  issue=5}}&lt;/ref&gt; Notably, perfluoroalkyloxaziridines hydroxylate certain C-H bonds with high selectivity.  Perfluorinated oxaziridines may be synthesized by subjecting a perfluorinated imine to perfluoromethyl fluorocarbonyl peroxide and a metal fluoride to act as an HF scavenger.&lt;ref name=&quot;PerfluoroRev&quot; /&gt;
+
+[[Image:PolyFluoSynth.png|center|450px|Synthesis of perfluorinated oxaziridines]]
+
+==Reactions of oxaziridines==
+
+===Hydrazine production===
+Oxaziridines are intermediates in the [[Peroxide process]]  for the production of [[hydrazine]].  Many millions of kilograms of hydrazine are produced annually by this method that involves a step wherein ammonia is oxidized in the presence of [[methyl ethyl ketone]] to give the oxaziridine:&lt;ref name=&quot;Ullmann&quot;&gt;Jean-Pierre Schirmann, Paul Bourdauducq &quot;Hydrazine&quot; in Ullmann's Encyclopedia of Industrial Chemistry, Wiley-VCH, Weinheim, 2002. {{DOI|10.1002/14356007.a13_177}}.&lt;/ref&gt;
+:Me(Et)C=O  +  NH&lt;sub&gt;3&lt;/sub&gt;  +  H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;   →   Me(Et)CONH  +  H&lt;sub&gt;2&lt;/sub&gt;O  
+In subsequent steps the oxaziridine is converted to the hydrazone, which is the immediate en route to hydrazine:
+:Me(Et)CONH  +  NH&lt;sub&gt;3&lt;/sub&gt;    →   Me(Et)C=NNH&lt;sub&gt;2&lt;/sub&gt;  +  H&lt;sub&gt;2&lt;/sub&gt;O
+
+===Oxygen transfer===
+
+====α-Hydroxylation of enolates====
+α-Hydroxyketones, or [[acyloin]]s, are an important synthetic motifs present in many natural products.  α-Hydroxyketones have been synthesized in many ways, including reduction of α-diketones, substitution of a hydroxyl for a leaving group and direct oxidation of an enolate.  Oxodiperoxymolybdenum(pyridine)-(hexamethylphosphoric triamide) (MoOPH) and ''N''-sulfonyloxaziridines are the most common electrophilic sources of oxygen implemented in this process.  One advantage of using ''N''-sulfonyloxaziridines is that higher chiral induction is almost invariably observed relative to MoOPH and other oxidants.&lt;ref name=&quot;jarrrr&quot;&gt;{{cite journal |author1=Evans, D. A. |author2=Morrissey, M. M. |author3=Dorow, R. L. |  title=Asymmetric oxygenation of chiral imide enolates. A general approach to the synthesis of enantiomerically pure .alpha.-hydroxy carboxylic acid synthons|journal=[[journal of the American Chemical Society]]|year=1985|volume=107|pages=4346|doi=10.1021/ja00300a054 |  issue=14}}&lt;/ref&gt;  High yield (77-91%) and ''dr''  (95:5 - 99:1) are reported for α-hydroxylation with the [[Aldol reaction#Evans.27 oxazolidinone chemistry|Evans' chiral auxiliary]] with ''N''-sulfonyloxaziridine as the electrophile.&lt;ref name=&quot;jarrrr&quot; /&gt; Chiral induction has been demonstrated with many other chiral ketones and ketones with [[Chiral auxiliary|chiral auxiliaries]], including [http://upload.wikimedia.org/wikipedia/commons/0/03/SAMP_RAMP_Struktur.svg SAMP and RAMP].&lt;ref name=&quot;DavisRevOxygenTransfer&quot; /&gt;
+
+[[Image:Exans.png|center|450px|Evans aldol with oxaziridine]]
+
+Extensive work has been reported on asymmetric hydroxylation of prochiral enolates with camphorsulfonyloxaziridine derivatives, achieving moderate to high [[enantiomeric excess]].&lt;ref name=&quot;table2&quot; /&gt;  The commonly accepted proposed transition state that justifies this stereochemical outcome involves an open transition state where the steric bulk of R&lt;sup&gt;1&lt;/sup&gt; determines the face of approach.&lt;ref name=&quot;DavisRevOxygenTransfer&quot; /&gt;
+
+[[Image:Alphahydroxasym.png|center|500px|Asymmetric oxaziridine hydroxylation]]
+
+The selectivity of some hydroxylations may be drastically improved in some cases with the addition of coordinating groups alpha to the oxaziridine ring as oxaziridines '''3b''' and '''3c''' in the table above.&lt;ref name=&quot;table5&quot; /&gt;  In these instances it is proposed that the reaction proceeds through a closed transition state where the metal oxyanion is stabilized by [[chelation]] from the sulfate and coordinating groups on the camphor skeleton.&lt;ref name=&quot;DavisRevOxygenTransfer&quot; /&gt;
+
+[[Image:ClosedTShydoxylation.png|center|500px|Asymmetric oxaziridine hydroxylation with closed transition state]]
+
+α-Hydroxylation with oxaziridines has been widely implemented in total synthesis. It is a key step in both the [[Holton Taxol total synthesis]] and the [[Wender Taxol total synthesis]].  Additionally, Forsyth implemented the transformation in his synthesis of the C3-C14 (Substituted 1,7-Dioxaspiro[5.5]undec-3-ene) System of [[Okadaic acid]].&lt;ref name=&quot;ahydroxtotalsyn&quot;&gt;{{cite journal |author1=Dounay, Amy B. |author2=Forsyth, Craig J. |  title=Abbreviated Synthesis of the C3−C14 (Substituted 1,7-Dioxaspiro[5.5]undec-3-ene) System of Okadaic Acid|journal=[[Org. Lett.]]|year=1999|volume=1|pages=451|doi=10.1021/ol9906615 |  issue=3}}&lt;/ref&gt;
+
+[[Image:Alphahydroxtotalsyn.png|center|600px|Alpha hydroxylation highlighted in the synthesis of Okadaic Acid]]
+
+====Epoxidation of alkenes====
+[[Epoxidation]] of alkenes is a common reaction because epoxides can be derivatized in a number of useful ways.  Classically, laboratory epoxidation is carried out with mCPBA or other peracids.  Oxaziridines have been found to be useful for the formation of highly acid sensitive epoxides.&lt;ref name=&quot;BigTyme&quot; /&gt; (−)-Chaetominine was synthesized via oxaziridine epoxidation as a late stage transformation as seen below.&lt;ref name=&quot;EpoxTotalSyn&quot;&gt;{{cite journal |author1=Malgesini, Beatrice |author2=Forte, Barbara |author3=Borghi, Daniela |author4=Quartieri, Francesca |author5=Gennari, Cesare |author6=Papeo, Gianluca |  title=A Straightforward Total Synthesis of (−)-Chaetominine | journal=[[Chem. Eur. J.]]|year=2009|volume=15|pages=7922|doi=10.1002/chem.200900793 |  issue=32}}&lt;/ref&gt;
+
+[[Image:EpoxidationTotalSynthesis.png|center|500px|Oxaziridine epoxidation in total synthesis]]
+
+Another transformation of high synthetic utility is [[asymmetric reaction|asymmetric]] [[epoxidation]].  A number of asymmetric epoxidations exist: the [[Sharpless epoxidation]], the [[Jacobsen epoxidation|Jacobsen-Katsuki epoxidation]], and the [[Juliá-Colonna Epoxidation]].  These methods require specific functionality in order to achieve selectivity.  The Sharpless epoxidation is specific to allylic alcohols, the Jacobsen epoxidation requires ''cis''-disubstituted aryl alkenes, and the Juliá epoxidation requires [[enone|α-β unsaturated ketones]].  Chiral oxaziridines act [[stereospecific]]ally on many unfunctionalized alkenes.&lt;ref name=&quot;BigTyme&quot; /&gt; It has even  possible to effect stereospecific epoxidation catalytically in the oxaziridine chiral unit.  Further investigation into these reactions may be required before levels of enantiometic excess become practical for large scale synthesis. Lusinichi et al. have investigated asymmetric epoxidation with a chiral oxaziridinium salt using oxone as the stoichiometric oxidant seen below.&lt;ref name=&quot;EpoxCatAsym&quot;&gt;{{cite journal |author1=Bohé, Luis |author2=Hanquet, Gilles |author3=Lusinchi, Marie |author4=Lusinchi, Xavier |  title=The stereospecific synthesis of a new chiral oxaziridinium salt | journal=[[Tetrahedron Letters]]|year=1993|volume=34|pages=7271|doi=10.1016/S0040-4039(00)79306-3 |  issue=45}}&lt;/ref&gt;
+
+[[Image:Cat Epox.png|center|400px|Catalytic asymmetric epoxidation of trans-stillbene]]
+
+====Hydroxylation of unactivated hydrocarbons====
+Perfluorinated oxaziridines are known to hydroxylate unactivated hydrocarbons with remarkable regio, and diastereospecificity.&lt;ref name=&quot;PerfluoroRev&quot; /&gt; This is a highly coveted transformation, and similar reactivity and specificity is seldom rivaled, especially considering the nonmetallic nature of the oxidant.  Perfluorinated oxaziridines show high selectivity toward [[tertiary carbon|tertiary]] hydrogens.  Hydroxylation of primary carbons and dihydroxylation of a compound with two oxidizable sites have never been observed.  Retention of stereochemistry is very high, often 95 - 98%. (retenton of stereochemistry may be further enhanced by the addition of a fluoride salt).&lt;ref name=&quot;PerfluoroRXN&quot;&gt;{{cite journal |author1=Arnone, Alberto |author2=Foletto, Stefania |author3=Metrangolo, Pierangelo |author4=Pregnolato, Massimo |author5=Resnati, Giuseppe |  title=Highly Enantiospecific Oxyfunctionalization of Nonactivated Hydrocarbon Sites by Perfluoro-cis-2-n-butyl-3-n-propyloxaziridine | journal=[[Org. Lett.]]|year=1999|volume=1|pages=281|doi=10.1021/ol990594e |  issue=2}}&lt;/ref&gt;
+
+[[Image:PerfluoroHydroxylatioon.png|center|500px|Hydroxylation of unactivated alkanes by perfluorinated oxaziridines]]
+
+===Nitrogen transfer===
+Oxaziridines with unsubstituted or acylated nitrogens are capable of nitrogen atom transfer, although this reactivity has received considerably less attention.&lt;ref name=&quot;Firstnitrogentransfer&quot;&gt;{{cite journal |  doi=10.1002/cber.19640970916 |author1=Schmitz, E. |author2=Ohme, R. |  title=Isomere Oxime mit Dreiringstruktur| journal=[[Chem. Ber.]]|year=1964|volume=97|pages=2521 |  issue=9}}&lt;/ref&gt;
+
+====Amination of ''N''-nucleophiles====
+Amination of nucleophiles with  ''N''-unsubstituted oxaziridines is quite versatile in the breadth of possible nucleophiles and corresponding products.  [[Hydrazine]]s may be derived from the amination of secondary or tertiary amines, hydroxylamine and thiohydroxamines may be formed from their corresponding [[alcohol]]s and [[thiol]]s, sulfimides may be formed from [[thioether]]s and α-aminoketones may be formed by attack of corresponding enolates.&lt;ref name=&quot;AminationReview&quot;&gt;{{cite journal |author1=Andreae, S. |author2=Schmitz, E. |  title=ChemInform Abstract: Electrophilic Aminations with Oxaziridines| journal=[[ChemInform]]|year=1991|volume=22|pages=327|doi=10.1002/chin.199146339 |  issue=46}}&lt;/ref&gt;
+
+[[Image:Amination.png|center|400px|Selected amination reactions with oxaziridine]]
+
+====''N''-acylamidation====
+The transfer of acylated amines is more difficult than that of unsubstituted amines, although, unlike amine transfer by oxaziridines, there are no alternative methods that directly transfer acylated amines.&lt;ref name=&quot;AminationReview&quot; /&gt; Acylamine transfer has primarily been performed using amines and hydrazines as nucleophiles.  Very few transfers of acylated nitrogens to carbon nucleophiles have been successfully performed, although some do exist in the literature.&lt;ref name=&quot;AminationReview&quot; /&gt;
+
+[[Image:AcylTransfer.png|center|470px|Select acyl transfer reactions of oxaziridine]]
+
+===Rearrangements===
+Oxaziridines have been found to undergo rearrangement reactions via a [[Radical (chemistry)|radical mechanism]] when irradiated with UV light or in the presence of a single electron transfer reagent such as Cu&lt;sup&gt;I&lt;/sup&gt;.  [[Spiro compound|spirocylic]] oxaziridines undergo ring expansions to the corresponding [[lactam]].&lt;ref name=&quot;RearrangementShiz&quot;&gt;{{cite journal |  author= Aubé, Jeffrey |  title= Oxiziridine rearrangements in asymmetric synthesis| journal=[[Chemical Society Reviews]]|year=1997|volume=26|pages=269|doi=10.1039/CS9972600269 |  issue= 4}}&lt;/ref&gt;  Interestingly, the migrating substituent is determined by a [[stereoelectronic effect]] where the group trans to the lone pair on the nitrogen will always be the predominant migration product.&lt;ref name=&quot;RearrangementElectronics&quot;&gt;{{cite journal |author1=Lattes, Armand |author2=Oliveros, Esther |author3=Riviere, Monique |author4=Belzeck, Czeslaw |author5=Mostowicz, Danuta |author6=Abramskj, Wojciech |author7=Piccinni-Leopardi, Carla |author8=Germain, Gabriel |author9=Van Meerssche, Maurice |  title=Photochemical and thermal rearrangement of oxaziridines. Experimental evidence in support of the stereoelectronic control theory| journal=[[Journal of the American Chemical Society]]|year=1982|volume=104|pages=3929|doi=10.1021/ja00378a024 |  issue=14}}&lt;/ref&gt; In light of this effect, it is possible to take advantage of the chiral nitrogen due to high inversion barrier to direct the rearrangement.  This phenomenon is demonstrated by observed selectivities in the rearrangements below.  In the rearrangement on the left the [[thermodynamics|thermodynamically]] unfavorable product is observed exclusively, while in the reaction on the right the product derived from the less stable radical intermediate is favored.&lt;ref name=&quot;RearrangementShiz&quot; /&gt;
+
+[[Image:RearrangementElectronics.png|center|600px|Evidence for selectivity based on nitrogen lone pair orientation.]]
+
+Aubé takes advantage of this rearrangement as the key step in his synthesis of (+)-[[yohimbine]],&lt;ref name=&quot;RearrangementShiz&quot;/&gt; a natural medicine classified by the [[National Institutes of Health|NIH]] as possibly effective in the treatment of [[erectile dysfunction]] and the sexual problems caused by [[selective serotonin reuptake inhibitor]]s.&lt;ref&gt;{{cite web|url = http://www.nlm.nih.gov/medlineplus/druginfo/natural/patient-yohimbe.html|title = Yohimbe: MedlinePlus Supplements|publisher = [[National Institutes of Health|nlm.nih.gov]]|date = November 19, 2010|accessdate = December 13, 2010}}&lt;/ref&gt;
+
+[[Image:YohimbineSynthesis.png|center|500px|Synthesis of (+)-Yohimbine]]
+
+It is also notable that oxaziridines will thermally rearrange to [[nitrone]]s. [[Cis–trans isomerism|Cis-trans]] selectivity of the resulting nitrone is poor, however, yields are good to excellent.  It is thought that some oxaziridines racemize over time through a nitrone intermediate.&lt;ref name=&quot;BigTyme&quot; /&gt;
+
+[[Image:OxaziridineToNitrone.png|center|300px|Conversion of an oxaziridine to a nitrone.]]
+
+===Cycloaddions with heterocumulenes===
+
+Oxaziridines undergo [[cycloaddition]] reactions with hetero[[cumulene]]s to afford a number of unique five membered heterocycles, as depicted in the figure below. This reactivity is due to the strained three membered ring and weak N-O bond.&lt;ref name=&quot;BigTyme&quot; /&gt;
+
+[[Image:HeterocumuleneCycloaddition.png|center|550px|Electrocyclic reactions of oxaziridines and heterocumulenes]]
+
+==References==
+{{reflist|2}}
+{{oxygen compounds}}
+
+[[Category:Functional groups]]
+[[Category:Nitrogen heterocycles]]
+[[Category:Oxygen compounds]]</text>
+      <sha1>4to6k82pl1u9h0rawcm9orcok8ub5pg</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,130 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>International Journal of Systematic and Evolutionary Microbiology</title>
+    <ns>0</ns>
+    <id>13452936</id>
+    <revision>
+      <id>741495337</id>
+      <parentid>681555619</parentid>
+      <timestamp>2016-09-27T21:23:50Z</timestamp>
+      <contributor>
+        <username>DadaNeem</username>
+        <id>2715142</id>
+      </contributor>
+      <comment>added [[Category:Prokaryotes taxonomy]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10347">{{Infobox journal
+| cover = [[File:IJSEM Sept 2007.gif]]
+| discipline = [[Microbiology]], [[systematics]], [[evolutionary biology]]
+| formernames = International Bulletin of Bacteriological Nomenclature and Taxonomy, International Journal of Systematic Bacteriology
+| abbreviation = Int. J. Syst. Evol. Microbiol.
+| editor = [[Aharon Oren]]
+| publisher = [[Society for General Microbiology]]
+| country =
+| frequency = Monthly
+| history =1951–present
+| impact = 2.798
+| impact-year = 2013
+| openaccess = [[Delayed open access|Delayed]], after 24 months
+| website = http://ijs.sgmjournals.org/
+| link1 = http://ijs.sgmjournals.org/content/current
+| link1-name = Online access
+| link2 = http://ijs.sgmjournals.org/content/by/year
+| link2-name = Online archive
+| ISSN = 1466-5026
+| eISSN = 1466-5034
+| OCLC = 807119723
+| LCCN = 00252051
+| CODEN = ISEMF5
+}}
+The '''''International Journal of Systematic and Evolutionary Microbiology''''' is a [[Peer review|peer-reviewed]] [[scientific journal]] covering research in the field of [[microbiology|microbial]] [[systematics]] that was established in 1951. Its scope covers the [[Taxonomy (biology)|taxonomy]], [[nomenclature]], identification, characterisation, culture preservation, [[phylogeny]], [[evolution]], and [[biodiversity]] of all [[microorganism]]s, including [[prokaryote]]s, [[yeast]]s and yeast-like organisms, [[protozoa]] and [[algae]]. The journal is currently published monthly by the [[Society for General Microbiology]].
+
+An official publication of the [[International Committee on Systematics of Prokaryotes]] (ICSP)&lt;ref&gt;[http://www.the-icsp.org/ International Committee on Systematics of Prokaryotes] (accessed 26 September 2007)&lt;/ref&gt; and of the [[International Union of Microbiological Societies]] (Bacteriology and Applied Microbiology Division),&lt;ref&gt;[http://iums.org/Publications/index.html International Union of Microbiological Societies: Publications] (accessed 8 August 2011)&lt;/ref&gt; the journal is the single official international forum for the publication of new species names for prokaryotes.&lt;ref name=&quot;Microbe_2007&quot;&gt;[http://d.umn.edu/~rhicks/rhicks1/diversity/Stackebrant%202007%20Microbe%202.pdf Stackebrandt E. (2007) Forces shaping bacterial systematics ''Microbe'' 2: 283–288] (accessed 27 September 2007)&lt;/ref&gt;&lt;ref name=&quot;About_IJSEM&quot;&gt;[http://ijs.sgmjournals.org/misc/about.shtml SGM: About ''International Journal of Systematic and Evolutionary Microbiology''] (accessed 26 September 2007)&lt;/ref&gt;&lt;ref name=&quot;ICSP_role&quot;&gt;[http://www.the-icsp.org/misc/ICSP_intro.htm Trüper HG, Tindall BJ. The Role of the ICSP (International Committee on Systematics of Prokaryotes) in the Nomenclature and Taxonomy of Prokaryotes (28 November 2005)] (accessed 27 September 2007)&lt;/ref&gt; In addition to research papers, the journal also publishes the minutes of meetings of the ICSP and its various subcommittees.&lt;ref name=&quot;About_IJSEM&quot; /&gt;
+
+== Background and history ==
+From the first identification of a bacterial species in 1872, microbial species were named according to the [[binomial nomenclature]], based on largely subjective descriptive characteristics.&lt;ref name=&quot;Microbe_2007&quot; /&gt; By the end of the 19th century, however, it was clear that this nomenclature and classification system required reform. Although several different comprehensive nomenclature systems were invented (most notably, that described in ''[[Bergey's Manual of Determinative Bacteriology]]'', first published in 1923), none gained international recognition. In 1930, a single international body, now named the International Committee on Systematics of Prokaryotes (ICSP), was established to oversee all aspects of prokaryotic nomenclature. Work began in 1936 on drafting a ''Code of Bacteriological Nomenclature'', the first version of which was approved in 1947.&lt;ref name=&quot;Microbe_2007&quot; /&gt;
+
+In 1950, at the 5th International Congress for Microbiology, a journal was established to disseminate the committee's conclusions to the microbiological community. It first appeared the following year under the title of ''International Bulletin of Bacteriological Nomenclature and Taxonomy''.&lt;ref name=&quot;Microbe_2007&quot; /&gt; In 1980, the ICSP published an exhaustive list of all existing bacterial species considered valid in the ''Approved Lists of Bacterial Names''.&lt;ref name=&quot;Microbe_2007&quot; /&gt; Thereafter, the committee's ''Code'' required all new names to be either published or indexed in its journal to be deemed valid.&lt;ref name=&quot;ASM_News_2004&quot;&gt;[http://forms.asm.org/microbe/index.asp?bid=27946 Euzéby JP, Tindall BJ. Valid publication of new names or new combinations: making use of the validation lists ''ASM News'' (June 2004)] (accessed 8 August 2011)&lt;/ref&gt;
+
+The journal was at first published quarterly by [[Iowa State College Press]],&lt;ref name=&quot;Microbe_2007&quot; /&gt; which later increased to bimonthly. In 1966, the journal was renamed the ''International Journal of Systematic Bacteriology''.&lt;ref name=&quot;Microbe_2007&quot; /&gt;&lt;ref name=&quot;SGM_history&quot;&gt;[http://www.socgenmicrobiol.org.uk/about/history.cfm SGM: About SGM: History: A Short History of the SGM] (accessed 26 September 2007)&lt;/ref&gt; The cover at one point bore a quotation from Mueller{{clarify|date=April 2013}}: &quot;the sure and definite determination (of species of bacteria) requires so much time, so much acumen of eye and judgement, so much of perseverance and patience that there is hardly anything else so difficult.&quot;&lt;ref&gt;[http://www.microbemagazine.org/images/stories/arch2007/sept07/znw00907000415.pdf Lau PCK. (2007) A Pandora’s can of worms ''Microbe'' 2: 415] (accessed 15 July 2013)&lt;/ref&gt; Between 1971 and the end of 1997, the journal was published by the [[American Society for Microbiology]].&lt;ref name=&quot;Microbe_2007&quot; /&gt;&lt;ref name=&quot;SGM_history&quot; /&gt;&lt;ref&gt;[http://forms.asm.org/Membership/index.asp?bid=24762 American Society for Microbiology: Timeline of the Society] (accessed 8 August 2011)&lt;/ref&gt;
+
+Publication moved to the United Kingdom in 1998, the journal being taken over by the [[Society for General Microbiology]], in conjunction with [[Cambridge University Press]].&lt;ref name=&quot;SGM_history&quot; /&gt; The title was changed to ''International Journal of Systematic and Evolutionary Microbiology'' in 2000, to reflect the broadened focus of the journal. A major redesign brought the journal into line with the three other society journals in 2003, and at the same date the printer/typesetter changed to the Charlesworth Group. The frequency increased to monthly in 2006.&lt;ref name=&quot;SGM_history&quot; /&gt;
+
+== Role in nomenclature validation ==
+The journal publishes research papers establishing novel prokaryotic names, which are summarized in a notification list. Each monthly issue also contains a compilation of validated new names (the ''validation list'') that have been previously published in other scientific journals or books.&lt;ref name=&quot;Microbe_2007&quot; /&gt;&lt;ref name=&quot;About_IJSEM&quot; /&gt;&lt;ref name=&quot;ASM_News_2004&quot; /&gt; Since August 2002, publications relating to new bacterial taxa and validation of publication elsewhere have both required [[Biological type|type strains]] to have been deposited at two recognised public collections in different countries.&lt;ref name=&quot;ASM_News_2004&quot; /&gt;&lt;ref&gt;[http://ijs.sgmjournals.org/misc/ifora.shtml ''International Journal of Systematic and Evolutionary Microbiology'': Instructions for authors] (accessed 27 September 2007)&lt;/ref&gt;
+
+As of 2007, the journal has officially validated around 6500 species and 1500 genera.&lt;ref name=&quot;Microbe_2007&quot; /&gt; It was estimated in 2004 that over 300 new names had been published but not validated.&lt;ref name=&quot;ASM_News_2004&quot; /&gt;
+
+== Modern journal ==
+As of 2012, the [[editor-in-chief]] is [[Aharon Oren]] ([[Hebrew University of Jerusalem]]). According to the ''[[Journal Citation Reports]]'', the journal has a 2012 [[impact factor]] of 2.112.&lt;ref name=WoS&gt;{{cite book |year=2011 |chapter=International Journal of Systematic and Evolutionary Microbiology |title=2011 [[Journal Citation Reports]] |publisher=[[Thomson Reuters]] |edition=Science |series=[[Web of Science]] |postscript=.}} {{subscription required}}&lt;/ref&gt;
+
+== Notable papers ==
+{{says who|date=June 2013}}
+* {{cite journal |doi=10.1099/ijs.0.038075-0 |title=Introducing EzTaxon-e: A prokaryotic 16S rRNA gene sequence database with phylotypes that represent uncultured species |year=2011 |last1=Kim |first1=O.-S. |last2=Cho |first2=Y.-J. |last3=Lee |first3=K. |last4=Yoon |first4=S.-H. |last5=Kim |first5=M. |last6=Na |first6=H. |last7=Park |first7=S.-C. |last8=Jeon |first8=Y. S. |last9=Lee |first9=J.-H. |last10=Yi |first10=H. |last11=Won |first11=S. |last12=Chun |first12=J. |journal=International Journal of Systematic and Evolutionary Microbiology |volume=62 |pages=716–21 |pmid=22140171 |issue=Pt 3|display-authors=8 }}
+* {{cite journal |doi=10.1099/ijs.0.034926-0 |title=''Dehalococcoides mccartyi'' gen. nov., sp. nov., obligately organohalide-respiring anaerobic bacteria relevant to halogen cycling and bioremediation, belong to a novel bacterial class, Dehalococcoidia classis nov., order Dehalococcoidales ord. Nov. And family Dehalococcoidaceae fam. Nov., within the phylum Chloroflexi |year=2012 |last1=Loffler |first1=F. E. |last2=Yan |first2=J. |last3=Ritalahti |first3=K. M. |last4=Adrian |first4=L. |last5=Edwards |first5=E. A. |last6=Konstantinidis |first6=K. T. |last7=Muller |first7=J. A. |last8=Fullerton |first8=H. |last9=Zinder |first9=S. H. |last10=Spormann |first10=A. M. |journal=International Journal of Systematic and Evolutionary Microbiology |volume=63 |pages=625–35 |pmid=22544797 |issue=Pt 2|display-authors=8 }}
+* {{cite journal |doi=10.1099/00207713-27-1-44 |title=Comparative Cataloging of 16S Ribosomal Ribonucleic Acid: Molecular Approach to Procaryotic Systematics |year=1977 |last1=Fox |first1=G. E. |last2=Pechman |first2=K. R. |last3=Woese |first3=C. R. |journal=International Journal of Systematic Bacteriology |volume=27 |pages=44}}
+
+== References ==
+{{reflist|30em}}
+
+==External links==
+* {{Official website|http://ijs.sgmjournals.org/}}
+{{Use dmy dates|date=August 2011}}
+
+
+[[Category:Microbiology journals]]
+[[Category:Delayed open access journals]]
+[[Category:Publications established in 1951]]
+[[Category:Monthly journals]]
+[[Category:English-language journals]]
+[[Category:Academic journals published by learned and professional societies]]
+[[Category:Prokaryotes taxonomy]]</text>
+      <sha1>hzigl0ssyudu49t0gemsevq0c3wncvr</sha1>
+    </revision>
+  </page>
+</mediawiki>

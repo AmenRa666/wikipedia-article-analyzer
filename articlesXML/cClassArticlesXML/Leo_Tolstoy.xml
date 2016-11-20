@@ -1,0 +1,376 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Leo Tolstoy</title>
+    <ns>0</ns>
+    <id>18622119</id>
+    <revision>
+      <id>743499174</id>
+      <parentid>743498945</parentid>
+      <timestamp>2016-10-09T23:03:20Z</timestamp>
+      <contributor>
+        <username>Гармонический Мир</username>
+        <id>26270034</id>
+      </contributor>
+      <comment>/* External links */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="52347">{{Redirect2|Tolstoy|Tolstoi|other uses|Tolstoy (disambiguation)}}
+{{Redirect|Lev Tolstoy|the rural locality and the railway station in Lipetsk Oblast, Russia|Lev Tolstoy (rural locality)}}
+{{Pp-semi-indef}}
+{{Pp-move-indef}}
+{{Eastern Slavic name|Nikolayevich|Tolstoy}}
+
+{{Infobox writer&lt;!--For more information see [[:Template:Infobox Writer/doc]].--&gt;
+|name=Leo Tolstoy
+|image=L.N.Tolstoy Prokudin-Gorsky.jpg
+|alt           =
+|caption       = Tolstoy in May, 1908, four months before his 80th birthday (photographed at [[Yasnaya Polyana]] by [[Sergey Prokudin-Gorsky]]; the first colour photograph taken in Russia)
+|pseudonym     =
+|native_name   = Лев Никола́евич Толсто́й
+|birth_name    = Lev Nikolayevich Tolstoy
+|birth_date    = {{birth date|1828|9|9}}
+|birth_place   = [[Yasnaya Polyana]], [[Russian Empire]]
+|death_date    = {{death date and age|1910|11|20|1828|8|28}}
+|death_place   = [[Lev Tolstoy (rural locality)|Astapovo]], Russian Empire
+|resting_place = Yasnaya Polyana
+|occupation    = Novelist, short story writer, playwright, essayist
+|language      = Russian, French
+|nationality   = Russian
+|period        = 1852–1910
+|genre         =
+|subject       =
+|movement      =
+|notableworks  = ''[[War and Peace]]''&lt;br&gt;''[[Anna Karenina]]''&lt;br&gt;''[[A Confession]]''&lt;br&gt;''[[The Kingdom of God Is Within You]]''&lt;br&gt;''[[Resurrection (novel)|Resurrection]]''
+|spouse        = {{marriage|[[Sophia Tolstaya]]|September 23, 1862|November 20, 1910|end=his death}}
+|partner       = 
+|children      = 14
+|signature     = Leo Tolstoy signature.svg
+|module         =  {{ Listen| embed=yes |filename= Tolstoy Vremya prishlo.ogg |title= Leo Tolstoy's voice |type= speech |description= recorded 1908 }}
+}}
+'''Count Lev Nikolayevich Tolstoy''' ({{IPAc-en|ˈ|t|oʊ|l|s|t|ɔɪ|,_|ˈ|t|ɒ|l|-}};&lt;ref&gt;[http://dictionary.reference.com/browse/tolstoy &quot;Tolstoy&quot;]. ''[[Random House Webster's Unabridged Dictionary]]''.&lt;/ref&gt; {{lang-ru|link=no|Лев Никола́евич Толсто́й, ''Lev Nikolajevič Tolstoj''}}, {{IPA-ru|lʲɛf nʲɪkɐˈlaɪvʲɪtɕ tɐlˈstoj|pron|Ru-Lev Nikolayevich Tolstoy.ogg}}; {{OldStyleDate|9 September|1828|28 August}} – {{OldStyleDate|20 November|1910|7 November}}), usually referred to in English as '''Leo Tolstoy''', was a Russian writer who is regarded as one of the greatest authors of all time.
+
+Born to an aristocratic Russian family in 1828, he is best known for the novels ''[[War and Peace]]'' (1869) and ''[[Anna Karenina]]'' (1877), often cited as pinnacles of [[Literary realism|realist]] fiction. He first achieved literary acclaim in his twenties with his semi-autobiographical trilogy, ''[[Childhood (novel)|Childhood]]'', ''[[Boyhood (novel)|Boyhood]]'', and ''[[Youth (Leo Tolstoy novel)|Youth]]'' (1852–1856), and ''[[Sevastopol Sketches]]'' (1855), based upon his experiences in the [[Crimean War]]. Tolstoy's fiction includes dozens of short stories and several [[novella]]s such as ''[[The Death of Ivan Ilyich]]'', ''[[Family Happiness]]'', and ''[[Hadji Murat (novel)|Hadji Murad]]''. He also wrote [[play (theater)|play]]s and numerous philosophical essays.
+
+In the 1870s Tolstoy experienced a profound moral crisis, followed by what he regarded as an equally profound spiritual awakening, as outlined in his non-fiction work ''[[A Confession]]''. His literal interpretation of the ethical teachings of Jesus, centering on the [[Sermon on the Mount]], caused him to become a fervent [[Christian anarchism|Christian anarchist]] and [[anarcho-pacifist|pacifist]]. Tolstoy's ideas on [[nonviolent resistance]], expressed in such works as ''[[The Kingdom of God Is Within You]]'', were to have a profound impact on such pivotal 20th-century figures as [[Mohandas Karamchand Gandhi|Mohandas Gandhi]],&lt;ref name=&quot;ResistNotEvil&quot;&gt;[http://www-ee.stanford.edu/~hellman/opinion/Resist_Not.html Martin E. Hellman, ''Resist Not Evil'' in ''World Without Violence'' (Arun Gandhi ed.), M.K. Gandhi Institute, 1994], retrieved on December 14, 2006&lt;/ref&gt; [[Martin Luther King, Jr.]],&lt;ref&gt;{{cite book | last = King, Jr. | first = Martin Luther |author2=Clayborne Carson | title = The Papers of Martin Luther King, Jr., Volume V: Threshold of a New Decade, January 1959&amp;nbsp;– December 1960 | publisher = University of California Press | year = 2005 | pages = 149, 269, 248 |url = https://books.google.com/books?id=TU_HozbJSC8C&amp;pg=PA269 |  isbn = 0-520-24239-4 |display-authors=etal}}&lt;/ref&gt; and [[James Bevel]]. Tolstoy also became a dedicated advocate of [[Georgism]], the economic philosophy of [[Henry George]], which he incorporated into his writing, particularly ''[[Resurrection (novel)|Resurrection]]''.
+
+==Life and career==
+[[File:Lev Nikolayevich Tolstoy 1848.jpg|thumb|left|Tolstoy at age 20, 1848]]
+
+Tolstoy was born at [[Yasnaya Polyana]], a family estate 12 kilometres (7.5&amp;nbsp;mi) southwest of [[Tula, Russia]] and 200 kilometers (120&amp;nbsp;mi) south of [[Moscow]]. The [[Tolstoy family|Tolstoys]] were a well-known family of old [[Russian nobility]], tracing their ancestry to a mythical Lithuanian noble Indris.&lt;ref&gt;{{cite web|url=https://books.google.com/books?id=7kDJ3s1mcZcC&amp;lpg=PA8&amp;ots=pm4usaL-FH&amp;dq=tolstoy%20lithuanian&amp;pg=PA8#v=onepage&amp;q=tolstoy%20lithuanian&amp;f=false|title=Tolstoy|publisher=}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.nytimes.com/1983/11/06/books/six-centuries-of-tolstoys.html|title=SIX CENTURIES OF TOLSTOYS|date=6 November 1983|work=The New York Times}}&lt;/ref&gt; He was the fourth of five children of [[Count]] Nikolai Ilyich Tolstoy, a veteran of the [[French invasion of Russia|Patriotic War of 1812]], and Countess Mariya Tolstaya (Volkonskaya). Tolstoy's parents died when he was young, so he and his siblings were brought up by relatives. In 1844, he began studying law and oriental languages at [[Kazan University]]. His teachers described him as &quot;both unable and unwilling to learn.&quot;&lt;ref&gt;{{cite web |url=http://www.macmillanreaders.com/wp-content/uploads/2010/08/ads.leotolstoy.pdf |title=Author Data Sheet, Macmillan Readers |publisher=Macmillan Publishers Limited |accessdate=October 22, 2010}}&lt;/ref&gt; Tolstoy left the university in the middle of his studies, returned to Yasnaya Polyana and then spent much of his time in Moscow and [[Saint Petersburg]]. In 1851, after running up heavy gambling debts, he went with his older brother to the [[Caucasus (geographic region)|Caucasus]] and joined the [[Imperial Russian Army|army]]. It was about this time that he started writing.
+
+His conversion from a dissolute and privileged society author to the non-violent and spiritual anarchist of his latter days was brought about by his experience in the army as well as two trips around Europe in 1857 and 1860–61. Others who followed the same path were [[Alexander Herzen]], [[Mikhail Bakunin]] and [[Peter Kropotkin]]. During his 1857 visit, Tolstoy witnessed a public execution in Paris, a traumatic experience that would mark the rest of his life. Writing in a letter to his friend [[Vasily Botkin]]: &quot;The truth is that the State is a conspiracy designed not only to exploit, but above all to corrupt its citizens ... Henceforth, I shall never serve any government anywhere.&quot;&lt;ref&gt;A. N. Wilson, ''Tolstoy'' (1988), p. 146&lt;/ref&gt; Tolstoy's concept of [[non-violence]] or [[Ahimsa]] was bolstered when he read a [[German language|German]] version of the [[Tirukkural]]. He later instilled the concept in [[Mahatma Gandhi]] through his [[A Letter to a Hindu]] when young Gandhi corresponded with him seeking his advice.&lt;ref name=&quot;PearlsOfInsp_Rajaram&quot;&gt;{{cite book
+ | last = Rajaram 
+ | first = M. 
+ | title = Thirukkural: Pearls of Inspiration 
+ | publisher = Rupa Publications 
+ | edition =
+ | date = 2009 
+ | location = New Delhi 
+ | pages = xviii-xxi}}&lt;/ref&gt; 
+
+His European trip in 1860–61 shaped both his political and literary development when he met [[Victor Hugo]], whose literary talents Tolstoy praised after reading Hugo's newly finished ''[[Les Misérables]]''. The similar evocation of battle scenes in Hugo's novel and Tolstoy's ''[[War and Peace]]'' indicates this influence. Tolstoy's political philosophy was also influenced by a March 1861 visit to French anarchist [[Pierre-Joseph Proudhon]], then living in exile under an assumed name in Brussels. Apart from reviewing Proudhon's forthcoming publication, ''La Guerre et la Paix'' (''War and Peace'' in French), whose title Tolstoy would borrow for his masterpiece, the two men discussed education, as Tolstoy wrote in his educational notebooks: &quot;If I recount this conversation with Proudhon, it is to show that, in my personal experience, he was the only man who understood the significance of education and of the printing press in our time.&quot;
+
+Fired by enthusiasm, Tolstoy returned to Yasnaya Polyana and founded 13 schools for children of Russia's peasants, who had just been [[Emancipation reform of 1861|emancipated from serfdom in 1861]]. Tolstoy described the school's principles in his 1862 essay &quot;The School at Yasnaya Polyana&quot;.&lt;ref&gt;{{cite book | last = Tolstoy | first = Lev N. |author2=Leo Wiener |author3=translator and editor | title = The School at Yasnaya Polyana – The Complete Works of Count Tolstoy: Pedagogical Articles. Linen-Measurer, Volume IV | publisher = Dana Estes &amp; Company | year = 1904 | page = 227 | url = https://books.google.com/books?id=4cQnAAAAYAAJ&amp;pg=PA227 }}&lt;/ref&gt; Tolstoy's educational experiments were short-lived, partly due to harassment by the [[Russian Empire|Tsarist]] secret police. However, as a direct forerunner to [[A. S. Neill]]'s [[Summerhill School]], the school at Yasnaya Polyana&lt;ref&gt;{{cite book | last = Wilson | first = A.N. | title = Tolstoy | publisher = Norton, W. W. &amp; Company, Inc. | year = 2001 | page = xxi | url = https://books.google.com/books?id=imYmH8myBUsC&amp;pg=PR19 |  isbn = 0-393-32122-3 }}&lt;/ref&gt; can justifiably be claimed the first example of a coherent theory of [[democratic education]].
+
+==Death==
+[[File:Graf Tolstoj op Jasnaja Poljana.jpg|thumb|right|200px|Tolstoy's grave with flowers at Yasnaya Polyana]]
+
+Tolstoy died in 1910, at the age of 82. Just prior to his death, his health had been a concern of his family, who were actively engaged in his care on a daily basis. During his last few days, he had spoken and written about dying. Renouncing his aristocratic lifestyle, he had finally gathered the nerve to separate from his wife, and left home in the middle of winter, in the dead of night.&lt;ref&gt;''The last days of Tolstoy''. VG Chertkov. 1922. Heinemann&lt;/ref&gt; His secretive departure was an apparent attempt to escape unannounced from Sophia's jealous tirades. She was outspokenly opposed to many of his teachings, and in recent years had grown envious of the attention which it seemed to her Tolstoy lavished upon his [[Tolstoyan movement|Tolstoyan]] &quot;disciples&quot;.
+
+Tolstoy died of [[pneumonia]]&lt;ref&gt;''Leo Tolstoy''. EJ Simmons – 1946 – Little, Brown and Company&lt;/ref&gt; at [[Lev Tolstoy (rural locality)|Astapovo]] train station, after a day's rail journey south.&lt;ref&gt;{{cite web|url=http://www.lrb.co.uk/v32/n14/james-meek/some-wild-creature|title=James Meek reviews ‘The Death of Tolstoy’ by William Nickell, ‘The Diaries of Sofia Tolstoy’ translated by Cathy Porter, ‘A Confession’ by Leo Tolstoy, translated by Anthony Briggs and ‘Anniversary Essays on Tolstoy’ by Donna Tussing Orwin · LRB 22 July 2010|work=London Review of Books}}&lt;/ref&gt; The station master took Tolstoy to his apartment, and his personal doctors were called to the scene. He was given injections of [[morphine]] and [[camphor]].
+
+The police tried to limit access to his funeral procession, but thousands of peasants lined the streets. Still, some were heard to say that, other than knowing that &quot;some nobleman had died&quot;, they knew little else about Tolstoy.&lt;ref&gt;Tolstaya, S.A. ''The Diaries of Sophia Tolstoy'', Book Sales, 1987; Chertkov, V. &quot;The Last Days of Leo Tolstoy,&quot; http://www.linguadex.com/tolstoy/index.html, translated by Benjamin Scher&lt;/ref&gt;
+
+According to some sources, Tolstoy spent the last hours of his life preaching love, nonviolence, and [[Georgism]] to his fellow passengers on the train.&lt;ref&gt;Kenneth C. Wenzer, &quot;Tolstoy's Georgist spiritual political economy: anarchism and land reform – 1897–1910&quot;, Special Issue: Commemorating the 100th Anniversary of the Death of Henry George, ''The American Journal of Economics and Sociology'', Oct, 1997; http://www.ditext.com/wenzer/tolstoy.html&lt;/ref&gt;
+
+==Personal life==
+
+On September 23, 1862, Tolstoy married [[Sophia Tolstaya|Sophia Andreevna Behrs]], who was 16 years his junior and the daughter of a court physician. She was called Sonya, the Russian diminutive of Sofia, by her family and friends.&lt;ref name=nyt&gt;Susan Jacoby, &quot;The Wife of the Genius&quot; (April 19, 1981) ''[[The New York Times]]''&lt;/ref&gt; They had 13 children, eight of whom survived childhood:&lt;ref&gt;Feuer,Kathryn B. ''Tolstoy and the Genesis of War and Peace'', Cornell University Press, 1996, ISBN 0-8014-1902-6&lt;/ref&gt;
+[[File:Ge Sophia Tolstaya.jpg|thumb|Tolstoy's wife [[Sophia Tolstaya|Sophia]] and their daughter [[Alexandra Tolstaya|Alexandra]]]]
+* [[Sergei Tolstoy|Count Sergei Lvovich Tolstoy]] (July 10, 1863 – December 23, 1947), composer and ethnomusicologist
+* [[Tatyana Sukhotina-Tolstaya|Countess Tatyana Lvovna Tolstaya]] (October 4, 1864 – September 21, 1950), wife of Mikhail Sergeevich Sukhotin
+* [[Ilya Tolstoy|Count Ilya Lvovich Tolstoy]] (May 22, 1866 – December 11, 1933), writer
+* [[Lev Lvovich Tolstoy|Count Lev Lvovich Tolstoy]] (June 1, 1869 – October 18, 1945), writer and sculptor
+* Countess Maria Lvovna Tolstaya (1871–1906), wife of [[Nikolai Leonidovich Obolensky]]
+* Count Peter Lvovich Tolstoy (1872–1873), died in infancy
+* Count Nikolai Lvovich Tolstoy (1874–1875), died in infancy
+* Countess Varvara Lvovna Tolstaya (1875–1875), died in infancy
+* Count Andrei Lvovich Tolstoy (1877–1916), served in the [[Russo-Japanese War]]
+* Count Michael Lvovich Tolstoy (1879–1944)
+* Count Alexei Lvovich Tolstoy (1881–1886)
+* [[Alexandra Tolstaya|Countess Alexandra Lvovna Tolstaya]] (July 18, 1884 – September 26, 1979)
+* Count Ivan Lvovich Tolstoy (1888–1895)
+
+The marriage was marked from the outset by sexual passion and emotional insensitivity when Tolstoy, on the eve of their marriage, gave her his diaries detailing his extensive sexual past and the fact that one of the serfs on his estate had borne him a son.&lt;ref name=nyt/&gt; Even so, their early married life was happy and allowed Tolstoy much freedom to compose ''War and Peace'' and ''Anna Karenina'' with Sonya acting as his secretary, proofreader and financial manager.&lt;ref name=nyt/&gt;
+
+However, their later life together has been described by [[A. N. Wilson]] as one of the unhappiest in literary history. Tolstoy's relationship with his wife deteriorated as his beliefs became increasingly radical. This saw him seeking to reject his inherited and earned wealth, including the renunciation of the copyrights on his earlier works.
+
+The Tolstoy family left Russia in the aftermath of the [[Russian Revolution]] and the subsequent establishment of the [[Soviet Union]], and Leo Tolstoy's relatives and descendants today live in Sweden, Germany, the United Kingdom, France and the United States. Among them are Swedish singer [[Viktoria Tolstoy]] and Swedish landowner Christopher [[Paus]], [[Herresta]].
+
+==Ancestry==
+{{Ahnentafel top|width=100%}}
+{{Ahnentafel-compact5
+|style=font-size: 90%; line-height: 110%;
+|border=1
+|boxstyle=padding-top: 0; padding-bottom: 0;
+|boxstyle_1=background-color: #fcc;
+|boxstyle_2=background-color: #fb9;
+|boxstyle_3=background-color: #ffc;
+|boxstyle_4=background-color: #bfc;
+|boxstyle_5=background-color: #9fe;
+|1= 1. '''Count Lev Nikolayevich Tolstoy'''
+|2= 2. Count Nikolai Ilyich [[Tolstoy (family)|Tolstoy]]
+|3= 3. Princess Mariya Nikolayevna [[Volkonsky|Volkonskaya]]
+|4= 4. Count Ilya Andreyevich [[Tolstoy (family)|Tolstoy]]
+|5= 5. Princess Pelageya Nikolayevna [[Gorchakov]]a
+|6= 6. Prince Nikolai Sergeyevich [[Volkonsky]]
+|7= 7. Princess Ekaterina Dmitrievna [[Trubetskoy family|Trubetskaya]]
+|8= 8. Count Andrei Ivanovich [[Tolstoy (family)|Tolstoy]]
+|9= 9. Princess Aleksandra Ivanovna Shetinina
+|10= 10. Prince Nikolai Ivanovich [[Gorchakov]]
+|11= 11. Ekaterina Aleksandrovna [[Lukin]]a
+|12= 12. Prince Sergei Feodorovich [[Volkonsky]]
+|13= 13. Maria Dmitrievna Chaadayevna
+|14= 14. Prince Dmitry Yuryevich [[Trubetskoy family|Trubetskoy]]
+|15= 15. Princess Varvara Ivanovna Odoyevska
+|16= 16. Count Ivan Petrovich [[Tolstoy (family)|Tolstoy]]
+|17= 17. Prascovia Mikhailovna Rtistheva
+|18= 18. Prince Ivan Dmitryevich Shetinin
+|19= 19. Anna N.
+|20= 20. Prince Ivan Feodorovich [[Gorchakov]]
+|21= 21. Tatiana Grigoryevna Mortkina
+|22= 22. Aleksander [[Lukin]]
+|23= 
+|24= 24. Prince Feodor Mikhailovich [[Volkonsky]]
+|25= 25. Ekaterina Maatveevna Yeropkina
+|26= 26. Dmitry Chaadayev
+|27= 
+|28= 28. Prince Yury Yuryevich [[Trubetskoy family|Trubetskoy]]
+|29= 29. Olga Ivanovna [[Golovin (surname)|Golovina]]
+|30= 30. Prince Ivan Vasilyevich Odoyevsky
+|31= 31. Countess Prascovia Ivanovna [[Tolstoy (family)|Tolstoy]] (daughter of 16)
+}}&lt;/center&gt;
+{{Ahnentafel bottom}}
+
+==Novels and fictional works==
+[[File:Leo Tolstoy 1897, black and white, 37767u.jpg|thumb|Leo Tolstoy 1897]]
+Tolstoy is one of the giants of Russian literature; his works include the novels ''[[War and Peace]]'' and ''[[Anna Karenina]]'' and novellas such as ''[[Hadji Murat (novel)|Hadji Murad]]'' and ''[[The Death of Ivan Ilyich]]''. His contemporaries paid him lofty tributes. [[Fyodor Dostoyevsky]] thought him the greatest of all living novelists. [[Gustave Flaubert]], on reading a translation of ''War and Peace'', exclaimed, &quot;What an artist and what a psychologist!&quot; [[Anton Chekhov]], who often visited Tolstoy at his country estate, wrote, &quot;When literature possesses a Tolstoy, it is easy and pleasant to be a writer; even when you know you have achieved nothing yourself and are still achieving nothing, this is not as terrible as it might otherwise be, because Tolstoy achieves for everyone. What he does serves to justify all the hopes and aspirations invested in literature.&quot; The 19th-century British poet and critic [[Matthew Arnold]] opined that &quot;a novel by Tolstoy is not a work of art but a piece of life&quot;.&lt;ref name=&quot;Tolstoy, Leo 2014&quot;&gt;&quot;Tolstoy, Leo.&quot; Encyclopædia Britannica. ''Encyclopædia Britannica Ultimate Reference Suite''.  Chicago: Encyclopædia Britannica, 2014.&lt;/ref&gt;
+
+Later critics and novelists continue to bear testament to Tolstoy's art. [[Virginia Woolf]] declared him &quot;the greatest of all novelists.&quot;&lt;ref name=&quot;Tolstoy, Leo 2014&quot;/&gt; [[James Joyce]] noted that, &quot;He is never dull, never stupid, never tired, never pedantic, never theatrical!&quot;. [[Thomas Mann]] wrote of Tolstoy's seemingly guileless artistry: &quot;Seldom did art work so much like nature&quot;. Such sentiments were shared by the likes of [[Marcel Proust|Proust]], [[William Faulkner|Faulkner]] and [[Vladimir Nabokov|Nabokov]]. The latter heaped superlatives upon ''[[The Death of Ivan Ilyich]]'' and ''Anna Karenina''; he questioned, however, the reputation of ''War and Peace'', and sharply criticized ''[[Resurrection (novel)|Resurrection]]'' and ''[[The Kreutzer Sonata]]''.
+
+Tolstoy's earliest works, the autobiographical novels [[Childhood (novel)|''Childhood'']], [[Boyhood (novel)|''Boyhood'']], and [[Youth (Tolstoy novel)|''Youth'']] (1852–1856), tell of a rich landowner's son and his slow realization of the chasm between himself and his peasants. Though he later rejected them as sentimental, a great deal of Tolstoy's own life is revealed. They retain their relevance as accounts of the universal story of growing up.
+
+Tolstoy served as a [[second lieutenant]] in an artillery regiment during the [[Crimean War]], recounted in his ''[[Sevastopol Sketches]]''. His experiences in battle helped stir his subsequent [[pacifism]] and gave him material for realistic depiction of the horrors of war in his later work.&lt;ref&gt;''Government is Violence: essays on anarchism and pacifism''. Leo Tolstoy – 1990 – Phoenix Press&lt;/ref&gt;
+
+His fiction consistently attempts to convey realistically the Russian society in which he lived.&lt;ref&gt;''Tolstoy: the making of a novelist. E'' Crankshaw – 1974 – Weidenfeld &amp; Nicolson&lt;/ref&gt; ''[[The Cossacks (novel)|The Cossacks]]'' (1863) describes the [[Cossack]] life and people through a story of a Russian aristocrat in love with a Cossack girl.   ''Anna Karenina'' (1877) tells parallel stories of an adulterous woman trapped by the conventions and falsities of society and of a philosophical landowner (much like Tolstoy), who works alongside the peasants in the fields and seeks to reform their lives. Tolstoy not only drew from his own life experiences but also created characters in his own image, such as Pierre Bezukhov and Prince Andrei in ''War and Peace'', Levin in ''Anna Karenina'' and to some extent, Prince Nekhlyudov in ''Resurrection''.
+
+ {{multiple image
+ | header = [[The Power of Darkness]]
+ | direction = vertical
+ | width = 200
+ | footer = 2015 at Vienna's [[Akademietheater]]&lt;br /&gt;&lt;small&gt;Photographs: Francisco Peralta Torrejón&lt;/small&gt;
+ | image1 = Die Macht der Finsternis 2354-Peralta.jpg
+ | alt1 = 
+ | caption1 = 
+ | image2 =Die Macht der Finsternis 2417-Peralta.jpg
+ | alt2 = 
+ | caption2 = 
+ | image3 =Die Macht der Finsternis 2465-Peralta.jpg
+ | alt3 = 
+ | caption3 = 
+ }}
+''War and Peace'' is generally thought to be one of the greatest novels ever written, remarkable for its dramatic breadth and unity. Its vast canvas includes 580 characters, many historical with others fictional. The story moves from family life to the headquarters of [[Napoleon I of France|Napoleon]], from the court of [[Alexander I of Russia]] to the battlefields of [[Battle of Austerlitz|Austerlitz]] and [[Battle of Borodino|Borodino]]. Tolstoy's original idea for the novel was to investigate the causes of the [[Decembrist revolt]], to which it refers only in the last chapters, from which can be deduced that [[Andrei Nikolayevich Bolkonsky|Andrei Bolkonsky]]'s son will become one of the Decembrists. The novel explores Tolstoy's theory of history, and in particular the insignificance of individuals such as Napoleon and Alexander. Somewhat surprisingly, Tolstoy did not consider ''War and Peace'' to be a novel (nor did he consider many of the great Russian fictions written at that time to be novels). This view becomes less surprising if one considers that Tolstoy was a novelist of the [[realism (arts)|realist]] school who considered the novel to be a framework for the examination of social and political issues in nineteenth-century life.&lt;ref&gt;Tolstoy and the Development of Realism. G Lukacs. ''Marxists on Literature: An Anthology'', London: Penguin, 1977&lt;/ref&gt; ''War and Peace'' (which is to Tolstoy really an [[Epic poetry|epic]] in prose) therefore did not qualify. Tolstoy thought that ''Anna Karenina'' was his first true novel.&lt;ref&gt;''Tolstoy and the Novel''. J Bayley – 1967 – Chatto &amp; Windus&lt;/ref&gt;
+
+After ''Anna Karenina'', Tolstoy concentrated on Christian themes, and his later novels such as ''The Death of Ivan Ilyich'' (1886) and ''[[What Is to Be Done? (Tolstoy)|What Is to Be Done?]]'' develop a radical [[anarcho-pacifism|anarcho-pacifist]] Christian philosophy which led to his [[excommunication]] from the [[Russian Orthodox Church]] in 1901.&lt;ref&gt;''Church and State''. L Tolstoy&amp;nbsp;– On Life and Essays on Religion, 1934&lt;/ref&gt; For all the praise showered on ''Anna Karenina'' and ''War and Peace'', Tolstoy rejected the two works later in his life as something not as true of reality.&lt;ref&gt;''Women in Tolstoy: the ideal and the erotic'' R.C. Benson – 1973 – University of Illinois Press&lt;/ref&gt;
+
+In his novel ''[[Resurrection (novel)|Resurrection]]'', [[Tolstoy]] attempts to expose the injustice of man-made laws and the hypocrisy of institutionalized church. Tolstoy also explores and explains the economic philosophy of [[Georgism]], of which he had become a very strong advocate towards the end of his life.
+
+==Religious and political beliefs==
+[[File:Ilya Repin - Leo Tolstoy Barefoot - Google Art Project.jpg|thumb|left|upright|Tolstoy dressed in peasant clothing, by [[Ilya Repin]] (1901)]]
+After reading [[Arthur Schopenhauer|Schopenhauer]]'s ''[[The World as Will and Representation]]'', Tolstoy gradually became converted to the ascetic morality upheld in that work as the proper spiritual path for the upper classes: &quot;Do you know what this summer has meant for me? Constant raptures over Schopenhauer and a whole series of spiritual delights which I've never experienced before. ... no student has ever studied so much on his course, and learned so much, as I have this summer&quot;&lt;ref&gt;Tolstoy's Letter to A.A. Fet, August 30, 1869&lt;/ref&gt;
+
+In Chapter VI of ''[[A Confession]]'', Tolstoy quoted the final paragraph of Schopenhauer's work. It explained how the nothingness that results from complete [[self-denial|denial of self]] is only a relative nothingness, and is not to be feared. The novelist was struck by the description of Christian, [[Buddhist]], and [[Hindu]] ascetic renunciation as being the path to holiness. After reading passages such as the following, which abound in Schopenhauer's ethical chapters, the Russian nobleman chose poverty and formal denial of the will: &lt;blockquote&gt; But this very necessity of involuntary suffering (by poor people) for [[eternal salvation]] is also expressed by that utterance of the Savior ([[Matthew 19:24]]): &quot;It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.&quot; Therefore those who were greatly in earnest about their eternal salvation, chose [[simple living|voluntary poverty]] when fate had denied this to them and they had been born in wealth. Thus [[Buddha]] [[Sakyamuni]] was born a prince, but voluntarily took to the mendicant's staff; and [[Francis of Assisi]], the founder of the [[mendicant orders]] who, as a youngster at a ball, where the daughters of all the notabilities were sitting together, was asked: &quot;Now Francis, will you not soon make your choice from these beauties?&quot; and who replied: &quot;I have made a far more beautiful choice!&quot; &quot;Whom?&quot; &quot;''La povertà'' (poverty)&quot;: whereupon he abandoned every thing shortly afterwards and wandered through the land as a mendicant.&lt;ref&gt;Schopenhauer, ''[[Parerga and Paralipomena]]'', Vol. II, §170&lt;/ref&gt;&lt;/blockquote&gt;
+
+In 1884, Tolstoy wrote a book called &quot;''What I Believe''&quot;, in which he openly confessed his Christian beliefs. He affirmed his belief in [[Jesus Christ]]'s [[Teachings of Jesus|teachings]] and was particularly influenced by the [[Sermon on the Mount]], and the injunction to [[turn the other cheek]], which he understood as a &quot;commandment of non-resistance to evil by force&quot; and a doctrine of [[pacifism]] and [[nonviolence]]. In his work ''The Kingdom of God Is Within You'', he explains that he considered mistaken the Church's doctrine because they had made a &quot;perversion&quot; of Christ's teachings. Tolstoy also received letters from American [[Quakers]] who introduced him to the non-violence writings of Quaker Christians such as [[George Fox]], [[William Penn]] and [[Jonathan Dymond]]. Tolstoy believed being a Christian required him to be a pacifist; the consequences of being a pacifist, and the apparently inevitable waging of war by government, are the reason why he is considered a philosophical anarchist.
+
+Later, various versions of &quot;Tolstoy's Bible&quot; would be published, indicating the passages Tolstoy most relied on, specifically, the reported words of Jesus himself.&lt;ref&gt;Orwin, Donna T. ''The Cambridge Companion to Tolstoy''. Cambridge University Press, 2002&lt;/ref&gt;
+
+[[File:Gandhi Tolstoy Farm.jpg|thumb|right|[[Mohandas Karamchand Gandhi|Mohandas K. Gandhi]] and other residents of [[Tolstoyan movement#Africa|Tolstoy Farm]], South Africa, 1910]]
+
+Tolstoy believed that a true Christian could find lasting happiness by striving for inner self-perfection through following the [[Great Commandment]] of loving one's neighbor and God rather than looking outward to the Church or state for guidance. His belief in [[nonresistance]] when faced by conflict is another distinct attribute of his philosophy based on Christ's teachings. By directly influencing [[Mahatma Gandhi]] with this idea through his work ''[[The Kingdom of God Is Within You]]'' (full text of English translation [[Wikisource:The Kingdom of God Is Within You|available on Wikisource]]), Tolstoy's profound influence on the nonviolent resistance movement reverberates to this day. He believed that the aristocracy were a burden on the poor, and that the only solution to how we live together is through [[Christian anarchism|anarchism]].{{Citation needed|date=April 2009}}
+
+He also opposed [[private property]] in land ownership&lt;ref&gt;I Cannot Be Silent. Leo Tolstoy. ''Recollections and Essays'', 1937.&lt;/ref&gt; and the institution of marriage and valued the ideals of chastity and sexual abstinence (discussed in ''[[Father Sergius]]'' and his preface to ''The Kreutzer Sonata''), ideals also held by the young Gandhi. Tolstoy's later work derives a passion and verve from the depth of his austere moral views.&lt;ref&gt;{{cite web|author=editor on September 8, 2009 |url=http://coastlinejournal.com/2009/09/08/why-leo-tolstoy-wouldn%E2%80%99t-super-size-it/ |title=Sommers, Aaron (2009) '&amp;#39;Why Leo Tolstoy Wouldn't Supersize It'&amp;#39; |publisher=Coastlinejournal.com |date=September 8, 2009 |accessdate=May 16, 2010}}&lt;/ref&gt; The sequence of the temptation of Sergius in ''Father Sergius'', for example, is among his later triumphs. Gorky relates how Tolstoy once read this passage before himself and Chekhov and that Tolstoy was moved to tears by the end of the reading. Other later passages of rare power include the personal crises that were faced by the protagonists of ''The Death of Ivan Ilyich'', and of ''[[Master and Man (short story)|Master and Man]]'', where the main character in the former or the reader in the latter are made aware of the foolishness of the protagonists' lives.
+
+Tolstoy had a profound influence on the development of [[Christian anarchism|Christian anarchist]] thought.&lt;ref&gt;{{cite web |url=https://archive.org/details/TheContemporaryRelevanceOfLeoTolstoy |title=The Contemporary Relevance of Leo Tolstoy's Late Political Thought |last=Christoyannopoulos |first=Alexandre |authorlink=Alexandre Christoyannopoulos |year=2009|quote=Tolstoy articulated his Christian anarchist political thought between 1880 and 1910, yet its continuing relevance should have become fairly self-evident already.}}&lt;/ref&gt; The [[Tolstoyan]]s were a small Christian anarchist group formed by Tolstoy's companion, [[Vladimir Chertkov]] (1854–1936), to spread Tolstoy's religious teachings. Philosopher [[Peter Kropotkin]] wrote of Tolstoy in the article on anarchism in the ''[[1911 Encyclopædia Britannica]]'':&lt;blockquote&gt;Without naming himself an anarchist, Leo Tolstoy, like his predecessors in the popular religious movements of the 15th and 16th centuries, [[Petr Chelčický|Chojecki]], [[Hans Denck|Denk]] and many others, took the anarchist position as regards the [[State (polity)|state]] and [[property right]]s, deducing his conclusions from the general spirit of the teachings of Jesus and from the necessary dictates of reason.
+
+With all the might of his talent, Tolstoy made (especially in ''The Kingdom of God Is Within You'') a powerful criticism of the church, the state and law altogether, and especially of the present [[property law]]s. He describes the state as the domination of the wicked ones, supported by brutal force. Robbers, he says, are far less dangerous than a well-organized government. He makes a searching criticism of the prejudices which are current now concerning the benefits conferred upon men by the church, the state, and the existing distribution of property, and from the teachings of Jesus he deduces the rule of non-resistance and the absolute condemnation of all wars. His religious arguments are, however, so well combined with arguments borrowed from a dispassionate observation of the present evils, that the anarchist portions of his works appeal to the religious and the non-religious reader alike.&lt;ref&gt;{{cite book |title=Encyclopædia Britannica Eleventh Edition |last=Kropotkin |first=Peter |authorlink=Peter Kropotkin |year=1911 |publisher= |location= |isbn= |page=918 |pages= |url=https://archive.org/stream/encyclopaediabri01chisrich#page/918/mode/2up |accessdate= |quote=Anarchism}}&lt;/ref&gt;&lt;/blockquote&gt;
+[[File:Tolstoy organising famine relief in Samara, 1891.jpg|thumb|left|Tolstoy organising famine relief in Samara, 1891]]
+During the [[Boxer Rebellion]] in China, Tolstoy praised the Boxers. He was harshly critical of the atrocities committed by the Russians, Germans, and other western troops. He accused them of engaging in slaughter when he heard about the lootings, rapes, and murders, in what he saw as Christian brutality. Tolstoy also named the two monarchs most responsible for the atrocities; [[Nicholas II of Russia]] and [[Wilhelm II of Germany]].&lt;ref&gt;{{cite book|url=https://books.google.com/?id=k1_iAAAAMAAJ&amp;q=he+praised+the+Chinese+for+their+heroic+patience.+When+he+learned+about+the+%22orgy+of+murder,+raping,+and+looting%22+committed+by+the+Western+powers+in+quelling+the+Boxer+rebellion,+he+raged+against+the+brutality+of+the+Christians&amp;dq=he+praised+the+Chinese+for+their+heroic+patience.+When+he+learned+about+the+%22orgy+of+murder,+raping,+and+looting%22+committed+by+the+Western+powers+in+quelling+the+Boxer+rebellion,+he+raged+against+the+brutality+of+the+Christians|title=The Russian review, Volume 19|author=William Henry Chamberlin, Hoover Institution on War, Revolution, and Peace, Ohio State University|editor=Michael Karpovich, Dimitri Sergius Von Mohrenschildt|year=1960|publisher=Blackwell|location=|page=115|isbn=|pages=}}(Original from the University of Michigan)&lt;/ref&gt;&lt;ref&gt;{{cite book|url=https://books.google.com/?id=MFtDxmZVB7gC&amp;pg=PA3&amp;dq=tolstoy+boxer+rebellion#v=onepage&amp;q=tolstoy%20boxer%20rebellion&amp;f=false|title=An age of progress?: clashing twentieth-century global forces|author=Walter G. Moss|year=2008|publisher=Anthem Press|location=|page=3|isbn=1-84331-301-4|pages=}}&lt;/ref&gt; Tolstoy, a famous [[sinophile]], also read the works of Chinese thinker and philosopher, [[Confucius]].&lt;ref&gt;{{cite web|url=https://books.google.com/books?id=3YPAaFfUp9oC&amp;pg=PA314&amp;lpg=PA314&amp;dq=lev+tolstoy+sinophile|title=The Bear Watches the Dragon|publisher=}}&lt;/ref&gt;&lt;ref&gt;{{cite book|url=https://books.google.com/?id=nU2lErM3VgwC&amp;pg=PA37&amp;dq=tolstoy+boxer+rebellion#v=onepage&amp;q&amp;f=false|title=The Cambridge companion to Tolstoy|author=Donna Tussing Orwin|year=2002|publisher=Cambridge University Press|location=|page=37|isbn=0-521-52000-2|pages=}}&lt;/ref&gt;&lt;ref&gt;{{cite book|url=https://books.google.com/?id=UipgAAAAMAAJ&amp;dq=tolstoy+boxer+rebellion&amp;q=tolstoy+boxer+rebellion+confucianism|title=Tolstoy and China|author=Derk Bodde|year=1950|publisher=Princeton University Press|location=|page=25|isbn=|pages=}}(Original from the University of Michigan)&lt;/ref&gt; Tolstoy corresponded with the Chinese intellectual [[Gu Hongming]] and recommended that China remain an agrarian nation and warned against reform like what Japan implemented.
+
+The Russian and American intervention in the Boxer Rebellion was denounced by Tolstoy as were the conflicts in the Philippines by America. The words ''terrible for its injustice and cruelty'' were used to describe the Czarist intervention by Tolstoy.&lt;ref name=&quot;CohenStachel1974&quot;&gt;{{cite book|author1=Robert S. Cohen|author2=J.J. Stachel|author3=Marx W. Wartofsky|title=For Dirk Struik: Scientific, Historical and Political Essays in Honour of Dirk J. Struik|url=https://books.google.com/books?id=OvK9orJNezwC&amp;pg=PA606&amp;dq=Tolstoy+boxers&amp;hl=en&amp;sa=X&amp;ei=fiuMUJ0nyeLSAbX0gaAO&amp;ved=0CEIQ6AEwAw#v=onepage&amp;q=Tolstoy%20boxers&amp;f=false|date=31 October 1974|publisher=Springer Science &amp; Business Media|isbn=978-90-277-0393-4|pages=606–}}&lt;/ref&gt; Confucius's works were studied by Tolstoy. The attack on China in the Boxer Rebellion was railed against be Tolstoy.&lt;ref name=&quot;Orwin2002&quot;&gt;{{cite book|author=Donna Tussing Orwin|title=The Cambridge Companion to Tolstoy|url=https://books.google.com/books?id=SC9suBt-Vm4C&amp;pg=PA37&amp;dq=Tolstoy+boxers&amp;hl=en&amp;sa=X&amp;ei=-CuMUMPGLo-80QGqr4CgDA&amp;ved=0CDUQ6AEwATgK#v=onepage&amp;q=Tolstoy%20boxers&amp;f=false|date=19 September 2002|publisher=Cambridge University Press|isbn=978-0-521-52000-3|pages=37–}}&lt;/ref&gt; The war against China was criticized by Leonid Andreev and Gorkey. ''to the Chinese people'', an epistle was written by Tolstoy as part of the criticism of the war by intellectuals in Russia.&lt;ref name=&quot;Gamsa2008&quot;&gt;{{cite book|author=Mark Gamsa|title=The Chinese Translation of Russian Literature: Three Studies|url=https://books.google.com/books?id=ffkU0KocpEYC&amp;pg=PA14&amp;dq=Tolstoy+boxers&amp;hl=en&amp;sa=X&amp;ei=-CuMUMPGLo-80QGqr4CgDA&amp;ved=0CE0Q6AEwBTgK#v=onepage&amp;q=Tolstoy%20boxers&amp;f=false|year=2008|publisher=BRILL|isbn=90-04-16844-3|pages=14–}}&lt;/ref&gt; The activities of Russia in China by Nicholas II were described in an open letter where they were slammed and denounced by Leo Tolstoy in 1902.&lt;ref name=&quot;FlathSmith2011&quot;&gt;{{cite book|author1=James Flath|author2=Norman Smith|title=Beyond Suffering: Recounting War in Modern China|url=https://books.google.com/books?id=K71PjjQAy6EC&amp;pg=PA125&amp;dq=Tolstoy+boxers&amp;hl=en&amp;sa=X&amp;ei=NSyMUJ6uNaW_0AGN5IC4BA&amp;ved=0CC8Q6AEwADge#v=onepage&amp;q=Tolstoy%20boxers&amp;f=false|date=13 April 2011|publisher=UBC Press|isbn=978-0-7748-1957-2|pages=125–}}&lt;/ref&gt; Tolstoy corresponded with [[Gu Hongming]] and both they opposed the [[Hundred Day's Reform]] by [[Kang Youwei]] and agreed that the reform movement was perilous.&lt;ref name=&quot;Lee2005&quot;&gt;{{cite book|author=Khoon Choy Lee|title=Pioneers of Modern China: Understanding the Inscrutable Chinese|url= https://books.google.com/books?id=1jlOQc8BumIC&amp;pg=PA10&amp;dq=Tolstoy+boxers&amp;hl=en&amp;sa=X&amp;ei=NSyMUJ6uNaW_0AGN5IC4BA&amp;ved=0CEoQ6AEwBTge#v=onepage&amp;q=Tolstoy%20boxers&amp;f=false|year=2005|publisher=World Scientific|isbn=978-981-256-618-8|pages=10–}}&lt;/ref&gt; Tolstoys' ideology on non violence shaped the anarchist thought of the Society for the Study of Socialism in China.&lt;ref name=&quot;Campbell2009&quot;&gt;{{cite book|author=Heather M. Campbell|title=The Britannica Guide to Political and Social Movements That Changed the Modern World|url=https://books.google.com/books?id=gWHrWq2Kd-UC&amp;pg=PA194&amp;dq=Tolstoy+boxers&amp;hl=en&amp;sa=X&amp;ei=RyyMUPLJI--I0QGShIDoCQ&amp;ved=0CFgQ6AEwBzgo#v=onepage&amp;q=Tolstoy%20boxers&amp;f=false|date=20 December 2009|publisher=The Rosen Publishing Group|isbn=978-1-61530-016-7|pages=194–}}&lt;/ref&gt; Lao Zi and Confucius's teachings were studied by Tolstoy. ''Chinese Wisdom''' was a text written by Tolstoy. The Boxer Rebellion stirred Tolstoy's interest in Chinese philosophy.&lt;ref name=&quot;Bodde1967&quot;&gt;{{cite book|author=Derk Bodde|title=Tolstoy and China|url=https://books.google.com/books?ei=WCyMUMmtEqrK0AHwuoCIBw&amp;id=STFaAAAAYAAJ&amp;dq=Tolstoy+boxers&amp;q=Boxer#search_anchor|year=1967|publisher=Johnson Reprint Corporation|pages=25, 44, 107}}&lt;/ref&gt; The Boxer and Boxer wars were denounced by Tolstoy.&lt;ref name=&quot;Tolstoy(graf)1978&quot;&gt;{{cite book|author1=Leo Tolstoy|author2=Leo Tolstoy (graf)|author3=Reginald Frank Christian|title=Tolstoy's Letters: 1880-1910|url=https://books.google.com/books?ei=WCyMUMmtEqrK0AHwuoCIBw&amp;id=2TVgAAAAMAAJ&amp;dq=Tolstoy+boxers&amp;q=Boxer#search_anchor|year=1978|publisher=Continuum International Publishing Group, Limited|isbn=978-0-485-71172-1|page=580}}&lt;/ref&gt;
+
+[[File:Leo Tolstoy-1908.webm|thumb|right|200px|Film footage of Tolstoy's 80th birthday at Yasnaya Polyana. Footage shows his wife Sofya (picking flowers in the garden), daughter Aleksandra (sitting in the carriage in the white blouse), his aide and confidante, V. Chertkov (bald man with the beard and mustache) and students. Filmed by [[Alexander Drankov|Aleksandr Osipovich Drankov]], 1908.]]
+
+In hundreds of essays over the last 20 years of his life, Tolstoy reiterated the anarchist critique of the state and recommended books by [[Kropotkin]] and [[Proudhon]] to his readers, whilst rejecting anarchism's espousal of [[propaganda of the deed|violent revolutionary means]]. In the 1900 essay, &quot;On Anarchy&quot;, he wrote; &quot;The Anarchists are right in everything; in the negation of the existing order, and in the assertion that, without Authority, there could not be worse violence than that of Authority under existing conditions. They are mistaken only in thinking that Anarchy can be instituted by a revolution. But it will be instituted only by there being more and more people who do not require the protection of governmental power ... There can be only one permanent revolution—a moral one: the regeneration of the inner man.&quot; Despite his misgivings about [[anarchist violence]], Tolstoy took risks to circulate the prohibited publications of [[anarchism in Russia|anarchist thinkers in Russia]], and corrected the proofs of Kropotkin's &quot;Words of a Rebel&quot;, illegally published in St Petersburg in 1906.&lt;ref&gt;''[[Peter Kropotkin: From Prince to Rebel]]''. G Woodcock, I Avakumović.1990.&lt;/ref&gt;
+[[File:Leo Tolstoi v kabinetie.05.1908.ws.jpg|300px|thumbnail|right|Tolstoy in his study in 1908]]
+Tolstoy was enthused by the economic thinking of [[Henry George]], incorporating it approvingly into later works such as ''[[Resurrection (novel)|Resurrection]]'' (1899), the book that played a major factor in his excommunication.&lt;ref&gt;{{cite journal |last= Wenzer |first= Kenneth C. |year= 1997 |title= Tolstoy's Georgist Spiritual Political Economy (1897–1910): Anarchism and Land Reform |journal= [[The American Journal of Economics and Sociology]] |volume= 56 |issue= 4, Oct |jstor= 3487337 }}&lt;/ref&gt;
+
+In 1908, Tolstoy wrote ''[[A Letter to a Hindu]]''&lt;ref&gt;{{Citation|last=Parel|first=Anthony J.|author-link=Anthony Parel|contribution=Gandhi and Tolstoy|editors=M. P. Mathai, M. S. John, Siby K. Joseph|title=Meditations on Gandhi : a Ravindra Varma festschrift|pages=96–112|publisher=Concept|place=New Delhi|year=2002|contribution-url=https://books.google.com/books?id=kcpDOVk5Gp8C&amp;lpg=PP1&amp;pg=PA96}}&lt;/ref&gt; outlining his belief in non-violence as a means for India to gain independence from British colonial rule. In 1909, a copy of the letter was read by Gandhi, who was working as a lawyer in South Africa at the time and just becoming an activist. Tolstoy's letter was significant for Gandhi, who wrote Tolstoy seeking proof that he was the real author, leading to further correspondence between them.&lt;ref name=gandhi&gt;{{Citation|last=Parel|first=Anthony J.|author-link=Anthony Parel|contribution=Gandhi and Tolstoy|editors=M. P. Mathai, M. S. John, Siby K. Joseph|title=Meditations on Gandhi : a Ravindra Varma festschrift|pages=96–112|publisher=Concept|place=New Delhi|year=2002|contribution-url=https://books.google.com/books?id=kcpDOVk5Gp8C&amp;lpg=PP1&amp;pg=PA96#v=onepage&amp;q&amp;f=false }}&lt;/ref&gt;
+
+Reading Tolstoy's ''The Kingdom of God Is Within You'' also convinced Gandhi to avoid violence and espouse [[nonviolent resistance]], a debt Gandhi acknowledged in his autobiography, calling Tolstoy &quot;the greatest apostle of non-violence that the present age has produced&quot;. The correspondence between Tolstoy and Gandhi would only last a year, from October 1909 until Tolstoy's death in November 1910, but led Gandhi to give the name Tolstoy Colony to his second [[ashram]] in South Africa.&lt;ref&gt;''Tolstoy and Gandhi, men of peace: a biography''. MB Green – 1983 – Basic Books&lt;/ref&gt; Besides nonviolent resistance, the two men shared a common belief in the merits of [[vegetarianism]], the subject of several of Tolstoy's essays.&lt;ref&gt;{{cite web|last= Tolstoy |first= Leo |title= The First Step |year= 1892 |accessdate= 2016-05-21 |url= http://www.ivu.org/history/tolstoy/the_%20first_step.html |quote= ... if [a man] be really and seriously seeking to live a good life, the first thing from which he will abstain will always be the use of animal food, because ... its use is simply immoral, as it involves the performance of an act which is contrary to the moral feeling -- killing}}. Preface to the Russian translation of [[Howard Williams (humanitarian)|Howard William's]] [http://www.ivu.org/history/williams/index.html ''The Ethics of Diet'']&lt;/ref&gt;
+
+Tolstoy also became a major supporter of the [[Esperanto]] movement. Tolstoy was impressed by the pacifist beliefs of the [[Doukhobor]]s and brought their persecution to the attention of the international community, after they burned their weapons in peaceful protest in 1895.  He aided the Doukhobors in migrating to Canada.&lt;ref&gt;Mays, H.G. &quot;Resurrection:Tolstoy and Canada's Doukhobors.&quot; The Beaver 79.October/November 1999:38–44&lt;/ref&gt; In 1904, during the [[Russo-Japanese War]], Tolstoy condemned the war and wrote to the Japanese Buddhist priest [[Soyen Shaku]] in a failed attempt to make a joint pacifist statement.
+
+Towards the end of his life, Tolstoy become more and more occupied with the economic theory and social philosophy of [[Georgism]].&lt;ref&gt;Tolstoy: Principles For A New World Order, David Redfearn&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.wealthandwant.com/auth/Tolstoy.htm|title=Tolstoy|publisher=}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.prosper.org.au/about/geoists-in-history/leo-tolstoy/|title=Leo Tolstoy|work=Prosper Australia}}&lt;/ref&gt;&lt;ref&gt;http://www.cooperativeindividualism.org/tolstoy-leo_on-the-doctrine-of-henry-george-1898.html&lt;/ref&gt; He spoke of great admiration of [[Henry George]], stating once that &quot;People do not argue with the teaching of George; they simply do not know it. And it is impossible to do otherwise with his teaching, for he who becomes acquainted with it cannot but agree.&quot;&lt;ref&gt;“A Great Iniquity,” letter to ''The London Times'' (1905)&lt;/ref&gt; He also wrote a preface to George's ''[[Social Problems]]''.&lt;ref&gt;http://www.cooperativeindividualism.org/tolstoy-leo_preface-to-henry-george-social-problems-1883.html&lt;/ref&gt; Tolstoy and George both rejected private property in land (the most important source of income of the passive Russian aristocracy that Tolstoy so heavily criticized) whilst simultaneously both rejecting a centrally planned [[socialist]] economy. Some assume that this development in Tolstoy's thinking was a move away from his [[anarchist]] views, since Georgism requires a central administration to collect [[economic rent|land rent]] and spend it on infrastructure. However, anarchist versions of Georgism have also been proposed since.&lt;ref&gt;{{cite web|url=http://www.anti-state.com/geo/foldvary1.html|title=Geoanarchism|authorlink=Fred E. Foldvary|first=Fred E.|last=Foldvary|accessdate=2009-04-15|date=2001-07-15|publisher=anti-state.com}}&lt;/ref&gt; Tolstoy's 1899 novel ''Resurrection'' explores his thoughts on Georgism in more detail and hints that Tolstoy indeed had such a view. It suggests the possibility of small communities with some form of local governance to manage the collective land rents for common goods; whilst still heavily criticising institutions of the [[Sovereign state|state]] such as the [[justice system]].
+
+==In films==
+A 2009 film about Tolstoy's final year, ''[[The Last Station]]'', based on the novel by [[Jay Parini]], was made by director [[Michael Hoffman (American director)|Michael Hoffman]] with [[Christopher Plummer]] as Tolstoy and [[Helen Mirren]] as Sofya Tolstoya. Both performers were nominated for [[Academy Award|Oscars]] for their roles. There have been other films about the writer, including ''[[Departure of a Grand Old Man]]'', made in 1912 just two years after his death, ''How Fine, How Fresh the Roses Were'' (1913), and ''Leo Tolstoy'', directed by and starring [[Sergei Gerasimov (film director)|Sergei Gerasimov]] in 1984.
+
+There is also a famous lost film of Tolstoy made a decade before he died. In 1901, the American travel lecturer [[Burton Holmes]] visited Yasnaya Polyana with [[Albert J. Beveridge]], the U.S. senator and historian. As the three men conversed, Holmes filmed Tolstoy with his 60-mm movie camera. Afterwards, Beveridge's advisers succeeded in having the film destroyed, fearing that documentary evidence of a meeting with the Russian author might hurt Beveridge's chances of running for the U.S. presidency.&lt;ref&gt;Wallace, Irving, 'Everybody's Rover Boy', in ''The Sunday Gentleman''. New York: Simon &amp; Schuster, 1965. p. 117.&lt;/ref&gt;
+
+==Bibliography==
+{{Main|Leo Tolstoy bibliography}}
+
+==See also==
+{{Portal|Russia|Biography|Politics}}
+* [[Anarchism and religion]]
+* [[Christian vegetarianism]]
+* [[List of peace activists]]
+* [[Tolstoyan movement]]
+* [[Henry David Thoreau]]
+{{Clear}}
+
+==References==
+{{reflist|30em}}
+{{EB1911 |wstitle=Tolstoy, Leo}}
+
+==Further reading==
+* Craraft, James. ''Two Shining Souls: Jane Addams, Leo Tolstoy, and the Quest for Global Peace'' (Lanham: Lexington, 2012). 179 pp. 
+* [http://www.wsws.org/en/articles/2010/12/tols-d02.html ''Trotsky’s 1908 tribute to Leo Tolstoy''] Published by the International Committee of the Fourth International (ICFI).
+* [https://archive.org/details/lifetolstoy00maudgoog ''The Life of Tolstoy: Later years''] by [[Aylmer and Louise Maude|Aylmer Maude]], Dodd, Mead and Company, 1911 at Internet Archive
+*''[[wikiquote:Robert Hunter (author)#Why We Fail as Christians .281919.29|Why We Fail as Christians]]'' by [[Robert Hunter (author)|Robert Hunter]], The Macmillan Company, 1919 at Wikiquote
+*[https://books.google.com/books?id=dh1HAAAAIAAJ&amp; ''Why we fail as Christians''] by Robert Hunter, The Macmillan Company, 1919 at Google Books
+
+==External links==
+&lt;!--Note: all links should comply with Wikipedia's external links guideline at [[Wikipedia:External links]]. To keep this section from ballooning, please only include links of general interest --&gt;
+{{Sister project links
+|wikt=no
+|b=no
+|q=Leo Tolstoy
+|s=Author:Leo Tolstoy
+|commons=Category:Leo Tolstoy
+|n=no
+|v=no
+|species=no
+|d=Q7243}}
+
+{{Refbegin}}
+* {{Gutenberg author |id=Tolstoy,+Leo,+graf | name=Leo Tolstoy}}
+* {{Internet Archive author |sname=Leo Tolstoy}}
+* {{Librivox author |id=217}}
+* {{IBList|type=author|id=160|name=Leo Tolstoy}}
+* [http://www.readingtolstoy.ru/ Online project (readingtolstoy.ru) to create] [http://tolstoy.ru/creativity/90-volume-collection-of-the-works/?df=&amp;dt=&amp;q=&amp;page=1 open digital version of 90 volumes of Tolstoy works]
+* {{FAG|1438}}
+* {{IMDb name|866243|Leo Tolstoy}}
+* {{imdb character|49685|Leo Tolstoy (Character)}}
+{{Refend}}
+
+{{Leo Tolstoy|state=expanded}}
+{{War and Peace}}
+{{Anna Karenina}}
+{{The Kreutzer Sonata}}
+{{Resurrection}}
+{{Simple living}}
+{{African-American Civil Rights Movement}}
+{{Veganism and vegetarianism}}
+{{Libertarian socialism navbox}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tolstoy, Leo}}
+[[Category:Leo Tolstoy| ]]
+[[Category:1828 births]]
+[[Category:1910 deaths]]
+[[Category:Vegetarianism]]
+[[Category:Christian writers]]
+[[Category:Georgists]]
+[[Category:People excommunicated by the Russian Orthodox Church]]
+[[Category:Imperial Russian Christians]]
+[[Category:Christian pacifists]]
+[[Category:Russian philosophers]]
+[[Category:Imperial Russian essayists]]
+[[Category:Imperial Russian nobility]]
+[[Category:Anti-nationalists]]
+[[Category:Russian counts]]
+[[Category:Male essayists]]
+[[Category:Anarcho-pacifists]]
+[[Category:Christian anarchists]]
+[[Category:Green anarchists]]
+[[Category:Tolstoyans]]
+[[Category:Russian anarchists]]
+[[Category:Imperial Russian short story writers]]
+[[Category:Converts to Christianity from atheism or agnosticism]]
+[[Category:Corresponding Members of the St Petersburg Academy of Sciences]]
+[[Category:Honorary Members of the St Petersburg Academy of Sciences]]
+[[Category:Members of the Serbian Academy of Sciences and Arts]]
+[[Category:19th-century theatre]]
+[[Category:Imperial Russian dramatists and playwrights]]
+[[Category:Imperial Russian male writers]]
+[[Category:Imperial Russian educators]]
+[[Category:Russian military personnel of the Caucasian War]]
+[[Category:Articles containing video clips]]
+[[Category:Russian Esperantists]]
+[[Category:Russian-language writers]]
+[[Category:Russian male novelists]]
+[[Category:Russian male dramatists and playwrights]]
+[[Category:Russian male short story writers]]
+[[Category:Nonviolence advocates]]
+[[Category:19th-century short story writers]]</text>
+      <sha1>974w9haf7oh2uodx8a61jj3t8iyg4xy</sha1>
+    </revision>
+  </page>
+</mediawiki>

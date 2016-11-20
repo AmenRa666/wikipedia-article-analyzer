@@ -1,0 +1,135 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dilhara Lokuhettige</title>
+    <ns>0</ns>
+    <id>3106156</id>
+    <revision>
+      <id>730497073</id>
+      <parentid>726783820</parentid>
+      <timestamp>2016-07-19T11:01:10Z</timestamp>
+      <contributor>
+        <username>Nazcheema</username>
+        <id>27881181</id>
+      </contributor>
+      <comment>added [[Category:Chittagong Vikings cricketers]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3035">{{Infobox cricketer
+| name         = Dilhara Lokuhettige
+| image              = Cricket_no_pic.png
+| country            = Sri Lanka
+| batting            = Right-hand bat
+| bowling            = Right-arm fast-medium
+| deliveries         = balls
+| columns            = 2
+| column1            = [[Test cricket|Tests]]
+| matches1           = -
+| runs1              = -
+| bat avg1           = -
+| 100s/50s1          = -/-
+| top score1         = -
+| deliveries1        = -
+| wickets1           = -
+| bowl avg1          = -
+| fivefor1           = -
+| tenfor1            = -
+| best bowling1      = -
+| catches/stumpings1 = -/-
+| column2            = [[One Day International|ODIs]]
+| matches2           = 8
+| runs2              = 77
+| bat avg2           = 9.62
+| 100s/50s2          = -/-
+| top score2         = 29
+| deliveries2        = 282
+| wickets2           = 6
+| bowl avg2          = 36.83
+| fivefor2           = -
+| tenfor2            = n/a
+| best bowling2      = 2/30
+| catches/stumpings2 = 3/-
+| date               = 20 April
+| year               = 2007
+| source             = http://content-aus.cricinfo.com/srilanka/content/player/48487.html
+}}
+'''Loku Hettige Danushka Dilhara''' (born July 3, 1980 in [[Colombo]]) is a [[Sri Lanka]]n [[cricket]]er. He is a right-handed batsman and a right-arm medium-fast bowler.
+
+When he was first picked for the Indian Oil Cup in 2005, there was relative shock, as Lokuhettige was picked practically out of obscurity after moderate domestic performances. However, he proved a quality acquisition, capturing both good batting and bowling statistics. Lokuhittege had captained Colombo's Asoka Vidalaya from Under-13s to senior level.
+
+His big break came when he joined Bloomfield and met [[Ruchira Palliyaguru]] in 1999, who recommended him to the cricketing academy. He has Twenty-20 cricket since 2004 and was picked for the national team for the first time in July 2005. He is a powerful batsman and an accurate bowler.
+he is an aggressive batsman and is good against fast bowlers
+{{MedalTableTop||100px}}
+{{MedalSport|Men's [[Cricket]]}}
+{{MedalCountry |{{SRI}} }}
+{{MedalCompetition|[[Asian Games]]}}
+{{MedalGold|[[2014 Asian Games|2014 Incheon]]|[[Cricket at the 2014 Asian Games|Team]]}}
+{{MedalBottom}}
+{{Ruhuna cricket team}}
+
+
+{{DEFAULTSORT:Lokuhettige, Dilhara}}
+[[Category:1980 births]]
+[[Category:Living people]]
+[[Category:Sri Lankan cricketers|Lokuhittege, Dilhara]]
+[[Category:Sri Lanka One Day International cricketers]]
+[[Category:Sri Lanka Twenty20 International cricketers]]
+[[Category:Moors Sports Club cricketers]]
+[[Category:Uva cricketers]]
+[[Category:Ruhuna cricketers]]
+[[Category:Sri Lanka Cricket Combined XI cricketers]]
+[[Category:Kandurata cricketers]]
+[[Category:Asian Games medalists in cricket]]
+[[Category:Cricketers at the 2010 Asian Games]]
+[[Category:Cricketers at the 2014 Asian Games]]
+[[Category:Galle Guardians cricketers]]
+[[Category:Asian Games gold medalists for Sri Lanka]]
+[[Category:Chittagong Vikings cricketers]]
+{{SriLanka-cricket-bio-1980s-stub}}</text>
+      <sha1>cs79m817nw8ykozppdi7xzdvq6ctdhj</sha1>
+    </revision>
+  </page>
+</mediawiki>

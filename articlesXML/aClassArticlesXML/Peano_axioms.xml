@@ -1,0 +1,366 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Peano axioms</title>
+    <ns>0</ns>
+    <id>25005</id>
+    <revision>
+      <id>744418172</id>
+      <parentid>744229224</parentid>
+      <timestamp>2016-10-15T02:41:35Z</timestamp>
+      <contributor>
+        <username>Michael Hardy</username>
+        <id>4626</id>
+      </contributor>
+      <comment>/* Addition */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="36712">In [[mathematical logic]], the '''Peano axioms''', also known as the '''Dedekind–Peano axioms''' or the '''Peano postulates''', are a set of [[axiom]]s for the [[natural number]]s presented by the 19th century [[Italian people|Italian]] [[mathematician]] [[Giuseppe Peano]]. These axioms have been used nearly unchanged in a number of [[metamathematics|metamathematical]] investigations, including research into fundamental questions of whether [[number theory]] is [[consistency proof|consistent]] and [[Completeness (logic)|complete]].
+
+The need to formalize [[arithmetic]] was not well appreciated until the work of [[Hermann Grassmann]], who showed in the 1860s that many facts in arithmetic could be derived from more basic facts about the [[successor function|successor operation]] and [[mathematical induction|induction]].&lt;ref&gt;{{harvnb|Grassmann|1861}}&lt;/ref&gt; In 1881, [[Charles Sanders Peirce]] provided an [[Axiomatic system#Axiomatization|axiomatization]] of natural-number arithmetic.&lt;ref&gt;{{harvnb|Peirce|1881}}, {{harvnb|Shields|1997}}&lt;/ref&gt; In&amp;nbsp;1888, [[Richard Dedekind]] proposed another axiomatization of natural-number arithmetic, and in&amp;nbsp;1889, Peano published a more precisely formulated version of them as a collection of axioms in his book, [[Arithmetices principia, nova methodo exposita|''The principles of arithmetic presented by a new method'']] ({{lang-la|Arithmetices principia, nova methodo exposita}}).
+
+The Peano axioms contain three types of statements. The first axiom asserts the existence of at least one member of the set of natural numbers. The next four are general statements about [[Equality (mathematics)|equality]]; in modern treatments these are often not taken as part of the Peano axioms, but rather as axioms of the &quot;underlying logic&quot;.&lt;ref&gt;{{harvnb|van Heijenoort|1967|page=94}}&lt;/ref&gt; The next three axioms are [[first-order logic|first-order]] statements about natural numbers expressing the fundamental properties of the successor operation. The ninth, final axiom is a [[second-order logic|second order]] statement of the principle of mathematical induction over the natural numbers. A weaker first-order system called '''Peano arithmetic''' is obtained by explicitly adding the addition and multiplication operation symbols and replacing the [[Second-order arithmetic#Induction and comprehension schema|second-order induction]] axiom with a first-order [[axiom schema]].
+
+== Formulation ==
+
+When Peano formulated his axioms, the language of [[mathematical logic]] was in its infancy. The system of logical notation he created to present the axioms did not prove to be popular, although it was the genesis of the modern notation for [[Element (mathematics)|set membership]] (∈, which comes from Peano's ε) and [[logical implication|implication]] (⊃, which comes from Peano's reversed 'C'.) Peano maintained a clear distinction between mathematical and logical symbols, which was not yet common in mathematics; such a separation had first been introduced in the ''[[Begriffsschrift]]'' by [[Gottlob Frege]], published in 1879.&lt;ref&gt;{{harvnb|van Heijenoort|1967|page=2}}&lt;/ref&gt; Peano was unaware of Frege's work and independently recreated his logical apparatus based on the work of [[George Boole|Boole]] and [[Ernst Schröder|Schröder]].&lt;ref&gt;{{harvnb|van Heijenoort|1967|page=83}}&lt;/ref&gt;
+
+The Peano axioms define the arithmetical properties of ''[[natural numbers]]'', usually represented as a [[Set (mathematics)|set]] '''N''' or &lt;math&gt;\mathbb{N}.&lt;/math&gt; The [[non-logical symbol]]s for the axioms consist of a constant symbol 0 and a unary function symbol ''S''.
+
+The first axiom states that the constant 0 is a natural number:
+{{ordered list|start=1
+| 1= 0 is a natural number.
+}}
+The next four axioms describe the [[equality (mathematics)|equality]] [[relation (mathematics)|relation]]. Since they are logically valid in first-order logic with equality, they are not considered to be part of &quot;the Peano axioms&quot; in modern treatments.&lt;ref&gt;{{harvnb|van Heijenoort|1967|page=83}}&lt;/ref&gt;
+{{ordered list|start=2
+| 2= For every natural number ''x'', {{nowrap|1=''x'' = ''x''}}. That is, equality is [[reflexive relation|reflexive]].
+| 3= For all natural numbers ''x'' and ''y'', if {{nowrap|1=''x'' = ''y''}}, then {{nowrap|1=''y'' = ''x''}}. That is, equality is [[symmetric relation|symmetric]].
+| 4= For all natural numbers ''x'', ''y'' and ''z'', if ''x'' = ''y'' and ''y'' = ''z'', then {{nowrap|1=''x'' = ''z''}}. That is, equality is [[transitive relation|transitive]].
+| 5= For all ''a'' and ''b'', if ''b'' is a natural number and {{nowrap|1=''a'' = ''b''}}, then ''a'' is also a natural number. That is, the natural numbers are [[closure (mathematics)|closed]] under equality.
+}}
+The remaining axioms define the arithmetical properties of the natural numbers. The naturals are assumed to be closed under a single-valued &quot;[[successor function|successor]]&quot; [[function (mathematics)|function]] ''S''.
+{{ordered list|start=6
+| 6=For every natural number ''n'', ''S''(''n'') is a natural number.
+| 7=For all natural numbers ''m'' and ''n'', {{nowrap|1=''m'' = ''n''}} if and only if {{nowrap|1=''S''(''m'') = ''S''(''n'')}}. That is, ''S'' is an [[injective function|injection]].
+| 8=For every natural number ''n'', {{nowrap|1=''S''(''n'') = 0}} is false. That is, there is no natural number whose successor is 0.
+}}
+Peano's original formulation of the axioms used 1 instead of 0 as the &quot;first&quot; natural number.&lt;ref&gt;{{harvnb|Peano|1889|page=1}}&lt;/ref&gt; This choice is arbitrary, as axiom 1 does not endow the constant 0 with any additional properties. However, because 0 is the [[identity element|additive identity]] in arithmetic, most modern formulations of the Peano axioms start from 0. Axioms 1, 6, 7, 8 define a [[unary numeral system|unary representation]] of the intuitive notion of natural numbers: the number 1 can be defined as ''S''(0), 2 as ''S''(''S''(0)), etc. However, considering the notion of natural numbers as can be derived from the axioms, axioms 1, 6, 7, 8 do not imply that the successor function generates all the natural numbers different than 0. Put differently, they do not guarantee that every natural number other than zero must succeed some other natural number.
+
+The intuitive notion that all natural numbers observe a succession relation with one (in the case of the starting number) or two (for all other numbers) other numbers requires an additional axiom, which is sometimes called the ''[[axiom of induction]]''.
+
+{{ordered list|start=9
+| 9=If ''K'' is a set such that:
+* 0 is in ''K'', and
+* for every natural number ''n'', ''n'' being in ''K'' implies that ''S''(''n'') is in ''K'',
+then ''K'' contains every natural number.
+}}
+
+The induction axiom is sometimes stated in the following form:
+{{ordered list|start=9
+| 9=If ''φ'' is a unary [[predicate (mathematics)|predicate]] such that:
+* ''φ''(0) is true, and
+* for every natural number ''n'', ''φ''(''n'') being true implies that ''φ''(''S''(''n'')) is true,
+then ''φ''(''n'') is true for every natural number ''n''.
+}}
+
+In Peano's original formulation, the induction axiom is a [[second-order logic|second-order axiom]]. It is now common to replace this second-order principle with a weaker [[first-order logic|first-order]] induction scheme. There are important differences between the second-order and first-order formulations, as discussed in the section {{section link||Models}} below.
+
+== Arithmetic ==
+
+The Peano axioms can be augmented with the operations of [[addition]] and [[multiplication]] and the usual [[total order|total (linear) ordering]] on [[natural numbers#Notation|'''N''']]. The respective functions and relations are constructed in [[set theory]] or [[second-order logic]], and can be shown to be unique using the Peano axioms.
+
+=== Addition ===
+
+[[Addition in N|Addition]] is a function that [[map (mathematics)|maps]] two natural numbers (two elements of '''N''') to another one. It is defined [[recursion|recursively]] as:
+
+: &lt;math&gt;\begin{align}
+a + 0      &amp;= a ,        &amp; \textrm{(1)}\\
+a + S (b)  &amp;= S (a + b). &amp; \textrm{(2)}
+\end{align}&lt;/math&gt;
+For example:
+
+: &lt;math&gt;\begin{align}
+a + 1 &amp;= a + S(0)     &amp; \mbox{by definition} \\
+      &amp;= S(a + 0)     &amp; \mbox{using (2)} \\
+      &amp;= S(a),        &amp; \mbox{using (1)} \\
+\\
+a + 2 &amp;= a + S(1)     &amp; \mbox{by definition} \\
+      &amp;= S(a + 1)     &amp; \mbox{using (2)} \\
+      &amp;= S(S(a))      &amp; \mbox{using } a + 1 = S(a) \\
+\\
+a + 3 &amp;= a + S(2)     &amp; \mbox{by definition} \\
+      &amp;= S(a + 2)     &amp; \mbox{using (2)} \\
+      &amp;= S(S(S(a))    &amp; \mbox{using } a + 2 = S(S(a)) \\
+\text{etc.} &amp; \\
+\end{align}&lt;/math&gt;
+
+The [[Structure (mathematical logic)|structure]] {{nowrap|('''N''', +)}} is a [[commutative]] [[semigroup]] with identity element 0. {{nowrap|('''N''', +)}} is also a [[cancellation property|cancellative]] [[magma (algebra)|magma]], and thus [[embedding|embeddable]] in a [[group (mathematics)|group]]. The smallest group embedding '''N''' is the [[integer]]s.
+
+=== Multiplication ===
+
+Similarly, [[multiplication]] is a function mapping two natural numbers to another one. Given addition, it is defined recursively as:
+
+: &lt;math&gt;\begin{align}
+
+a \cdot 0 &amp;= 0, \\
+a \cdot S (b) &amp;= a + (a \cdot b).
+\end{align}&lt;/math&gt;
+It is easy to see that ''S''(0) (or &quot;1&quot;, in the familiar language of [[decimal representation]]) is the multiplicative [[identity element|identity]]:
+
+: ''a'' · ''S''(0) = ''a'' + (''a'' · 0) = ''a'' + 0 = ''a''
+
+Moreover, multiplication [[distributive law|distributes over]] addition:
+
+: ''a'' · (''b'' + ''c'') = (''a'' · ''b'') + (''a'' · ''c'').
+
+Thus, {{nowrap|('''N''', +, 0, ·, ''S''(0))}} is a commutative [[semiring]].
+
+=== Inequalities ===
+
+The usual [[total order]] relation ≤ on natural numbers can be defined as follows, assuming 0 is a natural number:
+
+: For all {{nowrap|''a'', ''b'' ∈ '''N'''}}, {{nowrap|''a'' ≤ ''b''}} if and only if there exists some {{nowrap|''c'' ∈ '''N'''}} such that {{nowrap|1=''a'' + ''c'' = ''b''}}.
+
+This relation is stable under addition and multiplication: for &lt;math&gt; a, b, c \in \mathbf{N} &lt;/math&gt;, if {{nowrap|''a'' ≤ ''b''}}, then:
+
+* ''a'' + ''c'' ≤ ''b'' + ''c'', and
+* ''a'' · ''c'' ≤ ''b'' · ''c''.
+
+Thus, the structure {{nowrap|('''N''', +, ·, 1, 0, ≤)}} is an [[ordered ring|ordered semiring]]; because there is no natural number between 0 and 1, it is a discrete ordered semiring.
+
+The axiom of induction is sometimes stated in the following form that uses a stronger hypothesis, making use of the order relation &quot;≤&quot;:
+
+: For any [[predicate (mathematics)|predicate]] ''φ'', if
+:* ''φ''(0) is true, and
+:* for every {{nowrap|''n'', ''k'' ∈ '''N'''}}, if {{nowrap|''k'' ≤ ''n''}} implies that ''φ''(''k'') is true, then ''φ''(''S''(''n'')) is true,
+: then for every {{nowrap|''n'' ∈ '''N'''}}, ''φ''(''n'') is true.
+
+This form of the induction axiom, called ''strong induction'', is a consequence of the standard formulation, but is often better suited for reasoning about the ≤ order. For example, to show that the naturals are [[well-order]]ed—every [[empty set|nonempty]] [[subset]] of '''N''' has a [[least element]]—one can reason as follows. Let a nonempty {{nowrap|''X'' ⊆ '''N'''}} be given and assume ''X'' has no least element.
+
+* Because 0 is the least element of '''N''', it must be that {{nowrap|0 ∉ ''X''}}.
+* For any {{nowrap|''n'' ∈ '''N'''}}, suppose for every {{nowrap|''k'' ≤ ''n''}}, {{nowrap|''k'' ∉ ''X''}}. Then {{nowrap|''S''(''n'') ∉ ''X''}}, for otherwise it would be the least element of ''X''.
+
+Thus, by the strong induction principle, for every {{nowrap|''n'' ∈ '''N'''}}, {{nowrap|''n'' ∉ ''X''}}. Thus, {{nowrap|1=''X'' ∩ '''N''' = ∅}}, which [[contradiction|contradicts]] ''X'' being a nonempty subset of '''N'''. Thus ''X'' has a least element.
+
+== First-order theory of arithmetic ==
+
+All of the Peano axioms except the ninth axiom (the induction axiom) are statements in [[first-order logic]].&lt;ref&gt;{{harvnb|Partee ''et al.''|2012|page=215}}&lt;/ref&gt; The arithmetical operations of addition and multiplication and the order relation can also be defined using first-order axioms. The axiom of induction is in [[second-order logic|second-order]], since it [[Quantifier (logic)|quantifies]] over predicates (equivalently, sets of natural numbers rather than natural numbers), but it can be transformed into a first-order ''[[axiom schema]]'' of induction. Such a schema includes one axiom per predicate definable in the first-order language of Peano arithmetic, making it weaker than the second-order axiom.&lt;ref&gt;{{harvnb|Harsanyi|1983}}&lt;/ref&gt;
+
+First-order axiomatizations of Peano arithmetic have an important limitation, however. In second-order logic, it is possible to define the addition and multiplication operations from the [[successor function|successor operation]], but this cannot be done in the more restrictive setting of first-order logic. Therefore, the addition and multiplication operations are directly included in the signature of Peano arithmetic, and axioms are included that relate the three operations to each other.
+
+The following list of axioms (along with the usual axioms of equality), which contains six of the seven axioms of [[Robinson arithmetic]], is sufficient for this purpose:&lt;ref&gt;{{harvnb|Mendelson|1997|page=155}}&lt;/ref&gt;
+
+* &lt;math&gt;\forall x \in \mathbf{N} \ (0 \neq  S ( x ))&lt;/math&gt;
+* &lt;math&gt;\forall x, y \in \mathbf{N} \ (S( x ) =  S( y ) \Rightarrow x = y)&lt;/math&gt;
+* &lt;math&gt;\forall x \in \mathbf{N} \ (x  + 0 = x )&lt;/math&gt;
+* &lt;math&gt;\forall x, y \in \mathbf{N} \ (x + S( y ) =  S( x + y ))&lt;/math&gt;
+* &lt;math&gt;\forall x \in \mathbf{N} \ (x \cdot 0 = 0)&lt;/math&gt;
+* &lt;math&gt;\forall x, y \in \mathbf{N} \ (x \cdot  S ( y ) = x \cdot y + x )&lt;/math&gt;
+
+In addition to this list of numerical axioms, Peano arithmetic contains the induction schema, which consists of a [[Countable set|countably infinite]] set of [[axioms]]. For each formula {{nowrap|''φ''(''x'', ''y''&lt;sub&gt;1&lt;/sub&gt;, ..., ''y''&lt;sub&gt;''k''&lt;/sub&gt;)}} in the language of Peano arithmetic, the '''first-order induction axiom''' for ''φ'' is the sentence
+
+: &lt;math&gt;\forall \bar{y} (\varphi(0,\bar{y}) \land \forall x ( \varphi(x,\bar{y})\Rightarrow\varphi(S(x),\bar{y})) \Rightarrow \forall x \varphi(x,\bar{y}))&lt;/math&gt;
+
+where &lt;math&gt;\bar{y}&lt;/math&gt; is an abbreviation for ''y''&lt;sub&gt;1&lt;/sub&gt;,...,''y''&lt;sub&gt;''k''&lt;/sub&gt;. The first-order induction schema includes every instance of the first-order induction axiom, that is, it includes the induction axiom for every formula ''φ''.
+
+=== Equivalent axiomatizations ===
+
+There are many different, but equivalent, axiomatizations of Peano arithmetic. While some axiomatizations, such as the one just described, use a signature that only has symbols for 0 and the successor, addition, and multiplications operations, other axiomatizations use the language of [[ordered ring|ordered semirings]], including an additional order relation symbol. One such axiomatization begins with the following axioms that describe a discrete ordered semiring.&lt;ref&gt;{{harvnb|Kaye|1991|pages=16–18}}&lt;/ref&gt;
+
+&lt;!-- These axioms are taken directly from Kaye 1991. Please don't &quot;tweak&quot; them, add additional axioms, or remove axioms without discussion on the talk page. --&gt;
+
+# &lt;math&gt;\forall x, y, z \in \mathbf{N} \ ( (x + y) + z = x + (y + z) )&lt;/math&gt;, i.e., addition is [[associative law|associative]].
+# &lt;math&gt;\forall x, y \in \mathbf{N} \ ( x + y = y + x )&lt;/math&gt;, i.e., addition is [[commutative law|commutative]].
+# &lt;math&gt;\forall x, y, z \in \mathbf{N} \ ( (x \cdot y) \cdot z = x \cdot (y \cdot z) )&lt;/math&gt;, i.e., multiplication is associative.
+# &lt;math&gt;\forall x, y \in \mathbf{N} \ ( x \cdot y = y \cdot x )&lt;/math&gt;, i.e., multiplication is commutative.
+# &lt;math&gt;\forall x, y, z \in \mathbf{N} \ ( x \cdot (y + z) = (x \cdot y) + (x \cdot z) )&lt;/math&gt;, i.e., the [[distributive law]].
+# &lt;math&gt;\forall x \in \mathbf{N} \ ( x + 0 = x \and x \cdot 0 = 0 )&lt;/math&gt;, i.e., zero is the identity element for addition.
+# &lt;math&gt;\forall x \in \mathbf{N} \ ( x \cdot 1 = x )&lt;/math&gt;, i.e., one is the identity element for multiplication.
+# &lt;math&gt;\forall x, y, z \in \mathbf{N} \ ( x &lt; y \and y &lt; z \Rightarrow x &lt; z )&lt;/math&gt;, i.e., the '&amp;lt;' operator is [[Transitive relation|transitive]].
+# &lt;math&gt;\forall x \in \mathbf{N} \ ( \neg (x &lt; x) )&lt;/math&gt;, i.e., the '&amp;lt;' operator is [[Reflexive relation|irreflexive]].
+# &lt;math&gt;\forall x, y \in \mathbf{N} \ ( x &lt; y \or x = y \or y &lt; x )&lt;/math&gt;.
+# &lt;math&gt;\forall x, y, z \in \mathbf{N} \ ( x &lt; y \Rightarrow x + z &lt; y + z )&lt;/math&gt;.
+# &lt;math&gt;\forall x, y, z \in \mathbf{N} \ ( 0 &lt; z \and x &lt; y \Rightarrow x \cdot z &lt; y \cdot z )&lt;/math&gt;.
+# &lt;math&gt;\forall x, y \in \mathbf{N} \ ( x &lt; y \Rightarrow \exists z \in \mathbf{N} \ ( x + z = y ) )&lt;/math&gt;.
+# &lt;math&gt;0 &lt; 1 \and \forall x \in \mathbf{N} \ ( x &gt; 0 \Rightarrow x \geq 1 )&lt;/math&gt;.
+# &lt;math&gt;\forall x \in \mathbf{N} \ ( x \geq 0 )&lt;/math&gt;.
+
+The theory defined by these axioms is known as '''PA&lt;sup&gt;−&lt;/sup&gt;'''; PA is obtained by adding the first-order induction schema.
+
+An important property of PA&lt;sup&gt;−&lt;/sup&gt; is that any structure ''M'' satisfying this theory has an initial segment (ordered by ≤) isomorphic to '''N'''. Elements of {{nowrap|''M'' \ '''N'''}} are known as '''nonstandard''' elements.
+
+== Models ==
+
+A [[model theory|model]] of the Peano axioms is a triple {{nowrap|('''N''', 0, ''S'')}}, where '''N''' is a (necessarily infinite) set, {{nowrap|0 ∈ '''N'''}} and {{nowrap|''S'' : '''N''' → '''N'''}} satisfies the axioms above. [[Richard Dedekind|Dedekind]] proved in his 1888 book, ''The Nature and Meaning of Numbers'' ({{lang-de|Was sind und was sollen die Zahlen?}}, i.e., “What are the numbers and what should they be?”) that any two models of the Peano axioms (including the second-order induction axiom) are [[isomorphism|isomorphic]]. In particular, given two models {{nowrap|('''N'''&lt;sub&gt;''A''&lt;/sub&gt;, 0&lt;sub&gt;''A''&lt;/sub&gt;, ''S''&lt;sub&gt;''A''&lt;/sub&gt;)}} and {{nowrap|('''N'''&lt;sub&gt;''B''&lt;/sub&gt;, 0&lt;sub&gt;''B''&lt;/sub&gt;, ''S''&lt;sub&gt;''B''&lt;/sub&gt;)}} of the Peano axioms, there is a unique [[homomorphism]] {{nowrap|''f'' : '''N'''&lt;sub&gt;''A''&lt;/sub&gt; → '''N'''&lt;sub&gt;''B''&lt;/sub&gt;}} satisfying
+
+: &lt;math&gt;\begin{align}
+
+f(0_A) &amp;= 0_B \\
+f(S_A (n)) &amp;= S_B (f (n))
+\end{align}&lt;/math&gt;
+and it is a [[bijective function|bijection]]. This means that the second-order Peano axioms are [[Morley's categoricity theorem|categorical]]. This is not the case with any first-order reformulation of the Peano axioms, however.
+
+=== Nonstandard models ===
+
+Although the usual [[natural number]]s satisfy the axioms of PA, there are other '''[[non-standard model]]s''' as well; the [[compactness theorem]] implies that the existence of nonstandard elements cannot be excluded in first-order logic. The upward [[Löwenheim–Skolem theorem]] shows that there are nonstandard models of PA of all infinite cardinalities. This is not the case for the original (second-order) Peano axioms, which have only one model, up to isomorphism. This illustrates one way the first-order system PA is weaker than the second-order Peano axioms.
+
+When interpreted as a proof within a first-order [[set theory]], such as [[Zermelo–Fraenkel set theory|ZFC]], Dedekind's categoricity proof for PA shows that each model of set theory has a unique model of the Peano axioms, up to isomorphism, that embeds as an initial segment of all other models of PA contained within that model of set theory. In the standard model of set theory, this smallest model of PA is the standard model of PA; however, in a nonstandard model of set theory, it may be a nonstandard model of PA. This situation cannot be avoided with any first-order formalization of set theory.
+
+It is natural to ask whether a countable nonstandard model can be explicitly constructed. The answer is affirmative as [[Skolem]] in 1933 provided an explicit  construction of such a nonstandard model.  On the other hand, [[Tennenbaum's theorem]], proved in 1959, shows that there is no countable nonstandard model of PA in which either the addition or multiplication operation is [[computable function|computable]].&lt;ref&gt;{{harvnb|Kaye|1991|loc=Section 11.3}}&lt;/ref&gt; This result shows it is difficult to be completely explicit in describing the addition and multiplication operations of a countable nonstandard model of PA. However, there is only one possible [[order type]] of a countable nonstandard model. Letting ''ω'' be the order type of the natural numbers, ''ζ'' be the order type of the integers, and ''η'' be the order type of the rationals, the order type of any countable nonstandard model of PA is {{nowrap|''ω'' + ''ζ''·''η''}}, which can be visualized as a copy of the natural numbers followed by a dense linear ordering of copies of the integers.
+
+=== Set-theoretic models ===
+{{Main|Set-theoretic definition of natural numbers}}
+The Peano axioms can be derived from [[set theory|set theoretic]] constructions of the [[natural number]]s and axioms of set theory such as the [[Zermelo–Fraenkel set theory|ZF]].&lt;ref&gt;{{harvnb|Suppes|1960}}, {{harvnb|Hatcher|1982}}&lt;/ref&gt; The standard construction of the naturals, due to [[John von Neumann]], starts from a definition of 0 as the empty set, ∅, and an operator ''s'' on sets defined as:
+
+: ''s''(''a'') = ''a'' ∪ { ''a'' }.
+
+The set of natural numbers '''N''' is defined as the intersection of all sets [[closure (mathematics)|closed]] under ''s'' that contain the empty set. Each natural number is equal (as a set) to the set of natural numbers less than it:
+
+: &lt;math&gt;\begin{align}
+
+0 &amp;= \emptyset \\
+1 &amp;= s(0) = s(\emptyset) = \emptyset \cup \{ \emptyset \} = \{ \emptyset \} = \{ 0 \} \\
+2 &amp;= s(1) = s(\{ 0 \}) = \{ 0 \} \cup \{ \{ 0 \} \} = \{ 0 , \{ 0 \} \} = \{ 0, 1 \} \\
+3 &amp;= s(2) = s(\{ 0, 1 \}) = \{ 0, 1 \} \cup \{ \{ 0, 1 \} \} = \{ 0, 1, \{ 0, 1 \} \} = \{ 0, 1, 2 \}
+\end{align}&lt;/math&gt;
+and so on. The set '''N''' together with 0 and the [[successor function]] {{nowrap|''s'' : '''N''' → '''N'''}} satisfies the Peano axioms.
+
+Peano arithmetic is [[equiconsistent]] with several weak systems of set theory.&lt;ref&gt;{{harvnb|Tarski|Givant|1987|loc=Section 7.6}}&lt;/ref&gt; One such system is ZFC with the [[axiom of infinity]] replaced by its negation. Another such system consists of [[general set theory]] ([[Axiom of extensionality|extensionality]], existence of the [[empty set]], and the [[general set theory|axiom of adjunction]]), augmented by an axiom schema stating that a property that holds for the empty set and holds of an adjunction whenever it holds of the adjunct must hold for all sets.
+
+=== Interpretation in category theory ===
+
+The Peano axioms can also be understood using [[category theory]]. Let ''C'' be a [[category (mathematics)|category]] with [[terminal object]] 1&lt;sub&gt;''C''&lt;/sub&gt;, and define the category of [[pointed unary system]]s, US&lt;sub&gt;1&lt;/sub&gt;(''C'') as follows:
+
+* The objects of US&lt;sub&gt;1&lt;/sub&gt;(''C'') are triples {{nowrap|(''X'', 0&lt;sub&gt;''X''&lt;/sub&gt;, ''S''&lt;sub&gt;''X''&lt;/sub&gt;)}} where ''X'' is an object of ''C'', and {{nowrap|0&lt;sub&gt;''X''&lt;/sub&gt; : 1&lt;sub&gt;''C''&lt;/sub&gt; → ''X''}} and {{nowrap|''S''&lt;sub&gt;''X''&lt;/sub&gt; : ''X'' → ''X''}} are ''C''-morphisms.
+* A morphism ''φ'' : (''X'', 0&lt;sub&gt;''X''&lt;/sub&gt;, ''S''&lt;sub&gt;''X''&lt;/sub&gt;) → (''Y'', 0&lt;sub&gt;''Y''&lt;/sub&gt;, ''S''&lt;sub&gt;''Y''&lt;/sub&gt;) is a ''C''-morphism {{nowrap|''φ'' : ''X'' → ''Y''}} with {{nowrap|1=''φ'' 0&lt;sub&gt;''X''&lt;/sub&gt; = 0&lt;sub&gt;''Y''&lt;/sub&gt;}} and {{nowrap|1=''φ'' ''S''&lt;sub&gt;''X''&lt;/sub&gt; = ''S''&lt;sub&gt;''Y''&lt;/sub&gt; ''φ''}}.
+
+Then ''C'' is said to satisfy the Dedekind–Peano axioms if US&lt;sub&gt;1&lt;/sub&gt;(''C'') has an initial object; this initial object is known as a [[natural number object]] in ''C''. If {{nowrap|('''N''', 0, ''S'')}} is this initial object, and {{nowrap|(''X'', 0&lt;sub&gt;''X''&lt;/sub&gt;, ''S''&lt;sub&gt;''X''&lt;/sub&gt;)}} is any other object, then the unique map {{nowrap|''u'' : ('''N''', 0, ''S'') → (''X'', 0&lt;sub&gt;''X''&lt;/sub&gt;, ''S''&lt;sub&gt;''X''&lt;/sub&gt;)}} is such that
+
+: &lt;math&gt;\begin{align}
+
+u 0 &amp;= 0_X, \\
+u (S x) &amp;= S_X (u x).
+\end{align}&lt;/math&gt;
+This is precisely the recursive definition of 0&lt;sub&gt;''X''&lt;/sub&gt; and ''S''&lt;sub&gt;''X''&lt;/sub&gt;.
+
+== Consistency ==
+{{Further|Hilbert's second problem|Consistency}}
+
+When the Peano axioms were first proposed, [[Bertrand Russell]] and others agreed that these axioms implicitly defined what we mean by a &quot;natural number&quot;.&lt;ref&gt;{{harvnb|Fritz|1952|loc=[https://books.google.ca/books?id=Yl_XAwAAQBAJ&amp;pg=PA137, p. 137]}}&lt;br&gt;An illustration of 'interpretation' is Russell's own definition of 'cardinal number'. The uninterpreted system in this case is Peano's axioms for the number system, whose three primitive ideas and five axioms, Peano believed, were sufficient to enable one to derive all the properties of the system of natural numbers. Actually, Russell maintains, Peano's axioms define any progression of the form &lt;math&gt;x_0,x_1,x_2,\ldots,x_n,\ldots&lt;/math&gt; of which the series of the natural numbers is one instance.&lt;/ref&gt; [[Henri Poincaré]] was more cautious, saying they only defined natural numbers if they were ''consistent''; if there is a proof that starts from just these axioms and derives a contradiction such as 0 = 1, then the axioms are inconsistent, and don't define anything.&lt;ref&gt;{{harvnb|Gray|2013|loc=[https://books.google.ca/books?id=w2Tya9gOKqEC&amp;pg=PA133 p. 133]}}&lt;br&gt;So Poincaré turned to see whether logicism could generate arithmetic, more precisely, the arithmetic of ordinals. Couturat, said Poincaré, had accepted the Peano axioms as a definition of a number. But this will not do. The axioms cannot be shown to be free of contradiction by finding examples of them, and any attempt to show that they were contradiction-free by examining the totality of their implications would require the very principle of mathematical induction Couturat believed they implied. For (in a further passage dropped from S&amp;M) either one assumed the principle in order to prove it, which would only prove that if it is true it is not self-contradictory, which says nothing; or one used the principle in another form than the one stated, in which case one must show that the number of steps in one's reasoning was an integer according to the new definition, but this could not be done (1905c, 834).&lt;/ref&gt; In 1900, [[David Hilbert]] posed the problem of proving their consistency using only [[Finitism|finitistic]] methods as the [[Hilbert's second problem|second]] of his [[Hilbert's problems|twenty-three problems]].&lt;ref&gt;{{harvnb|Hilbert|1900}}&lt;/ref&gt; In 1931, [[Kurt Gödel]] proved his [[second incompleteness theorem]], which shows that such a consistency proof cannot be formalized within Peano arithmetic itself.&lt;ref&gt;{{harvnb|Gödel|1931}}&lt;/ref&gt;
+
+Although it is widely claimed that Gödel's theorem rules out the possibility of a finitistic consistency proof for Peano arithmetic, this depends on exactly what one means by a finitistic proof. Gödel himself pointed out the possibility of giving a finitistic consistency proof of Peano arithmetic or stronger systems by using finitistic methods that are not formalizable in Peano arithmetic, and in 1958, Gödel published a method for proving the consistency of arithmetic using [[type theory]].&lt;ref&gt;{{harvnb|Gödel|1958}}&lt;/ref&gt; In 1936, [[Gerhard Gentzen]] gave a proof of the consistency of Peano's axioms, using [[transfinite induction]] up to an ordinal called [[epsilon zero|ε&lt;sub&gt;0&lt;/sub&gt;]].&lt;ref&gt;{{harvnb|Gentzen|1936}}&lt;/ref&gt; Gentzen explained: &quot;The aim of the present paper is to prove the consistency of elementary number theory or, rather, to reduce the question of consistency to certain fundamental principles&quot;. Gentzen's proof is arguably finitistic, since the transfinite ordinal ε&lt;sub&gt;0&lt;/sub&gt; can be encoded in terms of finite objects (for example, as a [[Turing machine]] describing a suitable order on the integers, or more abstractly as consisting of the finite trees, suitably linearly ordered). Whether or not Gentzen's proof meets the requirements Hilbert envisioned is unclear: there is no generally accepted definition of exactly what is meant by a finitistic proof, and Hilbert himself never gave a precise definition.
+
+The vast majority of contemporary mathematicians believe that Peano's axioms are consistent, relying either on intuition or the acceptance of a consistency proof such as [[Gentzen's consistency proof|Gentzen's proof]]. The small number of mathematicians who advocate [[ultrafinitism]] reject Peano's axioms because the axioms require an infinite set of natural numbers.
+
+== See also ==
+{{Portal|Logic|Mathematics}}
+
+* [[Foundations of mathematics]]
+* [[Frege's theorem]]
+* [[Goodstein's theorem]]
+* [[Non-standard model of arithmetic]]
+* [[Paris–Harrington theorem]]
+* [[Presburger arithmetic]]
+* [[Robinson arithmetic]]
+* [[Second-order arithmetic]]
+
+== Footnotes ==
+{{reflist|2}}
+
+== References ==
+* {{cite book|last=Davis|first=Martin|author-link1=Martin Davis|title=Computability. Notes by Barry Jacobs. |year=1974| publisher=[[Courant Institute of Mathematical Sciences]], [[New York University]]}}
+* {{cite book|last=Dedekind|first=Richard|authorlink=Richard Dedekind|title=Was sind und was sollen die Zahlen? |trans-title=What are and what should the numbers be?| year=1888| publisher=Vieweg| url=http://digisrv-1.biblio.etc.tu-bs.de:8080/docportal/servlets/MCRFileNodeServlet/DocPortal_derivate_00005731/V.C.125.pdf|accessdate=4 July 2016}}. 
+** Two English translations:
+*** {{cite book|last=Beman|first=Wooster, Woodruff|year=1901|title=Essays on the Theory of Numbers|publisher=[[Dover]]|url=http://www.gutenberg.org/files/21016/21016-pdf.pdf}}
+*** {{cite book|last=Ewald|first=William B.| title=From Kant to Hilbert: A Source Book in the Foundations of Mathematics, 2 vols|url=https://books.google.ca/books?id=Nt_uAAAAMAAJ|publisher=[[Oxford University Press]]|pages=787–832}}
+* {{cite book|last1=Fritz Jr|first1=Charles A.|year=1952|title=Bertrand Russell's construction of the external world|ref=harv}}
+* {{cite journal|last=Gentzen|first=Gerhard|author-link=Gerhard Gentzen|year=1936|title=Die Widerspruchsfreiheit der reinen Zahlentheorie|journal=[[Mathematische Annalen]]|volume=112|pages=132–213|others=Reprinted in English translation in his 1969 ''Collected works'', M. E. Szabo, ed.| publisher=[[Elsevier|Amsterdam: North-Holland]]|ref=harv}}
+* {{cite journal|last=Gödel|first=Kurt|author-link=Kurt Gödel| title=Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme, I| journal=Monatshefte für Mathematik| year=1931| volume=38| pages=173–198| url=http://www.w-k-essler.de/pdfs/goedel.pdf| doi=10.1007/bf01700692|others=See [[On Formally Undecidable Propositions of Principia Mathematica and Related Systems]] for details on English translations.|ref=harv}}
+* {{cite journal|last=Gödel|first=Kurt|author-link=Kurt Gödel|year=1958|title=Über eine bisher noch nicht benützte Erweiterung des finiten Standpunktes|journal=[[Dialectica]]|volume=12|pages=280–287|others=Reprinted in English translation in 1990. Gödel's ''Collected Works'', Vol II. [[Solomon Feferman]] et al., eds.|publisher=[[Oxford University Press]]|ref=harv|doi=10.1111/j.1746-8361.1958.tb01464.x}}
+* {{cite journal|last=Grassmann|first=Hermann|author-link=Hermann Grassmann| title=Lehrbuch der Arithmetik |trans-title=A tutorial in arithmetic| year=1861| publisher=Enslin| url=http://www.uni-potsdam.de/u/philosophie/grassmann/Werke/Hermann/Lehrbuch_der_Arithmetik_1861.pdf|ref=harv}}
+* {{cite book|last=Gray|first=Jeremy|author-link=Jeremy Gray|title=Henri Poincaré: A scientific biography|page=133|year=2013|publisher=[[Princeton University Press]]|ref=harv}}
+* {{cite journal |first=John C. |last=Harsanyi|authorlink=John C. Harsanyi |year=1983 |title=Mathematics, the empirical facts and logical necessity |journal=Erkenntniss |volume=19 |pages=167 ff.|ref=harv}}
+* {{cite book|last=Hatcher|first=William S.|year=1982|title=The Logical Foundations of Mathematics|publisher=[[Pergamon Press|Pergamon]]|others=Derives the Peano axioms (called '''S''') from several [[axiomatic set theories]] and from [[category theory]].}}
+* {{cite journal|last=Hilbert|first=David|year=1902|title=Mathematische Probleme|trans-title=Mathematical Problems|journal=Bulletin of the American Mathematical Society|volume=8|pages=437–479|url=http://www.ams.org/journals/bull/1902-08-10/S0002-9904-1902-00923-3/home.html|others=English translation by Maby Winton, 1902|ref=harv}}
+* {{cite book|last=Kaye|first=Richard|year=1991|title=Models of Peano arithmetic|publisher=[[Oxford University Press]]|isbn=0-19-853213-X}}
+&lt;!-- * [[Charles Sanders Peirce|Peirce, C.&amp;nbsp;S.]] (1881), &quot;On the Logic of Number&quot;, ''American Journal of Mathematics'' v.&amp;nbsp;4, pp. [http://books.google.com/books?id=LQgPAAAAIAAJ&amp;jtp=85 85-95]. Reprinted (CP&amp;nbsp;3.252-88), (W&amp;nbsp;4:299-309). --&gt;
+* {{cite book|last=Landau|first=Edmund|author-link=Edmund Landau|year=1965|title=Grundlagen Der Analysis| publisher=[[American Mathematical Society|AMS Chelsea Publishing]]|others=Derives the basic number systems from the Peano axioms. English/German vocabulary included.| isbn=978-0-8284-0141-8}}
+* {{cite book|last=Mendelson|first=Elliott|year=1997|title=Introduction to Mathematical Logic|edition=4|publisher=[[Chapman &amp; Hall]]|ref=harv}}
+* {{cite book |first1=Barbara |last1=Partee |first2=Alice |last2=Ter Meulen |first3=Robert |last3=Wall |title=Mathematical Methods in Linguistics |publisher=Springer |year=2012|ref=harv}}
+* {{cite journal|last=Peirce|first=C.&amp;nbsp;S.|authorlink=Charles Sanders Peirce|title=On the Logic of Number |url=https://archive.org/details/jstor-2369151|journal=American Journal of Mathematics|volume=4|year=1881|pages=85–95|doi=10.2307/2369151|mr=1507856 |jstor=2369151|ref=harv}} 
+* {{cite book|last=Shields|first=Paul|year=1997|title=Studies in the Logic of Charles Sanders Peirce|chapter=3. Peirce's Axiomatization of Arithmetic|editor1-last=Houser|editor1-first=Nathan|editor2-last=Roberts|editor2-first=Don D.|editor3-last=Van Evra|editor3-first=James|ref=harv}}
+* {{cite book|last=Suppes|first=Patrick|author-link=Patrick Suppes|year=1960| title=Axiomatic Set Theory|publisher=[[Dover]]|ISBN=0-486-61630-4|others=Derives the Peano axioms from [[ZFC]]}}
+* {{cite book|last1=Tarski|first1=Alfred|author-link1=Alfred Tarski|last2=Givant|first2=Steven|year=1987|title=A Formalization of Set Theory without Variables|volume=AMS Colloquium Publications, vol. 41|publisher=[[American Mathematical Society]]|isbn= 978-0-8218-1041-5|ref=harv}}
+* {{cite book |author-last=van Heijenoort |author-first=Jean |author-link=Jean van Heijenoort |year=1967|title=From Frege to Godel: A Source Book in Mathematical Logic, 1879–1931|publisher=Harvard University Press |location=Cambridge, Mass |isbn=9780674324497|ref=harv}} 
+** Contains translations of the following two papers, with valuable commentary:
+*** {{cite book|last=Dedekind|first=Richard|authorlink=Richard Dedekind|year=1890|title=Letter to Keferstein.|pages=98–103|others= On p.&amp;nbsp;100, he restates and defends his axioms of 1888.}}
+*** {{cite book|last=Peano|first=Giuseppe|author-link=Giuseppe Peano|year=1889|title=Arithmetices principia, nova methodo exposita|trans-title=The principles of arithmetic, presented by a new method|pages=83–97|url=https://archive.org/details/arithmeticespri00peangoog|others= An excerpt of the treatise where Peano first presented his axioms, and recursively defined arithmetical operations.|ref=harv}}
+
+== Further reading ==
+* {{cite book|author=Raymond M. Smullyan|authorlink=Raymond M. Smullyan|title=The Godelian Puzzle Book: Puzzles, Paradoxes and Proofs|url=http://books.google.com/books?id=xUapAAAAQBAJ|date=19 September 2013|publisher=Courier Corporation|isbn=978-0-486-49705-1}}
+
+== External links ==
+
+* [[Internet Encyclopedia of Philosophy]]: &quot;[http://www.utm.edu/research/iep/p/poincare.htm Henri Poincaré]&quot; by Mauro Murzi. Includes a discussion of Poincaré's critique of the Peano's axioms.
+* [http://www.ltn.lv/~podnieks/gt3.html First-order arithmetic], a chapter of a book on the [[incompleteness theorem]]s by Karl Podnieks.
+* {{springer|title=Peano axioms|id=p/p071880}}
+* {{planetmath reference|id=2789|title=Peano arithmetic}}
+* {{MathWorld | urlname=PeanosAxioms | title=Peano's Axioms}}
+* [http://www.math.uwaterloo.ca/~snburris/htdocs/scav/dedek/dedek.html What are numbers, and what is their meaning?: Dedekind] commentary on Dedekind's work, Stanley N. Burris, 2001.
+
+{{PlanetMath attribution|id=3301|title=PA}}
+
+[[Category:1889 introductions]]
+[[Category:Mathematical axioms]]
+[[Category:Formal theories of arithmetic]]
+[[Category:Logic in computer science]]
+[[Category:Mathematical logic]]
+
+[[hu:Giuseppe Peano#A természetes számok Peano-axiómái]]</text>
+      <sha1>8u81bekvma9yh6nzh4va40q165n50gb</sha1>
+    </revision>
+  </page>
+</mediawiki>

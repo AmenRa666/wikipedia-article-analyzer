@@ -1,0 +1,265 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Cornell Plantations</title>
+    <ns>0</ns>
+    <id>3666534</id>
+    <revision>
+      <id>745962244</id>
+      <parentid>740271810</parentid>
+      <timestamp>2016-10-24T12:41:34Z</timestamp>
+      <contributor>
+        <username>BinaryPhoton</username>
+        <id>16831749</id>
+      </contributor>
+      <comment>added reference to the naming of Cornell Plantations</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="45603">{{good article}}{{infobox
+|above=Cornell Plantations
+|image=[[File:Cornell Arboretum.jpg|255px|alt=F.R. Newman Arboretum]]
+|caption=F. R. Newman Arboretum in the Plantations
+|label1=Location
+|data1=[[Ithaca, New York]], United States
+|label2=Area
+|data2={{convert|4300|acre|ha}}
+|label3=Established
+|data3=1875
+}}
+The '''Cornell Plantations''' is a [[botanical garden]] located adjacent to the [[Cornell University]] campus in [[Ithaca, New York]].  The Plantations proper consist of {{convert|25|acre|ha}} of botanical gardens and {{convert|150|acre|ha}} of the '''F.R. Newman Arboretum'''. The greater Plantations includes 40 different nature areas around Cornell and Ithaca, covering {{convert|4300|acre|ha}}.
+
+The origin of the Plantations dates back to Cornell's beginning in the mid-19th century and are part of the university's longtime interest in agriculture, forestry, and the natural sciences.  The Plantations saw a major planting effort during the 1930s and assumed their present name in 1944.  Gardens and facilities have continually expanded, including a construction program at the start of the 21st century.  The Plantations also maintains four gardens on Cornell's central campus.  The Plantations offers three courses for academic credit, are used as a resource by other classes, host a number of informal lectures and tours, and have played a part in many scholarly papers. {{As of|2009}}, the Plantations had a $2.9 million annual operating budget.
+
+The botanical gardens at the Plantations specialize in trees and shrubs native to New York State.  The themed herb garden is especially noted.  The Plantations have been the subject of several books and films over the years, are open daily without charge, and have been recommended as a visitation site by a number of travel books and newspaper travel sections.
+
+==History==
+[[File:Cornell Plantations lake.jpg|thumb|right|One of the ponds at Cornell Plantations]]
+Prior to the founding of Cornell University, [[Ezra Cornell]] had a large farm on the East Hill above Ithaca, New York.  As part of locating New York State's [[land-grant university|land-grant college]] in Ithaca, Cornell offered to donate the farm for use as a campus.  In 1862, Cornell's first president, [[Andrew Dickson White]], wrote a colleague that a great university should include a botanical garden: “It must have the best of Libraries – collections in different departments – Laboratory – Observatory – Botanical Garden perhaps…”&lt;ref name=p&gt;{{cite web|url=http://www.cornellplantations.org/about/name|title=What is in a name?|publisher=Cornell University|accessdate=2010-11-08}}&lt;/ref&gt;   At the university's opening ceremony in 1868, [[Louis Agassiz]], an internationally-known naturalist, remarked that no other area could compete with Cornell's surroundings in the opportunities offered for the study of natural history. From its inception, Cornell formed a reputation for creative means of research into the natural sciences, including the establishment of the pioneering [[Cornell University College of Agriculture and Life Sciences|College of Agriculture]].&lt;ref name=&quot;ngg&quot;/&gt;
+
+When the university built its first women's dormitory in 1875, it included a conservatory for growing plants and a specimen tree collection.&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/about/history|title=Planations History|publisher=Cornell University|accessdate=2010-11-08}}&lt;/ref&gt; Separately, the [[Cornell University College of Veterinary Medicine|College of Veterinary Medicine]] started a specialized garden of plants that are poisonous to livestock. Cornell's farm included two deep gorges which flanked both sides of the early campus, and as the campus developed the gorges remained undeveloped and filled with native plants and wildlife.  These became the start of the on-campus gardens and arboretum.  A goal of creating an explicit arboretum was proposed in various university reports to trustees and other publications in 1877, 1883, 1908, and 1914.&lt;ref name=&quot;bishop&quot;&gt;{{cite book | title=A History of Cornell | first=Morris | last=Bishop | authorlink=Morris Bishop | publisher=[[Cornell University Press]] | location=Ithaca, New York | year=1962 | isbn=0-8014-0036-8 | pages=453–454}}&lt;/ref&gt;
+
+[[Image:Houston Pond of F. R. Newman Arboretrum.jpg|thumb|right|Houston Pond at the Arboretum; nearby is a site for events]]
+Cornell's acquisition of off-campus forest land dates to 1898 and the founding of the [[New York State College of Forestry at Cornell|New York State College of Forestry]], which was the first forestry college in North America.&lt;ref name=dnr&gt;{{cite web|url=http://www.dnr.cornell.edu/mission/history/|accessdate=2009-09-05|title=Department History  by R.T. Ogelsby (Emeritus), and H.B. Brumsted (Emeritus)|publisher=Cornell University|archiveurl=https://web.archive.org/web/20071007112429/http://www.dnr.cornell.edu/mission/history/|archivedate=2007-10-07}}&lt;/ref&gt;  As a part of establishing that school, Cornell acquired a demonstration forest near Saranac Lake in the Adirondack Mountains.  The harvesting of trees from that forest drew heated opposition from neighboring land owners.&lt;ref&gt;{{cite book |url=https://books.google.com/books?id=0L8LAAAAYAAJ|title=A History of the Adirondacks, Volume II|first=Alfred Lee|last=Donaldson|pages=[https://books.google.com/books?id=0L8LAAAAYAAJ&amp;pg=PA203&amp;lpg=PA203 202–207]|publisher=[[The Century Company]]|location=New York|year=1921}}&lt;/ref&gt; Although political opposition caused Cornell to transfer the forest lands under the &quot;forever wild&quot; protection of the Adirondack Forest Preserve and to transfer Cornell's forestry education programs to its College of Agriculture, Cornell continued to acquire forest land remote from its main campus.  In 1935, the decision to create an arboretum was finally made&lt;ref name=&quot;bishop&quot;/&gt; and the university established the Arboretum as a separate department. From 1935 to 1940, the federal government's [[Civilian Conservation Corps]] Camp  SP 48 devoted 170 to 200 workers to planting trees, constructing dikes, and building trails in order to develop the Arboretum.&lt;ref name=&quot;bishop&quot;/&gt;&lt;ref&gt;{{cite news|url=http://cdsun.library.cornell.edu/cgi-bin/newscornell?a=d&amp;d=CDS19401107.1.5&amp;e=--------20--1----Arboretum-all|title=CCC Camp SP 48 Carries on Work for Arboretum|newspaper=The Cornell Daily Sun|volume=61|number=40|date=November 7, 1940|page=5|accessdate=2011-01-13}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://cdsun.library.cornell.edu/cgi-bin/newscornell?a=d&amp;srpos=17&amp;cl=search&amp;d=CDS19400306.2.3.3&amp;e=--------20--1----Arboretum-all|title=Mayor Campbell Protests Against Abandoning CCC|newspaper=The Cornell Daily Sun|volume=60|number=115|date=March 6, 1940|page=3|accessdate=2011-01-13}}&lt;/ref&gt;
+
+In 1944, [[Liberty Hyde Bailey]], the Dean emeritus of the College of Agriculture and a horticulturalist highly regarded around the world,&lt;ref name=&quot;ngg&quot;/&gt; proposed the present name &quot;Cornell Plantations&quot; for an expanded department in a report that reflected the work of a number of  botany and horticulture professors.&lt;ref name=p/&gt;&lt;ref name=&quot;wgy&quot;/&gt;&lt;ref&gt;{{cite news|last1=Stone|first1=William|title=Liberty's Plantations|url=http://cornellsun.com/2016/09/08/letter-to-the-editor-libertys-plantations/|accessdate=October 24, 2016|agency=The Cornell Daily Sun (September 8, 2016)}}&lt;/ref&gt; By 1948, the Plantations numbered {{convert|1000|acre|ha}} and the first Director was named, John F. Cornman.&lt;ref&gt;{{cite news | url=http://query.nytimes.com/mem/archive/pdf?res=F50A14F73954177A93C5A81782D85F4C8485F9 | title=Heads Cornell Plantations | agency=[[Associated Press]] | newspaper=The New York Times | date=September 17, 1948}}&lt;/ref&gt;  During a 1949 broadcast on widely heard radio station [[WGY (AM)|WGY]], Cornell emeritus professor [[Bristow Adams]] reflected upon the now five-year-old Plantations, and stated that the relationship between humans and things that grow were of utmost importance and that gardens, forests, and parks were everlasting collections that &quot;have the care and trusteeships of generation after generation.&quot;&lt;ref name=&quot;wgy&quot;&gt;{{cite news | url=https://news.google.com/newspapers?id=FxkqAAAAIBAJ&amp;sjid=koUFAAAAIBAJ&amp;pg=733,4271014&amp;dq=cornell-plantations&amp;hl=en | title=Forum Hears of Vital Role of Floral Parks | newspaper=[[Schenectady Gazette]] | date=October 29, 1949 | page=16}}&lt;/ref&gt;
+
+In the mid-1960s, the sculpture garden was constructed in the middle of the Arboretum as a project of the College of Architecture Art and Planning.  By 1965, the Plantations consisted of {{convert|1500|acre|ha}}.&lt;ref name=&quot;nyt-1965&quot;&gt;{{cite news | url=http://query.nytimes.com/mem/archive/pdf?res=FB0F10FE3C5A157A93C7AB178CD85F418685F9 | title=Tourist Time High Above Cayuga's Waters | author=O'Connor, Lois | newspaper=The New York Times | date=July 25, 1965}}&lt;/ref&gt;  By 1970, the university was issuing a publication called ''The Cornell Plantations'', which contained general articles on nature and environmental topics.&lt;ref&gt;{{cite news | url=http://pqasb.pqarchiver.com/baltsun/access/1796147032.html?FMT=ABS&amp;FMTS=ABS:AI | title=Recycling | newspaper=[[The Baltimore Sun]] | date=August 28, 1970 | page=A14 }}&lt;/ref&gt;&lt;ref&gt;{{cite news | url=https://news.google.com/newspapers?id=HDwgAAAAIBAJ&amp;sjid=I2YEAAAAIBAJ&amp;pg=3104,1359545&amp;dq=cornell-plantations&amp;hl=en | title=Close Look At A Forest Floor | author=Fritts, Bill | newspaper=[[Sarasota Herald-Tribune]] | date=September 6, 1970}}&lt;/ref&gt;
+Beginning in the early 1970s, the Arboretum was upgraded with new roads and plantings funded by major gifts from oil industry figure Floyd R. Newman, and in 1982 the Arboretum was formally named in his honor&lt;ref name=&quot;cp-frna&quot;&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/arboretum|title=F.R. Newman Arboretum|publisher=Cornell University|accessdate=2011-03-20}}&lt;/ref&gt; (as were several other buildings and facilities at Cornell over the years).&lt;ref&gt;{{cite news | url=http://www.nytimes.com/1990/10/18/obituaries/floyd-newman-99-oil-chief-who-gave-millions-to-cornell.html | title=Floyd Newman, 99, Oil Chief Who Gave Millions to Cornell | author=Narvaez, Alfonso A. | newspaper=The New York Times | date=October 18, 1990}}&lt;/ref&gt;
+
+During the 1980s, the Plantations experienced people stealing pines and firs for [[Christmas tree]]s, with in some cases trees being taken that were worth several thousand dollars.&lt;ref name=&quot;schgaz-thefts&quot;&gt;{{cite news | url=https://news.google.com/newspapers?id=rRUhAAAAIBAJ&amp;sjid=bHIFAAAAIBAJ&amp;pg=2645,2376121&amp;dq=cornell+plantations&amp;hl=en | title= Home, Garden Guide and Your Environment | author=Rood, Bill | newspaper=[[Schenectady Gazette]] | date=December 6, 1986 | page=6}}&lt;/ref&gt;  A successful countermeasure created by Gerardo Sciarra at the Plantations was covering the trees with a harmless yet visually unpleasant &quot;Ugly Mix&quot; spray that included hydrated limestone, an anti-desiccant, and water.&lt;ref name=&quot;schgaz-thefts&quot;/&gt;&lt;ref name=&quot;nyt-thefts&quot;&gt;{{cite news | url=http://select.nytimes.com/gst/abstract.html?res=F2061FF9385C0C768DDDAB0994D9494D81 | title=Ingenuity Protects Trees From Thieves | author=Faust, Joan Lee | newspaper=The New York Times | date=December 15, 1991}}&lt;/ref&gt;  The technique was subsequently recommended to others worried about tree theft.&lt;ref name=&quot;nyt-thefts&quot;/&gt;&lt;ref&gt;{{cite news | url=http://www.motherearthnews.com/Organic-Gardening/1985-11-01/Seasons-of-the-Garden.aspx?page=2 | title=The Seasons of the Garden | author=Greg Williams | author2=Pat Williams | magazine=[[Mother Earth News]] | date=November–December 1985 }}&lt;/ref&gt;  In 2009, the Plantations suffered from a series of thefts of new or rare plants.&lt;ref name=&quot;weny-thefts&quot;&gt;{{cite news | url=http://www.weny.com/News-Local.asp?ARTICLE3864=9145501 | title=Plant Thefts Perplex Cornell Plantations | author=Wright, Emma | publisher=[[WENY-TV]] | date=June 12, 2009 | accessdate=2011-02-28}}&lt;/ref&gt;  A director at the Plantations, which had no security in place, said that the thieves must have been experienced horticulturalists and that the loss of research and species had been a demoralizing experience.&lt;ref name=&quot;weny-thefts&quot;/&gt;
+
+At the start of the 21st century, the Plantations embarked on a construction program which included: Arboretum Center (2000), Horticultural Center (2001), Mullestein Winter Garden (2002), Ramin Administration Building (2003), Rowley Carpenter Shop (2004), Plant Production Facility (2007), and Lewis Education Center (2008).&lt;ref name=nevin&gt;{{cite news|url=http://www.news.cornell.edu/stories/Oct10/PlantationsCtrDedication.html|title=Plantations dedicates new ultra-green welcome center|newspaper=[[Cornell Chronicle]]|date=October 29, 2010|first=Krishna |last=Ramanujan|accessdate=2010-11-08}}&lt;/ref&gt; The new $7.5 million Brian C. Nevin Welcome Center was dedicated on October 28, 2010.&lt;ref name=nevin/&gt;&lt;ref&gt;{{cite web|url=http://www.dpb.cornell.edu/documents/1000447.pdf#pagemode=bookmarks|title=2010–11 Financial Plan|page=29|publisher=Cornell University|accessdate=2010-11-08}}&lt;/ref&gt;  Five years in the designing and building, the new facility was built to [[Leadership in Energy and Environmental Design|LEED]] gold standards and won a 2010 Award of Excellence from ''[[Canadian Architect]]'' magazine.&lt;ref name=nevin/&gt;&lt;ref&gt;{{cite news | url=http://pqasb.pqarchiver.com/ithacajournal/access/2037537341.html?FMT=ABS&amp;FMTS=ABS:FT | title=New center to expand Cornell's Plantations' reach | author=Lawyer, Liz | newspaper=[[The Ithaca Journal]] | date=May 20, 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite news | url=http://www.canadianarchitect.com/issues/story.aspx?aid=1000396670 | title=2010 Canadian Architect Awards of Excellence winners announced | magazine=[[Canadian Architect]] | date=December 21, 2010 | accessdate=2011-03-12}}&lt;/ref&gt;
+
+==Current extent==
+
+===F.R. Newman Arboretum===
+[[Image:Newman Overlook panorama.jpg|thumb|right|500px|A panoramic view from Newman Overlook, one of the highest points in the arboretum and campus]]
+
+The F.R. Newman arboretum   contains the following collections on {{convert|150|acre|ha}}:&lt;ref name=&quot;cp-frna&quot;/&gt;&lt;ref name=&quot;nyt-2000&quot;/&gt;
+
+; Chestnut Collection
+:Established in 2000 with 5 transplanted, grafted [[chestnut]] trees for each of 5 cultivars. At present 4 trees remain, representing 3 of the 5 cultivars. Eventually 25 cultivars will be represented.
+; Conifer Collection 
+:Several sites with 21 [[taxa]] of [[fir]]s (excluding dwarf forms), 39 of [[pine]]s, and 25 of [[spruce]]s.
+; Flowering Crabapple Collection 
+:83 cultivars in a new collection; many trees are quite small.
+; Maple Collection 
+:One of the core collections. One site contains [[Red Maple]] (''[[Maple|Acer]] rubrum''), [[Sugar Maple]] (''Acer saccharum''), [[Silver Maple]] (''Acer saccharinum''), and [[Striped Maple]] (''Acer pensylvanicum''). Another contains an overstory of ''Acer x freemanii'' with an understory of shade-loving maples, including snakebark maples (''Acer davidii'' and ''Acer tegmentosum'') and small trees similar to the Japanese maple, such as ''Acer shirasawanum'' and ''Acer pseudosieboldianum''. A third site consists primarily of small Asian Maples.
+; Oak Collection 
+:50 [[oak]] [[taxa]] in a fairly young collection, with a goal of acquiring all species hardy in [[Hardiness zone|Zone 5]]. 
+; Urban Tree Collection 
+:Planted throughout the arboretum. 
+; Walnut Collection 
+:The oldest collection, planted in the early 1960s. 20 cultivars, representing [[Black Walnut]] (''[[Juglans]] nigra''), [[Juglans cinerea|Butternut]] (''Juglans cinerea'') and [[Heartnut]] (''Juglans ailanthifolia'').
+
+In addition, the arboretum features an extensive set of trails.&lt;ref name=&quot;ngg&quot;/&gt;
+
+===Botanical gardens===
+The botanical gardens specialize in trees and shrubs native to New York State.&lt;ref name=&quot;frommers&quot;/&gt; Overall, they contain a wide variety of ornamental, useful, and native plants on {{convert|25|acre|ha}},&lt;!-- the &quot;nyt-2000&quot; ref says 50 acres but the Plantations website says 25 ... better go with the latter --&gt;&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/botanical|title=Botanical Garden|publisher=Cornell University|accessdate=2011-03-20}}&lt;/ref&gt;  arranged into gardens as follows:
+
+;Container Gardens
+:Ornamental plants suitable for growing in containers, such as ''[[Agastache]] foeniculum'', ''[[Agave]]'', ''[[Alocasia]] esculenta'', ''[[Amaranthus]]'', ''[[Canna (plant)|Canna]] × generalis'', ''[[Celosia]]'', ''[[Coleus]]'', ''[[Colocasia]]'', ''[[Cordyline]]'', ''[[Cuphea]]'', ''[[Cycad]]'', ''[[Duranta erecta]]'', ''[[Eucalyptus cinerea]]'', ''[[Fuchsia]]'', ''[[Hibiscus]] acetosella'', ''[[Iresine]]'', ''[[Lantana camara]]'', ''[[Melianthus major]]'', ''[[Perilla frutescens]]'', ''[[Phormium tenax]]'', ''[[Salpiglossis sinuata]]'', and ''[[Solenostemon scutellarioides]]''.
+
+;Deans Garden
+:Herbaceous and woody plants, many uncommon in the Ithaca area, such as ''[[Vancouveria]] hexanra'' and ''[[Stuartia pseudocamellia]]''.
+
+;Decorative Arts Flower Garden
+:A wide variety of flowers including [[sunflower]], [[carnation]], [[rose]], [[poppy]], [[peony]], [[Iris (plant)|iris]], [[lily]], [[chrysanthemum]], [[Common Daisy|daisy]], and [[tulip]].
+
+;Flowering Shrub and Ornamental Grass Garden
+:Flowering shrubs, ornamental grasses, and perennials including [[daylily|daylillies]]. Shrubs include ''[[Hypericum]]'', ''[[Hydrangea]]'', and ''[[Potentilla]]''; grasses include  ''[[Calamagrostis]]'', ''[[Chasmanthium latifolium]]'', ''[[Festuca]]'', ''[[Miscanthus]]'', ''[[Molinia]]'', ''[[Panicum virgatum]]'',  ''[[Pennisetum alopecuroides]]'', and ''[[Saccharum ravennae]]''.
+
+;Groundcover Garden
+:Groundcovers including ''[[Asarum]]'', ''[[Athyrium]]'', ''[[Cyclamen hederifolium]]'', ''[[Dryopteris]]'', ''[[Helleborus orientalis]]'', ''[[Hosta]]'', ''[[Lysimachia]]'', ''[[Marrubium]]'', and ''[[Pachysandra]]''.
+
+[[Image:Cornell Plantations sundial.jpg|thumb|right|A sundial at the Robison Herb Garden]]
+;Robison Herb Garden
+:Opened in 1974 after 20 years of being envisioned and 2 years of construction,&lt;ref name=&quot;nyt-1974&quot;&gt;{{cite news | url=http://query.nytimes.com/mem/archive/pdf?res=F2061FFF3A5C1A7A93C6A8178CD85F408785F9 | title=A New Taste and Tell 'Library' for Herbs | newspaper=The New York Times | date=July 17, 1974}}&lt;/ref&gt; it consists of 17 raised beds of herbs, arranged by theme&lt;ref name=&quot;frommers&quot;/&gt; as follows:  Ornamental Herbs; Herbs of the Ancients; Herbs in Literature; Bee Herbs; Salads and Potherbs; Edible flowers; Herbs of the Native Americans; Medicinal Herbs; Culinary Herbs; Economic Herbs; Dye Herbs; Tea Herbs; Fragrant Herbs; Sacred Herbs; Scented Geraniums; Savory Seed Herbs; and Tussie-Mussies and Nosegays.  The sources to begin the garden came from around the world, with some species linked to cultures from antiquity.&lt;ref name=&quot;nyt-1974&quot;/&gt;  More than 500 plants are included.&lt;ref name=&quot;buffnews&quot;/&gt;  The design inspired plans for a similar herb garden in [[New London, Connecticut]] in 1980.&lt;ref&gt;{{cite news | url= https://news.google.com/newspapers?id=XRMiAAAAIBAJ&amp;sjid=NXUFAAAAIBAJ&amp;pg=1376,262386&amp;dq=cornell-plantations&amp;hl=en | title=Gardeners' party to aid proposed herb garden | newspaper=[[The Day (New London)|The Day]] | location=New London | date=April 2, 1980 | page=16}}&lt;/ref&gt;
+
+;Heritage Vegetable Garden
+:Four beds, representing typical [[vegetable]]s grown in the [[northeastern United States]] in the 18th century, the late 19th century, [[World War I|World Wars I]] and [[World War II|II]], and today's gardens.  Such gardens are not common.&lt;ref name=&quot;ngg&quot;/&gt;  The gardener in charge of it has been mentioned in newspaper columns as an expert in growing tomatoes.&lt;ref&gt;{{cite news | url=https://news.google.com/newspapers?id=rcBKAAAAIBAJ&amp;sjid=k-kMAAAAIBAJ&amp;pg=960,3255988&amp;dq=cornell-plantations&amp;hl=en | title=Clipping foliage, covering plants can speed tomato ripening | author=Walsh, Natalie | newspaper=[[The Daily Gazette]] | location=Schenectady | date=September 14, 2000 | page=D2}}&lt;/ref&gt;
+
+;International Crop and Weed Garden
+:Crop plants and economically important plants from around the world, including [[banana]]s, [[sugar cane]], [[coffee]], [[tea]], [[sorghum]], [[cotton]], [[grass]]es, and [[forb]]s (non-grass plants eaten by livestock); also a collection of [[weed]]s arranged in an attractive agricultural setting.
+
+;Peony and Sun Perennial Garden
+:Over 90 cultivars of [[peony|peonies]], as well as a display of recent perennial cultivars suitable for sunny locations.
+
+;Poisonous Plants Garden
+:Plants poisonous to livestock, including ''[[Atropa]]'', ''[[Chelidonium]]'', ''[[Cicuta]]'', ''[[Digitalis]]'', ''[[Lobelia]]'', ''[[Phytolacca]]'', and ''[[Rhubarb|Rheum]]''. (Although ''[[Cannabis]]'' was included in the garden for many years, it was removed by the early 1970s.&lt;ref name=&quot;deskbook&quot;/&gt;)
+
+;Rhododendron and Woodland Perennial Garden
+:Hundreds of [[rhododendron]]s and [[azalea]]s, set among white [[pine]]s, [[fern]]s, [[hosta]]s, etc.
+
+;Rock Garden
+:Rock garden, including ''[[Aethionema]]'', ''[[Arenaria (plant)|Arenaria]]'', ''[[Aubrieta]]'', ''[[Cymbalaria]]'', ''[[Dianthus]]'', ''[[Erigeron]]'', ''[[Globularia]]'', ''[[Houstonia (genus)|Houstonia]]'', ''[[Leiophyllum]]'', ''[[Linaria]]'', ''[[Penstemon]]'', ''[[Pulsatilla]]'', ''[[Sedum]]'', ''[[Silene]]'', ''[[Hebe (plant)|Hebe]]'', etc.
+
+;Wildflower Garden
+:[[Wildflower]]s including [[Symplocarpus foetidus|skunk cabbage]], trout lily, marsh marigold, and [[trillium]].
+
+;Winter Garden
+:Plants interesting in all seasons, including [[dogwood]], [[willow]], [[birch]], [[Crataegus|hawthorn]], and dwarf to midsize [[conifer]]s.
+
+;Woodland Streamside Garden
+:A boardwalk through a [[bog]]gy areas including royal [[fern]]s, blue and yellow flag [[Iris (plant)|iris]], and [[Japanese primrose]]{{disambiguation needed|date=May 2013}}.
+
+===Nature areas===
+[[File:Cornell Plantations.jpg|thumb|Fall Creek flows through the Cornell Plantations]]
+In addition to the gardens and arboretum, Cornell Plantations also manages an additional {{convert|3500|acre|ha}} of biologically diverse natural areas, including [[bog]]s, [[fen]]s, [[Canyon|gorges]], [[glen]]s, [[meadow]]s, and [[woodland]]s.&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/profiles|title=Our Natural Areas|publisher=Cornell University|accessdate=2011-01-10}}&lt;/ref&gt;  These areas contain some {{convert|9|mi}} of walking trails.&lt;ref name=&quot;frommers&quot;/&gt; 
+* Bald Hill – Mountain laurel (''Kalmia latifolia'') is abundant in this area.&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/bald-hill|title=Bald Hill|publisher=Cornell University|accessdate=2011-03-15}}&lt;/ref&gt;
+* Beebe Lake and Woods – In 1828, to capture the waterpower of Fall Creek, Ezra Cornell help construct Beebe Dam on Fall Creek. The dam and Lake have since been upgraded.&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/beebe|title=Beebe Lake and Woods|publisher=Cornell University|accessdate=2011-03-15}}&lt;/ref&gt;
+* Bluegrass Lane Natural Areas – located near the Robert Trent Jones Golf Course.&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/bluegrass-lane|title=Bluegrass Lane Natural Areas|publisher=Cornell University|accessdate=2011-03-15}}&lt;/ref&gt;
+* Brooktondale Meadow
+* Carter Creek Preserve – {{convert|244|acre|ha}} of woodlands about {{convert|14|mi}} southwest of Cornell.&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/carter.creek|title=Carter Creek Preserve|publisher=Cornell University|accessdate=2011-01-10}}&lt;/ref&gt;
+* Cascadilla Gorge – a gorge formed as Cascadilla Creek drops {{convert|400|ft|m}} from the campus to downtown Ithaca, with a walking trail and many waterfalls.&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/cascadilla-gorge|title=Cascadilla Gorge|publisher=Cornell University|accessdate=2011-01-10}}&lt;/ref&gt;
+* Cascadilla Meadows – Cascadilla Creek was channelized when the [[Cornell Laboratory for Accelerator-based Sciences and Education|Wilson Lab]] was constructed in this meadow flood plain.&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/cascadilla-meadows|title=Cascadilla Meadows|publisher=Cornell University|accessdate=2011-01-10}}&lt;/ref&gt;
+* Cayuga Marsh –  a low-lying wetland of [[typha|cattails]] (''Typha latifolia'') at the north end of [[Lake Cayuga]].&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/cayuga-marsh|title=Cayuga Marsh|publisher=Cornell University|accessdate=2011-01-10}}&lt;/ref&gt;
+* Cayuga Lake – {{convert|95|acre|ha}} on northeast shore.&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/cayuta-lake|title=Cayuta Lake|publisher=Cornell University|accessdate=2011-03-15}}&lt;/ref&gt;
+* Etna Fringed Gentian Area
+* Fall Creek Valley North
+* Fall Creek Valley South
+* Fischer Old-Growth Forest – a {{convert|42|acre|ha|adj=on}} preserve containing rare examples of yellow oak (''Quercus muehlenbergii'').&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/fischer|title=Fischer Old-Growth Forest|publisher=Cornell University|accessdate=2011-01-10}}&lt;/ref&gt;
+* Hertel Bowl
+* Lick Brook
+* Lighthouse Point – a biological station located a bit over {{convert|3|mi|0}} from campus on the eastern shore of [[Lake Cayuga]].&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/lighthouse|title=Lighthouse Point|publisher=Cornell University|accessdate=2011-01-10}}&lt;/ref&gt;
+* McDaniel Meadow, Woods and Swamp – {{convert|60|acre|ha|adj=on}} former farm about {{convert|7|mi}} north of campus.&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/McDaniel.meadow|title=McDaniel Meadow, Woods and Swamp|publisher=Cornell University|accessdate=2011-01-10}}&lt;/ref&gt;
+* McGowan Woods and Meadow
+* Mitchell Street Natural Areas – examples of abandoned agricultural land.&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/mitchell-street|title=Mitchell Street Natural Areas|publisher=Cornell University|accessdate=2011-03-15}}&lt;/ref&gt;
+* Monkey Run
+* Mount Pleasant
+* Mundy Wildflower Garden&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/mundy|title=Mundy Wildflower Garden|publisher=Cornell University|accessdate=2011-01-10}}&lt;/ref&gt;
+* North Campus Natural Areas
+* Park Park – Forest Home Drive near [[New York Route 366]]&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/park-park|title=Park Park|publisher=Cornell University|accessdate=2011-03-15}}&lt;/ref&gt;
+* Polson Natural Area
+* Purvis Road Natural Areas – {{convert|43|acre|ha}}&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/purvis|title=Purvis Road Natural Areas|publisher=Cornell University|accessdate=2011-03-15}}&lt;/ref&gt;
+* Renwick Slope
+* Slaterville 600 – {{convert|600|acre|ha}} that includes the Slaterville Wildflower Preserve and old growth forest,&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/slaterville|title=Slaterville 600|publisher=Cornell University|accessdate=2011-01-10}}&lt;/ref&gt; given to the university by the [[Lloyd Library and Museum]] under condition that it remain forever wild.&lt;ref name=&quot;bishop&quot;/&gt;
+* Slim Jim Woods – borders the arboretum.&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/slim.jim|title=Slim Jim Woods|publisher=Cornell University|accessdate=2011-01-10}}&lt;/ref&gt;
+* Steep Hollow Creek
+* The Tarr-Young Preserve
+* Turkey Hill Road Meadow
+* Upper Cascadilla
+* Warren Woods – {{convert|37|acre|ha}}&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/warren|title=Warren Woods|publisher=Cornell University|accessdate=2011-03-15}}&lt;/ref&gt;
+
+==Academic role==
+The Plantations' Director is funded as a professor of Horticulture in the [[Cornell University College of Agriculture and Life Sciences|College of Agriculture and Life Sciences]], although 85 percent of the Plantations' budget comes from gifts. The Plantations continue to grow as it receives donations of environmentally-sensitive land throughout New York State.&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/McDaniel.meadow|title=McDaniel Meadow, Woods and Swap|publisher=Cornell University|accessdate=2011-01-09}}&lt;/ref&gt;  {{As of|2009}}, the Plantations had a $2.9 million annual operating budget.&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/sites/default/files/CP_%2709Ann.Report.pdf|title=2009 Annual Report|page=4|publisher=Cornell University|accessdate=2010-11-08}}&lt;/ref&gt;
+
+In conjunction with the Department of Horticulture in the College of Agriculture, the Plantations sponsors a Graduate Fellowship in Public Garden Leadership, where students earn a [[Master of Professional Studies]] degree after a four-semester program.&lt;ref name=&quot;rakow-lee&quot;/&gt;    The program of study requires an internship, selection of a particular topic of interest, and completion of an action project.&lt;ref name=&quot;rakow-lee&quot;/&gt;  Numerous scientific papers have been published that relate to work done at the Plantations or written by academics affiliated with the Plantations.&lt;ref&gt;{{cite web | url=http://scholar.google.com/scholar?q=%22cornell+plantations%22&amp;hl=en&amp;btnG=Search&amp;as_sdt=1%2C31 | title='cornell plantations' – Google Scholar | publisher=[[Google Scholar]] | accessdate=March 19, 2011}}&lt;/ref&gt;  The Plantations offers three courses for academic credit and a number of informal lectures and tours.&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/learning/courses|title=University Courses|publisher=Cornell University|accessdate=2010-11-08}}&lt;/ref&gt;  Lab work is done at the Plantations by students taking other courses in various subjects, including geology courses in the interdisciplinary Department of Earth and Atmospheric Sciences.&lt;ref&gt;{{cite book | title=EAS 220 Lab Book: EAS 220 Introduction to the Earth System | publisher=Cornell University | year=2007 | pages=240–242}}&lt;/ref&gt;  Indeed, the greater Plantations has a connection of some kind to over a hundred courses at Cornell.&lt;ref name=&quot;rakow-lee&quot;/&gt;  The Plantations' Director has also been responsible for summer session courses at the Plantations aimed towards alumni and horticultural enthusiasts.&lt;ref&gt;{{cite journal | journal=Cornell University Announcements | title=Summer Session 1973 | volume=65 | issue=3 | date=March 1973 | publisher=Cornell University | page=52}}&lt;/ref&gt;
+
+The Plantations operate side-by-side with Cornell's other programs.  Cornell's academic buildings, which are owned by either the university or New York State (for [[statutory college]] buildings), are on a landscaped campus with Plantations' gardens interspersed among them; the Plantations  maintains four such gardens on Cornell's central campus.&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/about|title=About Cornell Plantations|publisher=Cornell University|accessdate=2010-11-08}}&lt;/ref&gt; In addition, the College of Agriculture operates the Arnot Woods as a teaching forest, about {{convert|15|mi}} southwest of Ithaca;&lt;ref&gt;{{cite web|url=http://www2.dnr.cornell.edu/arnot/about/maps.htm|title=Location and maps|publisher=Cornell University|accessdate=2010-11-08}}&lt;/ref&gt; it was given to the university in 1927.&lt;ref name=&quot;bishop&quot;/&gt; Near the Plantations, the College operates the Dilmun Hill Student Farm, which practices sustainable agriculture.&lt;ref&gt;{{cite web|url=http://www.cuaes.cornell.edu/cals/cuaes/ag-operations/dilmun-hill/index.cfm|title=Dilmun Hill Student Farm|publisher=Cornell University|accessdate=2010-09-19}}&lt;/ref&gt; The College  operates Campus Area Farms that comprise 11 different farms and {{convert|325|acre|ha}} on campus and nearby.&lt;ref&gt;{{cite web|url=http://www.cuaes.cornell.edu/cals/cuaes/ag-operations/index.cfm|title=Agricultural operations, policies, farms|publisher=Cornell University|accessdate=2010-11-08}}&lt;/ref&gt; The difference between the Plantations and these other adjacent properties is that the Plantations are open to the public and are designed for both instruction as well as leisure, while the other properties are closed to the general public and focused upon teaching and research.  Aside from physical proximity, the Plantations has affiliations with a number of Cornell academic departments.&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/about/affiliations|title=Affiliations|publisher=Cornell University|accessdate=2010-11-08}}&lt;/ref&gt;  
+In fact, during the latter part of the 20th century, public gardens attached to colleges and universities such as the Plantations became a popular trend, due to the beneficial effects they had on campus unity and recruitment of students, creating bonds with and outreach to the local community,  and providing a basis for ongoing research as well as establishing a living museum.&lt;ref name=&quot;rakow-lee&quot;&gt;{{cite book | title=Public Garden Management: A Complete Guide to the Planning and Administration  of  Botanical Gardens and Arboreta | first=Donald A. | last=Rakow | first2=Sharon A. | last2=Lee | publisher	=[[John Wiley and Sons]] | location=Hoboken, New Jersey | year= 2011 | isbn=0-470-53213-0 | pages=13, 213}}&lt;/ref&gt;
+
+The Plantations earned a relatively brief mention as a campus diversion in the 112-page ''Cornell Desk Book'' publication of 1972 aimed at incoming students.&lt;ref name=&quot;deskbook&quot;&gt;{{cite book | title=The Cornell Desk Book | editor-first=S. Kent | editor-last=Callahan | publisher=Cornell University New Student Orientation Committee | location=Ithaca, New York | year=1972 | page=84}}&lt;/ref&gt;  ''[[The Cornell Daily Sun]]'' listed it in 2010 as one of the natural wonders of the Cornell and Ithaca areas that students frequently went past, or lived near to, without noticing.&lt;ref&gt;{{cite news | url=http://www.cornellsun.com/node/42368 | title=7 Wonders of Ithaca  | author=Shepard, Laura | newspaper=The Cornell Daily Sun | date=April 22, 2010}}&lt;/ref&gt;
+
+A 1973 ''[[New York Times]]'' survey of public arboreta listed the Plantations as one of the 17&amp;nbsp;best in the Eastern U.S. for educational value.&lt;ref&gt;{{cite news | url=http://query.nytimes.com/mem/archive/pdf?res=F30613F93C5C147A93C7AB1789D85F478785F9 | title=Arboretums Are for Seeing and Learning | newspaper=The New York Times | date=February 25, 1973}}&lt;/ref&gt;  The same paper characterized the Robison Herb Garden as &quot;a student's living reference library&quot; when it opened in 1974.&lt;ref name=&quot;nyt-1974&quot;/&gt;
+
+The 200-page volume ''The Cornell Plantations'', written by Ralph S. Hosmer, was published by the university in 1947, shortly after the gardens were so named.&lt;ref name=&quot;bishop&quot;/&gt;  A film ''Cornell Plantations'' was made during 1974–1975 and shown on [[PBS]] in Connecticut and elsewhere.&lt;ref&gt;{{cite news | url=http://www.nytimes.com/1992/11/12/obituaries/norma-k-regan-95-teacher-and-sculptor.html | title=Norma K. Regan, 95, Teacher and Sculptor | newspaper=The New York Times | date=November 12, 1992}}&lt;/ref&gt;  In 1987, the Plantations released a [[VHS]] video entitled ''A Year in the Garden'', which showed seasonal changes in the F. R. Newman Arboretum and along the trails.  ''The New York Times'' called the effort &quot;thin&quot; and best suited for Cornell alumni.&lt;ref&gt;{{cite news | url=http://www.nytimes.com/1987/02/15/arts/home-video-high-gloss-jagger-and-a-boris-to-be-cherished-632387.html | title=Home Video | author=Faust, Joan Lee | newspaper=The New York Times | date=February 15, 1987}}&lt;/ref&gt;  The university published the volume ''Cornell Plantations Path Guide: The Gardens, Gorges, Landscapes, and Lore of Cornell'' in 1995, and a 172-page second edition was published with a slightly altered title in 2002.&lt;ref&gt;{{cite web | url=http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=%22Cornell+Plantations+path+guide%22&amp;x=11&amp;y=14 | title='Cornell University path guide' search | publisher=[[Amazon.com]] | accessdate=2011-03-12}}&lt;/ref&gt;
+
+Working with the [[Newman's Own Foundation]] and the [[Center for Plant Conservation]], the Plantations are trying to restore the regional population of the American globeflower (''Trollius laxus'').  The Plantations are trying to use predatory beetles (''Laricobius nigrinus'') to control the spread of the hemlock wooly adelgid (HWA).&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/sites/default/files/CP_%2709Ann.Report.pdf|title=2009 Annual Report|publisher=Cornell University|accessdate=2010-12-27}}&lt;/ref&gt;
+
+==Events and visiting==
+The Plantations are open daily without charge from dawn to dusk.&lt;ref name=&quot;aaa-ny2009&quot;&gt;{{cite book | title=AAA New York TourBook | publisher=[[American Automobile Association]] | edition=2009 | location=Heathrow, Florida | pages=95,685,692–693}}&lt;/ref&gt;  From the campus, one walks out Forest Home Drive past the College of Agriculture quadrangle;&lt;ref name=&quot;deskbook&quot;/&gt; the nearest highway is [[New York State Route 366]].&lt;ref name=&quot;aaa-ny2009&quot;/&gt;  Walk-up tours are offered twice a week.&lt;ref name=&quot;frommers&quot;/&gt;    Adult volunteers also serve as stewards, tour guides and special event staff.&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/learning/volunteer-program|title=Volunteer Program|publisher=Cornell University|accessdate=2011-01-09}}&lt;/ref&gt;  Such [[Museum docent|docents]] are challenged by the large variety of plants; one joked in 2010 that, &quot;The ones I don’t know the name of, I call ''Species Nocluesem''.&quot;&lt;ref name=&quot;buffnews&quot;/&gt;
+
+''[[The New York Times]]'' has recommended Cornell Plantations as a place to visit several times, calling it &quot;a satisfying experience&quot; in 1965,&lt;ref name=&quot;nyt-1965&quot;/&gt; one of the sights of Cornell in 1979,&lt;ref&gt;{{cite news | url=http://query.nytimes.com/mem/archive/pdf?res=F30610F9345C12728DDDA00894D1405B898BF1D3 | title=What's Doing in Ithaca | author=Landau, Susan | newspaper=The New York Times | date=September 9, 1979 }}&lt;/ref&gt; a destination along a bicycling tour in 1985,&lt;ref&gt;{{cite news | url=http://www.nytimes.com/1985/05/19/travel/the-finger-lakes-250-miles-by-bike.html | title=The Finger Lakes – 250 Miles By Bike | author=Pasternack, Dorothy | newspaper=The New York Times | date=May 19, 1985}}&lt;/ref&gt; &quot;another free diversion&quot; in 1989,&lt;ref&gt;{{cite news | url=http://www.nytimes.com/1989/08/20/travel/what-s-doing-in-the-finger-lakes.html | title=What's Doing in the Finger Lakes | author=Lumdsen, Linda | newspaper=The New York Times | date=August 20, 1989}}&lt;/ref&gt; and &quot;one last outing before leaving [Ithaca]&quot; in 2002.&lt;ref name=&quot;nyt-2000&quot;&gt;{{cite news | url=http://www.nytimes.com/2002/10/25/travel/journeys-36-hours-ithaca-ny.html | title=36 Hours: Ithaca, N.Y. | author=Barry, Rebecca | newspaper=The New York Times | date=October 25, 2002}}&lt;/ref&gt;  ''[[The Boston Globe]]'' recommended the Plantations in 2000 as a &quot;free to the public museum of living plants&quot;.&lt;ref&gt;{{cite news | url=http://pqasb.pqarchiver.com/boston/access/58529076.html?dids=58529076:58529076&amp;FMT=ABS&amp;FMTS=ABS:FT | title=New York's Finger Lakes: A Treat to the Visitor | author=Vida, Vera | newspaper=[[The Boston Globe]] | date=August 20, 2000 | page=L1}}&lt;/ref&gt;  In 2007, ''[[The Ithaca Journal]]'' referred to it as &quot;one of the area's gems&quot;&lt;ref&gt;{{cite news | url=http://pqasb.pqarchiver.com/ithacajournal/access/1733605771.html?FMT=ABS&amp;FMTS=ABS:FT | title=Ithaca Forward: Activities to do here now that spring has come | newspaper=[[The Ithaca Journal]] | date=March 29, 2007 | page=C1}}&lt;/ref&gt; and three years later said it &quot;combines the best of walking with the eye appeal of well tended gardens&quot;.&lt;ref&gt;{{cite news | url=http://pqasb.pqarchiver.com/ithacajournal/access/1999170081.html?FMT=ABS&amp;FMTS=ABS:FT | title=Some places to revel in nature | newspaper=[[The Ithaca Journal]] | date=March 18, 2010}}&lt;/ref&gt;  ''[[The Buffalo News]]'' portrayed the Plantations in 2010 as one of the places that made Cornell worth a vacation for non-students.&lt;ref name=&quot;buffnews&quot;&gt;{{cite news | url=http://www.buffalonews.com/life/travel/article102017.ece | title=College without the classes | author=Brennan, James | newspaper=[[The Buffalo News]] | date=August 15, 2010}}&lt;/ref&gt;
+
+''[[National Geographic (magazine)|National Geographic]]''&lt;nowiki&gt;'&lt;/nowiki&gt;s 1998 guide to the 300 best public gardens in North America has an entry for the Plantations.&lt;ref name=&quot;ngg&quot;&gt;{{cite book | title=National Geographic Guide to America's Public Gardens: 300 of the Best Gardens to Visit in the U.S. and Canada | author=Jenkins, Mary Zuazua | publisher= [[National Geographic Society]] | year= 1998 | page=92}}&lt;/ref&gt;  
+The [[American Automobile Association]]'s New York [[TourBook]] lists the Plantations as one of five arboreta and sixty gardens in the state; it does not get the &quot;GEM&quot; rating that one of the arboreta and ten of the gardens receive.&lt;ref name=&quot;aaa-ny2009&quot;/&gt;  [[Fodor's]] travel book for New York State lists the Plantations as an ordinary entry and says the gardens have &quot;interesting cold-weather colors and textures&quot;.&lt;ref&gt;{{cite book | title=Fodor's New York State | edition=2nd | publisher=[[Fodor's]] | location=New York | year=2009 | isbn=1-4000-0897-2 | editor-first=Debbie | editor-last=Harmsen | page=136}}&lt;/ref&gt;  The [[Moon Handbooks]] volume for the state also lists it as a regular entry, without much commentary,&lt;ref&gt;{{cite book | title=Moon New York State | edition=5th | publisher=[[Avalon Travel Publishing]] | location= | year=2010 | isbn=1-59880-342-5 | page=357}}&lt;/ref&gt; as does the Great Destinations series ''The Finger Lakes Book''.&lt;ref&gt;{{cite book | title=The Finger Lakes Book: Great Destinations | first=Katharine Delavan | last=Dyson | publisher=[[Countryman Press]] | edition=Third | location=Woodstock, Vermont | year=2007 | isbn=1-58157-045-7 | page=109}}&lt;/ref&gt;  The Fun with the Family ''Upstate New York'' volume groups it with several other sights as &quot;a real bargain&quot; to explore for free.&lt;ref&gt;{{cite book | title=Fun with the Family: Upstate New York | first=Mary Lynn | last=Blanks | publisher=GPP Travel | location=Guilford, Connecticut | year=2010 | isbn=0-7627-5408-7 | page=97}}&lt;/ref&gt;  Most enthusiastic is the [[Frommer's]] travel guide for New York State, which rates the Plantations as a one-star (&quot;highly recommended&quot;) sight, saying the Plantations is &quot;a real find and well worth a visit for garden lovers or anyone seeking a bit of solace.&quot;&lt;ref name=&quot;frommers&quot;&gt;{{cite book | title=Frommer's New York State | edition=4th | publisher=[[Wiley Publishing]] | location=Hoboken, New Jersey | year=2010 | isbn=0-470-53765-5 | first=Brian | last= Silverman | first2= Neil Edward | last2=Schlecht | first3= Kerry | last3=Acker | first4= Tom | last4=Gavin | page=323}}&lt;/ref&gt;  The herb garden and knoll of rhododendrons come in for particular praise.&lt;ref name=&quot;frommers&quot;/&gt;
+
+The Plantations provide a venue for a number of annual activities, including a &quot;Fall In&quot; festival,&lt;ref&gt;{{cite news|url=http://cdsun.library.cornell.edu/cgi-bin/newscornell?a=d&amp;srpos=1&amp;cl=search&amp;d=CDS19731005.2.13.1&amp;e=--------20--1----Arboretum+sculpture+garden+-all|title=Festival Planned|newspaper=The Cornell Daily Sun|volume=90|number=27|date=October 5, 1973|page=13|accessdate=2011-01-13}}&lt;/ref&gt; a celebration of Arbor Day&lt;ref&gt;{{cite web|url=http://livingindryden.org/2005/04/cornell_plantations_to_hold_ar.html|title=Cornell Plantations to hold Arbor Day event|date=April 16, 2005|accessdate=2010-12-28|publisher=Living in Dryden|first=Simon |last=St.Laurent}}&lt;/ref&gt; and the Cornell Reunion 5 Mile Run.&lt;ref&gt;{{cite web|url=http://calsnews.cornell.edu/2010spring/alumni/reunion.html|title=Reunion 2010|publisher=Cornell University|accessdate=2010-12-27}}&lt;/ref&gt; The Plantations is one of eight cultural and educational sites on the [[Ithaca Discovery Trail]] network.&lt;ref name=&quot;buffnews&quot;/&gt;&lt;ref&gt;{{cite web|url=http://www.discoverytrail.com/|title=Discovery Trail|publisher=The Discovery Trail|location=Ithaca, New York|accessdate=2011-01-09}}&lt;/ref&gt;
+The Friends of the Gorges is a Cornell student organization, supported by Cornell Plantations, that performs trail repair and maintenance and clean-ups.&lt;ref&gt;{{cite web|url=http://www.cornellplantations.org/our-gardens/natural-areas/friends-of-the-gorges|title=Friends of the Gorges|publisher=Cornell University|accessdate=2011-01-09}}&lt;/ref&gt;&lt;ref&gt;{{cite news | url=http://www.cornellsun.com/section/news/content/2010/05/05/student-groups-organize-gorge-clean-projects | title=Student Groups Organize 'Gorge Clean-Up' Projects | author=Kim, Melissa | newspaper=The Cornell Daily Sun | date=May 5, 2010}}&lt;/ref&gt;
+
+== See also ==
+* [[List of botanical gardens in the United States]]
+* [[North American Plant Collections Consortium]]
+
+==References==
+;Citations
+{{reflist|2}}
+
+;General references for the lists in the &quot;Current extent&quot; section
+*[http://www.cornellplantations.org/our-gardens/arboretum F.R. Newman Arboretum]
+*[http://www.cornellplantations.org/our-gardens/botanical Botanical Garden]
+*[http://www.cornellplantations.org/our-gardens/natural-areas/profiles Our Natural Areas]
+
+== External links ==
+* [http://www.cornellplantations.org Cornell Plantations]
+* [http://www.cornellplantations.org/sites/default/files/CP_%2709Ann.Report.pdf 2009 Plantations Annual Report]
+
+{{Cornell}}
+{{Coord|42.450|-76.472|type:landmark_region:US-NY|display=title}}
+
+[[Category:Arboreta in New York]]
+[[Category:Botanical gardens in New York]]
+[[Category:Cornell University|Plantations]]
+[[Category:Herbaria in the United States]]
+[[Category:Parks in Tompkins County, New York]]
+[[Category:Protected areas of Tompkins County, New York]]
+[[Category:Visitor attractions in Ithaca, New York]]
+[[Category:Civilian Conservation Corps in New York]]</text>
+      <sha1>1gmywdn6dh9n9b4e1dt6zu6nwrm9gk8</sha1>
+    </revision>
+  </page>
+</mediawiki>

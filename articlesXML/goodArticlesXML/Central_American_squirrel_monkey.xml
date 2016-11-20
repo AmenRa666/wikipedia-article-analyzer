@@ -1,0 +1,193 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Central American squirrel monkey</title>
+    <ns>0</ns>
+    <id>3242143</id>
+    <revision>
+      <id>738115869</id>
+      <parentid>724726859</parentid>
+      <timestamp>2016-09-07T00:30:20Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Green Cardamom/WaybackMedic 2|WaybackMedic 2]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25255">{{Taxobox 
+| name = Central American squirrel monkey&lt;ref name=msw3&gt;{{MSW3 Groves|pages=138–139|id=12100288}}&lt;/ref&gt;
+| image = Squirrel monkey1-cropped.jpg
+| image_width = 220px
+| status = VU
+| status_system = iucn3.1
+| status_ref = &lt;ref name=iucn&gt;{{IUCN2011.2|assessors=Wong, G., Cuarón, A.D., Rodriguez-Luna, E. &amp; de Grammont, P.C.|year=2008|id=19836|title=Saimiri oerstedii|version=2011.2|downloaded=19 January 2012}}&lt;/ref&gt;
+| trend = down
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Mammal]]ia
+| ordo = [[Primate]]s
+| familia = [[Cebidae]]
+| genus = ''[[squirrel monkey|Saimiri]]''
+| species = '''''S. oerstedii'''''
+| binomial = ''Saimiri oerstedii''
+| binomial_authority = [[Johannes Theodor Reinhardt|Reinhardt]], 1872
+| range_map = Saimiri oerstedii Range Map.PNG
+| range_map_caption = Distribution of ''Saimiri oerstedii''&lt;ref name=perspectives/&gt;
+}}
+
+The '''Central American squirrel monkey''' (''Saimiri oerstedii'') is a [[squirrel monkey]] species from the Pacific coast of Costa Rica and Panama. It is restricted to the northwestern tip of [[Panama]] near the border with [[Costa Rica]], and the central and southern [[Pacific Ocean|Pacific]] coast of Costa Rica, primarily in [[Manuel Antonio National Park|Manuel Antonio]] and [[Corcovado National Park]]s.
+
+It is a small monkey with an orange back and a distinctive white and black facial mask.  It has an omnivorous diet, eating fruits, other plant materials, [[invertebrate]]s and some small [[vertebrate]]s. In turn, it has a number of predators, including [[bird of prey|raptors]], [[Felidae|cats]] and snakes. It lives in large groups that typically contain between 20 and 75 monkeys. It has one of the most egalitarian social structures of all monkeys. Females do not form dominance hierarchies, and males do so only at breeding season. Females become sexually mature at 2½ years, and males at 4 to 5 years.  Sexually mature females leave the natal group, but males can remain with their natal group their entire life. The Central American squirrel monkey can live for more than 15 years.
+
+The Central American squirrel monkey population declined precipitously after the 1970s. This decline is believed to be caused by [[deforestation]], hunting, and capture to be kept as pets. Efforts are underway to preserve the species. Despite the threats to the population, in 2008 the [[International Union for Conservation of Nature]] (IUCN) upgraded its conservation status from &quot;endangered&quot; to &quot;vulnerable&quot;.
+
+== Taxonomy ==
+
+The Central American squirrel monkey is a member of the family [[Cebidae]], the family of [[New World monkeys]] containing squirrel monkeys, [[capuchin monkey]]s, [[tamarin]]s and [[marmoset]]s. Within the family Cebidae, it is a member of the subfamily [[Saimiriinae]], the subfamily containing squirrel monkeys.&lt;ref name=groves2&gt;{{MSW3 Groves|pages=138–139|id=12100283}}&lt;/ref&gt; It is one of five recognized species of squirrel monkey, and the only species occurring outside South America.&lt;ref name=perspective/&gt; The Central American Squirrel Monkey is placed in genus ''[[Saimiri]]'' (Voigt, 1831) along with all the other squirrel monkey species. Among the squirrel monkeys, the Central American squirrel monkey is most closely related to the [[common squirrel monkey]] (''Saimiri sciureus'') and the [[bare-eared squirrel monkey]] (''Saimiri ustus'') and these three species form the ''S. sciureus'' species group.&lt;ref name=groves3&gt;{{MSW3 Groves|pages=138–139|id=121002843}}&lt;/ref&gt;  The binomial name ''Saimiri oerstedii'' was given by [[Johannes Theodor Reinhardt]] in honor of his fellow [[Denmark|Danish]] [[biologist]] [[Anders Sandøe Ørsted (botanist)|Anders Sandøe Ørsted]].
+
+There are two subspecies of the Central American squirrel monkey:&lt;ref name=msw3/&gt;
+
+* [[Black-crowned Central American squirrel monkey]], ''Saimiri oerstedii oerstedii''
+* [[Grey-crowned Central American squirrel monkey]], ''Saimiri oerstedii citrinellus''
+
+''S. o. oerstedii'' lives in the western Pacific portion of Panama and the [[Osa Peninsula]] area of Costa Rica (including Corcovado National Park), while ''S. o. citrinellus'' lives in the Central Pacific portion of Costa Rica. The largest estimate (most recently in 2003) is that the remaining wild population of ''S. o. citrinellus'' is only  1,300 to 1,800 individuals.&lt;ref name=iucn/&gt;
+
+== Physical description ==
+
+The Central American squirrel monkey differs in coloration from [[South America]]n squirrel monkeys. While South American squirrel monkeys tend to be primarily greenish in color, the Central American species has an orange back with olive shoulders, hips and tail and white undersides. The hands and feet are also orange. There is a black cap at the top of the head, and a black tip at the end of the tail. Males generally have lighter caps than females. The face is white with black rims around the eyes and black around the nose and mouth.&lt;ref name=pic&gt;{{cite book|title=The Pictorial Guide to the Living Primates|author=Rowe, N.|page=98|year=1996|publisher=Pogonias Press|isbn=0-9648825-0-7}}&lt;/ref&gt;&lt;ref name=field&gt;{{cite book|title=Neotropical Rainforest Mammals A Field Guide|edition=Second|author=Emmons, L.|year=1997|pages=126–127|publisher=The University of Chicago Press|isbn=0-226-20721-8}}&lt;/ref&gt;
+[[File:Central American Squirrel Monkey 2.jpeg|thumb|Body coloration]]
+
+The two subspecies are similar in coloration, but differ in the shade of the cap. The northern subspecies, living in Central Pacific Costa Rica, has a lighter cap than the southern subspecies, which lives in Panama and in parts of Costa Rica near Panama.&lt;ref name=field/&gt; The southern subspecies also has more yellowish limbs and underparts.&lt;ref name=perspectives/&gt;
+
+Adults reach a length of between {{convert|266|and|291|mm|in|lk=on}}, excluding tail, and a weight between {{convert|600|and|950|g|oz|lk=on}}.&lt;ref name=perspective&gt;{{cite book|title=Primates in Perspective|chapter=The Cebines|author=Jack, K.|editor1=Campbell, C. |editor2=Fuentes, A. |editor3=MacKinnon, K. |editor4=Panger, M. |editor5=Bearder, S. |year=2007|publisher=The Oxford University Press|pages=107–120|isbn=978-0-19-517133-4}}&lt;/ref&gt;&lt;ref name=field/&gt;  The tail is longer than the body, and between {{convert|362|and|389|mm|in|abbr=on}} in length.&lt;ref name=field/&gt; As with other squirrel monkeys, there is considerable [[sexual dimorphism]]. On average, males weigh 16% more than females.&lt;ref name=perspective/&gt; Males have an average body weight of {{convert|829|g|oz|lk=on|abbr=on}} and females average {{convert|695|g|oz|abbr=on}}.&lt;ref name=perspective/&gt; Squirrel monkeys have the largest brains of all [[primates]] relative to their body size; the Central American squirrel monkey's brain weighs about {{convert|25.7|g|oz|abbr=on}}, or about 4% of its body weight.&lt;ref name=pic/&gt;&lt;ref&gt;{{cite web|title=Squirrel Monkey|publisher=Rainforest Alliance|url=http://www.rainforest-alliance.org/resources/forest-facts/species-profiles/squirrelmonkey.html|accessdate=2008-10-18}}&lt;/ref&gt; Unlike larger relatives, such as the [[capuchin monkey|capuchin]], [[spider monkey|spider]] and [[howler monkey]]s, Central American squirrel monkeys do not have a fully prehensile tail, except as  newborn infants, and the tail is primarily used to help with balance.&lt;ref&gt;{{cite book|title=Primate Ecology and Social Structure Volume 2: New World Monkeys|edition=Revised First|author=Sussman, R.|year=2003|page=76|publisher=Pearson Custom Publishing|isbn=0-536-74364-9}}&lt;/ref&gt;&lt;ref name=fleagle&gt;{{cite book|title=Primate Adaption and Evolution|edition=Second|author=Fleagle, J.|pages=157–160|year=1998|publisher=Academic Press|isbn=0-12-260341-9}}&lt;/ref&gt;
+
+== Behavior ==
+
+=== Social structure ===
+
+The Central American squirrel monkey is [[arboreal]] and [[Diurnality|diurnal]], and most often moves through the trees on four legs ([[quadrupedal]] locomotion).&lt;ref name=pic/&gt; It lives in groups containing several adult males, adult females and juveniles. The group size tends to be smaller than that of South American squirrel monkeys, but is still larger than for many other New World monkey species. The group generally numbers between 20 and 75 monkeys, with a mean of 41 monkeys.&lt;ref name=perspective/&gt;&lt;ref name=costa/&gt; Groups in excess of 100 sometimes occur, but these are believed to be temporary mergers of two groups.&lt;ref name=iucn/&gt; On average, groups contain about 60% more females than males.&lt;ref name=perspective/&gt;
+
+[[File:Central American Squirrel Monkey.jpg|thumb|left|Resting on a branch]]
+The squirrel monkey groups have a home range of between 35 and 63 hectares (86 to 156 acres).&lt;ref name=costa/&gt; Group ranges can overlap, especially in large, protected areas such as Manuel Antonio National Park. Less overlap occurs in more fragmented areas.&lt;ref name=costa/&gt; Groups can travel between {{convert|2500|and|4200|m|ft|abbr=on}} per day.&lt;ref name=sussman&gt;{{cite book|title=Primate Ecology and Social Structure Volume 2: New World Monkeys|edition=Revised First|author=Sussman, R.|year=2003|page=86|publisher=Pearson Custom Publishing|isbn=0-536-74364-9}}&lt;/ref&gt; Unlike some other monkey species, the group does not split into separate foraging groups during the day. Individual monkeys may separate for the main group to engage in different activities for periods of time, and thus the group may be dispersed over an area of up to three acres (1.2 hectares) at any given time.&lt;ref name=boinski&gt;{{cite book|title=The Primate Anthology|chapter=Monkeys with Inflated Sex Appeal|author=Boinski, S.|editor1=Ciochon, R. |editor2=Nisbett, R. |pages=174–179|year=1992|publisher=Prentice-Hall|isbn=0-13-613845-4}}&lt;/ref&gt; The group tends to sleep in the same trees every night for months at a time, unlike other squirrel monkeys.&lt;ref name=boinski/&gt;
+
+There are no dominance hierarchies among the females, and the females do not form coalitions.&lt;ref name=iucn/&gt;&lt;ref name=perspective/&gt; Males in the group are generally related to each other and thus tend to form strong affiliations, and only form dominance hierarchies during the breeding season.&lt;ref name=perspective/&gt; This is especially the case among males of the same age.&lt;ref name=costa/&gt; Neither males nor females are dominant over each other, an egalitarian social system that is unique to Central American squirrel monkeys. In South American species, either the females (''S. boliviensis'') or males (''S. sciureus'') are dominant over the other sex, and both sexes form stable dominance hierarchies.&lt;ref name=perspective/&gt; Groups of Central American squirrel monkeys generally do not compete or fight with each other.&lt;ref name=iucn/&gt; Male Costa Rican squirrel monkeys are known to have very close bonds with each other.&lt;ref&gt;{{cite journal|author=Boinski, S. |year=1994|title= Affiliation Patterns among Male Costa Rican Squirrel Monkeys|journal= Behaviour|volume= 130|issue=3|pages= 191–209|doi=10.1163/156853994X00523}}&lt;/ref&gt;
+
+Although South American species of squirrel monkeys often travel with and feed together with capuchin monkeys, the Central American squirrel monkey only rarely associates with the [[white-headed capuchin]]. This appears to be related to the fact that the food the Central American squirrel monkey eats is distributed in smaller, more dispersed patches than that of South American squirrel monkeys. As a result of the different food distribution, associating with capuchin monkeys would impose higher foraging costs for the Central American squirrel monkey than for their South American counterparts. In addition, while male white-headed capuchins are alert to predators, they devote more attention to detecting rival males than to detecting predators, and relatively less time to detecting predators than their South American counterparts. Therefore, associating with capuchins would provide less predator detection benefits and impose higher foraging costs on the Central American squirrel monkey than on South American squirrel monkeys.&lt;ref name=perspective/&gt;&lt;ref name=fleagle/&gt;&lt;ref name=move&gt;{{cite book|title=On the Move|chapter=Social Manipulation Within and Between Troops Mediates Primate Group Movement|author=Boinski, S.|editor1=Boinski, S. |editor2=Garber, P. |year=2000|publisher=The University of Chicago Press|isbn=0-226-06340-2|pages=447–448}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|title=Why don't ''Saimiri oerstedii'' and ''Cebus capucinus'' form mixed-species groups?|author=Boinski, S.|journal=International Journal of Primatology|volume=10|issue=2|year=1989|pages=103–114|doi=10.1007/BF02736248}}&lt;/ref&gt;
+
+Certain bird species associate with the Central American squirrel monkey. The birds follow the monkeys in an attempt to prey on insects and small vertebrates that the monkeys flush out. At Corcovado National Park, bird species known to regularly follow squirrel monkeys include the [[double-toothed kite]], the [[grey-headed tanager]] and the [[tawny-winged woodcreeper]], but other [[woodcreeper]]s and such species as [[motmot]]s and [[trogon]]s do so as well. This activity increases during the wet season, when [[arthropod]]s are harder to find.&lt;ref name=costa/&gt;
+
+=== Diet ===
+[[File:Central American Squirrel Monkey 3.jpeg|thumb|Foraging in [[Manuel Antonio National Park]]]]
+
+The Central American squirrel monkey is [[omnivore|omnivorous]]. Its diet includes insects and insect larvae (especially [[grasshopper]]s and [[caterpillar]]s), spiders, fruit, leaves, bark, flowers and nectar. It also eats small [[vertebrate]]s, including bats, birds, lizards and tree frogs. It finds its food foraging through the lower and middle levels of the forest, typically between fifteen and thirty feet high.&lt;ref name=costa/&gt;&lt;ref name=boinski/&gt; Two-thirds to three-quarters of each day is spent foraging for food. It has difficulty finding its desired food late in the wet season, when fewer [[arthropods]] are available.&lt;ref name=field/&gt;
+
+It has a unique method of capturing [[tent-making bat]]s. It looks for roosting bats by looking for their tents (which are made of a folded leaf). When it finds a bat it climbs to a higher level and jumps onto the tent from above, attempting to dislodge the bat. If the fallen bat does not fly away in time, the monkey pounces on it on the ground and eats it.&lt;ref name=costa/&gt;
+
+The Central American squirrel monkey is an important seed disperser and a pollinator of certain flowers, including the [[passion flower]].&lt;ref name=costa/&gt;  While it is not a significant agricultural pest, it does sometimes eat corn, coffee, [[banana]]s and [[mango]]s.&lt;ref name=costa/&gt;  Other fruits eaten include [[cecropia]]s, [[legume]]s, [[ficus|fig]]s, [[palm tree|palms]], [[Symphonia globulifera|cerillo]], [[Pseudolmedia|quiubra]], [[Xylopia|yayo flaco]] and wild [[cashew]] fruits.&lt;ref name=costa/&gt;&lt;ref name=boinski/&gt;
+
+=== Communication ===
+
+The Central American squirrel monkey is noisy. It makes many squeals, whistles and chirps.&lt;ref name=field/&gt; It also travels through the forest noisily, disturbing vegetation as it moves through.&lt;ref name=field/&gt; It has four main calls, which have been described as a &quot;smooth chuck&quot;, a &quot;bent mask chuck&quot;, a &quot;peep&quot; and a &quot;twitter&quot;.&lt;ref name=pic/&gt;
+
+=== Predators ===
+
+Predators of the Central American squirrel monkey include birds of prey, cats and snakes. Constricting and venomous snakes both prey on squirrel monkeys. Raptors are particularly effective predators of Central American squirrel monkeys.&lt;ref name=perspective/&gt; The oldest males bear most of the responsibility for detecting predators.&lt;ref name=iucn/&gt;&lt;ref name=costa/&gt;  When a Central American squirrel monkey detects a raptor, it gives a high-pitched alarm peep and dives for cover. All other squirrel monkeys that hear the alarm call also dive for cover. The monkeys are particularly cautious about raptors, and give alarms when they detect any raptor-like object, including small [[airplane]]s and even falling branches and large leaves.&lt;ref name=boinski/&gt;
+
+Predator detection by the males becomes particularly important during the period when the infants are born. Raptors spend significantly more time near the squirrel monkey troops during this period, and prey on a significant number of the newborn infants. Other animals that prey on Central American squirrel monkey infants include [[toucan]]s, [[tayra]]s, [[opossum]]s, [[coati]]s, snakes, and even [[spider monkey]]s.&lt;ref name=boinski/&gt;
+
+== Reproduction ==
+[[File:Central American Squirrel Monkey baby gets a ride.jpeg|thumb|left|Two-month-old infant riding on mother's back]]
+
+The breeding season for the Central American squirrel monkey is in September.&lt;ref name=costa/&gt; All females come into [[Estrous cycle|estrus]] at virtually the same time. A month or two before the breeding season begins, males become larger. This is not due to extra muscle, but to altered water balance within the male's body. This is caused by conversion of the male hormone [[testosterone]] into [[estrogen]]; thus the more testosterone a male produces, the more he grows in advance of the breeding season. Since males within a group have not been observed fighting over access to females during breeding season, nor attempting to force females to copulate with them, it is believed that female choice determines which males get to breed with females. Females tend to prefer the males that expand the most in advance of breeding season. This may be because the most enlarged males are generally the oldest and the most effective at detecting predators, or it may be a case of runaway [[sexual selection|intersexual selection]].&lt;ref name=boinski/&gt;
+
+Males sometimes leave their group for short periods of time during the breeding season in order to try to mate with females from neighboring groups. Females are receptive to males from other groups, although resident males attempt to repel the intruders. The [[gestation period]] is six months, and the infants are born within a single week during February and March.  Typically, a single infant is  born.&lt;ref name=perspective/&gt;&lt;ref name=costa/&gt;&lt;ref name=boinski/&gt;
+
+Only 50% of infants survive more than six months, largely due to predation by birds.&lt;ref name=perspective/&gt;  The infant remains dependent on its mother for about one year.&lt;ref name=costa/&gt;  Females give birth every 12 months, so the prior infant becomes independent at about the same time the new infant is born. Females become sexually mature at 2½ years old, while males become sexually mature at between 4 and 5 years old.&lt;ref name=perspective/&gt;  The females leave their natal group upon reaching sexual maturity, while males usually remain with their group for their entire lives. This is different from South American squirrel monkey species, where either males disperse from their natal group or both sexes disperse.&lt;ref name=perspective/&gt;  Males of the same age tend to associate with each other in age cohorts. Upon reaching sexual maturity, an age cohort may choose to leave the group and attempt to oust the males from another group in order to attain increased reproductive opportunities.&lt;ref name=perspective/&gt;
+
+The lifespan of the Central American squirrel monkey in the wild is unknown, but captive specimens have been known to live more than 15 years.&lt;ref name=costa/&gt; Other squirrel monkey species are known to be able to live more than 20 years.&lt;ref name=perspective/&gt;
+
+== Distribution and habitat ==
+
+The Central American squirrel monkey has a restricted distribution in Costa Rica and Panama. It lives only near the Pacific coast. Its range covers Central Pacific Costa Rica in the north through western Panama.&lt;ref name=field/&gt; It lives in two of Costa Rica's national parks—[[Manuel Antonio National Park]] and [[Corcovado National Park]]—where it can be seen by visitors, but it is not as commonly seen in these parks as the [[white-headed capuchin]] or the [[mantled howler]] monkeys.&lt;ref name=watching&gt;{{cite book|author1=Hunter, L. |author2=Andrew, D. |title = Watching Wildlife Central America|year = 2002|pages = 100, 148|publisher=Lonely Planet Publications|isbn=1-86450-034-4}}&lt;/ref&gt; It lives in lowland forests and is restricted to [[secondary forest]]s and [[primary forest]]s which have been partially [[logging|logged]].&lt;ref name=costa&gt;{{cite book|title=The Natural History of Costa Rican Mammals|author=Wainwright, M.|year=2002|publisher=Zona Tropical|isbn=0-9705678-1-2|pages=131–134}}&lt;/ref&gt;  It requires forests with abundant low and mid-level vegetation and has difficulty surviving in tall, mature, undisturbed forests that lack such vegetation.&lt;ref name=field/&gt;&lt;ref name=costa/&gt;
+
+== Conservation status ==
+It was once believed that the Central American squirrel monkey was just a population of a South American species of squirrel monkey brought to Central America by humans. Evidence for this theory included the very small range of the Central American squirrel monkey and the large gap from the range of any other squirrel monkey species. A study of [[nuclear DNA|nuclear]] and [[mitochondrial DNA]] demonstrated that the Central American squirrel monkey is indeed a separate species that apparently diverged from the South American species long ago – at least 260,000 years ago and possibly more than 4 million years ago.&lt;ref name=perspectives&gt;{{cite book | author = Rylands, A., Groves, C., Mittenmeier, R., Cortes-Ortiz, L. &amp; Hines, J.|editor1=Estrada, A. |editor2=Garber, P. |editor3=Pavelka, M. |editor4=Luecke, L. | publisher=Springer|location=New York | chapter = Taxonomy and Distributions of Mesoamerican Primates | title = New Perspectives in the Study of Mesoamerican Primates| pages =37–39| isbn = 978-0-387-25854-6 | year = 2006}}&lt;/ref&gt;
+
+[[File:Central American Squirrel Monkey 7.jpeg|thumb|On a balcony of a development near [[Manuel Antonio National Park]], [[Costa Rica]]]]
+One popular theory is that squirrel monkeys did live in Colombia during the late [[Miocene]] or [[Pliocene]] and these squirrel monkeys migrated to Central America, becoming the ancestors of the current Central American species. According to this theory, the [[Guatemalan black howler]] migrated to Central America around the same time. Passage through the [[isthmus]] of Panama later closed due to rising oceans, and eventually opened up to another wave of migration about 2 million years ago. These later migrants, ancestors to modern populations of white-headed capuchins, [[mantled howler]]s and [[Geoffroy's spider monkey]]s, out-competed the earlier migrants, leading to the small range of the Central American squirrel monkey and Guatemalan black howler.&lt;ref&gt;{{cite book | author = Ford, S.|editor1=Estrada, A. |editor2=Garber, P.A. |editor3=Pavelka, M.S.M. |editor4=Luecke, L. | chapter = The Biographic History of Mesoamerican Primates | title = New Perspectives in the Study of Mesoamerican Primates| pages = 100–107| publisher=Springer|location=New York | isbn = 978-0-387-25854-6 | year = 2006}}&lt;/ref&gt;
+
+The population density has been estimated at 36 monkeys per square kilometer (93 per square mile) in Costa Rica and 130 monkeys per square kilometer (337 per square mile) in Panama.&lt;ref name=sussman/&gt;  It has been estimated that the population of the Central American squirrel monkey has been reduced from about 200,000 in the 1970s to less than 5,000.&lt;ref name=watching/&gt;  This is believed to be largely due to [[deforestation]], [[hunting]], and capture for the [[pet]] trade.&lt;ref name=watching/&gt; There are significant efforts within Costa Rica to try to preserve this monkey from extinction.&lt;ref&gt;{{cite web|url=http://www.ascomoti.com/index.html |title=Save the Mono Titi Manuel Antonio Costa Rica |publisher=ASCOMOTI |accessdate=2008-05-12 |deadurl=yes |archiveurl=https://web.archive.org/web/20090403070900/http://ascomoti.com/index.html |archivedate=April 3, 2009 }}&lt;/ref&gt;  A reforestation project within Panama tries to preserve the vanishing population of the Chiriqui Province.&lt;ref&gt;{{cite web|title=The Rainforest Returns|publisher=Saimiri Wildlife|url=http://www.saimiri.org/en|accessdate=2008-10-25}}&lt;/ref&gt;
+
+As of 2008, the Central American squirrel monkey is listed as &quot;vulnerable&quot; from a conservation standpoint by the [[IUCN]].  This is due to the fact that its range encompasses just {{convert|8,000|km2|sqmi|sp=us}}, its range is fragmented, and it suffers from ongoing habitat loss. This assessment is an improvement from the 2003 assessment, in which the Central American squirrel monkey was listed as &quot;endangered&quot;.&lt;ref name=iucn/&gt;
+
+== References ==
+{{reflist|35em}}
+
+== External links ==
+{{Wikispecies|Saimiri oerstedii|Central American Squirrel Monkey}}
+{{Commons category|Saimiri oerstedii}}
+*ARKive – [http://www.arkive.org/species/GES/mammals/Saimiri_oerstedii/ images and movies of the red-backed squirrel monkey ''(Saimiri oerstedii)'']
+* [http://www.ascomoti.com ASCOMOTI] Foundation for Preservation of the Central American Squirrel Monkey (mono titi)
+*[http://www.natureserve.org/infonatura/ Infonatura]
+*[http://www.saimiri.org/en Saimiri Wildlife]
+
+{{Cebidae nav}}
+{{Costa Rican monkey species}}
+{{Panamanian monkey species}}
+
+{{good article}}
+
+[[Category:Mammals of Panama|Squirrel Monkey, Central American]]
+[[Category:Squirrel monkeys]]
+[[Category:Mammals of Costa Rica]]
+[[Category:Mammals described in 1872]]
+[[Category:Primates of North America]]</text>
+      <sha1>6s3bitj3rzll9rz1vpxvebzrc70pudr</sha1>
+    </revision>
+  </page>
+</mediawiki>

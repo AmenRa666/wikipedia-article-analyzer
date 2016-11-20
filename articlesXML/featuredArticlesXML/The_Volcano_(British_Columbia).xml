@@ -1,0 +1,159 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>The Volcano (British Columbia)</title>
+    <ns>0</ns>
+    <id>24879604</id>
+    <revision>
+      <id>739581237</id>
+      <parentid>723362858</parentid>
+      <timestamp>2016-09-15T15:16:57Z</timestamp>
+      <contributor>
+        <username>Volcanoguy</username>
+        <id>1722754</id>
+      </contributor>
+      <comment>removed [[Category:Polygenetic volcanoes]]; added [[Category:Polygenetic cinder cones]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22184">{{Infobox mountain
+| name = The Volcano
+| photo = The_Volcano.jpg
+| photo_caption = A photo of The Volcano with thick black scoria in the foreground
+| photo_alt = Rugged mountain covered with dark rock on its summit and flanks. Dark rock and patches of glacial ice loom in the foreground.
+| elevation_m = 1656
+| prominence_m = 311
+| listing = 
+| location = [[British Columbia]], [[Canada]]
+| range = [[Boundary Ranges]] ([[Coast Mountains]])
+| map = Canada British Columbia
+| map_caption = Location of The Volcano along the British Columbia-Alaska border
+| label_position = below
+| lat_d = 56 | lat_m = 25 | lat_s = 23 | lat_NS = N
+| long_d = 130 | long_m = 51 | long_s = 01 | long_EW = W
+| region_code = CA
+| topo = [[National Topographic System|NTS]] 104B/07
+| type = [[Cinder cone]]
+| volcanic_arc/belt = [[Northern Cordilleran Volcanic Province]]
+| last_eruption = 1800 (?)&lt;ref name=&quot;QQU&quot;/&gt;
+| first_ascent = 
+| easiest_route =
+}}
+
+'''The Volcano''', also known as '''Lava Fork volcano''', is a small [[cinder cone]] in the [[Boundary Ranges]] of the [[Coast Mountains]]  in northwestern [[British Columbia]], [[Canada]]. It is located approximately {{Convert|60|km|mi|-1|abbr=on}} northwest of the small community of [[Stewart, British Columbia|Stewart]] near the head of [[Lava Fork]]. With a summit elevation of {{Convert|1656|m|ft|abbr=on}} and a [[topographic prominence]] of {{Convert|311|m|ft|abbr=on}}, it rises above the surrounding rugged landscape on a remote mountain ridge that represents the northern flank of a glaciated [[U-shaped valley]].
+
+Lava Fork volcano is associated with a small group of related volcanoes called the [[Iskut-Unuk River Cones]]. This forms part of the much larger [[Northern Cordilleran Volcanic Province]], which extends from the [[Alaska]]–[[Yukon]] border to near the port city of [[Prince Rupert, British Columbia]]. Eruptive activity at The Volcano is relatively young compared to most other volcanoes in the Northern Cordilleran Volcanic Province. Geologic studies have shown that The Volcano and its eruptive products were emplaced in the past 400&amp;nbsp;years; this is well after the [[last glacial period]], which ended about 10,000&amp;nbsp;years ago.
+
+==Geology==
+The Volcano is the southernmost of 10&amp;nbsp;volcanoes comprising the Iskut-Unuk River Cones [[volcanic field]], as well as the most recent to erupt.&lt;ref name=&quot;QQU&quot;/&gt;&lt;ref name=&quot;SI&quot;/&gt; Its structure is poorly formed and has been reduced by [[erosion]] from alpine glacial ice found at its elevation and latitude. It represents one of the few historically active volcanoes in the Northern Cordilleran Volcanic Province, with a base elevation estimated to be {{Convert|100|m|ft|abbr=on}}.&lt;ref name=&quot;ANL&quot;/&gt;&lt;ref name=&quot;AS&quot;/&gt; Like most cinder cones, The Volcano consists of a pile of loose [[volcanic ash]], [[lapilli]]-sized [[tephra]] and [[volcanic bomb]]s. These were deposited during periods of [[lava fountain]] activity.&lt;ref name=&quot;QM&quot;/&gt; The vent area contains volcanic bombs up to {{Convert|0.5|m|ft|abbr=on}} long and small deposits of [[sulfur]] precipitated from [[volcanic gas]]es.&lt;ref name=&quot;AS&quot;/&gt;
+
+Like other Iskut-Unuk River Cones, The Volcano has its origins in [[continent]]al [[rift]]ing—a long rupture in the Earth's [[crust (geology)|crust]] where the [[lithosphere]] is being pulled apart. This incipient rifting has formed as a result of the [[Pacific Plate]] sliding northward along the [[Queen Charlotte Fault]], on its way to the [[Aleutian Trench]].&lt;ref name=&quot;ZUD&quot;&gt;{{cite web|title=Map of Canadian volcanoes |publisher=[[Natural Resources Canada]] |date=2008-02-13 |url=http://gsc.nrcan.gc.ca/volcanoes/map/index_e.php |accessdate=2008-09-12 |deadurl=yes |archiveurl=https://web.archive.org/web/20080602043532/http://gsc.nrcan.gc.ca/volcanoes/map/index_e.php |archivedate=June 2, 2008 }}&lt;/ref&gt; As the [[continental crust]] stretches, the near surface rocks fracture along steeply dipping cracks parallel to the rift known as [[fault (geology)|faults]]. [[Basalt]]ic [[magma]] rises along these fractures to create [[effusive eruption]]s.&lt;ref name=&quot;ZZL&quot;&gt;{{cite web|url=http://atlas.nrcan.gc.ca/site/english/maps/environment/naturalhazards/volcanoes/fig_4_volcanoes_continental_rift.jpg/image_view|title=Diagram of the Continental Rift Zone|publisher=[[Natural Resources Canada]]|date=2007-03-23|accessdate=2010-06-25}}&lt;/ref&gt; The rift zone has existed for at least 14.9&amp;nbsp;million years, and has created the Northern Cordilleran Volcanic Province.&lt;ref name=&quot;QM&quot;/&gt;&lt;ref name=&quot;ZZ&quot;&gt;{{cite web|title=Canada Volcanoes and Volcanics|publisher=[[United States Geological Survey]]|date=2006-11-09|url=http://vulcan.wr.usgs.gov/Volcanoes/Canada/description_canadian_volcanics.html|accessdate=2008-06-13}}&lt;/ref&gt; Several dormant volcanoes in the [[geologic province|province]] are potentially active, with The Volcano being one of the three having erupted in the last few hundred years.&lt;ref name=&quot;ZZ&quot;/&gt; [[Tseax Cone]], which last erupted in the 18th century, is the southernmost volcano in the province, while [[Prindle Volcano]] in easternmost-central Alaska, which erupted more than 10,000&amp;nbsp;years ago, is generally considered the northernmost.&lt;ref name=&quot;ZUD&quot;/&gt;
+
+===Volcanic history===
+[[File:Blue River lava flow, British Columbia.jpg|thumb|left|alt=Brown rock lying in a glaciated valley with a small lake on the left.|A recently erupted [[pāhoehoe]] lava flow extending down the vegetated flanks of a mountain ridge. The alpine lake in the upper left corner is the southern lake of the two [[Lava Lakes]].]]
+At least two phases of volcanic activity have been identified at The Volcano. Each event was followed by the eruption of lengthy basaltic [[lava]] flows that flowed down steep [[granite|granitic]] flanks of the mountain ridge on which The Volcano lies.&lt;ref name=&quot;SI&quot;&gt;{{cite web|url=http://volcano.oregonstate.edu/vwdocs/volc_images/north_america/canada/Final-LF.html|title=Lava Fork, NW British Columbia/SE Alaska|publisher=[[Oregon State University]]|date=November 2000|accessdate=2010-06-19}}&lt;/ref&gt;&lt;ref name=&quot;QM&quot;&gt;{{cite book|last=Wood|first=Charles A.|author2=Kienle, Jürgen |pages=114, 118, 121, 129|title=Volcanoes of North America: United States and Canada|year=2001|publisher=[[Cambridge University Press]]|location=[[Cambridge]], [[England]]|isbn=978-0-521-43811-7|oclc=27910629}}&lt;/ref&gt; After this took place, they travelled through the Lava Fork valley for {{Convert|5|km|mi|0|abbr=on}}.&lt;ref name=&quot;SI&quot;/&gt; Here, the flows crossed the British Columbia border into the U.S. state of Alaska and blocked the Blue River, a [[tributary]] of the [[Unuk River]], forming several lakes.&lt;ref name=&quot;SI&quot;/&gt;&lt;ref&gt;{{cite web |url={{GNIS 3|1420536|Blue River}}|title=Blue River|work=[[Geographic Names Information System]]|publisher=[[United States Geological Survey]]|accessdate=2010-06-27}}&lt;/ref&gt; The lava flows in total are about {{Convert|22|km|mi|abbr=on}} long and still contain their original features from when they cooled, including [[pressure ridge (lava)|pressure ridges]] and [[lava channel]]s. A series of large trees were engulfed by the lava flows during eruption. The bases of the trees burned and the upper trunks and branches collapsed into the solidifing lava, leaving the trees embedded on the surface of the lava flows. After the flows solidified, tree molds and [[lava tube]]s collapsed to form volcanic pits.&lt;ref name=&quot;AS&quot;&gt;{{cite web|url=http://gsc.nrcan.gc.ca/volcanoes/cat/volcano_e.php?id=svb_lfk_040 |title=Lava Fork |work=Catalogue of Canadian volcanoes |publisher=[[Natural Resources Canada]] |date=2009-03-10 |accessdate=2010-06-19 |deadurl=yes |archiveurl=https://web.archive.org/web/20080615214823/http://gsc.nrcan.gc.ca/volcanoes/cat/volcano_e.php?id=svb_lfk_040 |archivedate=June 15, 2008 }}&lt;/ref&gt; At the southern end of one of the lava flows, it spreads into a broad terminal lobe on the flat [[alluvial plain]] of the Unuk River.&lt;ref name=&quot;QM&quot;/&gt; Volcanic ash and lava from The Volcano still linger on small [[glacier]]s near Mount Lewis Cass, a {{Convert|2094|m|ft|abbr=on}} high mountain near the Alaska-British Columbia border.&lt;ref name=&quot;MM&quot;&gt;{{cite book|last=Carter|first=H. Adams|page=94|title=The American Alpine Journal|year=1997|publisher=[[The Mountaineers Books]]|isbn=0-930410-43-2}}&lt;/ref&gt;
+
+At least one lava flow from The Volcano was notified by a surveyor named Fremont Morse in 1905 during a survey for the [[Canada–United States border#International Boundary Commission (1925)|International Boundary Commission]]. In 1906, Morse wrote that the most recently erupted lava flow had &quot;probably occurred within less than fifty years&quot;.&lt;ref name=&quot;MM&quot;/&gt; Since Morse's report, [[Dendrochronology|tree ring]] and [[radiocarbon dating]] techniques have been used to establish the dates of The Volcano's two volcanic phases. The first is estimated to have occurred about 360&amp;nbsp;years ago and the latest possibly took place only 150&amp;nbsp;years ago.&lt;ref name=&quot;AS&quot;/&gt;&lt;ref name=&quot;QM&quot;/&gt; This indicates that The Volcano is the youngest known volcanic mountain in Canada and that its volcanic activity is recent compared to many other volcanoes in British Columbia.&lt;ref name=&quot;AS&quot;/&gt; In several documents, the last eruption of The Volcano is written to have occurred in 1904.&lt;ref name=&quot;CBV&quot;/&gt;&lt;ref&gt;{{cite book|title=The Canadian Atlas: Our Nation, Environment and People|last1=Byers|first1=Andrew R.|last2=Payette|first2=Andrée|last3=Humbert|first3=Gilles|last4=Wong|first4=Susan|last5=Eastman|first5=Elizabeth|last6=Harris|first6=Eric|last7=Fick|first7=Steven|last8=Simpson-Lewis|first8=Wendy|page=22|year=2004|publisher=[[Douglas &amp; McIntyre]]|location=[[Vancouver]] and [[Toronto]]|isbn=1-55365-082-4}}&lt;/ref&gt; However, according to the [[Smithsonian Institution]]'s [[Global Volcanism Program]], this eruption is considered uncertain.&lt;ref name=&quot;QQU&quot;/&gt;
+
+Although The Volcano is estimated to have last erupted 150&amp;nbsp;years ago, it is one of the five volcanoes in the Northern Cordilleran Volcanic Province that have recorded seismicity since 1985. Others include [[Castle Rock (volcano)|Castle Rock]] (two events), [[Hoodoo Mountain]] (eight events), [[Crow Lagoon]] (four events) and the [[Mount Edziza volcanic complex]] (eight events).&lt;ref name=&quot;ZBR&quot;&gt;{{cite book|last=Etkin|first=David|author2=Haque, C.E.|author3=Brooks, Gregory R.|title=An Assessment of Natural Hazards and Disasters in Canada|publisher=[[Springer Netherlands]]|date=2003-04-30|pages=569, 582, 583|isbn=978-1-4020-1179-5}}&lt;/ref&gt; Seismic data suggest that these volcanoes still contain active [[magma chamber]]s, indicating that some Northern Cordilleran volcanoes are probably active, with significant potential hazards.&lt;ref name=&quot;ZBR&quot;/&gt;&lt;ref&gt;{{cite web|publisher=[[Natural Resources Canada]] |url=http://gsc.nrcan.gc.ca/volcanoes/gscvol_e.php |title=Volcanology in the Geological Survey of Canada |work=Volcanoes of Canada |accessdate=2010-06-20 |deadurl=yes |archiveurl=https://web.archive.org/web/20080513003833/http://gsc.nrcan.gc.ca/volcanoes/gscvol_e.php |archivedate=May 13, 2008 }}&lt;/ref&gt; The seismic activity corresponds both with some of Canada's recently formed volcanoes and with persistent volcanoes that have had major explosive activity throughout their history, such as Hoodoo Mountain and the Mount Edziza volcanic complex.&lt;ref name=&quot;ZBR&quot;/&gt;
+
+==Human history==
+
+===Naming controversy===
+The name of the peak was suggested by an explorer named Chris Dickinson during the Cambridge Coast Mountains Expedition in 1979. It was adopted on November 24, 1980, and has been its official name since then.&lt;ref name=&quot;QQI&quot;&gt;{{cite web|url=http://apps.gov.bc.ca/pub/bcgnws/names/23504.html|title=The Volcano|work=[[BC Geographical Names Information System]]|publisher=[[Government of British Columbia]]|accessdate=2010-06-27}}&lt;/ref&gt; However, this name for the peak does not normally show up in any volcanological resources. Instead, it is informally referred to as Lava Fork or Lava Fork volcano due to its close association with the [[stream|creek]] of the same name.&lt;ref name=&quot;SI&quot;/&gt;&lt;ref name=&quot;AS&quot;/&gt;&lt;ref name=&quot;QQI&quot;/&gt; The reason for this controversy is because ''The Volcano'' is generic. In speech it may not be obvious whether ''The Volcano'' or ''the volcano'' is intended, leading to confusion. Similar named volcanoes in Canada include [[Volcano Vent]] in the [[Tuya volcanic field]] of northwestern British Columbia and [[Volcano Mountain]] in the [[Fort Selkirk volcanic field]] of central [[Yukon]].&lt;ref name=&quot;QM&quot;/&gt;&lt;ref&gt;{{cite journal|title=Preliminary results of field mapping, petrography, and GIS spatial analysis of the West Tuya lava field, northwestern British Columbia|last1=Wetherell|first1=K.|last2=Edwards|first2=B.|last3=Simpson|first3=K.|publisher=[[Natural Resources Canada]]|page=3|issn=1701-4387|year=2005}}&lt;/ref&gt; As of 2009, the unofficial terms for The Volcano continue to be used by [[Natural Resources Canada]].&lt;ref name=&quot;AS&quot;/&gt;
+
+===Protection and monitoring===
+The Volcano, its eruptive products and a large [[mineral spring]] are protected in [[Lava Forks Provincial Park]]. Founded in 2001 as a Class A [[provincial park]], this highly remote [[park]] covers an area of {{convert|7000|ha|acre|abbr=on}}. Lying within its boundaries are the [[Lava Lakes]], two lakes dammed by lava flows erupted from The Volcano. Located in asserted traditional territory of the [[Tahltan First Nation]], Lava Forks Provincial Park provides a location to study ecological processes associated with primary succession or the establishment of vegetation after a major disturbance. After 150&amp;nbsp;years of non-eruptive activity, vegetation has grown on the surface of the lava flows, including [[moss]]es and [[lichen]]s. [[Tsuga heterophylla|Western Hemlock]], [[Tsuga mertensiana|Mountain Hemlock]] and [[Alpine tundra]] biogeoclimatic subzones also occur in the area, which form part of the Boundary Ranges Ecosection.&lt;ref name=&quot;CBV&quot;&gt;{{cite web|title=Lava Forks Provincial Park|url=http://www.env.gov.bc.ca/bcparks/explore/parkpgs/lava_forks/|publisher=[[BC Parks]]|accessdate=2010-06-20}}&lt;/ref&gt;
+
+Like other Iskut-Unuk River Cones, The Volcano is not monitored closely enough by the Geological Survey of Canada to ascertain how active its magma system is. This is partly because it is located in a remote region and no major eruptions have occurred in Canada in the past few hundred years.  As a result, volcano monitoring is less important than dealing with other natural processes, including [[tsunami]]s, [[earthquake]]s and [[landslide]]s. However, with the existence of earthquakes, further volcanism is expected and would probably have effects on the surrounding landscape. Because of these concerns, significant support from Canadian university scientists have resulted in the construction of a baseline of knowledge on the state of volcanoes in Canada.&lt;ref name=&quot;AKB&quot;&gt;{{cite web|url=http://gsc.nrcan.gc.ca/volcanoes/mon_e.php |title=Monitoring volcanoes |work=Volcanoes of Canada |publisher=[[Natural Resources Canada]] |date=2009-02-26 |accessdate=2010-06-21 |deadurl=yes |archiveurl=https://web.archive.org/web/20080507152523/http://gsc.nrcan.gc.ca/volcanoes/mon_e.php |archivedate=May 7, 2008 }}&lt;/ref&gt;
+
+==Volcanic hazards==
+[[File:Lava Forks Provincial Park topo.png|thumb|right|alt=Overhead image of two lakes surrounded by vegetation and mountain ridges capped by glacial ice.|Topographic map of The Volcano and the surrounding landscape. Dark blue lines are creeks, moderate blue areas are glaciers, light blue patches are the Lava Lakes, green zones are vegetated areas and brown areas are lava flows erupted from The Volcano.]]
+At least seven eruptions have occurred in the Iskut-Unuk River volcanic field in the past 10,000&amp;nbsp;years. Since around 1600 all eruptions have occurred at The Volcano.&lt;ref name=&quot;QQU&quot;&gt;{{cite web|title=Iskut-Unuk River Cones|work=[[Global Volcanism Program]]|publisher=[[Smithsonian Institution]]|url=http://www.volcano.si.edu/world/volcano.cfm?vnum=1200-09-&amp;volpage=erupt|accessdate=2010-06-27}}&lt;/ref&gt; Its total eruption volume is estimated to be {{Convert|2.2|km3|mi3|abbr=on}}. Future eruptions from The Volcano will probably be similar in character to those that have occurred throughout its 360-year eruptive history.&lt;ref name=&quot;AS&quot;/&gt; There is a one in 200&amp;nbsp;chance per year of an eruption occurring in Canada and one in 220&amp;nbsp;chance per year of an effusive eruption.&lt;ref&gt;{{cite journal|title=Natural Hazards|series=The Vulnerability of Canada to Volcanic Hazards|last1=Stasiuk|first1=Mark V.|last2=Hickson|first2=Catherine J.|last3=Mulder|first3=Taimi|publisher=[[Springer Netherlands]]|year=2003|page=563|volume=28|issn=0921-030X}}&lt;/ref&gt; An eruption in the foreseeable future is probably more likely along the Northern Cordilleran Volcanic Province than in an unrelated volcanic zone outside the province. This is because the Northern Cordilleran Volcanic Province, which includes the Iskut-Unuk River Cones, is the most active volcanic zone in Canada.&lt;ref name=&quot;ANL&quot;&gt;{{cite web|url=http://gsc.nrcan.gc.ca/volcanoes/cat/belt_stikine_e.php |title=Stikine volcanic belt |work=Catalogue of Canadian volcanoes |publisher=[[Natural Resources Canada]] |date=2008-02-13 |accessdate=2010-06-21 |deadurl=yes |archiveurl=https://web.archive.org/web/20080615214726/http://gsc.nrcan.gc.ca/volcanoes/cat/belt_stikine_e.php |archivedate=June 15, 2008 }}&lt;/ref&gt;&lt;ref name=&quot;AS&quot;/&gt;
+
+===Effects===
+A small range of effects are expected from future eruptions at The Volcano. Its remote uninhabited location makes [[volcanic hazards]] less extreme and is therefore not very hazardous. Ash and rock fragments (tephra) ejected during lava fountain activity are unlikely to be high enough to disrupt regional air traffic. However, they could possibly endanger lower flying aircraft along the northern coastal corridor between [[Vancouver]] and Alaska.&lt;ref name=&quot;AS&quot;/&gt; The closest major air route is about {{Convert|170|km|mi|abbr=on}} to the east.&lt;ref&gt;{{cite web|url=http://gsc.nrcan.gc.ca/volcanoes/haz_e.php |title=Volcanic hazards |work=Volcanoes of Canada |publisher=[[Natural Resources Canada]] |date=2009-04-02 |accessdate=2010-06-20 |deadurl=yes |archiveurl=https://web.archive.org/web/20080516040529/http://gsc.nrcan.gc.ca/volcanoes/haz_e.php |archivedate=May 16, 2008 }}&lt;/ref&gt; Volcanic ash reduces visibility and can cause jet engine failure, as well as damage to other aircraft systems.&lt;ref&gt;{{cite web|last1=Neal|first1=Christina A.|last2=Casadevall|first2=Thomas J.|last3=Miller|first3=Thomas P.|last4=Hendley II|first4=James W.|last5=Stauffer|first5=Peter H.|title=Volcanic Ash–Danger to Aircraft in the North Pacific|publisher=[[United States Geological Survey]]|date=2004-10-14|url=http://pubs.usgs.gov/fs/fs030-97/|accessdate=2010-06-19}}&lt;/ref&gt;
+
+Lava flows emitted during future volcanic eruptions would likely be basaltic in nature based on the composition of its lavas produced during past volcanic activity.&lt;ref name=&quot;AS&quot;/&gt; Basaltic lava flows are low in [[silica]] content and can have speeds extending from {{Convert|15|to|50|km/h|-1|abbr=on}}.&lt;ref&gt;{{cite web|url=http://vulcan.wr.usgs.gov/Glossary/LavaFlows/description_lava_flows.html|title=Magma, Lava, Lava Flows, Lava Lakes, etc.|publisher=[[United States Geological Survey]]|date=2007-02-09|accessdate=2010-06-20}}&lt;/ref&gt; The last eruption at The Volcano 150&amp;nbsp;years ago had a large impact on fish, plant and animal inhabitants in the valley the lava flows travelled through to cross the Canada – United States border.&lt;ref name=&quot;HEPO&quot;&gt;{{cite web|title=Volcanoes|publisher=[[Natural Resources Canada]]|date=2007-09-05|url=http://atlas.nrcan.gc.ca/site/english/maps/environment/naturalhazards/volcanoes/1|accessdate=2010-06-20}}&lt;/ref&gt; Because of these circumstances, future eruptions may again block the flow of local water courses if the volume of the erupted lavas are significant enough. This would again have disastrous consequences for fish habitats and spawning grounds.&lt;ref name=&quot;AS&quot;/&gt; However, there are neither records of any impacts on people during this eruption, nor evidence that it was even witnessed by people.&lt;ref name=&quot;HEPO&quot;/&gt; A repeat of [[wildfire]]s in the Lava Fork valley is also a possibility due to the existence of vegetation on and around the erupted lavas.&lt;ref name=&quot;CBV&quot;/&gt;
+
+==See also==
+{{Portal|Volcanism of Canada|Mountains}}
+*[[Cinder Mountain]]
+*[[Cone Glacier Volcano]]
+*[[Iskut Canyon Cone]]
+*[[King Creek Cone]]
+*[[List of cinder cones]]
+*[[List of Northern Cordilleran volcanoes]]
+*[[List of volcanoes in Canada]]
+*[[Seconed Canyon Cone]]
+*[[Snippaker Creek Cone]]
+*[[Tom MacKay Creek Cone]]
+*[[Volcanology of Western Canada]]
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+*{{cite cgndb|id=JBPWH|title=The Volcano}}
+*{{cite bivouac|id=7358|title=The Volcano}}
+*[http://atlas.nrcan.gc.ca/site/english/maps/topo/map?mapsize=428%20380&amp;lat=56.4230555572&amp;long=-130.850277778&amp;mapxy=-2050597.26864+1409677.68319&amp;scale=5000000&amp;feature_na=The+Volcano&amp;location1=59&amp;unique_key=0cfbc10f849c20c3b586d59c26bf9ab2&amp;searchstring=The%20Volcano&amp;entity=MTN&amp;layers=fapfeature+fapfeature%20north_arrow%20other_features%20million_grid%20t50k_grid%20grid_50k_3%20roads%20hydrography%20boundary%20builtup%20vegetation%20populated_places%20railway%20power_network%20manmade_features%20designated_areas%20water_features%20water_saturated_soils%20relief%20contours%20toponymy%20contour%20nodata_ntdb_50k&amp;urlappend=%26unique_key%3D0cfbc10f849c20c3b586d59c26bf9ab2%26map.layer%5Btextzoom03%5D%3DFEATURE+POINTS+-2050584.75982+1409665.43347+END+TEXT+%22The%2BVolcano%22+END%26map.layer%5Btextzoom46%5D%3DFEATURE+POINTS+-2050584.75982+1409665.43347+END+TEXT+%22The%2BVolcano%22+END%26map.layer%5Barrowzoom03%5D%3DFEATURE+POINTS+-2050584.75982+1409665.43347+END+END &quot;The Volcano&quot;]. [[Atlas of Canada]]. Natural Resources Canada.
+{{commons category|Lava Fork}}
+
+{{Northern Cordilleran volcanoes}}
+{{Boundary Ranges}}
+{{featured article}}
+
+{{DEFAULTSORT:Volcano}}
+[[Category:Boundary Ranges]]
+[[Category:Holocene volcanoes]]
+[[Category:Northern Cordilleran Volcanic Province]]
+[[Category:Polygenetic cinder cones]]
+[[Category:Rift volcanoes]]
+[[Category:Stikine Country]]
+[[Category:Cinder cones of British Columbia]]</text>
+      <sha1>nsnfzbvkr6jdl431d889opdir9k46r2</sha1>
+    </revision>
+  </page>
+</mediawiki>

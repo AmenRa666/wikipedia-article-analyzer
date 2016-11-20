@@ -1,0 +1,109 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Annals of Medicine</title>
+    <ns>0</ns>
+    <id>24548800</id>
+    <revision>
+      <id>708588693</id>
+      <parentid>670330804</parentid>
+      <timestamp>2016-03-06T12:08:14Z</timestamp>
+      <contributor>
+        <username>Hazard-Bot</username>
+        <id>12923076</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:Bots|Bot]]: Adding {{Research help|Med}}; please leave feedback/comments at [[Wikipedia talk:Research help]] #ResHelp</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2257">{{Infobox journal
+| title = Annals of Medicine
+| cover = [[File:Annals of Medicine.jpg|180px]]
+| editor = [[Timo Partonen]]
+| discipline = [[Medicine]]
+| abbreviation = Ann. Med.
+| publisher = [[Taylor and Francis Group]]
+| country =
+| frequency = 8 issues per year
+| history = 1969–present
+| openaccess =
+| license =
+| impact = 3.886
+| impact-year = 2014
+| website = http://www.tandfonline.com/iann
+| link1 = http://www.tandfonline.com/iann
+| link1-name = Online access
+| link2 = http://www.tandfonline.com/iann
+| link2-name = Online archive
+| JSTOR =
+| OCLC = 19550892
+| LCCN = sn89036299
+| CODEN = ANMDEU
+| ISSN = 0785-3890
+| eISSN = 1365-2060
+ }}
+'''''Annals of Medicine''''' is a [[Peer review|peer-reviewed]] [[public health journal|medical journal]] that publishes research articles as well as reviews on a wide range of medical specialties, with a particular focus on [[internal medicine]]. The journal covers advances in the understanding of the [[pathogenesis]] of [[disease]]s and in how [[medicine]] and [[molecular genetics]] can be applied in daily [[Good Clinical Practice|clinical practice]]. The journal is published 8 times per year by [[Taylor and Francis Group]] and the [[editor-in-chief]] is Timo Partonen.&lt;ref&gt;{{cite web |url=http://www.tandfonline.com/iann
+|title= Editorial Board Members|accessdate=2009-10-23 |work=Annals of Medicine |publisher=Taylor and Francis}}&lt;/ref&gt;
+
+==Indexing and abstracting ==
+''Annals of Medicine'' is abstracted and indexed in  [[Index Medicus]], [[EMBASE]], [[Biological Abstracts]], [[Chemical Abstracts Service|Chemical Abstracts]], [[Current Awareness in Biological Sciences]], [[Current Contents]]/Clinical Medicine, Current Contents/Life Sciences, [[Psychological Abstracts]], [[Research Alert]], and the [[Science Citation Index]].&lt;ref&gt;{{cite web |url=http://www.tandfonline.com/iann|title=Aims and Scope |accessdate=2009-10-26 |work=Annals of Medicine |publisher=Taylor and Francis}}&lt;/ref&gt;
+
+== References ==
+{{Research help|Med}}
+&lt;references/&gt;
+
+== External links ==
+* {{Official website|http://www.tandfonline.com/iann
+}}
+
+[[Category:Publications established in 1969]]
+[[Category:General medical journals]]
+[[Category:Taylor &amp; Francis academic journals]]
+[[Category:English-language journals]]</text>
+      <sha1>ptal3gkuqyvgh2sdl4ymifmu0psq0ke</sha1>
+    </revision>
+  </page>
+</mediawiki>

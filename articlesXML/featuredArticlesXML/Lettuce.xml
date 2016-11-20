@@ -1,0 +1,296 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lettuce</title>
+    <ns>0</ns>
+    <id>57079</id>
+    <revision>
+      <id>745009343</id>
+      <parentid>744404159</parentid>
+      <timestamp>2016-10-18T19:44:53Z</timestamp>
+      <contributor>
+        <username>Bodhi Peace</username>
+        <id>4641607</id>
+      </contributor>
+      <comment>added [[Category:Hydroponic plants]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="43815">{{pp-vandalism|small=yes}}
+{{other uses}}
+{{speciesbox
+| name = Lettuce
+| image = Iceberg lettuce in SB.jpg
+| image_caption = Iceberg lettuce field
+| genus = Lactuca
+| species = sativa
+| authority = [[Carl Linnaeus|L.]]
+| synonyms =
+  {{plainlist |
+* ''[[Lactuca scariola]]'' var. ''sativa'' &lt;small&gt;(Moris)&lt;/small&gt;
+* ''L.&amp;nbsp;scariola'' var. ''integrata'' &lt;small&gt;([[Jean Charles Marie Grenier|Gren.]] and [[Dominique Alexandre Godron|Godr.]])&lt;/small&gt;
+* ''L.&amp;nbsp;scariola'' var. ''integrifolia'' &lt;small&gt;([[Günther Beck von Mannagetta und Lerchenau|G.Beck]])&lt;/small&gt;
+  }}
+| synonyms_ref = &lt;ref name=&quot;Kew&quot; /&gt;&lt;ref name=&quot;USDA&quot; /&gt;
+}}
+
+'''Lettuce''' (''Lactuca sativa'') is an [[annual plant]] of the daisy family, [[Asteraceae]]. It is most often grown as a [[leaf vegetable]], but sometimes for its stem and seeds.  Lettuce is most often used for [[salad]]s, although it is also seen in other kinds of food, such as soups, sandwiches and wraps; it can also be grilled.&lt;ref&gt;{{cite web|url=http://www.bbc.co.uk/food/recipes/grilledlettucewithgo_14300|title=Grilled lettuce with goats' cheese|publisher=BBC|accessdate=17 May 2013|author=Hugh Fearnley-Whittingstall}}&lt;/ref&gt;  One variety, the ''{{transl|zh|woju}}'' ({{lang|zh|莴苣}}), or [[celtuce|asparagus lettuce (celtuce)]], is grown for its stems, which are eaten either raw or cooked. In addition to its main use as a leafy green, it has also gathered religious and medicinal significance over centuries of human consumption.  Europe and North America originally dominated the market for lettuce, but by the late 20th century the consumption of lettuce had spread throughout the world.  World production of lettuce and [[chicory]] for [[calendar year]] 2013 was 24.9 million [[tonnes]], over half of which came from China.&lt;ref name=&quot;faostat&quot; /&gt;
+
+Lettuce was first cultivated by the [[ancient Egyptians]] who turned it from a [[weed]] whose seeds were used to produce oil, into a food plant grown for its succulent leaves and oil-rich seeds. Lettuce spread to the Greeks and Romans, the latter of whom gave it the name ''{{lang|la|[[lactuca]]}}'', from which the English ''lettuce'' is ultimately derived. By 50 AD, multiple types were described, and lettuce appeared often in medieval writings, including several [[herbal]]s. The 16th through 18th centuries saw the development of many [[variety (botany)|varieties]] in Europe, and by the mid-18th century cultivars were described that can still be found in gardens.
+
+Generally grown as a [[Hardiness (plants)|hardy]] annual, lettuce is easily cultivated, although it requires relatively low temperatures to prevent it from flowering quickly. It can be plagued by numerous [[Micronutrient deficiency|nutrient deficiencies]], as well as insect and mammal pests, and fungal and bacterial diseases. ''L. sativa'' [[hybrid (biology)|crosses]] easily within the species and with some other species within the ''Lactuca'' genus. Although this trait can be a problem to home gardeners who attempt to save seeds, biologists have used it to broaden the [[gene pool]] of cultivated lettuce varieties.
+
+Lettuce is a rich source of [[vitamin K]] and [[vitamin A]], and a moderate source of [[folate]] and [[iron]]. Contaminated lettuce is often a source of bacterial, viral and parasitic outbreaks in humans, including ''[[Escherichia coli|E. coli]]'' and ''[[Salmonella]]''.
+
+== Taxonomy and etymology ==
+[[File:Lactuca sativa seeds.jpg|thumb|''L. sativa'' seeds]]
+''Lactuca sativa'' is a member of the ''[[Lactuca]]'' (lettuce) genus and the Asteraceae (sunflower or aster) family.&lt;ref&gt;{{cite web|url=http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=36607|title=''Lactuca sativa'' L|publisher=Integrated Taxonomic Information System|accessdate=27 March 2010}}&lt;/ref&gt; The species was first described in 1753 by [[Carl Linnaeus]] in the second volume of his ''[[Species Plantarum]]''.&lt;ref&gt;{{cite web|url=http://www.nhm.ac.uk/our-science/data/linnaean-typification/search/detail.dsml?ID=492400&amp;listPageURL=list%2edsml%3fVarqtype%3dstarts%2bwith%26CVarqtype%3dstarts%2bwith%26CGenusqtype%3dstarts%2bwith%26CSpeciesqtype%3dstarts%2bwith%26Species%3dsativa%26sort%3dGenus%252cSpecies%26Speciesqtype%3dequals%26Genus%3dLactuca%26Genusqtype%3dstarts%2bwith%26CSspqtype%3dstarts%2bwith|title=The Linnaean Plant Name Typification Project|publisher=Natural History Museum|accessdate=17 December 2015}}&lt;/ref&gt; Synonyms for ''L.&amp;nbsp;sativa'' include ''Lactuca scariola'' var. ''sativa'',&lt;ref name=&quot;Kew&quot; /&gt; ''L.&amp;nbsp;scariola'' var. ''integrata'' and ''L.&amp;nbsp;scariola'' var. ''integrifolia''.&lt;ref&gt;{{cite web|url=http://plants.usda.gov/java/profile?symbol=LASA3|title=''Lactuca sativa'' L|publisher=United States Department of Agriculture|accessdate=2 April 2012}}&lt;/ref&gt; ''L.&amp;nbsp;scariola'' is itself a [[synonym]] for ''[[Lactuca serriola|L.&amp;nbsp;serriola]]'', the common wild or prickly lettuce.&lt;ref name=&quot;USDA&quot;&gt;{{cite web|url=http://plants.usda.gov/java/profile?symbol=LASE|title=''Lactuca serriola'' L|publisher=United States Department of Agriculture|accessdate=2 April 2012}}&lt;/ref&gt; ''L.&amp;nbsp;sativa'' also has many identified taxonomic [[species group|groups]], [[subspecies]] and [[Variety (botany)|varieties]], which delineate the various [[cultivar group]]s of domesticated lettuce.&lt;ref&gt;{{cite web|url=http://www.ars-grin.gov/misc/mmpnd/Lactuca.html|title=Sorting ''Lactuca'' Names|work=Multilingual Multiscript Plant Name Database|publisher=University of Melbourne|author=Porcher, Michael H.|accessdate=2 April 2012|year=2005}}&lt;/ref&gt; Lettuce is closely related to several ''Lactuca'' species from southwest Asia; the closest relationship is to ''L.&amp;nbsp;serriola'', an aggressive [[weed]] common in temperate and subtropical zones in much of the world.&lt;ref&gt;{{cite book|url=https://books.google.com/books?id=1hHSYoqY-AwC&amp;pg=PA157#v=onepage&amp;q&amp;f=false|title=Domestication of Plants in the Old World: The Origin and Spread of Domesticated Plants in Southwest Asia, Europe, and the Mediterranean Basin|author1=Zohary, Daniel |author2=Hopf, Maria |author3=Weiss, Ehud |publisher=Oxford University Press|year=2012|isbn=0-19-954906-0}}&lt;/ref&gt;
+
+The Romans referred to lettuce as ''lactuca'' (''lac'' meaning milk in Latin), an allusion to the white substance, now called latex, exuded by cut stems.&lt;ref name=&quot;Weaver170&quot; /&gt; This word has become the genus name, while ''sativa'' (meaning &quot;sown&quot; or &quot;cultivated&quot;) was added to create the species name.&lt;ref name=&quot;Katz376&quot;&gt;Katz and Weaver, p. 376.&lt;/ref&gt; The current word ''lettuce'', originally from [[Middle English]], came from the [[Old French]] ''letues'' or ''laitues'', which derived from the Roman name.&lt;ref&gt;{{cite book|page=300|title=The Oxford Dictionary of Word Histories|editor=Chantrell, Glynnis|publisher=Oxford University Press|year=2002|isbn=0-19-863121-9}}&lt;/ref&gt; The name ''romaine'' came from that type's use in the Roman papal gardens, while ''cos'', another term for [[romaine lettuce]], came from the earliest European seeds of the type from the Greek island of [[Kos|Cos]], a center of lettuce farming in the [[Byzantine Empire|Byzantine period]].&lt;ref name=&quot;Weaver172&quot;&gt;Weaver, p. 172.&lt;/ref&gt;
+
+==Description==
+[[File:Kropsla vruchten (Lactuca sativa fruits).jpg|thumb|Mature lettuce [[inflorescence]] in fruit]]
+Lettuce's native range spreads from the [[Mediterranean Sea|Mediterranean]] to [[Siberia]], although it has been transported to almost all areas of the world. Plants generally have a height and spread of {{convert|6|to|12|in|cm}}.&lt;ref&gt;{{cite web|url=http://www.missouribotanicalgarden.org/gardens-gardening/your-garden/plant-finder/plant-details/kc/a679/lactuca-sativa.aspx|title=''Lactuca sativa''|publisher=Missouri Botanical Garden|accessdate=27 March 2012}}&lt;/ref&gt; The leaves are colorful, mainly in the green and red color spectrums, with some [[Variegation|variegated]] varieties.&lt;ref name=&quot;FineCooking&quot; /&gt; There are also a few varieties with yellow, gold or blue-teal leaves.&lt;ref name=&quot;Ryder&quot;&gt;{{cite book|url=http://www.hort.purdue.edu/newcrop/proceedings1993/v2-528.html|chapter=New Directions in Salad Crops: New Forms, New Tools, and Old Philosophy|author1=Ryder, J.  |author2=Waycott, Williams|year=1993|pages= 528–532|editor=Janick, J and Simon J.E|title=New Crops|publisher=Wiley}}&lt;/ref&gt; Lettuces have a wide range of shapes and textures, from the dense heads of the iceberg type to the notched, scalloped, frilly or ruffly leaves of leaf varieties.&lt;ref name=&quot;FineCooking&quot;&gt;{{cite book|url=https://books.google.com/?id=eAyNxv2I1LoC&amp;pg=PA28&amp;dq=lettuce+leaf+color+range#v=onepage&amp;q=lettuce%20leaf%20color%20range&amp;f=false|page=28|title=Fine Cooking in Season: Your Guide to Choosing and Preparing the Season's Best|publisher=Taunton Press|year=2011|isbn=1-60085-303-X|author=Fine Cooking Magazine}}&lt;/ref&gt; Lettuce plants have a root system that includes a main [[taproot]] and smaller secondary roots. Some varieties, especially those found in the United States and Western Europe, have long, narrow taproots and a small set of secondary roots. Longer taproots and more extensive secondary systems are found in varieties from Asia.&lt;ref name=&quot;Ryder&quot; /&gt;
+
+Depending on the variety and time of year, lettuce generally lives 65–130 days from planting to harvesting. Because lettuce that flowers (through the process known as &quot;[[Bolting (horticulture)|bolting]]&quot;) becomes bitter and unsaleable, plants grown for consumption are rarely allowed to grow to maturity. Lettuce flowers more quickly in hot temperatures, while freezing temperatures cause slower growth and sometimes damage to outer leaves.&lt;ref&gt;{{cite web|url=http://ucanr.org/freepubs/docs/7216.pdf|title=Leaf Lettuce Production in California|author1=Smith, Richard |author2=Cahn, Michael |author3=Daugovish, Oleg |author4=Koike, Steven |author5=Natwick, Eric |author6=Smith, Hugh |author7=Subbarao, Krishna |author8=Takele, Etaferahu |author9=Turin, Thomas |publisher=University of California Vegetable Research and Information Center|accessdate=11 April 2012|format=PDF}}&lt;/ref&gt; Once plants move past the edible stage, they develop flower stalks up to {{convert|3|ft|m|sigfig=1}} high with small yellow blossoms.&lt;ref name=&quot;Weaver175&quot; /&gt; Like other members of the tribe [[Cichorieae]], lettuce [[inflorescence]]s (also known as [[Pseudanthium|flower heads]] or capitula) are composed of multiple [[floret]]s, each with a modified [[calyx (botany)|calyx]] called a [[pappus (flower structure)|pappus]] (which becomes the feathery &quot;parachute&quot; of the fruit), a corolla of five petals fused into a [[ligule]] or strap, and the reproductive parts. These include fused [[anther]]s that form a tube which surrounds a [[style (botany)|style]] and [[wikt:bipartite#Adjective|bipartite]] [[Stigma (botany)|stigma]]. As the anthers shed [[pollen]], the style elongates to allow the stigmas, now coated with pollen, to emerge from the tube.&lt;ref name=&quot;Ryder&quot; /&gt;&lt;ref&gt;{{cite web|url=http://www.efloras.org/florataxon.aspx?flora_id=1&amp;taxon_id=20701|title=187e. Asteraceae Martinov tribe Cichorieae|work=Flora of North America|publisher=Efloras.org|accessdate=24 September 2012}}&lt;/ref&gt; The ovaries form compressed, [[obovate]] (teardrop-shaped) dry fruits that do not open at maturity, measuring 3 to 4&amp;nbsp;mm long. The fruits have 5–7 ribs on each side and are tipped by two rows of small white hairs. The pappus remains at the top of each fruit as a [[biological dispersal|dispersal]] structure. Each fruit contains one seed, which can be white, yellow, gray or brown depending on the variety of lettuce.&lt;ref name=&quot;Kew&quot;&gt;{{cite web|url=http://www.kew.org/science-research-data/kew-in-depth/difficult-seeds/species-profiles/lactuca-sativa/index.htm|archiveurl=https://web.archive.org/web/20121102090341/http://www.kew.org/science-research-data/kew-in-depth/difficult-seeds/species-profiles/lactuca-sativa/index.htm|archivedate=2012-11-02|title=''Lactuca sativa''|publisher=Kew Royal Botanical Gardens|accessdate=2 April 2012}}&lt;/ref&gt;
+
+The domestication of lettuce over the centuries has resulted in several changes through [[selective breeding]]: delayed bolting, larger seeds, larger leaves and heads, better taste and texture, a lower [[latex]] content, and different leaf shapes and colors. Work in these areas continues through the present day.&lt;ref name=&quot;Davey222&quot;&gt;Davey, et al., pp. 222–225.&lt;/ref&gt; Scientific research into the [[genetic modification]] of lettuce is ongoing, with over 85 field trials taking place between 1992 and 2005 in the European Union and United States to test modifications allowing greater [[herbicide]] tolerance, greater resistance to insects and fungi and slower bolting patterns. However, genetically modified lettuce is not currently used in commercial agriculture.&lt;ref&gt;{{cite web|url=http://www.gmo-compass.org/eng/database/plants/65.lettuce.html|title=Lettuce|publisher=GMO Compass|accessdate=3 April 2012}}&lt;/ref&gt;
+
+== History ==
+[[File:Romaine.jpg|thumb|left|upright|[[Romaine lettuce]], a descendant of some of the earliest cultivated lettuce]]
+Lettuce was first cultivated in [[ancient Egypt]] for the production of oil from its seeds. This plant was probably selectively bred by the Egyptians into a plant grown for its edible leaves,&lt;ref name=&quot;Katz375&quot;&gt;Katz and Weaver, pp. 375–376.&lt;/ref&gt; with evidence of its cultivation appearing as early as 2680 BC.&lt;ref name=&quot;Weaver170&quot; /&gt; Lettuce was considered a sacred plant of the reproduction god [[Min (god)|Min]], and it was carried during his festivals and placed near his images. The plant was thought to help the god &quot;perform the sexual act untiringly.&quot;&lt;ref&gt;{{cite book|url=https://books.google.com/?id=Q1LAiPylZm4C&amp;pg=PA95&amp;lpg=PA95&amp;dq=lettuce+in+egyptian+ritual#v=onepage&amp;q=lettuce%20in%20egyptian%20ritual&amp;f=false|author=Hart, George|title=The Routledge Dictionary of Egyptian Gods and Goddesses|edition=2nd|publisher=Routledge|year=2005|isbn=1-134-28424-1|page=95}}&lt;/ref&gt; Its use in religious ceremonies resulted in the creation of many images in tombs and wall paintings. The cultivated variety appears to have been about {{convert|30|in|cm}} tall and resembled a large version of the modern [[romaine lettuce]]. These upright lettuces were developed by the Egyptians and passed to the Greeks, who in turn shared them with the Romans. Circa 50 AD, Roman agriculturalist [[Columella]] described several lettuce varieties&amp;nbsp;– some of which may have been ancestors of today's lettuces.&lt;ref name=&quot;Weaver170&quot;&gt;Weaver, pp. 170–172.&lt;/ref&gt;
+
+Lettuce appears in many medieval writings, especially as a medicinal herb. [[Hildegard of Bingen]] mentioned it in her writings on medicinal herbs between 1098 and 1179, and many early [[herbal]]s also describe its uses. In 1586, [[Joachim Camerarius]] provided descriptions of the three basic modern lettuces&amp;nbsp;– head lettuce, loose-leaf lettuce, and romaine (or cos) lettuce.&lt;ref name=&quot;Weaver172&quot; /&gt; Lettuce was first brought to the Americas from Europe by [[Christopher Columbus]] in the late 15th century.&lt;ref name=&quot;CDC&quot; /&gt;&lt;ref&gt;{{cite book|url=https://books.google.com/?id=DxrMm9lMFUAC&amp;pg=PA313&amp;dq=Christopher+Columbus+lettuce+new+world#v=onepage&amp;q=Christopher%20Columbus%20lettuce%20new%20world&amp;f=false|chapter=Lettuce Diseases: Ecology and Control|author1=Subbarao, Krishna V.  |author2=Koike, Steven T.|title=Encyclopedia of Pest Management, Volume 2|editor=Pimentel, David|publisher=CRC Press|year=2007|isbn=1-4200-5361-2|page=313}}&lt;/ref&gt; Between the late 16th century and the early 18th century, many varieties were developed in Europe, particularly Holland. Books published in the mid-18th and early 19th centuries describe several varieties found in gardens today.&lt;ref name=&quot;Weaver173&quot;&gt;Weaver, pp. 172–173.&lt;/ref&gt;
+
+Due to its short lifespan after harvest, lettuce was originally sold relatively close to where it was grown. The early 20th century saw the development of new packing, storage and shipping technologies that improved the lifespan and transportability of lettuce and resulted in a significant increase in availability.&lt;ref name=&quot;CommProfile&quot; /&gt; During the 1950s, lettuce production was revolutionized with the development of [[vacuum cooling]], which allowed field cooling and packing of lettuce, replacing the previously used method of ice-cooling in packing houses outside the fields.&lt;ref&gt;{{cite journal|url=http://ucce.ucdavis.edu/files/repositoryfiles/ca1011p3-64576.pdf|format=PDF|title=House Packing Western Lettuce|author1=Enochian, R.V.  |author2=Smith, F.J|journal=California Agriculture|date=November 1956}}&lt;/ref&gt;
+
+Lettuce is very easy to grow, and as such has been a significant source of sales for many [[seed companies]]. Tracing the history of many varieties is complicated by the practice of many companies, particularly in the US, of changing a variety's name from year to year. This was done for several reasons, the most prominent being to boost sales by promoting a &quot;new&quot; variety or to prevent customers from knowing that the variety had been developed by a competing seed company. Documentation from the late 19th century shows between 65 and 140 distinct varieties of lettuce, depending on the amount of variation allowed between types&amp;nbsp;– a distinct difference from the 1,100 named lettuce varieties on the market at the time. Names also often changed significantly from country to country.&lt;ref&gt;Weaver, pp. 173–174.&lt;/ref&gt; Although most lettuce grown today is used as a vegetable, a minor amount is used in the production of [[tobacco-free cigarettes]]; however, domestic lettuce's wild relatives produce a leaf that visually more closely resembles tobacco.&lt;ref name=&quot;Katz377&quot; /&gt;
+
+== Cultivation ==
+[[File:Park Lane Nurseries - geograph.org.uk - 583201.jpg|thumb|right|200px|A lettuce-growing facility in the [[United Kingdom]]]]
+A [[Hardiness (plants)|hardy]] annual, some varieties of lettuce can be [[Overwintering|overwintered]] even in relatively cold climates under a layer of straw, and older, [[heirloom variety|heirloom varieties]] are often grown in [[cold frame]]s.&lt;ref name=&quot;Weaver173&quot; /&gt; Lettuces meant for the cutting of individual leaves are generally planted straight into the garden in thick rows. Heading varieties of lettuces are commonly started in flats, then [[transplanting|transplant]]ed to individual spots, usually {{convert|8|to|14|in|cm}} apart, in the garden after developing several leaves. Lettuce spaced further apart receives more sunlight, which improves color and nutrient quantities in the leaves. Pale to white lettuce, such as the centers in some iceberg lettuce, contain few nutrients.&lt;ref name=&quot;Weaver175&quot; /&gt;
+
+[[File:Planche Lactuca sativa.jpg|thumb|left|A transplanted bed of lettuce in a [[greenhouse]]]]
+Lettuce grows best in full sun in loose, [[nitrogen]]-rich soils with a [[soil pH|pH]] of between 6.0 and 6.8. Heat generally prompts lettuce to [[bolt (horticulture)|bolt]], with most varieties growing poorly above {{convert|75|F|C}}; cool temperatures prompt better performance, with {{convert|60|to|65|F|C}} being preferred and as low as {{convert|45|F|C}} being tolerated.&lt;ref name=&quot;Bradley129&quot; /&gt; Plants in hot areas that are provided partial shade during the hottest part of the day will bolt more slowly. Temperatures above {{convert|80|F|C}} will generally result in poor or non-existent germination of lettuce seeds.&lt;ref name=&quot;Bradley129&quot; /&gt; After harvest, lettuce lasts the longest when kept at {{convert|32|F|C}} and 96 percent humidity. Lettuce quickly degrades when stored with fruit such as apples, pears and bananas that release the ripening agent [[ethylene|ethylene gas]]. The high water content of lettuce (94.9 percent) creates problems when attempting to preserve the plant&amp;nbsp;– it cannot be successfully frozen, canned or dried and must be eaten fresh.&lt;ref name=&quot;UI&quot; /&gt;
+
+Lettuce varieties will [[Hybrid (biology)|cross]] with each other, making spacing of {{convert|5|to|20|ft|m}} between varieties necessary to prevent contamination when saving seeds. Lettuce will also cross with ''[[Lactuca serriola]]'' (wild lettuce), with the resulting seeds often producing a plant with tough, bitter leaves. [[Celtuce]], a lettuce variety grown primarily in Asia for its stems, crosses easily with lettuces grown for their leaves.&lt;ref name=&quot;Weaver175&quot;&gt;Weaver, pp. 175–176.&lt;/ref&gt; This propensity for crossing, however, has led to breeding programs using closely related species in ''Lactuca'', such as ''L. serriola'', ''[[Lactuca saligna|L. saligna]]'', and ''[[Lactuca virosa|L. virosa]]'', to broaden the available [[gene pool]]. Starting in the 1990s, such programs began to include more distantly related species such as ''[[Lactuca tatarica|L. tatarica]]''.&lt;ref&gt;{{cite journal| url = http://www.amjbot.org/cgi/content/full/85/11/1517 | title = Phylogenetic relationships among ''Lactuca'' (Asteraceae) species and related genera based on ITS-1 DNA sequences | author = Koopman, Wim J.M.; Guetta, Eli; van de Wiel, Clemens C.M.; Vosman, Ben; van den Berg, Ronald G | journal = American Journal of Botany | year = 1998 | volume = 85 | pages = 1517–1530 | doi = 10.2307/2446479 | jstor = 2446479 | issue = 11 | pmid = 21680311}}&lt;/ref&gt; Seeds keep best when stored in cool conditions, and, unless stored [[cryogenics|cryogenically]], remain viable the longest when stored at {{convert|-4|F|C}}; they are relatively short lived in storage.&lt;ref name=&quot;Kew&quot; /&gt; At room temperature, lettuce seeds remain viable for only a few months. However, when newly harvested lettuce seed is stored cryogenically, this life increases to a [[half-life]] of 500 years for vaporized nitrogen and 3,400 years for liquid nitrogen; this advantage is lost if seeds are not frozen promptly after harvesting.&lt;ref&gt;Davey, et al., p. 241.&lt;/ref&gt;
+
+=== Cultivars ===
+[[File:Lettuce mix.jpg|thumb|A selection of lettuce cultivars]]
+There are several types of lettuce, but three (leaf, head and cos or romaine) are the most common.&lt;ref name=&quot;Bradley129&quot;&gt;Bradley, p. 129.&lt;/ref&gt; There are seven main cultivar groups of lettuce, each including many varieties:
+* Leaf&amp;nbsp;– Also known as looseleaf, cutting or bunching lettuce,&lt;ref name=&quot;WSU&quot; /&gt; this type has loosely bunched leaves and is the most widely planted. It is used mainly for salads.&lt;ref name=&quot;UI&quot;&gt;{{cite web|url=http://urbanext.illinois.edu/veggies/lettuce.cfm|title=Lettuce|publisher=University of Illinois Extension|accessdate=25 March 2012}}&lt;/ref&gt;
+* [[Romaine lettuce|Romaine]]/Cos&amp;nbsp;– Used mainly for salads and sandwiches, this type forms long, upright heads.&lt;ref name=&quot;UI&quot; /&gt; This is the most often used lettuce in [[Caesar salad]]s.&lt;ref name=&quot;CDC&quot;&gt;{{cite web|url=http://www.fruitsandveggiesmatter.gov/month/lettuce.html|title=Vegetable of the Month: Lettuce|publisher=Centers for Disease Control and Prevention|accessdate=26 March 2012}}&lt;/ref&gt;
+* Iceberg/Crisphead - the most popular type in the US, it is very heat-sensitive and was originally adapted for growth in the northern US. It ships well, but is low in flavor and nutritional content, being composed of even more water than other lettuce types.&lt;ref name=&quot;UI&quot; /&gt;
+* Butterhead&amp;nbsp;– Also known as Boston or Bibb lettuce,&lt;ref name=&quot;WSU&quot; /&gt; this type is a head lettuce with a loose arrangement of leaves, known for its sweet flavor and tender texture.&lt;ref name=&quot;UI&quot; /&gt;
+[[File:Yangzhou - supermarket - woju - P1070028.JPG|thumb|The lettuce variety [[celtuce]] is grown for its stem, used in [[Chinese cooking]]]]
+* Summercrisp&amp;nbsp;– Also called Batavian or French crisp, this lettuce is midway between the crisphead and leaf types. These lettuces tend to be larger, bolt-resistant and well-flavored.&lt;ref name=&quot;WSU&quot;&gt;{{cite web|url=http://vegetables.wsu.edu/winterlettuce.html|title=Winter Lettuce|publisher=Washington State University|accessdate=26 March 2012|author=Miles, Carol}}&lt;/ref&gt;
+* [[Celtuce|Stem]]&amp;nbsp;– This type is grown for its seedstalk, rather than its leaves, and is used in Asian cooking, primarily Chinese, as well as stewed and creamed dishes.&lt;ref name=&quot;UI&quot; /&gt;
+* Oilseed&amp;nbsp;– This type is grown for its seeds, which are pressed to extract an oil mainly used for cooking. It has few leaves, bolts quickly and produces seeds around 50 percent larger than other types of lettuce.&lt;ref&gt;Katz and Weaver, p. 375.&lt;/ref&gt;
+The butterhead and crisphead types are sometimes known together as &quot;cabbage&quot; lettuce, because their heads are shorter, flatter, and more cabbage-like than romaine lettuces.&lt;ref&gt;{{cite book|url=https://books.google.com/?id=SsQ8XBJkGG8C&amp;pg=PA12&amp;lpg=PA12&amp;dq=crisphead+cabbage+lettuce#v=onepage&amp;q=crisphead%20cabbage%20lettuce&amp;f=false|title=The Organic Salad Garden|page=12|author1=Larkcom, Joy  |author2=Phillips, Roger|publisher=Frances Lincoln Ltd|year=2003|isbn=0-7112-2204-5}}&lt;/ref&gt;
+
+=== Cultivation problems ===
+[[File:Starr 081031-0356 Lactuca sativa.jpg|thumb|upright|A lettuce surrounded by weeds, which have crowded it to the point of [[bolting (horticulture)|bolting]]]]
+{{see also|List of lettuce diseases}}
+
+Soil nutrient deficiencies can cause a variety of plant problems that range from malformed plants to a lack of head growth.&lt;ref name=&quot;Bradley129&quot; /&gt; Many insects are attracted to lettuce, including [[cutworm]]s, which cut seedlings off at the soil line; [[wireworm]]s and [[nematode]]s, which cause yellow, stunted plants; [[tarnished plant bug]]s and [[aphid]]s, which cause yellow, distorted leaves; [[leafhopper]]s, which cause stunted growth and pale leaves; [[thrip]]s, which turn leaves gray-green or silver; [[leafminer]]s, which create tunnels within the leaves; [[flea beetle]]s, which cut small holes in leaves and [[caterpillar]]s, [[slug]]s and [[snail]]s, which cut large holes in leaves. Mammals, including rabbits and groundhogs, also eat the plants.&lt;ref name=&quot;Bradley132&quot;&gt;Bradley, pp. 129–132.&lt;/ref&gt; Lettuce contains several defensive compounds, including [[sesquiterpene lactone]]s, and other natural phenolics such as [[flavonol]] and [[Flavonols#Flavonols glycosides|glycosides]], which help to protect it against pests. Certain varieties contain more than others, and some selective breeding and genetic modification studies have focused on using this trait to identify and produce commercial varieties with increased pest resistance.&lt;ref&gt;{{cite web|url=http://www.reeis.usda.gov/web/crisprojectpages/198636.html|title=Developing Multi-Species Insect Resistance in Romaine Lettuce|publisher=United States Department of Agriculture|accessdate=5 April 2012}}&lt;/ref&gt;
+
+Lettuce also suffers from several [[Plant virus|viral diseases]], including [[Lettuce big-vein disease|big vein]], which causes yellow, distorted leaves, and [[mosaic virus]], which is spread by aphids and causes stunted plant growth and deformed leaves. [[Aster yellows]] are a disease-causing bacteria carried by leafhoppers, which causes deformed leaves. Fungal diseases include [[powdery mildew]] and [[downy mildew]], which cause leaves to mold and die and [[Fungicide use in the United States#Bottom rot|bottom rot]], [[Fungicide use in the United States#Lettuce drop|lettuce drop]] and [[gray mold]], which cause entire plants to rot and collapse.&lt;ref name=&quot;Bradley132&quot; /&gt; Crowding lettuce tends to attract pests and diseases.&lt;ref name=&quot;Weaver175&quot; /&gt; Weeds can also be an issue, as cultivated lettuce is generally not competitive with them, especially when directly seeded into the ground. Transplanted lettuce (started in flats and later moved to growing beds) is generally more competitive initially, but can still be crowded later in the season, causing misshapen lettuce and lower yields. Weeds also act as homes for insects and disease and can make harvesting more difficult.&lt;ref&gt;{{cite web|url=http://www.ipm.ucdavis.edu/PMG/r441700111.html|title=Lettuce: Integrated Weed Management|work=UC Pest Management Guidelines|publisher=University of California|date=August 2007|accessdate=3 April 2012}}&lt;/ref&gt; Herbicides are often used to control weeds in commercial production. However, this has led to the development of [[herbicide-resistant]] weeds and prompted environmental and health concerns.&lt;ref name=&quot;Davey222&quot; /&gt;
+
+== Production ==
+{| class=&quot;wikitable&quot; style=&quot;float:right; margin: 0 0 0.5em 1em&quot;
+|+ Top lettuce-producing countries &lt;br /&gt;&lt;small&gt;(in millions of tonnes)
+!Country
+!2013
+|-
+|&lt;center&gt;{{CHN}} || &lt;center&gt;13.5
+|-
+|&lt;center&gt;{{USA}} || &lt;center&gt;3.6
+|-
+|&lt;center&gt;{{IND}} || &lt;center&gt;1.1
+|-
+|&lt;center&gt;{{ESP}} || &lt;center&gt;0.9
+|-
+|&lt;center&gt;{{ITA}} || &lt;center&gt;0.8
+|- style=&quot;background:#ccc;&quot;
+|&lt;center&gt;'''World''' || &lt;center&gt;24.9
+|-
+|colspan=6 | ''Source: [[FAO|UN Food &amp; Agriculture Organization]]'' &lt;ref name=&quot;faostat&quot;&gt;{{cite web|url=http://faostat3.fao.org/browse/Q/QC/E|publisher= [[FAO|UN Food &amp; Agriculture Organization]], Statistics Division (FAOSTAT)|title=Production of Lettuce &amp; Chicory by countries for 2013|year=2013|accessdate=14 June 2015}}&lt;/ref&gt;
+|}
+
+In 2013, world production of lettuce (report combined with [[chicory]]) was 24.9 million tonnes, with China alone producing 13.5 million tonnes (table).
+
+Lettuce is the only member of the ''Lactuca'' genus to be grown commercially.&lt;ref&gt;{{cite book|url=https://books.google.com/books?id=iPgTGhaGRl4C&amp;pg=PA296#v=onepage&amp;q&amp;f=false|title=Vegetable Diseases: A Color Handbook|page=296|publisher=Gulf Professional Publishing|year=2006|author1=Koike, Steven T |author2=Gladders, Peter |author3=Paulus, Albert O. |isbn=0-12-373675-7}}&lt;/ref&gt; Although China is the top world producer of lettuce, the majority of the crop is consumed domestically. Spain is the world's largest exporter of lettuce, with the US ranking second.&lt;ref name=&quot;CommProfile&quot;&gt;{{cite web|url=http://aic.ucdavis.edu/profiles/lettuce-2005.pdf|title=Commodity Profile: Lettuce|format=PDF|date=October 2005|publisher=University of California|author1=Boriss, Hayley  |author2=Brunke, Henrich|accessdate=1 July 2012}}&lt;/ref&gt;
+
+Western Europe and North America were the original major markets for large-scale lettuce production. By the late 1900s, Asia, South America, Australia and Africa became more substantial markets. Different locations tended to prefer different types of lettuce, with butterhead prevailing in northern Europe and Great Britain, romaine in the Mediterranean and stem lettuce in China and Egypt. By the late 20th century, the preferred types began to change, with crisphead, especially iceberg, lettuce becoming the dominant type in northern Europe and Great Britain and more popular in western Europe. In the US, no one type predominated until the early 20th century, when crisphead lettuces began gaining popularity. After the 1940s, with the development of iceberg lettuce, 95 percent of the lettuce grown and consumed in the US was crisphead lettuce. By the end of the century, other types began to regain popularity and eventually made up over 30 percent of production.&lt;ref name=&quot;Katz378&quot;&gt;Katz and Weaver, p. 378.&lt;/ref&gt; Stem lettuce was first developed in China, and remains primarily cultivated in that country.&lt;ref name=&quot;Simoons&quot;&gt;{{cite book|url=https://books.google.com/?id=Fo087ZxohA4C&amp;pg=PA148&amp;lpg=PA148&amp;dq=lettuce+consumption+in+china#v=onepage&amp;q=lettuce%20consumption%20in%20china&amp;f=false|title=Food in China: A Cultural and Historical Inquiry|author=Simoons, Frederick J.|pages=147–148|isbn=0-8493-8804-X|publisher=CRC Press|year=1991}}&lt;/ref&gt;
+
+Lettuce production methods, including all of the processes from growing to sales, have become much larger in scale during the 20th century. The majority of agricultural production is done with the application of large amounts of chemicals, including [[fertilizer]]s and [[pesticide]]s, but [[organic production]] makes up a growing percentage of the market&amp;nbsp;– a trend that began with small growers but moved to a more industrial scale. More non-heading types, mostly leaf and romaine lettuces, are also being grown.&lt;ref name=&quot;Katz378&quot; /&gt; In the first years of the 21st century, bagged salad products began to hold a growing portion of the lettuce market, especially in the US. Processed from what was previously waste lettuce not considered acceptable for the fresh market, these products are packaged in a manner that makes them last longer than standard head lettuce after harvest.&lt;ref&gt;{{cite journal|title=Lettuce Grows Into A Processed Food|url=http://articles.latimes.com/2002/aug/19/business/fi-lettuce19|journal=Los Angeles Times|author=Fulmer, Melinda|date=19 August 2002|accessdate=30 June 2012}}&lt;/ref&gt; 
+
+In the United States in 2013, [[California]] (71%) and [[Arizona]] (29%) produced nearly all of the country's fresh head and leaf lettuce, with head lettuce yielding $9400 of value per acre and leaf lettuce $8000 per acre.&lt;ref name=&quot;agmrc&quot;&gt;{{cite web | url=http://www.agmrc.org/commodities-products/vegetables/lettuce/ | title=Lettuce | publisher=Agricultural Marketing Resource Center, Iowa State University | date=May 2015 | accessdate=7 October 2016}}&lt;/ref&gt;
+
+== Culinary use ==
+As described around 50 AD, lettuce leaves were often cooked and served by the Romans with an oil-and-vinegar dressing; however, smaller leaves were sometimes eaten raw. During the 81–96 AD reign of [[Domitian]], the tradition of serving a lettuce [[salad]] before a meal began. Post-Roman Europe continued the tradition of [[Poaching (cooking)|poaching]] lettuce, mainly with large romaine types, as well as the method of pouring a hot oil and vinegar mixture over the leaves.&lt;ref name=&quot;Weaver170&quot; /&gt; Today, the majority of lettuce is grown for its leaves, although one type is grown for its stem and one for its seeds, which are made into an oil.&lt;ref name=&quot;Katz375&quot; /&gt; Most lettuce is used in salads, either alone or with other greens, vegetables, meats and cheeses. Romaine lettuce is often used for [[Caesar salad]]s, with a dressing that includes [[anchovy|anchovies]] and eggs. Lettuce leaves can also be found in soups, sandwiches and wraps, while the stems are eaten both raw and cooked.&lt;ref name=&quot;Katz376&quot; /&gt; The consumption of lettuce in China developed differently from in Western countries, due to health risks and cultural aversion to eating raw leaves. In that country, &quot;salads&quot; were created from cooked vegetables and served hot or cold. Lettuce was also used in a larger variety of dishes than in Western countries, contributing to a range of dishes including [[bean curd]] and meat dishes, soups and [[stir-fry]]s plain or with other vegetables. Stem lettuce, widely consumed in China, is eaten either raw or cooked, the latter primarily in soups and stir-frys.&lt;ref name=&quot;Simoons&quot; /&gt; Lettuce is also used as a primary ingredient in the preparation of [[lettuce soup]].
+
+== Nutritional content ==
+{{nutritional value | name=Lettuce (butterhead)
+| water=95.63 g 
+| kJ=55 
+| protein=1.35 g 
+| fat=0.22 g 
+| carbs=2.23 g 
+| fiber=1.1 g
+| sugars=0.94
+| calcium_mg=35
+| iron_mg=1.24
+| magnesium_mg=13
+| phosphorus_mg=33 
+| potassium_mg=238
+| sodium_mg=5
+| zinc_mg=0.2
+| manganese_mg=0.179 
+| vitC_mg=3.7
+| thiamin_mg=0.057
+| riboflavin_mg=0.062
+| pantothenic_mg=0.15
+| vitB6_mg=0.082
+| folate_ug=73
+| vitA_ug=166 
+| betacarotene_ug=1987
+| lutein_ug=1223
+| vitE_mg=0.18
+| vitK_ug=102.3 
+| source_usda=1
+| note=[http://ndb.nal.usda.gov/ndb/foods/show/3000 Link to USDA Database entry]
+}}
+
+Depending on the variety, lettuce is an excellent source (20% of the [[Daily Value]], DV, or higher) of [[vitamin K]] (97% DV) and [[vitamin A]] (21% DV) (table), with higher concentrations of the [[provitamin A]] compound, [[beta-carotene]], found in darker green lettuces, such as Romaine.&lt;ref name=&quot;UI&quot;/&gt; With the exception of the iceberg variety, lettuce is also a good source (10-19% DV) of [[folate]] and [[iron]] (table).&lt;ref name=&quot;UI&quot;/&gt;
+
+== Food-borne illness ==
+[[Food-borne illness|Food-borne]] [[pathogen]]s that can survive on lettuce include ''[[Listeria monocytogenes]]'', the causative agent of [[listeriosis]], which multiplies in storage. However, despite high levels of bacteria being found on ready-to-eat lettuce products, a 2008 study found no incidences of food-borne illness related to listeriosis, possibly due to the product's short [[shelf life]], indigenous microflora competing with the ''Listeria'' bacteria or inhibition of bacteria to cause listeriosis.&lt;ref&gt;{{cite journal|title=Precut prepackaged lettuce: a risk for listeriosis?|author1=Hanning, I.B. |author2=Johnson, M.G. |author3=Ricke, S.C |journal=Foodborne Pathogens and Disease|date=December 2008|volume=5|issue=6|pages=731–746|pmid=18847382|doi=10.1089/fpd.2008.0142}}&lt;/ref&gt;
+
+Other bacteria found on lettuce include ''[[Aeromonas]]'' species, which have not been linked to any outbreaks; ''[[Campylobacter]]'' species, which cause [[campylobacteriosis]]; and ''[[Yersinia intermedia]]'' and ''[[Yersinia kristensenii]]'' (species of ''[[Yersinia]]''), which have been found mainly in lettuce.&lt;ref name=&quot;FDA&quot;&gt;{{cite web|url=http://www.fda.gov/Food/ScienceResearch/ResearchAreas/SafePracticesforFoodProcesses/ucm091265.htm|archiveurl=https://web.archive.org/web/20121109123857/http://www.fda.gov/Food/ScienceResearch/ResearchAreas/SafePracticesforFoodProcesses/ucm091265.htm|archivedate=2012-11-09|title=Chapter IV. Outbreaks Associated with Fresh and Fresh-Cut Produce. Incidence, Growth, and Survival of Pathogens in Fresh and Fresh-Cut Produce|publisher=US Food and Drug Administration|accessdate=19 April 2012|work=Analysis and Evaluation of Preventive Control Measures for the Control and Reduction/Elimination of Microbial Hazards on Fresh and Fresh-Cut Produce|date=12 April 2012}}&lt;/ref&gt; Lettuce has been linked to numerous outbreaks of the bacteria ''[[E. coli O157:H7]]'' and ''[[Shigella]]''; the plants were most likely contaminated through contact with animal feces.&lt;ref&gt;{{cite web|url=http://www.ext.colostate.edu/pubs/foodnut/09369.html|title=Preventing ''E. coli'' from Garden to Plate|publisher=Colorado State University|author1=Davis, J. G. |author2=Kendall, P.|accessdate=26 March 2012}}&lt;/ref&gt; A 2007 study determined that the vacuum cooling method, especially prevalent in the California lettuce industry, increased the uptake and survival rates of ''E. coli O157:H7''.&lt;ref&gt;{{cite journal|title=Impact of Vacuum Cooling on ''Escherichia coli'' O157:H7 Infiltration into Lettuce Tissue|journal=Applied and Environmental Microbiology|year=2008|volume=74|issue=10|pages=3138–42|pmid=18344328|pmc=2394940|doi=10.1128/AEM.02811-07|author1=Li|first1=Haiping|last2=Tajkarimi|first2=Mehrdad|last3=Osburn|first3=Bennie I|authorlink3=Bennie Osburn}}&lt;/ref&gt; ''[[Salmonella]]'' bacteria, including the uncommon ''[[Salmonella braenderup]]'' type, have also caused outbreaks traced to contaminated lettuce.&lt;ref&gt;{{cite journal|title=Multiple outbreaks of ''Salmonella braenderup'' associated with consumption of iceberg lettuce|journal=International Journal of Environmental Health Research|volume=22|issue=2|date=April 2012|author1=Gajraj, Roger |author2=Pooransingh, Shalini |author3=Hawker, Jeremy |author4=Olowokure, Babatunde |pages=150–155|doi=10.1080/09603123.2011.613114|pmid=21916661}}&lt;/ref&gt; Viruses, including [[hepatitis A]], [[calicivirus]] and a [[Norwalk virus|Norwalk-like]] strain, have been found in lettuce. The vegetable has also been linked to outbreaks of parasitic infestations, including ''[[Giardia lamblia]]''.&lt;ref name=&quot;FDA&quot; /&gt;
+
+== Religious and medicinal lore ==
+In addition to its usual purpose as an edible leafy vegetable, lettuce has had a number of uses in ancient (and even some more modern) times as a medicinal herb and religious symbol. For example, ancient Egyptians thought lettuce to be a symbol of sexual prowess&lt;ref name=&quot;Katz378&quot; /&gt; and a promoter of love and childbearing in women. The Romans likewise claimed that it increased sexual potency.&lt;ref name=&quot;Watts226&quot;&gt;{{cite book|title=Dictionary of Plant Lore|author=Watts, Donald|url=https://books.google.com/?id=WAagnZNb0cAC&amp;pg=PA226&amp;dq=Medicinal+uses+of+lettuce#v=onepage&amp;q=Medicinal%20uses%20of%20lettuce&amp;f=false|publisher=Academic Press|year=2007|isbn=0-12-374086-X|page=226}}&lt;/ref&gt; In contrast, the ancient Greeks connected the plant with male impotency,&lt;ref name=&quot;Weaver170&quot; /&gt; and served it during funerals (probably due to its role in the myth of [[Adonis]]' death), and British women in the 19th century believed it would cause infertility and sterility. Lettuce has mild [[narcotic]] properties; it was called &quot;sleepwort&quot; by the [[Anglo-Saxons]] because of this attribute, although the cultivated ''L. sativa'' has lower levels of the narcotic than its wild cousins.&lt;ref name=&quot;Watts226&quot; /&gt; This narcotic effect is a property of two [[sesquiterpene lactone]]s which are found in the white liquid ([[latex]]) in the stems of lettuce,&lt;ref name=&quot;Katz377&quot;&gt;Katz and Weaver, p. 377.&lt;/ref&gt; called [[lactucarium]] or &quot;lettuce opium&quot;.
+
+Lettuce is also eaten as part of the Jewish [[Passover Seder]], where it is considered the optimal choice for use as the bitter herb, which is eaten together with the [[matzah]].
+
+Some American settlers claimed that [[smallpox]] could be prevented through the ingestion of lettuce,&lt;ref name=&quot;Watts226&quot; /&gt; and an Iranian belief suggested consumption of the seeds when afflicted with [[typhoid]].&lt;ref&gt;{{cite book|url=https://books.google.com/books?id=UcLYLpwdcm8C&amp;pg=PA230#v=onepage&amp;q&amp;f=false|page=232|title=Duke's Handbook of Medicinal Plants of the Bible|author1=Duke, James A. |author2=Duke, Peggy-Ann K. |author3=DuCellie, Judith L. |publisher=CRC Press|year=2007|isbn=0-8493-8202-5}}&lt;/ref&gt; [[Traditional medicine|Folk medicine]] has also claimed it as a treatment for pain, [[rheumatism]], tension and nervousness, coughs and insanity; scientific evidence of these benefits in humans has not been found. The religious ties of lettuce continue into the present day among the [[Yazidi]] people of northern Iraq, who have a religious prohibition against eating the plant.&lt;ref&gt;{{cite news |url=http://query.nytimes.com/gst/fullpage.html?res=9B00E5DF1E3FF930A35752C0A9659C8B63&amp;sec=&amp;spon=&amp;pagewanted=all |title=Bashiqa Journal: A Sect Shuns Lettuce and Gives the Devil His Due |first=Neil |last=MacFarquhar |authorlink=Neil MacFarquhar |work=[[The New York Times]] |date=3 January 2003 |accessdate=23 March 2012}}&lt;/ref&gt;
+
+== References ==
+{{reflist|30em}}
+
+== Cited literature ==
+* {{cite book
+  | editor1-last = Bradley
+  | editor1-first = Fern Marshall
+  | editor2-last = Ellis
+  | editor2-first = Barbara W.
+  | editor3-last = Martin
+  | editor3-first = Deborah L.
+  | year = 2009
+  | title = The Organic Gardener's Handbook of Natural Pest and Disease Control
+  | publisher = Rodale
+  | isbn = 978-1-60529-677-7
+  }}
+* {{cite book
+  | last1 = Davey
+  | first1 = M. R.
+  | last2 = Anthony
+  | first2 = P.
+  | last3 = Van Hooff
+  | first3 = P.
+  | last4 = Power
+  | first4 = J. B.
+  | last5 = Lowe,
+  | first5 = K. C.
+  | year = 2007
+  | chapter = Lettuce
+  | title = Transgenic Crops
+  | volume = {{nobold|Volume 59}}
+  | series = Biotechnology in Agriculture and Forestry
+  | publisher = Springer
+  | isbn = 978-3-540-36752-9
+  }}
+* {{cite book
+  | last1 = Katz
+  | first1 = Solomon H.
+  | last2 = Weaver
+  | first2 = Williams Woys
+  | year = 2003
+  | title = Encyclopedia of Food and Culture
+  | volume = {{nobold|Volume 2}}
+  | publisher = Scribner
+  | isbn = 978-0-684-80565-8
+  }}
+* {{cite book
+  | last = Weaver
+  | first = Williams Woys
+  | year = 1997
+  | title = Heirloom Vegetable Gardening: A Master Gardener's Guide to Planting, Seed Saving and Cultural History
+  | publisher = Henry Holt and Company
+  | isbn = 978-0-8050-4025-8
+  }}
+
+== External links ==
+{{portal|Food}}
+* {{Commons-inline|Lactuca sativa}}
+
+{{Use dmy dates|date=January 2011}}
+{{Featured article}}
+{{taxonbar}}
+{{Authority control}}
+
+[[Category:Cichorieae]]
+[[Category:Leaf vegetables]]
+[[Category:Plants described in 1753]]
+[[Category:Lettuce| ]]
+[[Category:Crops]]
+[[Category:Crops originating from Egypt]]
+[[Category:Edible Asteraceae]]
+[[Category:Hydroponic plants]]</text>
+      <sha1>rmkirln13c1pgar8992tww0r31amw1m</sha1>
+    </revision>
+  </page>
+</mediawiki>

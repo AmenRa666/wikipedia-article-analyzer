@@ -1,0 +1,255 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>The Rains of Castamere</title>
+    <ns>0</ns>
+    <id>35935308</id>
+    <revision>
+      <id>746063708</id>
+      <parentid>745921347</parentid>
+      <timestamp>2016-10-25T02:01:22Z</timestamp>
+      <contributor>
+        <username>FenixFeather</username>
+        <id>17878972</id>
+      </contributor>
+      <comment>Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/112.198.82.232|112.198.82.232]] ([[User talk:112.198.82.232|talk]]): There is no such thing as Lannister chainmail. It was just chainmail. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="24250">{{For|the song|The Rains of Castamere (song)}}
+{{Infobox television episode
+ |image_size = 280px
+ |Image = GOT-S03-Ep09 Catelyn Stark - The Rains of Castamere.jpg
+ |Caption = [[Catelyn Stark]] after unsuccessfully pleading with Walder Frey to spare the life of her son Robb, seconds before her own death. Michelle Fairley's acting was lauded by critics,&lt;ref&gt;[http://uk.tv.yahoo.com/game-thrones-michelle-fairley-shunned-emmy-awards-show-101800614.html Game of Thrones: Michelle Fairley is shunned by the Emmy Awards, but the show picks up 17 nominations] (Yahoo TV UK)&lt;/ref&gt; and many considered the sequence to be traumatic.&lt;ref name=&quot;Fowler&quot;&gt;{{cite web|url=http://uk.ign.com/articles/2013/06/07/game-of-thrones-why-the-red-wedding-was-more-traumatic-on-tv |title=Game of Thrones: Why the Red Wedding Was More Traumatic on TV |publisher=[[IGN]] |date=2013-06-07 |accessdate=2013-06-16}}&lt;/ref&gt;
+ |Title = The Rains of Castamere
+ |Series = [[Game of Thrones]]
+ |Season = 3
+ |Episode = 9
+ |Director = [[David Nutter]]
+ |Writer = [[David Benioff]]&lt;br /&gt;[[D. B. Weiss]]
+ |Producer =
+ |Music = [[Ramin Djawadi]]
+ |Photographer = [[Robert McLachlan (cinematographer)|Robert McLachlan]]
+ |Editor = Oral Norrie Ottey
+ |Production = 
+ |Airdate = {{Start date|2013|6|2}}
+ |Length = 50 minutes&lt;!-- 50 minutes 48 seconds --&gt;
+ |Guests =*[[David Bradley (actor)|David Bradley]] as Walder Frey
+* [[Mackenzie Crook]] as Orell
+* [[Michael McElhatton]] as [[Roose Bolton]]
+* [[Ian McElhinney]] as Barristan Selmy
+* [[Clive Russell]] as Brynden Tully
+* [[Tobias Menzies]] as Edmure Tully
+* [[Kristofer Hivju]] as Tormund Giantsbane
+* [[Natalia Tena]] as Osha
+* [[Thomas Sangster|Thomas Brodie Sangster]] as Jojen Reed
+* [[Ellie Kendrick]] as Meera Reed
+* [[Hannah Murray]] as Gilly
+* [[Ed Skrein]] as Daario Naharis
+* [[Jacob Anderson]] as Grey Worm
+* [[Nathalie Emmanuel]] as Missandei
+* [[Kristian Nairn]] as Hodor
+* [[Tom Brooke]] as Lothar Frey
+* [[Tim Plester]] as Black Walder Rivers
+&lt;!--* Kenneth Hadley as --&gt;
+* [[Art Parkinson]] as Rickon Stark
+* [[Alexandra Dowling]] as Roslin Frey
+* Sean Buckley as the Old Man
+&lt;!--* A. J. Kennedy as --&gt;
+* Grace Hendy as Marei Frey
+&lt;!--* Pat McGrath as --&gt;
+* Kelly Long as Joyeuse Frey
+* Oddie Braddell as Wendel Manderly
+* [[Will Champion]] as a musician
+ |Season list =
+ |Prev = [[Second Sons]]
+ |Next = [[Mhysa]]
+ |Episode list = [[Game of Thrones (season 3)|''Game of Thrones'' (season 3)]]&lt;br /&gt;[[List of Game of Thrones episodes|List of ''Game of Thrones'' episodes]]
+}}
+
+&quot;'''The Rains of Castamere'''&quot; is the ninth episode of the [[Game of Thrones (season 3)|third season]] of [[HBO]]'s [[fantasy]] television series ''[[Game of Thrones]]'', and the 29th episode of the series. The episode was written by executive producers [[David Benioff]] and [[D. B. Weiss]], and directed by [[David Nutter]]. It aired on {{Start date|2013|6|2}}.
+
+The episode is centered on the wedding of Edmure Tully and Roslin Frey, one of the most memorable events of the book series, commonly called &quot;The Red Wedding&quot;, during which Robb Stark and his banner-men are massacred. Other storylines include Bran Stark's group having to separate, Jon Snow's loyalties being tested, and Daenerys plotting her invasion of the city of Yunkai.
+
+This episode earned [[David Benioff]] and [[D.B. Weiss]] a [[Primetime Emmy Award for Outstanding Writing for a Drama Series]] nomination.&lt;ref&gt;[http://www.emmys.com/nominations/2013/Outstanding%20Writing%20for%20a%20Drama%20Series Official nominees for Primetime Emmy Award for Outstanding Writing for a Drama Series]&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://au.ign.com/articles/2013/06/03/game-of-thrones-the-rains-of-castamere-review|title=Game of Thrones: &quot;The Rains of Castamere&quot; Review|last=Fowler|first=By Matt|website=IGN|access-date=2016-06-04}}&lt;/ref&gt;
+
+==Plot==
+
+===In the North===
+North of the Wall, Sam ([[John Bradley-West|John Bradley]]) and Gilly ([[Hannah Murray]]) continue their march south. Sam tells Gilly he plans for them to cross the Wall using the entrance at the Nightfort, an abandoned castle along the Wall.
+
+South of the Wall, Bran ([[Isaac Hempstead-Wright]]) and his group take shelter in an abandoned mill. Nearby, Jon ([[Kit Harington]]) and the wildling party raid an elderly horse breeder's home, taking his horses and gold while the old man flees. While in the mill, Bran and Jojen Reed ([[Thomas Sangster|Thomas Brodie Sangster]]) discuss how they plan to cross the Wall, before Meera ([[Ellie Kendrick]]) spots the old horse breeder riding nearby. After the old man is captured by the wildlings, Hodor ([[Kristian Nairn]])—scared by the thunder—begins yelling, which threatens to give away their location to the wildlings. Bran uses his warg abilities to enter Hodor's mind and knocks him out.
+
+Outside, Tormund ([[Kristofer Hivju]]) moves to kill the old man, but Orell ([[Mackenzie Crook]]) tells him to have Jon do it instead to prove his loyalty. Jon is ultimately unable to kill the innocent man, and instead Ygritte ([[Rose Leslie]]) kills the man with an arrow. Realizing where Jon's loyalties lie, Tormund orders his men to kill him, but Jon manages to defeat them. As Ygritte moves to defend him, Jon deliberately knocks her to the ground, allowing Tormund to hold her down and prevent her from getting killed, while he battles with Orell. Bran enters the mind of Summer, his direwolf, and aids Jon. Jon kills Orell while the wolves hold off the other wildlings, and is then able to steal a horse and escape, leaving Ygritte and heading back to the Wall. At night, Bran asks Osha ([[Natalia Tena]]) to take Rickon ([[Art Parkinson]]) to Last Hearth, the home of the Umber family, and they depart shortly after.
+
+===In Yunkai===
+Planning their invasion of Yunkai, Daario ([[Ed Skrein]]) tells Daenerys ([[Emilia Clarke]]) and her knights about a rear gate to the city, through which they can sneak in and open the main gate for her army. Ser Jorah ([[Iain Glen]]) is suspicious of Daario and his plan, but comes around when Daenerys seeks Grey Worm's ([[Jacob Anderson]]) opinion. When night falls, Daario, Jorah, and Grey Worm arrive at the gate. Daario enters ahead of them, posing as a still loyal Second Son commander. Shortly after being let inside the city, he signals Jorah and Grey Worm to follow him. Soon, they are ambushed by a group of Yunkai's slave soldiers, and though largely outnumbered, manage to kill them and accomplish the mission. The group returns to Daenerys, and tells her that she is now in control of the city.
+
+===At the Twins===
+[[File:Game of Thrones Oslo exhibition 2014 - Red Wedding weapons.jpg|thumb|The dagger with which Roose Bolton kills Robb Stark, and the knife with which Catelyn Stark kills Walder Frey's wife.]]
+At camp, Catelyn ([[Michelle Fairley]]) counsels her son Robb ([[Richard Madden]]), the King in the North, about his planned alliance with Lord Walder Frey ([[David Bradley (actor)|David Bradley]]) and his planned assault on Casterly Rock, the homeland of the Lannisters. The Stark host soon arrives at the Twins, castle homeland of the Freys, where they are given bread and salt, a symbol of the &quot;guest right&quot;: a guarantee of safety when under another lord's roof. Robb makes an apology to both the sarcastic Walder Frey and his daughters. Walder accepts the apology but insists on inspecting Talisa ([[Oona Chaplin]]), the woman for whom Robb broke his vow. Nearby, Arya ([[Maisie Williams]]), though still a captive of Sandor Clegane ([[Rory McCann]]), journeys to the Twins to reunite with her mother and brother. When they come upon a trader and his cart, Clegane knocks him out and moves to kill him, but Arya manages to dissuade him, and he instead steals the cart of food.
+
+At night, Walder walks his daughter Roslin ([[Alexandra Dowling]]) down the aisle to her future husband Edmure Tully ([[Tobias Menzies]]), who is pleasantly surprised by her beauty. They are married shortly after, and the celebration begins. At the feast, Walder calls for the bedding ceremony, and the couple are taken to their chamber. After they leave, Lothar Frey ([[Tom Brooke]]) closes the banquet hall doors, and the Frey bards begin playing &quot;The Rains of Castamere,&quot; a Lannister cautionary song, both of which arouse Catelyn's suspicions. Using the food cart as their reason for being at the Twins, the Hound and Arya arrive at the wedding. They are turned away at the gates, but Arya sneaks in.
+
+Catelyn notices Roose Bolton ([[Michael McElhatton]]) wearing [[chainmail]] under his robes which confirms Catelyn's suspicions that they have been betrayed. Just as Walder signals his men to attack the Starks' men, Catelyn tries to warn Robb, but before he can react, Lothar repeatedly stabs Talisa in the womb, killing her. As he tries to draw his sword, Robb is shot by crossbows, and the massacre of his banner-men begins. Arya, having snuck past the gate, witnesses Frey men kill Stark soldiers and Robb's direwolf, Grey Wind. She is saved by the Hound, who knocks her unconscious and carries her out of the castle. Catelyn, although wounded by a crossbow bolt, holds Walder's young wife, Joyeuse ([[Kelly Long]]), hostage with a knife and demands that Robb be allowed to leave. Walder refuses, and Roose Bolton stabs Robb in the heart, delivering Jaime's &lt;!--Do not insert a link to previous episodes here, per WP:EGG.--&gt;message from Harrenhal, &quot;The Lannisters send their regards.&quot;&lt;!--Do not insert a link to previous episodes here, per WP:EGG.--&gt; Catelyn screams and kills Joyeuse in retaliation, before Frey's son Black Walder ([[Tim Plester]]) cuts Catelyn's throat.
+
+==Production==
+
+===Writing===
+&quot;The Rains of Castamere&quot; was written by executive producers [[David Benioff]] and [[D. B. Weiss]], based on [[George R. R. Martin]]'s original work from his novel ''[[A Storm of Swords]]''. The episode adapts content from chapters 41 to 43 and 50 to 53 (Bran III, Jon V, Daenerys IV, Catelyn VI, Arya X, Catelyn VII, and Arya XI).&lt;ref name=&quot;westeros&quot;&gt;{{cite web|url=http://www.westeros.org/GoT/Episodes/Entry/The_Rains_of_Castamere/Book_Spoilers/|title=EP309:The Rains of Castamere|publisher=Westeros.org|first=Elio|last=Garcia|accessdate=June 3, 2013}}&lt;/ref&gt;
+
+The episode includes one of the most important plot turns of the series: the betrayal and assassination of the Stark forces during a marriage ceremony in what came to be known as the &quot;Red Wedding&quot;. The event culminates in Roose Bolton delivering Jaime Lannister's message from &quot;[[The Bear and the Maiden Fair#At Harrenhal|The Bear and the Maiden Fair]]&quot;, before killing Robb. This tragic turn of events had a profound impact on Benioff and Weiss in their first read of the novels and it was the scene that convinced them to attempt to obtain the rights for a television series.&lt;ref name=&quot;EW&quot;&gt;{{cite news|last=Hibberd|first=James|title='Game of Thrones' showrunners on season 2, splitting Book 3 and their hope for a 70-hour epic|url=http://insidetv.ew.com/2012/03/30/game-of-thrones-showrunners-season-2/2/|accessdate=May 5, 2013|newspaper=[[Entertainment Weekly]]|quote=Oh, my God, we’ve got to get this. We’ve got to get this show to happen because if we can make this scene work, it’s gonna be one of the greatest things ever on television or film.|date=March 30, 2012}}&lt;/ref&gt;
+[[File:Edinburgh Castle, Edinburgh - geograph.org.uk - 505910.jpg|thumb|230px|The Red Wedding was inspired by the [[Black Dinner]] that took place in 1440 at [[Edinburgh Castle]].]]
+George R. R. Martin conceived The Red Wedding during the earliest stages of the planning of his saga, when he was envisioning a trilogy with The Red Wedding as one of the climactic events at the end of the first of the three books.{{citation needed|date=July 2014}} Martin was inspired by a couple of events in [[History of Scotland|Scottish history]]. One of them was the 15th century historical event known as the &quot;[[Black Dinner]]&quot;, where the Scottish king invited the chieftains of the powerful [[Clan Douglas]] to a feast at [[Edinburgh Castle]].&lt;ref name=&quot;EW2&quot;&gt;{{cite news | url=http://insidetv.ew.com/2013/06/02/game-of-thrones-author-george-r-r-martin-why-he-wrote-the-red-wedding/ | title='Game of Thrones' author George R.R. Martin: Why he wrote The Red Wedding | work=[[Entertainment Weekly]] | date=June 2, 2013 | accessdate=2013-06-04 | author=Hibberd, James}}&lt;/ref&gt; A black bull's head, the symbol of death, was served as the last course of the dinner while a single drum was playing in the background, and the Douglases were murdered.&lt;ref name=&quot;EW2&quot;/&gt; Another event from which the author drew inspiration was the 1692 [[Massacre of Glencoe]], where [[MacDonald of Glencoe|Clan MacDonald]] hosted the [[Clan Campbell|Campbell Clan]] who killed thirty-eight of their hosts overnight.&lt;ref name=&quot;EW2&quot;/&gt;
+
+Martin has said The Red Wedding was the hardest thing he has ever written. He explained that he always tries to put himself in the skin of his characters when writing from their perspective, and develops bonds with them. He even felt attached to the minor characters killed during the massacre. It was so painful for him that he skipped the chapter and continued writing, and only when the rest of the book was finished, he &quot;forced himself&quot; to come back to the dreaded scene.&lt;ref&gt;{{cite news|url=http://www.empireonline.com/interviews/interview.asp?IID=1496|title=George R. R. Martin Webchat Transcript|newspaper=[[Empire Magazine]]|accessdate=June 3, 2013}}&lt;/ref&gt; In 2012, at ComicCon he even joked that &quot;he will visit a country with no television when the episode goes on air&quot;.
+
+Martin also said he killed off Robb because he believed the audience would assume that the story was about Ned Stark's heir avenging his death and wished to keep them guessing.&lt;ref name=&quot;EW2&quot;/&gt; He later suggested Talisa — whose counterpart Jeyne Westerling was not killed in the books — died so Robb's heir could not avenge his death.&lt;ref&gt;{{cite news|url=http://www.huffingtonpost.com/2013/06/02/game-of-thrones-robb-stark_n_3368224.html|title='Game Of Thrones' Robb Stark Speaks: Richard Madden Addresses Shocking Developments|author=Maureen Ryan|work=[[The Huffington Post]]|date=February 7, 2013}}&lt;/ref&gt;
+
+===Casting===
+[[Will Champion]], the drummer and backing vocalist of the band [[Coldplay]], has a cameo appearance as one of the musicians who play at the wedding.
+
+==Reception==
+
+===Ratings===
+&quot;The Rains of Castamere&quot; premiered to 5.22 million viewers and received a 2.8 ratings in adults 18–49. The second airing was viewed by 1.08 million people, bringing total viewership for the night to 6.30 million.&lt;ref&gt;{{cite web|url=http://tvbythenumbers.zap2it.com/2013/06/04/sunday-cable-ratings-game-of-thrones-wins-night-keeping-up-with-the-kardashians-real-housewives-of-new-jersey-breaking-amish-mad-men-more/185649/|title= Sunday Cable Ratings: 'Game of Thrones' Wins Night + 'Keeping Up With the Kardashians', 'Real Housewives of New Jersey', 'Breaking Amish', 'Mad Men' &amp; More|last=Kondolojy|first=Amanda|publisher=TVbytheNumbers.com|date=June 4, 2013|accessdate=June 4, 2013}}&lt;/ref&gt; In the United Kingdom, the episode was viewed by 1.013 million viewers, making it the highest-rated broadcast that week. It also received 0.112 million timeshift viewers.&lt;ref&gt;{{cite web|url=http://www.barb.co.uk/whats-new/weekly-top-10?|title=Top 10 Ratings (3-9 June 2013)|publisher=[[Broadcasters' Audience Research Board|BARB]]|accessdate=April 7, 2016}}&lt;/ref&gt;
+
+===Critical reception===
+The episode was widely praised by critics and cited as one of the best of the series. [[Rotten Tomatoes]], a prominent [[review aggregator]], surveyed 21 reviews of the installment and judged 100% of them to be positive. The website's critical consensus reads, &quot;The most unforgettable episode of Game of Thrones thus far, 'The Rains of Castamere' (or as it shall forever be known, 'The Red Wedding') packs a dramatic wallop that feels as exquisitely shocking as it does ultimately inevitable.&quot;&lt;ref&gt;{{cite web|url=http://www.rottentomatoes.com/tv/game-of-thrones/s03/e09/|title=The Rains of Castamere|work=[[Rotten Tomatoes]]|accessdate=May 20, 2016}}&lt;/ref&gt; The majority of the comments were directed at the massacre at the end of the episode, where praise was especially given to [[Michelle Fairley]]'s performance, leading to the disappointment of many critics when she was not nominated for the [[Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series]] for the [[65th Primetime Emmy Awards]].&lt;ref&gt;{{cite web|last1=Wood|first1=Daniel|title=Game of Thrones: Michelle Fairley is shunned by the Emmy Awards, but the show picks up 17 nominations|url=https://uk.tv.yahoo.com/game-thrones-michelle-fairley-shunned-emmy-awards-show-101800614.html|publisher=[[Yahoo!]]|accessdate=June 22, 2014|date=July 20, 2013}}&lt;/ref&gt; [[IGN]]'s Matt Fowler gave the episode a perfect 10/10, calling it &quot;...an exquisitely awful event that managed to out-do the unpredictable and horrifying death of Ned Stark back in Season 1.&quot;&lt;ref name=&quot;Fowler2&quot;&gt;{{cite web|url=http://ca.ign.com/articles/2013/06/03/game-of-thrones-the-rains-of-castamere-review|title=Game of Thrones: &quot;The Rains of Castamere&quot; Review|last=Fowler|first=Matt|publisher=IGN|date=June 2, 2013|accessdate=June 3, 2013}}&lt;/ref&gt; Fowler also said he believed that the episode's depiction of the Red Wedding was more powerful than its depiction in ''A Song of Ice and Fire''.&lt;ref name=&quot;Fowler&quot;/&gt;
+
+Writing for [[The A.V. Club]], both David Sims and Todd VanDerWerff gave the episode an &quot;A&quot; grade. Sims (writing for people who have not read the novels) expressed shock at the deaths of several main characters, writing, &quot;I don’t think I’ve really processed what I just watched&quot;.&lt;ref name=&quot;av1&quot;&gt;{{cite web|url=http://www.avclub.com/articles/the-rains-of-castamere,98087/|title=&quot;The Rains of Castamere&quot; (for newbies)|last=Sims|first=David|publisher=[[The A.V. Club]]|date=June 2, 2013|accessdate=June 3, 2013}}&lt;/ref&gt; VanDerWerff, who reviews the episodes for people who have read the novels, wrote &quot;If [the reader] doesn’t terribly want to deal with the thought of the deaths of Catelyn and Robb, well, he or she can read that much more quickly. Or he or she can read that much more slowly if there’s a need to process the emotions more fully. On TV, you can't really do that.&quot;&lt;ref name=&quot;av2&quot;&gt;{{cite web|url=http://www.avclub.com/articles/the-rains-of-castamere-for-experts,98086/|title=&quot;The Rains Of Castamere&quot; (for experts)|last=VanDerWerff|first=Todd|publisher=[[The A.V. Club]]|date=June 2, 2013|accessdate=June 3, 2013}}&lt;/ref&gt; Reviewing for ''[[Forbes]]'', Erik Kain called the episode &quot;one of the best episodes of HBO's dark drama yet&quot;, and noted &quot;there was a deeper sense of tragedy knowing [Robb] also lost his unborn child.&quot;&lt;ref&gt;{{cite web|url=http://www.forbes.com/sites/erikkain/2013/06/03/game-of-thrones-season-3-episode-9-review-the-rains-of-castamere/|title='Game of Thrones' Season 3 Episode 9 Review: The Rains of Castamere|last=Kain|first=Erik|work=[[Forbes]]|date=June 3, 2013|accessdate=June 3, 2013}}&lt;/ref&gt; Sean Collins of the ''[[Rolling Stone]]'' also praised the episode, and commented on the unusual step the show took in ending one of its central conflicts.&lt;ref&gt;{{cite web|url=http://www.rollingstone.com/movies/news/game-of-thrones-recap-red-red-red-20130603|title='Game of Thrones' Recap: Red, Red, Red|last=Collins|first=Sean|work=[[Rolling Stone]]|date=June 3, 2013|accessdate=June 3, 2013}}&lt;/ref&gt; Sarah Hughes of ''[[The Guardian]]'' highlighted the decision to kill Talisa, writing that her &quot;heartbreaking end was unbearable.&quot;&lt;ref&gt;{{cite news|last1=Hughes|first1=Sarah|title=Game of Thrones recap: Season three, episode nine - The Rains of Castamere|url=http://www.theguardian.com/tv-and-radio/tvandradioblog/2013/jun/03/game-of-thrones-recap-season-three-episode-nine|work=[[The Guardian]]|accessdate=June 22, 2014|date=June 3, 2013}}&lt;/ref&gt;
+
+===Viewer reception===
+The episode was also notable for the intense and emotional response it pulled from viewers, many of whom were unaware of what was about to transpire and had their reactions filmed by people who had read the book on which it was based. This led to George R. R. Martin giving his personal analysis of the reactions, which he stated were on par with the responses he received from readers of ''A Storm of Swords''.&lt;ref name=&quot;EW2&quot;/&gt;&lt;ref&gt;{{cite web|url=http://blogs.independent.co.uk/2013/06/06/game-of-thrones-the-rains-of-castamere-summed-up-in-videos/ |title=Game of Thrones – ‘The Rains of Castamere’ summed up in videos &amp;#124; Neela Debnath &amp;#124; Independent Arts Blogs |work=[[The Independent]] |date=2013-06-06 |accessdate=2013-06-16 |deadurl=yes |archiveurl=https://web.archive.org/web/20130610082630/http://blogs.independent.co.uk/2013/06/06/game-of-thrones-the-rains-of-castamere-summed-up-in-videos/ |archivedate=June 10, 2013 }}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=Chai |first=Barbara |url=http://blogs.wsj.com/speakeasy/2013/06/06/george-r-r-martin-watches-reactions-to-the-red-wedding/ |title=George R.R. Martin Watches Reactions to the Red Wedding on 'Game of Thrones' |work=[[The Wall Street Journal]] |date=2013-06-06 |accessdate=2013-06-16}}&lt;/ref&gt;
+
+===Accolades===
+
+This episode received a nomination for the [[Primetime Emmy Award for Outstanding Writing for a Drama Series]] for the [[65th Primetime Emmy Awards]]. It also won the 2014 [[Hugo Award for Best Dramatic Presentation, Short Form]].
+
+===Awards and nominations===
+{| class=&quot;wikitable sortable plainrowheaders&quot;
+|-
+! Year
+! Award
+! Category
+! Nominee(s)
+! Result
+|-
+| rowspan=4| 2013
+|scope=&quot;row&quot;| [[65th Primetime Emmy Awards|Primetime Emmy Awards]]
+|scope=&quot;row&quot;| Outstanding Writing for a Drama Series
+|scope=&quot;row&quot;| [[David Benioff]] and [[D.B. Weiss]]
+| {{nom}}
+|-
+|scope=&quot;row&quot;| [[65th Primetime Creative Arts Emmy Awards|Primetime Creative Arts Emmy Awards]]
+|scope=&quot;row&quot;| Outstanding Single-camera Picture Editing For A Drama Series
+|scope=&quot;row&quot;| Oral Ottey
+| {{nom}}
+|-
+|scope=&quot;row&quot;| Gold Derby TV Awards 2013
+|scope=&quot;row&quot;| Best Drame Episode&lt;ref&gt;{{cite web|url=http://www.goldderby.com/article/2013/gold-derby-awards-breaking-bad-parks-recreation-entertainment-news-747882424/ |title=‘Breaking Bad,’ ‘Parks and Rec’ win big at Gold Derby TV Awards!|publisher=Gold Derby|first=Daniel|last=Montgomery|date=September 18, 2013|accessdate=August 20, 2016}}&lt;/ref&gt;
+|scope=&quot;row&quot;|
+| {{won}}
+|-
+|scope=&quot;row&quot;| [[IGN|IGN Awards]]
+|scope=&quot;row&quot;| Best TV Episode
+|scope=&quot;row&quot;|
+| {{nom}}
+|-
+| rowspan=7|2014
+|scope=&quot;row&quot;| [[American Cinema Editors]]
+|scope=&quot;row&quot;| Best Edited One-Hour Series For Non-Commercial Television
+|scope=&quot;row&quot;| Oral Norrie Ottey
+| {{nom}}
+|-
+|scope=&quot;row&quot;| [[Cinema Audio Society Awards]]
+|scope=&quot;row&quot;| Outstanding Achievement in Sound Mixing - Television Series – One Hour
+|scope=&quot;row&quot;| Ronan Hill, Onnalee Blank, Mathew Waters, and Brett Voss
+| {{won}}
+|-
+|scope=&quot;row&quot;| [[Directors Guild of America Award]]
+|scope=&quot;row&quot;| Dramatic Series
+|scope=&quot;row&quot;| [[David Nutter]]
+| {{nom}}
+|-
+|scope=&quot;row&quot; rowspan=3|[[Golden Reel Award (Motion Picture Sound Editors)|Golden Reel Awards]]
+|scope=&quot;row&quot;| Best Sound Editing — Short Form Dialogue and ADR in Television
+|scope=&quot;row&quot;| Jed Dodge
+| {{won}}
+|-
+|scope=&quot;row&quot;| Best Sound Editing — Short Form Music
+|scope=&quot;row&quot;| David Klotz
+| {{won}}
+|-
+|scope=&quot;row&quot;| Best Sound Editing — Short Form Sound Effects and Foley
+|scope=&quot;row&quot;| Tim Kimmel
+| {{nom}}
+|-
+|scope=&quot;row&quot;| [[Hugo Awards]]
+|scope=&quot;row&quot;| [[Hugo Award for Best Dramatic Presentation|Best Dramatic Presentation, Short Form]]
+|scope=&quot;row&quot;| [[David Benioff]], [[David Nutter]], and [[D. B. Weiss]]
+| {{won}}
+|}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{wikiquotepar|Game_of_Thrones_(TV_series)#The_Rains_of_Castamere_.5B3.09.5D|The Rains of Castamere}}
+* [http://www.hbo.com/game-of-thrones/episodes/3/29-the-rains-of-castamere/index.html &quot;The Rains of Castamere&quot;] at [[HBO.com]]
+* {{IMDb episode|2178784}}
+* {{tv.com episode|game-of-thrones/the-rains-of-castamere-2676032}}
+
+{{Game of Thrones Episodes}}
+{{Hugo Award for Best Dramatic Presentation, Short Form}}
+
+{{DEFAULTSORT:Rains of Castamere, The}}
+[[Category:2013 television episodes]]
+[[Category:Game of Thrones (TV series) episodes]]
+[[Category:Television episodes about weddings]]</text>
+      <sha1>5z7mdhjfxxsytmvd6r76jctvvurt6wc</sha1>
+    </revision>
+  </page>
+</mediawiki>

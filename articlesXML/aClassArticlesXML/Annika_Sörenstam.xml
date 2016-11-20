@@ -1,0 +1,2410 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Annika Sörenstam</title>
+    <ns>0</ns>
+    <id>102100</id>
+    <revision>
+      <id>744404311</id>
+      <parentid>740812682</parentid>
+      <timestamp>2016-10-15T00:35:00Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 18 sources and tagging 1 as dead. #IABot (v1.2.5)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="108092">{{Use dmy dates|date=March 2014}}
+{{good article}}
+{{Infobox golfer
+| name              = Annika Sörenstam
+| image             = 2008 LPGA Championship - Annika Sorenstam tee shot.jpg
+| image_size        = 220
+| caption           = Sörenstam at the [[2008 LPGA Championship]]
+| fullname          = Annika Sörenstam
+| nickname          =
+| birth_date        = {{birth date and age|1970|10|9|df=yes}}
+| birth_place       = [[Bro, Stockholm|Bro]], [[Stockholm County]], Sweden
+| death_date        = &lt;!-- {{Death date and age|YYYY|MM|DD|1970|10|9|df=yes}} --&gt;
+| death_place       =
+| height            = 5 ft 6 in
+| weight            =
+| nationality       = {{SWE}}
+| residence         = [[Orlando, Florida]], U.S.
+| spouse            = David Esch (1997–2005)&lt;br/&gt;Mike McGee (m. 2009)
+| partner           =
+| children          = 1 daughter, 1 son&lt;!--Ava, William--&gt;
+| college           = [[Arizona Wildcats|University of Arizona]]&lt;br/&gt;(two years)
+| yearpro           = 1992
+| retired           = 2008
+| tour              = [[LPGA Tour]] (joined [[1994 LPGA Tour|1994]])&lt;br/&gt;[[Ladies European Tour]]
+| prowins           = 93
+| lpgawins          = 72 ([[List of golfers with most LPGA Tour wins|3rd all time]])
+| letwins           = 17 ([[List of golfers with most Ladies European Tour wins|5th all-time]])&lt;!-- 3 co-sanction with LPGA --&gt;
+| jlpgawins         = 2
+| alpgwins          = 4&lt;!-- 2 co-sanction with LET --&gt;
+| otherwins         = 3
+| majorwins         = 10
+| nabisco           = '''Won''': [[2001 Nabisco Championship|2001]], [[2002 Kraft Nabisco Championship|2002]], [[2005 Kraft Nabisco Championship|2005]]
+| lpga              = '''Won''': [[2003 LPGA Championship|2003]], [[2004 LPGA Championship|2004]], [[2005 LPGA Championship|2005]]
+| wusopen           = '''Won''': [[1995 U.S. Women's Open Golf Championship|1995]], [[1996 U.S. Women's Open Golf Championship|1996]], [[2006 U.S. Women's Open Golf Championship|2006]]
+| dumaurier         = 2nd: 1998
+| wbritopen         = '''Won''': [[2003 Women's British Open|2003]]
+| wghofid           = annika-sorenstam
+| wghofyear         = 2003
+| award1            = [[LPGA Tour Rookie of the Year|LPGA Tour&lt;br/&gt; Rookie of the Year]]
+| year1             = 1994
+| award2            = [[LPGA Tour Player of the Year|LPGA Tour&lt;br/&gt;Player of the Year]]
+| year2             = 1995, 1997, 1998, 2001, 2002, 2003, 2004, 2005
+| award3            = [[LPGA Vare Trophy]]
+| year3             = 1995, 1996, 1998, 2001, 2002, 2005
+| award4            = [[LPGA Tour#Leading money winners by year|LPGA Tour&lt;br/&gt;Money Winner]]
+| year4             = 1995, 1997, 1998, 2001, 2002, 2003, 2004, 2005
+| award5            = [[LET Rookie of the Year|Ladies European Tour&lt;br/&gt;Rookie of the Year]]
+| year5             = 1993
+| award6            = [[LET Order of Merit|Ladies European Tour&lt;br/&gt;Order of Merit]]
+| year6             = 1995
+| award7            = [[LET Player of the Year|Ladies European Tour&lt;br/&gt;Player of the Year]]
+| year7             = 1995, 2002
+| awardssection     = #Awards
+}}
+'''Annika Sörenstam''' ({{IPA-sv|ˈan.niː.ka ˌsøː.rɛn.ˈstam|pron}}; {{Audio|sv-Annika Sörenstam.ogg|listen}}; born 9 October 1970) is a retired Swedish [[professional golfer]], one of the most successful female golfers in history.&lt;ref name=&quot;LPGA Wins&quot;&gt;{{cite web |title=Official Career Wins |publisher=[[LPGA]] (Ladies Professional Golf Association) |url=http://www.lpga.com/content/OfficialWins.pdf |access-date=7 March 2007 |archiveurl=https://web.archive.org/web/20070125181051/http://www.lpga.com/content/OfficialWins.pdf |archivedate=25 January 2007 |deadurl=no}}&lt;/ref&gt; Before stepping away from competitive golf at the end of the 2008 season, she had won 90 international tournaments as a professional, making her the female golfer with the most wins to her name. She has won 72 official [[LPGA]] tournaments including ten [[women's majors|majors]] and 18 other tournaments internationally, and she tops the LPGA's career money list with earnings of over $22&amp;nbsp;million—over $3&amp;nbsp;million ahead of [[Karrie Webb|her nearest rival]]. Since 2006, Sörenstam has held dual American and Swedish citizenship.&lt;ref name=&quot;citizenship&quot;&gt;
+{{cite web
+ |title=U.S. Women's Open Championship Post-Championship Interview 2006
+ |publisher=ASAP Sports
+ |date=3 July 2006
+ |url=http://www.asapsports.com/show_interview.php?id=37957
+ |access-date=15 December 2008 |archiveurl=https://web.archive.org/web/20081212170951/http://www.asapsports.com/show_interview.php?id=37957 |archivedate=12 December 2008 |deadurl=no}}&lt;/ref&gt;
+
+The winner of a record eight [[LPGA Tour#LPGA Tour awards|Player of the Year]] awards, and six [[LPGA Tour#LPGA Tour awards|Vare Trophies]] given to the LPGA player with the lowest seasonal scoring average, she is the only female golfer to shoot a 59 in competition. She holds various all-time scoring records including the lowest season scoring average: 68.6969 in 2004.
+
+Representing Europe in the [[Solheim Cup]] on eight occasions between 1994 and 2007, Sörenstam was the event's [[List of European Solheim Cup golfers#Record European point winners|all-time leading points earner]] until her record was surpassed by England's [[Laura Davies]] during the [[2011 Solheim Cup]].
+
+In 2003, Sörenstam made history at the [[Bank of America Colonial]] tournament as the first woman to play in a [[PGA Tour]] event since 1945.
+
+==Childhood and amateur career==
+Born in [[Bro, Stockholm|Bro]] near [[Stockholm]], [[Sweden]],&lt;ref name=&quot;Golf Annika's Way&quot;&gt;Annika Sörenstam with the editors of Golf Magazine: ''Golf Annika's Way'', Gotham Books, 2004, ISBN 1-59240-076-0&lt;/ref&gt; Sörenstam's father Tom is a retired [[IBM]] executive and her mother Gunilla worked in a bank. Her younger sister [[Charlotta Sörenstam|Charlotta]] is a professional golfer who coaches at her sister's academy.&lt;ref name=&quot;LottaLPGA&quot;&gt;
+{{cite web
+ |title=Charlotta Sörenstam Profile
+ |publisher=LPGA
+ |url=http://www.lpga.com/player_results.aspx?id=553
+ |accessdate=7 March 2007
+ |archiveurl=https://web.archive.org/web/20070311025341/http://www.lpga.com/player_results.aspx?id=553
+ |archivedate=11 March 2007
+ |deadurl=no
+ |df=dmy
+}}&lt;/ref&gt; Annika and Charlotta Sörenstam are the only two sisters to have both won $1&amp;nbsp;million on the LPGA.
+
+As a child, Sörenstam was a talented all-round sportsgirl. She was a nationally-ranked junior [[tennis]] player, played [[Association football|football]] (soccer) in her hometown team Bro IK, and was such a good [[Alpine skiing|skier]] that the coach of the Swedish national ski team suggested the family move to northern Sweden to improve her skiing year round.&lt;ref name=&quot;Golf Annika's Way&quot;/&gt;&lt;ref&gt;Claes Lind with Annika Sörenstam, ''Våga bli bäst'' or ''Dare to be the Best'', Sportförlaget i Europa AB, 2003, ISBN 91-88541-56-8&lt;/ref&gt;&lt;ref name=&quot;Red&quot;&gt;{{cite web
+ |title=Sorenstam designs new mountain golf course 
+ |publisher=LPGA
+ |url=http://www.lpga.com/content_1.aspx?pid=13517&amp;mid=2 
+ |accessdate=31 January 2009 
+ |df=dmy 
+}}&lt;/ref&gt;
+
+===Junior golf===
+At the age of 12, she switched to golf, sharing her first set of golf clubs with her sister—Annika got the odd numbered clubs and Charlotta the even—and earned her first handicap of 54.&lt;ref name=&quot;Golf Annika's Way&quot;/&gt; She was so shy as a junior she used to deliberately three-putt at the end of a tournament to avoid giving the victory speech.&lt;ref name=&quot;ACAD3&quot;&gt;
+{{cite web
+ |title=Sörenstam opens new &quot;Annika Academy&quot;
+ |work=Golf Today
+ |date=17 April 2007
+ |url=http://www.golftoday.co.uk/news/yeartodate/news_07/annika_sorenstam_2.html
+ |access-date=9 May 2007}}&lt;/ref&gt; The coaches noticed and at the next tournament both the winner and the runner-up had to give a speech. Sörenstam decided that if she were going to have to face the crowd anyway she might as well win and the deliberate misses stopped.&lt;ref name=&quot;Golf Annika's Way&quot;/&gt;
+
+===Swedish national team===
+Her successful amateur career included a win in the St. Rule Trophy played at [[Old Course at St Andrews|St. Andrews]] and a runner-up finish in the Swedish national mother/daughter golf tournament.&lt;ref name=&quot;St Rule Trophy&quot;&gt;{{cite web |title=St Rule Trophy |publisher=St. Andrews Links |date=23 October 2006
+ |url=http://www.standrews.org.uk/events/annual_tournaments/st_rule_trophy.html
+ |access-date=7 March 2007 |archiveurl=https://web.archive.org/web/20070219005208/http://www.standrews.org.uk/events/annual_tournaments/st_rule_trophy.html |archivedate=19 February 2007 |deadurl=no}}&lt;/ref&gt;&lt;ref name=&quot;Sis&quot;&gt;{{cite magazine |title=Finally, sisters in arms- Charlotta Sörenstam and Annika Sörenstam |magazine=Golf Digest |first=Dave |last=Kindred |url=http://findarticles.com/p/articles/mi_m0HFI/is_7_51/ai_63015273 |access-date=6 July 2007 | year=2000}}&lt;/ref&gt; As a member of the Swedish National Team from 1987 to 1992, she played in the 1990 and 1992 [[Espirito Santo Trophy]] [[World Amateur Golf Team Championships]], becoming World Amateur champion in 1992.&lt;ref name=&quot;IGF&quot;&gt;
+{{cite web |title=World Amateur Team Championship Record Books |publisher=International Golf Federation
+ |url=http://www.internationalgolffederation.org/recordbook/wplayer2.asp?fname=Annika&amp;mname=&amp;lname=Sorenstam&amp;country=Sweden
+ |access-date=7 March 2007}}&lt;/ref&gt;&lt;ref name=&quot;IGF2&quot;&gt;{{cite web
+ |title=Notable Past Players |publisher=International Golf Federation
+ |url=http://www.internationalgolffederation.org/History/notables.html
+ |access-date=24 March 2007 |archiveurl=https://web.archive.org/web/20070422042205/http://www.internationalgolffederation.org/History/notables.html |archivedate=22 April 2007 |deadurl=no}}&lt;/ref&gt; While waiting to start college in Sweden, Sörenstam worked as a personal assistant at the Swedish PGA and played on the Swedish Ladies Telia Tour, winning three tournaments during 1990/1991.&lt;ref name=&quot;PGA&quot;&gt;
+{{cite web
+ |title=Sörenstam needs balance to hold off competition 
+ |publisher=CBS Sportsline 
+ |url=http://www.sportsline.com/golf/story/10042794/2 
+ |first=Steve 
+ |last=Elling 
+ |date=6 March 2007 
+ |access-date=7 March 2007 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20081201145425/http://www.sportsline.com:80/golf/story/10042794/2 
+ |archivedate=1 December 2008 
+ |df=dmy 
+}}&lt;/ref&gt;&lt;ref name=&quot;Tel1989&quot;&gt;{{cite web |title=Annika Sörenstam 1989 |publisher=Golfdata Sweden
+ |url=http://www.golfdata.se/guide/spg_res.asp?path=/guide/index.asp&amp;nr=3003&amp;year=1989
+ |access-date=7 March 2007}}&lt;/ref&gt;&lt;ref name=&quot;Tel1990&quot;&gt;
+{{cite web |title=Annika Sörenstam 1990 |publisher=Golfdata Sweden
+ |url=http://www.golfdata.se/guide/spg_res.asp?path=/guide/index.asp&amp;nr=3003&amp;year=1990
+ |access-date=7 March 2007}}&lt;/ref&gt;&lt;ref name=&quot;Tel1991&quot;&gt;{{cite web |title=Annika Sörenstam 1991
+ |publisher=Golfdata Sweden
+ |url=http://www.golfdata.se/guide/spg_res.asp?path=/guide/index.asp&amp;nr=3003&amp;year=1991
+ |access-date=7 March 2007}}&lt;/ref&gt;
+
+===University of Arizona===
+After a coach spotted Sörenstam playing in a collegiate event in [[Tokyo]], she moved to the U.S. to play college golf at the [[Arizona Wildcats|University of Arizona]] in [[Tucson, Arizona|Tucson]].&lt;ref name=&quot;Golf Annika's Way&quot;/&gt; She won seven collegiate titles and in 1991, became the first non-American and first freshman to win the individual [[NCAA Division I Women's Golf Championships|NCAA Division I Championship]].&lt;ref name=&quot;Sis&quot;/&gt;&lt;ref name=&quot;NCAA&quot;&gt;
+{{cite news 
+ |title=Women's Golf History |work=ESPN |date=26 May 2008
+ |url=http://sports.espn.go.com/ncaa/news/story?page=wgolfalmanac
+ |access-date=17 February 2009 |archiveurl=https://web.archive.org/web/20090301211550/http://sports.espn.go.com/ncaa/news/story?page=wgolfalmanac |archivedate=1 March 2009 |deadurl=no}}&lt;/ref&gt; Sörenstam was 1991 NCAA Co-Player of the Year with [[Kelly Robbins]], runner-up in the 1992 [[NCAA Division I Women's Golf Championships|NCAA championship]], 1992 [[Pac-12 Conference|Pac-10]] champion and a 1991–92 NCAA [[All-America]]n.&lt;ref name=&quot;Golf Annika's Way&quot;/&gt;&lt;ref name=&quot;PAC&quot;&gt;
+{{cite web
+ |title=PAC 10 Women's Golf |publisher=PAC10
+ |url=http://grfx.cstv.com/photos/schools/pac10/sports/c-golf/auto_pdf/Pac-10WomensGolfRecords.pdf
+ |access-date=7 March 2007}}&lt;/ref&gt;&lt;ref name=&quot;NCAAAll&quot;&gt;
+{{cite web
+ |title=IMG Speakers Annika Sörenstam |publisher=IMG Speakers
+ |url=http://www.imgspeakers.com/speakers/annika_sorenstam.aspx |access-date=16 September 2008 |archiveurl = https://web.archive.org/web/20061017014722/http://www.imgspeakers.com/speakers/annika_sorenstam.aspx |archivedate = 17 October 2006}}&lt;/ref&gt; She qualified for the [[1992 U.S. Women's Open Golf Championship|U.S. Women's Open]] at [[Oakmont Country Club|Oakmont]] in July, made the cut, and tied for 63rd. A few weeks later at the [[U.S. Women's Amateur]] at [[Kemper Lakes Golf Club|Kemper Lakes]] near [[Chicago]], she was the runner-up to [[Vicki Goetze]], bogeying the last hole in the 36-hole final.&lt;ref name=&quot;USAm&quot;/&gt;&lt;ref name=gtzewrga&gt;{{cite news |url=https://news.google.com/newspapers?id=3NlMAAAAIBAJ&amp;sjid=DTMDAAAAIBAJ&amp;pg=1359%2C4014605 |newspaper=Rome News-Tribune |location=Georgia |agency=Associated Press |title=Goetze wins U.S. Amateur|date=August 16, 1992 |page=5B }}&lt;/ref&gt;&lt;ref name=erguswam92&gt;{{cite news |url=https://news.google.com/newspapers?id=NUVWAAAAIBAJ&amp;sjid=h-oDAAAAIBAJ&amp;pg=3747%2C3791110 |newspaper=Eugene Register-Guard |location=Oregon |title=Golf: U.S. Women's Amateur |date=August 16, 1992 |page=8G}}&lt;/ref&gt;&lt;ref name=&quot;USAm&quot;&gt;{{cite news
+ |title=U.S. Women's Amateur champions |newspaper=USA Today |date=4 August 2001
+ |url=http://www.usatoday.com/sports/golf/amateur/2001-08-04-women-amateur-champions.htm
+ |access-date=3 June 2008}}&lt;/ref&gt;
+
+==Professional career==
+===1990s===
+Sörenstam turned professional in 1992, but missed her LPGA Tour card at the final [[Qualifying school|qualifying tournament]] by one shot, and began her professional career on the [[Ladies European Tour]] (LET), formerly known as the WPGET.&lt;ref name=&quot;Golf Annika's Way&quot;/&gt; She was invited to play in three LPGA Tour events in [[1993 LPGA Tour|1993]], where she finished T38th, 4th, and T9th, earning more than $47,000.&lt;ref name=&quot;2010Bio&quot;&gt;
+{{cite web
+ |title=2010 LPGA Bio 
+ |publisher=LPGA 
+ |url=http://www.lpga.com/content/2010PlayerBiosPDF/Sorenstam,Annika-10.pdf 
+ |access-date=15 December 2010 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20110629135436/http://www.lpga.com/content/2010PlayerBiosPDF/Sorenstam,Annika-10.pdf 
+ |archivedate=29 June 2011 
+ |df=dmy 
+}}&lt;/ref&gt; She finished second four times on the [[Ladies European Tour]] and was 1993 [[Ladies European Tour#Yearly award winners|Ladies European Tour Rookie of the Year]].&lt;ref name=&quot;LETBio&quot;&gt;
+{{cite web
+ |title=Annika Sörenstam Player Profile 
+ |publisher=LET ([[Ladies European Tour]]) 
+ |date=23 January 2006 
+ |url=http://www.ladieseuropeantour.info/profiles/010792.htm 
+ |accessdate=15 March 2007 
+ |archiveurl=https://web.archive.org/web/20070312103618/http://www.ladieseuropeantour.info/profiles/010792.htm 
+ |archivedate=12 March 2007 
+ |deadurl=no 
+ |df=dmy 
+}}&lt;/ref&gt; By tying for 28th at the LPGA Final Qualifying Tournament she earned non-exempt status for the [[1994 LPGA Tour|1994]] season.&lt;ref name=&quot;Golf Annika's Way&quot;/&gt; Sörenstam's first professional win came at the 1994 [[Holden Women's Australian Open]] on the [[ALPG Tour]].&lt;ref name=&quot;alpg1994&quot;&gt;
+{{cite web
+ |title=1994 Holden Women's Australian Open Golf Championship
+ |publisher=ALPG Tour
+ |url=http://www.alpgtour.com/past_tournament_detail.asp?xmlref=T20.xml
+ |access-date=7 March 2007 |archiveurl=https://web.archive.org/web/20070212141014/http://alpgtour.com/past_tournament_detail.asp?xmlref=T20.xml |archivedate=12 February 2007 |deadurl=no}}&lt;/ref&gt;
+
+In the United States, Sörenstam was [[LPGA#LPGA Tour awards|LPGA Rookie of the Year]], had three top-10 finishes including a tie for second at the [[Women's British Open]] and made her [[1994 Solheim Cup|Solheim Cup]] debut.&lt;ref name=&quot;LETBio&quot;/&gt;&lt;ref name=&quot;SolTeams&quot;&gt;
+{{cite web
+ |title=1990–2003 Solheim Cup Teams
+ |publisher=LPGA
+ |url=http://www.lpga.com/content/Teams,%20Members,%20WinLoss%20Records.pdf
+ |access-date=8 March 2007 }}&lt;/ref&gt;
+Her breakout year was [[1995 LPGA Tour|1995]], when she won her first LPGA Tour title at the [[1995 U.S. Women's Open Golf Championship|U.S. Women's Open]].&lt;ref name=&quot;Golf Annika's Way&quot;/&gt; She finished at the top of the [[LPGA Tour#Leading money winners by year|Money List]]&lt;ref name=&quot;Money List&quot;&gt;{{cite web
+ |title=Annual Money Leaders
+ |publisher=LPGA
+ |url=http://www.lpga.com/content/MoneyLeaders.pdf
+ |access-date=16 March 2007 }}&lt;/ref&gt; and was the first non-American winner of the [[LPGA Tour#LPGA Tour awards|Vare Trophy]].&lt;ref name=&quot;Vare Trophy&quot;/&gt; She became the second player ever to be [[LPGA Tour#LPGA Tour awards|Player of the Year]] and [[LPGA Tour#LPGA Tour awards|Vare Trophy]] winner the year after being Rookie of the Year.&lt;ref name=&quot;LPGABio&quot;&gt;
+{{cite web
+ |title=Full Career Biography
+ |publisher=LPGA
+ |url=http://www.lpga.com/content/2007PlayerBiosPDF/Sorenstam,A-07.pdf
+ |access-date=7 March 2007 |archiveurl=https://web.archive.org/web/20070325012430/http://www.lpga.com/content/2007PlayerBiosPDF/Sorenstam,A-07.pdf |archivedate=25 March 2007 |deadurl=no}}&lt;/ref&gt; A win at the 1995 Australian Ladies Masters&lt;ref name=&quot;1995alpgt&quot;&gt;
+{{cite web
+ |title=1995 Australian Ladies Masters
+ |publisher=ALPG Tour
+ |url=http://www.alpgtour.com/past_tournament_detail.asp?xmlref=T27.xml
+ |access-date=8 March 2007 |archiveurl=https://web.archive.org/web/20070210095227/http://alpgtour.com/past_tournament_detail.asp?xmlref=T27.xml |archivedate=10 February 2007 |deadurl=no}}&lt;/ref&gt; and two other wins on the Ladies European Tour put her top of the [[Ladies European Tour#Yearly award winners|LET Order of Merit]] and made her the first player to top both the European and LPGA Tour money lists in the same season.&lt;ref name=&quot;LETBio&quot;/&gt;&lt;ref name=&quot;5Tours&quot;&gt;
+{{cite news
+ |title=Golf Tour For Women Tees Off With Hope
+ |date=2 May 1996
+ |newspaper=International Herald Tribune |first=Ian |last=Thomsen
+ |url=http://www.iht.com/articles/1996/05/02/ian.t.php
+ |access-date=15 March 2007 }}&lt;/ref&gt; Her success worldwide resulted in her winning the [[Radiosportens Jerringpris|Jerringpriset]] award in Sweden,&lt;ref name=&quot;Jerring1995&quot;&gt;
+{{cite web
+ |title=Jerringpriset Award Winners 
+ |publisher=radiosporten 
+ |url=http://www.sr.se/cgi-bin/radiosporten/nyheter/amnessida.asp?programID=179&amp;Nyheter=&amp;grupp=3602&amp;artikel=1041550 
+ |accessdate=8 March 2007 
+ |archiveurl=https://web.archive.org/web/20070326091037/http://www.sr.se/cgi-bin/radiosporten/nyheter/amnessida.asp?programID=179&amp;Nyheter=&amp;grupp=3602&amp;artikel=1041550 
+ |archivedate=26 March 2007 
+ |deadurl=yes 
+ |df=dmy 
+}}
+&lt;/ref&gt; the country's most prestigious award in sports as well as being awarded the [[Svenska Dagbladet Gold Medal]].&lt;ref name=&quot;SvenDag&quot;&gt;
+{{cite news
+ |title=Svenska Dagbladet Gold Medal
+ |work=Svenska Dagbladet
+ |access-date=8 March 2007 }}&lt;/ref&gt;
+
+1996 saw Sörenstam win her home LET tournament, the Trygg Hansa Ladies' Open in Sweden and three LPGA tournaments including the U.S. Women's Open.&lt;ref name=&quot;Trygg&quot;&gt;
+{{cite web
+ |title=Trygg Hansa Ladies' Open 
+ |publisher=Golf in Europe 
+ |url=http://www.ecs.net/golf/tour/women/1996/220896.html 
+ |accessdate=8 March 2007 
+ |archiveurl=https://web.archive.org/web/20070218073710/http://www.ecs.net/golf/tour/women/1996/220896.html 
+ |archivedate=18 February 2007 
+ |deadurl=no 
+ |df=dmy 
+}}&lt;/ref&gt; In defending her title, she became the first non-American to win back to back U.S. Women's Open titles,&lt;ref name=&quot;Golf Annika's Way&quot;/&gt; passed the $1&amp;nbsp;million mark in LPGA career earnings, and won her second consecutive Vare Trophy.&lt;ref name=&quot;2010Bio&quot; /&gt;
+
+She won six tour events in [[1997 LPGA Tour|1997]], regaining the money list and player of the year titles. Internationally, she won on the [[JLPGA]] and defended her home LET title at the renamed Compaq Open. She became the first player in LPGA history to finish a season with a sub-70 scoring average of 69.99 en route to retaining the 1998 Player of the Year and Money List titles as well as winning the LET Swedish tour stop for the third time running.&lt;ref name=&quot;Vare Trophy&quot;/&gt; September 1999 saw Sörenstam change her on-course team replacing her caddie of six years, Colin Cann, with Terry McNamara.&lt;ref name=&quot;Cann&quot;&gt;{{cite web |title=Sorenstam splits with longtime caddie
+ |work=Golf Today |url=http://www.golftoday.co.uk/news/yeartodate/news99/sorenstam.html
+ |access-date=20 February 2008}}&lt;/ref&gt;&lt;ref name=&quot;TMac&quot;&gt;{{cite magazine
+ |title=All The Action Isn't at the Golf Course
+ |first=Ron |last=Sirak |date=28 July 2007
+ |magazine=Golf Digest |url=http://www.golfdigest.com/magazine/blogs/localknowledge/2007/07/all-the-action-.html
+ |access-date=20 February 2008}}&lt;/ref&gt;
+
+===2000s===
+At this point in her career, Sörenstam says she lost focus having reached her biggest goals.&lt;ref name=&quot;Golf Annika's Way&quot;/&gt; [[Karrie Webb]] became the best LPGA Tour player but Sörenstam still managed to win more LPGA tournaments than any other LPGA Tour player during the 1990s.&lt;ref name=&quot;LPGABio&quot;/&gt; She qualified for the [[World Golf Hall of Fame]] when she won the [[2000 LPGA Tour|2000]] [[Welch's/Fry's Championship|Welch's/Circle K Championship]], but was not eligible for induction until finishing her tenth year on the LPGA tour in October 2003.&lt;ref name=&quot;HOF1&quot;&gt;
+{{cite magazine
+ |title=Sörenstam deserves Hall pass
+ |magazine=Sports Illustrated |first=Tom |last=Hanson
+ |date=13 March 2000
+ |url=http://sportsillustrated.cnn.com/inside_game/tom_hanson/news/2000/03/13/inside_lpga/
+ |access-date=8 March 2007}}&lt;/ref&gt;&lt;ref name=&quot;HOF2&quot;&gt;
+{{cite web
+ |title=Annika Sörenstam bio
+ |publisher=LPGA
+ |url=http://www.lpga.com/golf/players/s/annika-sorenstam/bio.aspx
+ |accessdate=9 November 2014}}&lt;/ref&gt; Sörenstam was the first international player to be inducted into the Hall of Fame through the LPGA criteria.&lt;ref name=&quot;HOF3&quot;&gt;
+{{cite news
+ |title=Annika, Price Inducted into Hall
+ |work=The Golf Channel
+ |date=21 October 2003
+ |url=http://www.thegolfchannel.com/core.aspx?page=15100&amp;select=11239
+ |access-date=8 March 2007 }}&lt;/ref&gt;&lt;ref name=&quot;WSF&quot;&gt;{{cite web|title=Women's Sports Foundation |publisher=Women's Sports Foundation |date=18 October 2004 |first=Alison |last=Sawyer |url=http://www.gogirlworld.org/cgi-bin/iowa/about/media/press.html?record=116 |accessdate=18 May 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20081008134054/http://www.gogirlworld.org/cgi-bin/iowa/about/media/press.html?record=116 |archivedate=8 October 2008 }}&lt;/ref&gt;&lt;ref name=&quot;HOF4&quot;&gt;
+{{cite web
+ |title=World Golf Hall of Fame Profile: Annika Sörenstam
+ |publisher=World Golf Hall of Fame
+ |url=http://www.worldgolfhalloffame.org/annika-sorenstam/
+ |access-date=4 September 2013 }}&lt;/ref&gt;
+
+Having lost her preeminent position, Sörenstam embarked on a new five-day-a-week exercise program including weight-lifting and balance work which by 2003 added over {{convert|20|yd}} to her driving distance.&lt;ref name=&quot;Passion&quot;&gt;
+{{cite web
+ |title=Passion to be Perfect |publisher=Golf for Women magazine |first=Ron |last=Sirak
+ |url=http://www.herballifehealing.com/links/shaklee/03%20Nutrition/13%20Sports/07%20Annika%20Sorenstam.pdf
+ |access-date=7 July 2007}}&lt;/ref&gt;&lt;ref name=&quot;Driving&quot;&gt;
+{{cite magazine
+ |title=Annika's Driving Ambition |magazine=Time |first=Jeff |last=Chu
+ |date=26 May 2003 |url=http://www.time.com/time/magazine/article/0,9171,1004902,00.html |access-date=3 May 2007}}&lt;/ref&gt; During the 2001 season, she had eight LPGA wins, became the only female golfer to shoot a 59 in competition and the first LPGA player to cross the $2&amp;nbsp;million mark in single-season earnings.&lt;ref name=&quot;Money List&quot;/&gt;&lt;ref name=&quot;Score59&quot;&gt;
+{{cite news 
+ |title=Sörenstam reaches golf's magic number |work=ESPN
+ |date=21 March 2001 |url=http://espn.go.com/golfonline/tours/s/2001/0316/1156236.html
+ |access-date=8 March 2007}}&lt;/ref&gt; She set or tied a total of 30 LPGA records en route to regaining the Vare Trophy and winning her fourth Player of the Year and Money List titles in 2001. In a made-for-TV alternate shot competition between the two best male and female players in the world, Sörenstam and [[Tiger Woods]] beat [[Karrie Webb]] and [[David Duval]].&lt;ref name=&quot;Bighorn&quot;&gt;
+{{cite web
+ |title=Woods, Sorenstam prevail in 'Battle at Bighorn' playoff.
+ |publisher=The Free Library
+ |date=31 July 2001
+ |url=http://www.thefreelibrary.com/Woods,+Sorenstam+prevail+in+%60Battle+at+Bighorn%27+playoff-a076887114
+ |access-date=21 September 2010}} {{Dead link|date=April 2012|bot=H3llBot}}&lt;/ref&gt;
+[[Image:SorenstamBrit2004a.JPG|thumb|Sörenstam at the Women's British Open 2004]]
+
+At the end of that season [[Karrie Webb]] said she &quot;would eat her hat&quot; if Sörenstam repeated her eight wins in 2002.&lt;ref name=&quot;WebbHat&quot;&gt;
+{{cite news
+ |title= All hail Queen Annika
+ |work=BBC Sport
+ |date=6 December 2002
+ |url=http://news.bbc.co.uk/sport1/hi/golf/2549625.stm
+ |access-date=5 December 2007
+| first=Matt
+| last=Slater}}&lt;/ref&gt; Sörenstam accomplished that feat, joining [[Mickey Wright]] as the only players to win 11 LPGA tournaments in one season, earning her fifth Player of the Year title and fifth Vare Trophy. She successfully defended the [[Kraft Nabisco Championship]], her fourth major victory,&lt;ref name=&quot;KNC2002&quot;&gt;
+{{cite news
+ |title= Golf; Statement Made by Sorenstam, And Fashion Is the Least of It
+ |newspaper=The New York Times
+ |date=1 April 2002
+ |first=Clifton |last=Brown
+ |url=http://www.nytimes.com/2002/04/01/golf-statement-made-by-sorenstam-and-fashion-is-the-least-of-it.html
+ |access-date=30 March 2010}} {{Dead link|date=October 2010|bot=H3llBot}}&lt;/ref&gt; and also won the [[ANZ Ladies Masters]] in Australia&lt;ref name=&quot;ANZ2002&quot;&gt;
+{{cite web
+ |title=  Tournament Summary Report for 2002 ANZ Ladies Masters
+ |publisher=ALPG Tour
+ |url=http://www.alpgtour.com/past_tournament_detail.asp?xmlref=T104.xml
+ |access-date=8 March 2007 |archiveurl=https://web.archive.org/web/20070210014058/http://alpgtour.com/past_tournament_detail.asp?xmlref=T104.xml |archivedate=10 February 2007 |deadurl=no}}&lt;/ref&gt; and Compaq Open in Sweden on the [[Ladies European Tour]] giving her 13 wins in 25 starts worldwide in 2002.&lt;ref name=&quot;Compaq2002&quot;&gt;
+{{cite web
+ |title=Sörenstam by five 
+ |publisher=LET 
+ |date=18 August 2002 
+ |first=Martin 
+ |last=Park 
+ |url=http://www.ladieseuropeantour.com/content/let_content_news.php?Id=4628&amp;page=133 
+ |access-date=8 March 2007 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20070930201249/http://www.ladieseuropeantour.com/content/let_content_news.php?Id=4628&amp;page=133 
+ |archivedate=30 September 2007 
+ |df=dmy 
+}}&lt;/ref&gt;
+
+Amid notable controversy, Sörenstam was invited to play in the [[PGA Tour]]'s [[Bank of America Colonial]] golf tournament in [[Fort Worth, Texas|Fort Worth]], [[Texas]], in May [[2003 PGA Tour|2003]], making her the first woman to play in a PGA Tour event since [[Babe Zaharias]], who qualified for the 1945 [[Los Angeles Open]].&lt;ref&gt;{{cite magazine
+|url=http://sportsillustrated.cnn.com/multimedia/photo_gallery/0905/this.day.sports.history.may22/content.5.html
+|title=Annika Sorenstam – 2003  – Back in Time: May 22
+|magazine=[[Sports Illustrated]]
+|accessdate=21 May 2011}}&lt;/ref&gt; [[Vijay Singh]], fourth in the world rankings at the time, was particularly critical of her presence; he was quoted saying she had no business playing and he hoped she missed the cut, although this statement was later proven to be misquoted and he later apologized.&lt;ref name=&quot;Vijay&quot;&gt;
+{{cite news
+ |title= Singh says Annika 'doesn't belong' on PGA Tour
+ |newspaper=USA Today |date=12 May 2003
+ |url=http://www.usatoday.com/sports/golf/pga/2003-05-12-singh_x.htm
+ |access-date=5 December 2007
+| first1=Jerry
+| last1=Potter}}&lt;/ref&gt;&lt;ref name=&quot;Vijay2&quot;&gt;
+{{cite news
+ |title= Singh backs off comments about Sorenstam
+ |newspaper=USA Today |date=13 May 2003
+ |url=http://www.usatoday.com/sports/golf/pga/2003-05-13-singh-apology_x.htm
+ |access-date=5 December 2007
+| first1=Jerry
+| last1=Potter}}&lt;/ref&gt; Cheered through each hole, she shot five over par, tying for 96th out of the 111 who finished the first two rounds, missing the cut. After shooting 1-over-par 71 in the first round, finishing in 73rd and on pace to challenge for a weekend spot, Sörenstam said she was nervous all day but pleased by her performance.&lt;ref name=&quot;colonialpost&quot;&gt;
+{{cite magazine
+ |title=An Interview with Annika Sörenstam
+ |magazine=Golf Magazine
+ |date=22 May 2003
+ |url=http://sports.yahoo.golfserv.com/gdc/news/article.asp?id=13298
+ |access-date=1 July 2008 }}{{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}
+&lt;/ref&gt;
+Through the first round she led the field in driving accuracy, was in the top 20 in greens in regulation, and was 84th out of 111 in driving distance. Unfortunately, poor putting (last in the field, averaging over a two-putt) cost her a spot on the first page of the first round leaderboard and ultimately caused her to miss the cut.&lt;ref name=&quot;ESPN&quot;&gt;
+{{cite news
+ |title=Annika Sorenstam tees off in a PGA event
+ |work=ESPN
+ |date=22 May 2003
+ |url= http://sports.espn.go.com/espn/espn25/story?page=moments/44
+ |access-date=31 May 2009 }}
+&lt;/ref&gt;
+
+Later in the 2003 season, she won the LPGA Championship and the [[Women's British Open]],&lt;ref name=&quot;Brit2003&quot;&gt;
+{{cite web
+ |title=Annika slam dunks the opposition 
+ |publisher=LET 
+ |date=3 August 2003 
+ |first=Martin 
+ |last=Park 
+ |url=http://www.ladieseuropeantour.com/content/let_content_news.php?Id=4214&amp;page=104 
+ |access-date=10 March 2007 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20070930185249/http://www.ladieseuropeantour.com/content/let_content_news.php?Id=4214&amp;page=104 
+ |archivedate=30 September 2007 
+ |df=dmy 
+}}&lt;/ref&gt; becoming only the sixth player to complete the LPGA Career Grand Slam.&lt;ref name=&quot;Career Slam&quot;&gt;
+{{cite web
+ |title=Grand Slam 
+ |publisher=LPGA 
+ |url=http://www.lpga.com/content_1.aspx?mid=1&amp;pid=307 
+ |accessdate=8 March 2007 
+ |archiveurl=https://web.archive.org/web/20070222213311/http://www.lpga.com/content_1.aspx?mid=1&amp;amp;pid=307 
+ |archivedate=22 February 2007 
+ |deadurl=no 
+ |df=dmy 
+}}&lt;/ref&gt; She had five other victories worldwide, set or tied a total of 22 LPGA records and earned her sixth Player of the Year award. She competed against [[Fred Couples]], [[Phil Mickelson]] and [[Mark O'Meara]] in the 2003 [[Skins Game (PGA Tour)|Skins Game]], finishing second with five skins worth $225,000; Sörenstam holed a {{convert|39|yd|sing=on}} bunker shot on the ninth hole—the eighth eagle in Skins Game history.&lt;ref name=&quot;Skins&quot;&gt;{{cite web|title=December 01, 2003: News and Notes |publisher=LPGA |url=http://www.lpga.com/content_1.aspx?mid=4&amp;pid=231 |accessdate=11 May 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070929115019/http://www.lpga.com/content_1.aspx?mid=4&amp;pid=231 |archivedate=29 September 2007 }}&lt;/ref&gt; In September, she was part of the winning European [[2003 Solheim Cup|Solheim Cup]] team in her native Sweden. She was awarded her second Jerringpriset award in Sweden&lt;ref name=&quot;Jerring2003&quot;&gt;
+{{cite web
+ |title=Annika Sorenstam Biography 
+ |publisher=Athletes for Hope 
+ |url=http://www.athletesforhope.org/annika-sorenstam-allstar.html 
+ |access-date=28 December 2012 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20110904152246/http://www.athletesforhope.org/annika-sorenstam-allstar.html 
+ |archivedate=4 September 2011 
+ |df=dmy 
+}}&lt;/ref&gt; plus the 2003 Golf Writers' Trophy by the Association of Golf Writers.&lt;ref name=&quot;GWT&quot;&gt;
+{{cite web
+ |title=Annika wins Golfer of the Year 
+ |publisher=LET 
+ |date=18 December 2003 
+ |first=Andy 
+ |last=Farrell 
+ |url=http://www.ladieseuropeantour.com/content/let_content_news.php?Id=4355 
+ |access-date=8 March 2007 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20061025123552/http://www.ladieseuropeantour.com/content/let_content_news.php?Id=4355 
+ |archivedate=25 October 2006 
+ |df=dmy 
+}}&lt;/ref&gt;
+
+Sörenstam's dominance continued in 2004 with her seventh LPGA Player of the Year award tying [[Kathy Whitworth]] for the most in LPGA history. She posted 16 top-10 finishes in 18 LPGA starts, including eight wins, had two additional international wins, became the first player to reach $15&amp;nbsp;million in LPGA career earnings and took her own LPGA single-season scoring average record to 68.69696, but played too few rounds to win the Vare Trophy.&lt;ref name=&quot;LPGA Records&quot;&gt;
+{{cite web
+ |title=All Time Records 
+ |publisher=LPGA 
+ |url=http://www.lpga.com/content/Alltimerecords.pdf 
+ |access-date=2 April 2007 
+ |archiveurl=https://web.archive.org/web/20070415045540/http://www.lpga.com/content/Alltimerecords.pdf 
+ |archivedate=15 April 2007 
+ |deadurl=yes 
+ |df=dmy 
+}}&lt;/ref&gt; The Women's Sports Foundation gave her the 2004 Sportswoman of the Year Award,&lt;ref name=&quot;WSF&quot;/&gt; and the Laureus World Sports Academy named her [[Laureus World Sports Award for Sportswoman of the Year|World Sportswoman of the Year]].&lt;ref name=&quot;Laureus&quot;&gt;
+{{cite web
+ |title=Annika Sörenstam Laureus Win
+ |publisher=Laureus World Sports Academy
+ |url=http://www.laureus.com/content/annika-sorenstam?awardyear=2004&amp;nomwin=w
+ |access-date=28 December 2012}}&lt;/ref&gt; She also released a combination autobiography and golf instructional book, ''Golf Annika's Way''.&lt;ref name=&quot;Book&quot;&gt;
+{{cite magazine
+ |title=Annika's way: Instruction kept simple as swing
+ |magazine=Sports Illustrated |date=5 October 2004
+ |url=http://sportsillustrated.cnn.com/2004/golf/10/05/bc.glf.theproshop.ap/
+ |access-date=10 March 2007 }}&lt;/ref&gt;
+
+Sörenstam's life both on and off the golf course changed in [[2005 LPGA Tour|2005]]. In February, she announced that she had filed for divorce from David Esch, her husband of eight years, and this was finalised in August but it did not adversely affect her golf.&lt;ref name=&quot;Divorce&quot;/&gt;&lt;ref name=&quot;DivFinal&quot;&gt;
+{{cite web
+ |title=After her divorce, Sörenstam is moving on |publisher=[[PGA of America]] |date=18 December 2005
+ |url=http://www.pga.com/news/tours/lpga/notebook121805.cfm |access-date=24 June 2008 |archiveurl = https://web.archive.org/web/20051223152359/http://www.pga.com/news/tours/lpga/notebook121805.cfm |archivedate = 23 December 2005}}&lt;/ref&gt; Her achievements included being the first player in LPGA history to win a major three consecutive years at the [[LPGA Championship]]&lt;ref name=&quot;McD2&quot;&gt;
+{{cite web
+ |title=Annika wins the LPGA Championship 
+ |publisher=LET 
+ |date=13 June 2005 
+ |first=Bethan 
+ |last=Cutler 
+ |url=http://www.ladieseuropeantour.com/content/let_content_news.php?Id=3816&amp;page=50 
+ |access-date=11 March 2007 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20070930184530/http://www.ladieseuropeantour.com/content/let_content_news.php?Id=3816&amp;page=50 
+ |archivedate=30 September 2007 
+ |df=dmy 
+}}&lt;/ref&gt; and the first golfer in LPGA or PGA history to win the same event five consecutive years at the [[Mizuno Classic]].&lt;ref name=&quot;Mizuno&quot;&gt;
+{{cite news
+ |title=Sörenstam gets historic fifth win
+ |work=BBC News
+ |date=6 November 2005
+ |url=http://news.bbc.co.uk/sport1/hi/golf/4411458.stm
+ |access-date=8 March 2007 }}&lt;/ref&gt; 11 wins in 21 tournaments entered worldwide included victory in the Scandinavian TPC hosted by Annika&lt;ref name=&quot;TPC1&quot;&gt;
+{{cite web
+ |first=Bethan 
+ |last=Cutler 
+ |title=Annika wins the Scandinavian TPC Hosted by Annika 
+ |publisher=LET 
+ |date=7 August 2005 
+ |url=http://www.ladieseuropeantour.com/content/let_content_news.php?Id=3875&amp;page=44 
+ |access-date=8 March 2007 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20070930201309/http://www.ladieseuropeantour.com/content/let_content_news.php?Id=3875&amp;page=44 
+ |archivedate=30 September 2007 
+ |df=dmy 
+}}&lt;/ref&gt; where she presented ''herself'' the trophy, giving her an eighth Money List title, tying the LPGA record, an eighth Rolex Player of the Year (POY) award (a record) and a sixth Vare Trophy.&lt;ref name=&quot;Vare Trophy&quot;&gt;
+{{cite web
+ |title=LPGA Yearly Scoring Leaders |publisher=About.com
+ |url=http://golf.about.com/cs/historyofgolf/a/lpgavaretrophy.htm |access-date=28 December 2012}}&lt;/ref&gt;&lt;ref name=&quot;POY&quot;&gt;{{cite web|title=Rolex Player of the Year Winners |publisher=LPGA |url=http://www.lpga.com/content_1.aspx?pid=2500&amp;mid=2 |accessdate=7 March 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20061027003059/http://www.lpga.com/content_1.aspx?pid=2500&amp;mid=2 |archivedate=27 October 2006 }}&lt;/ref&gt; She is the only LPGA player ever to win Money List, POY award and Vare trophy in the same year in five different years.&lt;ref name=&quot;Syba&quot;&gt;{{cite web|title=Sybase Match Play Championship celebrates players with most wins |publisher=LPGA |url=http://www.lpga.com/content_1.aspx?mid=2&amp;pid=24021 |accessdate=15 December 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100815050412/http://www.lpga.com/content_1.aspx?mid=2&amp;pid=24021 |archivedate=15 August 2010 }}&lt;/ref&gt; Team competition saw her make her seventh consecutive Solheim Cup appearance, her 4 points making her total 21, the event's all-time leading points earner,&lt;ref name=&quot;Solheim&quot;&gt;
+{{cite web
+ |title=1990–2003 Solheim Cup Teams
+ |publisher=LPGA
+ |url=http://www.lpga.com/content/Teams,%20Members,%20WinLoss%20Records.pdf
+ |access-date=10 March 2007}}&lt;/ref&gt;&lt;ref name=&quot;2005Sol&quot;&gt;
+{{cite web
+ |title=The 2005 European Solheim Cup team announced 
+ |publisher=LET 
+ |url=http://www.ladieseuropeantour.com/main_article.php?id=3898&amp;pid=1001 
+ |access-date=28 December 2012 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20121024163130/http://www.ladieseuropeantour.com/main_article.php?id=3898&amp;pid=1001 
+ |archivedate=24 October 2012 
+ |df=dmy 
+}}&lt;/ref&gt; and the inaugural [[Lexus Cup]] was played with Sörenstam as the Captain of the victorious International Team.&lt;ref name=&quot;Lexus1&quot;&gt;
+{{cite web
+ |title=Internationals secure win in Inaugural Lexus Cup
+ |publisher=Lexus |url=http://www.lexuscup.com/2005/
+ |access-date=10 March 2007 |archiveurl=https://web.archive.org/web/20070124235233/http://www.lexuscup.com/2005/ |archivedate=24 January 2007 |deadurl=no}}&lt;/ref&gt;
+[[Image:SorenstamBrit2004c.JPG|thumb|left|Sörenstam at the Women's British Open 2004]]
+These events resulted in her receiving numerous awards. The Golf Writers Association of America named Sörenstam Female Player of the Year for the eighth time (1995,1997, 2000–2005),&lt;ref name=&quot;Gwaa1&quot;&gt;
+{{cite news
+ |title=Woods, Sörenstam, Irwin Win GWAA Awards
+ |work=The Golf Channel
+ |date=18 December 2002
+ |url=http://www.thegolfchannel.com/core.aspx?page=15100&amp;select=7915
+ |access-date=13 April 2010
+ |archiveurl = https://web.archive.org/web/20070927205416/http://www.thegolfchannel.com/core.aspx?page=15100&amp;select=7915
+ |archivedate = 27 September 2007 }}&lt;/ref&gt;&lt;ref name=&quot;Gwaa2&quot;&gt;
+{{cite news
+ |title=Singh, Sörenstam, Stadler Win Writer Awards
+ |work=The Golf Channel
+ |date=14 December 2004
+ |url=http://www.thegolfchannel.com/core.aspx?page=15100&amp;select=15098
+ |access-date=8 March 2007 }}&lt;/ref&gt;&lt;ref name=&quot;Gwaa3&quot;&gt;
+{{cite news
+ |title=Woods, Annika, Quigley Win Golf Writers Awards
+ |work=The Golf Channel
+ |date=12 December 2005
+ |url=http://www.thegolfchannel.com/core.aspx?page=15100&amp;select=18246
+ |access-date=8 March 2007}}&lt;/ref&gt; Associated Press voted her [[Associated Press Athlete of the Year|Female Athlete of the Year]] for the third consecutive year&lt;ref name=&quot;AP1&quot;&gt;
+{{cite news
+ |title=Sörenstam wins award by wide margin
+ |work=ESPN
+ |date=29 December 2003
+ |url=http://sports.espn.go.com/golf/news/story?id=1695866
+ |access-date=10 March 2007}}&lt;/ref&gt;&lt;ref name=&quot;AP2&quot;&gt;
+{{cite news
+ |first=Jim |last=Litke
+ |title=Sorenstam voted repeat AP Female Athlete of Year
+ |newspaper=USA Today |date=28 December 2004
+ |url=http://www.usatoday.com/sports/golf/lpga/2004-12-28-sorenstam-year_x.htm
+ |access-date=5 August 2008 }}&lt;/ref&gt;&lt;ref name=&quot;AP3&quot;&gt;
+{{cite news
+ |title=Golfer Sörenstam chosen AP female athlete of the year
+ |publisher=CBC (Canadian Broadcasting Corporation)
+ |url=http://www.cbc.ca/sports/story/2005/12/28/sorenstam_ap_award051228.html
+ |access-date=10 March 2007
+| date=28 December 2005 |archiveurl=https://web.archive.org/web/20070125203638/http://www.cbc.ca/sports/story/2005/12/28/sorenstam_ap_award051228.html |archivedate=25 January 2007 |deadurl=no}}&lt;/ref&gt; and she became the first woman to win the Golf Writers' Trophy twice in the 55-year history of European golf's most prestigious award.&lt;ref name=&quot;GWT2&quot;&gt;
+{{cite web
+ |title=Annika honoured again with Top Award 
+ |publisher=LET 
+ |date=13 December 2005 
+ |url=http://www.ladieseuropeantour.com/content/let_content_news.php?Id=4016&amp;page=32 
+ |access-date=8 March 2007 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20070930201542/http://www.ladieseuropeantour.com/content/let_content_news.php?Id=4016&amp;page=32 
+ |archivedate=30 September 2007 
+ |df=dmy 
+}}&lt;/ref&gt; Having previously won six [[Best Female Golfer ESPY Award]]s (1996, 1998–99, 2002–04),
+Sörenstam also received the 2005 [[ESPY Awards|ESPY Award]] as [[Best Female Athlete ESPY Award|Best Female Athlete]]&lt;ref name=&quot;espy1&quot;&gt;
+{{cite news
+ |title=The 2005 ESPY Awards
+ |work=ESPN
+ |url=http://espn.go.com/espy2005/s/05nomineesindex.html
+ |access-date=8 March 2007 |archiveurl=https://web.archive.org/web/20070226170424/http://espn.go.com/espy2005/s/05nomineesindex.html |archivedate=26 February 2007 |deadurl=no}}&lt;/ref&gt;&lt;ref name=&quot;espy2&quot;&gt;
+{{cite news
+ |title=The ESPY Awards 2002 winners
+ |work=ESPN
+ |url=http://espn.go.com/espy2002/s/02nomineesindex.html
+ |access-date=10 March 2007 |archiveurl=https://web.archive.org/web/20070209012218/http://espn.go.com/espy2002/s/02nomineesindex.html |archivedate=9 February 2007 |deadurl=no}}&lt;/ref&gt;&lt;ref name=&quot;espy3&quot;&gt;
+{{cite news
+ |title=The ESPY Awards 2003
+ |work=ESPN
+ |url=http://espn.go.com/espy2003/s/02nomineesindex.html
+ |access-date=10 March 2007}}&lt;/ref&gt;&lt;ref name=&quot;espy4&quot;&gt;
+{{cite news
+ |title=The 2004 ESPY Awards winners
+ |work=ESPN
+ |url=http://espn.go.com/espy2004/s/04nomineesindex.html
+ |access-date=10 March 2007 |archiveurl=https://web.archive.org/web/20070304225406/http://espn.go.com/espy2004/s/04nomineesindex.html |archivedate=4 March 2007 |deadurl=no}}&lt;/ref&gt;
+
+When the first-ever official [[Women's World Golf Rankings]] were unveiled in February [[2006 LPGA Tour|2006]], Sörenstam was confirmed as the number-one player in women's golf, a position she relinquished to [[Lorena Ochoa]] on 22 April [[2007 LPGA Tour|2007]].&lt;ref name=&quot;CareerMoney&quot;&gt;{{cite web
+ |title=Rolex Women's World Golf Rankings Unveiled 
+ |publisher=LPGA 
+ |date=21 February 2006 
+ |url=http://www.lpga.com/Content_1.aspx?pid=5784&amp;mid=4 
+ |accessdate=9 May 2007 
+ |archiveurl=https://web.archive.org/web/20070429223933/http://www.lpga.com/Content_1.aspx?pid=5784&amp;amp;mid=4 
+ |archivedate=29 April 2007 
+ |deadurl=no 
+ |df=dmy 
+}}&lt;/ref&gt;&lt;ref name=&quot;Rolex&quot;&gt;
+{{cite web |title=Rolex Women's World Golf Rankings |publisher=Rolex |url=http://www.rolexrankings.com |access-date=10 March 2007 |archiveurl=https://web.archive.org/web/20070313231025/http://www.rolexrankings.com/ |archivedate=13 March 2007 |deadurl=no}}&lt;/ref&gt; In partnership with [[Liselotte Neumann]] in team Sweden, she won the [[Women's World Cup of Golf]], opened her LPGA season with a defence of her title in the [[MasterCard Classic]]. She then went winless in eight starts, causing some to talk of a slump.&lt;ref name=&quot;WWCG&quot;&gt;
+{{cite web
+ |title=Sörenstam leads Sweden to World Cup victory 
+ |publisher=LET 
+ |first=Michael 
+ |last=Vlismas 
+ |date=23 January 2006 
+ |url=http://www.ladieseuropeantour.com/content/let_content_news.php?Id=4882&amp;page=30 
+ |access-date=8 March 2007 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20070927235921/http://www.ladieseuropeantour.com/content/let_content_news.php?Id=4882&amp;page=30 
+ |archivedate=27 September 2007 
+ |df=dmy 
+}}&lt;/ref&gt;&lt;ref name=&quot;Slump&quot;&gt;
+{{cite web
+ |title=Annika Sörenstam unsure about cause of lack of form
+ |work=Golf Today
+ |date=7 June 2006
+ |url=http://www.golftoday.co.uk/news/yeartodate/news06/annika_sorenstam_6.html
+ |access-date=8 March 2007}}
+&lt;/ref&gt; Her winning drought ended at the [[2006 U.S. Women's Open Golf Championship|U.S. Women's Open]], where she won an 18-hole playoff over Pat Hurst for her tenth major championship title, tying her for third on the list of players with most major championship titles.&lt;ref name=&quot;LPGA Wins&quot;/&gt;&lt;ref name=&quot;US&quot;&gt;
+{{cite news
+ |title=Sörenstam rolls past Hurst to win U.S. Women's Open playoff
+ |newspaper=USA Today |first=Doug |last=Ferguson
+ |date=3 July 2006
+ |url=http://www.usatoday.com/sports/golf/lpga/2006-07-03-us-womens-open-playoff_x.htm
+ |access-date=8 March 2007}}&lt;/ref&gt;&lt;ref&gt;
+{{cite news
+ |title= Annika the Tigress has text appeal
+ |publisher=The Independent Newspaper
+ |first=Andy |last=Farrell
+ |date=30 July 2006
+ |url=http://www.independent.co.uk/sport/golf/annika-the-tigress-has-text-appeal-409848.html
+ |access-date=8 July 2008
+| location=London}}&lt;/ref&gt; She totalled 3 wins on the LPGA and two on the Ladies European Tour, the inaugural [[Dubai Ladies Masters]] and the Swedish tournament she hosts, which she defended in her home town at the course where she learned to play.&lt;ref name=&quot;Dubai&quot;&gt;
+{{cite web
+ |title=Annika – queen of the desert 
+ |publisher=LET 
+ |date=29 October 2006 
+ |url=http://www.ladieseuropeantour.com/content/let_content_news.php?Id=8004&amp;page=7 
+ |access-date=8 March 2007 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20070927235928/http://www.ladieseuropeantour.com/content/let_content_news.php?Id=8004&amp;page=7 
+ |archivedate=27 September 2007 
+ |df=dmy 
+}}
+&lt;/ref&gt;&lt;ref name=&quot;TPC2&quot;&gt;
+{{cite web
+ |title=Sörenstam completes brilliant Swedish title defence 
+ |publisher=LET 
+ |first=Bethan 
+ |last=Cutler 
+ |date=13 August 2006 
+ |url=http://www.ladieseuropeantour.com/content/let_content_news.php?Id=6998&amp;page=14 
+ |access-date=8 March 2007 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20070927235804/http://www.ladieseuropeantour.com/content/let_content_news.php?Id=6998&amp;page=14 
+ |archivedate=27 September 2007 
+ |df=dmy 
+}}&lt;/ref&gt; Her International team lost the second Lexus Cup competition to Team Asia.&lt;ref name=&quot;Lexus2&quot;&gt;
+{{cite news
+ |title=Asia clinch victory in Lexus Cup
+ |work=BBC Sport
+ |date=17 December 2006
+ |url=http://news.bbc.co.uk/sport1/hi/golf/6187501.stm
+ |access-date=7 July 2007}}&lt;/ref&gt;
+
+Sörenstam started 2007 by losing a playoff while defending of her MasterCard Classic title.&lt;ref name=&quot;2007Mex&quot;&gt;
+{{cite news
+ |title=Francella bests Sörenstam in MasterCard playoff
+ |newspaper=USA Today |url=http://www.usatoday.com/sports/golf/lpga/2007-03-12-mastercard-classic_N.htm
+ |access-date=16 April 2007
+| date=13 March 2007}}&lt;/ref&gt; At the [[Kraft Nabisco Championship]] she shot her highest 72-hole score in a major in nine years,&lt;ref name=&quot;Nab2007&quot;&gt;
+{{cite news
+ |title=With Sörenstam out, Ochoa takes aim at No. 1 ranking 
+ |newspaper=Daily Journal 
+ |date=13 April 2007 
+ |first=Mark 
+ |last=Long 
+ |url=http://dailyjournalonline.com/articles/2007/04/14/sports/doc461f8764d847d777663225.txt 
+ |access-date=19 February 2008 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20070929121558/http://dailyjournalonline.com/articles/2007/04/14/sports/doc461f8764d847d777663225.txt 
+ |archivedate=29 September 2007 
+ |df=dmy 
+}}&lt;/ref&gt; a result explained by her subsequent diagnosis with ruptured and bulging discs in her neck, the first major injury in Sörenstam's 13-year LPGA career.&lt;ref name=&quot;Disclpga&quot;&gt;{{cite web|title=Annika Sorenstam withdraws from Ginn Open |publisher=LPGA |url=http://www.lpga.com/content_1.aspx?pid=10405&amp;mid=2 |accessdate=5 December 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20080203200946/http://www.lpga.com/content_1.aspx?pid=10405&amp;mid=2 |archivedate=3 February 2008 }}&lt;/ref&gt;&lt;ref name=&quot;DiscESPN&quot;&gt;
+{{cite news
+ |title= Annika diagnosed with ruptured disk, bulging disk
+ |work=ESPN
+ |url=http://sports.espn.go.com/golf/news/story?id=2834723
+ |access-date=5 December 2007}}&lt;/ref&gt; After a two-month injury rehabilitation break, Sörenstam returned as the Ginn Tribute tournament hostess where she admitted to being at only 85% fitness and finished tied for 36th place.&lt;ref name=&quot;GinnTrib&quot;&gt;{{cite web|title=Ginn Tribute hosted by ANNIKA Pre-tournament interviews |publisher=LPGA |url=http://www.lpga.com/content_1.aspx?pid=11124&amp;mid=1#annika |accessdate=4 July 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070921015320/http://www.lpga.com/content_1.aspx?pid=11124&amp;mid=1 |archivedate=21 September 2007 }}&lt;/ref&gt; She was still not fully fit in her next two tournaments, the LPGA Championship where she finished tied for 15th place, and the US Women's Open, where, as defending champion, she finished tied for 32nd.&lt;ref name=&quot;USOpen07&quot;&gt;
+{{cite news
+ |title=Annika disappointed with effort
+ |newspaper=The Fayetteville Observer
+ |date=2 July 2007
+ |first=Sammy |last=Batten
+ |url=http://www.fayobserver.com/article?id=266429
+ |access-date=4 May 2010
+  }}{{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}&lt;/ref&gt;
+[[Image:Annika18thTee.JPG|thumb|Sörenstam at the [[Women's British Open]] in [[2007 Women's British Open|2007]]]]
+After an early round defeat at the World Matchplay Championship, Sörenstam finished sixth at the [[Evian Masters]], 16th at the Women's British Open and ninth in the Swedish tournament she hosts on the Ladies European Tour.&lt;ref name=&quot;EU2&quot;&gt;
+{{cite news
+ |title=Matthew earns fifth win with Scandinavian TPC victory
+ |work=ESPN
+ |date=12 August 2007
+ |url=http://sports.espn.go.com/golf/news/story?id=2971122
+ |access-date=19 August 2008}}&lt;/ref&gt; On her return to the US, Sörenstam had three top ten finishes but missed the weekend at the season closing ADT Playoffs for the second year running. However, Sörenstam did win a worldwide title at the Dubai Ladies Masters on the Ladies European Tour in November 2007.&lt;ref name=&quot;ADT08&quot;&gt;{{cite magazine
+ |title= Sorenstam knocked out of ADT Championship
+ |magazine=Golf Magazine
+ |date=16 November 2007
+ |url=http://www.golf.com/golf/tours_news/article/0,28136,1685073,00.html
+ |access-date=10 June 2008 |archiveurl=https://web.archive.org/web/20080503031649/http://www.golf.com/golf/tours_news/article/0,28136,1685073,00.html |archivedate=3 May 2008 |deadurl=no}}&lt;/ref&gt;&lt;ref name=&quot;Dubai2&quot;&gt;
+{{cite web
+ |title=Sorenstam retains Dubai Ladies Masters title
+ |publisher=LET
+ |date=16 December 2007
+ |url=http://www.ladieseuropeantour.com/content/let_content_news.php?Id=11653
+ |access-date=17 December 2007 |archiveurl=https://web.archive.org/web/20071220110525/http://www.ladieseuropeantour.com/content/let_content_news.php?Id=11653 |archivedate=20 December 2007 |deadurl=no}}&lt;/ref&gt;
+
+Declaring herself recovered from injury and ready to return to a complete season of competitive golf in 2008, Sörenstam opened the year at the [[SBS Open at Turtle Bay]] where she captured her 70th LPGA Tour victory and first since September 2006.&lt;ref name=&quot;sbs08&quot;&gt;
+{{cite news
+ |title= Sorenstam takes SBS Open for 70th LPGA title, first since 2006
+ |work=ESPN
+ |date=16 February 2008
+ |url=http://sports.espn.go.com/golf/news/story?id=3249606
+ |access-date=28 May 2008}}&lt;/ref&gt; She won next at the [[Stanford International Pro-Am]] in April then following a week off, won again at the [[Michelob ULTRA Open at Kingsmill]] in a tournament record score, giving her three wins and over $1&amp;nbsp;million in earnings by mid-May. It was her 72nd and final ever win on the LPGA Tour.
+
+In 2008, Sörenstam was highly critical of other female golfers who tried to play in the PGA Tour – her comments to [[Michelle Wie]] for playing on the men's tour: &quot;I really don't know why Michelle continues to do this. We have a major this week and, if you can't qualify for a major, I don't see any reason why you should play with the men.&quot;&lt;ref name=&quot;Awie&quot;&gt;
+{{cite magazine
+ |title=Sorenstam, Creamer question Wie's decision 
+ |magazine=Golf Magazine 
+ |date=29 July 2008 
+ |url=http://www.golf.com/golf/tours_news/article/0,28136,1827713,00.html 
+ |access-date=18 July 2009 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20080820231332/http://www.golf.com:80/golf/tours_news/article/0,28136,1827713,00.html 
+ |archivedate=20 August 2008 
+ |df=dmy 
+}}&lt;/ref&gt;
+
+===Retirement===
+On 13 May 2008, Sörenstam announced at a press conference at the Sybase Classic that she would &quot;step away&quot; from competitive golf at the conclusion of the 2008 season. That night, she threw out the first pitch of the Washington Nationals/New York Mets baseball game at Shea Stadium in New York and the following day read the Top Ten on the ''[[Late Show with David Letterman]]''.&lt;ref name=&quot;retirement lpga&quot;&gt;
+ {{cite web
+ |title=Annika Announces Decision to 'Step Away' from Competitive Golf at End of Season 
+ |publisher=LPGA
+ |date=13 May 2008 
+ |url=http://www.lpga.com/content_1.aspx?pid=15338&amp;mid=2 
+ |accessdate=13 May 2008 
+ |df=dmy 
+}}&lt;/ref&gt; Her last tournament victory came in a playoff at the Suzhou Taihu Ladies Open, an event co-sanctioned by the Ladies European Tour and the Ladies Asian Golf tour.&lt;ref name=&quot;China&quot;&gt;
+{{cite web
+ |title=Sorenstam wins playoff in China 
+ |publisher=LET 
+ |date=2 November 2008 
+ |url=http://www.ladieseuropeantour.com/content/let_content_news.php?Id=18788 
+ |access-date=31 January 2009 
+}}{{dead link|date=October 2016 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; Her last scheduled tournament on the LPGA Tour was the season-ending [[ADT Championship]] in November, where she failed to make the weekend play in the event's unique playoff structure. Her final sanctioned LPGA appearance was as the winning captain of Team International at the 2008 Lexus Cup in Singapore.&lt;ref name=&quot;Lex2008&quot;&gt;
+ {{cite web
+ |title=Team International wins the Lexus Cup 2008 
+ |publisher=LPGA
+ |date=30 November 2008 
+ |url=http://www.lpga.com/content_1.aspx?mid=2&amp;pid=18304 
+ |accessdate=31 January 2009 
+ |df=dmy 
+}}&lt;/ref&gt; Her last professional tournament was the Dubai Ladies Masters on the Ladies European Tour in December 2008,&lt;ref name=&quot;retirement gc&quot;&gt;
+{{cite news
+ |title=Sorenstam: &quot;I'm Stepping Away&quot; – 05/13/2008
+ |work=The Golf Channel
+ |date=13 May 2008
+ |url=http://www.thegolfchannel.com/core.aspx?page=15104&amp;select=25882
+ |access-date=13 May 2008 }}&lt;/ref&gt; where she finished tied for 7th.
+
+==Business career==
+Sörenstam began the transition from professional golfer to entrepreneur during the later years of her career, attempting to combine golf, fitness and charitable works into various businesses under the ANNIKA brand with the brand statement &quot;Share my Passion&quot;. They are all promoted by her website on which there is a blog to which she and her staff regularly contribute.&lt;ref name=&quot;Passion2&quot;&gt;
+{{cite news
+ |title=Annika Sorenstam: Motherhood beckons for Swedish star
+ |newspaper=The Independent
+ |date=31 July 2008
+ |first=Chris |last=McGrath
+ |url=http://www.independent.co.uk/sport/golf/annika-sorenstam-motherhood-beckons-for-swedish-star-881301.html
+ |access-date=31 January 2009
+| location=London}}&lt;/ref&gt;&lt;ref name=&quot;Website&quot;&gt;
+ {{cite web
+ |title=Sorenstam launches official website 
+ |publisher=LPGA
+ |url=http://www.lpga.com/content_1.aspx?pid=11818&amp;mid=2 
+ |accessdate=31 January 2009 
+ |df=dmy 
+}}&lt;/ref&gt;&lt;ref name=&quot;Blog&quot;&gt;
+ {{cite web
+ |title=Annika Sorenstam launches Blog 
+ |publisher=LPGA
+ |date=14 November 2007 
+ |url=http://www.lpga.com/content_1.aspx?pid=13365&amp;mid=2 
+ |accessdate=31 January 2009 
+ |df=dmy 
+}}&lt;/ref&gt;&lt;ref name=&quot;Beau&quot;&gt;
+{{cite web
+ |title= Annika's beau to help build her brand
+ |publisher=Rhode Island Golf Association
+ |first=Ron |last=Sirak
+ |date=13 November 2006
+ |url=http://www.rigalinks.org/club/scripts/view/view_pubnews.asp?GRP=&amp;pg=home&amp;NS=&amp;PID=5858&amp;APP=57
+ |access-date=5 December 2007}}&lt;/ref&gt;
+
+===Golf course design===
+Sörenstam has undertaken a number of golf course design projects. Her first, the Annika Course, was completed at Mission Hills Golf Club in Shenzen, China, in 2003; the second was officially launched in January 2006 and opened in 2008 at Euphoria Golf Estate &amp; Hydro in South Africa.&lt;ref name=&quot;Mission1&quot;&gt;
+{{cite web
+ |title=Annika Course
+ |publisher=Mission Hills Golf Club China
+ |url=http://www.missionhillsgroup.com/en/golf/courses/annika/default.html
+ |access-date=31 January 2009 |archiveurl = https://web.archive.org/web/20070927011410/http://www.missionhillsgroup.com/en/golf/courses/annika/default.html |archivedate = 27 September 2007}}&lt;/ref&gt;&lt;ref name=&quot;SACourse1&quot;&gt;{{cite web|title=Sörenstam launches golf course in South Africa |publisher=LPGA |url=http://www.lpga.com/content_1.aspx?pid=5531&amp;mid=4 |accessdate=16 April 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070929120720/http://www.lpga.com/content_1.aspx?pid=5531&amp;mid=4 |archivedate=29 September 2007 }}&lt;/ref&gt;&lt;ref name=&quot;SACourse2&quot;&gt;
+{{cite web
+ |title=Annika Sorenstam officially opens Euphoria Golf Estate &amp; Hydro
+ |publisher=Euphoria Golf Estate &amp; Hydro
+ |url=http://www.euphoriaestate.co.za/contenthtml/files/Media/AnnikaOpening.pdf
+ |access-date=31 January 2009}}&lt;/ref&gt; She recently announced a new project at Mines Golf City, near Kuala Lumpur, Malaysia. Projects closer to home include a redesign of the Patriots Point Links Course near Charleston, South Carolina and a course at Red Mountain Resort, British Columbia.&lt;ref name=&quot;Red&quot;/&gt;&lt;ref name=&quot;Patriot&quot;&gt;
+ {{cite magazine
+ |first=Tom |last=Cunneff 
+ |title=Charting a New Course 
+ |magazine=[[Links Magazine]] 
+ |url=http://www.linksmagazine.com/best_of_golf/personalities/annika_sorenstam_women_golf_course_designers_print.html 
+ |accessdate=22 July 2008 
+ |archiveurl=https://web.archive.org/web/20081006092941/http://linksmagazine.com/best_of_golf/personalities/annika_sorenstam_women_golf_course_designers_print.html 
+ |archivedate=6 October 2008 |deadurl=no 
+ |df=dmy 
+}}&lt;/ref&gt; She and Jack Nicklaus lost out on their bid to build the Olympic golf course in Rio to Gil Hanse and his consultant Amy Alcott.&lt;ref name=&quot;RioGolf&quot;&gt;
+{{cite news
+ |title=Yet-to-Be Details of Olympic Golf
+ |newspaper=The New York Times
+ |url=http://www.nytimes.com/2012/08/19/sports/olympics/dave-anderson-looking-ahead-to-olympic-golf-in-2016.html?_r=0
+ |access-date=18 August 2012 }}&lt;/ref&gt; In 2010, a golf course at Golden Bay Resort was opened in South Korea. She designed this golf course, and Hanhwa Hotels &amp; Resorts Corporation developed. This was the first project for her after-retirement golf course design.
+
+===The ANNIKA Academy===
+The ANNIKA Academy at Ginn Reunion Resort in [[Reunion, Florida]] began construction in 2006 and opened in April 2007 with Sörenstam's longtime coach Henri Reis serving as head instructor, her sister Charlotta an instructor and club fitter, her personal trainer Kai Fusser focusing on overall fitness training, and with Sorenstam available for coaching on certain golfing packages.&lt;ref name=&quot;ACAD3&quot;/&gt;&lt;ref name=&quot;Academy&quot;&gt;{{cite web|title=Annika Sörenstam announces golf academy to open at Reunion Resort &amp; Club |publisher=LPGA |date=31 October 2006 |url=http://www.lpga.com/content_1.aspx?mid=2&amp;pid=7840 |accessdate=31 January 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090212104336/http://www.lpga.com/content_1.aspx?mid=2&amp;pid=7840 |archivedate=12 February 2009 }}&lt;/ref&gt; The opening ceremony included a Make-A-Wish Foundation golf clinic conducted by Sörenstam who is a United States ambassador for the Make-A-Wish Foundation and it also hosted clinics for junior golfers during The Annika Invitational, an American Junior Golf Association invitation-only event featuring the top 60 girls from around the world hosted by The ANNIKA Foundation.&lt;ref name=&quot;Wish&quot;&gt;
+{{cite web
+ |title=Annika Sörenstam Becomes National Ambassador for Make a wish foundation 
+ |publisher=Make-A-Wish Foundation 
+ |date=11 April 2007 
+ |url=http://www.wish.org/news/news_releases/annika_ambassador 
+ |accessdate=11 May 2007 
+ |archiveurl=https://web.archive.org/web/20070503013619/http://www.wish.org/news/news_releases/annika_ambassador 
+ |archivedate=3 May 2007 
+ |deadurl=no 
+ |df=dmy 
+}}&lt;/ref&gt;&lt;ref name=&quot;Ajga1&quot;&gt;
+{{cite web
+ |title= Annika Sorenstam and AJGA jointly create The Annika Invitational
+ |publisher=World Golf
+ |date=15 October 2008
+ |url=http://www.worldgolf.com/newswire/browse/55710-Annika-Sorenstam-and-AJGA-jointly-create-Annika-Invitational
+ |access-date=31 January 2009}}&lt;/ref&gt;&lt;ref name=&quot;Ajga2&quot;&gt;
+{{cite web
+ |title= Simin Feng Wins by a Whisker
+ |publisher=American Junior Golf Association
+ |year = 2009
+ |url=http://www.ajga.org/2009ANNIKA/index.asp
+ |access-date=31 January 2009 |archiveurl=https://web.archive.org/web/20090201172021/http://ajga.org/2009ANNIKA/index.asp |archivedate=1 February 2009 |deadurl=no}}&lt;/ref&gt;
+
+===Other business ventures===
+Other branches of the ANNIKA business include a clothing line with [[Cutter &amp; Buck]],&lt;ref name=&quot;cutter-renew&quot;&gt;
+{{cite news
+ |title=Annika Sorenstam to keep swinging for Cutter &amp; Buck
+ |newspaper=The Seattle Times
+ |date=19 October 2005
+ |url=http://seattletimes.com/html/businesstechnology/2004421775_sundaybuzz18.html
+ |access-date=28 December 2012}}&lt;/ref&gt; a limited label wine produced in partnership with [[Wente Vineyards]],&lt;ref name=&quot;wine-announce&quot;&gt;
+{{cite web
+ |title= Annika and Wente Vineyards
+ |url=http://www.annikavineyards.com/index.php?/annika_master/layout_standard/annika_wine
+ |access-date=28 December 2012}}&lt;/ref&gt; and a signature fragrance developed by [[SA Fragrances]].&lt;ref name=&quot;fragrance-announce&quot;&gt;
+{{cite web
+ |title= Annika Sorenstam to have a signature fragance by SA Fragrances
+ |publisher=World Golf News
+ |date=21 November 2008
+ |url=http://www.worldgolf.com/newswire/browse/56398-Annika-Sorenstam-have-signature-fragance-SA-Fragrances
+ |access-date=14 December 2008}}&lt;/ref&gt; Sörenstam also hosted the [[Ginn Tribute Hosted by Annika]], an event on the LPGA Tour in 2007 and 2008, and the [[Scandinavian TPC hosted by Annika]] on the Ladies European Tour during its last four years from 2005 through 2008. She won the latter tournament in 2005 and 2006. Both tournaments had their last event in 2008.
+
+One of Sörenstam's hobbies is cooking. She has participated in cooking demonstrations during LPGA tournaments and has talked about enrolling in cooking school.&lt;ref name=&quot;WegCook&quot;&gt;
+ {{cite web
+ |title=Annika Cooking at Wegmans 
+ |publisher=LPGA 
+ |url=http://www.lpga.com/content_1.aspx?pid=2822&amp;mid=2 
+ |accessdate=4 April 2007 
+ |df=dmy 
+}}&lt;/ref&gt;&lt;ref name=&quot;ChefMing&quot;&gt;
+{{cite web
+ |title=Ming Tsai and Annika Sorenstam
+ |publisher=Travel and Leisure
+ |url=http://www.travelandleisure.com/articles/golf-simply-friends
+ |access-date=28 December 2012}}&lt;/ref&gt; Before the 2003 season Sörenstam took the opportunity to improve her culinary skills by working eight-hour shifts in the kitchens of the Lake Nona Country Club.&lt;ref name=&quot;Chef&quot;&gt;
+{{cite news
+ |title=Annika is Cookin' Up a Storm |work=The Golf Channel |date=15 January 2003
+ |url=http://www.thegolfchannel.com/core.aspx?page=15100&amp;select=8039 |access-date=10 March 2007}}&lt;/ref&gt; Sörenstam has had a serious interest in investments, real estate and the stock market since she earned her first LPGA check and in August 2006 was invited to ring the closing bell at the [[New York Stock Exchange]].&lt;ref name=&quot;Int&quot;&gt;
+{{cite magazine
+ |title=The Golf Magazine Interview: Annika Sörenstam 
+ |magazine=Golf Magazine 
+ |first=Dave 
+ |last=Allen 
+ |date=1 August 2005 
+ |url=http://www.golf.com/golf/tours_news/article/0,28136,1578469-0,00.html 
+ |access-date=28 October 2008 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20090213054840/http://www.golf.com:80/golf/tours_news/article/0,28136,1578469-0,00.html 
+ |archivedate=13 February 2009 
+ |df=dmy 
+}}&lt;/ref&gt;&lt;ref name=&quot;NYSE1&quot;&gt;
+ {{cite web
+ |title=Annika Sörenstam rang the Opening Bell at the New York Stock Exchange 
+ |publisher=LPGA 
+ |date=17 August 2006 
+ |url=http://www.lpga.com/content_1.aspx?pid=7726&amp;mid=2 
+ |accessdate=19 February 2008 
+ |df=dmy 
+}}&lt;/ref&gt;
+
+==Personal life==
+[[Image:ASBrit2005a.JPG|thumb|right|Sörenstam at the Women's British Open 2005]]
+Sörenstam has been described as an atheist.&lt;ref&gt;{{cite news |url=http://jacksonville.com/apnews/stories/123006/D8MB9VOG1.shtml |title=Atheists say they've been threatened over their views |newspaper=The Florida Times-Union |first=Dylan T. |last=Lovan |agency=Associated Press |date=30 December 2006 |accessdate=29 June 2013 }}&lt;/ref&gt; She met her first husband David Esch in 1994 on the driving range at Moon Valley Country Club, [[Phoenix, Arizona]], where she was an LPGA rookie practicing for a tournament and he worked for club manufacturer [[Ping (golf)|Ping]].&lt;ref name=&quot;Esch1&quot;&gt;
+{{cite magazine
+ |title=Pro Husband
+ |magazine=Sports Illustrated |date=31 August 1998
+ |url=http://vault.sportsillustrated.cnn.com/vault/article/magazine/MAG1013909/index.htm
+ |access-date=31 January 2009 |archiveurl=https://web.archive.org/web/20090218094040/http://vault.sportsillustrated.cnn.com/vault/article/magazine/MAG1013909/index.htm |archivedate=18 February 2009 |deadurl=no}}&lt;/ref&gt; They were engaged at the 1995 Evian Masters, married in Lake Tahoe on 4 January 1997, and were divorced in 2005.&lt;ref name=&quot;Divorce&quot;&gt;{{cite web
+ |title=Annika Sörenstam files for divorce
+ |work=Golf Today
+ |url=http://www.golftoday.co.uk/news/yeartodate/news05/sorenstam.html
+ |access-date=31 January 2009}}&lt;/ref&gt;&lt;ref name=&quot;Conv&quot;&gt;
+{{cite web
+ |title=In conversation with Annika 
+ |publisher=LET 
+ |first=Laura 
+ |last=Neal 
+ |date=19 June 2002 
+ |url=http://www.ladieseuropeantour.com/content/let_content_interview.php?Id=4579 
+ |access-date=31 January 2009 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20080518005413/http://www.ladieseuropeantour.com:80/content/let_content_interview.php?Id=4579 
+ |archivedate=18 May 2008 
+ |df=dmy 
+}}&lt;/ref&gt; In August 2007 she married Mike McGee, the managing director for the ANNIKA brand of businesses and son of former PGA Tour and Champions Tour player [[Jerry McGee]], at [[Lake Nona Golf &amp; Country Club]] in [[Orlando, Florida]], on 10 January 2009.&lt;ref name=&quot;retirement gc&quot; /&gt;&lt;ref name=&quot;Eng&quot;&gt;
+{{cite web
+ |title=Sorenstam engagement 'a lovely surprise' 
+ |publisher=PGA Tour 
+ |date=25 August 2007 
+ |url=http://www.pgatour.com/2007/r/08/25/ANNIKA.ENGAGED/ 
+ |accessdate=31 January 2009 
+ |archiveurl=https://web.archive.org/web/20090212113622/http://www.pgatour.com/2007/r/08/25/ANNIKA.ENGAGED/ 
+ |archivedate=12 February 2009 
+ |deadurl=yes 
+ |df=dmy 
+}}&lt;/ref&gt;&lt;ref name=&quot;Mar&quot;&gt;
+{{cite magazine
+ |title=Newsmakers 2007: Annika Sorenstam
+ |magazine=Golf World |date=23 November 2007
+ |first=Ron |last=Sirak
+ |url=http://www.golfdigest.com/golfworld/2007/11/gw20071123sorenstam
+ |access-date=31 January 2009 |archiveurl=https://web.archive.org/web/20090212214832/http://www.golfdigest.com/golfworld/2007/11/gw20071123sorenstam |archivedate=12 February 2009 |deadurl=no}}&lt;/ref&gt;&lt;ref name=&quot;Mar2&quot;&gt;{{cite web |title=Annika Sorenstam marries Mike McGee |publisher=Yahoo News |date=10 January 2009 |url=http://news.yahoo.com/s/ap/20090111/ap_on_sp_go_ne/glf_sorenstam_wedding;_ylt=AnN9pBnOlepN7B2iN61qBy4LMxIF |accessdate=31 January 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20121026075800/http://news.yahoo.com/s/ap/20090111/ap_on_sp_go_ne/glf_sorenstam_wedding;_ylt=AnN9pBnOlepN7B2iN61qBy4LMxIF |archivedate=26 October 2012 }}&lt;/ref&gt;
+
+Their daughter Ava Madelyn McGee was born 1 September 2009.&lt;ref name=&quot;pregnant&quot;&gt;{{cite news |title=Sorenstam expecting first child |work=ESPN |date=10 March 2009 |agency=Associated Press |url=http://sports.espn.go.com/golf/news/story?id=3996649 |access-date=20 March 2009 |archiveurl=https://web.archive.org/web/20090321192333/http://sports.espn.go.com/golf/news/story?id=3996649 |archivedate=21 March 2009 |deadurl=no}}&lt;/ref&gt; On 21 March 2011, Sörenstam gave birth to a son, William Nicholas McGee, several weeks prematurely.&lt;ref name=&quot;Babyno2&quot;&gt;{{cite news |title=Annika Sorenstam unexpectedly has second child |work=NBC Sports |url=http://progolftalk.nbcsports.com/2011/03/21/annika-sorenstam-unexpectedly-has-second-child/ |access-date=25 March 2011}}&lt;/ref&gt;
+
+==Professional wins (93)==
+===LPGA Tour (72)===
+{| class=&quot;wikitable&quot; style=&quot;font-size:95%;&quot;
+|- style=&quot;background:#eeeeee;&quot;
+|'''Legend'''
+|- style=&quot;background:#e5d1cb;&quot;
+| Major championships (10)
+|- 
+| Other LPGA Tour (62)
+|}
+{| class=&quot;wikitable&quot; style=&quot;font-size:95%;&quot;
+!No.
+!Date
+!Tournament
+!Winning score
+!Margin&lt;br&gt;of victory
+!Runner(s)-up
+|- style=&quot;background:#e5d1cb;&quot;
+|align=center|1
+|align=right|16 Jul [[1995 LPGA Tour|1995]]
+|'''[[1995 U.S. Women's Open Golf Championship|U.S. Women's Open]]'''
+|−2 (67-71-72-68=278)
+|1 stroke
+|{{flagicon|USA}} [[Meg Mallon]]
+|-
+|align=center|2
+|align=right|24 Sep 1995
+|[[GHP Heartland Classic]]
+|−10 (69-67-70-72=278)
+|10 strokes
+|{{flagicon|AUS}} [[Jan Stephenson]]
+|-
+|align=center|3
+|align=right|15 Oct 1995
+|[[Samsung World Championship of Women's Golf]]
+|−6 (72-69-71-70=282)
+|Playoff
+|{{flagicon|ENG}} [[Laura Davies]]
+|- style=&quot;background:#e5d1cb;&quot;
+|align=center|4
+|align=right|2 Jun [[1996 LPGA Tour|1996]]
+|'''[[1996 U.S. Women's Open Golf Championship|U.S. Women's Open]]
+|−8 (70-67-69-66=272)
+|6 strokes
+|{{flagicon|USA}} [[Kris Tschetter]]
+|-
+|align=center|5
+|align=right|13 Oct 1996
+|[[CoreStates Betsy King Classic]]
+|−18 (66-69-67-68=270)
+|8 strokes
+|{{flagicon|ENG}} [[Laura Davies]]
+|-
+|align=center|6
+|align=right|20 Oct 1996
+|[[Samsung World Championship of Women's Golf]]
+|−14 (66-69-69-70=274)
+|1 stroke
+|{{flagicon|SWE}} [[Helen Alfredsson]]
+|-
+|align=center|7
+|align=right|12 Jan [[1997 LPGA Tour|1997]]
+|[[Chrysler-Plymouth Tournament of Champions]]
+|−16 (72-66-68-66=272)
+|4 strokes
+|{{flagicon|AUS}} [[Karrie Webb]]
+|-
+|align=center|8
+|align=right|22 Feb 1997
+|[[Cup Noodles Hawaiian Ladies Open]]
+|−10 (67-66-73=206)
+|1 stroke
+|{{flagicon|USA}} [[Meg Mallon]]
+|-
+|align=center|9
+|align=right|6 Apr 1997
+|[[Longs Drugs Challenge]]
+|−3 (73-68-71-73=285)
+|Playoff
+|{{flagicon|USA}} [[Pam Kometani]]
+|-
+|align=center|10
+|align=right|1 Jun 1997
+|[[Michelob Light Classic]]
+|−11 (70-69-66-72=277)
+|3 strokes
+|{{flagicon|JPN}} [[Hiromi Kobayashi (golfer)|Hiromi Kobayashi]]
+|-
+|align=center|11
+|align=right|5 Oct 1997
+|[[CoreStates Betsy King Classic]]
+|−14 (70-67-68-69=274)
+|2 strokes
+|{{flagicon|USA}} [[Kelly Robbins]]
+|-
+|align=center|12
+|align=right|23 Nov 1997
+|[[ITT LPGA Tour Championship]]
+|−11 (72-68-67-70=277)
+|Playoff
+|{{flagicon|CAN}} [[Lorie Kane]] &lt;br&gt; {{flagicon|USA}} [[Pat Hurst]]
+|-
+|align=center|13
+|align=right|7 Jun [[1998 LPGA Tour|1998]]
+|[[Michelob Light Classic]]
+|−8 (67-73-68=208)
+|Playoff
+|{{flagicon|USA}} [[Donna Andrews (golfer)|Donna Andrews]]
+|-
+|align=center|14
+|align=right|28 Jun 1998
+|[[ShopRite LPGA Classic]]
+|−17 (66-65-65=196)
+|4 strokes
+|{{flagicon|USA}} [[Juli Inkster]]
+|-
+|align=center|15
+|align=right|19 Jul 1998
+|[[JAL Big Apple Classic]]
+|−19 (67-66-65-67=265)
+|8 strokes
+|{{flagicon|USA}} [[Joan Pitcock]]
+|-
+|align=center|16
+|align=right|13 Sep 1998
+|[[Safeco Classic]]
+|−15 (68-70-67-68=273)
+|5 strokes
+|{{flagicon|ENG}} [[Laura Davies]] &lt;br&gt; {{flagicon|USA}} [[Patty Sheehan]]
+|-
+|align=center|17
+|align=right|11 Jul [[1999 LPGA Tour|1999]]
+|[[Michelob Light Classic]]
+|−10 (68-72-68-70=278)
+|Playoff
+|{{flagicon|USA}} [[Tina Barrett (golfer)|Tina Barrett]]
+|-
+|align=center|18
+|align=right|3 Oct 1999
+|[[New Albany Golf Classic]]
+|−19 (68-66-69-66=269)
+|3 strokes
+|{{flagicon|AUS}} [[Mardi Lunn]]
+|-
+|align=center|19
+|13 Mar [[2000 LPGA Tour|2000]]
+|[[Welch's/Circle K Championship]]
+|−19 (67-68-67-67=269)
+|Playoff
+|{{flagicon|USA}} [[Pat Hurst]]
+|-
+|align=center|20
+|align=right|21 May 2000
+|[[Firstar LPGA Classic]]
+| -19 (66-65-66=197)
+|1 stroke
+|{{flagicon|USA}} [[Cristie Kerr]] &lt;br&gt; {{flagicon|AUS}} [[Karrie Webb]]
+|-
+|align=center|21
+|align=right|17 Jun 2000
+|[[Evian Masters]]
+|−12 (70-68-70-68=276)
+|Playoff
+|{{flagicon|AUS}} [[Karrie Webb]]
+|-
+|align=center|22
+|align=right|9 Jul 2000
+|[[Jamie Farr Kroger Classic]]
+|−10 (70-67-66-71=274)
+|Playoff
+|{{flagicon|AUS}} [[Rachel Hetherington]]
+|-
+|align=center|23
+|align=right|16 Jul 2000
+|[[Japan Airlines Big Apple Classic]]
+|−7 (69-65-72=206)
+|1 stroke
+|{{flagicon|USA}} [[Rosie Jones]]
+|-
+|align=center|24
+|align=right|11 Mar [[2001 LPGA Tour|2001]]
+|[[Welch's/Circle K Championship]]
+|−23 (65-68-67-65=265)
+|6 strokes
+|{{flagicon|KOR}} [[Se Ri Pak]] &lt;br&gt; {{flagicon|USA}} [[Michelle McGann]] &lt;br&gt; {{flagicon|USA}} [[Laura Diaz]] &lt;br&gt; {{flagicon|USA}} [[Dottie Pepper]]
+|-
+|align=center|25
+|align=right|18 Mar 2001
+|[[Standard Register PING]]
+|−27 (65-59-69-68=261)
+|2 strokes
+|{{flagicon|KOR}} [[Se Ri Pak]]
+|- style=&quot;background:#e5d1cb;&quot;
+|align=center|26
+|align=right|25 Mar 2001
+|'''[[2001 Nabisco Championship|Nabisco Championship]]'''
+|−7 (72-70-70-69=281)
+|3 strokes
+|{{flagicon|AUS}} [[Karrie Webb]] &lt;br&gt; {{flagicon|SCO}} [[Janice Moodie]] &lt;br&gt; {{flagicon|USA}} [[Dottie Pepper]] &lt;br&gt; {{flagicon|JPN}} [[Akiko Fukushima]] &lt;br&gt; {{flagicon|AUS}} [[Rachel Teske]]
+|-
+|align=center|27
+|align=right|14 Apr 2001
+|[[Office Depot Championship|The Office Depot]]
+|−6 (71-73-66=210)
+|Playoff
+|{{flagicon|KOR}} [[Mi Hyun Kim]]
+|-
+|align=center|28
+|align=right|6 May 2001
+|[[Chick-fil-A Charity Championship]]
+|−13 (70-66-67=203)
+|Playoff
+|{{flagicon|SWE}} [[Sophie Gustafson]]
+|-
+|align=center|29
+|align=right|19 Aug 2001
+|[[Bank of Montreal Canadian Women's Open]]
+|−16 (71-68-64-69=272)
+|2 strokes
+|{{flagicon|USA}} [[Kelly Robbins]]
+|-
+|align=center|30
+|align=right|28 Oct 2001
+|[[Cisco World Ladies Match Play Championship]]
+|colspan=2 align=center| 1 up
+|{{flagicon|KOR}} [[Se Ri Pak]]
+|-
+|align=center|31
+|align=right|4 Nov 2001
+|[[Mizuno Classic]]
+|−13 (66-67-70=203)
+|3 strokes
+|{{flagicon|ENG}} [[Laura Davies]]
+|-
+|align=center|32
+|align=right|2 Mar [[2002 LPGA Tour|2002]]
+|[[LPGA Takefuji Classic]]
+|−14 (64-66-66=196)
+|Playoff
+|{{flagicon|CAN}} [[Lorie Kane]]
+|- style=&quot;background:#e5d1cb;&quot;
+|align=center|33
+|align=right|31 Mar 2002
+|'''[[2002 Kraft Nabisco Championship|Kraft Nabisco Championship]]'''
+|−8 (70-71-71-68=280)
+|1 stroke
+|{{flagicon|SWE}} [[Liselotte Neumann]]
+|-
+|align=center|34
+|align=right|12 May 2002
+|[[Aerus Electrolux USA Championship]]
+|−17 (65-72-70-64=271)
+|1 stroke
+|{{flagicon|USA}} [[Pat Hurst]]
+|-
+|align=center|35
+|align=right|2 Jun 2002
+|[[Kellogg-Keebler Classic]]
+|−21 (63-67-65=195)
+|11 strokes
+|{{flagicon|USA}} [[Michele Redman]] &lt;br&gt; {{flagicon|SCO}} [[Mhairi McKay]] &lt;br&gt; {{flagicon|USA}} [[Danielle Ammaccapane]]
+|-
+|align=center|36
+|align=right|15 Jun 2002
+|[[Evian Masters]]
+|−19 (68-67-65-69=269)
+|4 strokes
+|{{flagicon|SWE}} [[Maria Hjorth]] &lt;br&gt; {{flagicon|KOR}} [[Mi Hyun Kim]]
+|-
+|align=center|37
+|align=right|30 Jun 2002
+|[[ShopRite LPGA Classic]]
+|−12 (68-67-66=201)
+|3 strokes
+|{{flagicon|SWE}} [[Carin Koch]] &lt;br&gt; {{flagicon|USA}} [[Kate Golden]]
+|-
+|align=center|38
+|align=right|8 Sep 2002
+|[[Williams Championship]]
+|−11 (68-66-65=199)
+|4 strokes
+|{{flagicon|CAN}} [[Lorie Kane]]
+|-
+|align=center|39
+|align=right|15 Sep 2002
+|[[Safeway Classic]]
+|−17 (69-62-68=199)
+|1 stroke
+|{{flagicon|USA}} [[Kate Golden]]
+|-
+|align=center|40
+|align=right|6 Oct 2002
+|[[Samsung World Championship]]
+|−22 (66-67-68-65=266)
+|6 strokes
+|{{flagicon|USA}} [[Cristie Kerr]]
+|-
+|align=center|41
+|align=right|10 Nov 2002
+|[[Mizuno Classic]]
+|−15 (69-65-67=201)
+|2 strokes
+|{{flagicon|KOR}} [[Grace Park (golfer)|Grace Park]]
+|-
+|align=center|42
+|align=right|24 Nov 2002
+|[[ADT Championship]]
+|−13 (67-70-70-68=275)
+|3 strokes
+|{{flagicon|AUS}} [[Rachel Teske]]
+|-
+|align=center|43
+|align=right|6 Apr [[2003 LPGA Tour|2003]]
+|[[The Office Depot Championship]]
+|−5 (68-72-71=211)
+|4 strokes
+|{{flagicon|KOR}} [[Se Ri Pak]] &lt;br&gt; {{flagicon|USA}} [[Pat Hurst]] &lt;br&gt; {{flagicon|USA}} [[Heather Bowie]]
+|-
+|align=center|44
+|align=right|1 Jun 2003
+|[[Kellogg-Keebler Classic]]
+|−17 (62-66-71=199)
+|3 strokes
+|{{flagicon|SCO}} [[Mhairi McKay]]
+|- style=&quot;background:#e5d1cb;&quot;
+|align=center|45
+|align=right|8 Jun 2003
+|'''[[2003 LPGA Championship|McDonald's LPGA Championship]]'''
+|−6 (70-64-72-72=278)
+|Playoff
+|{{flagicon|KOR}} [[Grace Park (golfer)|Grace Park]]
+|- style=&quot;background:#e5d1cb;&quot;
+|align=center|46
+|align=right|3 Aug 2003
+|'''[[2003 Women's British Open|Weetabix Women's British Open]]'''
+|−10 (68-72-68-70=278)
+|1 stroke
+|{{flagicon|KOR}} [[Se Ri Pak]]
+|-
+|align=center|47
+|align=right|28 Sep 2003
+|[[Safeway Classic]]
+|−15 (67-68-66=201)
+|1 stroke
+|{{flagicon|USA}} [[Beth Daniel]]
+|-
+|align=center|48
+|align=right|9 Oct 2003
+|[[Mizuno Classic]]
+|−24 (63-63-66=192)
+|9 strokes
+|{{flagicon|KOR}} [[Grace Park (golfer)|Grace Park]] &lt;br&gt; {{flagicon|KOR}} [[Se Ri Pak]] &lt;br&gt; {{flagicon|SWE}} [[Sophie Gustafson]]
+|-
+|align=center|49
+|align=right|21 Mar [[2004 LPGA Tour|2004]]
+|[[Safeway International]]
+|−18 (67-65-68-70=270)
+|4 strokes
+|{{flagicon|USA}} [[Cristie Kerr]]
+|-
+|align=center|50
+|align=right|4 Apr 2004
+|[[Office Depot Championship]]
+|−9 (68-70-69=207)
+|3 strokes
+|{{flagicon|USA}} [[Ashli Bunch]] &lt;br&gt; {{flagicon|USA}} [[Meg Mallon]]
+|-
+|align=center|51
+|align=right|30 May 2004
+|[[LPGA Corning Classic]]
+|−18 (65-67-70-68=270)
+|2 strokes
+|{{flagicon|USA}} [[Vicki Goetze-Ackerman]] &lt;br&gt; {{flagicon|USA}} [[Michelle Estill]]
+|- style=&quot;background:#e5d1cb;&quot;
+|align=center|52
+|align=right|13 Jun 2004
+|'''[[2004 LPGA Championship|McDonald's LPGA Championship]]'''
+|−13 (68-67-64-72=271)
+|3 strokes
+|{{flagicon|KOR}} [[Shi Hyun Ahn]]
+|-
+|align=center|53
+|align=right|12 Sep 2004
+|[[John Q. Hammons Hotel Classic]]
+|−9 (66-68-70=204)
+|4 strokes
+|{{flagicon|KOR}} [[Shi Hyun Ahn]]
+|-
+|align=center|54
+|align=right|17 Oct 2004
+|[[Samsung World Championship]]
+|−18 (66-68-69-67=270)
+|3 strokes
+|{{flagicon|KOR}} [[Grace Park (golfer)|Grace Park]]
+|-
+|align=center|55
+|align=right|7 Nov 2004
+|[[Mizuno Classic]]
+|−22 (62-66-65=194)
+|9 strokes
+|{{flagicon|JPN}} [[Michie Ohba]] &lt;br&gt; {{flagicon|KOR}} [[Grace Park (golfer)|Grace Park]] &lt;br&gt; {{flagicon|JPN}} [[Ai Miyazato]]
+|-
+|align=center|56
+|align=right|21 Nov 2004
+|[[ADT Championship]]
+|−13 (66-68-72-69=275)
+|Playoff
+|{{flagicon|USA}} [[Cristie Kerr]]
+|-
+|align=center|57
+|align=right|6 Mar [[2005 LPGA Tour|2005]]
+|[[MasterCard Classic]]
+|−7 (70-71-68=209)
+|3 strokes
+|{{flagicon|AUS}} [[Karrie Webb]]
+|-
+|align=center|58
+|align=right|20 Mar 2005
+|[[Safeway International]]
+|−11 (66-69-72-70=277)
+|Playoff
+|{{flagicon|MEX}} [[Lorena Ochoa]]
+|- style=&quot;background:#e5d1cb;&quot;
+|align=center|59
+|align=right|27 Mar 2005
+|'''[[2005 Kraft Nabisco Championship|Kraft Nabisco Championship]]'''
+|−15 (70-69-66-68=273)
+|8 strokes
+|{{flagicon|USA}} [[Rosie Jones]]
+|-
+|align=center|60
+|align=right|15 May 2005
+|[[Chick-fil-A Charity Championship]]
+|−23 (67-64-67-67=265)
+|10 strokes
+|{{flagicon|TWN}} [[Candie Kung]]
+|-
+|align=center|61
+|align=right|5 Jun 2005
+|[[ShopRite LPGA Classic]]
+|−17 (67-65-64=196)
+|4 strokes
+|{{flagicon|USA}} [[Juli Inkster]]
+|- style=&quot;background:#e5d1cb;&quot;
+|align=center|62
+|align=right|12 Jun 2005
+|'''[[2005 LPGA Championship|McDonald's LPGA Championship]]'''
+|−11 (68-67-69-73=277)
+|3 strokes
+|{{flagicon|USA}} [[Michelle Wie]]
+|-
+|align=center|63
+|align=right|18 Sep 2005
+|[[John Q. Hammons Hotel Classic]]
+|−5 (68-67-73=208)
+|1 stroke
+|{{flagicon|USA}} [[Paula Creamer]]
+|-
+|align=center|64
+|align=right|16 Oct 2005
+|[[Samsung World Championship]]
+|−18 (64-71-66-69=270)
+|8 strokes
+|{{flagicon|USA}} [[Paula Creamer]]
+|-
+|align=center|65
+|align=right|6 Nov 2005
+|[[Mizuno Classic]]
+|−21 (64-67-64=195)
+|3 strokes
+|{{flagicon|PHL}} [[Jennifer Rosales]]
+|-
+|align=center|66
+|align=right|20 Nov 2005
+|[[ADT Championship]]
+|−6 (69-70-74-69=282)
+|2 strokes
+|{{flagicon|KOR}} [[Soo-Yun Kang]] &lt;br&gt; {{flagicon|USA}} [[Michele Redman]] &lt;br&gt; {{flagicon|SWE}} [[Liselotte Neumann]]
+|-
+|align=center|67
+|align=right|12 Mar [[2006 LPGA Tour|2006]]
+|[[MasterCard Classic]]
+|−8 (67-71-70=208)
+|1 stroke
+|{{flagicon|SWE}} [[Helen Alfredsson]] &lt;br&gt; {{flagicon|KOR}} [[Seon Hwa Lee]]
+|- style=&quot;background:#e5d1cb;&quot;
+|align=center|68
+|align=right|2 Jul 2006
+|'''[[2006 U.S. Women's Open Golf Championship|U.S. Women's Open]]'''
+|E (69-71-73-71=284)
+|Playoff
+|{{flagicon|USA}} [[Pat Hurst]]
+|-
+|align=center|69
+|align=right|3 Sep 2006
+|[[State Farm Classic]]
+|−19 (70-68-69-62=269)
+|2 strokes
+|{{flagicon|USA}} [[Cristie Kerr]]
+|-
+|align=center|70
+|align=right|16 Feb [[2008 LPGA Tour|2008]]
+|[[SBS Open at Turtle Bay]]
+|−10 (70-67-69=206)
+|2 strokes
+|{{flagicon|THA}} [[Russy Gulyanamitta]] &lt;br&gt; {{flagicon|USA}} [[Laura Diaz]] &lt;br&gt; {{flagicon|USA}} [[Jane Park]]
+|-
+|align=center|71
+|align=right|27 Apr 2008
+|[[Stanford International Pro-Am]]
+|−8 (68-67-70-70=275)
+|Playoff
+|{{flagicon|USA}} [[Paula Creamer]]
+|-
+|align=center|72
+|align=right|11 May 2008
+|[[Michelob ULTRA Open at Kingsmill]]
+|−19 (64-66-69-66=265)
+|7 strokes
+|{{flagicon|USA}} [[Allison Fouch]] &lt;br&gt; {{flagicon|ENG}} [[Karen Stupples]] &lt;br&gt; {{flagicon|KOR}} [[Jeong Jang]] &lt;br&gt; {{flagicon|USA}} [[Christina Kim]]
+|}
+
+'''LPGA Tour playoff record (16–6)'''
+{| class=&quot;wikitable&quot; style=&quot;font-size:95%;&quot;
+!No.!!Year!!Tournament!!Opponent(s)!!Result
+|-style=&quot;background:#B0E0E6;&quot;
+|align=center|1
+|1995
+|[[Samsung World Championship of Women's Golf]]
+|{{flagicon|ENG}} [[Laura Davies]]
+|Won with birdie on first extra hole
+|-style=&quot;background:#B0E0E6;&quot;
+|align=center|2
+|1997
+|[[Longs Drugs Challenge]]
+|{{flagicon|USA}} [[Pam Kometani]]
+|Won with par on second extra hole
+|-style=&quot;background:#B0E0E6;&quot;
+|align=center|3
+|1997
+|[[ITT LPGA Tour Championship]]
+|{{flagicon|USA}} [[Pat Hurst]]&lt;br&gt;{{flagicon|CAN}} [[Lorie Kane]]
+|Won with par on third extra hole&lt;br&gt;Hurst eliminated with par on first hole
+|-style=&quot;background:#B0E0E6;&quot;
+|align=center|4
+|1998
+|[[Michelob Light Classic]]
+|{{flagicon|USA}} [[Donna Andrews (golfer)|Donna Andrews]]
+|Won with birdie on second extra hole
+|-style=&quot;background:#F5DEB3;&quot;
+|align=center|5
+|1998
+|[[First Union Betsy King Classic]]
+|{{flagicon|AUS}} [[Rachel Hetherington]]
+|Lost to birdie on first extra hole
+|-style=&quot;background:#F5DEB3;&quot;
+|align=center|6
+|1999
+|[[Valley of the Stars Championship]]
+|{{flagicon|SWE}} [[Catrin Nilsmark]]
+|Lost to par on second extra hole
+|-style=&quot;background:#B0E0E6;&quot;
+|align=center|7
+|1999
+|[[Michelob Light Classic]]
+|{{flagicon|USA}} [[Tina Barrett (golfer)|Tina Barrett]]
+|Won with birdie on third extra hole
+|-style=&quot;background:#F5DEB3;&quot;
+|align=center|8
+|2000
+|[[LPGA Takefuji Classic]]
+|{{flagicon|AUS}} [[Karrie Webb]]
+|Lost to birdie on first extra hole
+|-style=&quot;background:#B0E0E6;&quot;
+|align=center|9
+|2000
+|[[Welch's/Circle K Championship]]
+|{{flagicon|USA}} [[Pat Hurst]]
+|Won with birdie on second extra hole
+|-style=&quot;background:#B0E0E6;&quot;
+|align=center|10
+|2000
+|[[Evian Masters]]
+|{{flagicon|AUS}} [[Karrie Webb]]
+|Won with eagle on first extra hole
+|-style=&quot;background:#B0E0E6;&quot;
+|align=center|11
+|2000
+|[[Jamie Farr Kroger Classic]]
+|{{flagicon|AUS}} [[Rachel Hetherington]]
+|Won with birdie on second extra hole
+|-style=&quot;background:#B0E0E6;&quot;
+|align=center|12
+|2001
+|[[Office Depot Championship|The Office Depot]]
+|{{flagicon|KOR}} [[Mi-Hyun Kim]]
+|Won with par on first extra hole
+|-style=&quot;background:#B0E0E6;&quot;
+|align=center|13
+|2001
+|[[Chick-fil-A Charity Championship]]
+|{{flagicon|SWE}} [[Sophie Gustafson]]
+|Won with par on second extra hole
+|-style=&quot;background:#B0E0E6;&quot;
+|align=center|14
+|2002
+|[[LPGA Takefuji Classic]]
+|{{flagicon|CAN}} [[Lori Kane]]
+|Won with birdie on first extra hole
+|-style=&quot;background:#F5DEB3;&quot;
+|align=center|15
+|2002
+|[[PING Banner Health]]
+|{{flagicon|AUS}} [[Rachel Teske]]
+|Lost to birdie on second extra hole
+|-style=&quot;background:#B0E0E6;&quot;
+|align=center|16
+|2003
+|'''[[McDonald's LPGA Championship]]'''
+|{{flagicon|KOR}} [[Grace Park (golfer)|Grace Park]]
+|Won with par on first extra hole
+|-style=&quot;background:#F5DEB3;&quot;
+|align=center|17
+|2003
+|[[Giant Eagle LPGA Classic]]
+|{{flagicon|CAN}} [[Lorie Kane]]&lt;br&gt;{{flagicon|PHI}} [[Jennifer Rosales]]&lt;br&gt;{{flagicon|AUS}} [[Rachel Teske]]
+|Teske won with birdie on third extra hole
+|-style=&quot;background:#B0E0E6;&quot;
+|align=center|18
+|2004
+|[[ADT Championship]]
+|{{flagicon|USA}} [[Cristie Kerr]]
+|Won with bogey on first extra hole
+|-style=&quot;background:#B0E0E6;&quot;
+|align=center|19
+|2005
+|[[Safeway International]]
+|{{flagicon|MEX}} [[Lorena Ochoa]]
+|Won with par on first extra hole
+|-style=&quot;background:#B0E0E6;&quot;
+|align=center|20
+|2006
+|'''[[U.S. Women's Open]]'''
+|{{flagicon|USA}} [[Pat Hurst]]
+|Won 18-hole playoff (Sörenstam:70, Hurst:74)
+|-style=&quot;background:#F5DEB3;&quot;
+|align=center|21
+|2007
+|[[MasterCard Classic]]
+|{{flagicon|USA}} [[Meaghan Francella]]
+|Lost to birdie on fourth extra hole
+|-style=&quot;background:#B0E0E6;&quot;
+|align=center|22
+|2008
+|[[Stanford International Pro-Am]]
+|{{flagicon|USA}} [[Paula Creamer]]
+|Won with par on first extra hole
+|}
+
+LPGA [[Women's major golf championships|majors]] are shown in '''bold.'''
+
+===Ladies European Tour (17)===
+*[[1995 Ladies European Tour|1995]] (2) [[OVB Damen Open Austria]], [[Hennessy Cup]]
+*[[1996 Ladies European Tour|1996]] (1) [[Trygg Hansa Ladies' Open]]
+*[[1997 Ladies European Tour|1997]] (1) [[Compaq Open]]
+*[[1998 Ladies European Tour|1998]] (1) [[Compaq Open]]
+*[[2000 Ladies European Tour|2000]] (1) '''[[Evian Masters]]'''
+*[[2002 Ladies European Tour|2002]] (3) [[ANZ Ladies Masters]] (co-sanctioned by ALPG Tour), '''[[Evian Masters]]''', [[Compaq Open]]
+*[[2003 Ladies European Tour|2003]] (1) '''[[Women's British Open]]'''
+*[[2004 Ladies European Tour|2004]] (2) [[ANZ Ladies Masters]] (co-sanctioned by ALPG Tour), [[Scandinavian TPC hosted by Annika|HP Open]]
+*[[2005 Ladies European Tour|2005]] (1) [[Scandinavian TPC hosted by Annika]]
+*[[2006 Ladies European Tour|2006]] (2) [[Scandinavian TPC hosted by Annika]], [[Dubai Ladies Masters]]
+*[[2007 Ladies European Tour|2007]] (1) [[Dubai Ladies Masters]]
+*[[2008 Ladies European Tour|2008]] (1) [[Suzhou Taihu Ladies Open]]
+
+Ladies European Tour [[Women's major golf championships|Majors]] are shown in '''bold.''' The Evian Masters is classified as a major by the LET but not the LPGA Tour, and along with the Women's British Open is co-sanctioned by the LPGA Tour, with wins counting for both tours.
+
+===ALPG Tour (4)===
+*1994 (1) [[Holden Women's Australian Open]]
+*1995 (1) [[Australian Ladies Masters]]
+*2002 (1) [[ANZ Ladies Masters]] (co-sanctioned by LET)
+*2004 (1) [[ANZ Ladies Masters]] (co-sanctioned by LET)
+
+===LPGA of Japan Tour (2)===
+*1997 (1) [[IDC Otsuka Ladies|Hisako Higuchi Kibun Classic]]
+*2003 (1) [[World Ladies Championship Salonpas Cup|Nichirei Cup]]
+
+===Other (3)===
+*1997 (1) [[JCPenney/LPGA Skins Game]]
+*2001 (1) [[Wendy's 3-Tour Challenge]] (with [[Dottie Pepper]] and [[Karrie Webb]])
+*2006 (1) [[Women's World Cup of Golf]] (team event with [[Liselotte Neumann]]; endorsed by all the main women's tours, but not an official money event)
+
+==Major championships==
+
+===Wins (10)===
+{|class=&quot;sortable wikitable&quot;
+!Year!!Championship!!Winning score!!Margin!!Runner(s)-up
+|-style=&quot;background:#FBCEB1;&quot;
+| align=center|[[1995 U.S. Women's Open Golf Championship|1995]] ||[[U.S. Women's Open]] ||−2 (67-71-72-68=278) || 1 stroke || {{flagicon|USA}} [[Meg Mallon]]
+|-style=&quot;background:#FBCEB1;&quot;
+| align=center|[[1996 U.S. Women's Open Golf Championship|1996]] ||[[U.S. Women's Open]] ||−8 (70-67-69-66=272) || 6 strokes || {{flagicon|USA}} [[Kris Tschetter]]
+|-style=&quot;background:#D0F0C0;&quot;
+| align=center|[[2001 Nabisco Championship|2001]] ||{{sortname|Nabisco|Championship|Kraft Nabisco Championship}} ||−7 (72-70-70-69=281) || 3 strokes || {{flagicon|JPN}} [[Akiko Fukushima]], {{flagicon|AUS}} [[Rachel Hetherington]], {{flagicon|SCO}} [[Janice Moodie]],&lt;br&gt;{{flagicon|USA}} [[Dottie Pepper]], {{flagicon|AUS}} [[Karrie Webb]]
+|- style=&quot;background:#D0F0C0;&quot;
+| align=center|[[2002 Kraft Nabisco Championship|2002]] ||[[Kraft Nabisco Championship]] ||−8 (70-71-71-68=280) || 1 stroke || {{flagicon|SWE}} [[Liselotte Neumann]]
+|-style=&quot;background:#D8BFD8;&quot;
+| align=center|[[2003 LPGA Championship|2003]] ||[[McDonald's LPGA Championship]] ||−6 (70-64-72-72=278) || Playoff &lt;sup&gt;1&lt;/sup&gt; || {{flagicon|KOR}} [[Grace Park (golfer)|Grace Park]]
+|-style=&quot;background:#ABCDEF;&quot;
+| align=center|[[2003 Women's British Open|2003]] ||[[Weetabix Women's British Open]] ||−10 (68-72-68-70=278) ||1 stroke || {{flagicon|KOR}} [[Se Ri Pak]]
+|-style=&quot;background:#D8BFD8;&quot;
+| align=center|[[2004 LPGA Championship|2004]] ||[[McDonald's LPGA Championship]] ||−17 (68-67-64-72=271) || 3 strokes || {{flagicon|KOR}} [[Shi Hyun Ahn]]
+|- style=&quot;background:#D0F0C0;&quot;
+| align=center|[[2005 Kraft Nabisco Championship|2005]] ||[[Kraft Nabisco Championship]] ||−15 (70-69-66-68=273)|| 8 strokes || {{flagicon|USA}} [[Rosie Jones]]
+|-style=&quot;background:#D8BFD8;&quot;
+| align=center|[[2005 LPGA Championship|2005]] ||[[McDonald's LPGA Championship]] || −11 (68-67-69-73=277) || 3 strokes || {{flagicon|USA}} [[Michelle Wie]]
+|-style=&quot;background:#FBCEB1;&quot;
+| align=center|[[2006 U.S. Women's Open Golf Championship|2006]] ||[[U.S. Women's Open]] ||E (69-71-73-71=284) || Playoff &lt;sup&gt;2&lt;/sup&gt; || {{flagicon|USA}} [[Pat Hurst]]
+|}
+
+&lt;sup&gt;1&lt;/sup&gt; Defeated Grace Park with par on first extra hole &lt;br /&gt;
+&lt;sup&gt;2&lt;/sup&gt; Defeated Hurst in 18-hole playoff: Sörenstam (70), Hurst (74)
+
+===Results timeline===
+{| cellpadding=&quot;3&quot; cellspacing=&quot;0&quot; border=&quot;1&quot; style=&quot;font-size: 95%; border: #aaa solid 1px; border-collapse: collapse;&quot;
+|- style=&quot;background:#eeeeee;&quot;
+!align=&quot;left&quot;|Tournament !! 1992 !! 1993 !! 1994 !! 1995 !! 1996 !! 1997 !! 1998 !! 1999 !! 2000
+|-
+|[[Kraft Nabisco Championship]]
+|align=&quot;center&quot;|DNP
+|align=&quot;center&quot;|DNP
+|align=&quot;center&quot;|DNP
+|align=&quot;center&quot;|T24
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|T2
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|T8
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|T7
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|T7
+|align=&quot;center&quot;|T17
+|-
+|[[LPGA Championship]]
+|align=&quot;center&quot;|DNP
+|align=&quot;center&quot;|DNP
+|align=&quot;center&quot;|DNP
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|10
+|align=&quot;center&quot;|T14
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|3
+|align=&quot;center&quot;|T30
+|align=&quot;center&quot;|T16
+|align=&quot;center&quot;|T12
+|-
+|[[U.S. Women's Open]]
+|align=&quot;center&quot;|T64
+|align=&quot;center&quot;|DNP
+|align=&quot;center&quot;|DNP
+|align=&quot;center&quot; style=&quot;background:lime;&quot;|'''1'''
+|align=&quot;center&quot; style=&quot;background:lime;&quot;|'''1'''
+|align=&quot;center&quot;|CUT
+|align=&quot;center&quot;|T41
+|align=&quot;center&quot;|CUT
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|T9
+|-
+|[[du Maurier Classic]]
+|align=&quot;center&quot;|DNP
+|align=&quot;center&quot;|DNP
+|align=&quot;center&quot;|T22
+|align=&quot;center&quot;|T45
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|T6
+|align=&quot;center&quot;|CUT
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|2
+|align=&quot;center&quot;|DNP
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|3
+|}
+{| cellpadding=&quot;3&quot; cellspacing=&quot;0&quot; border=&quot;1&quot; style=&quot;font-size: 95%; border: #aaa solid 1px; border-collapse: collapse;&quot;
+|- style=&quot;background:#eeeeee;&quot;
+!align=&quot;left&quot;|Tournament !! 2001 !! 2002 !! 2003 !! 2004 !! 2005 !! 2006 !! 2007 !! 2008 
+|-
+|[[Kraft Nabisco Championship]]
+|align=&quot;center&quot; style=&quot;background:lime;&quot;|'''1'''
+|align=&quot;center&quot; style=&quot;background:lime;&quot;|'''1'''
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|2
+|align=&quot;center&quot;|T13
+|align=&quot;center&quot; style=&quot;background:lime;&quot;|'''1'''
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|T6
+|align=&quot;center&quot;|T31
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|T2
+|-
+|[[LPGA Championship]]
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|5
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|3
+|align=&quot;center&quot; style=&quot;background:lime;&quot;|'''1'''
+|align=&quot;center&quot; style=&quot;background:lime;&quot;|'''1'''
+|align=&quot;center&quot; style=&quot;background:lime;&quot;|'''1'''
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|T9
+|align=&quot;center&quot;|T15
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|T3
+|-
+|[[U.S. Women's Open]]
+|align=&quot;center&quot;|T16
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|2
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|4
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|2
+|align=&quot;center&quot;|T23
+|align=&quot;center&quot; style=&quot;background:lime;&quot;|'''1'''
+|align=&quot;center&quot;|T32
+|align=&quot;center&quot;|T24
+|-
+|[[Women's British Open]] ^
+|align=&quot;center&quot;|T32
+|align=&quot;center&quot;|CUT
+|align=&quot;center&quot; style=&quot;background:lime;&quot;|'''1'''
+|align=&quot;center&quot;|13
+|align=&quot;center&quot; style=&quot;background:yellow;&quot;|T5
+|align=&quot;center&quot; |T31
+|align=&quot;center&quot; |T16
+|align=&quot;center&quot;|T24
+|}
+^ The Women's British Open replaced the du Maurier Classic as an LPGA major in 2001&lt;br&gt;
+DNP = did not play&lt;br&gt;
+CUT = missed the half-way cut&lt;br&gt;
+&quot;T&quot; = tied for place&lt;br&gt;
+Green background for wins. Yellow background for top-10.
+
+===Summary===
+{| class=wikitable style=text-align:center
+!Tournament !! Wins !! 2nd !! 3rd !! Top-5 !! Top-10 !! Top-25 !! Events !! Cuts made
+|-
+|align=left|[[Kraft Nabisco Championship]] ||  3 || 3 || 0 ||  6 || 10 || 13 || 14 || 14
+|-
+|align=left|[[LPGA Championship]]          ||  3 || 0 || 3 ||  7 ||  9 || 13 || 14 || 14
+|-
+|align=left|[[U.S. Women's Open]]          ||  3 || 2 || 0 ||  6 ||  7 || 10 || 15 || 13
+|-
+|align=left|[[du Maurier Classic]]         ||  0 || 1 || 1 ||  2 ||  3 ||  4 ||  6 ||  5
+|-
+|align=left|[[Women's British Open]]       ||  1 || 0 || 0 ||  2 ||  2 ||  5 ||  8 ||  7
+|-
+!Totals                                    !! 10 !! 6 !! 4 !! 23 !! 31 !! 45 !! 57 !! 53
+|}
+*Most consecutive cuts made – 24  (2003 Kraft Nabisco − 2008 British Open)
+*Longest streak of top-10s – 4 (4 times)
+
+==LPGA Tour record==
+{|class=&quot;wikitable&quot; style=&quot;text-align:center; font-size: 95%;&quot;
+! Year !!  Tournaments &lt;br&gt;played !! Cuts &lt;br&gt;made* !! Wins !!  2nd !! 3rd !! Top 10s !! Best&lt;br&gt;finish !! Earnings&lt;br&gt;(US$) !! Money&lt;br&gt;list rank !! Scoring &lt;br&gt;average !! Scoring&lt;br /&gt;rank 
+|-
+|[[1992 LPGA Tour|1992]]
+|1
+|1
+|0
+|0
+|0
+|0
+|T64
+|n/a
+|
+|77.00
+|
+|-
+|[[1993 LPGA Tour|1993]]
+|3
+|3
+|0
+|0
+|0
+|2
+|4
+|align=&quot;right&quot;|47,319
+|n/a &lt;small&gt;(90)&lt;/small&gt;
+|71.09
+|n/a &lt;small&gt;(5)&lt;/small&gt;
+|-
+|[[1994 LPGA Tour|1994]]
+|18
+|14
+|0
+|1
+|0
+|3
+|T2
+|align=&quot;right&quot;|127,451
+|39
+|71.90
+|17
+|-
+|[[1995 LPGA Tour|1995]]
+|19
+|19
+|3
+|3
+|1
+|12
+|1
+|align=&quot;right&quot;|666,533
+|1
+|71.00
+|1
+|-
+|[[1996 LPGA Tour|1996]]
+|20
+|20
+|3
+|2
+|1
+|14
+|1
+|align=&quot;right&quot;|808,311
+|3
+|70.47
+|1
+|-
+|[[1997 LPGA Tour|1997]]
+|22
+|20
+|6
+|5
+|3
+|16
+|1
+|align=&quot;right&quot;|1,236,789
+|1
+|70.04
+|2
+|-
+|[[1998 LPGA Tour|1998]]
+|21
+|21
+|4
+|4
+|2
+|17
+|1
+|align=&quot;right&quot;|1,092,748
+|1
+|69.99
+|1
+|-
+|[[1999 LPGA Tour|1999]]
+|22
+|21
+|2
+|2
+|4
+|15
+|1
+|align=&quot;right&quot;|863,816
+|4
+|70.40
+|2
+|-
+|[[2000 LPGA Tour|2000]]
+|22
+|22
+|5
+|2
+|4
+|15
+|1
+|align=&quot;right&quot;|1,404,948
+|2
+|70.47
+|2
+|-
+|[[2001 LPGA Tour|2001]]
+|26
+|26
+|8
+|6
+|1
+|20
+|1
+|align=&quot;right&quot;|2,105,868
+|1
+|69.42
+|1
+|-
+|[[2002 LPGA Tour|2002]]
+|23
+|22
+|11
+|3
+|3
+|20
+|1
+|align=&quot;right&quot;|2,863,904
+|1
+|68.70
+|1
+|-
+|[[2003 LPGA Tour|2003]]
+|17
+|17
+|6
+|4
+|1
+|15
+|1
+|align=&quot;right&quot;|2,029,506
+|1
+|69.02
+|1
+|-
+|[[2004 LPGA Tour|2004]]
+|18
+|18
+|8
+|4
+|0
+|16
+|1
+|align=&quot;right&quot;|2,544,707
+|1
+|68.70
+|1
+|-
+|[[2005 LPGA Tour|2005]]
+|20
+|20
+|10
+|2
+|0
+|15
+|1
+|align=&quot;right&quot;|2,588,240
+|1
+|69.33
+|1
+|-
+|[[2006 LPGA Tour|2006]]
+|20
+|19
+|3
+|5
+|1
+|16
+|1
+|align=&quot;right&quot;|1,971,741
+|3
+|69.82
+|2
+|-
+|[[2007 LPGA Tour|2007]]
+|13
+|13
+|0
+|1
+|2
+|6
+|2
+|align=&quot;right&quot;|532,718
+|25
+|71.27
+|4
+|-
+|[[2008 LPGA Tour|2008]]
+|22
+|22
+|3
+|2
+|1
+|10
+|1
+|align=&quot;right&quot;|1,735,912
+|4
+|70.47
+|2
+|-
+|Career
+!307
+!298
+!72
+!46
+!24
+!212
+!
+!22,573,192
+!1
+!
+!
+|}
+&lt;nowiki&gt;*&lt;/nowiki&gt; &lt;small&gt;Includes matchplay and other events without a cut.&lt;/small&gt;
+
+==World ranking==
+Position in [[Women's World Golf Rankings]] at the end of each calendar year.
+{|class=&quot;wikitable&quot; style=&quot;text-align:center; font-size: 95%;&quot;
+! Year !! Ranking
+|-
+|2006||1&lt;ref&gt;{{cite web |url=http://www.rolexrankings.com/en/rankings/2006-12-31/ |title=Women's World Golf Rankings |date=31 December 2006 |accessdate=8 April 2013}}&lt;/ref&gt;
+|-
+|2007||4&lt;ref&gt;{{cite web |url=http://www.rolexrankings.com/en/rankings/2007-12-31/ |title=Women's World Golf Rankings |date=31 December 2007 |accessdate=8 April 2013}}&lt;/ref&gt;
+|-
+|2008||3&lt;ref&gt;{{cite web |url=http://www.rolexrankings.com/en/rankings/2008-12-31/ |title=Women's World Golf Rankings |date=31 December 2008 |accessdate=8 April 2013}}&lt;/ref&gt;
+|}
+&lt;small&gt;On 12 January 2009, Sörenstam, who was ranked third the previous week despite having announced her retirement effective at the end of the 2008 season, was removed from the rankings. No official explanation was given for her removal. Sörenstam later posted in her personal blog that she asked to be removed.&lt;/small&gt;&lt;ref name=&quot;rolex-removal&quot;&gt;
+{{cite web
+ |last=Sörenstam
+ |first=Annika
+ |title=Annika's Blog February 2009
+ |publisher=Annika Sörenstam
+ |date=February 2009
+ |url=http://www.annikablog.com/annika-qa.html
+ |accessdate =2 March 2009 }}
+&lt;/ref&gt;
+
+==Team appearances==
+'''Amateur'''
+*[[Espirito Santo Trophy]] (representing Sweden): 1990, 1992
+
+'''Professional'''
+*[[Solheim Cup]] (representing Europe): [[1994 Solheim Cup|1994]], [[1996 Solheim Cup|1996]], [[1998 Solheim Cup|1998]], [[2000 Solheim Cup|2000]] (winners), [[2002 Solheim Cup|2002]], [[2003 Solheim Cup|2003]] (winners), [[2005 Solheim Cup|2005]], [[2007 Solheim Cup|2007]]
+*[[Lexus Cup]] (representing International team): [[2005 Lexus Cup|2005]] (winners), [[2006 Lexus Cup|2006]], [[2007 Lexus Cup|2007]], [[2008 Lexus Cup|2008]] (winners)
+*[[Women's World Cup of Golf|World Cup]] (representing Sweden): 2006 (winners)
+
+===Solheim Cup record===
+{|class=&quot;wikitable&quot; style=&quot;text-align:center; font-size: 95%;&quot;
+! Year !! Total&lt;br&gt;matches !! Total&lt;br&gt;W–L–H !! Singles&lt;br&gt;W–L–H !! Foursomes&lt;br&gt;W–L–H !! Fourballs&lt;br&gt;W–L–H !! Points&lt;br&gt;won !! Points&lt;br&gt;%
+|-
+|'''Career'''
+|'''37'''
+|'''''22–11–4'''''
+|'''''4–3–1'''''
+|'''''11–3–1'''''
+|'''''7–5–2'''''
+|24
+|64.9
+|-
+|[[1994 Solheim Cup|1994]]
+|3
+|'''''1–2–0'''''
+|'''''0–1–0'''''&lt;br&gt;lost to T. Green
+|'''''1–0–0'''''&lt;br&gt;won w/ C.Nilsmark 1 up
+|'''''0–1–0'''''&lt;br&gt;lost w/ C. Nilsmark 6&amp;5
+|1
+|33.3
+|-
+|[[1996 Solheim Cup|1996]]
+|5
+|'''''3–0–2'''''
+|'''''1–0–0'''''&lt;br&gt;def. P. Bradley 2&amp;1
+|'''''1–0–1'''''&lt;br&gt;halved w/ C. Nilsmark,&lt;br&gt;won w/ C. Nilsmark 1 up
+|'''''1–0–1'''''&lt;br&gt;won w/ K. Marshall 1 up,&lt;br&gt;halved w/ T. Johnson
+|4
+|80.0
+|-
+|[[1998 Solheim Cup|1998]]
+|5
+|'''''3–2–0'''''
+|'''''1–0–0'''''&lt;br&gt;def. D. Andrews 2&amp;1
+|'''''1–1–0'''''&lt;br&gt;won w/ C. Matthew 3&amp;2,&lt;br&gt;lost w/ C. Matthew 3&amp;2
+|'''''1–1–0'''''&lt;br&gt;lost w/ C. Nilsmark 2 up,&lt;br&gt;won w/ C. Nilsmark 5&amp;3
+|3
+|60.0
+|-
+|[[2000 Solheim Cup|2000]]
+|4
+|'''''2–2–0'''''
+|'''''0–1–0'''''&lt;br&gt;lost to J. Inkster 5&amp;4
+|'''''2–0–0'''''&lt;br&gt;won w/ J. Moodie 1 up,&lt;br&gt;won w/ J. Moodie 1 up
+|'''''0–1–0'''''&lt;br&gt;lost w/ J. Moodie 2&amp;1
+|2
+|50.0
+|-
+|[[2002 Solheim Cup|2002]]
+|5
+|'''''3–1–1'''''
+|'''''0–0–1'''''&lt;br&gt;halved w/ W. Ward
+|'''''2–0–0'''''&lt;br&gt;won w/ C Koch 3&amp;2,&lt;br&gt;won w/ C. Koch 4&amp;3
+|'''''1–1–0'''''&lt;br&gt;lost w/ M. Hjorth 2&amp;1,&lt;br&gt;won w/ C. Koch 4&amp;3
+|3.5
+|70.0
+|-
+|[[2003 Solheim Cup|2003]]
+|5
+|'''''4–1–0'''''
+|'''''1–0–0'''''&lt;br&gt;def. A. Stanford 3&amp;2
+|'''''2–0–0'''''&lt;br&gt;won w/ S. Pettersen 4&amp;3,&lt;br&gt;won w/ C. Koch 3&amp;2
+|'''''1–1–0'''''&lt;br&gt;lost w/ C. Koch 1 dn,&lt;br&gt;won w/ S. Pettersen 1 up
+|4
+|80.0
+|-
+|[[2005 Solheim Cup|2005]]
+|5
+|'''''4–1–0'''''
+|'''''1–0–0'''''&lt;br&gt;def B. Daniel 4&amp;3
+|'''''1–1–0'''''&lt;br&gt;won w/ S. Pettersen 1 up,&lt;br&gt;lost w/ C. Matthew 2 up
+|'''''2–0–0'''''&lt;br&gt;won w/ C. Matthew 2&amp;1,&lt;br&gt;won w/ L. Davies 4&amp;2
+|4
+|80.0
+|-
+|[[2007 Solheim Cup|2007]]
+|5
+|'''''2–2–1'''''
+|'''''0–1–0'''''&lt;br&gt;lost to M. Pressel 2&amp;1
+|'''''1–1–0'''''&lt;br&gt;lost w/ C. Matthew 4&amp;2,&lt;br&gt;won w/ C. Matthew 1 up
+|'''''1–0–1'''''&lt;br&gt;halved w/ M. Hjorth,&lt;br&gt; won w/ S. Pettersen 3&amp;2
+|2.5
+|50.0
+|}
+
+==Awards and honors==
+{{col-begin}}
+{{col-2}}
+'''&lt;big&gt;1993&lt;/big&gt;'''
+
+*[[Ladies European Tour#Yearly award winners|LET Rookie of the Year]]
+
+'''&lt;big&gt;1994&lt;/big&gt;'''
+
+*[[LPGA#LPGA Tour awards|LPGA Rookie of the Year]]
+
+'''&lt;big&gt;1995&lt;/big&gt;'''
+
+*[[Golf Writers Association of America Female Player of the Year]]
+*[[LPGA Tour#LPGA Tour awards|LPGA Tour Player of the Year]]
+*[[LPGA Tour#Leading money winners by year|LPGA Tour Money Winner]]
+*[[LPGA Tour#LPGA Tour awards|LPGA Vare Trophy]]
+*[[Ladies European Tour#Yearly award winners|LET Order of Merit]]
+*[[Ladies European Tour#Yearly award winners|LET Players' Player of the Year]]&lt;/small&gt;
+*[[Svenska Dagbladet Gold Medal]]
+*[[Swedish Golfer of the Year]]
+*[[Radiosportens Jerringpris|Jerringpriset]] Swedish Athlete of the Year
+
+'''&lt;big&gt;1996&lt;/big&gt;'''
+
+*[[LPGA Tour#LPGA Tour awards|LPGA Vare Trophy]] &lt;small&gt; (2) &lt;/small&gt;
+*Swedish Golfer of the Year &lt;small&gt; (2) &lt;/small&gt;
+*[[ESPY Awards|ESPY Awards Best Female Golfer]]
+
+'''&lt;big&gt;1997&lt;/big&gt;'''
+
+*Golf Writers Association of America Female Player of the Year &lt;small&gt; (2) &lt;/small&gt;
+*[[LPGA Tour#LPGA Tour awards|LPGA Tour Player of the Year]] &lt;small&gt; (2) &lt;/small&gt;
+*[[LPGA Tour#Leading money winners by year|LPGA Tour Money Winner]] &lt;small&gt; (2) &lt;/small&gt;
+*Swedish Golfer of the Year &lt;small&gt; (3) &lt;/small&gt;
+
+'''&lt;big&gt;1998&lt;/big&gt;'''
+
+*[[LPGA Tour#LPGA Tour awards|LPGA Tour Player of the Year]] &lt;small&gt; (3) &lt;/small&gt;
+*[[LPGA Tour#Leading money winners by year|LPGA Tour Money Winner]] &lt;small&gt; (3) &lt;/small&gt;
+*[[LPGA Tour#LPGA Tour awards|LPGA Vare Trophy]] &lt;small&gt; (3) &lt;/small&gt;
+*Swedish Golfer of the Year &lt;small&gt; (4) &lt;/small&gt;
+*[[ESPY Awards|ESPY Awards Best Female Golfer]] &lt;small&gt; (2) &lt;/small&gt;
+
+'''&lt;big&gt;1999&lt;/big&gt;'''
+
+*[[ESPY Awards|ESPY Awards Best Female Golfer]] &lt;small&gt; (3) &lt;/small&gt;
+
+'''&lt;big&gt;2001&lt;/big&gt;'''
+
+*Golf Writers Association of America Female Player of the Year &lt;small&gt; (3) &lt;/small&gt;
+*[[LPGA Tour#LPGA Tour awards|LPGA Tour Player of the Year]] &lt;small&gt; (4) &lt;/small&gt;
+*[[LPGA Tour#Leading money winners by year|LPGA Tour Money Winner]] &lt;small&gt; (4) &lt;/small&gt;
+*[[LPGA Tour#LPGA Tour awards|LPGA Vare Trophy]] &lt;small&gt; (3) &lt;/small&gt;
+*LPGA Crowne Plaza Achievement Award
+*Swedish Golfer of the Year &lt;small&gt; (5) &lt;/small&gt;
+
+{{col-2}}
+'''&lt;big&gt;2002&lt;/big&gt;'''
+
+*Golf Writers Association of America Female Player of the Year &lt;small&gt; (4) &lt;/small&gt;
+*[[LPGA Tour#LPGA Tour awards|LPGA Tour Player of the Year]] &lt;small&gt; (5) &lt;/small&gt;
+*[[LPGA Tour#Leading money winners by year|LPGA Tour Money Winner]] &lt;small&gt; (5) &lt;/small&gt;
+*[[LPGA Tour#LPGA Tour awards|LPGA Vare Trophy]] &lt;small&gt; (4) &lt;/small&gt;
+*LPGA Crowne Plaza Achievement Award &lt;small&gt; (2) &lt;/small&gt;
+*Swedish Golfer of the Year &lt;small&gt; (6) &lt;/small&gt;
+*[[ESPY Awards|ESPY Awards Best Female Golfer]] &lt;small&gt; (4) &lt;/small&gt;
+*[[Ladies European Tour#Yearly award winners|LET Players' Player of the Year]] &lt;small&gt;(2) &lt;/small&gt;
+
+'''&lt;big&gt;2003&lt;/big&gt;'''
+
+*'''[[World Golf Hall of Fame]]'''
+*[[Associated Press Athlete of the Year|AP Female Athlete of the Year]]
+*Golf Writers Association of America Female Player of the Year &lt;small&gt; (5) &lt;/small&gt;
+*[[LPGA Tour#LPGA Tour awards|LPGA Tour Player of the Year]] &lt;small&gt; (6) &lt;/small&gt;
+*[[LPGA Tour#Leading money winners by year|LPGA Tour Money Winner]] &lt;small&gt; (6) &lt;/small&gt;
+*[[Patty Berg Award]]
+*Association of European Golf Writers Golf Writers' Trophy
+*[[Radiosportens Jerringpris|Jerringpriset]] Swedish Athlete of the Year &lt;small&gt; (2) &lt;/small&gt;
+*Swedish Golfer of the Year &lt;small&gt; (7) &lt;/small&gt;
+*[[ESPY Awards|ESPY Awards Best Female Golfer]] &lt;small&gt; (5) &lt;/small&gt;
+
+'''&lt;big&gt;2004&lt;/big&gt;'''
+
+*[[Associated Press Athlete of the Year|AP Female Athlete of the Year]] &lt;small&gt; (2) &lt;/small&gt;
+*[[Laureus World Sports Awards|Laureus World Sports Awards Sportswoman of the Year]]
+*Golf Writers Association of America Female Player of the Year &lt;small&gt; (6) &lt;/small&gt;
+*[[LPGA Tour#LPGA Tour awards|LPGA Tour Player of the Year]] &lt;small&gt; (7) &lt;/small&gt;
+*[[LPGA Tour#Leading money winners by year|LPGA Tour Money Winner]] &lt;small&gt; (7) &lt;/small&gt;
+*Swedish Golfer of the Year &lt;small&gt; (8) &lt;/small&gt;
+*[[ESPY Awards|ESPY Awards Best Female Golfer]] &lt;small&gt; (6) &lt;/small&gt;
+
+'''&lt;big&gt;2005&lt;/big&gt;'''
+
+*[[Associated Press Athlete of the Year|AP Female Athlete of the Year]] &lt;small&gt; (3) &lt;/small&gt;
+*Golf Writers Association of America Female Player of the Year &lt;small&gt; (7) &lt;/small&gt;
+*[[LPGA Tour#LPGA Tour awards|LPGA Tour Player of the Year]] &lt;small&gt; (8) &lt;/small&gt;
+*[[LPGA Tour#Leading money winners by year|LPGA Tour Money Winner]] &lt;small&gt; (8) &lt;/small&gt;
+*[[LPGA Tour#LPGA Tour awards|LPGA Vare Trophy]] &lt;small&gt; (5) &lt;/small&gt;
+*Association of European Golf Writers Golf Writers' Trophy &lt;small&gt; (2) &lt;/small&gt;
+*Swedish Golfer of the Year&lt;small&gt; (9) &lt;/small&gt;
+*[[ESPY Awards|ESPY Awards Best Female Athlete]]
+
+'''&lt;big&gt;2006&lt;/big&gt;'''
+
+*[[ESPY Awards|ESPY Awards Best Female Athlete]] &lt;small&gt; (2) &lt;/small&gt;
+
+'''&lt;big&gt;2008&lt;/big&gt;'''
+
+*[[H. M. The King's Medal|H. M. The King's Medal 8:e with ribbon]]
+
+'''&lt;big&gt;2010&lt;/big&gt;'''
+
+*[[Francis Ouimet#Francis Ouimet Scholarship Fund|Francis Ouimet Award for Lifelong Contributions to Golf]]
+
+'''&lt;big&gt;2012&lt;/big&gt;'''
+
+*[[Bob Jones Award]]
+
+'''&lt;big&gt;2015&lt;/big&gt;'''
+
+*In February 2015 she became one of the first female members of the [[Royal and Ancient Golf Club of St Andrews]].&lt;ref name=&quot;bbc.com&quot;&gt;{{cite news |url=http://www.bbc.com/sport/0/golf/31373972 |title=Princess Royal among first women to join St Andrews |work=BBC Sport |date=10 February 2015}}&lt;/ref&gt;
+
+{{col-end}}
+
+==See also==
+*[[List of golfers with most Ladies European Tour wins]]
+*[[List of golfers with most LPGA major championship wins]]
+*[[List of golfers with most LPGA Tour wins]]
+*[[Monday Night Golf]]
+*[[Grand Slam (golf)#Women's Career Grand Slam|Women's Career Grand Slam]]
+
+==Notes and references==
+{{reflist|2}}
+
+==External links==
+{{wikiquote}}
+{{commons|Annika Sorenstam}}
+*{{official website|http://www.annikasorenstam.com}}
+*{{LPGA player|annika-sorenstam/81956}}
+*{{LadiesEuroTour player|10792}}
+*[http://www.reunionresort.com/orlando-florida-golf-academy.aspx The ANNIKA Academy at Ginn Reunion Resort]
+*[http://golf.about.com/cs/annikasorenstam/p/annikasorenstam.htm Annika Sörenstam bio]
+
+{{s-start}}
+{{s-ach}}
+{{succession box
+ | before = {{flagicon|SWE}} [[Liselotte Neumann]]
+ | after  = {{flagicon|ENG}} [[Laura Davies]]
+ | title  = [[Ladies European Tour#Yearly award winners|LET Order of Merit]]
+ | years  = 1995
+}}
+{{succession box
+ | title  = [[Svenska Dagbladet Gold Medal]]
+ | before = [[Swedish national football team]]
+ | after  = [[Agneta Andersson]] &amp; [[Susanne Gunnarsson]]
+ | years  = 1995
+}}
+{{succession box
+ | before = {{flagicon|USA}} [[Serena Williams]]
+ | after  = {{flagicon|GBR}} [[Kelly Holmes]]
+ | title  = [[Laureus World Sports Awards|Laureus World Sports Award for Sportswoman of the Year]]
+ | years  = 2004
+}}
+{{s-sports}}
+{{succession box
+ | before = &amp;nbsp;—
+ | after  = {{flagicon|MEX}} [[Lorena Ochoa]]
+ | title  = [[Women's World Golf Rankings|World No. 1 Ranked Golfer]]
+ | years  = 21 February 2006 – 22 April 2007
+}}
+{{s-end}}
+{{Navboxes
+|title=Annika Sörenstam in the [[Women's major golf championships|major championships]]
+| list  =
+{{Dinah Shore/Nabisco Champions}}
+{{LPGA Champions}}
+{{U.S. Women's Open Champions}}
+{{Women's British Open Champions}}
+{{Women's Career Grand Slam Champion Golfers}}
+{{Female golfers who have won two or more Major Championships in one year}}
+}}
+{{Navboxes
+|title=Annika Sörenstam at the [[Solheim Cup]]
+| list  =
+{{1994 European Solheim Cup team}}
+{{1996 European Solheim Cup team}}
+{{1998 European Solheim Cup team}}
+{{2000 European Solheim Cup team}}
+{{2002 European Solheim Cup team}}
+{{2003 European Solheim Cup team}}
+{{2005 European Solheim Cup team}}
+{{2007 European Solheim Cup team}}
+{{2011 European Solheim Cup team}}
+{{2013 European Solheim Cup team}}
+}}
+{{Laureus World Sportswoman of the Year}}
+{{Associated Press Female Athlete of the Year navbox}}
+{{ESPY Female Athlete}}
+{{Authority control}}
+
+{{DEFAULTSORT:Sorenstam, Annika}}
+[[Category:Swedish female golfers]]
+[[Category:American female golfers]]
+[[Category:Arizona Wildcats women's golfers]]
+[[Category:Ladies European Tour golfers]]
+[[Category:LPGA Tour golfers]]
+[[Category:Winners of LPGA major golf championships]]
+[[Category:World Golf Hall of Fame inductees]]
+[[Category:Solheim Cup competitors for Europe]]
+[[Category:Golf course architects]]
+[[Category:Golf writers and broadcasters]]
+[[Category:Golfers from Florida]]
+[[Category:Laureus World Sports Awards winners]]
+[[Category:Swedish emigrants to the United States]]
+[[Category:American people of Swedish descent]]
+[[Category:Swedish atheists]] &lt;!-- http://www.washingtontimes.com/news/2006/dec/29/20061229-110808-1166r/?page=all --&gt;
+[[Category:People from Upplands-Bro Municipality]]
+[[Category:Sportspeople from Orlando, Florida]]
+[[Category:1970 births]]
+[[Category:Living people]]</text>
+      <sha1>h85tnxss4cdu7us0r4c829m0otsg1zk</sha1>
+    </revision>
+  </page>
+</mediawiki>

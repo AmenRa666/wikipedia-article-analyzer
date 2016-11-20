@@ -1,0 +1,113 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ibero-Caucasian languages</title>
+    <ns>0</ns>
+    <id>72449</id>
+    <revision>
+      <id>699296706</id>
+      <parentid>662670351</parentid>
+      <timestamp>2016-01-11T14:00:01Z</timestamp>
+      <contributor>
+        <ip>178.200.176.73</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2917">{{Infobox language family
+|name=Ibero-Caucasian
+|altname=Caucasian
+|acceptance=defunct
+|region=[[Caucasus]]
+|familycolor=Caucasian
+ |family   = Proposed language family
+|child1=[[Northwest Caucasian languages|Northwest Caucasian]]
+|child2=[[Northeast Caucasian languages|Northeast Caucasian]]
+|child3=[[Kartvelian languages]]
+|glotto=none
+}}
+
+The term '''Ibero-Caucasian''' (or '''Iberian-Caucasian''') was proposed by [[Georgia (country)|Georgian]] linguist [[Arnold Chikobava]] for the union of the three language families that are specific to the Caucasus, namely
+
+* '''[[Kartvelian languages|Kartvelian]]'''
+* '''[[Northwest Caucasian languages|Northwest Caucasian]]''', also called Circassian
+* '''[[Northeast Caucasian languages|Northeast Caucasian]]''', also called Nakho–Dagestanian.
+
+The Ibero-Caucasian phylum would also include three extinct languages: [[Hattic language|Hattic]], connected by some linguists to the Northwest (Circassian) family, and [[Hurrian language|Hurrian]] and [[Urartian language|Urartian]], connected to the Northeast (Nakh–Dagestanian) family.
+
+== Family status ==
+The affinities between the three families are disputed.  A connection between the Northeast and Northwest families is seen as likely by many linguists; see the article on the [[North Caucasian languages]] for details.
+
+On the other hand, there are no known affinities between South Caucasian and the northern languages, which are two unrelated phyla even in [[Joseph H. Greenberg|Greenberg]]'s deep classification of the world's languages.  &quot;Ibero-Caucasian&quot; therefore remains at best a convenient geographical designation.
+
+== Family name ==
+The &quot;Iberian&quot; in the family name refers to [[Caucasian Iberia]] — a kingdom centered in Eastern [[Georgia (country)|Georgia]] which lasted from the 4th century BC to the 5th century AD, and is not related to the [[Iberian Peninsula]].
+
+==See also==
+* [[Chikobava Institute of Linguistics]]
+* [[Languages of the Caucasus]]
+
+==Main research centers==
+* [http://caucasiology.tsu.ge/ Tsu Institute of caucasiology]
+* [http://www.acnet.ge/ike.htm Chikobava Institute of Linguistics] of the [[Georgian Academy of Sciences]] ([[Tbilisi]]).
+* [http://lingua1.phil.uni-jena.de/ssm/ Department of Caucasiology] at the [[University of Jena]] ([[Germany]]).
+* [http://www.tsu.edu.ge/eng/faculties_e/10e.htm Faculty of Philology] at the  [[Tbilisi State University]] (Tbilisi).
+
+==Main publications==
+
+* ''The Yearbook of the Iberian-Caucasian Linguistics'' (Tbilisi).
+* ''Revue de Kartvelologie et Caucasologie'' ([[Paris]]).
+
+== Bibliography ==
+
+*Tuite, Kevin (2008): &quot;[http://www.mapageweb.umontreal.ca/tuitekj/caucasus/IberoCaucasian.pdf The Rise and Fall and Revival of the Ibero-Caucasian Hypothesis]&quot;, ''Historiographia Linguistica'' Vol. 35, No. 1-2., pp.&amp;nbsp;23–82.
+
+{{Authority control}}
+[[Category:Proposed language families]]
+[[Category:Languages of the Caucasus]]</text>
+      <sha1>rcc24ugsuarbuxe4ilpnmvo2t0jpd7i</sha1>
+    </revision>
+  </page>
+</mediawiki>

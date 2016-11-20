@@ -1,0 +1,161 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>NSB Class 64</title>
+    <ns>0</ns>
+    <id>16318179</id>
+    <revision>
+      <id>578815594</id>
+      <parentid>576648092</parentid>
+      <timestamp>2013-10-26T12:24:17Z</timestamp>
+      <contributor>
+        <username>Arsenikk</username>
+        <id>1724762</id>
+      </contributor>
+      <comment>added [[Category:15 kV AC multiple units]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7392">{{good article}}
+{{Infobox train
+| background       = 
+| name             = NSB Class 64
+| image            = Type 64 at Granvin.jpeg
+| imagealt         = 
+| imagesize        = 300px
+| caption          = Class 64 at Granvin Station in 1939
+| interiorimage    = 
+| interiorimagealt = 
+| interiorcaption  = 
+| service          = 1934–1985
+| manufacturer     = [[Norsk Elektrisk &amp; Brown Boveri|NEBB]] and [[Strømmens Værksted|Strømmen]]
+| factory          = 
+| family           = 
+| replaced         = 
+| yearconstruction = 1934
+| yearservice      = 
+| refurbishment    = 
+| yearscrapped     = 
+| numberconstruction= 
+| numberbuilt      =  3
+| numberservice    = 
+| numberpreserved  = 
+| numberscrapped   = 
+| formation        = 
+| fleetnumbers     = 
+| capacity         = 38
+| operator         = [[Norwegian State Railways (1883–1996)|Norwegian State Railways]]
+| depots           = 
+| lines            = 
+| carbody          = 
+| trainlength      = 
+| carlength        = {{convert|16300|mm|ftin|0|abbr=on}}
+| width            = 
+| height           = 
+| floorheight      = 
+| platformheight   = 
+| entrylevelorstep = 
+| doors            = 
+| art-sections     = 
+| maxspeed         = {{convert|50|km/h|abbr=on}}
+| weight           = 
+| acceleration     = 
+| deceleration     = 
+| traction         = 4 × NEBB EDTM 384
+| engine           = 
+| poweroutput      = {{convert|464|kW|abbr=on}}
+| transmission     = 
+| aux              = 
+| powersupply      = 
+| hvac             = 
+| electricsystem   = {{15 kV AC}} [[Overhead line|Catenary]] 
+| collectionmethod = [[Pantograph (rail)|Pantograph]] 
+| uicclass         = 
+| aarwheels        = 
+| bogies           = 
+| brakes           = 
+| safety           = 
+| coupling         = 
+| multipleworking  = 
+| gauge            = {{RailGauge|sg}}
+}}
+
+'''NSB Class 64''' ({{lang-no|NSB type 64}}) is a class of three [[electric multiple unit]]s built by [[Strømmens Værksted]] for the [[Norwegian State Railways (1883–1996)|Norwegian State Railways]]. Delivered in 1935, they were built for the opening of the [[Hardanger Line]] and served there until 1985, when the line closed and the trains were retired. They also periodically served on the [[Flåm Line]]. The delivery consisted of three [[Control car (rail)|motor cars]] and four [[Railroad car|carriages]], with each train consisting of up to three units. The motor cars were {{convert|16.3|m|sp=us}} long, had a power output of {{convert|464|kW}} and were capable of {{convert|50|km/h|abbr=on}}. The motor units were given road numbers 505 through 507. Two of the units have been preserved by the [[Norwegian Railway Club]] and are at [[Garnes Station]].
+
+__TOC__
+==History==
+The Hardanger Line opened in 1935 as a steep and curvy branch of the [[Bergen Line]] to connect Bergen to the [[Hardangerfjord]].&lt;ref&gt;Gubberud &amp; Sunde (1992): 16&lt;/ref&gt; The line was {{convert|27.45|km|sp=us}} long, had a maximum [[Grade (slope)|gradient]] of 4.5 percent, a [[Minimum railway curve radius|minimum curve radius]] of {{convert|180|m|0|sp=us}}, a maximum speed of {{convert|40|km/h|abbr=on}},  a maximum permitted [[axle load]] of {{convert|12|t|0}}, [[standard gauge]] and a {{15 kV AC}} electrification system.&lt;ref&gt;Hordaland County Municipality (1981): 22&lt;/ref&gt; In 1931, NSB had taken delivery of its first electric multiple unit, the [[NSB Class 62|Class 62]], for use on commuter trains on the [[Drammen Line]].&lt;ref&gt;Aspenberg (2001): 130&lt;/ref&gt; For the Hardanger Line, NSB ordered similar units, but these were modified to have a higher power output. Three motor cars and four carriages were delivered in 1934. The mechanical components and assembly were done by Strømmens Værksted, while the electrical equipment was made by [[Norsk Elektrisk &amp; Brown Boveri]] (NEBB). The class was similar to the future [[NSB Class 65|Class 65]], and was regarded as a prototype.&lt;ref name=a134&gt;Aspenberg (2001): 134&lt;/ref&gt; Class 64 were the shortest multiple units ever used by NSB.&lt;ref&gt;Aspenberg (1994): 251&lt;/ref&gt;
+
+From 21 November 1944, when the Flåm Line received electric traction, Class 64 trains were also used there.&lt;ref name=gs63&gt;Gubberud &amp; Sunde (1992): 63&lt;/ref&gt; The Flåm Line is even steeper and more curved than the Hardanger Line, so the trains received [[track brake]]s.&lt;ref&gt;Aspenberg (2001): 135&lt;/ref&gt; In 1947, [[NSB El 9|El 9]] locomotives were delivered for the Flåm Line.&lt;ref name=gs63 /&gt; Class 64 trains continued to be used periodically on the Flåm Line when there was insufficient availability of El 9s, as well as in periods with very little or very much traffic.&lt;ref&gt;Gubberud &amp; Sunde (1992): 64&lt;/ref&gt;
+
+Unit 64.07 was retired on 20 December 1982&lt;ref name=a134 /&gt; after rust damage had been found on it.&lt;ref name=a135&gt;Aspenberg (2001): 135&lt;/ref&gt; By 1984, the carriages were in such bad shape that they needed to be replaced.&lt;ref name=a134 /&gt; Trailers from Class 65 and [[NSB Class 67|Class 67]] were taken into use, and for a short period a [[NSB Class 91|Class 91]] trailer.&lt;ref name=a135 /&gt; On 28 August 1985, passenger traffic on the line was terminated and the two remaining trains were retired. Reasons for the termination included a lack of sufficient political support for financing new trains, and also that Class 64 was no longer suitable for use.&lt;ref&gt;Aspenberg (1994): 254&lt;/ref&gt; The last two trains have been preserved by the Norwegian Railway Club and are stored at Garnes Station, part of the [[Old Voss Line]].&lt;ref name=a135 /&gt;
+
+==Specifications==
+The units each had four NEBB EDTM384 motors, giving a combined power output of {{convert|464|kW}}.&lt;ref&gt;Thue (2002): 75&lt;/ref&gt; They had an overall length of {{convert|16.3|m|sp=us}}, weighed {{convert|35.5|t}} and had a [[Bo-Bo]] wheel arrangement. The motor cars had a capacity for 38 passengers and a maximum speed of {{convert|50|km/h|abbr=on}}.&lt;ref name=a134 /&gt; Because of the steep gradients, the units had a low weight combined with high power output, and had both track brakes and [[dynamic braking]].&lt;ref name=gs63 /&gt; They were originally given road numbers 18505 though 18507, but this was later changed to 64.05 through 64.07.&lt;ref name=a134 /&gt;
+
+==References==
+{{commonscat|NSB type 64}}
+{{reflist}}
+
+;Bibliography
+*{{cite book |title=Glemte spor: boken om sidebanenes tragiske liv |last=Aspenberg |first=Nils Carl |authorlink=Nils Carl Aspenberg |year=1994 |publisher=Baneforlaget |location=Oslo |language=Norwegian |isbn=82-91448-00-0}}
+*{{cite book |first=Nils Carl |last=Aspenberg |authorlink=Nils Carl Aspenberg |title=Elektrolok i Norge |year=2001 |publisher=Baneforlaget |location=Oslo |language=Norwegian |isbn=82-91448-42-6}}
+*{{cite book |title=Flåmsbana: historien om en av verdens bratteste jernbaner |last=Gubberud |first=Ivar J. |last2=Sunde |first2=Helge |year=1992 |publisher=John Grieg Forlag |language=Norwegian |isbn=82-533-0261-4}}
+*{{cite book |author=[[Hordaland County Municipality]] |title=Hardangerbana |date=October 1981 |location=Bergen |language=Norwegian}}
+*{{cite book |title=Flåmsbana |language=Norwegian |last=Thue |first=Johs. B. |year=2002 |publisher=Skald |isbn=82-7959-028-5}}
+
+{{NSB stock}}
+
+[[Category:Norwegian State Railways (1883–1996) multiple units|64]]
+[[Category:Brown, Boveri &amp; Cie multiple units]]
+[[Category:Vehicles introduced in 1934]]
+[[Category:1934 establishments in Norway]]
+[[Category:Flåm Line]]
+[[Category:Hardanger Line]]
+[[Category:15 kV AC multiple units]]</text>
+      <sha1>ocl4nxlwhq6q4zxrlw2ngkig4hk43px</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,299 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Elf (Middle-earth)</title>
+    <ns>0</ns>
+    <id>23139831</id>
+    <revision>
+      <id>742198695</id>
+      <parentid>740282858</parentid>
+      <timestamp>2016-10-02T07:42:35Z</timestamp>
+      <contributor>
+        <ip>111.220.227.9</ip>
+      </contributor>
+      <comment>/* Sundering */ because Great Journey redirects to this article</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="40997">{{Me races}}
+In [[J. R. R. Tolkien]]'s [[legendarium]], '''Elves''' are one of the races that inhabit a fictional Earth, often called [[Middle-earth]], and set in the remote past. They appear in ''[[The Hobbit]]'' and in ''[[The Lord of the Rings]]'', but their complex history is described more fully in ''[[The Silmarillion]]''. Tolkien had been writing about Elves long before he published ''The Hobbit''.
+
+==Development==
+
+===Background===
+The modern English word ''[[elf]]'' derives from the [[Old English]] word ''[[Elf#Old English|ælf]]'' (which has cognates in all other [[Germanic languages]]). Numerous types of elves appear in  [[Germanic mythology]], the West Germanic concept appears to have come to differ from the Scandinavian notion in the early Middle Ages, and [[Anglo-Saxon]] concept diverged even further, possibly under [[Celtic mythology|Celtic]] influence.&lt;ref name=&quot;SIMEK72&quot;&gt;[[Rudolf Simek|Simek, Rudolf]] (2007) translated by Angela Hall. ''[https://books.google.com/books?id=Zni8GwAACAAJ Dictionary of Northern Mythology]'', pages 7–8 and 73—74. [[Boydell &amp; Brewer|D.S. Brewer]]. ISBN 0-85991-513-1&lt;/ref&gt; Tolkien would make it clear in a letter that his Elves differ from those &quot;of the better known lore&quot;,&lt;ref&gt;{{ME-ref|Letters|#25}}&lt;/ref&gt; referring to Scandinavian mythology.&lt;ref&gt;{{ME-ref|Solopova|p. 26}}&lt;/ref&gt;
+
+By 1915 when Tolkien was writing his first elven poems, the words'' elf'', ''fairy'' and ''gnome'' had many divergent and contradictory associations. Tolkien had been gently warned against using the term 'fairy', which John Garth supposes may have been due to the word becoming increasingly used to indicate [[homosexuality]], although despite this warning Tolkien continued to use it.&lt;ref&gt;{{ME-ref|Garth|p. 76}}&lt;/ref&gt;
+
+By the late 19th century, the term 'fairy' had been taken up as a [[utopian]] theme, and was used to critique social and religious values, a tradition which Tolkien along with [[T. H. White]] are seen to continue.&lt;ref&gt;{{cite book| last= Zipes|first=Jack|title=Victorian fairy tales : the revolt of the fairies and elves|year=1989|publisher= Routledge |location= New York|isbn=978-0-415-90140-6|pages=xxiv|edition=Paperback}}&lt;/ref&gt; One of the last of the [[Fairy painting#Victorian fairy painting|Victorian Fairy-painting]]s, ''The Piper of Dreams'' by [[Estella Canziani]], sold 250,000 copies and was well known within the trenches of World War I where Tolkien saw active service. Illustrated posters of [[Robert Louis Stevenson]]'s poem ''Land of Nod'' had been sent out by a philanthropist to brighten servicemen's quarters, and Faery was used in other contexts as an image of &quot;[[Merry England|Old England]]&quot; to inspire patriotism.&lt;ref&gt;{{ME-ref|Garth|p. 78}}&lt;/ref&gt;
+
+According to Marjorie Burns, Tolkien eventually chose the term ''elf'' over ''fairy'', but still retained some doubts. In his 1939 essay ''[[On Fairy-Stories]]'' Tolkien wrote that &quot;English words such as ''elf'' have long been influenced by French (from which ''fay'' and ''faërie'', ''fairy'' are derived); but in later times, through their use in translation, ''fairy'' and ''elf'' have acquired much of the atmosphere of German, Scandinavian and Celtic tales, and many characteristics of the ''[[Huldufólk|huldu-fólk]]'', the ''[[Daoine Sidhe|daoine-sithe]]'', and the ''[[Tylwyth Teg|tylwyth-teg]]''.&quot;&lt;ref&gt;{{cite book|first=Marjorie |last=Burns |title=Perilous realms: Celtic and Norse in Tolkien's Middle-earth |publisher=[[University of Toronto Press]] |year=2005 |isbn=0-8020-3806-9 |pages=22–23 |url=https://books.google.com/books?id=ZGzMwxyoi5wC&amp;lpg=PP1&amp;dq=Perilous%20Realms%3A%20Celtic%20and%20Norse%20in%20Tolkien's%20Middle-earth&amp;pg=PA22#v=onepage&amp;q&amp;f=false}}&lt;/ref&gt;
+
+===Early writings===
+Traditional [[Fairy painting|Victorian dancing fairies and elves]] appear in much of Tolkien's early poetry,&lt;ref name = &quot;bolt1&quot;&gt;{{ME-ref|bolt}}&lt;/ref&gt; and have influence upon his later works&lt;ref&gt;Fimi, Dimitra. [http://www.nottingham.ac.uk/english/working_with_english/Fimi_31_05_06.pdf &quot;Come sing ye light fairy things tripping so gay: Victorian Fairies and the Early Work of J. R. R. Tolkien&quot;]. ''Working With English: Medieval and Modern Language, Literature and Drama''. Retrieved 11/01/08&lt;/ref&gt; in part due to the influence of a production of [[J. M. Barrie]]'s ''[[Peter Pan]]'' in [[Birmingham]] in 1910&lt;ref name=&quot;Carpenter&quot;&gt;{{ME-ref|Biography}}&lt;/ref&gt; and his familiarity with the work of [[Catholic]] mystic poet, [[Francis Thompson]]&lt;ref name=&quot;Carpenter&quot; /&gt; which Tolkien had acquired in 1914.&lt;ref name = &quot;bolt1&quot; /&gt;
+
+{{quote|
+O! I hear the tiny horns &lt;br/&gt;
+Of enchanted [[leprechaun]]s &lt;br /&gt;
+And the padded feet of many [[gnome]]s a-coming! 
+|4=JRR Tolkien
+|5=&quot;[[Goblin Feet]]&quot;
+}}
+
+As a [[philology|philologist]], Tolkien's interest in languages led him to invent several languages of his own as a pastime. In considering the nature of who might speak these languages, and what stories they might tell, Tolkien again turned to the concept of elves.&lt;ref name=&quot;Carpenter&quot;/&gt;
+
+===''The Book of Lost Tales'' (c. 1917–1927)===
+In his ''[[The Book of Lost Tales]]'', Tolkien develops a theme that the diminutive fairy-like race of Elves had once been a great and mighty people, and that as Men took over the world, these Elves had &quot;diminished&quot;&lt;ref name = &quot;bolt1&quot; /&gt;&lt;ref&gt;{{ME-ref|bolt2}}&lt;/ref&gt;&lt;ref name=&quot;Fimi&quot;&gt;{{cite journal|last=Fimi |first= Dimitra |url=http://findarticles.com/p/articles/mi_m2386/is_2_117/ai_n16676591 |title=&quot;Mad&quot; Elves and &quot;elusive beauty&quot;: some Celtic strands of Tolkien's mythology |journal=Folklore |volume=117 | issue= 2 |date=August 2006 |pages= 156–170 |doi=10.1080/00155870600707847}}&lt;/ref&gt; themselves. This theme was influenced especially by the god-like and human-sized ''[[Dökkálfar and Ljósálfar|Ljósálfar]]'' of [[Norse mythology]],&lt;ref&gt;{{cite book|authorlink=Tom Shippey |first=Tom |last=Shippey |title=[[The Road to Middle-earth]] |publisher=[[Harper Collins]] |year=1998 |edition=3rd |isbn=978-0-261-10275-0}}&lt;/ref&gt; and medieval works such as ''[[Sir Orfeo]]'', the Welsh ''[[Mabinogion]]'', Arthurian romances and the legends of the [[Tuatha Dé Danann]].&lt;ref name=&quot;Anderson1&quot;&gt;{{ME-ref|TH|p. 120}}&lt;/ref&gt;
+Some of the stories Tolkien wrote as elven history have been seen to be directly influenced by Celtic mythology.&lt;ref name=&quot;Fimi&quot;/&gt;  For example, &quot;Flight of The [[Noldor|Noldoli]]&quot; is based on the [[Tuatha Dé Danann]] and [[Lebor Gabála Érenn]], and their migratory nature comes from early Irish/Celtic history.&lt;ref name=&quot;Fimi&quot;/&gt;  John Garth also sees that with the underground enslavement of the Noldoli to Melkor, Tolkien was essentially rewriting Irish myth regarding the Tuatha Dé Danann into a [[Christian eschatology]].&lt;ref&gt;{{ME-ref|Garth|p. 222}}&lt;/ref&gt;
+
+The name ''[[Ingwë|Inwe]]'' (in the first draft ''[[Yngvi|Ing]]''), given by Tolkien to the eldest of the elves and his clan&lt;ref&gt;{{ME-ref|LR|p. 171, ''[[The Lhammas]]''}}&lt;/ref&gt; is similar to the name found in Norse mythology as that of the god [[Freyr|Ingwi-Freyr]] (and Ingui-Frea in [[Anglo-Saxon paganism]]), a god who is gifted the elf world [[Álfheimr]]. Terry Gunnell also claims that the relationship between beautiful ships and the Elves is reminiscent of the god [[Njörðr]] and the god Freyr's ship [[Skíðblaðnir]].&lt;ref name=&quot;Articles&quot;&gt;{{cite web|last=Gunnell|first=Terry|title=Tivar in a Timeless Land: Tolkien's Elves|url=http://de-vagaesemhybrazil.blogspot.com/2011/02/tivar-in-timeless-land-tolkiens-elves.html|publisher=University of Iceland}}&lt;/ref&gt; He also retains the usage of the [[France|French]] derived term &quot;fairy&quot; for the same creatures.&lt;ref&gt;{{cite book|last=Burns  |first=Marjory |title=Perilous Realms: Celtic and Norse in Tolkien's Middle-earth |page=23 |publisher=[[University of Toronto Press]] |isbn=0-8020-3806-9 |year=2005}}&lt;/ref&gt;
+
+The larger Elves are also inspired by Tolkien's personal [[Catholic]] theology — as representing the state of Men in [[Garden of Eden|Eden]] who have not yet &quot;[[Fall of Man|fallen]]&quot;, similar to humans but fairer and wiser, with greater spiritual powers, keener senses, and a closer empathy with nature. Tolkien wrote of them: &quot;They are made by man in his own image and likeness; but freed from those limitations which he feels most to press upon him. They are immortal, and their will is directly effective for the achievement of imagination and desire.&quot;&lt;ref name=&quot;Carpenter&quot;/&gt;
+
+In ''The Book of Lost Tales'' Tolkien includes both the more serious &quot;medieval&quot; type of elves such as [[Fëanor]] and [[Turgon]] alongside the frivolous, [[Jacobean era|Jacobean]] type of elves such as the [[Solosimpi]] and [[Lúthien|Tinúviel]].&lt;ref name=&quot;Anderson1&quot; /&gt;
+
+Alongside the idea of the greater Elves, Tolkien also developed the idea of children visiting Valinor, the island-homeland of the Elves in their sleep. Elves would also visit children at night and comfort them if they had been chided or were upset. This theme, linking elves with children's dreams and nocturnal travelling was largely abandoned in Tolkien's later writing.&lt;ref&gt;{{ME-ref|LT|p 31, ''The Cottage of Lost Play''}}&lt;/ref&gt;
+
+===''The Hobbit'' (c. 1930–1937)===
+Along with ''Book of Lost Tales'', Douglas Anderson shows that in ''[[The Hobbit]]'', Tolkien again includes both the more serious 'medieval' type of elves, such as [[Elrond]] and the Wood-elf king, and frivolous elves, such as those at [[Rivendell]].&lt;ref name=&quot;Anderson1&quot; /&gt;
+
+=== ''The Quenta Silmarillion'' (c. 1937) ===
+In 1937, having had his manuscript for ''The Silmarillion'' rejected by a publisher who disparaged all the &quot;eye-splitting [[Celtic languages|Celtic]] names&quot; that Tolkien had given his Elves, Tolkien denied the names had a Celtic origin:
+
+{{quote|Needless to say they are not Celtic! Neither are the tales. I do know Celtic things (many in their original languages Irish and Welsh), and feel for them a certain distaste: largely for their fundamental unreason. They have bright colour, but are like a broken stained glass window reassembled without design. They are in fact &quot;mad&quot; as your reader says — but I don't believe I am.&lt;ref&gt;{{harvnb|Carpenter|1981|loc=#26}}&lt;/ref&gt;}}
+
+Dimitra Fimi proposes that these comments are a product of his Anglophilia rather than a commentary on the texts themselves or their actual influence on his writing, and cites evidence to this effect in her essay &quot;'Mad' Elves and 'elusive beauty': some Celtic strands of Tolkien's mythology&quot;.&lt;ref name=&quot;Fimi&quot;/&gt;&lt;ref&gt;http://de-vagaesemhybrazil.blogspot.com.br/2009/09/mad-elves-and-elusive-beauty-some.html&lt;/ref&gt;
+
+===''The Lord of the Rings'' (c. 1937–1949)===
+Terry Gunner notes that the titles of the Germanic gods [[Freyr]] and [[Freyja]] ([[Old Norse]] 'lord' and 'lady') are also given to Celeborn and [[Galadriel]] in the ''Lord of The Rings''.&lt;ref name=&quot;Articles&quot;/&gt;
+
+According to Tom Shippey, the theme of diminishment from semi-divine Elf to diminutive Fairy resurfaces in ''[[The Lord of the Rings]]'' in the dialogue of Galadriel.&lt;ref&gt;{{cite book|first=T. A. |last=Shippey |authorlink=Tom Shippey |title=J. R. R. Tolkien: Author of the Century |location=London| publisher= HarperCollins |year=2000| page= 211}}&lt;/ref&gt; &quot;Yet if you succeed, then our power is diminished, and [[Lothlórien]] will fade, and the tides of Time will sweep it away. We must depart into the West, or dwindle to a rustic folk of dell and cave, slowly to forget and to be forgotten.&quot;&lt;ref&gt;Galadriel (Tolkien, ''The Lord of the Rings'')&lt;/ref&gt;
+
+Writing in 1954, part way through proofreading ''The Lord of the Rings'', Tolkien claimed the [[Elvish languages (Middle-earth)|Elvish language]] [[Sindarin]] has a  character very like [[Welsh language|British-Welsh]] &quot;because it seems to fit the rather 'Celtic' type of legends and stories told of its speakers&quot;.&lt;ref name=&quot;letter_144&quot;&gt;{{harvnb|Carpenter|1981|loc=#144}}&lt;/ref&gt; In the same letter, Tolkien goes on to say that the elves had very little in common with elves or fairies of Europe, and that they really represent men with greater artistic ability, beauty and a longer life span. Tolkien also notes an Elven bloodline was the only real claim to 'nobility' that the Men of Middle-earth can have.&lt;ref name=&quot;letter_144&quot; /&gt; Tolkien also wrote that the elves are primarily to blame for many of the ills of Middle-earth in ''The Lord of the Rings'', having independently created the Three Rings in order to stop their domains in mortal-lands from 'fading' and attempting to prevent inevitable change and new growth.&lt;ref&gt;{{cite book|last=Brin|first=David|title=Through Stranger Eyes: Reviews, Introductions, Tributes &amp; Iconoclastic Essays|year=2008|publisher=Nimble Books|isbn=1-934840-39-4|pages=37}}&lt;/ref&gt;
+
+==History==
+{{Middle-earth elves}}
+
+===Origins===
+Originally, in Tolkien's writings from the 1910s and 1920s, Ingwë, Finwë and Elwë (their final names) were the eldest of the Elves. By 1959 or 1960, Tolkien wrote a detailed account of the awakening of the Elves, called '''''Cuivienyarna''''', part of ''[[The War of the Jewels|Quendi and Eldar]]''. Ingwë, Finwë and Elwë now became the first ambassadors and the Kings of the Elves. This text only saw print in ''[[The War of the Jewels]]'', part of the analytical ''[[The History of Middle-earth]]'' series, in 1994, but a similar version was included in ''The Silmarillion'' in 1977.
+
+According to the earliest account, the first Elves are awakened by [[Eru Ilúvatar]] near the bay of [[Cuiviénen]] during the [[Years of the Trees]] in the [[First Age]]. They awake under the starlit sky, as the Sun and Moon have yet to be created. The first Elves to awake are three pairs: '''Imin''' (&quot;First&quot;) and his wife '''[[Iminyë]]''', '''Tata''' (&quot;Second&quot;) and '''[[Tatië]]''', and '''Enel''' (&quot;Third&quot;) and '''[[Enelyë]]'''.
+
+Imin, Tata, and Enel and their wives join up and walk through the forests. They come across six, nine, and twelve pairs of Elves, and each &quot;patriarch&quot; claims the pairs as his folk in order. The now sixty Elves dwell by the rivers, and they invent poetry and music in [[Middle-earth]] (the continent). Journeying further, they come across eighteen pairs of Elves watching the stars, whom Tata claims as his. These are  tall and dark-haired, the fathers of most of the [[Noldor]]. The ninety-six Elves now invented many new words. Continuing their journey, they find twenty-four pairs of Elves, singing without language, and Enel adds them to his people. These are the ancestors of most of the [[Lindar]] or &quot;singers&quot;, later called [[Teleri]].  They find no more Elves; Imin's people, the smallest group, are the ancestors of the [[Vanyar]]. All in all the Elves number 144. Because all Elves had been found in groups of twelve, twelve becomes their [[base (exponentiation)|base number]] and 144 their highest number (for a long time), and none of the later Elvish languages have a common name for a greater number.&lt;ref&gt;{{ME-ref|WOTJ|&quot;Quendi and Eldar}}&lt;/ref&gt;
+
+They were discovered by the [[Vala (Middle-earth)|Vala]] [[Oromë]], who brought the tidings of their awakening to [[Valinor]].
+
+''The Silmarillion'' states that [[Morgoth|Melkor]], the Dark Lord, had already captured some wandering Elves, and twisted and mutilated them until they became the [[Orc (Middle-earth)|Orcs]]. However, Tolkien ultimately became uncomfortable with this Elvish origin, and devised different theories about the [[Orc (Middle-earth)#The origin of Orcs|origin of Orcs]].&lt;ref name=&quot;morgoth's ring1&quot;&gt;{{me-ref|mr|&quot;Myths Transformed&quot;}}&lt;/ref&gt;
+
+===Sundering===
+[[File:The Sundering of the Elves.png|thumb|right|800px|The Sundering of Elves and names given to their divisions]]
+{{Main|Sundering of the Elves}}
+The [[Vala (Middle-earth)|Valar]] decided to summon the Elves to Valinor rather than leaving them dwelling in the place where they were first awakened, near the Cuiviénen lake in the eastern extremity of Middle-earth. They sent Oromë, who took [[Ingwë]], [[Finwë]] and [[Elwë]] as ambassadors to Valinor.
+
+Returning to Middle-earth, Ingwë, Finwë and Elwë convinced a large host to take the '''Great Journey''' to Valinor. Not all Elves accepted the summons though, and those who did not became known as the '''[[Avari (Middle-earth)|Avari]]''', ''The Unwilling''.
+
+The others were called '''Eldar''', ''the People of the Stars'' by Oromë, and they took Ingwë, Finwë and Elwë as their leaders, and became respectively the [[Vanyar]], [[Noldor]] and [[Teleri]]. On their journey, some of the Teleri feared the [[Misty Mountains]] and dared not cross them. They turned back and stayed in the vales of the [[Anduin]], and became the [[Nandor (Middle-earth)|Nandor]]; these were led by Lenwë.
+
+Oromë led the others over the Misty Mountains and [[Ered Lindon]] into [[Beleriand]]. There Elwë became lost, and the Teleri stayed behind looking for him. The Vanyar and the Noldor moved onto a floating island that was moved by [[Ulmo]] to Valinor.
+
+After years, Ulmo returned to Beleriand to seek out the remaining Teleri. As Elwë had not yet been found, a great part of the Teleri took his brother [[Olwë]] as their leader and were ferried to Valinor. Some Teleri stayed behind though, still looking for Elwë, and others stayed on the shores, being called by [[Ossë]]. They took [[Círdan]] as their leader and became the '''[[Falathrim]]'''. All Teleri who stayed in Beleriand later became known as the '''[[Sindar]]'''.
+
+note: Ingwë, Finwë and Elwë are not the same elves as Imin, Tata and Enel
+
+===Exile===
+{{Main|Exiles (Middle-earth)}}
+In Valinor, Fëanor, son of Finwë, and the greatest of the Noldor, created the [[Silmaril]]s in which he stored a part of the light of the [[Two Trees]] that were lighting Valinor. After three ages in the [[Halls of Mandos]], Melkor was released, feigning reform. He however spread his evil and started to poison the minds of the Elves against the Valar. Eventually he killed Finwë and stole the Silmarils. Fëanor then named him ''Morgoth'' ([[Sindarin|S.]] ''The Black Enemy''). Fëanor and his seven [[sons of Fëanor|sons]] then [[Oath of Fëanor|swore]] to take the Silmarils back, and led a large army of the Noldor to Beleriand.
+
+===Wars of Beleriand===
+{{Main|War of Beleriand}}
+In Beleriand, Elwë was eventually found, and married [[Melian]] the [[Maia (Middle-earth)|Maia]]. He became the overlord of Beleriand, naming himself Thingol ([[Sindarin|S]]. ''Grey-cloak''). After the [[First Battle of Beleriand]], during the first rising of the Moon, the Noldor arrived in Beleriand. They laid a [[Siege of Angband|siege]] around Morgoth's fortress of [[Angband]], but were eventually defeated.
+
+Then [[Eärendil the Mariner]], a [[half-elven|half-elf]] from the [[House of Finwë]], sailed to Valinor to ask the Valar for help. Then the Ban of the Noldor was lifted, and the Valar started the [[War of Wrath]], in which Morgoth was finally overcome.
+
+===Second and Third Age===
+After the War of Wrath, the Valar tried to summon the Elves back to Valinor. Many complied, but some stayed. During the [[Second Age]] they founded the Realms of [[Lindon (Middle-earth)|Lindon]], [[Eregion]] and [[Mirkwood]]. [[Sauron]], Morgoth’s former servant, made war upon them, but with the aid of the [[Númenóreans]] they defeated him.
+
+During the Second and [[Third Age]], they held some protected realms with the aid of the [[Rings of Power]], but after the [[War of the Ring]] they waned further, and most Elves left Middle-earth for Valinor. Tolkien's published writings give somewhat contradictory hints as to what happened to the Elves of Middle-earth after the [[One Ring]] was destroyed at the end of the [[Third Age]].
+
+After the destruction of the One Ring, the power of the [[Three Rings]] of the Elves would also end and the Age of Men would begin. Elves that remained in Middle-earth were doomed to a slow decline until, in the words of [[Galadriel]], they faded and became a &quot;rustic folk of dell and cave,&quot; and were greatly diminished from their ancient power and nobility. While the power of the remaining [[Noldor]] would be immediately lessened, the &quot;fading&quot; of all Elvenkind was a phenomenon that would play out over hundreds and even thousands of years; until, in fact, our own times, when occasional glimpses of rustic Elves would fuel our folktales and fantasies.
+
+There are many references in ''The Lord of the Rings'' to the continued existence of Elves in Middle-earth during the early years of the [[Fourth Age]]. [[Elladan]] and [[Elrohir]], the sons of Elrond, do not accompany their father when the White Ship bearing the [[Ring-bearer]] and the chief Noldorin leaders sails from the [[Grey Havens]] to [[Valinor]]; they are said to have remained in Lindon for a time. [[Celeborn]] is said (in Appendix A) to have added most of southern Mirkwood to the realm of [[Lothlórien|Lórien]] at the end of the Third Age, but elsewhere Tolkien wrote that Celeborn dwelt for a while in Lindon before at last leaving Middle-earth for Valinor.
+
+Tolkien also wrote that [[Legolas]] founded an elf colony in [[Ithilien]] during King [[Aragorn|Elessar]]'s reign in the Fourth Age, and that the elves there assisted in the rebuilding of [[Gondor]]. They primarily resided in southern Ithilien, along the shores of the Anduin. After Elessar's death in 120 F.A., Legolas built a ship and sailed to Valinor and, eventually, all of the elves in Ithilien followed him. It is also implied that Elves continued to dwell at the Grey Havens, at least for a certain period.  Tolkien states that [[Sam Gamgee]] sailed from the Havens decades after Elrond's departure, implying that some Elves might have remained in [[Mithlond]] at that time.
+
+In &quot;[[The Tale of Aragorn and Arwen]]&quot; that is found in Appendix A, Tolkien depicts a Middle-earth where most Elves have already left. The majority of those who remained lived in Mirkwood, while a much smaller population was in Lindon. Aragorn speaks of the empty garden of Elrond in Rivendell. Most strikingly, after Elessar's voluntary death, [[Arwen]] flees to a Lórien that is depicted as wholly abandoned, and gives up her own spirit in its sad and silent confines.
+
+==Life cycle==
+As told in ''[[The History of Middle-earth]]'' and in Tolkien's ''[[The Letters of J. R. R. Tolkien|Letters]]'', Elves had a different life cycle from Men. Most of the following information strictly refers only to the Eldar, as found in his essay '''''Laws and Customs among the Eldar''''', found in ''[[Morgoth's Ring]]''.
+
+===Early life===
+Elves are born about one year from their [[Conception (biology)|conception]]. The day of their conception is celebrated, not the actual [[birthday]] itself. Their minds develop more quickly than their bodies; by their first year, they can speak, walk and even dance, and their quicker onset of mental maturity makes young Elves seem, to Men, older than they really are. Physical [[puberty]] comes in around their fiftieth to one hundredth year (by age fifty they reach their adult height), and by their first hundred years of life outside the womb all Elves are fully grown. Elven bodies eventually stop aging physically, while human bodies do not.&lt;ref name=&quot;laws&quot;&gt;{{me-ref|mr|&quot;Laws and Customs among the Eldar&quot;}}&lt;/ref&gt;
+
+===Sexuality, marriage, and parenthood===
+Elves marry freely and for love early in life. [[Monogamy]] is practiced and [[adultery]] is unthinkable; they marry only once (Finwë, first High King of the Noldor, was an exception, as he remarried after his first wife died).&lt;ref name=&quot;laws&quot;/&gt;
+
+Spouses can choose each other even long before they are married, thus becoming betrothed.  The betrothal is subject to parental approval unless the parties are of age and intend to marry soon, at which point the betrothal is announced. They exchange rings and the betrothal lasts at least a year, and is revocable by the return of the rings; however, it is rarely broken. After their formal betrothal, the couple appoint a date, at least a year later, for the wedding.&lt;ref name=&quot;laws&quot;/&gt;
+
+Only the words exchanged by the bride and groom (including the speaking of the name of [[Eru Ilúvatar]]) and the consummation are required for marriage. More formally, the couple's families celebrate the marriage with a feast. The parties give back their betrothal rings and receive others worn on their index fingers. The bride’s mother gives the groom a jewel to wear (Galadriel's gift of the [[List of Middle-earth objects#Elfstone|Elfstone]] to Aragorn reflects this tradition; she is grandmother to his betrothed, Arwen, Arwen's mother [[Celebrían]] having left Middle-earth for Valinor after grievous psychological injury after her capture by Orcs and liberation by her sons).&lt;ref name=&quot;laws&quot;/&gt;
+
+The Elves view the sexual act as extremely special and intimate, for it leads to the conception and birth of children. [[extra-marital sex|Extra-marital]] and [[premarital sex]] are unthinkable, adultery is also unheard of and fidelity between spouses is absolute. Yet separation during pregnancy or during the early years of parenthood (caused by war, for example) is so grievous to the couple that they prefer to have children in peaceful times. Living Elves cannot be raped or forced to have sex; before that they will lose the will to endure and go to [[Mandos]].&lt;ref name=&quot;laws&quot;/&gt;
+
+Elves have few children, as a rule (Fëanor and [[Nerdanel]] were an exception, conceiving seven sons), and there are relatively sizeable intervals between each child (but see below for notes on Elvish birth rates in Middle-earth versus in [[Aman (Middle-earth)|Aman]]). They are soon preoccupied with other pleasures; their [[libido]] wanes and they focus their interests elsewhere, like the arts. Nonetheless, they take great delight in the union of love, and they cherish the days of bearing and raising children as the happiest days of their lives.&lt;ref name=&quot;laws&quot;/&gt;
+
+There seems to only be one known example of extreme marital strife in Tolkien's mythology, that of [[Eöl]] and [[Aredhel]], in which the latter actually left the former without his knowledge, resulting in Eöl ultimately killing her (albeit he was actually trying to kill their son [[Maeglin]]). However, this marriage was far from typical of the Elves.
+
+===Daily life===
+The Elves, particularly the Noldor, preoccupy themselves with various things such as smithwork, sculpture, music and other arts, and of course, what to eat. Males and females can do almost everything equally; however, the females often specialize in the arts of healing while the males go to war. This is because they believe that taking life interferes with the ability to preserve life. However, Elves are not stuck in rigid roles; females can defend themselves at need as well as males, and many males are skilled healers as well, such as [[Elrond]].&lt;ref name=&quot;laws&quot;/&gt;
+
+===Later life===
+Eventually, if they do not die in battle or from some other cause, the Elves of Middle-earth grow weary of it and desire to go to Valinor, where the Valar originally sheltered their kind. Those who wish to leave for the [[Undying Lands]] often go by boats provided at the [[Grey Havens]], where [[Círdan]] the Shipwright dwells with his folk.
+
+===&quot;The third cycle of life&quot;, aging, and facial hair===
+Despite Tolkien's statements in ''The Hobbit'' that Elves (and [[Hobbit]]s) have no beards, Círdan in fact has a beard, which appears to be an anomaly and a simple oversight. However, Tolkien later devised at least  three &quot;cycles of life&quot; for Elves around 1960; [[Círdan]] had a beard because he was in his third cycle of life. ([[Mahtan]], Nerdanel's father, had a beard in his second cycle of life, a rare phenomenon.)  It is unclear what these cycles exactly are, since Tolkien left no notes further explaining this. Apparently, beards were the only sign of further natural physical ageing beyond maturity.
+
+Nevertheless, Tolkien may have ultimately changed his mind about whether Elves had facial hair. As Christopher Tolkien states in ''[[Unfinished Tales]]'', his father wrote in December 1972 or later that the Elvish strain in Men, such as [[Aragorn]], was &quot;observable in the beardlessness of those who were so descended&quot;, since &quot;it was a characteristic of all Elves to be beardless&quot;.&lt;ref&gt;{{Me-ref|ut}}&lt;/ref&gt; This would seemingly contradict the information above.
+
+Elves sometimes appear to age under great stress. Círdan appeared to be aged himself, since he is described as looking old, save for the stars in his eyes; this may be due to all the sorrows he had seen and lived through since the First Age. Also, the people of [[Gwindor]] of [[Nargothrond]] had trouble recognizing him after his time as a prisoner of Morgoth.
+
+===Death===
+Elves are naturally immortal, and remain unwearied with age. In addition to their immortality, Elves can recover from wounds which would normally kill a mortal Man. However, Elves can be slain, or die of grief and weariness.
+
+Spirits of dead Elves go to the Halls of [[Mandos]] in Valinor. After a certain period of time and rest that serves as &quot;cleansing&quot;, their spirits are clothed in bodies identical to their old ones.&lt;ref name=&quot;converse&quot;&gt;{{ME-ref|MR|''The Converse of [[Manwë]] and Eru'', pp. 361–4}}&lt;/ref&gt; However, they almost never go back to Middle-earth and remain in Valinor instead. An exception was [[Glorfindel]] in ''The Lord of the Rings''; as shown in later books, Tolkien decided he was a &quot;reborn&quot; hero from ''The Silmarillion'' rather than an individual with the same name. A rare and more unusual example of an Elf coming back from the Halls of Mandos is found in the [[tale of Beren and Lúthien]], as [[Lúthien]] was the other Elf to be sent back to Middle-earth – as a mortal, however. Tolkien's Elvish words for  &quot;spirit&quot; and &quot;body&quot; were ''[[Fëa and hröa|fëa]]'' (plural ''fëar'') and ''[[Fëa and hröa|hröa]]'' (plural ''hröar'') respectively.
+
+Eventually, their immortal spirits will overwhelm and consume their bodies, rendering them &quot;bodiless&quot;, whether they opt to go to Valinor or remain in Middle-earth. At the end of the world, all Elves will have become invisible to mortal eyes, except to those to whom they wish to manifest themselves.&lt;ref name=&quot;laws&quot;/&gt; Tolkien called the Elves of Middle-earth who had undergone this process &quot;Lingerers&quot;.&lt;ref name=&quot;laws&quot;/&gt;
+
+The lives of Elves only endure as the world endures.&lt;ref name=&quot;laws&quot;/&gt; It is said in the Second Prophecy of [[Mandos]] that at the end of time the Elves will join the other [[Children of Ilúvatar]] in singing the Second Music of the [[Ainur (Middle-earth)|Ainur]].&lt;ref&gt;{{ME-ref|sil}}&lt;/ref&gt; However it is disputable whether the Prophecy is canon, and the published ''[[Silmarillion]]'' states that only Men shall participate for certain in the Second Music, and that the ultimate fate of the Elves is unknown. However, they do not believe that Eru will abandon them to oblivion.
+
+==Names and naming conventions==
+{{Further|Guide to the Names in The Lord of the Rings}}
+In ''The Lord of the Rings'' Tolkien pretends to be merely the translator of [[Bilbo Baggins|Bilbo]] and [[Frodo]]'s memoirs, collectively known as the &quot;[[Red Book of Westmarch]]&quot;. He says that those names and terms in the work (as well in the earlier ''The Hobbit'') that appear in [[English language|English]] are meant to be his purported translations from the [[Common Speech]].&lt;ref&gt;{{ME-ref|rotk}}, Appendix F.&lt;/ref&gt;
+
+Tolkien repeatedly expressed his misgivings concerning the name &quot;[[elf]]&quot; and its &quot;associations of a kind that I should particularly desire not to be present [...] e.g. those of [[Michael Drayton|Drayton]] or of ''[[A Midsummer Night's Dream]]''&quot;, for the purpose of [[translations of The Lord of the Rings|translations]] stating his preference that &quot;the oldest available form of the name to be used, and leave it to acquire its own associations for readers of my tale&quot;.&lt;ref&gt;''[[Guide to the Names in The Lord of the Rings]]'', s.v. &quot;Elven-smiths&quot;.&lt;/ref&gt; He wanted to avoid the [[Victorian literature|Victorian]] notions of &quot;[[fairies]]&quot; or mischievous imps associated with the word and was aiming at the more elevated notions of beings &quot;supposed to possess formidable magical powers in early [[Continental Germanic mythology|Teutonic mythology]]&quot; ([[OED]] viz. the [[Old English]] ''ælf'', from [[Proto-Germanic]] ''*albo-z'').
+
+The Elves are also called the &quot;Firstborn&quot; ([[Quenya|Q]]. ''Minnónar'') or the &quot;Elder Kindred&quot; (as opposed to [[Man (Middle-earth)|Men]], the Secondborn) as they were &quot;[[#History|awakened]]&quot; before Men by [[Eru Ilúvatar]] ([[Creator deity|the creator]]). The Elves named themselves ''Quendi'' (&quot;the Speakers&quot;), in honour of the fact that, when they were created, they were the only living beings able to speak. The [[Dúnedain]] called them ''Nimîr'' (&quot;the Beautiful&quot;), while their usual name in [[Sindarin]] was ''Eledhrim''.&lt;ref name=&quot;QuendiandEldar1&quot;&gt;{{ME-ref|WotJ|''Quendi and Eldar''}}&lt;/ref&gt;
+
+In other writings, part of ''The History of Middle-earth'', Tolkien details Elvish naming conventions. The Quenya word for &quot;name&quot; was ''essë''. An Elf of Valinor was typically given one name (''ataressë'') at birth by the father. It usually reflected either the name of the father or mother, indicating the person's descent, to which later some distinguishing prefix could be added. As the Elf grew older, they received a second name (''amilessë''), given by the mother. This name was extremely important and reflected personality, skills, or fate, sometimes being &quot;prophetic&quot;.
+
+The ''epessë'' or the &quot;after-name&quot; is the third type. It was given later in life, not necessarily by kin, as a title of admiration and honour. In some circumstances, yet another name was chosen by the Elf themselves, called ''kilmessë'' meaning &quot;self-name&quot;.
+
+The &quot;true names&quot; remained the first two, though an Elf could be referred to by any of these. Mother-names were usually not used by those who did not know the Elf well. In later history and song any of the four could become the one generally used and recognized.
+
+After their Exile to Middle-earth and adoption of [[Sindarin]] as the daily speech, most of the Noldor also chose for themselves a name that fitted the style of that language, translating or altering one of their [[Quenya]] names.
+
+A [[patronymic]] surname is also used&amp;nbsp;– the father's name with the suffix &quot;-ion&quot; (meaning &quot;son&quot;) or &quot;-iel&quot; (meaning &quot;daughter&quot;) added. Thus, [[Gildor Inglorion]] is &quot;''Gildor, son of Inglor''&quot;.
+
+Several examples include:
+
+*'''[[Galadriel]]''' is the Sindarin translation of Alatáriel, the [[Telerin]] Quenya ''epessë'' originally given to her by [[Celeborn]], which means &quot;Maiden Crowned by a Radiant Garland&quot;. Her father-name is Artanis (noble woman) and her mother-name is Nerwen (man-maiden).
+*'''[[Maedhros]]''', the oldest son of [[Fëanor]], was called ''Russandol'' (copper-top) by his brothers: He had earned this ''epessë'' because of his ruddy hair. His father-name had been ''Nelyafinwë'' (Finwë the third: Fëanor's own father-name had been (Curu) Finwë), and his mother-name ''Maitimo'' (well-shaped one). ''Maedhros'' is a rendering into Sindarin of parts of his mother-name and ''epessë''.
+*'''[[Finrod Felagund|Finrod]]''' is usually referred to as ''Felagund'' (hewer of caves), a name the [[Dwarf (Middle-earth)|Dwarves]] had given to him (originally ''Felakgundu'') because of his dwellings at [[Nargothrond]]. Finrod adopted the name, and made it a title of honour.
+*'''[[Círdan]]''' (Shipwright) is the ''epessë'' of a [[Teleri]]n Elf who remained in [[Beleriand]], and later [[Lindon (Middle-earth)|Lindon]], until the end of the [[Third Age]]. His original name was only rarely remembered in traditions as ''Nōwē'', and he was referred to always as Círdan, a title which had been given to him as Lord of the [[Falas]].
+
+==Elvish languages==
+{{Main|Elvish languages (Middle-earth)}}
+
+Tolkien created many languages for his Elves. His interest was primarily [[philology|philological]], and he said his stories grew out of his languages. Indeed, the languages were the first thing Tolkien ever created for his mythos, starting with what he originally called &quot;Elfin&quot; or &quot;Qenya&quot;. This was later spelled [[Quenya]] (High-elven) and, along with [[Sindarin]] (Grey-elven), is one of the two most complete of Tolkien's constructed languages. In addition to these two Tolkien also created many other (related) Elvish languages.
+
+Elves are also credited with creating the [[Tengwar]] (by [[Fëanor]]) and [[Cirth]] ([[Daeron]]) scripts.
+
+==Adaptations==
+[[File:Rankin-bass-hobbit-elves.jpg|thumb|300px|Elves as portrayed in the 1977 Rankin-Bass version of ''[[The Hobbit (1977 film)|The Hobbit]]''.]]
+
+The 1977 [[Rankin Bass]] animated version of ''The Hobbit'', with character designs by Lester Abrams, features Wood Elves as green-skinned warriors with slightly [[Austrians|Austrian]]-[[German language|German]] accents. High Elves are shown with pointed ears and beards.
+
+In [[Peter Jackson]]'s [[The Lord of the Rings (film series)|''Lord of the Rings'' film series]] ([[2001 in film|2001]]–[[2003 in film|2003]]), all of the elves (including Wood Elves) are portrayed as fair, graceful, and wise beings with supernatural abilities like enhanced eyesight. While they facially resemble humans, they transcend beauty, with much longer and finer hair and an apparent inner glow. They also have pointed ears and no facial hair.
+
+In ''[[Middle-earth Role Playing]]'' ([[Iron Crown Enterprises]], 1986), three tribes of elves are presented as [[player character]] race options, the Silvan, Sindar and Noldor&amp;nbsp;– each receiving statistic bonuses (ranging from 5 to 15) to all attributes apart from Strength, with the Noldor receiving the highest accumulative bonuses of any racial type in the game. All three tribes are statistically immune to disease (+100% chance of resistance), and must be given &quot;Presence&quot; as the highest randomly generated statistic. Elven characters also receive significant skill bonuses with missile weapons (such as a bow and arrow) and stealth skills (such as hiding).
+
+All three elven tribes (Silvan, Noldor, Sindar) depicted in [[Lord of the Rings Roleplaying Game]] ([[Decipher, Inc.]], 2001) have varying (one or two points) statistic bonuses to Bearing, Perception and Nimbleness, with the Noldor also receiving a bonus to Wits and the Sindar to Vitality, giving both of these the highest accumulative bonuses available to Player Characters. The system of skills, feats and flaws further outlines racial and cultural characteristics, bonuses being given to the Noldor in Lore and &quot;Resisting the Shadow&quot;, to the Silvan elves for various wood-craft skills, and the Sindar to musical performance. All elves have the ability to enchant objects, and receive bonuses in any test regarding magic.
+
+In ''[[The Lord of the Rings Strategy Battle Game]]'' ([[Games Workshop]], 2001), Elves have similar statistics to similarly armed Men, except for much higher scores for their Fighting and Courage attributes.&lt;ref&gt;{{cite web | title = Profiles of Middle-earth | work = Rules Summary | publisher = Games Workshop | date =  | url = http://uk.games-workshop.com/legionsofmiddleearth/reference/1/ | accessdate = 2007-07-03 }}&lt;/ref&gt; On average, Elven wargear (armour and weapons) give twice the advantage of weapons made by Men.
+
+==See also==
+{{Portal|Middle-earth}}
+*[[List of Middle-earth Elves]]
+*[[Elvish languages (Middle-earth)]]
+*[[Falmari]]
+*[[Ilkorin]]
+*[[Moriquendi]]
+
+===Notable Elves===
+Some notable Elves include:
+*[[Arwen Undómiel]] great, great granddaughter of Lúthien.
+*[[Beleg]] most skilled of all Elves in hunting and tracking.
+*[[Celeborn]] husband of Galadriel.
+*[[Celebrían]] daughter of Galadriel, wife of Elrond, mother of Elladan, Elrohir and Arwen.
+*[[Celebrimbor]] maker of the Rings of Power.
+*[[Círdan]] Lord of the [[Grey Havens]] and one of the oldest Elves in Middle-earth at the end of the Third Age.
+*[[Elrond]] great grandson of Lúthien, Lord of Imladris through the Third Age.
+*[[Elwing]] wife of [[Eärendil]].
+*[[Fëanor]] often referred to as the mightiest of the Noldor.
+*[[Fingolfin]] greatest warrior of all the Children of Ilúvatar.
+*[[Finrod Felagund]] King of Nargothrond.
+*[[Galadriel]] greatest of the Noldor save Fëanor.
+*[[Gil-galad]]  High-king of the Noldorin Elves in Exile.
+*[[Glorfindel]] true savior of Frodo after his close call with morgul blade at [[Weathertop]]
+*[[Idril]] wife of [[Tuor]] and mother of [[Eärendil]]
+*[[Legolas]] one of Fellowship of the Ring, later Lord of the Elves of Ithilien
+*[[Lúthien]] enchantress, fairest of all the Children of Ilúvatar.
+*[[Thingol]] King of Beleriand, tallest of all the Eldar, father of Lúthien.
+*[[Thranduil]] king of the woodland Elves of Mirkwood, father of Legolas.
+*[[Turgon]] king of [[Gondolin]].
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Tolkien Gateway|Elves}}
+
+{{Middle-earth}}
+{{Use dmy dates|date=March 2011}}
+
+{{DEFAULTSORT:Elf (Middle-earth)}}
+[[Category:Middle-earth Elves| ]]</text>
+      <sha1>nx2yltcvaa30gt7mxw4da8hrlu3r01z</sha1>
+    </revision>
+  </page>
+</mediawiki>

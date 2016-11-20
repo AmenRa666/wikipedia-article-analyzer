@@ -1,0 +1,331 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>University of Massachusetts</title>
+    <ns>0</ns>
+    <id>248445</id>
+    <revision>
+      <id>744721116</id>
+      <parentid>744664182</parentid>
+      <timestamp>2016-10-17T01:33:22Z</timestamp>
+      <contributor>
+        <username>Wcam</username>
+        <id>7263891</id>
+      </contributor>
+      <comment>Filled in 4 bare reference(s) with [[:en:WP:REFILL|reFill]] ()</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="30173">{{about|the statewide university system|the flagship campus often referred to as &quot;UMass&quot;|University of Massachusetts Amherst|other uses|University of Massachusetts (disambiguation)|the university chartered in 1917 under this name|Middlesex University (Massachusetts)}}
+{{Infobox university
+|name            = University of Massachusetts
+|image           = UMassGlyphColor.png
+|image_upright = 0.9
+|motto           =
+|established     = 1863 (Amherst campus)&lt;br&gt;1964 (UMass system)
+|type            = [[State university system]]&lt;br/&gt;[[Public university]]&lt;br/&gt;[[University system]]
+|endowment       = $768 million (2015)
+| budget      = $3 billion (FY 2015)&lt;ref name=&quot;UMass system budget&quot;&gt;{{cite web|title=UMass System Fiscal Year 2015 Operating Budget|url=https://www.umassp.edu/sites/umassp.edu/files/content/publications/budget-office/FY2015_Operating_Budget.pdf|publisher=University of Massachusetts|accessdate=December 4, 2015}}&lt;/ref&gt;
+|staff           = 17,506&lt;ref name=&quot;umassp1&quot;&gt;{{cite web|url=https://www.umassp.edu/sites/umassp.edu/files/content/publications/institutional-research/facts-2014-2015.pdf |title=University of Massachusetts system - Institution Research Facts |publisher=University of Massachusetts Office of the President|date=December 4, 2015 |accessdate=December 4, 2015}}&lt;/ref&gt;
+|faculty         =
+|president       = [[Marty Meehan]]
+|students        = 72,796&lt;ref&gt;https://www.umassp.edu/sites/umassp.edu/files/content/publications/institutional-research/facts-2014-2015.pdf&lt;/ref&gt;
+|undergrad       =
+|postgrad        =
+|doctoral        =
+|city            = [[Amherst, Massachusetts|Amherst]], [[Boston, Massachusetts|Boston]], [[Dartmouth, Massachusetts|Dartmouth]], [[Lowell, Massachusetts|Lowell]], [[Worcester, Massachusetts|Worcester]] and [[Springfield, Massachusetts|Springfield]]
+|state           = [[Massachusetts]]
+|country         = United States
+|free_label      =
+|free            =
+|colors          =
+|mascot          =
+|campus          = [[University of Massachusetts Amherst|Amherst]] (Flagship Campus) &lt;br/&gt;[[University of Massachusetts Boston|Boston]]&lt;br/&gt;[[University of Massachusetts Dartmouth|Dartmouth]]&lt;br/&gt;[[University of Massachusetts Lowell|Lowell]]&lt;br/&gt;[[University of Massachusetts Medical School|Medical School]] (Worcester)&lt;br/&gt;Springfield (Satellite Campus)
+|nickname        = UMass
+|affiliations    =
+|footnotes       =
+|website         = {{URL|http://www.massachusetts.edu}}
+|coor            =
+|logo            = UMassHorizColorWeb.png
+}}
+
+The '''University of Massachusetts''' is the five-campus [[public university|public]] [[university system]] and the only public research system&lt;ref name=&quot;UMass WUR Ranking&quot;&gt;{{cite web|title=University of Massachusetts|url=https://www.timeshighereducation.com/world-university-rankings/university-of-massachusetts#ranking-dataset/589595|publisher=[[Times Higher Education World University Rankings]]|accessdate=October 16, 2016}}&lt;/ref&gt; in the [[Massachusetts|Commonwealth of Massachusetts]]. The system includes four universities, a medical school, and a [[satellite campus]],&lt;ref name=&quot;UMass Springfield&quot;&gt;{{cite web|title=UMass Opens Springfield Center Campus Office|url=http://wamc.org/post/umass-opens-springfield-center-campus-office|publisher=WAMC/Northeast Public Radio|accessdate=April 3, 2014}}&lt;/ref&gt;&lt;ref name=&quot;UMass satellite&quot;&gt;{{cite web|title=UMass' Springfield center holds opening ceremony|url=http://www.boston.com/news/local/massachusetts/2014/03/30/umass-springfield-center-holds-opening-ceremony/a3Kai2Ma7Bx3omsaMzjjmO/story.html|publisher=boston.com|accessdate=April 3, 2014}}&lt;/ref&gt; with system administration in Boston and Shrewsbury.&lt;ref&gt;{{cite web|url=https://www.umassp.edu/about|title=About - University of Massachusetts Office of the President|publisher=}}&lt;/ref&gt;  The system is accredited by the [[New England Association of Schools and Colleges]] and across its campuses enrolls 73,000 students.&lt;ref name=&quot;UMass students&quot;&gt;{{cite web|title=UMass Fact Card 2014-15|url=https://www.umassp.edu/sites/umassp.edu/files/content/publications/institutional-research/facts-2014-2015.pdf}}&lt;/ref&gt;
+
+The UMass system is ranked 52nd in the World in 2016 for its Innovative Achievements according to [[Reuters]].&lt;ref&gt;{{cite web|url=http://www.reuters.com/article/amers-reuters-ranking-innovative-univers-idUSL2N1C406D|title=The World's Most Innovative Universities 2016|date=28 September 2016|publisher=|via=Reuters}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.reuters.com/most-innovative-universities-2016/profile?uid=52|title=World's Most Innovative Universities - 2016: #52 University of Massachusetts System|date=28 September 2016|publisher=|via=Reuters}}&lt;/ref&gt; ''[[Times Higher Education World University Rankings]]'' ranked the system 91-100 in the world by reputation in 2015&lt;ref&gt;{{cite web|url=https://www.timeshighereducation.com/world-university-rankings/2015/reputation-ranking#!/page/3/length/25|title=World Reputation Rankings 2015 |publisher=Times Higher Education |accessdate=November 27, 2015}}&lt;/ref&gt; and 19th in the world  in 2011.&lt;ref&gt;{{cite web|url=https://www.timeshighereducation.com/world-university-rankings/university-of-massachusetts?ranking-dataset=1046|title=University of Massachusetts|publisher=}}&lt;/ref&gt; [[Round University Ranking]] ranks University of Massachusetts No. 72 nationally in 2016.&lt;ref&gt;{{cite web|url=http://roundranking.com/universities.html?univ=University%20of%20Massachusetts&amp;back=/ranking.html&amp;sort=undefined&amp;year=2016&amp;subject=SO|title=UNIVERSITIES|first=Super|last=User|publisher=}}&lt;/ref&gt; In 2016 The Times Higher Education ranked UMass 165 globally and 57 nationally.&lt;ref&gt;{{cite web|url=https://www.timeshighereducation.com/student/best-universities/best-universities-united-states|title=Best universities in the United States|date=21 September 2016|publisher=}}&lt;/ref&gt; Furthermore, Times Higher Education ranked UMass system globally for 2017 by subject as No. 95 in engineering &amp; technology, No. 92 in arts &amp; humanities, No. 78 in physical sciences, and No. 91 in business &amp; economics.&lt;ref&gt;{{cite web|url=https://www.timeshighereducation.com/world-university-rankings/university-of-massachusetts?ranking-dataset=589595|title=University of Massachusetts|publisher=}}&lt;/ref&gt;
+
+In 2015, the system was ranked 30th globally in the Top 100 Worldwide Universities Granted U.S. Patents in 2015 by [[National Academy of Inventors]].&lt;ref&gt;{{cite web|url=http://www.academyofinventors.org/pdf/top-100-universities-2015.pdf|title= Top 100 Worldwide Universities Granted U.S. Patents in 2015|date=24 July 2016|publisher=[[National Academy of Inventors]]|via=}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.massachusetts.edu/news/press-releases/umass-sets-record-patents-awarded|title=UMass System sets record for patents awarded|date=15 September 2015|publisher=University of Massachusetts|via=}}&lt;/ref&gt;
+
+In 2012, the state of Massachusetts introduced $607 million in new bond funding to advance high-quality instructional and research facility projects throughout the UMass system.&lt;ref name=&quot;UMass System funding&quot;&gt;{{cite web|title=Patrick announces $607M in new funding for UMass system|url=http://www.heraldnews.com/news/x1931759071/Patrick-announces-607M-in-new-funding-for-UMass-system|publisher=[[The Herald-News]]|accessdate=February 5, 2013}}&lt;/ref&gt;&lt;ref name=&quot;UMass System investment&quot;&gt;{{cite web|title=As UMass celebrates 150th anniversary, $607 million invested in UMass System|url=http://www.mass.gov/governor/pressoffice/pressreleases/2012/20121002-investment-in-umass-system.html|publisher=Government of Massachusetts|accessdate=February 5, 2013}}&lt;/ref&gt; In 2012, research expenditures for the UMass system were close to $600 million.&lt;ref name=&quot;UMass system research&quot;&gt;{{cite web|title=UMass research spending climbs to nearly $600 million|url=http://www.massachusetts.edu/news/news.cfm?mode=detail&amp;news_id=1975|publisher=University of Massachusetts|accessdate=March 4, 2014}}&lt;/ref&gt;
+
+==System==
+The [[University of Massachusetts Amherst]] is the flagship and largest school in the UMass system. It was also the first one established, dating back to 1863, when it was founded as the '''Massachusetts Agricultural College'''. The [[University of Massachusetts Medical School]] was founded in 1962, and is located in [[Worcester, Massachusetts|Worcester]].  The [[University of Massachusetts Boston]], originally established in 1964, was merged with [[Boston State College]] in 1982. In 1991, the University of Lowell and Southeastern Massachusetts University joined the system as the [[University of Massachusetts Lowell]] and [[University of Massachusetts Dartmouth]], respectively.
+
+===UMass Amherst===
+{{Main article|University of Massachusetts Amherst}}
+[[File:Amherst Massachusetts.jpg|thumb|UMass Amherst looking southeast from the air]]
+
+UMass Amherst is the flagship and the largest of the UMass campuses, as well as the first established. Like many colleges and universities, the Massachusetts Agricultural College (as it was originally called) in Amherst was founded as a [[land-grant colleges|land-grant college]] in 1863, receiving initial start-up funding as part of the [[Morrill Land-Grant Colleges Act]]. It became &quot;Massachusetts State College&quot; in 1931, and &quot;University of Massachusetts&quot; in 1947. The library system is the largest state-supported library system in New England with over 6.1 million items. The campus has many architecturally distinctive buildings commissioned by the Commonwealth and designed by world-renowned architects.
+
+UMass Amherst offers a variety of academic and co-curricular options. Ninety-three percent of the 1,174 full-time faculty members hold the highest degree in their fields. The average SAT score (reading and math only) for the 2015 entering class is 1226, and the average GPA is 3.83 on a 4.0 scale. The campus has 21,373 undergraduates and offers 86 bachelor's degree programs. There is a student-to-faculty ratio of 17:1. UMass Amherst hosts Commonwealth Honors College (CHC) where admission is more competitive with an average SAT score of 1390. CHC offers personalized advising, smaller class sizes taught by professors, and a six building Honors Residential Community, which opened in fall 2013.&lt;ref name=&quot;massachusetts1&quot;&gt;{{cite web|url=http://www.massachusetts.edu/umassforyou/umass_amherst.html |title=Massachusetts.edu |publisher=Massachusetts.edu |date= |accessdate=2011-12-13}}&lt;/ref&gt;
+
+Students participate in 240 campus organizations, 21 NCAA Division I athletic teams, living-learning residence halls, community service, internships, and faculty research.
+UMass Amherst is also part of the Five Colleges consortium, with Smith, Mount Holyoke, Hampshire, and Amherst colleges, all within a free bus ride of each other using the [[Pioneer Valley Transit Authority]]. Students can take classes on any of these campuses and participate in all co-curricular and cultural activities.&lt;ref name=&quot;massachusetts1&quot;/&gt; [[Kumble R. Subbaswamy]] serves as UMass Amherst's chancellor.&lt;ref&gt;{{cite web|url=http://www.umass.edu/chancellor/biography |title=Umass.edu |publisher=Umass.edu |date=2012-07-01 |accessdate=2011-07-01}}&lt;/ref&gt;
+
+===UMass Boston===
+{{Main article|University of Massachusetts Boston}}
+[[Image:Umb - 002.jpg|thumb|The UMass Boston campus, viewed from [[Squantum Point Park]] in [[Quincy, Massachusetts|Quincy]]]]
+
+UMass Boston is a research university&lt;ref&gt;{{cite web |url=http://classifications.carnegiefoundation.org/lookup_listings/view_institution.php?unit_id=166638&amp;start_page=institution.php&amp;clq={%22first_letter%22%3A%22U%22} |title=Carnegie Classification |publisher=[[Carnegie Foundation for the Advancement of Teaching]] |accessdate=July 18, 2010}}&lt;/ref&gt; located in the City of [[Boston]]. Located on the [[Columbia Point (Boston)|Columbia Point]] peninsula, the University is surrounded by the [[Boston Harbor]], the [[John F. Kennedy Library]] and the Massachusetts State Archives. The ''[[Boston Globe]]'' is also headquartered adjacent to campus, as well as [[Boston College High School]]. Subsequently, the university holds many partnerships with its neighboring organizations, providing research and employment opportunities.
+
+UMass Boston is known for its growing and diverse student body of more than 11,000 undergraduates and nearly 4,000 graduate students, making it the third largest campus in the system.&lt;ref&gt;[http://www.bizjournals.com/boston/blog/bbj_research_alert/2012/05/massachusetts-colleges-and-universities.html Mass. colleges and universities - largest - Boston Business Journal]. Bizjournals.com (2012-05-30). Retrieved on 2013-08-21.&lt;/ref&gt; The University has five undergraduate colleges and two graduate colleges, with over 100 undergraduate programs and 50 graduate programs. Ninety-three percent of full-time faculty hold the highest degree in their fields.&lt;ref name=&quot;massachusetts2&quot;&gt;{{cite web|url=http://www.massachusetts.edu/umassforyou/umass_boston.html |title=Massachusetts.edu |publisher=Massachusetts.edu |date= |accessdate=2011-12-13}}&lt;/ref&gt;
+
+The campus is home to more than 100 student organizations — including clubs, literary magazines, newspaper, radio station, art gallery, and 16 NCAA Division III sports teams.&lt;ref name=&quot;massachusetts2&quot;/&gt; J. Keith Motley is the chancellor of the UMass Boston campus.&lt;ref&gt;{{cite web|url=http://www.umb.edu/chancellor/ |title=UMB.edu |publisher=UMB.edu |date= |accessdate=2011-12-13}}&lt;/ref&gt;
+
+===UMass Dartmouth===
+{{Main article|University of Massachusetts Dartmouth}}
+[[File:ClaireTCarneyLibrary.jpg|thumb|The Claire T. Carney Library]]
+
+Located in southeastern Massachusetts, UMass Dartmouth started in 1895 as the [[New Bedford Textile School]], the [[Bradford Durfee Textile School]], and later Southeastern Massachusetts University (SMU). UMass Dartmouth offers a wide array of programs in accounting, finance, management information systems, operations management and marketing, all of which are accredited by the Association to Advance Collegiate Schools of Business (AACSB) International. UMass Dartmouth has top ranking engineering and nursing programs.
+
+In addition to the {{convert|710|acre|km2|adj=on}} UMass Dartmouth main campus is, satellite campuses are located throughout the SouthCoast.&lt;ref name=&quot;massachusetts3&quot;&gt;{{cite web|url=http://www.massachusetts.edu/umassforyou/umass_dartmouth.html |title=Massachusetts.edu |publisher=Massachusetts.edu |date= |accessdate=2011-12-13}}&lt;/ref&gt;
+
+With 7,982 undergraduate students and 65 degree programs, the campus has a student-to-faculty ratio of 18:1 in its College of Arts &amp; Sciences; Charlton College of Business; College of Engineering; College of Nursing; College of Visual and Performing Arts; School of Education, Public Policy, and Civic Engagement; and the School for Marine Science and Technology. The University hosts internships, undergraduate research opportunities, and service learning experiences, as well as an Honors Program.&lt;ref name=&quot;massachusetts3&quot;/&gt;
+
+More than 100 student organizations and 25 NCAA Division III athletic teams provide a strong community beyond the classroom. UMass Dartmouth is among the fastest growing campuses in New England.&lt;ref name=&quot;massachusetts3&quot;/&gt; The campus is home to the only complete building system designed by renowned brutalist architect [[Paul Rudolph (architect)|Paul Rudolph]]. Randy Helm is the Chancellor of the UMass Dartmouth campus.&lt;ref&gt;{{cite web|url=http://www.umassd.edu/chancellor/|title=Office of the Chancellor - UMass Dartmouth|publisher=}}&lt;/ref&gt;
+
+[[University of Massachusetts School of Law]] was opened in September 2010 at the Dartmouth campus.
+
+===UMass Lowell===
+{{Main article|University of Massachusetts Lowell}}
+[[File:Cumnock Hall - University of Massachusetts Lowell - DSC00148.JPG|thumb|Cumnock Hall, on North Campus]]
+
+UMass Lowell is the product of a 1971 merger between '''[[Lowell State College]]''' (founded in 1894 as Lowell Normal School) and '''[[Lowell Technological Institute]]''' (founded in 1895 as the Lowell Textile School).  The merged institution became the University of Lowell, with the former Lowell Tech serving as the North Campus and the former Lowell State serving as the South Campus.
+
+UMass Lowell is a comprehensive University with a national reputation in science, engineering, Management and technology, and committed to educating students for lifelong success in a diverse world and conducting research and outreach activities that sustain the economic, environmental and social health of the region.
+
+UMass Lowell is located in the [[Merrimack Valley]], close to Boston, ocean beaches, and the mountains of New Hampshire. With a national reputation for education and research in science, engineering, and technology, the campus offers a number of undergraduate and graduate programs.
+Academic programs include internships, co-ops, service learning, and international education.&lt;ref name=&quot;massachusetts4&quot;&gt;{{cite web|url=http://www.massachusetts.edu/umassforyou/umass_lowell.html |title=Massachusetts.edu |publisher=Massachusetts.edu |date= |accessdate=2011-12-13}}&lt;/ref&gt;
+
+UMass Lowell has a total of 18,058&lt;ref&gt;{{cite web|url=http://www.metrowestdailynews.com/news/20160922/applying-to-umass-youre-not-alone|title=Applying to UMass? You're not alone|first=Michael P. Norton/State House News|last=Service|publisher=}}&lt;/ref&gt; students as of fall 2016 and is the fastest growing of the five UMass campuses.&lt;ref&gt;{{cite web|url=http://media.umassp.edu/massedu/ir/facts2013-2014.pdf|title=This page/site is temporarily unavailable.|publisher=}}&lt;/ref&gt; The campus offers over 120 fully accredited programs taught by 737 faculty members in five colleges. Most of the 75 bachelor's degree programs offer five-year Bachelor's to Master's programs.
+The student-to-faculty ratio is 14:1 and half of the undergraduate classes have fewer than 20 students. Ninety-three percent of the full-time faculty members hold the highest degree in their fields.&lt;ref name=&quot;massachusetts4&quot;/&gt;
+
+There are 12 University residence halls located on the campus. There are more than 120 active student organizations on campus, a campus recreation center, 16 NCAA Division I sports teams that compete in the [[America East Conference]], and the ice hockey team that competes in the [[Hockey East|Hockey East Conference]].
+
+===UMass Medical School===
+{{Main article|University of Massachusetts Medical School}}
+[[File:Umass Medical School Lazare Research Building.jpg|thumb|The Lazare Research Building]]
+
+The University of Massachusetts Worcester, also known as UMass Medical School, is one of the fastest growing academic health science centers in the country and is home to the School of Medicine (SOM) — the Commonwealth's only public medical school — the Graduate School of Biomedical Sciences (GSBS), the Graduate School of Nursing (GSN), and a research enterprise that attracts more than $200 million in external funding annually.&lt;ref name=&quot;massachusetts5&quot;&gt;{{cite web|url=http://www.massachusetts.edu/umassforyou/umass_worcester.html |title=Massachusetts.edu |publisher=Massachusetts.edu |date= |accessdate=2011-12-13}}&lt;/ref&gt;
+
+Located in the heart of Central Massachusetts on a {{convert|63|acre|m2|adj=on}} campus it shares with clinical partner UMass Memorial Health Care, the region's premier health care delivery system and largest employer, UMass Medical consistently ranks among the top ten percent in the [[U.S. News &amp; World Report]]'s annual ranking of best medical schools.&lt;ref name=&quot;massachusetts5&quot;/&gt;
+
+The work of UMass Medical researcher and 2006 [[Nobel Prize]] winner [[Craig Mello]], an investigator of the prestigious Howard Hughes Medical Institute, toward the discovery of RNA interference has launched a promising new field of research. The school is also the future home of the Albert Sherman Center, an interdisciplinary, research and education facility that will foster collaboration among scientists and innovation across disciplines.&lt;ref name=&quot;massachusetts5&quot;/&gt; Michael F. Collins is the chancellor of the UMass Medical School campus.&lt;ref&gt;{{cite web|url=http://www.umassmed.edu/chancellor/index.aspx |title=Umassmed.edu |publisher=Umassmed.edu |date= |accessdate=2011-12-13}}&lt;/ref&gt;
+
+===Springfield satellite center===
+In 2014, the state of Massachusetts gave $5.2 million&lt;ref name=&quot;Umass satellite&quot;&gt;{{cite web|title=Deval Patrick touts $5.2 million investment in UMass Springfield satellite center as vital for education, economic development|url=http://www.masslive.com/news/index.ssf/2014/05/gov_deval_patrick_touts_52_mil.html|publisher=MassLive.com|accessdate=May 9, 2014}}&lt;/ref&gt; to the Springfield satellite center to allow the university to complete construction and buy furnishings. .&lt;ref name=&quot;Umass center&quot;&gt;{{cite web|title=Outlook 2014: What will be the academic focus of the new UMass Springfield satellite center?|url=http://www.masslive.com/business-news/index.ssf/2014/02/what_will_be_academic_focus_of_umass_springfield.html|publisher=MassLive.com|accessdate=May 9, 2014}}&lt;/ref&gt;&lt;ref name=&quot;Umass 2014&quot;&gt;{{cite web|title=State giving UMass $5 million to complete Springfield work|url=http://www.bizjournals.com/boston/blog/mass_roundup/2014/05/state-giving-umass-5-million-to-complete.html?page=all|publisher=[[Boston Business Journal]]|accessdate=May 9, 2014}}&lt;/ref&gt;  The satellite center, administered by the Amherst campus, opened in March 2014, registering students for September 2014.&lt;ref&gt;{{cite web|url=http://wamc.org/post/umass-opens-springfield-center-campus-office#stream/0|title=UMass Opens Springfield Center Campus Office|first=Paul|last=Tuthill|publisher=}}&lt;/ref&gt;  Programs include nursing, education, business administration, addiction counseling, and GED classes.&lt;ref&gt;{{cite web|url=http://www.umasscenteratspringfield.org/program-offerings|accessdate=2015-12-22|title=Program Offerings}}&lt;/ref&gt;
+
+==Research==
+
+===Collaborations===
+The [[Massachusetts Green High Performance Computing Center]] is a [[joint venture]] of the University of Massachusetts system, [[MIT]], [[Harvard University|Harvard]], [[Boston University]], and [[Northeastern University|Northeastern]] to build a shared [[high-performance computing]] facility.&lt;ref&gt;[http://www.boston.com/news/education/higher/articles/2009/10/22/high_tech_computing_center_on_track/ &quot;High-tech computing center on track&quot;],  Boston Globe, October 22, 2009&lt;/ref&gt; In 2010, UMass Boston partnered  with [[Dana–Farber/Harvard Cancer Center]] to collaborate on research aimed at addressing issues of cancer health disparities in disenfranchised populations under U54 Cancer Partnership.&lt;ref name=&quot;UMass Boston-Harvard&quot;&gt;{{cite web|title=The UMass Boston - Dana-Farber/Harvard Cancer Center|url=http://www.umb.edu/u54|publisher=[[University of Massachusetts Boston]]|accessdate=April 28, 2014}}&lt;/ref&gt;
+
+===Inter Campus Programs===
+University of Massachusetts Intercampus Graduate School of Marine Sciences and Technology&lt;ref name=&quot;Umass InterCampus approval&quot;/&gt; is a graduate degree program offering [[Master of Science]], [[Doctor of Philosophy]] and [[Professional Science Master's Degree]].&lt;ref name=&quot;Umass InterCampus&quot;&gt;{{cite web|title= University of Massachusetts Intercampus Marine Science|url=http://www.umassmarine.net/|publisher=University of Massachusetts|accessdate=May 13, 2014}}&lt;/ref&gt; The graduates receive a joint degree from all four of the main UMass campuses.&lt;ref name=&quot;Umass InterCampus approval&quot;&gt;{{cite web|title=Inter-campus marine program gets approval|url=http://www.southcoasttoday.com/apps/pbcs.dll/article?AID=/20011010/NEWS/310109949&amp;cid=sitesearch|publisher=SouthCoastToday.com|accessdate=May 13, 2014}}&lt;/ref&gt;
+
+==Finances and faculty pay==
+The FY 2014 Operating Budget for the UMass system is $2.94 billion representing a 2.6% increase over the current year expenses.&lt;ref name=&quot;Umass system budget&quot;&gt;{{cite web|title=UMass System Fiscal Year 2014 Operating Budget|url=http://media.umassp.edu/massedu/budgetoffice/FY14%20Op%20Budget.pdf|publisher=University of Massachusetts|accessdate=April 28, 2014}}&lt;/ref&gt; Several university of Massachusetts employees are among the highest paid state employees in [[Massachusetts]].&lt;ref name=&quot;Umass system pay&quot;&gt;{{cite web|title=UMass staffers top list of highest paid employees in Massachusetts (BBJ DataCenter)|url=http://www.bizjournals.com/boston/blog/bbj_research_alert/2012/10/umass-brass-take-8-percent-pay-cut.html?page=all|publisher=[[Boston Business Journal]]|accessdate=April 28, 2014}}&lt;/ref&gt;&lt;ref name=&quot;Top pay UMass&quot;&gt;{{cite web|title=UMass tops the charts of highest paid state employees|url=http://dailycollegian.com/2012/01/22/umass-tops-the-charts-of-highest-paid-employees/|publisher=[[The Massachusetts Daily Collegian]]|accessdate=April 28, 2014}}&lt;/ref&gt;&lt;ref name=&quot;Pay hike state Mass&quot;&gt;{{cite web|title=More than 1,000 state employees get pay hiked over $100,000|url=http://bostonherald.com/news_opinion/local_coverage/herald_bulldog/2014/02/more_than_1000_state_employees_get_pay_hiked_over|publisher=[[Boston Herald]]|accessdate=April 28, 2014}}&lt;/ref&gt;
+
+==University President==
+The President is the University's chief executive officer and works to advance its mission of education, research and public service.
+[[Marty Meehan]] became the 27th president of the five-campus, 73,000-student University of Massachusetts system on July 1, 2015.
+
+===Presidents===
+Below is a list of Presidents of the University of Massachusetts.  Before the 1962 establishment of the Medical School, the president was the administrator of the system's only campus in Amherst. Today, the President administers 5 campuses.
+
+{| class=&quot;wikitable&quot;
+!President!!Tenure&lt;ref&gt;[http://www.massachusetts.edu/presidents/index.html Massachusetts.edu], Retrieved 2009-01-11.&lt;/ref&gt;
+|-
+|[[Henry F. French]]||1864–66
+|-
+|[[Paul A. Chadbourne]]||1866–67 and 1882–83
+|-
+|[[William S. Clark]]||1867–79
+|-
+|[[Charles L. Flint]]||1879–80
+|-
+|[[Levi Stockbridge]]||1876 and 1880–82
+|-
+|[[James C. Greenough]]||1883–86
+|-
+|[[Henry H. Goodell]]||1883 and 1886–1905
+|-
+|[[William P. Brooks]]||1905–06
+|-
+|[[Kenyon L. Butterfield]]||1906–24
+|-
+|[[Edward M. Lewis]]||1924–27
+|-
+|[[Roscoe W. Thatcher]]||1927–32
+|-
+|[[Hugh P. Baker]]||1933–47
+|-
+|[[Ralph Van Meter|Ralph A. Van Meter]]||1947–54
+|-
+|[[Jean Paul Mather]]||1954–60
+|-
+|[[John W. Lederle]]||1960–70
+|-
+|[[Robert C. Wood]]||1970–77
+|-
+|[[Franklin K. Patterson]]||1978 (interim)
+|-
+|[[David C. Knapp]]||1978–1990
+|-
+|[[Joseph D. Duffey]]||1990–1991
+|-
+|[[E. K. Fretwell]]||1991–1992 (interim)
+|-
+|[[Michael K. Hooker]]||1992–95
+|-
+|[[Sherry H. Penney]]||1995–96 (interim)
+|-
+|[[William M. Bulger]]||1996–2003
+|-
+|[[Jack M. Wilson]]||2003–2011
+|-
+|[[Robert L. Caret]]||2011-2015
+|-
+|[[Marty Meehan]]||2015-
+|}
+
+==Board of Trustees==
+The University of Massachusetts is governed by a lay Board of Trustees. The Board of Trustees functions as a legislative body dealing mainly with questions of policy. The board is not an administrative or management board. In certain rare instances when required by the Massachusetts General Laws, it may function as an appeal body. The board establishes the general policies governing the University, but has delegated many powers to the President and, through the President, to campus administrators for day-to-day-operations.
+
+===Composition of the Board===
+The founding Board had fourteen appointed members and four ''[[ex-officio]]'' members. Formerly, Trustees were appointed by the Legislature or the board itself; currently, members are appointed by the Governor. The size of the board has fluctuated between twelve and twenty-four members. The current Board is composed of nineteen voting members and three ''ex-officio'' non-voting members. Seventeen Board members are appointed by the Governor of the Commonwealth; at least five of those appointed must be alumni of the University and one must be a representative of organized labor. The other two voting members are students. Overall, the board has five student members, elected for one-year terms, from the Amherst, Boston, Dartmouth, Lowell and Worcester campuses. Voting membership rotates among the campuses: two students are voting members and three others are ''ex-officio'' non-voting members.
+
+===Current Board===
+{| class=&quot;wikitable&quot; style=&quot;width: 50%&quot;
+|-
+! Trustees
+|-
+|
+Victor Woolridge, Chair, Springfield, MA, Exp. 2019
+|-
+|
+Maria D. Furman, Vice Chair, Wellesley, MA, Exp. 2019
+|-
+|
+James R. Buonomo, Shrewsbury, MA, Exp. 2018
+|-
+|
+Richard P. Campbell, Cohasset, MA, Exp. 2016
+|-
+|
+Lawrence M. Carpman, Marshfield, MA, Exp. 2016
+|-
+|
+Edward W. Collins Jr, Springfield, MA, Exp. 2017
+|-
+|
+Robert Epstein, Boston, MA, Exp. 2020
+|-
+|David G. Fubini, Brookline, MA Exp. 2018
+|-
+|
+Philip W. Johnston, Marshfield, MA, Exp. 2017
+|-
+|
+Alyce J. Lee, Milton, MA, Exp. 2016
+|-
+|Robert J. Manning, Swampscott, MA Exp. 2016
+|-
+|
+Jeffrey B. Mullan, Milton, MA, Exp. 2016
+|-
+|
+Kerri Osterhaus-Houle, Hudson, MA, Exp. 2018
+|-
+|
+R. Norman Peters, Paxton, MA, Exp. 2019
+|-
+|James A. Peyser, Secretary of Education, Commonwealth of Massachusetts, Milton, MA
+|-
+|
+Henry M. Thomas III, Springfield, MA, Exp. 2017
+|-
+|
+Margaret D. Xifaras, Marion, MA, Exp. 2016
+|-
+|
+Zunilka Barrett (Secretary to the Board of Trustees)&lt;ref name=&quot;massachusetts6&quot;&gt;{{cite web|url=http://www.massachusetts.edu/bot/members.html |title=Massachusetts.edu |publisher=Massachusetts.edu |date=6 September 2013 |accessdate=3 February 2014}}&lt;/ref&gt;
+|-
+|
+Student Trustees
+*Emily C. O'Neil, UMass Amherst Student, Natick, MA Exp. 2016
+*Nolan O'Brien, UMass Boston Student, Quincy, MA Exp. 2016
+*Jacob Miller, UMass Dartmouth Student, Fairhaven, MA, Exp. 2016
+*Amanda Robinson, UMass Lowell Student, Hingham, MA, Exp. 2016
+*Yevin Roh, UMass Medical School Student, Worcester, MA, Exp. 2016
+|}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*[http://www.massachusetts.edu/ University of Massachusetts system]
+*[http://www.umasscenteratspringfield.org/ University of Massachusetts Center at Springfield]
+
+{{University of Massachusetts}}
+{{Massachusetts Public Colleges}}
+
+{{DEFAULTSORT:Massachusetts, University Of}}
+[[Category:University of Massachusetts| ]]
+[[Category:Public university systems in the United States]]
+[[Category:1964 establishments in Massachusetts]]</text>
+      <sha1>hwkbt4jjd4o9c03hbvi4tsl0ynn64l4</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,254 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Common blackbird</title>
+    <ns>0</ns>
+    <id>184826</id>
+    <revision>
+      <id>746002127</id>
+      <parentid>746000105</parentid>
+      <timestamp>2016-10-24T18:01:50Z</timestamp>
+      <contributor>
+        <username>Jimfbleak</username>
+        <id>7872</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/204.152.134.2|204.152.134.2]] ([[User talk:204.152.134.2|talk]]) to last version by 109.149.245.146</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="45438">{{pp-move-indef}}
+{{speciesbox
+| name = Common blackbird 
+| status = LC
+| status_system = IUCN3.1
+| status_ref = &lt;ref name=IUCN&gt;{{cite journal | authors = [[BirdLife International]] | title = ''Turdus merula'' | journal = [[IUCN Red List of Threatened Species]] | volume= 2014 | page = e.T22708775A62578644 | publisher = [[IUCN]] | year = 2014 | doi=10.2305/IUCN.UK.2014-2.RLTS.T22708775A62578644.en}}&lt;/ref&gt;
+| image = Common Blackbird.jpg 
+| image_width = 300px
+| image_caption = A male common blackbird with a worm in its mouth
+| genus = Turdus
+| species = merula
+| authority = [[Carl Linnaeus|Linnaeus]], [[10th edition of Systema Naturae|1758]]
+| range_map = Eurasian Blackbird.png
+| range_map_caption = Global range of the nominate subspecies{{leftlegend|#007F00|Year-Round Range|outline=gray}}{{leftlegend|#E0CF01|Summer Range|outline=gray}}{{leftlegend|#0080FF|Winter Range|outline=gray}}
+}}
+
+The '''common blackbird''' (''Turdus merula'') is a [[species]] of [[true thrush]]. It is also called '''Eurasian blackbird''' (especially in North America, to distinguish it from the unrelated [[New World blackbird]]s),&lt;ref name=&quot;natgeo&quot;&gt;{{cite book |title=Complete Birds of North America |editor1-last=Alderfer |editor1-first=Jonathan |year=2006 |publisher=[[National Geographic Society]] |location=Washington, D.C. |isbn=0-7922-4175-4 |page=489}}&lt;/ref&gt; or simply '''blackbird''' where this does not lead to confusion with a {{nowrap|similar-looking}} local species. It breeds in Europe, Asia, and North Africa, and has been [[introduced species|introduced]] to Canada, United States, Mexico, [[Peru]], [[Brazil]], [[Argentina]], [[Uruguay]], the [[Falkland Islands]], [[Chile]], South Africa, Australia and New Zealand.&lt;ref&gt;Long, John L. (1981). ''Introduced Birds of the World''. Agricultural Protection Board of Western Australia. pp. 21–493&lt;/ref&gt; It has a number of [[subspecies]] across its large range; a few of the Asian subspecies are sometimes considered to be full species. Depending on [[latitude]], the common blackbird may be [[Resident bird|resident]], partially [[Bird migration|migratory]], or fully migratory.
+
+The male of the [[nominate subspecies]], which is found throughout most of Europe, is all black except for a yellow eye-ring and [[Beak|bill]] and has a rich, melodious [[Bird vocalization|song]]; the adult female and juvenile have mainly dark brown [[plumage]]. This species breeds in woods and gardens, building a neat, mud-lined, cup-shaped nest. It is [[omnivorous]], eating a wide range of [[insect]]s, [[earthworm]]s, [[Berry|berries]], and [[fruit]]s.
+
+Both sexes are [[territory (animal)|territorial]] on the breeding grounds, with distinctive threat displays, but are more gregarious during migration and in wintering areas. Pairs stay in their territory throughout the year where the climate is sufficiently [[temperate]]. This common and conspicuous species has given rise to a number of literary and cultural references, frequently related to its song.
+
+==Taxonomy and systematics==
+The common blackbird was described by [[Carl Linnaeus|Linnaeus]] in the [[10th edition of Systema Naturae|10th edition of his ''Systema Naturae'']] in 1758 as ''Turdus merula'' (characterised as ''T. ater, rostro palpebrisque fulvis'').&lt;ref&gt;{{cite book | last=Linnaeus | first=Carolus | authorlink=Carl Linnaeus | language = Latin | title=Systema naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Tomus I. Editio decima, reformata | publisher=Holmiae (Laurentii Salvii)| year=1758| page=170}}&lt;/ref&gt; The binomial name derives from two [[Latin]] words, ''turdus'', &quot;thrush&quot;, and ''merula'', &quot;blackbird&quot;, the latter giving rise to its French name, ''merle'',&lt;ref&gt;{{cite book |title= Le Grand Robert de la langue française |last= Le Robert |first= Paul | language = French | publisher= Dictionnaires Le Robert |year=2001 |isbn=2-85036-673-0}}&lt;/ref&gt; and its [[Scots language|Scots]] name, ''merl''.&lt;ref&gt;{{cite book|title=Dictionary of the Scots Language|publisher=Scottish Language Dictionaries|location=University of Edinburgh|url=http://www.dsl.ac.uk/}}&lt;/ref&gt; About 65 species of medium to large thrushes are in the genus ''Turdus'', characterised by rounded heads, longish, pointed wings, and usually melodious songs. The common blackbird seems to be closest in evolutionary terms to the [[island thrush]] (''T.&amp;nbsp;poliocephalus'') of Southeast Asia and islands in the southwest Pacific, which probably diverged from ''T. merula'' stock fairly recently.&lt;ref name=Clement/&gt;
+
+It may not immediately be clear why the name &quot;blackbird&quot;, first recorded in 1486, was applied to this species, but not to one of the various other common black English birds, such as the [[carrion crow]], [[common raven|raven]], [[Rook (bird)|rook]], or [[jackdaw]]. However, in [[Old English]], and in [[modern English]] up to about the 18th century, &quot;bird&quot; was used only for smaller or young birds, and larger ones such as crows were called &quot;fowl&quot;. At that time, the blackbird was therefore the only widespread and conspicuous &quot;black bird&quot; in the British Isles.&lt;ref name=&quot;OED&quot;&gt;''[[Oxford English Dictionary]]'', Oxford University Press, 1933: Bird (sense 2), Blackbird&lt;/ref&gt; Until about the 17th century, another name for the species was ''ouzel'', ''ousel'' or ''wosel'' (from [[Old English]] ''osle'', cf. German ''Amsel''). Another variant occurs in Act 3 of [[William Shakespeare|Shakespeare's]] ''[[A Midsummer Night's Dream]]'', where [[Nick Bottom|Bottom]] refers to &quot;The Woosell cocke, so blacke of hew, With Orenge-tawny bill&quot;. The ouzel usage survived later in poetry, and still occurs as the name of the closely related [[ring ouzel]] (''Turdus torquatus''), and in water ouzel, an alternative name for the unrelated but superficially similar [[white-throated dipper]] (''Cinclus cinclus'').&lt;ref name= birdnames&gt;{{cite book | last = Lockwood| first =W. B. | title = Oxford Book of British Bird Names| year = 1984| publisher = Oxford University Press|location= Oxford| isbn = 0-19-214155-4}}&lt;/ref&gt;
+[[File:Turdus merula (juvenile) -lawn-8.jpg|thumb|Juvenile ''T. m. merula'' in England]]
+[[File:Turdus merula -Cradley, England -pied-8.jpg|thumb|A [[leucism|leucistic]] adult male in England with much white in the plumage]]
+[[File:Turdus merula -Gran Canaria, Canary Islands, Spain-8 (2).jpg|right|thumb|''T. m. cabrerae'' on [[Gran Canaria]], Canary Islands, Spain]]
+Two related Asian ''Turdus'' [[thrush (bird)|thrushes]], the [[white-collared blackbird]] (''T. albocinctus'') and the [[grey-winged blackbird]] (''T. boulboul''), are also named blackbirds,&lt;ref name = Clement/&gt; and the [[Somali thrush]] (''T. (olivaceus) ludoviciae'') is alternatively known as the Somali blackbird.&lt;ref name= Sinclair&gt;Sinclair, I., &amp; P. Ryan (2003). ''Birds of Africa south of the Sahara.'' Struik Publishers, Cape Town. ISBN 1-86872-857-9&lt;/ref&gt;
+
+The [[icterid]] family of the New World is sometimes called the blackbird family because of some species' superficial resemblance to the common blackbird and other Old World thrushes, but they are not evolutionarily close, being related to the [[New World warbler]]s and [[tanager]]s.&lt;ref name= Jaramillo&gt;{{cite book |title=New World Blackbirds: The Icterids|series=[[Helm Identification Guides]] |last= Jaramillo |first=Alvaro |author2=Burke, Peter |publisher=Christopher Helm Publishers Ltd|year=1997 |isbn= 0-7136-4333-1}}&lt;/ref&gt; The term is often limited to smaller species with mostly or entirely black plumage, at least in the breeding male, notably the [[cowbird]]s,&lt;ref&gt;{{cite web | title = All About Birds: Bronzed Cowbird | year = 2003 | publisher = Cornell Lab of Ornithology | url = http://www.birds.cornell.edu/AllAboutBirds/BirdGuide/Bronzed_Cowbird_dtl.html | accessdate = 18 February 2008}}&lt;/ref&gt; the [[Quiscalus|grackles]],&lt;ref&gt;{{cite web | title = All About Birds: Great-tailed Grackle | year = 2003 | publisher = Cornell Lab of Ornithology | url = http://www.birds.cornell.edu/AllAboutBirds/BirdGuide/Great-tailed_Grackle.html | accessdate = 18 February 2008}}&lt;/ref&gt; and for around 20 species with &quot;blackbird&quot; in the name, such as the [[red-winged blackbird]] and the [[melodious blackbird]].&lt;ref name= Jaramillo/&gt;
+
+===Subspecies===
+As would be expected for a widespread passerine bird species, several geographical subspecies are recognised. The treatment of subspecies in this article follows Clement ''et al.'' (2000).&lt;ref name = Clement/&gt;
+[[File:Blackbird 2.jpg|thumb|Near adult of nominate subspecies still showing some brown in the wings]]
+[[File:Amsel Weibchen aufgeplustert edit2.jpg|thumb|Female of subspecies ''merula'']]
+*''T. m. merula'', the nominate subspecies, breeds commonly throughout much of Europe from [[Iceland]], the [[Faroes]] and the British Isles east to the [[Ural Mountains]] and north to about 70 N, where it is fairly scarce. A small population breeds in the [[Nile Valley]]. Birds from the north of the range winter throughout Europe and around the Mediterranean including [[Cyprus]] and North Africa. The introduced birds in Australia and New Zealand are of the nominate race.&lt;ref name = Clement/&gt;
+*''T. m. azorensis'' is a small race which breeds in the [[Azores]]. The male is darker and glossier than ''merula''.&lt;ref name=BWP/&gt;
+*''T. m. cabrerae'', named for [[Ángel Cabrera (naturalist)|Ángel Cabrera]], Spanish [[zoology|zoologist]], resembles ''azorensis'' and breeds in [[Madeira]] and the western [[Canary Islands]].&lt;ref name=BWP/&gt;
+*''T. m. mauretanicus'', another small dark species with a glossy black male plumage, breeds in central and northern [[Morocco]], coastal [[Algeria]] and northern [[Tunisia]].&lt;ref name=BWP/&gt;
+[[File:Turdus merula -autumn leaves -Budapest-8.jpg|thumb|First-summer male, probably subspecies ''aterrimus'']]
+*''T m. aterrimus'' breeds in Hungary, south and east to southern Greece, [[Crete]] northern [[Turkey]] and northern [[Iran]]. It winters in southern Turkey, northern [[Egypt]], [[Iraq]] and southern Iran. It is smaller than ''merula'' with a duller male and paler female plumage.&lt;ref name=BWP/&gt;
+*''T. m. syriacus'' breeds on the Mediterranean coast of southern Turkey south to [[Jordan]], [[Israel]] and the northern [[Sinai]]. It is mostly resident, but part of the population moves south west or west to winter in the [[Jordan River|Jordan Valley]] and in the [[Nile Delta]] of northern Egypt south to about [[Cairo]]. Both sexes of this subspecies are darker and greyer than the equivalent ''merula'' plumages.&lt;ref name = Clement/&gt;
+*''T. m. intermedius'' is an Asiatic race breeding from Central Russia to [[Tajikistan]], western and north east Afghanistan, and eastern China. Many birds are resident but some are altitudinal migrants and occur in southern Afghanistan and southern Iraq in winter.&lt;ref name= Clement/&gt; This is a large subspecies, with a sooty-black male and a blackish-brown female.&lt;ref name=&quot;HBW3&quot;/&gt;
+The Asian subspecies, the relatively large ''intermedius'' also differs in structure and voice, and may represent a distinct species.&lt;ref name=&quot;HBW3&quot;&gt;Collar, N. J. (2005). Common Blackbird (''Turdus merula''). p. 645 in: del Hoyo, J., Elliott, A., &amp; Christie, D. A. eds. (2005) ''[[Handbook of the Birds of the World]].'' Vol. 10. Cuckoo-shrikes to Thrushes. Lynx Edicions, Barcelona. ISBN 84-87334-72-5&lt;/ref&gt; Alternatively, it has been suggested that they should be considered subspecies of ''[[Turdus maximus|T. maximus]]'',&lt;ref name=Clement/&gt; but they differ in structure, voice and the appearance of the eye-ring.&lt;ref name=&quot;HBW3&quot;/&gt;&lt;ref name=&quot;HBW2&quot;&gt;Collar, N. J. (2005). Tibetan Blackbird (''Turdus maximus''). p. 646 in: del Hoyo, J., Elliott, A., &amp; Christie, D. A. eds. (2005) ''[[Handbook of the Birds of the World]].'' Vol. 10. Cuckoo-shrikes to Thrushes. Lynx Edicions, Barcelona. ISBN 84-87334-72-5&lt;/ref&gt;
+
+===Similar species===
+In Europe, the common blackbird can be confused with the paler-winged first-winter [[ring ouzel]] (''Turdus torquatus'') or the superficially similar [[European starling]] (''Sturnus vulgaris'').&lt;ref name= Collins&gt;Mullarney, Killian; Svensson, Lars, Zetterstrom, Dan; Grant, Peter. (2001). ''Birds of Europe.'' Princeton University Press. p 304–306 ISBN 0-691-05054-6&lt;/ref&gt; A number of similar ''[[Turdus]]'' thrushes exist far outside the range of the common blackbird, for example the South American [[Chiguanco thrush]] (''Turdus chiguanco'').&lt;ref name= Fjeldsaa&gt;Fjeldså, J., &amp; N. Krabbe (1990). ''The Birds of the High Andes.'' Zoological Museum, University of Copenhagen, Copenhagen. ISBN 87-88757-16-1&lt;/ref&gt; The [[Indian blackbird]], the [[Tibetan blackbird]], and the [[Chinese blackbird]] were formerly considered subspecies.&lt;ref&gt;{{cite web|url=http://www.worldbirdnames.org/bow/thrushes/|title=Thrushes|last=Gill|first=F.|last2=Donsker|first2=D.|date=20 July 2015|work=IOC World Bird List, version 5.3 |accessdate=29 September 2015}}&lt;/ref&gt;
+
+==Description==
+The common blackbird of the [[subspecies#Nominate subspecies and subspecies autonyms|nominate]] subspecies ''T. m. merula'' is 23.5 to 29&amp;nbsp;centimetres (9.25 to 11.4&amp;nbsp;in) in length, has a long tail, and weighs 80–125&amp;nbsp;grams (2.8 to 4.4&amp;nbsp;[[ounce|oz]]). The adult male has glossy black [[plumage]], blackish-brown legs, a yellow eye-ring and an orange-yellow [[Beak|bill]]. The bill darkens somewhat in winter.&lt;ref name= Collins/&gt; The adult female is sooty-brown with a dull yellowish-brownish bill, a brownish-white throat and some weak mottling on the breast. The [[Juvenile (organism)|juvenile]] is similar to the female, but has pale spots on the upperparts, and the very young juvenile also has a speckled breast. Young birds vary in the shade of brown, with darker birds presumably males.&lt;ref name= Collins/&gt; The first year male resembles the adult male, but has a dark bill and weaker eye ring, and its folded wing is brown, rather than black like the body plumage.&lt;ref name= Clement/&gt;
+
+==Distribution and habitat==
+The common blackbird breeds in temperate Eurasia, North Africa, the [[Canary Islands]], and South Asia. It has been introduced to Australia and New Zealand.&lt;ref name = Clement/&gt; Populations are [[sedentism|sedentary]] in the south and west of the range, although northern birds [[bird migration|migrate]] south as far as northern Africa and tropical Asia in winter.&lt;ref name= Clement &gt;{{cite book |title=Thrushes (Helm Identification Guides) |last= Clement |first= Peter |author2= Hathway, Ren|author3=Wilczur, Jan |publisher=Christopher Helm Publishers Ltd|year=2000 |isbn= 0-7136-3940-7}}&lt;/ref&gt; Urban males are more likely to [[overwinter]] in cooler climes than rural males, an adaptation made feasible by the warmer microclimate and relatively abundant food that allow the birds to establish territories and start reproducing earlier in the year.&lt;ref&gt;{{cite journal | last1 = Partecke | first1 = J. | last2 = Gwinner | first2 = E.| year = 2007 | title = Increased sedentariness in European blackbirds following urbanization: a consequence of local adaptation? | journal = Ecology | volume = 88 | issue = 4| pages = 882–90|pmid=17536705 | doi = 10.1890/06-1105 }}&lt;/ref&gt;
+
+Common over most of its range in woodland, the common blackbird has a preference for deciduous trees with dense undergrowth. However, gardens provide the best breeding habitat with up to 7.3 pairs per hectare (nearly three pairs per [[acre]]), with woodland typically holding about a tenth of that density, and open and very built-up habitats even less.&lt;ref name = Snow&gt;{{cite book |title=A Study of Blackbirds |last= Snow |first= David |publisher= British Museum (Natural History) |year=1988 |isbn= 0-565-01021-2}}&lt;/ref&gt; They are often replaced by the related [[ring ouzel]] in areas of higher altitude.&lt;ref name=Observerbirdseggs&gt;{{cite book |title=The Observer's Book of Birds' Eggs|author=Evans G|page=78|year=1972 |publisher=Warne |location=London |isbn=0-7232-0060-2}}&lt;/ref&gt;
+
+The common blackbird occurs up to 1000&amp;nbsp;metres (3300&amp;nbsp;ft) in Europe, 2300&amp;nbsp;metres (7590&amp;nbsp;ft) in North Africa, and at 900–1820&amp;nbsp;metres (3000–6000&amp;nbsp;ft) in peninsular India and Sri Lanka, but the large Himalayan subspecies range much higher, with ''T. m. maximus'' breeding at 3200–4800&amp;nbsp;metres (10560–16000&amp;nbsp;ft) and remaining above 2100&amp;nbsp;metres (6930&amp;nbsp;ft) even in winter.&lt;ref name=Clement/&gt;
+
+This widespread species has occurred as a vagrant in many locations in Eurasia outside its normal range, but records from North America are normally considered to involve escapees, including, for example, the 1971 bird in [[Quebec]].&lt;ref name = McNeil &gt;{{cite journal|last=McNeil |first=Raymond |author2=Cyr, André |date=October 1971 |title=General Notes: European Blackbird (''Turdus merula'') in Quebec |journal= The Auk |volume=88 |issue= 4|pages= 919–920 |url=http://sora.unm.edu/sites/default/files/journals/auk/v088n04/p0919-p0920.pdf|doi=10.2307/4083850}}&lt;/ref&gt; However, a 1994 record from [[Bonavista, Newfoundland and Labrador|Bonavista, Newfoundland]], has been accepted as a genuine wild bird,&lt;ref name = Clement/&gt; and the species is therefore on the [[List of birds of North America|North American list]].&lt;ref name =AOU&gt;{{cite web|title= The A.O.U. Check-list of North American Birds, Seventh Edition |work= Check-list of North American Birds |url= http://www.aou.org/checklist/index.php3 |publisher= AOU|accessdate=14 December 2007| archiveurl = https://web.archive.org/web/20071211170240/http://www.aou.org/checklist/index.php3| archivedate = December 11, 2007}}&lt;/ref&gt;
+
+==Behaviour and ecology==
+[[File:Blackbird nest with 4 eggs.jpg|thumb|Eggs in a nest]]
+[[File:Hatchling birds in nest with eggs.jpg|right|thumb|Two chicks in their first hours as another egg begins to hatch]]
+[[File:Turdus merula -England -chicks in nest-8 (2).jpg|right|thumb|Two chicks in a nest]]
+The male common blackbird defends its breeding territory, chasing away other males or utilising a &quot;bow and run&quot; threat display. This consists of a short run, the head first being raised and then bowed with the tail dipped simultaneously. If a fight between male blackbirds does occur, it is usually short and the intruder is soon chased away. The female blackbird is also aggressive in the spring when it competes with other females for a good nesting territory, and although fights are less frequent, they tend to be more violent.&lt;ref name= Snow/&gt;
+
+The [[beak|bill's]] appearance is important in the interactions of the common blackbird. The territory-holding male responds more aggressively towards models with orange bills than to those with yellow bills, and reacts least to the brown bill colour typical of the first-year male. The female is, however, relatively indifferent to bill colour, but responds instead to shinier bills.&lt;ref name = AB64 &gt;{{cite journal|last= Bright |first= Ashleigh. |author2=Waas, Joseph R.|date=August 2002 |title= Effects of bill pigmentation and UV reflectance during territory establishment in blackbirds |journal= Animal Behaviour |volume=64 |issue= 2|pages=207–213|doi=10.1006/anbe.2002.3042 |url=http://cber.bio.waikato.ac.nz/images/bbposter2.pdf}}&lt;/ref&gt;
+
+As long as winter food is available, both the male and female will remain in the territory throughout the year, although occupying different areas. Migrants are more gregarious, travelling in small flocks and feeding in loose groups in the wintering grounds. The flight of migrating birds comprises bursts of rapid wing beats interspersed with level or diving movement, and differs from both the normal fast agile flight of this species and the more dipping action of larger thrushes.&lt;ref name= BWP/&gt;
+
+===Breeding===
+[[File:Turdus merula MWNH 2249.JPG|left|thumb|Eggs, Collection [[Museum Wiesbaden]]]]
+The male common blackbird attracts the female with a courtship display which consists of oblique runs combined with head-bowing movements, an open beak, and a &quot;strangled&quot; low song. The female remains motionless until she raises her head and tail to permit copulation.&lt;ref name = Snow/&gt; This species is monogamous, and the established pair will usually stay together as long as they both survive.&lt;ref name = BWP/&gt; Pair separation rates of up to 20% have been noted following poor breeding.&lt;ref&gt;{{cite journal|journal=Ibis|volume=143|issue=4|pages=554–560|last=Streif|first=Michael|author2=Rasa O. Anne E.|year=2001|title=Divorce and its consequences in the Common blackbird ''Turdus merula''|doi=10.1111/j.1474-919X.2001.tb04882.x}}&lt;/ref&gt; Although the species is socially monogamous, there have been studies showing as much as 17% extra-pair paternity.&lt;ref&gt;{{cite journal|journal=Behavioral Ecology|volume=15|issue=3|pages=508–519|year=2004|title=Extrapair paternity and the evolution of bird song|first=László Zsolt|last=Garamszegia|author2=Anders Pape Møller|url=http://beheco.oxfordjournals.org/cgi/content/full/15/3/508|doi=10.1093/beheco/arh041}}&lt;/ref&gt;
+
+Nominate ''T. merula'' may commence breeding in March, but eastern and Indian races are a month or more later, and the introduced New Zealand birds start nesting in August (late winter).&lt;ref name=Clement/&gt;&lt;ref name= Observerbirdseggs/&gt; The breeding pair prospect for a suitable nest site in a creeper or bush, favouring evergreen or thorny species such as [[ivy]], [[holly]], [[crataegus|hawthorn]], [[honeysuckle]] or [[pyracantha]].&lt;ref name = NatEngland/&gt; Sometimes the birds will nest in sheds or outbuildings where a ledge or cavity is used. The cup-shaped [[bird nest|nest]] is made with grasses, leaves and other vegetation, bound together with mud. It is built by the female alone. She lays three to five (usually four) bluish-green [[Bird egg|eggs]] marked with reddish-brown blotches,&lt;ref name = Snow/&gt; heaviest at the larger end;&lt;ref name=Observerbirdseggs/&gt; the eggs of nominate ''T. merula'' are 2.9×2.1&amp;nbsp;centimetres (1.14×0.93&amp;nbsp;in) in size and weigh 7.2&amp;nbsp;grammes (0.25&amp;nbsp;oz), of which 6% is shell.&lt;ref name = BTO&gt;{{cite web|title= Blackbird ''Turdus merula'' [Linnaeus, 1758] |work= BTO''Web'' BirdFacts|url= http://blx1.bto.org/birdfacts/results/bob11870.htm |publisher=British Trust for Ornithology |accessdate=30 December 2007}}&lt;/ref&gt; Eggs of birds of the southern Indian races are paler than those from the northern subcontinent and Europe.&lt;ref name = Clement/&gt;
+&lt;!--[[File:Male Turdus merula feeding chicks.ogv|thumb|Male feeding chicks]] breaking layout--&gt;
+The female incubates for 12–14 days before the [[altricial]] chicks are hatched naked and blind. Fledging takes another 10–19 (average 13.6) days, with both parents feeding the young and removing faecal sacs.&lt;ref name = BWP/&gt; The nest is often ill-concealed compared with those of other species, and many breeding attempts fail due to predation.&lt;ref name=&quot;Game and Wildfowl Conservation Trust&quot;&gt;{{cite web|title= 89% of Blackbird nest failures are attributed to predators | url= http://www.gwct.org.uk/about_us/news/1212.asp| publisher= Game and Wildfowl Conservation Trust}} Retrieved on 23 January 2012&lt;/ref&gt; The young are fed by the parents for up to three weeks after leaving the nest, and will follow the adults begging for food. If the female starts another nest, the male alone will feed the fledged young.&lt;ref name = Snow/&gt; Second broods are common, with the female reusing the same nest if the brood was successful, and three broods may be raised in the south of the common blackbird's range.&lt;ref name = Clement/&gt;
+
+A common blackbird has an average [[life expectancy]] of 2.4 years,&lt;ref&gt;{{cite web |url=http://www.garden-birds.co.uk/information/lifespan.htm |title= British garden birds – lifespan |accessdate=7 April 2007 |publisher=garden-birds.co.uk}}&lt;/ref&gt; and, based on data from [[bird ringing]], the oldest recorded age is 21 years and 10 months.&lt;ref&gt;{{cite web |url=http://www.euring.org/data_and_codes/longevity-voous.htm |title= European Longevity Records |accessdate=15 December 2007 |publisher=euring.org}}&lt;/ref&gt;
+
+===Songs and calls===
+{| class=&quot;wikitable&quot; align=&quot;right&quot;
+|[[File:Blackbird tree.jpg|500x240px]]
+|-
+|&lt;center&gt;A male singing&lt;/center&gt;
+|-
+|[[File:Turdus merula 2.ogg|90px|noicon|left]] [[:File:Turdus merula 2.ogg|Song 1]]
+|-
+|[[File:Turdus merula (06 02 16).ogg|90px|noicon|left]] [[:File:Turdus merula (06 02 16).ogg|Song 2]]
+|-
+|[[File:Common Blackbird (Turdus merula) (W1CDR0001525 BD22).ogg|90px|noicon|left]] [[:File:Common Blackbird (Turdus merula) (W1CDR0001525 BD22).ogg|Alarm calls]]
+|}
+Within its native [[Northern Hemisphere]] range, the first-year male common blackbird of the nominate race may start singing as early as late January in fine weather in order to establish a territory, followed in late March by the adult male. The male's song is a varied and melodious low-pitched fluted warble, given from trees, rooftops or other elevated perches mainly in the period from March to June, sometimes into the beginning of July. It has a number of other calls, including an aggressive ''seee'', a ''pook-pook-pook'' alarm for terrestrial predators like cats, and various ''chink'' and ''chook, chook'' vocalisations. The territorial male invariably gives ''chink-chink'' calls in the evening in an (usually unsuccessful) attempt to deter other blackbirds from roosting in its territory overnight.&lt;ref name=Snow/&gt; During the northern winter, blackbirds can be heard quietly singing to themselves, so much so that September and October are the only months which the song cannot be heard.&lt;ref name = gbirds&gt;{{cite web| title=Blackbird | work= | url=http://www.garden-birds.co.uk/birds/blackbird.htm | publisher=British Garden Birds | accessdate = 4 January  2016 }}&lt;/ref&gt; Like other passerine birds, it has a thin high ''seee'' alarm call for threats from [[bird of prey|birds of prey]] since the sound is rapidly attenuated in vegetation, making the source difficult to locate.&lt;ref name= burton&gt;{{cite book | last = Burton| first = Robert| title = Bird behaviour| year = 1985|location= London| publisher = Granada | page = 125|isbn = 0-246-12440-7}}&lt;/ref&gt;
+
+At least two subspecies, ''T. m. merula'' and ''T. m. nigropileus'', will mimic other species of birds, cats, humans or alarms, but this is usually quiet and hard to detect.
+
+===Feeding===
+[[File:Male common blackbird with feed in Lausanne.jpg|thumb|Adult male feeding on berries in [[Lausanne]], Switzerland]]
+The common blackbird is [[omnivorous]], eating a wide range of [[insect]]s, [[earthworm]]s, seeds and berries. It feeds mainly on the ground, running and hopping with a start-stop-start progress. It pulls earthworms from the soil, usually finding them by sight, but sometimes by hearing, and roots through leaf litter for other [[invertebrate]]s. Small [[amphibian]]s and [[lizard]]s are occasionally hunted. This species will also perch in bushes to take berries and collect [[caterpillar]]s and other active insects.&lt;ref name= Snow/&gt; Animal prey predominates, and is particularly important during the breeding season, with windfall apples and berries taken more in the autumn and winter. The nature of the fruit taken depends on what is locally available, and frequently includes exotics in gardens.
+
+===Natural threats===
+[[File:Blackbird and Kestrel.jpg|upright|thumb|A male attempting to distract a male [[Common kestrel|kestrel]] close to its nest]]
+Near human habitation the main predator of the common blackbird is the domestic cat, with newly fledged young especially vulnerable. [[Fox]]es and predatory birds, such as the [[Eurasian sparrowhawk|sparrowhawk]] and other [[accipiter]]s, also take this species when the opportunity arises.&lt;ref name=RSPB/&gt;&lt;ref name = Lambeth&gt;{{cite web|title= Blackbird Action Plan |work= |url= http://www.lambeth.gov.uk/NR/rdonlyres/A862EBE6-4CD7-4317-9B64-D0FB565AAF1C/0/BAPSummaryBlackbird.pdf |publisher= Lambeth Council's Parks and Greenspaces Business Unit |accessdate=11 December 2007|format=PDF}}&lt;/ref&gt; However, there is little direct evidence to show that either predation of the adult blackbirds or loss of the eggs and chicks to [[Corvidae|corvids]], such as the [[European magpie]] or [[Eurasian jay]], decrease population numbers.&lt;ref name = NatEngland&gt;{{cite web|title = Blackbird – ''Turdus merula'' |url=http://www.joyofplants.com/wildlife/search.php?o=30 |publisher= The Royal Horticultural Society/The Wildlife Trusts |accessdate=9 April 2012}}&lt;/ref&gt;
+
+This species is occasionally a host of [[brood parasite|parasitic]] [[cuckoo]]s, such as the [[common cuckoo]] (''Cuculus canorus''), but this is minimal because the common blackbird recognizes the adult of the parasitic species and its [[mimicry|non-mimetic]] eggs.&lt;ref name = daviesnb&gt;{{cite journal | last1=Davies | first1=N. B. | last2=Brooke | first2= M. de L. | year=1989 | title= An experimental study of co-evolution between the Cuckoo, ''Cuculus canorus'', and its hosts. I. Host egg discrimination | journal= Journal of Animal Ecology | volume=58 | issue=1 | pages=207–224 | jstor=4995 | doi=10.2307/4995}}&lt;/ref&gt; In the UK, only three nests of 59,770 examined (0.005%) contained cuckoo eggs.&lt;ref name= glue&gt;{{cite journal |last= Glue |first=David |author2=Morgan, Robert |year=1972 |title= Cuckoo hosts in British habitats | journal= Bird Study | volume= 19| pages=187–192 | url = |doi=10.1080/00063657209476342|jstor= |issue=4}}&lt;/ref&gt; The introduced ''merula'' blackbird in New Zealand, where the cuckoo does not occur, has, over the past 130 years, lost the ability to recognize the adult common cuckoo but still rejects non-mimetic eggs.&lt;ref name=JAB&gt;{{cite journal|last= Hale|first=Katrina|author2=Briskie, James V.|date=March 2007|title=Response of introduced European birds in New Zealand to experimental brood parasitism|journal=Journal of Avian Biology | volume=38 | issue=2 | pages=198–204 |issn=0908-8857 | doi=10.1111/j.2007.0908-8857.03734.x | url=http://www.biology.ualberta.ca/courses.hp/biol506.hp/pdfs/Hale07_JAvBi_BroodParasitism.pdf}}&lt;/ref&gt;
+
+As with other passerine birds, parasites are common. 88% of common blackbirds were found to have [[intestinal parasite]]s, most frequently ''[[Isospora]]'' and ''[[Capillaria (genus)|Capillaria]]'' species.&lt;ref&gt;{{cite book|last=Misof | first=Katharina | url= http://hss.ulb.uni-bonn.de:90/2005/0661/0661.pdf |title=Eurasian Blackbirds (''Turdus merula'') and their gastrointestinal parasites: A role for parasites in life-history decisions?|publisher=Doctoral dissertation, Bonn|year=2005}}&lt;/ref&gt; and more than 80% had haematozoan parasites (''[[Leucocytozoon]]'', ''[[Plasmodium]]'', ''[[Haemoproteus]]'' and ''[[Trypanosoma]]'' species).&lt;ref&gt;{{cite journal|author1=Hatchwell, B. J. |author2=Wood |author3=Anwar, M. J. M. |author4=Perrins C. M. | url=http://rparticle.web-p.cisti.nrc.ca/rparticle/AbstractTemplateServlet?journal=cjz&amp;volume=78&amp;year=&amp;issue=&amp;msno=z99-228&amp;calyLang=fra |title=The prevalence and ecology of the haematozoan parasites of European blackbirds, ''Turdus merula''| journal=Canadian Journal of Zoology|volume=78| issue=4| pages=684–687 |year=2000 | doi=10.1139/cjz-78-4-684}}&lt;/ref&gt;
+
+Common blackbirds spend much of their time looking for food on the ground where they can become infested with ticks, which are external parasites that most commonly attach to the head of a blackbird.&lt;ref name= Gregoire/&gt; In France, 74% of rural blackbirds were found to be infested with ''[[Ixodes]]'' ticks, whereas, only 2% of blackbirds living in urban habitats were infested.&lt;ref name= Gregoire/&gt; This is partly because it is more difficult for ticks to find another host on lawns and gardens in urban areas than in uncultivated rural areas, and partly because ticks are likely to be commoner in rural areas, where a variety of tick hosts, such as foxes, deer and boar, are more numerous.&lt;ref name= Gregoire/&gt; Although ixodid ticks can transmit [[pathogen]]ic viruses and bacteria, and are known to transmit ''[[Borrelia]]'' bacteria to birds,&lt;ref name= Kipp&gt;{{cite journal|last= Kipp|first= Susanne |author2=Goedecke, Andreas|author3=Dorn, Wolfram|author4=Wilske, Bettina|author5=Fingerle, Volke |date=May 2006|title=Role of birds in Thuringia, Germany, in the natural cycle of ''Borrelia burgdorferi'' sensu lato, the Lyme disease spirochaete |journal= [[International Journal of Medical Microbiology]]|pmid= 16530003|volume= 296|pages= 125–128 |doi=10.1016/j.ijmm.2006.01.001 }}&lt;/ref&gt; there is no evidence that this affects the fitness of blackbirds except when they are exhausted and run down after migration.&lt;ref name= Gregoire&gt;{{cite journal|last= Gregoire|first= Arnaud |author2=Faivre, Bruno|author3=Heeb, Philipp|author4=Cezilly, Frank |year=2002 |title= A comparison of infestation patterns by ''Ixodes ''ticks in urban and rural populations of the Common Blackbird ''Turdus merula''|url=http://www.cefe.cnrs.fr/esp/publis/AG/AGGregoire%20et%20al%202002%20Ibis.pdf |journal= Ibis |volume=144 |issue= 4|pages=640–645 |doi= 10.1046/j.1474-919X.2002.00102.x }}&lt;/ref&gt;
+
+The common blackbird is one of a number of species which has [[unihemispheric slow-wave sleep]]. One hemisphere of the brain is effectively asleep, while a low-voltage [[Electroencephalography|EEG]], characteristic of wakefulness, is present in the other. The benefit of this is that the bird can rest in areas of high predation or during long migratory flights, but still retain a degree of alertness.&lt;ref name=&quot;Perspectives&quot;&gt;{{cite journal |last1=Rattenbourg |first1=Neils C. |last2=Amlaner |first2=C. J. |last3=Lima |first3=S.L. |title=Behavioral, neurophysiological and evolutionary perspectives on unihemispheric sleep |journal=Neuroscience and Biobehavioral Reviews |volume=24 |pages=817–842 |year=2000 |pmid=11118608 |doi=10.1016/S0149-7634(00)00039-7 |issue=8}}&lt;/ref&gt;
+
+[[Image:Nederlandsche vogelen (KB) - Turdus merula (016f).jpg|thumb|left|180px|Historic image of blackbird&lt;br /&gt;in ''[[Nederlandsche Vogelen]]''&lt;br /&gt;(1770)]]
+
+==Status and conservation==
+The common blackbird has an extensive range, estimated at 10&amp;nbsp;million&amp;nbsp;square kilometres (3.8&amp;nbsp;million square miles), and a large population, including an estimated 79 to 160 million individuals in Europe alone. The species is not believed to approach the thresholds for the population decline criterion of the IUCN Red List (i.e., declining more than 30% in ten years or three generations), and is therefore evaluated as [[Least Concern]].&lt;ref name=IUCN/&gt; In the western [[Palaearctic]], populations are generally stable or increasing,&lt;ref name=BWP&gt;{{cite book | editor1-last = Snow | editor1-first = David |editor2-last= Perrins|editor2-first=Christopher M.| title = The Birds of the Western Palearctic concise edition (2 volumes) | publisher = Oxford University Press |year = 1998| location =Oxford | isbn = 0-19-854099-X }} p1215–1218&lt;/ref&gt; but there have been local declines, especially on farmland, which may be due to agricultural policies that encouraged farmers to remove hedgerows (which provide nesting places), and to drain damp grassland and increase the use of [[pesticide]]s, both of which could have reduced the availability of invertebrate food.&lt;ref name = RSPB&gt;{{cite web|title= Threats|work=Blackbird |url= http://www.rspb.org.uk/wildlife/birdguide/name/b/blackbird/threats_dangers_and_survival.asp |publisher=Royal Society for the Protection of Birds |accessdate=19 December 2007}}&lt;/ref&gt;
+
+The common blackbird was introduced to Australia by a bird dealer visiting [[Melbourne]] in early 1857,&lt;ref name=OzPests/&gt; and its range has expanded from its initial foothold in Melbourne and [[Adelaide]] to include all of south-eastern Australia, including [[Tasmania]] and the [[Bass Strait]] islands.&lt;ref name =backyard&gt;{{cite web|title= Common Blackbird |work= Birds in Backyards |url= http://www.birdsinbackyards.net/finder/display.cfm?id=123|publisher= Australian Museum |accessdate=30 December 2007}}&lt;/ref&gt; The introduced population in Australia is considered a pest because it damages a variety of soft fruits in orchards, parks and gardens including berries, cherries, stone fruit and grapes.&lt;ref name=&quot;OzPests&quot;&gt;Clarke, G. M.; Gross, S., Matthews, M.; Catling, P. C.; Baker, B.; Hewitt, C. L.; Crowther, D.; Saddler, S. R. (2000), ''Environmental Pest Species in Australia'', Australia: State of the Environment, Second Technical Paper Series (Biodiversity), Department of the Environment and Heritage, Canberra.&lt;/ref&gt; It is thought to spread weeds, such as [[blackberry]], and may compete with native birds for food and nesting sites.&lt;ref name=OzPests/&gt;&lt;ref name = Oz&gt;{{cite web|title= Blackbird |work= Farmnote 60/2001, reviewed 2005 |url= http://www.agric.wa.gov.au/content/pw/vp/bird/f06001.pdf |publisher= Department of Agriculture, Western Australia |accessdate=11 December 2007|format=PDF}}&lt;/ref&gt;
+
+The introduced common blackbird is, together with the native [[silvereye]] (''Zosterops lateralis''), the most widely distributed avian seed disperser in New Zealand. Introduced there along with the [[song thrush]] (''Turdus philomelos'') in 1862, it has spread throughout the country up to an elevation of {{convert|1500|m|ft|0}}, as well as outlying islands such as the [[Campbell Island group|Campbell]] and [[Kermadec Islands|Kermadecs]].&lt;ref name = &quot;Fallaetal79&quot;&gt;Falla, R. A., R. B. Sibson, and E. G. Turbott (1979). ''The new guide to the birds of New Zealand and outlying islands''. Collins, Auckland. ISBN 0-00-216928-2&lt;/ref&gt; It eats a wide range of native and exotic fruit, and makes a major contribution to the development of communities of naturalised woody weeds. These communities provide fruit more suited to non-endemic native birds and naturalised birds, than to [[Endemism|endemic]] birds.&lt;ref name= NZ&gt;{{cite journal|last= Williams |first= Peter A |year= 2006|title= The role of blackbirds (''Turdus merula'') in weed invasion in New Zealand|journal= New Zealand Journal of Ecology |volume=30 |issue= 2|pages=285–291 |url=http://www.nzes.org.nz/nzje/free_issues/NZJEcol30_2_285.pdf}}&lt;/ref&gt;
+
+==In culture==
+[[File:SingSong6dcaldecott.jpg|thumb|''[[Sing a Song of Sixpence|Sing a Song for Sixpence]]'' cover illustration]]
+The common blackbird was seen as a sacred though destructive bird in Classical Greek folklore, and was said to die if it consumed [[pomegranate]].&lt;ref name = &quot;Cooper92&quot;&gt;{{cite book |last=Cooper |first=J.C. |title=Symbolic and Mythological Animals |page=38 |year=1992 |publisher= Aquarian Press |location=London |isbn=1-85538-118-4}}&lt;/ref&gt; Like many other small birds, it has in the past been trapped in rural areas at its night roosts as an easily available addition to the diet,&lt;ref name=Cocker/&gt; and in medieval times the conceit of placing live birds under a pie crust just before serving may have been the origin of the familiar [[nursery rhyme]]:&lt;ref name= Cocker &gt;{{cite book | last = Cocker | first = Mark |author2=Mabey, Richard |title = Birds Britannica | year = 2005 |location=London | publisher = Chatto &amp; Windus | isbn = 0-7011-6907-9|pages=349–353}}&lt;/ref&gt;
+&lt;blockquote&gt;
+[[Sing a song of sixpence]],&lt;br /&gt;
+A pocket full of rye;&lt;br /&gt;
+Four and twenty blackbirds baked in a pie!&lt;br /&gt;
+When the pie was opened the birds began to sing,&lt;br /&gt;
+Oh wasn't that a dainty dish to set before the king?&lt;ref name = pie&gt;{{cite book |last=Opie |first=I. and P.|title=The Oxford Dictionary of Nursery Rhymes |year=1997 |edition=2 |pages=394–5 |publisher=Oxford University Press|location=Oxford |isbn=0-19-869111-4}}&lt;/ref&gt;&lt;/blockquote&gt;
+
+The common blackbird's melodious, distinctive song is mentioned in the poem ''Adlestrop'' by [[Edward Thomas (poet)|Edward Thomas]];
+&lt;blockquote&gt;And for that minute a blackbird sang&lt;br /&gt;
+Close by, and round him, mistier, &lt;br /&gt;
+Farther and farther, all the birds &lt;br /&gt;
+Of Oxfordshire and Gloucestershire.&lt;ref name = adelstrop&gt;{{cite web|title= ''Adlestrop'' |url= http://www.poetsgraves.co.uk/Classic%20Poems/Thomas%20E/adlestrop.htm
+|publisher= Poets' Graves |accessdate=7 December 2007}}&lt;/ref&gt;&lt;/blockquote&gt;
+
+In the English [[Christmas carol]] [[The Twelve Days of Christmas (song)|The Twelve Days of Christmas]], the line commonly sung today as &quot;four calling birds&quot; is believed to have originally been written in the 18th century as &quot;four colly birds&quot;, an [[archaism]] meaning &quot;black as coal&quot; that was a popular English nickname for the common blackbird.&lt;ref&gt;{{cite web|title= Birds of the Twelve Days of Christmas |work= |url= http://10000birds.com/birds-of-the-twelve-days-of-christmas.htm |publisher= 10,000 Birds|accessdate=19 December 2013}}&lt;/ref&gt;
+
+A recording of a male blackbird is heard singing on '[[Blackbird (Beatles song)|Blackbird]]' by the Beatles,{{sfn|Lewisohn|1988|p=137}}&lt;ref&gt;{{cite web|url=http://www.rollingstone.com/music/lists/100-greatest-beatles-songs-20110919/blackbird-19691231|title='Blackbird'|work=Rolling Stone}}&lt;/ref&gt; although it is not clear whether the song was about an actual blackbird or was an allegory for the civil rights struggle in America.
+
+The common blackbird, unlike many black creatures, is not normally seen as a symbol of bad luck,&lt;ref name=Cocker/&gt; but [[R. S. Thomas]] wrote that there is &quot;a suggestion of dark Places about it&quot;,&lt;ref name = rst&gt;{{cite web|title= ''A Blackbird Singing'' |url= http://www.poemhunter.com/poem/a-blackbird-singing/ |publisher= Poemhunter |accessdate=7 December 2007}}&lt;/ref&gt; and it symbolised resignation in the 17th century [[tragedy|tragic]] play ''[[The Duchess of Malfi]]'';&lt;ref name=&quot;deVries76&quot;&gt;{{cite book |last=de Vries |first=Ad |title=Dictionary of Symbols and Imagery |year=1976 |page=51 |publisher=North-Holland Publishing Company |location=Amsterdam |isbn=0-7204-8021-3}}&lt;/ref&gt; an alternate connotation is vigilance, the bird's clear cry warning of danger.&lt;ref name=&quot;deVries76&quot;/&gt;
+
+The common blackbird is the [[List of national birds|national bird]] of Sweden,&lt;ref name = sweden&gt;{{cite web|title= Background – Sweden |work= |url= http://www.nationmaster.com/country/sw-sweden/bac-background |publisher= Nationmaster |accessdate=12 December 2007}}&lt;/ref&gt; which has a breeding population of 1–2 million pairs,&lt;ref name=BWP/&gt; and was featured on a 30&amp;nbsp;[[öre]] [[Christmas]] [[postage stamp]] in 1970;&lt;ref name = stamp&gt;{{cite web|title= Bird stamps from Sweden |work= Theme Birds on Stamps |url= http://www.birdtheme.org/country/sweden.html |publisher= Kjell Scharning |accessdate=13 December 2007}}&lt;/ref&gt; it has also featured on a number of other stamps issued by European and Asian countries, including a 1966 4d British stamp and an 1998 Irish 30p stamp.&lt;ref&gt;{{cite web|title= 218 Thrushes Turdidae |work= Theme Birds on Stamps |url= http://www.birdtheme.org/scripts/family.php?famnum=218 |publisher= Kjell Scharning |accessdate=8 June 2015}}&lt;/ref&gt; This bird—arguably—also gives rise to the Serbian name for Kosovo, which is the possessive adjectival form of Serbian ''kos'' (&quot;blackbird&quot;) as in [[Kosovo Polje]] (&quot;Blackbird Field&quot;).&lt;ref name= kosovo&gt;{{cite book | last = Trbovich | first = Ana S.| title = A Legal Geography of Yugoslavia's Disintegration | year = 2008| location = Oxford | publisher =Oxford University Press | isbn =0-19-533343-8 |page = 76 }}&lt;/ref&gt;
+
+==References==
+{{reflist|35em}}
+
+==Further reading==
+* [[David Snow|Snow, David W.]] (1987). ''The Blackbird''. Shire Natural History ISBN 0-85263-854-X
+* {{cite journal | last1 = Snow | first1 = David W. | year = 1958 | title = The breeding of the Blackbird ''Turdus merula'' at Oxford | journal = Ibis | volume = 100 | issue = 1| pages = 1–30 | doi = 10.1111/j.1474-919X.1958.tb00362.x }}
+
+==External links==
+{{Commons|Turdus merula}}
+{{Wikiquote|Blackbirds}}
+{{Wikispecies|Turdus merula}}
+{{Inline audio}}
+
+===Species information===
+* {{cite web | url = http://www.bbc.co.uk/nature/species/Common_Blackbird | title = BBC Science &amp; Nature – Blackbird, with song clip | accessdate = 26 December 2007}}
+* {{cite web | url = http://www.birdsofbritain.co.uk/bird-guide/blackbird.asp | title = Birds of Britain – Blackbird | accessdate = 27 December 2007}}
+* {{cite web | url = http://www.madeirabirds.com/blackbird_page | title = Madeira Birds – Information on subspecies ''cabrerae''| accessdate = 27 December 2007}}
+* {{cite web | url = http://www.rspb.org.uk/wildlife/birdguide/name/b/blackbird | title = RSPB – Blackbird, including video and sound clips | accessdate = 27 December 2007}}
+* [http://aulaenred.ibercaja.es/wp-content/uploads/344_BlackbirdTmerula.pdf Ageing and sexing (PDF; 5.3 MB) by Javier Blasco-Zumeta &amp; Gerd-Michael Heinze]
+* [http://www.ornithos.de/Ornithos/Feather_Collection/Turdus_merula/Turdus_merula.htm Feathers of Common Blackbird (Turdus merula)]
+
+===Sounds and videos===
+* {{Xeno-canto species|Turdus|merula|Blackbird}}
+* [http://ibc.lynxeds.com/species/common-blackbird-turdus-merula Blackbird videos, photos &amp; sounds] on the Internet Bird Collection. Retrieved on 2007-12-27
+* [http://association.sonatura.com/index.php?option=com_content&amp;task=view&amp;id=213&amp;Itemid=38 Other Blackbird songs on ''Sonatura'']
+* [http://www.youtube.com/watch?v=P8NVV9pfpho Video of bird eating mealworms]
+
+===Images===
+* {{cite web | url = http://www.arkive.org/species/ARK/birds/Turdus_merula/ | title = ARKive – Blackbird still images| accessdate = 27 December 2007}}
+
+{{Featured article}}
+{{taxonbar}}
+{{Authority control}}
+
+[[Category:Animals described in 1758]]
+[[Category:Birds of Asia]]
+[[Category:Birds of Australia]]
+[[Category:Birds of Europe]]
+[[Category:Birds of New Zealand]]
+[[Category:Birds of North Africa]]
+[[Category:Turdus]]</text>
+      <sha1>i3jka6fymxg0wc0osa27xldkjrkcnmg</sha1>
+    </revision>
+  </page>
+</mediawiki>

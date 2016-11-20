@@ -1,0 +1,219 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Antioch Township, White County, Arkansas</title>
+    <ns>0</ns>
+    <id>42925401</id>
+    <revision>
+      <id>712683285</id>
+      <parentid>693030324</parentid>
+      <timestamp>2016-03-30T14:48:33Z</timestamp>
+      <contributor>
+        <username>Cyberbot II</username>
+        <id>16283967</id>
+      </contributor>
+      <comment>Rescuing 1 sources. #IABot</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6601">{{Infobox settlement
+| name                     = Antioch Township
+| settlement_type          = [[Civil township|Township]]
+| image_skyline            = 
+| image_caption            = 
+| image_map                = 
+| map_caption              = 
+| pushpin_map              = Arkansas
+| pushpin_map_caption      = Location in Arkansas
+| pushpin_label_position   = 
+| latd                     = 35.141235
+| longd                    = -91.940339
+| coordinates_type         = &lt;!--auto--&gt;
+| coordinates_format       = dms
+| coordinates_display      = yes &lt;!--inline,title--&gt;
+| coordinates_footnotes    = &lt;ref name=2010-Census-Gazetteer /&gt;
+| subdivision_type         = [[List of countries|Country]]
+| subdivision_name         = [[United States]]
+| subdivision_type1        = [[Political divisions of the United States|State]]
+| subdivision_name1        = [[Arkansas]]
+| subdivision_type2        = [[List of counties in Arkansas|County]]
+| subdivision_name2        = [[White County, Arkansas|White]]
+| area_footnotes           = &lt;ref name=2010-Census-Gazetteer /&gt;
+| unit_pref                = Imperial
+| area_total_sq_mi         = 14.880
+| area_land_sq_mi          = 14.880
+| area_water_sq_mi         = 0.000
+| elevation_footnotes      = &lt;ref name=GNIS /&gt;
+| elevation_ft             = 400
+| population_as_of         = [[2010 United States Census|2010]]
+| population_footnotes     = &lt;ref name=2010-Census-Gazetteer /&gt;
+| population_total         = 562
+| population_density_sq_mi = auto
+| timezone                 = [[Central Standard Time|CST]]
+| utc_offset               = -6
+| timezone_DST             = [[Central Daylight Time|CDT]]
+| utc_offset_DST           = -5
+| postal_code_type         = [[ZIP code]]
+| postal_code              = 
+| area_code_type           = [[North American Numbering Plan|Area code]]
+| area_code                = 
+| blank_name               = [[Federal Information Processing Standard|FIPS]] code&lt;ref name=GNIS /&gt;&lt;ref name=FIPS55 /&gt;
+| blank_info               = {{FIPS|05|90042|145}}
+| blank1_name              = [[Geographic Names Information System|GNIS]] ID&lt;ref name=GNIS /&gt;&lt;ref name=FIPS55 /&gt;
+| blank1_info              = {{GNIS4|69814}}
+| website                  = 
+| footnotes                = 
+}}
+
+'''Antioch Township''' is a [[Civil township|township]] in [[White County, Arkansas]], United States.&lt;ref name=2010-Census-PDF1 /&gt; Its total population was 562 as of the [[2010 United States Census]],&lt;ref name=2010-Census-Gazetteer /&gt;&lt;ref name=2010-Census-AFF /&gt; an increase of 15.4 percent from 487 at the [[2000 United States Census|2000 census]].&lt;ref name=2000-Census-AFF /&gt;&lt;ref name=2000-Census-Gazetteer /&gt;
+
+According to the 2010 Census, Antioch Township is located at {{coord|35.141235|-91.940339|region:US-AR|format=dms|display=inline}} (35.141235, -91.940339).&lt;ref name=2010-Census-Gazetteer /&gt; It has a total area of {{convert|14.880|sqmi|sqkm|abbr=off|sp=us}}, all of which is land.&lt;ref name=2010-Census-Gazetteer /&gt; As per the [[United States Geological Survey|USGS]] [[National Elevation Dataset]], the elevation is {{convert|400|ft|m|0}}.&lt;ref name=GNIS /&gt;
+
+== References ==
+{{reflist | refs =
+
+&lt;ref name=2010-Census-Gazetteer&gt;
+ {{cite web
+ | url = http://www.census.gov/geo/maps-data/data/docs/gazetteer/county_sub_list_05.txt
+ | title = County Subdivisions (2010): Arkansas
+ | format = [[Text file|TXT]]
+ | work = [http://www.census.gov/geo/maps-data/data/gazetteer2010.html 2010 Census Gazetteer Files]
+ | publisher = [[United States Census Bureau]]
+ | accessdate = May 31, 2014
+ }}
+&lt;/ref&gt;
+
+&lt;ref name=2010-Census-PDF1&gt;
+ {{cite web
+ | url = http://www.census.gov/prod/cen2010/cph-1-5.pdf
+ | title = Summary Population and Housing Characteristics, CPH-1-5, Arkansas
+ | format = [[Portable Document Format|PDF]]
+ | work = 2010 Census of Population and Housing
+ | publisher = United States Census Bureau
+ | date = September 2012
+ | accessdate = May 31, 2014
+ }}
+&lt;/ref&gt;
+
+&lt;ref name=2010-Census-AFF&gt;
+ {{cite web
+ | url = http://factfinder2.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/0600000US0514590042
+ | title = 2010 Demographic Profile (DP-1): Antioch township, White County, Arkansas
+ | work = American FactFinder
+ | publisher = United States Census Bureau
+ | accessdate = May 31, 2014
+ }}
+&lt;/ref&gt;
+
+&lt;ref name=2000-Census-Gazetteer&gt;
+ {{cite web
+ | url = http://www.census.gov/geo/maps-data/data/docs/gazetteer/county_sub_list_05.txt
+ | title = County Subdivisions (2000)
+ | format = [[Zipped]] [[Text file|TXT]]
+ | work = 2000 Census Gazetteer Files
+ | publisher = United States Census Bureau
+ | accessdate = May 31, 2014
+ }}
+&lt;/ref&gt;
+
+&lt;ref name=2000-Census-AFF&gt;
+ {{cite web
+ | url = http://factfinder2.census.gov/bkmk/table/1.0/en/DEC/00_SF1/DP1/0600000US0514590042
+ | title = 2000 Demographic Profile (DP-1): Antioch township, White County, Arkansas
+ | work = American FactFinder
+ | publisher = United States Census Bureau
+ | accessdate = May 31, 2014
+ }}
+&lt;/ref&gt;
+
+&lt;ref name=GNIS&gt;
+ {{cite web
+ | url = {{GNIS3|69814}}
+ | title = Feature ID 69814: Township of Antioch (White County, Arkansas)
+ | work = [[Geographic Names Information System]]
+ | publisher = [[United States Geological Survey]]
+ | accessdate = May 31, 2014
+ }}
+&lt;/ref&gt;
+
+&lt;ref name=FIPS55&gt;
+ {{cite web|url=http://geonames.usgs.gov/fips55/ARfips55_delim.txt |title=FIPS55 Data: Arkansas |format=[[Text file|TXT]] |work=FIPS55 Data |publisher=United States Geological Survey |date=February 23, 2006 |accessdate=May 31, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20060618155523/http://geonames.usgs.gov/fips55/ARfips55_delim.txt |archivedate=June 18, 2006 }}
+&lt;/ref&gt;
+
+}}
+
+== External links ==
+*{{cite web
+ | url = http://www2.census.gov/geo/maps/dc10map/GUBlock/st05_ar/cousub/cs0514590042_antioch/DC10BLK_CS0514590042_001.pdf
+ | title = 2010 Census Block Map: Antioch Township, Arkansas
+ | format = PDF
+ | work = Arkansas 2010 Census Block Maps - County Subdivisions
+ | publisher = U.S. Census Bureau
+ }}
+*{{cite web
+ | url = http://www2.census.gov/geo/pvs/bas/bas13/st05_ar/cou/c05145_white/BAS13C20514500000_000.pdf
+ | title = 2013 Boundary and Annexation Survey (BAS) Map: White County, Arkansas
+ | format = PDF
+ | work = Boundary and Annexation Survey (BAS) Shapefiles and Maps
+ | publisher = U.S. Census Bureau
+ }}
+*{{cite web
+ | url = http://www2.census.gov/geo/maps/general_ref/cousub_outline/GARM2010/GARM2010_AR.pdf
+ | title = 2010 Census County Subdivision Maps: Arkansas
+ | format = PDF
+ | work = County Subdivision Maps
+ | publisher = U.S. Census Bureau
+ }}
+
+{{White County, Arkansas}}
+
+[[Category:Townships in Arkansas]]
+[[Category:White County, Arkansas]]
+
+{{Arkansas-geo-stub}}</text>
+      <sha1>78jepk1ku72j1pfeebe3mydjah41l6k</sha1>
+    </revision>
+  </page>
+</mediawiki>

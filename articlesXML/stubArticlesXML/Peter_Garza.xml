@@ -1,0 +1,87 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Peter Garza</title>
+    <ns>0</ns>
+    <id>5840334</id>
+    <revision>
+      <id>732646376</id>
+      <parentid>718838032</parentid>
+      <timestamp>2016-08-02T09:16:04Z</timestamp>
+      <contributor>
+        <username>Niceguyedc</username>
+        <id>5288432</id>
+      </contributor>
+      <minor/>
+      <comment>v1.39 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Informit]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2955">{{like resume|date=February 2013}}
+'''Peter Garza''' (born August 6, 1960) is a United States [[computer forensics]] expert and [[cybercrime]] investigator.
+
+As a Special Agent with the [[Naval Criminal Investigative Service]], Peter Garza conducted the first court-ordered Internet [[Telephone tapping|wiretap]] in the United States while investigating the Julio Cesar Ardita (&quot;El Griton&quot;) [[Hacker (computer security)|hacking]] case.  Ardita was charged by the U.S. Justice Department with using compromised user accounts at [[Harvard University]] to hack into government and university computer systems in the U.S. and abroad.  Ardita pleaded guilty on May 19, 1998 in the United States District Court of Massachusetts to unlawfully intercepting electronic communications and damaging files on military computer systems.
+
+Garza founded EvidentData, Inc., a private sector consulting firm specializing in computer forensics, [[electronic discovery]], and expert consulting, in 1999.  EvidentData was acquired by First Advantage which he left in 2009 to form [http://www.dataforte.com Data Forté].  Garza continues to be involved in many high-profile [[Civil law (common law)|civil]] cases. He gave expert testimony regarding altered electronic documents in a case (Beckman Coulter Inc. v. Dovatron International Inc.) which resulted in a $934 million jury award and testified regarding critical deleted but recoverable data in a case (Steinberg, Moorad &amp; Dunn, Inc. v. Dunn) brought by sports agent [[Leigh Steinberg]] against former partner David Dunn which resulted in a $45 million jury award.
+
+Peter Garza earned a Master of Science in Information Systems from [[Claremont Graduate University]] in 2001.  He also developed and taught a graduate course in Computer Forensics at [[California State Polytechnic University, Pomona]].
+
+== External links ==
+*[http://www.rgj.com/article/20090821/NEWS/90821052/0/NEWS12/Roethlisberger-lawyers-say-accuser-s-words-prove-her-claims-were-lies Article regarding Ben Roethlisberger case]
+*[http://money.cnn.com/2006/03/09/magazines/fsb/8370334/ Fortune Small Business article discussing Peter Garza's work]
+*[http://www.informit.com/articles/article.aspx?p=19603&amp;seqNum=3 Article regarding the Julio Cesar Ardita hacking case] from [[Informit (Australia)|Informit]]
+*[http://www.usdoj.gov/opa/pr/1996/March96/146.txt Department of Justice press release regarding first Internet wiretap]
+*[http://www.fas.org/irp/news/1998/05/arditasnt.htm Department of Justice press release regarding Julio Cesar Ardita guilty plea]
+*[http://www.devicelink.com/mx/archive/03/11/news3.html Article regarding Beckman Coulter Inc. v. Dovatron International Inc.]
+*[http://www.findarticles.com/p/articles/mi_qa3898/is_200306/ai_n9248549 Article regarding Steinberg, Moorad &amp; Dunn, Inc. v. Dunn]
+
+{{DEFAULTSORT:Garza, Peter}}
+[[Category:People associated with computer security]]
+[[Category:Living people]]
+[[Category:1960 births]]</text>
+      <sha1>h22te7aja5dm31eqtfvrx8p3zdmvcyr</sha1>
+    </revision>
+  </page>
+</mediawiki>

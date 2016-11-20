@@ -1,0 +1,144 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Pill Hill (play)</title>
+    <ns>0</ns>
+    <id>27310984</id>
+    <revision>
+      <id>743332408</id>
+      <parentid>739183136</parentid>
+      <timestamp>2016-10-09T04:29:09Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Chicago, Illinois in fiction to [[:Category:Chicago in fiction]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2016 September 6]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9201">{{Use mdy dates|date=August 2016}}
+{{Infobox play
+| name       = Pill Hill
+| image      =
+| image_size =
+| caption    =
+| writer     = Sam Kelley
+| characters = Charlie, Joe, Al, Tony, Ed, and Scott
+| genre      =
+| setting    = [[Pill Hill, Chicago]] 1973&amp;ndash;1983
+| subject    =
+| premiere   = 1990
+|| place     = [[Yale Repertory Theatre]]
+| orig_lang  = English
+}}
+'''''Pill Hill''''' is a three-act play by American dramatist [[Sam Kelley]].  Set in a neighborhood on the [[South Side of Chicago]] known informally as [[Pill Hill, Chicago|Pill Hill]], the play examines the failures, successes, and relationships of six African American [[steel mill]] workers as they transition from [[blue-collar]] jobs to [[white-collar worker|white-collar]] professions between 1973 and 1983.  The play is regarded as an allegory of economic progress related to the [[American Dream]].
+
+''Pill Hill'' debuted at the 1990 [[Yale Repertory Theatre]] Winterfest series of plays in progress, and was subsequently performed in several venues across the United States.&lt;ref name=TLiOCN&gt;{{cite web|url=http://www.nytimes.com/1992/11/22/nyregion/theater-life-in-one-chicago-neighborhood.html|title=Theater; Life in One Chicago Neighborhood|accessdate=May 10, 2010|date=November 22, 1992|work=[[The New York Times]]|author=Klein, Alvin}}&lt;/ref&gt;&lt;ref name=TRPH&gt;{{cite web|url=http://chicago.timeout.com/articles/theater/76010/pill-hill-at-eta-creative-arts-foundation-theater-review |title=Theater review: Pill Hill |accessdate=May 10, 2010 |publisher=[[Time Out (company)|Time Out]] Chicago |date=July 2–8, 2009 |author=Beer, John |deadurl=yes |archiveurl=https://web.archive.org/web/20090721202934/http://chicago.timeout.com/articles/theater/76010/pill-hill-at-eta-creative-arts-foundation-theater-review |archivedate=July 21, 2009 }}&lt;/ref&gt;&lt;ref name=SR&gt;{{cite web|url=http://www.post-gazette.com/pg/07145/788832-325.stm|title=Stage Review: 'Pill Hill' has highs but lacks bonding|accessdate=May 10, 2010|date=May 25, 2007|work=[[Pittsburgh Post-Gazette]]|author=Rawson, Christopher}}&lt;/ref&gt; The play was published by Dramatic Publishing Company in 1995.&lt;ref name=PHAdC/&gt;
+
+== Characters ==
+* Charlie, a 20-year steel mill veteran who seeks a promotion to machine operator, maintains a perfect attendance record and eventually lives on his steel mill pension.
+* Eddie, a full-time student who has surrendered his job at the mill and becomes a lawyer
+* Al, a night school student working at the mill to provide for his family who becomes a [[real estate agent]]
+* Tony, an encyclopedias salesman who is exploited by his company but becomes engaged to a professor and attempts to buy a house in Pill Hill.
+* Scott, a worker at the mill who was dismissed from college who becomes a [[Chicago Transit Authority]] employee before pursuing other career opportunities.
+* Joe, a steel mill worker who plans to leave the mill when his car note is paid, but ends up out of work, homeless and penniless.&lt;ref name=PHDM/&gt;
+
+== Plot ==
+{{multiple image
+| align     = right
+| direction = vertical
+| header    = 
+| header_align = center
+| header_background = 
+| footer    = .
+| footer_align = &lt;!-- left/right/center --&gt;
+| footer_background = 
+| width     = 
+| background color = 
+| image1    = Calumet Heights with Pill Hill.png
+| width1    = 225
+| alt1      = 
+| caption1  = Pill Hill (red) within the [[Calumet Heights, Chicago|Calumet Heights]] [[Community areas of Chicago|community area]]
+| image2    =
+| width2    = 225
+| alt2      = 
+| caption2  = Calumet Heights within the City of Chicago and Chicago within the state of Illinois
+}}
+The Pill Hill neighborhood was a popular residence for successful white [[physician]]s (resulting in the nickname for the neighborhood).  In the 1960s and 1970s, it was a symbol of affluence that represented the American Dream.  For young blacks, this symbol was especially poignant, which provides for a subtext in this play.&lt;ref name=PHDM&gt;{{cite web|url=http://www.chicagoreader.com/chicago/pill-hill-dark-matter/Content?oid=884784|title=Pill Hill; Dark Matter|accessdate=July 21, 2010|date=June 16, 1994|work=[[Chicago Reader]]|author=Barnidge, Mary Shen}}&lt;/ref&gt;
+
+The three-act play examines the failures, successes, and relationships of six black steel mill workers in Chicago as they transition from blue-collar jobs to the white-collar professions. The time is 1973, 1978, and 1983, and the scene is a Chicago basement apartment where the characters meet to socialize over cards and drinks. Racial themes relating to the disparity of life at the steel mill are presented, and dreams about possibilities represented by the upscale Pill Hill neighborhood in Chicago are examined.  The conflicts are painful as the characters deal with leaving the comfortable life of the mill to embark on a road of uncertainty while pursuing professional aspirations.&lt;ref name=TLiOCN/&gt;&lt;ref name=TRPH/&gt;&lt;ref name=SR/&gt;&lt;ref name=PHDP&gt;{{cite web|url=http://www.dramaticpublishing.com/p1172/Pill-Hill/product_info.html|title=Pill Hill|accessdate=July 20, 2010|publisher=Dramatic Publishing}}&lt;/ref&gt;
+
+== Performance and publication history ==
+The play debuted in the 1990 [[Yale Repertory Theatre]] Winterfest series of plays in progress. It was mounted as a full production in another Connecticut theater, before travelling as productions of the [[Philadelphia Theatre Company]] and the [[Penumbra Theatre Company]] in [[St. Paul, Minnesota]].  The play had a late-1992 production by the [[Hartford Stage Company]],&lt;ref name=TLiOCN/&gt; and a 2010 production at [[Coppin State University]].&lt;ref&gt;{{cite web|url=http://www.coppin.edu/our/News.aspx?author=shwilliams&amp;story=20100406164756|title=Pill Hill to Culminate Coppin's Theatre Season|accessdate=July 21, 2010|date=April 1, 2010|publisher=[[Coppin State University]]|author=Williams, Shernay}}&lt;/ref&gt; Dramatic Publishing Company published the play on February 23, 1995.&lt;ref name=PHAdC&gt;{{cite web|url=http://www.amazon.com/dp/0871294923|title=Pill Hill|accessdate=July 20, 2010|publisher=[[Amazon.com]]}}&lt;/ref&gt; The publisher lists it as a full-length drama intended for both high school and college/adult audiences.&lt;ref name=&quot;PHDP&quot;/&gt;
+
+== Critical reception ==
+John Beer of ''Time Out Chicago'' attended a performance in 2009 and wrote, &quot;At its best, ''Pill Hill'' draws a corrosive picture of individual lives caught within merciless social systems. Racism haunts the men's periodic get-togethers, most pointedly in a monologue about a Southern excursion gone terribly wrong. [...] [W]riting at the height of the Reagan-Bush years, Kelley saw clearly the impact of right-wing policies on the urban working class.&quot; He thought the individuality of the characters was undeveloped, but the play was &quot;neatly structured to a fault&quot;. He criticized what he perceived as a &quot;heavy authorial hand&quot; in the repetition of a conversation about one character's self-doubts throughout the play.&lt;ref name=TRPH/&gt;
+
+== Analysis ==
+''Pill Hill'' is an allegory of economic progress told as tales of various pursuits of the American Dream. Kelley uses a spectrum of sociological types that he develops into complex, recognizable personalities in order to deliver his message in natural [[idiom]]s.&lt;ref name=PHDM/&gt;    When the play was performed in 2005 at [[North Carolina Agricultural and Technical State University]], the website description noted that a good life in Pill Hill was a common goal that was difficult to reach and when achieved, it was at a cost that could be one's soul.&lt;ref name=PHNCAT&gt;{{cite web|url=http://www.ncattheatre.org/shows.htm|title=Pill Hill by Sam Kelley|accessdate=July 21, 2010|publisher=ncattheatre.org}}&lt;/ref&gt;
+
+The conflicts range from economic difficulties to the proverbial [[glass ceiling]] common to blacks climbing the ladder of success.&lt;ref name=PHDP/&gt; The changing professional situations coincide with relationship transitions that occurred in America as the [[hippie]] generation transformed into the [[yuppie]] generation.&lt;ref name=PHDP/&gt; Four of the six characters become successful by 1983: Al is a real estate dealer, Tony is [[Mercedes Benz]] salesman, Ed is a groundbreaking black lawyer and Scott has achieved financial success in a suspicious and mysterious way.  The other characters are less successful with Charlie, who is the oldest of the characters, having stayed in the mill without progressing up the ranks, but earning a secure life through hard and dangerous work. Joe's troubles at the mill lead to unemployment and a destiny with the [[homeless shelter]].&lt;ref name=SR/&gt;  A 1994 Chicago performance elicited the following character descriptions from the ''[[Chicago Reader]]'': 
+Joe is boisterous; Charlie is fatherly; Al is the eternal runner-up; Tony is ingenuously amoral; Scott is innocent and Eddie is the play's &quot;spokesman.&quot;&lt;ref name=PHDM/&gt;
+
+==Notes==
+{{Reflist|33em}}
+
+==External links==
+*[http://www.dramaticpublishing.com/p1172/Pill-Hill/product_info.html Publisher website]
+
+{{good article}}
+
+[[Category:1990 plays]]
+[[Category:American plays]]
+[[Category:Chicago in fiction]]
+[[Category:Postmodern plays]]
+[[Category:Plays about race and ethnicity]]
+[[Category:Plays set in Illinois]]
+[[Category:1970s in fiction]]</text>
+      <sha1>4xz1xh4n6mwg5n2dnbvjikfh2ima8jv</sha1>
+    </revision>
+  </page>
+</mediawiki>

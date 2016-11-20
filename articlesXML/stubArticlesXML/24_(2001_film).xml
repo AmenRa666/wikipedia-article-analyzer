@@ -1,0 +1,98 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>24 (2001 film)</title>
+    <ns>0</ns>
+    <id>44953566</id>
+    <revision>
+      <id>641143758</id>
+      <timestamp>2015-01-05T21:39:21Z</timestamp>
+      <contributor>
+        <username>Smetanahue</username>
+        <id>6685603</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Created page with '{{Infobox film | title          = 24 | image          =  | caption        =  | director       = [[David Beránek]] | producer       = Jana Bartoňová&lt;br /&gt;Ado...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1306">{{Infobox film
+| title          = 24
+| image          = 
+| caption        = 
+| director       = [[David Beránek]]
+| producer       = Jana Bartoňová&lt;br /&gt;[[Adolf Zika]]
+| writer         = Jana Doležalová
+| starring       = 
+| music          = David Rotter
+| cinematography = Jan Bartoň
+| editing        = David Beránek
+| distributor    = 
+| released       = {{Film date|df=y|2001|1|11}}
+| runtime        = 78 minutes
+| country        = Czech Republic
+| language       = Czech
+| budget         = 
+| gross          = 
+}}
+'''''24''''' is a 2001 Czech thriller film directed by [[David Beránek]], starring Barbora Seidlová and Martin Trnavský. It takes place during 24 hours and follows a man and a woman on the run on the Czech countryside. The film was released through Bontonfilm on 11 January 2001.&lt;ref&gt;{{Cite web|url=http://www.csfd.cz/film/69343-24/|title=24|language=Czech|work=Česko-Slovenská filmová databáze|publisher=POMO Media Group|accessdate=2015-01-05}}&lt;/ref&gt;
+
+==Cast==
+* Pavel Trnavský as Martin
+* Barbora Seidlová as dívka
+* Jiří Tomek as grandfather
+
+==References==
+{{Reflist}}
+
+[[Category:2000s thriller films]]
+[[Category:2001 films]]
+[[Category:Czech thriller films]]
+[[Category:Czech-language films]]
+[[Category:Films set in the Czech Republic]]
+[[Category:Road movies]]</text>
+      <sha1>hconab77r8v53hv3pznewqrcsu7uxv1</sha1>
+    </revision>
+  </page>
+</mediawiki>

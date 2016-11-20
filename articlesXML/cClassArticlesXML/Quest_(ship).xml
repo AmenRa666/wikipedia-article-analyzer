@@ -1,0 +1,189 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Quest (ship)</title>
+    <ns>0</ns>
+    <id>26416062</id>
+    <revision>
+      <id>724605319</id>
+      <parentid>717964867</parentid>
+      <timestamp>2016-06-10T09:22:15Z</timestamp>
+      <contributor>
+        <username>CV9933</username>
+        <id>23856855</id>
+      </contributor>
+      <comment>Cite error - ref name  &quot;WarSailors&quot;  defined multiple times. - Fixed.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9205">{{for|the ship attacked by Somali pirates|SY Quest incident}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Quest1921..jpg|300px]]
+|Ship caption=''Quest'', displaying its schooner rigging in St Katherine's Dock, London, 1921.
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=
+|Ship flag=
+|Ship name=*''Foca I'' (1917-21)
+*''Quest RYS'' (1921-23)
+*''Quest'' (1923-40)
+*HMS ''Quest'' (1940-46)
+*''Quest'' (1946-62)
+|Ship ordered=
+|Ship builder=Erik Lindstøls Båtbyggeri, [[Risør]]
+|Ship laid down=
+|Ship launched=1917
+|Ship acquired=
+|Ship completed=
+|Ship original cost= 
+|Ship owner=*A Ingebrigtsen (1917-21)
+*E Shackleton (1921-23)
+*W G Oliffe (1923-24)
+*Schjelderups Sælfangstrederi AS (1924-39)
+*Skips-AS Quest (1939-40)
+*Nortraship (1940-62)
+| Ship operator=*A Ingebrigtsen (1917-21)
+*E Shackleton (1921-23)
+*W G Oliffe (1923-24)
+*T Schjelderup (1924-39)
+*I Austad (1939-40)
+*Nortraship (1940)
+*Royal Navy (1940-46)
+*Nortraship (1946-62)
+|Ship identification=*Fishery registration K-13-K (1917-21)
+*Fishery registration B-94-BN (1924-39)
+*Fishery registration T-24-T (1939-40)
+*Code Letters LJBT (1924-34)
+*{{ICS|Lima}}{{ICS|Juliet}}{{ICS|Bravo}}{{ICS|Tango}}
+*Code Letters LCVR (1934-62)
+*{{ICS|Lima}}{{ICS|Charlie}}{{ICS|Victor}}{{ICS|Romeo}}
+|Ship registry=*{{flagicon|Norway}} [[Høvik]] (1917-21)
+*{{flagicon|UKGBI|naval}} [[Cowes]] (1921-23)
+*{{flagicon|United Kingdom|civil}} Cowes (1923-24)
+*{{flagicon|Norway}} [[Bodø]] (1924-39)
+*{{flagicon|Norway}} [[Tromsø]] (1939-40)
+*{{flagicon|United Kingdom|naval}} Royal Navy (1940-46)
+*{{flagicon|Norway}} Tromsø (1946-62)
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=May 5, 1962
+|Ship renamed=
+|Ship struck=
+|Ship reinstated=
+|Ship honours=
+|Ship captured=
+|Ship fate=Foundered in the [[Labrador Sea]]
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=*Sealer (1917-21)
+*Research Vessel (1921-24)
+*Sealer (1924-40)
+*Minesweeper (1940-46)
+*Sealer (1946-62)
+|Ship tonnage=*{{GRT|209}}
+*{{NRT|94}}
+|Ship length= {{convert|110|ft|7|in|m|2|abbr=on}}
+|Ship beam={{convert|24|ft|9|in|m|2|abbr=on}}
+|Ship draught={{convert|11|ft|8|in|m|2|abbr=on}}
+|Ship hold depth=
+|Ship sail plan=Schooner&lt;ref name=&quot;WarSailors&quot;&gt;{{cite web |url=http://www.warsailors.com/singleships/quest.html |title=M/S Quest |work=warsailors.com |accessdate=2010-10-01 }}&lt;/ref&gt;
+|Ship propulsion=*Sails, aided by compound steam engine (1917-39)
+*Diesel engine (1939-62)
+|Ship complement=
+|Ship armament=
+|Ship notes=
+}}
+|}
+
+'''''Quest''''', a low-powered, schooner-rigged [[steamship]] that sailed from 1917 until sinking in 1962, is best known as the polar exploration vessel of the [[Shackleton-Rowett Expedition]] of 1921-1922. It was aboard this vessel that Sir [[Ernest Shackleton]] died on 5 January 1922 while the vessel was in harbour in [[South Georgia]]. Prior to and after the Shackleton-Rowett Expedition, ''Quest'' operated in commercial service as a seal-hunting vessel or [[Seal hunting|sealer]]. ''Quest'' was also the primary expedition vessel of the [[British Arctic Air Route Expedition]] to the east coast of the island of [[Greenland]] in 1930-1931.
+
+''Quest'' was {{convert|111|ft}} in length, had a beam of {{convert|24|ft}}, and drew {{convert|12|ft}}.&lt;ref name=&quot;Ships&quot;&gt;{{cite web |url=http://www.antarctic-circle.org/ships.htm  |title=Antarctic Ships |work=antarctic-circle.org |accessdate=2010-03-03 }}&lt;/ref&gt;  The vessel has been variously rated at 209 and 214 [[Gross register tonnage|gross register tons]],&lt;ref name=&quot;WarSailors&quot;/&gt; possibly due to the 1924 refit described below.
+
+==Shackleton-Rowett Expedition==
+[[File:Shackleton's Ship Quest 1921.JPG|thumb|left|''Quest'' under [[Tower Bridge]], 1921]]
+''Quest'' was originally built in [[Risør]], Norway in 1917 as the wooden-hulled sealer ''Foca I''&lt;ref name=&quot;WarSailors&quot;/&gt; or ''Foca II''.&lt;ref name=&quot;MercoPress&quot;&gt;{{cite web |url=http://en.mercopress.com/2010/02/16/shackleton-quest-cabin-new-show-piece-for-south-georgia-museum |title=Shackleton 'Quest' cabin, new show piece for South Georgia Museum |work=MercoPress |accessdate=2010-03-03 |format=}}&lt;/ref&gt; She was the polar expedition vessel of the Shackleton-Rowett Expedition of 1921-1922.  The vessel was renamed ''Quest'' by Lady Emily Shackleton, wife of expedition leader Ernest Shackleton.&lt;ref name=&quot;Huntford&quot;&gt;{{cite book |title=Shackleton |last=Huntford |first=Roland |year=1986 |publisher=[[Atheneum Books|Atheneum]] |location=New York City |isbn=978-0-689-11429-8 |pages=683–694 |nopp=}}&lt;/ref&gt;  At the expense of expedition financier [[John Quiller Rowett]], ''Quest'' was refitted for the expedition with modifications overseen by sailing master [[Frank Worsley]], including re-rigging and the addition of a [[Cabin (ship)|deckhouse]].&lt;ref name=&quot;Thomson&quot;&gt;{{cite book |title=Shackleton's Captain: A Biography of Frank Worsley |last=Thomson |first=John |year=1999 |publisher=Mosaic Press |location=Oakville, Ontario |isbn=0-88962-678-2  |pages=133–141 |nopp=}}&lt;/ref&gt;  Shackleton was a member of the [[Royal Yacht Squadron]], and so for this voyage ''Quest'' bore the '''RYS''' suffix and flew the [[White Ensign]].&lt;ref name=&quot;Huntford&quot;/&gt;
+
+Sailing from London for the [[Southern Ocean]] on 17 September 1921, the ship reached South Georgia on 4 January 1922 while preparing to enter Antarctic waters. The following night Shackleton, the commander of the expedition, died aboard the vessel while she was at anchor in [[Grytviken]]. This ended all prospects of the expedition's carrying out its original program of exploring the Antarctic coastline of [[Enderby Land]].&lt;ref name=&quot;Huntford&quot;/&gt;  Led by [[Frank Wild]], ''Quest'' carried out a desultory survey of the [[Weddell Sea]] area before returning to the South Atlantic. ''Quest'' touched the [[Tristan da Cunha]] archipelago in early May,&lt;ref name=&quot;Thomson&quot;/&gt; and at [[Inaccessible Island]], ornithologist [[Hubert Wilkins]] took type specimens of the [[Grosbeak Bunting|grosbeak bunting]].
+
+The expedition returned to England in July 1922, having posted disappointing results that were attributed both to replacement commander Wild's alcoholism&lt;ref name=&quot;Huntford&quot;/&gt; and deficiencies in ''Quest's'' performance in polar sea ice. The weakly powered ship's [[steam engine|engine]] caused continuous difficulties, and the vessel's straight [[Stem (ship)|stem]] made her unsuitable for use in icy seas.&lt;ref name=&quot;Thomson&quot;/&gt;
+
+==British Arctic Air Route Expedition==
+''Quest'' was again refitted in Norway in 1924. During the refit, the sealer's Shackleton-Rowett deckhouse was salvaged for shore use.&lt;ref name=&quot;MercoPress&quot;/&gt; In 1928 the refitted vessel participated in the effort to rescue the survivors of the [[Airship Italia|Italia]] Arctic airship crash. In 1930, the aging sealer, described as a &quot;broad-beamed, tubby little ship, decks stacked with gear&quot;, served as the primary expedition vessel and transport for the explorers of the British Arctic Air Route Expedition from London to eastern Greenland in 1930.&lt;ref name=&quot;Scott&quot;&gt;{{cite book |title=Dancing on Ice: A Stirring Tale of Adventure, Risk and Reckless Folly |last=Scott |first=Jeremy |year=2008 |publisher=Old Street Publishing Ltd. |location=London |isbn=0-689-11429-X |pages= |nopp=}}&lt;/ref&gt;
+
+==Current status==
+''Quest'' returned to service as a sealing vessel after 1930. In 1935 she was used by the British East Greenland Expedition. During [[World War II]] the wooden-hulled vessel was pressed into service as a [[Minesweeper (ship)|minesweeper]] and light cargo vessel. The small ship returned to sealing duties in 1946. On 5 May 1962, while on a seal-hunting expedition, ''Quest'' was holed by ice and sank off the north coast of [[Labrador]].  The crew was saved.&lt;ref name=&quot;WarSailors&quot;/&gt;
+
+Parts of the former deckhouse, including Shackleton's quarters in 1921-1922, survive and, as of February 2010, are under restoration in [[Sandefjord]].  The South Georgia Heritage Trust (SGHT) Norway has announced plans to return Shackleton's final home to South Georgia; the cabin will be housed at the [[South Georgia Museum]] in Grytviken. The projected date of transport and re-erection was 2011-2012.&lt;ref name= &quot;MercoPress&quot;/&gt;
+
+An archival collection of 476 photographs from the Quest/Shackleton-Rowett Expedition is maintained by the [[State Library of New South Wales]] in [[Sydney, Australia]].&lt;ref name=&quot;NSW&quot;&gt;{{cite web |url=http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=413838 |title=The Shackleton-Rowett Antarctic expedition aboard the 'Quest', 1921-1922 |work=Hubert Wilkins and [[Alexander Macklin]] |accessdate=2010-03-11 |format=}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+{{Polar exploration|state=collapsed}}
+{{1962 shipwrecks}}
+{{coord|53|10|N|54|27|W|source:kolossus-nowiki|display=title}}
+
+[[Category:Exploration ships of the United Kingdom]]
+[[Category:Sealing ships]]
+[[Category:Schooners]]
+[[Category:Steamships of Norway]]
+[[Category:Steamships of the United Kingdom]]
+[[Category:World War II minesweepers of the United Kingdom]]
+[[Category:Merchant ships of Norway]]
+[[Category:Maritime incidents in 1962]]
+[[Category:1917 ships]]
+[[Category:Ships built in Norway]]
+[[Category:Ships of Nortraship]]</text>
+      <sha1>7yjebpo21el619e2uupnwwl5ekiaa1a</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,202 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>The Piazza Tales</title>
+    <ns>0</ns>
+    <id>5218183</id>
+    <revision>
+      <id>733671641</id>
+      <parentid>731582844</parentid>
+      <timestamp>2016-08-09T10:56:02Z</timestamp>
+      <contributor>
+        <username>Fitindia</username>
+        <id>27612457</id>
+      </contributor>
+      <minor/>
+      <comment>/* ''Putnam's Monthly Magazine'' */clean up, [[WP:AWB/T|typo(s) fixed]]: well-received → well received using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25374">{{Infobox book
+| name = The Piazza Tales
+| image = 
+| caption = 
+| alt = 
+| author = [[Herman Melville]]
+| illustrator = 
+| cover_artist = 
+| country = United States
+| language = English
+| subject = 
+| genre = [[Literary fiction]], [[Short story|short stories]]
+| published = May 1856 (American edition), June 1856 (British edition) {{small|(Dix, Edwards &amp; Co.)}}
+| media_type = Print
+| preceded_by =
+| followed_by =
+}}
+
+'''''The Piazza Tales''''' is a collection of six [[short story|short stories]] by American writer [[Herman Melville]], published by Dix &amp; Edwards in the [[United States]] in May 1856 and in Britain in June. Except for the newly written title story, &quot;The Piazza,&quot; all of the stories had appeared in ''[[Putnam's Magazine|Putnam's Monthly]]'' in 1853-1855. The collection includes what has long been regarded as the author's three most important achievements in the genre of short fiction, &quot;[[Bartleby, the Scrivener]]&quot;, &quot;[[Benito Cereno]]&quot;, and &quot;[[The Encantadas]]&quot;, his sketches of the [[Galápagos Islands]].
+
+Melville had originally intended to entitle the volume ''Benito Cereno and Other Sketches'', but settled on the definitive title after he had written the introductory story. The book received largely favorable reviews, with reviewers especially praising &quot;The Encantadas&quot;.&lt;ref&gt;Branch, p. 35&lt;/ref&gt; but did not sell well enough to get Melville out of his financial straits,&lt;ref&gt;Robertson-Laurant, p. 358&lt;/ref&gt;&lt;ref&gt;Parker p. 283ff extensively discusses the contemporary reviews and how ineffective they ultimately proved to be.&lt;/ref&gt; probably because short fiction for magazines had little appeal to bookbuyers. After Melville was rediscovered until the end of the twentieth century, the short works attracting the most critical attention were &quot;Bartleby,&quot; &quot;Benito Cereno&quot; and &quot;The Encantadas,&quot; with &quot;The Piazza&quot; a little behind those.
+
+== Background and publication history ==
+After reviewers denigrated ''[[Moby-Dick]]'' in 1851, Harper brothers changed the terms for its successor, ''[[Pierre: or, The Ambiguities]]''.&lt;ref&gt;Sealts (1987), 479&lt;/ref&gt; Melville's London publisher [[Richard Bentley (publisher)|Richard Bentley]] would not publish ''Pierre'' without alterations after he saw the American proofs in 1852, which Melville could not accept. ''Pierre'' found no British publisher and hence Melville received no advance payment in the summer of 1852. The reviews for ''Pierre'' were harsh, and this damaged Melville's reputation the more because the reviews followed upon the mixed reception of the whaling novel.&lt;ref&gt;Sealts (1987), 480&lt;/ref&gt;
+
+In the spring of 1853 Melville could not get his next work printed, most likely,  Sealts thinks, because Harper &quot;simply refused to bring out another work by Herman Melville in the following year to risk the renewed wrath of already hostile reviewers&quot;.&lt;ref&gt;Sealts (1987), 481&lt;/ref&gt; Under the circumstances, publishing anonymously seemed an attractive strategy, and the firm did ask him to write for ''[[Harper's Magazine|Harper's New Monthly Magazine]]''.&lt;ref&gt;Sealts (1987), 482&lt;/ref&gt; His contributions to that periodical were not collected in a book during his lifetime.
+
+=== ''Putnam's Monthly Magazine'' ===
+In October 1852 editor [[Charles Frederick Briggs]] sent a circular out to writers, including Melville, announcing the plan &quot;to publish an Original periodical of a character different from any now in existence&quot;, inviting him, being among &quot;the best talent of the country&quot;, to submit contributions to the new monthly that would only print American contributions.&lt;ref&gt;Quoted in Miller (1956), 318&lt;/ref&gt; This was ''Putnam's Monthly Magazine'' that first appeared in January 1953. With the ambition to be, in Perry Miller's words, &quot;the vehicle of home literature&quot; came the determination to pay authors a handsome sum.&lt;ref&gt;Miller (1956), 317&lt;/ref&gt; For three years the magazine was successful, in Miller's estimation because of the brilliance of both the articles and of the editing--primarily by Briggs, who understood that &quot;'A man buys a Magazine to be amused'&quot;.&lt;ref&gt;Quoted in Miller (1956), 316&lt;/ref&gt;
+
+Melville received the February issue, which carried a summary of Melville's career in the shape of an essay by Fitz-James O'Brien, a young Irish immigrant. According to Parker, this publication was &quot;the first retrospective survey of Melville's career anyone had ever published&quot;.&lt;ref&gt;Parker (2002), 150&lt;/ref&gt;
+
+Melville's first contribution, &quot;Bartleby. A Story of Wall-Street&quot;, was published in two installments in the magazine's first year of existence, in no. 11 (November), and no. 12 (December).&lt;ref&gt;Hayford, MacDougall, and Tanselle (1987), 572&lt;/ref&gt; &quot;The Encantadas, or Enchanted Isles&quot; appeared in three installments in 1854, in no. 15 (March), no. 16 (April), and no. 17 (May).&lt;ref&gt;Hayford, MacDougall, and Tanselle (1987), 600-01&lt;/ref&gt; &quot;The Lightning-Rod Man&quot; appeared in 1854, in no. 20 (August).&lt;ref&gt;Hayford, MacDougall , and Tanselle (1987), 597&lt;/ref&gt;
+
+In March 1855 Putnam sold the magazine to Dix and Edwards due to dwindling subscriptions, Briggs left, and [[George William Curtis]] became editor.&lt;ref&gt;Miller (1956), 336&lt;/ref&gt;
+
+&quot;The Bell-Tower&quot; appeared in 1855 in no. 32 (August).&lt;ref&gt;Hayford, MacDougall, and Tanselle (1987), 617&lt;/ref&gt; &quot;Benito Cereno&quot; appeared in three installments in 1855, in no. 34 (October), no. 35 (November), and no. 36 (December).&lt;ref&gt;Hayford, MacDougall, and Tanselle (1987), 580&lt;/ref&gt;
+
+Melville's submissions for the magazine were well received. Only once was a submission rejected, &quot;The Two Temples&quot;, which remained unpublished during Melville's life. Briggs offered as explanation for rejecting,  &quot;My editorial experience compels me to be very cautious in offending the religious sensibilities of the public, and the moral of the Two Temples would array against us the whole power of the pulpit.&quot; &lt;ref&gt;Quoted in Miller (1956), 319&lt;/ref&gt; Of another story he said, &quot;The only complaint that I have heard about the Encantadas was that it might have been longer.&quot;&lt;ref&gt;Quoted in Miller (1956), 319&lt;/ref&gt;
+
+=== ''The Piazza Tales'' ===
+In addition to the five stories, Melville wrote an introductory story for which the volume was titled. Scholar Douglas Robillard believes that this served the purpose of making the stories to appear &quot;more closely joined than they actually are.&quot;&lt;ref&gt;Robillard (2004), 74&lt;/ref&gt;
+
+The contract for the book was signed on 17 March 1856, it was advertised on 5 April as &quot;in press&quot; and should have been available by 15 May--though a copy was deposited for copyright on May 20. The volume was printed by Miller &amp; Holman, Printers and Stereotypers, of New York, as a duodecimo volume of 431 pages, excluding seven pages of advertisements for other product by the same publishers.&lt;ref&gt;Sealts (1987), 498-99&lt;/ref&gt; Biographer Parker observes that to reach that number of pages the book was padded out by leaving excessive white space.&lt;ref&gt;Parker (2002), 283&lt;/ref&gt; The front and back covers were ornamented by a border of rules and rosettes. The spine displayed the title, names of author and publishers stamped in gold, and the volume was priced at $1.00.&lt;ref&gt;Sealts (1987), 498-99&lt;/ref&gt;  In June the book was advertised together with another as &quot;TWO GOOD SUMMER BOOKS&quot;.&lt;ref&gt;Parker (2002), 284&lt;/ref&gt;
+
+2,500 copies were printed, of which only 1,047 were sold by the end of August, not enough to cover expenses.&lt;ref&gt;Sealts (1987), 499&lt;/ref&gt;
+
+In 1922, three years after the centennial of Melville's birth, the first reissue of the collection appeared as part of the Constable collected edition.&lt;ref&gt;Bergmann (1986), 242&lt;/ref&gt;
+
+&quot;The Lightning-Rod Man&quot; was chosen for inclusion in [[William Evans Burton]]'s ''Cyclopediae of Wit and Humor'' of 1857, with an illustration by [[Henry Louis Stephens]]. No other original illustration for one of his works appeared during Melville's lifetime. Resissues of the book, under a variety of titles, appeared until 1898, making &quot;The Lightning-Rod Man&quot; the one Melville tale to be available throughout his lifetime.&lt;ref&gt;Hayford, MacDougall, and Tanselle (1987), 599-600&lt;/ref&gt;
+
+==Contents==
+[[File:Herman Melville profile.jpg|thumb|Herman Melville in 1860]]
+#&quot;The Piazza&quot;
+#&quot;Bartleby, the Scrivener&quot;
+#&quot;Benito Cereno&quot;
+#&quot;The Lightning-Rod Man&quot;
+#&quot;The Encantadas or Enchanted Isles&quot;
+#&quot;The Bell-Tower&quot;
+
+In &quot;The Piazza&quot;, especially written as an introductory story to the volume, the protagonist idealizes a radiant spot on the mountain he looks upon from his piazza. This spot is a house and one day he goes to the cottage, only to find the unhappy girl Marianna, who longs to see the lucky individual who lives in the white house she looks upon from her window. The narrator understands that he himself has been the object of a fantasy not unlike his own, and leaves thinking how all idealism is an illusion. In addition to numerous biblical and mythological references, which Sealts calls &quot;a familiar Melvillean pattern,&quot; the story alludes to Emerson's essay &quot;The Problem&quot;, [[Don Quixote]] and [[Paradise Lost]], and explicitly namechecks [[Edmund Spenser]]. The narrator points to some plays by [[William Shakespeare|Shakespeare]], and according to Sealts, the girl Marianna should remind the reader of both the Marianna in Shakespeare's ''[[Measure for Measure]]'' and [[Alfred, Lord Tennyson]]'s Marianna.&lt;ref&gt;Sealts (1988), 94&lt;/ref&gt;
+
+&quot;Bartleby&quot; is set in the Wall Street office of a New York lawyer, who is the narrator of the tale. His new, pale-looking clerk Bartleby refuses to copy documents without giving any other explanation than the repeated mantra: &quot;I would prefer not to.&quot; The lawyer cannot bring himself to remove his clerk from his office and finally resorts to moving out himself. Leading scholar on the short fiction Merton Sealts notes that in &quot;Bartleby&quot; knowing references to current events occur, and the supporting characters of Nippers, Turkey, and the errand boy Ginger Nut &quot;could easily have come from the pen of Dickens, Lamb, or Irving.&quot;&lt;ref&gt;Sealts (1988), 90&lt;/ref&gt;
+
+The basis for the longest story in the collection, the novella-length &quot;Benito Cereno&quot;, is chapter 18 of the last named book, Delano's ''Narrative of Voyages and Travels''. The story is set in 1799 off the coast of Chile, where the Massachusetts captain of merchant ship ''Bachelor's Delight'', Amasa Delano, sees the Spanish slaveship ''San Dominick'' in apparent distress. He boards the ship and offers captain Don Benito Cereno his help. Throughout his visit Cereno is accompanied by his servant Babo, and Delano is witness to the famous shaving scene in the story, in which barber Babo slightly cuts his master. Only at Delano's departure becomes clear that after a revolt the slaves have seized command of the ship and forced the white crew to keep up appearances.
+
+&quot;The Encantadas&quot; consists of ten sketches, &quot;based primarily on recollections of Melville's visit to the Galápagos Islands during his whaling years,&quot; elaborated with material from several books including works by [[Charles Darwin]] and Amasa Delano.&lt;ref&gt;Sealts (1988), 90&lt;/ref&gt;
+
+The other three stories are shorter pieces. &quot;The Lightning-Rod Man&quot; is based upon an incident occurring in the Berkshires in the fall of 1853, an invasion of salesmen of lightning-rods.&lt;ref&gt;Sealts (1988), 91&lt;/ref&gt; Sealts considers &quot;The Bell-Tower&quot; to be &quot;the least characteristic of Melville's stories,&quot; somewhat resembling [[Nathaniel Hawthorne]] and [[Edgar Allan Poe]]'s work.&lt;ref&gt;Sealts (1988), 92&lt;/ref&gt;
+
+== Composition ==
+As a magazine writer, Melville was a better judge of popular taste than he recently had been as a novelist, Sealts finds. He read contemporary newspapers and magazines, and paid careful attention to what they were carrying. By studying the contents, Melville &quot;learned to pattern his own pieces accordingly, with respect to both form and content.&quot;&lt;ref&gt;Sealts (1988), 87&lt;/ref&gt; A number of the pieces contain references to persons, places, and events Melville witnessed himself. People whom Melville knew served as the basis for many characters in the short fiction, as some of the reviewers guessed.&lt;ref&gt;Sealts (1988), 88&lt;/ref&gt; Never an excelling inventor of original plots, Melville elaborated on his own experiences with material from his reading. Chief among the influences upon his magazine fiction, as recognized by both contemporary reviewers of ''The Piazza Tales'' and Melville scholars of the following century, were tales and sketches by such contemporary authors as [[Washington Irving]], [[Edgar Allan Poe]], [[Nathaniel Hawthorne]], [[Charles Lamb]], and [[Charles Dickens]], some of whom he had read as early as 1849.&lt;ref&gt;Sealts (1988), 89&lt;/ref&gt; These are influences of a general nature and cannot be identified to single works, or as Sealts puts it, Melville &quot;not infrequently followed the lead of others in terms of plotting, characterization, and technique of narration.&quot;&lt;ref&gt;Sealts (1988), 89&lt;/ref&gt;
+
+As Sealts demonstrates, all of these elements are present in &quot;Bartleby&quot;. Melville's knowledge of the Wall Street location if first-hand, because his brother Allan was a Wall Street lawyer, the story contains knowing references to current events, and the supporting characters &quot;could easily have come from the pen of Dickens, Lamb or Irving.&quot;&lt;ref&gt;Sealts (1988), 90&lt;/ref&gt; The idea for the story was suggested to Melville by an 18 February 1853 advertisement in both the New York ''Times'' and ''Tribune'', which included the complete first chapter of James A. Maitland's novel ''The Lawyer's Story'', in which a lawyer's increased business makes him hire an extra copying clerk.&lt;ref&gt;Sealts (1988), 90&lt;/ref&gt;
+
+The ten sketches of &quot;The Encantadas&quot; go back to Melville's whaling years, during which he visited the Galapagos Islands, supplemented with material from his reading in at least six books of Pacific voyages, including ''[[The Voyage of the Beagle]]'' by [[Charles Darwin]].&lt;ref&gt;Sealts (1988), 90&lt;/ref&gt; A month after the collection was published, Melville's old friend Richard Tobias Greene, on whom Toby in ''[[Typee]]'' was based, wrote him a letter expressing how the Encantadas sketches &quot;had called up reminiscences of days gone by&quot;.&lt;ref&gt;Quoted in Robertson-Lorant  (1996), 358&lt;/ref&gt;
+
+Assuming that &quot;The Piazza&quot; is Melville's own Pittsfield piazza, critic  [[F.O. Matthiessen]] suggests that the piece must have been suggested by Hawthorne's manse.&lt;ref&gt;Matthiessen (1941), 493&lt;/ref&gt; As the setting for the story Sealts regards both Arrowhead, the Pittsfield farm where Melville then lived, and nearby Mount Greylock, and, like Matthiessen, suggests that Hawthorne's method of preparing the reader for the stories in ''[[Mosses from an Old Manse]]'' through his account of his old manse at Concord inspired Melville.&lt;ref&gt;Sealts (1988), 94-95&lt;/ref&gt;
+
+== Style  ==
+For  Warner Berthoff, Melville's short works of the mid-1850s show a grasp of his subject matter not previously in his possession, not even in Moby-Dick: &quot;a clarity of exposition and a tonic firmness and finality of implication&quot;.&lt;ref&gt;Berthoff (1962), 59&lt;/ref&gt;
+
+John Bryant points to the experimental use of narrative voice in the stories: in addition to third-person narration, Melville makes his fictionalized narrators &quot;less and less reliable.&quot;&lt;ref&gt;Bryant (2001), xxvii&lt;/ref&gt; The lawyer - narrator in &quot;Bartleby&quot; is &quot;not so reliable&quot;, Bryant finds, but the third-person narrator of &quot;Benito Cereno&quot; represents a &quot;less conspicuous form of unreliability&quot; and precisely because this third-person position seems objective, while in reality Delano's distorted point of view is adhered to.&lt;ref&gt;Bryant (2001), xxxii&lt;/ref&gt;
+
+== Structure ==
+In line with other writers of short stories of the time like Poe, Melville's narrative structures stimulate readers to look beyond their initial readings to understand more. This view of &quot;the stories to have a hidden text&quot; has proven to be persuasieve.&lt;ref&gt;Bergmann (1996), 249&lt;/ref&gt; Writing in the twenty-first century, Bryant makes essentially the same point when he notes that &quot;carefully modulated ironies&quot; are put to such use that &quot;the brightness of sentiment and geniality would be made to reveal its darker edges: deception, sexuality, alienation, and poverty.&quot;&lt;ref&gt;Bryant (2001), xxvii&lt;/ref&gt;
+
+For Robert Milder, in the best of the short stories these different levels of meaning are fused &quot;in a vision of tragedy more poignant than Moby-Dick's or Pierre's because it is more keenly responsive to the lived human condition.&quot;&lt;ref&gt;Milder (1988), 439&lt;/ref&gt;
+
+== Reception ==
+=== Contemporary reviews ===
+The collection met with short, cursory reviews only, which Branch attributes to the &quot;general attitude&quot; that the &quot;author of Typee should do something higher and better than Magazine articles,&quot; as the New York Times wrote. &quot;The Encantadas&quot; attracted the most attention, probably, Branch suggests, because it reminded reviewers of the author's first two books, listed on the title page.&lt;ref&gt;Branch (1974), 35&lt;/ref&gt;
+
+The first review appeared in the New York Atlas for 25 May, followed by more than thirty others until as late as September.&lt;ref&gt;Sealts (1987), 499&lt;/ref&gt; Only two of the thirty-three reviews and notices critic Johannes D. Bergmann read &quot;seem seriously negative.&quot; Most of the others were full of praise, especially for &quot;Bartleby,&quot; &quot;Benito Cereno,&quot; and &quot;The Encantadas.&quot; Several reviewers singling out &quot;Bartleby&quot; and &quot;The Bell-Tower&quot; compare the stories to Edgar Allan Poe's work.&lt;ref&gt;Bergmann (1986), 247&lt;/ref&gt; Sealts saw thirty-seven reviews, five of which were &quot;preponderantly unfavorable,&quot; among them the sole British review, which appeared in the London Athenaeum for 26 July. Yet the reviews showed that the book &quot;manifestly pleased his critics as no other work from his pen had done since the appearance of Redburn and White-Jacket in 1849 and 1850.&lt;ref&gt;Sealts (1987), 501&lt;/ref&gt; Most reviews were unsigned, and not all singled out any individual story, but merely described the collection as a whole. On 9 July 1856, the Springfield ''Republican'' compared the collection to Hawthorne's best work, &quot;Marked by a delicate fancy, a bright and most fruitful imagination, a pure and translucent style and a certain weirdness of conceit.&quot;&lt;ref&gt;Reprinted in Branch (1974), 358&lt;/ref&gt; &quot;The legends themselves,&quot; wrote the ''Athenaeum'' for 26 July, &quot;have a certain wild and ghostly power; but the exaggeration of their teller's manner appears to be on the increase.&quot;&lt;ref&gt;Reprinted in Branch (1974), 359&lt;/ref&gt; Also taking the stories together, the ''United States Democratic Review'' for September 1856 wrote that &quot;All of them exhibit that peculiar richness of language, descriptive vitality, and splendidly sombre imagination which are the author's characteristics.&quot;&lt;ref&gt;Reprinted in Branch (1974), 360&lt;/ref&gt; Praise for Melville's charming style was offered &quot;almost invariably in a tone of affection and respect, without a single known mention of Moby-Dick&quot;, Parker observes.&lt;ref&gt;Parker (2002), 285&lt;/ref&gt;
+
+Many reviews echoed that the collection made for excellent summer reading: &quot;Scarcely a pleasanter book for summer reading could be recommended&quot; was a representative phrase, printed in the New York ''Churchman'' for 5 June.&lt;ref&gt;Parker (2002), 284-285&lt;/ref&gt;
+
+=== Later critical history ===
+In 1926, during the so-called &quot;Melville Revival,&quot; &quot;Benito Cereno&quot; became the first of any of his short fiction to appear in a separate edition when the Nonesuch Press published the ''Piazza Tales'' text, illustrated by E. McKnight Kauffer.&lt;ref&gt;Sealts (1987), 511&lt;/ref&gt; The story is also the first of the short works to which a scholarly publication was devoted: Harold H. Scudder's 1928 study of Melville's use of his major source, Amasa Delano's 1817 ''A Narrative of Voyages and Travels, in the Northern and Southern Hemispheres: Comprising Three Voyages Round the World; Together with a Voyage of Survey and Discovery, in the Pacific Ocean and Oriental Islands''.&lt;ref&gt;Sealts (1987), 511&lt;/ref&gt;&lt;ref&gt;Scudder (1928)&lt;/ref&gt;
+
+Overlooking scholarship and criticism on the tales until the 1980s, Sealts observed that of the six ''Piazza Tales'', &quot;Benito Cereno&quot; and &quot;The Encantadas&quot; have attracted the most attention from the beginning of Melville studies, while &quot;Bartleby&quot; and &quot;The Piazza&quot; increasingly captured scholarly attention from the 1920s onward.&lt;ref&gt;Sealts (1987), 512&lt;/ref&gt; Sealts also finds that interpretation of the short stories has changed direction from metaphysical to epistemological concerns, and from general ethical considerations to &quot;more immediate political and social implications,&quot; such as reading &quot;Benito Cereno&quot; in the context of the heated debate over slavery leading up to the Civil War.&lt;ref&gt;Sealts (1987), 513&lt;/ref&gt; The more substantial of those studies have contributed in three areas: Melville's own observation of contemporary life as a source, his knowledge of literature, and his familiarity with more specialized sources, including travelogues of the Pacific as well as articles in periodicals.&lt;ref&gt;Sealts (1987), 513&lt;/ref&gt;
+
+Scholar Robert Milder recognizes a new development in Melville's writing: prompted by the compromise that writing stories for magazines inevitably entails, he now &quot;mastered the art of covert insinuation, managing his ironic or unreliable narrators with such subtlety that readers still dispute which (if any) of the narrators voice his own opinions and which are objects of satire or detached psychological interest. Milder describes the stories as predominantly comics, depicting failure, compromise, and misery, with metaphysical concerns almost entirely absent.&lt;ref&gt;Milder (1988), 438-439&lt;/ref&gt;
+
+Biographer Andrew Delbanco cites &quot;The Bell-Tower&quot; as a story that &quot;merited the caution&quot; of Curtis not to accept Melville's submissions for Putnam's too easily.&lt;ref&gt;Delbanco (2005), 229&lt;/ref&gt;
+
+==Notes==
+{{reflist|20em}}
+
+==References==
+* Bergmann, Johannes D. (1986). &quot;Melville's Tales.&quot; ''A Companion to Melville Studies''. Edited by John Bryant. New York, Westport, Connecticut, London: Greenwood Press. ISBN 0-313-23874-X
+* Branch, Watson G. (ed.) (1974). ''Melville: The Critical Heritage.'' Edited by Watson G. Branch. The Critical Heritage Series. First paperback edition, 1985, London and Boston: Routledge &amp; Kegan Paul. ISBN 0-7102-0513-9
+* Bryant, John (2001). &quot;Herman Melville: A Writer in Process.&quot; Herman Melville, ''Tales, Poems, and Other Writings''. Edited, with an Introduction and Notes, by John Bryant. New York: The Modern Library. ISBN 0-679-64105-X
+* [[Andrew Delbanco|Delbanco, Andrew]] (2005). [https://books.google.com/books?id=DzC0HMEL-kIC&amp;pg=PA288 ''Melville: His World and Work.''] New York: Knopf. ISBN 0-375-40314-0
+* Hayford, Harrison, Alma A. MacDougall, and G. Thomas Tanselle (1987). &quot;Notes on Individual Prose Pieces.&quot; In Melville 1987.
+* [[Francis Otto Matthiessen|Matthiessen, F.O.]] (1941). [https://books.google.com/books?id=tULy3pA-ZoQC&amp;pg=PA626&amp;lpg=PA626&amp;dq=matthiessen+american+renaissance&amp;source=bl&amp;ots=qErO4CPybM&amp;sig=tk7tve3EWXSHWYNCPfhw1yKYDmI&amp;hl=nl&amp;sa=X&amp;redir_esc=y#v=onepage&amp;q&amp;f=false ''American Renaissance: Art and Expression in the Age of Emerson and Whitman''.] London, Toronto, New York: Oxford University Press.
+* Melville, Herman (1987). [https://books.google.com/books?id=SN1fGPgKweYC&amp;pg=PA542&amp;lpg=PA542&amp;dq=melville+piazza+tales+prose+pieces&amp;source=bl&amp;ots=dIHqdTUcQw&amp;sig=iuaE4Gp5mSDC_sWM-MW0uh0zYOo&amp;hl=nl&amp;sa=X&amp;ved=0ahUKEwju-_mz-LPLAhWhJ5oKHa2PB0EQ6AEIRzAF#v=onepage&amp;q&amp;f=false ''The Piazza Tales and Other Prose Pieces 1839-1860''.] Edited by Harrison Hayford, Alma A. MacDougall, G. Thomas Tanselle, and others. The Writings of Herman Melville Volume Nine. Evanston and Chicago: Northwestern University Press and The Newberry Library. ISBN 0-8101-0550-0
+* Milder, Robert (1988). &quot;Herman Melville.&quot; ''Columbia Literary History of the United States''. Emory Elliott, General Editor. New York: Columbia University Press. ISBN 0-231-05812-8
+* [[Perry Miller|Miller, Perry]] (1956). ''The Raven and the Whale: The War of Words and Wits in the Era of Poe and Melville''. New York: Harcourt, Brace and Company.
+* Parker, Hershel (2002). [https://books.google.com/books?id=OrTOQR4QyKIC&amp;printsec=frontcover&amp;redir_esc=y#v=onepage&amp;q&amp;f=false ''Herman Melville: A Biography. Volume 2''.] Baltimore: Johns Hopkins University Press. ISBN 0-8018-5428-8 
+* Robertson-Lorant, Laurie (1996). ''Melville: A Biography''. New York: Clarkson Potter/Publishers. ISBN 0-517-59314-9
+* Robillard, Douglas (2004). &quot;Review  [of Bryant  (ed.) 2001]. ''Leviathan: A Journal of Melville Studies'', October 2004.
+* Rollyson, Carl E., and Lisa Olson Paddock (2001). ''Herman Melville a to Z: The Essential Reference to His Life and Work.'' Facts on File Library of American Literature. New York: Facts on File. ISBN 0-8160-3851-1.
+* Sealts, Merton M., Jr. (1987). &quot;Historical Note.&quot; In Melville (1987).
+* --- (1988). ''Melville's Reading. Revised and Enlarged Edition''. University of South Carolina Press. ISBN 0-87249-515-9
+
+==External links==
+{{wikisource}}
+* [http://www.gutenberg.org/etext/15859 ''The Piazza Tales''] full text at [[Project Gutenberg]].
+* [http://www.esp.org/books/melville/piazza/title.html Full text of the Dix &amp; Edwards edition] by Electronic Scholarly Publishing prepared by Robert Robbins.
+
+{{Herman Melville}}
+
+{{DEFAULTSORT:Piazza Tales, The}}
+[[Category:1856 short story collections]]
+[[Category:Short story collections by Herman Melville]]
+[[Category:Works originally published in Putnam's Magazine]]</text>
+      <sha1>brqtlpw3w4nhzi2s6ku68slinkbnnto</sha1>
+    </revision>
+  </page>
+</mediawiki>

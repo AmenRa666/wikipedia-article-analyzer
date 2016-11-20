@@ -1,0 +1,170 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Battle of Geronium</title>
+    <ns>0</ns>
+    <id>9046912</id>
+    <revision>
+      <id>715362533</id>
+      <parentid>695508971</parentid>
+      <timestamp>2016-04-15T09:29:53Z</timestamp>
+      <contributor>
+        <username>The Anomebot2</username>
+        <id>1979668</id>
+      </contributor>
+      <comment>Adding geodata: {{coord|41.7618|N|14.7334|E|source:wikidata|display=title}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="26021">{{Infobox military conflict
+|conflict = Battle of Geronium
+|partof = the [[Second Punic War]]
+|image =
+|caption =
+|date = Autumn of 217 BC
+|place = Geronium, [[Molise]]
+|result = Tactical [[Carthage|Carthaginian]] victory&lt;br /&gt;strategic draw
+|combatant1 =[[File:Carthage standard.svg|12px]] [[Carthage]]
+|combatant2 =[[File:Spqrstone.jpg|25px]] [[Roman Republic]]
+|commander1 = [[Hannibal]]
+|commander2 =[[Marcus Minucius Rufus|M. Minucius Rufus]] Master of the Horse (217 BC)
+|strength1 = 40,000 Infantry &lt;br&gt; 10,000 Cavalry
+|strength2 = 20,000 Infantry engaged &lt;br&gt; 20,000 in reserve
+|casualties1 = Unknown
+|casualties2 = Unknown
+}}
+{{Tone|date=June 2011}}
+{{Campaignbox Second Punic War}}
+The '''Battle of Geronium''' or Gerunium is part of the [[Second Punic War]], where a large skirmish and an ambush took place in the summer and autumn of 217 BC respectively.  After winning the [[Battle of Ager Falernus]], the army of Hannibal, marched north then east towards [[Molise]] through [[Samnium]]. Hannibal was cautiously followed by the Roman army under the dictator [[Fabius Maximus]], keeping with the &quot;[[Fabian strategy]]&quot;.  This policy was becoming unpopular in Rome, and Fabius was compelled to return to Rome to defend his actions under the guise of observing some religious obligations.  Marcus Minucius Rufus, left in command, managed to catch the Carthaginians off guard near their camp in Geronium and inflict severe losses on them in a large skirmish.  This “victory” caused the Romans, disgruntled with Fabius, to elevate Minucius to the equal rank of the dictator.  Minucius took command of half the army and camped separately from Fabius near Geronium. Hannibal, informed of this development, laid an elaborate trap, which drew out Minucius and his army in detail, and then attacked it from all sides.  The timely arrival of Fabius with the other half of the army enabled Minucius to escape after a severe mauling.  After the battle, Minucius turned over his army to Fabius and resumed the duties of Master of Horse.
+
+== Strategic situation ==
+After escaping from the trap of Ager Falernus by winning the [[Battle of Ager Falernus]], Hannibal, with his army and spoils, marched east toward [[Molise]]. Still committed to a delaying strategy, Fabius followed Hannibal cautiously, keeping to the high ground and avoiding being drawn into a pitched battle at all cost.
+
+The Carthaginian navy had been raiding the coast of Italy since the start of the war in 218 BC.  The Roman navy had also started what eventually would become annual raids of the African coastline.  In Iberia, [[Hasdrubal Barca]] had not mounted any expeditions against the Romans after his defeat in the naval [[Battle of Ebro River]] in the spring of 217 BC.  [[Gnaeus Cornelius Scipio Calvus]] had been joined by his brother, [[Publius Cornelius Scipio]] with 8,000 reinforcements, raising the number of Roman soldiers in Spain to 30,000 infantry and 3,000 cavalry.  Both the brothers enjoyed pro-consular rank.  Through the treachery of an Iberian chieftain called [[Abilyx]], they had managed to gain control of Iberian hostages held by the Carthaginians at Saguntum.  This further weakened the Carthaginian hold on Iberians while enhancing the power of the Romans.  The Scipio brothers did not launch any large attacks on Carthaginian Spain but decided on the strengthening of their base north of the Ebro.
+
+== Prelude ==
+
+===Carthaginian march through central Italy===
+After leaving Ager Falernus through the pass of Callifae, Hannibal retraced his steps, moving east towards [[Molise]]. The Carthaginian army, encumbered with plunder and herds of cattle, moved slowly, seeking a place to set up their winter quarters. Fabius and the Romans dogged the Carthaginians from a distance and avoided direct confrontation with them. Hannibal marched north to Venefram, which caused alarm in Rome as that city was thought to be the Carthaginian objective. Then the Carthaginian army suddenly turned east into Samnium, and after crossing the Apennine Mountains and moving through the Pelignial plains, finally entered Molise. Fabius continued to follow Hannibal, and when the Carthaginians reached near the modern-day village of [[Casacalenda]] and took over a town named Geronium, Fabius set up his camp at Larinum, 20 miles to the south.&lt;ref&gt;Bagnall, Nigel, p 187 The Punic Wars, ISBN 0-312-34214-4&lt;/ref&gt; The Carthaginians had cut a swath of destruction in their march, ravishing farms and property, collecting provisions and prisoners as they moved, unopposed by Fabius.
+
+===Carthaginian camp in Molise===
+Hannibal either took Geronium by assault after his terms had been refused by the townsfolk,&lt;ref&gt;Polybius, 3.100.4&lt;/ref&gt; or he simply took possession of the town because the inhabitants had fled after burning the town buildings, because part of the town wall had collapsed,&lt;ref&gt;Livy, 22.18.7&lt;/ref&gt; making it vulnerable. The Carthaginians turned the town into a large granary for storing their grain and housing their animal herds, then set up a camp outside the town to billet the army, and finally surrounded the town and the camp with a trench and palisade.&lt;ref&gt;Peddie, John, Hannibal’s War p 94, ISBN 0-7509-3797-1&lt;/ref&gt; While the sick and wounded recovered in the camp, thousands of foragers fanned out throughout the plain to harvest crops while others pastured their cattle and horses on the mountainside. Two thirds of the army was employed in these operations while the rest guarded the camp.&lt;ref&gt;Cottrell, Leonard, Hannibal: Enemy of Rome, p 127 ISBN 0-306-80498-0&lt;/ref&gt;
+
+===Minucius in command===
+While the Carthaginians had been busy at Geronium, Fabius had left Minucius in charge of the Roman army with instructions to follow the ‘Fabian Strategy’ and journeyed to Rome to observe some religious duties. He possibly also had engaged in some political bickering because of his unpopularity among the Roman citizens.&lt;ref&gt;Bagnall, Nigel, The Punic Wars, p 188 ISBN 0-312-34214-4&lt;/ref&gt; Minucius, who had always advocated a more forward strategy against Hannibal, moved down from the hills after a few days and set up a new camp in the plain of Larinum to the north of Geronium. The Romans then began harassing the Carthaginian foragers from their new camp as Minucius sought to provoke Hannibal into battle. Hannibal in response moved near the Roman camp from Geronium with two thirds of his army, built a temporary camp,&lt;ref name=lazenby71/&gt; and occupied a hill overlooking the Roman camp with  2,000 Numidian spearmen.&lt;ref&gt;Bagnall, Nigel, The Punic Wars, ISBN 0-312-34214-4&lt;/ref&gt; The mobility of the Carthaginians was restricted at this time as their cavalry horses were being rested.&lt;ref&gt;Baker, G.P, Hannibal, p 120 ISBN 0-8154-1005-0&lt;/ref&gt; This had also deprived Hannibal of his best weapon against the Romans, a fact which would come into play soon.
+
+Minucius promptly attacked and drove back the spearmen posted on the hill, and then moved his camp to the top of the captured hill.  The stage was set for a confrontation, with the initiative resting with Minucius. And the Roman commander, for all his rashness, handled the situation with skill and shrewdness to manipulate the events to his advantage.
+
+=== Skirmish ===
+Responding to the Roman move, the Carthaginians reduced the number of their foragers for a few days and kept the army in readiness within their camp situated near the Roman camp. Minucius, however, sat tight in his camp, emulating Fabius.  This put Hannibal in horns of a dilemma: his army could stay in their camps and consume the accumulated supplies, thus risking a possible supply shortage later in the season, or start foraging in strength again and further build up their stores for the coming winter. Hannibal was eventually forced to send out parties in increasing numbers for foraging. The Romans, seizing their chance, sent out light infantry and horsemen through the back gate of their camp to cut off and kill a large number of Carthaginian foragers,&lt;ref&gt;Polybius, 3.100.2&lt;/ref&gt; who were scattered all over the plain of Geronium, while Minucius himself led the infantry in strength towards the temporary Carthaginian camp itself, where most of the Carthaginians had taken refuge after being worsted in the initial clash. Hannibal, with his foragers under attack and his camp in danger of being assaulted, led out a sortie against the attacking Roman infantry.&lt;ref name=peddie95&gt;Peddie, John, Hannibal’s War, p 95 ISBN 0-7509-3797-1&lt;/ref&gt;
+
+With only a third of the army present&lt;ref&gt;Cottrell, Leonard, Hannibal: Enemy of Rome, p 128 ISBN 0-306-80498-0&lt;/ref&gt; and most of their cavalry absent, the outnumbered Carthaginians fought a small-scale battle not of their own choosing, and mostly got the worst of the engagement. The Romans, at first shaken by the initial Carthaginian onslaught, finally gained the upper hand when a fresh force numbering 8,000 foot and 500 horse under Lucius Decimus the Samnite arrived in the rear of the Carthaginians, having been sent by Fabius to join the army at Geronium.&lt;ref&gt;Livy, 22.24 - however, Livy often muddles events, inflates Roman successes and minimizes or suppresses Roman failure -Lazanby, Hannibal's War p87&lt;/ref&gt; The Carthaginians now withdrew, the Romans gave chase and at one point Minucius considered overrunning and dismantling the camp itself. Only the arrival of Hasdrubal (the Quartermaster General) with 4,000 foragers somewhat redressed the Roman advantage, and Minucius chose to withdraw to his camp.&lt;ref name=peddie95/&gt; The Carthaginians are said to have suffered 6,000 casualties, the Romans about 5,000 during the whole affair. The Romans had managed to catch the Carthaginians at a disadvantage and had inflicted a large number of casualties during this skirmish. This was the only time Hannibal had been drawn into large scale skirmishing and had surrendered the initiative to the enemy&lt;ref name=lazenby71&gt;Lazenby, J.F., Hannibal's War, p 71 ISBN 0-8061-3004-0&lt;/ref&gt; during the war.
+
+This incident probably caused Hannibal to rethink his current tactical position. The Roman army outnumbered the Carthaginian one, and the Carthaginian army was divided between 2 camps while the Roman one was concentrated. From his position Minucius could harass the Cathaginians while keeping the detachment under Hannibal in check with part of his force. Staying in  the current position also might lead to constant skirmishing, and regardless of the results, a war of attrition was the worst possible course for the Carthaginians at present, being far away from reinforcements. Furthermore, there was also the possibility of a Roman attack on Geronium itself following a night march, leading to the loss of all his provisions. Hannibal chose to reduce the risk to his army and fell back to the main camp at Geronium. Minucius immediately occupied the deserted Carthaginian camp.
+
+===Minucius rewarded by Roman Senate===
+Hannibal and his Carthaginians had outgeneraled, outmaneuvered, outfought and obliterated three successive Roman armies since their arrival in Italy in 218 BC. The fear of defeat had caused the current Roman dictator to avoid fighting a pitched battle, and when he had managed to get the Carthaginians trapped at Ager Falernus, Hannibal had again made fools of the Romans and burst out with his army. All the while the Carthaginians had pillaged Italian property at will, despoiling the Romans while fattening their own pockets. Against this backdrop, the news of Minucius outmaneuvering Hannibal in this skirmish, and the retreat of the Carthaginian army was hailed in Rome as a great “victory”. This provided the political opponents of Fabius, embittered with his strategy, to spring a surprise on the dictator. The Roman army commanded by Fabius had apparently done little except follow Hannibal around and watch him ruin Roman economy, while the same army under a different general had caused Hannibal to retreat. So, the Roman senate sought a way to reward Minucius for his service to the state.
+
+The Roman political tradition and system did not allow the removal of a dictator during his term in office. However, since Fabius was a dictator who had been elected by the senate (not the usual way to become dictator), the senate could avail other options to minimize his powers. A praetor named “Metellus”&lt;ref&gt;Livy, 22.25-6&lt;/ref&gt; or, according to other sources, G. Terentius Varro (the future consul in 216 BC),&lt;ref&gt;Baker, G.P, Hannibal, p 123 ISBN 0-8154-1005-0&lt;/ref&gt; proposed a bill to elevate Minucius to the equal rank of Fabius. The bill was promptly passed, giving Rome 2 dictators at once for the first time in history and for all practical purposes reducing the status of dictator to that of a consul. Upon returning to the army, Fabius proposed that either he and Minucius command the whole army on alternate days, or they split their army into two independent commands. Minucius chose to split the army and took legions number II &amp; III, and two allied legions, and encamped one and a half miles south of where Fabius camped,&lt;ref&gt;Peddie, John, Hannibal’s War, p96 ISBN 0-7509-3797-1&lt;/ref&gt; possibly on the site of Hannibal’s temporary camp.&lt;ref&gt;Polybius 3.103. 7-8&lt;/ref&gt; In the coming days Minucius would act just as the senate had expected him to, but he would almost end up rendering the type of &quot;service&quot; to Rome which it could ill afford and likes of which Fabius had striven to avoid in the preceding months of the campaign.
+
+==Hannibal's response==
+The results of this debacle had not changed the strategic situation for Hannibal. His main winter base at Geronium still remained secured, and the Carthaginian general had not planned any major operations for the time being. The Roman army still outnumbered the Carthaginian one, and Hannibal did not wish to engage it unless he could ensure some decisive tactical advantage for his soldiers to win any future engagements with the minimal casualties. A war of attrition was a luxury he could not afford, being cut off from regular reinforcements from Carthage and adrift in hostile territory.
+
+When informed of the division of the Roman army, Hannibal reconsidered his strategic position and studied the possibility of destroying part of the Roman army in a pitched battle. The Roman armies were camped separately, so one army could be drawn out and engaged under favorable conditions before the other could intervene. It was a foregone conclusion that Minucius was more likely to swallow whatever bait laid out by Hannibal, as Fabius had shown himself to be immune to all forms of Punic provocations throughout the summer of 217 BC. So, it became a question of getting Minucius to fight before Fabius did anything, not fighting Fabius before Minucius hightailed to the rescue. Hannibal's next challenge was to formulate a plan to entrap and destroy the Roman army commanded by Minucius. After a careful study of the terrain, Hannibal devised a tactical plan which would take advantage of the aggressiveness of Minucius and the geographical features of the chosen battle site. The plan was to entice Minucius with a careful and timed maneuver into thinking that he was fighting a repeat of the skirmish he had earlier fought at Geronium, while springing a trap similar to the one Hannibal had sprung on the Romans at the [[Battle of Trebbia]] in 218 BC on the unsuspecting army of Minucius. It had been suggested that Hannibal had deliberately lost the skirmish on purpose to obtain this very opportunity, but that speculation seems a bit far-fetched.&lt;ref&gt;Bath, Tony, Hannibal’s Campaigns, p72  ISBN 0-88029-817-0&lt;/ref&gt;
+
+===The bait is laid===
+The ground between the Carthaginian and Roman camps was flat, treeless and barren, with a low ridge sitting midway between the camps. There were hollows and dead patches of land in the ground behind and beside the hill where soldiers could hide without being noticed.&lt;ref&gt;Lazenby, J.F., Hannibal’s War, p72  ISBN 0-8061-3004-0&lt;/ref&gt; Hannibal selected a picked body of 5,000 infantry and 500&lt;ref name=bagnall189&gt;Bagnall, Nigel, The Punic Wars, p 189, ISBN 0-312-34214-4&lt;/ref&gt; cavalry, and ordered them to conceal themselves in groups of 200-300 in the hollows and dead ground on the night before the battle. The skill and discipline of the Carthaginians is evident through their flawless execution of this potentially hazardous operation. At dawn, a contingent of Carthaginian light infantry took position on the hill in full view of the Romans. From their vantage point, the Carthaginians on the hill could spy on the Romans, just like the spearmen guard Minucius had dislodged from another hill prior to the start of the skirmish. Unlike the previous encounter, this time Hannibal was fully prepared for the Roman response.
+
+=== Battle of Geronium ===
+The nickname of Minucius was ''Rufus'' or Red (either he or one of his ancestors had red hair).  He probably saw red when he saw the Carthaginians deployed on the hill, thinking that he was going to fight Hannibal in a skirmish rather than in a battle he sent a group of velites to drive them off, unaware that he was sending them towards their fate.  In turn, Hannibal reinforced the hill with just enough soldiers to fight the Romans to a stalemate.  This caused Minucius to send the Roman and Italian allied cavalry up the hill, which Hannibal immediately countered with his Numidian and heavy Carthaginian cavalry, again seeking a stalemate.  With the cavalry engaged, Minucius lost his best tool for scouting the battleground and discovering the trap Hannibal had set for him.  After skirmishing for a while, the Roman cavalry slowly began to give ground against their better skilled opponents.
+
+Minucius, observing the situation, now called out his four legions and marched towards and then up the hill.  Hannibal had also deployed his infantry beyond the hill and now advanced to meet the advancing Romans.  The sequence and timing of events, all planned and orchestrated by Hannibal, did not give the Roman general any time to examine the ground or scout the area.&lt;ref&gt;Baker, G.P, Hannibal, p 124 ISBN 0-8154-1005-0&lt;/ref&gt; Fabius, who was watching the events unfold from his camp, called his army to arms but did not move out to help his fellow general.
+
+Just as the Roman infantry commanded by Minucius reached the hill and was moving up the slopes, the Roman cavalry broke and began to scatter. The Roman light troops, already hard pressed, were also driven back on the marching legions. The Roman battle formation was disrupted, and before the Romans could regain cohesion, the Carthaginians concealed in the hollows emerged and fell on the exposed flanks and rear of the Roman battle line.&lt;ref&gt;Peddie, John, Hannibal’s War, p 97-98 ISBN 0-7509-3797-1&lt;/ref&gt; Hannibal and his infantry struck the now unbalanced Romans from the front before the shock of the ambush faded or Minucius could take corrective action. Attacked from all sides, some of the Romans broke ranks and fled, while the others became surrounded and were fighting for their lives. A disaster for Rome again loomed, and barring divine intervention, only the actions of a general known for his avoidance of battle could have saved the army of Minucius from certain destruction.
+
+Fabius, later nicknamed “The Delayer”, failed to live up to his reputation. He marched out with his four legions to join the battle. The fleeing Romans of Minucius’ army began to form up beside his legions, the Carthaginians between the armies of Fabius and Minucius then gave way, enabling Minucius and his surviving soldiers to fall back and regroup beside the fresh Roman troops.  The genius of Hannibal, combined with the rashness of Minucius had finally drawn the reluctant Fabius to commit his troops in combat.  However, the coming ''Clash of Titans'' would produce very anticlimactic results.  Both armies regrouped and redeployed for battle, but instead of Fabius seeking to avoid the coming confrontation, ironically it was ''Hannibal'', taking a leaf out of Fabius's book, did not allow anything more than skirmishing to develop between the armies, and it was also Hannibal who first broke contact and retired to his camp. Fabius promptly followed suit and the battle was over.
+
+Possibly Hannibal did not wish to fight a battle of attrition against a still superior army, over half of which was fresh while the Carthaginians had been fighting for some time.&lt;ref name=bagnall189/&gt; Strategically, the destruction of the Roman army would not have changed the balance of power significantly for Hannibal at the time. While Carthaginians wintered at Geronium, the Romans would have been free to raise another army to deal with him. On the other hand, if Hannibal lost the battle, he might have lost the war on the spot for Carthage. The Carthaginians had inflicted severe casualties on the Romans, and only the prompt action of Fabius had saved the Rome from dealing with another disaster in the space of six months. Hannibal chose not to gamble, again displaying his understanding of &quot;economy of force&quot;, to reinforce success but not to throw good money after bad. Whatever damage the skirmish had done to the morale of his troops had been fully restored, he had dealt a body blow on the Romans in exchange of the bloody nose they had given him on the previous encounter.
+
+==Aftermath==
+Minucius, after the battle, turned over supreme command to Fabius, resuming his duties as the Master of Horse, and billeted his remaining troops with those of Fabius. Both Romans and Carthaginians then went to winter quarters, and no large actions were fought during the winter. After the term of Fabius as dictator expired in December of 217 BC, the army was turned over to the incoming consuls Attilus Regulus and Servillus Geminus. Hannibal had again demonstrated his skill in reading the character of his opponent and devising a tactical plan to take full advantage of the situation. The plan of Hannibal to destroy in detail the armies deployed against him did not bear fruit in the manner for which he had hoped. Whatever speculated advantages Hannibal had forsaken by not confronting the combined armies of Fabius and Minucius would be regained tenfold in the August of the following year when the Carthaginians would deal one of the largest armies ever fielded by the Roman Republic one of the greatest defeats ever suffered by any nation in history near a Roman supply depot in Apulia. The Armies of Hannibal and Rome remained in Geronium until June 216 BC, when Hannibal decided to start for [[Cannae]].
+
+== Trivia ==
+*Hannibal is said to have remarked “That cloud on the mountains has broken in storm at last!” &lt;ref name=baker124&gt;Baker, G.P., Hannibal, p 124 ISBN 0-8154-1005-0&lt;/ref&gt; when he saw Fabius approaching with his army. Fabius had been unmoved despite all the provocations of Hannibal had cooked up to entice him into battle during his tenure as dictator.
+*Minucius, after his rescue, had hailed Fabius as his father, and had instructed his troops to treat the troops of Fabius as their patrons.&lt;ref name=fallofcarthage195&gt;Goldsworthy, Adrian, The Fall of Carthage, p 195 ISBN 0-304-36642-0&lt;/ref&gt; Fabius, for his part, did not humiliate Minucius for the debacle, and allowed him all the honors due to his position.
+*Hannibal had tried all kinds of provocations to get Fabius to fight, he had even spared the property of Fabius while devastating all else, to cast doubts about him. Fabius, when he found out during a prisoner exchange that Hannibal held 247 people more than the Romans did, and the Senate had declined to fund their ransom, had sold part of the property to ransom the prisoners,&lt;ref name=baker124/&gt; and then had refused to accept any money from the freed prisoners.
+*The Fabian Policy of following Hannibal around Italy but refusing battle had become so unpopular that the Romans named Fabius Hannibal’s “paedagogus,” after a certain class of slave who followed a Roman child to school carrying his books.&lt;ref name=fallofcarthage195/&gt;
+
+== References ==
+{{reflist|2}}
+
+== Bibliography ==
+* {{cite book | title = The Punic Wars | year = 1990 | author = Bagnall, Nigel |  isbn = 0-312-34214-4 }}
+* {{cite book | title = Hannibal: Enemy of Rome | year = 1992 | author = Cottrell, Leonard | publisher = Da Capo Press | isbn = 0-306-80498-0 }}
+* {{cite book | title = Hannibal's War | year = 1978 | author = Lazenby, John Francis |  publisher = Aris &amp; Phillips | isbn = 0-85668-080-X }}
+*{{cite book | title = The Fall of Carthage | year = 2003 | author = Goldsworthy, Adrian |  publisher = Cassel Military Paperbacks | isbn = 0-304-36642-0 }}
+* {{cite book | title = Hannibal's War | year = 2005 | author = Peddie, John  |  publisher = Sutton Publishing Limited | isbn = 0-7509-3797-1 }}
+*{{cite book | title = Hannibal | year = 1999 | author = Lancel, Serge  |  publisher = Blackwell Publishers  | isbn = 0-631-21848-3 }}
+*{{cite book | title = Hannibal | year = 1999 | author = Baker, G. P.  |  publisher = Cooper Square Press | isbn = 0-8154-1005-0 }}
+
+===Further reading===
+*{{cite book | title = Hannibal | year = 1891 | author = Dodge, Theodore A.  |  publisher = Da Capo Press | isbn = 0-306-81362-9 }}
+*{{cite book | title = Warfare in the Classical World | year = 1993 | author = Warry, John  |  publisher = Salamander Books Ltd | isbn = 1-56619-463-6  }}
+*{{cite book | title = The War With Hannibal | year = 1972 | author = Livius, Titus  |  publisher = Penguin Books  | isbn = 0-14-044145-X }}
+*{{cite book | title = Warfare in Antiquity, Volume 1 | year = 1990 | author = Delbruck, Hans  |  publisher = University of Nebraska Press | isbn = 0-8032-9199-X }}
+* {{cite book | title = Carthage A History | year = 1997 | author = Lancel, Serge | publisher = Blackwell Publishers | isbn = 1-57718-103-4 }}
+
+{{Punic Wars navbox}}
+
+{{coord|41.7618|N|14.7334|E|source:wikidata|display=title}}
+
+{{DEFAULTSORT:Battle Of Geronium}}
+[[Category:Battles of the Second Punic War]]
+[[Category:217 BC]]
+[[Category:210s BC conflicts]]</text>
+      <sha1>f3zn1cv8xw3fj0xie5jixz3deaae7zb</sha1>
+    </revision>
+  </page>
+</mediawiki>

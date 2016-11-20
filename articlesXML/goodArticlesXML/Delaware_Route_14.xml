@@ -1,0 +1,222 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Delaware Route 14</title>
+    <ns>0</ns>
+    <id>10074844</id>
+    <revision>
+      <id>740420831</id>
+      <parentid>731244641</parentid>
+      <timestamp>2016-09-20T23:50:28Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* History */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23697">{{Infobox road
+|state=DE
+|type=DE
+|route=14
+|map=Delaware Route 14 map.svg
+|length_mi=19.12
+|length_round=2
+|length_ref=&lt;ref name=DelDOT&gt;{{cite web |author= Staff |title= Traffic Count and Mileage Report: Interstate, Delaware, and US Routes |publisher= [[Delaware Department of Transportation]] |year= 2011 |url= http://www.deldot.gov/information/pubs_forms/manuals/traffic_counts/2011/pdf/2011_Interstate_DE_US.pdf |format= PDF |accessdate= May 17, 2012}}&lt;/ref&gt;
+|maint=[[Delaware Department of Transportation|DelDOT]]
+|established=1936&lt;ref name=&quot;DE 1936 map&quot;/&gt;
+|direction_a=West
+|direction_b=East
+|terminus_a={{jct|state=MD|MD|317}} near [[Burrsville, Maryland|Burrsville, MD]]
+|junction={{jct|state=DE|US|13|SR-Truck|14}} in [[Harrington, Delaware|Harrington]]&lt;br&gt;{{jct|state=DE|DE|15}} in [[Milford, Delaware|Milford]]&lt;br&gt;{{jct|state=DE|US|113}} in Milford&lt;br&gt;{{jct|state=DE|SR-Bus|1}} in Milford
+|terminus_b={{jct|state=DE|DE|1}} near Milford
+|counties=[[Kent County, Delaware|Kent]]
+|previous_type=US
+|previous_route=13
+|next_type=DE
+|next_route=14A}}
+
+'''Delaware Route 14''' ('''DE 14''') is a state highway in the southern part of [[Kent County, Delaware]]. The route runs from the [[Maryland]] border near [[Burrsville, Maryland]], where it continues as [[Maryland Route 317]] (MD 317), east to [[Delaware Route 1|DE 1]] in [[Milford, Delaware|Milford]]. The route passes through [[Harrington, Delaware|Harrington]], where it intersects [[U.S. Route 13 in Delaware|U.S. Route 13]] (US 13), and passes to the north of [[Houston, Delaware|Houston]] before coming to Milford, where it intersects [[Delaware Route 15|DE 15]], [[U.S. Route 113|US 113]], and [[Delaware Route 1 Business|DE 1 Business]] (DE 1 Bus.). DE 14 has a [[Truck route|truck bypass]] of Harrington known as [[Delaware Route 14 Truck|DE 14 Truck]].
+
+DE 14 was first designated by 1936 to run from the Maryland border near Burrsville east to [[Delaware Route 26|DE 26]] in [[Bethany Beach, Delaware|Bethany Beach]]. In 1939, the road was extended south to [[Fenwick Island, Delaware|Fenwick Island]]. In the 1940s, the road was realigned to bypass [[Rehoboth Beach, Delaware|Rehoboth Beach]]. The route between [[Nassau, Delaware|Nassau]] and Rehoboth Beach was widened into a [[divided highway]] in the 1950s, with all of DE 14 southeast of Milford being upgraded to a divided highway by the 1970s. In 1977, most of DE 14 east of Milford was replaced with DE 1, with the eastern terminus being realigned to its current location by 1984.
+
+==Route description==
+[[File:DE 14 WB past DE 1.jpg|thumb|right|DE 14 westbound past DE 1 in Milford]]
+DE 14 begins at the [[Maryland]] border, where it continues west into that state as [[Maryland Route 317|MD 317]]. From the state line, the route heads east on two-lane undivided Vernon Road, passing through a mix of farmland and woodland with occasional homes. The road curves to the northeast before bending east as Walt Messick Road and entering [[Harrington, Delaware|Harrington]]. DE 14 runs past homes and some businesses before intersecting [[Delaware Route 14 Truck|DE 14 Truck]], which bypasses Harrington to the south. At this point, DE 14 heads northeast on Commerce Street into the downtown area. Here, the route turns east onto Clark Street and crosses [[Norfolk Southern]]'s Delmarva Secondary railroad line. On the eastern edge of Harrington, DE 14 intersects [[U.S. Route 13 in Delaware|US 13]] in a commercial area, at which point DE 14 Truck returns to the route.&lt;ref name=&quot;DE 2008 map&quot;&gt;{{Delaware road map|year=2008|access-date=November 24, 2015}}&lt;/ref&gt;&lt;ref name=&quot;google&quot;&gt;{{google maps |url=http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=DE+14+and+MD+317&amp;daddr=DE+1+and+DE+14&amp;geocode=FZh_UQIdZnt8-ympQnAuiGK4iTGMFaS8ES2N3A%3BFfj1UQId5UmB-ylPwTuUl5m4iTF9pmxTXhvzLQ&amp;hl=en&amp;mra=ls&amp;sll=39.228965,-75.606215&amp;sspn=0.970182,2.705383&amp;ie=UTF8&amp;t=h&amp;z=12|title=overview of Delaware Route 14|accessdate=February 8, 2011}}&lt;/ref&gt;
+
+Past this intersection, the route leaves Harrington and becomes Milford Harrington Highway, heading through a mix of farms and woods with some residential development. The road continues east through more rural areas, passing to the north of [[Houston, Delaware|Houston]]. Farther east, DE 14 bends southeast and intersects the southern terminus of [[Delaware Route 15|DE 15]], crossing into [[Milford, Delaware|Milford]]. The road enters commercial areas and gains a [[center left-turn lane]], coming to an intersection with [[U.S. Route 113|US 113]]. Past this intersection, the route becomes Northwest Front Street and runs past homes and businesses a short distance to the north of Norfolk Southern's Indian River Secondary railroad line and [[Silver Lake (Milford, Delaware)|Silver Lake]] along the [[Mispillion River]], narrowing back to two lanes. The road curves to the east, passing to the south of the [[Parson Thorne Mansion]], and heads through the downtown of Milford, becoming Northeast Front Street at the intersection with North Walnut Street. DE 14 passes a short distance to the north of the Mispillion River, curving northeast and coming to an intersection with [[Delaware Route 1 Business|DE 1 Bus.]] Past this intersection, the route continues through areas of farmland with some commercial development, ending at an intersection with the [[Delaware Route 1|DE 1]] bypass of Milford.&lt;ref name=&quot;DE 2008 map&quot;/&gt;&lt;ref name=&quot;google&quot;/&gt;
+
+DE&amp;nbsp;14 has an [[annual average daily traffic]] count ranging from a high of 14,121&amp;nbsp;vehicles at the western edge of Milford to a low of 1,804&amp;nbsp;vehicles at the eastern terminus at DE 1.&lt;ref name=DelDOT/&gt; None of DE&amp;nbsp;14 is part of the [[National Highway System (United States)|National Highway System]].&lt;ref name=&quot;NHS&quot;&gt;{{cite map|publisher=[[Federal Highway Administration]]|title=National Highway System: Delaware|format=PDF|url=http://www.fhwa.dot.gov/planning/national_highway_system/nhs_maps/delaware/de_delaware.pdf|year=2010|accessdate=February 10, 2012}}&lt;/ref&gt;
+
+==History==
+What would become DE 14 originally existed as a county road between the Maryland border in Burrsville and [[Rehoboth Beach, Delaware|Rehoboth Beach]] by 1920.&lt;ref name=&quot;DE 1920 map&quot;&gt;{{Delaware road map|year=1920|access-date=November 24, 2015}}&lt;/ref&gt; By 1924, the road was built as a state highway between Burrsville and Milford and was proposed as one between [[Nassau, Delaware|Nassau]] and Rehoboth Beach.&lt;ref name=&quot;DE 1924 map&quot;&gt;{{Delaware road map|year=1924|access-date=November 24, 2015}}&lt;/ref&gt; A year later, the state road was completed between Milford and [[Cedar Creek, Delaware|Cedar Creek]] and from Nassau to just west of Rehoboth Beach, with the sections between Cedar Creek and Nassau and into Rehoboth Beach under proposal.&lt;ref name=&quot;DE 1925 map&quot;&gt;{{Delaware road map|year=1925|access-date=November 24, 2015}}&lt;/ref&gt; A [[bascule bridge]] was constructed over the [[Lewes and Rehoboth Canal]] in Rehoboth Beach in 1926.&lt;ref name=&quot;1926 report&quot;&gt;{{cite journal|title=Delaware State Highway Department Report|edition=1926|page=6|publisher=Delaware State Highway Department|location=Dover, Delaware|date=December 31, 1926|url=http://www.deldot.gov/archaeology/historic_pres/annual_reports/pdf/1926/annual_1926_chief.pdf|accessdate=November 16, 2014}}&lt;/ref&gt; In 1927, the state highway between Milford and Rehoboth Beach was finished with the construction of a bascule bridge over the [[Broadkill River]].&lt;ref name=&quot;1927 report&quot;&gt;{{cite journal|title=Annual Report of the State Highway Department|edition=1927|page=7|publisher=Delaware State Highway Department|location=Dover, Delaware|date=December 31, 1927|url=http://www.deldot.gov/archaeology/historic_pres/annual_reports/pdf/1927/annual_1927_chief.pdf|accessdate=October 30, 2014}}&lt;/ref&gt;&lt;ref name=&quot;DE 1931 map&quot;&gt;{{Delaware road map|year=1931|access-date=November 24, 2015}}&lt;/ref&gt; 
+
+In 1931, a state gravel road was extended from [[Bethany Beach, Delaware|Bethany Beach]] to the [[Indian River Inlet]] along the [[Atlantic Ocean]], providing access to the inlet for recreational purposes.&lt;ref name=&quot;1931 report&quot;&gt;{{cite journal|title=Annual Report of the State Highway Department|edition=1931|page=38|publisher=Delaware State Highway Department|location=Dover, Delaware|date=December 31, 1931|url=http://www.deldot.gov/archaeology/historic_pres/annual_reports/pdf/1931/annual_1931_chief.pdf|accessdate=October 30, 2014}}&lt;/ref&gt; By this time, the county road between Rehoboth Beach and [[Dewey Beach, Delaware|Dewey Beach]] was paved.&lt;ref name=&quot;DE 1931 map&quot;&gt;{{Delaware road map|year=1931|access-date=November 24, 2015}}&lt;/ref&gt;  In January 1933, bids were made for construction of a gravel road from Dewey Beach south to the Indian River Inlet as well as for a [[timber bridge]] across the inlet, connecting with the gravel road between the Indian River Inlet and Bethany Beach. This gravel road would provide a direct connection between Bethany Beach and Rehoboth Beach and would provide better access to the Atlantic coast for recreation.&lt;ref name=&quot;1932 report&quot;&gt;{{cite journal|title=Annual Report of the State Highway Department|edition=1932|page=37|publisher=Delaware State Highway Department|location=Dover, Delaware|date=December 31, 1932|url=http://www.deldot.gov/archaeology/historic_pres/annual_reports/pdf/1932/annual_1932_chief.pdf|accessdate=October 30, 2014}}&lt;/ref&gt; The Ocean Highway between Bethany Beach and Rehoboth Beach was completed in 1933. In fall of that year, the roadway between Bethany Beach and Indian River Inlet was paved, with recommendations to pave the road north from the Indian River Inlet toward Rehoboth Beach.&lt;ref name=&quot;1933 report&quot;&gt;{{cite journal|title=Annual Report of the State Highway Department of the State of Delaware|edition=1933|page=27, 40|publisher=Delaware State Highway Department|location=Dover, DE|date=January 1, 1934|url=http://www.deldot.gov/archaeology/historic_pres/annual_reports/pdf/1933/annual_1933_chief.pdf|format=PDF|accessdate=October 22, 2014}}&lt;/ref&gt; In 1934, the Ocean Highway between the Indian River Inlet and Rehoboth Beach was paved. The same year, recommendations were made to extend the Ocean Highway south from Bethany Beach to [[Fenwick Island, Delaware|Fenwick Island]], where it would lead to a Maryland state highway continuing to [[Ocean City, Maryland|Ocean City]].&lt;ref name=&quot;1934 report&quot;&gt;{{cite journal|title=Annual Report of the State Highway Department of the State of Delaware|edition=1934|pages=9, 16, 39|publisher=Delaware State Highway Department|location=Dover, DE|date=January 1, 1935|url=http://www.deldot.gov/archaeology/historic_pres/annual_reports/pdf/1934/annual_1934_chief.pdf|format=PDF|accessdate=October 22, 2014}}&lt;/ref&gt;
+
+DE 14 was designated to run from the Maryland border in Burrsville east to [[Delaware Route 26|DE 26]] in Bethany Beach by 1936.&lt;ref name=&quot;DE 1936 map&quot;&gt;{{Delaware road map|year=1936|access-date=November 24, 2015}}&lt;/ref&gt; In 1939, a southern extension of DE 14 was built between Bethany Beach and the Maryland border in Fenwick Island as a gravel road.&lt;ref name=&quot;1939 report&quot;&gt;{{cite journal|title=Annual Report of the State Highway Department|edition=1939|page=21|publisher=Delaware State Highway Department|location=Dover, Delaware|date=January 1, 1940|url=http://www.deldot.gov/archaeology/historic_pres/annual_reports/pdf/1939/annual_1939_chief.pdf|format=PDF|accessdate=October 30, 2014}}&lt;/ref&gt;&lt;ref name=&quot;DE 1939 map&quot;&gt;{{Delaware road map|year=1939|access-date=November 24, 2015}}&lt;/ref&gt; In 1940, a [[swing bridge]] opened across the Indian River Inlet.&lt;ref name=&quot;1939 report&quot;/&gt;&lt;ref name=&quot;1940 report&quot;&gt;{{cite journal|title=Annual Report of the State Highway Department|edition=1940|page=5, 13|publisher=Delaware State Highway Department|location=Dover, Delaware|date=January 1, 1941|url=http://www.deldot.gov/archaeology/historic_pres/annual_reports/pdf/1940/annual_1940_chief.pdf|format=PDF|accessdate=October 30, 2014}}&lt;/ref&gt; The same year, work began for a bypass of the route between Dewey Beach and west of Rehoboth Beach, which included a bascule bridge over the Lewes and Rehoboth Canal.&lt;ref name=&quot;1940 report&quot;/&gt; In 1942, the Rehoboth Beach bypass for DE 14 was completed.&lt;ref name=&quot;1942 report&quot;&gt;{{cite journal|title=Annual Report of the State Highway Department|edition=1941-42|pages=23|publisher=Delaware State Highway Department|location=Dover, Delaware|date=July 1, 1942|url=http://www.deldot.gov/archaeology/historic_pres/annual_reports/1941-42/Chief_Engineers_Report.pdf|format=PDF|accessdate=November 17, 2014}}&lt;/ref&gt;&lt;ref name=&quot;DE 1942 map&quot;/&gt; In addition, the roadway was paved between Fenwick Island and Bethany Beach by that year.&lt;ref name=&quot;DE 1942 map&quot;&gt;{{Delaware road map|year=1942|access-date=November 24, 2015}}&lt;/ref&gt; In 1952, a new swing bridge opened across the Indian River Inlet after the previous bridge was destroyed by ice and tides in 1948.&lt;ref name=cg&gt;{{cite news|last=O'Shea|first=Dennis|title=Replacing Indian River Inlet bridge a vital project|page=7|url=https://news.google.com/newspapers?id=U6RkAAAAIBAJ&amp;sjid=HYUNAAAAIBAJ&amp;pg=1750,2583113&amp;dq=indian+river+inlet+bridge&amp;hl=en|date=October 26, 2006|accessdate=April 17, 2012|work=Cape Gazette}}&lt;/ref&gt;
+
+The route was widened into a [[divided highway]] between [[Delaware Route 18|DE 18]] (now [[U.S. Route 9 in Delaware|US 9]]) in Nassau and Rehoboth Beach in 1954 in order to provide relief to traffic heading to the beaches. Channelized intersections were built at DE 18 and the entrance to Rehoboth Beach.&lt;ref name=&quot;1954 report&quot;&gt;{{cite journal|title=Report of the State Highway Department|edition=1954|page=12|publisher=Delaware State Highway Department|location=Dover, Delaware|date=July 1, 1954|url=http://www.deldot.gov/archaeology/historic_pres/annual_reports/pdf/1954/annual_1954_chief.pdf|format=PDF|accessdate=October 31, 2014}}&lt;/ref&gt;&lt;ref name=&quot;1955 report&quot;&gt;{{cite journal|title=Report of the State Highway Department|edition=1955|page=21|publisher=Delaware State Highway Department|location=Dover, Delaware|date=July 1, 1955|url=http://www.deldot.gov/archaeology/historic_pres/annual_reports/pdf/1955/annual_1955_chief.pdf|format=PDF|accessdate=October 31, 2014}}&lt;/ref&gt; As part of this widening, DE 14 was moved to a new alignment to bypass [[Wescoats Corner, Delaware|Wescoats Corner]], removing a concurrency with DE 18 (now [[U.S. Route 9 Business (Lewes, Delaware)|US 9 Bus.]]).&lt;ref name=&quot;DE 1954 map&quot;&gt;{{Delaware road map|year=1954|access-date=November 24, 2015}}&lt;/ref&gt; In 1956, DE 14 was realigned slightly north to its current alignment in Burrsville to meet a new routing of MD 317; the former alignment is now Knife Box Road.&lt;ref name=&quot;DE 1954 map&quot;/&gt;&lt;ref name=&quot;1956 report&quot;&gt;{{cite journal|title=Report of the State Highway Department|edition=1956|page=19|publisher=Delaware State Highway Department|location=Dover, Delaware|date=July 1, 1956|url=http://www.deldot.gov/archaeology/historic_pres/annual_reports/pdf/1956/annual_1956_chief.pdf|format=PDF|accessdate=November 9, 2014}}&lt;/ref&gt;&lt;ref name=&quot;DE 1957 map&quot;&gt;{{Delaware road map|year=1957|access-date=November 24, 2015}}&lt;/ref&gt; In 1965, a new dual bridge was constructed across the Indian River Inlet.&lt;ref name=&quot;1965 report&quot;&gt;{{cite journal|title=1965 Annual Report Delaware State Highway Department|edition=1965|page=22|publisher=Delaware State Highway Department|location=Dover, Delaware|date=June 30, 1965|url=http://www.deldot.gov/archaeology/historic_pres/annual_reports/pdf/1965/1965_plan_review.pdf|format=PDF|accessdate=October 31, 2014}}&lt;/ref&gt; By 1966, [[Delaware Route 14A|DE 14A]] was designated onto the former alignment of DE 14 through Rehoboth Beach.&lt;ref name=&quot;DE 1966 map&quot;&gt;{{Delaware road map|year=1966|access-date=November 24, 2015}}&lt;/ref&gt; The divided highway portion of DE 14 was extended north to [[Delaware Route 16|DE 16]], which included a bypass of Nassau, and between the Indian River Inlet and [[South  Bethany, Delaware|South Bethany]] in 1967.&lt;ref name=&quot;1967 report&quot;&gt;{{cite journal|title=1967 Annual Report Delaware State Highway Department|edition=1967|page=11|publisher=Delaware State Highway Department|location=Dover, Delaware|date=June 30, 1967|url=http://www.deldot.gov/archaeology/historic_pres/annual_reports/pdf/1967/div_rpts.pdf|format=PDF|accessdate=October 31, 2014}}&lt;/ref&gt;&lt;ref name=&quot;DE 1967 map&quot;&gt;{{Delaware road map|year=1967|access-date=November 24, 2015}}&lt;/ref&gt; In 1971, the divided Miford Bypass between DE 14 southeast of Milford and US 113 north of Milford was completed.&lt;ref name=&quot;DE 1971 map&quot;&gt;{{Delaware road map|year=1971|access-date=November 24, 2015}}&lt;/ref&gt;&lt;ref name=&quot;1972 report&quot;&gt;{{cite journal|title=Annual Report 1972|edition=1972|page=18|publisher=Delaware Department of Highways and Transportation|location=Dover, Delaware|date=October 15, 1972|url=http://www.deldot.gov/archaeology/historic_pres/annual_reports/pdf/1972/1972_rpt.pdf|format=PDF|accessdate=October 31, 2014}}&lt;/ref&gt; In 1971, a contract was awarded to widen DE 14 to a divided highway between Fenwick Island and South Bethany.&lt;ref name=&quot;1971 report&quot;&gt;{{cite journal|title=Annual Report 1971|edition=1971|page=6|publisher=Delaware Department of Highways and Transportation|location=Dover, Delaware|date=November 15, 1971|url=http://www.deldot.gov/archaeology/historic_pres/annual_reports/pdf/1971/1971_rpt.pdf|format=PDF|accessdate=October 31, 2014}}&lt;/ref&gt; This widening project was completed a year later.&lt;ref name=&quot;1972 report&quot;/&gt; In 1973, construction was underway to make DE 14 a divided highway from the Milford Bypass to DE 16, which included a bypass of [[Argos Corner, Delaware|Argos Corner]]; this was completed in 1974.&lt;ref name=&quot;DE 1973 map&quot;&gt;{{Delaware road map|year=1973|access-date=November 24, 2015}}&lt;/ref&gt; 
+
+In 1974, DE 1 was signed concurrent with DE 14 east of Milford and on the Milford Bypass.&lt;ref name=&quot;MD 1974 map&quot;&gt;{{Maryland road map|year=1974}}&lt;/ref&gt; In 1977, DE 14 was truncated to the southern terminus of the Milford Bypass southeast of Milford, with DE 1 replacing the route between Fenwick Island and the south end of the Milford Bypass and DE 1 Bus. becoming concurrent with route between the Milford Bypass and Northeast Front Street.&lt;ref name=&quot;MD 1977 map&quot;&gt;{{Maryland road map|year=1977}}&lt;/ref&gt;&lt;ref name=&quot;DE 1981 map&quot;&gt;{{Delaware road map|year=1981|access-date=November 24, 2015}}&lt;/ref&gt; As a result of this, DE 14A was renumbered to [[Delaware Route 1A|DE 1A]].&lt;ref name=&quot;DE 1981 map&quot;/&gt; DE 14 was realigned to follow Northeast Front Street to end at DE 1 on the Milford Bypass by 1984.&lt;ref name=&quot;DE 1984 map&quot;&gt;{{Delaware road map|year=1984|access-date=November 24, 2015}}&lt;/ref&gt;
+
+==Major intersections==
+{{Jcttop|length_ref=&lt;ref name=DelDOT/&gt;|state=DE|county=Kent}}
+{{DEint
+|location=none
+|mile=0.00
+|road={{jct|state=MD|MD|317|dir1=west|name1=Burrsville Road|city1=Denton}}
+|notes=Maryland state line, western terminus
+}}
+{{DEint
+|location=Harrington
+|lspan=2
+|mile=8.59
+|road={{jct|state=DE|SR-Truck|14|dir1=east|name1=Farmington Road|city1=Farmington}}
+|notes=
+}}
+{{DEint
+|mile=9.64
+|road={{jct|state=DE|US|13|SR-Truck|14|dir2=west|name2=Dupont Highway|city1=Dover|city2=Farmington|city3=Greenwood}}
+|notes=
+}}
+{{DEint
+|location=Milford
+|lspan=4
+|mile=15.78
+|road={{Jct|state=DE|DE|15|dir1=north|name1=Canterbury Road|city1=Canterbury|city2=Dover}}
+|notes=
+}}
+{{DEint
+|mile=17.06
+|road={{Jct|state=DE|US|113|name1=Dupont Boulevard|city1=Dover|city2=Georgetown}}
+|notes=
+}}
+{{DEint
+|mile=18.51
+|road={{Jct|state=DE|SR-Bus|1|name1=Rehoboth Boulevard|city1=Dover|city2=Lewes|city3=Rehoboth Beach}}
+|notes=
+}}
+{{DEint
+|mile=19.12
+|road={{Jct|state=DE|DE|1|name1=Milford Bypass}}
+|notes=Eastern terminus
+}}
+{{jctbtm}}
+
+==Bannered and suffixed routes==
+
+===DE 14 Truck===
+{{Infobox road small
+|state=DE
+|type=DE
+|subtype=Truck
+|route=14
+|location=[[Harrington, Delaware|Harrington]]
+|formed=2008&lt;ref name=&quot;DE 2008 map&quot;/&gt;&lt;ref name=deldot/&gt;
+|length_mi=3.9
+|length_ref=&lt;ref name=&quot;google2&quot;/&gt;
+|length_round=1
+}}
+'''Delaware Route 14 Truck''' ('''DE 14 Truck''') is a [[Truck route|truck bypass]] of DE 14 in Harrington. The route heads south from DE 14 on two-lane undivided Farmington Road, leaving Harrington and heading through farmland. DE 14 Truck turns east onto Tower Hill Road and crosses Norfolk Southern's Delmarva Secondary railroad line before coming to an intersection with US 13. At this point, the truck route turns north to form a [[concurrency (road)|concurrency]] with US 13 on Dupont Highway, a four-lane divided highway. The road heads back into Harrington and runs through commercial areas, passing to the east of the Delaware State Fairgrounds, which is where the [[Delaware State Fair]] is held and the [[Harrington Raceway &amp; Casino]] is located. US 13/DE 14 Truck crosses Norfolk Southern's Indian River Secondary, with the median widening to include businesses in it. DE 14 Truck ends at another intersection with DE 14.&lt;ref name=&quot;DE 2008 map&quot;/&gt;&lt;ref name=&quot;google2&quot;&gt;{{google maps |url=http://maps.google.com/maps?saddr=Commerce+St&amp;daddr=38.8965539,-75.5761179+to:Rd+36%2FClark+St&amp;hl=en&amp;sll=38.91027,-75.577354&amp;sspn=0.035731,0.084543&amp;geocode=FcLaUQIdErV--w%3BFamDUQIdy8x--yljcp80dY-4iTE5WIgbgekBlQ%3BFdLuUQId5_F--w&amp;t=h&amp;mra=dpe&amp;mrsp=1&amp;sz=14&amp;via=1&amp;z=14|title=overview of Delaware Route 14 Truck|accessdate=June 30, 2012}}&lt;/ref&gt; DE 14 Truck was designated in 2008 following an $8.5 million, year-long project that improved the roads the truck route follows.&lt;ref name=&quot;DE 2008 map&quot;/&gt;&lt;ref name=deldot&gt;{{cite web|url=http://www.deldot.gov/public.ejs?command=PublicNewsDisplay&amp;id=3128&amp;month=8&amp;year=2008|title=City of Harrington Truck Route By-Pass Opens Today |date=August 20, 2008|publisher=[[Delaware Department of Transportation]]|accessdate=February 1, 2009}}&lt;/ref&gt;
+
+;Major intersections
+{{Jcttop|length_ref=&lt;ref name=&quot;google2&quot;/&gt;|state=DE|county=Kent|location=Harrington}}
+{{DEint
+|mile=0.0
+|road={{jct|state=DE|DE|14|nolink1=yes|name1=Walt Messick Road|to2=to|US|13}}
+|notes=Western terminus
+}}
+{{DEint
+|mile=1.9
+|type=concur
+|road={{jct|state=DE|US|13|dir1=south|name1=Dupont Highway|city1=Farmington|city2=Greenwood}}
+|notes=West end of US 13 overlap
+}}
+{{DEint
+|mile=3.9
+|type=concur
+|road={{jct|state=DE|US|13|dir1=north|name1=Dupont Highway|city1=Dover}}&lt;br&gt;{{jct|state=DE|DE|14|nolink1=yes|name1=Clark Street/Milford Harrington Highway|location1=[[Denton, Maryland|Denton]]|city2=Harrington|city3=Houston|city4=Milford}}
+|notes=Eastern terminus
+}}
+{{jctbtm|keys=concur}}
+{{-}}
+
+===Former DE 14A===
+{{main|Delaware Route 1A}}
+{{Infobox road small
+|state=DE
+|type=DE
+|route=14A
+|location=[[Dewey Beach, Delaware|Dewey Beach]]-[[Rehoboth Beach, Delaware|Rehoboth Beach]]
+|formed=1966&lt;ref name=&quot;DE 1966 map&quot;/&gt;
+|deleted=1977&lt;ref name=&quot;MD 1977 map&quot;/&gt;
+|length_mi=2.92
+|length_ref=&lt;ref name=DelDOT/&gt;
+|length_round=2
+}}
+'''Delaware Route 14A''' ('''DE 14A''') was the designation of the former alignment of DE 14 through Dewey Beach and Rehoboth Beach. The route began at DE 14 in Dewey Beach and headed north into Rehoboth Beach, where it turned to the west and intersected DE 14 again west of Rehoboth Beach.&lt;ref name=&quot;DE 1976 map&quot;&gt;{{Delaware road map|year=1976|access-date=November 24, 2015}}&lt;/ref&gt; The route was a former segment of DE 14 that was bypassed by 1942 and received the DE 14A designation by 1966.&lt;ref name=&quot;DE 1942 map&quot;/&gt;&lt;ref name=&quot;DE 1966 map&quot;/&gt; By 1974, the route would become cosigned with DE 1A, with DE 1A replacing DE 14A in 1977.&lt;ref name=&quot;MD 1974 map&quot;/&gt;&lt;ref name=&quot;MD 1977 map&quot;/&gt;&lt;ref name=&quot;DE 1976 map&quot;/&gt;
+{{-}}
+
+==See also==
+*{{Portal-inline|U.S. Roads}}
+*{{Portal-inline|Delaware}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+*{{commonscat-inline}}
+{{AttachedKML|display=title,inline}}
+
+{{good article}}
+
+[[Category:State highways in Delaware|014]]
+[[Category:Transportation in Kent County, Delaware]]</text>
+      <sha1>dlp51mej2yh2tshuun6h1wffj0j3g40</sha1>
+    </revision>
+  </page>
+</mediawiki>

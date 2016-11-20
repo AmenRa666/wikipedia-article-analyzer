@@ -1,0 +1,248 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lysaker Station</title>
+    <ns>0</ns>
+    <id>8305595</id>
+    <revision>
+      <id>738473785</id>
+      <parentid>721609179</parentid>
+      <timestamp>2016-09-09T04:43:43Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Green Cardamom/WaybackMedic 2|WaybackMedic 2]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23141">{{Infobox station
+| name                = Lysaker
+| style               = 
+| image               = Lysaker stasjon - 2010-05-02 at 13-38-06.jpg
+| image_caption       = 
+| address             = Drammensveien 325&lt;br /&gt;[[Lysaker]],&amp;nbsp;[[Bærum]]
+| country             = [[Norway]]
+| coordinates         = 
+| latd = 59 | latm = 54 | lats = 49 | latNS = N
+| longd= 10 | longm= 38 | longs= 9  | longEW= E
+| iso_region          = NO
+| coordinates_display = inline,title
+| map_type            = Akershus
+| elevation           = {{convert|7.5|m|ft|0|abbr=on}}
+| line                = [[Drammen Line]]&lt;br /&gt;[[Asker Line]]
+| connections         = Bus: [[Ruter]] routes 24, 31, 32, 36, 121, 131, 143, 151, 251, 252&lt;br&gt;Ferry: [[Ruter]] 716 to [[Nesoddtangen]]
+| distance            = {{convert|7.00|km|abbr=on}}
+| structure           = Elevated
+| platform            = 2 [[island platform]]s
+| depth               = 
+| levels              = 
+| tracks              = 4
+| parking             = 
+| bicycle             = 
+| opened              = {{start date|7 October 1872}}
+| architect           = [[Georg Andreas Bull]] (1872)&lt;br&gt;Adalbert Kielland (1916)&lt;br&gt;[[Arne Henriksen]] (1987)&lt;br&gt;[[Snøhetta (company)|Snøhetta]] (2009)
+| closed              = 
+| rebuilt             = 1914, 1987, 2006–09
+| electrified         = 30 August 1922
+| ADA                 = Yes
+| code                = 
+| owned               = [[Norwegian National Rail Administration]]
+| operator            = [[Norwegian State Railways]]&lt;br&gt;[[Flytoget|Airport Express Train]]
+| zone                = 1
+| smartcardname       = [[Reisekort]]
+| smartcardstatus     = Yes
+| former              = 
+| passengers          = 5,200 (daily)
+| pass_year           = 2008
+| pass_percent        = 
+| pass_system         = 
+| mpassengers         = 
+| services            = 
+}}
+
+'''Lysaker Station''' ({{lang-no|Lysaker stasjon}}) is a [[railway station]] on the [[Drammen Line]] and [[Asker Line]] situated at [[Lysaker]] in [[Bærum]], [[Norway]]. Located {{convert|7.00|km|sp=us}} from [[Oslo Central Station]], Lysaker is served a mix of the [[Norwegian State Railways]]' express, regional and [[Oslo Commuter Rail]] trains, as well as the [[Flytoget|Airport Express Train]]. The station is elevated and features two [[island platform]]s with four tracks.
+
+Lysaker was one of two original Drammen Line station in Bærum, opening on 7 October 1872. The original station building, designed by [[Georg Andreas Bull]], burned down in 1914 and was replaced by a new station Adalbert Kielland. In the following years the elevated and double-track layout was introduced. This station arrangement was demolished in 1987 to make way for a station designed by [[Arne Henriksen]]. Traditionally only served by commuter trains, the station was branded as '''Lysaker/Fornebu''' from 1990 to 2000 because of its vicinity to [[Oslo Airport, Fornebu]]. The station was rebuilt again from 2006 to 2009 in which it was expanded from two to four tracks. It became connected to the Asker Line in 2011.
+
+==History==
+[[File:Lysaker Bridge 1890.jpg|thumb|left|Looking across original wooden Lysaker Bridge at Lysaker Station in 1890]]
+
+===Bull's station===
+Proposals for a railway between [[Oslo]] and [[Drammen]] were launched in 1864 and planning commenced two years later. This involved deciding upon the location of the stations. Although the idea of placing one at the municipal centre of [[Sandvika]] was not met with protest, there was not consensus regarding the other and both Østre [[Stabekk]] and Lysaker were proposed. The latter was selected by the municipal council because of its vicinity to the [[Oslofjord]] and being located next to a waterfall.&lt;ref&gt;Rasch-Engh: 165&lt;/ref&gt;
+
+The original station building at Lysaker was designed by [[Georg Andreas Bull]].&lt;ref name=&quot;Hartmann: 29&quot;&gt;Hartmann: 29&lt;/ref&gt; Lysaker Station and the Drammen Line opened on 7 October 1872.&lt;ref name=bh192&gt;Bjerke &amp; Holom: 192&lt;/ref&gt; It had an immediate impact on the surrounding area, stimulating both commerce and construction of private dwellings.&lt;ref&gt;Rasch-Engh: 163&lt;/ref&gt;
+
+===Kielland's station===
+Bull's station building burned down in 1914 and was replaced two year later by a new.&lt;ref name=bh193&gt;Bjerke &amp; Holom: 193&lt;/ref&gt; By then it was decided that the line past Lysaker would be upgraded and Lysaker became the first of many stations on the line to be designed as an elevated station. The tracks were thereby placed elevated with an island platform with the station on the side, as the first station in Norway designed for double-track operation.&lt;ref name=&quot;Hartmann: 29&quot;/&gt; The new station was designed in [[Baroque Revival architecture|Baroque Revival]] by Adalbert Kielland at [[NSB Arkitektkontor]].&lt;ref name=ab&gt;{{cite web |url=http://www.ableksikon.no/Lysaker_stasjon |title=Lysaker stasjon |date=27 January 2011 |work=Asker og Bærums Leksikon |publisher=''[[Budstikka]]'' |language=Norwegian |accessdate=2 May 2014}}&lt;/ref&gt; One year later the wooden bridge over [[Lysakerelven]] was replaced by a stone bridge.&lt;ref name=ny&gt;{{cite web |url=http://www.jernbaneverket.no/PageFiles/1402/Brosjyre-Lysaker_s_1620512a.pdf |title=Ny Lysaker stasjon |year=2006 |publisher=[[Norwegian National Rail Administration]] |language=Norwegian |accessdate=2 May 2014}}&lt;/ref&gt;
+
+[[File:Lysaker aerial 1937.jpg|thumb|left|The station and surroundings in 1937]]
+The line from Sandvika to Oslo was substantially upgraded between 1917 and 1922. From 27 February 1917 a [[passing loop]] was built at Lysaker and standard gauge traffic was carried out on the northern track. A southern track was then built, which was used by narrow gauge trains. However, both were [[dual gauge]]. All–standard gauge operations commenced on 9 February 1920, although the dual gauge was not removed until 1922. Electric traction started operation on 30 August 1922.&lt;ref name=bh196&gt;Bjerke &amp; Holom: 196&lt;/ref&gt; An [[interlocking]] system was installed on 29 July 1924.&lt;ref name=bh192 /&gt; From 1922 a half-hour [[headway]] was introduced on the local trains between Sandvika and [[Oslo West Station]].&lt;ref&gt;Wisting: 63&lt;/ref&gt;
+
+During the [[Second World War]] Lysaker Station was hit by five sabotage missions by the [[Norwegian resistance movement]], in which tanks of gasoline, attached or not attached to railroad cars, were blown up. The sabotages took place on 16 December 1944 and 9, 10, 12 and 13 January 1945. On 13 January a tanker truck was attacked as well. There were three additional attacks on Lysaker in 1944 and 1945, two of them against factories and workshops.&lt;ref&gt;Bakken: 353&lt;/ref&gt; Also, the [[Lysaker Bridge sabotage]] took place in the immediate vicinity of the station.&lt;ref&gt;{{cite encyclopedia|last=Borgersrud|first=Lars|authorlink=Lars Borgersrud|editor=[[Hans Fredrik Dahl|Dahl, Hans Fredrik]]|encyclopedia=[[Norsk krigsleksikon 1940-45]]|title=Lysakeraksjonen|url=http://mediabase1.uib.no/krigslex/l/l4.html#lysakeraksjonen|accessdate=26 March 2010|year=1995|publisher=Cappelen|volume=|location=Oslo|isbn=}}&lt;/ref&gt;
+
+===Henriksen's station===
+A full upgrade of the station was carried out in 1987. A main incentive was that the [[Norwegian Public Roads Administration]] wanted the station building removed to make room for a new interchange towards [[Jar, Norway|Jar]].&lt;ref name=elton&gt;{{cite news |title=Arkitektur Vakker stasjonsprofil |last=Elton |first=Lars |date=3 January 1989 |page=11 |work=[[Aftenposten]] |language=Norwegian}}&lt;/ref&gt; Therefore, Kielland's station building was demolished in 1987.&lt;ref name=bh193 /&gt; The new station building, designed by NSB Arkitektkontor and Arne Henriksen, was built in glass and concrete with a dominant portal presenting the staircases. On the island platform a new ticket booth was built in steel and glass. The platform was covered by a roof of laminated wood and plywood held up by galvanized steel columns. The roof followed the shape of the curved platform and featured a gable.&lt;ref name=elton /&gt;
+
+[[File:Lysaker bru IMG 0070 rk 163249.JPG|thumb|Vollsveien Bridge, located immediately east of the station, was constructed in 1915.]]
+Lysaker Station was the closest railway station to [[Oslo Airport, Fornebu]]. From 27 May 1990, [[Scandinavian Airlines System]] and the [[Norwegian State Railways (1883–1996)|Norwegian State Railways]] started a cooperation to better the connection between rail and airline services. The project included the station being branded as Lysaker/Fornebu and dedicated shuttle buses running from the station to the airport terminal.&lt;ref&gt;{{cite news |title=Tog og fly i samarbeide |last=Brynsrud |first=Espen |work=[[Aftenposten]] |date=6 April 1990 |page=29 |language=Norwegian}}&lt;/ref&gt; NSB changed their scheduled so all InterCity Express and long distance trains on the Drammen Line started stopping at Lysaker.&lt;ref name=ab /&gt;
+
+Lysaker Station received [[centralized traffic control]] on 3 December 1992 and after that it has only been manned for ticket sales.&lt;ref name=bh192 /&gt; The Airport Express Train stated calling at Lysaker Station on 8 October 1998, the same day that Oslo Airport, Fornebu was closed.&lt;ref&gt;{{cite web |url=http://www.regjeringen.no/Rpub/NOU/19991999/028/PDFA/NOU199919990028000DDDPDFA.pdf |title=Gardermoprosjektet |publisher=[[Ministry of Transport and Communications (Norway)|Ministry of Transport and Communications]] |series=''Norges offentlige utredninger'' (NOU 1999:8) |date=1 September 1999 |language=Norwegian |format=PDF |page=394 |accessdate=3 May 2014}}&lt;/ref&gt; The Lysaker/Fornebu name was in use until 9 January 2000.&lt;ref name=bh192 /&gt; By then the amount of traffic to Lysaker was so substantial, even without the airport, that NSB continues to stop its express trains at Lysaker.&lt;ref name=ab /&gt;
+
+===Snøhetta's station===
+[[File:Lysaker Station march 2009.jpg|thumb|left|Construction was well underway in March 2009.]]
+Proposals for an upgrade of the Drammen Line to accommodate more trains started in 1991. This resulted in the [[Asker Line]], which was built in two steps between 2005 and 2011. Ahead of the section stage, consisting of the [[Bærum Tunnel]] which would allow trains to run directly from Lysaker to Sandvika, Lysaker Station received a full modernization. The upgrades consisted of demolishing the existing station and building a new station with two island platforms. [[Snøhetta (company)|Snøhetta]] won the [[architecture competition]] for the station. The upgrades allowed several advantages: seven minutes shorter travel time west of Oslo combined with better regularity, trains previously turning at [[Skøyen Station]] could instead turn at Lysaker and a near doubling of the number of trains running through the West Corridor, allowing eleven more trains per hour.&lt;ref name=magasin&gt;{{cite web |url=http://www.jernbaneverket.no/PageFiles/8267/Magasin%20ny%20Lysaker%20stasjon.pdf |title=Magasin ny Lysaker stasjon |year=2009 |publisher=[[Norwegian National Rail Administration]] |language=Norwegian |accessdate=2 May 2014}}&lt;/ref&gt;
+
+The zoning plan for the station was passed in 1998 and demands for [[accessibility]] were laid down in 2003, causing a contrast between these goals and the curved platforms. This would particularly be a challenge for the [[NSB Class 70|Class 70]] trains, which would have a wide gap.&lt;ref name=curve&gt;{{cite web |url=http://www.jernbaneverket.no/no/Prosjekter/Prosjekter/Ferdige-prosjekter/Lysaker-stasjon/Lysaker-stasjon-sikkerhet-og-universell-utforming/ |title=Lysaker stasjon, sikkerhet og universell utforming |last=Nordli |first=Olav |date=10 September 2007 |publisher=[[Norwegian National Rail Administration]] |language=Norwegian |accessdate=3 May 2014}}&lt;/ref&gt; Part of the dispute centered on the Vollsveien Bridge, whether or not it had a heritage status and whether or not its demolition would allow for a straight station. [[Minister of Transport and Communications (Norway)|Minister of Transport and Communication]] [[Torild Skogsholm]] stated that she laid the blame on director of the National Rail Administration, [[Steinar Killi]].&lt;ref&gt;{{cite web |url=http://www.budstikka.no/sec_nyheter/article97575.ece |title=Lysaker-striden: – Ført bak lyset |language=Norwegian |work=[[Budstikka]] |date=29 August 2006 |accessdate=6 December 2006 }}{{dead link|date=September 2016|bot=medic}}{{cbignore|bot=medic}}&lt;/ref&gt; Her successor, [[Liv Signe Navarsete]], announced in July 2006 that the construction would continue following the curved design, though minor functional changes would be made.&lt;ref&gt;{{cite web |url=http://odin.dep.no/sd/norsk/tema/bane/nyheter/028061-210006/dok-bn.html |title=Presisering om Lysaker stasjon |accessdate=6 December 2006 |language=Norwegian |publisher=[[Ministry of Transport and Communications (Norway)|Ministry of Transport and Communications]] |date=14 July 2006}}&lt;/ref&gt;
+
+[[File:Bærumstunnelen - 2012-03-11 at 12-03-48.jpg|thumb|The Lysaker end of the [[Bærum Tunnel]]]]
+During the late 1970s there arose plans to build a branch line from the Drammen Line to Oslo Airport, Fornebu. Initial plans called for it to split from the Drammen Line some {{convert|300|m|sp=us}} east of Lysaker and then pass under Lysaker Station. It would then continue to the airport, but without the possibility for stopping at Lysaker.&lt;ref&gt;Berthelsen: 26&lt;/ref&gt; Later the plans were reformulated and for a while a [[people mover]] was a preferred mode. By 2007 [[Ruter]] had changed their opinion in the matter and instead wanted to operate a [[light rail]] to Fornebu. The Rail Administration therefore decided to remove the station hall for a people mover from the Lysaker Station plans.&lt;ref&gt;{{cite web |url=http://www.jernbaneverket.no/no/Prosjekter/Prosjekter/Skoyen---Asker/Lysaker-stasjon/Fornebubanen-ute-av-Lysaker-stasjon/ |title=Fornebubanen ute av Lysaker stasjon |publisher=[[Norwegian National Rail Administration]] |last=Nordli |first=Olav |date=20 September 2008 |language=Norwegian |accessdate=1 May 2014}}&lt;/ref&gt; Because the people mover was canceled after construction of the station had started, the National Rail Administration has claimed the county for NOK 31&amp;nbsp;million to cover losses incurred.&lt;ref&gt;{{cite web |url=http://www.budstikka.no/sec_nyheter/article171311.ece |title=Regning for banerot |last=Svenningsen |first=Jens |work=[[Budstikka]] |date=25 March 2008 |language=Norwegian |archiveurl=https://web.archive.org/web/20090522112820/http://www.budstikka.no/sec_nyheter/article171311.ece |archivedate=22 May 2009}}&lt;/ref&gt;
+
+The work stretched over a segment of {{convert|1.2|km|sp=us}} of line. Construction started in February 2006 with work on expanding Granfoss Bridge, both lengthening it and building one parallel to it to allow four tracks. From May work commenced on the first new platform, which was completed in February 2007 and all traffic moved to the new tracks and platform. Then the old platform was demolished and a second new platform built, which was completed in 2009. The work took 776,000 man-hours and cost NOK&amp;nbsp;1.2 billion. The station was taken into use on 22 August 2009, although the official opening of the new station took place on 1 September 2009.&lt;ref name=ny /&gt; The Bærum Tunnel opened on 26 August 2011. To allow more trains to terminate at Lysaker, a suitable place to turn trains needed to be built. [[Høvik Station]] was chosen and received three new tracks. With its completion on 14 December 2014 all trains previously terminating at Skøyen were extended to Lysaker.&lt;ref name=dette&gt;{{cite web |url=http://www.jernbaneverket.no/no/Prosjekter/Prosjekter/Hovik-stasjon/Prosjektartikler/Dette-er-Hovik-stasjon/ |title=Dette er Høvik stasjon |last=Nordli |first=Olav |date=28 February 2013 |publisher=[[Norwegian National Rail Administration]] |language=Norwegian |accessdate=1 May 2014}}&lt;/ref&gt;
+
+==Facilities==
+{| {{Railway line header}}
+{{Rail-header2|Lysaker Station|#27404E}}
+{{BS-table}}
+{{BS|vCONTg||[[Drammen Line]] from [[Skøyen Station|Skøyen]]}}
+{{BS2|v-SHI2gr|vSHI2gl-}}
+{{BS2|vKRZoy|vKRZoy||Lysaker Bridge over [[Lysakerelven]]}}
+{{BS2|vKRZoy|O1=vSTR+BSm|vKRZoy||Strandveien}}
+{{BS2|vSTR+BSm|vSTR+BSm||O2=vNULg|}}
+{{BS2|vSTR+BSm|vSTR+BSm||Lysaker Station}}
+{{BS2|vSTR+BSm|vSTR+BSm||O1=vNULf}}
+{{BS2|vSTR|vSTR+BSm|||}}
+{{BS2|vÜST|vÜST}}
+{{BS3|dSTR|tvSTRa|dSTR||[[Bærum Tunnel]]}}
+{{BS3|dSTR|tvCONTf|dSTR||[[Asker Line]] to [[Sandvika Station|Sandvika]]}}
+{{BS2|vSHI2l-|v-SHI2r}}
+{{BS|vCONTf||[[Drammen Line]] to [[Stabekk Station|Stabekk]]}}
+|}
+|}
+
+Lysaker Station is situated on the Drammen Line, {{convert|7.00|km|sp=us}} from [[Oslo Central Station]] at an elevation of {{convert|7.5|m|sp=us}} [[above mean sea level]].&lt;ref name=bh192 /&gt; Lysaker is an elevated station with two island platforms and four tracks.&lt;ref name=ny /&gt; To the east of the station the line runs across a bridge over [[Lysakerelven]] before the four tracks merge to two. West of the station the Drammen Line splits, with two tracks becoming the Asker Line and running into the Bærum Tunnel.&lt;ref name=dette /&gt;
+
+[[File:Lysaker stasjon - 2010-05-02 at 13-36-04.jpg|thumb|left|Platforms]]
+The station is unstaffed, but features [[ticket machine]]s, a waiting room, kisok and [[taxicab stand]]. There is parking nearby in a parking house.&lt;ref&gt;{{cite web |url=https://www.nsb.no/reisemal/stasjoner/lysaker-stasjon?id=1404 |title=Lysaker stasjon |publisher=[[Norwegian State Railways]] |accessdate=3 May 2014}}&lt;/ref&gt; The bus station features two sections, one for local buses and one for regional buses. Between them they have six stops. However, because of the design of [[European route E18|European Road E18]], the station can only serve buses on the E18 which runs westwards—eastbound buses are served by a bus stop on the other side of the freeway. Ownership and operation of the bus terminal is carried out by [[Akershus Kollektivterminaler]].&lt;ref name=magasin /&gt;
+
+Lysaker is dominated by offices and more than ninety percent of the station's patronage is related to work. As of 2009 there were 25,000 jobs within {{convert|800|m|sp=us}} of the station and the area is among the fastest growing office areas in Greater Oslo. Lysaker remains the train station serving [[Fornebu]], via bus shuttles, where there are another 12,000 jobs.&lt;ref name=magasin /&gt;
+
+==Service==
+[[File:NSB Class 69, Lysaker - 2012-03-11 at 13-57-31.jpg|thumb|[[NSB Class 69]] train at Lysaker]]
+The [[Norwegian State Railways]] serves Asker Station both with [[Oslo Commuter Rail]] trains as well as regional trains. Up to five daily express trains along the [[Sørlandet Line]] and the [[Bergen Line]] stop at Lysaker. It also serves an hourly headway of the R10 regional trains from the [[Vestfold Line]] and [[Dovre Line]]. There are five hourly trains heading to Asker via the Asker Line, including the L12, L13 and L14. Westwards L12 runs to [[Kongsberg]] while they eastwards serve the [[Gardermoen Line]], [[Trunk Line]] and the [[Kongsvinger Line]]. L1, a full-stop service on the Trunk- and Drammen Line, runs every thirty minutes. A rush-hour service line 2x, serving the [[Østfold Line]], terminates at Lysaker.&lt;ref name=togrutekart&gt;{{cite web |url=http://www.jernbaneverket.no/no/Nyheter/Nyhetsarkiv/2012/Flere-tog-og-nye-ruter-fra-9desember/ |title=Togrutekart for Østlandet |date=3 December 2012 |language=Norwegian |publisher=[[Norwegian National Rail Administration]] |accessdate=3 May 2014 }}&lt;/ref&gt;
+
+The [[Flytoget|Airport Express Train]] runs every 20 minutes to [[Oslo Airport, Gardermoen]].&lt;ref name=togrutekart /&gt; Ruter uses Lysaker Station as the main bus terminal for Lyssker. Lysaker Station is in fare zone 1 and is served by bus routes 23, 24, 28, 31, 31e, 36e, 121, 131, 143, 151, 251 and 252.&lt;ref&gt;{{cite web |url=https://ruter.no/Documents/Rutetabeller/Oslo/linjekart_buss_Oslo_vest_140511.pdf |title=City bus Oslo west |publisher=[[Ruter]] |year=2014 |format=PDF |accessdate=3 May 2014 }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.trafikanten.no/trafikkinfo/tabeller/sl/151_080330.pdf |title=Bus i Bærum |publisher=[[Ruter]] |year=2014 |format=PDF |accessdate=3 May 2014 }}&lt;/ref&gt; There are about 1,400 daily buses that call at Lysaker.&lt;ref name=magasin /&gt; Ruter's 716 ferry to [[Nesoddtangen]] runs from a quay in the vicinity of the station.&lt;ref&gt;{{cite web |url=http://www.oslohavn.no/no/passasjerer/passasjerhavna/lokalferger/ |title=Norges største bilfrie fergesamband|publisher=[[Port of Oslo]] |accessdate=3 May 2014 |language=Norwegian}}&lt;/ref&gt;
+
+{{clear}}
+
+==References==
+{{reflist|30em}}
+
+==Bibliography==
+{{commons category|Lysaker stasjon}}
+* {{cite book |last=Berthelsen |first=Jørn |title=Reisen til flyplassen |publisher=[[Institute of Transport Economics]] |isbn=82-7133-343-7 |language=Norwegian |url=http://www.nb.no/nbsok/nb/527ec062fcde08ad2ad83723d5a4556e}}
+* {{ cite encyclopedia |editor=Bakken, Tor Chr.|year=2008|title=Okkupasjonstiden: Sabotasjeaksjoner i Asker og Bærum |encyclopedia=Budstikkas store Asker og Bærum-leksikon |publisher=Kunnskapsforlaget |location=Oslo |language=Norwegian |isbn=978-82-573-1534-4}}
+* {{cite book |last1=Hartmann |first1=Eivind |last2=Mangset |first2=Øistein |last3=Reisegg |first3=Øyvind |title=Neste stasjon |publisher=Gyldendal |year=1997 |language=Norwegian |isbn=82-05-25294-7 |url=http://urn.nb.no/URN:NBN:no-nb_digibok_2008081200033}}
+* {{cite book |last=Rasch-Engh |first=Rolf |title=Lysaker – gammel boområde og næringssentrum |year=2000 |isbn=82-995729-0-8 |publisher=Lysaker Vel |location=Bærum |language=Norwegian |url=http://www.nb.no/nbsok/nb/b071f5eb2b6c993db90772984d89808a}}
+* {{cite book |last=Wisting |first=Tor |title=Høvik Vel 100 år |publisher=Høvik Vel |location=Bærum |year=2002 |url=http://www.nb.no/nbsok/nb/40cd95db1a15659c59f700c1ec1701b1 |language=Norwegian}}
+
+{{Nsb next start}}
+{{Nsb next line
+|line        = [[Drammen Line]]
+|prestation  = [[Stabekk Station|Stabekk]]
+|preclosed   = [[Myra Station|Myra]]
+|poststation = [[Skøyen Station|Skøyen]]
+|postclosed  = [[Bestun Station|Bestun]]
+}}
+{{Nsb next express
+|prespan      = yes
+|postspan     = yes
+|bergen       = yes
+|kristiansand = yes
+|prebergen   = [[Asker Station|Asker]]
+|postbergen  = [[Oslo Central Station|Oslo S]]
+}}
+{{Nsb next regional
+|pref1x  = [[Stabekk Station|Stabekk]]
+|postf1x = [[Skøyen Station|Skøyen]]
+|pref2   = [[Sandvika Station|Sandvika]]
+|postf2  = [[Skøyen Station|Skøyen]]
+|prer10  = [[Sandvika Station|Sandvika]]
+|postr10 = [[Skøyen Station|Skøyen]]
+}}
+{{Nsb next local oslo
+|line1     = yes
+|prespan1  = 2
+|pre1      = [[Stabekk Station|Stabekk]]
+|postspan1 = 5
+|post1     = [[Skøyen Station|Skøyen]]
+|line2x    = yes
+|line12    = yes
+|prespan12 = 3
+|pre12     = [[Sandvika Station|Sandvika]]
+|line13    = yes
+|line14    = yes
+}}
+{{end}}
+{{Drammen Line}}
+{{Flytoget}}
+
+{{good article}}
+{{Use dmy dates|date=December 2012}}
+
+[[Category:Railway stations in Bærum]]
+[[Category:Railway stations on the Drammen Line]]
+[[Category:Railway stations on the Asker Line]]
+[[Category:Railway stations opened in 1872]]
+[[Category:1872 establishments in Norway]]
+[[Category:Airport railway stations in Norway]]
+[[Category:Flytoget]]
+[[Category:Oslo Airport, Fornebu]]
+[[Category:Bus stations in Norway]]</text>
+      <sha1>kqf8gh6ygqv2ei41xho6t2o0x3qu5zn</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,88 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>ISO 3166-2:SJ</title>
+    <ns>0</ns>
+    <id>24896352</id>
+    <revision>
+      <id>655902582</id>
+      <parentid>636638554</parentid>
+      <timestamp>2015-04-10T23:51:34Z</timestamp>
+      <contributor>
+        <ip>98.230.192.179</ip>
+      </contributor>
+      <comment>duplicate parameters</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4606">{{good article}}
+[[File:Adventdalen IMG 9867 Adventdalen Skolten.jpg|thumb|[[Adventdalen]] in Svalbard]]
+'''ISO 3166-2:SJ'''  is the entry for [[Svalbard and Jan Mayen]] in [[ISO 3166-2]], part of the [[ISO 3166]] standard published by the [[International Organization for Standardization]] (ISO). The standard defines codes for names of principal [[country subdivision|subdivisions]] of all countries coded in [[ISO 3166-1]]. Svalbard and Jan Mayen does not exist as an administrative region, but rather consists of two separate parts of [[Norway]] under separate jurisdictions—[[Svalbard]] and [[Jan Mayen]]. Further subdivision for Svalbard and Jan Mayen occurs under Norway's entry, [[ISO 3166-2:NO]], namely {{mono|NO-21}} for Svalbard and {{mono|NO-22}} for Jan Mayen. There are currently no ISO 3166-2 codes for Svalbard and Jan Mayen.&lt;ref&gt;[https://www.iso.org/obp/ui/#iso:code:3166:SJ ISO Online Browsing Platform: SJ]&lt;/ref&gt;
+
+==Allocation==
+Svalbard and Jan Mayen constitute two outlying areas of Norway. Svalbard is an archipelago in the [[Arctic]] about midway between mainland Norway and the [[North Pole]]. The group of islands ranges from [[74th parallel north|74°]] to [[81st parallel north|81° north]] latitude, and from [[10th meridian east|10°]] to [[35th meridian east|35° east]] longitude.&lt;ref name=npi&gt;{{cite news |title=Svalbard |publisher=[[Norwegian Polar Institute]] |url=http://www.npolar.no/en/the-arctic/svalbard/index.html |accessdate=4 March 2012 |archivedate=4 March 2012 |archiveurl=http://www.webcitation.org/65uCuu7Sa |deadurl=no}}&lt;/ref&gt; The [[Svalbard Treaty]] of 1920 recognizes Norwegian sovereignty,&lt;ref name=treaty&gt;{{cite news |title=Svalbard Treaty |publisher=[[Governor of Svalbard]] |url=http://www.sysselmannen.no/hovedEnkel.aspx?m=45301 |accessdate=4 March 2012 |archivedate=4 March 2012 |archiveurl=http://www.webcitation.org/65uD75yZV |deadurl=no}}&lt;/ref&gt; and the 1925 ''[[Svalbard Act]]'' established administration by the appointed [[Governor of Svalbard]].&lt;ref&gt;{{cite book |url=http://www.regjeringen.no/en/dep/jd/Documents-and-publications/Reports-to-the-Storting-White-Papers/Reports-to-the-Storting/19992000/report-no-9-to-the-storting-/5-The-administration-of-Svalbard.html?id=456897 |title=Report No. 9 to the Storting (1999-2000): Svalbard  |publisher=[[Norwegian Ministry of Justice and the Police]] |chapter=5 The administration of Svalbard |date=29 October 1999 |accessdate=4 March 2012 |archivedate=4 March 2012 |archiveurl=http://www.webcitation.org/65uDB3oM1 |deadurl=no}}&lt;/ref&gt; Jan Mayen is a [[volcanic island]] in the [[Arctic Ocean]] located at the border of the [[Norwegian Sea]] and the [[Greenland Sea]]. Since 1994, the island has been administrated by the [[County governor (Norway)|County Governor of Nordland]], with some authority delegated to the station commander.&lt;ref name=wfbjm&gt;{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/jn.html |title=Jan Mayen |publisher=[[Central Intelligence Agency]] |work=[[World Fact Book]] |accessdate=4 March 2012 |archivedate=4 March 2012 |archiveurl=http://www.webcitation.org/65uDGPlGS |deadurl=no}}&lt;/ref&gt;
+
+Allocation of codes for Svalbard and Jan Mayen occurs under Norway's entry in ISO 3166-2, [[ISO 3166-2:NO]]. By virtue of the collective [[ISO 3166-1]] code {{mono|SJ}}, Svalbard and Jan Mayen were grouped together and allocated the Internet [[country code top-level domain]] (ccTLD) [[.sj]].&lt;ref&gt;{{cite web |url=http://www.iana.org/domains/root/db/sj.html |title=Delegation Record for .SJ |publisher=[[Internet Assigned Numbers Authority]] |date=13 November 2009 |accessdate=4 March 2012 |archivedate=4 March 2012 |archiveurl=http://www.webcitation.org/65uDRWbkj |deadurl=no}}&lt;/ref&gt; As with Bouvet Island's TLD [[.bv]], policy prohibits any registration with the .sj domain, forcing institutions connected to Svalbard to use Norway's domain [[.no]].&lt;ref&gt;{{cite web |url=http://www.norid.no/omnorid/bv-sj.en.html |title=The .bv and .sj top level domains |publisher=[[Norid]] |date=3 August 2010 |accessdate=4 March 2012 |archivedate=4 March 2012 |archiveurl=http://www.webcitation.org/65uDTqOSy |deadurl=no}}&lt;/ref&gt;
+
+==List of codes==
+There are currently no subdivisions assigned codes in ISO 3166-2:SJ. Svalbard and Jan Mayen are however given separate codes in Norway's ISO 3166-2 entry, [[ISO 3166-2:NO]].
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.iso.org/obp/ui/#iso:code:3166:SJ ISO Online Browsing Platform: SJ]
+
+{{ISO 3166}}
+{{Svalbard}}
+{{Jan Mayen}}
+
+[[Category:ISO 3166|2:SJ]]
+[[Category:Svalbard]]
+[[Category:Jan Mayen]]</text>
+      <sha1>cc9xdzf344onrj5gus1yuabusw3v70g</sha1>
+    </revision>
+  </page>
+</mediawiki>

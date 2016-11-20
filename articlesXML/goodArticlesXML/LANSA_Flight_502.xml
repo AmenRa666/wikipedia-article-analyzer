@@ -1,0 +1,126 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>LANSA Flight 502</title>
+    <ns>0</ns>
+    <id>5830920</id>
+    <revision>
+      <id>739626700</id>
+      <parentid>738374339</parentid>
+      <timestamp>2016-09-15T21:39:45Z</timestamp>
+      <contributor>
+        <username>Bwood1957</username>
+        <id>1987505</id>
+      </contributor>
+      <comment>/* Background */ added name of lone survivor</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8774">{{Infobox Airliner accident 
+| image=NWT Air Lockheed Electra at Vancouver Airport in August 1983.jpg
+| caption=[[Lockheed L-188 Electra]] similar to accident aircraft
+| Name=LANSA Flight 502
+| occurrence_type = Accident
+| Date=August 9, 1970
+| Type=Pilot error
+| Site=Cusco
+| coords = {{coord|13|32|16.36|S|71|57|57.73|W|region:PE-MT_type:landmark|display=inline,title}} (approx.)
+| Fatalities=101 (including 2 on ground)
+| Injuries=1
+| Origin=[[Alejandro Velasco Astete International Airport]], [[Cusco]], [[Peru]]
+| Destination=[[Jorge Chávez International Airport]], [[Lima]], [[Peru]]
+| Aircraft Type=[[Lockheed L-188 Electra|Lockheed L-188A Electra]]
+| Operator=Líneas Aéreas Nacionales S. A. (Peru)|
+| Tail Number=OB-R-939 
+| Passengers=92
+| Crew=8
+| Survivors=1 (Juan Loo &lt;ref name=&quot;airsafe.com&quot;&gt;{{cite web |ref=harv|year= 2010|url = http://www.airsafe.com/events/survivor.htm|title = Plane Crashes with a Sole Survivor |publisher = airsafe.com| accessdate = 15 May 2010 | last=airsafe.com| first= |quote=}}&lt;/ref&gt;) 
+|}}
+'''LANSA Flight 502''' was a [[Lockheed L-188 Electra|Lockheed L-188A Electra]] operated by ''[[Líneas Aéreas Nacionales S. A. (Peru)|Líneas Aéreas Nacionales Sociedad Anónima]]'' (LANSA) which crashed shortly after takeoff from [[Alejandro Velasco Astete International Airport|Quispiquilla Airport]] near [[Cusco]], [[Peru]] on August 9, 1970, after losing all power from one of its engines.&lt;ref name=asn&gt;{{cite web|url=http://aviation-safety.net/database/record.php?id=19700809-0|title=Accident record|publisher=[[Aviation Safety Network]]|accessdate=2009-06-18}}&lt;/ref&gt; The four-engine [[turboprop]] aircraft, registered OB-R-939, was bound from Cusco to [[Lima]], carrying 8 crew and 92 passengers. All but one of the occupants died from injuries sustained from impact forces and post crash fire. Two people on the ground were also killed. There were 49 American high school exchange students on board, all of whom perished.&lt;ref name=site&gt;{{cite web|url=http://www.august91970.com|accessdate=2009-06-18|title=LANSA 502 accident victims website|publisher=www.august91970.com}}&lt;/ref&gt; A Peruvian government investigation concluded that the accident was caused by improper execution of engine-out procedures by the flight crew, aggravated by lack of maintenance and overloading. LANSA was fined and its operations were suspended for 90 days. At the time, the crash was the deadliest ever in Peruvian history.&lt;ref name=asn/&gt;
+
+==Background==
+
+More than half of the passengers belonged to a single group, sponsored by the [[Buffalo, New York]] based International Fellowship [[student exchange program]], consisting of 49 American high school exchange students, along with their teachers, family members, and guides, who were returning from a visit to nearby [[Machu Picchu]] to their host families in the [[Lima]] area. The daughter of the mayor of Lima was also accompanying the group.&lt;ref name=nyt10&gt;{{cite news|url=http://select.nytimes.com/gst/abstract.html?res=FA0E16FE3B5C1B7493C2A81783D85F448785F9|title=99 on airliner die in crash in Peru; 54 are from U.S.|publisher=New York Times|date=August 10, 1970 | first=H.J. | last=Maidenberg}}&lt;/ref&gt; The Peruvian passengers included a couple on their honeymoon.&lt;ref name=itn&gt;[http://www.itnsource.com/shotlist//RTV/1970/08/15/BGY507270168/?s=BGY507270168 &quot;Peru: 99 People Killed in Air Crash&quot;]. ITN Source Article, August 15, 1970.&lt;/ref&gt;
+
+[[Image:Cuzco-Boardi2.jpg|thumb|right|Students boarding the doomed flight]]
+August 9, 1970 was a Sunday, and Flight 502 was originally scheduled to depart Cuzco at 8:30 am,&lt;ref&gt;{{cite web|url=http://www.timetableimages.com/ttimages/il2.htm |title=1968 LANSA Flight Timetable|accessdate=2009-06-18|publisher=www.timetableimages.com}}&lt;/ref&gt;&lt;ref&gt;Note that LANSA 1968 flight timetable shows 10:15 am as 'daily' departure time of Flight 502 from Cuzco to Lima, although NYT article reports it was scheduled as 08:30 am for flight 502.&lt;/ref&gt;&lt;ref name=nyt12/&gt; but since many of the members of the American group wanted to visit the nearby [[Pisac]] native handicraft market prior to leaving for Lima, the airline postponed the departure time to 2:45 pm.&lt;ref name=nyt12&gt;{{cite news|url=http://select.nytimes.com/gst/abstract.html?res=FB0913F83C5B137A93C1A81783D85F448785F9&amp;scp=1&amp;sq=&amp;st=p|title=Peru Panel Studies Crash Fatal to 99|publisher=[[New York Times]]|date=August 13, 1970}}&lt;/ref&gt;
+
+Quispiquilla Airport, since renamed to [[Alejandro Velasco Astete International Airport]], is located about {{convert|3|mi|km|sigfig=2}} east-southeast of the city of [[Cusco]], in a small valley high on the [[Andes]], at an altitude of {{convert|10860|ft|m|sigfig=3}} above [[mean sea level]].&lt;ref&gt;{{cite web|url=http://www.gcmap.com/airport/CUZ|title=CUZ - Cuzco, Perú - Velazco Astete |publisher=Great Circle Mapper|accessdate=2011-01-26}}&lt;/ref&gt; Higher mountainous terrain surrounds the single east-west runway airport in all directions. Since it was August, it was winter time in [[Peru]], as in the rest of the [[southern hemisphere]].
+
+At about 2:55 pm, the four-engine [[Lockheed L-188 Electra|Electra]] [[turboprop]] began its takeoff run to the west. At some point during the takeoff run or initial climb, the number three engine&lt;ref&gt;Number three engine is inboard, right side.&lt;/ref&gt; failed and caught fire. The crew continued the takeoff and climb, per standard procedure, using power from the remaining three engines. The pilot radioed the [[control tower]] declaring an emergency, and the control tower cleared the flight for an immediate landing.&lt;ref name=nyt10/&gt; The number three engine was engulfed in flames as the crew retracted the [[Flap (aircraft)|flaps]] and maneuvered the plane into a left turn back to the runway.&lt;ref name=asn/&gt; The plane entered a 30–45 degree bank, then rapidly lost altitude and crashed into hilly terrain about {{convert|1.5|mi|km|sigfig=2}} west-southwest of the runway, above the village of [[San Jerónimo District, Cusco|San Jerónimo]].  The fuel on board caught fire and all aboard perished except the copilot, 26 year old Juan Loo, who was found in the wreckage of the cockpit badly burned but alive. Two farm workers were killed on the ground.
+
+==Investigation==
+[[Image:LANSA Flight 502 map.png|thumb|right|Map of Peru depicting Flight 502 origin and destination]]
+
+The Peruvian government investigated the accident, and in its final report concluded that the probable cause of the accident was the improper execution of engine-out procedures by the flight crew, with contributing factors of improper loading of the aircraft and improper maintenance procedures by company personnel.&lt;ref name=asn/&gt; There was also evidence of a coverup and falsification of critical maintenance records by LANSA employees during the investigation process. The Peruvian government subsequently fined LANSA and some of its employees, and suspended the airline's operating license for 90 days as a consequence.&lt;ref name=site/&gt;&lt;ref&gt;{{cite news|title=Peruvian Line Suspended|publisher=[[New York Times]]|date=September 3, 1970|page=32}}&lt;/ref&gt;
+
+==Aftermath==
+About a year after the accident, a monument—a large white cross with an attached nameplate—was erected on the spot of the crash site to commemorate the victims of LANSA flight 502. In 2006, because of encroaching development, the Peruvian owner of the land where the memorial was originally located, under pressure from the U.S. Senator from New York, [[Charles E. Schumer]], the U.S. [[Department of State]] and the U.S. [[Consulate General]] in Peru, agreed to relocate the memorial 150 feet away to protect the site.&lt;ref name=schumer&gt;{{cite web|title=Schumer Announces Peruvian Memorial For Plane Crash Victims Will Be Moved To Safe Location|url=http://schumer.senate.gov/new_website/record.cfm?id=261952&amp;|date=August 22, 2006|accessdate=2009-06-17|publisher=U.S. Senate (Schumer press release)}}&lt;/ref&gt;
+
+==See also==
+{{Portal|Peru|Aviation}}
+*[[LANSA Flight 508]]
+*[[List of notable accidents and incidents on commercial aircraft]]
+{{-}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.qosqo.com/maps/map22.htm Cusco Airport Satellite Photo]
+*[http://www.airdisaster.com/cgi-bin/view_details.cgi?date=08091970&amp;reg=OB-R939&amp;airline=Lineas+Aereas+Nacionales Air Disaster Accident Record]
+*[https://web.archive.org/web/20060105162526/http://www.august91970.com/ archive.org record of accident web site]
+{{Aviation accidents and incidents in 1970}}
+{{good article}}
+
+[[Category:Airliner accidents and incidents caused by pilot error]]
+[[Category:Aviation accidents and incidents in Peru]]
+[[Category:Aviation accidents and incidents in 1970]]
+[[Category:Accidents and incidents involving the Lockheed L-188 Electra]]
+[[Category:LANSA accidents and incidents|502]]</text>
+      <sha1>1ssl2olynvscykrbslwkvtz1v7glvgt</sha1>
+    </revision>
+  </page>
+</mediawiki>

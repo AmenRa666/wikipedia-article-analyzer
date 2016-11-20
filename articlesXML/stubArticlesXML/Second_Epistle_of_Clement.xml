@@ -1,0 +1,111 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Second Epistle of Clement</title>
+    <ns>0</ns>
+    <id>8982206</id>
+    <revision>
+      <id>743780397</id>
+      <parentid>743780365</parentid>
+      <timestamp>2016-10-11T06:35:53Z</timestamp>
+      <contributor>
+        <username>Dimadick</username>
+        <id>24198</id>
+      </contributor>
+      <comment>/* Content */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6705">{{New Testament Apocrypha}}
+[[File:Pope_Clement_I.jpg|432×608px|thumb|The [[homily]] known as 2 Clement was traditionally attributed to Pope [[Pope Clement I|Clement I]] of Rome.]]
+The '''Second Epistle of Clement''' ({{lang-grc|Κλήμεντος πρὸς Κορινθίους|Klēmentos pros Korinthious|Clement to Corinthians}}) often referred to as '''2 Clement''' or '''Second Clement''', is an early Christian writing.  
+2 Clement was not accepted in the [[Biblical canon|canonical New Testament]], but was included in the [[Apostolic Fathers]] collection.  
+
+== Authorship ==
+2 Clement was traditionally believed to have been epistle to the Christian Church in Corinth written by [[Clement of Rome]] sometime in the late 1st century.&lt;ref&gt;{{harvnb|Petersen|2006|p=392}}&lt;/ref&gt; However, 4th-century bishop [[Eusebius]], in his historical work, says that there is one &quot;extant an epistle of this Clement&quot;,&lt;ref&gt;{{harvnb|Eusebius Pamphilius|325|loc=Book 3, Chapter 16}}&lt;/ref&gt; so doubts about this work belonging to Clement of Rome are not new. Modern scholars believe that Second Clement is actually a sermon written around 95-140 CE by an anonymous author, one who was neither the author of 1 Clement nor Clement of Rome.&lt;ref&gt;{{harvnb|Holmes|2007|p=132-35|loc=Second Clement}}&lt;/ref&gt; Nonetheless, scholars still generally refer to the work by its traditional name &quot;Second Clement&quot;. {{Citation needed|reason=Your explanation here|date=October 2016}}
+
+2 Clement appears to be a transcript of a [[homily]] or sermon&lt;ref&gt;{{harvnb|Donfried|1973|p=487}}&lt;/ref&gt; that was originally delivered orally at a Christian worship service.  For example, in ch. 19 the speaker announces that he will read aloud from scripture – something one would only expect to find in a transcript of an oral sermon.  Similarly, whereas an epistle would typically begin by introducing the sender and recipient, 2 Clement starts with by addressing &quot;Brethren&quot;, and then proceeding directly to the sermon.  If it is a sermon, 2 Clement would be the earliest surviving Christian sermon (aside from those found in the New Testament).{{Citation needed|reason=Your explanation here|date=October 2016}}
+
+Like many early Christian texts, 2 Clement was written in [[Koine Greek|Greek]], the common language of the [[Hellenization|Hellenized]] [[Mediterranean]] area.{{Citation needed|reason=Your explanation here|date=October 2016}}
+
+The earliest external reference to 2 Clement is found in [[Eusebius]]'s Ecclesiastical History written in the early 4th century:
+
+{{quotation|But it must be observed also that there is said to be a second epistle of Clement. But we do not know that this is recognized like the former, for we do not find that the ancients have made any use of it. And certain men have lately brought forward other wordy and lengthy writings under his name, containing dialogues of Peter and Apion. But no mention has been made of these by the ancients; for they do not even preserve the pure stamp of apostolic orthodoxy.&lt;ref&gt;{{harvnb|Eusebius Pamphilius|325|loc=Book3, Chapter 38}}&lt;/ref&gt;}}
+
+== Content ==
+
+Rather than trying to convert others to Christianity, 2 Clement appears to be directed at an audience of Christians who had converted from Paganism.  2 Clement seems to reference a history of [[idolatry]]: &quot;[Previously] we were maimed in our understanding - we were worshipping stones and pieces of wood, and gold and silver and copper - all of them made by humans&quot;.
+
+Despite their pagan background, the speaker and audience in 2 Clement appear to consider the Jewish texts to be scripture - the speaker quotes repeatedly from the [[Book of Isaiah]] and interprets the text. The speaker also regards the words of Jesus as scripture - for example, 2 Clement 2:4 quotes a saying of Jesus (one which has parallels, for example, in Mark 2:17, and Matthew 9:13).    
+
+In addition to the canonical literature, the author of 2 Clement appears to have had access to Christian writings or oral tradition aside from those found in the New Testament.  Some quotes attributed to Jesus are found only here, e.g. 4:5.  In 2 Clement 5:2-4, the author quotes a saying of Jesus which is partially found in the New Testament, but the version quoted in 2 Clement is substantially longer than the version found in the New Testament. In the 20th century, a manuscript fragment was discovered that suggests this saying is a quote from the [[Gospel of Peter]], much of which has been lost. Similarly, in 2 Clement 12, the author quotes from the [[Coptic Gospel of Thomas]], which was lost until the mid-20th century; this quotation was also ascribed to [[Cassianus]] and to the [[Greek Gospel of the Egyptians]] by [[Clement of Alexandria]].{{Citation needed|reason=Your explanation here|date=October 2016}}
+
+== Notes ==
+{{reflist}}
+
+== Sources ==
+*{{citation|last=Donfried|first=Karl|date=October 1973|title=The Theology of Second Clement|journal=The Harvard Theological Review|publisher=Cambridge University Press|volume=66|issue=4|pages=487–501|issn=0017-8160|jstor=1509081|doi=10.1017/S0017816000018149}}
+*{{citation|author=Eusebius Pamphilius|authorlink=Eusebius|title=Ecclesiastical history|url=http://www.ccel.org/ccel/schaff/npnf201.iii.html|year=325|accessdate=2012-11-27}}
+*{{citation|last=Holmes|first=Michael|authorlink=Michael W. Holmes|title=Apostolic Fathers, The: Greek Texts and English Translations|url=https://books.google.com/books?id=0-oR_HWnzWcC|accessdate=2012-11-27|date=1 November 2007|publisher=Baker Academic|location=Grand Rapids|isbn=978-0-8010-3468-8}}
+*{{citation|last=Petersen|first=William|date=November 2006|title=Patristic Biblical Quotations and Method: Four Changes to Lightfoot's Edition of &quot;Second Clement&quot;|journal=Vigiliae Christianae|publisher=Brill|volume=60|issue=4|pages=389–419|issn=0042-6032|jstor=20474780|doi=10.1163/157007206778926292}}
+
+== Further reading ==
+*{{cite book |last = Tuckett |first = Christopher M. |authorlink = Christopher M. Tuckett |title = 2 Clement: Introduction, Text, and Commentary |year = 2012 |publisher = Oxford University Press |isbn = 978-0-19-969460-0 |url = https://books.google.com.au/books?id=TE4-T4XE-CkC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false}}
+
+== External links ==
+{{Wikisource|Second Epistle of Clement}}
+{{Wikisourcelang|el|Κλήμεντος Προς Κορινθίους Β'|Κλήμεντος πρὸς Κορινθίους Βʹ}}
+*[http://www.earlychristianwritings.com/2clement.html Early Christian Writings&amp;nbsp;– 2&amp;nbsp;Clement]
+
+{{The Lost Books of the Bible and the Forgotten Books of Eden}}
+
+{{DEFAULTSORT:Second Epistle Of Clement}}
+[[Category:Apocryphal epistles]]
+[[Category:Apostolic Fathers]]
+[[Category:2nd-century Christian texts]]</text>
+      <sha1>8382ndvun149vjlq2g4n696rvkm41vm</sha1>
+    </revision>
+  </page>
+</mediawiki>

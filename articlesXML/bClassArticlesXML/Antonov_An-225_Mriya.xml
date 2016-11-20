@@ -1,0 +1,318 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Antonov An-225 Mriya</title>
+    <ns>0</ns>
+    <id>406245</id>
+    <revision>
+      <id>745602228</id>
+      <parentid>745601830</parentid>
+      <timestamp>2016-10-22T03:56:46Z</timestamp>
+      <contributor>
+        <username>BilCat</username>
+        <id>2043601</id>
+      </contributor>
+      <comment>Undid revision 745601830 by [[Special:Contributions/Billlzzzaaa|Billlzzzaaa]] ([[User talk:Billlzzzaaa|talk]]) read hidden note</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27926">&lt;!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout, and guidelines. --&gt;
+{|{{Infobox aircraft begin
+ |name= An-225 ''Mriya''
+ |image= File:Antonov An-225 Beltyukov-1.jpg
+ |caption= The An-225 in current livery, 2012
+}}{{Infobox aircraft type
+ |more users=
+ |type=[[Strategic airlifter]]
+ |national origin= [[Soviet Union]] 
+ |manufacturer= 
+ |design group= [[Antonov]]
+ |builder= [[Antonov Serial Production Plant]]
+ |first flight= 21 December 1988
+ |introduced=
+ |retired=
+ |status= In service
+ |primary user= [[Antonov Airlines]]
+ |produced= 1988
+ |number built= 1&lt;!-- Number of completed and flown aircraft - Per WP:AIR consensus. The 2nd partially completed An-225 is already covered in article text. --&gt;
+ |unit cost= 
+ |developed from= [[Antonov An-124]]
+ |variants with their own articles=
+}}
+|}
+
+The '''Antonov An-225 ''Mriya''''' ({{lang-uk|Антонов Ан-225 ''Мрія'' (dream or inspiration)}}, [[NATO]] [[NATO reporting name|reporting name]]: &quot;'''Cossack'''&quot;) is a [[strategic airlift]] [[cargo aircraft]] that was designed by the [[Antonov|Antonov Design Bureau]] in the [[Soviet Union]] in the 1980s. It is powered by six turbofan engines and is the longest and heaviest airplane ever built, with a [[maximum takeoff weight]] of {{convert|640|t|ST|LT}}.  It also has the largest wingspan of any aircraft in operational service. The single example built has the [[Ukraine|Ukrainian]] civil registration '''UR-82060'''.  A second airframe was partially built; its completion was halted because of lack of funding and interest.
+
+The Antonov An-225, initially developed for the task of transporting the [[Buran (spacecraft)|Buran]] [[spaceplane]], was an enlargement of the successful [[Antonov An-124]]. The first and only An-225 was completed in 1988. After successfully fulfilling its Soviet military missions, it was [[Aircraft boneyard|mothballed]] for eight years. It was then refurbished and re-introduced, and is in commercial operation with [[Antonov Airlines]] carrying oversized payloads.&lt;ref name=&quot;An-225 emerges&quot;/&gt;  The airlifter holds the absolute world records for an airlifted single-item payload of {{convert|189980|kg|lb|abbr=off|lk=on}},&lt;ref name= &quot;Armenia1&quot; /&gt;&lt;ref name= &quot;Armenia2&quot; /&gt; and an airlifted total payload of {{convert|253820|kg|abbr=on}}.&lt;ref name=&quot;FAI_payload_record&quot;&gt;{{cite web |url=http://www.fai.org/fai-record-file/?recordId=7129 |title=Payload record in the official FAI database |accessdate=2 May 2013}}&lt;/ref&gt;&lt;ref name=&quot;ramAn225&quot;&gt;[http://ram-home.com/ram-old/an-225.html An-225 (An-225-100) &quot;Мрiя&quot;]. ''Russian Aviation Museum'', 20 October 2001. Retrieved: 31 October 2010.&lt;/ref&gt;  It has also transported a payload of {{convert|247000|kg|abbr=on}} on a commercial flight.&lt;ref name= &quot;Tashkent_247t&quot;&gt;{{cite web |url=http://www.flightglobal.com/news/articles/an-225-sets-new-record-for-payload-183467 |title=An-225 sets new record for payload |accessdate=2 May 2013}}&lt;/ref&gt;
+
+==Development==
+The Antonov An-225 was designed to airlift the [[Energia]] [[rocket]]'s [[Zenit (rocket family)#Energia booster|booster]]s and the [[Buran (spacecraft)|''Buran'']] space shuttle for the [[Soviet space program]]. It was developed as a replacement for the [[Myasishchev VM-T]]. The An-225's original mission and objectives are almost identical to that of the United States' [[Shuttle Carrier Aircraft]].&lt;ref name=&quot;goebel&quot;&gt;{{cite web |url=http://www.airvectors.net/avantgt.html#m3 |title=Antonov An-225 Mriya (&quot;Cossack&quot;) |work=The Antonov Giants: An-22, An-124, &amp; An-225 |accessdate=21 August 2012 |author=Greg Goebel}}&lt;/ref&gt;&lt;ref name=goebMriya&gt;{{cite web |url=http://vectorsite.net/tashutl_c08.html#m1 |title=The Soviet Buran shuttle program |work=Postscript: The Other Shuttles |accessdate=21 August 2012 |author=Greg Goebel}}&lt;/ref&gt;
+
+[[File:Antonov An-225 at Farnborough 1990 airshow (2).jpg|thumb|left|An-225 at Farnborough in 1990]]
+
+The An-225 first flew on 21 December 1988 with a 74-minute flight from Kiev. The aircraft was on static display at the [[Paris Air Show]] in 1989 and it flew during the public days at the [[Farnborough air show]] in 1990. Two aircraft were ordered, but only one An-225 ([[Aircraft registration|registration]] CCCP-82060 later UR-82060&lt;ref&gt;{{cite web|url=http://www.airliners.net/open.file?id=1154941&amp;size=L|title=Aviation Photo #1154941: Antonov An-225 Mriya - Antonov Design Bureau|work=airliners.net|accessdate=16 September 2016}}&lt;/ref&gt;) was finished. It can carry ultra-heavy and oversize freight, up to {{convert|250000|kg|lb|abbr=on}} internally,&lt;ref name=&quot;goebel&quot;/&gt; or {{convert|200000|kg|lb|abbr=on}} on the upper fuselage. Cargo on the upper fuselage can be {{convert|70|m|ft}} long.&lt;ref name=&quot;antonov&quot;&gt;{{cite web |url=http://www.antonov.com/aircraft/transport-aircraft/an-225-mriya |work=Antonov ASTC |title=AN-225 Mriya / Super Heavy Transport |accessdate= 21 April 2014}}&lt;/ref&gt;
+
+A second An-225 was partially built during the late 1980s for the Soviet space program. Following the collapse of the Soviet Union in 1991 and the cancellation of the Buran space program, the lone operational An-225 was placed in storage in 1994.&lt;ref&gt;[http://www.airliners.net/aircraft-data/stats.main?id=389 Antonov An-225 Mriya]. Airliners.net.&lt;/ref&gt; The six [[Ivchenko-Progress]] engines were removed for use on An-124s, and the second uncompleted An-225 airframe was also stored. The first An-225 was later re-engined and put into service.&lt;ref name=&quot;ramAn225&quot;/&gt;&lt;ref name=mf&gt;&quot;[http://www.militaryfactory.com/aircraft/detail.asp?aircraft_id=58 Antonov An-225 Mriya (Cossack) Heavy Lift Strategic Long-Range Transport]&quot; ''Military Factory'', 23 August 2012. Retrieved: 6 September 2012.&lt;/ref&gt;
+
+By 2000, the need for additional An-225 capacity had become apparent, so the decision was made in September 2006 to complete the second An-225. The second airframe was scheduled for completion around 2008,&lt;ref&gt;[http://www.aviationexplorer.com/Antonov_AN-225.html Antonov An-225 Mriya Aircraft History, Facts and Pictures]. Aviationexplorer&lt;/ref&gt; then delayed. By August 2009, the aircraft had not been completed and work had been abandoned.&lt;ref name=&quot;An-225 emerges&quot;&gt;[http://www.flightglobal.com/articles/2009/08/17/331063/video-worlds-largest-aircraft-an-225-emerges-to-set-new-lift-record.html &quot;World's largest aircraft, An-225, emerges to set new lift record&quot;]. Flight International, 17 August 2009.&lt;/ref&gt;&lt;ref&gt;[http://www.buran-energia.com/blog/2008/12/22/the-mriya-2-2/lang/en/ The Mriya 2: Pictures]. Buran-energia.com&lt;/ref&gt; In May 2011, the Antonov CEO is reported to have said that the completion of a second An-225 Mriya transport aircraft with a carrying capacity of 250 tons requires at least $300&amp;nbsp;million, but if the financing is provided, its completion could be achieved in three years.&lt;ref name=&quot;$300m needed for completion of An-225 transport&quot;&gt;{{cite web|url=http://www.ukrainianjournal.com/index.php?w=article&amp;id=12454|title=Ukrainian Journal|first=TAC|last=webstudio|work=ukrainianjournal.com|accessdate=16 September 2016}}&lt;/ref&gt; According to different sources, the second jet is 60–70% complete.&lt;ref&gt;{{cite web |url=http://www.ruaviation.com/news/2011/5/11/304/ |title=Ukraine may finish the construction of second An-225 Mriya transport aircraft – News – Russian Aviation |publisher=Ruaviation.Com |date= |accessdate=2012-04-06}}&lt;/ref&gt;
+
+In April 2013, the [[Russia]]n government announced plans to revive Soviet-era [[air launch to orbit|air launch]] projects that would use a purpose-built modification to the An-225 as a midair launchpad.&lt;ref name=&quot;Aerial Launch&quot;&gt;{{cite news |url= http://www.interfax.ru/russia/txt.asp?id=303221 |script-title=ru:Правительство задумалось о &quot;Воздушном старте&quot; |date=April 23, 2013 |work=[[Interfax]] |accessdate=April 29, 2013 |language=ru}}&lt;/ref&gt;{{Update after|2014|04|30|}}
+
+In August 2016, representatives from Ukraine's Antonov and Aerospace Industry Corporation of China, an import-export company operating out of Hong Kong,&lt;ref&gt;{{cite web |title=A private company to run the world's largest transport aircraft production in China? The truth is... |url=http://toutiao.com/i6325336696787304962/ |website=Toutiao |accessdate=6 September 2016 |language=Chinese |date=1 September 2016}}&lt;/ref&gt; signed an agreement to recommence production of the An-225, with China now planning to procure and fly the first model by 2019.&lt;ref&gt;{{cite web |last1=Jennings |first1=Gareth |title=China and Ukraine agree to restart An-225 production |url=http://www.janes.com/article/63341/china-and-ukraine-agree-to-restart-an-225-production |website=IHS Jane's |accessdate=31 August 2016 |location=London |language=English |date=31 August 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=ANTONOV Company signed Cooperation agreement on the AN−225 programme with AICC |url=http://www.antonov.com/news/478|website=ANTONOV Company |accessdate=6 September 2016 |location=Kiev |language=English |date=31 August 2016}}&lt;/ref&gt; The aviation media cast doubt on the production restart, indicating that due to the ongoing Russia-Ukraine conflict needed parts from Russia are unavailable, although they may be made in China instead.&lt;ref&gt;{{cite web |url=http://www.avweb.com/avwebflash/news/Worlds-Largest-Airplane-Back-In-Play-226950-1.html |title=World’s Largest Airplane Back In Play |work=AVweb |accessdate=16 September 2016}}&lt;/ref&gt;
+
+==Design==
+[[File:Antonov-225 main landing gear 2.jpg|thumb|left|An-225 main landing gear]]
+
+Based on Antonov's earlier [[Antonov An-124|An-124]], the An-225 has fuselage barrel extensions added fore and aft of the wings. The wings also received root extensions to increase span. Two more [[Progress D-18T]] [[turbofan]] engines were added to the new [[wing root]]s, bringing the total to six. An increased-capacity [[landing gear]] system with 32 wheels was designed, some of which are steerable, enabling the aircraft to turn within a {{convert|60|m|ft|adj=mid|-wide}} runway. Like its An-124 predecessor, the An-225 has nosegear designed to [[Kneeling|kneel]] so cargo can be more easily loaded and unloaded.&lt;ref name=&quot;ramAn225&quot;/&gt; Unlike the An-124, which has a rear cargo door and ramp, the An-225 design left these off to save weight, and the [[empennage]] design was changed from a single [[vertical stabilizer]] to a [[twin tail]] with an oversized [[Stabilizer (aircraft)|horizontal stabilizer]]. The twin tail was essential to enable the plane to carry large, heavy external loads that would disturb the [[aerodynamics|airflow]] around a conventional tail. Unlike the An-124, the An-225 was not intended for [[Airlift#Tactical airlift|tactical airlifting]] and is not designed for [[STOL|short-field operation]].&lt;ref name=&quot;goebel&quot;/&gt;
+
+[[File:An-225 D-18T.jpg|thumb|An-225 [[Ivchenko Progress D-18T]] turbofan engines]]
+Initially the An-225 had a maximum gross weight of {{convert|600|t|ST|LT|abbr=on}}, but from 2000 to 2001 the aircraft underwent modifications at a cost of US$20M such as the addition of a reinforced floor, which increased the maximum gross weight to {{convert|640|t|ST|LT|abbr=on}}.&lt;ref name=&quot;Forward&quot;&gt;Forward, David C: &quot;Antonov's Dream Machine&quot;, p. 23. ''Airways'' magazine, June 2004&lt;/ref&gt;&lt;ref name=&quot;Spaeth&quot;&gt;Spaeth, Andreas: &quot;When size matters&quot;, p. 29. ''Air International'' magazine, December 2009&lt;/ref&gt;&lt;ref name=&quot;Gordon&quot;&gt;Gordon, Yefim; Dmitriy and Sergey Komissarov: &quot;The Six-Engined Dream&quot;, page 76. ''Antonov's Heavy Transports: The An-22, An-124/225 and An-70''. Midland, 2004. ISBN 1-85780-182-2.&lt;/ref&gt;
+
+Both the earlier and later takeoff weights establish the An-225 as the world's heaviest aircraft, being heavier than the double-deck [[Airbus A380]].  It is surpassed in other size-related categories, however: Airbus claims to have improved upon the An-225's maximum landing weight by landing an A380 at {{convert|591.7|t|lb}} during tests,&lt;ref name=&quot;Flight Global&quot;&gt;{{Cite journal |url= http://www.flightglobal.com/articles/2009/06/03/327310/airbus-reveals-a380-linked-pilot-systems-secrets.html |work=Flight International |date= 3 June 2009 |title= Airbus Reveals A380-linked Pilot Systems Secrets |postscript=}}&lt;/ref&gt; and the [[Hughes H-4 Hercules]], known as the &quot;Spruce Goose&quot;, has a greater wingspan and a greater overall height.  But the Spruce Goose is 20% shorter and overall lighter, due to the materials used in its construction. It only flew once, making the An-225 the largest aircraft in the world to fly multiple times.&lt;ref name=&quot;ramAn225&quot;/&gt;&lt;ref name=&quot;avzone&quot;&gt;{{cite web |url=http://www.theaviationzone.com/factsheets/an225.asp |title=Antonov An-225 Mryia (Cossack) |work=The Aviation Zone |accessdate=1 July 2011}}&lt;/ref&gt;
+
+The An-225's [[Cabin pressurization|pressurized]] [[cargo hold]] is {{convert|1300|m3|abbr=on}} in volume; {{convert|6.4|m|ftin|abbr=on}} wide, {{convert|4.4|m|ft|abbr=on}} high, and {{convert|43.35|m|ftin|abbr=on}} long&lt;ref name=&quot;ramAn225&quot;/&gt;&lt;ref name=gs&gt;&quot;[http://www.globalsecurity.org/military/world/ukraine/an-225.htm AN-225 Mriya]&quot; ''GlobalSecurity.org''. Retrieved: 6 September 2012.&lt;/ref&gt;&lt;ref name=acs&gt;[http://www.aircharterservice.aero/cargo/aircraft/antonov_an225.htm &quot;Antonov An 225&quot;] ''Air Charter Service''. Retrieved: 6 September 2012.&lt;/ref&gt; — longer than the [[Wright Flyer#Flight tests at Kitty Hawk|first flight of the Wright Flyer]].&lt;ref name=&quot;NASM&quot;&gt;{{cite web|url=http://www.nasm.si.edu/exhibitions/gal100/wright1903.html|title=Exhibitions|date=28 April 2016|work=si.edu|accessdate=16 September 2016}}&lt;/ref&gt;&lt;ref&gt;[http://www.fai.org/news_archives/fai/000295.asp &quot;100 Years Ago, the Dream of Icarus Became Reality.&quot;] {{wayback|url=http://www.fai.org/news_archives/fai/000295.asp |date=20110113080326 |df=y }} ''FAI NEWS'', December 17, 2003. Retrieved: January 5, 2007.&lt;/ref&gt;&lt;ref&gt;Lindberg, Mark. [http://www.wingsofhistory.org/index.php/library/articles-of-interest/mark-lindberg/a-century-of-flight &quot;Century of Flight.&quot;] ''Wings of History Museum,'' 2003. Retrieved: August 27, 2011.&lt;/ref&gt;
+
+==Operational history==
+[[File:An-225-manchester-2006.jpg|thumb|left|Antonov An-225 at [[Manchester Airport]] in 2006]]
+
+During the last years of the [[Soviet space program]], the An-225 was employed as the prime method of transporting the [[Buran (spacecraft)|''Buran'']] space shuttle.&lt;ref name=&quot;avzone&quot;/&gt;
+
+===Antonov commercialization===
+[[File:Mriya at Bangor International Airport, April 11 2015.jpg|thumb|Taxiing during a refueling stop at [[Bangor International Airport]].]]
+
+In the late 1980s, the Soviet government was looking to generate revenue from its military assets. In 1989, the Antonov Design Bureau set up a holding company as a heavy airlift shipping corporation under the name &quot;[[Antonov Airlines]]&quot;, based in [[Kiev]], Ukraine and operating from [[London Luton Airport]] in partnership with the [[Air Foyle HeavyLift]].&lt;ref name=&quot;antonov&quot;/&gt;&lt;ref name=&quot;goleta&quot;&gt;{{cite web |url=http://www.air-and-space.com/Antonov%20An-225%20Mriya.htm |work=Goleta Air &amp; Space Museum |title=An-225 Mriya, NATO: Cossack |accessdate=31 March 2004 }}&lt;/ref&gt;
+
+The company began operations with a fleet of four An-124-100s and three [[Antonov An-12]]s, but a need for aircraft larger than the An-124 became apparent in the late 1990s. In response, the original An-225 was re-engined, modified for heavy cargo transport, and placed back in service under the management of Antonov Airlines.
+
+[[File:An-225 Mriya.jpg|thumb|Antonov An-225 at [[Gostomel Airport]], [[Ukraine]]]]
+On 23 May 2001, the An-225 received its type certificate from the Interstate Aviation Committee Aviation Register (IAC AR).&lt;ref&gt;{{cite web|url=http://www.mak.ru/english/kommissions/aviareg/certificates/sertifikati_tipa_na_vozdushnie_suda.html |title=Type Certificates for Aircraft |accessdate=2007-01-08 |deadurl=yes |archiveurl=https://web.archive.org/web/20080430200431/http://www.mak.ru/english/kommissions/aviareg/certificates/sertifikati_tipa_na_vozdushnie_suda.html |archivedate=30 April 2008 |df=dmy }}&lt;/ref&gt; On 11 September 2001, carrying four [[main battle tank]]s&lt;ref name=&quot;ramAn225&quot;/&gt; at a record load of {{convert|253.82|t|ST}} of cargo,&lt;ref name=&quot;FAI_payload_record&quot;/&gt; the An-225 flew at an altitude of up to {{convert|10750|m|ft|abbr=on}}&lt;ref name=&quot;FAI_250t_height&quot;&gt;{{cite web |url=http://www.fai.org/fai-record-file/?recordId=7133 |title=Height record with 250t payload in the FAI database}}&lt;/ref&gt; over a closed circuit of {{convert|1000|km|mi|abbr=on}} at a speed of {{convert|763.2|km/h|mph|abbr=on}}.&lt;ref name=&quot;FAI_250t_speed_record&quot;&gt;{{cite web |url=http://www.fai.org/fai-record-file/?recordId=7131 |title=Speed record with 250t payload over 1000km closed circuit in the official FAI database |accessdate=2 May 2013}}&lt;/ref&gt;&lt;ref name=&quot;Special planes: The Antonov-225 Mriya&quot;&gt;{{Cite journal |url= http://www.eurotrib.com/story/2006/4/8/13392/35796 |title= Special planes: The Antonov-225 &quot;Mriya&quot; |publisher=European Tribune |date= 8 April 2006 |postscript= .}}&lt;/ref&gt;
+
+===Regular commercial flights===
+The type's first flight in commercial service departed from [[Stuttgart]], [[Germany]] on 3 January 2002, and flew to [[Thumrait, Oman]] with 216,000 prepared meals for American military personnel based in the region. This vast number of ready meals was transported on some 375 pallets and weighed 187.5 tons.&lt;ref name=airfoyle2&gt;{{cite web |url=http://www.airfoyle.co.uk/services/an225.asp |work=AirFoyle |title=Antonov Airlines:An-225 Mriya}}&lt;/ref&gt;
+
+The An-225 has since become the workhorse of the Antonov Airlines fleet, transporting objects once thought impossible to move by air, such as 150-tonne generators. It has become an asset to international relief organizations for its ability to quickly transport huge quantities of emergency supplies during disaster relief operations.&lt;ref name=&quot;aircraft info&quot;&gt;{{cite web|url=http://www.aircraft-info.net/aircraft/jet_aircraft/antonov/AN-225 |work=Aircraft-Info.net |title=Antonov An-225 |accessdate=15 February 2004 |archiveurl=https://web.archive.org/web/20040401135622/http://www.aircraft-info.net/aircraft/jet_aircraft/antonov/AN-225 |archivedate=1 April 2004 |deadurl=no |df=dmy }}&lt;/ref&gt;
+
+The An-225 has been contracted by the Canadian and U.S. governments to transport military supplies to the Middle East in support of coalition forces.&lt;ref name=&quot;aircraft info&quot;/&gt; An example of the cost of shipping cargo by An-225 was over 2 million [[Danish krone|DKK]] (approx. €266,000) for flying a chimney duct from [[Billund Airport|Billund]], [[Denmark]] to [[Kazakhstan]] in 2004.&lt;ref name=&quot;steelcon&quot;&gt;[http://www.steelcon.com/fileadmin/user_upload/pdf/News/Steelcon__News_GB.pdf Steelcon News] {{wayback|url=http://www.steelcon.com/fileadmin/user_upload/pdf/News/Steelcon__News_GB.pdf |date=20110716133659 |df=y }}. steelcon.com. Retrieved: 13 June 2010.&lt;/ref&gt;
+[[File:Antonov An-225 landing at Gostomel Airport.jpeg|thumb|right|[[Antonov Airlines]] An-225 landing at [[Gostomel Airport]], 2014]]
+On 11 August 2009, the heaviest single cargo item ever sent via air freight was loaded onto the An-225. At {{convert|16.23|m|ft}} long and {{convert|4.27|m|ft}} wide, its consignment, a generator for a gas power plant in [[Armenia]] along with its loading frame, weighed in at a record {{convert|189|t|lb}}.&lt;ref name= &quot;Armenia1&quot;&gt;[http://www.aircargonews.com/091110/FT091113.html Cargo manifest picture] ''Air Cargo News'' 13 November 2009. Retrieved: 30 May 2012.&lt;/ref&gt;&lt;ref name=&quot;Armenia2&quot;&gt;[http://www.eft.com/freight-transport/frankfurt-hahn-airport-sets-world-record Ukraine's An-225 aircraft sets new record for heaviest single cargo item transported by air] {{wayback|url=http://www.eft.com/freight-transport/frankfurt-hahn-airport-sets-world-record |date=20120430170935 |df=y }}, Eye for Transport, 18 August 2009.&lt;/ref&gt; 
+
+During 2009, the An-225 was painted in a new blue and yellow paint scheme,&lt;ref name=&quot;2009paint&quot;&gt;{{cite web |url= http://spotters.net.ua/files/images/0000019427_large.jpeg |title= Photo of the AN-225 in new paint scheme |accessdate= 30 December 2009 |work= Spotters.net |year= 2009}}&lt;/ref&gt; after Antonov ceased cooperation with AirFoyle and partnered with [[Volga-Dnepr Airlines|Volga-Dnepr]] in 2006.&lt;ref name=&quot;vdganswer&quot;&gt;Ingram, Frederick C. [http://www.answers.com/topic/volga-dnepr-group Volga-Dnepr Group] ''answers.com''. Retrieved: 24 July 2010.&lt;/ref&gt;
+
+On 11 June 2010, the An-225 carried the world's longest piece of air cargo, two {{convert|42|m|ft|adj=mid|-long}} test [[wind turbine]] blades from [[Tianjin]], China to [[Vojens Airport|Skrydstrup]], [[Denmark]].&lt;ref name=&quot;res&quot;&gt;[http://www.renewable-energy-sources.com/2010/06/11/lm-wind-powers-globlades-on-record-breaking-journey/ Record breaking journey] {{wayback|url=http://www.renewable-energy-sources.com/2010/06/11/lm-wind-powers-globlades-on-record-breaking-journey/ |date=20100614024755 |df=y }} ''Renewable Energy Sources'', 11 June 2010. Pictures: [http://www.jv.dk/artikel/896389:Haderslev--Se-billederne--Verdens-stoerste-fly-landede-i-Skrydstrup-i-aftes 1] [http://www.jv.dk/artikel/897243:Haderslev--Se-brugernes-billeder--Verdens-stoerste-transportfly-i-Skrydstrup 2] {{wayback|url=http://www.jv.dk/artikel/897243:Haderslev--Se-brugernes-billeder--Verdens-stoerste-transportfly-i-Skrydstrup |date=20110211044825 |df=y }}. [http://houmedia.dk/portfolio/record-breaking-air-freight-move/ Video]. Retrieved: 13 June 2010.&lt;/ref&gt;&lt;ref&gt;&quot;[http://www.kyivpost.com/content/ukraine/ukraines-mriya-an-225-aircraft-sets-new-record-69397.html Ukraine's Mriya An-225 aircraft sets new record]&quot; ''[[Kyiv Post]]'', 11 June 2010. Accessed: 2 October 2014.&lt;/ref&gt;&lt;ref&gt;&quot;[http://www.geodiswilson.com/t/newspage.aspx?id=1785 Record-breaking air freight move]&quot;&lt;/ref&gt;
+
+==Operators==
+; {{USSR}}
+* [[Antonov Airlines]] for Soviet [[Buran program|''Buran'' program]]; the company (and aircraft) passed to Ukraine after the collapse of the Soviet Union.
+; {{UKR}}
+* [[Antonov Airlines]]
+
+==Specifications (An-225 Mriya)==
+[[File:Giant planes comparison.svg|thumb|Comparison between four of the largest aircraft:
+  {{legend|#d6c35b|[[Hughes H-4 Hercules]]}}
+  {{legend|#7fdf8a|'''Antonov An-225'''}}
+  {{legend|#e9a4a4|[[Airbus A380-800]]}}
+  {{legend|#a4b8e8|[[Boeing 747-8]]}}
+]]
+[[File:Mriya departing Gostomel for trip to Perth.ogv|thumb|Antonov An-225 Mriya taking off at [[Gostomel Airport]]]]
+{{Aircraft specs
+|ref=Vectorsite,&lt;ref name=&quot;goebel&quot;/&gt; Antonov's Heavy Transports,&lt;ref name=&quot;aht&quot;&gt;{{cite book |title=Antonov's Heavy Transports: Big Lifters for War &amp; Peace |author=Gordon, Yefim |year=2004 |publisher=Midland Publishing |isbn=1-85780-182-2}}&lt;/ref&gt; and others&lt;ref name=&quot;ramAn225&quot;/&gt;&lt;ref name=mf/&gt;&lt;ref name=gs/&gt;&lt;ref name=acs/&gt;
+|prime units?=met&lt;!-- imp or kts first for US aircraft, and UK aircraft pre-metrification, 
+met(ric) first for all others. You MUST choose a format, or no specifications will show --&gt;
+&lt;!--
+        General characteristics
+--&gt;
+|genhide=
+|crew=6
+|capacity=
+|length m=84
+|length ft=
+|length in=
+|length note=
+|span m=88.4
+|span ft=
+|span in=
+|span note=
+|height m=18.1
+|height ft=
+|height in=
+|height note=
+|wing area sqm=905
+|wing area sqft=
+|wing area note=
+|aspect ratio=8.6
+|airfoil=
+|empty weight kg=285000
+|empty weight lb=
+|empty weight note=
+|gross weight kg=
+|gross weight lb=
+|gross weight note=
+|max takeoff weight kg=640000
+|max takeoff weight lb=
+|max takeoff weight note=
+|fuel capacity=300,000 kg
+|more general= *[[Cargo hold]] – volume {{convert|1300|m3|abbr=on}}, length 43.35m, width 6.4m, height 4.4m
+&lt;!--
+        Powerplant
+--&gt;
+|eng1 number=6
+|eng1 name=[[ZMKB Progress D-18]]
+|eng1 type=[[turbofan]]s
+|eng1 kn=229.5
+|eng1 lbf=
+|eng1 note=
+&lt;!--
+        Performance
+--&gt;
+|perfhide=
+|max speed kmh=850
+|max speed mph=
+|max speed kts=
+|max speed note=
+|max speed mach=&lt;!-- supersonic aircraft --&gt;
+|cruise speed kmh=800
+|cruise speed mph=
+|cruise speed kts=
+|cruise speed note=
+|stall speed kmh=
+|stall speed mph=
+|stall speed kts=
+|stall speed note=
+|never exceed speed kmh=
+|never exceed speed mph=
+|never exceed speed kts=
+|never exceed speed note=
+|minimum control speed kmh=
+|minimum control speed mph=
+|minimum control speed kts=
+|minimum control speed note=
+|range km=15400
+|range miles=
+|range nmi=
+|range note=with maximum fuel; range with 200 tonnes payload: 4,000 km (2,500 mi)
+|ferry range km=
+|ferry range miles=
+|ferry range nmi=
+|ferry range note=
+|endurance=&lt;!-- if range unknown --&gt;
+|ceiling m=11000
+|ceiling ft=
+|ceiling note=
+|g limits=&lt;!-- aerobatic --&gt;
+|roll rate=&lt;!-- aerobatic --&gt;
+|glide ratio=&lt;!-- sailplanes --&gt;
+|climb rate ms=
+|climb rate ftmin=
+|climb rate note=
+|time to altitude=
+|lift to drag=
+|wing loading kg/m2=662.9
+|wing loading lb/sqft=
+|wing loading note=
+|fuel consumption kg/km=
+|fuel consumption lb/mi=
+|power/mass=
+|thrust/weight=0.234
+|more performance=
+|avionics=
+}}
+
+==Notable appearances in media==
+&lt;!-- As per the consensus at [[Talk:Aircraft in fiction]] all media appearance of all aircraft types have been moved to [[Aircraft in fiction]] or [[List of fictional aircraft]] as applicable and a &quot;main&quot; template put on the aircraft type article directing content of this type to be submitted to those pages instead of entered on the aircraft type page. Please do not enter text in this article on the use of this aircraft type in books, video games, comics, film, etc, but instead take it to [[Aircraft in fiction]] or [[List of fictional aircraft]] as applicable. Note fictional look=alike (An-500) is covered at [[List of fictional aircraft]]. --&gt;
+{{main|Aircraft in fiction#Antonov An-225}}
+
+==See also==
+{{aircontent
+|see also=&lt;!-- other related articles that have not already linked: --&gt;
+* [[Air launch to orbit]]
+*[[MAKS (spacecraft)]]
+*[[State Space Agency of Ukraine#Svityaz project]]
+|related=&lt;!-- designs which were developed into or from this aircraft: --&gt;
+* [[Antonov An-124]]
+|similar aircraft=&lt;!-- aircraft that are of similar role, era, and capability this design: --&gt;
+* [[Airbus Beluga]]
+* [[Boeing 747-8|Boeing 747-8F]]
+* [[Shuttle Carrier Aircraft|Boeing 747 Shuttle Carrier Aircraft]]
+* [[Boeing Dreamlifter]] (747 Large Cargo Freighter)
+* [[Lockheed C-5 Galaxy]]
+* [[Myasishchev VM-T]]
+|lists=&lt;!-- relevant lists that this aircraft appears in: --&gt;
+* [[List of military aircraft of the Soviet Union and the CIS]]
+* [[List of large aircraft]]
+&lt;!-- See [[WP:Air/PC]] for more explanation of these fields. --&gt;
+}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Commons and category|Antonov An-225|Antonov An-225}}
+{{External media |topic=|float=right|width=35em
+|image1= [http://gelio.livejournal.com/193025.html An-225 image gallery]
+|image2=[http://www.airliners.net/photo/Antonov-An-225-Mriya/0699985/L/ Second Antonov An-225 (line no. 01-02) under construction, September 2004]
+|image3=[http://www.airliners.net/photo/Antonov-Design-Bureau/Antonov-An-225-Mriya/1658109/L/ Second Antonov An-225 under construction, August 2008]
+|image4= [http://www.airliners.net/photo/Antonov-An-225-Mriya/1759372/L/ Second Antonov An-225 under construction, August 2008]
+|video1= {{YouTube|1dp9JjuJbZ0|An-225}} The worlds biggest planes: Antonov An-225 in comparison with [[Airbus A380|Airbus A380-800]], [[Airbus A340-600]] and [[Boeing 747-400]]
+|video2= {{YouTube|4r1663DqucA|An-225}} Landing In Crosswind
+}}
+* [http://www.antonov.com/aircraft/transport-aircraft/an-225-mriya Official An-225 web page]
+* [http://www.buran-energia.com/mriya-antonov/mriya-desc.php An-225 – buran-energia.com]
+* [http://www.boris-lux.de/04_types/63_fc/sp_ru/91_mri/mriy.php Payloads]
+* [http://www.airliners.net/photo/Antonov-Design-Bureau/Antonov-An-225-Mriya/2367017 Flight Data Recorder]
+{{clear}}
+
+{{Antonov aircraft}}
+{{Outsized cargo aircraft}}
+{{Use dmy dates|date=June 2011}}
+
+{{DISPLAYTITLE:Antonov An-225 ''Mriya''}}
+[[Category:Antonov aircraft|An-225]]
+[[Category:Buran program]]
+[[Category:Soviet cargo aircraft 1980–1989]]
+[[Category:Six-engined jet aircraft]]</text>
+      <sha1>idfuga2tk1k7peabw1dvgidazuuav3g</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,311 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Atlantic City Expressway</title>
+    <ns>0</ns>
+    <id>262321</id>
+    <revision>
+      <id>737894794</id>
+      <parentid>737038196</parentid>
+      <timestamp>2016-09-05T17:39:12Z</timestamp>
+      <contributor>
+        <username>Chinissai</username>
+        <id>7048777</id>
+      </contributor>
+      <minor/>
+      <comment>/* Exit list */ Used NJint instead of jctplace.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="36089">{{good article}}
+{{Infobox road
+|state=NJ
+|type=NJ
+|route=446
+|name=Atlantic City Expressway
+|marker_image=[[Image:Atlantic City Expressway.svg|80px]]
+|maint=[[South Jersey Transportation Authority]]
+|length_mi=44.19
+|length_ref=
+&lt;ref name=&quot;sld&quot;&gt;{{cite web |author= Staff |date=January 1997 |publisher= [[New Jersey Department of Transportation]] |url= http://www.state.nj.us/transportation/refdata/sldiag/00000446__-.pdf |format= PDF |title= Route&amp;nbsp;446 |work= Straight Line Diagrams |accessdate= March 25, 2008| archiveurl= https://web.archive.org/web/20080309014457/http://www.state.nj.us/transportation/refdata/sldiag/00000446__-.pdf| archivedate= 9 March 2008 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+|map=ACE map.svg
+|direction_a=West
+|direction_b=East
+|terminus_a={{jct|state=NJ|NJ|42}} in [[Washington Township, Gloucester County, New Jersey|Washington Township]]
+|junction={{plainlist|
+*{{jct|state=NJ|NJ|73}} in [[Winslow Township, New Jersey|Winslow Township]]
+*{{jct|state=NJ|NJ|54}} in [[Hammonton, New Jersey|Hammonton]]
+*{{jct|state=NJ|NJ|50}} in [[Hamilton Township, Atlantic County, New Jersey|Hamilton Township]]
+*{{jct|state=NJ|GSP}} in [[Egg Harbor Township, New Jersey|Egg Harbor Township]]
+*{{jct|state=NJ|US|9}} in [[Pleasantville, New Jersey|Pleasantville]]
+*{{jct|state=NJ|US|40|US|322}} near [[Atlantic City, New Jersey|Atlantic City]]
+*{{Jct|state=NJ|ACBC}} in Atlantic City
+}}
+|terminus_b=Baltic Avenue in Atlantic City
+|counties=[[Gloucester County, New Jersey|Gloucester]], [[Camden County, New Jersey|Camden]], [[Atlantic County, New Jersey|Atlantic]]
+|established=1964
+|previous_type=NJ
+|previous_route=445
+|browse_route=446
+|next_type=NJ
+|next_route=446X
+}}
+
+The '''Atlantic City Expressway''' (officially numbered, but [[unsigned highway|unsigned]], as '''Route 446''' and abbreviated '''A.C. Expressway''', '''ACE''', or '''ACX''', and known locally as &quot;'''the Expressway'''&quot;) is a {{convert|44.19|mi|km|2|adj=on}}, controlled-access [[toll road]] in [[New Jersey]], managed and operated by the [[South Jersey Transportation Authority]]. It serves as an extension of the freeway portion of [[New Jersey Route 42|Route 42]] in [[Turnersville, New Jersey|Turnersville]] (which is itself an extension of [[Interstate 76 (east)#New Jersey|Interstate 76]]) southeast to [[Atlantic City, New Jersey|Atlantic City]]. It connects the [[Philadelphia]] [[Delaware Valley|metropolitan area]] with Atlantic City and other [[Jersey Shore]] resorts. In addition to providing a route between the [[Delaware Valley]] and Atlantic City, as well as other Shore Points, the expressway also serves other [[South Jersey]] communities, including [[Hammonton, New Jersey|Hammonton]] and [[Mays Landing, New Jersey|Mays Landing]]. The expressway intersects many major roads, including [[New Jersey Route 73|Route 73]] in [[Winslow Township, New Jersey|Winslow Township]], [[New Jersey Route 54|Route 54]] in Hammonton, [[New Jersey Route 50|Route 50]] in [[Hamilton Township, Atlantic County, New Jersey|Hamilton Township]], the [[Garden State Parkway]] in [[Egg Harbor Township, New Jersey|Egg Harbor Township]], and [[U.S. Route 9 in New Jersey|U.S. Route 9]] in [[Pleasantville, New Jersey|Pleasantville]].
+
+The Atlantic City Expressway has an [[Barrier toll system|open system of tolling]], with two mainline toll plazas (Egg Harbor in Hamilton Township and Pleasantville) and seven exits with ramp tolls. The total cost to travel the length of the Atlantic City Expressway is currently $3.75 and [[E-ZPass]] is accepted.  In 2008, two separate plans were made to raise the tolls along the road, one proposed by Governor [[Jon Corzine]] and one proposed by the South Jersey Transportation Authority that would increase tolls 50%. The latter toll increase took place effective November 18, 2008. The expressway features one [[Rest area|service area]], Farley Plaza, in Hamilton Township a short distance west of the Egg Harbor Toll Plaza, as well as a gas station and mini-mart near the Atlantic City Welcome Center in Pleasantville. In a few years, the road is expected to use all-electronic tolling.
+
+Plans for the road go back to the 1930s, when a parkway was proposed between Camden and Atlantic City that was never built. Plans resurfaced for the road in the 1950s when a group of officials led by [[New Jersey Senate|State Senator]] [[Frank S. Farley]] pushed for a road to help the area economy. The New Jersey Expressway Authority was created in 1962 to be responsible for building an expressway. The Atlantic City Expressway was built between 1962 and 1965 at a total cost of $48.2 million. The South Jersey Transportation Authority assumed control of the road in 1991 from the New Jersey Expressway Authority.
+
+==Route description==
+
+===Gloucester and Camden Counties===
+[[Image:Route 42 SB.jpg|thumb|right|The beginning of the eastbound Atlantic City Expressway in [[Turnersville, New Jersey|Turnersville]] from southbound [[New Jersey Route 42|Route&amp;nbsp;42]]]]The Atlantic City Expressway begins at Route 42 in Turnersville in [[Washington Township, Gloucester County, New Jersey|Washington Township]], [[Gloucester County, New Jersey|Gloucester County]], where it continues north as the North&amp;ndash;South Freeway, a part of Route 42. Here, Route 42 continues south on the [[Black Horse Pike]] and [[New Jersey Route 168|Route 168]] continues north on the Black Horse Pike. A westbound exit provides a connection to northbound Route 168.&lt;ref name=&quot;sld&quot;/&gt;  The expressway then heads southeast, straddling between Washington Township and [[Gloucester Township, New Jersey|Gloucester Township]], [[Camden County, New Jersey|Camden County]]. On the Gloucester Township/[[Winslow Township, New Jersey|Winslow Township]] border, the Atlantic City Expressway features a [[diamond interchange]] with [[County Route 689 (Camden County, New Jersey)|County Route 689]].&lt;ref name=&quot;sld&quot;/&gt;  Past CR 689, there is a full interchange with [[County Route 536 Spur (New Jersey)|County Route 536 Spur]].&lt;ref name=&quot;sld&quot;/&gt;  The expressway passes under [[County Route 536 (New Jersey)|County Route 536]] and then features a partial interchange with [[County Route 723 (Camden County, New Jersey)|County Route 723]], with an eastbound exit and a westbound entrance. It then meets [[New Jersey Route 73|Route 73]] at another partial interchange, with a westbound exit and an eastbound entrance.&lt;ref name=&quot;sld&quot;/&gt;
+
+===Atlantic County===
+[[File:Atlantic City Expressway SB.jpg|thumb|left|Eastbound on the Atlantic City Expressway approaching the [[Garden State Parkway]] in [[Egg Harbor Township, New Jersey|Egg Harbor Township]]]]
+The Atlantic City Expressway crosses into [[Hammonton, New Jersey|Hammonton]], [[Atlantic County, New Jersey|Atlantic County]]. Continuing to the southeast, it encounters [[New Jersey Route 54|Route 54]] at a full interchange.&lt;ref name=&quot;sld&quot;/&gt;  It then enters [[Hamilton Township, Atlantic County, New Jersey|Hamilton Township]] and passes under [[County Route 559 (New Jersey)|County Route 559]].&lt;ref name=&quot;sld&quot;/&gt; The lanes of the Atlantic City Expressway in both directions split for the [[Frank S. Farley|Farley Service Plaza]], which is located in the median of the expressway.&lt;ref name=sjtafarley&gt;{{cite web |author= Staff |publisher= [[South Jersey Transportation Authority]] |url= http://www.acexpressway.com/acexpressway/farley_plaza.asp |work= Atlantic City Expressway |title= Frank S. Farley Service Plaza |accessdate= October 6, 2008}}&lt;/ref&gt; Past the Farley Service Plaza, the Atlantic City Expressway meets the mainline Egg Harbor Toll Plaza. It then features a full interchange with [[New Jersey Route 50|Route 50]], with the westbound exit and eastbound entrance being [[E-ZPass]] only.&lt;ref name=&quot;sld&quot;/&gt;&lt;ref name=whyy&gt;{{cite news |url= http://whyy.org/cms/news/government-politics/2010/06/18/no-cash-at-ez-pass-only-exit-on-ac-expressway/40342 |title= No cash at EZ Pass only exit on AC Expressway |date=June 18, 2010 |location= Wilmington, DE |publisher= [[WHYY-TV]] |accessdate= October 7, 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://www.pressofatlanticcity.com/communities/hamilton/article_91be8e00-7af7-11df-aae0-001cc4c002e0.html |title=Exit 17 interchange on the Atlantic City Expressway is open — but it costs $3 to use and only takes E-ZPass |author=Watson, Sarah |date=June 19, 2010 |publisher=[[Press of Atlantic City]] |accessdate=August 9, 2012}}&lt;/ref&gt; It meets [[County Route 670 (Atlantic County, New Jersey)|County Route 670]], with another partial interchange featuring an eastbound off-ramp and a westbound on-ramp that provides access to the [[Atlantic City Race Track]].&lt;ref name=gm&gt;{{google maps |title= Overview of the Atlantic City Expressway |url=http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=Rte+42+%26+Atlantic+City+Expy,+Blackwood,+Gloucester,+New+Jersey+08012&amp;daddr=missouri+avenue+and+fairmount+avenue+atlantic+city,+nj&amp;geocode=&amp;hl=en&amp;mra=ls&amp;sll=39.363501,-74.489708&amp;sspn=0.124755,0.219727&amp;ie=UTF8&amp;t=h&amp;z=10 |accessdate= April 1, 2009}}&lt;/ref&gt; Next, it has an eastbound exit and westbound entrance for [[County Route 575 (New Jersey)|County Route 575]], which provides access to [[U.S. Route 40 in New Jersey|U.S. Route 40]], [[U.S. Route 322 in New Jersey|U.S. Route 322]], and the [[Hamilton Mall]].&lt;ref name=gm/&gt; To and from the east, a ramp runs from the Atlantic City Expressway to the US 40/US 322 split.&lt;ref name=&quot;sld&quot;/&gt;
+
+The Atlantic City Expressway then enters [[Egg Harbor Township, New Jersey|Egg Harbor Township]]. It interchanges with [[County Route 646 (Atlantic County, New Jersey)|County Route 646]], which provides access to the [[Atlantic City International Airport]],&lt;ref name=gm/&gt; and passes under [[County Route 563 (New Jersey)|County Route 563]].&lt;ref name=&quot;sld&quot;/&gt;  It then features a [[cloverleaf interchange]] with the [[Garden State Parkway]] and crosses into [[Pleasantville, New Jersey|Pleasantville]]. The expressway meets [[U.S. Route 9 in New Jersey|U.S. Route 9]] at a diamond interchange. It passes under [[County Route 585 (New Jersey)|County Route 585]] and features a partial interchange with North Franklin Boulevard, with a westbound exit and eastbound entrance.&lt;ref name=&quot;sld&quot;/&gt;
+
+[[Image:ACE-AC-Start.jpg|thumb|right|The beginning of the westbound Atlantic City Expressway in [[Atlantic City, New Jersey|Atlantic City]]]]
+The Atlantic City Expressway continues to the Pleasantville Toll Plaza. Past the toll plaza, the travel lanes separate and a long parking area, used by Atlantic City casino employees, lies within the median of the expressway. It then encounters the Atlantic City Welcome Center and Service Plaza&lt;ref name=sjtabout&gt;{{cite web |author= Staff |publisher= South Jersey Transportation Authority |url= http://www.acexpressway.com/acexpressway/about.asp |title= About the AC Expressway |work= Atlantic City Expressway |accessdate= October 4, 2008}}&lt;/ref&gt;  and enters Atlantic City. Upon entering Atlantic City, the expressway features an eastbound exit and westbound entrance to US 40/US 322.&lt;ref name=&quot;sld&quot;/&gt;  It then continues southeast, crossing the Beach Thorofare, and soon after encounters an eastbound exit and westbound entrance for the [[Atlantic City-Brigantine Connector]], which provides access to the [[Atlantic City Convention Center]], the Marina district, and [[Brigantine, New Jersey|Brigantine]].&lt;ref name=gm/&gt; It then ends at a traffic light at the intersection with Baltic Avenue near [[Tanger Outlets The Walk]], where it becomes the [[one-way pair]] of Missouri Avenue eastbound (also known as Christopher Columbus Boulevard and [[County Route 692 (Atlantic County, New Jersey)|County Route 692]]&lt;ref name=cr692sld&gt;{{cite web |author= Staff |date=August 2001 |publisher= New Jersey Department of Transportation |url= http://www.state.nj.us/transportation/refdata/sldiag/01000692__-.pdf |format= PDF |title= County Route 692 |work= Straight Line Diagrams |accessdate= October 3, 2008}}&lt;/ref&gt;) and Arkansas Avenue westbound ([[County Route 694 (Atlantic County, New Jersey)|County Route 694]]).&lt;ref name=&quot;sld&quot;/&gt;&lt;ref name=gm/&gt;
+
+In 2010, the Atlantic City Expressway counted almost 55 million toll-paying vehicles.&lt;ref name=sjtastat&gt;{{cite web |author= Staff |publisher= South Jersey Transportation Authority |url= http://www.acexpressway.com/acexpressway/stats.asp |work= Atlantic City Expressway |title= Expressway Statistics |accessdate= May 23, 2014}}&lt;/ref&gt; The speed limit on the Atlantic City Expressway is {{convert|65|mi/h|km/h}} with &quot;conditions permitting&quot; on the posted sign for most of the route. Call boxes are located every mile on either side.&lt;ref name=sjtaesp&gt;{{cite web |author= Staff |publisher= South Jersey Transportation Authority |url= http://www.acexpressway.com/acexpressway/emergency_service.asp |work= Atlantic City Expressway |title= Emergency Services |accessdate= October 6, 2008}}&lt;/ref&gt;
+
+==Toll plazas and rest area==
+[[File:Atlantic City Expressway Egg Harbor toll plaza EB.jpg|thumb|right|Egg Harbor toll plaza]]
+Automobiles currently must pay a $3.00 toll at the Egg Harbor Toll Plaza, which is located east of the Farley Service Plaza at milepost 17.5, and a $0.75 toll near [[Pleasantville, New Jersey|Pleasantville]].&lt;ref name=sjtatolls&gt;{{cite web |author= Staff |publisher= South Jersey Transportation Authority |url= http://www.acexpressway.com/acexpressway/toll_info.asp |title=  Toll Schedule |work= Atlantic City Expressway |accessdate= October 4, 2008}}&lt;/ref&gt;  Both mainline toll plazas have Express [[E-ZPass]] lanes through the center of the plaza.  Exits between the two toll plazas may also charge a small fee, depending on the distance. A $0.75 toll for cars is currently charged at the eastbound exits and westbound entrances at exits 5, 28, and 33 and the westbound exits and eastbound entrances at exits 9 and 12; in addition, a $0.40 toll for cars is currently charged at the eastbound exits and westbound entrances at exits 38 and 41.&lt;ref name=sjtatolls/&gt; A $3.00 E-ZPass only toll is charged for the westbound exit and eastbound entrance at exit 17.&lt;ref name=whyy/&gt;&lt;ref name=sjta61810/&gt;
+
+On January 8, 2008, Governor [[Jon Corzine]] proposed a 50 percent increase in tolls on New Jersey's three toll roads in 2010, with increases of a similar percentage every four years after that, in order to help pay down the state debt.  Each time tolls increased, there would be an additional increase for inflation since the last toll increase (for the first, since 2006). The roads would be maintained by a nonprofit [[public-benefit corporation]], which would pay back bonds to the state. Under this plan, without considering inflation, tolls on the Atlantic City Expressway would have risen from $2.50 to $16.59 in 2022.&lt;ref name=inq1908&gt;{{cite news |last= McCoy |first= Craig R. |title= Corzine calls for 50% toll increase |work= [[The Philadelphia Inquirer]] |date=January 9, 2008|url=http://articles.philly.com/2008-01-09/news/25254918_1_toll-hikes-corzine-garden-state-parkway|accessdate=April 1, 2012}}&lt;/ref&gt; It was possible that commuters would receive discounts from the higher toll rates.&lt;ref&gt;{{cite news |last= Nussbaum |first= Paul |title= Corzine: Toll-hike breaks are likely |work= The Philadelphia Inquirer |date= January 11, 2008|url=http://articles.philly.com/2008-01-11/news/25254251_1_toll-roads-corzine-toll-hikes|accessdate=April 1, 2012}}&lt;/ref&gt; However, the proposal was not enacted due to opposition from leaders of the [[New Jersey Legislature]].&lt;ref&gt;{{cite news |last1= Jones |first1= Richard G |first2= David W. |last2= Chen |title= Corzine Weighs Options on Toll Increases  |work= [[The New York Times]] |date= April 30, 2008 |url= http://www.nytimes.com/2008/04/30/nyregion/30toll.html?scp=1&amp;sq=atlantic%20city%20expressway%20toll%20increase&amp;st=cse |accessdate= April 8, 2009}}&lt;/ref&gt; On September 5, 2008, a proposal by the South Jersey Transportation Authority was created to raise tolls by 50 percent, from $2.50 to $3.75, in order to fund improvements to the road as well as to the Atlantic City International Airport.&lt;ref name=inq9608&gt;{{cite news |last= Nussbaum |first= Paul |title= A.C. Expressway toll hike of 50% planned |work= The Philadelphia Inquirer |date= September 6, 2008|url=http://articles.philly.com/2008-09-06/news/25248797_1_toll-increases-future-toll-hikes-delaware-river-bridge-tolls|accessdate=April 1, 2012}}&lt;/ref&gt; This toll increase took place effective November 18, 2008.&lt;ref name=sjtatolls/&gt; In 2009, the South Jersey Transportation Authority considered making the tolls on the Atlantic City Expressway completely electronic, in which E-ZPass would be used.  Vehicles without E-ZPass will be billed using license plate technology, with a 10% surcharge applied to their tolls.&lt;ref&gt;{{cite news |last= Owens |first= Joseph P. |accessdate= April 26, 2010 |title= Atlantic City Expressway authority considers going cash-free, but drivers will still pay the toll |work= [[The Express-Times]] |location=  Easton, PA |date= June 30, 2009 |url= http://www.lehighvalleylive.com/breaking-news/index.ssf/2009/06/atlantic_city_expressway_autho.html}}&lt;/ref&gt; The Atlantic City Expressway was expected to become an all-electronic toll road by Memorial Day weekend 2011.&lt;ref name=inq9410&gt;{{cite news |last= Rao |first= Maya |title= Atlantic City Expressway plans all-electronic tolling |work= The Philadelphia Inquirer |date= September 4, 2010 |url= http://www.philly.com/inquirer/local/20100904_Atlantic_City_Expressway_plans_all-electronic_tolling.html |accessdate= October 7, 2010| archiveurl= https://web.archive.org/web/20100910165237/http://www.philly.com/inquirer/local/20100904_Atlantic_City_Expressway_plans_all-electronic_tolling.html| archivedate= 10 September 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; However, the tolls on the road were later not expected to become cashless until between 2013 and 2015.&lt;ref name=inq52111&gt;{{cite news |last= Nussbaum |first= Paul |title= E-ZPass lanes open at Egg Harbor toll plaza of Atlantic City Expressway |work= The Philadelphia Inquirer |date= May 21, 2011 |url= http://articles.philly.com/2011-05-21/news/29568902_1_e-zpass-lanes-e-zpass-customers-express-e-zpass |accessdate= May 28, 2011}}&lt;/ref&gt;
+
+Since 2014, eastbound tolls have been waived at the Egg Harbor toll plaza between 5:00 and 6:00 pm on the Friday before [[Memorial Day]] in order to promote the unofficial beginning of the summer tourist season at the Jersey Shore. [[Chickie's &amp; Pete's]], a local sports bar chain, pays for the tolls normally collected during this hour.&lt;ref&gt;{{cite web|title=Chickie’s And Pete’s Offering Toll-Free Rides To Jersey Shore On Friday|publisher=[[KYW-TV]]|location=[[Philadelphia|Philadelphia, PA]]|date=May 22, 2014|url=http://philadelphia.cbslocal.com/2014/05/22/chickies-and-petes-offering-toll-free-rides-to-jersey-shore-on-friday/|accessdate=May 23, 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Memorial Day Weekend Kicks Off With ‘Free Toll Friday’|publisher=[[KYW-TV]]|location=[[Philadelphia|Philadelphia, PA]]|date=May 24, 2016|url=http://philadelphia.cbslocal.com/2016/05/24/memorial-day-weekend-kicks-off-with-free-toll-friday/|accessdate=May 25, 2016}}&lt;/ref&gt; In October 2014, eastbound tolls were waived at the Egg Harbor and Pleasantville toll plazas on Tuesdays between 12:00 pm and 12:00 am in order to encourage midweek tourism to Atlantic City.&lt;ref&gt;{{cite web|title=Atlantic City Toll-Free Tuesdays in October|publisher=[[WCAU-TV]]|location=[[Philadelphia|Philadelphia, PA]]|date=September 29, 2014|url=http://www.nbcphiladelphia.com/news/local/Toll-Free-Tuesdays-277463581.html|accessdate=May 25, 2016}}&lt;/ref&gt;
+
+[[Frank S. Farley|Farley Service Plaza]], the only service area on the route, has a building containing several fast food restaurants and a gas station.  It is located between the two sides of the road to service traffic coming in either direction.&lt;ref name=&quot;sld&quot;/&gt;&lt;ref name=sjtafarley/&gt; In the mid-2000s, an additional gas station and mini-mart were opened in the narrow center median behind the Atlantic City Welcome Center by Exit 2.&lt;ref name=sjtafarley/&gt;
+
+==History==
+[[Image:ACE shield.jpg|thumb|upright|right|Typical signage for the Atlantic City Expressway]]The road was originally planned as a [[parkway]] in 1932, running from the [[Ben Franklin Bridge]] in [[Camden, New Jersey|Camden]] to [[Atlantic City, New Jersey|Atlantic City]], but it never materialized.&lt;ref name=&quot;1932plan&quot;&gt;{{cite book |title= Regional Plan of the Philadelphia Tri-State District |author= Regional Planning Federation |location= Philadelphia |publisher= Press of Wm. F. Fell Co |oclc= 1847779 |year=1932}}&lt;/ref&gt;  The idea for a limited access road between the Philadelphia area and Atlantic City resurfaced in the 1950s when South Jersey officials, led by [[New Jersey Senate|State Senator]] [[Frank S. Farley]], pushed for an expressway between the two areas to help the economy of Southern New Jersey.&lt;ref name=&quot;njhf&quot;&gt;{{cite book |title= New Jersey Highway Facts |author= Staff |location= Trenton, NJ |publisher= New Jersey Department of Transportation |year= 1967 |oclc= 454541}}&lt;/ref&gt; The [[New Jersey State Highway Department]] authorized traffic studies for a toll road between [[Turnersville, New Jersey|Turnersville]] and Atlantic City in 1958 and 1959, and the New Jersey Expressway Authority Act in 1962 called for a five-member agency (the New Jersey Expressway Authority) with representatives from four Southern New Jersey counties to be responsible for issuing bonds to build and maintain the Atlantic City Expressway.&lt;ref name=&quot;njea&quot;&gt;{{cite book |title= Atlantic City Expressway: Engineering Report |authors= New Jersey State Highway Department and Parsons, Brinckerhoff, Quade &amp; Douglas |location= New York |publisher= Parsons, Brinckerhoff, Quade &amp; Douglas |year= 1962 |oclc= 23458518}}&lt;/ref&gt;
+
+Construction of the Atlantic City Expressway started in the summer of 1962. The design was to feature a 300- to 400-foot-wide roadway with 12-foot-wide travel lanes and right shoulders as well as 3-foot-wide left shoulders. The portion between Route 42 in Turnersville and the [[Garden State Parkway]] in [[Egg Harbor Township, New Jersey|Egg Harbor Township]] was completed on July 31, 1964, and the portion between the Garden State Parkway and Atlantic City was finished in July 1965. Construction of the Atlantic City Expressway cost a total of $48.2 million. Tolls on the Atlantic City Expressway initially cost $0.75 at the Egg Harbor toll plaza and $0.15 at the Pleasantville toll plaza.&lt;ref name=sjtahistory&gt;{{cite web |author= Staff |publisher= South Jersey Transportation Authority |url= http://www.acexpressway.com/acexpressway/history.asp |work= Atlantic City Expressway |title= History &amp; Milestones |accessdate= October 6, 2008}}&lt;/ref&gt; In 1991, the [[South Jersey Transportation Authority]] was created by the [[New Jersey Legislature]] to operate the Atlantic City Expressway, the [[Atlantic City International Airport]], and operations of the Atlantic County Transportation Authority.&lt;ref name=sjtabout/&gt;
+
+In recent years, many improvements have been made to the Atlantic City Expressway. A new interchange with [[County Route 689 (Camden County, New Jersey)|County Route 689]] on the [[Gloucester Township, New Jersey|Gloucester Township]]/[[Winslow Township, New Jersey|Winslow Township]] border was completed in 2000 at a cost of $5 million. The [[Atlantic City-Brigantine Connector]] was completed on July 31, 2001 to connect the Atlantic City Expressway to the Marina district and [[Brigantine, New Jersey|Brigantine]].&lt;ref name=sjtahistory/&gt; In 2005, the Atlantic City Expressway added a third lane in both directions between the Garden State Parkway and Atlantic City and in the eastbound direction between [[New Jersey Route 73|Route 73]] and the Garden State Parkway. In addition, the Pleasantville Toll Plaza was reconstructed, replacing the older cash booths with newer technology.&lt;ref name=sjtahistory/&gt;
+
+On November 21, 2008, construction began on the reconstruction of Interchange 17, with completion on June 18, 2010.&lt;ref name=sjta61810&gt;{{cite press release |author= Staff |url= http://www.acexpressway.com/acexpressway/news_item.asp?PublicationID=20&amp;ID=1738 |title= AC Expressway exit 17 new full interchange provides access to economic growth in Atlantic County |date=June 18, 2010 |publisher= South Jersey Transportation Authority |accessdate=June 19, 2010 |archiveurl= https://web.archive.org/web/20110612174447/http://www.acexpressway.com/acexpressway/news_item.asp?PublicationID=20&amp;ID=1738 |archivedate= June 12, 2011}}&lt;/ref&gt;&lt;ref name=sjta112108&gt;{{cite press release |author= Staff |url= http://www.acexpressway.com/acexpressway/news_item.asp?PublicationID=20&amp;ID=1187 |title= SJTA begins construction of Atlantic City Expressway Interchange 17 |date=November 21, 2008 |publisher= South Jersey Transportation Authority |accessdate= April 8, 2009 |archiveurl= https://web.archive.org/web/20110612175314/http://www.acexpressway.com/acexpressway/news_item.asp?PublicationID=20&amp;ID=1187 |archivedate= June 12, 2011}}&lt;/ref&gt;&lt;ref name=sjta31609&gt;{{cite press release |author= Staff |url= http://www.acexpressway.com/acexpressway/news_item.asp?PublicationID=20&amp;ID=1269 |title= New traffic pattern until July 2009 |date= March 16, 2009 |publisher= South Jersey Transportation Authority |accessdate= April 8, 2009 |archiveurl= https://web.archive.org/web/20110612175322/http://www.acexpressway.com/acexpressway/news_item.asp?PublicationID=20&amp;ID=1269 |archivedate= June 12, 2011 }}&lt;/ref&gt; As a result of reconstructing this interchange, the SJTA approved raising the interchange toll to $3.00. This new rate is charged to motorists heading to or from the east along the Atlantic City Expressway at Route 50.&lt;ref&gt;{{cite news |title= SJTA approves new $3 expressway toll in Hamilton Township |work= [[Press of Atlantic City]] |date= April 21, 2010 |url= http://www.pressofatlanticcity.com/news/breaking/article_6c620500-4ce5-11df-a972-001cc4c002e0.html |accessdate= April 27, 2010}}&lt;/ref&gt; The proposal drew opposition from area officials who felt the proposed rate was too high.&lt;ref&gt;{{cite news |last= Ortiz |first= Erik |title= SJTA to review plans for $3 toll at Atlantic City Expressway interchange at Route 50 |work= Press of Atlantic City |date= April 20, 2010 |url= http://www.pressofatlanticcity.com/news/press/atlantic/article_b6b77dc8-4c1e-11df-bf48-001cc4c03286.html |accessdate= April 27, 2010}}&lt;/ref&gt; The westbound exit and eastbound entrance at Interchange 17 was designed to be E-ZPass only, the first such interchange on the Atlantic City Expressway.&lt;ref name=whyy/&gt;
+
+In 2007, it was announced that the mainline Expressway from milepost 7.0&amp;ndash;31.0 would be widened in the westbound direction to accommodate a third lane from just north of the [[Garden State Parkway]] to [[New Jersey Route 73|Route 73]]. Interchange 17 ([[New Jersey Route 50|Route 50]]) would be reconstructed to form a full movement interchange (completed June 18, 2010), and the Egg Harbor Toll Plaza would receive Express E-ZPass lanes to maintain highway speed. Construction on these three projects was financed by a $25 million bond.&lt;ref name=sjta61810/&gt; The Express E-ZPass was completed in May 2011, with the first phase completed in the summer of 2010.&lt;ref name=inq9410/&gt;&lt;ref name=inq52111/&gt;
+
+The work under the widening project also included improvements to bridges, lighting, and guide signs.  In addition, [[Intelligent Transportation System]] (ITS) technology, such as [[traffic camera]]s and [[variable message signs]], were also added to the Atlantic City Expressway to enhance safety and aid in monitoring traffic. The first phase widened the road from the Garden State Parkway to the Egg Harbor Toll Plaza. The second phase widened the road from the Egg Harbor Toll Plaza to milepost 24.5. The third phase widened the road west to Route 73.  The ITS components were installed along these sections of the roadway through the course of each phase.&lt;ref name=sjtawidening/&gt; The widening work was completed in May 2014 and the third lane opened in its entirety by Memorial Day 2014.&lt;ref&gt;{{cite news|last=Wittkowski|first=Donald|title=Widening of westbound expressway expected to be complete for Memorial Day|work=Press of Atlantic City|date=May 14, 2014|url=http://www.pressofatlanticcity.com/communities/atlantic-city_pleasantville_brigantine/widening-of-westbound-expressway-expected-to-be-complete-for-memorial/article_12c94f56-dba9-11e3-98f2-0019bb2963f4.html|accessdate=July 3, 2014}}&lt;/ref&gt; The fourth phase added ITS technology to the parts of the road that are not being widened.&lt;ref name=sjtawidening&gt;{{cite web |author= Staff |publisher= South Jersey Transportation Authority |url= http://www.sjta.com/acexpressway/projects.asp?cp=1&amp;pi=5 |title= Third Lane Widening Westbound Atlantic City Expressway |work= Atlantic City Expressway |accessdate= February 24, 2011}}&lt;/ref&gt;
+
+==Future developments==
+The SJTA revealed plans for a major road improvement project that would link the Atlantic City International Airport directly to the Atlantic City Expressway, with construction beginning as early as 2013. The plan includes new ramps with two overpasses over the expressway. The road would connect Amelia Earhart Boulevard with an overpass above [[Airport Circle (Pomona)|Airport Circle]]. Plans also call for building a service road with another overpass that would provide access to Delilah Road. Another project involves the installation of an overpass at the end of Amelia Earhart Boulevard next to the entrance to the FAA tech center. The proposed roadway would intrude upon a small section of a mobile home park and land owned by Egg Harbor Township.&lt;ref&gt;{{cite news |last= Watson |first= Sarah |title= Project would link Atlantic City International Airport directly to the Atlantic City Expressway by 2013 |work= Press of Atlantic City |date= April 14, 2011 |url= http://www.pressofatlanticcity.com/news/breaking/project-would-link-atlantic-city-international-airport-directly-to-the/article_3c5d0ef2-663b-11e0-b504-001cc4c03286.html |accessdate= April 17, 2011}}&lt;/ref&gt;
+
+==Exit list==
+Mileposts run from east to west.{{jcttop|exit|length_ref=&lt;ref name=&quot;sld&quot;/&gt;}}
+{{NJint|exit
+|county=Gloucester
+|cspan=2
+|location=Washington Township
+|ctdab=Gloucester
+|lspan=2
+|mile=44.19
+|exit=&amp;ndash;
+|road={{jct|state=NJ|NJ|42|dir1=north|NJTP||to2=yes|city1=Camden|location2=[[Philadelphia]]}}
+|notes=Western terminus of Atlantic City Expressway}}
+{{NJint|exit
+|mile=44.00
+|exit=44
+|type=incomplete
+|road={{jct|state=NJ|NJ|168|dir1=north|city1=Sicklerville|city2=Blackwood}}
+|notes=Westbound exit and eastbound entrance; exit&amp;nbsp;44 is Route&amp;nbsp;42 exit&amp;nbsp;7 immediately after the expressway ends}}
+{{NJint|exit
+|county=Camden
+|cspan=4
+|location=Winslow Township
+|lspan=4
+|mile=40.70
+|exit=41
+|type=toll
+|road={{jct|state=NJ|CR|689|name1=Berlin-Cross Keys Road|county1=Camden|city1=Gloucester Township|city2=Winslow Township}}
+|notes=Toll for eastbound exit and westbound entrance&lt;ref name=sjtatolls/&gt;}}
+{{NJint|exit
+|mile=38.40
+|exit=38
+|type=toll
+|road={{jct|state=NJ|CR-Spur|536|name1=Williamstown Road|city1=Sicklerville|city2=Williamstown}}
+|notes=Toll for eastbound exit and westbound entrance&lt;ref name=sjtatolls/&gt;}}
+{{NJint|exit
+|mile=32.70
+|exit=33
+|type=incomplete
+|road=[[Winslow, New Jersey|Winslow]], [[Blue Anchor, New Jersey|Blue Anchor]]
+|notes=Eastbound exit and westbound entrance; toll, access via [[County Route 723 (Camden County, New Jersey)|CR 723]]&lt;ref name=sjtatolls/&gt;}}
+{{NJint|exit
+|mile=31.40
+|exit=31
+|type=incomplete
+|road={{jct|state=NJ|NJ|73|city1=Winslow|city2=Blue Anchor}}
+|notes=Westbound exit and eastbound entrance}}
+{{NJint|exit
+|county=Atlantic
+|cspan=16
+|location=Hammonton
+|mile=27.80
+|exit=28
+|type=toll
+|road={{jct|state=NJ|NJ|54|city1=Hammonton|city2=Vineland|city3=Trenton}}
+|notes=Toll for eastbound exit and westbound entrance&lt;ref name=sjtatolls/&gt;}}
+{{NJint|exit
+|location=Hamilton Township
+|ctdab=Atlantic
+|lspan=5
+|mile=21.50
+|place=[[Frank S. Farley|Farley Service Plaza]] }}
+{{NJint|exit
+|type=toll
+|place=Egg Harbor Toll Plaza&lt;ref name=sjtatolls/&gt;
+}}
+{{NJint|exit
+|mile=16.80
+|exit=17
+|type=etc
+|road={{jct|state=NJ|NJ|50|location1=[[Egg Harbor City, New Jersey|Egg Harbor]]|city2=Mays Landing}}
+|notes=[[E-ZPass]] only toll for westbound exit and eastbound entrance&lt;ref name=whyy/&gt;}}
+{{NJint|exit
+|mile=13.50
+|exit=14
+|type=incomplete
+|road=[[Hamilton Township, Atlantic County, New Jersey|Hamilton Township]], [[Galloway Township, New Jersey|Galloway Township]]
+|notes=Eastbound exit and westbound entrance, access via [[County Route 670 (Atlantic County, New Jersey)|CR 670]]}}
+{{NJint|exit
+|mile=12.30
+|exit=12
+|type=toll
+|road={{jct|state=NJ|US|40|name1=[[U.S. Route 322 in New Jersey|US 322]] / [[County Route 575 (New Jersey)|CR 575]]|city1=Mays Landing|lcity2=Smithville|countydab2=Atlantic}}
+|notes=Toll for westbound exit and eastbound entrance&lt;ref name=sjtatolls/&gt;}}
+{{NJint|exit
+|location=Egg Harbor Township
+|lspan=2
+|mile=9.50
+|exit=9
+|type=toll
+|road={{jct|state=NJ|CR|646|county1=Atlantic|name1=Delilah Road|location1=[[Atlantic City International Airport|A.C. International Airport]]|location2=[[FAA Technical Center]]|extra=airport}}
+|notes=Toll for westbound exit and eastbound entrance&lt;ref name=sjtatolls/&gt;}}
+{{NJint|exit
+|mile=7.20
+|exit=7
+|road={{Jct|state=NJ|GSP|city1=Cape May|location2=[[New York City]]}}
+|notes=Signed as exits 7N (north) and 7S (south)}}
+{{NJint|exit
+|location=Pleasantville
+|lspan=4
+|mile=5.40
+|exit=5
+|type=toll
+|road={{Jct|state=NJ|US|9|city1=Northfield|city2=Smithville|countydab2=Atlantic|city3=Pleasantville}}
+|notes=Toll for eastbound exit and westbound entrance&lt;ref name=sjtatolls/&gt;}}
+{{NJint|exit
+|mile=4.80
+|exit=4
+|type=incomplete
+|road=Franklin Boulevard&amp;nbsp;– [[Pleasantville, New Jersey|Pleasantville]], [[Absecon, New Jersey|Absecon]]
+|notes=Westbound exit and eastbound entrance}}
+{{NJint|exit
+|type=toll
+|place=Pleasantville Toll Plaza&lt;ref name=sjtatolls/&gt;}}
+{{NJint|exit
+|place=Atlantic City Welcome Center and Service Plaza}}
+{{NJint|exit
+|location=Atlantic City
+|lspan=4
+|mile=2.17
+|exit=2
+|type=incomplete
+|road={{Jct|state=NJ|US|40|US|322|city1=Atlantic City|name2=[[Black Horse Pike]]}}
+|notes=Eastbound exit and westbound entrance}}
+{{NJint|exit
+|mile=0.14
+|exit=1
+|road={{Jct|state=NJ|ACBC|location1=[[Atlantic City Convention Center|Convention Center]]|location2=Marina|location3=[[Revel Atlantic City|Revel Beach]]|city4=Brigantine}}
+|notes=Eastbound exit and westbound entrance}}
+{{NJint|exit
+|mile=0.00
+|exit=&amp;ndash;
+|road=Baltic Avenue
+|notes=Eastern terminus at an [[at-grade intersection]]}}
+{{NJint|exit
+|mile=0.00
+|exit=&amp;ndash;
+|road={{jctname|state=NJ|CR|692|noshield1=yes|dir1=east|county1=Atlantic|name1=Christopher Columbus Boulevard|location1=Midtown|location2=Uptown|location3=Downbeach}}&lt;br&gt;{{jctname|state=NJ|CR|694|noshield1=yes|dir1=west|county1=Atlantic|name1=Arkansas Avenue}}
+|notes=Continuation past Baltic Avenue, one-way pair}}
+{{jctbtm|exit|keys=toll,incomplete,etc}}
+
+==See also==
+*{{Portal-inline|U.S. Roads}}
+*{{Portal-inline|New Jersey}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{Commons category|Atlantic City Expressway}}
+{{AttachedKML|display=title,inline}}
+*[http://www.acexpressway.com/acexpressway/index.asp Atlantic City Expressway Official Website]
+*[http://www.sjta.com/ South Jersey Transportation Authority (Owner of Atlantic City Expressway)]
+*[http://www.alpsroads.net/roads/nj/log/12.html#446 NJ State Highways: 445-895 - Atlantic City Expressway]
+*[http://www.alpsroads.net/roads/nj/ace/ Atlantic City Expressway Secret NJ 446 pictures]
+*[http://www.phillyroads.com/roads/atlantic-city/ Atlantic City Expressway at Phillyroads.com]
+
+[[Category:State highways in New Jersey]]
+[[Category:Toll roads in New Jersey]]
+[[Category:Limited-access roads in New Jersey]]
+[[Category:Transportation in Atlantic County, New Jersey]]
+[[Category:Transportation in Camden County, New Jersey]]
+[[Category:Transportation in Gloucester County, New Jersey]]
+[[Category:Transportation in the Pine Barrens (New Jersey)]]</text>
+      <sha1>bcu8ftday8mbk4ecopnf1bqzhcu8qk4</sha1>
+    </revision>
+  </page>
+</mediawiki>

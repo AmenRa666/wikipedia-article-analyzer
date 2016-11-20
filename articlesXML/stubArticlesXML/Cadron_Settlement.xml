@@ -1,0 +1,114 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Cadron Settlement</title>
+    <ns>0</ns>
+    <id>49343936</id>
+    <revision>
+      <id>734605329</id>
+      <parentid>734604106</parentid>
+      <timestamp>2016-08-15T13:46:29Z</timestamp>
+      <contributor>
+        <username>Jllm06</username>
+        <id>1918920</id>
+      </contributor>
+      <comment>Details, categories, external link</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3477">{{Infobox NRHP
+  | name = Cadron Settlement
+  | nrhp_type = 
+  | image = Cadron_Settlement,_2_of_2.jpg
+  | caption = 
+  | nearest_city= [[Conway, Arkansas]]
+  | lat_degrees = 35
+  | lat_minutes = 6
+  | lat_seconds = 26
+  | lat_direction = N
+  | long_degrees = 92
+  | long_minutes = 32
+  | long_seconds = 44
+  | long_direction = W
+  | coord_display = inline,title
+  | locmapin = Arkansas#USA
+  | architect OR builder = 
+  | architecture = 
+  | added = May 17, 1974
+  | area = {{convert|150|acre}}
+  | governing_body = Federal 
+  | refnum = 74000475&lt;ref name=&quot;nris&quot;&gt;{{NRISref|version=2010a}}&lt;/ref&gt;
+}}
+The '''Cadron Settlement''' was the first permanent settlement by white men in what is now central [[Arkansas]].  Archaeological investigation of the area, located on the banks of the [[Arkansas River]], has revealed evidence of prehistoric occupation by Native Americans, and the area is known to have been visited by French explorers in the 18th century.  It was settled about 1810 by John McElmurry, and was on the main mail route between the [[Arkansas Post]] and [[Hot Springs, Arkansas|Hot Springs]].  From 1825 to 1828 it was the county seat of [[Conway County, Arkansas|Conway County]].  By 1834 the community had declined in importance, when it was described as virtually abandoned in by an Army soldier leading a band of migrating Cherokees on the [[Trail of Tears]].  The camp they established nearby was the site of a [[cholera]] outbreak.&lt;ref name=NRHP&gt;{{cite web|url=http://www.arkansaspreservation.com/national-register-listings/cadron-settlement|title=Summary description of Cadron Settlement|publisher=Arkansas Preservation|accessdate=2016-02-06}}&lt;/ref&gt;
+
+The archaeologically important settlement site was listed on the [[National Register of Historic Places]] in 1974.&lt;ref name=&quot;nris&quot;/&gt;
+
+==Cadron Settlement Park==
+The site is located in the public Cadron Settlement Park, operated by the city of [[Conway, Arkansas|Conway]] under a lease from the [[U.S. Army Corps of Engineers]].&lt;ref&gt;{{cite web|title=Cadron Settlement Park|url=http://www.arkansas.com/attractions/detail/cadron-settlement-park/23961|publisher=Arkansas Department of Parks &amp; Tourism|accessdate=15 August 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Cadron Settlement|url=http://www.encyclopediaofarkansas.net/encyclopedia/entry-detail.aspx?entryID=1107|publisher=Encyclopedia of Arkansas|accessdate=15 August 2016}}&lt;/ref&gt;
+
+Cadron Settlement Park features a reconstructed two-story wooden blockhouse, the Cherokee Trail of Tears, a boat launching ramp, hiking trails, restrooms, picnic areas, pavilion, handicapped trails and parking areas, and interpretive signs. The Faulkner Historical Society hosts historic events in the blockhouse.&lt;ref&gt;{{cite web|title=Cadron Blockhouse|url=http://faulknerhistory.org/cadron-block-house/|publisher=Faulkner Historical Society|accessdate=15 August 2016}}&lt;/ref&gt;
+
+==See also==
+*[[National Register of Historic Places listings in Faulkner County, Arkansas]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.conwayparks.com/Default.aspx?tabid=738388 Cadron Settlement Park] - Conway Parks and Recreation
+
+{{National Register of Historic Places}}
+
+[[Category:Archaeological sites on the National Register of Historic Places in Arkansas]]
+[[Category:Buildings and structures in Conway, Arkansas]]
+[[Category:National Register of Historic Places in Faulkner County, Arkansas]]
+[[Category:Protected areas of Faulkner County, Arkansas]]
+
+
+{{Arkansas-NRHP-stub}}</text>
+      <sha1>nld9ownuq60i7avw3vpbv572juw9ido</sha1>
+    </revision>
+  </page>
+</mediawiki>

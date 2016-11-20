@@ -1,0 +1,236 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Queen bee</title>
+    <ns>0</ns>
+    <id>379029</id>
+    <revision>
+      <id>737671792</id>
+      <parentid>737657933</parentid>
+      <timestamp>2016-09-04T09:34:45Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <minor/>
+      <comment>Dating maintenance tags: {{Refimprove}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16802">{{Other uses}}
+{{Refimprove|date=September 2016}}
+
+[[File:Bienenkoenigin3.jpg|300px|thumb|[[carniolan honey bee|Carniolan]] queen bee with attendants on a [[honeycomb]].]]
+
+The term &quot;'''queen bee'''&quot; is typically used to refer to an adult, mated female that lives in a [[honey bee]] [[Colony (biology)|colony]] or [[Beehive|hive]]; she is usually the [[Gyne|mother of most, if not all, of the bees]] in the beehive.&lt;ref&gt;{{cite book | last=Root| first=A.I. |author2=Root, E.R. | title=The ABC and Xyz of Bee Culture | publisher=A.I. Root| year=1980| location =Medina, Ohio | oclc =6586488 }}&lt;/ref&gt; The ''queens'' are developed from [[larva]]e selected by [[worker bee]]s and specially fed in order to become sexually mature. There is normally only one adult, mated queen in a hive, in which case the bees will usually follow and fiercely protect her.
+
+The term &quot;queen bee&quot; can be more generally applied to any dominant reproductive female in a colony of a [[eusociality|eusocial]] bee species other than honey bees. However, as in the Brazilian stingless bee ''[[Schwarziana quadripunctata]]'', a single nest may have multiple queens or even dwarf queens, ready to replace a dominant queen in a case of sudden death.&lt;ref name=&quot;ribiero01&quot;&gt;{{cite journal|last=Ribiero|first=Márcia De F.|last2=Alves|first2=Denise De A.|year=2001|title=Size Variation in ''Schwarziana quadripunctata'' Queens (Hymenoptera, Apidae, Meliponini) |journal=Revista de Etologia |volume=3 |issue=1 |pages=59–65 |url=http://www.etologiabrasil.org.br/sbet/revista/Vol_3_1_059.pdf}}&lt;/ref&gt;
+
+==Development==
+[[File:Weiselzellen 79a.jpg|thumb|180px|right|Older queen larvae in queen cell lying on top of wax comb]]
+[[File:Weiselnaepfchen 29a-thumb.jpg|300px|left|thumb|A queen cup]]
+[[File:Weiselzellen 68a.jpg|thumb|180px|left|Queen larvae floating on royal jelly in opened queen cups laid on top of wax comb.]]
+
+When conditions are favorable for [[Swarming (honey bee)|swarming]], the queen will start laying eggs in queen cups. A virgin queen will develop from a fertilized egg. The young queen larva develops differently because it is more heavily fed [[royal jelly]], a protein-rich secretion from [[gland]]s on the heads of young workers. If not for being heavily fed royal jelly, the queen larva would have developed into a regular [[worker bee]]. All bee larvae are fed some royal jelly for the first few days after hatching but only queen larvae are fed on it exclusively. As a result of the difference in diet, the queen will develop into a sexually mature female, unlike the worker bees.
+
+Queens are raised in specially constructed queen cells.  The fully constructed queen cells have a [[peanut]]-like shape and texture.
+Queen cells start out as queen cups.  Queen cups are larger than the cells of normal brood comb and are oriented vertically instead of horizontally. Worker bees will only further build up the queen cup once the queen has laid an egg in a queen cup.  In general, the old queen starts laying eggs into queen cups when conditions are right for swarming or [[#Supersedure|supersedure]].  Swarm cells hang from the bottom of a [[Frame (beehive)|frame]] while supersedure queens or emergency queens are generally raised in cells built out from the face of a frame.
+
+As the young queen larva pupates with her head down, the workers cap the queen cell with [[beeswax]]. When ready to emerge, the virgin queen will chew a circular cut around the cap of her cell. Often the cap swings open when most of the cut is made, so as to appear like a hinged lid.
+
+During swarming season, the old queen will likely leave with the prime swarm before the first virgin queen emerges from a queen cell.
+
+==Virgin queen bee==
+
+{| class=&quot;wikitable&quot; style=&quot;float:right; clear:right; margin-left:1em&quot;
+!colspan=&quot;2&quot; | Metamorphosis of the queen bee
+|-
+||'''Egg''' ||hatches on Day 3
+|-
+||'''Larva''' (several moltings)||Day 3 to Day {{frac|8|1|2}}
+|-
+||'''Queen cell capped'''||~ Day {{frac|7|1|2}}
+|-
+||'''Pupa'''||~ Day 8 until emergence
+|-
+||'''Emergence'''||~Day {{frac|15|1|2}} - Day 17
+|-
+||'''Nuptial Flight(s)'''||~Day 20 - 24
+|-
+||'''Egg Laying'''||~Day 23 and up
+|}
+
+A virgin queen is a queen bee that has not mated with a [[Drone (bee)|drone]]. Virgins are intermediate in size between workers and mated, laying queens, and are much more active than the latter. They are hard to spot while inspecting a frame, because they run across the comb, climbing over worker bees if necessary, and may even take flight if sufficiently disturbed. Virgin queens can often be found clinging to the walls or corners of a hive during inspections.
+
+Virgin queens appear to have little queen [[pheromone]] and often do not appear to be recognized as queens by the workers. A virgin queen in her first few hours after emergence can be placed into the entrance of any queenless hive or [[nuc]] and acceptance is usually very good, whereas a mated queen is usually recognized as a stranger and runs a high risk of being killed by the older workers.
+
+When a young virgin queen emerges from a queen cell, she will generally seek out virgin queen rivals and attempt to kill them. Virgin queens will quickly find and kill (by stinging) any other emerged virgin queen (or be dispatched themselves), as well as any unemerged queens.  Queen cells that are opened on the side indicate that a virgin queen was likely killed by a rival virgin queen.  When a colony remains in swarm mode after the prime swarm has left, the workers may prevent virgins from fighting and one or several virgins may go with after-swarms.  Other virgins may stay behind with the remnant of the hive. Some virgins have been seen to escape the hive to avoid being killed and seek out another without a queen, such as in the eusocial bee ''[[Melipona scutellaris]].''&lt;ref&gt;{{Cite journal|title = Miniature queens in stingless bees: basic facts and evolutionary hypotheses|url = http://www.edpsciences.org/10.1051/apido:2006023|journal = Apidologie|pages = 191–206|volume = 37|issue = 2|doi = 10.1051/apido:2006023|first = Márcia de F.|last = Ribeiro|first2 = Tom|last2 = Wenseleers|first3 = Pérsio de S. Santos|last3 = Filho|first4 = Denise de A.|last4 = Alves}}&lt;/ref&gt; As many as 21 virgin queens have been counted in a single large swarm.{{Citation needed|reason=reliable source needed for the whole sentence|date=June 2013}} When the after-swarm settles into a new home, the virgins will then resume normal behavior and fight to the death until only one remains. 
+If the prime swarm has a virgin queen and the old queen, the old queen will usually be allowed to live.  The old queen continues laying.  Within a couple of weeks she will die a natural death  and the former virgin, now mated, will take her place.
+
+Unlike the worker bees, the queen's stinger is not barbed and she is able to sting repeatedly without dying.
+
+[[File:Bienenkoenigin im Puppenstadium 99b.jpg|thumb|180px|right|Capped queen cell opened to show queen pupa (with darkening eyes).]]
+
+===Piping===
+
+Piping describes a noise made by virgin and mated queen bees during certain times of the virgin queens' development. Fully developed virgin queens communicate through vibratory signals: &quot;quacking&quot; from virgin queens in their queen cells and &quot;tooting&quot; from queens free in the colony, collectively known as piping. A virgin queen may frequently pipe before she emerges from her cell and for a brief time afterwards. Mated queens may briefly pipe after being released in a hive.
+
+Piping is most common when there is more than one queen in a hive. It is postulated that the piping is a form of battle cry announcing to competing queens and the workers their willingness to fight. It may also be a signal to the worker bees which queen is the most worthwhile to support.
+
+The piping sound is a [[G♯ (musical note)|G{{music|sharp}}]] (aka [[A♭ (musical note)|A{{music|flat}}]]). The adult queen pipes for a two-second pulse followed by a series of quarter-second toots.&lt;ref&gt;{{cite web
+ | last =Butler
+ | first =Charles
+ | title =The 'piping' and 'quacking' of queen bees
+ | work =The Moir Rare Book Collection
+ | publisher =National Library of Scotland
+ | url =http://www.nls.uk/moir/piping.html
+ | format =Web Article
+ | accessdate =2008-01-08 }}&lt;/ref&gt; The queens of Africanized bees produce more vigorous and frequent bouts of piping.
+
+==Reproduction cycle==
+The surviving virgin queen will fly out on a sunny, warm day to a &quot;drone congregation area&quot; where she will mate with 12-15 [[drone (bee)|drones]]. If the weather holds, she may return to the drone congregation area for several days until she is fully mated. Mating occurs in flight. The young queen stores up to 6 million sperm from multiple drones in her [[spermatheca]]. She will selectively release sperm for the remaining 2–7 years of her life.&lt;ref&gt;Waldbauer, Gilbert (1998). The Birder's Bug Book. Harvard University Press.
+&lt;/ref&gt;
+
+The young virgin queen has a limited time to mate. If she is unable to fly for several days because of bad weather and remains unmated, she will become a &quot;drone layer.&quot; Drone-laying queens usually signal the death of the colony, because the workers have no fertilized (female) larvae from which to raise worker bees or a replacement queen. (Pearcy et al. 2004) Wasmannia auropunctata (known as the fire ant) (Fournier et al. 2005) queens produce new queens asexually, whereas workers are produced sexually.  She does not store sperm, sperm is short lived. She must mate with a male or will not develop her eggs. 
+
+Though timing can vary, matings usually take place between the sixth and tenth day after the queen emerges. Egg laying usually begins 2 to 3 days after the queen returns to the [[beehive]], but can start earlier than this.&lt;ref&gt;Gojmerac, Walter. (1980). Bees, Beekeeping, Honey &amp; Pollination. AVI Publishing Company, Inc.&lt;/ref&gt;
+
+A special, rare case of reproduction is [[thelytoky]]: the reproduction of female workers or queens by [[laying worker bee]]s. Thelytoky occurs in the Cape bee, ''[[Apis mellifera capensis]]'', and has been found in other strains at very low frequency.
+
+===Supersedure===
+[[File:Capped emergency supercedure queen cells of the honey bee.JPG|thumb|Capped supersedure queen cells]]
+As the queen ages her [[pheromone (honey bee)|pheromone]] output diminishes. A queen bee that becomes old, or is diseased or failing, will be replaced by the workers in a procedure known as &quot;supersedure&quot;.
+
+Supersedure may be forced by a beekeeper, for example by clipping off one of the queen's middle or posterior legs. This makes her unable to properly place her eggs at the bottom of the brood cell; the workers will detect this and will then rear replacement queens. When a new queen becomes available, the workers will kill the reigning queen by &quot;balling&quot; her, clustering tightly around her. Balling is often a problem for beekeepers attempting to introduce a replacement queen.
+
+If a queen suddenly dies, the workers will flood with royal jelly several cells where a larva has just emerged.  The young larva floats on the royal jelly; the worker bees then build a larger queen cell from the normal-sized worker cell, which will protrude vertically from the face of the brood comb.  Emergency queens are usually smaller and less prolific.
+
+==Daily life==
+
+[[File:Adult queen bee.jpg|200px|thumb|left|Unmarked queen with attendants.]]
+
+Although the name might imply it, a queen bee does not directly control the hive. Her sole function is to serve as the reproducer. A well-mated and well-fed queen of quality stock can lay about 1,500 eggs per day during the spring build-up—more than her own body weight in eggs every day. She is continuously surrounded by worker bees who meet her every need, giving her food and disposing of her waste. The attendant workers also collect and then distribute [[queen mandibular pheromone]], a [[pheromone]] that inhibits the workers from starting queen cells.&lt;ref&gt;{{cite book
+ | last =Seeley
+ | first =Thomas
+ | title =Wisdom of the Hive
+ | publisher =Harvard University Press
+ | year =1996
+ | isbn = 978-0-674-95376-5 }}
+&lt;/ref&gt;
+
+The queen bee is able to control the sex of the eggs she lays. The queen lays a fertilized (female) or unfertilized (male) egg according to the width of the cell. Drones are raised in cells that are significantly larger than the cells used for workers. The queen fertilizes the egg by selectively releasing sperm from her spermatheca as the egg passes through her oviduct.
+
+{{clear}}
+
+==Identification==
+{| class=&quot;wikitable&quot; style=&quot;float:right; clear:right; margin-left:1em;&quot;
+|-
+! colspan=2 | Color
+! Year&lt;br /&gt;ends in
+|-
+| align=right | [[white]]
+| bgcolor=white width=50 | 
+| align=center | 1 or 6
+|-
+| align=right | [[yellow]]
+| bgcolor=yellow | 
+| align=center | 2 or 7
+|-
+| align=right | [[red]]
+| bgcolor=red | 
+| align=center | 3 or 8
+|-
+| align=right | [[green]]
+| bgcolor=green | 
+| align=center | 4 or 9
+|-
+| align=right | [[blue]]
+| bgcolor=blue | 
+| align=center | 5 or 0
+|}
+[[File:Bienenkoenigin.JPG|200px|thumb|left|Marked queen]]
+The queen bee's abdomen is noticeably longer than the worker bees surrounding her and is longer than a [[Drone (bee)|male bee's]]. Even so, in a hive of 60,000 to 80,000 honey bees, it is often difficult for [[beekeeper]]s to find the queen with any speed; for this reason, many queens in non-feral colonies are marked with a light daub of paint on their thorax. The paint used does no harm to the queen and makes her much easier to find when necessary. 
+
+Although the color is sometimes randomly chosen, professional queen breeders use a color that identifies the year a queen hatched, which helps them to decide whether their queens are too old to maintain a strong hive and need to be replaced. The mnemonic taught to assist beekeepers in remembering the colour order is Will You Raise Good Bees (white, yellow, red, green, blue). Sometimes tiny convex disks marked with identification numbers (''Opalithplättchen'') are used when a beekeeper has many queens born in the same year.
+
+==Queen rearing==
+Beekeepers use several different methods to raise more queens and mate them.  Examples are the [[Jenter kit]], walk-away split, grafting, [[Cloake board]], [[artificial insemination#Artificial insemination in livestock and pets|artificial insemination]], and a [[mating yard]].
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Apis mellifera queen}}
+* [https://web.archive.org/web/20061103152001/http://joebee.homestead.com/joebee.html Bees Gone Wild Apiaries], accessed 05/2005
+* Schneider, Stanley Scott; DeGrandi-Hoffman,Gloria; Roan Smith, Deborah [https://web.archive.org/web/20060914020538/http://www.bioweb.uncc.edu/Faculty/Schneider/pdf%20files/ARE%202004.pdf THE AFRICAN HONEY BEE: Factors Contributing to a Successful Biological Invasion] Annual Review of Entomology 2004. 49:351–76; accessed 05/2005
+* [http://www.bushfarms.com/beeshopkinsmethod.htm Hopkins queen rearing method by Isaac Hopkins (1991)]
+* [http://www.bushfarms.com/beeshopkins1886.htm Isaac Hopkins on Queen Rearing (1886)]
+* [http://www.bushfarms.com/beesalleymethod.htm Alley Method of Queen Rearing by Henry Alley (1883)]
+* [http://www.bushfarms.com/beesqueenrearingsimplified.htm Queen Rearing Simplified by Jay Smith (1923)]
+* [http://www.bushfarms.com/beesbetterqueens.htm Better Queens by Jay Smith (1949)]
+* [http://www.bushfarms.com/beesmillermethod.htm Miller Method of Queen Rearing by C.C. Miller (1911)]
+* [http://www.bushfarms.com/beesdoolittle.htm Scientific Queen-rearing by Gilbert M. Doolittle (1889)]
+* [http://www.bushfarms.com/beesqueenrearing.htm Bush Farms, Queen Rearing]
+* [http://www.glenn-apiaries.com/queenproducers.html Sources of queen bees]
+* [http://beekeeping-peak.com/1-queen-bee Queen Bee]
+* ''[https://web.archive.org/web/20051217202130/http://www.mannlib.cornell.edu/about/exhibit/Beekeeping/euro/page2.html The Feminin' Monarchi', Or the History of Bees]'' by Charles Butler, 1634, London; accessed 05/2005
+* {{it}} [http://www.carniche.it Apicoltura Parisi] Italian beekeeper webpages
+* {{Cite journal |last= Châline |first= Nicolas |title= Reproductive conflict in the honey bee
+ |url= http://www.shef.ac.uk/uni/projects/taplab/pdf/chalinephd2004.pdf
+ |archiveurl= https://web.archive.org/web/20050516141014/http://www.shef.ac.uk/uni/projects/taplab/pdf/chalinephd2004.pdf |archivedate= 16 May 2005
+ |format= PDF |accessdate= 31 July 2009
+ |date=September 2004 |oclc= 278134906
+ |publisher= University of Sheffield, Department of Animal and Plant Sciences |location=[[Sheffield]], England |contribution= thesis submitted for the degree of Doctor of Philosophy |postscript= &lt;!--None--&gt;}}
+
+{{BeeColonyMemberTypes}}
+
+{{DEFAULTSORT:Queen Bee}}
+[[Category:Beekeeping]]
+[[Category:Insect reproduction]]
+[[Category:Bees]]</text>
+      <sha1>e40ege03ve58v59oxmjnhssuq9kin9i</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,110 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Edelweiss (beer)</title>
+    <ns>0</ns>
+    <id>22696591</id>
+    <revision>
+      <id>735147804</id>
+      <parentid>730137398</parentid>
+      <timestamp>2016-08-18T21:52:37Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Beer and breweries in Austria to [[:Category:Beer in Austria]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2016 June 4]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3892">{{Infobox beverage
+| name         = Edelweiss 
+| image        = Edelweiss beer.1.JPG
+| caption      = Edelweiss beer
+| type         = Wheat beer
+| abv          = 
+| proof        = 
+| manufacturer = Hofbräu Kaltenhausen
+| distributor  = 
+| origin       = Salzburg, Austria
+| introduced   = 1475
+| discontinued = 
+| colour       = 
+| flavour      = 
+| ingredients  = Water, wheat malt, barley malt, hops and top fermented yeast
+| variants     = 
+| related      = 
+| website      =
+}}
+
+'''Edelweiss''' is the name of two brands of beer:
+
+==Austrian beer==
+Edelweiss Weissbier (also spelled Edelweiß Weißbier), a [[wheat beer]] (or more specifically [[weissbier]], a culturally and historically specific style of wheat beer), brewed until 2010 near [[Salzburg]], [[Austria]] by [[:de:Hofbräu Kaltenhausen|Hofbräu Kaltenhausen]], and since 2010 somewhere else (neither commercial nor brewery's websites provide any information on the subject). While the Edelweiss brand as a beer dates to 1986, the brewery itself was founded in 1475 as 'Kalte Bräuhaus' by the mayor of the village of Kaltenhausen, Johann Elsenhaimer. 
+
+According to the commercial website, the name Edelweiss is used as a metaphor for the beer's purity and singular uniqueness.  The flower is not mentioned as an ingredient, but obtains its floral nature from the top fermented brewing process and its ingredients: pure alpine water, wheat malt, barley malt, hops and top fermented yeast.
+
+The brand owner, '' Brau Union Österreich AG'', is a subsidiary of [[Heineken International]] who also brews in France (in its [[:fr:Brasserie de la Valentine|Brasserie de la Valentine]]) a wheat beer under the same brand but with different marketing and ingredients.
+
+==American beer==
+Edelweiss beer, a brand of lager beer brewed by Schoenhofen (Peter) Brewing Co. in Chicago, with no relationship with the former:
+Peter Schoenhofen, a Prussian immigrant, was in Chicago working in the brewing trade by the 1850s. In 1861, he started a partnership with Matheus Gottfried; they were soon operating a brewery at Canalport Avenue and 18th Street where, during the early 1860s, they made about 600 barrels of lager beer a year. &lt;br&gt;In 1867, Schoenhofen bought out his partner, and the company became the Peter Schoenhofen Brewing Co. By 1868, annual output had increased to about 10,000 barrels. During the 1890s, when the business was owned by the City Contract Co. of London, England, annual output reached 180,000 barrels. Around 1900, the Schoenhofen family regained control of the company, which employed about 500 people at its brewery on West 12th Street by 1910. During this time, the company was also known as the National Brewing Co. The company's &quot;Edelweiss&quot; brand of beer was a big seller. Operations shut down during Prohibition except for making [[Green River (soft drink)|Green River soda]]. By 1933, after the national ban on alcohol production was lifted, the company was back in business as the Schoenhofen-Edelweiss Co. After being purchased by the Atlas Brewing Co. in the late 1940s, Schoenhofen became part of [[Drewry's]] Ltd. of South Bend, Indiana, in 1951, and thereafter assumed the Drewry's name. By the beginning of the 1970s, there was nothing left of its Chicago operations, although Drewry's reintroduced the famous Edelweiss brand in 1972 after nearly a decade-long hiatus. It doesn't seem to be produced nowadays.
+
+==See also==
+*[[Austrian beer]]
+*[[Weissbier]]
+*[[Schoenhofen Brewery Historic District|Schoenhofen Brewery]]
+
+==External links==
+* [http://www.edelweissbier.at Edelweiss brand Austrian website]
+* [http://www.heinekenfrance.fr/activites/nos-marques/edelweiss/ Edelweiss brand on Heineken France website]
+* [http://www.encyclopedia.chicagohistory.org/pages/2834.html Chicago Historical Society website]
+
+[[Category:Beer in Austria]]
+[[Category:Beer brewing companies based in Illinois]]</text>
+      <sha1>867k1t6uk40c0uvz9k25ze6focu7htq</sha1>
+    </revision>
+  </page>
+</mediawiki>

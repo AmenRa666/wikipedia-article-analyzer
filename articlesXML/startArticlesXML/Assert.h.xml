@@ -1,0 +1,131 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Assert.h</title>
+    <ns>0</ns>
+    <id>5406476</id>
+    <revision>
+      <id>727689117</id>
+      <parentid>727678243</parentid>
+      <timestamp>2016-06-30T16:46:09Z</timestamp>
+      <contributor>
+        <username>Spitzak</username>
+        <id>90654</id>
+      </contributor>
+      <comment>/* Example */ Remove unnecessary bloat</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2648">{{lowercase|title=assert.h}}
+{{C Standard Library}}
+
+'''assert.h''' is a [[header file]] in the [[C standard library|standard library]] of the [[C programming language]] that defines the [[C preprocessor]] [[Macro (computer science)|macro]] &lt;code&gt;assert()&lt;/code&gt;.&lt;ref name=C99&gt;International Standard for Programming Language C (C99), ISO/IEC 9899:1999, p. 169&lt;/ref&gt;
+&lt;ref&gt;{{cite book | url=http://c-p-p.net/c/assert.h/assert  | title=[Coding Programmer Page C / C++ Reference]}}&lt;/ref&gt; The macro implements an [[assertion (computing)|assertion]], which can be used to verify assumptions made by the program and print a diagnostic message if this assumption is false. In C++ it is also available through the '''cassert''' header file.
+
+When executed, if the expression is false (that is, compares equal to 0), &lt;code&gt;assert()&lt;/code&gt; writes information about the  call that failed on &lt;code&gt;[[standard streams#Standard error (stderr)|stderr]]&lt;/code&gt; and then calls &lt;code&gt;[[Abort (computing)|abort()]]&lt;/code&gt;.  The information it writes to &lt;code&gt;stderr&lt;/code&gt; includes:
+* the source filename (the predefined macro &lt;code&gt;__FILE__&lt;/code&gt;) 
+* the source line number (the predefined macro &lt;code&gt;__LINE__&lt;/code&gt;) 
+* the source function (the predefined identifier &lt;code&gt;__func__&lt;/code&gt;) (added in [[C99]])
+* the text of expression that evaluated to 0 &lt;ref name=C99/&gt;
+
+Example output of a program compiled on Linux:
+
+ program: program.c:5: main: Assertion `a != 1' failed.
+ Abort (core dumped)
+
+Programmers can eliminate the assertions just by recompiling the program, without changing the source code: if the macro &lt;code&gt;NDEBUG&lt;/code&gt; is defined before the inclusion of &lt;code&gt;&lt;assert.h&gt;&lt;/code&gt;, the &lt;code&gt;assert()&lt;/code&gt; macro may be defined simply as: 
+
+ #define assert(ignore)((void) 0)
+
+and therefore has no effect on the compilation unit, not even evaluating its argument. Therefore expressions passed to &lt;code&gt;assert()&lt;/code&gt; must ''not'' contain side-effects since they will not happen when debugging is disabled. For instance:
+
+ assert(x = gets());
+
+will not read a line and not assign to x when debugging is disabled.
+
+== Example ==
+&lt;source lang=&quot;c&quot;&gt;
+#include &lt;stdio.h&gt;
+#include &lt;assert.h&gt;
+
+int test_assert ( int x )
+{
+   assert( x &lt;= 4 );
+   return x;
+}
+
+int main ( void ) 
+{
+  int i;
+
+    for (i=0; i&lt;=9; i++)
+    {
+        test_assert( i );
+        printf(&quot;i = %d\n&quot;, i);
+    }
+
+  return 0;
+}
+&lt;/source&gt;
+ 
+ i = 0
+ i = 1
+ i = 2
+ i = 3
+ i = 4
+ assert: assert.c:6: test_assert: Assertion `x &lt;= 4' failed.
+ Aborted
+
+== External links ==
+*{{man|bd|assert.h|SUS|verify program assertion}}
+
+==References==
+{{Reflist}}
+
+[[Category:C standard library headers]]</text>
+      <sha1>91jubrb7paer3j4j1wtr7mv6vcxs5w7</sha1>
+    </revision>
+  </page>
+</mediawiki>

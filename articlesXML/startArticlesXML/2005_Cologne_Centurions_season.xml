@@ -1,0 +1,576 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>2005 Cologne Centurions season</title>
+    <ns>0</ns>
+    <id>27764201</id>
+    <revision>
+      <id>739193583</id>
+      <parentid>722213545</parentid>
+      <timestamp>2016-09-13T09:12:36Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Green Cardamom/WaybackMedic 2|WaybackMedic 2]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14093">{{Infobox NFL season
+| team            = Cologne Centurions
+| year            = 2005
+| record          = 6–4
+| division_place  = 3rd
+| coach           = [[Peter Vaas]]
+| general manager = Jacques Orthen
+| stadium         = [[RheinEnergieStadion]]
+| playoffs        = ''did not qualify''
+| uniform         =
+| previous        = [[2004 Cologne Centurions season|2004]]
+| next            = [[2006 Cologne Centurions season|2006]]
+}}
+
+The '''2005 [[Cologne Centurions]] season''' was the second season for the franchise in the [[NFL Europe]] League (NFLEL). The team was led by head coach [[Peter Vaas]] in his second year, and played its home games at [[RheinEnergieStadion]] in [[Cologne]], Germany. They finished the regular season in third place with a record of six wins and four losses.
+
+==Offseason==
+===Free agent draft===
+{| class=&quot;wikitable&quot; style=&quot;font-size:95%; text-align:center&quot;
+|+ 2005 Cologne Centurions NFLEL free agent draft selections
+|-
+! width=&quot;120&quot; colspan=&quot;2&quot; | Draft order
+! width=&quot;160&quot; rowspan=&quot;2&quot; | Player name
+! width=&quot;60&quot;  rowspan=&quot;2&quot; | Position
+! width=&quot;160&quot; rowspan=&quot;2&quot; | College
+|-
+! Round
+! Choice
+|-
+! 1
+! 3
+| Omar Nazel
+| DE
+| [[USC Trojans football|Southern California]]
+|-
+! 2
+! 9
+| Ryan Wingrove
+| DE
+| [[Bowling Green Falcons football|Bowling Green]]
+|-
+! 3
+! 16
+| Bobby Brooks
+| LB
+| [[Fresno State Bulldogs football|Fresno State]]
+|-
+! 4
+! 21
+| [[Eric Powell (American football)|Eric Powell]]
+| DE
+| [[Florida State Seminoles football|Florida State]]
+|-
+! 5
+! 28
+| Zach Wilson
+| G
+| Southern California
+|-
+! 6
+! 33
+| Tam Hopkins
+| G
+| [[Ohio State Buckeyes football|Ohio State]]
+|-
+! 7
+! 40
+| Hart Turner
+| TE
+| [[South Carolina Gamecocks football|South Carolina]]
+|}
+&lt;ref&gt;{{cite press release |author=NFL Europe League |date=February 14, 2005 |title=NFL allocates record 265 to NFLEL |url=http://www.oursportscentral.com/services/releases/?id=3126312 |archiveurl=https://web.archive.org/web/20060616044857/http://www.oursportscentral.com/services/releases/?id=3126312 |archivedate=June 16, 2006 |accessdate=October 30, 2013}}&lt;/ref&gt;
+
+==Personnel==
+===Staff===
+{{NFLE staff
+|Year=2005
+|Team=Cologne Centurions
+|BC1=#A71930
+|FC1=white
+|BDC1=black
+|Front Office=
+*General Manager – Jacques Orthen
+|Head Coaches=
+*Head Coach/Quarterbacks – [[Peter Vaas]]
+|Offensive Coaches=
+*Offensive Coordinator/Offensive Line – [[Bob Bicknell]]
+*National Coach/Running Backs/Special Teams – Marco Knorr
+*Wide Receivers – [[Dwaune Jones]]
+*Tight Ends/Assistant Offensive Line – Jay Hagood
+|Defensive Coaches=
+*Defensive Coordinator/Linebackers – [[David Duggan (American football)|David Duggan]]
+*Defensive Line – [[Tracy Simien]]
+*Defensive Backs – [[John Lyons (American football)|John Lyons]]
+*Defensive Assistant – Chris Ward
+|Strength and Conditioning=
+*Strength and Conditioning – Joe Shufelt
+}}
+
+===Roster===
+{{NFLE roster
+|Year=2005
+|Team=Cologne Centurions
+|BC1=#A71930
+|FC1=white
+|BDC1=black
+|Quarterbacks=
+{{NFLplayer|link=no|&amp;nbsp;9|Chris Lewis}}
+{{NFLplayer|16|Kevin Thompson|d=American football}}
+|Running Backs=
+{{NFLplayer|24|Kory Chapman}}
+{{NFLplayer|26|Keylon Kincade}}
+|Wide Receivers=
+{{NFLplayer|88|James Adkisson}}
+{{NFLplayer|83|Romby Bryant}}
+{{NFLplayer|87|Jamin Elliott}}
+{{NFLplayer|80|C. J. Jones}}
+{{NFLplayer|link=no|19|Carl Morris}}
+{{NFLplayer|link=no|82|James Newson}}
+|Tight Ends=
+{{NFLplayer|85|Dan Curley}}
+{{NFLplayer|link=no|49|Hart Turner}}
+|Offensive Linemen=
+{{NFLplayer|link=no|60|Steve Cully|T}}
+{{NFLplayer|link=no|68|Brandon Evans|G}}
+{{NFLplayer|link=no|66|Tam Hopkins|G}}
+{{NFLplayer|61|Jason Jimenez|T}}
+{{NFLplayer|65|Mike Mabry|C}}
+{{NFLplayer|link=no|67|Brent Swaggert|G}}
+{{NFLplayer|link=no|69|Zach Wilson|T}}
+|Defensive Linemen=
+{{NFLplayer|91|Delbert Cowsette|DT}}
+{{NFLplayer|link=no|92|Javor Mills|DE}}
+{{NFLplayer|link=no|56|Omar Nazel|DE}}
+{{NFLplayer|93|Eric Powell|d=American football|DE}}
+{{NFLplayer|98|Bryan Save|DT}}
+{{NFLplayer|99|Matt Walters|DT}}
+{{NFLplayer|link=no|95|[[Stylez G. White|Greg White]]|DE}}
+|Linebackers=
+{{NFLplayer|link=no|55|Bobby Brooks|OLB}}
+{{NFLplayer|link=no|58|Anthony Dunn|OLB}}
+{{NFLplayer|link=no|50|Dave Moretti|OLB}}
+{{NFLplayer|57|Joe Tuipala|MLB}}
+|Defensive Backs=
+{{NFLplayer|link=no|10|Eddie Canonico|S}}
+{{NFLplayer|29|Randee Drew|CB}}
+{{NFLplayer|33|Marcus Floyd|CB/S}}
+{{NFLplayer|link=no|32|Kevin House|CB}}
+{{NFLplayer|22|Kalvin Pearson|S}}
+{{NFLplayer|link=no|21|Tyrone Sanders|CB}}
+{{NFLplayer|&amp;nbsp;8|Lin-J Shell|CB}}
+{{NFLplayer|link=no|36|Art Smith|CB}}
+{{NFLplayer|23|Jamaine Winborne|CB}}
+|Special Teams=
+{{NFLplayer|link=no|18|Steve Baker|P}}
+{{NFLplayer|link=no|14|Jimmy Kibble|K}}
+{{NFLplayer|link=no|15|Cody Scates|P}}
+|National Players=
+{{NFLplayer|link=no|27|''Loliki Bongo-Wanga''|RB}} {{flagicon|BEL|size=12px}}
+{{NFLplayer|link=no|38|Philippe Gardent|LB}} {{flagicon|FRA|size=12px}}
+{{NFLplayer|link=no|35|Leonard Greene|S}} {{flagicon|GER|size=12px}}
+{{NFLplayer|86|Werner Hippler|TE}} {{flagicon|GER|size=12px}}
+{{NFLplayer|link=no|&amp;nbsp;5|Kentaro Namiki|QB}} {{flagicon|JPN|size=12px}}
+{{NFLplayer|link=no|&amp;nbsp;1|Yu Nakajima|WR}} {{flagicon|JPN|size=12px}}
+{{NFLplayer|link=no|17|Michihiro Ogawa|WR}} {{flagicon|JPN|size=12px}}
+{{NFLplayer|link=no|28|Kohei Satomi|S}} {{flagicon|JPN|size=12px}}
+}}
+
+==Schedule==
+{| class=&quot;wikitable&quot; style=&quot;font-size:95%; text-align:center; width:66em&quot; 
+|-
+! rowspan=&quot;2&quot; | Week
+! rowspan=&quot;2&quot; | Date
+! rowspan=&quot;2&quot; | Kickoff {{#tag:ref|All times are in [[Central European Summer Time]] (CEST).|group=&quot;n&quot;}}
+! rowspan=&quot;2&quot; | Opponent
+! colspan=&quot;2&quot; | Results
+! rowspan=&quot;2&quot; | Game site
+! rowspan=&quot;2&quot; | Attendance
+|-
+! Final score
+! Team record
+|-
+|-bgcolor=&quot;#DFD&quot;
+! 1
+| Saturday, April 2
+| 6:00 p.m.
+| [[2005 Hamburg Sea Devils season|Hamburg Sea Devils]]
+| '''W''' 24–23
+| 1–0
+| [[RheinEnergieStadion]]
+| 9,468
+|-bgcolor=&quot;#DFD&quot;
+! 2
+| Sunday, April 10
+| 4:00 p.m.
+| at [[2005 Rhein Fire season|Rhein Fire]]
+| '''W''' 23–10
+| 2–0
+| [[Esprit Arena|LTU arena]]
+| 25,304
+|-bgcolor=&quot;#DFD&quot;
+! 3
+| Saturday, April 16
+| 6:00 p.m.
+| [[2005 Frankfurt Galaxy season|Frankfurt Galaxy]]
+| '''W''' 23–14
+| 3–0
+| RheinEnergieStadion
+| 10,821
+|-bgcolor=&quot;#FDD&quot;
+! 4
+| Saturday, April 23
+| 6:00 p.m.
+| [[2005 Amsterdam Admirals season|Amsterdam Admirals]]
+| '''L''' 24–37
+| 3–1
+| RheinEnergieStadion
+| 8,863
+|-bgcolor=&quot;#FDD&quot;
+! 5
+| Saturday, April 30
+| 7:00 p.m.
+| at Hamburg Sea Devils
+| '''L''' 6–23
+| 3–2
+| [[Volksparkstadion|AOL Arena]]
+| 15,228
+|-bgcolor=&quot;#DFD&quot;
+! 6
+| Sunday, May 8
+| 4:00 p.m.
+| [[2005 Berlin Thunder season|Berlin Thunder]]
+| '''W''' 23–17
+| 4–2
+| RheinEnergieStadion
+| 9,485
+|-bgcolor=&quot;#DFD&quot;
+! 7
+| Saturday, May 14
+| 7:00 p.m.
+| at Frankfurt Galaxy
+| '''W''' 20–17 &lt;sup&gt;{{small|[[Overtime (sports)|OT]]}}&lt;/sup&gt;
+| 5–2
+| [[Commerzbank-Arena|Waldstadion]]
+| 25,347
+|-bgcolor=&quot;#FDD&quot;
+! 8
+| Monday, May 23
+| 8:00 p.m.
+| at Amsterdam Admirals
+| '''L''' 12–30
+| 5–3
+| [[Amsterdam Arena|Amsterdam ArenA]]
+| 14,423
+|-bgcolor=&quot;#FDD&quot;
+! 9
+| Sunday, May 29
+| 4:00 p.m.
+| Rhein Fire
+| '''L''' 16–28
+| 5–4
+| RheinEnergieStadion
+| 32,521
+|-bgcolor=&quot;#DFD&quot;
+! 10
+| Sunday, June 5
+| 4:00 p.m.
+| at Berlin Thunder
+| '''W''' 17–13
+| 6–4
+| [[Olympic Stadium (Berlin)|Olympic Stadium]]
+| 20,927
+|}
+
+==Standings==
+{{2005 NFLE standings}}
+&lt;ref&gt;{{cite web |url=http://www.footballdb.com/standings.html?lg=NFLE&amp;yr=2005 |title=2005 NFLE Standings |publisher=The Football Database |accessdate=October 30, 2013}}&lt;/ref&gt;
+
+==Game summaries==
+===Week 1: vs Hamburg Sea Devils===
+{{Americanfootballbox
+| titlestyle = background:#F2F2F2; border:1px solid #AAAAAA; text-align:center;
+| title      = Week One: Hamburg Sea Devils at Cologne Centurions – Game summary
+| date       = Saturday, April 2
+| time       = 6:06 p.m. [[Central European Summer Time|CEST]]
+| road       = Hamburg
+| R1         = 7
+| R2         = 3
+| R3         = 3
+| R4         = 10
+| home       = '''Cologne'''
+| H1         = 7
+| H2         = 7
+| H3         = 3
+| H4         = 7
+| stadium    = [[RheinEnergieStadion]], [[Cologne]], Germany
+| attendance = 9,468
+| weather    = 57 °F (13.9 °C), clear
+| referee    = [[Gene Steratore]]
+}}
+
+===Week 2: at Rhein Fire===
+{{Americanfootballbox
+| titlestyle = background:#F2F2F2; border:1px solid #AAAAAA; text-align:center;
+| title      = Week Two: Cologne Centurions at Rhein Fire – Game summary
+| date       = Sunday, April 10
+| time       = 4:04 p.m. CEST
+| road       = '''Cologne'''
+| R1         = 6
+| R2         = 3
+| R3         = 7
+| R4         = 7
+| home       = Rhein
+| H1         = 0
+| H2         = 3
+| H3         = 0
+| H4         = 7
+| stadium    = [[Esprit Arena|LTU arena]], [[Düsseldorf]], Germany
+| attendance = 25,304
+| weather    = 48 °F (8.9 °C), roof closed
+| referee    = [[Jerome Boger]]
+}}
+
+===Week 3: vs Frankfurt Galaxy===
+{{Americanfootballbox
+| titlestyle = background:#F2F2F2; border:1px solid #AAAAAA; text-align:center;
+| title      = Week Three: Frankfurt Galaxy at Cologne Centurions – Game summary
+| date       = Saturday, April 16
+| time       = 6:06 p.m. CEST
+| road       = Frankfurt
+| R1         = 7
+| R2         = 7
+| R3         = 0
+| R4         = 0
+| home       = '''Cologne'''
+| H1         = 3
+| H2         = 7
+| H3         = 10
+| H4         = 3
+| stadium    = RheinEnergieStadion, Cologne, Germany
+| attendance = 10,821
+| weather    = 50 °F (10.0 °C), cloudly
+| referee    = [[Carl Cheffers]]
+}}
+
+===Week 4: vs Amsterdam Admirals===
+{{Americanfootballbox
+| titlestyle = background:#F2F2F2; border:1px solid #AAAAAA; text-align:center;
+| title      = Week Four: Amsterdam Admirals at Cologne Centurions – Game summary
+| date       = Saturday, April 23
+| time       = 6:08 p.m. CEST
+| road       = '''Amsterdam'''
+| R1         = 7
+| R2         = 20
+| R3         = 7
+| R4         = 3
+| home       = Cologne
+| H1         = 10
+| H2         = 7
+| H3         = 0
+| H4         = 7
+| stadium    = RheinEnergieStadion, Cologne, Germany
+| attendance = 8,863
+| weather    = 59 °F (15.0 °C), cloudy
+| referee    = [[Alberto Riveron]]
+}}
+
+===Week 5: at Hamburg Sea Devils===
+{{Americanfootballbox
+| titlestyle = background:#F2F2F2; border:1px solid #AAAAAA; text-align:center;
+| title      = Week Five: Cologne Centurions at Hamburg Sea Devils – Game summary
+| date       = Saturday, April 30
+| time       = 7:05 p.m. CEST
+| road       = Cologne
+| R1         = 0
+| R2         = 3
+| R3         = 0
+| R4         = 3
+| home       = '''Hamburg'''
+| H1         = 0
+| H2         = 6
+| H3         = 0
+| H4         = 17
+| stadium    = [[Volksparkstadion|AOL Arena]], [[Hamburg]], Germany
+| attendance = 15,228
+| weather    = 64 °F (17.8 °C), mostly cloudy
+| referee    = [[Scott Green (American football official)|Scott Green]]
+}}
+
+===Week 6: vs Berlin Thunder===
+{{Americanfootballbox
+| titlestyle = background:#F2F2F2; border:1px solid #AAAAAA; text-align:center;
+| title      = Week Six: Berlin Thunder at Cologne Centurions – Game summary
+| date       = Sunday, May 8
+| time       = 4:06 p.m. CEST
+| road       = Berlin
+| R1         = 0
+| R2         = 7
+| R3         = 10
+| R4         = 0
+| home       = '''Cologne'''
+| H1         = 10
+| H2         = 0
+| H3         = 0
+| H4         = 13
+| stadium    = RheinEnergieStadion, Cologne, Germany
+| attendance = 9,485
+| weather    = 50 °F (10.0 °C), showers
+| referee    = [[Gerald Austin]]
+}}
+
+===Week 7: at Frankfurt Galaxy===
+{{Americanfootballbox
+| titlestyle = background:#F2F2F2; border:1px solid #AAAAAA; text-align:center;
+| title      = Week Seven: Cologne Centurions at Frankfurt Galaxy – Game summary
+| date       = Saturday, May 14
+| time       = 7:07 p.m. CEST
+| road       = '''Cologne'''
+| R1         = 0
+| R2         = 10
+| R3         = 0
+| R4         = 7
+| R5         = 3
+| home       = Frankfurt
+| H1         = 7
+| H2         = 7
+| H3         = 0
+| H4         = 3
+| H5         = 0
+| stadium    = [[Commerzbank-Arena|Waldstadion]], [[Frankfurt]], Germany
+| attendance = 25,347
+| weather    = 62 °F (16.7 °C), cloudy
+| referee    = [[Walt Anderson (American football)|Walt Anderson]]
+}}
+
+===Week 8: at Amsterdam Admirals===
+{{Americanfootballbox
+| titlestyle = background:#F2F2F2; border:1px solid #AAAAAA; text-align:center;
+| title      = Week Eight: Cologne Centurions at Amsterdam Admirals – Game summary
+| date       = Monday, May 23
+| time       = 8:17 p.m. CEST
+| road       = Cologne
+| R1         = 6
+| R2         = 6
+| R3         = 0
+| R4         = 0
+| home       = '''Amsterdam'''
+| H1         = 0
+| H2         = 17
+| H3         = 7
+| H4         = 6
+| stadium    = [[Amsterdam Arena|Amsterdam ArenA]], [[Amsterdam]], Netherlands
+| attendance = 14,423
+| weather    = 62 °F (16.8 °C), roof open, sunny
+| referee    = Gene Steratore
+}}
+
+===Week 9: vs Rhein Fire===
+{{Americanfootballbox
+| titlestyle = background:#F2F2F2; border:1px solid #AAAAAA; text-align:center;
+| title      = Week Nine: Rhein Fire at Cologne Centurions – Game summary
+| date       = Sunday, May 29
+| time       = 4:06 p.m. CEST
+| road       = '''Rhein'''
+| R1         = 0
+| R2         = 14
+| R3         = 7
+| R4         = 7
+| home       = Cologne
+| H1         = 0
+| H2         = 0
+| H3         = 7
+| H4         = 9
+| stadium    = RheinEnergieStadion, Cologne, Germany
+| attendance = 32,521
+| weather    = 72 °F (22.4 °C), mostly cloudy
+| referee    = [[Walt Coleman]]
+}}
+
+===Week 10: at Berlin Thunder===
+{{Americanfootballbox
+| titlestyle = background:#F2F2F2; border:1px solid #AAAAAA; text-align:center;
+| title      = Week Ten: Cologne Centurions Berlin Thunder – Game summary
+| date       = Sunday, June 5
+| time       = 4:05 p.m. CEST
+| road       = '''Cologne'''
+| R1         = 3
+| R2         = 0
+| R3         = 7
+| R4         = 7
+| home       = Berlin
+| H1         = 3
+| H2         = 7
+| H3         = 3
+| H4         = 0
+| stadium    = [[Olympic Stadium (Berlin)|Olympic Stadium]], [[Berlin]], Germany
+| attendance = 20,927
+| weather    = 65 °F (18.3 °C), cloudy
+| referee    = Carl Cheffers
+}}
+
+==Notes==
+{{Reflist|group=&quot;n&quot;}}
+
+==References==
+{{Reflist|30em}}
+
+{{Cologne Centurions}}
+
+[[Category:2005 NFL Europe season|Cologne]]
+[[Category:Cologne Centurions seasons]]</text>
+      <sha1>rmywl0qvl4o0zdsick3h3x2thtvqdnt</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,85 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Post-consumerism</title>
+    <ns>0</ns>
+    <id>12125203</id>
+    <revision>
+      <id>717329476</id>
+      <parentid>717131043</parentid>
+      <timestamp>2016-04-27T02:16:31Z</timestamp>
+      <contributor>
+        <username>Carolholst</username>
+        <id>11331128</id>
+      </contributor>
+      <minor/>
+      <comment>added references and one sentence</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1334">{{Multiple issues|
+{{unreferenced|date=April 2016}}
+{{expert needed|date=June 2011}}
+}}
+
+'''Post-consumerism''' is often suggesting that there is a growing willingness to assert that well-being, as distinct from material success, is the aim of life. Post-consumerism can also be viewed as moving beyond the current model of addictive consumerism.&lt;ref&gt;[http://www.postgrowthalliance.org Post Growth Alliance], Who We Are, Retrieved on 25 April 2016.&lt;/ref&gt; This personal and societal strategy utilizes each individual's core values to identify the &quot;satisfaction of enough for today.&quot;&lt;ref&gt;De Graaf, John et al (2014, Third Edition). ′′Affluenza: How Overconsumption Is Killing Us and How to Fight Back′′, p. 200. Berrett-Koehler Publishers, San Francisco. ISBN 1609949277.&lt;/ref&gt; The intent and outcome of this basic strategy to date has &quot;reached people where they are rather than simply where we are.&quot;&lt;ref&gt;Holst, Carol (2007). ′′Get Satisfied: How Twenty People Like You Found the Satisfaction of Enough′′, p. xviii. Easton Studio Press, Connecticut. ISBN 0974380687.&lt;/ref&gt;
+
+== References ==
+{{Reflist}}
+
+== See also ==
+* [[Post growth]]
+* [[Degrowth]]
+
+==External links==
+* [http://www.postconsumers.com/ Postconsumers.com]
+
+[[Category:Consumer behaviour]]
+[[Category:Economic ideologies]]
+[[Category:Social philosophy]]</text>
+      <sha1>6cnq9ywk2pe90ff6f74u845tbgmc3sf</sha1>
+    </revision>
+  </page>
+</mediawiki>

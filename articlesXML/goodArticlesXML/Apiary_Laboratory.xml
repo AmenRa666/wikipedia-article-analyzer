@@ -1,0 +1,185 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Apiary Laboratory</title>
+    <ns>0</ns>
+    <id>31274932</id>
+    <revision>
+      <id>731539907</id>
+      <parentid>682961915</parentid>
+      <timestamp>2016-07-26T00:34:58Z</timestamp>
+      <contributor>
+        <username>Bender235</username>
+        <id>88026</id>
+      </contributor>
+      <minor/>
+      <comment>clean up; http-&gt;https (see [[WP:VPR/Archive 127#RfC: Should we convert existing Google and Internet Archive links to HTTPS?|this RfC]]) using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="31148">{{good article}}
+{{Infobox building
+| name                = Apiary Laboratory
+| image               = MAC-Apiary.png
+| caption             = The Apiary Laboratory, as it appeared in 1915.
+| alternate_names     = Apiculture Building&lt;br&gt;Apiculture Laboratory&lt;br&gt;Bee House&lt;ref name=beehouse&gt;[https://archive.org/stream/agriculturalvoca00mass#page/30/mode/2up Beekeeping], Agricultural Vocations, Massachusetts Agricultural College Bulletin, March 1914&lt;/ref&gt;
+| building_type       = Academic offices, research laboratory, and workshop
+| architectural_style = Vernacular
+| location            =          	                  
+| current_tenants     = Dept. of Microbiology
+| coordinates         = 
+| start_date          = 1911
+| completion_date     = 1912
+| demolition_date     = 
+| height              = 
+| other_dimensions    = 
+| floor_count         = 3
+| floor_area          = 
+| main_contractor     =
+| architect           = Unknown
+| awards              = 
+}}
+
+The '''Apiary Laboratory''', more often referred to as the '''Apiary''', is a research laboratory at the [[University of Massachusetts Amherst]]. Originally built for the study of [[honey bees]] and [[apiculture]], today it is primarily used to study native [[pollinator]] species and the chemicals and pathogens impacting their populations. This academic building is unique in that it is credited as being the first in the [[United States]] to be erected exclusively for the teaching of [[beekeeping]].&lt;ref name=book&gt;{{Cite book|title=MAC Bulletin, January 1915|url=https://archive.org/stream/bulletin07univ#page/130/mode/2up|publisher=Massachusetts Agricultural College|year=1915 |pages=130|accessdate=23 March 2011}}&lt;/ref&gt;&lt;ref name=beek&gt;{{cite news|last=Pellett|first=Frank C.|title=Beekeeping in Massachusetts|newspaper=American Beekeeping Journal|date=April 1916}}&lt;/ref&gt;
+
+Prior to the construction of the building, the [[Massachusetts Agricultural College]] had maintained a beekeeping program for a number of years as one of the first land-grant agricultural colleges to teach the subject in the United States.&lt;ref name=fernald&gt;{{cite book |last=Fernald |first=Henry T |title=The History of Entomology at the Massachusetts Agricultural College, 1867-1930 |location=Amherst |publisher=Fernald Club, Special Publication Number 1, Massachusetts State College}}&lt;/ref&gt; In time, techniques in apiculture progressed, leaving beekeeping as no longer simply a hobby, but rather a viable agricultural business.&lt;ref name=businessofbee&gt;{{Cite book|last=Pellett|first=Frank C.|title=Productive beekeeping|url=https://archive.org/stream/productivebeekee02pell#page/8/mode/2up|publisher=J.B. Lippincott Company|year=1916 |pages=9–17|accessdate=13 June 2011}}&lt;/ref&gt;&lt;ref name=businessofbee2&gt;{{cite news|last=Fuller|first=O.C. |title=Beekeeping as a Business|url=https://books.google.com/books?id=XQZPAAAAIAAJ&amp;dq=beekeeping%20as%20a%20business%20venture&amp;pg=PA37#v=onepage&amp;q&amp;f=false|pages=37–41|newspaper=First Report of the State Bee-Keepers' Association of Pennsylvania|publisher=Harrisburg Publishing Company, State Printer|location=Harrisburg, PA|year=1906}}&lt;/ref&gt; The college's program had remained limited to a single short-course for a number of years but was expanded however, when in 1911, a bill passed establishing the office of &quot;state apiary inspector&quot;.&lt;ref name=actof11&gt;G.L. 1911, 220 §1,{{Cite book|title=Manual of Agricultural Laws, State Board of Agriculture, Commonwealth of Massachusetts|url=https://books.google.com/books?id=qbNCAAAAIAAJ&amp;dq=1911%20220%20Massachusetts%20inspector&amp;pg=PA29#v=onepage&amp;q&amp;f=false|publisher=Wright &amp; Potter Printing Co., State Printers, Boston|year=1916 |pages=29–32|accessdate=16 May 2011}}&lt;/ref&gt; Dr. Burton N. Gates, the man first appointed to this position was also the college beekeeping lecturer at the time, and would oversee the expansion of the program as an asset to the college and a service to the state in the years to come.  Construction began on the apiary in February&amp;nbsp;1911 and with its completion in June of the following year for a total cost of $3000.&lt;ref name=annualreport1913&gt;{{Cite book|title=MAC Annual Report|url=https://archive.org/stream/annualreport50mass#page/6/mode/2up|publisher=Massachusetts Agricultural College|year=1913 |pages=6|accessdate=6 May 2011}}&lt;/ref&gt;&lt;ref name=annualreport1912&gt;{{Cite book|title=MAC Annual Report|url=https://archive.org/stream/annualreport49mass#page/n59/mode/2up|publisher=Massachusetts Agricultural College|year=1912 |pages=45|accessdate=6 May 2011}}&lt;/ref&gt; At the time the building contained a laboratory, a wintering cellar, a wood workshop, an office with a comprehensive library of apicultural books, honey and wax extraction rooms and a two-person apartment used by student tenants.&lt;ref name=book/&gt;&lt;ref name=annualreport1933&gt;{{Cite book|title=MSC Annual Report|url=https://archive.org/stream/annualreport6970mass#page/n263/mode/2up|publisher=Massachusetts State College|year=1933 |pages=9|accessdate=6 May 2011}}&lt;/ref&gt; It was also the first structure built in the college orchard, a section of campus now known as the [[List of University of Massachusetts Amherst residence halls#Central|Central housing area]].&lt;ref&gt;{{Cite book|editor1-last=Packard|editor2-last=Moore|title=M.A.C. Students' Handbook, 1912-1913|url=http://clio.fivecolleges.edu/umass/30-00handbooks/1912/index.shtml?page=2 Association|year=1912|pages=|accessdate=10 July 2011}} ''(see map)''&lt;/ref&gt;
+
+In the time that Gates was there, research focused mainly on honey production, brood diseases, wax extraction and horticultural pollination in the cucumber and cranberry industries.&lt;ref name=beehouse/&gt; From 1913 to 1920 the laboratory was also operated by a superintendent, John L. Byard, hired on by Gates to maintain the facilities from day to day as well as perform wax extractions and other services to beekeepers from around the state.&lt;ref name=beekreview&gt;{{Cite book|title=New Superintendent Appointed at the Massachusetts Agricultural College|url=https://archive.org/stream/beekeepersreview2728nati#page/n19/mode/2up|publisher=The Beekeepers' Review|year=1914 |pages=15|accessdate=6 May 2011}}&lt;/ref&gt; Following Gates' resignation in 1918, the school ceased to offer its summer beekeeping school, many of its state extension services, and the college went through several different professors before hiring Frank R. Shaw as the new professor of beekeeping in 1931.&lt;ref name=indexsh&gt;{{Cite book|title=MAC Index, Class of 1937|url=https://archive.org/stream/index1937univ#page/30/mode/2up/search/shaw|publisher=Massachusetts Agricultural College|year=1937 |pages=31|accessdate=14 May 2011}}&lt;/ref&gt; With Shaw's retirement in 1969, the laboratory was rededicated to urban and medical entomology research, with the former beekeeping program falling into relative obscurity.&lt;ref name=ybfernald&gt;{{Cite book|title=Fernald Club Yearbook, 1977|url=https://books.google.com/books?ei=TPbOTYeaCcXqgQed3LXADA&amp;ct=result&amp;id=UPpNAAAAYAAJ&amp;dq=%22Frank+R.+Shaw%22+retires+umass&amp;q=%22Frank+R.+Shaw%22+fund#search_anchor|year=1977 |pages=42–43|accessdate=21 July 2011}}&lt;/ref&gt;
+
+At the present time the apiary is used exclusively for research on native pollinator decline and ecology, with the last beekeeping classes taught at the university nearly a decade ago.&lt;ref name=SPIRE&gt;[http://www.spire.umass.edu SPIRE] Course Listings, 2001, 2002. (Internal, available to students only)&lt;/ref&gt; The building is currently on the university's &quot;defer and do not reinvest list&quot;, suggesting that it will ultimately be dismantled at some point in the near future.&lt;ref name=legacy&gt;[http://www.umass.edu/fp/Legacy%20Buildings%20Report.pdf Legacy Buildings Report] p.16, 21.&lt;/ref&gt;
+
+==History==
+
+===Origins of the beekeeping program===
+[[File:EarlyBeekeepingMAC.jpg|right|thumb|268px|Beekeeping class on Sunset Avenue, Amherst. The man in the top left corner is instructor James Fitts Wood. c. 1903.]]
+Since the early days of its founding as the [[Massachusetts Agricultural College]], UMass Amherst has maintained apiculture and ecological studies of bees throughout much of its history. In 1870 the first short courses on beekeeping were taught at the college by Alonzo Bradley Esq., an expert on honeybee behavior and the president of the Massachusetts Beekeepers' Association at the time. These lectures were given for several of the years that followed and appear to be &quot;the first instruction in the subject given in any agricultural college in this country&quot; as indicated by [[Henry T. Fernald|H.T. Fernald]] in his account of the college's history.&lt;ref name=fernald/&gt; Only two decades earlier western Massachusetts had been home to [[Lorenzo Langstroth]], a man considered to be the father of modern apiculture. Although he had spent much of his time developing his innovative [[Langstroth hive|hive]] (now considered an international standard) in Philadelphia, in 1852 he moved to [[Greenfield, Massachusetts]] to recover from illness and further his study of honeybee behavior.&lt;ref name=hoabk&gt;{{cite book |last=Pellett |first=Frank C. |title=The History of American Beekeeping |location=Ames, Iowa |publisher=Collegiate Press, Inc., Iowa State University}}&lt;/ref&gt; In the following year he published his widely acclaimed primer, ''The Hive and the Honey-Bee'' at the Hopkins, Bridgman &amp; Co. press of [[Northampton, Massachusetts|Northampton]].;&lt;ref name=langstroth&gt;{{Cite book|author=Langstroth, Lorenzo L.|title=Langstroth on the Hive and the Honey-Bee; A Bee Keeper's Manual|url=https://archive.org/stream/langstrothonhiv00lang#page/n9/mode/2up|publisher=Hopkins, Bridgman &amp; Company|year=1853|pages=|accessdate=15 May 2011}}&lt;/ref&gt; this book, having gone through several editions since, has become a mainstay of American beekeeping literature. One of Langstroth's own apprentices, James Fitts Wood, would go on to serve as the lecturer of beekeeping at the agricultural college for several years.&lt;ref name=woodobit&gt;{{cite news|last=Paige|first=James B.|title=Death of James Fitts Wood|url=https://archive.org/stream/americanbeekeepe161906falc#page/73/mode/2up|newspaper=The American Bee-Keeper|date=April 1906}}&lt;/ref&gt; During this time he continued to make significant contributions in queen-rearing and became known in the apicultural community for developing a strain of notably docile Italian honeybees.&lt;ref name=woodobit/&gt; Despite his success in academia and apiculture, Wood unfortunately would not live to see the establishment of the college apiary, he died after a period serious illness on February&amp;nbsp;15,&amp;nbsp;1905 at the age of 44.&lt;ref name=woodobit/&gt;
+
+===Construction of the apiary===
+The idea of a campus apiary was first conceived for the sole purpose of pollinating the campus orchard. However, by the time the facilities had been built, President [[Kenyon L. Butterfield]] and his administration had seen and realized a much greater purpose and potential in it than was previously considered. Around this time beekeeping was considered a new business venture which had otherwise been thought of as a hobby or side business of farmers for many decades prior.&lt;ref name=businessofbee/&gt;&lt;ref name=businessofbee2/&gt; [[File:BurtonGatesPortrait.png|left|thumb|160px|Dr. Burton Noble Gates]] Just as much of the pioneer work in beekeeping originated in New England, Massachusetts was one of the first states to create a &quot;State Inspector of Apiaries.&quot;&lt;ref name=actof11/&gt; The man who first led UMass’s beekeeping program, a Dr. Burton N. Gates, was also the first to fill this position.&lt;ref name=beek/&gt; As the apiary’s first professor, he was originally hired part-time to give a series of lectures as a guest speaker during the spring semester of 1906. This would continue until 1910 when the administration hired him as a permanent faculty member, and concurrently built the new apicultural laboratory, equipped with all modern amenities of its time.&lt;ref name=book/&gt;&lt;ref name=index1912&gt;{{Cite book|title=MAC Index|url=https://archive.org/stream/index1912univ#page/26/mode/2up|publisher=Massachusetts Agricultural College|year=1912 |pages=27|accessdate=6 May 2011}}&lt;/ref&gt; They saw the opportunity they had, to further research on the diseases and ecology of the honey bee, something that up to that point had never been pursued so thoroughly by a public organization of higher education.&lt;ref name=beek/&gt;
+
+In 1911, ground was broken on the site of the &quot;old creamery building&quot;&lt;ref group=&quot;note&quot;&gt;It is not known if the college used this building or if it was only a remnant of the original farms that once occupied the campus land. Although no detailed photos have been found at the present time, an early yearbook drawing of the creamery may be found on the [[:File:MACApiaryCreameryBuilding.png|Wikimedia Commons]].&lt;/ref&gt; at the foot of Mount Pleasant for the new apiary building and yards,&lt;ref name=annualreport1912/&gt; and by June of the following year the building had been completed for a total cost of $3000.&lt;ref name=annualreport1913/&gt; At the time of its completion, the grounds contained several species of native nectar-yielding flowers and were home to fifty bee colonies of multiple races.&lt;ref name=beehouse/&gt;&lt;ref name=book/&gt; The building itself contained wax and honey extraction rooms, a wintering cellar, an office with an extensive library of beekeeping books, a wood workshop, a laboratory and a two-person apartment occupied by student caretakers.&lt;ref name=book/&gt;&lt;ref name=annualreport1933/&gt;
+
+As the apiary became a research laboratory, classroom and an extension service to the state, the demand increased for these services and thus it became necessary to maintain additional hives. It is for these reasons that, in 1913, Dr. Gates hired John L. Byard as superintendent of the apiary. Some of Byard's responsibilities included performing wax extractions, running the college's apicultural exhibit at fairs and maintaining the hive yard from day to day.&lt;ref name=beekreview/&gt; [[File:ByardBeeYard.png|right|thumb|400px|John L. Byard standing in the hive yard, 1915]] He would continue to maintain the building, the equipment and the hives until his death in 1920; professors [[Henry T. Fernald]] and [[Arthur I. Bourne]] would continue his work until his successor arrived the following year.&lt;ref name=fernald/&gt; Gates had been promoted from an assistant to an associate professor in 1915, and had continued to work both as a lecturer and as the apiarist of the experimental station.&lt;ref name=book2&gt;{{Cite book|title=MAC Bulletin|url=https://archive.org/stream/bulletin07univ#page/74/mode/2up/|year=1915 |pages=74|accessdate=13 May 2011}}&lt;/ref&gt; From 1913 to 1914 he was made president of the National Beekeepers' Association, twice hosting conventions in Amherst concluding the college's winter and spring sessions of the college beekeeping school.&lt;ref name=abjconv&gt;{{cite news|last=Gates|first=Burton N.|title=Meeting at Massachusetts Agricultural College|url=https://books.google.com/books?id=QaEcAQAAMAAJ&amp;lpg=PA24&amp;ots=a4ghrhbxrk&amp;dq=%22national%20beekeepers%20association%22%20amherst&amp;pg=PA23#v=onepage&amp;q=%22national%20beekeepers%20association%22%20amherst&amp;f=false|newspaper=American Bee Journal|date=January 1906}}&lt;/ref&gt;&lt;ref name=schoollist&gt;{{Cite book|title=MAC Bulletin, October 1915|url=https://archive.org/stream/bulletin07univ#page/22/mode/2up|publisher=Massachusetts Agricultural College|year=1915 |pages=361|accessdate=14 May 2011}}&lt;/ref&gt; However, in 1918 he left Amherst for a professorship at the [[University of Guelph|Ontario Agricultural College]] in Guelph, leaving his former position open for the two years that followed.&lt;ref name=guelph&gt;[http://www.lib.uoguelph.ca/resources/archival_&amp;_special_collections/the_collections/digital_collections/agriculture/burton_noble_gates_collection.htm Burton Noble Gates Collection], Archival &amp; Special Collections,University of Guelph Library&lt;/ref&gt; Gates' and Byard's duties would be taken up by several different people in the next decade. From 1921 to 1923 all beekeeping and apiology work at the Experimental Station was taken up by Professor Norman Phillips, who soon resigned for a job at a commercial apiary.&lt;ref name=fernald/&gt; He was replaced by Professor Morton H. Cassidy, an alumnus of the college, who stayed for 3 more years but ultimately had to resign due to his severe asthma.&lt;ref name=fernald/&gt; In 1926, a Mr. Clayton L. Farrar was made instructor of beekeeping. Farrar, a graduate of Kansas Agricultural College, also performed extensive work on several entomology projects as a research assistant before leaving in 1931 to work at a Federal laboratory.&lt;ref name=fernald/&gt;
+
+===Contemporary history===
+In the span of only a decade the apiary laboratory had been run by 4 different faculty members until finally, in 1931, a new and more permanent apiology instructor, Frank R. Shaw, was hired. Shaw, a student at the time, had previously been hired on in 1930 as assistant entomologist to the college Experimental Station, but with the resignation of Farrar, his responsibilities would shift as he began to teach courses in beekeeping and pollinator ecology.&lt;ref name=indexsh/&gt; In 1935, he was made an &quot;Instructor in Economic Entomology and Beekeeping&quot; while concurrently finishing his Ph.D. of entomology at [[Cornell University]].&lt;ref name=indexsh/&gt; In 1944, Shaw left to serve in the [[Second World War]]. Eventually, he would be promoted from being an instructor to an assistant professor in 1954.&lt;ref name=indexwwii&gt;{{Cite book|title=MAC Index, Class of 1945|url=https://archive.org/stream/index1945univ#page/40/mode/2up|publisher=Massachusetts Agricultural College|year=1945 |pages=40|accessdate=14 May 2011}}&lt;/ref&gt; UMass would continue to offer beekeeping courses and maintain a beekeeping section of the entomology department right up through the 1970s, however it appears there was never another superintendent hired to replace Byard and much of the extension work to state beekeepers seems to have ceased. Professor Shaw went on to coauthor a comprehensive beekeeping and ecology textbook with [[UC Davis]] apiologist John Eckert. This textbook,&lt;ref group=&quot;note&quot;&gt;Eckert, John E. &amp; Frank R. Shaw. ''Beekeeping''. Macmillan Publishing Company: New York, NY.&lt;/ref&gt; intended to replace the beekeeping text of the same name by renowned apiculturalist [[E. F. Phillips]], would be published for a total of seven editions from 1960 through 1977. Shaw retired in 1969 at the age of 61, he would be the first and last &quot;Professor of Beekeeping&quot; to do so as the position was abolished immediately after.&lt;ref name=ybfernald/&gt; Following his retirement, a student scholarship fund for the department of entomology was set up by the department in Shaw's name.&lt;ref name=ybfernald/&gt;&lt;ref name=endow&gt;[http://www.umass.edu/aco/endowment/Endowment%20chart%20strings%20with%20MBU%20info-5.pdf UMass Endowment Funds, 2008]&lt;/ref&gt;
+
+From the late 1970s through the mid-1990s the laboratory was rededicated to medical and urban entomology, with Professor John Edman running projects on mosquitos as vectors and Professor Ron Prokopy focusing on orchard pest control.&lt;ref name=corrandinvoice&gt;Letters, postcards, invoices other correspondence found in the building, December 2010&lt;/ref&gt; In 1982, the wintering cellar in the basement of the lab was converted into laboratories, and the workshop was relocated to the garage adjacent to the building that was constructed that same year.&lt;ref name=corrandinvoice/&gt;&lt;ref name=buildings2009&gt;[http://www.mass.gov/Eoaf/docs/dcam/dsblist/dsb090901_bldg_cond_rprt.pdf 2009 Buildings Condition Report], page 7&lt;/ref&gt;
+
+Since 2005, the Apiary has housed part of the Laboratory of Medical Zoology (LMZ) under direction of Dr. Stephen Rich.  LMZ uses the lab space for studies of ticks and mosquito vectors of infectious disease.
+
+==Research==
+The department of entomology has done several studies in apiculture, chemical ecology, horticultural pollination, and the behavior of honeybee and bumblebee colonies. Although some research was done in the apiary yards, the majority of data had to be collected with higher numbers of colonies at different experimental stations.
+Today the laboratory is used to conduct research on native pollinator decline for the [http://www.beeccdcap.uga.edu/ Managed Pollinator Coordinated Agricultural Project].
+
+===Selected publications===
+*{{cite book |last=Gates|first=Burton Noble|title= Bee Diseases in Massachusetts|publisher=Massachusetts Agricultural Experiment Station|oclc=632090550|year=1908|url=https://books.google.com/books?id=SDwpAAAAYAAJ&amp;dq=gates%20burton%20beekeeping%20in%20massachusetts&amp;pg=PA23#v=onepage&amp;q&amp;f=false}}
+*{{cite book |last=Ferrar|first=Clayton Leon|title= A measure of some factors affecting the development of the bee colony|oclc= 14982766|publisher=Massachusetts State College|year=1931}}
+*{{cite book |last= Shaw|first= Frank Robert|title= Bees for the beginner (in Massachusetts)|publisher=Massachusetts State College Extension Service|location=Amherst, MA|oclc=18718351 |year=1938}}
+*{{cite book |last=Savos|first=Milton George|title=A study of some of the physical factors influencing the sugar concentration of nectar.|publisher=University of Massachusetts.|location=Amherst, MA|oclc= 15183228 |year=1954}}
+*{{cite book |last=Sutherland|first=Donald J.|title=The effect of certain modern pesticides on Apis mellifera L. and Bombus spp.|publisher=University of Massachusetts.|location=Amherst, MA|oclc= 15187508 |year=1957}}
+*{{cite book |last=Lupien|first=John R.|title=The effects of Sevin, alone and in fungicidal combinations, and DDT on the honey bee, Apis mellifera L.|publisher=University of Massachusetts|location=Amherst, MA|oclc= 14960318 |year=1960}}
+*{{cite book |last=Grahame|first=Robert Edward|title=The comparative toxicity of selected organic phosphate and carbamate insecticides to the honey bee|publisher=University of Massachusetts|location=Amherst, MA|oclc= 15037242 |year=1967}}
+*{{cite book |last=Pan|first=Zhiliang|title=The culture of bee forage crops|publisher=University of Massachusetts Amherst|location=Amherst, MA|oclc= 39669471 |year=1997}}
+
+==Coursework==
+In the decade following the building's construction, multiple courses were taught in apiculture and honeybee behavior. In 1911, there were 20 college-owned bee colonies as well as several lent by the faculty, and a five course program taught in the summer semester at the college.&lt;ref name=19elevenbulletin&gt;{{Cite book|title=MAC Bulletin, January 1911|url=https://archive.org/stream/bulletin03univ#page/102/mode/2up/|publisher=Massachusetts Agricultural College|year=1911 |pages=102|accessdate=16 May 2011}}&lt;/ref&gt;
+Within five years the college had assembled 50 hives and an extensive collection of apicultural books and equipment.&lt;ref name=book/&gt; In the year that followed, a summer beekeeping school was held, composed of five courses taught in previous years with the addition of a class in horticulture:&lt;ref name=schoollist/&gt;
+&lt;blockquote&gt;&lt;small&gt;
+1. '''Practical beekeeping'''. Lectures: laboratory practice in the general work of the beekeeper; beekeeping equipment, practices in the preparation of materials, location of the apiary; commencing with bees, handling of bees, practice in beeyard procedure; spring manipulation, fall preparation, wintering; extracted honey production; bee diseases and their treatment, apiary sanitation; making increase, elements of queen rearing, etc.
+:{{Smallcaps|Burton N. Gates}}, Associate Professor of Beekeeping
+:{{Smallcaps|John L. Byard}}, Superintendent of the Apiary
+2. '''Life of the honeybee'''. Lectures.
+:{{Smallcaps|Henry T. Fernald}}, Professor of Entomology
+3. '''Special problems of the beekeeper'''. Lectures: demonstrations in requeening, the races of bees, the introduction of queens; swarming and handling swarms, comb honey production, enemies of bees.
+:{{Smallcaps|James B. Paige}}, Professor of Veterinary Science
+4. '''Crops foraged by bees'''. Lectures: field excursions.
+:{{Smallcaps|William P. Brooks}}, Director of the Experiment Station
+5. '''The relation of bees to the pollination of plants, including coloration, odor, nectar secretion.''' Lectures: laboratory work in blossom structure and dissection.
+:{{Smallcaps|A. Vincent Osmun}}, Associate Professor of Botany
+6. '''Bees in horticultural practices'''; fruit production, market gardening, cranberry culture and greenhouse cucumber growing; beekeeping as affected by spraying practices. Lectures: field work.
+:{{Smallcaps|Walter W. Chenoweth}}, Associate Professor of Pomology
+
+&lt;/blockquote&gt;&lt;/small&gt;
+From the 1920s through the 1970s the laboratory was used mainly for faculty and graduate research, with two courses offered to undergraduate students in introductory and advanced beekeeping as well as a single course offered to the public in the summers.&lt;ref name=1922bulletin&gt;{{Cite book|title=MAC Bulletins, 1922|url=https://archive.org/stream/bulletin14univ#page/34/mode/2up/search/beekeeping|publisher=Massachusetts Agricultural College|year=1922 |pages=|accessdate=16 May 2011}}&lt;/ref&gt;&lt;ref name=1967bulletin&gt;{{Cite book|title=UMass Bulletins, v. 59, 1967|url=https://archive.org/stream/bulletin59univ#page/n179/mode/2up/|publisher=University of Massachusetts Amherst|year=1967|pages=|accessdate=16 May 2011}}&lt;/ref&gt; There was a brief time in the spring semesters of 2001 and 2002 that an introductory course in beekeeping was offered, however, with the reorganization of the department of entomology these classes have since ceased.&lt;ref name=SPIRE/&gt;
+
+==Architecture and landscape==
+[[File:GambrelRoof_ApiaryButterfield.png|right|370px|thumb|Apiary (left), and Butterfield (right); a comparison of the Gambrel roofs]]
+[[File:Handbookmap-apiary-mac.png|left|thumb|200px|A portion of a 1912 campus map, with the Apiary visible in the lower right. The laboratory was the first building constructed in the [[List of University of Massachusetts Amherst residence halls#Central|Central housing area]], then the campus orchard; the driveway adjacent to the lab would become what is now Clark Hill Road.]]
+Although now encompassed by trees and other academic buildings, the apiary was surrounded by fields and orchards at the time of its construction. Early photographs show the hive yard was originally 2&amp;nbsp;acres in size, extending several hundred feet south of the property's present-day boundaries in what has since been developed into a residential neighborhood.&lt;ref name=beehouse/&gt;&lt;ref name=index1918&gt;{{Cite book|title=MAC Index|url=https://archive.org/stream/index1918univ#page/48/mode/2up|publisher=Massachusetts Agricultural College|year=1918 |page=48|accessdate=12 June 2011}}&lt;/ref&gt; The building itself was built into the side of Mount Pleasant, with the entire east side of its basement completely covered by the ground. This &quot;[[banked barn]]&quot; design was likely used to allow pallets of beehives to be transported with ease from the yards to the wintering cellar, while alternatively making the temperature of the building more easily controlled for their storage.&lt;ref name=Barn1&gt;{{cite news|last=Wart|first=W. H.|title=Northern New England|newspaper=The Standard|publisher=The Standard Publishing Company|location=Boston|date=September 20, 1916|url=https://books.google.com/books?id=wvcgAQAAMAAJ&amp;dq=heating%20cooling%20old%20houses%20built%20into%20side%20of%20hill&amp;pg=RA1-PA34&amp;ci=86%2C194%2C416%2C378&amp;source=bookclip|page=34|accessdate=12 June 2011}}
+&lt;/ref&gt;&lt;ref name=Barn2&gt;{{Cite book|title=The Preservation of Historic Architecture; the U.S. Government's Official Guidelines for Preserving Historic Homes|url=https://books.google.com/books?id=6cEfS7oRx9oC&amp;lpg=PA204&amp;dq=heating%20cooling%20old%20houses%20built%20into%20side%20of%20hill&amp;pg=PA204#v=onepage&amp;q&amp;f=false
+|publisher=U.S. Department of the Interior; The Lyons Press|year=2004 |page=204|accessdate=12 June 2011}}&lt;/ref&gt;&lt;ref name=gleanwinter&gt;{{cite news|last=Cook|first=A. J.|title=Food of Larval Bees; Bees in Winter|newspaper=Gleanings in Bee Culture|publisher=A. I. Root Company|location=Medina, Ohio|date=March 15, 1888|url=https://books.google.com/books?id=7KC4AAAAIAAJ&amp;lpg=PA197&amp;ots=L-DAeLhDnq&amp;dq=%22wintering%20cellar%22%20bees%20temperature&amp;pg=PA197#v=onepage&amp;q&amp;f=false
+|page=197|accessdate=12 June 2011}}&lt;/ref&gt;
+
+The building currently has two dormers on opposite sides of the roof, but neither seems to be part of the original structure. Older photos as late as 1918 show the roof without any windows implying they were added at some later date.&lt;ref&gt;[http://www.library.umass.edu/spcoll/youmass/doku.php?id=buildings:a:apiary Apiary], ''YouMass'', University of Massachusetts Amherst&lt;/ref&gt;  Being the building's most prominent design feature, the [[Gambrel roof]] would later influence Louis Warren Ross, architect and an alumnus of the college, in his design of the Butterfield dormitory which, for a time, was the only other building on the hill. Since the Apiary and Butterfield Hall are the only two buildings on campus to exhibit this architectural motif, it seems likely that this was incorporated in the latter's design to compliment the former.
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+* [http://micro.umass.edu Department of Microbiology], University of Massachusetts Amherst
+* [http://www.library.umass.edu/spcoll/exhibits/bees/index.htm Apiculture and Culture], an exhibit by the Dept. of Special Collections, University of Massachusetts Amherst. Several of the books listed are former volumes of the apiary collection.
+*[https://archive.org/stream/agriculturalvoca00mass#page/30/mode/2up Beekeeping], article discussing Massachusetts' role in the advent of the beekeeping industry, value of honeybees as pollinators to orchard fruits and cranberries as well as the then-new apiary building, from the Massachusetts Agricultural College Bulletin (1914)
+*[https://books.google.com/books?id=eQn0AAAAMAAJ&amp;dq=%22teaching%20beekeeping%22%20massachusetts%20agricultural%20college&amp;pg=PA413#v=onepage&amp;q&amp;f=false The Purpose of College Beekeeping], an article by [[E. F. Phillips]], ''Journal of Economic Entomology'', 1916
+*[https://books.google.com/books?id=eQn0AAAAMAAJ&amp;dq=%22teaching%20beekeeping%22%20massachusetts%20agricultural%20college&amp;pg=PA417#v=onepage&amp;q&amp;f=false The Beekeeping Work in Massachusetts], an outline by Burton N. Gates discussing the priorities of the college program, ''Journal of Economic Entomology'', 1916
+*[https://books.google.com/books?id=6gY9AAAAYAAJ&amp;dq=%22teaching%20beekeeping%22%20massachusetts%20agricultural%20college&amp;pg=PA72#v=onepage&amp;q=%22teaching%20beekeeping%22%20massachusetts%20agricultural%20college&amp;f=false The Importance of Honey Production], article by E.R. Root (son of [[Amos Root]]), excerpt praising the college program, ''Annual Report of the Massachusetts Board of Agriculture'', 1918.
+
+{{University of Massachusetts Amherst}}
+
+{{Coord|42|23|18.15|N|72|31|13.42|W|display=title}}
+
+[[Category:University of Massachusetts Amherst buildings]]
+[[Category:Buildings and structures completed in 1911]]
+[[Category:Buildings and structures completed in 1912]]
+[[Category:Beekeeping organizations]]
+[[Category:Pollination management]]
+[[Category:1912 establishments in Massachusetts]]</text>
+      <sha1>3e38eel4x203nz91xbg0jl0mu4ip17f</sha1>
+    </revision>
+  </page>
+</mediawiki>

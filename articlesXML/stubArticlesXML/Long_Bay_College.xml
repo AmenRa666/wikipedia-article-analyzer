@@ -1,0 +1,116 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Long Bay College</title>
+    <ns>0</ns>
+    <id>21203424</id>
+    <revision>
+      <id>738984468</id>
+      <parentid>735701597</parentid>
+      <timestamp>2016-09-12T03:34:00Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Green Cardamom/WaybackMedic 2|WaybackMedic 2]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5386">{{Refimprove|date=June 2010}}
+{{Use dmy dates|date=May 2015}}
+{{Use New Zealand English|date=May 2015}}
+{{Infobox school
+| name                    = Long Bay College
+| seal_image            =
+| principal               = Russell Brooke
+| motto                   = &quot;Success with confidence and creativity.&quot;
+| fundingtype             = State 
+| gender                  = Co-educational 
+| years                   = 9–13&lt;ref&gt;{{cite web|title=Ministry of Education - Long Bay College|url=http://www.minedu.govt.nz/Parents/AllAges/schoolSearch/SchoolDetails.aspx?s=27&amp;type=40&amp;hasGeo=true&amp;sn=Long%20Bay%20College|accessdate=15 November 2013}}&lt;/ref&gt;
+| established             = 1975&lt;ref&gt;The school's 25th jubilee took place in 2000. {{cite journal|journal=Education Gazette New Zealand|title=Jubilees &amp; reunions - Long Bay College|volume            = 78|issue=5|date=29 March 1999}} &lt;/ref&gt;
+| address                 = Ashley Avenue&lt;br&gt;[[Long Bay, New Zealand|Long Bay]]&lt;br&gt;[[Auckland]] 0630&lt;br&gt;New Zealand
+| coordinates             = {{coord|-36.690653|174.741025|region:NZ_type:edu|display=inline,title}}
+| roll                    = {{NZ school roll data|27|y||y}} &lt;small&gt;({{NZ school roll data|||y}})&lt;/small&gt;
+| decile                  = 10Z&lt;ref&gt;{{cite web |url= http://www.minedu.govt.nz/~/media/MinEdu/Files/EducationSectors/PrimarySecondary/SchoolOpsResourcing/OperationalFundingDeciles/DecileChanges_20142015.xls |title= Decile Change 2014 to 2015 for State &amp; State Integrated Schools |publisher= Ministry of Education |accessdate= 12 February 2015}}&lt;/ref&gt;
+| MOE                     = 27
+| homepage                = {{URL|http://www.longbaycollege.com}}
+}}
+
+'''Long Bay College''' is a [[state school|state]] co-educational secondary school located on the [[North Shore City|North Shore]] of [[Auckland]], [[New Zealand]]. The decile 10 school serves Years 9 to 13 (ages 12 to 18), and has {{NZ school roll data|27|y}} students as of {{NZ school roll data|||y|y||.}}
+Russell Brooke is the current principal of Long Bay College.
+
+==History==
+Long Bay College opened in 1975. The very first Principal of Long Bay College was Ian Sage.{{cn|date=October 2015}} A road coming from the College was then named after him - Ian Sage Ave. Like most New Zealand state secondary schools of the 1970s, the school was built to the S68 design, characteriSed by single-storey classroom blocks with masonry walls, low-pitched roofs with protruding clerestory windows, and internal open courtyards.&lt;ref&gt;{{cite web |url= http://www.minedu.govt.nz/NZEducation/EducationPolicies/Schools/PropertyToolBox/StateSchools/Design/EarthquakeResilience/~/media/MinEdu/Files/EducationSectors/PrimarySecondary/PropertyToolbox/StateSchools/Design/General/MOEstandardbuildingcatalogue_ReV1.2.pdf |title= Catalogue of Standard School Building Types |publisher= Ministry of Education |location= Christchurch |date= August 2013 |accessdate= 10 July 2014}}&lt;/ref&gt;
+
+==Enrolment==
+At the May 2013 Education Review Office (ERO) review of the school, Long Bay College had 1657 students, including 99 [[international student]]s. The school roll's gender composition was 51% male and 49% female, and its ethnic composition was 52% [[New Zealand European]] (Pākehā), 17% [[South African people|South African]], 14% [[British people|British]]/[[Irish people|Irish]], 7% [[Asian people|Asian]], 4% [[Māori people|Māori]], 1% [[Pacific Islanders]], and 5% Other.&lt;ref&gt;{{cite web |url= http://www.ero.govt.nz/Early-Childhood-School-Reports/School-Reports/Long-Bay-College-14-06-2013 |title= Long Bay College Education Review |date= 14 June 2013 |publisher= Education Review Office |accessdate= 7 December 2013}}&lt;/ref&gt;
+
+==Notable alumni==
+
+*[[Bridgette Armstrong]] - played for the [[New Zealand women's national football team]], attended Long Bay College.&lt;ref&gt;{{Cite web|title=Bridgette Armstrong |publisher=New Zealand Football |url=http://www.nzsoccer.com/page/yff_armstrong_bridgette.html |accessdate=2010-06-09 |deadurl=yes |archiveurl=https://web.archive.org/web/20090915033203/http://www.nzsoccer.com/page/yff_armstrong_bridgette.html |archivedate=15 September 2009 }}&lt;/ref&gt;&lt;ref&gt;{{Cite web | last =Ruane | first =Jeremy | title =“Army” Keen To Maintain The Family Tradition | work =Soccer | publisher =SportsWeb | url =http://www.sportswebsoccer.com/cgi-bin/control.pl?Function=News&amp;Option=Feature3&amp;Item=20080908.txt | accessdate =2010-06-09 }}&lt;/ref&gt;&lt;ref&gt;{{Cite web | last =Maddaford | first =Terry | title =Soccer: Another Armstrong aims high | publisher =The New Zealand Herald | date =11 August 2007 | url =http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&amp;objectid=10457038 | accessdate =2010-06-09 }}&lt;/ref&gt;
+*[[List of Titanium members|Andrew Papas]] - member of the boyband [[Titanium (band)|Titanium]]. 
+*[[Paul Wiseman]] - spin bowler and played international cricket for New Zealand
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.longbaycollege.com School website]
+*[http://www.ero.govt.nz/Early-Childhood-School-Reports/School-Reports?profileid=27 Education Review Office (ERO) reports]
+
+{{Schools in Auckland}}
+
+[[Category:Educational institutions established in 1975]]
+[[Category:Secondary schools in Auckland]]
+[[Category:North Shore, New Zealand]]
+[[Category:New Zealand secondary schools of S68 plan construction]]
+[[Category:1975 establishments in New Zealand]]
+
+{{NewZealand-school-stub}}</text>
+      <sha1>9vfm4ernfgq6jdkguvi9anhbi8zbh4x</sha1>
+    </revision>
+  </page>
+</mediawiki>

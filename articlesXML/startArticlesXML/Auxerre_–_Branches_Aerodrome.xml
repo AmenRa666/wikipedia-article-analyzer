@@ -1,0 +1,109 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Auxerre – Branches Aerodrome</title>
+    <ns>0</ns>
+    <id>27335801</id>
+    <revision>
+      <id>745628653</id>
+      <parentid>719902464</parentid>
+      <timestamp>2016-10-22T08:39:18Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v1.2.5)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3488">{{Infobox airport
+| name         = Auxerre - Branches Aerodrome
+| nativename   = {{smaller|''Aérodrome d'Auxerre - Branches''}}
+| image        = 
+| IATA         = AUF
+| ICAO         = LFLA
+| type         = Public
+| owner        = 
+| operator     = [[Chambre de Commerce et d'Industrie|CCI]] de l'Yonne
+| city-served  = [[Auxerre]] / [[Branches, Yonne|Branches]], [[Yonne]], [[France]]
+| location     = &lt;!--if different than above--&gt;
+| elevation-f  = 523
+| elevation-m  = 159
+| website      = http://www.auxerre.aeroport.fr
+| latd  =  47 | latm  = 50 | lats  = 47 | latNS  = N
+| longd = 003 | longm = 29 | longs = 48 | longEW = E
+| coordinates_region  = FR
+| pushpin_map         = France Burgundy
+| pushpin_relief      = yes
+| pushpin_label       = '''LFLA'''
+| pushpin_map_caption = '''Location of airfield in [[Burgundy]] region'''{{hidden begin|title=Location of Burgundy region in France}}[[File:Bourgogne in France.svg|220px|center]]{{hidden end}}
+| metric-rwy   = y
+| r1-number    = 01/19
+| r1-length-m  = 1,650
+| r1-length-f  = 5,413
+| r1-surface   = Asphalt
+| footnotes    = Sources: French [[Aeronautical Information Publication|AIP]],&lt;ref name=&quot;AIP&quot;&gt;{{AIP_FR|LFLA|name='''Auxerre''' Branches}}&lt;/ref&gt; [[Union des Aéroports Français|UAF]],&lt;ref name=&quot;UAF&quot;&gt;{{cite web|url=http://www.aeroport.fr/les-aeroports-de-l-uaf/auxerre-branches.php |title=''Aérodrome d'Auxerre - Branches'' |publisher=[[Union des Aéroports Français]] |accessdate=12 May 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100125151050/http://www.aeroport.fr:80/les-aeroports-de-l-uaf/auxerre-branches.php |archivedate=25 January 2010 |df= }}&lt;/ref&gt; [[DAFIF]]&lt;ref name=&quot;WAD&quot;&gt;[http://www.worldaerodata.com/wad.cgi?airport=LFLA Airport information for LFLA] from [[DAFIF]] (effective October 2006)&lt;/ref&gt;&lt;ref name=&quot;GCM&quot;&gt;{{GCM|AUF|source=DAFIF}}&lt;/ref&gt;
+}}
+
+'''Auxerre – Branches Aerodrome''' ({{lang-fr|Aérodrome d'Auxerre - Branches}}&lt;ref name=&quot;UAF&quot; /&gt;) {{airport codes|AUF&lt;ref name=&quot;GCM&quot; /&gt;&lt;ref&gt;{{cite web | url = http://aviation-safety.net/database/airport/airport.php?id=AUF | title = Auxerre-Branches Airport (AUF / LFLA) | publisher = [[Aviation Safety Network]] | accessdate = 12 May 2010}}&lt;/ref&gt;|LFLA}} is an [[airport]] serving [[Auxerre]] and [[Branches, Yonne|Branches]], both ''[[Communes of France|communes]]'' of the [[Yonne]] [[Departments of France|department]]&lt;ref name=&quot;AIP&quot; /&gt; in the [[Bourgogne]] [[Regions of France|region]] of [[France]]. The airport is located {{convert|8.5|km|NM|1|abbr=on|lk=on}} northwest of Auxerre&lt;ref name=&quot;AIP&quot; /&gt; and approximately {{convert|4|km|NM|1|abbr=on}} southeast of Branches.&lt;ref&gt;{{cite web | url = http://www.wikimapia.org/#lat=47.8343616&amp;lon=3.5084152&amp;z=12&amp;l=0&amp;m=b&amp;v=8&amp;gz=0;34809494;477967823;995636;0;157928;511749;0;854937 | title = Aerial image with distances to airport from Auxerre and Branches | publisher = WikiMapia | accessdate = 12 May 2010}}&lt;/ref&gt;
+
+==Facilities==
+The airport resides at an [[elevation]] of {{convert|523|ft|0}} above [[mean sea level]]. It has one [[runway]] designated 01/19 with an [[asphalt]] surface measuring {{convert|1650|x|30|m|0}}.&lt;ref name=&quot;AIP&quot; /&gt;
+
+==References==
+&lt;references /&gt;
+
+==External links==
+* {{fr icon}} [http://www.auxerre.aeroport.fr Official Auxerre Airport website]
+* {{fr icon}} [http://www.yonne.cci.fr/ ''CCI de l'Yonne'']
+* {{SkyVector|LFLA}}
+
+{{DEFAULTSORT:Auxerre - Branches Aerodrome}}
+[[Category:Airports in Bourgogne-Franche-Comté]]
+[[Category:Buildings and structures in Yonne]]</text>
+      <sha1>a4gn592ft9acl4l8epomrse4eu2ygst</sha1>
+    </revision>
+  </page>
+</mediawiki>

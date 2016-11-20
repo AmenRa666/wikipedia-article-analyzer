@@ -1,0 +1,166 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Björk (book)</title>
+    <ns>0</ns>
+    <id>8139246</id>
+    <revision>
+      <id>738468887</id>
+      <parentid>724889787</parentid>
+      <timestamp>2016-09-09T03:58:51Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Green Cardamom/WaybackMedic 2|WaybackMedic 2]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4016">{{refimprove|date=June 2016}}
+{{Infobox book | &lt;!-- See Wikipedia:WikiProject_Novels or Wikipedia:WikiProject_Books --&gt;
+| name         = Björk/Björk as a book
+| image        = BjörkBook Cover.jpg
+| caption      = The cover text is titled ''Wardrobe''
+| author       = [[Björk]]
+| cover_artist = Stéphanie Cohen
+| language     = English
+| series       = 
+| genre        = [[Photo-book|Photography]], [[biography]]
+| publisher    = [[Bloomsbury Publishing|Bloomsbury USA]]
+| release_date = September 20, 2001
+| media_type   = Print (paperback)
+| pages        = 192
+| isbn         = 1-582-34226-1
+| oclc         = 48045180
+}}
+
+'''''Björk''''' or '''''Björk as a book''''' is a 192-page [[coffee table book]] published by the [[Iceland]]ic singer and composer [[Björk|Björk Guðmundsdóttir]] (2001), designed by  [[M/M Paris]]. 
+==Background==
+To coincide with the release of fifth studio album ''[[Vespertine]]'' (2001), Björk released a [[photo-book]].&lt;ref name=spec&gt;{{cite web|title=Intro |url=http://unit.bjork.com/specials/book/book1.htm |work=bjork.com |accessdate=2 April 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20101105195050/http://unit.bjork.com/specials/book/book1.htm |archivedate=November 5, 2010 }}&lt;/ref&gt; The eponymous book has been created by [[Björk]] and has been edited and designed by celebrated Paris based design firm M/M Paris who, along with photographers [[Inez van Lamsweerde and Vinoodh Matadin]], have also created the artwork for ''Vespertine'' and directed the video for the first single off the album, [[Hidden Place]]. The photograph on the  rear cover of the book is an early test shot for the video. The book is non-chronological and all the images have been specifically chosen to illustrate this creative process.
+
+The book is divided into 3 sections:
+
+# Photography -  a series of photographs of Björk
+# Words – text pieces, including an interview conducted by Björk with David Attenborough.
+# Contributions (&quot;Four Pages for Björk&quot;) – Björk asks her collaborators to contribute 4 pages to illustrate her belief that her public self is the result of many great and creative minds and not just a personal product.
+
+The book features a dust jacket made in fabric. It has been designed as a transportable working manual rather than a traditional, hardback, coffee-table book.&lt;ref name=&quot;spec&quot; /&gt;
+
+==Credits==
+Credits taken from M/M Paris website.&lt;ref&gt;{{cite web|title=bjork as a book|url=http://www.mmparis.com/bjorkasabook/index.html|work=M/M Paris}}&lt;/ref&gt; 
+===Contributions by===
+{{col-begin|width=90%}}
+{{col-2}}
+* [[Nobuyoshi Araki]]
+* Martin Argles
+* [[Jane Bown]]
+* [[Comme des Garçons]]
+* [[Anton Corbijn]]
+* [[Hussein Chalayan]]
+* [[Chris Cunningham]]
+* [[Gabríela Friðriksdóttir]]
+* [[Kate Garner]]
+* Andrea Giacobbe
+* [[Michel Gondry]]
+* Haraldur Jonsson
+* Irmelie Krekin
+* [[Nick Knight (photographer)|Nick Knight]]
+* [[Inez van Lamsweerde]]
+* [[Vinoodh Matadin]]
+* [[Glen Luchford]]
+* [[M/M Paris]]
+* Stefan Malzkorn
+{{col-2}}
+* [[Graham Massey]]
+* [[Craig McDean]]
+* [[Toby McFarlan Pond]]
+* Me Company
+* [[Jean-Baptiste Mondino]]
+* [[Bjørn Opsahl]]
+* [[Rankin (photographer)|Rankin]]
+* [[Mark Ryden]]
+* [[Jeremy Scott]]
+* [[Stéphane Sednaoui]]
+* [[David Sims (photographer)|David Sims]]
+* [[Sjón]]
+* Snorri Bros
+* Stephen Sweet
+* [[Juergen Teller]]
+* Benni Valsson
+* [[Lars von Trier]]
+* Kevin Westenberg
+{{col-end}}
+===Words by===
+
+*[[Björk]] &amp; Sir [[David Attenborough]]
+* introduced by [[Jefferson Hack]]
+*Stéphanie Cohen
+*[[Philippe Parreno]]
+*Rick Poynorand
+*Won Tchoi
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+{{Portal|Björk}}
+* [http://www.mmparis.com/bjorkasabook/index.html The book's page on M/M Paris website]
+* [https://web.archive.org/web/20020802230702/http://unit.bjork.com/specials/book/ Björk book special at bjork.com archive]
+{{Björk}}
+
+{{DEFAULTSORT:Bjork}}
+[[Category:Björk]]
+[[Category:2001 books]]
+[[Category:Music autobiographies]]
+[[Category:Coffee table books]]
+
+
+{{music-bio-book-stub}}</text>
+      <sha1>nqjcvg1iyva53z9smo584jn829tam8o</sha1>
+    </revision>
+  </page>
+</mediawiki>

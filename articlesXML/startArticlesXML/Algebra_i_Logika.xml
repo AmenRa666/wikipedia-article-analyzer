@@ -1,0 +1,164 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Algebra i Logika</title>
+    <ns>0</ns>
+    <id>2815642</id>
+    <revision>
+      <id>743540295</id>
+      <parentid>736385405</parentid>
+      <timestamp>2016-10-10T03:30:36Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3702">{{Infobox journal
+| title         = Algebra i Logika
+| cover         = 
+| editor        = [[Yury Leonidovich Ershov]]
+| discipline    = Mathematics
+| peer-reviewed = 
+| language      = Russian, English
+| former_names  = 
+| abbreviation  = 
+| publisher     = [[Siberian Fund for Algebra and Logic]]
+| country       = Russia
+| frequency     = Bimonthly
+| history       = 1962–present
+| openaccess    = 
+| license       = 
+| impact        = 0.493
+| impact-year   = 2012
+| website       = http://www.mathnet.ru/php/journal.phtml?jrnid=al&amp;option_lang=eng
+| link1         = http://www.mathnet.ru/php/archive.phtml?jrnid=al&amp;wshow=contents&amp;option_lang=eng
+| link1-name    = Online access
+| link2         = 
+| link2-name    = 
+| JSTOR         = 
+| OCLC          = 
+| LCCN          = 
+| CODEN         = 
+| ISSN          = 0373-9252
+| eISSN         = 
+| boxwidth      = 
+}}
+
+'''''Algebra i Logika''''' (English: ''Algebra and Logic'') is a peer-reviewed [[russian language|Russian]] [[mathematical journal]] founded in 1962 by [[Anatoly Ivanovich Malcev]], published by the [[Siberian Fund for Algebra and Logic]] at [[Novosibirsk State University]].&lt;ref&gt;
+{{cite book
+ |editor=Yakov Sinai
+ |year=2003
+ |url=https://books.google.com/books?id=BFsnWXkqZaMC&amp;pg=PA560&amp;dq=%22algebra+i+logika%22+malcev&amp;lr=&amp;as_brr=3&amp;ei=ArItS4fjOYiWNZGPycoI&amp;cd=11#v=onepage&amp;q=%22algebra%20i%20logika%22%20malcev&amp;f=false
+ |title=Russian Mathematicians in the 20th Century
+ |page=560
+ |publisher=[[World Scientific]]
+ |isbn=978-981-238-385-3
+}}&lt;/ref&gt; An English translation of the journal is published by [[Springer-Verlag]] as '''''Algebra and Logic''''' since 1968.&lt;ref&gt;
+{{cite book
+ |author=Anita Burdman Feferman, Solomon Feferman
+ |year=2004
+ |title=Alfred Tarski: Life and Logic
+ |url=https://books.google.com/books?id=wqktlxHo9wkC&amp;pg=PA306&amp;dq=%22algebra+i+logika%22+malcev&amp;lr=&amp;as_brr=3&amp;ei=lrEtS-nqMYHMM_GlifEC&amp;cd=4#v=onepage&amp;q=&amp;f=false
+ |page=306
+ |publisher=[[Cambridge University Press]]
+ |isbn=978-0-521-80240-6
+}}&lt;/ref&gt;&lt;ref&gt;
+{{cite book
+ |author=Krishna Subramanyam
+ |year=1981
+ |title=Scientific and Technical Information Resources
+ |url=https://books.google.com/books?id=51C-Uwykb38C&amp;pg=PA274&amp;dq=%22Algebra+i+Logika%22+important+Russian+journal&amp;as_brr=3&amp;ei=I2E-S6eiDI3aNbq3lLEB&amp;cd=9#v=onepage&amp;q=Algebra%20i%20Logika&amp;f=false
+ |page=274
+ |publisher=[[Taylor &amp; Francis]]
+ |isbn=0-8247-8297-6
+}}&lt;/ref&gt;&lt;ref&gt;
+{{cite book
+ |author=Diana F. Liang
+ |year=1992
+ |title=Mathematical Journals: An Annotated Guide
+ |page=8
+ |publisher=[[Scarecrow Press]]
+ |isbn=0-8108-2585-6
+}}&lt;/ref&gt; It published papers presented at the meetings of the &quot;Algebra and Logic&quot; seminar at the [[Novosibirsk State University]]. The journal is edited by academician [[Yury Yershov]].
+
+The journal is reviewed cover-to-cover in ''[[Mathematical Reviews]]'' and ''[[Zentralblatt MATH]]''. The 2012 impact factor is 0.493.
+
+==Abstracting and Indexing==
+''Algebra i Logika'' is indexed and abstracted in the following databases:
+{{columns-list|3|
+*[[Academic OneFile]]
+*[[Academic Search]]
+*[[EBSCO]]
+*[[Inspec]]
+*[[International Bibliography of Book Reviews]]
+*[[International Bibliography of Periodical Literature]]
+*[[Journal Citation Reports]]/Science Edition
+*[[Mathematical Reviews]]
+*[[Science Citation Index]]
+*[[SCImago]]
+*[[Scopus]]
+*[[STMA-Z]]
+*[[Summon by Serial Solutions]]
+*[[Zentralblatt Math]]
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.mathnet.ru/php/journal.phtml?jrnid=al&amp;option_lang=eng ''Algebra i Logika'' website]
+*[http://www.springer.com/math/algebra/journal/10469 ''Algebra and Logic'' website]
+
+[[Category:Mathematics journals]]
+[[Category:Publications established in 1962]]
+[[Category:Novosibirsk State University]]</text>
+      <sha1>rqavs7fy39h7b71d0wa0hsexaj8d09g</sha1>
+    </revision>
+  </page>
+</mediawiki>

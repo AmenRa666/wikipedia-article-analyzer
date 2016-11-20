@@ -1,0 +1,192 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Archaeology in Ontario</title>
+    <ns>0</ns>
+    <id>35334024</id>
+    <revision>
+      <id>692739869</id>
+      <parentid>686147298</parentid>
+      <timestamp>2015-11-27T23:54:10Z</timestamp>
+      <contributor>
+        <username>Srednuas Lenoroc</username>
+        <id>25060744</id>
+      </contributor>
+      <comment>gram</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="21414">[[Image:Canada Ontario map.png|thumb|right]]
+
+Archaeology and conservation of cultural resources in Ontario fall under the Ministry of Tourism, Culture and Sport. The Province of Ontario has created Acts to insure the protection archaeological and cultural resources. Acts such as the [[Ontario Heritage Act]] and Environmental  Assessment Act provide the major legal documents that protect heritage and cultural resources. Additionally, Acts such as the Planning Act, the Aggregate Resource Act and the Ontario Cemeteries Act are also implemented when specific triggers occur during archaeological assessments.
+
+==The Provincial Criteria for Determining Areas of Archaeological Potential==
+Areas of property that are considered archaeological potential are those that could contain archaeological resources. The ministry's criteria for determining areas of archaeological potential are:
+* The presence of known archaeological sites within 250 metres of the property;
+* The presence of a water source (primary, secondary, ancient) within 300 metres of the property;
+* Elevated topography (e.g., knolls, drumlins, eskers, plateaux);
+* Pockets of sandy soil in a clay or rocky area;
+* Unusual land formations (e.g., mounds, caverns, waterfalls);
+* Proximity to a resource-rich area (concentrations of animal, vegetable or mineral resources);
+* Evidence of early Euro-Canadian (non-Aboriginal) settlement (e.g., monuments, cemeteries) on the property;
+* Proximity to historic transportation routes (e.g., road, rail, portage);
+* The property is protected under the Ontario Heritage Act;
+* Local knowledge of archaeological sites on the property or of the property's heritage value.&lt;ref&gt;{{cite web|last=Tourism, Culture and Sport|first=Ministry of|title=Archaeological Assessments|url=http://www.mtc.gov.on.ca/en/archaeology/archaeology_assessments.shtml#a1|publisher=Ministry of Tourism, Culture and Sport|accessdate=5 April 2012}}&lt;/ref&gt;
+
+==The process of Archaeological Assessment==
+There are six stages of an archaeological assessment in Ontario.
+{| class=&quot;wikitable&quot;
+|-
+! Stage !! Description
+|-
+| Stage 1: Background study and Property Inspection  || To determine if there is a potential archaeological site. Which the consulting archaeologists with look at geography, land use, historical information, as well as consult with community about possible heritage sites.
+|-
+| Stage 2: Property Assessment || Look for any archaeological resources are present and if there are any that are culturally valuable.
+|-
+| Stage 3: Site-Specific Assessment || More detail assessment is conducted to determine size of the site and evaluate cultural heritage significance and value. More research on the land and site is conducted. 1m x1m test pits are conducted to see value (if environment allows- different methods maybe used with pavement or other barriers).
+|-
+| Stage 4: Mitigation of Development Impacts  || The proposals of implementing conservation strategies for archaeological sites and culturally valuable finds. This can lead to “in situ” (leave the site) or excavation straggles depending on the development project going on.
+|-
+| Stage 5a: Long-Term Avoidance and Protection || When site is kept in place implementation of a long term plan to protect the archaeological site is created by the archaeologist.
+|-
+| Stage 5b:  Excavation  || If site is unable to stay in place than the process of excavation is conducted and detailed documents are provided on the site (measurements, maps, drawings, photographs, and context with removed artifacts).
+|-
+| Stage 6: Report to the Ministry of Tourism, Culture and Sport ||This stage occurs at the end of any assessment whether it stops at Stage 1 or Stage 5. The archaeological assessment report is submitted to the Ministry for review which looks at: The licensed archaeologist met the terms and conditions of his or her license, including the ministry's requirements for fieldwork and reporting.
+Any archaeological sites found were properly conserved.
+|}&lt;ref&gt;{{cite web|last=Tourism, Culture and Sport|first=Ministry of|title=Archaeological Assessments|url=http://www.mtc.gov.on.ca/en/archaeology/archaeology_assessments.shtml#a1|publisher=Ministry of Tourism, Culture and Sport|accessdate=5 April 2012}}&lt;/ref&gt;
+
+==Ontario Heritage Act==
+The [[Ontario Heritage Act]] was created in 1975 was further amended in 1990, 2002, 2005 and as of 2009 as undergone further amendments.&lt;ref&gt;{{cite web|last=Tourism, Culture and Sport|first=Ministry of|title=Ontario Heritage Act|url=http://www.mtc.gov.on.ca/en/heritage/heritage_act.shtml|publisher=Ministry of Tourism, Culture and Sport|accessdate=5 April 2012}}&lt;/ref&gt;  Under the Ontario Heritage Act, the Ministry of Tourism, Culture and Sport contains the “responsibility to determine policies, priorities and programs for the conservation, protection and preservation of the heritage of Ontario and so fills the lead provincial government role in terms of direct conservation and protection of cultural resources.”&lt;ref&gt;{{cite web|last=Services Inc.|first=Archaeological|title=Provincial Legislation|url=http://www.iasi.to/prov_leg.htm|publisher=[[Archaeological Services Inc.]]|accessdate=5 April 2012}}&lt;/ref&gt;
+
+The Ontario Heritage Act governs the general practice of archaeology in the province. It provides the legal framework to provide licenses to archaeologists who are qualified and it is $1,000,000 fine to alter any heritage site without a permit or license.&lt;ref&gt;{{cite web|last=Services Inc.|first=Archaeological|title=Provincial Legislation|url=http://www.iasi.to/prov_leg.htm|publisher=Archaeological Services Inc.|accessdate=5 April 2012}}&lt;/ref&gt;
+The Act also provides protocols for assessments of archaeological sites, and “municipalities and the provincial government powers to preserve the heritage of Ontario” and focuses on protecting heritage properties and archaeological sites.&lt;ref&gt;{{cite web|last=Tourism, Culture and Sport|first=Ministry of|title=Ontario Heritage Act|url=http://www.mtc.gov.on.ca/en/heritage/heritage_act.shtml|publisher=Ministry of Tourism, Culture and Sport|accessdate=5 April 2012}}&lt;/ref&gt;
+
+In 2005 an amendment of the Ontario Heritage Act provided further implementations which:
+Give the province and municipalities new powers to delay and also to stop demolition of heritage sites. They balance enhanced demolition controls with an appeals process that respects the rights of property owners.&lt;ref&gt;{{cite web|last=Tourism, Culture and Sport|first=Ministry of|title=Ontario Heritage Act|url=http://www.mtc.gov.on.ca/en/heritage/heritage_act.shtml|publisher=Ministry of Tourism, Culture and Sport|accessdate=5 April 2012}}&lt;/ref&gt;
+
+Further expand the province's ability to identify and designate sites of provincial heritage significance.
+* Provide clear standards and guidelines for the preservation of provincial heritage properties.
+Enhance protection of heritage conservation districts, marine heritage sites and archaeological resources.&lt;ref&gt;{{cite web|last=Tourism, Culture and Sport|first=Ministry of|title=Ontario Heritage Act|url=http://www.mtc.gov.on.ca/en/heritage/heritage_act.shtml|publisher=Ministry of Tourism, Culture and Sport|accessdate=5 April 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Ontario Heritage Act|url=http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_90o18_e.htm|publisher=Ontario Government|accessdate=5 April 2012}}&lt;/ref&gt;
+* The Act provides a clear out line of what is required of the Municipalities and the Province when it comes to cultural resources.&lt;ref&gt;{{cite web|last=Tourism, Culture and Sport|first=Ministry of|title=Ontario Heritage Act|url=http://www.mtc.gov.on.ca/en/heritage/heritage_act.shtml|publisher=Ministry of Tourism, Culture and Sport|accessdate=5 April 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Ontario Heritage Act|url=http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_90o18_e.htm|publisher=Ontario Government|accessdate=5 April 2012}}&lt;/ref&gt;
+
+==Suspicion of Illegal Actions==
+The Ontario Heritage Act describes the roles of inspectors, who are province appointed individuals who can be qualified in archaeology or accompanied by experts, who are implemented when suspicion arises during an excavation that is related harming or threatening the publics interests. Suspicion can be related to anything from falsification of data, to falsification of what is occurring on site (either through archaeologists or developers). An inspector is able to enter any of the following.&lt;ref&gt;{{cite web|title=Ontario Heritage Act|url=http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_90o18_e.htm|publisher=Ontario Government|accessdate=5 April 2012}}&lt;/ref&gt;
+
+{{quotation|
+Power of entry
+
+(2)  An inspector conducting an inspection may enter and inspect any of the following places:
+
+1. An archaeological site or any other land on which a licensee is carrying out archaeological fieldwork.
+
+2. An archaeological site or any other land on which archaeological fieldwork is no longer being carried out but was carried out by a licensee within the one-year period proceeding the inspection.
+
+3. A laboratory at which artifacts and other materials found on an archaeological site are analyzed.
+
+4. A building or structure in which the licensee stores artifacts and other materials found at an archaeological site.
+
+A licensee’s business premises. 2005, c. 6, s. 37.
+And has these abilities to legal conduct during an investigation of cultural resources.&lt;ref&gt;{{cite web|title=Ontario Heritage Act|url=http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_90o18_e.htm|publisher=Ontario Government|accessdate=5 April 2012}}&lt;/ref&gt;
+}}
+
+{{quotation|
+Powers of inspector
+
+(4)  While carrying out an inspection, an inspector may,
+(a) take up and examine any artifact, device, article, thing or material;
+
+(b) require a person at the place being inspected to produce any artifact, drawing, field notes, specifications, license, document, record, report, photograph, video or other visual recording or any other material or thing that is relevant to the inspection and examine, audit or make copies of such material or things;
+
+(c) upon giving a receipt therefore, remove, for the purpose of making copies or extracts, any material or thing referred to in clause (b);
+
+(d) conduct tests at the place being inspected or take samples from the place, including tests conducted on, or samples taken from, artifacts found at the place;
+
+(e) require in writing that any test or sample referred to in clause (d) be conducted or taken by a person specified by the inspector, including a person having special, expert or professional knowledge or qualifications accompanying the inspector under subsection (6);
+
+(f) require the person conducting or taking tests or samples to provide a report to the inspector within such time as the inspector may specify;
+
+(g) take photographs, video or other visual recording, make acoustic recordings or make notes of the field or site conditions, of the conditions of any other place being inspected or of the artifacts or materials found at the place and take with him or her such equipment or recording materials required for this purpose;
+
+(h) make such inquiries of any person working at the place being inspected as are relevant to the inspection;
+
+(i) observe on-going field work being carried out on an archaeological site or on other lands on which archaeological fieldwork is carried out or observe laboratory work taking place in a laboratory;
+prohibit persons from entering an archaeological site or other lands on which archaeological fieldwork is carried out, a laboratory or storage area or parts thereof for a reasonable period of time for the purposes of carrying out an examination, excavation or test. 2005, c. 6, s. 37.&lt;ref&gt;{{cite web|title=Ontario Heritage Act|url=http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_90o18_e.htm|publisher=Ontario Government|accessdate=5 April 2012}}&lt;/ref&gt;
+}}
+
+==The Environmental Assessment Act==
+The Environmental Assessment Act was created in 1976, to help to &quot;provide for the protection, conservation, and wise management of Ontario's environment&quot;&lt;ref&gt;{{cite web|last=Environment|first=Ministry of|title=Environmental Assessment Act|url=http://www.ene.gov.on.ca/environment/en/legislation/environment_assessment_act/index.htm|publisher=Ministry of Environment|accessdate=5 April 2012}}&lt;/ref&gt; which relates to all aspects of determining the ecological, cultural, economic and social impact of a project.&lt;ref&gt;{{cite web|last=Environment|first=Ministry of|title=Environmental Assessment Act|url=http://www.ene.gov.on.ca/environment/en/legislation/environment_assessment_act/index.htm|publisher=Ministry of Environment|accessdate=5 April 2012}}&lt;/ref&gt; This act is related and allows for all public sector and private infrastructure projects which contain projects, like roads hydro generation, sewage, water, landfills etc. to conduct an environmental assessment. The environmental assessments are conducted so to help with planning process and provide better knowledge about the site before development and decisions on projects are created. In many instances an environmental assessment determines the need for an archaeological assessment, and it is completed as part of the overall environmental assessment process, this is a result of any public development project, land changing activities, and all land own by the Province of Ontario.&lt;ref&gt;{{cite web|last=Environment|first=Ministry of|title=Environmental Assessment Act|url=http://www.ene.gov.on.ca/environment/en/legislation/environment_assessment_act/index.htm|publisher=Ministry of Environment|accessdate=5 April 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last=Services Inc.|first=Archaeological|title=Provincial Legislation|url=http://www.iasi.to/prov_leg.htm|publisher=Archaeological Services Inc.|accessdate=5 April 2012}}&lt;/ref&gt;
+
+An environment assessment is conducted after the terms of reference is approved which relates to a general proposal of a project and preliminary involvement and cooperation with organizations and communities that will be affected by the development. The environmental assessment is the proposal after the terms of reference which provides the results of the organizers planning and decision-making process.&lt;ref&gt;{{cite web|last=Services Inc.|first=Archaeological|title=Provincial Legislation|url=http://www.iasi.to/prov_leg.htm|publisher=Archaeological Services Inc.|accessdate=5 April 2012}}&lt;/ref&gt; Which provides identification and evaluation of alternative solutions to their location if problems arise, their environmental effects on the land and community, the impact mitigation and management measures on the environment, and “record of consultation with the public, Aboriginal communities and government agencies [which] is mandatory.”&lt;ref&gt;{{cite web|last=Environment|first=Ministry of|title=Environmental Assessment Process|url=http://www.ene.gov.on.ca/environment/en/industry/assessment_and_approvals/environmental_assessments/STDPROD_075715.html|publisher=Ministry of Environment|accessdate=5 April 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last=Services Inc.|first=Archaeological|title=Provincial Legislation|url=http://www.iasi.to/prov_leg.htm|publisher=Archaeological Services Inc.|accessdate=5 April 2012}}&lt;/ref&gt;
+
+==The Planning Act==
+[http://www.mah.gov.on.ca/AssetFactory.aspx?did=5920 Link to Citizens Guide to Planning Act of Ontario ]
+
+The Planning Act is an act of legislation that provides “the ground rules for land use planning in Ontario and describes how land uses may be controlled, and who may control them (planning act).”&lt;ref&gt;{{cite web|last=Municipal Affairs and Housing|first=Ministry of|title=The Planning Act|url=http://www.mah.gov.on.ca/Page1760.aspx|publisher=Ministry of Municipal Affairs and Housing|accessdate=5 April 2012}}&lt;/ref&gt;  This act is provided to give Province authority to help govern and mediate between municipal and private corporations. Municipal (including planning boards) have more authority over the decisions about development of any infrastructure within their area, provide official plans they have for public development as well as any goals that are related to private enterprises.http://www.mah.gov.on.ca/Page1760.aspx Municipalities are in charge of setting out the rules and regulation to control zoning by-laws as well as must accord with all Provincial interests and plans about development. Furthermore, municipalities must reach their decisions with following other acts and regulations that may impact any development (i.e. The Environmental Assessment Act and The [[Ontario Heritage Act]]).&lt;ref&gt;{{cite web|last=Services Inc.|first=Archaeological|title=Provincial Legislation|url=http://www.iasi.to/prov_leg.htm|publisher=Archaeological Services Inc.|accessdate=5 April 2012}}&lt;/ref&gt;  “ Thus all decisions made during the development process, regardless of the identity of the development proponent or the relevant approval agency, must address potential heritage resource impacts.”  &lt;ref&gt;{{cite web|last=Services Inc.|first=Archaeological|title=Provincial Legislation|url=http://www.iasi.to/prov_leg.htm|publisher=Archaeological Services Inc.|accessdate=5 April 2012}}&lt;/ref&gt;
+
+Under The Planning Act the significance for “archaeological resources are defined as those ‘that are valued for the important contribution they make to our understanding of the history of a place, an event, or a people.’ The identification and evaluation of such resources are based upon archaeological fieldwork undertaken in accordance with the Ontario Heritage Act.” &lt;ref&gt;{{cite web|last=Services Inc.|first=Archaeological|title=Provincial Legislation|url=http://www.iasi.to/prov_leg.htm|publisher=Archaeological Services Inc.|accessdate=5 April 2012}}&lt;/ref&gt;
+
+In summary, a municipality is obligated, within the existing legislative framework, to require archaeological concerns be addressed in connection with any planning application and is able to pass zoning by-law(s) regulating the use of land that is the site of a significant archaeological resource. Moreover, a municipality is prevented from undertaking any public work that does not comply with its Official Plan.&lt;ref&gt;{{cite web|last=Services Inc.|first=Archaeological|title=Provincial Legislation|url=http://www.iasi.to/prov_leg.htm|publisher=Archaeological Services Inc.|accessdate=5 April 2012}}&lt;/ref&gt;  Heritage protection policies are related to Official Plans (which are plans produced by the Ontario Government related to development and land allocation), if developed and incorporated properly. If a municipality has a sound basis in its policies (Official Plan), it is possible to refuse applications that do not conform to heritage requirements.&lt;ref&gt;{{cite web|last=Services Inc.|first=Archaeological|title=Provincial Legislation|url=http://www.iasi.to/prov_leg.htm|publisher=Archaeological Services Inc.|accessdate=5 April 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last=Municipal Affairs and Housing|first=Ministry of|title=The Planning Act|url=http://www.mah.gov.on.ca/Page1760.aspx|publisher=Ministry of Municipal Affairs and Housing|accessdate=5 April 2012}}&lt;/ref&gt;
+
+Many triggers for archaeological assessment occur in the Planning Act and are predominantly enacted by new housing developments or other residential land developments which also must comply with the Ontario Heritage Act.&lt;ref&gt;{{cite web|last=Tourism, Culture and Sport|first=Ministry of|title=Archaeological Assessments|url=http://www.mtc.gov.on.ca/en/archaeology/archaeology_assessments.shtml#a1|publisher=Ministry of Tourism, Culture and Sport|accessdate=5 April 2012}}&lt;/ref&gt;
+
+==Other Provincial Legislation==
+There is other Provincial legislation that can affect cultural resource management and archaeological assessments in Ontario.
+
+The Aggregate Resources Act: which provides approval of pits and quarries and administered by the Ministry of Natural Resources, recognizes the potential impact of quarrying activities that may have an effect on cultural features such as archaeological resources. The process for addressing archaeological concerns within the Aggregate Resources Act is similar to that for Planning Act related projects.&lt;ref&gt;{{cite web|last=Services Inc.|first=Archaeological|title=Provincial Legislation|url=http://www.iasi.to/prov_leg.htm|publisher=Archaeological Services Inc.|accessdate=5 April 2012}}&lt;/ref&gt;
+
+The Cemeteries Act: This act shows the need to protect human burials, both marked and unmarked graves, which can provide another link to the past. Marked burials are provided protection as a heritage resource.  “Burial locations uncovered on archaeological sites constitute ‘unregistered cemeteries’ that are, in essence, in violation of the Cemeteries Act. The discovery of such burials will require further investigation in order to define the extent and number of interments, and either the registration of the burial location as a cemetery, or the removal of the remains for re-interment in an established cemetery.” These archaeological burials can result in more complex legal issues.&lt;ref&gt;{{cite web|last=Services Inc.|first=Archaeological|title=Provincial Legislation|url=http://www.iasi.to/prov_leg.htm|publisher=Archaeological Services Inc.|accessdate=5 April 2012}}&lt;/ref&gt;
+
+{{Canada topic|Archaeology in}}
+
+==References==
+
+{{Reflist}}
+
+[[Category:Archaeology of Canada]]
+[[Category:Natural history of Ontario]]</text>
+      <sha1>bjie66c2qphqqn2ab1coundr7251c0a</sha1>
+    </revision>
+  </page>
+</mediawiki>

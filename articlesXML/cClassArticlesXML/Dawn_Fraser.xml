@@ -1,0 +1,286 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dawn Fraser</title>
+    <ns>0</ns>
+    <id>379878</id>
+    <revision>
+      <id>741437224</id>
+      <parentid>741030990</parentid>
+      <timestamp>2016-09-27T14:02:22Z</timestamp>
+      <contributor>
+        <username>HandsomeFella</username>
+        <id>12971673</id>
+      </contributor>
+      <comment>/* External links */ she's not in those templates</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19560">{{Use dmy dates|date=November 2013}}
+{{Use Australian English|date=October 2012}}
+{{Infobox swimmer
+| name           = Dawn Fraser
+| image          = Dawn Fraser.jpg
+| image_size     = 220
+| alt            =
+| caption        = Fraser in May 2015
+| fullname       = Dawn Fraser
+| nicknames      = &quot;Dawny&quot; &amp; &quot;Frase&quot;
+| national_team  = {{AUS}}
+| strokes        = [[Freestyle swimming|Freestyle &amp; Butterfly]]
+| club           =
+| birth_date     = {{Birth date and age|1937|9|4|df=y}}
+| birth_place    = [[Balmain, New South Wales]]
+| death_date     =
+| death_place    =
+| height         = {{convert|1.72|m|ftin|abbr=on}}
+| weight         = {{convert|67|kg|lb|abbr=on}}
+| medaltemplates =
+{{MedalSport | Women's swimming}}
+{{MedalCountry | Australia}}
+{{MedalCompetition | [[Swimming at the Summer Olympics|Olympic Games]]}}
+{{MedalGold | [[1956 Summer Olympics|1956 Melbourne]] | [[Swimming at the 1956 Summer Olympics - Women's 100 metre freestyle|100 m freestyle]]}}
+{{MedalGold | 1956 Melbourne | [[Swimming at the 1956 Summer Olympics - Women's 4 x 100 metre freestyle relay|4×100 m freestyle]]}}
+{{MedalGold | [[1960 Summer Olympics|1960 Rome]] | [[Swimming at the 1960 Summer Olympics - Women's 100 metre freestyle|100 m freestyle]]}}
+{{MedalGold | [[1964 Summer Olympics|1964 Tokyo]] | [[Swimming at the 1964 Summer Olympics - Women's 100 metre freestyle|100 m freestyle]]}}
+{{MedalSilver | 1956 Melbourne | [[Swimming at the 1956 Summer Olympics - Women's 400 metre freestyle|400 m freestyle]]}}
+{{MedalSilver | 1960 Rome | [[Swimming at the 1960 Summer Olympics - Women's 4 x 100 metre freestyle relay|4×100 m freestyle]]}}
+{{MedalSilver | 1960 Rome | [[Swimming at the 1960 Summer Olympics - Women's 4 x 100 metre medley relay|4×100 m medley]]}}
+{{MedalSilver | 1964 Tokyo | [[Swimming at the 1964 Summer Olympics - Women's 4 x 100 metre freestyle relay|4×100 m freestyle]]}}
+{{MedalCompetition | [[British Empire and Commonwealth Games]]}}
+{{MedalGold | [[1958 British Empire and Commonwealth Games|1958 Cardiff]] | 110 yd freestyle}}
+{{MedalGold | 1958 Cardiff | 4×110 yd freestyle}}
+{{MedalGold | [[1962 British Empire and Commonwealth Games|1962 Perth]] | 110 yd freestyle}}
+{{MedalGold | 1962 Perth | 440 yd freestyle}}
+{{MedalGold | 1962 Perth | 4×110 yd freestyle}}
+{{MedalGold | 1962 Perth | 4×110 yd medley}}
+{{MedalSilver | 1958 Cardiff | 440 yd freestyle}}
+}}
+'''Dawn Fraser''', {{post-nominals|country=AUS|size=100%|AO,|MBE}} (born 4 September 1937) is an Australian freestyle champion [[swimming (sport)|swimmer]] and former politician.  She is one of only three swimmers to have won the same Olympic event three times – in her case the women's 100-metre freestyle.&lt;ref name=r1&gt;[http://www.sports-reference.com/olympics/athletes/fr/dawn-fraser-1.html Dawn Fraser]. sports-reference.com&lt;/ref&gt;
+
+Within Australia, she is often known for her controversial behaviour and [[larrikinism|larrikin]] character as much as for her athletic ability.
+
+==Early life==
+Fraser was born in the Sydney suburb of [[Balmain, New South Wales]] in 1937 into a poor working-class family, the youngest of eight children.&lt;ref name=&quot;icons&quot;&gt;{{cite book |title=Icons of Women's Sport |last1=Boyer Sagert |first1=Kelley |last2=Overman |first2=Steven J. |pages=137–152 |publisher=ABC-CLIO |location=Santa Barbara |year=2012 |isbn=978-0-313-38549-0 |url=https://books.google.ie/books?id=b_kTU8LfcqAC&amp;lpg=PA138&amp;ots=PSRWjXU4sq&amp;dq=%22Dawn%20Fraser%22%20father%20%20Balmain%201937&amp;pg=PA137#v=onepage&amp;q=%22Dawn%20Fraser%22&amp;f=false |accessdate=8 July 2015}}&lt;/ref&gt; Her father, Kenneth Fraser, was from [[Embo]], Scotland.&lt;ref name=&quot;northern_times&quot;&gt;{{cite web |url=http://www.northern-times.co.uk/News/Olympic-swim-star-makes-surprise-visit-30082012.htm |title=Olympic swim star makes surprise visit |last=McMorran |first=Caroline |publisher=The Northern Times |date=20 August 2012 |accessdate=8 July 2015}}&lt;/ref&gt; She was spotted at the early age of 14 by Sydney coach Harry Gallagher swimming at the local sea baths.
+
+==Swimming career==
+Fraser won eight Olympic medals, including four gold medals, and six [[Commonwealth Games]] gold medals. She also held 39 records. The 100 metres freestyle record was hers for 15 years from 1 December 1956 to 8 January 1972.
+
+She is the first of only three swimmers in Olympic history ([[Krisztina Egerszegi]] of Hungary and [[Michael Phelps]] of the United States being the two others) to have won individual gold medals for the same event at three successive Olympics [[List of Olympic medalists in swimming (women)|(100 metres freestyle – 1956, 1960, 1964)]].
+
+In October 1962, she became the first woman to swim 100 metres freestyle in less than one minute.&lt;ref&gt;{{cite news|first=Alan|last=Clarkson|title=Champion's world time in 110 yds|publisher=The Sun-Herald|page=67|date=28 October 1962}}&lt;/ref&gt; It was not until 1973, eight years after Fraser retired, that her 100m record of 58.9 secs was broken.&lt;ref&gt;{{cite news|title=Swim contest a spectacular of records|publisher=[[Australian Associated Press|AAP]], [[Reuters]]|work=The Sun-Herald|page=107|date=2 May 1971}}&lt;/ref&gt;
+
+During the [[1964 Summer Olympics]] in Tokyo, Fraser angered swimming team sponsors and the Australian Swimming Union (ASU) by marching in the opening ceremony against their wishes, and wearing an older swimming costume in competition because it was more comfortable than the one supplied by the sponsors. She was accused of stealing an Olympic flag from a flagpole outside [[Hirohito|Emperor Hirohito]]'s palace from the [[Kōkyo]]. She was arrested but released without charge. In the end she was given the flag as a souvenir.&lt;ref&gt;{{Cite web|title = Dawn Fraser: still kicking:|url = http://www.abc.net.au/sundayprofile/stories/s1897086.htm|website = Sunday Profile, ABC|accessdate = 4 November 2015|date = 15 April 2007}}&lt;/ref&gt; However, the Australian Swimming Union suspended her for 10 years. They relented a few months before the 1968 Games but by then it was too late for Fraser, at 31, to prepare.
+
+She later denied having swum the moat to steal the flag, telling ''The Times'' in 1991: &quot;There's no way I would have swum that moat. I was terrified of dirty water and that moat was filthy. There's no way I'd have dipped my toe in it.&quot;
+
+==Post-swimming activities==
+{{Infobox officeholder
+|name             = Dawn Fraser
+|honorific-suffix = {{post-nominals|country=AUS|AO|MBE}}
+|constituency_MP  = [[Electoral district of Balmain|Balmain]]
+|parliament       = New South Wales
+|term_start       = 19 March 1988
+|term_end         = 25 May 1991
+|predecessor      = [[Peter Crawford (Australian politician)|Peter Crawford]]
+|successor        = District abolished
+}}
+Fraser became a publican at the [[Balmain, New South Wales#Drinking establishments|Riverview Hotel]], Balmain, and took up swimming coaching. In 1988, she was elected an independent Member of the [[New South Wales Legislative Assembly]] (MLA) for the [[Electoral district of Balmain|seat of Balmain]]. Fraser left politics when the seat was abolished in 1991 and she failed to win the new seat of [[Electoral district of Port Jackson|Port Jackson]].&lt;ref name=r1/&gt;&lt;ref&gt;{{cite web |title=Ms Dawn Fraser (1937 – ) |work=Members of Parliament |publisher=[[Parliament of New South Wales]] |url=http://www.parliament.nsw.gov.au/prod/parlment/members.nsf/1fb6ebed995667c2ca256ea100825164/00a1a2b97accf3e5ca256ce000034fc7 |accessdate=19 February 2010 }}&lt;/ref&gt;
+Fraser is a high-profile supporter and a board director of the [[Wests Tigers]] [[NRL]] club.&lt;ref&gt;http://www.theaustralian.com.au/news/latest-news/benji-marshall-good-natured-dawn-fraser/story-fn3dxity-1226121182177&lt;/ref&gt;
+
+==Honours==
+She was named the [[Australian of the Year]] in 1964,&lt;ref&gt;{{cite book | author=Lewis, Wendy | title=Australians of the Year | publisher=Pier 9 Press | year=2010 | isbn=978-1-74196-809-5 | authorlink=Wendy Lewis }}&lt;/ref&gt; was inducted into the [[International Swimming Hall of Fame]] in 1965,&lt;ref name=ishofprofile&gt;International Swimming Hall of Fame, Honorees, [http://www.ishof.org/dawn-fraser-(aus).html  Dawn Fraser (AUS)].  Retrieved 17 March 2015.&lt;/ref&gt; was made a [[Member of the Order of the British Empire]] in 1967,&lt;ref&gt;[http://www.itsanhonour.gov.au/honours/honour_roll/search.cfm?aus_award_id=1088356&amp;search_type=advanced&amp;showInd=true It's an Honour] – Member of the Order of the British Empire&lt;/ref&gt; and appointed an [[Officer of the Order of Australia]] (AO) in 1998.&lt;ref&gt;[http://www.itsanhonour.gov.au/honours/honour_roll/search.cfm?aus_award_id=872625&amp;search_type=quick&amp;showInd=true It's an Honour] – Officer of the Order of Australia&lt;/ref&gt;  Also in 1998, she was voted Australia's greatest female athlete in history.{{Citation needed|date=August 2008}}  She was named Australian Female Athlete of the Century by the [[Sport Australia Hall of Fame]],&lt;ref name=&quot;smh2013&quot;&gt;{{cite web|url=http://www.smh.com.au/sport/fraser-named-greatest-despite-push-for-skater-20130227-2f6dm.html|title=Fraser named greatest despite push for skater|work=[[The Sydney Morning Herald]]|date=28 February 2013|first=Chris|last=Wilson|accessdate=4 September 2013}}&lt;/ref&gt; who had inducted her as their first female member in 1985.&lt;ref&gt;{{cite web|url=http://www.sahof.org.au/hall-of-fame/member-profile/?memberID=79&amp;memberType=legends|title=Dawn Fraser AO MBE|publisher=Sport Australia Hall of Fame|accessdate=4 September 2013}}&lt;/ref&gt;  In 1999 the [[International Olympic Committee]] named her the World's Greatest Living Female Water Sports Champion.{{Citation needed|date=August 2008}} on 14 July 2000, Fraser was awarded the [[Australian Sports Medal]] for &quot;outstanding contribution as a swimming competitor&quot;.&lt;ref&gt;{{cite web|title=Dawn Fraser|url=http://www.itsanhonour.gov.au/honours/honour_roll/search.cfm?aus_award_id=980531&amp;search_type=simple&amp;showInd=true|publisher=Australian Honours Database|accessdate=8 May 2013}}&lt;/ref&gt;
+
+She was one of the bearers of the [[Olympic Torch]] at the [[2000 Summer Olympics opening ceremony|opening ceremony]] of the [[2000 Summer Olympics]] in Sydney. She carried the Olympic Torch at the stadium, as one of the bearers for the final segment, before the lighting of the [[Olympic Flame]].
+
+The [[Australian Sport Awards]] includes an award named in honour of and presented by Fraser. In 1992, the [[State Transit Authority]] named a [[Sydney RiverCats|RiverCat ferry]] after Fraser.
+
+==In film==
+In 1979, a movie called ''[[Dawn!]]'' was made about Fraser's life and career. It starred Bronwyn Mackay-Payne as Fraser.
+
+Fraser was played by [[Melissa Thomas]] in the 2003 film ''[[Swimming Upstream]]''. Fraser herself is credited in the film as Dawn Fraser's coach.
+On  1 September 2015, Dawn Fraser featured on Season 7, Episode 5 of the [[SBS (Australian TV channel)|SBS]] genealogy television series [[Who Do You Think You Are? (Australian TV series)|Who Do You Think You Are?]], which traced her heritage back to South America.
+
+== Personal life ==
+Fraser married Gary Ware on 30 January 1965 at St Stephens Church, Macquarie Street, Sydney.&lt;ref name=sl-pic-wedding&gt;{{cite web |last1=Hickson|first1=Jack |title=Dawn Fraser's wedding to Gary Ware, St. Stephen's Church, Sydney |url=http://acms.sl.nsw.gov.au/item/itemDetailPaged.aspx?itemID=98512 |website=acms.sl.nsw.gov.au |date=30 January 1965 |publisher=State Library of NSW |accessdate=21 December 2014}}&lt;/ref&gt; The marriage was short-lived. She has one daughter from the marriage, Dawn-Lorraine, who has a son, Jackson.&lt;ref name=abc-kicking&gt;{{cite interview |author=Fraser, Dawn |interviewer=Attard, Monica |title=Dawn Fraser: still kicking |url=http://www.abc.net.au/sundayprofile/stories/s1897086.htm|website=Sunday Profile www.abc.net.a|publisher=Australian Broadcasting Corporation|accessdate=21 December 2014|date=15 April  2007}}&lt;/ref&gt;&lt;ref name=smh-smiling&gt;{{cite news |last1=Hardy|first1=Karen |title=Dawn Fraser still smiling |url=http://www.smh.com.au/entertainment/books/dawn-fraser-still-smiling-20131213-2zarg.html |accessdate=21 December 2014 |work=The Sydney Morining Herald |publisher=Fairfax Media |date=15 December 2013}}&lt;/ref&gt;
+
+Fraser has drawn negative criticism for public comments such as, &quot;I'm sick and tired of the immigrants that are coming into my country.&quot;&lt;ref name=&quot;smh.com.au&quot;&gt;{{cite web|url=http://www.smh.com.au/nsw/from-olympic-bans-to-one-nation-dawn-fraser-no-stranger-to-controversy-20150707-gi6sgw.html#ixzz3kkQ1HLXL|title=From Olympic bans to One Nation: Dawn Fraser no stranger to controversy|work=The Sydney Morning Herald}}&lt;/ref&gt; and telling two Australian tennis players to &quot;go back to where their fathers or parents came from.&quot;&lt;ref name=&quot;smh.com.au&quot;/&gt; These views have been described as racist.&lt;ref&gt;{{cite web|url=http://www.news.com.au/sport/tennis/olympic-legend-dawn-fraser-launches-racist-attack-on-nick-kyrgios/story-fnu2pjj2-1227431907759|title=Dawn Fraser attacks Nick Kyrgios after Wimbledon 2015 loss|date=7 July 2015|work=NewsComAu}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.theguardian.com/sport/2015/jul/07/dawn-fraser-sorry-for-racist-outburst-on-nick-kyrgios-and-bernard-tomic |title=Dawn Fraser sorry for 'racist' outburst on Nick Kyrgios and Bernard Tomic |date=July 7, 2015 |publisher=''[[The Guardian]]'' |access-date=August 13, 2016 }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.smh.com.au/national/dawn-frasers-comments-about-kyrgios-and-tomic-were-racist-say-experts-20150707-gi70b6.html |title=Dawn Fraser's comments about Kyrgios and Tomic were racist, say experts |first1=Angus |last1=Holland |date=July 7, 2015 |publisher=''[[The Sydney Morning Herald]]'' |access-date=August 13, 2016 }}&lt;/ref&gt; She subsequently apologized.
+
+==Olympic accomplishments==
+[[File:Dawn Fraser 1958.jpg|thumb|Dawn Fraser in 1958]]
+{| class=&quot;wikitable&quot;
+|- bgcolor=&quot;#eeeeee&quot;
+|- bgcolor=&quot;#eeeeee&quot;
+| '''Event'''
+| align=&quot;center&quot; | '''Time'''
+| align=&quot;center&quot; | '''Place'''
+|- bgcolor=&quot;#eeeeee&quot;
+! colspan=&quot;4&quot; |  1956 Summer Olympics
+|-
+|  100m Freestyle|| align=&quot;center&quot; | 1:02.0
+| bgcolor=&quot;Gold&quot; align=&quot;center&quot; | '''Gold''' ||bgcolor=&quot;00CC33&quot; align=&quot;center&quot; | '''WR'''
+|-
+|  400m Freestyle|| align=&quot;center&quot; | 5:02.5
+| bgcolor=&quot;silver&quot; align=&quot;center&quot; | '''Silver'''
+|-
+|  4 × 100 m Freestyle Relay|| align=&quot;center&quot; | 4:17.1
+| bgcolor=&quot;Gold&quot; align=&quot;center&quot; | '''Gold''' ||bgcolor=&quot;00CC33&quot; align=&quot;center&quot; | '''WR'''
+|-
+|- bgcolor=&quot;#eeeeee&quot;
+! colspan=&quot;4&quot; |  1960 Summer Olympics
+|-
+|  100m Freestyle|| align=&quot;center&quot; | 1:01.2
+| bgcolor=&quot;Gold&quot; align=&quot;center&quot; | '''Gold''' ||bgcolor=&quot;orange&quot; align=&quot;center&quot; | '''OR'''
+|-
+|  400m Freestyle|| align=&quot;center&quot; | 4:58.5
+| bgcolor=&quot;white&quot; align=&quot;center&quot; | 5th
+|-
+|  4 × 100 m Freestyle Relay|| align=&quot;center&quot; | 4:11.3
+| bgcolor=&quot;silver&quot; align=&quot;center&quot; | '''Silver'''
+|-
+|  4 × 100 m Medley Relay|| align=&quot;center&quot; | 4:45.9
+| bgcolor=&quot;silver&quot; align=&quot;center&quot; | '''Silver'''
+|-
+|- bgcolor=&quot;#eeeeee&quot;
+! colspan=&quot;4&quot; |  1964 Summer Olympics
+|-
+|  100m Freestyle|| align=&quot;center&quot; | 59.5
+| bgcolor=&quot;Gold&quot; align=&quot;center&quot; | '''Gold''' ||bgcolor=&quot;orange&quot; align=&quot;center&quot; | '''OR'''
+|-
+|  400m Freestyle|| align=&quot;center&quot; | 4:47.6
+| bgcolor=&quot;white&quot; align=&quot;center&quot; | 4th
+|-
+|  4 × 100 m Freestyle Relay|| align=&quot;center&quot; | 4:06.9
+| bgcolor=&quot;silver&quot; align=&quot;center&quot; | '''Silver'''
+|-
+|  4 × 100 m Medley Relay|| align=&quot;center&quot; | 4:52.3
+| bgcolor=&quot;white&quot; align=&quot;center&quot; | 9th
+|}
+
+*[[1962 British Empire and Commonwealth Games|1962 Perth Commonwealth Games]]
+**110&amp;nbsp;yards freestyle – gold medal
+**440&amp;nbsp;yards freestyle – gold medal
+**4 x 110&amp;nbsp;yards (4 x 100.58 metres) freestyle relay – gold medal
+**4 x 110&amp;nbsp;yards (4 x 100.58 metres) medley relay – gold medal
+
+==See also==
+* [[List of multiple Olympic gold medalists]]
+* [[List of multiple Olympic gold medalists in one event]]
+* [[List of Olympic medalists in swimming (women)]]
+* [[World record progression 100 metres freestyle]]
+* [[World record progression 200 metres freestyle]]
+* [[World record progression 4 × 100 metres freestyle relay]]
+
+==References==
+{{reflist|35em}}
+
+==External links==
+{{Commons category}}
+* [http://www.olympics.com.au/athletes.cfm?AthleteID=2209 Dawn Fraser] &amp;ndash; Olympic athlete profile at Australian Olympic Committee
+* [http://www.dawnfraser.com.au/records.htm Dawn Fraser's world records]
+* [http://www.womenaustralia.info/leaders/biogs/WLE0386b.htm  Dawn Fraser] &amp;ndash; article in ''The Encyclopedia of Women and Leadership in Twentieth-Century Australia''
+* [http://www.ishof.org/dawn-fraser-(aus).html  Dawn Fraser (AUS)] &amp;ndash; Honor Swimmer profile at International Swimming Hall of Fame
+
+{{s-start}}
+{{s-par|au-nsw}}
+{{s-bef | before = [[Peter Crawford (Australian politician)|Peter Crawford]] }}
+{{s-ttl | title = Member for [[Electoral district of Balmain|Balmain]] | years=1988&amp;ndash;1991}}
+{{s-non | reason= District abolished }}
+{{s-ach|rec}}
+{{succession box|before=[[Willy den Ouden ]]|title=[[World record progression 100 metres freestyle|Women's 100 metre freestyle&lt;br&gt;world record holder (long course)]]|years=21 February 1956 – 3 March 1956|after=[[Cocky Gastelaars]]}}
+{{succession box|before=[[Cocky Gastelaars]]|title=[[World record progression 100 metres freestyle|Women's 100 metre freestyle&lt;br&gt;world record holder (long course)]]|years=25 August 1956 – 20 October 1956|after=[[Lorraine Crapp]]}}
+{{s-end}}
+
+{{Footer Olympic Champions 100 m Freestyle Women}}
+{{Footer Olympic Champions 4x100 m Freestyle Relay Women}}
+{{Footer Commonwealth Champions 100m Freestyle Women}}
+{{Footer Commonwealth Champions 400m Freestyle Women}}
+{{Footer Commonwealth Champions 4x100m Freestyle Women}}
+{{Associated Press Female Athlete of the Year navbox}}
+{{Australians of the Year}}
+{{Authority control}}
+
+{{DEFAULTSORT:Fraser, Dawn}}
+[[Category:1937 births]]
+[[Category:Female freestyle swimmers]]
+[[Category:Australian female swimmers]]
+[[Category:Olympic swimmers of Australia]]
+[[Category:Swimmers from Sydney]]
+[[Category:Swimmers at the 1956 Summer Olympics]]
+[[Category:Swimmers at the 1960 Summer Olympics]]
+[[Category:Swimmers at the 1964 Summer Olympics]]
+[[Category:Swimmers at the 1958 British Empire and Commonwealth Games]]
+[[Category:Swimmers at the 1962 British Empire and Commonwealth Games]]
+[[Category:Olympic gold medalists for Australia]]
+[[Category:Olympic silver medalists for Australia]]
+[[Category:Commonwealth Games gold medallists for Australia]]
+[[Category:Commonwealth Games silver medallists for Australia]]
+[[Category:Former world record holders in swimming]]
+[[Category:Australian sportsperson-politicians]]
+[[Category:Australian women in politics]]
+[[Category:Independent members of the Parliament of New South Wales]]
+[[Category:Members of the New South Wales Legislative Assembly]]
+[[Category:Australian autobiographers]]
+[[Category:Australian of the Year Award winners]]
+[[Category:Australian Living Treasures]]
+[[Category:Officers of the Order of Australia]]
+[[Category:Australian Members of the Order of the British Empire]]
+[[Category:Recipients of the Australian Sports Medal]]
+[[Category:Sport Australia Hall of Fame inductees]]
+[[Category:Dancing with the Stars (Australian TV series) participants]]
+[[Category:Living people]]
+[[Category:Women autobiographers]]
+[[Category:International Swimming Hall of Fame inductees]]
+[[Category:Australian people of Scottish descent]]
+[[Category:Medalists at the 1964 Summer Olympics]]
+[[Category:Medalists at the 1960 Summer Olympics]]
+[[Category:Medalists at the 1956 Summer Olympics]]
+[[Category:Olympic gold medalists in swimming]]
+[[Category:Olympic silver medalists in swimming]]
+[[Category:Commonwealth Games medallists in swimming]]</text>
+      <sha1>ngc6c0tnwxfd2rstyu16ty0ysxzntga</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,186 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Amiga 4000</title>
+    <ns>0</ns>
+    <id>273917</id>
+    <revision>
+      <id>729419036</id>
+      <parentid>721826046</parentid>
+      <timestamp>2016-07-12T02:06:33Z</timestamp>
+      <contributor>
+        <username>Hammertime56</username>
+        <id>28610520</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10428">{{refimprove|date=November 2011}}
+{{Infobox computer
+| image        = Amiiga4000DP.jpg
+| caption      = An Amiga 4000 desktop
+| Name         = Commodore Amiga 4000
+| manufacturer = [[Commodore International|Commodore]]
+| Type         = [[Personal computer]]
+| Released     = {{Start date and age|1992}}
+| Discontinued = {{End date|1994}}
+| cpu          = {{Nowrap|[[Motorola 68EC030]]}} or {{Nowrap|[[Motorola 68040|68040]] @ 25 MHz}}
+| Memory       = 2-18 [[megabyte|MB]]
+| OS           = [[AmigaOS]] 3.0
+| predecessor  = [[Amiga 3000]]
+| successor    = [[Amiga 4000T]]
+}}
+The '''[[Commodore International|Commodore]] [[Amiga]] 4000''', or '''A4000''', is the successor of the [[Amiga 2000|A2000]] and [[Amiga 3000|A3000]] computers.  There are two models, the A4000/040 released in October 1992 with a [[Motorola 68040]] [[Central processing unit|CPU]], and the A4000/030 released in April 1993 with a [[Motorola 68EC030]].
+
+The Amiga 4000 introduces the [[Advanced Graphics Architecture]] (AGA) chipset with enhanced graphics and continues the A3000's system architecture. However, the [[SCSI]] from previous Amigas was replaced by the lower-cost [[Parallel ATA]], but it is possible to add a SCSI controller as an expansion module.
+
+The original A4000 is housed in a beige horizontal desktop box with a separate keyboard. Later, Commodore released an expanded tower version called the [[Amiga 4000T|A4000T]].
+
+==Technical information==
+
+=== Processor and RAM ===
+The stock A4000 shipped with either a [[Motorola 68EC030]] or [[Motorola 68040|68040]] [[Central processing unit|CPU]], 2&amp;nbsp;MB of [[Amiga Chip RAM]] and up to 16&amp;nbsp;MB of additional RAM in 32-bit [[SIMM]]s.&lt;ref name=&quot;a4000_user&quot;&gt;{{citation | url=http://www.bombjack.org/commodore/amiga/amiga-commodore/A4000_Users_Guide_(UK).pdf | title=A4000 User's Guide | publisher=Commodore Electronics Limited | year=1992}}&lt;/ref&gt; There is a non-functional jumper that was intended to expand the &quot;chip RAM&quot; to 8MB.&lt;ref&gt;{{cite web | url=http://www.zimmers.net/cbmpics/cbm/amiga/a4000jumpers.html | title=A4000 Motherboard Jumpers | accessdate=2 September 2011}}&lt;/ref&gt; Later, third-party developers created various CPU expansion boards featuring higher rated [[Motorola 68040|68040]], [[Motorola 68060|68060]] and [[PowerPC]] CPUs. Such hardware also typically offers faster and higher capacity RAM (128&amp;nbsp;MB or greater).
+
+===A4000-CR version===
+Unlike previous Amiga models, early A4000 machines have the CPU mounted in an expansion board; the [[motherboard]] does not have an integrated CPU. Later revisions of the A4000 have the CPU and 2&amp;nbsp;[[Megabyte|MB]] RAM [[surface-mount technology|surface-mounted]] on the motherboard in an effort to reduce costs. These machines are known as the A4000-CR (cost-reduced) and the surface-mounted CPU is a 68EC030. The cost-reduced models also make use of a non-rechargeable lithium battery for real-time clock battery backup rather than a rechargeable [[nickel-cadmium battery|NiCd battery]]. The NiCd backup battery is one of the most common causes of problems in an aging device that uses one because it has a tendency to eventually leak. The released fluids are somewhat corrosive and can eventually damage the circuitry.
+
+===Graphics and sound===
+The A4000 is the first Amiga model to have shipped with Commodore's third-generation Amiga chipset, the 32-bit [[Advanced Graphics Architecture]] (AGA). As the name implies, AGA introduces improved graphical abilities, specifically, a palette expanded from 12-bit color depth (4096 colors) to 24-bit (16.8 million colors) and new 128, 256 and 262,144 ([[hold-and-modify|HAM-8]]) color modes. Unlike earlier Amiga chipsets, all color modes are available at all display resolutions. AGA also improves sprite capacity and graphics performance. The on-board sound hardware remains identical to that of the original Amiga chipset (the [[original Amiga chipset#Audio features in general|Paula sound chip]]), namely, four [[direct memory access|DMA]]-driven 8-bit [[Pulse code modulation|PCM]] channels, with two channels for the left speaker and two for the right.
+
+===Peripherals and expansion===
+The A4000 has a number of Amiga-specific connectors including two [[DE-9 connector|DE-9]] ports for [[joystick]]s, [[Mouse (computing)|mice]], and [[light pen]]s, a standard 25-pin [[RS-232]] [[serial port]] and a 25-pin [[Centronics]] [[parallel port]]. As a result, at launch the A4000 was compatible with many existing Amiga peripherals, such as, [[MIDI]] devices, serial [[modem]]s and [[sampling (signal processing)|sound samplers]].&lt;ref name=&quot;a4000_user&quot;/&gt;
+
+Like the just-earlier Amiga model, the [[Amiga 3000|3000]], the A4000 has four internal 32-bit [[Amiga Zorro III|Zorro III]] expansion slots. This expansion bus allows the use of devices which comply with the [[AutoConfig]] standard, such as graphic cards, audio cards, network cards, SCSI controllers, and later even [[Universal Serial Bus|USB]] controllers.&lt;ref name=&quot;zorro3&quot;&gt;{{citation | url=http://www.thule.no/haynie/zorroiii/docs/zorro3.pdf | title=The Zorro III Bus Specification | first=Dave | last=Haynie | date=20 March 1991 | publisher=Commodore-Amiga, Inc.}}&lt;/ref&gt; One of the most notable hardware items of the era is the [[NewTek]] [[Video Toaster]] system which became popular in the 1990s for amateur and commercial [[desktop video]] production of [[standard-definition]] [[broadcast quality]] video, consisting of tools for [[vision mixer|video switching]], [[chroma key]]ing, [[character generator|character generation]], [[animation]], and [[image manipulation]].
+
+The three [[Industry Standard Architecture|ISA]] slots can be activated by use of a bridgeboard, which connects the Zorro and ISA buses. Such bridgeboards typically feature on-board [[IBM PC Compatible|IBM-PC-compatible]] hardware, including [[Intel 80286]], [[80386]], or [[80486]] microprocessors allowing emulation of an entire IBM-PC system in hardware. Compatible ISA cards may then be installed into the two remaining ISA slots.
+
+Later, in an effort to offer modern expansion options third-party developers created replacement expansion boards for the A4000 which provide [[peripheral component interconnect|PCI]] slots allowing use of higher performance and widely available PCI hardware, such as graphic, sound, and network cards.
+
+===Operating System===
+The A4000 shipped with [[AmigaOS_versions#AmigaOS_3.0.2C_3.1|AmigaOS 3.0]], consisting of Workbench 3.0 and [[Kickstart (Amiga)|Kickstart]] 3.0, which together provide a single-user multi-tasking operating system and support for the built-in hardware. Following release of AmigaOS 3.1 it became possible to upgrade the A4000 by installing compatible Kickstart 3.1 ROM chips. The later AmigaOS 3.5 and 3.9 releases were software-only updates requiring Kickstart 3.1.
+
+[[AmigaOS 4]], a [[PowerPC]]-native release of the operating system, can be used with the A4000 provided a [[PowerUP (accelerator)#CyberStorm PPC|CyberStorm PPC]] board is installed. Likewise, [[MorphOS]], an alternative Amiga-compatible operating system, can be used with this hardware.
+
+Variants of platform-independent operating systems such as [[Linux]] and [[Berkeley Software Distribution|BSD]] can also be used with the A4000.
+
+[[File:A4000 öppen.png|right|thumb|Amiga 4000 with case open]]
+[[File:Amiga A3200 A3400 CPU card.jpg|thumb|Amiga A3200/A3400 CPU card]]
+
+===Specifications===
+{| class=&quot;wikitable&quot;
+! Attribute
+! Specification&lt;ref name=&quot;a4000_user&quot;/&gt;
+|-
+|[[Central processing unit|Processor]]
+|[[Motorola 68EC030]] or [[Motorola 68040|68040]] at 25&amp;nbsp;MHz
+|-
+|[[Bus (computing)|Bus speed]]
+|25&amp;nbsp;[[MHz]]
+|-
+|[[Random access memory|RAM]]
+|2-18&amp;nbsp;[[Megabyte|MB]] on board (2&amp;nbsp;MB [[Amiga Chip RAM|&quot;chip&quot;]] RAM and up to 16&amp;nbsp;MB additional RAM);&lt;br/&gt; Upgradable by further 128&amp;nbsp;MB via the CPU slot and 512&amp;nbsp;MB per [[Amiga Zorro III|Zorro III]] slot
+|-
+|[[Read-only memory|ROM]]
+|512&amp;nbsp;[[Kilobyte|kB]] [[Kickstart (Amiga)|Kickstart]] ROM
+|-
+|Chipset
+|[[Advanced Graphics Architecture]] (AGA)&lt;br/&gt;
+|-
+|Video
+|24-bit color palette (16.8 Million colors)&lt;br/&gt;
+Up to 256 on-screen colors in indexed mode&lt;br/&gt;
+262,144 on-screen colors in [[Hold-and-Modify|HAM-8]] mode&lt;br/&gt;
+Resolutions from:
+*320&amp;times;200 to 1280&amp;times;400[[interlaced|i]] (NTSC)
+*320&amp;times;256 to 1280&amp;times;512i (PAL)
+*640&amp;times;480 (VGA), 800&amp;times;600i, 1024&amp;times;768i&lt;ref&gt;[http://aminet.net/package/driver/moni/HighGFX40_6 HighGFX driver] for ECS and AGA on [[Aminet]]&lt;/ref&gt;
+Horizontal scan rates of 15.60-31.44&amp;nbsp;kHz&lt;br/&gt;
+Vertical scan rates of 50–72&amp;nbsp;Hz
+|-
+|Audio
+|4 &amp;times; 8-bit [[Pulse Code Modulation|PCM]] channels (2 [[Stereophonic sound|stereo]] channels)&lt;br/&gt;
+28–56&amp;nbsp;kHz maximum [[Direct memory access|DMA]] [[sampling rate]] (dependent on video mode in use)
+|-
+|Internal [[Computer Storage|storage]]
+|120&amp;nbsp;MB 3.5&quot; [[Parallel ATA|IDE]] [[hard disk drive]] (upgradable)
+|-
+|Removable storage
+|3.5&quot; [[Floppy disk|HD floppy disk]] drive (1.76&amp;nbsp;MB capacity)
+|-
+|Input/output ports
+|Analog RGB video out ([[D-subminiature|DB-23M]])&lt;br/&gt; Audio out (2 &amp;times; [[RCA connector|RCA]])&lt;br/&gt; Keyboard (6 pin [[Mini-DIN connector|mini-DIN]])&lt;br/&gt; 2 &amp;times; Mouse/Gamepad ports ([[DE-9 connector|DE9]])&lt;br/&gt; [[RS-232]] [[serial port]] (DB-25M)&lt;br/&gt; Centronics style [[parallel port]] (DB-25F)&lt;br/&gt; [[Floppy disk]] drive port (DB-23F)&lt;br/&gt; Internal buffered [[Parallel ATA|ATA]] controller (40-pin)
+|-
+|Expansion slots
+|4 &amp;times; 100pin 32-bit [[Amiga Zorro III|Zorro III]] slots&lt;br/&gt; 1 &amp;times; AGA video slot (inline with Zorro slot)&lt;br/&gt; 3 &amp;times; 16-bit [[Industry Standard Architecture|ISA]] slots (requires bridgeboard to activate)&lt;br/&gt; 1 &amp;times; 200-pin CPU expansion slot&lt;br/&gt; 4 or 5 &amp;times; 72-pin [[SIMM]] slots 
+|-
+|[[Operating system]]
+|[[AmigaOS]] 3.0 (Kickstart 3.0/Workbench 3.0)
+|-
+|Physical dimensions  
+|W &amp;times; H &amp;times; D: 15 &amp;times; 5 &amp;times; 15{{fraction|1|4}}&quot; (380 &amp;times; 125 &amp;times; 395&amp;nbsp;mm)
+|-
+|Other
+|2 &amp;times; front accessible 3.5&quot; drive bays&lt;br/&gt; 1 &amp;times; front accessible 5.25&quot; drive bay&lt;br/&gt; 2 &amp;times; internal 3.5&quot; drive mountings&lt;br/&gt; Key lock (disables mouse and keyboard)
+|}
+
+==See also==
+{{Portal|Amiga}}
+* [[Amiga models and variants]]
+
+==References==
+{{Reflist}}
+
+{{CBM_computers}}
+{{Amiga hardware}}
+{{AmigaOS}}
+{{AmigaOS 4}}
+{{commons category|Amiga 4000}}
+
+[[Category:Amiga]]
+[[Category:Computer-related introductions in 1992]]</text>
+      <sha1>cgrikot589olf1pe0abilmvhuct2onj</sha1>
+    </revision>
+  </page>
+</mediawiki>

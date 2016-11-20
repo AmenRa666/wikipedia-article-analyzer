@@ -1,0 +1,184 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>The House of the Seven Gables</title>
+    <ns>0</ns>
+    <id>4608265</id>
+    <revision>
+      <id>741710547</id>
+      <parentid>739275638</parentid>
+      <timestamp>2016-09-29T05:31:33Z</timestamp>
+      <contributor>
+        <username>INeverCry</username>
+        <id>8681972</id>
+      </contributor>
+      <minor/>
+      <comment>([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:7 Gables.jpg]] → [[File:The House of the Seven Gables.jpg]] #2</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17912">{{other uses}}
+{{infobox book | &lt;!-- See Wikipedia:WikiProject_Novels or Wikipedia:WikiProject_Books --&gt;
+| name         = The House of the Seven Gables
+| orig title   =
+| translator   =
+| image        = File:The House of the Seven Gables.jpg &lt;!--prefer 1st edition--&gt;
+| caption      = First edition title page.
+| author       = [[Nathaniel Hawthorne]]
+| cover_artist =
+| country      = United States
+| language     = English
+| series       =
+| genre        = [[Gothic fiction]]
+| publisher    = [[Ticknor and Fields]]
+| release_date = March 1851
+| media_type   = Print ([[Hardback]])
+| pages        =344
+| preceded_by  =
+| followed_by  =
+|oclc = 1374153
+|dewey = 813.3
+}}
+
+'''''The House of the Seven Gables''''' is a [[Gothic fiction|Gothic novel]] written beginning in mid-1850 by American author [[Nathaniel Hawthorne]] and published in April 1851 by [[Ticknor and Fields]] of Boston.  The novel follows a [[New England]] family and their ancestral home. In the book, Hawthorne explores themes of guilt, retribution, and atonement and colors the tale with suggestions of the supernatural and witchcraft. The setting for the book was inspired by a [[gable]]d house in Salem belonging to Hawthorne's cousin Susanna Ingersoll and by ancestors of Hawthorne who had played a part in the [[Salem Witch Trials]] of 1692. The book was well received upon publication and later had a strong influence on the work of [[H. P. Lovecraft]]. ''The House of the Seven Gables'' has been adapted several times to film and television.
+
+==Plot==
+The novel is set in the mid-19th century, but [[Flashback (narrative)|flashbacks]] to the history of the house, which was built in the late 17th century, are set in other periods. The house of the title is a gloomy [[New England]] mansion, haunted since its construction by fraudulent dealings, accusations of [[witchcraft]], and sudden death. The current resident, the dignified but desperately poor Hepzibah Pyncheon, opens a shop in a side room to support her brother Clifford, who has completed a thirty-year sentence for murder. She refuses all assistance from her wealthy but unpleasant cousin, Judge Jaffrey Pyncheon. A distant relative, the lively and pretty young Phoebe, arrives and quickly becomes invaluable, charming customers and rousing Clifford from depression. A delicate romance grows between Phoebe and the mysterious attic lodger Holgrave, who is writing a history of the Pyncheon family.
+
+The house was built on ground wrongfully seized from its rightful owner, Matthew Maule, by Colonel Pyncheon, the founder of the Massachusetts branch of the family. Maule was accused of practicing witchcraft and was executed. According to legend, at his death Maule laid a curse upon the Pyncheon family. During the housewarming festivities, Colonel Pyncheon was found dead in his armchair; whether he actually died from the curse or from a [[Hemoptysis|congenital disease]] is unclear. His portrait remains in the house as a symbol of its dark past and the weight of the curse upon the spirit of its inhabitants.
+
+Phoebe arranges to visit her country home, but plans to return soon. Clifford, depressed by his isolation from humanity and his lost youth spent in prison, stands at a large arched window above the stairs and has a sudden urge to jump. The departure of Phoebe, the focus of his attention, leaves him bed-ridden.
+
+Judge Pyncheon arrives to find information about land in Maine, rumored to belong to the family. He threatens Clifford with an insanity hearing unless he reveals details about the land or the location of the missing deed. Clifford is unable to comply. Before Clifford can be brought before the Judge (which would destroy Clifford's fragile psyche), the Judge mysteriously dies while sitting in Colonel Pyncheon's chair. Hepzibah and Clifford flee by train. The next day, Phoebe returns and finds that Holgrave has discovered the Judge's body. The townsfolk begin to gossip about Hepzibah and Clifford's sudden disappearance. Phoebe is relieved when Hepzibah and Clifford return, having recovered their wits.
+
+New evidence in the crime that sent Clifford to prison proves his innocence. He was framed for the death of his uncle by Jaffrey, who was even then looking for the missing deed. Holgrave is revealed as Maule's descendant, but he bears no ill will toward the Pyncheons. The missing deed is discovered behind the old Colonel's portrait, but the paper is worthless: the land is already settled by others. The characters abandon the old house and start a new life in the countryside, free from the burdens of the past.
+
+==Characters==
+[[File:House of the Seven Gables - Chapter XI.jpg|thumb|1875 illustration of Clifford Pyncheon, [[Dalziel Brothers|John Dalziel]]]]
+* '''Hepzibah Pyncheon''' – Hepzibah is an unmarried older woman. Though a member of the upper class, she is destitute. At the beginning of the novel, she opens a shop in the first floor of the house to support herself and her brother.
+* '''Holgrave''' – A [[Daguerrotype|daguerreotypist]] who boards at the house. He is secretly a descendant of Matthew Maule, who had been hung as a witch. He falls in love with Phoebe.
+* '''Phoebe Pyncheon''' – She is from the country and not a member of the Salem aristocracy. She moves in with her cousin Hepzibah and takes over the shop. Her cheerfulness and beauty make the shop a success, and charm the reclusive Clifford, to whom she serves as a kind of caretaker. Phoebe shows a willingness to work that is absent in Hepzibah and Clifford. She falls in love with Holgrave.
+* '''Alice Pyncheon''' – Alice was a haughty beauty whose ghost haunts the House of the Seven Gables. Holgrave writes a story about Alice, which he reads to Phoebe. In Holgrave's story, Matthew Maule, grandson of the accused witch, is recruited by Alice's greedy father to assist in finding documents that will make him rich. Maule hypnotizes Alice, supposedly to help locate the documents. In reality, Maule intends revenge on the Pyncheons by making Alice permanently susceptible to his commands. He uses this to force her to publicly embarrass herself and her family. Alice dies when her humiliation becomes too great. Maule is mortified that he has caused the death of a beautiful and refined young woman.
+* '''Colonel Pyncheon'''- The founder of the Pyncheon family, the colonel was cursed by Matthew Maule. He died on the day that the House was completed, built on the site where Maule’s house had been.
+* '''Judge Jaffrey Pyncheon''' – A jurist and political aspirant who lives on a comfortable estate out of town. In appearance and character he so strongly resembles Colonel Pyncheon that some people mistake portraits of the ancestor for the descendant. He is just as ruthless as his ancestor in his hunt for a lost land deed, the intended source of new wealth for the dissolute Pyncheon clan.
+* '''Matthew Maule'''- Original owner of the land where the House of Seven Gables is built. Colonel Pyncheon had him hung as a wizard so that Pyncheon could seize his property.
+* '''Clifford Pyncheon''' – Clifford is Hepzibah's elderly, unwell brother who lives in the house after serving a sentence for the murder of his uncle; he was framed by his cousin, Jaffrey.
+* '''Uncle Venner''' – A jovial old man (older than Hepzibah) who is the only neighbor still friendly with the Pyncheons.
+* '''Ned Higgins''' – A precocious boy who visits Hepzibah's shop periodically to deplete her supply of [[gingerbread]] cookies.
+
+==Background==
+[[Image:House of the Seven Gables (1915).jpg|thumb|[[House of the Seven Gables]] in [[Salem, Massachusetts]] c. 1915]]
+The novel begins:
+
+{{quote |Halfway down a by-street of one of our New England towns stands a rusty wooden house, with seven acutely peaked gables, facing towards various points of the compass, and a huge, clustered chimney in the midst. The street is Pyncheon Street; the house is the old Pyncheon House; and an elm-tree, of wide circumference, rooted before the door, is familiar to every town-born child by the title of the Pyncheon Elm.}}
+
+The Pyncheon family actually existed and were ancestors of American novelist [[Thomas Pynchon]].&lt;ref name = &quot;Conforti&quot;&gt;Joseph A. Conforti, Imagining New England: Explorations of Regional Identity from the Pilgrims to the Mid-Twentieth Century (Chapel Hill: University of North Carolina Press, 2001), 248–62.&lt;/ref&gt; Hawthorne, however, did not base the story on a real family and was surprised that several &quot;Pynchon jackasses&quot; claimed a connection. He considered changing the fictional family's name or adding a disclaimer in the preface, though no such edits were made.&lt;ref name=Mellow368&gt;Mellow, James R. ''Nathaniel Hawthorne in His Times''. Boston: Houghton Mifflin Company, 1980: 368. ISBN 0-395-27602-0&lt;/ref&gt;
+
+The [[House of the Seven Gables]] in [[Salem, Massachusetts]] — today a museum accompanying a [[settlement house]] — was at one time owned by Hawthorne's cousin, Susanna Ingersoll, and she entertained him there often. Its seven-gabled state was known to Hawthorne only through childhood stories from his cousin; at the time of his visits, he would have seen just three gables due to architectural renovations. Reportedly, Ingersoll inspired Hawthorne to write the novel, though Hawthorne also stated that the book was a work of complete fiction, based on no particular house.&lt;ref name = &quot;Conforti&quot; /&gt;
+
+==Publication history and response==
+[[File:Nathaniel Hawthorne by Whipple c1848.jpg||thumb|Hawthorne, c. 1848]]
+''The House of the Seven Gables'' was Hawthorne's follow-up to his highly successful novel ''[[The Scarlet Letter]]''. He began writing it while living in [[Lenox, Massachusetts]] in August 1850. By October, he had chosen the title and it was advertised as forthcoming, though the author complained of his slow progress a month later: &quot;I write diligently, but not so rapidly as I hoped... I find the book requires more care and thought than the 'Scarlet Letter'&quot;.&lt;ref&gt;Mellow, James R. ''Nathaniel Hawthorne in His Times''. Boston: Houghton Mifflin Company, 1980: 351. ISBN 0-395-27602-0&lt;/ref&gt; He hoped the book would be complete by November but would not push himself to commit to a deadline. As he forewarned, &quot;I must not pull up my cabbage by the roots, by way of hastening its growth.&quot;&lt;ref&gt;Miller, Edwin Haviland. ''Salem Is My Dwelling Place: A Life of Nathaniel Hawthorne''. Iowa City: University of Iowa Press, 1991: 320. ISBN 0-87745-332-2&lt;/ref&gt; By mid-January 1851, he wrote to his publisher [[James Thomas Fields]] that the book was nearly finished, &quot;only I am hammering away a little on the roof, and doing a few odd jobs that were left incomplete.&quot;&lt;ref&gt;Mellow, James R. ''Nathaniel Hawthorne in His Times''. Boston: Houghton Mifflin Company, 1980: 353. ISBN 0-395-27602-0&lt;/ref&gt; He sent the finished manuscript to Fields by the end of the month.&lt;ref&gt;Wineapple, Brenda. ''Hawthorne: A Life''. New York: Random House, 2004: 257. ISBN 0-8129-7291-0&lt;/ref&gt; His wife [[Sophia Hawthorne]] reported to her mother on January 27 that he had read her the ending the night before: &quot;There is unspeakable grace and beauty in the conclusion, throwing back upon the sterner tragedy of the commencement an ethereal light, and a dear home-loveliness and satisfaction.&quot;&lt;ref&gt;Mellow, James R. ''Nathaniel Hawthorne in His Times''. Boston: Houghton Mifflin Company, 1980: 355. ISBN 0-395-27602-0&lt;/ref&gt;
+
+''The House of the Seven Gables'' was released in the second week of April 1851.&lt;ref name=Wineapple238&gt;Wineapple, Brenda. ''Hawthorne: A Life''. New York: Random House, 2004: 238. ISBN 0-8129-7291-0&lt;/ref&gt; Two printings were issued in the first month, a third in May, and a fourth in September 1851, totaling 6,710 copies in its first year (slightly more than ''The Scarlet Letter'' in its first year). Hawthorne earned 15% in royalties from the $1.00 cover price.&lt;ref&gt;Mellow, James R. ''Nathaniel Hawthorne in His Times''. Boston: Houghton Mifflin Company, 1980: 367. ISBN 0-395-27602-0&lt;/ref&gt; After its publication, Hawthorne said, &quot;It sold finely and seems to have pleased a good many people&quot;.&lt;ref&gt;McFarland, Philip. ''Hawthorne in Concord''. New York: Grove Press, 2004: 137. ISBN 0-8021-1776-7&lt;/ref&gt;
+
+Hawthorne's friend [[Henry Wadsworth Longfellow]] called it &quot;a weird, wild book, like all he writes.&quot;&lt;ref name=Wineapple238/&gt; [[Fanny Kemble]] reported that the book caused a sensation in England equal to ''[[Jane Eyre]]''.&lt;ref&gt;Wineapple, Brenda. ''Hawthorne: A Life''. New York: Random House, 2004: 239. ISBN 0-8129-7291-0&lt;/ref&gt; English critic [[Henry Chorley]] also noted that, with ''The Scarlet Letter'' and ''The House of the Seven Gables'', &quot;few will dispute [Hawthorne's] claim to rank amongst the most original and complete novelists that have appeared in modern times.&quot;&lt;ref name=Miller337&gt;Miller, Edwin Haviland. ''Salem Is My Dwelling Place: A Life of Nathaniel Hawthorne''. Iowa City: University of Iowa Press, 1991: 337. ISBN 0-87745-332-2&lt;/ref&gt; Some did not agree. &quot;The book is an affliction&quot;, claimed fellow author [[Catharine Maria Sedgwick]]. &quot;It affects one like a passage through the wards of an insane asylum.&quot;&lt;ref&gt;Wineapple, Brenda. ''Hawthorne: A Life''. New York: Random House, 2004: 232. ISBN 0-8129-7291-0&lt;/ref&gt; A review in the ''[[Christian Examiner]]'' complained the book was &quot;more complex, the characterization more exaggerated, and the artistic execution less perfect&quot; than the author's previous novel.&lt;ref name=Mellow368/&gt; Even so, Boston critic [[Edwin Percy Whipple]] simply called it his &quot;greatest work&quot;.&lt;ref name=Miller337/&gt; Hawthorne's friend [[Herman Melville]] praised the book for its dark themes in a letter to the author:
+
+{{quote|There is a certain tragic phase of humanity which, in our opinion, was never more powerfuly embodied than by Hawthorne. We mean the tragicalness of human thought in its own unbiased, native, and profounder workings. We think that into no recorded mind has the intense feeling of the visible truth ever entemored more deeply than into this man's.&lt;ref name=Mellow368/&gt;}}
+
+==Influence==
+The novel was an inspiration for [[horror fiction]] writer [[H. P. Lovecraft]], who called it &quot;[[New England]]'s greatest contribution to [[horror fiction|weird literature]]&quot; in his essay &quot;[[Supernatural Horror in Literature]]&quot;. ''Seven Gables'' likely influenced Lovecraft's short stories &quot;[[The Picture in the House]]&quot;, &quot;[[The Shunned House]]&quot; and novella ''[[The Case of Charles Dexter Ward]]''.&lt;ref&gt;S.T. Joshi and David E. Schultz, ''An H. P. Lovecraft Encyclopedia'', p. 107.&lt;/ref&gt;
+
+==Adaptations==
+The novel was [[The House of the Seven Gables (film)|adapted for the screen in 1940]] with [[Margaret Lindsay]] as Hepzibah, [[George Sanders]] as Jaffrey, [[Vincent Price]] as Clifford, [[Dick Foran]] as Holgrave, and [[Nan Grey]] as Phoebe. In this adaptation, Hepzibah and Clifford were made lovers rather than brother and sister, and the film ends with a double wedding. Also, Clifford was well aware of Holgrave's true identity, and the two are working together to settle a score with Jaffrey. It was directed by [[Joe May]] with a [[screenplay]] by [[Lester Cole]].&lt;ref&gt;[http://www.imdb.com/title/tt0032610/ ''The House of the Seven Gables''] at IMDB&lt;/ref&gt;
+
+There was also a [[silent film|silent]] [[short subject|short]] in 1910 and a [[remake]] in 1967.
+
+It was also loosely adapted as one of the three stories in the 1963 film ''[[Twice-Told Tales (film)|Twice-Told Tales]]'', along with &quot;[[Rappaccini's Daughter]]&quot; and &quot;[[Dr. Heidegger's Experiment]]&quot;. All three sections featured Vincent Price.
+
+The novel was adapted to a 60-minute television production in 1960 for ''[[The Shirley Temple Show]]'' with [[Shirley Temple]] as Phoebe, [[Robert Culp]] as Holgrave, [[Agnes Moorehead]] as Hepzibah, and [[Martin Landau]] as Clifford.&lt;ref&gt;IMDb&lt;/ref&gt;
+
+An opera based on the novel, by [[Scott Eyerly]], premiered at the [[Manhattan School of Music]] in 2000.&lt;ref&gt;{{cite web|url=http://www.nytimes.com/2000/12/13/arts/opera-review-a-harrowing-night-in-the-seven-gables.html|title=A Harrowing Night in the 'Seven Gables'|date=13 December 2000|work=The New York Times|accessdate=26 March 2016}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+
+===Online editions===
+* [https://archive.org/search.php?query=title%3ASeven%20Gables%20-contributor%3Agutenberg%20AND%20mediatype%3Atexts ''The House of the Seven Gables''], available at [[Internet Archive]] (scanned color illustrated books, multiple editions and formats)
+* {{gutenberg|no=77|name=The House of the Seven Gables}} (plain text)
+* [http://www.riapress.com/riapress/product.lasso?productid=103 ''The House of the Seven Gables''], available at [[Ria Press]] (PDF optimized for printing)
+* {{librivox book | title=The House of the Seven Gables | author=Nathaniel Hawthorne}}
+
+===Study Guides===
+* [http://pinkmonkey.com/booknotes/monkeynotes/pmHouseSeven01.asp MonkeyNotes study guide]
+* [http://www.sparknotes.com/lit/sevengables/ Sparknotes study guide]
+* [http://www.gradesaver.com/classicnotes/titles/sevengables/ Classicnote study guide]
+
+===Essays===
+* {{Cite Americana|wstitle=House of the Seven Gables|author=Cairns, William B. |short=x}}
+* {{Citation | url = http://hawthorneinsalem.org/ScholarsForum/Illustrations.html | title = Illustrations of ''The House of the Seven Gables'': A Help or a Hindrance? | first = John L., Jr. | last = Idol}}.
+
+===Other===
+* [http://www.communitywalk.com/the_house_of_the_seven_gables_map/map/931206 ''The House of the Seven Gables'' Map]
+
+{{Nathaniel Hawthorne}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:House Of The Seven Gables, The}}
+[[Category:1851 novels]]
+[[Category:Novels set in Massachusetts]]
+[[Category:Novels by Nathaniel Hawthorne]]
+[[Category:19th-century American novels]]
+[[Category:Novels set in the 19th century]]
+[[Category:American novels adapted into films]]
+[[Category:Gothic novels]]
+[[Category:Novels adapted into operas]]</text>
+      <sha1>lqfrbzak9sxn1f1g3ufd0s6uxpve1ee</sha1>
+    </revision>
+  </page>
+</mediawiki>

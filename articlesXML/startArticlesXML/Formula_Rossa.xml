@@ -1,0 +1,152 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Formula Rossa</title>
+    <ns>0</ns>
+    <id>24812976</id>
+    <revision>
+      <id>737091536</id>
+      <parentid>737091499</parentid>
+      <timestamp>2016-08-31T18:23:23Z</timestamp>
+      <contributor>
+        <username>Serols</username>
+        <id>9929111</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/JImjimlimy|JImjimlimy]] ([[User talk:JImjimlimy|talk]]) ([[WP:HG|HG]]) (3.1.21)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7353">{{Infobox roller coaster
+|name=Formula Rossa
+|logo=Formula-rossa-logo-Ferrari-World.png
+|logodimensions=135px
+|image=Formula Rossa coaster.jpg
+|imagedimensions=250px
+|caption=
+|previousnames=
+|location=Ferrari World Abu Dhabi
+|locationarticle=Ferrari World
+|section=&lt;!--Must not be linked.--&gt;
+|subsection=&lt;!--Should be linked.--&gt;
+|coordinates={{Coord|24|29|4|N|54|36|46|E|display=title,inline}}
+|opened={{Start date|2010|11|04|df=yes}}
+|year=2010
+|closed=
+|cost=
+|extend=&lt;!--Only for use with the Infobox roller coaster extend template.--&gt;
+|type=Steel
+|type2=Launched
+|type3=&lt;!--Must not be linked, will auto-categorize the coaster.--&gt;
+|status=Operating
+|manufacturer= Intamin
+|designer=Sherif Bacheet
+|model=
+|track=
+|lift=[[Launch track#Hydraulic|Hydraulic Launch Track]]
+|height_m=52
+|drop_m=51.5
+|length_m=2070
+|speed_km/h=239
+|inversions=0
+|duration=1:32&lt;ref&gt;{{cite web|url=http://coaster-net.com/ride-gallery/630-formula-rossa/|title=Formula Rossa|last=Sponseller|first=Dwain|date=April 2, 2014|publisher=Coaster-net|accessdate=January 14, 2016}}&lt;/ref&gt;
+|angle=&lt;!--Do not include &quot;degrees&quot;, it is added automatically.--&gt;
+|capacity=
+|acceleration_from=0
+|acceleration_km/h=239
+|acceleration_in=4
+|gforce=4.8&lt;ref name=&quot;Official&quot;&gt;{{cite web|title=Formula Rossa - World's Fastest roller coaster|url=http://www.ferrariworldabudhabi.com/en-gb/attractions/formula-rossa.aspx|publisher=Ferrari World Abu Dhabi|accessdate=4 November 2010}}&lt;/ref&gt;
+|restriction_cm=140-195
+|trains=4
+|carspertrain=4
+|rowspercar=2
+|ridersperrow=2
+|virtual_queue_name=
+|virtual_queue_image=&lt;!--Use ONLY the filename, not a full [[Image:]] link--&gt;
+|virtual_queue_status=&lt;!--should be available if above fields are used--&gt;
+|single_rider=&lt;!--Must be &quot;available&quot; if available.--&gt;
+|custom_label_1=Website
+|custom_value_1={{Official website|http://www.ferrariworldabudhabi.com/en-gb/attractions/formula-rossa.aspx}}
+|custom_label_2=
+|custom_value_2=
+|custom_label_3=
+|custom_value_3=
+|custom_label_4=
+|custom_value_4=
+|accessible=&lt;!--Must be &quot;available&quot; if available.--&gt;
+|transfer_accessible=&lt;!--Must be &quot;available&quot; if available.--&gt;
+|rcdb_number=4485
+}}
+
+'''Formula Rossa''' is a [[launched roller coaster]] located at [[Ferrari World]] in [[Abu Dhabi]], [[United Arab Emirates]]. Manufactured by [[Intamin]], Formula Rossa is the world's [[Fastest roller coasters#Speed rankings|fastest roller coaster]] with a top speed of {{Convert|239|km/h|abbr=on}}.&lt;ref name=&quot;RCDB Speed Record Holders&quot;&gt;{{cite web|title=Record Holders - Speed|url=http://www.rcdb.com/m/rhr.htm|publisher=Roller Coaster Database|accessdate=6 July 2010|first=Duane|last=Marden}}&lt;/ref&gt;&lt;ref name=&quot;Ferrari Formula Rossa home&quot;&gt;{{cite web|title=Formula Rossa|url=http://www.ferrari.com/English/about_ferrari/Theme-Park/Pages/100506_Formula_Rossa.aspx/|publisher=Ferrari|accessdate=6 July 2010|author=Ferrari|date=6 May 2010}}&lt;/ref&gt; The coaster train accelerates to its top speed in approximately 5 seconds using a [[Launch track#Hydraulic|hydraulic launch system]] which generates a release velocity similar to that of [[steam catapults]] on an [[aircraft carrier]].{{citation-needed|date=July 2014}} The initial acceleration from standstill reaches {{Convert|100|km/h}} in 2 seconds, beating the best commercially available supercar (as of 2014). Riders experience up to 1.7 G's of force during acceleration and up to 4.8 G's throughout the ride.&lt;ref name=&quot;Official&quot; /&gt;&lt;ref name=&quot;BBC News&quot;&gt;{{cite web|title=World's fastest rollercoaster: Could you stomach it?|url=http://www.bbc.co.uk/news/world-middle-east-11620485|publisher=BBC|accessdate=27 November 2014|author=BBC|date=27 October 2010}}&lt;/ref&gt; The roller coaster track is {{Convert|2.2|km|mi|abbr=on}} in length, ranking it 6th in the world for steel roller coasters.&lt;ref name=&quot;RCDB&quot;&gt;{{cite web|title=Formula Rossa (Ferrari World Abu Dhabi)|url=http://www.rcdb.com/m/4485.htm|publisher=Roller Coaster Database|accessdate=6 July 2010|first=Duane|last=Marden}}&lt;/ref&gt;&lt;ref name=Intamin&gt;{{cite web|title=Formula Rossa &gt; news &gt; Home &gt; Amusement|url=http://www.intaminworldwide.com/amusement/Home/news/FormulaRossa/tabid/150/language/en-US/Default.aspx|publisher=Intamin Worldwide|accessdate=3 February 2011}}&lt;/ref&gt;  Its shape was inspired by the legendary Italian racetrack [[Autodromo Nazionale Monza]].&lt;ref&gt;{{cite web|last=Borel|first=Brooke|title=How It Works: The World's Fastest Rollercoaster|url=http://www.popsci.com/technology/article/2011-03/how-it-works-worlds-fastest-rollercoaster|publisher=[[popsci.com]]|accessdate=2011-04-03|date=2011-03-31}}&lt;/ref&gt; Due to the high air speeds and thus risk of an impact with airborne particulates or [[insect]]s, all riders are required to wear protective glasses similar to those used during [[skydiving]]. Formula Rossa surpassed [[Kingda Ka]] at [[Six Flags Great Adventure]] as the world's fastest roller coaster&lt;ref name=&quot;Ferrari - Making of Video&quot;&gt;{{cite web|title=Formula Rossa - Making of|url=http://www.ferrari.com/English/Ferrari_TV/Pages/FerrariTVPlayer.aspx?serverId=15856&amp;c=Video|work=Video|publisher=Ferrari|accessdate=6 July 2010|author=Ferrari World}}&lt;/ref&gt;&lt;ref name=&quot;FW Video&quot;&gt;{{cite web|title=The making of Formula Rossa|url=http://ferrariworldabudhabi.com/video_player.swf?width=525&amp;height=305&amp;vid=images/video_galleries/fw4to3.flv|publisher=Ferrari World|accessdate=6 July 2010|author=Ferrari World}}&lt;/ref&gt; with Kingda Ka retaining the record of the tallest roller coaster in the world.&lt;ref&gt;{{cite RCDB|coaster_name=Record Holders|location=Tallest Roller Coasters|accessdate=1 August 2011|url=http://www.rcdb.com/m/rhr.htm?m=1}}&lt;/ref&gt;
+
+In its planning stage it was called '''F1 Coaster'''.
+
+Immediately following the launch, the train ascends a {{Convert|52|m|ft|abbr=on}} hill and eventually completes the course reaching a maximum speed of {{Convert|239|km/h}}.
+
+[[Scuderia Ferrari|Ferrari]] [[Formula One]] drivers [[Felipe Massa]] and [[Fernando Alonso]] rode Formula Rossa on 11 November 2010, three days before the [[2010 Abu Dhabi Grand Prix]]. In 2014, Alonso and new teammate [[Kimi Räikkönen]] rode the coaster,&lt;ref&gt;{{cite news|last=Bezants|first=Jack|url=http://www.dailymail.co.uk/sport/formulaone/article-2847474/Kimi-Raikkonen-left-unimpressed-planet-s-fastest-rollercoaster-Ferrari-World-Abu-Dhabi.html|title=Kimi Raikkonen left unimpressed after taking on the planet's fastest rollercoaster at Ferrari World in Abu Dhabi|newspaper=[[Daily Mail]]|date=24 November 2014|accessdate=30 November 2015}}&lt;/ref&gt; while Räikkönen and [[Sebastian Vettel]] rode in 2015.&lt;ref&gt;{{cite web|last=Smith|first=Luke|url=http://motorsports.nbcsports.com/2015/11/27/vettel-raikkonen-take-on-worlds-fastest-rollercoaster-in-abu-dhabi-video/|title=Vettel, Raikkonen take on world’s fastest rollercoaster in Abu Dhabi (VIDEO)|publisher=[[NBC Sports]]|date=27 November 2015|accessdate=30 November 2015}}&lt;/ref&gt;
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{Commons category}}
+* {{Official website|http://www.ferrariworldabudhabi.com/en-gb/attractions/formula-rossa.aspx}}
+
+{{Ferrari World Attractions}}
+{{Intamin}}
+{{s-start}}
+{{s-bef|before=''[[Kingda Ka]]''}} 
+{{s-ttl|title=World's Fastest Roller Coaster|years=November 2010 - Present}}
+{{s-aft|after=None}}
+{{end}}
+
+[[Category:Roller coasters in the United Arab Emirates]]
+[[Category:Roller coasters introduced in 2010]]
+[[Category:Ferrari World]]</text>
+      <sha1>qzy3vob937fblv975mywgue90joywos</sha1>
+    </revision>
+  </page>
+</mediawiki>

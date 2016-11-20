@@ -1,0 +1,118 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.28.0-wmf.22</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ancyridris</title>
+    <ns>0</ns>
+    <id>15187998</id>
+    <revision>
+      <id>731539291</id>
+      <parentid>677245971</parentid>
+      <timestamp>2016-07-26T00:30:08Z</timestamp>
+      <contributor>
+        <username>Bender235</username>
+        <id>88026</id>
+      </contributor>
+      <minor/>
+      <comment>clean up; http-&gt;https (see [[WP:VPR/Archive 127#RfC: Should we convert existing Google and Internet Archive links to HTTPS?|this RfC]]) using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4400">{{italic title}}
+{{Taxobox
+| name = ''Ancyridris''
+| image = Ancyridris polyrhachioides casent0102469 profile 1.jpg
+| image_caption = ''[[Ancyridris polyrhachioides|A. polyrhachioides]]'' worker
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Hymenoptera]]
+| familia = [[Formicidae]]
+| subfamilia = [[Myrmicinae]]
+| tribus = [[Crematogastrini]]
+| genus = '''''Ancyridris'''''
+| genus_authority = [[William Morton Wheeler|Wheeler]], 1935
+| type_species = ''Ancyridris polyrhachioides''
+| type_species_authority = Wheeler, 1935
+| diversity_link = 
+| diversity = 2 species
+| diversity_ref = &lt;ref name=&quot;AntCat&quot;&gt;{{AntCat|429642|''Ancyridris''|2014|accessdate=18 August 2014}}&lt;/ref&gt;
+| subdivision_ranks = Species
+| subdivision = 
+* ''[[Ancyridris polyrhachioides|A. polyrhachioides]]''&lt;br&gt;&lt;small&gt;Wheeler, 1935&lt;/small&gt;
+* ''[[Ancyridris rupicapra|A. rupicapra]]''&lt;small&gt;&lt;br&gt;(Stitz, 1938)&lt;/small&gt;
+}}
+
+'''''Ancyridris''''' is a small genus of [[Myrmicinae|myrmicine]] [[ant]]s, with only two described species from [[New Guinea]].
+
+==Description==
+[[File:Ancyridris.polyrhachioides.-.wheeler.svg|thumb|left|''[[Ancyridris polyrhachioides|A. polyrhachioides]]'' worker:&lt;br/&gt;a) Lateral view&lt;br/&gt;b) Head, dorsal view&lt;br&gt;c) Thorax and abdomen, dorsal view]]
+The eyes are well developed. The long and narrow [[mesosoma]] is shaped somewhat as in ''[[Aphaenogaster]]''. The [[propodeum]] bears two long, flattened, hooked spines resembling those of ''[[Polyrhachis]] [[Polyrhachis bihamata|bihamata]]''. On the [[pronotum]] there are long hairs. The worker of ''A. polyrhachioides'' is almost 6&amp;nbsp;mm long. Apart from the curious anchor-like spines on its propodeum, ''Ancyridris'' bears a general resemblance to ''Aphaenogaster'' or certain worker forms of ''[[Pheidole]]''. Wheeler suspected some aberrant or archaic group, &quot;another of the living fossils which are continually turning up in the Papuan and Australian Regions&quot;.&lt;ref name=wheeler1935/&gt; ''Ancyridris'' in fact seems close to ''[[Lordomyrma]]''. It is the only ant genus currently thought to be endemic to the island of New Guinea.{{citation needed|date=September 2014}}
+
+''A. rupicapra'' was originally described in the genus ''Pheidole ([[Pheidolacanthinus]])''. Its workers are 4&amp;nbsp;mm long.&lt;ref name=stitz1938/&gt; ''A. polyrhachioides'' is black, and ''A. rupicapra'' reddish-brown (as implied by its [[specific name (zoology)|specific epithet]] which translates as &quot;red goat&quot;, referring as well to the goat-horn like propodeal spines. The sole known rupicapra specimen was collected in the mountains of the Sepik River catchment by the German colonial Kaiserin Augustafluss Expedition (1912–13).{{citation needed|date=September 2014}}
+
+The two original type specimens of ''A. polyrhachioides'' were recovered somewhat damaged from the stomach of an eastern [[blue-grey robin]] (''Peneothello cyanus subcyaneus'')&lt;ref&gt;''&quot;Poecilodryas cyanea subcyanea&quot;'' in Wheeler (1935) is a ''[[lapsus]]'' - though placed in ''[[Poecilodryas]]'' at that time, the specific epithet was ''cyana''.&lt;/ref&gt; which was caught on [[Mount Misim]] in the [[Morobe Province|Morobe District]] of New Guinea.&lt;ref name=wheeler1935/&gt;
+
+==Name==
+The genus name is derived from [[Ancient Greek]] αγκυρος &quot;[[anchor]]&quot; and ιδρις &quot;the knowing/provident one&quot;, [[Hesiod]]'s name for an ant,&lt;ref&gt;in: Works and Days, verse 778, in the text adopted in the Loeb Classical Library&lt;/ref&gt; probably ''[[Messor barbarus]]'' or ''[[Messor structor|M. structor]]''.&lt;ref name=wheeler1935/&gt;
+
+==References==
+{{reflist|refs=
+
+&lt;ref name=stitz1938&gt;Stitz, H. (1938): Neue Ameisen aus dem indo-malayischen Gebiet [&quot;New ants from the Indo-Malayan region&quot;] [Article in German]. ''Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin'' '''1938''': 99-122. [http://antbase.org/ants/publications/2774/2774.pdf PDF fulltext]&lt;/ref&gt;
+
+&lt;ref name=&quot;wheeler1935&quot;&gt;Wheeler, William M. (1935): Two new genera of myrmicine ants from Papua and the Philippines. ''Proceedings of the New England Zoological Club'' '''15''': 1-9. [https://archive.org/download/ants_03440/ants_03440.pdf PDF fulltext]&lt;/ref&gt;
+
+}}
+
+==External links==
+*{{commonscat-inline|Ancyridris|''Ancyridris''}}
+* AntWeb: [http://www.antweb.org/description.do?rank=genus&amp;name=ancyridris&amp;project=worldants Pictures of ''Ancyridris'' species]
+
+[[Category:Myrmicinae]]
+[[Category:Ant genera]]</text>
+      <sha1>ex9579ptkqslc0neenlduxsgvuua39d</sha1>
+    </revision>
+  </page>
+</mediawiki>
