@@ -59,11 +59,11 @@ articlesHistory
 .DS_Store
 
 # Articles Talk Pages
-articlesTalkPages
-featuredArticlesTalkPages
-aClassArticlesTalkPages
-goodArticlesTalkPages
-bClassArticlesTalkPages
-cClassArticlesTalkPages
-startArticlesTalkPages
-stubArticlesTalkPages
+#articlesTalkPages
+#featuredArticlesTalkPages
+#aClassArticlesTalkPages
+#goodArticlesTalkPages
+#bClassArticlesTalkPages
+#cClassArticlesTalkPages
+#startArticlesTalkPages
+#stubArticlesTalkPages
