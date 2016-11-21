@@ -1,0 +1,242 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Academic authorship</title>
+    <ns>0</ns>
+    <id>12055142</id>
+    <revision>
+      <id>749563068</id>
+      <parentid>742341464</parentid>
+      <timestamp>2016-11-14T23:55:32Z</timestamp>
+      <contributor>
+        <username>Me, Myself, and I are Here</username>
+        <id>17619453</id>
+      </contributor>
+      <minor/>
+      <comment>/* Authorship in the social sciences */ punct.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="33546">{{Use dmy dates|date=July 2013}}
+'''Academic authorship''' of [[academic journal|journal]] [[manuscript|articles]], books, and other original works is a means by which [[academia|academics]] communicate the results of their [[list of academic disciplines|scholarly work]], establish [[scientific priority|priority]] for their discoveries, and build their reputation among their peers.
+
+Authorship is a primary basis that employers use to evaluate academic personnel for employment, promotion, and [[tenure]]. In [[academic publishing]], authorship of a work is claimed by those making intellectual contributions to the completion of the [[research]] described in the work. In simple cases, a solitary scholar carries out a research project and writes the subsequent article or book. In many [[list of academic disciplines|disciplines]], however, [[collaboration]] is the norm and issues of authorship can be controversial. In these contexts, authorship can encompass activities other than writing the article; a researcher who comes up with an experimental design and analyzes the data may be considered an author, even if she or he had little role in composing the text describing the results. According to some standards, even writing the entire article would not constitute authorship unless the writer was also involved in at least one other phase of the project.&lt;ref&gt;{{cite journal | last1=Dickson |year= 1978 | journal=Wildl. Soc. Bull. |volume= 6 | first1=J. G.| issue=4 |pages= 260–261 | last2=Conner | jstor=3781489 | first2=R. N. | last3=Adair | first3=K. T. | title=Guidelines for Authorship of Scientific Articles }}&lt;/ref&gt;
+
+==Definition==
+Guidelines for assigning authorship vary between [[institution]]s and disciplines. They may be formally defined or simply cultural custom. Incorrect application of authorship rules occasionally leads to charges of [[academic dishonesty|academic misconduct]] and sanctions for the violator. A 2002&lt;!--published in 2005--&gt; survey of a large sample of researchers who had received funding from the U.S. [[National Institutes of Health]] revealed that 10% of respondents claimed to have inappropriately assigned authorship credit within the last three years.&lt;ref name=Martinson2005&gt;{{Cite journal
+| last = Martinson | first = Brian C.
+| year = 2005
+| title = Scientists behaving badly
+| journal = Nature
+| volume = 435
+| pages = 737–8
+| doi = 10.1038/435737a
+| pmid = 15944677
+| last2 = Anderson
+| first2 = MS
+| last3 = De Vries
+| first3 = R
+| issue = 7043
+| bibcode = 2005Natur.435..737M}}&lt;/ref&gt; This was the first large scale survey concerning such issues. In other fields only limited or no empirical data is available.
+
+===Authorship in the natural sciences===
+The natural sciences have no universal standard for authorship, but some major multi-disciplinary [[academic journal|journals]] and institutions have established guidelines for work that they publish. The journal ''[[Proceedings of the National Academy of Sciences|Proceedings of the National Academy of Sciences of the United States of America]]'' (''PNAS'') has an editorial policy that specifies &quot;authorship should be limited to those who have contributed substantially to the work&quot; and furthermore, &quot;authors are strongly encouraged to indicate their specific contributions&quot; as a [[footnote]]. The [[American Chemical Society]] further specifies that authors are those who also &quot;share responsibility and accountability for the results&quot;&lt;ref&gt;[http://pubs.acs.org/ethics/ethics.pdf Editors of the Publications Division of the American Chemical Society. 2006. Ethical Guidelines to Publication of Chemical Research.]&lt;/ref&gt; and the U.S. [[United States National Academies|National Academies]] specify &quot;an author who is willing to take credit for a paper must also bear responsibility for its contents. Thus, unless a footnote or the text of the paper explicitly assigns responsibility for different parts of the paper to different authors, the authors whose names appear on a paper must share responsibility for all of it.&quot;&lt;ref name=&quot;National&quot;/&gt;
+
+===Authorship in mathematics, theoretical computer science and high energy physics===
+In mathematics, the authors are usually listed in alphabetical order (this is the so-called Hardy-Littlewood Rule). This usage is described in the &quot;Information Statements on the Culture of Research and Scholarship in Mathematics&quot; section of the [[American Mathematical Society]] website,&lt;ref name=&quot;ams culture&quot;&gt;[http://www.ams.org/profession/leaders/culture/culture], Information Statements on the Culture of Research and Scholarship in Mathematics, American Mathematical Society.&lt;/ref&gt; specifically the 2004 statement: ''[http://www.ams.org/profession/leaders/culture/CultureStatement04.pdf Joint Research and Its Publication]''.
+
+In other branches of knowledge such as economics, business, finance or [[particle physics]], it is also usual to sort the authors alphabetically.&lt;ref name=&quot;author listing&quot;&gt;{{cite journal | last1 = Waltman | first1 = L | year = 2012 | title = An empirical analysis of the use  of alphabetical authorship in scientific publishing | url = | journal = Journal of Informetrics | volume = 4 | issue = 6| pages = 700–711 | doi = 10.1016/j.joi.2012.07.008 }}&lt;/ref&gt;
+
+===Authorship in medicine===
+The medical field defines authorship very narrowly. According to the [[Uniform Requirements for Manuscripts Submitted to Biomedical Journals]], designation as an author must satisfy four conditions. The author must have:
+# Contributed substantially to the conception and design of the study, the acquisition of data, or the analysis and interpretation
+# Drafted or provided critical revision of the article
+# Provided final approval of the version to publish
+# Agreed to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved
+
+Acquisition of funding, or general supervision of the research group alone does not constitute authorship. Many medical journals have abandoned the strict notion of author, with the flexible notion of ''contributor''.&lt;ref name=Rennie1997&gt;{{Cite journal
+| last1 = Rennie | first1 = D.
+| last2 = Yank | first2 = V.
+| last3 = Emanuel | first3 = L.
+| year = 1997
+| title = When authorship fails. A proposal to make contributors accountable
+| journal = JAMA: the Journal of the American Medical Association
+| volume = 278
+| issue = 7
+| pages = 579–85
+| doi = 10.1001/jama.278.7.579
+| pmid = 9268280
+}}&lt;/ref&gt;
+
+Between about 1980-2010 the average number of authors in medical papers increased, and perhaps tripled.&lt;ref&gt;{{cite journal|last1=Tsao|first1=CI|last2=Roberts|first2=LW|title=Authorship in scholarly manuscripts: practical considerations for resident and early career physicians.|journal=Academic Psychiatry |date= |volume=33|issue=1|pages=76–9|pmid=19349451|doi=10.1176/appi.ap.33.1.76}}&lt;/ref&gt;
+
+===Authorship in the social sciences===
+The [[American Psychological Association]] (APA) has similar guidelines as medicine for authorship. The APA acknowledge that authorship is not limited to the writing of manuscripts, but must include those who have made substantial contributions to a study such as &quot;formulating the problem or hypothesis, structuring the experimental design, organizing and conducting the statistical analysis, interpreting the results, or writing a major portion of the paper&quot;.&lt;ref&gt;American Psychological Association. (2001). Publication manual of the American Psychological Association (5th ed.). Washington, DC: American Psychological Association. p. 350&lt;/ref&gt; While the APA guidelines list many other forms of contributions to a study that do not constitute authorship, it does state that combinations of these and other tasks may justify authorship. Like medicine, the APA considers institutional position, such as Department Chair, insufficient for attributing authorship.
+
+===Authorship in the humanities===
+Neither the Modern Languages Association&lt;ref&gt;Gibaldi, J. (1998). ''MLA style manual and guide to scholarly publishing'' (2nd ed.). New York: Modern Language Association of America.&lt;/ref&gt; nor the Chicago Manual of Style&lt;ref&gt;''The Chicago manual of style'', 15th ed. (2003). Chicago: [[University of Chicago Press]].&lt;/ref&gt; define requirements for authorship (because usually humanities works are single-authored and the author is responsible for the entire work).
+
+==Growing number of authors per paper==
+From the late 17th century to the 1920s, sole authorship was the norm, and the one-paper-one-author model worked well for distributing credit.&lt;ref name=&quot;Greene2007&quot;/&gt; Today, shared authorship is common in most academic disciplines, with the exception of the humanities, where sole authorship is still the predominant model. In particular types of research, including particle physics, genome sequencing and clinical trials, a paper's author list can run into the hundreds. In large, multi-center clinical trials authorship is often used as a reward for recruiting patients.&lt;ref name=&quot;Regalado1995&quot;/&gt; A paper published in the [[The New England Journal of Medicine|New England Journal of Medicine]] in 1993 reported on a clinical trial conducted in 1,081 hospitals in 15 different countries, involving a total of 41,021 patients. There were 972 authors listed in an appendix and authorship was assigned to a group.&lt;ref name=&quot;Investigators1993&quot;/&gt; In the summer of 2008, an article in high-energy physics was published describing the [[Large Hadron Collider]], a 27&amp;nbsp;mile long particle accelerator that crosses the Swiss–French border; the article boasted 2,926 authors from 169 research institutions.&lt;ref name=&quot;Collaboration2008&quot;/&gt;
+
+Long author lists strain guidelines that insist that each author's role be described and that each author is responsible for the validity of the whole work. One Big Science facility, the [[Collider Detector at Fermilab]] (CDF), in 1998 adopted a highly unorthodox policy for assigning authorship. CDF maintains a ''standard author list''. All scientists and engineers working at CDF are added to the standard author list after one year of full-time work; names stay on the list until one year after the worker leaves CDF. Every publication coming out of CDF uses the entire standard author list, in alphabetical order. Such a system treats authorship more as ''credit'' for scientific service at the facility in general rather that as an identification of specific contributions.&lt;ref&gt;Biagioli, M. Rights or rewards? Changing frameworks of scientific authorship. In ''Scientific Authorship'', Biagioli, M. and Galison, P. eds. Routledge, New York, 2003, pp. 253–280.&lt;/ref&gt;
+
+Large authors lists have attracted some criticism. One commentator wrote, &quot;In more than 25 years working as a scientific editor ... I have not been aware of any valid argument for more than three authors per paper, although I recognize that this may not be true for every field.&quot;&lt;ref&gt;{{Cite journal | doi = 10.1038/37855 | pmid = 9288957 | year = 1997 | last1 = Van Loon | first1 = A. J. | title = Pseudo-authorship | journal = Nature | volume = 389 | issue = 6646 | pages = 11 |bibcode = 1997Natur.389...11V }}&lt;/ref&gt; The rise of shared authorship has been attributed to [[Big Science]]—scientific experiments that require collaboration and specialization of many individuals.&lt;ref&gt;Price, D. J. S. (1986). Collaboration in an Invisible College. In Little science, big science...and beyond (pp. 119–134). New York: Columbia University Press.&lt;/ref&gt;
+
+Alternatively, the increase in multi-authorship might be a consequence of the way scientists are evaluated. Traditionally, scientists were judged by the number of papers they published, and later by the impact of those papers. The former is an estimate of quantity and the latter of quality. Both methods were adequate when single authorship was the norm, but vastly inflate individual contribution when papers are multi-authored. When each author claims each paper and each citation as his/her own, papers and citations are magically multiplied by the number of authors. Furthermore, there is no cost to giving authorship to individuals who made only minor contribution and there is an incentive to do so. Hence, the system rewards heavily multi-authored papers. This problem is openly acknowledged, and it could easily be &quot;corrected&quot; by dividing each paper and its citations by the number of authors.&lt;ref&gt;{{cite journal | author = Põder E | year = 2010 | title = Let's correct that small mistake | url = | journal = J. Am. Soc. Inform. Sci. Tech | volume = 61 | issue = 12| pages = 2593–2594 | doi = 10.1002/asi.21438 }}&lt;/ref&gt;&lt;ref&gt;Lozano, G. A. 2013. The elephant in the room: multi-authorship and the assessment of individual researchers. Current Science 105(4): 443-445 &lt;/ref&gt;
+
+Finally, the rise in shared authorship may also reflect increased acknowledgment of the contributions of lower level workers, including graduate students and technicians, as well as honorary authorship.
+
+==Honorary authorship==
+''Honorary authorship'' is sometimes granted to those who played no significant role in the work, for a variety of reasons. Until recently, it was standard to list the head of a German department or institution as an author on a paper regardless of input.&lt;ref name=&quot;Pearson, H 2006&quot;/&gt; The [[United States National Academy of Sciences]], however, warns that such practices &quot;dilute the credit due the people who actually did the work, inflate the credentials of those so 'honored,' and make the proper attribution of credit more difficult.&quot;&lt;ref name=National/&gt; The extent to which honorary authorship still occurs is not empirically known. However, it is plausible to expect that it is still widespread, because senior scientists leading large research groups can receive much of their reputation from a long publication list and thus have little motivation to give up honorary authorships.
+
+A possible measure against honorary authorships has been implemented by some scientific journals, in particular by the ''Nature'' journals. They demand&lt;ref name=&quot;NaturePolicies&quot;/&gt; that each new manuscript must include a statement of responsibility that specifies the contribution of every author. The level of detail varies between the disciplines. Senior persons may still make some vague claim to have &quot;supervised the project&quot;, for example, even if they were only in the formal position of a supervisor without having delivered concrete contributions. (The truth content of such statements is usually not checked by independent persons.) However, the need to describe contributions can at least be expected to somewhat reduce honorary authorships. In addition, it may help to identify the perpetrator in a case of scientific fraud.
+
+==Ghost authorship==
+''Ghost authorship'' occurs when an individual makes a substantial contribution to the research or the writing of the report, but is not listed as an author.&lt;ref name=&quot;Ghost authorship in industry-initiated randomised trials&quot;/&gt; Researchers, statisticians and writers (e.g. [[medical writer]]s or [[technical writers]]) become ''ghost authors'' when they meet authorship criteria but are not named as an author. Writers who work in this capacity are called [[Ghostwriting#Academic|ghostwriters]].
+
+Ghost authorship has been linked to partnerships between industry and higher education. Two-thirds of industry-initiated [[randomized controlled trial|randomized trials]] may have evidence of ghost authorship.&lt;ref name=&quot;Ghost authorship in industry-initiated randomised trials&quot;/&gt;
+Ghost authorship is considered problematic because it may be used to obscure the participation of researchers with conflicts of interest.&lt;ref name=&quot;Handling of scientific dishonesty in the Nordic countries. National Committees on Scientific Dishonesty in the Nordic Countries&quot;/&gt;
+
+Litigation against the pharmaceutical company, [[Merck &amp; Co.|Merck]] over health concerns related to use of their drug, [[Rofecoxib]] (brand name Vioxx), revealed examples of ghost authorship.&lt;ref name=Ross2008&gt;{{Cite journal
+| last1 = Ross | first1 = Joseph S.
+| last2 = Hill | first2 = Kevin P.
+| last3 = Egilman | first3 = David S.
+| last4 = Krumholz | first4 = Harlan M.
+| year = 2008
+| title = Guest Authorship and Ghostwriting in Publications Related to Rofecoxib: A Case Study of Industry Documents from Rofecoxib Litigation
+| journal = JAMA: the Journal of the American Medical Association
+| volume = 299
+| issue = 15
+| pages = 1800–12
+| doi = 10.1001/jama.299.15.1800
+| pmid = 18413874
+}}&lt;/ref&gt;
+Merck routinely paid medical writing companies to prepare journal manuscripts, and subsequently recruited external, academically affiliated researchers to pose as the authors.
+
+Authors are sometimes included in a list without their permission.&lt;ref&gt;{{Cite journal | doi = 10.1038/nmat1264 | title = Authorship without authorization | pmid = 15516947 | year = 2004 | journal = Nature Materials | volume = 3 | issue = 11 | pages = 743–200|bibcode = 2004NatMa...3..743. }}&lt;/ref&gt;
+Even if this is done with the benign intention to acknowledge some contributions, it is problematic since authors carry responsibility for correctness and thus need to have the opportunity to check the manuscript and possibly demand changes.
+
+==Order of authors in a list==
+Rules for the order of multiple authors in a list have historically varied significantly between fields of research.&lt;ref name=&quot;On Academic Authorship (RPH 2.8)&quot;/&gt; Some fields list authors in order of their degree of involvement in the work, with the most active contributors listed first; other fields, such as mathematics or engineering (e.g., [[control theory]]), sometimes list them alphabetically.&lt;ref&gt;{{Cite journal | doi = 10.1038/40958 | pmid = 9237742 | year = 1997 | last1 = Stubbs | first1 = C. | title = The serious business of listing authors. | journal = Nature | volume = 388 | issue = 6640 | pages = 320–199 |bibcode = 1997Natur.388Q.320. }}&lt;/ref&gt;&lt;ref name=&quot;EPAC96&quot;/&gt;&lt;ref name=&quot;ICALEPCS99&quot;/&gt; Historically biologists tended to place a [[principal investigator]] (supervisor or lab head) last in an author list whereas organic chemists might have put him or her first.&lt;ref name=&quot;Pearson, H 2006&quot;/&gt; Research articles in high energy physics, where the author lists can number in the tens to hundreds, often list authors alphabetically.  In Computer Science in general the principal contributor is the first in the author list. However, the practice of putting the principal investigator last in the author list has increasingly become an accepted standard across most areas in science and engineering.
+
+Although listing authors in order of the involvement in the project seems straightforward, it often leads to conflict. A study in the Canadian Medical Association Journal found that more than two-thirds of 919 corresponding authors disagreed with their coauthors regarding contributions of each author.&lt;ref name=&quot;Reliability of disclosure forms of authors' contributions&quot;/&gt;
+
+==Responsibilities of authors==
+Authors' reputations can be damaged if their names appear on a paper that they do not completely understand or with which they were not intimately involved.{{citation needed|date=August 2012}} Numerous guidelines and customs specify that all co-authors must be able to understand and support a paper's major points.{{citation needed|date=August 2012}}
+
+In a notable case, American stem-cell researcher [[Gerald Schatten]] had his name listed on a paper co-authored with [[Hwang Woo-suk]]. The paper was later exposed as fraudulent and, though Schatten was not accused of participating in the fraud, a panel at his university found that &quot;his failure to more closely oversee research with his name on it does make him guilty of 'research misbehavior.'&quot;&lt;ref&gt;Holden, Constance. (2006.) Schatten: Pitt Panel Finds &quot;Misbehavior&quot; but Not Misconduct. ''Science'', '''311''':928.&lt;/ref&gt;
+
+All authors, including co-authors, are usually expected to have made reasonable attempts to check findings submitted for publication. In some cases, co-authors of faked research have been accused of inappropriate behavior or research misconduct for failing to verify reports authored by others or by a commercial sponsor. Examples include the case of Professor Geoffrey Chamberlain named as guest author of  papers fabricated by Malcolm Pearce,&lt;ref name=&quot;Lessons from the Pearce affair: handling scientific fraud&quot;/&gt; (Chamberlain was exonerated from collusion in Pearce's deception)&lt;ref name=&quot;Independent Committee of Inquiry into the publication of articles in the British Journal of Obstetrics and Gynaecology&quot;&gt;{{cite journal |title=Independent Committee of Inquiry into the publication of articles in the British Journal of Obstetrics and Gynaecology (1994-1995) |url=http://www.aim25.ac.uk/cats/7/4972.htm |accessdate=2011-08-26}}&lt;/ref&gt;   and the co-authors of [[Jan Hendrik Schön]] at [[Bell Labs|Bell Laboratories]]. More recent cases include [[Charles Nemeroff]],&lt;ref name=&quot;Journal editor quits in conflict scandal - The Scientist - Magazine of the Life Sciences&quot;/&gt; former editor-in-chief of ''[[Neuropsychopharmacology]]'', and the so-called Sheffield Actonel affair.&lt;ref name=&quot;Actonel_Case_Media_Reports&quot;/&gt;
+
+Additionally, authors are expected to keep all study data for later examination even after publication. Both scientific and academic censure can result from a failure to keep primary data; the case of [[Ranjit Chandra]] of [[Memorial University of Newfoundland]] provides an example of this.&lt;ref&gt;{{Cite web|title = Memorial University to re-examine Chandra case|url = http://www.cbc.ca/news/canada/newfoundland-labrador/memorial-university-to-re-examine-chandra-case-1.575308|website = www.cbc.ca|accessdate = 2015-11-03}}&lt;/ref&gt; Many scientific journals also require that authors provide information to allow readers to determine whether the authors may have commercial or non-commercial [[conflict of interest|conflicts of interest]]. Outlined in the author disclosure statement for the ''[[American Journal of Human Biology]]'',&lt;ref name=&quot;American Journal of Human Biology - Wiley InterScience&quot;/&gt; this is a policy more common in scientific fields where funding often comes from corporate sources. Authors are also commonly required to provide information about [[research ethics|ethical]] aspects of research, particularly where research involves human or animal participants or use of biological material. Provision of incorrect information to journals may be regarded as misconduct. Financial pressures on universities have encouraged this type of misconduct. The majority of recent cases of alleged misconduct involving undisclosed conflicts of interest or failure of the authors to have seen scientific data involve collaborative research between scientists and biotechnology companies.&lt;ref&gt;{{cite web |url=http://www.slate.com/id/2133061/ |title=Did a British university sell out to P&amp;G? - By Jennifer Washburn - Slate Magazine |work= |accessdate=2010-04-01| archiveurl= https://web.archive.org/web/20100323070938/http://www.slate.com/id/2133061/| archivedate= 23 March 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+==Anonymous and unclaimed authorship==
+Authors occasionally forgo claiming authorship, for a number of reasons. Historically some authors have published anonymously to shield themselves when presenting controversial claims. A key example is [[Robert Chambers (publisher born 1802)|Robert Chambers]]' anonymous publication of [[Vestiges of the Natural History of Creation]], a speculative, pre-Darwinian work on the origins of life and the cosmos. The book argued for an evolutionary view of life in the same spirit as the late Frenchman [[Jean-Baptiste Lamarck]]. Lamarck had long been discredited among intellectuals by this time and evolutionary (or development) theories were exceedingly unpopular, except among the political radicals, materialists, and atheists - Chambers hoped to avoid Lamarck's fate.
+
+In the 18th century, [[Émilie du Châtelet]] began her career as a scientific author by submitting a paper in an annual competition held by the [[French Academy of Sciences]]; papers in this competition were submitted anonymously. Initially presenting her work without claiming authorship allowed her to have her work judged by established scientists while avoiding the bias against women in the sciences. She did not win the competition, but eventually her paper was published alongside the winning submissions, under her real name.&lt;ref&gt;Terrall, M. The uses of anonymity in the age of reason. In ''Scientific Authorship'' Biagioli, M. and Galison, P. eds. Routledge, New York, 2003, pp. 91–112.&lt;/ref&gt;
+
+Scientists and engineers working in corporate and military organizations are often restricted from publishing and claiming authorship of their work because their results are considered secret property of the organization that employs them. One notable example is that of [[William Gosset]], who was forced to publish his work in statistics under the pseudonym “Student” due to his employment at the [[Guinness]] brewery. Another account describes the frustration of physicists working in nuclear weapons programs at the [[Lawrence Livermore National Laboratory|Lawrence Livermore Laboratory]] – years after making a discovery they would read of the same phenomenon being &quot;discovered&quot; by a physicist unaware of the original, secret discovery of the phenomenon.&lt;ref&gt;Gusterson, H. The death of the authors of death - Prestige and creativity among nuclear weapons scientists. In ''Scientific Authorship'' Biagioli, M. and Galison, P. eds. Routledge, New York, 2003, pp. 282–307.&lt;/ref&gt;
+
+==See also==
+*[[Lead author]]
+*[[Scholarly communication]]
+*[[Scientific writing]]
+
+==References==
+{{reflist|colwidth=30em|refs=
+
+&lt;ref name=&quot;Collaboration2008&quot;&gt;{{Cite journal| last1 = Collaboration | first1 = The Atlas| year = 2008| title = The ATLAS Experiment at the CERN Large Hadron Collider| journal = [[Journal of Instrumentation]]| volume = 3| pages = S08003| doi = 10.1088/1748-0221/3/08/S08003| last2 = Aad| first2 = G| last3 = Abat| first3 = E| last4 = Abdallah| first4 = J| last5 = Abdelalim| first5 = A A| last6 = Abdesselam| first6 = A| last7 = Abdinov| first7 = O| last8 = Abi| first8 = B A| last9 = Abolins| first9 = M| issue = 8| bibcode=2008JInst...3S8003T| last10 = Abramowicz| first10 = H| last11 = Acerbi| first11 = E| last12 = Acharya| first12 = B S| last13 = Achenbach| first13 = R| last14 = Ackers| first14 = M| last15 = Adams| first15 = D L| last16 = Adamyan| first16 = F| last17 = Addy| first17 = T N| last18 = Aderholz| first18 = M| last19 = Adorisio| first19 = C| last20 = Adragna| first20 = P| last21 = Aharrouche| first21 = M| last22 = Ahlen| first22 = S P| last23 = Ahles| first23 = F| last24 = Ahmad| first24 = A| last25 = Ahmed| first25 = H| last26 = Aielli| first26 = G| last27 = Åkesson| first27 = P F| last28 = Åkesson| first28 = T P A| last29 = Akimov| first29 = A V| last30 = Alam| first30 = S M}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Greene2007&quot;&gt;{{Cite journal| last = Greene | first = Mott| year = 2007| title = The demise of the lone author| journal = Nature| volume = 450| page = 1165| doi = 10.1038/4501165a| pmid = 18097387| issue = 7173|bibcode = 2007Natur.450.1165G }}&lt;/ref&gt;
+
+&lt;ref name=&quot;Investigators1993&quot;&gt;{{Cite journal| last = Investigators | first = The Gusto| year = 1993| title = An International Randomized Trial Comparing Four Thrombolytic Strategies for Acute Myocardial Infarction| journal = The New England Journal of Medicine| volume = 329| issue = 10| pages = 673–82| doi = 10.1056/NEJM199309023291001| pmid = 8204123}}&lt;/ref&gt;
+
+&lt;ref name=&quot;National&quot;&gt;[http://www.nap.edu/readingroom/books/obas/ Committee on Science, Engineering and Public Policy, National Academy of Sciences. 1995. On Being A Scientist: Responsible Conduct In Research. National Academies Press, Washington DC]&lt;/ref&gt;
+
+&lt;ref name=&quot;NaturePolicies&quot;&gt;{{cite web |url=http://www.nature.com/authors/editorial_policies/authorship.html |title=Authorship: authors &amp; referees @ Nature Publishing Group |work= |accessdate=2010-04-01| archiveurl= https://web.archive.org/web/20100330032851/http://www.nature.com/authors/editorial_policies/authorship.html| archivedate= 30 March 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Regalado1995&quot;&gt;{{Cite journal| last = Regalado | first = A.| year = 1995| title = Multiauthor papers on the rise| journal = Science| volume = 268| issue = 5207| page = 25| doi = 10.1126/science.7701334| pmid = 7701334|bibcode = 1995Sci...268...25R }}&lt;/ref&gt;
+
+&lt;ref name=&quot;Actonel_Case_Media_Reports&quot;&gt;{{cite web |url=http://www.thejabberwock.org/wiki/index.php?title=Actonel_Case_Media_Reports |title=Actonel Case Media Reports - Scientific Misconduct Wiki |work= |accessdate=2010-04-01}}&lt;/ref&gt;
+
+&lt;ref name=&quot;American Journal of Human Biology - Wiley InterScience&quot;&gt;{{cite web |url=http://www3.interscience.wiley.com/journal/37873/home/ForAuthors.html |title=American Journal of Human Biology - Wiley InterScience |work= |accessdate=2010-04-01}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Ghost authorship in industry-initiated randomised trials&quot;&gt;{{Cite journal | authors = [[Peter C. Gøtzsche|Gøtzsche, P.C.]], Hróbjartsson, A., Johansen, H.K., Haahr, M.T., Altman, D.G., Chan, A.-W. | year = 2007 | title = Ghost authorship in industry-initiated randomised trials | journal = [[PLoS Medicine]] | volume = 4 | issue = 1 | pages = 47–52 | pmid = 17227134 | pmc = 1769411 | doi = 10.1371/journal.pmed.0040019 }}&lt;/ref&gt;
+
+&lt;ref name=&quot;Handling of scientific dishonesty in the Nordic countries. National Committees on Scientific Dishonesty in the Nordic Countries&quot;&gt;{{cite journal |vauthors=Nylenna M, Andersen D, Dahlquist G, Sarvas M, Aakvaag A |title=Handling of scientific dishonesty in the Nordic countries. National Committees on Scientific Dishonesty in the Nordic Countries |journal=[[The Lancet]] |volume=354 |issue=9172 |pages=57–61 |date=July 1999 |pmid=10406378 |doi=10.1016/S0140-6736(98)07133-5 |url= }}&lt;/ref&gt;
+
+&lt;ref name=&quot;Journal editor quits in conflict scandal - The Scientist - Magazine of the Life Sciences&quot;&gt;{{cite web |url=http://www.the-scientist.com/news/home/24445/ |title=Journal editor quits in conflict scandal - The Scientist - Magazine of the Life Sciences |work= |accessdate=2010-04-01}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Lessons from the Pearce affair: handling scientific fraud&quot;&gt;{{cite journal |author =Lock S |title=Lessons from the Pearce affair: handling scientific fraud |journal=[[BMJ]] (Clinical Research Ed.) |volume=310 |issue=6994 |pages=1547–8 |date=June 1995 |pmid=7787632 |pmc=2549935 |doi= 10.1136/bmj.310.6994.1547|url=http://bmj.com/cgi/pmidlookup?view=long&amp;pmid=7787632 |accessdate=2010-04-01}}&lt;/ref&gt;
+
+&lt;ref name=&quot;On Academic Authorship (RPH 2.8)&quot;&gt;{{cite web |url=http://www.stanford.edu/dept/DoR/rph/2-8.html |title=On Academic Authorship (RPH 2.8) |year=1985 |author =Kennedy, Donald |work=Stanford University Research Policy Handbook Document 2.8. |accessdate=2010-04-01}}&lt;/ref&gt;
+
+&lt;ref name=&quot;EPAC96&quot;&gt;{{cite web|url=http://epac.web.cern.ch/EPAC/sitges/abstr/abstr.html |title=Rules for submission of abstracts to EPAC96 |year=1995 |work=European Particle Accelerator Conference 1996 (EPAC'96) |accessdate=2012-04-20 |deadurl=yes |archiveurl=http://www.webcitation.org/6ApQjCCX1?url=http%3A%2F%2Fepac.web.cern.ch%2FEPAC%2Fsitges%2Fabstr%2Fabstr.html |archivedate=20 September 2012 |df=dmy }} Quote:&lt;blockquote&gt;Authors to be listed in alphabetical order, all letters capitalized, principal author underlined.&lt;/blockquote&gt;&lt;/ref&gt;
+
+&lt;ref name=&quot;ICALEPCS99&quot;&gt;{{cite web|url=http://epac.web.cern.ch/EPAC/sitges/abstr/abstr.html |title=Guidelines for the Preparation of Abstracts |year=1998 |work=seventh biennial International Conference on Accelerator and Large Experimental Physics Control Systems (ICALEPCS'99) |accessdate=2012-04-20 |deadurl=yes |archiveurl=http://www.webcitation.org/6ApQjCCX1?url=http%3A%2F%2Fepac.web.cern.ch%2FEPAC%2Fsitges%2Fabstr%2Fabstr.html |archivedate=20 September 2012 |df=dmy }} Quote:&lt;blockquote&gt;Authors names in capital letters, in alphabetical order, principal author underlined.&lt;/blockquote&gt;&lt;/ref&gt;
+
+&lt;ref name=&quot;Pearson, H 2006&quot;&gt;{{Cite journal | doi = 10.1038/440591a | title = Credit where credit's due | pmid = 16572137 | year = 2006 | journal = Nature | volume = 440 | issue = 7084 | pages = 591–708|bibcode = 2006Natur.440..591. }}&lt;/ref&gt;
+
+&lt;ref name=&quot;Reliability of disclosure forms of authors' contributions&quot;&gt;{{cite journal |vauthors=Ilakovac V, Fister K, Marusic M, Marusic A |title=Reliability of disclosure forms of authors' contributions |journal=[[Canadian Medical Association Journal]] |volume=176 |issue=1 |pages=41–6 |date=January 2007 |pmid=17200389 |pmc=1764586 |doi=10.1503/cmaj.060687 |url= }}&lt;/ref&gt;
+
+}}
+
+==Further reading==
+{{refbegin}}
+* {{Cite journal|last=Newman|first=Paul| title=Copyright Essentials for Linguists|date=June 2007| journal=Language Documentation and Conservation| volume=1| issue=1| pages=28–43| url=http://nflrc.hawaii.edu/ldc/June2007/newman/newman.html}}
+*: (Includes elements of authorship and how they interact with copyright law)
+* {{cite web |url=http://www.plos.org/cms/node/285 |title=Roll Credits: Sometimes the Authorship Byline Isn’t Enough. Guest Blog by Michael Molla and Tim Gardner. &amp;#124; Public Library of Science |work= |accessdate=2010-04-01}}
+*:(A proposal to reform academic authorship along the line of film credits)
+{{refend}}
+
+{{DEFAULTSORT:Academic Authorship}}
+[[Category:Academia|Authorship]]
+[[Category:Research]]
+[[Category:Academic publishing|Authorship]]
+[[Category:Professional ethics]]</text>
+      <sha1>lyzwqqyr6zck8jcglpb4xp6fwwh2on5</sha1>
+    </revision>
+  </page>
+</mediawiki>

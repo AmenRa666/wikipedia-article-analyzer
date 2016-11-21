@@ -1,0 +1,172 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Tax</title>
+    <ns>1</ns>
+    <id>22036300</id>
+    <revision>
+      <id>728230016</id>
+      <parentid>727252648</parentid>
+      <timestamp>2016-07-04T03:27:35Z</timestamp>
+      <contributor>
+        <username>Lowercase sigmabot III</username>
+        <id>17518500</id>
+      </contributor>
+      <minor/>
+      <comment>Archiving 1 discussion(s) to [[Talk:Tax/Archive 1]]) (bot</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6986">{{User:MiszaBot/config
+|maxarchivesize = 250K
+|counter = 1
+|minthreadsleft = 4
+|minthreadstoarchive = 1
+|algo = old(120d)
+|archive = Talk:Tax/Archive %(counter)d
+}}
+{{ArticleHistory|action1=GAN
+|action1date=29 March 2007
+|action1result=not listed
+|action1oldid=118500948
+|currentstatus=FGAN
+|topic=economics
+}}
+{{Vital article|level=3|topic=Society|class=B}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Business|class=B|importance=top|Accountancy=yes}}
+{{WikiProject Economics|class=B|importance=Top}}
+{{WikiProject Taxation|class=B|importance=Top|COTM=yes}}
+{{WikiProject Politics|class=B|importance=high}}
+{{WikiProject Finance |class=B |importance=mid}}
+}}
+{{Archive box|auto=yes}}
+{{To do}}
+
+== errors ==
+''&quot;The purpose of taxes is to raise revenue to fund government. Money provided by taxation has been used by states and their functional equivalents throughout history to carry out many functions.&quot;''
+this is all wrong, see http://www.epicoalition.org/docs/soft0004.htm
+[[Special:Contributions/62.178.89.78|62.178.89.78]] ([[User talk:62.178.89.78|talk]]) 19:04, 28 February 2016 (UTC)
+
+Dear IP 62.178.89.78: No, the quote you provided is not &quot;all wrong.&quot; And, please study Wikipedia's rules and guidelines. [[User:Famspear|Famspear]] ([[User talk:Famspear|talk]]) 23:36, 28 February 2016 (UTC)
+
+
+If the purpose of taxation were merely to finance core public services, a Poll Tax would suffice. Taxes are on the whole progressive and most spending for redistributive. Thus the tax system primary purpose is to ensure a fair distribution of the factors of production ie economic justice. As are Pigouvian Taxes such as those on pollution.  &lt;!-- Template:Unsigned IP --&gt;&lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/77.102.67.217|77.102.67.217]] ([[User talk:77.102.67.217|talk]]) 00:50, 27 June 2016 (UTC)&lt;/small&gt; &lt;!--Autosigned by SineBot--&gt;
+
+::And, your point is what, exactly? The article says nothing about the purpose of taxation being limited to financing &quot;core public services&quot;. Indeed, the phrase &quot;core public services&quot; isn't even found in the article. The article says that taxation is used to fund ''expenditures''. Redistributive expenditures, etc., are examples of ''expenditures'', just as are expenditures for what you are calling &quot;core public services.&quot;
+
+::So, what is it that you want to change in the article? [[User:Famspear|Famspear]] ([[User talk:Famspear|talk]]) 11:21, 27 June 2016 (UTC)
+
+== External links ==
+Hello everyone, I am working for the International Trade Centre (ITC), a UN/WTO agency that aims to promote sustainable economic development through trade promotion. I would like to propose the addition of an external link (www.macmap.org) that could lead directly to the online database of customs tariffs and non-tariff market requirements, including Rules of Origin, held by ITC. I would like you to consider this link http://www.macmap.org under the[http://en.wikipedia.org/wiki/Wikipedia:ELYES#What_can_normally_be_linked WP:ELYES #3] prescriptions. Moreover, the reliability and the pertinence of this link can be supported by the following facts 
+1) ITC is part of the United Nations
+2) No registration is required to access the tool
+3) Market access data (Tariffs, non-tariff measures trade agreements and rules of origin) are regularly updated
+4) Market Access Map contains up-to date information on rules of origin under preferential trade agreements, including certificates of origin when available. 
+Thank you,
+[[User:Divoc|Divoc]] ([[User talk:Divoc|talk]]) 15:13, 21 March 2016 (UTC)
+
+:A nice link, but what does it have to do with taxation?  – [[User:Srich32977|S. Rich]] ([[User talk:Srich32977|talk]]) 17:41, 21 March 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[Tax]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=712830906 my edit]. You may add {{tlx|cbignore}} after the link to keep me from modifying it, if I keep adding bad data, but formatting bugs should be reported instead. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether, but should be used as a last resort. I made the following changes:
+*Attempted to fix sourcing for http://www.irs.gov/app/understandingTaxes/jsp/whys/lp/IWT5L1lp.jsp
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II&lt;/sup&gt;]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner&lt;/span&gt;]]:Online&lt;/sub&gt;&lt;/small&gt; 10:18, 31 March 2016 (UTC)
+== Dr. Baskaran's comment on this article ==
+
+
+Dr. Baskaran has reviewed [https://en.wikipedia.org/w/index.php?title=Tax&amp;oldid=726715615 this Wikipedia page], and provided us with the following comments to improve its quality:
+
+
+{{quote|text=I would delete this sentence:
+
+&quot; Recent scholarship suggests that in the United States, the federal government effectively taxes investments in higher education more heavily than it subsidizes higher education, thereby contributing to a shortage of skilled workers and unusually high differences in pre-tax earnings between highly educated and less educated workers.[5]&quot;
+
+I think this statement is too specific for a general overview (refers only to the US and only to taxes on higher education).  Also, the underlying research on this issue is probably not settled yet.
+
+
+&quot;Historically, the nobility were supported by taxes on the poor; &quot;
+
+This statement is also too general. The nobility also relied on land holdings etc. In fact, a strand of literature argues that one reason why medieval societies were not democratic was that the feudal state did not rely on taxation to fund itself (Tilly 2009, Baskaran 2014).
+
+
+*References*
+
+Baskaran, T. (2014). Taxation and democratization,
+World Development 56, p. 287-301, 2014.
+
+
+Tilly, C., 2009. Extraction and democracy. In: Martin, I. W.
+, Mehrotra, A. K., Prasad, M.
+(Eds.), The new fiscal sociology. Cambridge University Pres
+s, Cambridge.
+
+
+
+
+
+}}
+
+
+We hope Wikipedians on this talk page can take advantage of these comments and improve the quality of the article accordingly.
+
+Dr. Baskaran has published scholarly research which seems to be relevant to this Wikipedia article:
+
+
+
+*'''Reference ''': Baskaran, Thushyanthan, 2015. &quot;Tax mimicking in the short- and long-run: Evidence from German reunification,&quot; Center for European, Governance and Economic Development Research Discussion Papers 230, University of Goettingen, Department of Economics.
+
+[[User:ExpertIdeasBot|ExpertIdeasBot]] ([[User talk:ExpertIdeasBot|talk]]) 18:41, 27 June 2016 (UTC)</text>
+      <sha1>grw8opr1b6o2i58bc2culhq96xmeo60</sha1>
+    </revision>
+  </page>
+</mediawiki>

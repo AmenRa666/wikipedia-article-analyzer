@@ -1,0 +1,888 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Miami Hurricanes football</title>
+    <ns>0</ns>
+    <id>2517648</id>
+    <revision>
+      <id>750157026</id>
+      <parentid>749202601</parentid>
+      <timestamp>2016-11-18T03:07:50Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>1 archive template merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="149662">{{Infobox NCAA football school
+| TeamName          = Miami Hurricanes football
+| CurrentSeason     = 2016 Miami Hurricanes football team
+| Image             = Miami Hurricanes logo.svg
+| ImageSize         = 125px
+| Helmet            =
+| HeadCoachDisplay  = Mark Richt
+| HeadCoachLink     = Mark Richt
+| HeadCoachYear     = 1st 
+| HCWins            = 6&lt;!-- As of games through 11/05/16 --&gt;
+| HCLosses          = 4 &lt;!-- As of games through 11/05/16 --&gt;
+| Stadium           = Hard Rock Stadium
+| StadCapacity      = 64,982
+| StadSurface       = Grass
+| Location          = [[Miami Gardens, Florida]]
+| ConferenceDisplay = ACC
+| ConferenceLink    = Atlantic Coast Conference
+| ConfDivision      = Coastal
+| FirstYear         = 1926
+| AthlDirectorDisp  = Blake James&lt;ref&gt;{{cite web|author=Blake&amp;nbsp;James |url=http://www.hurricanesports.com/ViewArticle.dbml?ATCLID=205562140 |title=Blake James Biography - University of Miami Hurricanes Official Athletic Site |publisher=Hurricanesports.com |date= |accessdate=2016-09-13}}&lt;/ref&gt;
+| AthlDirectorLink  =
+| WebsiteName       = HurricaneSports.com
+| WebsiteURL        = http://hurricanesports.com
+| ATWins            = 604
+| ATLosses          = 347
+| ATTies            = 19
+| BowlWins          = 18
+| BowlLosses        = 18
+| BowlTies          = 
+| NatlTitles        = 5 (1983, 1987, 1989, 1991, 2001)
+| ConfTitles        = 9 (9 Big East, 0 ACC)
+| Heismans          = 2
+| AllAmericans      = 35
+| uniform           =
+| FightSong         = Miami U How-Dee-Do&lt;ref&gt;{{cite web|title=Songs &amp; Cheers|url=http://www.hurricanesports.com/ViewArticle.dbml?ATCLID=207045460|publisher=Miami Hurricanes|date=April 3, 2013|accessdate=September 23, 2015}}&lt;/ref&gt;
+| MascotDisplay     = [[Sebastian the Ibis]]
+| MarchingBand      = [[Band of the Hour]]
+| PagFreeLabel      = Outfitter
+| PagFreeValue      = [[Adidas]]
+| PagFreeLabel2     = Rivals
+| PagFreeValue2     = [[Florida Gators football|Florida Gators]]&lt;br /&gt;[[Florida State Seminoles football|Florida State Seminoles]]&lt;br /&gt;[[Notre Dame Fighting Irish football|Notre Dame Fighting Irish]]
+}}
+
+The '''Miami Hurricanes football''' team represents the [[University of Miami]] in the sport of [[American football]]. The Hurricanes compete in the [[National Collegiate Athletic Association]] (NCAA)'s [[NCAA Division I|Division I]] [[NCAA Division I Football Bowl Subdivision|Football Bowl Subdivision]] (FBS) and the [[Coastal Division]] of the [[Atlantic Coast Conference]] (ACC). The program began in 1926 and has won five [[AP Poll|AP national championships]] ([[1983 Miami Hurricanes football team|1983]], [[1987 Miami Hurricanes football team|1987]], [[1989 Miami Hurricanes football team|1989]], [[1991 Miami Hurricanes football team|1991]], [[2001 Miami Hurricanes football team|2001]]).&lt;ref&gt;{{cite web|url=http://www6.miami.edu/miami-magazine/spring2007/featurestory5.html |title=Born and Bred|last=Jones Jr.|first=Robert C.|year=2007|work=Miami: The University of Miami Magazine|accessdate=2009-10-17}}&lt;/ref&gt; Miami is ranked fourth on the list of All-time Associated Press National Poll Championships, tied with [[USC Trojans football|Southern California]] and [[Ohio State]] and behind [[Alabama Crimson Tide Football|Alabama]], [[Notre Dame Fighting Irish football|Notre Dame]],  and [[Oklahoma Sooners football|Oklahoma]].&lt;ref&gt;{{cite web |url=http://fs.ncaa.org/Docs/stats/football_records/2015/fbs.pdf|title=Football Bowl Subdivision Records |work=NCAA|page=117|accessdate=2016-01-30}}&lt;/ref&gt;
+Miami also holds a number of [[NFL Draft]] records, including most first round selections in a single draft and most consecutive drafts with at least one first round selection.&lt;ref name=&quot;draft record&quot;&gt;{{cite news|url=http://www.nytimes.com/2009/04/12/sports/ncaafootball/12miami.html|title=Miami Hurricanes' First-Round N.F.L. Draft Streak Nears a Likely End|last=Battista|first=Judy|date=2009-04-11|work=[[The New York Times]]|accessdate=2009-07-14}}&lt;/ref&gt; As of the 2011 [[National Football League]] season, UM had the most players active in the NFL of any university in the nation, with 42.&lt;ref&gt;[http://www.palmbeachpost.com/sports/hurricanes/despite-lackluster-college-careers-nfl-teams-see-quality-2318520.html &quot;Despite lackluster college careers, NFL teams see quality in Miami Hurricanes' prospects&quot;, ''The Palm Beach Post'', April 21, 2012.]&lt;/ref&gt; Two Hurricanes have won the [[Heisman Trophy]] and nine have been inducted to the [[College Football Hall of Fame]]. The team plays its home games at [[Hard Rock Stadium]] in Miami Gardens, Florida. The Hurricanes are currently coached by [[Mark Richt]].
+
+==History==
+
+===Beginnings (1926–1936)===
+UM began with just a freshman football team in 1926. Its first game was played on October 23, [[1926 college football season|1926]], a 7–0 win over [[Rollins College]] before 304 fans.&lt;ref name=&quot;2007 media&quot;&gt;{{cite book|title=2007 University of Miami Football Media Guide|year=2007|pages=??|url=http://hurricanesports.cstv.com/sports/m-footbl/spec-rel/07-media-guide.html |accessdate=2009-10-13}}&lt;/ref&gt; Under the guidance of head coach [[Howard P. Buck]], the freshman team posted a perfect 8–0 record in its inaugural season. Two of the wins were against the [[University of Havana]],&lt;ref name=mg158&gt;{{cite web|url=http://grfx.cstv.com/photos/schools/mifl/sports/m-footbl/auto_pdf/08-mg-157-196.pdf|title=2008 UM Football Media Guide |page=158|accessdate=2009-11-24}}&lt;/ref&gt; one on Thanksgiving Day in Miami and one at Havana on Christmas Day. Miami's last home game at of the season featured a first: the first Hurricane football game played on New Year's Day against [[Samford University|Howard]] at Miami's University Stadium.&lt;ref&gt;[https://news.google.com/newspapers?id=ZUAuAAAAIBAJ&amp;sjid=WNgFAAAAIBAJ&amp;pg=4042,5369512&amp;dq=miami+hurricanes+football&amp;hl=en ]{{dead link|date=September 2016}}&lt;/ref&gt; Around this time, the team adopted the official nickname &quot;Hurricanes&quot;, though the exact timing and origin of the name is unclear; some reports suggest it was in reference to the devastating power of the [[1926 Miami hurricane|1926 hurricane]] that postponed the program's first game by a month, and others that it was suggested by a player in response to rumors that university officials wanted to name the team after local [[flora]] or [[fauna]].&lt;ref name=&quot;team name&quot;&gt;{{cite web |url=http://hurricanesports.cstv.com/trads/mifl-name.html|title=Team Name and Logo|work=HurricaneSports.com University website|accessdate=2009-10-13}}&lt;/ref&gt;
+
+Varsity competition began in 1927, with Miami beating Rollins 39–3 in its first game and going on to a 3–6–1 record. The team improved to 4–4–1 in [[1928 college football season|1928]], but it was not enough for Buck to keep his job, and he was replaced prior to the [[1929 college football season|1929 season]] with [[J. Burton Rix]], previously head coach at [[Southern Methodist Mustangs football|Southern Methodist]].&lt;ref name=mg158/&gt;  Rix's arrival was funded by a group of local businessmen.&lt;ref&gt;{{cite web|url=http://hurricanesports.cstv.com/sports/m-footbl/archive/043002aaa.html|title=Material from the book &quot;Hurricane Watch&quot;|first=Jim|last=Martz|accessdate=2009-10-14}}&lt;/ref&gt; That off-season, the program, which competed as an [[NCAA Division I FBS independent schools|independent]] during its first two years of existence, joined the [[Southern Intercollegiate Athletic Association]] (SIAA). 1929 saw Miami play its first varsity road game (a 14–0 loss at [[Louisiana-Lafayette Ragin' Cajuns football|Southwest Louisiana]]), and Rix led the team to its first winning season, going 3–2.&lt;ref name=mg158/&gt;  His tenure, however, was short-lived; off-campus financing for the program dried up in the wake of the [[Wall Street Crash of 1929|1929 stock market crash]], and he resigned after one season.&lt;ref name=&quot;2007 media&quot;/&gt;&lt;!--missing page #--&gt;
+
+[[Ernest E. Brett|Ernest Brett]] replaced Rix, and in [[1930 college football season|1930]], Miami played [[Temple Owls football|Temple]] in its first game outside [[Southern United States|the South]], losing 34–0 to the Owls in [[Atlantic City, New Jersey]].&lt;ref name=mg158/&gt;  
+On October 31, 1930, the Hurricanes played in one of the nation's first night games vs. Bowden College in Miami.&lt;ref&gt;{{cite web|url=https://docs.google.com/viewer?a=v&amp;q=cache:vArEOz9DKokJ:grfx.cstv.com/photos/schools/mifl/sports/m-footbl/auto_pdf/fb-09-mg-pdf-7.pdf+burdine+stadium+first+night+game&amp;hl=en&amp;gl=us&amp;pid=bl&amp;srcid=ADGEESgKYaf_MV7ZRmB2STDxGdzBwqExPB2BLxChTrDeO8jjXjzpsa1bl49k1st8Z4nFOmboHIvyYNazOO4oBi-hdOnPBrXOKpmGcsEKfy6sVV-rlCzRmY0SCURvLQFCg21eAU2nnq7I&amp;sig=AHIEtbRdIAjowyHAVDe0XZH5gD6qFAJicA |title=Powered by Google Docs |publisher=Docs.google.com|accessdate=2012-07-19}}&lt;/ref&gt; Brett only lasted one year, and [[Tom McCann]] became the program's fourth head coach in 1931.
+
+Under McCann, the football program experienced its most successful seasons to that point. After a difficult first year, Miami put together a winning [[1932 college football season|record in 1932]] and served as host to the inaugural [[Orange Bowl#Palm Festival|Palm Festival]] (later to be known as the [[Orange Bowl]]), defeating [[Manhattan College]] 7–0 at Moore Park in Miami.&lt;ref name=mg158/&gt; A 5–1–2 campaign and another Palm Festival berth followed in [[1933 college football season|1933]], and in [[1934 college football season|1934]], the program played in its first official [[bowl game]], losing to [[Bucknell Bison|Bucknell]] in the first Orange Bowl, 26–0.&lt;ref name=mg158/&gt;
+
+In 1935, a group of Miami football supporters sought to hire [[Red Grange]] as coach. However, the move was vetoed by President [[Bowman Foster Ashe]], in part because of the $7,500 salary that Grange had requested.&lt;ref&gt;{{cite web|url=http://scholar.library.miami.edu/umhistory/DisplaySubjects.php?DisplayPages&amp;subject_id=Athletics&amp;current_page=1|title=University of Miami Legacy Images |accessdate=2009-11-28}}&lt;/ref&gt; Instead [[Irl Tubbs]] took over as head coach in 1935, and though Miami compiled an 11–5–2 record in his two seasons, it did not play in a bowl in either year.&lt;ref name=mg165&gt;{{cite web|url=http://grfx.cstv.com/photos/schools/mifl/sports/m-footbl/auto_pdf/08-mg-157-196.pdf|title=2008 UM Football Media Guide|page=165|accessdate=2009-11-24}}&lt;/ref&gt;
+
+===Jack Harding era (1937–1947)===
+After [[Irl Tubbs]] resigned following the [[1936 college football season|1936 season]] to become head coach at [[Iowa Hawkeyes football|Iowa]], [[Jack Harding]] was hired to serve as both head football coach and [[athletic director]] at Miami.&lt;ref name=&quot;2007 media&quot;/&gt;
+
+In 1937, the Hurricanes moved into the brand new [[Miami Orange Bowl|Burdine Municipal Stadium]] (renamed the Orange Bowl in 1959), located west of downtown [[Miami]].&lt;ref name=&quot;2007 media&quot;/&gt;&lt;!--missing page #--&gt; The following year, Miami played archrival [[1938 Florida Gators football team|Florida]] for the first time, defeating the Gators 19–7 at [[Florida Field]], and won the program's first [[Southern Intercollegiate Athletic Association]] title with an 8–2 record. The Hurricanes, though, left the SIAA just three years later, becoming an [[NCAA Division I FBS independent schools|independent]] once again.
+
+Harding led the Hurricanes to eight- and seven- win campaigns in 1941 and 1942, respectively, before he was called away by World War II service.&lt;ref name=&quot;2007 media&quot;/&gt;&lt;!--missing page #--&gt;  [[Eddie Dunn]], a former star running back at Miami under Harding, stepped into the void and served as head coach during Harding's two-year war service. Though the Hurricanes won five games in Dunn's first season, they faltered in the second, winning just one game against seven losses and a tie.
+
+Fortunes changed with Harding's return in 1945, as the Hurricanes went 9–1–1 and returned to the [[Orange Bowl (game)|Orange Bowl]] for the first time since 1934, defeating [[Holy Cross Crusaders football|Holy Cross]] 13–6 in a memorable game.&lt;ref name=&quot;1946 orange bowl&quot;&gt;{{cite news|url=http://www.miamiherald.com/multimedia/sports/obspecial/story1.html|title=Plenty of Memories |last=Pope|first=Edwin|date=2007-11-10|work=[[The Miami Herald]]|accessdate=2009-10-13}}&lt;/ref&gt;  With the score tied 6–6 and only seconds remaining, Holy Cross quarterback Gene DeFilippo was intercepted by Miami's Al Hudson at the 11-yard line. Hudson dashed 89 yards the other way for the game-winning touchdown as time expired.&lt;ref name=&quot;2007 media&quot;/&gt;&lt;ref name=&quot;1946 orange bowl&quot;/&gt;
+
+Harding's Hurricanes won eight games in 1946, but after the team slipped to 2–7–1 in 1947, he resigned as head coach, but continued as Athletic Director. He hired [[Andy Gustafson]] as the new head coach, closing out a nine-year tenure in which Miami went 54–29–3 and won at least 8 games in four different seasons.&lt;ref name=&quot;2007 media&quot;/&gt;&lt;!--missing page #--&gt;
+
+===Andy Gustafson era (1948–1963)===
+{{Main article|1962 Miami Hurricanes football team}}
+One of [[Andy Gustafson]]'s major innovations at Miami was the &quot;drive series&quot; offense, an [[option offense|option-oriented attack]] from the [[Split-T]] formation that relied on [[zone blocking]] and featured either a [[fullback (American football)|fullback]] fake or carry on every play.&lt;ref name=&quot;gustafson&quot;&gt;{{cite news |url=http://sportsillustrated.cnn.com/vault/article/magazine/MAG1069459/1/index.htm|title=Drive at Miami: Coach Andy Gustafson has the system and the men |last=Hickman|first=Herman |date=1955-04-11|work=[[Sports Illustrated]]|accessdate=2009-10-13}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://sportsillustrated.cnn.com/vault/article/magazine/MAG1069462/index.htm|title=The Theory Of The Drive Series|last=Hickman|first=Herman|date=1955-04-11|work=[[Sports Illustrated]]|accessdate=2009-10-13}}&lt;/ref&gt;  Under Gustafson's tutelage, Miami produced its first [[College Football All-America Team|All-American]], Al Carapella, in 1950 and went 9–1–1 in [[1951 college football season|1951]], including a 35–13 win in its first-ever game against rival [[Florida State Seminoles football|Florida State]] and a 15–14 loss to [[Clemson Tigers football|Clemson]] in the [[Orange Bowl (game)|Orange Bowl]].&lt;ref name=&quot;2007 media&quot;/&gt;&lt;!--missing page #--&gt;&lt;ref name=&quot;bowl history&quot;&gt;{{cite web|url=http://hurricanesports.cstv.com/sports/m-footbl/stats/010204aaa.html|title=Miami Bowl History|work=HurricaneSports.com|accessdate=2009-10-13}}&lt;/ref&gt;  The [[1952 college football season|following season]], Miami won eight games and went to a bowl game in consecutive years for the first time in school history, shutting out Clemson 14–0 in a rematch at the [[Gator Bowl]].
+
+In the middle of the [[1954 college football season|1954 season]], the [[National Collegiate Athletic Association|NCAA]] imposed two one-year [[NCAA probation|penalties]] against Miami for providing transportation and tryouts to prospective players.&lt;ref name=&quot;gustafson&quot;/&gt;&lt;ref name=prob1&gt;{{cite news|url=https://news.google.com/newspapers?nid=1356&amp;dat=19561114&amp;id=6SYTAAAAIBAJ&amp;sjid=0QQEAAAAIBAJ&amp;pg=6999,3305992 |title=Arbitrary, To Say The Least – Harding |first=Associated Press |date=1956-11-14 |work=[[Ocala Star-Banner]] |accessdate=2009-10-13 }}{{dead link|date=September 2016|bot=medic}}{{cbignore|bot=medic}}&lt;/ref&gt;  As a result, Gustafson's 1954 squad was ineligible to play in a [[bowl game]], and the 8–1 Hurricanes, whose lone loss came 14–13 at No. 14 [[Auburn Tigers football|Auburn]], finished the season ranked ninth in the [[Coaches' Poll#College football|Coaches' Poll]], the first top ten poll finish in school history.&lt;ref name=&quot;2007 media&quot;/&gt;&lt;ref name=&quot;gustafson&quot;/&gt;  Two years later, an 8–1–1 Miami team, led by team captain and All-American [[Don Bosseler]], was under consideration to play in the [[Sugar Bowl]], but the program's bowl-ban was not due to expire until ten days after the game, rendering it ineligible to participate.&lt;ref name=prob1/&gt;  The team finished the season ranked sixth in both the [[AP Poll|AP]] and Coaches' Polls.&lt;ref name=&quot;2007 media&quot;/&gt;
+
+In the later years of Gustafson's tenure, two-time All-America quarterback [[George Mira]] guided the Hurricanes to berths in the [[1961 college football season|1961]] [[Liberty Bowl]] and the [[1962 college football season|1962]] [[Gotham Bowl]], where they lost both games.&lt;ref&gt;{{cite news|url=http://www.nytimes.com/2007/12/20/sports/ncaafootball/20bowls.html|title=Paying Homage to Visions of Bowl Games Gone By|last=Reisler|first=Jim|date=2007-12-20|work=[[The New York Times]]|accessdate=2009-10-13}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.mmbolding.com/bowls/Liberty_1961.htm|title=Liberty Bowl 1961: Syracuse 15, Miami 14|last=Sheehan|first=Joseph|date=1961-12-16|work=[[The New York Times]]|accessdate=2009-10-13}}&lt;/ref&gt; In [[1963 college football season|1963]], the team struggled to a 3–7 record. Nevertheless, Mira, who set many of the school's passing records during his four years at Miami, graced the cover of ''[[Sports Illustrated]]'' and finished fifth in the [[Heisman Trophy]] voting as a senior.&lt;ref name=&quot;2007 media&quot;/&gt;&lt;ref&gt;{{cite web|url=http://cfn.scout.com/2/598458.html|title=Heisman History...1960 to 1969|date=2008-12-07|work=Scout.com|accessdate=2009-10-13}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://sportsillustrated.cnn.com/vault/cover/featured/7838/index.htm|title=Special Issue: College Football|date=1963-09-23|work=[[Sports Illustrated]]|accessdate=2009-10-14}}&lt;/ref&gt;  Following the season, Gustafson decided to step down as head coach and [[Charlie Tate]], an assistant at [[Georgia Tech Yellow Jackets football|Georgia Tech]], was hired to replace him.&lt;ref&gt;{{cite news|url=http://select.nytimes.com/gst/abstract.html?res=F00E13F63F55127B93C6AB1789D95F478685F9&amp;scp=7&amp;sq=Henry%20King%20Stanford%20Miami&amp;st=cse|title=Georgia Tech Aide Named Miami Coach|work=New York Times|date=December 24, 1963|page=12|accessdate=2010-02-07}}&lt;/ref&gt; Gustafson has the Hurricane record for most years as head coach (16) and most wins as well (93).
+
+===Charlie Tate era (1964–1969)===
+{{Main article|1966 Miami Hurricanes football team}}
+{{See also|1966 Liberty Bowl}}
+
+[[Charlie Tate]]'s first seasons at Miami were uneventful, with the team posting a 4–5–1 record in [[1964 college football season|1964]] and a reverse 5–4–1 record in [[1965 college football season|1965]]. [[1966 college football season|1966]] brought the arrival of [[defensive end]] [[Ted Hendricks]], the only three-time [[College Football All-America Team|All-American]] in school history, and [[1966 Miami Hurricanes football team|the Hurricanes won eight games]], earning a trip to the [[1966 Liberty Bowl|Liberty Bowl]], where they defeated No. 9 [[Virginia Tech Hokies football|Virginia Tech]], 14–7.&lt;ref name=&quot;2007 media&quot;/&gt;&lt;!--missing page #--&gt;  In December 1966, the program was [[Racial integration|integrated]] when [[African-American]] [[wide receiver]] Ray Bellamy signed a letter of intent to play football at the university.&lt;ref name=&quot;cane mutiny&quot;&gt;{{cite book|last=Feldman|first=Bruce|title=Cane Mutiny: How the Miami Hurricanes Overturned the Football Establishment|publisher=[[New American Library]]|location=New York|year=2004|isbn=0-451-21297-5}}&lt;/ref&gt;&lt;!--missing page #--&gt;  Miami returned to bowl play in [[1967 college football season|1967]], dropping the [[Bluebonnet Bowl]] to [[Colorado Buffaloes football|Colorado]], 31–21.
+
+The Hurricanes had a 5–5–0 season in 1968 and 4–6–0 in 1969, and Tate resigned as head coach two games into the [[1970 college football season|1970 season]], later citing burn out and fatigue from &quot;fighting the money battle and other battles&quot; as the basis for his decision.&lt;ref&gt;{{cite news|url=https://news.google.com/newspapers?nid=1320&amp;dat=19880419&amp;id=2DkRAAAAIBAJ&amp;sjid=HeoDAAAAIBAJ&amp;pg=2126,1248021|title=A Hall of Famer recalls the highlights|last=Hairston|first=Jack|date=1988-04-19|work=[[Gainesville Sun]]|accessdate=2009-10-14}}&lt;/ref&gt;
+
+===Kichefski, Curci, Elliot, and Selmer eras (1970–1976)===
+[[Walt Kichefski]], an assistant on Tate's staff, was elevated to interim head coach in the wake of Tate's resignation and coached the team to a 3–8 record in 1970. He was not retained the following season and [[Fran Curci]], a former [[College Football All-America Team|All-American]] quarterback under [[Andy Gustafson]], was chosen as the program's new head coach. Curci's 1971 team improved by a game, but rival [[1971 Florida Gators football team|Florida Gators]] defeated Miami in a game that came to be known as &quot;the Florida Flop.&quot;&quot;&lt;ref name=&quot;florida rivalry1&quot;&gt;{{cite web |url=http://sports.espn.go.com/espn/wire?id=1609982|title=Florida–Miami rivalry has bitter history|date=2003-09-05|work=[[ESPN.com]]|accessdate=2009-10-15}}&lt;/ref&gt;  With Florida leading 45–8 late in the fourth quarter, the Gator defense allowed Miami to score so that Florida would get the ball back and quarterback [[John Reaves]] would have the opportunity to gain the 15 yards he needed to break the [[National Collegiate Athletic Association|NCAA]] record for career passing yards.&lt;ref name=cm4&gt;{{cite book|last=Feldman|first=Bruce|title=Cane Mutiny: How the Miami Hurricanes Overturned the Football Establishment|publisher=[[New American Library]]|location=New York|year=2004|page=4|isbn=0-451-21297-5}}&lt;/ref&gt;
+[[1972 college football season|1972]] brought another memorable finish for Miami, when the inadvertent gift of a &quot;fifth down&quot; by officials enabled the Hurricanes to edge [[Tulane Green Wave football|Tulane]] in the waning moments of the game for a 24–21 win.&lt;ref name=&quot;2007 media&quot;/&gt;&lt;ref&gt;{{cite web|url=http://www.tulanegreenwave.com/sports/m-footbl/archive/history.html|title=Tulane Football History|work=TulaneGreenWave.com|accessdate=2009-10-14}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.nytimes.com/1990/10/14/sports/view-of-sport-fifth-down-or-not-it-s-over-when-it-s-over.html|title=Fifth Down or Not, It's Over When It's Over|last=Nelson|first=David M.|date=1990-10-14|work=[[The New York Times]]|accessdate=2009-10-14}}&lt;/ref&gt;  Curci left the program at the conclusion of the season and was replaced by [[Pete Elliot]].&lt;ref name=&quot;2007 media&quot;/&gt;&lt;!--missing page #--&gt; Elliot, in turn, lasted two seasons and stepped down in 1975 to become Miami's [[athletic director]].
+
+[[Offensive coordinator]] [[Carl Selmer]] was named the program's fifth head coach in six years.&lt;ref name=mg159&gt;{{cite news|url=http://grfx.cstv.com/photos/schools/mifl/sports/m-footbl/auto_pdf/08-mg-157-196.pdf|title=2008 Football Media Guide|page=159|date=July 28, 2008|accessdate=2009-11-07}}&lt;/ref&gt; Under Selmer, a trend that started earlier in the decade continued, with home attendance declining every year.&lt;ref name=&quot;cane mutiny&quot;/&gt;&lt;!--need page cite--&gt; After finishing 2–8 in 1975 and 3–8 in 1976, the university fired Selmer, citing concerns about dwindling attendance and the loss of local [[blue chip (sports)|blue-chip recruits]] to other schools.&lt;ref name=mg159/&gt;
+
+===Lou Saban era (1977–1978)===
+After a national search, [[Lou Saban]], formerly head coach of the [[National Football League|NFL]]'s [[Buffalo Bills]], [[Denver Broncos]], and [[Boston Patriots]],&lt;ref name=&quot;cane mutiny&quot;/&gt; was hired on December 27, 1976, as head coach.&lt;ref name=&quot;2007 media&quot;/&gt;&lt;!--need page cite--&gt;
+
+Miami only won three games in [[1977 college football season|1977]], but Saban was able to put together a well-regarded recruiting class that included future [[Pro Football Hall of Fame]] quarterback [[Jim Kelly]] of [[East Brady, Pennsylvania]].&lt;ref name=&quot;cane mutiny&quot;/&gt;&lt;!--missing page #--&gt;  Kelly had been recruited by [[Penn State Nittany Lions football|Penn State]] as a [[linebacker]] and agreed to come to Miami after Saban promised him he would play quarterback.&lt;ref name=&quot;cane mutiny&quot;/&gt;  Among the other 30 signees in Saban's first recruiting class were 11 future NFL players.&lt;ref name=&quot;2007 media&quot;/&gt;&lt;!--need page cite--&gt;
+
+The Hurricanes improved by three games in Saban's second season and [[Ottis Anderson]] emerged as an NFL talent. Anderson became the first Miami running back to rush for 1,000 yards in a season and led the team in rushing for three straight seasons from 1977 through 1979. Anderson set numerous school rushing records and was Miami's career rushing leader until 2014, when he was overtaken by [[Duke Johnson]].&lt;ref name=&quot;2007 media&quot;/&gt;&lt;!--missing page #--&gt;
+
+After just two seasons as head coach, Saban resigned in the wake of a controversy concerning football players throwing a Jewish man into [[Lake Osceola]], an on campus lake.&lt;ref name=&quot;Feldman 2004 17–18&quot;&gt;{{cite book|last=Feldman|first=Bruce|title=Cane Mutiny: How the Miami Hurricanes Overturned the Football Establishment|publisher=[[New American Library]]|location=New York|year=2004|pages=17–18|isbn=0-451-21297-5}}&lt;/ref&gt; He left after the 1978 season to take the head coaching position at [[Army Black Knights football|Army]].&lt;ref name=&quot;cane mutiny&quot;/&gt;&lt;ref&gt;{{cite news|url=http://select.nytimes.com/gst/abstract.html?res=F60D16F83B5D12728DDDAC0894D9405B898BF1D3&amp;scp=13&amp;sq=%22University%20of%20Miami%22&amp;st=cse|title=Army Hires Saban of Miami as 28th Football Coach; 9 Jobs in 29 Years 'Longer Than Homer's' Boston Patriots' Coach|first=Gordon|last=White|date=January 5, 1979|page=A13|accessdate=2010-02-05 | work=The New York Times}}&lt;/ref&gt; Saban's departure, the constant coaching upheaval Miami experienced during the decade, and assorted fiscal problems sparked the university's Board of Trustees to hold a vote on whether to drop the football program down to the [[Division I-AA]] level or eliminate it altogether.&lt;ref name=cm18&gt;{{cite book|last=Feldman|first=Bruce|title=Cane Mutiny: How the Miami Hurricanes Overturned the Football Establishment|publisher=[[New American Library]]|location=New York|year=2004|page=18|isbn=0-451-21297-5}}&lt;/ref&gt; University executive vice president Dr. John Green was able to convince the board to give [[Division I-A]] football another shot and hired [[Howard Schnellenberger]], [[offensive coordinator]] for the NFL's [[Miami Dolphins]], to succeed Saban.&lt;ref name=cm18/&gt;
+
+===Howard Schnellenberger era (1979–1983)===
+[[File:Howard Schnellenberger.jpg|thumb|Howard Schnellenberger (right) after winning the 1983 national championship]]
+{{Main article|1980 Miami Hurricanes football team|1981 Miami Hurricanes football team|1982 Miami Hurricanes football team|1983 Miami Hurricanes football team}}
+{{See also|1981 Peach Bowl (January)}}
+
+At the outset of his tenure, [[Howard Schnellenberger]] announced to his staff and players his intention to win a [[NCAA Division I FBS National Football Championship|national championship]] within five years.&lt;ref name=cm19&gt;{{cite book|last=Feldman|first=Bruce|title=Cane Mutiny: How the Miami Hurricanes Overturned the Football Establishment|publisher=[[New American Library]]|location=New York|year=2004|page=19|isbn=0-451-21297-5}}&lt;/ref&gt;  His five-year plan had two main priorities: installing a [[Pro Style|pro-style]] passing offense and upgrading the talent level on the roster through a new recruiting strategy aimed at retaining the best local talent.&lt;ref name=cm22/&gt; To help with the offense, Schnellenberger hired former [[Baltimore Colts]] quarterback [[Earl Morrall]] as a volunteer quarterbacks coach.&lt;ref name=cm22/&gt;  On the recruiting front, he spoke of mining the &quot;State of Miami&quot;, which entailed fencing off the fertile [[South Florida]] recruiting base from other programs and cherry-picking the rest of the nation for a few choice recruits.&lt;ref name=cm24&gt;{{cite book|last=Feldman|first=Bruce|title=Cane Mutiny: How the Miami Hurricanes Overturned the Football Establishment|publisher=[[New American Library]]|location=New York|year=2004|page=24|isbn=0-451-21297-5}}&lt;/ref&gt;  Schnellenberger also sought to exploit the freedom provided by Miami's [[NCAA Division I FBS independent schools|independent]] schedule to gain &quot;intersectional exposure&quot; and make the program &quot;national.&quot;&lt;ref name=cm22&gt;{{cite book|last=Feldman|first=Bruce|title=Cane Mutiny: How the Miami Hurricanes Overturned the Football Establishment|publisher=[[New American Library]]|location=New York|year=2004|page=22|isbn=0-451-21297-5}}&lt;/ref&gt;
+
+On the field, Miami went 5–6 in Schnellenberger's debut season, which was highlighted by a 26–10 upset win at No. 16 [[Penn State Nittany Lions|Penn State]] in which [[Redshirt (college sports)|redshirt]] freshman [[Jim Kelly]] threw for 280 yards and three touchdowns in his first career start as Miami's quarterback.&lt;ref name=cm31&gt;{{cite book|last=Feldman|first=Bruce|title=Cane Mutiny: How the Miami Hurricanes Overturned the Football Establishment|publisher=[[New American Library]]|location=New York|year=2004|page=31|isbn=0-451-21297-5}}&lt;/ref&gt;  Schnellenberger set a bowl berth as the goal of the [[1980 Miami Hurricanes football team|1980 campaign]] and the team made good on its head coach's expectations, winning nine games and earning a trip to the [[Peach Bowl]], where the Hurricanes defeated [[Virginia Tech Hokies football|Virginia Tech]] 20–10.&lt;ref name=&quot;cane mutiny&quot;/&gt;&lt;!--missing page #--&gt; The bowl berth was Miami's first since 1967 and the team finished the season ranked eighteenth in both the [[AP Poll|AP]] and [[Coaches' Poll|Coaches']] Polls.
+
+Miami continued to improve in [[1981 NCAA Division I-A football season|1981]], going 9–2 and defeating then-No. 1 Penn State 17–14 in a late-October game at the [[Miami Orange Bowl|Orange Bowl]]. In the season's final game, the Hurricanes topped rival [[1981 Notre Dame Fighting Irish football team|Notre Dame]] for the first time since 1960, 37–15, finishing the season eighth in the AP Poll. The [[1982 Miami Hurricanes football team|following season]], the team finished with four losses following Kelly's shoulder injury. Entering the [[1983 NCAA Division I-A football season|1983 season]]—the fifth of Schnellenberger's tenure—the program had to find a replacement for the recently graduated Kelly. Ultimately, Schnellenberger chose [[Bernie Kosar]] as the team's starting quarterback over fellow redshirt freshman [[Vinny Testaverde]].
+
+The [[1983 Miami Hurricanes football team|1983 Miami Hurricanes]] started the season unranked and lost 28–3 at [[1983 Florida Gators football team|Florida]] in their first game, though Kosar tied [[George Mira]]'s single-game school record of 25 pass completions.&lt;ref name=&quot;cane mutiny&quot;/&gt;&lt;!--missing page #--&gt; The Hurricanes rallied by winning their next 10 games, including a 20–0 early-season shutout of [[1983 Notre Dame Fighting Irish football team|Notre Dame]], and earned a berth to the [[1984 Orange Bowl]] to play the undefeated, top-ranked [[1983 Nebraska Cornhuskers football team|Nebraska]] team that had both [[Mike Rozier]] and [[Turner Gill]]. The Orange Bowl-berth was Miami's first since 1951, but the program's first national championship remained a long shot, as the Hurricanes entered the game ranked fifth. Miami got much needed help early on New Year's Day when second-ranked [[Texas Longhorns football|Texas]], the nation's other undefeated team, lost in the [[1984 Cotton Bowl Classic|Cotton Bowl Classic]] and fourth-ranked [[Illinois Fighting Illini football|Illinois]] lost in the [[1984 Rose Bowl|Rose Bowl]].&lt;ref name=&quot;1984 orange&quot;&gt;{{cite web|url=http://espn.go.com/abcsports/bcs/orange/s/1984.html|title=1984 – Miami 31, Nebraska 30|last=O'Sullivan|first=Dan|date=2002-12-13|work=ABC Sports Online|accessdate=2009-10-14}}&lt;/ref&gt;
+
+Behind Kosar's passing, Miami jumped out to a 17–0 lead, but Nebraska battled back and cut Miami's lead to 31–24 in the fourth quarter.&lt;ref name=&quot;1984 orange&quot;/&gt;  With 48 seconds remaining, Nebraska scored a touchdown to make it 31–30 and, being the number one-ranked team in the nation, needed only to kick the extra point to tie the game and put itself in position to win the national championship. Nebraska head coach [[Tom Osborne]] elected to go for the win and attempt a two-point conversion instead.&lt;ref name=&quot;1984 orange&quot;/&gt;  On the ensuing play, Miami [[Safety (American football position)|safety]] Ken Calhoun tipped away Gill's pass to receiver Jeff Smith in the end zone, saving the game and winning Miami the national championship when it leap-frogged No. 3 [[1983 Auburn Tigers football team|Auburn]] to finish first in the final polls.&lt;ref name=&quot;1984 orange&quot;/&gt;
+
+Although Schnellenberger had made good on his five-year plan to win a national championship, he left after the season to accept a head coaching position in the [[USFL]].&lt;ref name=mediaguide160/&gt;  Two weeks later, athletic director [[Sam Jankovich]] hired [[Jimmy Johnson (American football coach)|Jimmy Johnson]] away from [[Oklahoma State Cowboys football|Oklahoma State]] to fill the vacancy.&lt;ref name=mediaguide160&gt;{{cite web|url=http://grfx.cstv.com/photos/schools/mifl/sports/m-footbl/auto_pdf/08-mg-157-196.pdf|title=2008 UM Football Media Guide|page=160|accessdate=2009-11-20|date=July 28, 2008}}&lt;/ref&gt;
+
+===Jimmy Johnson era (1984–1988)===
+{{Main article|1987 Miami Hurricanes football team|1988 Miami Hurricanes football team}}
+{{See also|1984 Orange Bowl|Hail Flutie|1985 Fiesta Bowl|1986 Sugar Bowl|1987 Fiesta Bowl|1988 Notre Dame vs. Miami football game|1988 Orange Bowl}}
+[[File:Miami Orange Bowl.jpg|thumb|right|275px|The [[Miami Orange Bowl]], the Hurricanes' home field until its 2008 demolition]]
+One of [[Jimmy Johnson (American football coach)|Jimmy Johnson]]'s immediate priorities upon taking over as Miami head coach was to switch to a 4–3 defense.&lt;ref name=cm55/&gt;  Johnson wanted to implement the change for his first season, but lacking the time, personnel, and staff, he decided to postpone the switch and kept Schnellenberger's 5–2 defensive package for the 1984 season.&lt;ref name=cm55&gt;{{cite book|last=Feldman|first=Bruce|title=Cane Mutiny: How the Miami Hurricanes Overturned the Football Establishment|publisher=[[New American Library]]|location=New York|year=2004|page=55|isbn=0-451-21297-5}}&lt;/ref&gt;
+
+The team struggled to an 8–5 record in Johnson's first season, losing a number of noteworthy games. In the next-to-last game of the regular season, the No. 6 Hurricanes squandered a 31–0 halftime lead against [[1984 Maryland Terrapins football team|Maryland]] and lost 42–40 in what was then the biggest comeback in NCAA football history.&lt;ref name=&quot;maryland comeback&quot;&gt;{{cite web|url=http://www.forbes.com/2009/09/11/biggest-comeback-wins-lifestyle-sports-comebacks.html|title=Sports' Greatest Comeback Wins|last=Burke|first=Monte|date=2009-09-11|work=[[Forbes]].com|accessdate=2009-10-14}}&lt;/ref&gt;  The following week, Miami lost 47–45 when [[1984 Boston College Eagles football team|Boston College]]'s [[Doug Flutie]] connected with [[Gerard Phelan]] for a 48-yard [[Hail Mary pass|Hail Mary]] touchdown on the final play in what has been called the [[Hail Flutie]] game.&lt;ref name=&quot;flutie&quot;&gt;{{cite web|url=http://sports.espn.go.com/espn/classic/bio/news/story?page=Flutie_Doug|title=Hail Flutie|last=Schwartz|first=Kris|date=2006-05-18|work=[[ESPN.com]]|accessdate=2009-10-14}}&lt;/ref&gt;  The Hurricanes ended the season on a three-game losing streak by dropping the [[1985 Fiesta Bowl]] to [[1984 UCLA Bruins football team|UCLA]], 39–37, in a game that featured six lead changes.&lt;ref name=&quot;1985 fiesta&quot;&gt;{{cite web|url=http://espn.go.com/abcsports/bcs/fiesta/s/1985.html|title=1985 – UCLA 39, Miami 37|last=Burchette|first=Jordan|work=ABCSports.com|accessdate=2009-10-14}}&lt;/ref&gt;
+
+During the off-season, Johnson made a number of coaching changes, facilitating the switch to the 4–3 defense, and junior [[Vinny Testaverde]] succeeded early-graduate [[Bernie Kosar]] at quarterback.&lt;ref name=&quot;cane mutiny&quot;/&gt;&lt;!--missing page #--&gt;  The 1985 Hurricanes opened the season with a loss at [[1985 Florida Gators football team|Florida]] before winning their next four games, including a 38–0 win over [[Cincinnati Bearcats football|Cincinnati]] that began a then NCAA-record 58 game home winning streak, heading into a matchup at No. 3 [[1985 Oklahoma Sooners football team|Oklahoma]]. Facing the nation's top-rated defense, Testaverde amassed 270 yards passing and threw touchdowns to [[Michael Irvin]] and [[Brian Blades]], while also running for an additional score, in a 27–14 win over the Sooners.&lt;ref name=&quot;cane mutiny&quot;/&gt;&lt;!--need page cite--&gt;&lt;ref name=&quot;miami_oklahoma&quot;&gt;{{cite web|url=http://www.sportingnews.com/college-football/article/2007-09-05/its-been-2-decades-and-miami-oklahoma-matchups-still-classic|title=It's been 2 decades, and Miami–Oklahoma matchups still classic|last=Associated Press|date=2007-09-05|work=[[Sporting News|Sporting News.com]]|accessdate=2009-10-14}}&lt;/ref&gt;  The Hurricanes ascended to number two in the rankings following a 58–7 victory over [[1985 Notre Dame Fighting Irish football team|Notre Dame]] in the final game of the regular season, earning a trip to the [[1986 Sugar Bowl|Sugar Bowl]] to play the No. 8 [[1985 Tennessee Volunteers football team|Tennessee Volunteers]]. With No. 1 [[1985 Penn State Nittany Lions football team|Penn State]] losing to Oklahoma in the [[Orange Bowl]], Miami was in position to capture its second [[NCAA Division I FBS National Football Championship|national championship]], but those hopes were dashed with a lopsided 35–7 loss to Tennessee.&lt;ref&gt;{{cite web|url=http://allstatesugarbowl.org/site106.php|title=52nd Annual Sugar Bowl Classic ~ January 1, 1986|work=AllStateSugarBowl.org|accessdate=2009-10-14}}&lt;/ref&gt;
+
+Miami opened [[1986 Miami Hurricanes football team|its 1986 season]] as the third-ranked team in the country and climbed to number two after winning its first three games, setting up a No. 1 vs. No. 2 showdown at the Orange Bowl against top-ranked and defending national champion [[1986 Oklahoma Sooners football team|Oklahoma]].&lt;ref name=&quot;cane mutiny&quot;/&gt;&lt;ref name=&quot;miami_oklahoma&quot;/&gt;  After much pre-game [[trash-talk]] between Oklahoma's [[Brian Bosworth]] and Miami's [[Melvin Bratton]] and [[Alonzo Highsmith]], Testaverde tossed four touchdown passes in a 28–16 win.&lt;ref name=&quot;cane mutiny&quot;/&gt;&lt;ref name=&quot;miami_oklahoma&quot;/&gt;  Testaverde's performance led Oklahoma head coach [[Barry Switzer]] to remark that he had &quot;never seen a better quarterback&quot; in his 21 years with the Sooners, and at the conclusion of the regular season, Testaverde was awarded the [[Heisman Trophy]] with the fifth largest margin of victory in the voting's history.&lt;ref name=&quot;testaverde heisman&quot;&gt;{{cite web|url=http://www.heisman.com/winners/v-testaverde86.php|title=1986 – 52nd Award – Vinny Testaverde|work=Heisman.com|accessdate=2009-10-14}}&lt;/ref&gt;  The Hurricanes, having seized the number one ranking with the win over Oklahoma, finished the regular season at 11–0, outscoring their opponents 420–136, and accepted a bid to the [[1987 Fiesta Bowl]] to play No. 2 [[1986 Penn State Nittany Lions football team|Penn State]].&lt;ref name=&quot;1987 fiesta&quot;&gt;{{cite web|url=http://sports.espn.go.com/espn/eticket/story?page=fiesta87|title=The Night College Football Went to Hell|last=Weinreb|first=Michael|work=[[ESPN.com]]|accessdate=2009-10-14}}&lt;/ref&gt;&lt;ref name=&quot;1987 fiesta2&quot;&gt;{{cite web|url=http://espn.go.com/abcsports/bcs/fiesta/s/1987.html|title=1987 – Penn State 14, Miami 10|last=O'Sullivan|first=Dan|date=2002-12-13|work=ABCSports.com|accessdate=2009-10-14}}&lt;/ref&gt;  There, the team's &quot;outlaw&quot; image grew when players arrived in Arizona clad in [[battledress|fatigues]] and [[Jerome Brown]] staged a walkout of a pre-game steak fry attended by both teams.&lt;ref name=&quot;1987 fiesta&quot;/&gt;  Before an estimated television audience of seventy million people, Penn State upset the heavily favored Hurricanes 14–10 to win the national championship, forcing seven turnovers, including Pete Giftopoulus' game-sealing interception of Testaverde in the end zone in the game's final seconds.&lt;ref name=&quot;cane mutiny&quot;/&gt;&lt;!--page cite missing--&gt;&lt;ref name=&quot;1987 fiesta&quot;/&gt;&lt;ref name=&quot;1987 fiesta2&quot;/&gt;&lt;ref name=&quot;1987 fiesta3&quot;&gt;{{cite web|url=http://www.fiestabowl.org/index.php/tostitos/history_display/16th_annual_fiesta_bowl/|title=16th Annual Fiesta Bowl|work=FiestaBowl.org|accessdate=2009-10-14}}&lt;/ref&gt;
+
+Led by [[Michael Irvin]] and new quarterback [[Steve Walsh (American football)|Steve Walsh]], the [[1987 Miami Hurricanes football team|1987 Miami Hurricanes]] won the school's second national championship and completed its first undefeated varsity season.&lt;ref name=&quot;2007 media&quot;/&gt;&lt;!--missing page #--&gt;  The season was highlighted by one of the most memorable games in the history of the [[Miami – Florida State rivalry]]. Trailing No. 4 [[Florida State Seminoles football|Florida State]] 19–3 in the third quarter at [[Doak Campbell Stadium]], the Hurricanes rallied to take a 26–19 lead late in the fourth quarter on a 73-yard touchdown pass from Walsh to Irvin. Florida State responded with a touchdown in the final minute, but Seminoles head coach [[Bobby Bowden]] opted to go for two points and the win rather than kick the extra-point for a tie, and Miami's Bubba McDowell broke up the conversion pass in the end zone to preserve the 26–25 victory. More than 60 players on the combined rosters for the game went on to play in the [[National Football League|NFL]].&lt;ref name=&quot;1987 miami fsu1&quot;&gt;{{cite web|url=http://www.sportingnews.com/college-football/article/2007-10-19/talent-filled-1987-miami-florida-state-game-now-distant-past|title=Talent-filled 1987 Miami–Florida State game now distant past|date=2007-10-19|work=[[Sporting News|Sporting News.com]]|accessdate=2009-10-14}}&lt;/ref&gt;  The 12–0 campaign was capped by a 20–14 win over the then-No. 1 [[Oklahoma Sooners football|Oklahoma Sooners]] in an [[1988 Orange Bowl|Orange Bowl]] billed as &quot;The Game of the Century.&quot;&lt;ref name=&quot;miami_oklahoma&quot;/&gt;  The win was Miami's third over Oklahoma in the last three seasons, accounting for Oklahoma's only losses during that time period.&lt;ref name=&quot;miami_oklahoma&quot;/&gt;
+
+The Hurricanes had a then-school record 12 players from the 1987 team selected in the [[1988 NFL Draft|following spring's NFL Draft]],&lt;ref name=&quot;cane mutiny&quot;/&gt;&lt;!--missing page #--&gt; including Irvin and [[Bennie Blades]], but with Walsh returning in [[1988 NCAA Division I-A football season|1988]], the team gained the number one ranking with a season-opening 31–0 shutout of then-No. 1 Florida State at the Orange Bowl.&lt;ref name=&quot;2007 media&quot;/&gt;  The following week, Miami scored 17 points in the final 5 minutes and 23 seconds to top No. 4 [[1988 Michigan Wolverines football team|Michigan]] 31–30 at [[Michigan Stadium]].&lt;ref&gt;{{cite news|url=http://www.nytimes.com/1988/09/18/sports/college-football-miami-rallies-to-win.html|title=Miami Rallies To Win|last=Moran|first=Malcolm|date=1988-09-18|work=[[The New York Times]]|accessdate=2009-10-14}}&lt;/ref&gt;  Hopes of a repeat national championship were dashed, however, in the so-called &quot;[[Catholics vs. Convicts]]&quot; game, with Miami dropping an emotional 31–30 loss to [[1988 Notre Dame Fighting Irish football team|eventual-national champion Notre Dame]] on a failed two-point conversion pass in the final minute.&lt;ref name=&quot;cane mutiny&quot;/&gt;&lt;!--missing page #--&gt;&lt;ref name=&quot;1988 miami_nd&quot;&gt;{{cite news|url=http://www.nytimes.com/1988/10/17/sports/college-football-irish-hang-on-for-an-astonishing-upset.html?scp=3&amp;sq=1988%20miami%20notre%20dame&amp;st=cse|title=Irish Hang On for an Astonishing Upset|last=White Jr.|first=Gordon S.|date=1988-10-17|work=[[The New York Times]]|accessdate=2009-10-14}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://sportsillustrated.cnn.com/vault/article/magazine/MAG1067906/index.htm|title=Pluck of the Irish – Spunky Notre Dame laid claim to the top spot in the national rankings by outlasting No. 1 Miami 31–30|last=Telander|first=Rick|date=1988-10-24|work=[[Sports Illustrated]]|accessdate=2009-10-10}}&lt;/ref&gt;
+
+Johnson left the program in February 1989 to become the head coach of the NFL's [[Dallas Cowboys]], ending his tenure at Miami with a 52–9 overall record and a 44–4 mark over his last four seasons.&lt;ref name=&quot;cane mutiny&quot;/&gt;&lt;!--missing page #--&gt;
+
+On September 22, 1984, during halftime at the Miami vs FSU game, a theater student from the University of Miami, Juan Valladares of Hialeah, Florida, threw up what is considered and documented to be the first &quot;U&quot; hand sign in frustration to the fact that Miami, at the time had no real identifiable and unique school identity like the FSU &quot;CHOP&quot; or the U of Florida Gator &quot;CHOMP&quot; hand signs. http://www.themiamihurricane.com/2014/11/12/fsu-game-inspired-first-man-to-throw-up-the-u/comment-page-1/ http://umtv.miami.edu/shows/sportsdesk/sportsdesk-4-22-16
+
+===Dennis Erickson era (1989–1994)===
+{{Main article|1989 Miami Hurricanes football team|1990 Miami Hurricanes football team|1991 Miami Hurricanes football team|1992 Miami Hurricanes football team|1993 Miami Hurricanes football team|1994 Miami Hurricanes football team}}
+{{See also|Wide Right I|1991 Cotton Bowl Classic|Wide Right II|1993 Sugar Bowl|1994 Fiesta Bowl}}
+[[File:Coach Dennis E interview.jpg|thumb|[[Dennis Erickson]]]]
+Despite having the support of students, players, and even the Miami police and fire departments, [[offensive coordinator]] [[Gary Stevens (American football)|Gary Stevens]] was bypassed for the head coaching job and athletic director [[Sam Jankovich]] chose [[Dennis Erickson]] of [[Washington State Cougars football|Washington State]] to succeed [[Jimmy Johnson (American football coach)|Jimmy Johnson]] instead.&lt;ref name=cm92&gt;{{cite book|last=Feldman|first=Bruce|title=Cane Mutiny: How the Miami Hurricanes Overturned the Football Establishment|publisher=[[New American Library]]|location=New York|year=2004|isbn=0-451-21297-5|page=92}}&lt;/ref&gt;
+
+In [[1989 NCAA Division I-A football season|1989]], Erickson became just the second [[NCAA Division I|Division I]] head coach to win a [[NCAA Division I FBS National Football Championship|national championship]] in his first season at a school.&lt;ref name=&quot;2007 media&quot;/&gt;&lt;!--missing page #--&gt;&lt;ref name=&quot;1990 sugar&quot;&gt;{{cite web|url=http://allstatesugarbowl.org/site102.php|title=56th Annual Sugar Bowl Classic ~ January 1, 1990|work=AllStateSugarBowl.org|accessdate=2009-10-14}}&lt;/ref&gt;  Erickson's [[1989 Miami Hurricanes football team|1989 team]], led by [[Craig Erickson]] (no relation) at quarterback, rebounded from a mid-season loss at [[Florida State Seminoles football|Florida State]] and moved back into the national championship picture with a 27–10 win over then-top-ranked [[1989 Notre Dame Fighting Irish football team|Notre Dame]] in the final regular-season game. Miami's 33–25 win over No. 7 [[1989 Alabama Crimson Tide football team|Alabama]] in the [[Sugar Bowl]], combined with No. 1 [[Colorado Buffaloes football|Colorado]]'s loss to Notre Dame in the [[Orange Bowl]], earned the program its third national championship.&lt;ref name=&quot;1990 sugar&quot;/&gt;&lt;ref&gt;{{cite web|url=http://espn.go.com/abcsports/bcs/sugar/s/1990.html|title=1990 – Miami 33, Alabama 25|last=Laracy|first=Alex|date=2002-12-13|work=ABCSports.com|accessdate=2009-10-14}}&lt;/ref&gt;
+
+Miami entered the [[1990 Miami Hurricanes football team|following season]] as the number one team in the country, but a 28–21 upset loss to [[Ty Detmer]] and No. 16 [[1990 BYU Cougars football team|BYU]] in the opener derailed both the team's national championship chances and Craig Erickson's nascent Heisman campaign.&lt;ref&gt;{{cite news|url=http://sportsillustrated.cnn.com/vault/article/magazine/MAG1136436/index.htm|title=Tying One On: Quarterback Ty Detmer led BYU to a stunning upset of the No. 1 team|last=Hersch|first=Hank|date=1990-09-17|work=[[Sports Illustrated]]|accessdate=2009-10-14}}&lt;/ref&gt;  Later in the year, the Hurricanes lost to [[1990 Notre Dame Fighting Irish football team|Notre Dame]] 29–20 in a game dubbed the &quot;Final Conflict&quot;, as Notre Dame had decided to discontinue the 27-game rivalry,&lt;ref name=&quot;nd rivalry1&quot;&gt;{{cite news|url=http://articles.latimes.com/1990-10-18/sports/sp-3904_1_notre-dame|title=Great and Passionate Rivalry Will End Saturday With Miami–Notre Dame Game|date=1990-10-18|work=[[Los Angeles Times]]|accessdate=2009-10-15}}&lt;/ref&gt; feeling the intensity of the series had reached an unhealthy level.&lt;ref name=&quot;cane mutiny&quot;/&gt;&lt;!--missing page #--&gt;  Miami ended the season with a 46–3 [[1991 Cotton Bowl Classic|Cotton Bowl Classic]] victory over No. 3 [[Texas Longhorns football|Texas]] in the [[1991 Cotton Bowl Classic]] in which the team was penalized a bowl- and school-record 16 times for 202 yards, including nine unsportsmanlike conduct or personal foul penalties.&lt;ref name=&quot;1991 cotton&quot;&gt;{{cite news|url=http://www.dallasnews.com/sharedcontent/dws/spt/colleges/cottonbowl/history/1991.html|title=Hurricanes wreak havoc in Cotton|last=McNabb|first=David|date=1991-01-02|work=[[The Dallas Morning News]]|accessdate=2009-10-14}}&lt;/ref&gt;  On one play, [[Randal Hill]] scored on a 48-yard touchdown reception and continued to sprint out of the end zone and up the [[Cotton Bowl (stadium)|Cotton Bowl]] tunnel, where he then pretended to shoot at the Longhorns with imaginary pistols.&lt;ref name=&quot;cane mutiny&quot;/&gt;&lt;!--missing page #--&gt;  The program was widely criticized for its conduct, with [[Will McDonough]] of the ''[[Boston Globe]]'' likening the Cotton Bowl Classic display to a &quot;wilding&quot; and [[Bill Walsh (American football coach)|Bill Walsh]] calling it &quot;the most disgusting thing [he'd] ever seen in college sports.&quot;&lt;ref name=&quot;cane mutiny&quot;/&gt;  After the season, the [[National Collegiate Athletic Association|NCAA]] responded with the so-called &quot;Miami Rule&quot;, which made it a 15-yard penalty to engage in excessive celebration or flagrant taunting.&lt;ref name=&quot;cane mutiny&quot;/&gt;&lt;!--missing page #--&gt;&lt;ref&gt;{{cite news|url=http://articles.latimes.com/1991-09-05/sports/sp-2372_1_college-football|title=Upon Further Review, Coach Says Referee Blew the Call|last=Wojciechowski|first=Gene|date=1991-09-05|work=[[Los Angeles Times]]|accessdate=2009-10-14}}&lt;/ref&gt;
+
+Also during the off-season, Miami ended its 48-year status as an [[NCAA Division I FBS independent schools|independent]] and joined the [[Big East Conference (1979–2013)|Big East Conference]].
+
+The [[1991 Miami Hurricanes football team|1991 Hurricanes]] captured the program's fourth national championship in nine years behind quarterback [[Gino Torretta]] and a linebacking corps that featured [[Jessie Armstead]] and [[Micheal Barrow]]. Miami's toughest test came in mid-November at then-No. 1 [[1991 Florida State Seminoles football team|Florida State]] in the initial [[Wide Right I|Wide Right]] game; with the No. 2 Hurricanes leading 17–16 in the final minute of the game, Florida State kicker Gerry Thomas' potential game-winning field goal attempt sailed &quot;wide right&quot; of the uprights.&lt;ref name=nyt&gt;{{cite news|url=http://www.nytimes.com/1991/11/17/sports/college-football-miami-wins-17-16-to-capture-all-the-oranges.html|title=Miami Wins, 17–16, to Capture All the Oranges|last=Moran|first=Malcolm|date=1991-11-17|work=[[The New York Times]]|accessdate=2009-08-12}}&lt;/ref&gt;  Miami completed the second undefeated season in school history with a 22–0 shutout of No. 11 [[1991 Nebraska Cornhuskers football team|Nebraska]] in the [[1992 Orange Bowl]] and finished first in the [[AP Poll]], splitting the national championship with [[Coaches' Poll]] champ [[1991 Washington Huskies football team|Washington]].&lt;ref name=&quot;2007 media&quot;/&gt;&lt;!--missing page #--&gt;
+
+[[Hurricane Andrew]] devastated much of [[South Florida]] in August 1992, causing the program to relocate its preseason practice sessions north to [[Dodgertown]] in [[Vero Beach, Florida|Vero Beach]].&lt;ref name=&quot;2007 media&quot;/&gt;&lt;!--missing page #--&gt;  That season, [[1992 Miami Hurricanes football team|Miami went 11–0]] against the second-toughest schedule in the country, topping No. 3 [[1992 Florida State Seminoles football team|Florida State]] in [[Wide Right II]] and No. 7 [[1992 Penn State Nittany Lions football team|Penn State]] the following week in [[Beaver Stadium]].&lt;ref name=&quot;2007 media&quot;/&gt;  Meanwhile, Torretta became the second Hurricane to win the [[Heisman Trophy]], throwing for 19 touchdowns and 3,060 yards on the season and setting 11 school passing records during his career.&lt;ref name=&quot;2007 media&quot;/&gt;&lt;ref&gt;{{cite web|url=http://www.heisman.com/winners/g-torretta92.php|title=1992 – 57th Award – Gino Torretta|work=Heisman.com|accessdate=2009-10-14}}&lt;/ref&gt;  Miami earned a trip to the [[1993 Sugar Bowl]], where the top-ranked Hurricanes were denied a repeat national championship by No. 2 [[1992 Alabama Crimson Tide football team|Alabama]], 34–13.&lt;ref name=&quot;1993 sugar&quot;&gt;{{cite web|url=http://allstatesugarbowl.org/site99.php|title=59th Annual Sugar Bowl Classic ~ January 1, 1993|work=AllStateSugarBowl.org|accessdate=2009-10-14}}&lt;/ref&gt;&lt;ref name=&quot;1993 sugar2&quot;&gt;{{cite news|url=http://sportsillustrated.cnn.com/vault/article/magazine/MAG1137538/index.htm|title=The End of the Run|last=Murphy|first=Austin|date=1993-01-11|work=[[Sports Illustrated]]|accessdate=2009-10-14}}&lt;/ref&gt;  The Sugar Bowl loss ended the program's 29-game winning streak, which dated to 1990.&lt;ref name=&quot;1993 sugar2&quot;/&gt;
+
+The following two seasons yielded less success. In [[1993 NCAA Division I-A football season|1993]], [[1993 Miami Hurricanes football team|Miami lost three games]] in a season for the first time since 1984, failed to win the Big East for the first time since joining in 1991, and was shut out in the [[1994 Fiesta Bowl|Fiesta Bowl]] by [[1993 Arizona Wildcats football team|Arizona]],&lt;ref name=&quot;2007 media&quot;/&gt;&lt;!--missing page # --&gt; leading some{{Who|date=August 2010}} to wonder whether the program was in decline.&lt;ref name=&quot;cane mutiny&quot;/&gt;&lt;!--missing page #--&gt;&lt;ref name=&quot;warning&quot;&gt;{{cite news|url=http://sportsillustrated.cnn.com/vault/article/magazine/MAG1005096/index.htm|title=Hurricane Warning|last=Price|first=S.L.|date=1994-04-14|work=[[Sports Illustrated]]|accessdate=2009-10-14}}&lt;/ref&gt;  In [[1994 NCAA Division I-A football season|1994]], Miami defeated [[Georgia Southern Eagles football|Georgia Southern]] in the season opener for its 58th consecutive home win, setting an NCAA record; the streak, which began in 1985, was snapped two weeks later when [[1994 Washington Huskies football team|Washington]] defeated the Hurricanes 38–20 at the [[Miami Orange Bowl|Orange Bowl]].&lt;ref name=&quot;streak snapped&quot;&gt;{{cite news|url=http://sportsillustrated.cnn.com/vault/article/magazine/MAG1005749/index.htm|title=Dog Day Afternoon|last=Price|first=S.L.|date=1994-10-03|work=[[Sports Illustrated]]|accessdate=2009-10-14}}&lt;/ref&gt;  Led by [[College Football All-America Team|All-American]] defensive tackle [[Warren Sapp]] and sophomore linebacker [[Ray Lewis (American football)|Ray Lewis]], the team rebounded to earn a berth in the [[1995 Orange Bowl]], where No. 1 [[1994 Nebraska Cornhuskers football team|Nebraska]] outscored Miami 15–0 in the final quarter to win the game, 24–17, and the national championship.&lt;ref name=&quot;2007 media&quot;/&gt;&lt;!--missing page #--&gt;&lt;ref name=cm145&gt;{{cite book|last=Feldman|first=Bruce|title=Cane Mutiny: How the Miami Hurricanes Overturned the Football Establishment|publisher=[[New American Library]]|location=New York|year=2004|isbn=0-451-21297-5|page=145}}&lt;/ref&gt;
+
+With the threat of NCAA sanctions hovering over the program for a variety of infractions, Erickson stepped down after the 1994 season to become head coach of the NFL's [[Seattle Seahawks]].&lt;ref name=&quot;cane mutiny&quot;/&gt;  Erickson departed Miami with a 63–9 record over six seasons and the highest winning percentage (.875) and most national championships (2) of any coach in school history.&lt;ref name=cm145/&gt;
+
+===Butch Davis era (1995–2000)===
+{{See also|1995 Orange Bowl}}
+[[File:Butch Davis.jpg|thumb|[[Butch Davis]]]]
+Several early candidates to replace [[Dennis Erickson]], including former UM defensive coordinator and 1994 ''Sports Illustrated'' Coach of the Year [[Sonny Lubick]], withdrew from consideration. Eventually, Miami settled on former Hurricanes assistant and [[Dallas Cowboys]] defensive coordinator [[Butch Davis]].
+
+The Hurricanes finished Davis' first season with a record of 8–3, which may have drawn a bowl invitation. However, on December 20, 1995 the NCAA announced that Miami would be subject to severe sanctions for numerous infractions within the athletic department. The Hurricanes were forced to sit out postseason play for the 1995 season and docked 31 scholarships from 1996 to 1998. Miami had actually self-reported the violations in 1991. However, when the Department of Education got word that school officials helped athletes fraudulently obtain [[Pell Grant]]s, it asked Miami to stop its own investigation while it conducted its own. Ultimately, 60 athletes were implicated, but all of them avoided criminal charges after being sent through a pretrial diversion program.&lt;ref name=Fanhouse&gt;Holiday, Pete. [http://www.aolnews.com/2007/07/23/footballs-dirtiest-programs-10-miami Football's Dirtiest Programs: #10, Miami]. [[FanHouse]], 2007-07-23.&lt;/ref&gt;
+
+In 1994, Tony Russell, a former UM academic advisor, pleaded guilty to helping more than 80 student athletes, 57 of whom were football players, falsify Pell Grant applications in exchange for kickbacks from the players themselves. The scandal dated all the way back to 1989 and secured more than $220,000 in federal grant money. Federal officials later said that Russell had engineered &quot;perhaps the largest centralized fraud ... ever committed&quot; in the history of the Pell Grant program.&lt;ref name=&quot;Wolff&quot;&gt;{{cite news | title=Why the University of Miami should drop football | accessdate=2006-11-11 | url=http://vault.sportsillustrated.cnn.com/vault/article/magazine/MAG1006688/index.htm | publisher=CNNSI.com | date=1995-06-12}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last=Feldman|first=Bruce|title=Cane Mutiny: How the Miami Hurricanes Overturned the Football Establishment|publisher=[[New American Library]]|location=New York|year=2004|isbn=0-451-21297-5|pages=131–33, 144, 156–57, 166}}&lt;/ref&gt;
+
+In late 1995, the NCAA concluded that, in addition to the fraudulent Pell Grants facilitated by Russell, the university had also provided or allowed over $400,000 worth of other, improper payments to Miami football players. The NCAA also found that the university had failed to wholly implement its drug testing program, and permitted three football student-athletes to compete without being subject to the required disciplinary measures specified in the policy.  The NCAA found that this was evidence that school officials didn't have adequate control over the football program.&lt;ref&gt;{{cite web | title=1995 Public Infraction Report | accessdate=2006-11-11 | url=https://web1.ncaa.org/LSDBi/exec/miSearch?miSearchSubmit=publicReport&amp;key=63&amp;publicTerms=THIS%20PHRASE%20WILL%20NOT%20BE%20REPEATED  | publisher=NCAA.org }}&lt;/ref&gt;  Miami docked itself seven scholarships as part of a self-imposed sanction in 1995, and the [[NCAA]] took away another 24 scholarships over the next two years. As a result of the scandal, ''[[Sports Illustrated]]''&lt;nowiki&gt;'&lt;/nowiki&gt;s [[Alexander Wolff]] wrote a cover story that Miami should at least temporarily shut down its football program.&lt;ref name=&quot;Wolff&quot;/&gt; Further, On June 21, 1996, Miami football players broke into the apartment of the captain of Miami's track team and struck him repeatedly. In response, Davis suspended three key players for the coming 1996 season. Davis also suspended two other players who were involved in separate violent incidents.&lt;ref&gt;{{cite news|url=http://sportsillustrated.cnn.com/vault/article/magazine/MAG1008584/1/index.htm|title=Though Love: Coach Butch Davis aims to save Miami football no matter how many players he has to suspend|first=William |last=Nack|date=August 19, 1996|accessdate=2009-10-20|work=Sports Illustrated}}&lt;/ref&gt;
+
+The imposition of scholarship reductions led to a long and sometimes painful rebuilding period for the Hurricanes.
+
+The low point for Miami came in 1997 when they posted a 5–6 record, the first losing season since Howard Schnellenberger's first year in 1979. The 1997 season saw the Hurricanes suffer one of the program's most humiliating losses, a 47–0 beating at the hands of in-state rival [[1997 Florida State Seminoles football team|Florida State]].&lt;ref name=&quot;1997 fsu1&quot;&gt;{{cite news|url=http://www.theacc.com/sports/m-footbl/spec-rel/100801aau.html|title=Miami–Florida State Rivalry Back to Life|last=Long|first=Mark|date=2001-10-08|work=TheACC.com|agency=Associated Press|accessdate=2009-10-12}}&lt;/ref&gt;&lt;ref name=&quot;1997 fsu2&quot;&gt;{{cite news|url=http://sportsillustrated.cnn.com/vault/article/magazine/MAG1011123/index.htm|title=Blown-out Hurricanes|last=Maisel|first=Ivan|date=1997-10-13|work=[[Sports Illustrated]]|accessdate=2009-10-12}}&lt;/ref&gt;
+
+The Hurricanes began to reassert themselves in 1998. In late September, Miami was forced to postpone their game with [[UCLA Bruins Football|UCLA]] due to [[Hurricane Georges]]. The game was rescheduled for December 5 and for the #2-ranked Bruins, a trip to the National Championship game was at stake. The Hurricanes rebounded from a 66–13 &quot;caning&quot; at the hands of Syracuse and Donovan McNabb to put up over 600 yards of total offense against UCLA en route to a stunning 49–45 victory for the Hurricanes.
+
+The following season carried high hopes and expectations for the Hurricanes. They opened the year with a 23–12 win over [[1999 Ohio State Buckeyes football team|Ohio State]] in [[East Rutherford, New Jersey|East Rutherford]]. Early success, however, was tempered by tough losses to [[1999 Penn State Nittany Lions football team|Penn State]] and [[1999 Florida State Seminoles football team|Florida State]] during a three-game losing streak. The Hurricanes rebounded to win their last 4 games including a 28–13 win over [[Georgia Tech Yellow Jackets football|Georgia Tech]] in the [[Gator Bowl]].
+
+In 2000, Miami was shut out of the [[Bowl Championship Series|BCS]] National Championship Game. Despite beating [[2000 Florida State Seminoles football team|Florida State]] head-to-head and being ranked higher in both human polls, the Seminoles were chosen to challenge the [[2000 Oklahoma Sooners football team|Oklahoma Sooners]] for the national championship. The Seminoles were also chosen over [[2000 Washington Huskies football team|Washington]], who also had one loss and who had handed Miami its only loss early in the season. Washington had been ranked third or fourth in the human polls, behind Miami. The Hurricanes went into the [[2001 Sugar Bowl|2001 Nokia Sugar Bowl]] as the Big East champions and defeated [[2000 Florida Gators football team|Florida]] 37–20. On January 29, 2001, [[Butch Davis]] left Miami to become head coach of the [[Cleveland Browns]].
+
+===Larry Coker era (2001–2006)===
+{{Main article|2001 Miami Hurricanes football team|2002 Miami Hurricanes football team|2004 Miami Hurricanes football team|2005 Miami Hurricanes football team|2006 Miami Hurricanes football team}}
+{{See also|2001 Sugar Bowl|2002 Rose Bowl|2003 Fiesta Bowl|2004 Orange Bowl|2004 Peach Bowl (December)|2005 Peach Bowl|2006 MPC Computers Bowl}}
+
+Dee promoted offensive coordinator [[Larry Coker]] to be head coach to replace Davis.&lt;ref&gt;{{cite book|last=Feldman|first=Bruce|title=Cane Mutiny: How the Miami Hurricanes Overturned the Football Establishment|publisher=[[New American Library]]|location=New York|year=2004|page=178|isbn=0-451-21297-5}}&lt;/ref&gt;
+
+Miami started the season with a 33–7, televised win over [[2001 Penn State Nittany Lions football team|Penn State]] in [[Beaver Stadium]]. Miami followed up the victory with wins over [[Rutgers Scarlet Knights football|Rutgers]], [[Pittsburgh Panthers football|Pittsburgh]], and [[Troy State University|Troy State]]. After building up a 4–0 record, the Hurricanes defeated [[2001 Florida State Seminoles football team|Florida State]] in [[Doak Campbell Stadium]], 49–27, ending the Seminoles' 54-game home unbeaten streak. The Hurricanes then defeated [[2001 West Virginia Mountaineers football team|West Virginia]], 45–3, and [[Temple University|Temple]], 38–0, before heading to [[Chestnut Hill, Massachusetts|Chestnut Hill]] to take on [[Boston College Eagles football|Boston College]]. In the final minute of the fourth quarter, with Miami clinging to a 12–7 lead, Boston College quarterback [[Brian St. Pierre]] led the Eagles from their own 30-yard line all the way down to the Hurricanes' 9. With BC on the verge of a momentous upset, St. Pierre attempted a pass to receiver Ryan Read at the Miami 2-yard line. However, the ball deflected off the leg of Miami cornerback [[Mike Rumph]], landing in the hands of defensive end Matt Walters. Walters ran ten yards with the ball before teammate [[Ed Reed]] grabbed the ball out of his hands at around the Miami 20-yard line and raced the remaining 80-yards for a touchdown, resulting in an 18–7 Miami victory.
+
+After surviving the scare from Boston College, Miami shutout #14 [[Syracuse Orange football|Syracuse]], 59–0, and defeated #12 [[2001 Washington Huskies football team|Washington]], 65–7 in the Orange Bowl. The combined 124–7 score set what the ''Orlando Sentinel'' described as an NCAA-record for the largest margin of victory over consecutive ranked opponents.&lt;ref&gt;{{cite web|url=http://sports.espn.go.com/ncf/columns/story?columnist=schlabach_mark&amp;id=3406050|title=2001 Hurricanes cream of BCS champions crop|last=Schlabach|first=Mark|date=2008-05-21|work=[[ESPN.com]]|accessdate=2009-10-17}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://blogs.orlandosentinel.com/sports_college_uf/2009/07/team-of-the-decade-the-2001-miami-hurricanes.html|title=Team of the decade: The 2001 Miami Hurricanes|last=Adelson|first=Andrea|date=2009-07-02|work=[[Orlando Sentinel]]|accessdate=2009-10-17}}&lt;/ref&gt;
+
+The final hurdle to the [[2002 Rose Bowl]] [[BCS National Championship Game]] was at [[Virginia Tech Hokies football|Virginia Tech]]. Miami jumped on Virginia Tech early, leading 20–3 at halftime, and 26–10 in the fourth quarter. But despite being outgained by the Hurricanes by 134 yards and being dominated in time-of-possession, the Hokies never quit. Virginia Tech added a couple of late touchdowns, attempting two-point conversions on each. The first conversion was successful, pulling them to 26–18, but receiver Ernest Wilford dropped a pass from quarterback Grant Noel in the endzone for the second conversion. Still, the resilient Hokies had one more chance to win the game late, taking possession of the ball at midfield and needing only a field goal to take the lead. But a diving, game-saving interception by Ed Reed sealed the Miami victory, 26–24. Defeating Virginia Tech earned the top-ranked Hurricanes an invitation to the Rose Bowl to take on BCS #2 [[2001 Nebraska Cornhuskers football team|Nebraska]] for the national championship.
+
+In the Rose Bowl, the Hurricanes took a 34–0 halftime lead and cruised to a 37–14 win over the Huskers to capture their fifth national championship and put the finishing touches on a perfect 12–0 season. The Miami defense shut down [[Heisman Trophy|Heisman]] winner [[Eric Crouch]] and the vaunted Huskers offense, holding Nebraska 200 yards below its season average. [[Ken Dorsey]] and [[Andre Johnson]] were named [[Rose Bowl (game)|Rose Bowl]] co-Most Valuable Players.&lt;ref&gt;{{cite web | accessdate=2007-07-24 | url=http://hurricanesports.cstv.com/sports/m-footbl/archive/043002aaf.html | title=Character, Class And Poise = Championship | author= | date=2007-07-24 | publisher=Hurricanesports.com}}&lt;/ref&gt;
+
+Six Hurricane players earned All-American status and six players were finalists for national awards, including [[Maxwell Award]] winner, [[Ken Dorsey]], and [[Outland Trophy]] winner, [[Bryant McKinnie]]. Dorsey was also a [[Heisman Trophy]] finalist, finishing third.
+
+The [[2001 Miami Hurricanes football team|2001 Miami Hurricanes]] are considered by some experts and historians as one of the greatest teams in college football history.&lt;ref&gt;{{cite web|accessdate=2007-07-24 |url=http://sports.espn.go.com/chat/sportsnation/story?page=uschistory01miami |title=USC's Place In History: 2001 Miami |author= |date=2007-07-24 |publisher=ESPN.com |deadurl=yes |archiveurl=https://web.archive.org/web/20060626031205/http://sports.espn.go.com/chat/sportsnation/story?page=uschistory01miami |archivedate=June 26, 2006 }}&lt;/ref&gt;
+
+Miami started the 2002 season as the defending national champion and the #1 ranked team in the country. Behind a high-powered offense led by senior quarterback [[Ken Dorsey]], new starting running back [[Willis McGahee]], and a stout defense anchored by [[Jonathan Vilma]], the Hurricanes completed their regular season schedule undefeated. The season was highlighted by a 41–16 win over rival [[2002 Florida Gators football team|Florida]] at [[Ben Hill Griffin Stadium]], the first regular season meeting between the rivals since 1987.
+
+The Hurricanes' toughest test was an October clash against rival [[Florida State Seminoles football|Florida State]] at the [[Miami Orange Bowl|Orange Bowl]]. Miami overcame a 13-point second half deficit to defeat the Seminoles, 28–27. The game was clinched when [[2002 Florida State Seminoles football team|Florida State]] kicker [[Xavier Beitia]] missed a 43-yard field goal, wide left, as time expired. Another signature win came four weeks later when Miami dominated the [[Tennessee Volunteers football|Tennessee Volunteers]], 26–3, before a crowd of 107,745 at [[Neyland Stadium]], considered one of the most hostile road venues in college football.
+
+Miami would finish 12–0 and clinch a berth in the [[2003 Fiesta Bowl|Fiesta Bowl]] BCS National Championship Game after a wild 56–45 victory over Virginia Tech in which McGahee rushed for 205 yards and a school-record six touchdowns. Both Dorsey and McGahee were named as finalists for the Heisman Trophy, finishing 4th and 5th, respectively.
+
+Miami, in the midst of a 34-game winning streak, was installed as a 13-point favorite in the Fiesta Bowl match up against #2 [[2002 Ohio State Buckeyes football team|Ohio State]]. The Hurricanes took an early 7–0 lead on a 25-yard touchdown pass from Dorsey to [[Roscoe Parrish]], but Ohio State seized control in the second quarter behind an aggressive pass rush, bolstered by constant [[blitz (American football)|blitzing]], and a stifling rush defense. The Buckeyes held a 14–7 lead at the half, and a field goal by [[Mike Nugent]] extended Ohio State's advantage to 17–7 midway through the third quarter.
+
+A touchdown run by McGahee brought the Hurricanes within 3 points, but he suffered a knee injury early in the fourth quarter.&lt;ref&gt;{{cite news|url=http://www.nydailynews.com/sports/football/2009/01/19/2009-01-19_ravens_willis_mcgahee_hospitalized_after.html|title=Ravens' Willis McGahee hospitalized after scary hit in AFC title game|date=2009-01-19|work=[[New York Daily News]]|accessdate=2009-10-17}}&lt;/ref&gt;  Miami was able to fight back and force overtime on a 40-yard field goal by Todd Sievers on the final play of the fourth quarter, aided by several questionable calls. Miami scored a touchdown on its first possession in overtime on a 7-yard pass from Dorsey to [[Kellen Winslow II]], and, on Ohio State's ensuing possession, the Hurricanes appeared to have won the game, 24–17, after Buckeyes quarterback [[Craig Krenzel]]'s fourth-and-3 pass from the Miami 5 fell incomplete in the end zone. Miami players and coaches rushed the field and stadium fireworks were set off to commemorate the program's apparent sixth national championship.
+
+The celebration proved premature. At the conclusion of the play, Big 12 official Terry Porter threw a flag and made a controversial, [[pass interference]] call against Miami cornerback [[Glenn Sharpe]]. The penalty took the air out of Miami's sails and gave Ohio State new life, first-and-goal at the 1. The Buckeyes scored a touchdown to tie it at 24–24 at the end of the first overtime, and [[Maurice Clarett]]'s 5-yard touchdown run in the second overtime gave Ohio State a 31–24 lead.
+
+Miami's ensuing possession saw Dorsey briefly knocked out of the game after a hit from linebacker [[Matt Wilhelm]]. After backup quarterback Derrick Crudup completed an 8-yard pass on third down, Dorsey re-entered and converted the crucial fourth-and-3 with a 7-yard completion to Winslow. Miami then drove to the Ohio State 2 yard-line, but was held to one yard on its next three plays, giving Ohio State the national championship.
+
+Miami suffered through some offensive struggles in 2003 behind new quarterback [[Brock Berlin]]. A blowout loss at Virginia Tech in early November ended Miami's 39-game regular season winning streak and a loss the following week to [[Tennessee Volunteers football|Tennessee]] ended Miami's national championship aspirations. The Hurricanes rebounded to win the Big East Conference championship and finish the season 11–2 with an [[2004 Orange Bowl]] victory over [[2003 Florida State Seminoles football team|Florida State]].
+
+Miami joined the [[Atlantic Coast Conference|ACC]] in 2004 and despite 3 conference losses, the Hurricanes ended the season with a [[Peach Bowl]] victory over rival [[2004 Florida Gators football team|Florida]].
+
+The [[2005 Miami Hurricanes football team|2005]] season marked the debut of [[Kyle Wright]] as Miami's starting quarterback, although the much-ballyhooed Wright would struggle with consistency during the season with much of Miami's success that year fueled by its defense. After a loss to Florida State after placekick holder Bryan Monroe bobbled the snap for what would have been a game-tying field goal attempt, Miami would win eight straight games, including a road win over 3rd-ranked Virginia Tech, only to stumble two weeks later against underdog Georgia Tech. Miami's second conference loss of the season cost it a place in the inaugural ACC Championship game and it competed instead in the [[2005 Chick-fil-A Bowl|Peach Bowl]], where it lost to [[2005 LSU Tigers football team|LSU]], 40–3.
+
+2005 also saw the program embroiled in more controversy when it was reported several Miami football players had recorded a rap song in 2004 that contained lewd sexual references.&lt;ref&gt;{{YouTube|9ujKxpAvLKg|Retrieved 2009-10-16.}}&lt;/ref&gt;  The song, recorded by an informal group that called itself &quot;7th Floor Crew&quot; and set to the beat of [[Aaliyah]]'s &quot;[[If Your Girl Only Knew]]&quot;, received much criticism in outlets such as [[ESPN]] and ''[[Sports Illustrated]]''.&lt;ref name=floorcrew&gt;{{cite web|url=http://sports.espn.go.com/espn/columns/story?columnist=forde_pat&amp;id=2226626/|author=[[Pat Forde]]|work=ESPN.com|title=Rap recording could threaten Miami's progress|accessdate=2013-11-19}}&lt;/ref&gt; Following the negative publicity, the University issued a statement condemning its lyrical content.&lt;ref&gt;{{cite news|url=http://sports.espn.go.com/espn/page2/story?page=jones/051118/crew|title=Nothing Shocking About 'Crew' |date=2005-11-18|accessdate = 2011-05-21}}&lt;/ref&gt;
+
+The 2006 season included an [[Miami-FIU brawl|on-field brawl]] against [[FIU Golden Panthers football|Florida International]], the shooting death of Miami defensive tackle [[Bryan Pata]], and a four-game late-season losing streak. Only a [[Thanksgiving (United States)|Thanksgiving]] night victory over [[2006 Boston College Eagles football team|Boston College]], in Miami's last game of the regular season, saved the Hurricanes from a losing regular season record.
+
+The day following the Boston College victory, university president [[Donna Shalala]] terminated Coker.&lt;ref&gt;{{cite news|url=http://www.nytimes.com/2006/11/24/sports/ncaafootball/24cnd-coker.html?scp=8&amp;sq=%22University%20of%20Miami%22&amp;st=cse|title=University of Miami Fires Coach Larry Coker|first=Charlie|last=Nobles|work=New York Times|date=November 24, 2006|accessdate=2010-02-05}}&lt;/ref&gt; Coker coached through the postseason, where he won his final game, a 21–20 victory over [[Nevada Wolf Pack football|Nevada]] on December 31, 2006 in the [[2006 MPC Computers Bowl|MPC Computers Bowl]].
+
+===Randy Shannon era (2007–2010)===
+[[File:Randy Shannon 70723.jpg|thumb|[[Randy Shannon]]]]
+{{Main article|2007 Miami Hurricanes football team|2008 Miami Hurricanes football team|2009 Miami Hurricanes football team|2010 Miami Hurricanes football team}}
+{{See also|2008 Emerald Bowl|2009 Champs Sports Bowl|2010 Sun Bowl}}
+After a search that lasted two weeks, [[defensive coordinator]] and Miami alumnus [[Randy Shannon]] was officially introduced as the program's new head coach on December 8, 2006. Shannon reportedly agreed to a four-year deal worth over $4 million.&lt;ref&gt;{{cite news|url=http://sports.espn.go.com/ncf/news/story?id=2690489|title=Defensive coordinator Shannon new Miami Coach
+|agency=The Associated Press|author=Mark Schlabach &amp; Joe Schad|publisher=[[ESPN.com]]|date=2006-12-07|accessdate=2006-12-07}}&lt;/ref&gt; As of November 2010, Shannon's .553 career winning record is the worst of any University of Miami coach in four decades.
+
+Shannon's first year as UM head coach in 2007 was one of the worst in the Hurricanes' modern history, with the team registering a losing 5–7 record. Under Shannon, the team failed to reach a bowl game for the first time in a decade, and it was the first non-penalized full-scholarship team to miss a bowl game in more than 25 years.
+
+Media draft experts{{By whom|date=November 2009}} considered the freshmen on the 2008 team to be one of the top recruiting classes in the nation.&lt;ref name=&quot;2008teamrankings&quot;&gt;{{cite web |url=http://rivals100.rivals.com/TeamRank.asp?postype=0&amp;sort=0&amp;year=2008|title= 2008 Team Rankings|date=2008-03-19|work=[[Rivals.com]]|accessdate=2009-12-10}}&lt;/ref&gt; The 2008 regular season was highlighted by losses to rivals [[2008 Florida Gators football team|Florida]] and [[2008 Florida State Seminoles football team|Florida State]], as well as an upset victory over [[2008 Virginia Tech Hokies football team|Virginia Tech]]. The 26–3 loss to Florida was Miami's first in that series since 1985, snapping a 6-game winning streak against the Gators. Afterwards, the tension between the two teams was heightened when Shannon accused Florida coach [[Urban Meyer]] of trying to run up the score with an unsuccessful deep pass into the end zone in the game's final minute. The visiting Hurricanes were 22½ point underdogs in the nationally televised game but only trailed 9–3 heading into the fourth quarter, leading some to wonder whether Meyer was trying to compensate for his team's unimpressive performance.before kicking a [[Field goal (football)|field goal]] with :25 remaining.&quot;&lt;ref name=&quot;runupscore&quot;&gt;{{cite news |url=http://www.palmbeachpost.com/sports/content/sports/epaper/2008/09/10/0910stoda.html|title=UM's Randy Shannon shouldn't complain about Gators running up score |last=Stoda|first=George|date=2008-09-10|work=[[Palm Beach Post]]|accessdate=2009-06-14}}&lt;/ref&gt;&lt;ref name=&quot;runupscore&quot;/&gt;&lt;ref&gt;{{cite news |url=http://www.tampabay.com/sports/college/article807133.ece?comments=legacy|title=Sapp rips Florida for late field goal|date=2008-09-12|work=[[St. Petersburg Times]]|accessdate=2009-06-14}}&lt;/ref&gt; Miami was knocked out of [[2008 ACC Championship Game|ACC Championship]] contention with a late-season loss to [[2008 Georgia Tech Yellow Jackets football team|Georgia Tech]] in which the Hurricanes surrendered the second-most rushing yards in school history (472).&lt;ref name=&quot;georgiatech08&quot;&gt;{{cite news|url=http://sports.espn.go.com/ncf/recap?gameId=283250059 |title=Georgia Tech racks up 473 rushing yards, dampers No. 23 Miami's ACC title hopes|date=November 20, 2008|publisher=ESPN.com|accessdate=2009-02-19}}&lt;/ref&gt; The Hurricanes finished the 2008 season at 7–6 after a 24–17 loss to [[2008 California Golden Bears football team|California]] in the [[2008 Emerald Bowl|Emerald Bowl]].
+
+After the 2008 season, Shannon fired offensive coordinator [[Patrick Nix]], citing philosophical differences.&lt;ref&gt;[http://www.miamiherald.com/sports/colleges/um/story/830541.html (dead link)]&lt;/ref&gt; Also, starting quarterback [[Robert Marve]] left the team because he claimed not to be able to play for Coach Shannon.&lt;ref&gt;[http://www.tampabay.com/sports/article953694.ece Robert Marve leaving Miami; 'Canes set tight transfer restrictions]&lt;/ref&gt; Shannon placed strict restrictions on Marve's potential transfer destinations and received much criticism in the media.&lt;ref&gt;{{cite news |url=http://www2.tbo.com/content/2008/dec/31/sp-marve-saga-comes-to-end/sports-prepsports/|author=Joey Johnston|title=Drama-Filled Marve Saga at UM Comes to End'|publisher=[[Tampa Tribune]]|accessdate=Dec 31, 2008|date=Dec 31, 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last=Wetzel |first=Dan |url=https://sports.yahoo.com/ncaa/football/news?slug=dw-marve010308&amp;prov=yhoo&amp;type=lgns |title=Block on Marve transfer out of bounds – College Football – Rivals.com |publisher=Rivals.yahoo.com |date=2009-01-02 |accessdate=2012-07-19}}&lt;/ref&gt;&lt;ref&gt;{{cite web |last=Wojciechowski |first=Gene|title=Hurricanes send warning signals|publisher=ESPN|date=2009-01-07|url=http://sports.espn.go.com/espn/columns/story?columnist=wojciechowski_gene&amp;id=3815468&amp;sportCat=ncf |accessdate=2009-09-23}}&lt;/ref&gt; However, the University of Miami claimed in a press release that the restrictions were set because of suspected tampering by Marve's family or others on behalf of the Marve family.&lt;ref&gt;[http://www.miamiherald.com/sports/colleges/um/story/835745.html (dead link)]&lt;/ref&gt;
+
+Shannon's staff suffered more upheaval when defensive coordinator Bill Young left to assume the same position at [[Oklahoma State University|Oklahoma State]], his alma mater, in late January 2009. North Carolina assistant John Lovett was hired to replace him.&lt;ref&gt;{{cite news|title=Canes choose Lovett as D.C. |publisher=CNN Sports Illustrated. Associated Press |date=2009-02-09 |url=http://sportsillustrated.cnn.com/2009/football/ncaa/02/09/miami.ap/index.html?eref=sircrc |accessdate=2009-09-23 |deadurl=yes |archiveurl=https://web.archive.org/web/20090212000650/http://sportsillustrated.cnn.com/2009/football/ncaa/02/09/miami.ap/index.html?eref=sircrc |archivedate=February 12, 2009 }}&lt;/ref&gt;
+
+Shannon hired former [[Philadelphia Eagles]] offensive assistant [[Mark Whipple]] as Miami's new offensive coordinator and assistant head coach. Several Miami offensive players from the 2008 season returned, including quarterback [[Jacory Harris]], both starting running backs, most of the offensive line and its top six receivers.&lt;ref&gt;{{cite web|title=Whipple to run Miami's offense |publisher=ESPN. Associated Press|date=2009-01-27|url=http://sports.espn.go.com/ncf/news/story?id=3863810|accessdate=2009-09-23}}&lt;/ref&gt; Shannon has been able to recruit a number of Southern Florida's top high school football players by telling them that they would be able to play immediately. In fact, 21 [[true freshmen]] played during the 2008 season opener.&lt;ref&gt;{{cite news |title='Canes Eyeing Return to Glory|first=Amy|last=Shipley|work=Washington Post|page=D1|date=September 24, 2009}}&lt;/ref&gt;
+
+The 2009 season began on a poor note after two back up quarterbacks, Taylor Cook and Cannon Smith both transferred out during fall practice, leaving the young Hurricane team with only one serviceable backup in true freshman A.J. Highsmith. Sophomore [[Jacory Harris]] directed the newly implemented offense. To make matters worse, starting defensive end Adewale Ojomo suffered a broken jaw in a locker room fight that led to a season-ending injury, causing the already young Hurricane team to go into their season short handed.
+
+Miami faced adifficult schedule to start the 2009 season with visits to #18 [[Florida State]], a home game against #15 [[Georgia Tech]], a visit to [[Lane Stadium]] and the #7 Virginia Tech Hokies and a home visit from the defending [[Big 12 Conference]] champions and BCS Champion runner-ups in #3 [[University of Oklahoma]].&lt;ref&gt;{{cite web|url=http://espn.go.com/ncf/teams/schedule?teamId=2390 |title=Miami (FL) 2012 Schedule - Hurricanes Home and Away - ESPN |publisher=Espn.go.com |date= |accessdate=2012-07-19}}&lt;/ref&gt; Some national media outlets and sites such as [[ESPN]] predicted at best a 2–2 record for the Hurricanes with some even predicting an 0–4 start.&lt;ref&gt;{{cite web|url=http://sports.espn.go.com/ncf/preview09/columns/story?columnist=schlabach_mark&amp;id=4436645 |title=Who has the toughest road in 2009? - College Football - ESPN |publisher=Sports.espn.go.com |date=2009-09-01 |accessdate=2012-07-19}}&lt;/ref&gt;
+
+Miami opened up their 2009 season against their rival the Florida State Seminoles on Labor Day night for a national broadcast for ESPN. Billed as a &quot;Battle of Rebuilding Programs&quot;, Quarterback Jacory Harris led a heroic comeback in Tallahassee to beat the then ranked Seminoles 38–34, overcoming a late interception and apparent injury to Harris in the 4th quarter. The next week, Miami welcomed the [[triple option]] offense of the #14 [[Georgia Tech Yellow Jackets]] in yet another ESPN prime-time game. Georgia Tech came in hot off of a big ACC win against [[Clemson University]] the previous week and held a 4–0 record against the Hurricanes in the last 4 years, including the previous years pounding in Atlanta (referenced above). The 2009 contest would be a different story all together, as the Hurricanes handily beat the Jackets 33–17 at home and allowed only 95 rushing yards in the process. The next week, with the Hurricanes in the national spotlight for the first time in 5 years, the #9 Miami team visited the  #11 [[Virginia Tech Hokies]]. In pouring rain, Tech defeated the Hurricanes by a final score of 31–7. Beat up and embarrassed, Miami then played the [[Oklahoma Sooners]]. Without [[Heisman Award]] winner [[Sam Bradford]], Oklahoma took an early 10–0 lead after two early Jacory Harris interceptions. Going into halftime, the Hurricanes trailed the Sooners 10–7 in a highly contested football game. Miami came out for the second with a huge hit on the kick off team by [[Cory Nelms]] that forced the Sooners to start inside their own 20. The following play, Sophomore Corner [[Brandon Harris]] hit Oklahoma Quarterback [[Landry Jones]] and forced a fumble that eventually led to a Hurricane touchdown. The momentum stayed with the Hurricanes as they rode to a 21–20 win over the #8 team in the land. Following the opening four weeks, Miami was 3–1 and was the talk of sports stations nationwide.
+
+Following the gauntlet first third of the season, the Hurricanes won against [[Florida A&amp;M]] at home and on the road against [[University of Central Florida|UCF]], moving all the way up to #10 in the polls. The Canes then had to take on the always tough Clemson Tigers in Miami in what was a contest of speed and athleticism. Turnovers, missed opportunities and stand-out back [[CJ Spiller]] led the Tigers to a 40–37 overtime win against the Hurricanes, knocking them out of BCS contention and putting the [[ACC Championship Game]] in serious jeopardy. A win against [[Wake Forest University|Wake Forest]] on Halloween kept the Hurricanes in the conference race, which they followed up on with a 52–17 defeat of the [[University of Virginia]] in Miami. The next week [[University of North Carolina at Chapel Hill|UNC]] topped Miami 33–24 with an unimpressive performance by Jacory Harris and the offense. Miami finished up the 2009 regular season with back-to-back wins over [[Duke]] and in-state rival [[University of South Florida|USF]]. Miami's final record was 9–3, finishing in 3rd place for the [[ACC Coastal Division]] behind Georgia Tech and Virginia Tech.
+
+The announcement of the 2009 bowl selections stirred some controversy. Instead of choosing the 3rd best team in the ACC (Miami), the [[Gator Bowl]] chose the Florida State Seminoles to represent the ACC against the [[West Virginia University]] instead of the Hurricanes because of the retirement of legendary FSU coach [[Bobby Bowden]].&lt;ref&gt;{{cite web|last=Smits |first=Garry |url=http://jacksonville.com/sports/college/florida_state_seminoles/2009-11-30/story/bobby_bowdens_final_game_as_florida_state_co |title=Bobby Bowden's final game as Florida State coach likely in the Gator Bowl |publisher=jacksonville.com |date= |accessdate=2012-07-19}}&lt;/ref&gt; The Hurricanes were relegated to the [[Champs Sports Bowl]] in Orlando to play against the 9–3 [[Wisconsin Badgers]]. Though the Hurricanes were heavy favorites coming into the contest, the Badgers beat up on the Hurricanes consistently throughout the game. Though the Hurricanes started off fast with a big return to open the game by Sam Shields, the Canes just could not maintain any offense throughout the game and had no answer for the power offense of Wisconsin. Going into halftime, the Hurricanes trailed 17–7 and Graig Cooper blew out his knee on the poor turf just before halftime on a kick off return.&lt;ref&gt;[http://cbs4.com/ncaa/graig.cooper.injury.2.1397602.html ] {{webarchive |url=https://web.archive.org/web/20100102130111/http://cbs4.com/ncaa/graig.cooper.injury.2.1397602.html |date=January 2, 2010 }}&lt;/ref&gt; Though Miami scored a late touchdown and recovered the [[onside kick]], they fell to Wisconsin 20–14 and finished the season at 9–4.&lt;ref&gt;&quot;2010 Miami Hurricanes Football Media Guide&quot;, 2009 Champs Sports Bowl recap, pg. 130&lt;/ref&gt;
+
+After the 2009 season, Shannon signed the #13 recruiting class in the nation according to ESPN.&lt;ref&gt;{{cite web|url=http://insider.espn.go.com/ncf/recruiting/classrankings?&amp;action=upsell&amp;appRedirect=http%3a%2f%2finsider.espn.go.com%2fncf%2frecruiting%2fclassrankings |title=College Football Class Rankings 2013 - ESPN |publisher=Insider.espn.go.com |date= |accessdate=2012-07-19}}&lt;/ref&gt; Shannon addressed many depth issues including offensive line, line backers and running backs, however the media claimed that the staff missed out on several of the more highly touted recruits on signing day, including a couple of &quot;5 star&quot; players.&lt;ref&gt;{{cite web|url=http://www.miamiherald.com/sports/colleges/um/story/1461821.html |accessdate=February 16, 2010 }}{{dead link|date=May 2016|bot=medic}}{{cbignore|bot=medic}}&lt;/ref&gt; Coaching changes were made before and after signing day, including the departure of defensive line coach and recruiting coordinator Clint Hurtt to the [[University of Louisville]]&lt;ref&gt;{{cite web|url=http://www.miamiherald.com/606/story/1429649.html |accessdate=February 16, 2010 }}{{dead link|date=May 2016 |bot=medic}}{{cbignore|bot=medic}}&lt;/ref&gt; and the loss of running backs coach Tommie Robinson to the [[Arizona Cardinals]].&lt;ref&gt;{{cite web |url=http://profootballtalk.nbcsports.com/2010/02/05/cardinals-tab-tommie-robinson-to-coach-rbs/?related=1 |title=Cardinals tab Tommie Robinson to coach RBs &amp;#124; ProFootballTalk |publisher=Profootballtalk.nbcsports.com |date=2010-02-05 |accessdate=2012-07-19}}&lt;/ref&gt; Shannon replaced them with former Hurricane and current [[University of Kentucky]] defensive line coach Rick Petri&lt;ref&gt;{{cite web|url=http://sports.espn.go.com/ncf/news/story?id=4867548 |title=The University of Miami brings back Rick Petri to coach defensive line – ESPN |publisher=Sports.espn.go.com |date=2010-01-28 |accessdate=2012-07-19}}&lt;/ref&gt; as well as running back coach Mike Cassano from [[Florida International University]].&lt;ref&gt;{{cite web |url=http://www.miamiherald.com/sports/colleges/um/story/1470123.html |accessdate=February 27, 2010 }}{{dead link|date=May 2016|bot=medic}}&lt;/ref&gt; Subsequently, Shannon has named wide-receiver coach Aubry Hill as the recruiting coordinator for the program. In May 2010, the university extended Shannon's employment contract as head coach through 2014.&lt;ref&gt;{{cite new s|url=http://sports.espn.go.com/ncf/news/story?id=5184740|title=Shannon signs deal with Miami|date=May 13, 2010|work=ESPN News|agency=Associated Press|accessdate=2010-12-17}}&lt;/ref&gt;
+
+The Hurricanes finished the 2010 regular season with a 7–5 record which included losses to rivals Florida State and Virginia Tech as well as the first ever loss to in-state opponent USF in the last game of the season. Shannon was fired by Athletic Director Kirby Hocutt within hours of the loss to USF.{{Citation needed|date=December 2010}} Interim head coach [[Jeff Stoutland]], who was offensive line coach under Shannon, led the team into its Sun Bowl matchup versus [[2010 Notre Dame Fighting Irish football team|Notre Dame]]; the Hurricanes lost the New Year's Eve game 33–17.&lt;ref&gt;http://www.hurricanesports.cstv.com/sports/m-footbl/sched/mifl-m-footbl-sched.html#|accessdate=January 10, 2011&lt;/ref&gt;
+
+===Al Golden era (2011–2015)===
+[[File:Al Golden Miami 2012.jpg|thumb|right|[[Al Golden (American football)|Al Golden]]]]
+{{Main article|2011 University of Miami athletics scandal|2011 Miami Hurricanes football team|2012 Miami Hurricanes football team|2013 Miami Hurricanes football team|2014 Miami Hurricanes football team}}
+Following Shannon's release, Miami hired [[Temple University]] head coach [[Al Golden (American football)|Al Golden]] as their new head coach, on December 13, 2010.
+
+Golden posted a 6-6 record in his first year at Miami. It was only the third time, since 1979, that the program had failed to register a winning record.&lt;ref&gt;[http://www.palmbeachpost.com/sports/hurricanes/al-goldens-contract-extension-gives-stability-to-um-1996353.html &quot;Al Golden's Contract Extension Gives Stability to UM,&quot; ''The Palm Beach Post'', November 26, 2011]&lt;/ref&gt;
+
+In his second season as head coach, the Hurricanes finished with a 7-5 mark. This resulted in a three way tie, with [[North Carolina Tar Heels football|North Carolina]] and [[Georgia Tech Yellow Jackets football|Georgia Tech]], for the best record in the ACC coastal division. [[2012 North Carolina Tar Heels football team|North Carolina]], which had defeated the Hurricanes earlier in the season, would have been declared the coastal division champion based on the ACC tie breaker formula. However, due to [[National Collegiate Athletic Association|NCAA]] sanctions, they were ineligible for postseason play. Miami finished in second place based on the formula. However, due to likely pending NCAA sanctions from the [[2011 University of Miami athletics scandal|Nevin Shapiro scandal]], the university's administration preemptively chose to forego post-season play for the second consecutive year. Had they played, it would have marked their only appearance in the ACC championship game, since joining the conference, in 2004. It would also have set up a rematch with [[Florida State Seminoles football|Florida State]], who had defeated the Hurricanes earlier in the season.{{citation needed|date=January 2016}}
+
+In October 2013, after a two and a half year investigation, the NCAA announced that &quot;the committee acknowledged and accepted the extensive and significant self-imposed penalties by the university.&quot;&lt;ref name=&quot;ncaa.org&quot;&gt;[http://www.ncaa.org/wps/wcm/connect/public/ncaa/resources/latest+news/2013/october/university+of+miami+lacked+institutional+control+resulting+in+a+decade+of+violations ]{{dead link|date=September 2016}}&lt;/ref&gt; Therefore, no further bowl ban would be enforced. As a result, Miami was eligible to compete in ACC championship and BCS bowls for the 2013–14 season. However, the NCAA stripped Miami of nine scholarships over three years.{{citation needed|date=January 2016}}
+
+On October 25, 2015, following a 58-0 loss to [[Clemson Tigers football|Clemson]], the worst defeat in school history, the university's athletic director, Blake James, announced [[Al Golden (American football)|Golden]] had been terminated.&lt;ref&gt;[http://espn.go.com/college-football/story/_/id/13972433/miami-hurricanes-fire-al-golden-head-coach Miami Hurricanes fire Al Golden as head coach day after 58-0 pounding] Matt Fortuna. ESPN. October 25, 2015. Retrieved October 25, 2015&lt;/ref&gt; Golden was 32-25 in his five seasons at Miami and led the program to bowl games in 2013 and 2014.&lt;ref&gt;[http://www.hurricanesports.com/ViewArticle.dbml?DB_OEM_ID=28700&amp;ATCLID=210450744 Golden Relieved of his Duties Effective Immediately] Hurricane Sports. University of Miami. October 25, 2015. Retrieved October 26, 2015&lt;/ref&gt;
+
+===Mark Richt era (2016– )===
+[[Mark Richt]] was hired as the program's 24th [[List of Miami Hurricanes head football coaches|head football coach]] on December 4, 2015. Richt was previously the head coach at the [[University of Georgia]] [[football program]] from 2001 to 2015.&lt;ref&gt;{{cite web|url=http://www.hurricanesports.com/ViewArticle.dbml?DB_OEM_ID=28700&amp;ATCLID=210557297 |title=Hurricanes Hire Richard Shockey as Head Coach – University of Miami Hurricanes Official Athletic Site |publisher=Hurricanesports.com |date=2015-12-04 |accessdate=2015-12-04}}&lt;/ref&gt;
+
+==Current coaching staff==
+
+{| class=&quot;wikitable&quot;
+|-
+! Name !! Position !! Seasons on Staff at Miami&lt;br /&gt;&lt;small&gt;(As of February 2016, including 2016 season)&lt;/small&gt; !! Alma Mater !! Primary Playing Experience
+|- style=&quot;text-align:center;&quot;
+| [[Mark Richt]] || Head Coach || 1st || [[University of Miami|Miami]] (1982) || Quarterback
+|- style=&quot;text-align:center;&quot;
+| [[Manny Diaz (American football)|Manny Diaz]] || Defensive Coordinator / Linebackers || 1st || [[Florida State University|Florida State]] (1995) || HS Football (Miami County Day)
+|- style=&quot;text-align:center;&quot;
+| [[Thomas Brown (running back)|Thomas Brown]]# || Offensive Coordinator / Running Backs Coach || 1st || [[Georgia Bulldogs football|Georgia]] (2008) || Running back
+|- style=&quot;text-align:center;&quot;
+| Craig Kuligowski  || Defensive Line Coach || 1st || [[Toledo Rockets football|Toledo]] (1991) || Offensive lineman
+|- style=&quot;text-align:center;&quot;
+| [[Ron Dugans]] || Wide Receivers Coach / Passing Game Coordinator || 1st || [[Florida State Seminoles football|Florida State]] (2000) || Wide receiver
+|- style=&quot;text-align:center;&quot;
+| Stacy Searels || Offensive Line Coach || 1st|| [[Auburn University|Auburn]] (1990) || Offensive lineman
+|- style=&quot;text-align:center;&quot;
+| Todd Hartley# || Special Teams Coordinator / Tight Ends || 1st || [[University of Georgia|Georgia]] (2007) || Quarterback HS
+|- style=&quot;text-align:center;&quot;
+| [[Mike Rumph]] || Cornerbacks Coach || 1st || [[University of Miami|Miami]] (2002) || Defensive back
+|- style=&quot;text-align:center;&quot;
+| Ephraim Banda || Safeties Coach || 1st || [[Incarnate Word Cardinals football|Incarnate Word]] (2012) || Defensive back
+|- style=&quot;text-align:center;&quot;
+| Jon Richt || Quarterbacks Coach || 1st || [[Mars Hill University|Mars Hill]] (2013) || Quarterback
+|- style=&quot;text-align:center;&quot;
+|Jake Flaherty || Graduate Assistant – Slot Receivers || 1st || [[Bucknell University|Bucknell]] (2014) || Wide receiver
+|- style=&quot;text-align:center;&quot;
+|Mike Zuckerman || Graduate Assistant – Defensive Line || 3rd&lt;small&gt;(1st in current position)&lt;/small&gt;  || [[Miami Hurricanes|Miami]] (2012) || 
+|- style=&quot;text-align:center;&quot;
+| Don Corzine || Director of Football Operations || 5th || [[Indiana University Bloomington|Indiana]] (1999)||
+|- style=&quot;text-align:center;&quot;
+| Eric Josephs || Director of Player Personnel || 3rd &lt;small&gt;(1st in current position)&lt;/small&gt; || [[University of Wisconsin–Madison|Wisconsin]] (2011) || 
+|- style=&quot;text-align:center;&quot;
+| Kareem Brown || Director of Player Development || 3rd&lt;small&gt;(1st in current position)&lt;/small&gt;  ||  [[Miami Hurricanes|Miami]] (2006) || Defensive lineman
+|- style=&quot;text-align:center;&quot;
+| Joel Rodriguez || Director of Player Development || 2nd || [[Miami Hurricanes|Miami]] (2005) || Offensive lineman
+|- style=&quot;text-align:center;&quot;
+| Jorge Baez || Director of On-Campus Recruiting &amp; Offensive Personnel || 3rd || [[Florida International University|FIU]] (2003) ||
+|- style=&quot;text-align:center;&quot;
+| Steve Dell || Assistant Director of Player Personnel &amp; Defensive Personnel || 1st || [[Temple University|Temple]] (2008) || Defensive back 
+|- style=&quot;text-align:center;&quot;
+| Gus Felder# || Director of Strength &amp; Conditioning || 1st || [[Penn State Nittany Lions football|Penn State]] (2002) || Offensive lineman
+|- style=&quot;text-align:center;&quot;
+| John Thomas# || Associate Strength and Conditioning Coach || 1st || [[Muskingum College]] || Offensive lineman and Defensive lineman
+|- style=&quot;text-align:center;&quot;
+| Kelin Johnson# || Assistant Director of Strength and Conditioning || 1st || [[Georgia Bulldogs Football|Georgia]] (2007) || Safety
+|- style=&quot;text-align:center;&quot;
+| Victor Ishmael || Assistant Strength &amp; Conditioning Coach || 15th || [[South Carolina State Bulldogs football|South Carolina State]] (1987) || Offensive lineman
+|- style=&quot;text-align:center;&quot;
+| Cols Colas || Assistant Strength &amp; Conditioning Coach || 10th || [[Virginia Tech Hokies Football|Virginia Tech]] (2003)|| Defensive end
+|- style=&quot;text-align:center;&quot;
+| Andrew Klich ||  Assistant Strength &amp; Conditioning Coach || 13th || [[University of Connecticut|UConn]] (1996) || Student Athletic Trainer
+|- style=&quot;text-align:center;&quot;
+| Vinny Scavo || Head Football Athletic Trainer || 5th || [[Florida State Seminoles|Florida State]] (1983) ||
+|- style=&quot;text-align:center;&quot;
+| Karl Rennalls || Assistant Athletic Trainer || 5th || [[Miami Hurricanes|Miami]] (2011) || Athletic Training Student
+|}
+''# Came with Mark Richt from the University of Georgia.
+
+==Facilities==
+[[File:Sun Life Stadium.jpg|thumb|300px|[[Hard Rock Stadium]] (formerly Sun Life Stadium) before a Hurricanes game in 2009]]
+{{Main article|Hard Rock Stadium|Miami Orange Bowl}}
+Miami plays its home games at [[Hard Rock Stadium]] in [[Miami Gardens, Florida]], located approximately {{convert|21|mi|km|abbr=on}} north of the university's main [[Coral Gables, Florida|Coral Gables]] campus.&lt;ref&gt;{{cite web|url=http://www.themiamihurricane.com/2007/08/27/orange-bowl-and-dolphin-stadium-side-by-side/|title=Orange Bowl and Dolphin Stadium Side-by-Side |date=2007-08-27|work=The Miami Hurricane|accessdate=2009-10-14}}&lt;/ref&gt;  The stadium also serves as home to the [[Miami Dolphins]] of the [[National Football League|NFL]] and was also home to [[Major League Baseball]]'s [[Florida Marlins]] until 2011.
+From 1937 through 2007, the team played its home games at the [[Miami Orange Bowl|Orange Bowl]], located in the [[Little Havana]] section of [[Miami]]. In the late 2000s, the City of Miami, the owner of the Orange Bowl, proposed to extensively renovate it. However, those plans fell by the wayside as the city focused on keeping the Marlins baseball team in town, forcing the university to threaten a move to Dolphin Stadium if a plan to renovate the stadium was not in place within 45 days. When the city could not deliver on a renovation plan, the University's Board of Trustees, on the recommendation of UM President [[Donna Shalala]], approved the shift to Dolphin Stadium on August 21, 2007.&lt;ref&gt;{{cite news | accessdate=2007-08-21 |url=http://sports.espn.go.com/ncf/news/story?id=2984425 | title=Miami leaving Orange Bowl, will play in Dolphin Stadium | agency=Associated Press | date=2007-08-21|publisher=ESPN.com}}&lt;/ref&gt;
+
+At its inception, the program played at Tamiami Park and, later, Moore Park before moving to the then [[Miami Orange Bowl|Burdine Stadium]] in 1937.
+
+The team practices on-campus at the Greentree Practice Fields, which were named the College Football Field of the Year by the SportsTurf Managers Association in 2007.&lt;ref&gt;{{cite web |url=http://hurricanesports.cstv.com/sports/m-footbl/spec-rel/012207aad.html|title=Greentree Practice Fields Selected Best in College Football|date=2007-01-22 |work=HurricaneSports.com |accessdate=2009-10-14}}&lt;/ref&gt;  The Hecht Athletic Center, also located on-campus, serves as the program's training facility and is home to the football offices. In November 2010 the university announced a gift of five million dollars from the Ted and Todd Schwartz family foundation that would be used to build the Schwartz Center for Athletic Excellence. The facility will cater to over 400 student athletes on the campus with a sports medicine facility, training room, and academic center. The facility will also have features specifically designed for the football team. A locker room and players lounge for football players will be a part of the facility, as will a gallery of champions and a dedicated area to the football team's ring of honor. The building is an expansion of the current Hecht Athletic Center.&lt;ref&gt;{{cite web|url=http://www.hurricanesports.com/ViewArticle.dbml?DB_OEM_ID=28700&amp;ATCLID=205545783 |title=$5M LEAD GIFT TO ESTABLISH SCHWARTZ CENTER FOR ATHLETIC EXCELLENCE - University of Miami Hurricanes Official Athletic Site |publisher=Hurricanesports.com |date= |accessdate=2016-09-13}}&lt;/ref&gt;
+
+The [[2006 NFL season|2006]]  [[National Football Conference|NFC]] Champion [[Chicago Bears]] used the football team's training facilities while preparing for [[Super Bowl XLI]]. The other team, [[American Football Conference|AFC]] Champion [[Indianapolis Colts]], used the [[Miami Dolphins Training Facility]] at [[Nova Southeastern University]] in Davie, Florida.
+
+==Head coaching records==
+{{Main article|List of Miami Hurricanes head football coaches}}
+
+==Seasons==
+{{Main article|List of Miami Hurricanes football seasons}}
+
+==Championships==
+
+===National championships===
+{| cellpadding=&quot;1&quot; border=&quot;1&quot; cellspacing=&quot;0&quot; style=&quot;width:65%;&quot;
+|-
+! style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Year
+! style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Coach
+! style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Selector
+! style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Record
+! style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Bowl
+|- style=&quot;text-align:center;&quot;
+| [[1983 Miami Hurricanes football team|1983]] || [[Howard Schnellenberger]] || [[AP National Championship Trophy|AP]], [[Coaches' Poll#College football|Coaches]] || 11–1 || Won [[1984 Orange Bowl|Orange]]
+|- style=&quot;text-align:center;&quot;
+| [[1987 Miami Hurricanes football team|1987]] || [[Jimmy Johnson (American football coach)|Jimmy Johnson]] || [[AP National Championship Trophy|AP]], [[AFCA National Championship Trophy|Coaches]] || 12–0 || Won [[1988 Orange Bowl|Orange]]
+|- style=&quot;text-align:center;&quot;
+| [[1989 Miami Hurricanes football team|1989]] || [[Dennis Erickson]] || [[AP National Championship Trophy|AP]], [[AFCA National Championship Trophy|Coaches]] || 11–1 || Won [[1990 Sugar Bowl|Sugar]]
+|- style=&quot;text-align:center;&quot;
+| [[1991 Miami Hurricanes football team|1991]] || [[Dennis Erickson]] || [[AP National Championship Trophy|AP]]† || 12–0 || Won [[1992 Orange Bowl|Orange]]
+|- style=&quot;text-align:center;&quot;
+| [[2001 Miami Hurricanes football team|2001]] || [[Larry Coker]] || [[BCS National Championship Game|BCS]], [[AP National Championship Trophy|AP]], [[AFCA National Championship Trophy|Coaches]] || 12–0 || Won [[2002 Rose Bowl|Rose]]
+|- style=&quot;text-align:center;&quot;
+| colspan=&quot;5&quot; style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | '''Total National Championships – 5'''
+|-
+|colspan=5|† The 1991 national championship was split between Miami and [[1991 Washington Huskies football team|Washington]]. At the time, there was no provision made for the Pacific-10 conference champion in the [[Bowl Coalition]] and the two teams were unable to play due to Washington's [[Rose Bowl Game|Rose Bowl]] obligations. Miami instead played [[Nebraska Cornhuskers football|Nebraska]] in that year's [[Orange Bowl]] and won, giving them the final top ranking in the AP Poll. Meanwhile, Washington beat [[Michigan Wolverines football|Michigan]] in the Rose Bowl and the [[Coaches' Poll|USA Today/CNN Coaches' Poll]] chose them as their national champion, awarding them the [[AFCA National Championship Trophy|McDonald's Trophy]].
+|}
+
+===Conference championships===
+'''Conference Affiliations'''
+*1927–1928: [[NCAA Division I-A independent schools|Independent]]
+*1929–1941: [[Southern Intercollegiate Athletic Association]]
+*1942–1990: [[NCAA Division I-A independent schools|Independent]]
+*1991–2003: [[Big East Conference (1979–2013)|Big East Conference]]
+*2004–present: [[Atlantic Coast Conference]]
+
+{| cellpadding=&quot;1&quot; border=&quot;1&quot; cellspacing=&quot;0&quot; style=&quot;width:65%;&quot;
+|-
+! style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Year
+! style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Conference
+! style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Overall Record
+! style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Conference Record
+|- style=&quot;text-align:center;&quot;
+| [[1991 Miami Hurricanes football team|1991]] || rowspan=&quot;9&quot;|[[Big East Conference (1979–2013)|Big East]] || 12-0 || 2-0
+|- style=&quot;text-align:center;&quot;
+| [[1992 Miami Hurricanes football team|1992]] || 11-1 || 4-0
+|- style=&quot;text-align:center;&quot;
+| [[1994 Miami Hurricanes football team|1994]] || 10–2 || 7–0
+|- style=&quot;text-align:center;&quot;
+| [[1995 Miami Hurricanes football team|1995]]† || 8–3 || 6–1
+|- style=&quot;text-align:center;&quot;
+| [[1996 Miami Hurricanes football team|1996]]† || 9–3 || 6–1
+|- style=&quot;text-align:center;&quot;
+| [[2000 Miami Hurricanes football team|2000]] || 11–1 || 7–0
+|- style=&quot;text-align:center;&quot;
+| [[2001 Miami Hurricanes football team|2001]] || 12–0 || 7–0
+|- style=&quot;text-align:center;&quot;
+| [[2002 Miami Hurricanes football team|2002]] || 12–0 || 7–0
+|- style=&quot;text-align:center;&quot;
+| [[2003 Miami Hurricanes football team|2003]]† || 11–2 || 6–1
+|- style=&quot;text-align:center;&quot;
+| colspan=&quot;4&quot; style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | '''Total conference championships – 9'''
+|-
+| colspan=4 | &lt;small&gt;† Denotes co-champions&lt;/small&gt;
+|}
+
+==Individual awards==
+
+===Retired numbers===
+
+{| class=&quot;wikitable sortable&quot; style=&quot;text-align:center&quot;
+| colspan=&quot;4&quot; style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | '''Miami Hurricanes retired numbers'''
+|-
+! width=40px style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; |  No.
+! width=150px style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Player
+! width=60px style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Pos.
+! width=100px style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Career
+|-
+| '''10''' || [[George Mira]] || [[Quarterback|QB]] || 1961–63
+|-
+| '''14''' || [[Vinny Testaverde]] || [[Quarterback|QB]] || 1982–86
+|-
+| '''42''' || [[Jim Dooley]] || [[Halfback (American football)|HB]] || 1949–51
+|-
+| '''89''' || [[Ted Hendricks]] || [[Defensive end|DE]] || 1966–68
+|-'''99''' || [[Warren Sapp]] || [[Defensive tackle|DT]] || 1991–1994
+|}
+
+===College Football Hall of Fame members===
+The following ten Miami players and coaches have been or will be inducted to the [[College Football Hall of Fame]]:&lt;ref name=mg194&gt;{{cite web|url=http://hurricanesports.cstv.com/sports/m-footbl/spec-rel/051711aab.html|title=Russell Maryland to be Inducted into College Football Hall of Fame|date=May 17, 2011|accessdate=2011-05-21}}&lt;/ref&gt;&lt;ref name=&quot;espn.go.com&quot;&gt;{{cite web|url=http://espn.go.com/blog/ncfnation/post/_/id/78755/ex-miami-qb-testaverde-heading-to-hof |title=Former Miami QB Testaverde heading to HOF - College Football Nation Blog- ESPN |publisher=Espn.go.com |date=2013-05-06 |accessdate=2016-09-13}}&lt;/ref&gt;
+{| border=&quot;0&quot; style=&quot;width:100%;&quot;
+|-
+| valign=&quot;top&quot; |
+{| cellpadding=&quot;1&quot; border=&quot;1&quot; cellspacing=&quot;0&quot; style=&quot;width:65%;&quot;
+|-
+! style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Name
+! style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Position
+! style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Years
+! style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Inducted
+|- style=&quot;text-align:center;&quot;
+| [[Jack Harding]] || Coach || 1937–42, 45–47 || 1980
+|- style=&quot;text-align:center;&quot;
+| [[Andy Gustafson]] || Coach || 1948–63 || 1985
+|- style=&quot;text-align:center;&quot;
+| [[Ted Hendricks]] || Defensive end || 1966–68 || 1987
+|- style=&quot;text-align:center;&quot;
+| [[Don Bosseler]] || Fullback || 1953–56 || 1990
+|- style=&quot;text-align:center;&quot;
+| [[Don James (American football)|Don James]] || Quarterback (inducted as coach&lt;br /&gt;at Univ. of Washington) || 1951–53 || 1997
+|- style=&quot;text-align:center;&quot;
+| [[Bennie Blades]] || Safety || 1984–87 || 2006
+|- style=&quot;text-align:center;&quot;
+| [[Arnold Tucker]] || Quarterback (also at Army) || 1943–46 || 2008
+|- style=&quot;text-align:center;&quot;
+| [[Gino Torretta]] || Quarterback || 1989–92 || 2009
+|- style=&quot;text-align:center;&quot;
+| [[Russell Maryland]] || Defensive tackle || 1987–90 || 2011
+|- style=&quot;text-align:center;&quot;
+| [[Vinny Testaverde]] || Quarterback || 1983–1986 || 2013&lt;ref name=&quot;espn.go.com&quot;/&gt;
+|- style=&quot;text-align:center;&quot;
+| colspan=&quot;4&quot; style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | '''Total Hall of Famers – 10&lt;ref name=&quot;espn.go.com&quot;/&gt;'''
+|}
+In addition, [[Jim Otto]], [[Jim Kelly]], [[Cortez Kennedy]], [[Warren Sapp]] and [[Michael Irvin]] were inducted into the [[Professional Football Hall of Fame]] without also being inducted into the College Football Hall of Fame.&lt;ref name=mg194/&gt;  
+|}
+
+==Records==
+
+===Winning streaks===
+Miami also has two of the [[Longest NCAA Division I football winning streaks|longest winning streaks in NCAA Division I history]]. From 2000 to 2003, Miami won 34 consecutive games, tying for sixth all-time. The streak started on September 23, 2000 with a 47–10 victory at [[West Virginia Mountaineers football|West Virginia]] and ended on January 3, 2003 with a 31–24 double overtime loss to [[2002 Ohio State Buckeyes football team|Ohio State]] in the [[2003 Fiesta Bowl]]. Miami also won 29 straight games from October 27, 1990 to January 1, 1993, good for thirteenth on the all-time list. That streak was snapped when the top-ranked Hurricanes were upset by second-ranked [[1993 Alabama Crimson Tide football team|Alabama]], 34–13 in the [[1993 Sugar Bowl]].
+
+Miami owns the record for the longest home winning streak in NCAA history, winning 58 straight games at the Orange Bowl. The record streak began with a 38–0 shutout victory over Cincinnati on October 12, 1985 and ended with a 38–20 loss to Washington on September 24, 1994. The 58 game streak includes three Orange Bowl victories where Miami was the away team because of the Orange Bowl's tie to the Big 8 conference.&lt;ref&gt;{{cite web | title=NCAA Football Records (see page 213) |url=http://web1.ncaa.org/web_files/stats/football_records/DI/2009/2009Collegiate.pdf|work=NCAA Football records (see page 213)}}&lt;/ref&gt;
+
+In addition to its own lengthy winning streaks, Miami has snapped four streaks of 20 games or more in its history. The only other school to snap four winning streaks of 20 or more games is [[Princeton Tigers football|Princeton]].&lt;ref&gt;{{cite web | title=2006 University of Miami Football Media Guide: The History of Hurricanes Football | accessdate=2006-11-11 | url=http://www.cstv.com/auto_pdf/p_hotos/s_chools/mifl/sports/m-footbl/auto_pdf/06-mg-history | format=PDF | work=Hurricanesports.com|publisher=Univ of Miami}}&lt;/ref&gt;  In the [[1984 Orange Bowl]], Miami ended top-ranked [[Nebraska Cornhuskers football|Nebraska]]'s 22-game winning streak and won its first national championship with a 31–30 victory. The Hurricanes halted top-ranked [[Oklahoma Sooners football|Oklahoma]]'s 20-game streak and won their second national championship when they defeated the Sooners, 20–14, in the [[1988 Orange Bowl]]. The Hurricanes ended top-ranked [[1989 Notre Dame Fighting Irish football team|Notre Dame]]'s 23-game winning streak with a 27–10 win on November 25, 1989. Miami also ended the 20-game winning streak of [[UCLA Bruins football|UCLA]] when Miami defeated the third-ranked Bruins 49–45 on December 5, 1998.
+
+===Notable team records===
+*Consecutive wins: 34, 2000–02
+*Consecutive regular season wins: 39, 2000–03
+*Consecutive road wins: 20, 1984–86
+*Consecutive games without being shut out: 188, 1979–94
+*Consecutive shutouts of opponent: 4, 1926, 1936, 1941
+*Consecutive games without a tie score: 345, 1966–95 (NCAA adopted tiebreaker in 1996)
+
+===NFL Draft records===
+*Most first round selections (single draft): 6, [[2004 NFL Draft|2004]]&lt;ref name=&quot;draft record&quot;/&gt;
+*Most consecutive years with first round draftee: 14, [[1995 NFL Draft|1995]]–[[2008 NFL Draft|2008]]&lt;ref name=&quot;draft record&quot;/&gt;
+*Most consecutive years having the most first round selections: 4, [[2001 NFL Draft|2001]]&amp;ndash;[[2004 NFL Draft|2004]]&lt;ref name=&quot;draft record&quot;/&gt;
+
+===All-time bowl results===
+
+Miami has played in 37 bowl games, going 18–19. Its most common bowl destination has been the [[Orange Bowl (game)|Orange Bowl]], where the 'Canes have appeared 9 times and compiled a 6–3 record. Miami's most common opponent in bowl play has been [[Nebraska Cornhuskers football|Nebraska]]. The schools have met six times in bowl play, with the Hurricanes having a 4–2 record against the Cornhuskers. It is worth noting that since its move to what is now [[Sun Life Stadium]] from the [[Orange Bowl Stadium|Orange Bowl]] after the 2007 season, the Hurricanes have yet to win a bowl game.
+
+{| class=&quot;wikitable&quot;
+|- style=&quot;! style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot;; text-align:center;&quot;
+| '''Date''' || '''Bowl''' || '''Opponent''' || '''Result'''
+|- align=center
+| January 1, 1935 || [[1935 Orange Bowl|Orange Bowl]] || [[Bucknell Bison|Bucknell]] || L, 26-0
+|- align=center
+| January 1, 1946 || [[Orange Bowl (game)|Orange Bowl]] || [[Holy Cross Crusaders football|Holy Cross]] || W, 13-6
+|- align=center
+| January 1, 1951 || [[Orange Bowl (game)|Orange Bowl]] || [[Clemson Tigers football|Clemson]] || L, 15-14
+|- align=center
+| January 1, 1952 || [[Gator Bowl]] || [[Clemson Tigers football|Clemson]] || W, 14-0
+|- align=center
+| December 16, 1961 || [[Liberty Bowl]] || [[1961 Syracuse Orangemen football team|Syracuse]] || L, 15-14
+|- align=center
+| December 15, 1962 || [[Gotham Bowl]] || [[1962 Nebraska Cornhuskers football team|Nebraska]] || L, 36-34
+|- align=center
+| December 10, 1966 || [[1966 Liberty Bowl|Liberty Bowl]] || [[Virginia Tech Hokies football|Virginia Tech]] || W, 14-7
+|- align=center
+| December 23, 1967 || [[Bluebonnet Bowl]] || [[1967 Colorado Buffaloes football team|Colorado]] || L, 31-21
+|- align=center
+| January 2, 1981 || [[1981 Peach Bowl (January)|Peach Bowl]] || [[Virginia Tech Hokies football|Virginia Tech]] || W, 20-10
+|- align=center
+| January 2, 1984 || [[1984 Orange Bowl|Orange Bowl]]&lt;br /&gt;|| [[1983 Nebraska Cornhuskers football team|Nebraska]] || W, 31-30
+|- align=center
+| January 1, 1985|| [[1985 Fiesta Bowl|Fiesta Bowl]] || [[1984 UCLA Bruins football team|UCLA]] || L, 39-37
+|- align=center
+| January 1, 1986 || [[1986 Sugar Bowl|Sugar Bowl]] || [[1985 Tennessee Volunteers football team|Tennessee]] || L, 35-7
+|- align=center
+| January 2, 1987 || [[1987 Fiesta Bowl|Fiesta Bowl]] || [[1986 Penn State Nittany Lions football team|Penn State]] || L, 14-10
+|- align=center
+| January 1, 1988 || [[1988 Orange Bowl|Orange Bowl]] || [[Oklahoma Sooners football|Oklahoma]] || W, 20-14
+|- align=center
+| January 2, 1989 || [[1989 Orange Bowl|Orange Bowl]] || [[1988 Nebraska Cornhuskers football team|Nebraska]] || W, 23-3
+|- align=center
+| January 1, 1990 || [[1990 Sugar Bowl|Sugar Bowl]] || [[1989 Alabama Crimson Tide football team|Alabama]] || W, 33-25
+|- align=center
+| January 1, 1991 || [[1991 Cotton Bowl Classic|Cotton Bowl Classic]] || [[Texas Longhorns football|Texas]] || W, 46-3
+|- align=center
+| January 1, 1992 || [[1992 Orange Bowl|Orange Bowl]] || [[1991 Nebraska Cornhuskers football team|Nebraska]] || W, 22-0
+|- align=center
+| January 1, 1993 || [[1993 Sugar Bowl|Sugar Bowl]] || [[1992 Alabama Crimson Tide football team|Alabama]] || L, 34-13
+|- align=center
+| January 1, 1994 || [[1994 Fiesta Bowl|Fiesta Bowl]] || [[1993 Arizona Wildcats football team|Arizona]] || L, 29-0
+|- align=center
+| January 1, 1995 || [[1995 Orange Bowl|Orange Bowl]] || [[1994 Nebraska Cornhuskers football team|Nebraska]] || L, 24-17
+|- align=center
+| December 27, 1996 || [[Carquest Bowl]] || [[Virginia Cavaliers football|Virginia]] || W, 31-21
+|- align=center
+| December 29, 1998 || [[Micron PC Bowl]] || [[North Carolina State Wolfpack football|NC State]] || W, 46-23
+|- align=center
+| January 1, 2000 || [[Gator Bowl]] || [[Georgia Tech Yellow Jackets football|Georgia Tech]] || W, 28-13
+|- align=center
+| January 2, 2001 || [[2001 Sugar Bowl|Sugar Bowl]] (BCS) || [[2000 Florida Gators football team|Florida]] || W, 37-20
+|- align=center
+| January 3, 2002 || [[2002 Rose Bowl|Rose Bowl]] ([[BCS National Championship Game]]) || [[2001 Nebraska Cornhuskers football team|Nebraska]]|| W, 37-14
+|- align=center
+| January 3, 2003 || [[2003 Fiesta Bowl|Fiesta Bowl]] ([[BCS National Championship Game]]) || [[2002 Ohio State Buckeyes football team|Ohio State]] || L, 24-31
+|- align=center
+| January 1, 2004 || [[2004 Orange Bowl|Orange Bowl]] (BCS) || [[2003 Florida State Seminoles football team|Florida State]] || W, 16-14
+|- align=center
+| December 31, 2004 || [[2004 Peach Bowl (December)|Peach Bowl]] || [[2004 Florida Gators football team|Florida]] || W, 27-10
+|- align=center
+| December 30, 2005 || [[2005 Peach Bowl|Peach Bowl]] || [[2005 LSU Tigers football team|LSU]] || L, 40-3
+|- align=center
+| December 31, 2006 || [[2006 MPC Computers Bowl|MPC Computers Bowl]] || [[Nevada Wolf Pack football|Nevada]] || W, 21-20
+|- align=center
+| December 27, 2008 || [[2008 Emerald Bowl|Emerald Bowl]] || [[2008 California Golden Bears football team|California]] || L, 24-17
+|- align=center
+| December 29, 2009 || [[2009 Champs Sports Bowl|Champs Sports Bowl]] || [[2009 Wisconsin Badgers football team|Wisconsin]] || L, 20-14
+|- align=center
+| December 31, 2010 || [[2010 Sun Bowl|Sun Bowl]] || [[2010 Notre Dame Fighting Irish football team|Notre Dame]] || L, 33-17
+|- align=center
+| December 28, 2013 || [[2013 Russell Athletic Bowl|Russell Athletic Bowl]] || [[2013 Louisville Cardinals football team|Louisville]] || L, 36-9
+|- align=center
+| December 27, 2014 || [[2014 Independence Bowl|Independence Bowl]] || [[2014 South Carolina Gamecocks football team|South Carolina]] || L, 24-21
+|- align=center
+| December 26, 2015 || [[2015 Sun Bowl|Sun Bowl]] || [[2015 Washington State Cougars football team|Washington State]] || L, 20-14
+|-  class=&quot;unsortable&quot; style=&quot;text-align:center; ! style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot;
+|| '''Games: 37''' 
+|| '''Bowl Record: 18-19'''
+||
+||
+|}
+
+==Rivalries==
+{{See also|Florida Cup}}
+Miami's traditional rivals are [[Florida State Seminoles football|Florida State]]&lt;ref name=&quot;1997 fsu1&quot;/&gt;&lt;ref name=&quot;1997 fsu2&quot;/&gt; and [[Florida Gators football|Florida]].&lt;ref name=&quot;florida rivalry1&quot;/&gt;&lt;ref name=&quot;florida rivalry2&quot;&gt;{{cite web|url=http://a.espncdn.com/ncf/columns/harig_bob/1427556.html|title=UM-UF rivalry was once biggest in the state|last=Harig|first=Bob|date=2002-09-05|work=[[ESPN.com]]|accessdate=2009-10-15}}&lt;/ref&gt;  Since 2002, the [[Florida Cup]] has been awarded to the team that finishes with the best head-to-head record in years where Miami, Florida, and Florida State all face each other.&lt;ref&gt;{{cite web|url=http://nbcsports.msnbc.com/id/6774589/CE/3032112/|title=Miami settles for 'state title' with Peach win|last=Associated Press|date=2005-01-02 |work=NBCSports.com|accessdate=2009-10-15}}&lt;/ref&gt;  Five Florida Cups have been awarded, with Miami wining the first three.
+
+Miami also had heated rivalry with [[Notre Dame Fighting Irish football|Notre Dame]] through 1990.&lt;ref name=&quot;nd rivalry1&quot;/&gt;&lt;ref name=&quot;nd rivalry2&quot;&gt;{{cite web |url=http://nbcsports.msnbc.com/id/30355617|title=Notre Dame–Miami rivalry to be renewed?|date=2009-04-22|work=NBCSports.com|accessdate=2009-10-15}}&lt;/ref&gt;
+
+Miami also has a rivalry with [[Nebraska Cornhuskers football|Nebraska]].  See ''[[Nebraska-Miami football rivalry]]''
+
+===Florida State===
+{{See also|Florida State–Miami football rivalry|Wide Right I|Wide Right II}}
+The rivalry dates to 1951, when the Hurricanes defeated the Seminoles 35–13 in their inaugural meeting. The schools have played every year since 1966, with Miami holding the all-time advantage, 31–29. Upon the conclusion of their 2003 regular-season schedules, the teams represented their respective conferences in the 2004 [[FedEx Orange Bowl]] (Miami being the champions of the Big East, and Florida State being the champions of the ACC). Miami won the bowl game 16–14; it was the only time the schools have met in post-season football play. The 60 meetings between the teams of FSU and Miami eclipsed the rivalry between the Hurricanes and the Gators (from the [[University of Florida]]) following their 2010 game; the series of games between UM and Florida is Miami's second-longest at 55 games.
+
+During the 1980s and '90s, the series emerged as one of the premier rivalries in college football.{{Citation needed|date=October 2009}}  Between 1983 and 2002, the Hurricanes and Seminoles combined to win 7 national championships and play in 14 bowl games with a national championship at stake. The 1988 game starred 57 future [[National Football League|NFL]] pros on the combined rosters. Since 2004, the year Miami left the [[Big East Conference (1979–2013)|Big East Conference]] to join the expanded 12-member [[Atlantic Coast Conference]], the universities have been conference foes, though they are placed in separate divisions within the conference. This alignment creates the potential for the two teams to meet for a second time in the [[ACC Championship Game]], should each win their respective divisions in any particular season. Such a rematch has yet to happen after 9 years of ACC Championship Games, as of 2013.
+
+The series has consistently drawn very high [[Nielsen ratings|television ratings]] with the 2006 Miami–Florida State game being the most-watched college football game—regular-season or postseason—in [[ESPN]] history, and the 2009 and 1994 meetings being the second- and fifth-most watched regular season games, respectively.&lt;ref name=&quot;ratings&quot;&gt;{{cite news |url=http://www.miamiherald.com/news/breaking-news/story/1226762.html|title=ESPN viewers flocked to Miami Hurricanes–FSU matchup|last=Miller Degnan|first=Susan|date=2009-09-10|work=[[The Miami Herald]]|accessdate=2009-09-12}}{{Dead link|date=September 2010|bot=H3llBot}}&lt;/ref&gt;
+
+===Florida===
+{{Main article|Florida–Miami football rivalry}}
+Miami's rivalry with [[Florida Gators football|Florida]] dates back to 1938, making it the oldest rivalry among Florida's &quot;Big Three&quot; of Miami, Florida, and Florida State.&lt;ref name=&quot;florida rivalry2&quot;/&gt;  The Hurricanes defeated the Gators, 19–7, in the first meeting between the geographic rivals.&lt;ref name=&quot;florida rivalry2&quot;/&gt; The Seminole War Canoe was carved in 1955 out of a cypress struck by lightning and was given to the winner of the annual football game. The canoe is meant to symbolize the fighting spirit of the Seminole people that is often on display during games between the Hurricanes and Gators. The canoe is now on permanent display at the University of Miami Sports Hall of Fame on the Coral Gables campus.
+
+Miami holds the edge in the all-time series with a 29–26 record against Florida. The two schools met every year from 1944 until 1987, but have not played regularly since then. Florida canceled the annual series after the 1987 season,&lt;ref name=&quot;florida rivalry1&quot;/&gt;&lt;ref name=&quot;florida rivalry2&quot;/&gt; when the requirement of the [[Southeastern Conference]] for member schools to play eight conference games induced the University of Florida to fill out the non-conference portion of its schedule with teams that do not require a home-and-home arrangement,&lt;ref name=&quot;florida rivalry2&quot;/&gt; except for Florida State.
+
+From 1986 to 2003, Miami won all six of the games between the schools, including victories in the 2001 [[Sugar Bowl]] and the 2004 [[Peach Bowl]]. Florida snapped its 23-year drought against Miami with a 26–3 win over the Hurricanes in 2008. The last game between the two was September 7, 2013 at [[Sun Life Stadium]],&lt;ref name=&quot;Future&quot;&gt;{{cite web |url=http://www.nationalchamps.net/NCAA/future_schedules/miamiFL_future.htm |title=Miami Hurricanes Football Future Schedules |publisher=NationalChamps.net |accessdate=2009-11-20}}&lt;/ref&gt; Miami won 21-16. The two teams are slated to meet again during the opening weekend of the 2019 college football season at the Camping World Kickoff in Orlando, Florida.&lt;ref&gt;{{cite web |url=http://www.fbschedules.com/2016/04/florida-miami-fl-finalize-deal-open-2019-season-orlando|title=Florida, Miami (FL) finalize deal to open 2019 season in Orlando|accessdate=2016-05-06}}&lt;/ref&gt;
+
+===Notre Dame===
+{{Main article|Catholics vs. Convicts}}
+While not the most regular rivalry for either school, Notre Dame's games with Miami, dubbed by Irish fans in the late 1980s as &quot;Catholics vs. Convicts&quot; still stand out as one of the most heated feuds in college football history, which included a 58-7 blow out by the Hurricanes in 1985 and a failed Jimmy Johnson two-point conversion attempt to go for the win instead of tying the game in 1988. After not meeting for two decades, the schools faced each other in the 2010 Sun Bowl, with Notre Dame prevailing 33–17. The Fighting Irish hold a 17–7–1 edge.&lt;ref name=&quot;2007 ND Guide History&quot;&gt;{{cite web |url=http://und.cstv.com/auto_pdf/p_hotos/s_chools/nd/sports/m-footbl/auto_pdf/07fbguidehistory  |title = 2007 Notre Dame Media Guide: History and Records (pages 131–175) | publisher= und.cstv.com | accessdate=2008-04-24}}&lt;/ref&gt;  Miami and Notre Dame renewed their regular season rivalry at [[Soldier Field]] on Saturday, October 6, 2012, with Notre Dame winning 41-3. They will begin a new series of games in 2016.&lt;ref&gt;[http://collegefootballtalk.nbcsports.com/2010/12/05/its-back-on-catholics-vs-reformed-convicts-in-sun-bowl/related/ &quot;It's back on: Catholics vs. (Reformed) Catholics,&quot; December 5, 2010]&lt;/ref&gt;
+
+===Virginia Tech===
+{{Main article|Miami–Virginia Tech football rivalry}}
+
+==Individual award winners==
+
+===Players===
+{{col-begin}}
+{{col-2}}
+*'''[[Heisman Trophy]]'''
+:[[Vinny Testaverde]]- [[1986 NCAA Division I-A football season|1986]]
+:[[Gino Torretta]]&amp;ndash;[[1992 NCAA Division I-A football season|1992]]
+*'''[[Maxwell Award]]'''
+:[[Vinny Testaverde]] – [[1986 NCAA Division I-A football season|1986]]
+:[[Gino Torretta]] – [[1992 NCAA Division I-A football season|1992]]
+:[[Ken Dorsey]] – [[2001 NCAA Division I-A football season|2001]]
+*'''[[Walter Camp Award]]'''
+:[[Vinny Testaverde]] – [[1986 NCAA Division I-A football season|1986]]
+:[[Gino Torretta]] – [[1992 NCAA Division I-A football season|1992]]
+*'''[[Archie Griffin Award]]'''&lt;ref name=&quot;tdccolumbus.com&quot;&gt;{{cite web|url=http://www.tdccolumbus.com/ |title=Touchdown Club of Columbus |publisher=Tdccolumbus.com |date=2016-02-06 |accessdate=2016-09-13}}&lt;/ref&gt;
+:[[Ken Dorsey]] – [[2001 NCAA Division I-A football season|2001]]
+:[[Ken Dorsey]] – [[2002 NCAA Division I-A football season|2002]]
+*'''[[Chic Harley Award]]'''&lt;ref name=&quot;tdccolumbus.com&quot;/&gt;
+:[[Gino Torretta]] – [[1992 NCAA Division I-A football season|1992]]
+:[[Ken Dorsey]] – [[2001 NCAA Division I-A football season|2001]]
+:[[Ken Dorsey]] – [[2002 NCAA Division I-A football season|2002]]
+*'''[[Bednarik Award]]'''&lt;ref&gt;[http://www.maxwellfootballclub.org/chuck-bednarik-award-college-defensive-player-year ]{{dead link|date=September 2016}}&lt;/ref&gt;
+:[[Dan Morgan]] – [[2000 NCAA Division I-A football season|2000]]
+*'''[[Bronko Nagurski Trophy]]'''
+:[[Warren Sapp]] – [[1994 NCAA Division I-A football season|1994]]
+:[[Dan Morgan]] – [[2000 NCAA Division I-A football season|2000]]
+{{col-2}}
+*'''[[Davey O'Brien Award]]'''
+:[[Vinny Testaverde]] – [[1986 NCAA Division I-A football season|1986]]
+:[[Gino Torretta]] – [[1992 NCAA Division I-A football season|1992]]
+*'''[[Sammy Baugh Trophy]]'''&lt;ref name=&quot;tdccolumbus.com&quot;/&gt;
+:[[Vinny Testaverde]] – [[1986 NCAA Division I-A football season|1986]]
+:[[Steve Walsh (American football)|Steve Walsh]] – [[1988 NCAA Division I-A football season|1988]]
+*'''[[Dick Butkus Award]]'''
+:[[Dan Morgan]] – [[2000 NCAA Division I-A football season|2000]]
+*'''[[Jim Thorpe Award]]'''
+:[[Bennie Blades]] – [[1987 NCAA Division I-A football season|1987]]
+*'''[[John Mackey Award]]'''
+:[[Kellen Winslow II]] – [[2003 NCAA Division I-A football season|2003]]
+*'''[[Johnny Unitas Golden Arm Award]]'''
+:[[Craig Erickson]] – [[1990 NCAA Division I-A football season|1990]]
+:[[Gino Torretta]] – [[1992 NCAA Division I-A football season|1992]]
+*'''[[Lombardi Award]]'''
+:[[Warren Sapp]] – [[1994 NCAA Division I-A football season|1994]]
+*'''[[Outland Trophy]]'''
+:[[Russell Maryland]] – [[1990 NCAA Division I-A football season|1990]]
+:[[Bryant McKinnie]] – [[2001 NCAA Division I-A football season|2001]]
+*'''[[Dave Rimington Trophy]]'''
+:[[Brett Romberg]] – [[2002 NCAA Division I-A football season|2002]]
+{{col-end}}
+
+===Coaches===
+*'''[[Eddie Robinson Coach of the Year]]'''
+:[[Howard Schnellenberger]] – [[1983 NCAA Division I-A football season|1983]]&lt;ref&gt;[[Eddie Robinson Coach of the Year]]&lt;/ref&gt;
+*'''[[Paul &quot;Bear&quot; Bryant Award]]'''
+:[[Larry Coker]] – [[2001 NCAA Division I-A football season|2001]]
+*'''[[Broyles Award]]'''
+:[[Randy Shannon]] – [[2001 NCAA Division I-A football season|2001]]
+
+==Traditions==
+
+===Touchdown Tommy===
+Touchdown Tommy is the cannon that is fired off when the team runs out of the tunnel, after every point that the Hurricanes score, and the conclusion of a victory. The cannon is kept by the [[Sigma Chi]] fraternity's Cannon Master and fired off during the games by the senior brothers of Sigma Chi. Touchdown Tommy is the third oldest tradition at the University of Miami, after the [[Iron Arrow Honor Society]] and [[Sebastian the Ibis]].
+
+===The Smoke===
+One of the Hurricanes' best-known traditions is the team's entrance scene. The team enters the field through a large cloud of white smoke billowing from its entrance tunnel, amid a tape of a hurricane blasting over the sound system. The smoke comes from fire extinguisher exhaust that billows from a series of pipes welded together by school transportation director Bob Nalette in the 1950s. The pipes were moved to Sun Life Stadium when the Hurricanes moved there in 2008.
+
+Following Miami's rise to prominence in the 1980s, many high school, college and [[National Football League|NFL]] teams over the last 25 years have copied this practice, and in 2001 [[American Broadcasting Company|ABC]] made a parody of it for a Saturday college football commercial.
+
+===Ring of Honor===
+In 1997, the university established the 'Ring of Honor' as a way to honor outstanding players who have passed through the Hurricane football program.&lt;ref&gt;{{cite web |url=http://hurricanesports.cstv.com/sports/m-footbl/spec-rel/011400aac.html|title=The Ring Of Honor|accessdate=2009-12-02}}&lt;/ref&gt; Members are selected by an anonymous advisory committee, the director of athletics and the head football coach.&lt;ref&gt;[http://hurricanesports.cstv.com/sports/m-footbl/spec-rel/092508aad.html Retrieved 2009-12-12]&lt;/ref&gt; The names and jersey numbers of the inductees were displayed on the upper deck of the [[Miami Orange Bowl|Orange Bowl]] (which has since been torn down). The inaugural class of included [[Jim Dooley]], [[Ted Hendricks]], [[George Mira]], and [[Vinny Testaverde]]. These four players are the only ones in the history of the program to have their numbers retired by the university as well.&lt;ref&gt;[http://www.hurricanesports.com/ViewArticle.dbml?DB_OEM_ID=28700&amp;ATCLID=205549261 &quot;Hurricanes Football: Retired Numbers&quot; at Hurricanesports.com]&lt;/ref&gt; Vinny Testaverde's number was taken out of retirement for the 2015–2016 football season, at Testaverde's behest. His son currently wears #14.
+
+A second group of players consisting of [[Ottis Anderson]], [[Don Bosseler]], [[Bernie Kosar]], and Burgess Owens was inducted in 1999. After a nine-year hiatus, five new players were added in 2008: [[Pro Football Hall of Fame]]rs [[Jim Kelly]] and [[Jim Otto]], former [[Heisman Trophy]]-winner [[Gino Torretta]], running back [[Edgerrin James]], and defensive lineman [[Cortez Kennedy]].
+
+In 2009, [[College Football Hall of Fame]] defensive back [[Bennie Blades]], running back and former Miami head coach [[Eddie Dunn]], and quarterback [[Steve Walsh (American football)|Steve Walsh]] were inducted.&lt;ref&gt;{{cite web|url=http://hurricanesports.cstv.com/sports/m-footbl/roh09.html|title=Ring of Honor – Class of 2009|work=Hurricanesports.com|accessdate=2009-12-02}}&lt;/ref&gt;
+
+===Miami Hurricanes in the NFL===
+{{Main article|List of Miami Hurricanes in the NFL}}
+
+Many Miami players go on to play in the [[National Football League]].&lt;ref name=&quot;draft record&quot;/&gt; The school holds multiple NFL draft related records: most first-round draft picks in a two-year period (11, 2003–2004); most first-round draft picks in a three-year period (15, 2002–2004); and most first-round picks in a four-year period (19, 2001–2004).&lt;ref&gt;{{cite web | title=Miami's NFL Draft History (07/24/07) | accessdate=2006-11-11 | url=http://www.nfl.com/draft/history/schools/miami | format=PDF | publisher=Hurricanesports.com |archiveurl = https://web.archive.org/web/20060910055021/http://www.nfl.com/draft/history/schools/miami |archivedate = September 10, 2006}}&lt;/ref&gt; From 1995 through 2008, Miami set an [[NFL Draft]] record by having at least one player selected in the first round of 14 consecutive drafts.&lt;ref name=&quot;draft record&quot;/&gt; The Hurricanes once had a streak of 149 consecutive regular season weeks where a former Hurricane scored a touchdown in an NFL game; the streak started in Week 15 of the 2002 NFL regular season and ended in Week 11 of the 2011 season. During the streak, 33 different former Hurricanes scored touchdowns and a total of 661 touchdowns were scored.&lt;ref&gt;{{cite web|url=http://procanes.com/StatsRosters/stats/index.html |title=:: Stats |publisher=Procanes.com |date= |accessdate=2012-07-19}}&lt;/ref&gt; Setting a new record for most players from one school, eleven former Hurricanes were selected to the [[2010 Pro Bowl]], which happened to take place at Miami's [[Sun Life Stadium]].&lt;ref&gt;{{Citation |url=http://www.palmbeachpost.com/sports/hurricanes/university-of-miami-sets-a-record-with-11-202461.html |title=University of Miami sets a record with 11 on Pro Bowl roster |last=Frias |first=Carlos |date=January 30, 2010 |newspaper=[[Palm Beach Post]] }}&lt;/ref&gt;
+
+Of the program's last six head coaches, three have gone directly on to head coaching positions in the [[National Football League|NFL]]:
+*[[Jimmy Johnson (American football coach)|Jimmy Johnson]] – [[Dallas Cowboys]] (NFL)
+*[[Dennis Erickson]] – [[Seattle Seahawks]] (NFL)
+*[[Butch Davis]] – [[Cleveland Browns]] (NFL)
+
+Howard Schnellenberger resigned as the Hurricanes head coach in order to become part owner and coach of Miami's first [[USFL]] franchise to be named &quot;The Spirit of Miami.&quot; It did not materialize, and he took the head coaching position at the [[Louisville Cardinals football|University of Louisville]]. (Schnellenberger would eventually end his coaching career at another South Florida school, [[Florida Atlantic Owls football|Florida Atlantic University]].)
+
+====Hurricanes in the Pro Football Hall of Fame====
+{| class=&quot;wikitable sortable&quot;
+|-
+! style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Name
+! style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Teams
+! style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Position
+! style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Years
+! style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot; | Inducted
+|- style=&quot;text-align:center;&quot;
+| Ted Hendricks || Colts, Packers, Raiders || Linebacker || 1969–1983 || 1990
+|- style=&quot;text-align:center;&quot;
+| Michael Irvin || Cowboys || Wide receiver || 1988–1999 || 2007
+|- style=&quot;text-align:center;&quot;
+| Jim Kelly || Bills || Quarterback || 1986–1996 || 2002
+|- style=&quot;text-align:center;&quot;
+| Cortez Kennedy || Seahawks || Defensive tackle || 1990–2000 || 2012
+|- style=&quot;text-align:center;&quot;
+| Jim Otto || Raiders || Center || 1960–1974 || 1980
+|- style=&quot;text-align:center;&quot;
+| Warren Sapp || Buccaneers, Raiders || Defensive tackle || 1995–2007 || 2013
+|- style=&quot;text-align:center;&quot;
+| colspan=&quot;5&quot; style=&quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}&quot;| '''Total NFL Pro Hall of Famers – 6&lt;ref&gt;{{cite web|url=http://www.hurricanesports.com/ViewArticle.dbml?ATCLID=205542076 |title=Hurricanes Football: Hall of Fame Players - University of Miami Hurricanes Official Athletic Site |publisher=Hurricanesports.com |date= |accessdate=2016-09-13}}&lt;/ref&gt;'''
+|}
+
+==Controversies and scandals==
+The [[University of Miami]] has also experienced some degree of controversies, scandals and incidents which at times have led to [[NCAA]] sanctions, suspensions, and negative publicity for the university. These include a situation in 1978 where three players threw a man into a lake precipitating the resignation of coach [[Lou Saban]],&lt;ref name=&quot;Feldman 2004 17–18&quot;/&gt;  the 1991 Cotton Bowl Classic unsportsmanlike conduct giving rise to the so-called &quot;Miami Rule&quot;, the 1995 Pell Grant scandal,&lt;ref name=&quot;Wolff&quot;/&gt; and the 2005 &quot;7th Floor Crew&quot; rap song,&lt;ref name=floorcrew/&gt; described above.
+
+===1980s: Luther Campbell's &quot;pay for play&quot;===
+[[2 Live Crew]] member [[Luther Campbell]] was alleged to have been behind what was referred to as a &quot;pay-for-play&quot; system, which involved cash rewards for acts such as scoring touchdowns and big hits,&lt;ref&gt;[http://query.nytimes.com/gst/fullpage.html?res=9802E0D91038F932A15756C0A962958260 Cash Bounties Reported at Miami]&lt;/ref&gt; although Campbell has never donated directly to the University of Miami or its athletics department.
+
+===2006: FIU brawl===
+{{Main article|FIU–Miami football brawl}}
+On October 14, 2006, in the first meeting of cross-town programs, Miami and the [[FIU Panthers football|Florida International Golden Panthers]] brawled after a [[Extra point|PAT]].
+
+FIU cornerback Chris Smith wrestled Miami holder Matt Perelli to the ground after the kick and appeared to punch him in the chin. Another FIU cornerback, Marshall McDuffie, Jr., kicked Perelli in the head.&lt;ref&gt;[http://www.sportingnews.com/yourturn/viewtopic.php?p=1250765 Miami, FIU extend brawl punishments]&lt;/ref&gt; Miami's [[Anthony Reddick]] swung his helmet at FIU players and Miami's [[Brandon Meriweather]] kicked an FIU player. FIU's A'Mod Ned, who was injured, came onto the field and swung at Miami players with his crutches. The fight lasted just over one minute before the coaches of both teams were able to separate the players. Florida Highway Patrol state troopers and City of Miami police arrived on the field as the fight was going on and remained a visual presence on the sidelines and in the stands to prevent further fighting. The game was delayed approximately 15 to 20 minutes as the officials attempted to sort out which players were ejected and what, if any, penalty yards needed to be enforced.
+
+The next day, 31 players from both schools were punished–18 from FIU, 13 from Miami; the Miami players were handed one-game suspensions, while the FIU players were suspended for the remainder of the season.&lt;ref&gt;{{cite news|url=http://www.foxnews.com/story/0,2933,220962,00.html|title=31 Players were suspended for their involvement|accessdate=2007-05-21 | work=Fox News | date=2006-10-15}}&lt;/ref&gt; Three Miami players were suspended indefinitely and the rest were also assigned community service work.
+
+===2002–2010: Shapiro scandal===
+{{main article|2011 University of Miami athletics scandal}}
+A [[Ponzi scheme]]r, convicted [[felony|felon]] and former Miami booster, [[Nevin Shapiro]], claimed he used investor funds to finance donations to the University of Miami's athletic program and gave an estimated $2 million in illegal benefits to at least 72 current or former football and basketball players and coaches from 2002–2010. A [[Yahoo! Sports]] report alleged that Shapiro, through his donations, violated at least four major NCAA bylaws.&lt;ref&gt;{{cite news |author=Robinson, Charles |title=Renegade Miami football booster spells out illicit benefits to players |url=https://sports.yahoo.com/investigations/news;_ylt=Al4hB9JlfNUz78ftGnbBKHhRMuB_?slug=cr-renegade_miami_booster_details_illicit_benefits_081611 |work=Yahoo! Sports |date=August 16, 2011 |accessdate=2011-08-16}}&lt;/ref&gt;
+
+During the investigation of the allegations, the university self-imposed a ban on bowl participation. In October 2013, the NCAA announced that the university would lose three football scholarships in each of the next three seasons, but there would be no further bowl ban. The university became eligible again for bowl participation as of the 2013–14 season.&lt;ref name=&quot;ncaa.org&quot;/&gt;
+
+==Documentary film==
+{{Main article|The U (film)}}
+In 2009, Miami-based media studio [[Rakontur]] released a documentary film called ''[[The U (documentary)|The U]]'', as part of [[ESPN]]'s 30 for 30 film series. The film depicts the rise of the University of Miami's football tradition throughout the 1980s and early 1990s.&lt;ref&gt;[http://30for30.espn.com/film/the-u.html ''The U'', ESPN.com]&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.rakontur.com/the-u/|title=(rak on tur') – The U|accessdate=2009-09-08}}&lt;/ref&gt; According to the filmmaker, the university chose not to be involved in the project, and denied access to coach Randy Shannon, Paul Dee and [[Edward T. Foote II|Tad Foote]], the former president of the university.&lt;ref&gt;{{cite news |url=http://www.miamiherald.com/606/story/1348738.html|title=University of Miami resists ESPN film, but will show it|first=Barry|last=Jackson|date=Dec 1, 2009|accessdate=20091-12-04 |work=Miami Herald}}&lt;/ref&gt; The film features the rise of the UM football program in the 1980s, but also includes details related to player crime and drug usage and privileges provided to players, including [[Luther Campbell]]'s &quot;pay for play&quot;, in which the rap star reportedly paid UM players for major hits and plays. The film addresses the controversial and pioneering nature of the UM football program. The film was pre-screened on campus on December 10, 2009 with only two student athletes attending&lt;ref&gt;{{cite news|url=http://www.themiamihurricane.com/2009/12/11/the-u-documentary/|title=The U Documentary|work=Miami Hurricane|date=December 11, 2009 |first=Justin |last=Antweil|accessdate=2009-12-12}}&lt;/ref&gt; and televised two days later on [[ESPN]]. The film became the network's most watched documentary program. The U Part 2 was also created to depict the rise and once again fall of their football program.
+
+==Future non-conference opponents==
+Announced schedules as of May 5, 2016&lt;br&gt;
+The ACC plays an eight-game conference schedule, with four non-conference games to schedule a year. This is Miami's future scheduled non-conference opponents, subject to change.
+{| class=&quot;wikitable&quot;
+|- style= &quot;{{CollegePrimaryStyle|Miami Hurricanes|border=0|color=white}}; text-align:center;&quot;
+| '''2017'''
+| '''2018'''
+| '''2019'''
+| '''2020'''
+| '''2021'''
+| '''2022'''
+| '''2023'''
+| '''2024'''
+| '''2025'''
+|- align=&quot;center&quot;&gt;
+| vs [[Notre Dame Fighting Irish football|Notre Dame]] &lt;small&gt;'''(P5)'''&lt;/small&gt;
+| vs [[LSU Tigers football|LSU]] (Arlington, Texas) &lt;small&gt;'''(P5)'''&lt;/small&gt;
+| vs [[Rutgers Scarlet Knights football|Rutgers]] &lt;small&gt;'''(P5)'''&lt;/small&gt;
+| at [[Michigan State Spartans football|Michigan State]] &lt;small&gt;'''(P5)'''&lt;/small&gt;
+| vs [[Michigan State Spartans football|Michigan State]] &lt;small&gt;'''(P5)'''&lt;/small&gt;
+| ''TBA'' &lt;small&gt;'''(P5)'''&lt;/small&gt;
+| ''TBA'' &lt;small&gt;'''(P5)'''&lt;/small&gt;
+| at [[Notre Dame Fighting Irish football|Notre Dame]] &lt;small&gt;'''(P5)'''&lt;/small&gt;
+| vs [[Notre Dame Fighting Irish football|Notre Dame]] &lt;small&gt;'''(P5)'''&lt;/small&gt;
+|- style=&quot;text-align:center;&quot;
+| at [[Arkansas State Red Wolves football|Arkansas State]]
+| at [[Rutgers Scarlet Knights football|Rutgers]] &lt;small&gt;'''(P5)'''&lt;/small&gt;
+| at [[FIU Panthers football|FIU]] &lt;small&gt;''(Site TBA)''&lt;/small&gt;
+|
+| vs [[Appalachian State Mountaineers football|Appalachian State]]
+|
+|
+|
+|
+|- style=&quot;text-align:center;&quot;
+| vs [[Toledo Rockets football|Toledo]]
+| at [[Toledo Rockets football|Toledo]]
+| vs [[Florida Gators football|Florida]] (Orlando, Florida) &lt;small&gt;'''(P5)'''&lt;/small&gt;
+|
+|
+|
+|
+|
+|
+|- style=&quot;text-align:center;&quot;
+|
+| vs [[FIU Panthers football|FIU]]
+|
+|
+|
+|
+|
+|
+|
+|}
+
+*'''(P5)''' Is to denote if a schools is a Power 5 Conference/Notre Dame opponent, which starting in 2017 the ACC will require members to play.&lt;ref&gt;{{cite web|author=Chris Johnson |url=http://www.si.com/college-football/campus-union/2014/05/12/acc-schedule-power-five-eight-conference-games |title=ACC to stay at 8 conference games, require Power 5 opponent beginning in 2017 |publisher=SI.com |date=2014-05-12 |accessdate=2016-09-13}}&lt;/ref&gt;
+*(FCS) Is for Football Championship Subdivision Teams.
+&lt;ref name=&quot;nonconfopp&quot;&gt;{{cite web| title=Miami Hurricanes Football Schedules and Future Schedules|publisher=fbschedules.com| url=http://www.fbschedules.com/ncaa/acc/miami-hurricanes.php |accessdate=2015-12-22}}&lt;/ref&gt;
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+* {{Official website}}
+
+{{Miami Hurricanes football navbox}}
+{{University of Miami}}
+{{Atlantic Coast Conference football navbox}}
+
+{{DEFAULTSORT:Miami Hurricanes Football}}
+[[Category:Miami Hurricanes football|*]]
+[[Category:Sports clubs established in 1926]]
+[[Category:1926 establishments in Florida]]</text>
+      <sha1>iytv7da50711fwoijgy7kisnjigu64g</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -5,6 +5,7 @@ var async = require('async')
 var qs = require('querystring')
 var mkdirp = require('mkdirp');
 var _ = require('underscore')
+var sanitize = require("sanitize-filename");
 // Database Agent
 var dbAgent = require('./dbAgent.js')
 
@@ -27,6 +28,7 @@ var bots = []
 const downloadRevisionHistory = (_title, cb) => {
   console.log(_title);
   articleTitle = _title
+
   client.getArticleRevisions(articleTitle, (err, data) => {
     if (err) throw err
 
@@ -64,9 +66,12 @@ const downloadRevisionHistory = (_title, cb) => {
 
 const saveRevision = (_revision, cb) => {
   var revision = {
-    articleTitle: articleTitle,
+    articleTitle: sanitize(articleTitle),
     user: _revision.user,
-    timestamp: _revision.timestamp
+    timestamp: _revision.timestamp,
+    revid: _revision.revid,
+    parentid: _revision.parentid,
+    size: _revision.size
   }
   dbAgent.insertRevision(revision, (cb))
 }

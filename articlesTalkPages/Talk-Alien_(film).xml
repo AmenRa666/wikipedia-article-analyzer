@@ -1,0 +1,144 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Alien (film)</title>
+    <ns>1</ns>
+    <id>2338802</id>
+    <revision>
+      <id>744518091</id>
+      <parentid>744404561</parentid>
+      <timestamp>2016-10-15T19:24:01Z</timestamp>
+      <contributor>
+        <username>Canterbury Tail</username>
+        <id>73920</id>
+      </contributor>
+      <comment>/* Alien: The Eighth Passenger */ re</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10949">{{Talk header|noarchive=yes}}
+{{ArticleHistory|action1=PR|action1date=2 January 2007|action1link=Wikipedia:Peer review/Alien (film)/archive1|action1result=reviewed|action1oldid=97971890
+|action2=GAN|action2date=4 February 2007|action2link=Talk:Alien (film)/Archive 1#Failed GA nomination |action2result=failed|action2oldid=105221144
+|action3=GAN|action3date=6 October 2008|action3link=Talk:Alien (film)/GA1 |action3result=passed|action3oldid=243323793
+|action4=FAC|action4date=03:59, 13 October 2008|action4link=Wikipedia:Featured article candidates/Alien (film)/archive1|action4result=not promoted|action4oldid=244823086
+| dykdate       = 
+| topic         = film
+| maindate      = 
+|currentstatus=GA
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Alien|class=GA|importance=Top}}
+{{WikiProject Film|British-task-force=yes|class=GA|B-Class-1=yes|B-Class-2=yes|B-Class-3=yes|B-Class-4=yes|B-Class-5=yes|core=yes|American-task-force=yes}}
+{{WikiProject Horror|class=GA|importance=high }}
+{{WikiProject Science Fiction|class=GA|importance=high|type=Article }}
+{{WikiProject United States|class=GA|importance=Low|USFilm=yes|USFilm-importance=Mid}}
+{{WikiProject Library of Congress|class=GA|importance=Low}}
+{{WP1.0|v0.7=pass|class=GA|importance=low|category=Arts}}
+}}
+{{Film references for use}}
+{{User:MiszaBot/config
+|archiveheader = {{talkarchivenav}}
+|maxarchivesize = 130K
+|counter = 3
+|algo = old(30d)
+|archive = Talk:Alien (film)/Archive %(counter)d
+}}
+{{archives|bot=MiszaBot I|auto=short|age=30|search=yes|The following are talk page archives of articles which have been merged into or redirected to this article.
+*[[Talk:Bolaji Badejo/Archive 1|Bolaji Badejo]]
+*[[Talk:Nostromo (spaceship)/Archive 1|Nostromo (spaceship)]]
+}}
+
+== New Sequel ==
+
+The events of both ''[[Alien 3]]'' and ''[[Alien: Resurrection]]'' will be ignored by the upcoming sequel to ''[[Aliens (film)|Aliens]]'', which will be directed by [[Neill Blomkamp]].&lt;ref&gt;{{cite web|url=http://www.huffingtonpost.com/2015/02/26/neill-blomkamp-alien-sequel_n_6759418.html|title=Neill Blomkamp's 'Alien' Sequel Will Probably Forget About Two 'Alien' Movies|last=Rosen|first=Christopher|work=The Huffington Post|date=February 26, 2015|accessdate=February 26, 2015}}&lt;/ref&gt; [[User:AdamDeanHall|AdamDeanHall]] ([[User talk:AdamDeanHall|talk]]) 23:37, 26 February 2015 (UTC)
+
+Note - 
+[http://variety.com/2015/film/news/new-alien-wont-undo-alien-3%E2%80%B2-or-resurrection-director-neill-blomkamp-says-1201443899/ Variety: New ‘Alien’ Won’t Undo ‘Alien 3′ or ‘Resurrection,’ Director Neill Blomkamp Says] - [[User:Gothicfilm|Gothicfilm]] ([[User talk:Gothicfilm|talk]]) 22:34, 1 March 2015 (UTC)
+{{reflist-talk}}
+==Production country==
+Just as a heads up. I added a possibly mildly controversial addition for the production country. In the [[Monthly Film Bulletin]], the film is listed as simply a British production, noting that the 20th-Century Fox production is from a London division. I've changed the article to reflect this and added the source. [[User:Andrzejbanas|Andrzejbanas]] ([[User talk:Andrzejbanas|talk]]) 12:42, 25 August 2015 (UTC)
+:On returning, I've noticed someone removed cited material and added some bare-url google searches. Let's try to come to a conclusion before just removing material we don't agree with. [[User:Andrzejbanas|Andrzejbanas]] ([[User talk:Andrzejbanas|talk]]) 17:35, 12 October 2015 (UTC)
+:With a little research, I found this snippet of information from the ever useful [[British Film Institute]], stating the film was &quot;[http://www.bfi.org.uk/news-opinion/news-bfi/lists/10-great-british-sci-fi-films American funded, but made by Twentieth Century-Fox’s British production subsidiary]&quot;. Not sure how much that helps. [[User:Andrzejbanas|Andrzejbanas]] ([[User talk:Andrzejbanas|talk]]) 17:37, 12 October 2015 (UTC)
+:As a heads up here as well, the Academy Awards seems to note the British production status here: [http://awardsdatabase.oscars.org/ampas_awards/DisplayMain.jsp?curTime=1444820564759]. [[User:Andrzejbanas|Andrzejbanas]] ([[User talk:Andrzejbanas|talk]]) 01:05, 15 October 2015 (UTC)
+
+== A cheesy version of Aliens ==
+
+I had just watched a 1988 movie called Deep Space and was surprised that the creatures in it were very similar to the ridley scott's aliens. 
+
+http://www.imdb.com/title/tt0092863/
+
+the movie above is a bit cheesy so i am not sure why they would use copies of the aliens from a higher quality film?
+
+just wanted to add this to the discussion. thanks.
+19:57, 26 September 2015 (UTC)~~  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/172.11.88.151|172.11.88.151]] ([[User talk:172.11.88.151|talk]]) &lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== ''Alien: The Eighth Passenger'' ==
+I always thought that ''Alien'' was subtitled as ''Alien: The Eighth Passenger'', mainly because some Non-English speaking countries had titled this movie as ''Alien, le huitième passager'' (France), ''L'Étranger : Le Huitième Passager'' (French Canadian), ''Alien, el octavo pasajero'' (Spain)... and all of this titles translate into English as ''Alien: The Eighth Passenger''. Is it sure that these translations are not from an original American title, given to the film at some point in 1978/1979...?
+:Can't say I've seen any reviews or promo material where the title is given as that. [[User:Andrzejbanas|Andrzejbanas]] ([[User talk:Andrzejbanas|talk]]) 12:14, 5 October 2016 (UTC)
+::Ok, thank you [[User:Andrzejbanas|Andrzejbanas]], I will be awaiting for other user's views and opinions. Thank you again. [[User:Kintaro|Kintaro]] ([[User talk:Kintaro|talk]]) 15:38, 5 October 2016 (UTC)
+Let me comment one point: the documentary ''The Eighth Passenger: Creature Design'', abundantly included in the present article as a reference, is titled following the term &quot;The Eighth Passenger&quot;. What is interesting to point out, here, is that ''The Eighth Passenger: Creature Design'' is an American documentary, made by Americans. Thus, in my opinion, ''The Eighth Passenger'', either as a title or as a subtitle, is of American origin... as it is indeed the film itself. [[User:Kintaro|Kintaro]] ([[User talk:Kintaro|talk]]) 14:57, 13 October 2016 (UTC)
+:::Well, it's your opinion, but you'll need to find it used anywhere. Can't say I've seen it, and honestly even if you do find it, it's not nearly as common as the simple ''Alien'' title. [[User:Andrzejbanas|Andrzejbanas]] ([[User talk:Andrzejbanas|talk]]) 22:57, 13 October 2016 (UTC)
+::::The Eighth Passenger I take as simply the name of the documentary. Many documentaries about making of films are not named after the film. Dangerous Days for Blade Runner, Superior Firepower for Aliens etc. The documentary carrying that name doesn't really mean anything with regards to the film's title. I know the film was originally pitched under the title Star Beast but was called Alien by the time the script was finalized. None of my books on the making of etc mention The Eight Passenger that I've been able to see regarding either the title or subtitle of the English name. Nor can I see it in any of the poster variants that I have images of. Not saying it never existed, but I've not been able to locate any reference to it in English. It's possible the proliferation of it in the foreign names cross pollinated back into English and attached to it after the fact. [[User:Canterbury Tail|&lt;font color=&quot;Blue&quot;&gt;'''Canterbury Tail'''&lt;/font&gt;]] [[User talk:Canterbury Tail|''&lt;font color=&quot;Blue&quot;&gt;talk&lt;/font&gt;'']] 01:32, 14 October 2016 (UTC)
+[[User:Canterbury Tail|Canterbury Tail]], the point is that, '''as of 1979''', countries like Spain, France or Canada (in Quebec) added the subtitle ''The Eighth Passenger'' to their versions, into their own language, of course (''El octavo pasajero'' into Spanish and ''Le huitième passager'' into French). Regarding this documentary... '''the year is 2003, not 1979'''. Thus, the source of this subtitle (''The Eighth Passenger'') '''is not''' the documentary... [[User:Kintaro|Kintaro]] ([[User talk:Kintaro|talk]]) 16:33, 14 October 2016 (UTC)
+:No I didn't think the source of the name was the documentary. I was pointing to it as a cross pollination of the name back from the foreign language versions back into English. It's not uncommon for many different foreign languages to share a common translation of a film's name that doesn't exist in the English. This is often due to in most distribution studios there being a domestic department and then an international distribution department. So it's pretty common for the international distribution department to come up with a different name or description that is then used in the foreign language versions. it doesn't necessarily mean it was ever attached in any way to the English version name or subtitle. 
+: Anyway all of this is academic, you'd need a source that the name or subtitle was attached to the English language version. Everything else we have is just speculation or synthesis. [[User:Canterbury Tail|&lt;font color=&quot;Blue&quot;&gt;'''Canterbury Tail'''&lt;/font&gt;]] [[User talk:Canterbury Tail|''&lt;font color=&quot;Blue&quot;&gt;talk&lt;/font&gt;'']] 17:06, 14 October 2016 (UTC)
+::Thank you, [[User:Canterbury Tail|Canterbury Tail]], for your kind and complete answer. It's a reasonable and quite convincing assumption. [[User:Kintaro|Kintaro]] ([[User talk:Kintaro|talk]]) 00:36, 15 October 2016 (UTC)
+:::I am however very curious and looking into this myself. My sources don't have the name attached to the film originally in English, however it would be fascinating if it did. So I'm checking what I can to see if there is any connection, old books etc. [[User:Canterbury Tail|&lt;font color=&quot;Blue&quot;&gt;'''Canterbury Tail'''&lt;/font&gt;]] [[User talk:Canterbury Tail|''&lt;font color=&quot;Blue&quot;&gt;talk&lt;/font&gt;'']] 19:23, 15 October 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:1|one external link|1 external links}} on [[Alien (film)]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=743370406 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20080914184217/http://www.saturnawards.org/past.html to http://www.saturnawards.org/past.html
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:InternetArchiveBot|'''&lt;span style=&quot;color:darkgrey;font-family:monospace&quot;&gt;InternetArchiveBot&lt;/span&gt;''']] &lt;span style=&quot;color:green;font-family:Rockwell&quot;&gt;([[User talk:InternetArchiveBot|Report bug]])&lt;/span&gt; 10:30, 9 October 2016 (UTC)</text>
+      <sha1>j0cyy34jqbdb663g8cu5vntgw7bt6fw</sha1>
+    </revision>
+  </page>
+</mediawiki>

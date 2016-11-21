@@ -1,0 +1,138 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:C4.5 algorithm</title>
+    <ns>1</ns>
+    <id>8260821</id>
+    <revision>
+      <id>682005300</id>
+      <parentid>679919220</parentid>
+      <timestamp>2015-09-20T22:44:19Z</timestamp>
+      <contributor>
+        <username>Gabefair</username>
+        <id>16988883</id>
+      </contributor>
+      <comment>/* Pseudocode doesn't describe the C4.5 algorithm */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6533">{{Talk header}}
+{{WikiProject Robotics|class=C|importance=mid}}
+
+
+
+==Advantages and Disadvantages==
+
+All machine learning algorithms can overfit, and C4.5 is no exception. 
+It would be useful to point out when C4.5 works well and where it does not. 
+
+Since c4.5 so heavily relies on IG (information gain), the difference in class distribution priors between Train and Test is a MAJOR determining factor for how well this algorithm will work on new (test) data. This is crucial to using the c4.5 and should be stated clearly in the article. Agreed?   &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/173.8.132.62|173.8.132.62]] ([[User talk:173.8.132.62|talk]]) 05:40, 25 May 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==Untitled==
+I believe I've considerably cleaned it up.  However, I don't usually edit Wikipedia pages and it could probably be brought up to speed Wikipedia-wise
+[[User:Weston.pace|Weston.pace]] 22:47, 24 May 2007 (UTC)
+
+I agree.  I hope the original author decides to edit -- This reads like notes taken during a lecture. [[User:Fonny|Fonny]] 13:18, 17 April 2007 (UTC)
+
+C4.5 is considered to be pretty important in the machine learning community (at least, I see it a lot in papers about text classification -- usually being beaten by support vector machines on particular datasets) so this page is noteworthy. However, it has terrible English. I'm not familiar enough with the software/algorithm(s) involved to edit it seriously. [[User:Whenning|Whenning]] 05:23, 3 February 2007 (UTC)
+
+== Discussion of improvements ==
+
+This article and the restatement of [[ID3_algorithm]] should be replaced with an explanation of the improvements offered by C4.5. From the article:
+
+* Choosing an appropriate attribute selection measure.
+* Handling training data with missing attribute values.
+* Handling attributes with differing costs.
+* Handling continuous attributes.
+
+What does C4.5 do in each of these areas? Details about the implementation are useless! --[[User:Beefyt|Beefyt]] 21:55, 24 April 2007 (UTC)
+
+== J48 algorithm ==
+
+J48 redirects to this page, though this article doesn't mention it.. are there significant differences between C4.5 and J48 or is J48 no more than a Java implementation of C4.5? Thanks, [[User:Simeon87|Simeon87]] ([[User talk:Simeon87|talk]]) 12:16, 28 May 2008 (UTC)
+
+
+:J48 is a '''J'''ava implementation of C'''4'''.5, Release '''8''', the last free release of the algorithm before Quinlan moved to C5.0 [[User:Jdoucett|Jdoucett]] ([[User talk:Jdoucett|talk]]) 20:41, 6 November 2011 (UTC)
+
+== Pseudocode doesn't describe the C4.5 algorithm ==
+
+The listed pseudocode is only a basic decision tree induction algorithm but not the C4.5 algorithm (if you check the source you'll see that kotsiantis didn't describe the C4.5 algorithm in any listing). I'm not sure if it was planned to just list a general decision tree induction algorithm, if so it would be helpful to note this in detail.
+--[[User:B.eberhardinger|B.eberhardinger]] ([[User talk:B.eberhardinger|talk]]) 09:42, 24 June 2011 (UTC)
+Benedikt Eberhardinger
+
+The pseudocode also does not describe how C4.5 recursively prunes branches. I will update the pseudocode now.
+[[User:Gabefair|Gabefair]] ([[User talk:Gabefair|talk]]) 16:15, 7 September 2015 (UTC)
+Still working on it. [[User:Gabefair|Gabefair]] ([[User talk:Gabefair|talk]]) 22:44, 20 September 2015 (UTC)
+
+== C5.0: neutrality (and factual accuracy) disputed ==
+
+The section on C5.0 seems to be copied from Quinlan/RuleQuest's ad for the C5.0 program. It also confuses algorithm and implementation by claiming that C5.0 is faster than C4.5. I've labeled it &lt;nowiki&gt;{{npov}}&lt;/nowiki&gt; and have requested a source; if none is found, then a rewrite may be in order. [[User:Qwertyus|Qwertyus]] ([[User talk:Qwertyus|talk]]) 20:43, 9 August 2011 (UTC)
+
+
+::Although I don't have a source for this, as a practitioner in the area and a user of both C4.5 and C5.0, I can vouch that the advertised features are widely accepted within the machine learning community. C5.0 is _algorithmicly_ faster as well as being a faster implementation of C4.5, since it makes different splits, and generates different trees, as well as doing feature selection prior to generating the tree. In spite of this, C5.0 generates models with very similar performance to those produced by C4.5, so they are often treated as being interchangeable algorithms in the literature, even though they are not. [[User:Jdoucett|Jdoucett]] ([[User talk:Jdoucett|talk]]) 20:45, 6 November 2011 (UTC)
+
+
+Proposed (&quot;he claims&quot;, and omitting marketing talk):
+
+::Quinlan went on to create C5.0 and See5 (C5.0 for Unix/Linux, See5 for Windows) which he markets commercially.  He claims a number of improvements over C4.5&lt;ref&gt;[http://www.rulequest.com/see5-comparison.html Is See5/C5.0 Better Than C4.5?]&lt;/ref&gt;{{Third-party-inline|date=August 2011}}: speed, memory efficiency, smaller trees, support for [[boosting]], weighting the cost of misclassification and [[Winnow (algorithm)|winnowing]].
+
+::Source for a single-threaded Linux version of C5.0 is available under the GPL.
+
+
+--------
+
+I don't know what the state of affairs was when you wrote that, but looking at Quinlan's page now, he's got C5.0 posted GNU/GPL, so it's no longer commercial.  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/98.247.50.244|98.247.50.244]] ([[User talk:98.247.50.244|talk]]) 00:32, 5 December 2014 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== C5.0: NPOV: recommend deletion ==
+
+I have never heard of &quot;c5.0&quot; prior to this article, has anyone else? 
+CERTAINLY &quot;c5.0&quot; is not deserving of 10% of this article, and should be AT MOST, reduced to a footnote about alternatives.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.21.11.140|76.21.11.140]] ([[User talk:76.21.11.140|talk]]) 02:19, 5 June 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Paragraph about significance ==
+
+There should be a paragraph about the significance of the C4.5 Algorithm and its usage in Data Mining. I will try to add some info whenever I can but this is just a suggestion for improvement.--[[User:Diaa abdelmoneim|Diaa abdelmoneim]] ([[User talk:Diaa abdelmoneim|talk]]) 20:12, 26 March 2013 (UTC)</text>
+      <sha1>ob0dwklfp9g4uy0rmpmr1el25hhpgoi</sha1>
+    </revision>
+  </page>
+</mediawiki>

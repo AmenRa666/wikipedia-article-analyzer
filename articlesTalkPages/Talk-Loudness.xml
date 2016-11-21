@@ -1,0 +1,142 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Loudness</title>
+    <ns>1</ns>
+    <id>497965</id>
+    <revision>
+      <id>369869919</id>
+      <parentid>369865738</parentid>
+      <timestamp>2010-06-24T06:25:23Z</timestamp>
+      <contributor>
+        <username>Spinningspark</username>
+        <id>3727527</id>
+      </contributor>
+      <comment>/* Entomology of Volume */ [[WP:RD]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12565">{{physics|class=C|importance=mid|acoustics=yes}}
+
+----
+The article [[List of heavy metal musicians]] should have a wikilink to here, but sadly i don't know LOUDNESS and don't know to which subdivision of metal it should be caunted, so i can't add it. Please do so if you feel competent about it. [[User:Lady Tenar|Lady Tenar]] 23:10, 1 Mar 2004 (UTC)
+
+== Loudness and speed of sound ==
+Does the loudness of a wave affect the speed of a wave? What factors affect the speed of sound? [[User:Freestylefrappe|freestylefrappe]] 01:54, August 7, 2005 (UTC)
+
+:I'm not sure I understand your question correctly but in your average airspace sound always travels at the same speed. The [[Speed of sound]] is defined by the medium it travels through (air, water etc.) and is slightly modified by temperature. 
+
+:On the other hand if you're talking about speed as the rate of a wave signal then you should see [[frequency]] for more details. The frequency of a sound defines it's pitch. Frequency is not modifed by loudness and neither is the speed of a sound. Loudness modifes velocity of a sound. --[[User:Mattimatti|Mattimatti]] 06:21, 11 August 2006 (UTC)
+
+:Loudness is primarily a correlate to the amplitude of a sound.  The speed of a sound is defined only by the properties of the medium it travels within and not the amplitude nor frequency.  [[User:Thesleepwalker|The Sleepwalker]] 22:02, 8 January 2007 (UTC)
+
+== Scavenged from deletions ==
+Could be incorporated somehow!
+
+''Auditory Physiology
+
+Louder sounds have '''less spatial selectivity''' on the [[basilar membrane]] (chochlea in the inner ear), weaker sounds are more restricted localized. '''Loudness''' is heard at the shallow end of the envelope triangle of a traveling wave (sound). '''Frequency discrimination''' is performed at the end. 	 
+The number of activated nerve fibers used per inner hair cell increases with the stimulus intensity. Auditory fibers with identical best frequencies have different response thresholds.''
+
+--[[User:Light current|Light current]] 21:54, 23 June 2006 (UTC)
+
+== Is Sound Energy/Power a function of Sound Frequency ?  Why ? ==
+
+When you look at the frequency spectrum of a song, with a linear frequency axis scale, the low frequencies appear much stronger (even in dB) than the high frequencies.  Why is that?  Is it inherent to the properties of sound itself, or does it reflect our ears' relative sensitivity to high frequency sound and the sound engineers therefore adjusted the spectrum so we may hear low frequencies as loud as high frequencies (i.e. they intentionally made low frequencies louder because our ears are relatively insensitive to them)? &lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[Special:Contributions/82.227.97.30|82.227.97.30]] ([[User talk:82.227.97.30|talk]]) 07:26, 7 January 2007 (UTC).&lt;/small&gt;&lt;!-- HagermanBot Auto-Unsigned --&gt;
+
+Hearing actually quite clearly functions on a logarithmic frequency scale (see the tonotopic nature and arrangement of the basilar membrane and auditory nerve).  If you look at distribution of energy on a log scale, it tends to be relatively flat.  Flat energy on a logarithmic scale equals an even distribution across the auditory system.  [[User:Thesleepwalker|The Sleepwalker]] 21:59, 8 January 2007 (UTC)
+
+The mentioned lower power spectral density at higher frequencies is also a natural result of harmonic frequencies as seen by sinusoidal decomposition of musical notes ([[Fourier series]]). The fundamental tone is the lowest frequency and defines the &quot;note&quot; being played. The [[Timbre]] is given by the relative intensities of all the harmonics present (fundamental and overtones). There are rare examples of missing fundamentals (e.g. bassoon, I believe), but by far the most common type of spectrum is of decreasing amplitude for higher overtones. Usually, any resonant structure (stretched string, resonant air-cavity or vibrating bar, typically) will respond most at its fundamental frequency, and have smaller resonant peaks at all integer multiples of it. On a logarithmic frequency scale (closer to human perception), the reduced amplitude higher harmonics bunch up, so, as The Sleepwalker says, the distribution is much flatter for most music when represented this way. White noise and transient impulses (especially as they get very short, approaching the [[Dirac delta function]]) have a flat spectrum on the linear frequency scale, however, so identifying percussive impacts is often easiest on a linear-frequency spectrogram, where they are represented by a bright vertical line of a single colour (=intensity) when shown in the most common spectral display format used in audio software. Constant background hiss (white noise), is typically a single colour representing low intensity. --[[User:Dynamicimanyd|Dynamicimanyd]] 09:03, 13 August 2007 (UTC)
+
+== Loudness control ==
+
+I added the following paragraph, which was removed:
+
+&quot;Although many implementations of the &quot;loudness&quot; control do attenuate the middle frequencies more rapidly than the low and high frequencies, this is based on a mistaken interpretation of the constant-loudness curves. Since only the low-frequency ends of the curves bunch together, while the high frequency ends maintain the same separation as the middles, the high frequencies should be attenuated at the same rate as the middle frequencies.&quot;
+
+This was characterized as an &quot;instructional paragraph aimed at electronics designers&quot;.  I did not intend it as that, but rather as a correction to or fuller explanation of the statement in the previous paragraph that &quot;The 'loudness' control on a consumer stereo alters the frequency response curve, attenuating midrange frequencies...&quot;.  The reference to Lenk on this statement does not seem to support it, since Lenk (p 5.13) says &quot;The human ear has difficulty in hearing low-frequency sounds at low levels and responds mainly to the high-frequency components.&quot;  This is consistent with my position that constant-loudness curves, from Fletcher and Munson through all subsequent investigators, show no significant change (from curve to curve, not from investigator to investigator) in the shape of the curves at the middle and--importantly--the upper frequencies.
+
+It is however true that many loudness controls are designed according to the erroneous belief that both treble and bass should be boosted at low volume levels.  But many are not designed that way, which was the point of my correction.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/63.86.92.198|63.86.92.198]] ([[User talk:63.86.92.198|talk]]) 13:50, 28 July 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:I removed that entry. My problem with it was that it said &quot;''based on a mistaken interpretation''&quot; and &quot;''should be''&quot;. How can we possibly know what each and every loudness circuit designer had in mind? We are not able to say with any certainty what they were trying to interpret. The phrase &quot;''should be''&quot; does not often fit well into an encyclopedic article.
+
+:I move that we simply observe and acknowledge what's out there, noting that some designs match the ISO loudness curves more closely. As far as which designs are which, I don't have any references that talk about quantity or quality of loudness button circuitry, and I haven't seen charts that compare various designs... That's where I come up short on this topic. [[User:Binksternet|Binksternet]] ([[User talk:Binksternet|talk]]) 16:08, 28 July 2008 (UTC)
+
+How about this:  I propose to remove the clause about attenuating midrange frequencies from the existing paragraph, since it is contradicted by the Lenk reference, then move that reference to the end of the sentence, since it more directly applies to the physiology than to the implementation.  I will make the change, which you can of course reverse.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/63.86.92.198|63.86.92.198]] ([[User talk:63.86.92.198|talk]]) 19:56, 28 July 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Boolean property ==
+
+The first paragraph of this article currently ends: ''It is also an known fact that loudness is actually a boolean attribute, therefore can not be adjusted by an analog control.''
+
+The only boolean property I can think of is the switch on some consumer electronics, which is mentioned in the &quot;other uses&quot; section.  So I propose that this sentence is removed.  --[[User:Rkaj|Rkaj]] ([[User talk:Rkaj|talk]]) 13:38, 30 July 2008 (UTC)
+
+----
+Agreed and done.  I have worked in audio processing and perception for more than 30 years and have never heard of this &quot;property.&quot;  The poor grammar additionally makes the statement suspect.  --[[Special:Contributions/71.48.188.4|71.48.188.4]] ([[User talk:71.48.188.4|talk]]) 19:20, 5 August 2008 (UTC)
+
+== Temporal integration ==
+The first paragraph of the Explanation is mainly about loudness temporal integration, but the integration periods (600-1000 ms) are longer than those that I see in the literature. Consider Moore's &quot;An Introduction to the Psychology of Hearing&quot; (fourth edition, p63), where 100-200 ms is given as the upper cutoff of temporal integration.&lt;ref&gt;Moore,BCJ: &quot;An Introduction to the Psychology of Hearing&quot;, page 63. Academic Press, 2003.&lt;/ref&gt; Similar data are in Zwicker &amp; Fastl's &quot;Psychoacoustics: Facts and Models&quot;.&lt;ref&gt; Zwicker, E &amp; Fastl, H: &quot;Psychoacoustics: Facts and Models&quot;, page 340. Springer, 1999.&lt;/ref&gt; I am curious as to whether the 600-1000 ms time can be substantiated, or if it would be better to rewrite this to be consistent with authoratitive sources (which is what I suspect).[[User:Densilcabrera|Densilcabrera]] ([[User talk:Densilcabrera|talk]]) 02:34, 2 March 2010 (UTC)
+===Notes===
+&lt;references/&gt;
+
+==Plangency==
+Because of the redirect from [plangency] (whence I came) and the dead end that results, i.e., [plangency] is not in this page or the [Loudness] page itself, so users fail.  Perhaps you might consider an entry fairly early on (end of the first paragraph??) 
+that simply says the word [plangency] is not exactly a synonym for [Loudness].
+It can add notions of deepness or resonance, and sometimes even mournfulness (... or somesuch).  
+Or else, should/could the redirect be eliminated/changed?  [Plangent] and [Plangency] tend to be literary, do they not?  Thus a redirect to wiktionary?  (I'm ignorant if redirects can be done to wiktionary.)
+[[User:KenH|KenH]] ([[User talk:KenH|talk]]) 08:29, 20 April 2010 (UTC)
+
+:I don't think plangency has much to do with this article.  Soft redirects to Wiktionary are possible with the templates {{tl|Soft redirect}} or {{tl|Wi}}. [[User:Spinningspark|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Sp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;in&lt;font style=&quot;color:#C08000&quot;&gt;ni&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;ng&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Spark'''&lt;/font&gt;]] 18:07, 22 April 2010 (UTC)
+
+:''Loudness'' is not the same as ''plangent'', which came from &quot;plaint&quot; or &quot;lament&quot;, and means &quot;having a loud reverberating sound&quot; or &quot;having an expressive and especially plaintive quality&quot;. ''Plangency'' is more akin to &quot;depth of expression&quot; or &quot;sadness&quot; than anything related to sound. I do not think this article should attempt to explain plangent or plangency. I have retargeted the redirect which brought you here, to take the reader to [[Sadness]].
+:Tangentially, [[Ernesto Nazareth]]'s ''Plangente'' is one of the best, saddest, Brazilian tangos, in my opinion. [[User:Binksternet|Binksternet]] ([[User talk:Binksternet|talk]]) 15:16, 24 April 2010 (UTC)
+
+== Entomology of Volume ==
+
+I went to [[Volume (sound)]] to learn about the entomology of the word &quot;volume&quot; in regards to its acoustics-related definition. It redirected me to [[Loudness]]. Could someone answer my query? (Since this answer most likely belongs more at wiktionary than at wikipedia, I have also asked it at http://en.wiktionary.org/wiki/Wiktionary:Information_desk. [[User:Humanist Geek|Humanist Geek]] ([[User talk:Humanist Geek|talk]]) 05:34, 24 June 2010 (UTC)
+
+:You should ask questions like this at the [[WP:Reference desk|Reference desk]]. [[User:Spinningspark|&lt;font style=&quot;background:#FFF090;color:#00C000&quot;&gt;'''Sp&lt;font style=&quot;background:#FFF0A0;color:#80C000&quot;&gt;in&lt;font style=&quot;color:#C08000&quot;&gt;ni&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#C00000&quot;&gt;ng&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color:#2820F0&quot;&gt;Spark'''&lt;/font&gt;]] 06:25, 24 June 2010 (UTC)</text>
+      <sha1>tseqf5et7en0yjvc5jnl2v2lcxmwu5q</sha1>
+    </revision>
+  </page>
+</mediawiki>

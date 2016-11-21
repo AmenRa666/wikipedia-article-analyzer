@@ -1,0 +1,169 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Aeroacoustics</title>
+    <ns>0</ns>
+    <id>2518272</id>
+    <revision>
+      <id>747826202</id>
+      <parentid>736728126</parentid>
+      <timestamp>2016-11-04T16:23:02Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* External links */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12111">'''Aeroacoustics''' is a branch of [[acoustics]] that studies noise generation via either [[turbulent]] fluid motion or [[aerodynamic]] forces interacting with surfaces. Noise generation can also be associated with periodically varying flows.  A notable example of this phenomenon is the [[Aeolian sound|Aeolian tones]] produced by wind blowing over fixed objects.
+
+Although no complete scientific theory of the generation of noise by aerodynamic flows has been established, most practical aeroacoustic analysis relies upon the so-called ''[[aeroacoustic analogy]]'',&lt;ref name=&quot;Willians84&quot;/&gt; proposed by Sir [[James Lighthill]] in the 1950s while at the [[University of Manchester]].&lt;ref name=&quot;Lighthill52&quot;/&gt;&lt;ref name=Lighthill54/&gt; whereby the governing equations of motion of the fluid are coerced into a form reminiscent of the [[wave equation]] of &quot;classical&quot; (i.e. linear) acoustics in the left-hand side with the remaining terms as sources in the right-hand side. 
+
+==History==
+The modern discipline of [[aeroacoustics]] can be said to have originated with the first publication of  Lighthill&lt;ref name=&quot;Lighthill52&quot;/&gt;&lt;ref name=&quot;Lighthill54&quot;/&gt; in the early 1950s, when noise generation associated with the [[jet engine]] was beginning to be placed under scientific scrutiny.
+
+==Lighthill's equation==
+Lighthill&lt;ref name=&quot;Lighthill52&quot; /&gt; rearranged the [[Navier–Stokes equations]], which govern the [[Fluid dynamics|flow]] of a [[compressible]] [[viscous]] [[fluid]], into an [[Inhomogeneous_differential_equation#Nonhomogeneous_equations|inhomogeneous]] [[wave equation]], thereby making a connection between [[fluid mechanics]] and [[acoustics]]. This is often called &quot;Lighthill's analogy&quot; because it presents a model for the acoustic field that is not, strictly speaking, based on the physics of flow-induced/generated noise, but rather on the analogy of how they might be represented through the governing equations of a compressible fluid.
+
+The first equation of interest is the [[conservation of mass]] equation, which reads
+
+:&lt;math&gt;\frac{\partial \rho}{\partial t} + \nabla\cdot\left(\rho\mathbf{v}\right)=\frac{D\rho}{D t} + \rho\nabla\cdot\mathbf{v}= 0,&lt;/math&gt;
+
+where &lt;math&gt;\rho&lt;/math&gt; and &lt;math&gt;\mathbf{v}&lt;/math&gt; represent the density and velocity of the fluid, which depend on space and time, and &lt;math&gt;D/Dt&lt;/math&gt; is the [[substantial derivative]].
+
+Next is the [[conservation of momentum]] equation, which is given by
+
+:&lt;math&gt;{\rho}\frac{\partial \mathbf{v}}{\partial t}+{\rho(\mathbf{v}\cdot\nabla)\mathbf{v}} = -\nabla p+\nabla\cdot\sigma,&lt;/math&gt;
+
+where &lt;math&gt;p&lt;/math&gt; is the thermodynamic [[pressure]], and &lt;math&gt;\sigma&lt;/math&gt; is the viscous (or traceless) part of the [[Cauchy stress tensor|stress tensor]] from the Navier–Stokes equations.
+
+Now, multiplying the conservation of mass equation by &lt;math&gt;\mathbf{v}&lt;/math&gt; and adding it to the conservation of momentum equation gives 
+
+:&lt;math&gt;\frac{\partial}{\partial t}\left(\rho\mathbf{v}\right) + \nabla\cdot(\rho\mathbf{v}\otimes\mathbf{v}) = -\nabla p + \nabla\cdot\sigma.&lt;/math&gt;
+
+Note that &lt;math&gt;\mathbf{v}\otimes\mathbf{v}&lt;/math&gt; is a [[tensor]] (see also [[tensor product]]). Differentiating the conservation of mass equation with respect to time, taking the [[divergence]] of the conservation of momentum equation and subtracting the latter from the former, we arrive at
+
+:&lt;math&gt;\frac{\partial^2\rho}{\partial t^2} - \nabla^2 p + \nabla\cdot\nabla\cdot\sigma = \nabla\cdot\nabla\cdot(\rho\mathbf{v}\otimes\mathbf{v}).&lt;/math&gt;
+
+Subtracting &lt;math&gt;c_0^2\nabla^2\rho&lt;/math&gt;, where &lt;math&gt;c_0&lt;/math&gt; is the [[speed of sound]] in the medium in its equilibrium (or quiescent) state, from both sides of the last equation and rearranging it results in
+
+:&lt;math&gt;\frac{\partial^2\rho}{\partial t^2}-c^2_0\nabla^2\rho = \nabla\cdot\left[\nabla\cdot(\rho\mathbf{v}\otimes\mathbf{v})-\nabla\cdot\sigma +\nabla p-c^2_0\nabla\rho\right],&lt;/math&gt;
+
+which is equivalent to
+
+:&lt;math&gt;\frac{\partial^2\rho}{\partial t^2}-c^2_0\nabla^2\rho=(\nabla\otimes\nabla) :\left[\rho\mathbf{v}\otimes\mathbf{v} - \sigma + (p-c^2_0\rho)\mathbb{I}\right],&lt;/math&gt;
+where &lt;math&gt;\mathbb{I}&lt;/math&gt; is the [[identity matrix|identity]] tensor, and &lt;math&gt;:&lt;/math&gt; denotes the (double) [[tensor contraction]] operator.
+
+The above equation is the celebrated [[Lighthill equation]] of aeroacoustics. It is a [[wave equation]] with a source term on the right-hand side, i.e. an inhomogeneous wave equation. The argument of the &quot;double-divergence operator&quot; on the right-hand side of last equation, i.e. &lt;math&gt;\rho\mathbf{v}\otimes\mathbf{v}-\sigma+(p-c^2_0\rho)\mathbb{I}&lt;/math&gt;, is the so-called ''[[Lighthill turbulence stress tensor]] for the acoustic field'', and it is commonly denoted by &lt;math&gt;T&lt;/math&gt;. 
+
+Using [[Einstein notation]], Lighthill’s equation can be written as 
+
+:&lt;math&gt;\frac{\partial^2\rho}{\partial t^2}-c^2_0\nabla^2\rho=\frac{\partial^2T_{ij}}{\partial x_i \partial x_j},\quad (*)&lt;/math&gt;
+
+where
+
+:&lt;math&gt;T_{ij}=\rho v_i v_j - \sigma_{ij} + (p- c^2_0\rho)\delta_{ij},&lt;/math&gt;
+
+and &lt;math&gt;\delta_{ij}&lt;/math&gt; is the [[Kronecker delta]]. Each of the acoustic source terms, i.e. terms in &lt;math&gt;T_{ij}&lt;/math&gt;, may play a significant role in the generation of noise depending upon flow conditions considered. &lt;math&gt;\rho v_i v_j &lt;/math&gt; describes unsteady convection of flow (or Reynolds' Stress, developed by [[Osborne Reynolds]]), &lt;math&gt;\sigma_{ij}&lt;/math&gt; describes sound generated by shear, and &lt;math&gt;(p- c^2_0\rho)\delta_{ij}&lt;/math&gt; describes non-linear acoustic generation processes.
+
+In practice, it is customary to neglect the effects of [[viscosity]] on the fluid, i.e. one takes &lt;math&gt;\sigma=0&lt;/math&gt;, because it is generally accepted that the effects of the latter on noise generation, in most situations, are orders of magnitude smaller than those due to the other terms. Lighthill&lt;ref name=&quot;Lighthill52&quot; /&gt; provides an in-depth discussion of this matter.
+
+In aeroacoustic studies, both theoretical and computational efforts are made to solve for the acoustic source terms in Lighthill's equation in order to make statements regarding the relevant aerodynamic noise generation mechanisms present.
+
+Finally, it is important to realize that Lighthill's equation is '''exact''' in the sense that no approximations of any kind have been made in its derivation.
+
+== Related model equations ==
+In their classical text on [[fluid mechanics]], Landau and Lifshitz&lt;ref name=LL81&gt;L. D. Landau and E. M. Lifshitz, ''Fluid Mechanics'' 2ed., Course of Theoretical Physics vol. 6, Butterworth-Heinemann (1987) §75.&lt;/ref&gt; derive an aeroacoustic equation analogous to Lighthill's (i.e., an equation for sound generated by &quot;[[turbulent]]&quot; fluid motion), but for the [[incompressible flow]] of an [[inviscid]] fluid. The inhomogeneous wave equation that they obtain is for the ''pressure'' &lt;math&gt;p&lt;/math&gt; rather than for the density &lt;math&gt;\rho&lt;/math&gt; of the fluid. Furthermore, unlike Lighthill's equation, Landau and Lifshitz's equation is '''not''' exact; it is an approximation.
+
+If one is to allow for approximations to be made, a simpler way (without necessarily assuming the fluid is [[incompressible]]) to obtain an approximation to Lighthill's equation is to assume that &lt;math&gt;p-p_0=c_0^2(\rho-\rho_0)&lt;/math&gt;, where &lt;math&gt;\rho_0&lt;/math&gt; and &lt;math&gt;p_0&lt;/math&gt; are the (characteristic) density and pressure of the fluid in its equilibrium state. Then, upon substitution the assumed relation between pressure and density into &lt;math&gt;(*) \,&lt;/math&gt; we obtain the equation (for an inviscid fluid, σ = 0)
+
+:&lt;math&gt;\frac{1}{c_0^2}\frac{\partial^2 p}{\partial t^2}-\nabla^2p=\frac{\partial^2\tilde{T}_{ij}}{\partial x_i \partial x_j},\quad\text{where}\quad\tilde{T}_{ij} = \rho v_i v_j.&lt;/math&gt;
+
+And for the case when the fluid is indeed incompressible, i.e. &lt;math&gt;\rho=\rho_0&lt;/math&gt; (for some positive constant &lt;math&gt;\rho_0&lt;/math&gt;) everywhere, then we obtain exactly the equation given in Landau and Lifshitz,&lt;ref name=&quot;LL81&quot; /&gt; namely 
+
+:&lt;math&gt;\frac{1}{c_0^2}\frac{\partial^2 p}{\partial t^2}-\nabla^2p=\rho_0\frac{\partial^2\hat{T}_{ij}}{\partial x_i \partial x_j},\quad\text{where}\quad\hat{T}_{ij} = v_i v_j.&lt;/math&gt;
+
+A similar approximation [in the context of equation &lt;math&gt;(*)\,&lt;/math&gt;], namely &lt;math&gt;T\approx\rho_0\hat T&lt;/math&gt;, is suggested by Lighthill&lt;ref name=&quot;Lighthill52&quot; /&gt; [see Eq. (7) in the latter paper].
+
+Of course, one might wonder whether we are justified in assuming that &lt;math&gt;p-p_0=c_0^2(\rho-\rho_0)&lt;/math&gt;. The answer is affirmative, if the flow satisfies certain basic assumptions. In particular, if &lt;math&gt;\rho \ll \rho_0&lt;/math&gt; and &lt;math&gt;p \ll p_0&lt;/math&gt;, then the assumed relation follows directly from the ''linear'' theory of sound waves (see, e.g., the [[Computational Aeroacoustics#Linearized Euler Equations|linearized Euler equations]] and the [[acoustic wave equation]]). In fact, the approximate relation between &lt;math&gt;p&lt;/math&gt; and &lt;math&gt;\rho&lt;/math&gt; that we assumed is just a [[linear approximation]] to the generic [[barotropic]] [[equation of state]] of the fluid.
+
+However, even after the above deliberations, it is still not clear whether one is justified in using an inherently ''linear'' relation to simplify a ''nonlinear'' wave equation. Nevertheless, it is a very common practice in [[nonlinear acoustics]] as the textbooks on the subject show: e.g., Naugolnykh and Ostrovsky&lt;ref&gt;K. Naugolnykh and L. Ostrovsky, ''Nonlinear Wave Processes in Acoustics'', Cambridge Texts in Applied Mathematics vol. 9, Cambridge University Press (1998) chap. 1.&lt;/ref&gt; and Hamilton and Morfey.&lt;ref&gt;M. F. Hamilton and C. L. Morfey, &quot;Model Equations,&quot; ''Nonlinear Acoustics'', eds. M. F. Hamilton and D. T. Blackstock, Academic Press (1998) chap. 3.&lt;/ref&gt;
+
+== See also ==
+*[[Acoustic theory]]
+*[[Aeolian harp]]
+*[[Computational aeroacoustics]]
+
+== References ==
+&lt;references&gt;
+
+&lt;ref name=&quot;Willians84&quot;&gt;Williams, J. E. Ffowcs, &quot;The Acoustic Analogy&amp;mdash;Thirty Years On&quot; ''IMA J. Appl. Math.'' '''32''' (1984)  pp. 113-124.&lt;/ref&gt;
+
+&lt;ref name=&quot;Lighthill52&quot;&gt;M. J. Lighthill, &quot;On Sound Generated Aerodynamically. I. General Theory,&quot; ''Proc. R. Soc. Lond. A'' '''211''' (1952)  pp. 564-587.&lt;/ref&gt;
+
+&lt;ref name=Lighthill54&gt;M. J. Lighthill, &quot;On Sound Generated Aerodynamically. II. Turbulence as a Source of Sound,&quot; ''Proc. R. Soc. Lond. A'' '''222''' (1954) pp. 1-32.&lt;/ref&gt;
+
+&lt;/references&gt;
+
+== External links ==
+* M. J. Lighthill, &quot;On Sound Generated Aerodynamically. I. General Theory,&quot; ''Proc. R. Soc. Lond. A'' '''211''' (1952)  pp.&amp;nbsp;564–587. [http://links.jstor.org/sici?sici=0080-4630(19520320)211%3A1107%3C564%3AOSGAIG%3E2.0.CO%3B2-7 This article on JSTOR].
+* M. J. Lighthill, &quot;On Sound Generated Aerodynamically. II. Turbulence as a Source of Sound,&quot; ''Proc. R. Soc. Lond. A'' '''222''' (1954) pp.&amp;nbsp;1–32. [http://links.jstor.org/sici?sici=0080-4630(19540223)222%3A1148%3C1%3AOSGAIT%3E2.0.CO%3B2-2 This article on JSTOR].
+* L. D. Landau and E. M. Lifshitz, ''Fluid Mechanics'' 2ed., Course of Theoretical Physics vol. 6, Butterworth-Heinemann (1987) §75. ISBN 0-7506-2767-0, [http://www.amazon.com/gp/reader/0750627670/ Preview from Amazon].
+* K. Naugolnykh and L. Ostrovsky, ''Nonlinear Wave Processes in Acoustics'', Cambridge Texts in Applied Mathematics vol. 9, Cambridge University Press (1998) chap. 1. ISBN 0-521-39984-X, [https://books.google.com/books?vid=ISBN052139984X Preview from Google].
+* M. F. Hamilton and C. L. Morfey, &quot;Model Equations,&quot; ''Nonlinear Acoustics'', eds. M. F. Hamilton and D. T. Blackstock, Academic Press (1998) chap. 3. ISBN 0-12-321860-8, [https://books.google.com/books?vid=ISBN0123218608 Preview from Google].
+*[http://www.olemiss.edu/depts/ncpa/aeroacoustics/ Aeroacoustics at the University of Mississippi]
+*[http://www.mech.kuleuven.be/mod/aeroacoustics/ Aeroacoustics at the University of Leuven]
+*[http://www.multi-science.co.uk/aeroacou.htm International Journal of Aeroacoustics]
+*[http://www.grc.nasa.gov/WWW/microbus/cese/aeroex.html Examples in Aeroacoustics from NASA]
+*[http://www.aeroacoustics.info/ Aeroacoustics.info]
+
+[[Category:Acoustics]]
+[[Category:Aerodynamics]]
+[[Category:Fluid dynamics]]</text>
+      <sha1>nrk8hoxh8cqml8hdko8zsc2fivsujxa</sha1>
+    </revision>
+  </page>
+</mediawiki>

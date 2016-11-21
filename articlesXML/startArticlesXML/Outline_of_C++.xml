@@ -1,0 +1,303 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Outline of C++</title>
+    <ns>0</ns>
+    <id>35256368</id>
+    <revision>
+      <id>743829710</id>
+      <parentid>740267891</parentid>
+      <timestamp>2016-10-11T14:20:01Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Outlines to [[:Category:Wikipedia outlines]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2016 June 22]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14148">&lt;!--... Attention:  THIS IS AN OUTLINE
+
+        part of the set of 700+ outlines listed at
+             [[Portal:Contents/Outlines]].
+
+                 Wikipedia outlines are
+              a special type of list article.
+              They make up one of Wikipedia's
+                content navigation systems
+
+                See [[Wikipedia:Outlines]]
+                      for more details.
+                   Further improvements
+              to this outline are on the way
+...--&gt;
+The following [[Outline (list)|outline]] is provided as an overview of and topical guide to C++:
+
+'''[[C++]]''' — [[statically typed]], [[free-form language|free-form]], [[multi-paradigm programming language|multi-paradigm]], [[compiled language|compiled]], general-purpose [[programming language]]. It is regarded as an intermediate-level language, as it comprises a combination of both [[high-level programming language|high-level]] and [[low-level programming language|low-level]] language features.&lt;ref name=&quot;hopl3&quot;&gt;http://stroustrup.com/hopl-almost-final.pdf&lt;/ref&gt; It was developed by [[Bjarne Stroustrup]] starting in 1979 at [[Bell Labs]] as an enhancement to the [[C (programming language)|C language]].
+
+{{TOC limit|limit=2}}
+
+== What ''type'' of language is C++? ==
+
+C++ can be described as all of the following:
+
+* [[Programming language]] — artificial language designed to communicate instructions to a machine, particularly a computer. Programming languages can be used to create programs that control the behavior of a machine and/or to express algorithms precisely.
+** [[Compiled language]] — programming language implemented through compilers (translators which generate machine code from source code), and not interpreters (step-by-step executors of source code, where no translation takes place).
+** [[General-purpose programming language]] — programming language designed to be used for writing software in a wide variety of application domains.
+** [[Intermediate language]] — language of an abstract machine designed to aid in the analysis of computer programs. The term comes from their use in compilers, where a compiler first translates the source code of a program into a form more suitable for code-improving transformations, as an intermediate step before generating object or machine code for a target machine.
+** [[Object-oriented programming|Object-oriented programming language]] &amp;ndash; programming language based on &quot;objects&quot;, which are data structures that contain data, in the form of fields, often known as attributes; and code, in the form of procedures, known as methods. An object's procedures can access and modify the data fields of the objects. In object-oriented programming, computer programs are designed by making them out of objects that interact with one another.
+** [[Type system#Static typing|Statically typed programming language]]
+
+== General C++ concepts ==
+&lt;!-- Place the terms below into more appropriate sections, creating new sections as needed.--&gt;
+* [[Name resolution (programming languages)|Name resolution]]
+** [[Argument-dependent name lookup]] — applies to the lookup of an unqualified function name depending on the types of the arguments given to the function call. This behavior is also known as Koenig lookup, named after its inventor Andrew Koenig.
+* [[Auto-linking]] — mechanism for automatically determining which libraries to link to while building a C or C++ program. It is activated by means of &lt;code&gt;#pragma comment(lib, &lt;name&gt;)&lt;/code&gt; statements in the header files of the library.
+* [[C++ classes|Classes]] — Classes define types of data structures and the functions that operate on those data structures. Instances of these datatypes are known as objects and can contain member variables, constants, member functions, and overloaded operators defined by the programmer. The C++ programming language allows programmers to separate program-specific datatypes through the use of classes.
+* [[Exception guarantees]]
+* [[Header file]]
+* [[Inner class]]
+* [[One Definition Rule]]
+* [[Opaque pointer]]
+* [[Plain old data structure]]
+* [[Rule of three (C++ programming)]]
+* [[Run-time type information]]
+* [[Sequence point]]
+* [[Single Compilation Unit]]
+* [[Special member functions]]
+* [[Substitution failure is not an error]]
+* [[Template (C++)]]
+* [[Template metaprogramming]]
+* [[Traits class]]
+* [[Undefined behavior]]
+* [[Virtual function|Virtual function calls]]
+
+== Issues ==
+* [[Compatibility of C and C++]]
+
+== C++ Toolchain ==
+
+=== C++ compilers ===
+{{main|List of C++ compilers}}
+
+=== C++ libraries ===
+====C++ Standard Library====
+{{main|C++ Standard Library}}
+The C++ standard library is a collection of utilities that are shipped with C++ for use by any C++ programmer.
+It includes input and output, multi-threading, time, regular expressions, algorithms for common tasks, and less common ones (find, for_each, swap, etc.) and lists, maps and hash maps (and the equivalent for sets) and a class called vector that is a resizeable array. Many other functions are provided by the standard library, but mainly in a form designed for building on top of to create third party libraries.
+* [[Standard Template Library]] (STL)
+
+====Other libraries====
+* [[Active Template Library]]
+* [[Adaptive Communication Environment]]
+* [[Algorithmic skeleton]]
+* [[Apache C++ Standard Library]]
+* [[Armadillo (C++ library)]]
+* [[Artefaktur]]
+* [[Asio C++ library]]
+* [[AT&amp;T FSM Library]]
+* [[ATL Server]]
+* [[BALL]]
+* [[Blitz++]]
+* [[Boehm garbage collector]]
+* [[Boost (C++ libraries)]]
+* [[Borland Graphics Interface]]
+* [[Botan (programming library)]]
+* [[C++ AMP]]
+* [[CGAL]]
+* [[Cinder (programming library)]] — framework for advanced visualization capabilities.
+* [[ClanLib]]
+* [[CodeSynthesis XSD]]
+* [[CodeSynthesis XSD/e]]
+* [[CppUnit]]
+* [[Crypto++]]
+* [[CTPP]]
+* [[D-Bus]]
+* [[Database Management Library]]
+* [[Dinkumware]]
+* [[Effi (C++)]]
+* [[Eigen (C++ library)]]
+* [[GDAL]]
+* [[GDCM]]
+* [[GiNaC]]
+* [[Gtkmm]]
+* [[HOOPS 3D Graphics System]]
+* [[Integrated Performance Primitives]] (IPP) — a [[thread (computing)|multi-threaded]] software [[library (computing)|library]] of functions for multimedia and data processing applications, produced by [[Intel]].
+* [[Juce]]
+* [[Kakadu (software)]]
+* [[KFRlib]] - cross-platform, optimized audio and DSP [[library (computer science)|library]].
+* [[LEMON (C++ library)]]
+* [[LevelDB]]
+* [[Libarc]]
+* [[LibLAS]]
+* [[Libsigc++]]
+* [[Libx (graphics library)]]
+* [[LiteSQL]]
+* [[LIVE555]]
+* [[Loki (C++)]]
+* [[Math Kernel Library]] (MKL) — a [[library (computer science)|library]] of optimized math routines for science, engineering, and financial applications, produced by [[Intel]].
+* [[Matrix Template Library]]
+* [[Metakit]]
+* [[Microsoft Foundation Class Library]]
+* [[ModAssert]]
+* [[Object Windows Library]]
+* [[Object-oriented Abstract Type Hierarchy]]
+* [[ODB (C++)]]
+* [[OGRE]]
+* [[Open Asset Import Library]]
+* [[Open Inventor]]
+* [[OpenImageIO]]
+* [[Oracle Template Library]]
+* [[Orfeo toolbox]]
+* [[Pantheios]]
+* [[PLIB]]
+* [[POCO C++ Libraries]]
+* [[Podofo]]
+* [[Poppler (software)]]
+* [[PTK Toolkit]]
+* [[Qt (framework)]]
+* [[Rich Booleans]]
+* [[RWTH FSA Toolkit]]
+* [[SmartWin++]]
+* [[Sound Object (SndObj) Library]]
+* [[Stapl]]
+* [[SymbolicC++]]
+* [[Threading Building Blocks]] (TBB) — C++ template library developed by Intel Corporation for writing software programs that take advantage of multi-core processors.
+* [[VTD-XML]]
+* [[Windows Template Library]]
+* [[WxWidgets]]
+* [[Xcas]]
+* [[Xerces]]
+* [[YAAF]]
+* [[ZThreads]]
+
+====See also====
+* [[List of C++ multi-threading libraries]]
+* [[List of C++ multiple precision arithmetic libraries]]
+* [[List of C++ template libraries]]
+
+== History of C++ ==
+{{main|C++#History}}
+* [[C++#History|History of C++]]
+* Programming languages that influenced C++
+** [[C (programming language)|C]]
+** [[Simula]]
+** [[Ada (programming language)|Ada 83]]
+** [[ALGOL 68]]
+** [[CLU (programming language)|CLU]]
+** [[ML (programming language)|ML]]&lt;ref name=&quot;stroustruptcpppl&quot;&gt;{{Cite book | last=Stroustrup | first=Bjarne | title=The C++ Programming Language | year=1997 | edition=Third | chapter=1 | isbn=0201889544 | oclc=59193992 }}&lt;/ref&gt;
+* Standardisation History
+** [[C++98]] — In 1998, the C++ standards committee standardized C++ and published the international standard ISO/IEC 14882:1998 (informally known as C++98).
+** [[C++03]]
+** [[C++11]] — Approved by ISO as of 12 August 2011, replacing C++03.&lt;ref&gt;{{cite web|title=We have an international standard: C++0x is unanimously approved|url=http://herbsutter.com/2011/08/12/we-have-an-international-standard-c0x-is-unanimously-approved/| accessdate=12 August 2011}}&lt;/ref&gt; The name is derived from the tradition of naming language versions by the year of the specification's publication.
+** [[C++14]] — Most recent iteration of C++, announced by ISO on 18 August 2014, replacing C++11.&lt;ref&gt;{{cite web|title=We have C++14! |first=Herb |last=Sutter |date=August 18, 2014 |url=https://isocpp.org/blog/2014/08/we-have-cpp14 |accessdate=2014-08-18}}&lt;/ref&gt;
+** [[C++17]] - Upcoming version. The specification is feature complete, and is entering the review period.&lt;ref&gt;https://herbsutter.com/&lt;/ref&gt;
+** [[C++20]]&lt;ref&gt;https://herbsutter.com/ &quot;the next standard after C++17 will be C++20&quot;&lt;/ref&gt;
+
+== Example source code ==
+
+* [[:Category:Articles with example C++ code|Articles with example C++ code]]
+
+== C++ publications ==
+
+=== Books about C++ ===
+* ''[[The C++ Programming Language]]'' — widely regarded as the standard textbook for the language. By Bjarne Stroustrup.
+* ''[[The Design and Evolution of C++]]'' — a book by Bjarne Stroustrup about the birth of C++.
+* ''[[Modern C++ Design]]'' — a book by Andrei Alexandrescu on various design patterns using C++.
+
+=== Magazines about C++ ===
+* ''[[C++ Report]]'' — was a bi-monthly professional computer magazine published by SIGS Publications Group.
+
+== C++ personalities ==
+* [[Alexander Stepanov]]
+* [[Andrei Alexandrescu]]
+* [[Andrew Koenig (programmer)|Andrew Koenig]]
+* [[Bjarne Stroustrup]]– Danish computer scientist, most notable for the creation and development of C++.
+* [[David Abrahams (computer programmer)|David Abrahams]]
+* [[Douglas C. Schmidt]]
+* [[Herb Sutter]]
+* [[Jim Coplien]] (a.k.a. James O. Coplien)
+* [[Pete Becker]]
+* [[Robert Cecil Martin]]
+* [[Scott Meyers]]
+
+== C++ dialects ==
+The C++ standardisation committee discourages dialects (with a preference that the problem is solved by new functionality in the standard library, as is done with items like multi-threading for parallel programming), however some dialects have been created, for various reasons (to remove features that are harder to implement, response to a programming trend, etc.):
+* [[Dialect (computing)|Programming language dialect]] — (relatively small) variation or extension of the language that does not change its intrinsic nature.
+** [[Charm++]] — parallel object-oriented programming language based on C++ and developed in the Parallel Programming Laboratory at the University of Illinois. Charm++ is designed with the goal of enhancing programmer productivity by providing a high-level abstraction of a parallel program while at the same time delivering good performance on a wide variety of underlying hardware platforms.
+** [[Embedded C++]] — dialect of C++ for embedded systems, built &quot;to provide embedded systems programmers with a subset of C++ that is easy for the average C programmer to understand and use&quot;.&lt;ref name=&quot;qa&quot;&gt;[http://www.caravan.net/ec2plus/question.html EC++ Questions and Answers]&lt;/ref&gt;
+*** [[Embedded system]] — computer system designed for specific control functions for a facility, machine, or device in which it is embedded as an integrated part of the product. Embedded systems control many devices in common use today.
+* [[R++]] — rule-based programming language developed by Bell Labs in the 1990s, based on C++.
+* [[Sieve C++ Parallel Programming System]] — C++ compiler and parallel runtime designed and released by Codeplay that aims to simplify the parallelization of code so that it may run efficiently on multi-processor or multi-core systems.
+* [[ΜC++]]
+
+=== C++ language extensions ===
+* [[AspectC++]] — aspect-oriented extension of C and C++ languages.
+* [[C++/CLI]] — Microsoft's language specification intended to supersede Managed Extensions for C++. It is a complete revision that aims to simplify the older Managed C++ syntax (which is now deprecated). C++/CLI is standardized by Ecma as ECMA-372. It is currently available only in [[Microsoft Visual Studio|Visual Studio]] 2005, 2008, 2010, 2012, 2013 and 2015 (also included in the Express Editions).
+** [[Common Language Infrastructure]] — open specification developed by Microsoft and standardized by ISO and ECMA that describes the executable code and runtime environment that form the core of the Microsoft .NET Framework and the free and open source implementations Mono and Portable.NET.
+* [[C++/CX]] — language extension for C++ compilers from Microsoft that enables C++ programmers to write programs for the new Windows Runtime platform, or WinRT. It brings a set of syntax and library abstractions that interface with the COM-based WinRT programming model in a way that is natural to native C++-programmers.
+* [[Cilk Plus]] — [[Multithreading (computer architecture)|multithreaded]] [[parallel computing]] extension of C and C++ languages.
+* [[Managed Extensions for C++]] — deprecated Microsoft set of deviations from C++, including grammatical and syntactic extensions, keywords and attributes, to bring the C++ syntax and language to the .NET Framework. These extensions allowed C++ code to be targeted to the Common Language Runtime (CLR) in the form of managed code as well as continue to interoperate with native code. Superseded by C++/CLI.
+
+== See also ==
+* [[Outline of computer programming]]
+* [[Outline of software]]
+* [[Outline of software engineering]]
+{{Clear}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Sisterlinks|C++}}
+
+{{Outline footer}}
+
+[[Category:C++| ]]
+[[Category:Wikipedia outlines|C++]]</text>
+      <sha1>t0n9waj5yj3ys6tgv10ycy3owczl5p7</sha1>
+    </revision>
+  </page>
+</mediawiki>

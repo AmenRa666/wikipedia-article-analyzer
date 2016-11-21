@@ -1,0 +1,257 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Stock</title>
+    <ns>0</ns>
+    <id>19372783</id>
+    <revision>
+      <id>744990183</id>
+      <parentid>744986685</parentid>
+      <timestamp>2016-10-18T17:42:34Z</timestamp>
+      <contributor>
+        <username>CAPTAIN RAJU</username>
+        <id>25523690</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/Sconge111|Sconge111]] identified as test/vandalism using [[WP:STiki|STiki]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="34766">{{about||&quot;capital stock&quot; in the sense of the fixed input of a production function|Physical capital|the goods and materials that a business holds|Inventory|other uses}}
+{{pp-move-indef}}
+{{Financial markets}}
+
+The '''stock''' (also '''capital stock''') of a [[corporation]] constitutes the [[Equity (finance)|equity]] stock of its owners. It represents the residual assets of the company that would be due to [[stockholder]]s after discharge of all senior claims such as secured and unsecured [[debt]].  Stockholders' equity cannot be withdrawn from the company in a way that is intended to be detrimental to the company's creditors.&lt;ref&gt;{{cite web|url=http://www.investopedia.com/terms/s/stock.asp|title=stock Definition|publisher=Investopedia|accessdate=25 February 2012}}&lt;/ref&gt;
+
+==Shares==
+The stock of a corporation is partitioned into [[share (finance)|shares]], the total of which are stated at the time of business formation.  Additional shares may subsequently be authorized by the existing shareholders and issued by the company.  In some jurisdictions, each share of stock has a certain declared [[par value]], which is a nominal accounting value used to represent the equity on the [[balance sheet]] of the corporation.  In other jurisdictions, however, shares of stock may be issued without associated par value.
+
+Shares represent a fraction of [[ownership]] in a business. A [[business]] may declare different types (or classes) of shares, each having distinctive ownership rules, privileges, or share values.  Ownership of shares may be documented by issuance of a [[stock certificate]].  A stock certificate is a legal document that specifies the amount of shares owned by the [[shareholder]], and other specifics of the shares, such as the par value, if any, or the class of the shares.
+
+In the [[United Kingdom]], [[Republic of Ireland]], [[South Africa]], and [[Australia]], ''stock'' can also refer to completely different [[financial instruments]] such as government [[bond (finance)|bonds]] or, less commonly, to all kinds of [[marketable]] [[securities]].&lt;ref&gt;{{cite web|url=http://dictionary.cambridge.org/define.asp?key=78290&amp;dict=CALD |title=Cambridge Advanced Learner's Dictionary |publisher=Dictionary.cambridge.org |date= |accessdate=2010-02-12}}&lt;/ref&gt;
+
+==Types==
+Stock typically takes the form of shares of either [[common stock]] or [[preferred stock]].  As a unit of ownership, common stock typically carries voting rights that can be exercised in corporate decisions. [[Preferred stock]] differs from common stock in that it typically does not carry voting rights but is legally entitled to receive a certain level of [[dividend]] payments before any dividends can be issued to other shareholders.&lt;ref name=&quot;investor guide&quot;&gt;{{cite web|url=http://www.investorguide.com/igu-article-818-stock-basics-common-and-preferred-stock.html|title=Common Stock vs. Preferred Stock, and Stock Classes|work=InvestorGuide.com}}&lt;/ref&gt;&lt;ref name = &quot;investments&quot;&gt;Zvi Bodie, Alex Kane, Alan J. Marcus, ''Investments'', 9th Ed., ISBN 978-0078034695.&lt;/ref&gt;{{page needed|date=September 2013}}  Convertible preferred stock is preferred stock that includes an [[option (finance)|option]] for the holder to convert the preferred shares into a fixed number of common shares, usually any time after a predetermined date. Shares of such stock are called &quot;convertible preferred shares&quot; (or &quot;convertible preference shares&quot; in the UK).
+
+New [[Equity (finance)|equity]] issue may have specific legal clauses attached that differentiate them from previous issues of the issuer. Some shares of common stock may be issued without the typical voting rights, for instance, or some shares may have special rights unique to them and issued only to certain parties. Often, new issues that have not been registered with a securities governing body may be [[restricted stock|restricted]] from resale for certain periods of time.
+
+Preferred stock may be [[Hybrid Investment|hybrid]] by having the qualities of bonds of fixed returns and common stock voting rights. They also have preference in the payment of dividends over common stock and also have been given preference at the time of liquidation over common stock. They have other features of accumulation in dividend. In addition, preferred stock usually comes with a letter designation at the end of the security; for example, Berkshire-Hathaway Class &quot;B&quot; shares sell under stock ticker BRK.B, whereas Class &quot;A&quot; shares of ORION DHC, Inc will sell under ticker OODHA until the company drops the &quot;A&quot; creating ticker OODH for its &quot;Common&quot; shares only designation. This extra letter does not mean that any exclusive rights exist for the shareholders but it does let investors know that the shares are considered for such, however, these rights or privileges may change based on the decisions made by the underlying company.
+
+===Rule 144 stock===
+&quot;[[Securities Act of 1933#Rule 144|Rule 144]] Stock&quot; is an American term given to shares of stock subject SEC Rule 144: Selling Restricted and Control Securities.&lt;ref&gt;{{cite web|url=http://www.sec.gov/investor/pubs/rule144.htm|title=Rule 144: Selling Restricted and Control Securities|publisher=US Securities and Exchange Commission|accessdate=18 May 2013}}&lt;/ref&gt; Under Rule 144, restricted and controlled securities are acquired in unregistered form.  Investors either purchase or take ownership of these securities through  private sales (or other means such as via ESOPs or in exchange for seed money) from the issuing company (as in the case with Restricted Securities) or from an affiliate of the issuer (as in the case with Control Securities). Investors wishing to sell these securities are subject to different rules than those selling traditional common or preferred stock.  These individuals will only be allowed to liquidate their securities after meeting the specific conditions set forth by SEC Rule 144.
+
+==Stock derivatives==
+{{details|equity derivative}}
+
+A stock [[derivative (finance)|derivative]] is any financial instrument which has a value that is dependent on the price of the [[underlying]] stock. [[Futures contract|Futures]] and [[option (finance)|options]] are the main types of derivatives on stocks. The underlying security may be a [[stock index]] or an individual firm's stock, e.g. [[single-stock futures]].
+
+Stock futures are contracts where the buyer is [[long (finance)|long]], i.e., takes on the obligation to buy on the contract maturity date, and the seller is [[short (finance)|short]], i.e., takes on the obligation to sell. [[Equity derivative#Stock Index Futures|Stock index futures]] are generally delivered by cash settlement.
+
+A [[stock option]] is a class of option. Specifically, a [[call option]] is the right (''not'' obligation) to buy stock in the future at a fixed price and a [[put option]] is the right (''not'' obligation) to sell stock in the future at a fixed price. Thus, the value of a stock option changes in reaction to the underlying stock of which it is a [[derivative (finance)|derivative]]. The most popular method of valuing stock options is the [[Black Scholes]] model.&lt;ref&gt;{{cite web|url=http://www.tradingtoday.com/black-scholes |title=Black Scholes Calculator |publisher=Tradingtoday.com |date= |accessdate=2010-02-12}}&lt;/ref&gt; Apart from [[employee stock option|call options granted to employees]], most stock options are transferable.
+
+==History==
+[[File:VOC aandeel 9 september 1606.jpg|thumb|One of the earliest stock by the [[Dutch East India Company]]]]
+During the Roman Republic, the state contracted (leased) out many of its services to private companies. These government contractors were called ''publicani'', or ''societas publicanorum'' as individual company.&lt;ref&gt;[[Livy]], ''[[Ab Urbe Condita Libri (Livy)|Ab Urbe Condita]]''&lt;/ref&gt; These companies were similar to modern corporations, or joint-stock companies more specifically, in a couple of aspects. They issued shares called ''partes'' (for large cooperatives) and ''particulae'' which were small shares that acted like today's over-the-counter shares.&lt;ref&gt;(Cic. pro Rabir. Post. 2; Val. Max. VI.9 §7)&lt;/ref&gt; Polybius mentions that “almost every citizen” participated in the government leases.&lt;ref&gt;(Polybius, 6, 17, 3)&lt;/ref&gt; There is also an evidence that the price of stocks fluctuated. The Roman orator Cicero speaks of ''partes illo tempore carissimae'', which means “shares that had a very high price at that time.&quot;&lt;ref&gt;(Cicero, P. VAT. 12, 29.)&lt;/ref&gt; This implies a fluctuation of price and stock market behavior in Rome.
+
+Around 1250 in [[France]] at [[Toulouse]], 96 shares of the ''Société des Moulins du Bazacle'', or [[Bazacle|Bazacle Milling Company]] were traded at a value that depended on the profitability of the mills the society owned.&lt;ref&gt;http://www.euronext.com/editorial/wide/editorial-1989-EN.html&lt;/ref&gt; As early as 1288, the [[Sweden|Swedish]] mining and forestry products company [[Stora]] has documented a stock transfer, in which the Bishop of Västerås acquired a 12.5% interest in the mine (or more specifically, the mountain in which the [[copper]] resource was available, [[Great Copper Mountain]]) in exchange for an estate.
+
+The earliest recognized joint-stock company in modern times was the English (later British) [[East India Company]], one of the most famous joint-stock companies. It was granted an English [[Royal Charter]] by [[Elizabeth I of England|Elizabeth I]] on December 31, 1600, with the intention of favouring trade privileges in [[India]]. The Royal Charter effectively gave the newly created ''Honourable East India Company'' (HEIC) a 15-year [[monopoly]] on all trade in the [[East Indies]].&lt;ref&gt;{{cite journal |title=Mercantilism as Strategic Trade Policy: The Anglo-Dutch Rivalry for the East India Trade |first=Douglas A. |last=Irwin |journal=The Journal of Political Economy |volume=99 |date=December 1991 |pages=1296–1314 |publisher=The University of Chicago Press |jstor=2937731 |issue=6 |doi=10.1086/261801 }} at 1299.&lt;/ref&gt; The company transformed from a commercial trading venture to one that virtually ruled [[India]] as it acquired auxiliary governmental and military functions, until its dissolution.
+
+[[File:British East India Company flag.svg|thumb|The East India Company's flag initially had the [[flag of England]], [[St. George's Cross]], in the corner.]]
+Soon afterwards, in 1602,&lt;ref&gt;{{cite web |url=http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1676251 |title=The Extralegal Development of Securities Trading in Seventeenth Century Amsterdam |last=Stringham |first=Edward |year=2003 |work= |publisher=The Quarterly Review of Economics and Finance |accessdate=13 September 2011}}&lt;/ref&gt; the [[Dutch East India Company]] issued the first shares that were made tradeable on the [[Amsterdam Stock Exchange]], an invention that enhanced the ability of joint-stock companies to attract capital from investors as they now easily could dispose of their shares.&lt;ref&gt;[http://www.worldsoldestshare.com/ The oldest share in the world], issued by the [[Dutch East India Company]] (Vereenigde Oost-Indische Compagnie or VOC), 1606.&lt;/ref&gt; The Dutch East India Company became the first multinational corporation and the first megacorporation. Between 1602 and 1796 it traded 2.5 million tons of cargo with Asia on 4,785 ships and sent a million Europeans to work in Asia, surpassing all other rivals.
+
+The innovation of joint ownership made a great deal of [[Europe]]'s [[economic growth]] possible following the [[Middle Ages]]. The technique of pooling capital to finance the building of ships, for example, made the [[Netherlands]] a [[Shipping|maritime]] [[superpower]]. Before adoption of the joint-stock corporation, an expensive venture such as the building of a merchant ship could be undertaken only by governments or by very wealthy individuals or families.
+
+Economic historians{{Who|date=May 2016}} find the Dutch stock market of the 17th century particularly interesting: there is clear documentation of the use of stock futures, [[stock options]], [[short selling]], the use of credit to purchase shares, a speculative bubble that crashed in 1695, and a change in fashion that unfolded and reverted in time with the market (in this case it was headdresses instead of [[Hemline index|hemline]]s). [[Edward Stringham]] also noted that the uses of practices such as short selling continued to occur during this time despite the government passing laws against it. This is unusual because it shows individual parties fulfilling contracts that were not legally enforceable and where the parties involved could incur a loss. Stringham argues that this shows that contracts can be created and enforced without state sanction or, in this case, in spite of laws to the contrary.&lt;ref&gt;{{cite web |url=http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1676253 |title=The Origin of the London Stock Exchange as a Self Policing Club |last=Stringham |first= Edward |year=2002 |work= |publisher=Journal of Private Enterprise |accessdate=16 August 2010}}&lt;/ref&gt;&lt;ref&gt;&quot;Devil the Hindmost&quot; by Edward Chancellor.&lt;/ref&gt;
+
+==Shareholder==
+[[File:B&amp;O RR common stock.jpg|thumb|[[Stock certificate]] for ten shares of the [[Baltimore and Ohio Railroad|Baltimore and Ohio Railroad Company]]]]
+{{Main|Shareholder}}
+
+A '''shareholder''' (or ''stockholder'') is an [[individual]] or [[company (law)|company]] (including a [[corporation]]) that legally owns one or more [[share (finance)|shares]] of stock in a [[joint stock company]]. Both private and public traded companies have shareholders. Companies listed at the [[stock market]] are sometimes expected to strive to enhance [[shareholder value]].
+
+Shareholders are granted special privileges depending on the class of stock, including the right to vote on matters such as elections to the [[board of directors]], the right to share in distributions of the company's income, the right to purchase new shares issued by the company, and the right to a company's assets during a [[liquidation]] of the company. However, shareholder's rights to a company's assets are subordinate to the rights of the company's creditors.
+
+Shareholders are considered by some to be a partial [[subset]] of [[stakeholder (corporate)|stakeholders]], which may include anyone who has a direct or indirect equity interest in the [[business entity]] or someone with even a non-pecuniary interest in a [[non-profit organization]]. Thus it might be common to call [[volunteer]] contributors to an [[Voluntary association|association]] stakeholders, even though they are not shareholders.
+
+Although directors and officers of a company are bound by [[fiduciary]] duties to act in the best interest of the shareholders, the shareholders themselves normally do not have such duties towards each other.
+
+However, in a few unusual cases, some courts have been willing to imply such a duty between shareholders. For example, in [[California]], [[United States|USA]], majority shareholders of [[Closely held corporation|closely held]] corporations have a duty not to destroy the value of the shares held by minority shareholders.&lt;ref&gt;''Jones v. H. F. Ahmanson &amp; Co.'', 1 Cal. 3d)&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://online.ceb.com/calcases/C3/1C3d93.htm |title=Jones v. H.F. Ahmanson &amp; Co. (1969) 1 C3d 93 |publisher=Online.ceb.com |date= |accessdate=2010-02-12}}&lt;/ref&gt;
+
+The largest shareholders (in terms of percentages of companies owned) are often mutual funds, and, especially, passively managed [[exchange-traded fund]]s.
+
+==Application==
+The owners of a private company may want additional capital to invest in new projects within the company. They may also simply wish to reduce their holding, freeing up capital for their own private use. They can achieve these goals by selling shares in the company to the general public, through a sale on a [[stock exchange]].  This process is called an [[initial public offering]], or IPO.
+
+By selling shares they can sell part or all of the company to many part-owners. The purchase of one share entitles the owner of that share to literally share in the ownership of the company, a fraction of the decision-making power, and potentially a fraction of the profits, which the company may issue as [[dividend]]s. The owner may also inherit [[debt]] and even [[litigation]].
+
+In the common case of a publicly traded corporation, where there may be thousands of shareholders, it is impractical to have all of them making the daily decisions required to run a company. Thus, the shareholders will use their shares as votes in the election of members of the [[board of directors]] of the company.
+
+In a typical case, each share constitutes one vote. Corporations may, however, issue different classes of shares, which may have different voting rights. Owning the majority of the shares allows other shareholders to be out-voted – effective control rests with the majority shareholder (or shareholders acting in concert). In this way the original owners of the company often still have control of the company.
+
+===Shareholder rights===
+Although ownership of 50% of shares does result in 50% ownership of a company, it does not give the shareholder the right to use a company's building, equipment, materials, or other property. This is because the company is considered a legal person, thus it owns all its assets itself. This is important in areas such as insurance, which must be in the name of the company and not the main shareholder.
+
+In most countries, [[board of directors|boards of directors]] and company [[managers]] have a [[fiduciary]] responsibility to run the company in the interests of its stockholders. Nonetheless, as [[Martin J. Whitman|Martin Whitman]] writes:
+:...it can safely be stated that there does not exist any publicly traded company where management works exclusively in the best interests of OPMI [Outside Passive Minority Investor] stockholders. Instead, there are both &quot;communities of interest&quot; and &quot;conflicts of interest&quot; between stockholders (principal) and management (agent). This conflict is referred to as the [[principal–agent problem]]. It would be naive to think that any management would forego management compensation, and [[management entrenchment]], just because some of these management privileges might be perceived as giving rise to a conflict of interest with OPMIs.&lt;ref&gt;Whitman, 2004, 5&lt;/ref&gt;
+
+Even though the board of directors runs the company, the shareholder has some impact on the company's policy, as the shareholders elect the board of directors. Each shareholder typically has a percentage of votes equal to the percentage of shares he or she owns. So as long as the shareholders agree that the management (agent) are performing poorly they can select a new board of directors which can then hire a new management team. In practice, however, genuinely contested board elections are rare. Board candidates are usually nominated by insiders or by the board of the directors themselves, and a considerable amount of stock is held or voted by insiders.
+
+Owning shares does not mean responsibility for liabilities. If a company goes broke and has to default on loans, the shareholders are not liable in any way. However, all money obtained by converting assets into cash will be used to repay loans and other debts first, so that shareholders cannot receive any money unless and until creditors have been paid (often the shareholders end up with nothing).&lt;ref&gt;{{cite book | last = Jackson | first = Thomas | title = The Logic and Limits of Bankruptcy Law | publisher = Oxford University Press | location = Oxford Oxfordshire | year = 2001 | isbn = 1-58798-114-9 | page = 32}}&lt;/ref&gt;
+
+===Means of financing===
+Financing a company through the sale of stock in a company is known as [[Ownership equity|equity]] financing. Alternatively, [[debt]] financing (for example issuing [[bond (finance)|bonds]]) can be done to avoid giving up shares of ownership of the company. Unofficial financing known as [[trade financing]] usually provides the major part of a company's [[working capital]] (day-to-day operational needs).
+
+==Trading==
+{{main|Stock trader}}
+[[File:Stockbroker.jpg|thumb|right|200px|A stockbroker using multiple screens to stay up to date on trading]]
+In general, the shares of a company may be transferred from shareholders to other parties by sale or other mechanisms, unless prohibited. Most jurisdictions have established laws and regulations governing such transfers, particularly if the issuer is a publicly traded entity.
+
+The desire of stockholders to trade their shares has led to the establishment of [[stock exchange]]s, organizations which provide marketplaces for trading [[shares]] and other derivatives and financial products. Today, [[stock trader]]s are usually represented by a [[stockbroker]] who buys and sells shares of a wide range of companies on such exchanges. A company may list its shares on an exchange by meeting and maintaining the [[Stock exchange#Listing requirements|listing requirements]] of a particular stock exchange. In the United States, through the intermarket trading system, stocks listed on one exchange can often also be traded on other participating exchanges, including [[electronic communication network]]s (ECNs), such as [[Archipelago]] or [[Instinet]].&lt;ref&gt;{{cite web|url=http://www.shareworld.co.uk/index.php/articles/stock-trading/|title=Stock Trading|publisher=ShareWorld|accessdate=24 February 2012}}&lt;/ref&gt;
+
+Many large non-U.S companies choose to list on a U.S. exchange as well as an exchange in their home country in order to broaden their investor base. These companies must maintain a block of shares at a bank in the US, typically a certain percentage of their capital. On this basis, the holding bank establishes American depositary shares and issues an [[American depositary receipt]] (ADR) for each share a trader acquires. Likewise, many large U.S. companies list their shares at foreign exchanges to raise capital abroad.
+
+Small companies that do not qualify and cannot meet the listing requirements of the major exchanges may be traded [[Over-the-counter (finance)|over-the-counter]] (OTC) by an off-exchange mechanism in which trading occurs directly between parties. The major OTC markets in the United States are the electronic quotation systems [[OTC Bulletin Board]] (OTCBB) and [[OTC Markets Group]] (formerly known as Pink OTC Markets Inc.)&lt;ref&gt;{{cite web|url=http://www.sec.gov/answers/pink.htm|title=Stock Trading|publisher=US Securities and Exchange Commission|accessdate=18 May 2013}}&lt;/ref&gt; where individual retail investors are also represented by a [[brokerage firm]] and the quotation service's requirements for a company to be listed are minimal. Shares of companies in bankruptcy proceedings are usually listed by these quotation services after the stock is delisted from an exchange.
+
+===Buying===
+There are various methods of buying and [[financing]] stocks, the most common being through a [[stockbroker]]. Brokerage firms, whether they are a full-service or [[discounts and allowances|discount]] broker, arrange the transfer of stock from a seller to a buyer. Most trades are actually done through brokers listed with a stock exchange.
+
+There are many different brokerage firms from which to choose, such as full service brokers or discount brokers. The full service brokers usually charge more per trade, but give investment advice or more personal service; the discount brokers offer little or no investment advice but charge less for trades. Another type of broker would be a [[bank]] or [[credit union]] that may have a deal set up with either a full-service or discount broker.
+
+There are other ways of buying stock besides through a broker. One way is directly from the company itself. If at least one share is owned, most companies will allow the purchase of shares directly from the company through their [[investor relations]] departments. However, the initial share of stock in the company will have to be obtained through a regular stock broker. Another way to buy stock in companies is through Direct Public Offerings which are usually sold by the company itself. A direct public offering is an [[initial public offering]] in which the stock is purchased directly from the company, usually without the aid of brokers.
+
+When it comes to [[financing]] a purchase of stocks there are two ways: purchasing stock with money that is currently in the buyer's ownership, or by buying stock on [[margin (finance)#Margin buying|margin]]. Buying stock on [[margin (finance)#Margin buying|margin]] means buying stock with money borrowed against the value of stocks in the same account. These stocks, or [[collateral (finance)|collateral]], guarantee that the buyer can repay the [[loan]]; otherwise, the stockbroker has the right to sell the stock (collateral) to repay the borrowed money. He can sell if the [[share price]] drops below the [[margin (finance)#Minimum margin requirement|margin requirement]], at least 50% of the value of the stocks in the account. Buying on margin works the same way as borrowing money to buy a car or a house, using a car or house as collateral. Moreover, borrowing is not free; the broker usually charges 8–10% interest.
+
+===Selling===
+Selling stock is procedurally similar to buying stock. Generally, the investor wants to buy low and sell high, if not in that order ([[short selling]]); although a number of reasons may induce an investor to sell at a loss, e.g., to avoid further loss.
+
+As with buying a stock, there is a transaction fee for the broker's efforts in arranging the transfer of stock from a seller to a buyer. This fee can be high or low depending on which type of brokerage, full service or discount, handles the transaction.
+
+After the transaction has been made, the seller is then entitled to all of the money. An important part of selling is keeping track of the earnings. Importantly, on selling the stock, in jurisdictions that have them, [[capital gains tax]]es will have to be paid on the additional proceeds, if any, that are in excess of the cost basis.
+
+===Stock price fluctuations===
+The price of a stock fluctuates fundamentally due to the theory of [[supply and demand]]. Like all commodities in the market, the price of a stock is sensitive to demand. However, there are many factors that influence the demand for a particular stock. The fields of [[fundamental analysis]] and [[technical analysis]] attempt to understand market conditions that lead to price changes, or even predict future price levels. A recent study shows that customer satisfaction, as measured by the [[American Customer Satisfaction Index]] (ACSI), is significantly correlated to the market value of a stock.&lt;ref&gt;{{cite web|url=http://www.rhsmith.umd.edu/research/ras/spring2006/2.html|title=Increased Customer Satisfaction Increases Stock Price|last=Mithas|first=Sunil|date=January 2006|work=Research@Smith|publisher=University of Maryland|accessdate=25 February 2012}}&lt;/ref&gt; Stock price may be influenced by analysts' business forecast for the company and outlooks for the company's general market segment.  Stocks can also fluctuate greatly due to [[pump and dump]] scams.
+
+===Share price determination===
+At any given moment, an equity's price is strictly a result of supply and demand. The supply, commonly referred to as the ''[[Public float|float]]'', is the number of shares offered for sale at any one moment. The demand is the number of shares investors wish to buy at exactly that same time. The price of the stock moves in order to achieve and maintain [[economic equilibrium|equilibrium]]. The product of this instantaneous price and the float at any one time is the [[market capitalization]] of the entity offering the equity at that point in time.
+
+When prospective buyers outnumber sellers, the price rises. Eventually, sellers attracted to the high selling price enter the market and/or buyers leave, achieving equilibrium between buyers and sellers. When sellers outnumber buyers, the price falls. Eventually buyers enter and/or sellers leave, again achieving equilibrium.
+
+Thus, the value of a share of a company at any given moment is determined by all investors voting with their money. If more investors want a stock and are willing to pay more, the price will go up. If more investors are selling a stock and there aren't enough buyers, the price will go down.
+* Note: &quot;For [[Nasdaq]]-listed stocks, the price quote includes information on the bid and ask prices for the stock.&quot;&lt;ref&gt;{{cite web|url=http://www.youngmoney.com/investing/sharebuilder/goals/031021_08 |title=Understanding Stock Prices: Bid, Ask, Spread |publisher=Youngmoney.com |date= |accessdate=2010-02-12}}&lt;/ref&gt;
+
+Of course, that does not explain how people decide the maximum price at which they are willing to buy or the minimum at which they are willing to sell. In professional investment circles the [[efficient market hypothesis]] (EMH) continues to be popular, although this theory is widely discredited in academic and professional circles.  Briefly, EMH says that investing is overall (weighted by the [[standard deviation]]) rational; that the price of a stock at any given moment represents a rational evaluation of the known information that might bear on the future value of the company; and that share prices of equities are priced ''efficiently'', which is to say that they represent accurately the [[expected value]] of the stock, as best it can be known at a given moment. In other words, prices are the result of discounting expected future cash flows.
+
+The EMH model, if true, has at least two interesting consequences. First, because financial [[risk (financial)|risk]] is presumed to require at least a small premium on expected value, the [[return on equity]] can be expected to be slightly greater than that available from non-equity investments: if not, the same rational calculations would lead equity investors to shift to these safer non-equity investments that could be expected to give the same or better return at lower risk. Second, because the price of a share at every given moment is an &quot;efficient&quot; reflection of expected value, then—relative to the curve of expected return—prices will tend to follow a [[random walk]], determined by the emergence of information (randomly) over time. Professional equity investors therefore immerse themselves in the flow of fundamental information, seeking to gain an advantage over their competitors (mainly other professional investors) by more intelligently interpreting the emerging flow of information (news).
+
+The EMH model does not seem to give a complete description of the process of equity price determination. For example, stock markets are more volatile than EMH would imply. In recent years it has come to be accepted that the share markets are not perfectly efficient, perhaps especially in emerging markets or other markets that are not dominated by well-informed professional investors.
+
+Another theory of share price determination comes from the field of [[Behavioral Finance]]. According to Behavioral Finance, humans often make irrational decisions—particularly, related to the buying and selling of securities—based upon fears and misperceptions of outcomes. The irrational trading of securities can often create securities prices which vary from rational, fundamental price valuations.  For instance, during the technology bubble of the late 1990s (which was followed by the [[dot-com bust]] of 2000–2002), technology companies were often bid beyond any rational fundamental value because of what is commonly known as the &quot;[[greater fool theory]]&quot;.  The &quot;greater fool theory&quot; holds that, because the predominant method of realizing returns in equity is from the sale to another investor, one should select securities that they believe that someone else will value at a higher level at some point in the future, without regard to the basis for that other party's willingness to pay a higher price.
+Thus, even a rational investor may bank on others' irrationality.
+
+===Arbitrage trading===
+When companies raise capital by offering stock on more than one exchange, the potential exists for discrepancies in the valuation of shares on different exchanges.  A keen investor with access to information about such discrepancies may invest in expectation of their eventual convergence, known as [[arbitrage]] trading. [[Electronic trading]] has resulted in extensive price transparency ([[efficient-market hypothesis]]) and these discrepancies, if they exist, are short-lived and quickly equilibrated.
+
+==See also==
+{{multicol}}
+* [[Arrangements between railroads]]
+* [[Boiler room (business)|Boiler room]]
+* [[Bucket shop (stock market)|Bucket shop]]
+* [[Buying in (securities)]]
+* [[Concentrated stock]]
+* [[Equity investment]]
+{{Multicol-break}}
+* [[Global Industry Classification Standard|GICS]]
+* [[Golden share]]
+* [[House stock]]
+* [[Insider trading]]
+* [[:Category:Money managers|Money managers]]
+* [[Naked short selling]]
+* [[Penny stock]]
+{{Multicol-break}}
+* [[Scripophily]]
+* [[Stock and flow]]
+* [[Stock dilution]]
+* [[Stock valuation]]
+* [[Stub (stock)]]
+* [[Tracking stock]]
+* [[Treasury stock]]
+* Traditional and alternative [[investment]]s
+* [[Voting interest]]
+{{Multicol-end}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{commons category|Stocks}}
+* {{dmoz|Business/Investing/Stocks_and_Bonds/Exchanges/|Stock exchanges}}
+* {{dmoz|Home/Personal_Finance/Investing/Stocks/|Stocks investing}}
+&lt;!--========================({{No More Links}})============================
+    | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. WIKIPEDIA  |
+    | IS NOT A COLLECTION OF LINKS NOR SHOULD IT BE USED FOR ADVERTISING. |
+    |                                                                     |
+    |           Excessive or inappropriate links WILL BE DELETED.         |
+    | See [[Wikipedia:External links]] &amp; [[Wikipedia:Spam]] for details.  |
+    |                                                                     |
+    | If there are already plentiful links, please propose additions or   |
+    | replacements on this article's discussion page (click into the      |
+    | &quot;Talk&quot; button on the top of the page to for it), or submit your     |
+    | link to the relevant category at the Open Directory Project         |
+    | (dmoz.org) and link back to that category using the {{dmoz}}        |
+    | template.                                                           |
+===({{No More Links}})=========--&gt;
+
+{{Stock market}}
+{{Corporate finance and investment banking}}
+{{Use dmy dates|date=August 2011}}
+
+[[Category:Stock market]]
+[[Category:Equity securities]]
+[[Category:Corporate finance]]
+[[Category:Economics terminology]]</text>
+      <sha1>lsjl2ikxlbr643exy3np6rh07ssermp</sha1>
+    </revision>
+  </page>
+</mediawiki>

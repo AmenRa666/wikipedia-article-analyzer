@@ -1,0 +1,119 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Altbier</title>
+    <ns>0</ns>
+    <id>816175</id>
+    <revision>
+      <id>743824348</id>
+      <parentid>743824292</parentid>
+      <timestamp>2016-10-11T13:39:03Z</timestamp>
+      <contributor>
+        <ip>216.17.177.193</ip>
+      </contributor>
+      <comment>/* Outside Germany */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10039">[[File:Diebels in Altbierglas.jpg|thumb|150px|A Diebels Alt]]
+
+'''Altbier''' (German: ''old beer'') is a style of beer brewed in the historical region of [[Westphalia]] and around the city of [[Düsseldorf]], Germany. Its name comes from it being [[Brewing#Fermentation methods|top-fermented]], an older method than the bottom fermentation of other [[lager]]ed beers.
+
+== Characteristics ==
+Altbier is usually a dark copper colour. It is fermented at a moderate temperature using a [[top-fermenting yeast]] which gives its flavour some fruitiness, but matured at a cooler temperature, which gives it a cleaner and crisper taste more akin to lager beer styles than is the norm for top-fermented beers, such as British [[Bitter (beer)|pale ale]].&lt;ref&gt;{{cite web|url=http://www.beerhunter.com/documents/19133-000838.html |title=Michael Jackson's Beer Hunter - Copper-bottom ales halt lager tide in Germany |publisher=Beerhunter.com |date= |accessdate=2012-09-25}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.europeanbeerguide.net/dusspubs.htm |title=Düsseldorf Pub Guide: the best beer bars, pubs and brewpubs |publisher=Europeanbeerguide.net |date= |accessdate=2012-09-25}}&lt;/ref&gt;
+
+== Altbier in Germany ==
+[[File:Schumacher Alt-Flasche.jpg|thumb|100px|Schumacher Alt]]
+
+Altbier is the dominant beer variety in the [[Lower Rhine region]] and especially in the towns of [[Düsseldorf]], [[Krefeld]] and [[Mönchengladbach]]. The first producer to use the name Alt to contrast its top fermenting beer with the bottom fermenting kinds was the Schumacher brewery of Düsseldorf, which opened in 1838.&lt;ref&gt;{{cite web|url=http://www.europeanbeerguide.net/dussbrew.htm#schumacher |title=Düsseldorf Breweries |publisher=Europeanbeerguide.net |date= |accessdate=2012-09-25}}&lt;/ref&gt;
+
+The market leader in terms of volume sold is [[Diebels]], a brand within the [[InBev]] brewing empire. Other mass-market brewers of Altbier include the Radeberger Gruppe under the brands Schlösser Alt and Hansa Alt. These are complemented by small breweries, predominantly based in Düsseldorf.
+
+Some Altbier breweries have a tradition of producing a stronger version known as ''Sticke Alt'', coming from a local dialect word meaning &quot;secret&quot;, originally a special reserve beer intended for the brewers' own consumption. It is generally a seasonal or special occasion brew, and is stronger in taste and alcohol as well as darker than the brewery's standard output.
+
+=== Producers in Düsseldorf ===
+There are eight bars in Düsseldorf which brew Altbier on the premises:
+* Füchschen&lt;ref&gt;[http://www.fuechschen.de/ Füchschen]&lt;/ref&gt;
+* Kürzer&lt;ref&gt;{{cite web|author=Langenfelder sagt: |url=http://www.my-duesseldorf.info/2011/02/11/brauerei-kurzer-altstadt/ |title=Brauerei Kürzer (Altstadt) &amp;#124; My DuesselDorf – Typisch Düsseldorf! |publisher=My-duesseldorf.info |date=2011-01-14 |accessdate=2012-08-15}}&lt;/ref&gt;
+* Schumacher&lt;ref&gt;[http://www.schumacher-alt.de/ Schumacher]&lt;/ref&gt;
+* Schlüssel&lt;ref&gt;[http://www.zumschluessel.de/ Schlüssel]&lt;/ref&gt;
+* Uerige&lt;ref&gt;[http://www.uerige.de/ Uerige]&lt;/ref&gt;
+* Alter Bahnhof (Gulasch Alt)&lt;ref&gt;{{cite web|url=http://www.brauhaus-alterbahnhof.de/ |title=Home |publisher=Brauhaus-alterbahnhof.de |date= |accessdate=2012-08-15}}&lt;/ref&gt;
+* Brauhaus Joh Albrecht (Johann Albrecht Alt)&lt;ref&gt;{{cite web|url=http://www.brauhaus-joh-albrecht.de/data/index.php/ |title=Brauhaus Joh. Albrecht |publisher=Brauhaus-joh-albrecht.de |date= |accessdate=2012-08-15}}&lt;/ref&gt;
+* Brauerei Möhker
+
+Füchschen, Uerige, Schlüssel and Kürzer are all brewed and sold in the [[Altstadt (Düsseldorf)|Altstadt]] (Old Town). Schumacher is between the Altstadt and the main train station (Hauptbahnhof), although it also has a pub in the Altstadt, Im Goldenen Kessel, across the street from Schlüssel.
+
+Each brewpub produces a seasonal &quot;Sticke&quot; variant in small quantities, though the names vary: Schlüssel spells it &quot;Stike&quot;, without the &quot;c&quot;, while Schumacher calls its special beer &quot;Latzenbier&quot;, meaning &quot;slat beer&quot;, possibly because the kegs from which it was poured had been stored on raised shelves.&lt;ref name=&quot;Dornbusch&quot;&gt;Horst Dornbusch, ''Altbier.'' Boulder, CO: Brewers Publications&lt;/ref&gt; Füchschen's seasonal is its Weihnachtsbier (Christmas beer), available in bottles starting mid-November, and served in the brewpub on Christmas Eve.&lt;ref name=&quot;Fuchschen Weihnachtsbier&quot;&gt;[http://www.fuechschen.de/htmlGB/start-frames-61.html Fuchschen web page on Weihnachtsbier], visited 2007.04.26&lt;/ref&gt;
+
+=== Producers outside Düsseldorf ===
+Altbier brewed outside Düsseldorf includes that produced by [[Pinkus Müller]] brewery in [[Münster]], the Diebels brewery in [[Issum]], the Gleumes brewery in [[Krefeld]], the Bolten brewery in [[Korschenbroich]] and the [[Warsteiner]] brewery in [[Warstein]], which owns the brand &quot;Frankenheim Alt&quot;, which was originally brewed in Düsseldorf. The biggest Altbier brewery is located in Krefeld: Former Rhenania brewery, now called Königshofer brewery produces besides their self labelled Königshofer Alt a variety of different brands including the [[Carlsberg Group|Carlsberg]] owned Hannen Alt and Gatzweiler Alt. Altbier is somewhat similar to [[Cologne]]'s native beer style ''[[Kölsch (beer)|Kölsch]]'', being warm-fermented at a lower temperature than British ales, and Altbier proper is also brewed in Cologne's smallest brewery &quot;Braustelle&quot; as &quot;Ehrenfelder Alt&quot;.&lt;ref name=&quot;Braustelle&quot;&gt;{{cite web|url=http://www.braustelle.com/brauereibiere.html|title=Brauerei/Biere - Helios|publisher=Braustelle|accessdate=2014-06-01}}&lt;/ref&gt;
+
+== Outside Germany ==
+Altbier has been produced in the city of [[Venlo]] in the Netherlands since at least 1753. Venlo is on the border to Germany approximately 50&amp;nbsp;km (30 miles) from Düsseldorf. The beer was produced up until the Second World War but then had a hiatus until its revival in 1983. It is produced by the Lindeboom brewery, who bought the recipe in 2001.
+
+Altbier is also brewed in small quantities in Austria, Switzerland, Liechtenstein, the UK, the United States, Canada, New Zealand, and South Africa.
+
+In 2003, Drayman's Brewery in Pretoria, produced what was probably the first commercially available Altbier in South Africa, Düssel Altbier.&lt;ref&gt;[http://draymans.com/beers/dussel.html Düssel Altbier]&lt;/ref&gt;
+
+Versions of Altbier are [[Beer in the United States|brewed in the United States]], though not always to traditional recipes. [[Great Basin Brewing Company]] produces and bottles Wild Horse Ale, which is billed as an ''alt-style ale''.&lt;ref&gt;{{cite news|title=Wild Horse Ale – Bottled, Not Broken|url=http://www.craftbeer.com/news/beer-release/wild-horse-ale-bottled-not-broken|accessdate=2013-07-21|newspaper=Craft Beer|date=7 December 2012}}&lt;/ref&gt; &quot;White Street Altbier&quot; from White Street Brewing Co. in [[Wake Forest, North Carolina]], showcases German malts and hops in the classic style. &quot;Copper Alt&quot; from [[Olde Mecklenburg Brewery]] in [[Charlotte, North Carolina]], is based on the original Düsseldorf Altbier style. [[Arbor Brewing Company]] of Michigan produces &quot;Olde Number 22&quot; altbier as a seasonal specialty. [http://www.blackmesabrewing.com/ Black Mesa Brewing Co]. in Oklahoma City, Oklahoma, sticks to the minimalist, German naming convention with its year-round &quot;Altbier&quot;.&lt;ref&gt;{{Cite web|url=http://www.blackmesabrewing.com/our-beers-1/|title=Our Beers|website=Black Mesa Brewing|access-date=2016-09-01}}&lt;/ref&gt;  River's Edge Brewery in [[Milford, MI]] brews a traditional version called Ctrl+Alt+Del. Hops and Grain in [[Austin, Texas]] brews an altbier called Alt-eration.&lt;ref&gt;{{cite web|title=Our Beers &gt; Alt-eration|url=http://www.hopsandgrain.com/our-beers/alt-eration/|work=Hops and Grain Brewery|publisher=Hops Grain LLC|accessdate=2014-02-01}}&lt;/ref&gt;  Kansas City Bier Co in [[Kansas City, MO]] produce a seasonal beer called Doppel Alt—based on German brewing standards.&lt;ref&gt;{{cite web|title=Doppel Alt &gt; Our beers|url=http://kcbier.com/doppel-alt/|work=Kansas City Bier Co|publisher=KCBC LLC|accessdate=2015-04-23}}&lt;/ref&gt; In [[Houston, Texas]], 8th Wonder Brewery crafts an altbier year-round called Alternate Universe.&lt;ref&gt;{{cite web|title=8th Wonder Brews &gt; Alternate Universe |url=http://8thwonderbrew.com/brews/alternate-universe-altbier|work=8th Wonder Brewery|publisher=8th Wonder Brewery|accessdate=2014-05-27}}&lt;/ref&gt; Union Craft Brewing Company out of [[Baltimore]], [[Maryland]] brews &quot;Balt Altbier&quot;.&lt;ref name=&quot;unioncraftbrewing&quot;&gt;{{cite web|url=http://www.unioncraftbrewing.com/project/balt-altbier/|title=Union Craft Brewing  &amp;raquo; Balt|publisher=unioncraftbrewing.com|accessdate=2014-06-28}}&lt;/ref&gt;  Other American ales brewed in the Alt style include Double Bag Double Altbier ([[Long Trail Brewing Company]]), Alaskan Amber ([[Alaskan Brewing Company]]), Sly Fox Grand Opening Alt ([[Sly Fox Brewery]]) and Siren's Song (Düsseldorf Altbier) ([[Maui Brewing Company]]). Schell's Brewing in New Ulm, MN seasonally produces Schmaltz's Alt, which they classify as a Doppel Alt.  Grimm Brothers Brewhouse in Loveland, CO produces Little Red Cap, a Great American Beer Festival multiple Gold Medal Winning Altbier.&lt;ref&gt;http://grimmbrosbrewhouse.com/beers/&lt;/ref&gt;    
+
+Kilannan Brewing Company near [[Owen Sound]], [[Ontario]] has been brewing an Altbier since 2012. Kilannan also produces a traditional [[Kölsch (beer)|Kölsch]]. The [[Creemore Springs]] brewery in Ontario, Canada celebrated its 25th anniversary in 2012 by producing an Altbier in collaboration with the Schlüssel brewery of Düsseldorf.&lt;ref&gt;{{cite web|last=St. John|first=Jordan|title=Creemore Springs fetes 25 years with new Altbier|url=http://lifewise.canoe.ca/FoodDrink/2012/08/07/20076426.html|publisher=QMI Agency|accessdate=2012-09-03}}&lt;/ref&gt;&lt;ref&gt;https://www.greatamericanbeerfestival.com/the-competition/winners/&lt;/ref&gt;
+
+== See also ==
+{{Commons category}}
+* [[German beer]]
+
+== References ==
+{{Reflist}}
+
+{{Beer Styles}}
+
+[[Category:Culture in Düsseldorf]]
+[[Category:German beer styles]]
+[[Category:Visitor attractions in Düsseldorf]]</text>
+      <sha1>fzi3o8r4g8txr2yv1oj8uhu8adbqpkb</sha1>
+    </revision>
+  </page>
+</mediawiki>

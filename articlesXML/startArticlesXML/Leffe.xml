@@ -1,0 +1,140 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Leffe</title>
+    <ns>0</ns>
+    <id>94786</id>
+    <revision>
+      <id>736437916</id>
+      <parentid>736437852</parentid>
+      <timestamp>2016-08-27T14:01:57Z</timestamp>
+      <contributor>
+        <ip>74.95.112.141</ip>
+      </contributor>
+      <comment>/* History */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3873">{{refimprove|date=August 2012}}
+:''This article is about Leffe, the beer brand. For the Italian commune, see [[Leffe, Lombardy]].''
+
+{{ infobox beverage
+| name         = Leffe
+| image        = [[Image:Leffe (Beer).png|center|140px|Logo of Leffe]]
+| type         = [[Beer]]
+| abv          = 
+| proof        = 
+| manufacturer = [[InBev|InBev Belgium]]
+| distributor  = [[Anheuser–Busch InBev]]
+| origin       = [[Belgium]]
+| introduced   = 
+| discontinued = 
+| colour       = 
+| flavour      = 
+| variants     = 
+| related      = 
+| website      =http://www.leffe.com
+}}
+
+'''Leffe''' {{IPAc-en|ˈ|l|ɛ|f}} is a premium beer [[brand]] owned by [[InBev|InBev Belgium]], the European operating arm of the global [[Anheuser–Busch InBev]] brewery giant. There are several beers in the range, and they are marketed as [[Abbey beer]]s.  They are brewed in large quantities and are widely distributed.
+
+==History==
+The abbey of Leffe was founded in 1152 on the [[Meuse River]] in the province of [[Namur (province)|Namur]] in southern Belgium. Like many monasteries across Europe, the [[Premonstratensian]] (Norbertine) canons of the abbey brewed ale, starting in 1240.&lt;ref&gt;[[www.leffe.com/en/history www.leffe.com/en/history]]&lt;/ref&gt;  Using knowledge passed from generation to generation and ingredients found in the wild near the abbey, the canons developed a unique ale with a subtle taste and high alcohol content, brewed only at the abbey.
+
+The abbey has been damaged by both natural and human circumstances over the years: it was destroyed by a flood in 1460, a fire swept through the settlement in 1466, billeted troops damaged the brewery in 1735, and the outbreak of the [[French Revolution]] in 1794 resulted in it being abandoned and the brewery destroyed. The [[Canon (priest)|canons]] returned in 1902.
+
+In 1952 the production of beer was continued after a partnership with the [[Flemish Region|Flemish]] based Lootvoet brewery in [[Overijse]]. This brewery was later bought by the international beer company [[Interbrew]] (now [[AB InBev]]). Leffe was then brewed in [[Mont-Saint-Guibert]] until Interbrew closed that brewery. Now all Leffe brands are brewed at the [[Stella Artois]] brewery in [[Leuven]].
+
+The 1952 agreement between the Leffe abbey and a commercial brewery is said to have been the first of its kind (royalties continue to be paid to the abbey). Today, Belgium's beer category called &quot;abbey&quot; is thriving - with several beers brewed under similar licences to Leffe as well as abbey beers named after abbey ruins or abbeys that no longer exist. The [[Heineken brands#Affligem Brewery|Affligem]] and [[Grimbergen (beer)|Grimbergen]] beers are a part of [[Heineken International|Heineken's]] international portfolio. Other notable abbey brands include [[Corsendonk]].
+
+The Leffe museum in the town of [[Dinant]] is open to visitors.
+
+==Brands==
+
+[[File:Leffe blonde.jpg|thumb|Leffe blonde]]
+
+{| class=&quot;wikitable&quot;
+|-
+! Name !! [[Alcohol by volume|ABV]] !! Extra Info
+|-
+| Leffe Blonde || 6.6 ||
+|-
+| Leffe Brune || 6.5 ||
+|-
+| Leffe Triple || 8.5 || The only [[bottle conditioned]] Leffe beer,&lt;br&gt; until recently brewed at the [[Hoegaarden Brewery]].
+|-
+| Leffe Radieuse || 8.2 ||
+|-
+| Leffe Vieille Cuvée || 8.2 ||
+|-
+| Leffe 9 || 9 ||
+|-
+| Leffe Ruby || 5 ||
+|-
+| Leffe Noël/Kerstbier || 6.6 || Brewed and sold around Christmas
+|-
+| Leffe Printemps/Lentebier || 6.6 || Brewed and sold in the spring
+|-
+| Leffe Nectar || 5.5 || Honey-flavored new produced 2012
+|-
+| Leffe Royale Whitbread Golding || 7.5 || New produced 2012, until 2015 known as just Leffe Royale
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.leffe.com Official website]
+* [http://www.abbaye-de-leffe.be/ Notre Dame de Leffe Abbey]
+
+{{Anheuser–Busch InBev}}
+
+[[Category:Beer in Belgium]]
+[[Category:Belgian brands]]
+[[Category:InBev brands]]
+[[Category:Dinant]]</text>
+      <sha1>3shylrppiue4uflrpfrnhbjx2fdswck</sha1>
+    </revision>
+  </page>
+</mediawiki>

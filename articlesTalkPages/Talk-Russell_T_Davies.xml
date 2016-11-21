@@ -1,0 +1,156 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Russell T Davies</title>
+    <ns>1</ns>
+    <id>1789163</id>
+    <revision>
+      <id>716960199</id>
+      <parentid>655297705</parentid>
+      <timestamp>2016-04-24T23:02:52Z</timestamp>
+      <contributor>
+        <ip>188.233.4.100</ip>
+      </contributor>
+      <comment>/* Why isn't there a separate Awards and Nominations article for him? */ new section</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6157">{{pp-move-indef|small=yes}}
+{{User:MiszaBot/config
+|archiveheader = {{talkarchivenav}}
+|maxarchivesize = 25K
+|counter = 2
+|algo = old(28d)
+|archive = Talk:Russell T Davies/Archive %(counter)d
+}}{{Talk header}}
+{{ArticleHistory
+|action1=FAC
+|action1date=23:43, 10 August 2010
+|action1link=Wikipedia:Featured article candidates/Russell T Davies/archive1
+|action1result=not promoted
+|action1oldid=378211311
+
+|action2=PR
+|action2date=19:04, 15 October 2010
+|action2link=Wikipedia:Peer review/Russell T Davies/archive1
+|action2result=reviewed
+|action2oldid=390921275
+
+|action3=GAN
+|action3date=21:47, 2 September 2011
+|action3link=Talk:Russell T Davies/GA1
+|action3result=listed
+|action3oldid=448105164
+
+|action4=PR
+|action4date=01:57, 19 September 2011 (UTC)
+|action4link=Wikipedia:Peer review/Russell T Davies/archive2
+|action4result=reviewed
+|action4oldid=451248700
+
+|action5=FAC
+|action5date=14:14, 5 October 2011
+|action5link=Wikipedia:Featured article candidates/Russell T Davies/archive2
+|action5result=not promoted
+|action5oldid=453354497
+
+|action6=FAC
+|action6date=15:21, 6 November 2011
+|action6link=Wikipedia:Featured article candidates/Russell T Davies/archive3
+|action6result=not promoted
+|action6oldid=458175623
+
+|action7=FAC
+|action7date=23:30, 2 February 2012
+|action7link=Wikipedia:Featured article candidates/Russell T Davies/archive4
+|action7result=promoted
+|action7oldid=474644161
+
+|topic=television
+|currentstatus=FA
+|maindate=April 27, 2013
+}}
+{{British English|date=September 2010}}
+{{WikiProjectBannerShell|blp=yes|1=
+{{WikiProject Biography|living=yes|class=FA|a&amp;e-priority=mid|a&amp;e-work-group=yes|listas=Davies, Russell T.}}
+{{WikiProject Wales|class=FA|importance=low}}
+{{WikiProject Doctor Who|class=FA|importance=Mid}}
+{{WikiProject Screenwriters|class=FA|importance=low}}
+{{WikiProject University of Oxford|class=FA|importance=mid}}
+{{WikiProject LGBT studies|class=FA|person=yes}}}}
+
+== Small upcoming project ==
+
+[http://www.bbc.co.uk/mediacentre/latestnews/2012/new-commissions-cbeebies.html Davies is writing for a second upcoming children's television series]. [[User:Eshlare|Eshlare]] ([[User talk:Eshlare|talk]]) 21:45, 19 August 2012 (UTC)
+
+== Prolific ==
+
+From the article: &quot;Queer as Folk, his first prolific series,&quot; I don't understand the use of the word &quot;prolific&quot; here. I think there's a word which better describes it but I don't think it's that one. --[[User:TammyMoet|TammyMoet]] ([[User talk:TammyMoet|talk]]) 11:13, 27 April 2013 (UTC)
+
+: I agree:  Notwithstanding that I thought I knew what the word means when I read it, I have looked it up in a couple of dictionaries (citations available on request), and I am no more enlightened.  I'd like the editor who wrote it to chime in, because only he or she knows what he meant; but he or she doesn't show up, I guess TammyMoet or I or anybody else might boldly try to fix it. [[User:GcT|GcT]] ([[User talk:GcT|talk]]) 07:39, 27 November 2013 (UTC)
+
+== Fourteen years: when? ==
+
+Re. &quot;Century Falls was the last script he wrote for the BBC's children's department for fourteen years&quot;:  I can't tell when in his life this fourteen-year period falls.  I think the article would be well-served to maybe say when the fourteen years began, or when they ended.  If I have time in the next couple of weeks, I'll look in the cited sources, but if someone else gets to it first, that would be pleasant. [[User:GcT|GcT]] ([[User talk:GcT|talk]]) 08:42, 26 November 2013 (UTC)
+:It would be 1993-2007, between ''Century Falls'' and ''The Sarah Jane Adventures''. '''[[User:Sceptre|Sceptre]]''' &lt;sup&gt;([[User talk:Sceptre|talk]])&lt;/sup&gt; 04:28, 27 November 2013 (UTC)
+
+::Thank you, Sceptre.  But I meant, this information would be appropriate in the article itself, with citations, not just your telling me here, almost privately, on the talk page; and I had neither, not the information nor its source; but apparently you know this stuff, so would you mind inserting it, please?  (I myself could quote you, if you'd prefer, but I have no idea where you got this information, so I can't cite it.)[[User:GcT|GcT]] ([[User talk:GcT|talk]]) 08:05, 27 November 2013 (UTC)
+::: Given that 14 years can be derived from existing information in the article combined with basic maths doesn't that negate the need for an additional source? The filmography table (again, all verified by the text) corroborates there being a fourteen year gap at a quick glance. [[User:Eshlare|Eshlare]] ([[User talk:Eshlare|talk]]) 23:29, 27 November 2013 (UTC)
+
+:::: Hmmm. [[User:GcT|GcT]] ([[User talk:GcT|talk]]) 11:36, 28 November 2013 (UTC)
+
+== Move discussion ==
+
+Someone just asked me about moving the article back to &quot;T.&quot; The discussion at [[Talk:Russell T Davies/Archive 2#Article title]] determined that &quot;T&quot; was correct - feel free to open a new discussion if you think this was incorrect, or that [[WP:CCC|consensus has changed]]. --[[User talk:SarekOfVulcan|&lt;span class=&quot;gfSarekSig&quot;&gt;SarekOfVulcan (talk)&lt;/span&gt;]] 12:43, 18 June 2014 (UTC)
+:Davies spells it without the full stop. Just like [[Mr. T]]. [[User:DonQuixote|DonQuixote]] ([[User talk:DonQuixote|talk]]) 03:55, 19 June 2014 (UTC)
+::The fact that Mr. Davis spells it without the full stop means that the current title can be considered the [[WP:Official name]]. It also seems to be the [[WP:COMMONNAME]] - a significant number of sources that discuss Mr. Davis spell the name without the full stop. So... I would say no... it should not be moved (back) to the full stop version.  For those who say it should be moved based on MOS guidance... our MOS guidelines ''do'' allow for occasional exceptions.  Consider this one of those exceptions. [[User:Blueboar|Blueboar]] ([[User talk:Blueboar|talk]]) 13:16, 20 July 2014 (UTC)
+
+== Why isn't there a separate Awards and Nominations article for him? ==
+
+I wonder why RTD didn't get an article or a table about all his awards and nominations. He certainly deserves it.[[Special:Contributions/188.233.4.100|188.233.4.100]] ([[User talk:188.233.4.100|talk]]) 23:02, 24 April 2016 (UTC)
+[[Special:Contributions/188.233.4.100|188.233.4.100]] ([[User talk:188.233.4.100|talk]]) 23:02, 24 April 2016 (UTC)</text>
+      <sha1>fqxdgwvckpb7j34b6ao6qgn1vtnag4x</sha1>
+    </revision>
+  </page>
+</mediawiki>

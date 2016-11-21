@@ -1,0 +1,124 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bobby Hopper Tunnel</title>
+    <ns>0</ns>
+    <id>2905547</id>
+    <revision>
+      <id>750470437</id>
+      <parentid>735575642</parentid>
+      <timestamp>2016-11-19T23:09:12Z</timestamp>
+      <contributor>
+        <username>Zackmann08</username>
+        <id>15881234</id>
+      </contributor>
+      <comment>Fixing infobox not to use [[:Category:Pages using infobox tunnel with deprecated parameters|deprecated parameters]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5396">{{infobox tunnel
+|name= Bobby Hopper Tunnel
+|image=Approaching Bobby Hopper Tunnel.jpg
+|caption=Entering the tunnel northbound
+|official_name=
+|also_known_as=
+|other_name=Bunyard Tunnel (prior to designation)
+|lanes= 4, 2 per bore
+|route={{jct|state=AR|I|49}}
+|location= Unnamed mountain near [[Winslow, Arkansas]], in south [[Washington County, Arkansas|Washington County]]
+|operator= [[Arkansas State Highway and Transportation Department]]
+|engineer=J. F. Shea Company
+|length= {{convert|1,595.2|ft|abbr=on}}
+|width= {{convert|38|ft|m|sigfig=2|abbr=on}}
+|height= {{convert|25|ft|m|sigfig=2|abbr=on}}
+|traffic= 16,000 (2009)&lt;ref&gt;{{cite map |author= [[Arkansas State Highway and Transportation Department]] |url= http://www.arkansashighways.com/planning_research/technical_services/TrafficCountyMaps/2009ADT/counties/WASHINGTON.pdf |title=  Washington County, Arkansas |series= State Highway Route and Section Maps |location= Little Rock |publisher= Arkansas State Highway and Transportation Department |format=PDF |access-date= May 17, 2011 }}&lt;/ref&gt;
+|opened = {{start date and age|1999}}
+|closed=
+|coordinates={{coord|35.7674|-94.1896|type:landmark|display=inline,title}}
+|map={{Location map | USA Arkansas
+|label      =
+|label_size =
+|alt        =
+|position   = center
+|background =
+|lon_dir=W
+|lat_dir=N
+|lat_deg    = 35.7674
+|lon_deg    = 94.1896
+|mark       =
+|marksize   =
+|border     = none
+|float      =
+|width      = 250
+|caption    = &lt;!--blank--&gt;
+}}
+}}
+The '''Bobby Hopper Tunnel''' is a highway [[tunnel]] on [[Interstate 49 in Arkansas|Interstate 49]] (I-49) in [[Arkansas]], just north of the [[Crawford County, Arkansas|Crawford]]–[[Washington County, Arkansas|Washington]] county line. It opened in 1999 to four lanes of traffic. No toll is charged.
+
+==Description==
+The tunnel's twin bores are each approximately {{convert|1600|ft|km}} in length, {{convert|38|ft|m}} wide and {{convert|25|ft|m}} tall (as measured from the roadway to the top of the tunnel arch). A prominent feature of the tunnel is the noticeably inclined gradient of each bore and its associated roadway. Southbound traffic experiences a significant descending gradient inside the tunnel, while northbound traffic experiences a corresponding ascending gradient.{{citation needed|date=July 2010}} Cross-passages occur every {{convert|265|ft|m}} allowing for five emergency ways in. Besides paved openings, the tunnel has traffic signals, lighting, message signs, carbon monoxide monitors, fire protection, and closed-circuit television systems to monitor traffic remotely at the [[Fort Smith, Arkansas|Fort Smith]] highway department district headquarters.
+
+The tunnel was named for the director of the [[Arkansas Highway Commission]] (a resident of nearby [[Springdale, Arkansas]]) during the time of its construction. This is the only highway tunnel in the state of Arkansas; there are seven railroad tunnels but only one highway tunnel in the state. The Bobby Hopper Tunnel is located on I-49 in Washington County just north of the [[Crawford County, Arkansas|Crawford County]] line with its closest exit at [[Winslow, Arkansas|Winslow]].
+
+==History==
+[[U.S. Highway 71]], once classified as &quot;one of the most dangerous highways in America,&quot; includes a perilous stretch between [[Alma, Arkansas|Alma]] and [[Fayetteville, Arkansas|Fayetteville]] through the [[Ozark Plateau]]. Thus, construction of an alternate route was designed to make the trip safer, as well as reducing travel time. Approved in 1987 and completed in 1999, at a cost of $458 million, the alternate route, eventually named I-49, had an obstacle of an unnamed {{convert|1800|ft|m|adj=mid|-tall}} peak just north of the Washington–Crawford county line in what John Haman of ''Arkansas Business'' called &quot;smack in the middle of motoring wilderness.&quot;{{citation needed|date=March 2015}} A tunnel feasibility study was awarded to [[Garver USA]], which subcontracted with Sverdrup Corporation of [[Maryland Heights, Missouri]], and TapanAm Associates, Inc., of Kansas City, Missouri, to determine the best option—a tunnel. The alternative would disfigure the [[topography]] and necessitate a {{convert|200|ft|m|adj=on}} cut creating {{convert|8|e6cuyd|e6m3}} of debris to be disposed, as it was not usable within the project.
+
+At an elevation of {{convert|1640|ft|m}} above sea level, twin parallel tunnels were mined, not bored, through the mountain in a horseshoe contour since a circular shape, like that used in sewer or train projects, was not needed. Blasting, drilling, and excavation removed native shale and sandstone rocks, slowly chipping to the desired width and length. The hollowed-out channel was lined with reinforced concrete, as were both openings. The finished total length is {{convert|1595.2|ft|m}}, with a width of {{convert|38|ft|m}} and a height of {{convert|25|ft}}, as measured from the roadway to the top of the arch, allowing for two lanes of traffic and shoulder space on each portal.
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[http://www.okroads.com/052104/i540attunnel.JPG Image of South Portals of the Bobby Hopper Tunnel]
+
+[[Category:Tunnels in Arkansas]]
+[[Category:Buildings and structures in Washington County, Arkansas]]
+[[Category:Transportation in Washington County, Arkansas]]
+[[Category:Tunnels completed in 1998]]
+[[Category:Interstate 49]]
+[[Category:Road tunnels in the United States]]</text>
+      <sha1>2a7f5xmz7g02jql0wrf3cxbj950oo4g</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -50,6 +50,7 @@
     "passive-voice": "^0.1.0",
     "python-shell": "^0.4.0",
     "request": "^2.75.0",
+    "sanitize-filename": "^1.6.1",
     "smog-formula": "^1.0.0",
     "underscore": "^1.8.3",
     "wndb-with-exceptions": "^3.0.1",

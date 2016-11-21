@@ -1,0 +1,134 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Der Nachsommer</title>
+    <ns>0</ns>
+    <id>14254036</id>
+    <revision>
+      <id>739312962</id>
+      <parentid>735030590</parentid>
+      <timestamp>2016-09-14T00:04:36Z</timestamp>
+      <contributor>
+        <username>Hugo999</username>
+        <id>3006008</id>
+      </contributor>
+      <comment>added [[Category:19th-century Austrian novels]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8323">{{Infobox book
+| name          = Indian Summer
+| image         = Der Nachsommer (Stifter).jpg
+| caption       = Title page of first edition
+| title_orig    = Der Nachsommer
+| translator    = Wendell Frye
+| author        = [[Adalbert Stifter]]
+| country       = [[Austria]]
+| language      = German
+| genre         = [[Novel]]
+| publisher     = Peter Lang
+| pub_date      = 1857
+| media_type    = Print
+| pages         = 479 pp
+| dewey= 833/.7 19
+| congress= PT2525.N3 E5 1985
+| oclc= 11756304
+}}
+'''''Der Nachsommer''''' ({{lang-en|'''''Indian Summer'''''}}; subtitled ''A Tale''; 1857) is a novel in three volumes by [[Adalbert Stifter]]. A 19th century [[Bildungsroman]] that describes the journey of an idealistic, sheltered young man from childhood to maturity, it combines aspects of [[Biedermeier]] thought with elements of German [[humanism]] to create what is generally considered to be a great work of German [[Realism (arts)|bourgeois realism]].
+
+==Plot summary==
+This first-person narrative describes the main character Heinrich's maturation in the regimented household of his father and his subsequent encounter and involvement with the owner of the Rosenhaus, the home, and part of the estate, of a wise, but mysterious older man who becomes a mentor to Heinrich.
+
+Heinrich accepts his regimented upbringing without criticism.  His father is a merchant who has planned out Heinrich's early education at home in the minutest detail.  When it is time for Heinrich to head out on his own, his father allows his son to choose his own path.  We are told that his father is a man of great judgement, as is his mother a model of the matronly virtues.  Heinrich's narration is understated.  His retrospective examination of his personal development is presented with what seems to be humility, objectivity and emotional distance.
+
+Heinrich becomes a gentleman [[natural scientist]] exploring Alpine mountains and foothills.  He is interested in the geology, flora and fauna of the region.  On one of his hiking excursions, Heinrich attempts to avoid what he believes will be a dousing by an approaching thunderstorm.  Going off the main highway, he approaches the almost fairy-tale like residence of the man of mystery, Freiherr von Risach.  The Rosenhaus is the center of Risach's carefully ordered world devoted to art and gardening, among other things.
+
+His mentor's life-choices and interests, and the model of his day to day, season to season, orderly life in the Rosenhaus, expand Heinrich's understanding of the way to live his own life.  Heinrich's repeated visits to the Rosenhaus influence his future life choices, including his eventual marriage.
+
+==Themes==
+According to the English translator of ''Der Nachsommer'', Wendell Frye, the novel &quot;presents an ideal world, in contrast to what Adalbert Stifter saw to be a degenerating period.&quot;  He goes on to explain that in this novel &quot;the reader finds one of the most complete statements of the '[[Humanitätsideal]]' [ideal of humanity]: the young geologist becomes totally immersed in traditional values and culture, thereby becoming a more complete and fulfilled human being.&quot; &lt;ref&gt;Frye, Wendell, ''Indian Summer'', New York: Peter Lang, 1985. p. 5&lt;/ref&gt;
+
+[[James J. Sheehan|James Sheehan]] writes, &quot;Heinrich's ''Bildung'' is a gradual, indirect process; he does not learn by confronting crises or dramatic events (of which Stifter's plot is totally devoid), nor does he gain much implicit instruction from Risach.  Instead, the hero is slowly absorbed into Rosenhaus and the social and moral order it represents.  Eventually, he sees that, just as Rosenhaus's beauty comes from its integration into its natural setting, so Risach's moral strength comes from his harmonious relationship to the external world.  In art and in life, one must seek to avoid the dislocations that can be caused by unbridled passions and excessive spontaneity.&quot; &lt;ref name=Sheehan&gt;[[James J. Sheehan|Sheehan, James J.]] ''German History, 1770–1866'', Oxford: Oxford University Press, 1989. p. 830.&lt;/ref&gt;
+
+As Christine Oertel Sjögren notes, in her discussion of the importance of light to the novel, ''Der Nachsommer'' is not one-dimensional.  In fact, &quot;while Heinrich's attainment of full and perfect manhood is the goal of the action, death, the extreme form of solitude, is also woven into the world of ''Der Nachsommer'', for awareness of death is essential to maturity.  The malignant forces in nature and the insignificance of man in the face of the universe are problems not ignored in the novel.  The threat of annihilation has here, however, no final dominion over the man with a capacity for love.&quot; &lt;ref name=&quot;Sjögren&quot;&gt;Sjögren, Christine Oertel. ''The Marble Statue as Idea; Collected Essays on Adalbert Stifter's Der Nachsommer'', Chapel Hill: University of North Carolina Press, 1972.&lt;/ref&gt;{{Rp|19}}
+
+[[Milan Kundera]] discusses ''Der Nachsommer'' in his non-fiction book ''[[The Curtain (Milan Kundera)|The Curtain]]''. He describes it thus: &quot;I wonder who first discovered the existential significance of bureaucracy. Probably Adalbert Stifter.&quot; &lt;ref name=Kundera&gt;[[Milan Kundera|Kundera, Milan]]. ''The Curtain: an Essay in Seven Parts'', New York: Harper Collins, 2007.&lt;/ref&gt;{{Rp|130}} and goes on to describe the section of the novel where Risach explains his office of a civil servant that he had to leave. &quot;His break with bureaucracy is one of the memorable breaks of mankind from the modern world. A break both radical and peaceable, as befits the idyllic atmosphere of that strange novel from the Biedermeier period.&quot; &lt;ref name=Kundera/&gt;{{Rp|133}}
+
+==Style==
+James Sheehan also writes that &quot;Stifter's style seems to replicate the moral lesson he wants his hero—and his readers—to learn; he writes without passion or spontaneity, self-consciously submitting to the material he describes, depicting in painstaking detail the cohesive universe of which he wishes us to be a part.&quot; &lt;ref name=Sheehan/&gt;
+
+==Reception==
+The excessive detail, for which Stifter's contemporary [[Christian Friedrich Hebbel]] famously derided the novel, is, according to Christine Oertel Sjögren, &quot;precisely a source of fascination for modern scholars, who seize upon the number of objects as the distinguishing characteristic of this novel and accord it high esteem because of the very significance of the 'things' in it.  Far from being extraneous elements, as Hebbel regarded them, the art and nature objects provide a rich setting of beauty and a mirror-background to the human story in the foreground.&quot; &lt;ref name=&quot;Sjögren&quot;/&gt;{{Rp|20}}
+
+On [[Friedrich Nietzsche]]'s appreciation for the book, Burkhard Meyer-Sickendiek notes that &quot;it is only Stifter's novel that Nietzsche will mention again in one breath with [[Johann Wolfgang von Goethe|Goethe]]: 'I have,' Nietzsche writes in October 1888, 'absorbed Adalbert Stifter's ''Der Nachsommer'' with deep affection: in fact, it is the only German book ''after'' Goethe that has any magic for me.'&quot; &lt;ref&gt;Meyer-Sickendiek, Burkhard, &quot;Nietzsche's Aesthetic Solution to the Problem of Epigonism in the Nineteenth Century&quot;, ed. Paul Bishop, ''Nietzsche and Antiquity: His Reaction and Response to the Classical Tradition'', Woodbridge, UK: Boydell &amp; Brewer, 2004. p. 323&lt;/ref&gt;
+
+The manuscript of the work was acquired by the [[Bavarian State Library]] in 1964.&lt;ref&gt;{{Cite web
+| last = Stifter
+| first = Adalbert
+| title = Indian Summer – Der Nachsommer
+| work = World Digital Library
+| accessdate = 2014-06-21
+| url = http://www.wdl.org/en/item/4105
+}}&lt;/ref&gt;
+
+==Footnotes==
+{{Reflist}}
+
+==References==
+* Wendell Frye, ''Indian Summer'', New York: Peter Lang, 1985. [Translation into English.]
+* [[Carl E. Schorske]], ''Fin-De-Siecle Vienna: Politics and Culture'', Cambridge: Cambridge University Press, 1981.
+* Christine O. Sjögren, ''The Marble Statue as Idea; Collected Essays on Adalbert Stifter's Der Nachsommer'', Chapel Hill: University of North Carolina Press, 1972.
+* Martin Swales &amp; Erika Swales, ''Adalbert Stifter: A Critical Study'', Cambridge: Cambridge University Press, 1984.
+
+{{DEFAULTSORT:Nachsommer}}
+[[Category:1857 novels]]
+[[Category:Novels by Adalbert Stifter]]
+[[Category:Austrian bildungsromans]]
+[[Category:Biedermeier literature]]
+[[Category:Literary realism]]
+[[Category:19th-century Austrian novels]]</text>
+      <sha1>hpc0gntgs6xgttfwm3r0zk6cq1lodoh</sha1>
+    </revision>
+  </page>
+</mediawiki>

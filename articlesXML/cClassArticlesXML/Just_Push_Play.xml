@@ -1,0 +1,449 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Just Push Play</title>
+    <ns>0</ns>
+    <id>615004</id>
+    <revision>
+      <id>750192090</id>
+      <parentid>748808806</parentid>
+      <timestamp>2016-11-18T07:06:18Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>1 archive template merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27068">{{About|the Aerosmith album|the song of the same name|Just Push Play (song)}}
+{{Infobox album | &lt;!-- See Wikipedia:WikiProject_Albums --&gt;
+|  Name        = Just Push Play
+|  Type        = studio
+|  Artist      = [[Aerosmith]]
+|  Cover       = Aerosmith - Just Push Play.JPG
+|  Released    = {{Start date|2001|03|05}}&lt;ref name=&quot;AM&quot;&gt;{{cite web |url=http://www.allmusic.com/album/just-push-play-mw0000115632 |title=''Just Push Play'' – Aerosmith: Songs, Reviews, Credits, Awards |first=Stephen Thomas |last=Erlewine |authorlink=Stephen Thomas Erlewine |work=[[AllMusic]] |publisher=[[Rovi Corporation]] |accessdate=November 12, 2012}}&lt;/ref&gt;
+|  Recorded    = The Boneyard &amp; The Bryer Patch, [[Long View Farm|Long View Farms Studio]], [[Ocean Way Recording|Ocean Way Studios]], Sound Techniques, [[The Village (studio)|Village Recorders]], Pearl White Studios, Whatinthewhatthe? Studios, The Studio in the Sunset Marquis&lt;ref name=&quot;notes&quot;&gt;{{cite AV media notes |title=Just Push Play |others=[[Aerosmith]] |year=2001 |pages=4–14 |publisher=[[Columbia Records]] |id=CK 6088 |location=U.S.A. }}&lt;/ref&gt;
+|  Genre       = [[Hard rock]], [[blues rock]]
+|  Length      = {{Duration|m=48|s=56}}
+|  Label       = [[Columbia Records|Columbia]]
+|  Producer    = [[Steven Tyler]], [[Joe Perry (musician)|Joe Perry]], [[Mark Hudson (musician)|Mark Hudson]], [[Marti Frederiksen]]&lt;ref name=&quot;notes&quot; /&gt;
+|  Last album  = ''[[Nine Lives (Aerosmith album)|Nine Lives]]''&lt;br /&gt;(1997)
+|  This album  = '''''Just Push Play'''''&lt;br /&gt;(2001)
+|  Next album  = ''[[Honkin' on Bobo]]''&lt;br /&gt;(2004)
+| Misc        = {{Singles
+  | Name           = Just Push Play
+  | Type           = studio
+  | Single 1       = [[Jaded (Aerosmith song)|Jaded]]
+  | Single 1 date  = December 21, 2000
+  | Single 2       = [[Fly Away from Here]]
+  | Single 2 date  = June 2, 2001
+  | Single 3       = [[Sunshine (Aerosmith song)|Sunshine]]  
+  | Single 3 date  = Mid 2001
+  | Single 4       =  [[Just Push Play (song)|Just Push Play]]
+  | Single 4 date  = September 2001 
+  }}
+}}
+
+'''''Just Push Play''''' is the thirteenth studio album by American [[rock music|rock]] band [[Aerosmith]]. It was released on March 5, 2001, making it the first Aerosmith album of the 21st century. The album was co-produced by song collaborators [[Marti Frederiksen]] and [[Mark Hudson (musician)|Mark Hudson]]. The album's first single, &quot;[[Jaded (Aerosmith song)|Jaded]]&quot;, became a major Top 10 hit in the U.S. and around the world.  As a result, ''Just Push Play'' was certified platinum within a month of its release.  Subsequent singles &quot;[[Fly Away from Here]]&quot;, &quot;[[Sunshine (Aerosmith song)|Sunshine]]&quot;, and &quot;[[Just Push Play (song)|Just Push Play]]&quot;, though garnering some airplay, failed to impact the Hot 100 much, although the latter two charted on the U.S. [[Mainstream Rock Tracks|Mainstream Rock]] chart and the former charted on the [[Adult Top 40]].
+
+In 2010, guitarist [[Joe Perry (musician)|Joe Perry]] revealed his distaste for the album, stating that:&lt;ref&gt;''[[Classic Rock (magazine)|Classic Rock]]'', issue 142, pg 48-49&lt;/ref&gt; {{cquote|I don't think we've made a decent album in years. ''Just Push Play'' is my least favorite. When we recorded it there was never a point where all five members were in the room at the same time and Aerosmith's major strength is playing together. It was a learning experience for me: it showed me how ''not'' to make an Aerosmith record.}}
+
+==Album cover==
+The album's cover features a [[gynoid]] resembling [[Marilyn Monroe]] and was designed by [[Hajime Sorayama]]{{citation needed|date=November 2015}}.
+
+In 2011, drummer [[Joey Kramer (musician)|Joey Kramer]] answered some questions about the album during a fan &quot;Q &amp; A&quot;, revealing that he does not like the cover, and that he thought the playing on the album was superb{{citation needed|date=November 2015}}.
+
+A poster of the album cover is shown in the title character's room in the [[Nickelodeon]] TV series ''[[Drake &amp; Josh]]''{{citation needed|date=November 2015}}.
+
+Several songs were recorded for the album that went unused. &quot;Ain't It True&quot;, &quot;Easy&quot;, &quot;Innocent Man&quot;, &quot;I Love You Down&quot;, and &quot;Sweet Due&quot; can be linked as originating from these sessions. &quot;Angel's Eye&quot; was used for the soundtrack to &quot;Charlie's Angels.&quot; &quot;Face&quot; and &quot;Won't Let You Down&quot; were issued as bonus tracks on later pressings of the album. These songs are listed in copyright repertories. The track &quot;Do You Wonder&quot; was supposedly recorded for this album, as well.
+
+==Commercial and critical reception==
+{{Album ratings
+| MC = 65/100&lt;ref name=&quot;Metacritic&quot;&gt;{{cite web |url=http://www.metacritic.com/music/just-push-play |title=Just Push Play Reviews, Ratings, Credits, and More at Metacritic |work=[[Metacritic]] |accessdate=May 15, 2012}}&lt;/ref&gt;
+| rev1 = [[AllMusic]]
+| rev1Score = {{Rating|3|5}}&lt;ref name=&quot;AM&quot; /&gt;
+| rev2 = ''[[Blender (magazine)|Blender]]''
+| rev2Score = {{Rating|2|5}}&lt;ref name=&quot;Blender&quot;&gt;{{cite web |url=http://www.blender.com/guide/new/52231/just-push-play.html |title=Aerosmith – ''Just Push Play'': Review |first=Ben |last=Mitchell |date=June 4, 2004 |work=Blender.com |publisher=Alpha media Group }}{{Dead link|date=May 2012}}&lt;/ref&gt;
+| rev3 = [[Canadian Online Explorer|Canoe.ca]]
+| rev3Score = unfavorable&lt;ref name=&quot;Canoe.ca&quot;&gt;{{cite web |url=http://jam.canoe.ca/Music/Artists/A/Aerosmith/AlbumReviews/2001/03/09/770189.html |title=Album Review: Aerosmith – ''Just Push Play'' |first=Darryl |last=Sterdan |work=jam.canoe.ca |accessdate=November 19, 2010 }}&lt;/ref&gt;
+| rev4 = ''[[Entertainment Weekly]]''
+| rev4Score = B&lt;ref name=&quot;EW&quot;&gt;{{cite news |url=http://www.ew.com/ew/article/0,,280329,00.html |title=Music Review: ''Just Push Play'' – Aerosmith |first=Chris |last=Willman |work=EntertainmentWeekly.com |accessdate=November 19, 2010 |date=March 16, 2001}}&lt;/ref&gt;
+| rev5 = ''[[NME]]''
+| rev5Score = 6/10&lt;ref name=&quot;NME&quot;&gt;{{cite web |url=http://www.nme.com/reviews/aerosmith/4350 |title=NME Reviews – Aerosmith: ''Just Push Play'' |first=John |last=Mulvey |work=nme.com |accessdate=November 19, 2010 }}&lt;/ref&gt;
+| rev6 = [[Robert Christgau]]
+| rev6Score = {{Rating-Christgau|cut}}&lt;ref name=&quot;Christgau&quot;&gt;{{cite web |url=http://www.robertchristgau.com/get_artist.php?name=aerosmith |title=CG: Aerosmith |last=Christgau |first=Robert |publisher=RobertChristgau.com |accessdate=May 15, 2012}}&lt;/ref&gt;
+| rev7 = ''[[Rolling Stone]]''
+| rev7Score = {{Rating|3.5|5}}&lt;ref name=&quot;RS&quot;&gt;{{cite web |url=http://www.rollingstone.com/music/albumreviews/just-push-play-20010316 |title=''Just Push Play'' by Aerosmith |first=David |last=Fricke |authorlink=David Fricke |work=RollingStone.com |publisher=Jann S. Wenner |date=March 16, 2001 |accessdate=November 19, 2010 }}&lt;/ref&gt;
+}}
+
+''Just Push Play'' debuted at #2 on the Billboard 200, selling over 240,000 copies in its first week.&lt;ref&gt;{{cite web|url=http://abcnews.go.com/Entertainment/story?id=108121|title=Chart Watch: DMB, Aerosmith, Eve - ABC News|accessdate=May 24, 2014}}&lt;/ref&gt;
+
+[[Metacritic]] gave the album 65 out of 100 based on 14 generally favorable reviews.&lt;ref name=&quot;Metacritic&quot; /&gt; For his review of ''Just Push Play'' for [[Allmusic]], [[Stephen Thomas Erlewine]] said that it was their best album since ''[[Pump (album)|Pump]]'' in 1989, but he criticized them &quot;for not acting their age&quot; and said the album was not much compared to ''Pump'' and ''[[Permanent Vacation (album)|Permanent Vacation]]''. He compared their production name, &quot;The Boneyard Boys&quot;, to [[Mick Jagger]] and [[Keith Richards]]' production name, &quot;[[Jagger/Richards|The Glimmer Twins]].&quot;&lt;ref name=&quot;AM&quot; /&gt; Ben Mitchell of ''[[Blender (magazine)|Blender]]'' magazine said the album was better than ''Nine Lives'' by a little bit and feels the album was not with the times and was rather poor.&lt;ref name=&quot;Blender&quot; /&gt; Darryl Stredan had a very strong dislike for both the album and the artist saying that they were not a band anymore, that they were instead a marketing company, and was of the opinion that they should stop producing new music.&lt;ref name=&quot;Canoe.ca&quot; /&gt; Chris Willman of ''[[Entertainment Weekly]]'' said that songs to not listen to on the album are &quot;Fly Away from Here&quot;, &quot;Luv Lies&quot;, &quot;Avant Garden&quot;, &quot;Just Push Play&quot;, &quot;Drop Dead Gorgeous&quot;, and &quot;Outta Your Head&quot;, but the rest of the songs on the album are tolerable including several with [[string section]]s (&quot;Jaded&quot;, &quot;Beyond Beautiful&quot;,  and &quot;Sunshine&quot;) and thinks the album overall is good but not great.&lt;ref name=&quot;EW&quot; /&gt; In the ''[[NME]]'' magazine review of ''Just Push Play'' said that most of the album is not new, but the album was Aerosmith's first album to feature [[rap metal]] with songs like &quot;Just Push Play&quot; &amp; &quot;Outta Your Head&quot;.&lt;ref name=&quot;NME&quot; /&gt; [[David Fricke]] of ''[[Rolling Stone]]'' magazine said that they are still a good band and it is lucky for them to still be around, but he also said that they had not made a &quot;great album&quot; since ''[[Rocks (Aerosmith album)|Rocks]]'', although it came close as did ''Pump''. He compared &quot;Jaded&quot; to an [[Electric Light Orchestra]] song and said that the weak spots on the album were the [[Ballad|power ballad]]s.&lt;ref name=&quot;RS&quot; /&gt; [[Robert Christgau]] picked out one song from the album, &quot;Jaded&quot;, as a choice cut.&lt;ref name=&quot;Christgau&quot; /&gt;
+
+==Track listing==
+{{Track listing
+| total_length    = 48:59
+| writing_credits = yes
+| title1          = Beyond Beautiful
+| writer1         = [[Steven Tyler]], [[Joe Perry (musician)|Joe Perry]], [[Marti Frederiksen]]
+| length1         = 4:45
+| title2          = [[Just Push Play (song)|Just Push Play]]
+| writer2         = Tyler, [[Mark Hudson (musician)|Mark Hudson]], Steve Dudas
+| length2         = 3:51
+| title3          = [[Jaded (Aerosmith song)|Jaded]]
+| writer3         = Tyler, Frederiksen
+| length3         = 3:34
+| title4          = [[Fly Away from Here]]
+| writer4         = Frederiksen, Todd Chapman
+| length4         = 5:01
+| title5          = Trip Hoppin'
+| writer5         = Tyler, Perry, Frederiksen, Hudson
+| length5         = 4:27
+| title6          = [[Sunshine (Aerosmith song)|Sunshine]]
+| writer6         = Tyler, Perry, Frederiksen
+| length6         = 3:37
+| title7          = Under My Skin
+| writer7         = Tyler, Perry, Frederiksen, Hudson
+| length7         = 3:45
+| title8          = Luv Lies
+| writer8         = Tyler, Perry, Frederiksen, Hudson
+| length8         = 4:26
+| title9          = Outta Your Head
+| writer9         = Tyler, Perry, Frederiksen
+| length9         = 3:22
+| title10         = Drop Dead Gorgeous
+| writer10        = Tyler, Perry, Hudson
+| length10        = 3:42
+| title11         = Light Inside
+| writer11        = Tyler, Perry, Frederiksen
+| length11        = 3:34
+| title12         = Avant Garden
+| writer12        = Tyler, Perry, Frederiksen, Hudson
+| length12        = 4:52
+}}
+
+{{Track listing
+| collapsed       = yes
+| headline        = International version
+| extra_column    = 
+| total_length    = 53:37
+| writing_credits = yes
+
+| title13         = Face
+| writer13        = Tyler, Perry, Frederiksen
+| length13        = 4:25
+| title14         = [[Jaded (Aerosmith song)|Jaded]]
+| note14          = video
+| writer14        = Tyler, Frederiksen
+| length14        = 3:47
+}}
+
+{{Track listing
+| collapsed       = yes
+| headline        = Japanese version
+| extra_column    = 
+| total_length    = 
+| writing_credits = yes
+
+| title13         = Won't Let You Down
+| writer13        = Tyler, Perry, Frederiksen
+| length13        = 3:38
+| title14         = [[I Don't Want to Miss a Thing]]
+| writer14        = [[Diane Warren]]
+| length14        = 4:58
+}}
+
+{{Track listing
+| collapsed       = yes
+| headline        = Japanese limited edition – Disc two
+| total_length    = 
+| writing_credits = yes
+
+| title1          = Just Push Play
+| note1           = Radio Remix
+| writer1         = Tyler, Hudson, Dudas
+| length1         = 3:16
+| title2          = [[Same Old Song and Dance]]
+| note2           = Live from California Jam II '78
+| writer2         = Tyler, Perry
+| length2         = 5:13
+| title3          = [[Draw the Line (song)|Draw the Line]]
+| note3           = Live from California Jam II '78
+| writer3         = Tyler, Perry
+| length3         = 4:32
+| title4          = [[Chip Away the Stone]]
+| note4           = Live from California Jam II '78
+| writer4         = [[Richard Supa]]
+| length4         = 4:24
+| title5          = Big Ten Inch Record
+| note5           = Live from Texxas Jam '78
+| writer5         = Fred Weismantel
+| length5         = 3:58
+| title6          = [[Lord of the Thighs]]
+| note6           = Live from Texxas Jam '78
+| writer6         = Tyler
+| length6         = 7:13
+}}
+'''NB''': On the original version, roughly 45 seconds after &quot;Avant Garden&quot; a hidden track entitled &quot;Under My Skin Reprise&quot; plays for about one minute. On the international version, the track is roughly 40 seconds after &quot;Face&quot; and on the japanese version after &quot;I Don't Want to Miss a Thing&quot;.
+
+==Personnel==
+''Per liner notes&lt;ref name=&quot;notes&quot; /&gt;&lt;ref&gt;[http://www.discogs.com/Aerosmith-Just-Push-Play/release/370532 Aerosmith - ''Just Push Play'' @Discogs.com] Retrieved 9-12-2015.&lt;/ref&gt;''
+;Aerosmith
+*[[Steven Tyler]] – [[Lead vocalist|lead vocals]], [[piano]], [[Squeezebox]], [[harmonica]], [[percussion]], additional [[guitar]] and additional [[Drum kit|drums]], [[conga]], [[backing vocals]] on &quot;Drop Dead Gorgeous&quot;, [[Audio mixing (recorded music)|mixing]], [[Record producer|production]]
+*[[Joe Perry (musician)|Joe Perry]] – [[guitar]], [[slide guitar]], [[pedal steel guitar]], [[hurdy-gurdy]], [[Backing vocalist|backing vocals]], lead vocals on &quot;Drop Dead Gorgeous,&quot; mixing, production
+*[[Brad Whitford]] – guitar
+*[[Tom Hamilton (musician)|Tom Hamilton]] – [[Bass guitar|bass]], [[fretless bass]]
+*[[Joey Kramer]] – [[drum kit|drums]]
+;Additional musicians
+*Jim Cox – [[piano]] on &quot;Fly Away From Here&quot;
+*Paul Santo – [[Keyboard instrument|keyboards]] [[Kurzweil K250|Kurzweil]] on &quot;Fly Away from Here&quot;, [[Hammond organ]] on &quot;Avant Garden&quot;
+*[[Tower of Power]] – [[Horn section|horn]]s on &quot;Trip Hoppin'&quot;
+*[[Dan Higgins]] – [[clarinet]], [[saxophone]] on &quot;Trip Hoppin'&quot;
+*Chelsea Tyler – backing vocals on &quot;Under My Skin&quot;
+*[[Paul Caruso (drummer)|Paul Caruso]] – loop programming on &quot;Drop Dead Gorgeous&quot;
+*[[Liv Tyler]] – [[Whispering|whisper]]s on &quot;Avant Garden&quot;
+*[[Tony Perry]] - Scratching on &quot;Just Push Play&quot;
+;Production
+*[[Marti Frederiksen]] – production, mixing, [[recording]]
+*[[Mark Hudson (musician)|Mark Hudson]] – production, mixing
+*[[Mike Shipley]] – mixing
+*Richard Chycki – recording
+*[[Paul Caruso (drummer)|Paul Caruso]] – [[Audio engineering|engineering]] at the Boneyard
+*Paul Santo – engineering at the Bryer Patch
+*[[Bryan Carrigan]] – additional engineering
+*[[David Campbell (composer)|David Campbell]] – [[Arrangement|strings arrangement]]s, except on &quot;Sunshine&quot;, &quot;Luv Lies&quot;, and &quot;Avant Garden&quot;
+*Jim Cox – string arrangements on &quot;Sunshine&quot;, &quot;Luv Lies&quot;, and &quot;Avant Garden&quot;, horns arrangements
+*Alan Sides – engineering on strings
+*Scott Gordon – engineering on horns and strings
+*George Marino – [[Audio mastering|mastering]]
+*[[John Kalodner]]: John Kalodner
+*Lesie Langlo – [[Artists and repertoire|artist and repertoire coordination]]
+*Kevin Reagan – [[Art director|art direction]], [[design]]
+*Matthew Lindauer – design
+*[[Mark Seliger]] – [[photography]]
+*[[Hajime Sorayama]] – [[illustration]]s
+
+==Charts==
+;Album
+{| class=&quot;wikitable sortable&quot;
+|-
+!scope=&quot;col&quot;|Chart (2001)
+!scope=&quot;col&quot;|Peak&lt;br /&gt;position
+|-
+|Australian Albums Chart&lt;ref&gt;{{cite web|first=Steffen |last=Hung |url=http://australian-charts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a |title=Aerosmith – ''Just Push Play'' |work=australian-charts.com |accessdate=January 14, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20121024145946/http://australian-charts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a |archivedate=October 24, 2012 |df= }}&lt;/ref&gt;
+|style=&quot;text-align:center;&quot;|27
+|-
+|Austrian Albums Chart&lt;ref&gt;{{cite web|first=Steffen |last=Hung |url=http://austriancharts.at/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a |title=Aerosmith – ''Just Push Play'' |work=austriancharts.at |accessdate=January 14, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110901005652/http://www.austriancharts.at/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a |archivedate=September 1, 2011 |df= }}&lt;/ref&gt;
+|style=&quot;text-align:center;&quot;|7
+|-
+|Belgian Albums Chart (Flanders)&lt;ref&gt;{{cite web|url=http://www.ultratop.be/nl/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a |title=Aerosmith – ''Just Push Play'' |work=ultratop.be |accessdate=January 14, 2011}}&lt;/ref&gt;
+|style=&quot;text-align:center;&quot;|35
+|-
+|Belgian Albums Chart (Wallonia)&lt;ref&gt;{{cite web|url=http://www.ultratop.be/fr/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a |title=Aerosmith – ''Just Push Play'' |work=ultratop.be |accessdate=January 14, 2011}}&lt;/ref&gt;
+|style=&quot;text-align:center;&quot;|27
+|-
+|[[Canadian Albums Chart]]&lt;ref name=&quot;Billboard1&quot; /&gt;
+|style=&quot;text-align:center;&quot;|2
+|-
+|Danish Albums Chart&lt;ref&gt;{{cite web|first=Steffen |last=Hung |url=http://danishcharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a |title=Aerosmith – ''Just Push Play'' |work=danishcharts.com |accessdate=January 14, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20121025024120/http://danishcharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a |archivedate=October 25, 2012 |df= }}&lt;/ref&gt;
+|style=&quot;text-align:center;&quot;|19
+|-
+|Finnish Albums Chart&lt;ref&gt;{{cite web|first=Steffen |last=Hung |url=http://finnishcharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a |title=Aerosmith – ''Just Push Play'' |work=finnishcharts.com |accessdate=January 14, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20121020161151/http://finnishcharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a |archivedate=October 20, 2012 |df= }}&lt;/ref&gt;
+|style=&quot;text-align:center;&quot;|8
+|-
+|French Albums Chart&lt;ref&gt;{{cite web|first=Steffen |last=Hung |url=http://lescharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a |title=Aerosmith – ''Just Push Play'' |work=lescharts.com |accessdate=January 14, 2011}}&lt;/ref&gt;
+|style=&quot;text-align:center;&quot;|32
+|-
+|German Albums Chart&lt;ref&gt;{{cite web |url=http://www.officialcharts.de/album.asp?artist=Aerosmith&amp;title=Just+Push+Play&amp;country=de |title=Album – Aerosmith, ''Just Push Play'' |work=charts.de |publisher=[[Media Control Charts|Media Control]] |accessdate=November 12, 2012}}&lt;/ref&gt;
+|style=&quot;text-align:center;&quot;|6
+|-
+|Irish Albums Chart&lt;ref&gt;{{cite web |url=http://www.chart-track.co.uk/index.jsp?c=p%2Fmusicvideo%2Fmusic%2Farchive%2Findex_test.jsp&amp;ct=240002&amp;arch=t&amp;lyr=2001&amp;year=2001&amp;week=12 |title=Irish Music Charts Archive – Top 75 Artist Album, Week Ending March 22, 2001 |work=chart-track.co.uk |accessdate=November 12, 2012}}&lt;/ref&gt;
+|style=&quot;text-align:center;&quot;|55
+|-
+|Italian Albums Chart&lt;ref&gt;{{cite web|first=Steffen |last=Hung |url=http://italiancharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a |title=Aerosmith – ''Just Push Play'' |work=italiancharts.com |accessdate=January 14, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20121014065351/http://italiancharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a |archivedate=October 14, 2012 |df= }}&lt;/ref&gt;
+|style=&quot;text-align:center;&quot;|8
+|-
+|[[Oricon|Japanese Albums Chart]]&lt;ref&gt;{{cite web|url=http://www.oricon.co.jp/prof/artist/46082/ranking/cd_album/|title=エアロスミスのCDアルバムランキング、エアロスミスのプロフィールならオリコン芸能人事典-ORICON STYLE |publisher=Oricon.co.jp |accessdate=2013-05-02}}&lt;/ref&gt;
+| style=&quot;text-align:center;&quot;|4
+|-
+|Netherlands Albums Chart&lt;ref&gt;{{cite web|first=Steffen |last=Hung |url=http://www.dutchcharts.nl/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a |title=Aerosmith – ''Just Push Play'' |work=dutchcharts.nl |accessdate=January 14, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20121020210417/http://www.dutchcharts.nl/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a |archivedate=October 20, 2012 |df= }}&lt;/ref&gt;
+|style=&quot;text-align:center;&quot;|32
+|-
+|Norwegian Albums Chart&lt;ref&gt;{{cite web|first=Steffen |last=Hung |url=http://norwegiancharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a |title=Aerosmith – ''Just Push Play'' |work=norwegiancharts.com |accessdate=January 14, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20121103200033/http://norwegiancharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a |archivedate=November 3, 2012 |df= }}&lt;/ref&gt;
+|style=&quot;text-align:center;&quot;|24
+|-
+|[[Polish Music Charts|Polish Albums Chart]]&lt;ref&gt;{{cite web|url=http://olis.onyx.pl/listy/index.asp?idlisty=21&amp;lang=en|title=OLiS: sales for the period 19.03.2001 – 25.03.2001|work=[[OLiS]]}}&lt;/ref&gt;
+| style=&quot;text-align:center;&quot;| 24
+|-
+|Swedish Albums Chart&lt;ref&gt;{{cite web|first=Steffen |last=Hung |url=http://swedishcharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a |title=Aerosmith – ''Just Push Play'' |work=swedishcharts.com |accessdate=January 14, 2011}}&lt;/ref&gt;
+|style=&quot;text-align:center;&quot;|19
+|-
+|Swiss Albums Chart&lt;ref&gt;{{cite web|first=Steffen |last=Hung |url=http://swisscharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a |title=Aerosmith – ''Just Push Play'' |work=swisscharts.com |accessdate=January 14, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110613110352/http://swisscharts.com/showitem.asp?interpret=Aerosmith&amp;titel=Just+Push+Play&amp;cat=a |archivedate=June 13, 2011 |df= }}&lt;/ref&gt;
+|style=&quot;text-align:center;&quot;|3
+|-
+|UK Albums Chart&lt;ref&gt;{{cite web|url=http://www.officialcharts.com/archive-chart/_/3/2001-03-24/ |title=2001-03-24 Top 40 Official UK Albums Archive |work=[[Official Charts Company|officialcharts.com]] |accessdate=November 12, 2012}}&lt;/ref&gt;
+|style=&quot;text-align:center;&quot;|7
+|-
+|US ''[[Billboard (magazine)|Billboard]]'' [[Billboard 200|200]]&lt;ref name=&quot;Billboard1&quot;&gt;{{cite web |url={{BillboardURLbyName|artist=aerosmith|chart=all}} |title=''Just Push Play'' – Aerosmith |work=[[Billboard (magazine)|billboard.com]] |accessdate=November 18, 2010 }}&lt;/ref&gt;
+|style=&quot;text-align:center;&quot;|2
+|-
+|}
+
+===Singles===
+{| class=&quot;wikitable&quot;
+! rowspan=&quot;2&quot; width=&quot;33&quot;|Year
+! width=&quot;200&quot; rowspan=&quot;2&quot;| Title
+! colspan=&quot;10&quot;| Peak chart positions
+|-
+!style=&quot;width:3em;font-size:75%&quot;|U.S.&lt;br&gt;&lt;ref name=&quot;allmusic&quot;&gt;{{cite web|url={{Allmusic|class=artist |id=p604952/charts-awards/billboard-singles |pure_url=yes}} |title=Aerosmith - Awards |publisher=AllMusic |date= |accessdate=2012-06-26}}&lt;/ref&gt;
+!style=&quot;width:3em;font-size:75%&quot;|U.S. Rock&lt;br&gt;&lt;ref name=&quot;allmusic&quot;/&gt;
+!style=&quot;width:3em;font-size:75%&quot;|U.S. Main&lt;br&gt;&lt;ref name=&quot;allmusic&quot;/&gt;
+!style=&quot;width:3em;font-size:75%&quot;|AUS&lt;br&gt;&lt;ref name=&quot;AUS&quot;&gt;[http://australian-charts.com/search.asp?search=Aerosmith&amp;cat=s Australian peaks]&lt;/ref&gt;
+!style=&quot;width:3em;font-size:75%&quot;|[[Ö3 Austria Top 40|AUT]]&lt;br&gt;&lt;ref name=&quot;AUT&quot;&gt;[http://austriancharts.at/search.asp?search=Aerosmith&amp;cat=s Austrian peaks]&lt;/ref&gt;
+!style=&quot;width:3em;font-size:75%&quot;|CAN&lt;br&gt;&lt;ref name=&quot;rpm&quot;&gt;[http://www.collectionscanada.gc.ca/rpm/028020-110.01-e.php?PHPSESSID=4b4hk696a43h743affk2vjggm1&amp;q1=Aerosmith&amp;q2=Top+Singles&amp;interval=20 Canadian peaks]&lt;/ref&gt;
+!style=&quot;width:3em;font-size:75%&quot;|GER&lt;br&gt;&lt;ref name=&quot;GER&quot;&gt;[http://www.officialcharts.de/suche.asp?search=Aerosmith&amp;x=0&amp;y=0&amp;country=de&amp;kategorie=single German peaks]&lt;/ref&gt;
+!style=&quot;width:3em;font-size:75%&quot;|NLD&lt;br&gt;&lt;ref name=&quot;NLD&quot;&gt;[http://dutchcharts.nl/search.asp?search=Aerosmith&amp;cat=s Dutch peaks]&lt;/ref&gt;
+!style=&quot;width:3em;font-size:75%&quot;|SWI&lt;br&gt;&lt;ref name=&quot;SUI&quot;&gt;[http://hitparade.ch/search.asp?search=Aerosmith&amp;cat=s Swiss peaks]&lt;/ref&gt;
+!style=&quot;width:3em;font-size:75%&quot;|UK&lt;br&gt;&lt;ref name=&quot;British Hit Singles &amp; Albums&quot;&gt;{{cite book| first= David| last=Roberts| year= 2006| title= British Hit Singles &amp; Albums| edition= 19th| publisher= Guinness World Records Limited | location= London| isbn= 1-904994-10-5| page= 157}}&lt;/ref&gt;
+|-
+|align=&quot;center&quot; rowspan=&quot;4&quot;|2001
+|&quot;[[Jaded (Aerosmith song)|Jaded]]&quot;
+|align=&quot;center&quot;|7
+|align=&quot;center&quot;|1
+|align=&quot;center&quot;|6
+|align=&quot;center&quot;|51
+|align=&quot;center&quot;|47
+|align=&quot;center&quot;|6
+|align=&quot;center&quot;|48
+|align=&quot;center&quot;|54
+|align=&quot;center&quot;|30
+|align=&quot;center&quot;|13
+|-
+|&quot;[[Fly Away from Here]]&quot;
+|align=&quot;center&quot;|103
+|align=&quot;center&quot;|—
+|align=&quot;center&quot;|24
+|align=&quot;center&quot;|—
+|align=&quot;center&quot;|—
+|align=&quot;center&quot;|—
+|align=&quot;center&quot;|—
+|align=&quot;center&quot;|99
+|align=&quot;center&quot;|44
+|align=&quot;center&quot;|—
+|-
+|&quot;[[Sunshine (Aerosmith song)|Sunshine]]&quot;
+|align=&quot;center&quot;|—
+|align=&quot;center&quot;|23
+|align=&quot;center&quot;|—
+|align=&quot;center&quot;|—
+|align=&quot;center&quot;|—
+|align=&quot;center&quot;|—
+|align=&quot;center&quot;|—
+|align=&quot;center&quot;|—
+|align=&quot;center&quot;|—
+|align=&quot;center&quot;|—
+|-
+|&quot;[[Just Push Play (song)|Just Push Play]]&quot;
+|align=&quot;center&quot;|—
+|align=&quot;center&quot;|10
+|align=&quot;center&quot;|38
+|align=&quot;center&quot;|—
+|align=&quot;center&quot;|—
+|align=&quot;center&quot;|—
+|align=&quot;center&quot;|—
+|align=&quot;center&quot;|—
+|align=&quot;center&quot;|—
+|align=&quot;center&quot;|—
+|-
+| align=&quot;center&quot; colspan=&quot;15&quot; style=&quot;font-size:8pt&quot;| &quot;—&quot; denotes releases that did not chart
+|-
+|}
+
+==Certifications==
+{| class=&quot;wikitable&quot;
+!Organization
+!Level
+!Date
+|-
+|rowspan=&quot;2&quot;|[[RIAA]] - USA
+|Gold&lt;ref name=&quot;RIAA&quot;&gt;{{cite web
+| url=http://www.riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=Just%20Push%20Play&amp;artist=Aerosmith&amp;format=&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2009&amp;sort=Artist&amp;perPage=25
+| title=Gold and Platinum Database Search
+| accessdate=2009-11-24}}&lt;/ref&gt;
+|rowspan=&quot;@&quot;|April 3, 2001
+|-
+|Platinum&lt;ref name=&quot;RIAA&quot;/&gt;
+|-
+|[[British Phonographic Industry|BPI]] - UK
+|Silver&lt;ref name=&quot;BPI&quot;&gt;{{cite web|url=http://www.bpi.co.uk/certifiedawards/search.aspx |title=Certified Awards Search |work=[[British Phonographic Industry]] |format=ASPX |deadurl=yes |archiveurl=https://web.archive.org/web/20130115055129/http://www.bpi.co.uk/certifiedawards/search.aspx |archivedate=2013-01-15 |df= }} Search for &quot;Aerosmith&quot; to see results.&lt;/ref&gt;
+|July 22, 2013
+|-
+|rowspan=&quot;2&quot;|[[Associação Brasileira dos Produtores de Discos|ABPD]] - Brazil
+|Gold&lt;ref name=&quot;Aerosmith certifications&quot;&gt;[http://www.abpd.org.br/certificados_interna.asp Aerosmith certifications] {{webarchive |url=https://web.archive.org/web/20110928074707/http://www.abpd.org.br/certificados_interna.asp |date=September 28, 2011 }} at ABPD&lt;/ref&gt;
+|2001
+|-
+|Platinum&lt;ref name=&quot;Aerosmith certifications&quot;/&gt;
+|2007
+|}
+
+== References ==
+{{reflist}}
+
+==External links==
+*{{MusicBrainz release group|id=2fb275a3-1cd9-33b6-95e4-70fe3f092649|name=Just Push Play}}
+*{{metacritic album|just-push-play}}
+
+{{Aerosmith}}
+
+[[Category:Aerosmith albums]]
+[[Category:2001 albums]]
+[[Category:Albums produced by Marti Frederiksen]]
+[[Category:Albums produced by Mark Hudson (musician)]]
+[[Category:Columbia Records albums]]</text>
+      <sha1>qoigpfuyfj0qfy2l8rmb6omzhit1np7</sha1>
+    </revision>
+  </page>
+</mediawiki>

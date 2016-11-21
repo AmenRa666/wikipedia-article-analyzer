@@ -1,0 +1,104 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SFJAZZ Center</title>
+    <ns>0</ns>
+    <id>38314625</id>
+    <revision>
+      <id>743706270</id>
+      <parentid>743686257</parentid>
+      <timestamp>2016-10-10T20:17:50Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Organizations based in San Francisco, California to [[:Category:Organizations based in San Francisco]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2016 September 6]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2768">{{Infobox venue
+| name              = SFJAZZ Center
+| nickname          = 
+| image             = [[File:SF_Jazz_Center_2013-05-06_20-22.jpg|300px]]
+| image_caption     = 
+| address           = 201 Franklin Street
+| location          = 
+| coordinates       = {{Coord|37.7763|-122.4214|type:landmark_region:US-CA|display=inline,title}}
+| type              = 
+| genre             = [[Jazz]]
+| built             = 
+| opened            = {{Start date|2013|01}} 
+| renovated         = 
+| expanded          = 
+| closed            = 
+| demolished        = 
+| owner             = SFJAZZ 
+| construction_cost = 
+| former_names      = 
+| seating_type      = 
+| seating_capacity  = 700
+| website           = [http://www.sfjazz.org/center www.sfjazz.org]
+}}
+
+The '''SFJAZZ Center''' is a music venue in the [[Hayes Valley]] neighborhood of [[San Francisco, California]], that opened in January 2013. It is considered the &quot;first free-standing building in America built for jazz performance and education.&quot;&lt;ref&gt;{{cite web|title=New Jazz Center Opens In SF’s Hayes Valley|url=http://sanfrancisco.cbslocal.com/2013/01/21/new-jazz-center-opens-in-sfs-hayes-valley/|publisher=CBS San Francisco}}&lt;/ref&gt;
+
+The building was designed by [[Mark Cavagnero Associates]], and cost $64 million to complete. The performance space is the [[Bob Miner|Robert N. Miner]] Auditorium, with a sound system by [[Meyer Sound Laboratories]].&lt;ref&gt;[http://www.kqed.org/arts/music/article.jsp?essid=114967 Cy Musiker, &quot;SFJAZZ Center Opens Tonight&quot;], KQED, January 23, 2013.&lt;/ref&gt;&lt;ref&gt;[http://www.npr.org/blogs/ablogsupreme/2013/01/22/170005655/the-new-sfjazz-center-as-seen-by-its-musicians Patrick Jarenwattananon, &quot;The New SFJAZZ Center, As Seen By Its Musicians&quot;], NPR, January 22, 2013.&lt;/ref&gt;&lt;ref&gt;[http://www.sfgate.com/bayarea/place/article/SFJazz-Center-new-Cavagnero-landmark-4214299.php John King, &quot;SFJazz Center - new Cavagnero landmark&quot;,] ''SF Gate'', January 23, 2013.&lt;/ref&gt; The Center's official interior art is by [[Mark Ulriksen]],&lt;ref&gt;[http://www.sfjazz.org/official-illustrator]&lt;/ref&gt; with additional murals by [[Sandow Birk]] and [[Elyse Pignolet]].&lt;ref&gt;[http://www.juxtapoz.com/current/sandow-birk-a-elyse-pignolet-murals-for-sfjazz-mural]&lt;/ref&gt; It is home to SFJAZZ, a jazz music organization established in 1983. SFJAZZ has, since 1983, produced the [[San Francisco Jazz Festival]], and since 2004, the [[SFJAZZ Collective]].
+
+==References==
+{{reflist}}
+
+==External links==
+{{Portal|San Francisco Bay Area}}
+*[http://www.sfjazz.org/ SFJAZZ website]
+
+[[Category:2013 establishments in California]]
+[[Category:Organizations based in San Francisco]]
+[[Category:Jazz organizations]]
+[[Category:Buildings and structures in San Francisco]]
+[[Category:Music venues in the San Francisco Bay Area]]</text>
+      <sha1>dwy3nge4krlxi0jnf50z6cea6xcy7zk</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,266 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:March of the Penguins</title>
+    <ns>1</ns>
+    <id>2308213</id>
+    <revision>
+      <id>730002904</id>
+      <parentid>707420459</parentid>
+      <timestamp>2016-07-16T02:01:59Z</timestamp>
+      <contributor>
+        <username>PC78</username>
+        <id>2489774</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */cleanup WikiProject Film parameters using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29536">{{WikiProjectBannerShell|1=
+{{WikiProject Birds|class=B|importance=Mid}}
+{{WikiProject France|class=B|importance=Mid}}
+{{WikiProject Film|American=yes|class=B
+|b1 &lt;!--Referencing &amp; citations--&gt;=yes
+|b2 &lt;!--Coverage &amp; accuracy    --&gt;=yes
+|b3 &lt;!--Structure              --&gt;=yes
+|b4 &lt;!--Grammar &amp; style        --&gt;=yes
+|b5 &lt;!--Supporting materials   --&gt;=yes
+|French=yes|Documentary=yes|core=yes}}
+{{WikiProject Antarctica|class=B|importance=mid|Adelie=yes|Adelie-importance=mid}}
+}}
+
+==Accuracy?==
+Is this article accurate? It says that the breeding ground is closer to the open water at the start of the summer than at the end of it. The only way I know of for that to happen in that part of the world is for ice to form... which is surely going to happen in the winter rather than in the summer. It just seems wrong to me! [[User:Mawich|Mawich]] 16:17, 31 January 2006 (UTC)
+
+In the southern hemisphere the cold season is the summer while the winter is the warm season. I believe this article is accurate.
+--[[User:Otije|Otije]] 14:04, 2 February 2006 (UTC)
+
+Wrong! The article [[Summer]] says: ''Summer is a season, defined by convention in meteorology as the whole months of June, July, and August, in the Northern hemisphere, and the whole months of December, January, and February, in the Southern hemisphere.'' --[[User:Keeves|Keeves]] 16:35, 2 February 2006 (UTC)
+
+OK, you are right, sorry about that.--[[User:Otije|Otije]] 09:13, 6 February 2006 (UTC)
+
+&quot;At the beginning of Antarctic summer, the breeding ground is only a few hundred meters away from the open water where the penguins can feed. However, by the end of summer, the breeding ground is over 100 km away from the nearest open water&quot;
+
+This article is using &quot;summer&quot; for &quot;time when it is warmest in this area&quot;.  The chicks dive in to the water for the first time at the end of the coldest part of the year, when almost all of the ice has melted.  The adults start another breeding cycle in the fall, when summer is over and quite a bit of ice has re-frozen. --kd 26mar06
+
+It doesn't seem like this discussion reached a conclusion, and the text is still the same.  Since common sense says the ice is thicker at the end of winter, and I believe that the movie states incubation is over the winter, I would think this should be changed unless someone has a reference to the contrary.  And, the text now specifically says &quot;Antartic summer&quot;, so there should be no confusion over northern hemisphere seasons. [[User:Wroscel|Walt]] 18:41, 3 April 2007 (UTC)
+
+==Name==
+
+Isn't the name of this movie just ''March of the Penguins'', without the ''The'' in front of it? [[User:Thunderbrand|Thunderbrand]] 03:58, August 15, 2005 (UTC)
+:The US version is. I believe the native French title is &quot;La Marche de l'empereur&quot; - The. I'm not sure which would be proper for the article title since this is technically a French film. Need more discussion here.. ?? [[User:K1Bond007|K1Bond007]] 04:05, August 15, 2005 (UTC)
+::Dunno...it's just that all the posters have it as ''March of the Penguins'', so I thought it was odd when I saw the article. [[User:Thunderbrand|Thunderbrand]] 04:13, August 15, 2005 (UTC)
+:::''La Marche de l'empereur'' seems better. That is its original title and other foreign films here([[Bande à part]]) go by their original langugage title here and on the [[imdb]]. On the other hand many foreign language titles here are in English([[Shichinin no samurai ]]), but not on imdb.[[User:NCase|Case]] 05:02, August 15, 2005 (UTC)
+::My vote is to keep it with its English title and redirect the french title here.  This is the english wikipedia, not the french version. Most users will look for it as &quot;March of the Penguins&quot;.  If this was the french wikipedia, i'd change the title myself to the french one.  Another example of an article that follows this precident is '''[[Run Lola Run]]'''.  Its real name in Germany, where it was produced, is [[Lola rennt]], but when a search to that title is done on the english wikipedia, the search is redirected to the english title.  Therefore, I say, keep the english title. --[[User:ZeWrestler|&lt;span style=&quot;color:green&quot;&gt;ZeWrestler&lt;/span&gt;]]  [[user talk:ZeWrestler|&lt;sup&gt;&lt;span style=&quot;color:green&quot;&gt;Talk&lt;/span&gt;&lt;/sup&gt;]] 20:55, 15 August 2005 (UTC)
+Hey, I'm French and I fully agree with Ze Wresteler. The name of the film in English-Speaking countries is &quot;March of the Penguins&quot;, so why bother with the French title ? After all, American films released in Europe also have translated titles.
+:::[[Wikipedia:Naming conventions (films)]]A discussion on the talk page there ended with using the imdb name as the article title. Redirects from English titles and other titles will all point there as a movie can have several different titles. Also the english title is only ''March of the Penguins''.[[User:NCase|Case]] 04:33, August 16, 2005 (UTC)
+::::Well at the very least I think this page should be moved to [[March of the Penguins]]. I'm not sure which way I lean in the foreign title vs English title discussion here, but I know &quot;The March..&quot; is incorrect. [[User:K1Bond007|K1Bond007]] 16:05, August 18, 2005 (UTC)
+
+i really dont know how to express my thoughts and feelings of this documentary but i really think that this film reflects the grace and glory wisdom of God who designed his creature in an amazing way that really shows how God does really exist &quot;for those who believe in the evolution thing&quot;, the film shows the intimate relationship between the family members and how they are ready to make sacrifice for the sake of each other. they live the true meaning of love.....
+i was really astonished when i watched the documentary... and now i do believe in the strenght and ultimate power and love of god who creat us in a really special way to make us different from any other living things in order to thank him every day, and believe in him, god sacrificed his son in order to save us. 
+&quot;i can do every thing through him w gives me strenght&quot;
+::Please refrain from personnal opinions about the film.
+
+== Score ==
+
+The article says Emilie Simon, but I have the CD and it says Alex Wurman. The front cover insert has the credits for the score and doesn't list an Emilie Simon. Did they use two seperate scores for the different language versions?
+:The French version (original version) of the movie as the score written and interpreted by Emilie Simon. [[User:Lebel|Lebel]] 01:22, 3 December 2005 (UTC)
+
+==huh?==
+&quot;Penguins are a proof of Intelligent Design&quot;? wtf? why penguins in particular? is this some oblique potshot at creationists, or have they really completely lost it now? I know penguins are gods instrument to save the world from the clutches of Microsoft, but that's another story
+:Bah, just think a little. The argument is simple - how in the world could such a species evolve? From what prior species would they evolve from? There aren't any others that can do what they can do, and it's hard to see how they got started. Loose any trait and they die - they appear to have evolved as a whole complete package, which is contrary to the theory. So only God (Intelligent Design is a [[weasel word]], if you belive in God then say so) could have created them.
+:And to respond to George Will's stupid question of why would God have created such an animal the answer is easy: to prove that he can, to inspire you, and to make you marvel at what he did. Why do you think he created such a plethora of creatures on earth, or so such a huge universe? [http://ohr.edu/ask_db/ask_main.php/320/Q1/ source] and [http://ohr.edu/ask_db/ask_main.php/318/Q1/ and some more, including about ET life]. PS. Would you want to worship a puny unimpressive creator? [[User:67.165.96.26|67.165.96.26]] 06:54, 2 December 2005 (UTC)
+::Um. They would evolve from, say, birds that can actually fly. [http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=978750&amp;dopt=Abstract]  If someone did indeed make the argument that penquins pose a problem for evolution, or that they were an example of irreducible complexity, it was indeed a &quot;simple&quot; argument...in the sense of being uninformed or stupid. - [[User:Nunh-huh|Nunh-huh]] 07:01, 2 December 2005 (UTC)
+:::And I'm sure they could live in -80 degree weather. It's the cold, and especially the unique method of caring for an egg that is the issue, not the lack of wings.
+:::How could such an egg instinct evolve? Why would a penguin do it (i.e. be selected for it) if it wasn't cold out. And if it was cold out (to enable natural selection), how could it survive until it started?
+:::And the father/mother rearing method is yet enother topic: did both a female and a male happen to evolve at the same time, with the same instinct? If not, how did it breed and care for an egg (in the cold) until then? Why would it bother evolving this method if there wasn't a need for it, and if there was a need how did it survive the cold until then? [[User:67.165.96.26|67.165.96.26]] 07:33, 2 December 2005 (UTC)
+::::Gradual climate change would be a more than adequate explanation. You really need to study evolution before you presume to cry &quot;gotcha!&quot; at it.  - [[User:Nunh-huh|Nunh-huh]] 07:36, 2 December 2005 (UTC)
+:::::What gradual climate change? There wasn't any in Antarctica. All climate changes found by core samples have been abrupt and sudden, and none lasted long enough for evolution to happen.
+::::::Most penguins live in warm areas, like New Zealand. Nobody is saying that penguins evolved solely in Antarctica. Much more likely, some populations of penguins gradually spread southward, adapting to the colder temperatures as they did so. [[Special:Contributions/80.235.57.239|80.235.57.239]] ([[User talk:80.235.57.239|talk]]) 22:34, 15 December 2008 (UTC)
+:::::Well anyway I hope this answers the original question posted by unsigned. [[User:67.165.96.26|67.165.96.26]] 17:10, 2 December 2005 (UTC)
+::::::Yes, I think it makes the quality of the argument quite clear. - [[User:Nunh-huh|Nunh-huh]] 18:08, 2 December 2005 (UTC)
+::::::I haven't studied Antartica in detail but as with Nunh I highly doubt your thesis that there has been no climate change in Antartica. Are you telling me the temperature Antartica during the last ice age was the same as it is now? Also, there is no reason to assume the penguin's evolution happened in response to climate change. It may have been that the penguin slowly 'moved' southward, perhaps force in that direction by competition. There are other flaws in your arguments. Female and males evolved as seperate sex a LONG LONG LONG time before some bird evolved into being a penguin. Birds, and possibly dinosaurs evolved the joint rearing of offspring long before penguins... [[User:Nil Einne|Nil Einne]] 14:14, 30 December 2005 (UTC)
+Antarctica WASN'T always a big mass of ice. In dinosaur times, it was all forest, so perhaps prehistoric penguins just decided to stay put and evolve instead of move out. [[User:87.80.28.20|87.80.28.20]] 18:48, 15 May 2006 (UTC)
+
+==Narration/Dub==
+It appears that the French version has &quot;dubbed&quot; Penguin narration, while the English one has replaced this by more traditional commentary. I've laid hands on the French version and can confirm the former.   This should merit a mention in the article. --[[User:Kizor|Kizor]] 16:20, 23 November 2005 (UTC)
+
+:I don't understand the current text: &quot;''The French language release had narration &quot;dubbed&quot; as if it was spoken by the penguins...''&quot; - is this a special version?  Did they release a proper/serious version in French, and then later bring out this &quot;dubbed&quot; version with comedians?  If this &quot;as if it was spoken by penguins&quot; version is the only French version, could someone add a one line explanation of how this was doing without making a farce of the film?  (or if the original version was a farce, that too should be noted.)  Thanks. [[User:Gronky|Gronky]] 13:11, 30 December 2005 (UTC)
+
+::My understanding is the French version, which is the original version had the penguin 'voices' removed and instead a French language dubbing of what the penguins were supposedly saying [[User:Nil Einne|Nil Einne]] 13:58, 30 December 2005 (UTC)
+
+:::Sorry, I still can't make sense of this.  When you say that one version &quot;''had the penguin 'voices' removed''&quot;, what was removed?
+:::#the noises that the penguins make through their beaks?
+:::#penguin-like noises which were made by humans and added (and then removed)
+:::#narration in french with penguin-like accents (whatever that would sound like), talking in the first person (&quot;Oh, I'm cold, but I must walk to the water for food&quot;), which were added (and then removed)
+
+:::Another question which could make things clearer is: are their two French versions?  Thanks for any further clarification. [[User:Gronky|Gronky]] 14:20, 30 December 2005 (UTC)
+
+For the DVD release there were three people doing the commentary, a man, representing the male penguin, a woman representing the female penguin and a boy representing the chick. The narration is timed so that it seems to be what the penguins are thinking at the moment of the story. I think they are trying to make the story more personal, and less of a cold-scientist-studying-penguins thing.
+
+== how great HE is ==
+
+i really dont know how to express my thoughts and feelings of this documentary but i really think that this film reflects the grace and glory wisdom of God who designed his creature in an amazing way that really shows how God does really exist &quot;for those who believe in the evolution thing&quot;, the film shows the intimate relationship between the family members and how they are ready to make sacrifice for the sake of each other. they live the true meaning of love.....
+i was really astonished when i watched the documentary... and now i do believe in the strenght and ultimate power and love of god who creat us in a really special way to make us different from any other living things in order to thank him every day, and believe in him, god sacrificed his son in order to save us. 
+&quot;i can do every thing through him w gives me strenght&quot;
+:Did you happen to read this part of the wikipedia article:
+:''The film has created some political and social anthromorphic commentary. Michael Medved praised the film for promoting conservative family values. This led to responses by others, including Andrew Sullivan, pointing out that penguins are not monogamous from year to year and (at least in captivity) have a tendency toward homosexual and bisexual behavior. Other commentators such as Matt Walker have pointed out that many penguin 'adoptions' of chicks are in fact kidnappings, that weak chicks are frequently the victims of infanticide, that alibino penguins are ostracised and attacked and that prostitution is practiced by at least one species of penguins [2] (New Scientist, October 1). In a response to commentary that the penguins were proof of intelligent design, George Will commented, why would an intelligent designer have penguins raise chicks in minus 80 degree Fahrenheit temperatures? Many commentators including Matt Walker and Andrew Sullivan [3] have suggested that trying to compare human behavior with animal behavior is a mistake.'' [[User:Nil Einne|Nil Einne]] 14:25, 30 December 2005 (UTC)
+::I think the original comment must have been parody, because I find it impossible to believe that somebody would have sufficient intelligence to form a coherent sentence yet such inadequate reasoning that they could write such guff.
+:::While we're at it, aren't the 'sturdy' eggs which 'prove' Creationism in the religious' eyes actually pretty fragile? --[[User:Safe-Keeper|Safe-Keeper]] 15:22, 26 June 2007 (UTC)
+
+== New Scientist link ==
+I have added a link to a New Scientist commentary by Andrew Walker. Being New Scientist, it is of course subscriber only but I have also listed the issue it came from so you can also look it up in the original magazine. I know many people dislike links to content not publicly available but I feel it summarises several other key arguments against using penguins as moral compasses and in the absence of an alternative, I think it should stay. [[User:Nil Einne|Nil Einne]] 14:20, 30 December 2005 (UTC)
+:I think you mean Matthew Walker.  Difficulty of access is not a reason for deleting a reference, though it seems your citation was tampered with between 2005 and 2008.  I found a copy of the article in a periodicals database accessible free-of-charge to many people with a college or municipal library card. --[[User:Hro%C3%B0ulf|Hroðulf]] (or Hrothulf) ([[User talk:Hro%C3%B0ulf|Talk]]) 12:41, 8 September 2008 (UTC)
+
+== Techno music? ==
+
+I've been told that the French version had, in addition to the human dubbing, a techno soundtrack.  Is that true?  [[User:24.192.17.34|24.192.17.34]] 05:47, 3 January 2006 (UTC)
+:Partially true. The French soundtrack is more pop than techno, and has vocals.  You can listen to clips on the amazon.fr page: [http://www.amazon.fr/exec/obidos/ASIN/B0009XCCQ8] [[User:Polpo|Polpo]] 22:19, 25 January 2006 (UTC)
+
+== [[Urbanus]] ==
+
+I've changed the name of the Dutch narrator back from Urbain Servranckx into Urbanus. That's how he's best known in Belgium and the Netherlands, and besides: that's the title of his article, too. [[User:Phaunt|Oliphaunt]] 22:57, 7 February 2006 (UTC)
+
+== FA suggestion ==
+
+I'm curious, does anyone think we can bring this article up to FA status? --[[User:ZeWrestler|&lt;span style=&quot;color:green&quot;&gt;ZeWrestler&lt;/span&gt;]]  [[user talk:ZeWrestler|&lt;sup&gt;&lt;span style=&quot;color:green&quot;&gt;Talk&lt;/span&gt;&lt;/sup&gt;]] 13:53, 1 June 2006 (UTC)
+
+== Ice break up ==
+
+The article says &quot;''... so that there is no danger of the ice becoming too soft to support the colony, or chicks falling into the water before they develop a waterproof coat ...''&quot;. I know this is just the plot of a film but in real life Emperor colonies can loose the entire years chicks when the ice breaks up early.  I have seen it happen in summer 1995/96 on the Weddell sea.  If the article was about Emperor penguins I would track down a reference and note this in the main text but as it is just a plot this is probably less important.
+Maybe the colony they filmed is in an especially safe bay but it is misleading. Should the main text be changed in some way to note this? --[[User:Mtpaley|Mtpaley]] 12:08, 30 July 2006 (UTC)
+
+== Chicks playing ==
+
+Just a minor observation, the title on &quot;Marchofthepenguins baby.jpg&quot; is &quot;Penguin chicks playing.&quot;, I have spent many hours around emperor penguin colonies at all times of year and I have never seen chicks playing.  Once they leave the brood pouches they just stand around occasionally flapping their wings.  They often huddle with other chicks but nothing you could call play. I must admit that I have not seen the film but if it does show chicks playing then it is probably carefull filming+editing. I am not suggesting changing the article but given the overly serious nature of this discussion people should remember that it is just a film and they really are just birds. --[[User:Mtpaley|Mtpaley]] 12:18, 30 July 2006 (UTC)
+:I know I'm responding to a decades-old comment, but &quot;they really are just birds&quot; and birds really do play. I haven't spent any time with Emperor Penguin colonies, but I spend a large amount of time photographing baby birds in the spring, and most of them engage in obvious play. If the reason for believing that they are not playing when they are &quot;stand[ing] around occasionally flapping their wings [and] huddl[ing] with other chicks&quot; is that &quot;people should remember that... they really are just birds&quot; then that basically proves irrational anti-bird bias. It may be that the climate they are born into renders their play somewhat subdued and opaque to outsiders.[[Special:Contributions/76.105.216.34|76.105.216.34]] ([[User talk:76.105.216.34|talk]]) 19:51, 28 February 2016 (UTC)
+
+== Predator Bird? ==
+
+What was that bird that tried to kidnap and eat one of the chicks?
+
+It has been tentatively identified on bird watcher sites as the atartic skua, which does prey on penguin colony chicks.  [[User:Sandwich Eater|Sandwich Eater]] 15:27, 8 September 2006 (UTC)
+
+Does the predator bird section belong like that in the article.  i think we can do something else with it. --[[User:ZeWrestler|&lt;span style=&quot;color:green&quot;&gt;ZeWrestler&lt;/span&gt;]]  [[user talk:ZeWrestler|&lt;sup&gt;&lt;span style=&quot;color:green&quot;&gt;Talk&lt;/span&gt;&lt;/sup&gt;]] 14:41, 9 September 2006 (UTC)
+
+I honestly dont think that the predator bird in this film could be a skua, it's clearly a tube-nose (procellariiformes) like a petrel/albatross. It also has a similar wing shape to an albatross (which is what I thought it was to start with).
+
+Have a look at the giant petrels mentioned on wikipedia-if you go to the 'emperor penguin' page, there is a link to the antarctic giant petrel, of which there are similar light and dark phases to skuas.  But there's no way that beast is a skua-skuas for a start can land without falling on their beaks!
+==importance==
+I would say this is a mid level personally it was a pretty big film [[User:Dpenguinman|DPM]] 18:53, 19 November 2006 (UTC)
+
+== Why The Change? ==
+
+alright, i've been looking around, but i can't find out why the choice was made to remove Émilie Simon's music and replace it with Wurman's. is that information available anywhere? [[User:Whateley23|Whateley23]] 16:52, 10 March 2007 (UTC)
+
+== Good article status ==
+
+Please help add more references to this article so we can achieve GA-Class. &amp;mdash;[[User:Viriditas|Viriditas]] | [[User talk:Viriditas|Talk]] 12:38, 30 May 2007 (UTC)
+
+== The Emperor's Journey ==
+
+How about The Emperor's Journey? It is international English title. How should it be mentioned in the article? I know the film from this title, and I believe many do so outside the US, apart from original French name. IMDB mentions this name as well. --&lt;small&gt;[[user:Kinkku Ananas|&lt;font color=&quot;#8B0000&quot;&gt;KINKKU&lt;/font&gt;]] • [[User talk:Kinkku Ananas|&lt;font color=&quot;#ffa500&quot;&gt;ANANAS&lt;/font&gt;]] 10:47, 24 November 2007 (UTC)&lt;/small&gt;
+
+:Which countries used the title ''The Emperor's Journey'' in English?  --[[User:Hro%C3%B0ulf|Hroðulf]] (or Hrothulf) ([[User talk:Hro%C3%B0ulf|Talk]]) 12:49, 8 September 2008 (UTC)
+
+== Recent rewrite ==
+
+Recently, [[User:68.33.149.36|68.33.149.36]] rewrote the subject matter section of the article.  After reading it over, it appears to be on the POV side to me.  The rewrite has some obvious problems with it, but rather than just revert it, I figured I'd get some second opinions on it to see what others think.  Should we keep it, fix it up, and add back material the anon user took out, or revert it back?  Any suggestions/comments? --[[User:ZeWrestler|&lt;span style=&quot;color:green&quot;&gt;ZeWrestler&lt;/span&gt;]]  [[user talk:ZeWrestler|&lt;sup&gt;&lt;span style=&quot;color:green&quot;&gt;Talk&lt;/span&gt;&lt;/sup&gt;]] 16:52, 11 June 2008 (UTC)
+*Ok, Per second opinion from [[User:John Carter|John Carter]] I have reverted the article to pre anon editor changes.--[[User:ZeWrestler|&lt;span style=&quot;color:green&quot;&gt;ZeWrestler&lt;/span&gt;]]  [[user talk:ZeWrestler|&lt;sup&gt;&lt;span style=&quot;color:green&quot;&gt;Talk&lt;/span&gt;&lt;/sup&gt;]] 18:03, 14 June 2008 (UTC)
+
+== excessively exposed to human pheromones? ==
+
+This section was added to the article today by an unregistered user:
+:''&lt;nowiki&gt;Ironically, the production of the film itself also had unforeseen tragic consequences; all the penguins appearing in the documentary were excessively exposed to human pheromones, and were subsequently ostracized from their tribe. This led to the vast majority of the birds failing to survive the subsequent winter. &lt;ref&gt;This was discussed at length in 'Society and Animals' - P Porter , 2006, White Horse Press&lt;/ref&gt;&lt;/nowiki&gt;
+P Porter has at least 2 articles in issues of that journal in 2006, available in several online databases.  The one mentioning the film in the title is:
+* http://direct.bl.uk/bld/PlaceOrder.do?UIN=187033820&amp;ETOC=RN
+* http://www.ingentaconnect.com/content/brill/saa/2006/00000014/00000002/art00005
+Unfortunately I don't have access to either of those databases.  I would like to see a full citation and a brief quotation before this is returned to the article, as I think that to do otherwise would not be in the spirit of the [[WP:BLP|BLP]] policy. 
+
+--[[User:Hro%C3%B0ulf|Hroðulf]] (or Hrothulf) ([[User talk:Hro%C3%B0ulf|Talk]]) 12:44, 29 September 2008 (UTC)
+
+Note: hoax edits were made to other articles by that IP address today.  See:
+
+http://en.wikipedia.org/wiki/Special:Contributions/98.124.159.213
+
+--[[User:Hro%C3%B0ulf|Hroðulf]] (or Hrothulf) ([[User talk:Hro%C3%B0ulf|Talk]]) 14:37, 29 September 2008 (UTC)
+
+== Environmental message ==
+
+''This message, and the fact that the film's trailers and promotions do not mention the &quot;green&quot; dimension to the movie, has led to criticism from conservative reviewers for what they see as propaganda, which could in fact be the plot-twist that caps the storyline, films not generally revealing their ending in trailers. Filming a movie that has an environmental message aimed at children has provoked some controversy, although it might be overly emphatic. Critics of the film include Michael Medved [21], Neil Cavuto [22], and Glenn Beck [23].''
+
+I don't think this is particularly balanced. There is a paragraph where it is said that there is an environmental message, then there is this paragraph where a few people are cited as being upset about the environmental message in the movie. Where are the (what I would expect to be vast majority of) people who are actually happy for a mild environmental message to be in a kids movie? By only picking three right-wing conservative religious Americans for their views on the environmental message we are placing undue weight on a minority opinion. Also &quot;critics&quot; is used incorrectly, because critics include positive and negative critics. [[User:Sad mouse|Sad mouse]] 16:59, 13 January 2007 (UTC)
+
+:Huh??? [[User:TotalIssueee|TotalIssueee]] ([[User talk:TotalIssueee|talk]]) 04:14, 21 April 2009 (UTC)
+
+== International Versions ==
+
+Something appears to have gone wrong with the international versions section, launching into what appears to be a synopsis/plot of the film without preamble or a new subheading.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.140.146.240|86.140.146.240]] ([[User talk:86.140.146.240|talk]]) 00:23, 15 February 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Intelligent design argument ==
+This is a quote from the article : ''&quot;Author Susan Jacoby claims in her 2008 book, The Age of American Unreason (page 26), that the distributors of the movie deliberately avoided using the word &quot;evolution&quot; in order to avoid backlash from the American religious right, and writes, &quot;As it happens, the emperor penguin is literally a textbook example, cited in college-level biology courses, of evolution by means of natural selection and random mutation. ... The financial wisdom of avoiding any mention of evolution was borne out at the box office&quot;''
+
+Now, does that Susan Jacoby have any evidence that the makers of this movie &quot;deliberately&quot; avoided using the word evolution? As a Frenchmen, I can tell you that in France there is no evolution/creationism debate. She may be over-analyzing the documentary through the lenses of an American. That's [[Americentrism]]. This documentary probably didn't mention evolution simply because it's obvious for a French audience. The makers probably didn't expect their documentary to be so successful abroad in the first place. What I'm saying is that the article may be giving too much importance to an analysis that this Susan Jacoby probably pulled out of nowhere.--[[User:Munin75|Munin75]] ([[User talk:Munin75|talk]]) 01:21, 31 March 2012 (UTC)
+
+: They talk here about the distributors of the film (not the makers), so I gather that this hypothesis of deliberate avoiding of the word evolution was only targeting the American market. Do not forget that in the original French version, the commentary is made first-person as if the penguins were talking, and that it would quite inappropriate for the penguins to talk about evolution or other scientific matters. 
+
+: But otherwise, I do agree that this article probably gives too much importance to the different &quot;controversies&quot;. [[User:Cochonfou|Cochonfou]] ([[User talk:Cochonfou|talk]]) 10:15, 25 October 2015 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[March of the Penguins]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=704828087 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20070927225712/http://www.imago.org/main/public_html/_htm_news/2007/n35.htm to http://www.imago.org/main/public_html/_htm_news/2007/n35.htm
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 21:08, 13 February 2016 (UTC)</text>
+      <sha1>n7dqnua9ewxdskaaz2x8tz0outpqi22</sha1>
+    </revision>
+  </page>
+</mediawiki>

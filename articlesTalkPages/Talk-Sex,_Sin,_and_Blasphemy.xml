@@ -1,0 +1,138 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Sex, Sin, and Blasphemy</title>
+    <ns>1</ns>
+    <id>42200132</id>
+    <revision>
+      <id>713669702</id>
+      <parentid>621995045</parentid>
+      <timestamp>2016-04-05T10:30:07Z</timestamp>
+      <contributor>
+        <username>Yobot</username>
+        <id>7328338</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */Tagging for WP Women part 1  per BOTREQ using [[Project:AWB|AWB]] (11993)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8724">{{Talk header}}
+{{Article history
+| action1       = WPR
+| action1date   = 16 March 2014
+| action1result = copyedited
+| action1oldid  = 599926874
+
+|action2=GAN
+|action2date=9 April 2014
+|action2link=Talk:Sex, Sin, and Blasphemy/GA1
+|action2result=listed
+|action2oldid=603385868
+
+| action3       = WPR
+| action3date   = 7 June 2014
+| action3result = copyedited
+| action3oldid  = 611950310
+
+|topic=langlit
+|currentstatus=GA
+}}
+{{WikiProject banner shell|collapsed=yes|1=
+{{WikiProject Books|class=GA|importance=Low}}
+{{WikiProject Freedom of speech|class=GA|importance=Mid}}
+{{WikiProject Human rights|class=GA|importance=Low}}
+{{WikiProject Journalism|class=GA|importance=Low}}
+{{WikiProject Law|class=GA|importance=Low}}
+{{WikiProject LGBT studies|class=GA|importance=Low}}
+{{WikiProject Literature|class=GA|importance=Low}}
+{{WikiProject Mass surveillance|class=GA|importance=Low}}
+{{WikiProject Media|class=GA|importance=Low}}
+{{WikiProject Psychology|class=GA|importance=Low}}
+{{WikiProject Sexuality|class=GA|importance=Low}}
+{{WikiProject Pornography|class=GA|importance=Low}}
+{{WikiProject Sociology|class=GA|importance=Low}}
+{{WikiProject United States|class=GA|importance=Low}}
+{{WikiProject United States Public Policy|class=GA|importance=Low}}
+{{WikiProject Guild of Copy Editors|user=Onel5969|date=June 7, 2014}}
+}}
+{{Find sources notice|Sex, Sin, and Blasphemy|Heins}}
+{{Find sources notice|Sex, Sin, and Blasphemy: A Guide to America's Censorship Wars}}
+{{User:MiszaBot/config
+|maxarchivesize = 250K
+|counter = 1
+|minthreadsleft = 1
+|algo = old(30d)
+|archive = Talk:Sex, Sin, and Blasphemy/Archive %(counter)d
+}}
+
+== NPOV; Redundancy ==
+
+Hi. Just finished the copy edit.  To me, there are two glaring issues with the article.  First, although it does cite a contrarian opinion in the reviews of the book, the entire article is written taking the writer's premise as fact.  What this author calls &quot;self-censorship&quot;, others may simply call good taste or common sense.  (not that I am one of them, I'm merely aware that there are large portions of the population which feel that way).  And this practice of stating the author's opinions as fact is prevalent throughout the article.  So much so, that I feel compelled to add an NPOV tag.  The second is a great deal of redundancy in the article.  Entire sentences were simply cut and paste from the lead into other sections.  While the lead has to reflect the structure of the article, it shouldn't be a verbatim copy of other parts of the article.  (e.g. incidents of censorship in both the lead and content section).  I think this problem could be dealt with by editing the lead, which is a bit long in any event. [[User:Onel5969|Onel5969]] ([[User talk:Onel5969|talk]]) 18:29, 6 June 2014 (UTC)
+:Thanks for the copy edit. I've removed the ugly obtrusive tag, which I strongly disagree with, as this article is already [[WP:GA]] quality. I will, however, still do my best to modify the article to address your complaints. &amp;mdash; '''[[User:Cirt|Cirt]]''' ([[User talk:Cirt|talk]]) 09:27, 7 June 2014 (UTC)
+#I should point out that this is an article about a non-fiction book, and therefore the ''Contents'' section should adequately summarize the book itself, which may have a side effect of presenting the point of view of the author. 
+#The lede, per [[WP:LEAD]], should be able to function as a standalone summary of the entire article's contents. It is therefore natural that after reading it some pieces of the article will later seem slightly redundant.
+#Thank you for acknowledging that the ''Reception'' section presents contrarian opinion. I did my best to research from secondary sources.
+&amp;mdash; '''[[User:Cirt|Cirt]]''' ([[User talk:Cirt|talk]]) 09:31, 7 June 2014 (UTC)
+:: Let me start off by saying that I agree with most of what this author has to say.  The first rule of [[WP:NPOV]] is &quot;Avoid stating opinions as facts.&quot;  This article, in its tone does just that. As per the NPOV policy, I retagged the article, since the tag should not have been removed until the matter is discussed.  I'm not saying I'm right, I'm simply saying that to me the article represents opinions as facts.  If we get a few more editors opinions, and it appears that my opinions aren't justified, then we take the tag off.  And if other editors look at it, and can see my point of view, then we work on editing it to a more neutral tone.  I think it's a well-written article.  I understand that part of the GA process is a NPOV review, but the GA only included two editors, and only one of them addressed that issue directly.  
+:# While the contents section should definitely summarize the book, that summary should definitely be written in a way that presents the material as the author's opinion, not as if the author is merely writing down facts.  A perfect example of this is the use of the term &quot;self-censorship&quot;... to remove the bias, it should read something like &quot;the industry's self-regulation, which the author sees as self-censorship...&quot;.  Another sentence is &quot;Sex, Sin, and Blasphemy provides the reader with case studies of censorship...&quot;, when it should say something like, &quot;Sex, Sin, and Blasphemy provides the reader with what the author (and many others) consider case studies of censorship...&quot;
+:# I agree.  But it also says, &quot;... establish context, explain why the topic is notable, and summarize the most important points—including any prominent controversies ...&quot;  In the lead, this article has verbatim passages from the body of the article, not summaries of them, making it redundant.  It also goes to the NPOV of the article, as it does not mention that there is a wide body of thought which disagrees with author.
+:# While there is the one contrary opinion, there are a plethora of other opinions contrary to the conclusions drawn by the author.  Especially in the Content section.  In my opinion there an entire section on the contrary view might not be out of line, regarding each of the main cases stated: MPAA, RIAA, and NEA.  But I think if the Content and Lead sections are re-written so as to show that the conclusions stated are the author's opinions, rather than facts, this would take care of most of the NPOV issue.
+&lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Onel5969|Onel5969]] ([[User talk:Onel5969|talk]] • [[Special:Contributions/Onel5969|contribs]]) &lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+
+;Response to suggestions by [[User:Onel5969]]
+I don't have any strong objections to the above suggestions by {{u|Onel5969}}, so I've just gone ahead and voluntarily directly implemented them into the article:
+#&quot;self-censorship&quot; = changed to: ''&quot;the industry's self-regulation, which the author sees as self-censorship&quot;'', per above recommendation by {{u|Onel5969}}.
+#&quot;case studies of censorship&quot; = changed to: ''&quot;what the author (and many others) consider case studies of censorship&quot;'', per above suggestion by {{u|Onel5969}}.
+#Trimmed lede. Removed emphasis on positive reviews. This therefore leaves the full prior version of the negative review, and the result is additional emphasis to the negative review. [http://en.wikipedia.org/w/index.php?title=Sex,_Sin,_and_Blasphemy&amp;diff=611947865&amp;oldid=611947491 diff].
+#Reduced size of intro section. Greatly reduced size of intro section. Gutted it. [http://en.wikipedia.org/w/index.php?title=Sex,_Sin,_and_Blasphemy&amp;diff=next&amp;oldid=611947865 diff].
+#{{u|Onel5969}} stated, above: ''[http://en.wikipedia.org/w/index.php?title=Talk:Sex,_Sin,_and_Blasphemy&amp;diff=611946048&amp;oldid=611927198 &quot;I think if the Content and Lead sections are re-written so as to show that the conclusions stated are the author's opinions, rather than facts, this would take care of most of the NPOV issue.&quot;]'' I have just done that. I implemented all the specific suggestions by {{u|Onel5969}}, above. Hopefully this is now to the satisfaction of {{u|Onel5969}}, and the NPOV tag can be removed from the top of the article at this point in time. &amp;mdash; '''[[User:Cirt|Cirt]]''' ([[User talk:Cirt|talk]]) 13:56, 7 June 2014 (UTC)
+
+
+Thanks for being so positive, [[u|Cirt]].  I had asked a couple of other editors whose work I respect to take a look at the article to make sure I wasn't being too &quot;fussy&quot;.  But the changes you've made really address the concerns I had.  I especially like the edits you made to the lead.  I think this is the 3rd or 4th article I've c/e'd which you have done work on, and I always enjoy working with you.  Cheers. [[User:Onel5969|Onel5969]] ([[User talk:Onel5969|talk]]) 14:14, 7 June 2014 (UTC)
+:Thanks very much, most appreciated! &amp;mdash; '''[[User:Cirt|Cirt]]''' ([[User talk:Cirt|talk]]) 03:05, 8 June 2014 (UTC)</text>
+      <sha1>1obirhxekhahsjtgb8jgc1bvf8vlpca</sha1>
+    </revision>
+  </page>
+</mediawiki>

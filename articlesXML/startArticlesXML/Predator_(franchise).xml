@@ -1,0 +1,513 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Predator (franchise)</title>
+    <ns>0</ns>
+    <id>14919990</id>
+    <revision>
+      <id>747885841</id>
+      <parentid>747884321</parentid>
+      <timestamp>2016-11-04T23:43:27Z</timestamp>
+      <contributor>
+        <username>Jim1138</username>
+        <id>7695475</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/174.6.180.83|174.6.180.83]] ([[User talk:174.6.180.83|talk]]): Unexplained removal of content ([[WP:HG|HG]]) (3.1.22)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="34967">{{Infobox film
+| name           = Predator
+| image          = Predator-BR.jpg
+| image_size     = 230px
+| caption        = ''Predator Trilogy'' [[Blu-ray]] (2010)
+| director       = [[John McTiernan]] &lt;small&gt;(''1'')&lt;/small&gt;&lt;br&gt;[[Stephen Hopkins (director)|Stephen Hopkins]] &lt;small&gt;(''2'')&lt;/small&gt;&lt;br&gt;[[Nimród Antal]] &lt;small&gt;(''3'')&lt;/small&gt;&lt;br&gt;[[Shane Black]] &lt;small&gt;(''4'')&lt;/small&gt;
+| producer       = [[John Davis (producer)|John Davis]] &lt;small&gt;(''1''-''4'')&lt;/small&gt;&lt;br&gt;[[Lawrence Gordon (producer)|Lawrence Gordon]]&lt;small&gt; (''1''-''2'')&lt;/small&gt;&lt;br&gt;[[Joel Silver]] &lt;small&gt;(''1''-''2'')&lt;/small&gt;&lt;br&gt;[[Elizabeth Avellan]] &lt;small&gt;(''3'')&lt;/small&gt;&lt;br&gt;[[Robert Rodriguez]] &lt;small&gt;(''3'')&lt;/small&gt;
+| writer         = [[Jim Thomas (screenwriter)|Jim Thomas]] &lt;small&gt;(''1''-''2'')&lt;/small&gt;&lt;br&gt;[[John Thomas (screenwriter)|John Thomas]] &lt;small&gt;(''1''-''2'')&lt;/small&gt;&lt;br&gt;Alex Litvak &lt;small&gt;(''3'')&lt;/small&gt;&lt;br&gt;Michael Finch &lt;small&gt;(''3'')&lt;/small&gt;&lt;br&gt;Shane Black &lt;small&gt;(''4'')&lt;/small&gt;&lt;br&gt;[[Fred Dekker]] &lt;small&gt;(''4'')&lt;/small&gt;
+| based on       = {{Based on|Characters created|Jim Thomas&lt;br&gt;John Thomas}}
+| starring       = [[Arnold Schwarzenegger]] &lt;small&gt;(''1'')&lt;/small&gt;&lt;br&gt;[[Danny Glover]] &lt;small&gt;(''2'')&lt;/small&gt;&lt;br&gt;[[Adrien Brody]] &lt;small&gt;(''3'')&lt;/small&gt;
+| music          = [[Alan Silvestri]] &lt;small&gt;(''1''-''2'')&lt;/small&gt;&lt;br&gt;[[John Debney]] &lt;small&gt;(''3'')&lt;/small&gt;
+| cinematography = [[Donald McAlpine]] &lt;small&gt;(''1'')&lt;br&gt;[[Peter Levy (cinematographer)|Peter Levy]]&lt;small&gt;(''2'')&lt;/small&gt;&lt;br&gt;[[Gyula Pados]] &lt;small&gt;(''3'')&lt;/small&gt;
+| editing        = [[Mark Helfrich (film editor)|Mark Helfrich]] &lt;small&gt;(''1'')&lt;/small&gt;&lt;br&gt;John F. Link &lt;small&gt;(''1'')&lt;/small&gt;&lt;br&gt;[[Mark Goldblatt]] &lt;small&gt;(''2'')&lt;/small&gt;&lt;br&gt;Bert Lovitt &lt;small&gt;(''2'')&lt;/small&gt;&lt;br&gt;[[Dan Zimmerman]] &lt;small&gt;(''3'')&lt;/small&gt;
+| studio         = Amercent Films &lt;small&gt;(''1'')&lt;/small&gt;&lt;br&gt;American Entertainment Partners L.P. &lt;small&gt;(''1'')&lt;/small&gt;&lt;br&gt;[[Davis Entertainment|Davis Entertainment Company]] &lt;small&gt;(''1''-''4'')&lt;/small&gt;&lt;br&gt;[[Lawrence Gordon Productions]] &lt;small&gt;(''1''-''2'')&lt;/small&gt;&lt;br&gt;[[Silver Pictures]] &lt;small&gt;(''1''-''2'')&lt;/small&gt;&lt;br&gt;[[Troublemaker Studios]] &lt;small&gt;(''3'')&lt;/small&gt;&lt;br&gt;[[Dune Entertainment]] &lt;small&gt;(''3'')&lt;/small&gt;&lt;br&gt;[[TSG Entertainment]] &lt;small&gt;(''4'')&lt;/small&gt;
+| distributor    = [[20th Century Fox]]
+| released       = 1987 – present
+| country        = United States
+| language       = English
+| budget         = $90-93 million
+| gross          = $282.6 million
+}}
+{{DISPLAYTITLE: ''Predator'' (franchise)}}
+The '''''Predator''''' film series is a [[science fiction film|science fiction]]  [[horror film|horror]] [[media franchise|film franchise]] based on a race of [[Extraterrestrials in fiction|fictional extraterrestrials]] created by Jim Thomas and John Thomas. Produced by [[20th Century Fox]], the series started in 1987 with the film ''[[Predator (film)|Predator]]'', which led to two sequels and [[novel]], [[comic book]] and [[video game]] spin-offs. Related to the franchise are the ''[[Alien vs. Predator (film)|Alien vs. Predator]]'' films, which combine the titular [[Predator (alien)|Predator]] with [[Alien (creature in Alien franchise)|the creatures]] from the [[Alien (franchise)|''Alien'' film series]].
+
+==Development==
+''Predator'' was [[John McTiernan]]'s second studio film as director. The studio hired screenplay writer [[Shane Black]] to not only play a supporting role in the film, but to keep an eye on McTiernan due to the director's inexperience. [[Jean-Claude Van Damme]] was originally cast as the film's creature,&lt;ref&gt;{{cite web|url=http://www.teletext.co.uk/bigscreen/your-film-views/2c716751d7abb28f897edd93c630b4ef/Vortex+Van+Damme+in+Predator.aspx |title=Teletext Big Screen Vortex |publisher=Teletext.co.uk |date= |accessdate=2009-03-03}}&lt;/ref&gt; the idea being that the physical action star would use his martial arts skills to make the creature an agile, [[ninja]]-esque hunter. When compared to [[Arnold Schwarzenegger]], [[Carl Weathers]] and [[Jesse Ventura]], actors known for their bodybuilding regimes, it became apparent a more physically imposing man was needed to make the creature appear threatening. Eventually, Van Damme was removed from the film and replaced by the actor and mime artist [[Kevin Peter Hall]].
+
+The predator creature's design is credited to special effects artist [[Stan Winston]]. While flying to [[Japan]] with ''[[Aliens (film)|Aliens]]'' director [[James Cameron]], Winston, who had been hired to design the Predator, was doing concept art on the flight. Cameron saw what he was drawing and said, &quot;I always wanted to see something with [[Mandible (arthropod)|mandibles]]&quot;. Winston then included them in his designs. Schwarzenegger recommended Winston after his experience working on ''[[The Terminator]]''.
+
+The film's creature was originally designed with a long neck, a [[dog]]-like head and a single eye. This design was abandoned when it became apparent that the jungle locations would make shooting the complex design too difficult. Originally, the studio contracted the makeup effects for the alien from [[Richard Edlund]]'s ''Boss Film Creature Shop''. However, with problems filming the creature in Mexico and attempts to create a convincing monster of Van Damme, wearing a much different body suit, failing, makeup effects responsibilities were given to Winston and his studio, [[R/Greenberg Associates]]. According to former ''Boss Film Creature Shop'' makeup supervisor Steve Johnson, the makeup failed because of an impractical design by McTiernan that included {{convert|12|in|mm|sing=on}} length extensions that gave the creature a backward bent [[satyr]]-leg. The design did not work in the jungle locations. After six weeks of shooting in the jungles of [[Palenque, Mexico]], the production had to shut down so that Winston could make the new creature. This took eight months and then filming resumed for five weeks.
+
+The sound of the creature was provided by [[Peter Cullen]]. Despite his resolution not to voice any more monsters following injuries to his throat sustained during the [[Dubbing (filmmaking)#Automated Dialogue Replacement / post-sync|ADR]] of [[King Kong (1976 film)|King Kong]], his agent convinced him to audition. The bubbling sound was inspired by a mixture of the visual of the creature and his recollection of a dying horseshoe crab.&lt;ref&gt;{{cite web|url=http://www.dvdtimes.co.uk/content.php?contentid=62478 |title=Prime Directive: An Exclusive Interview with Peter Cullen |publisher=dvdtimes.co.uk |date= |accessdate=2009-09-08}}&lt;/ref&gt;
+
+R/Greenberg Associates created the film's optical effects, including the creature's ability to become [[invisible]], its [[thermal vision]] point-of-view, its glowing blood, and the [[electric spark]] effects. The invisibility effect was achieved by having someone in a bright [[Chroma key|red suit]] (because it was the farthest opposite of the green of the jungle and the blue of the sky) the size of the creature. The take was then repeated without the actors using a 30% wider lens on the camera. When the two takes were combined optically, a vague outline of the alien could be seen with the background scenery bending around its shape. For the thermal vision, [[infrared film]] could not be used because it did not register in the range of [[body temperature]] [[wavelength]]s. The filmmakers used an Inframetrics thermal video scanner as it gave good heat images of objects and people.{{Citation needed|date=May 2010}} The glowing blood was achieved by green liquid from [[glow stick|chem-lite sticks]] used by campers. The electrical sparks were [[rotoscoped]] animation using white paper pin registered on portable light tables to black-and-white prints of the film frames. The drawings were [[compositing|composited]] by the optical crew for the finished effects.
+
+Also, in an interview on ''Predator'' Special Edition, actor Carl Weathers said many of the actors would secretly wake up as early as 3 a.m. to work out before the day's shooting, in order to look &quot;pumped&quot; during the scene. Weathers also stated that he would act as if his physique was naturally given to him, and would work out only after all the other actors were nowhere to be seen. It was reported that actor [[Sonny Landham]] was so unstable on the set that a bodyguard was hired; not to protect Landham, but to protect the other cast members from him.
+
+According to Schwarzenegger, filming was physically demanding as he had to swim in very cold water and spent three weeks covered in mud for the climactic battle with the alien. In addition, cast and crew endured very cold temperatures in the Mexican jungle that required [[heat lamp]]s to be on all of the time. Schwarzenegger also faced the challenge of working with Kevin Peter Hall who could not see in the creature's suit. Hall could not see out of the mask and had to rehearse his scenes with it off and then memorize where everything was. The outfit was difficult to wear because it was heavy and off-balance.
+
+The film was particularly successful and subsequently inspired a number of [[comic books]], [[video games]] and popular anecdotes within the media. Schwarzenegger was asked to reprise his role in a ''Predator'' sequel, but was already attached to ''[[Terminator 2: Judgment Day]]'' and could not accept the role. The character was rewritten from the developing sequel's script, and the sequel to ''Predator'', directed by [[Stephen Hopkins (director)|Stephen Hopkins]], was scheduled for 1990.
+
+Due to excessive violence, ''[[Predator 2]]'' was the first film to be given the newly instituted [[NC-17]] rating in the United States. It was eventually rated R by the [[Motion Picture Association of America]] after being re-cut to its final theatrical length. The film cast [[Danny Glover]] in the lead role, and reprised Kevin Peter Hall as the Predator. Also, returning to the role of [[List of Predator characters#Anna|Anna]] in the sequel, [[Elpidia Carrillo]] was slated to be in two scenes but was cut back to a brief appearance on a video screen in the government agents' surveillance trailer. Her character is showing damage to the [[Central America]]n jungle caused by the explosion at the conclusion of the first film.
+
+==Main series==
+
+===''Predator'' (1987)===
+{{Main article|Predator (film)}}
+A Covert-Ops U.S. Special Forces Unit, led by Major [[List of Predator characters#Dutch|Alan &quot;Dutch&quot; Schaefer]] is on a mission in Central America when they encounter an alien who hunts them for sport.
+
+===''Predator 2'' (1990)===
+{{Main article|Predator 2}}
+In 1997, a different Predator arrives in Los Angeles and begins hunting violent gang members, drawing the attention of the local police force. The creature itself is in turn being hunted by a secretive government task-force seeking to capture it for study.
+
+===''Predators'' (2010)===
+{{Main article|Predators (film)}}
+In 2009, it was announced that [[Robert Rodriguez]] would relaunch the franchise.&lt;ref&gt;{{cite web|author=|url=http://www.variety.com/article/VR1118002792.html?categoryid=1237&amp;cs=1 |title=Robert Rodriguez wields 'Machete' - Entertainment News, Gotham, Media |publisher=Variety |date=2008-07-20 |accessdate=2009-04-24}}&lt;/ref&gt; Rodriguez had written a script titled ''Predators'' before he had filmed ''[[Desperado (film)|Desperado]]''. In 2009, 20th Century Fox studio executive [[Alex Young (studio executive)|Alex Young]] called Rodriguez to consider using his treatment as the basis of reviving the individual ''Predator'' franchise.&lt;ref&gt;{{cite news|author=[[Harry Knowles]]|title=AICN Exclusive: Robert Rodriguez answers some questions about Predators!!!|work=[[Ain't It Cool News]]|date=2009-04-24|url=http://www.aintitcool.com/node/40879|accessdate=2009-04-25}}&lt;/ref&gt; Writer Alex Litvak was hired to write the screenplay.&lt;ref&gt;{{cite web |url=http://www.slashfilm.com/2009/05/05/alex-litvak-penning-predators/ |title= Alex Litvak Penning Predators - /Film|publisher=Slash Film |date=2009-05-05 |accessdate=2009-05-05}}&lt;/ref&gt; [[Nimród Antal]] was signed on to direct the film. The film is set on a Predator [[game reserve]] planet, where a group of soldiers battle for their lives against the creatures.&lt;ref&gt;[http://www.hollywoodreporter.com/hr/content_display/film/news/e3i04299584a9f4430c644a3104fb248170 Nimrod Antal Chases Down &quot;Predators&quot;], ''Hollywood Reporter'', July 2, 2009&lt;/ref&gt; The film stars [[Adrien Brody]],&lt;ref&gt;{{cite web|url=http://www.bloody-disgusting.com/news/17613|title=Update #2: Major 'Predators' Casting Announcement Made!}}&lt;/ref&gt; [[Alice Braga]], [[Danny Trejo]], [[Walt Goggins]], [[Oleg Taktarov]], [[Topher Grace]],&lt;ref&gt;{{Cite web|url=http://www.dreadcentral.com/news/34060/derek-mears-predators-official|title=Derek Mears -- Predators Official!|publisher=DreadCentral}}&lt;/ref&gt; [[Mahershalalhashbaz Ali]], [[Louis Ozawa Changchien]]&lt;ref&gt;{{cite web|url=http://www.dreadcentral.com/news/33887/new-predators-casting-news|title=New Predators Casting News!|publisher=DreadCentral}}&lt;/ref&gt; and [[Laurence Fishburne]].
+
+===''The Predator'' (2018)===
+In June 2014, Fox announced a sequel which [[Shane Black]] will direct and co-write with [[Fred Dekker]], and [[John Davis (producer)|John Davis]] will produce.&lt;ref&gt;{{cite web|url=http://collider.com/predator-reboot-sequel-shane-black/|title=Exclusive: Shane Black Says His Predator Film Is a Sequel, Not a Reboot|last=Chitwood|first=Adam|work=Collider|date=June 25, 2014|accessdate=June 25, 2014}}&lt;/ref&gt; Davis has said of the film that he thinks it is fresh and reimagines the franchise in a &quot;different, interesting way&quot;.&lt;ref&gt;Chitwood, Adam (2016-08-13).  [http://collider.com/predator-sequel-shane-black-movie-will-reinvent-the-franchise/ &quot;Shane Black’s 'Predator' Sequel Will 'Reinvent the Franchise', Says Producer John Davis.&quot;]  ''Collider.com''.  Retrieved 2016-06-11.&lt;/ref&gt; In February 2016, Black confirmed the title of the new sequel would be ''The Predator''.&lt;ref&gt;Chitwood, Adam (2016-02-16).  [http://collider.com/predator-sequel-title-poster-shane-black/ &quot;Shane Black’s ‘Predator’ Sequel Is Called ‘The Predator’; First Poster Revealed.&quot;]  ''Collider.com''.  Retrieved 2016-06-11.&lt;/ref&gt; It is slated for a  March 2, 2018, release date.&lt;ref&gt;{{cite web|url=http://www.ew.com/article/2016/02/28/predator-sequel-release-date-confirmed-march-2018|title=Predator sequel lands March 2018 release date|last=Romano|first=Nick|work=[[Entertainment Weekly]]|date=February 28, 2016|accessdate=March 9, 2016}}&lt;/ref&gt; Schwarzenegger revealed to ''TheArnoldFans.com'' in an interview that he is discussing returning to the film as his character.&lt;ref&gt;{{cite web|url=http://www.thearnoldfans.com/news/2016/3/6/exclusive-arnold-to-discuss-the-predator-with-director-shane.html|title=Exclusive: Arnold to Discuss &quot;The Predator&quot; with Director Shane Black!|publisher=The Arnold Fans|author=The Gillinator|date=March 6, 2016}}&lt;/ref&gt; Shane Black has referred to the project as an event film which aims to elevate the Predator series: &quot;It’s an attempt to ‘event-ise’ the Predator again... [An attempt to] make it more mysterious.&quot;&lt;ref&gt;Patches, Matt (2016-03-22).  [https://www.thrillist.com/entertainment/nation/the-nice-guys-trailer-shane-black-on-ryan-gosling-and-russell-crowe/ 'Nice Guys' Director Shane Black on Trailer, 'Doc Savage,' 'Predator' Reboot.&quot;]  ''Thrillist.com''.  Retrieved 2016-06-11.&lt;/ref&gt;&lt;ref name=empire1&gt;Nugent, John (May 19, 2016).  [http://www.empireonline.com/movies/predator/shane-black-predator-character/ Shane Black Reveals Leader Character in The Predator.&quot;]  ''EmpireOnline.com''.  Retrieved June 5, 2016.&lt;/ref&gt; Black also expressed that the film would mark a return to the &quot;intimate&quot; scale of the original film and that the film-makers hoped to achieve “the same sense of wonderment and newness that ''[[Close Encounters of the Third Kind|Close Encounters]]'' had when that came out.”&lt;ref name=empire1 /&gt;  Rapper 50 Cent has spoken of the possibility of being involved in the film.&lt;ref&gt;https://www.youtube.com/watch?v=KFhBaN83g8M&lt;/ref&gt; Shane Black has confirmed that the film is set in the present day and the titular character will have an upgraded set of armor.&lt;ref&gt;Goldberg, Matt (2016-04-13).  [http://collider.com/predator-3-timeline-shane-black/ &quot;Exclusive: Shane Black Reveals When ‘The Predator’ Will Take Place.&quot;]  ''Collider.com''.  Retrieved 2016-06-11.&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.comingsoon.net/movies/news/686033-predator-costume#/slide/1|title=Exclusive: Predator Costume Will Get Upgraded for Sequel|publisher=Coming Soon.net|last=Evry|first=Max|date=May 12, 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://theplaylist.net/shane-black-talks-predator-details-defending-mel-gibson-lethal-weapon-5-20160521/|title=Shane Black Talks More ‘Predator’ Details, Defending Mel Gibson, ‘Lethal Weapon 5’ &amp; More|publisher=The Playlist|last=Guidry|first=Ken|date=May 21, 2016}}&lt;/ref&gt; Black has also indicated that the film will not be a complete reboot as it will acknowledge the events of ''[[Predator (film)|Predator]]'' and ''[[Predator 2 (film)|Predator 2]]''.&lt;ref&gt;https://uk.yahoo.com/movies/benicio-del-toro-vs-predator-215448421.html&lt;/ref&gt; Filming is expected to commence in Vancouver in September 2016,&lt;ref&gt;https://www.dgc.ca/en/british-columbia/avails-and-production-lists/production-list/&lt;/ref&gt; with a projected release date of February 9, 2018.&lt;ref name=empire1 /&gt;&lt;ref&gt;Auty, Dan (May 11, 2016).  [http://www.gamespot.com/articles/predator-reboot-to-begin-production-by-october-dir/1100-6439655/ &quot;Predator Reboot to Begin Production by October, Director Confirms.&quot;]  ''GameSpot.com''.  Retrieved June 5, 2016.&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://collider.com/alita-battle-angel-movie-release-date/|title=Fox Dates ‘Alita: Battle Angel’; Shifts ‘The Predator’ and Two Marvel Movies|publisher=Collider|last=Chitwood|first=Adam|date=May 28, 2016}}&lt;/ref&gt;&lt;ref&gt;Lincoln, Ross A. (May 27, 2016).  [http://deadline.com/2016/05/warner-bros-maze-runner-the-death-cure-dylan-obrien-1201764118/ &quot;'Maze Runner: The Death Cure' Release Moved To 2018 As Dylan O’Brien Recovers.&quot;]  ''Deadline.com''.  Retrieved June 5, 2016.&lt;/ref&gt;  By September 2016, [[Benicio del Toro]] had signed on to star in the film.&lt;ref&gt;[http://www.hollywoodreporter.com/heat-vision/benicio-del-toro-talks-star-912838]&lt;/ref&gt; The following month, [[Boyd Holbrook]] was in negotiations to replace del Toro, who departed due to scheduling issues.&lt;ref&gt;{{cite web|url=http://variety.com/2016/film/news/boyd-holbrook-fox-the-predator-1201885813/|title=Boyd Holbrook to Replace Benicio del Toro in Fox’s ‘The Predator’ Reboot|publisher=Variety|last=McNary|first=Dave|date=October 11, 2016}}&lt;/ref&gt; Filming has since been delayed to February 2017.&lt;ref&gt;{{cite web|url=http://collider.com/predator-reboot-filming-details-shane-black/|title=Shane Black Says ‘The Predator’ Will Be Scary, Funny, and Wondrous|publisher=Collider|last=Chitwood|first=Adam|date=October 24, 2016}}&lt;/ref&gt; On November 3, 2016, The Hollywood Reporter had reported that [[Olivia Munn]] is in talks to play a role.&lt;ref&gt;{{cite web|url=http://www.hollywoodreporter.com/heat-vision/olivia-munn-joining-boyd-holbrook-shane-blacks-predator-reboot-943571|title=Olivia Munn Joining Boyd Holbrook in Shane Black's 'Predator' Reboot (Exclusive)|publisher=The Hollywood Reporter|last=Kit|first=Borys|date=November 3, 2016}}&lt;/ref&gt;
+
+==Crossover series==
+{{main article|Alien vs. Predator (franchise)}}
+Following an [[Easter egg (media)|easter egg]] in the film ''[[Predator 2]]'' in which an Alien skull was seen in a Predator trophy case, attempts to create a [[Shared fictional universe|shared universe]] between the ''[[Alien (franchise)|Alien]]'' and ''Predator'' franchises followed, initially through comics and video games, until a film franchise was launched with the release of ''[[AVP: Alien vs. Predator]]'' in 2004, and a sequel in 2007. The future of the film franchise remains uncertain due to a largely negative critical response. A 2014 [[Dark Horse Comics]] series called ''Fire and Stone'' further merged the ''Aliens vs. Predator'' series with the ''Prometheus'' franchise.
+
+=== ''Alien vs. Predator'' (2004)===
+{{Main article|Alien vs. Predator (film)}}
+In 2004, a Predator ship arrives in [[Earth]] orbit to draw humans to an ancient Predator training ground on [[Bouvet Island|Bouvetøya]], an island about one thousand miles north of [[Antarctica]]. A buried [[pyramid]] which gives off a &quot;heat bloom&quot; attracts humans led by Charles Bishop Weyland ([[Lance Henriksen]]), who unknowingly activates an alien egg production line. Three Predator hunter initiates enter the structure, killing all humans in their way with the intention of hunting the newly formed alien warriors; the remaining humans are captured alive by Aliens and implanted with embryos. Two Predators die in the ensuing battle, while the third allies itself with the lone surviving human, Alexa Woods ([[Sanaa Lathan]]) in order to battle the escaped Queen Alien. The Queen is defeated, but not before she fatally wounds the last Predator. The orbiting Predator ship uncloaks and the crew retrieve the fallen Predator. A Predator elder gives Alexa a spear as a sign of respect, and then departs. Once in orbit it is revealed that a [[Alien (creature in Alien franchise)#Chestburster|chestburster]] was in the corpse, though this specimen has Predator mandibles.
+
+=== ''Aliens vs. Predator: Requiem'' (2007)===
+{{Main article|Aliens vs. Predator: Requiem}}
+Set immediately after the prior film, the [[Alien (creature in Alien franchise)#Predalien|Predalien]] hybrid aboard the Predator scout ship, which just separated from the mothership of the prior film, has grown to full adult size and sets about killing the Predators aboard the ship, causing it to crash in [[Gunnison, Colorado]]. The last survivor activates a distress beacon with a video of the Predalien, which is received by a [[veteran]] Predator on the Predator homeworld, who sets off towards Earth to &quot;clean up&quot; the infestation. When it arrives, the Predator tracks the Aliens into a section of the sewer below town. He removes evidence of their presence as he goes by using a corrosive blue liquid. It uses a laser net to try to contain the creatures, but the Aliens still manage to escape into the town above. The Predator fashions a plasma pistol from its remaining plasma caster and hunts Aliens all across town (accidentally cutting the power to the town in the process). During a confrontation with human survivors, the Predator loses its plasma pistol. The Predator then fights the Predalien singlehandedly, and the two mortally wound one another just as the US air force drops a tactical nuclear bomb on the town, incinerating both combatants, the Predalien's warriors and hive, as well as the few remaining humans in the city. The salvaged plasma pistol is then taken to Ms. Yutani.
+
+==Cast and characters==
+{{Main article|List of Predator characters}}
+{| class=&quot;wikitable&quot; style=&quot;text-align:center; width:90%&quot;
+|-
+!
+!  style=&quot;text-align:center; width:20%;&quot;| ''[[Predator (film)|Predator]]'' &lt;br&gt; (1987)
+!  style=&quot;text-align:center; width:20%;&quot;| ''[[Predator 2]]'' &lt;br&gt; (1990)
+!  style=&quot;text-align:center; width:20%;&quot;| ''[[Predators (film)|Predators]]'' &lt;br&gt; (2010)
+!  style=&quot;text-align:center; width:20%;&quot;| ''The Predator'' &lt;br&gt; (2018)
+|-
+!  Major Alan &quot;Dutch&quot; Schaefer
+| colspan=&quot;1&quot; | [[Arnold Schwarzenegger]]
+| colspan=&quot;3&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+!  George Dillon
+| [[Carl Weathers]]
+| colspan=&quot;2&quot; style=&quot;background:#d3d3d3;&quot; |
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+!  Anna Gonsalves
+| colspan=&quot;2&quot; | [[Elpidia Carrillo]]
+| colspan=&quot;2&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Jorge &quot;Poncho&quot; Ramirez
+| [[Richard Chaves]]
+| colspan=&quot;2&quot; style=&quot;background:#d3d3d3;&quot; |
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+!  Mac Eliot
+| [[Bill Duke]]
+| colspan=&quot;2&quot; style=&quot;background:#d3d3d3;&quot; |
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+!  Blain Cooper
+|| [[Jesse Ventura]]
+| colspan=&quot;2&quot; style=&quot;background:#d3d3d3;&quot; | 
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+!  Billy Sole
+| [[Sonny Landham]]
+| colspan=&quot;2&quot; style=&quot;background:#d3d3d3;&quot;  | 
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+!  Rick Hawkins
+| [[Shane Black]]
+| colspan=&quot;2&quot; style=&quot;background:#d3d3d3;&quot;  |
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+!  Major General Homer L. Phillips
+| [[R. G. Armstrong]]
+| colspan=&quot;2&quot; style=&quot;background:#d3d3d3;&quot;  |
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! [[Predator (character)|Various Predators]]
+| colspan=&quot;1&quot; | [[Kevin Peter Hall]]&lt;br&gt;'''Voice''':&lt;br&gt;[[Peter Cullen]]
+| colspan=&quot;1&quot; | Kevin Peter Hall&lt;br&gt;'''Voice''':&lt;br&gt;[[Hal Rayle]]
+| [[Derek Mears]]&lt;br /&gt;[[Brian Steele]]&lt;br /&gt;Carey Jones
+| colspan=&quot;1&quot; | '''(TBA)'''
+|-
+!  Lieutenant Michael &quot;Mike&quot; R. Harrigan 
+| style=&quot;background:#d3d3d3;&quot;| 
+| [[Danny Glover]]
+| style=&quot;background:#d3d3d3;&quot;| 
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Sergeant Danny &quot;Danny Boy&quot; Archuleta
+| style=&quot;background:#d3d3d3;&quot;|
+| [[Rubén Blades]]
+| style=&quot;background:#d3d3d3;&quot; |
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Detective Leona Cantrell
+| style=&quot;background:#d3d3d3;&quot;|
+| [[María Conchita Alonso]]
+| style=&quot;background:#d3d3d3;&quot;|
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Special Agent Peter J. Keyes
+| style=&quot;background:#d3d3d3;&quot;|
+| [[Gary Busey]]
+| style=&quot;background:#d3d3d3;&quot; |
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Garber
+| style=&quot;background:#d3d3d3;&quot;|
+| [[Adam Baldwin]]
+| style=&quot;background:#d3d3d3;&quot;|
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Detective Jerry Lambert
+| style=&quot;background:#d3d3d3;&quot;| 
+| [[Bill Paxton]]
+| style=&quot;background:#d3d3d3;&quot;| 
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! King Willie
+| style=&quot;background:#d3d3d3;&quot; | 
+| [[Calvin Lockhart]]
+| style=&quot;background:#d3d3d3;&quot;| 
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Anthony &quot;Tony&quot; Pope
+| style=&quot;background:#d3d3d3;&quot; |
+| [[Morton Downey Jr.]]
+| style=&quot;background:#d3d3d3;&quot;| 
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Captain Phil Heinemann
+| style=&quot;background:#d3d3d3;&quot; |
+| [[Robert Davi]]
+| style=&quot;background:#d3d3d3;&quot;|
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Captain B. Pilgrim
+| style=&quot;background:#d3d3d3;&quot; |
+| [[Kent McCord]]
+| style=&quot;background:#d3d3d3;&quot;|
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! El Scorpio
+| style=&quot;background:#d3d3d3;&quot; |
+| Henry Kingi
+| style=&quot;background:#d3d3d3;&quot;|
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Ramon Vega
+| style=&quot;background:#d3d3d3;&quot; |
+| Corey Rand
+| style=&quot;background:#d3d3d3;&quot;|
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Irene Edwards
+| style=&quot;background:#d3d3d3;&quot; |
+| [[Lilyan Chauvin]]
+| style=&quot;background:#d3d3d3;&quot;|
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Charlie
+| style=&quot;background:#d3d3d3;&quot; |
+| Charles Haugk
+| style=&quot;background:#d3d3d3;&quot;|
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Ruth Albright
+| style=&quot;background:#d3d3d3;&quot; |
+| Sylvia Kauders
+| style=&quot;background:#d3d3d3;&quot;|
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Juan Beltran
+| style=&quot;background:#d3d3d3;&quot; |
+| Julian Reyes
+| style=&quot;background:#d3d3d3;&quot;|
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Brian
+| style=&quot;background:#d3d3d3;&quot; |
+| Brian Levinson
+| style=&quot;background:#d3d3d3;&quot;|
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Jerome
+| style=&quot;background:#d3d3d3;&quot; |
+| Ronald Moss
+| style=&quot;background:#d3d3d3;&quot;|
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Royce
+| colspan=&quot;2&quot; style=&quot;background:#d3d3d3;&quot; | 
+| [[Adrien Brody]]
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Isabelle
+| colspan=&quot;2&quot; style=&quot;background:#d3d3d3;&quot; | 
+| [[Alice Braga]]
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Edwin
+| colspan=&quot;2&quot; style=&quot;background:#d3d3d3;&quot; | 
+| [[Topher Grace]]
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Walter Stans
+| colspan=&quot;2&quot; style=&quot;background:#d3d3d3;&quot; | 
+| [[Walton Goggins]]
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Nikolai Mikhalovich Fedorov
+| colspan=&quot;2&quot; style=&quot;background:#d3d3d3;&quot; | 
+| [[Oleg Taktarov]]
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Hanzo
+| colspan=&quot;2&quot; style=&quot;background:#d3d3d3;&quot; | 
+| [[Louis Ozawa Changchien]]
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Mombasa
+| colspan=&quot;2&quot; style=&quot;background:#d3d3d3;&quot; | 
+| [[Mahershala Ali]]
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Cuchillo
+| colspan=&quot;2&quot; style=&quot;background:#d3d3d3;&quot; | 
+| [[Danny Trejo]]
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|-
+! Ronald Noland
+| colspan=&quot;2&quot; style=&quot;background:#d3d3d3;&quot; | 
+| [[Laurence Fishburne]]
+| colspan=&quot;1&quot; style=&quot;background:#d3d3d3;&quot; |
+|}
+
+==Reception==
+
+===Box office===
+{| class=&quot;wikitable&quot;
+|-
+! rowspan=&quot;2&quot; style=&quot;text-align:center;&quot;| Film
+! rowspan=&quot;2&quot; style=&quot;text-align:center;&quot;| Release date
+! colspan=&quot;3&quot; style=&quot;text-align:center;&quot;| Grosses
+! rowspan=&quot;2&quot; style=&quot;text-align:center;&quot;| Rank&lt;br /&gt;&lt;small&gt;(all time domestic)&lt;/small&gt;
+! rowspan=&quot;2&quot; style=&quot;text-align:center;&quot;| Budget
+! rowspan=&quot;2&quot; style=&quot;text-align:center;&quot;| References
+|-
+! style=&quot;text-align:center;&quot;| United States
+! style=&quot;text-align:center;&quot;| Non-US
+! style=&quot;text-align:center;&quot;| Worldwide
+|-
+| ''[[Predator (film)|Predator]]''
+| June 12, 1987
+|$59,735,548
+|$38,532,010
+|$98,267,558
+| style=&quot;text-align:center;&quot;| #1,064
+| style=&quot;text-align:center;&quot;|$15,000,000
+| style=&quot;text-align:center;&quot;|&lt;ref&gt;{{cite web | url=http://www.boxofficemojo.com/movies/?id=predator.htm | title=Predator (1987)| publisher=Box Office Mojo| accessdate=2013-03-08 }}&lt;/ref&gt;
+|-
+| ''[[Predator 2]]''
+| November 21, 1990
+|$30,669,413
+|$26,450,905
+|$57,120,318
+| style=&quot;text-align:center;&quot;| #2,126
+| style=&quot;text-align:center;&quot;|$35,000,000
+| style=&quot;text-align:center;&quot;|&lt;ref&gt;{{cite web | url=http://www.boxofficemojo.com/movies/?id=predator2.htm | title=Predator 2 (1990) | publisher=Box Office Mojo | accessdate=2013-03-08 }}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=http://www.imdb.com/title/tt0100403/| title=Predator 2 (1990) - IMDb| publisher=IMDb| accessdate=2013-03-08}}&lt;/ref&gt;
+|-
+| ''[[Predators (film)|Predators]]''
+| July 9, 2010
+|$52,000,688
+|$75,232,420
+|$127,233,108
+| style=&quot;text-align:center;&quot;| #1,252
+| style=&quot;text-align:center;&quot;|$40,000,000
+| style=&quot;text-align:center;&quot;|&lt;ref&gt;{{cite web | url=http://www.boxofficemojo.com/movies/?id=predators.htm | title=Predators (2010) | publisher=Box Office Mojo | accessdate=2013-03-08}}&lt;/ref&gt;
+|-
+
+! colspan=&quot;2&quot; style=&quot;text-align:center;&quot;|Total
+!$142,405,649
+!$140,215,335
+!$282,620,984
+! style=&quot;text-align:center;&quot;|N/A
+!&lt;sup&gt;(E)&lt;/sup&gt; $90,000,000
+! style=&quot;text-align:center;&quot;|N/A
+|-
+| colspan=&quot;9&quot; | &lt;small&gt;'''List indicator(s)'''
+* &lt;sup&gt;(E)&lt;/sup&gt; indicates figures based on available information.&lt;/small&gt;
+&lt;small&gt;Please note that the figures in this table are not inflation adjusted&lt;/small&gt;
+
+|}
+
+===Critical and public reaction===
+{| class=&quot;wikitable&quot; style=&quot;width:99%; text-align:center;&quot;
+|-
+! '''Film'''
+! '''[[Rotten Tomatoes]]'''
+! '''[[Metacritic]]'''
+! '''[[CinemaScore]]'''
+|-
+| ''Predator''
+| 78% (41 reviews)&lt;ref&gt;{{cite web| url=http://www.rottentomatoes.com/m/predator/ | title=Predator | publisher=[[Rotten Tomatoes]] | accessdate=2013-03-08 }}&lt;/ref&gt;
+| 36 (11 reviews)&lt;ref&gt;{{cite web| url=http://www.metacritic.com/movie/predator | title=Predator Reviews | publisher=[[Metacritic]] | accessdate=2013-03-08 }}&lt;/ref&gt;
+| B+&lt;ref name=&quot;Pcs&quot; /&gt;
+|-
+| ''Predator 2''
+| 25% (24 reviews)&lt;ref&gt;{{cite web| url=http://www.rottentomatoes.com/m/predator_2/ | title=Predator 2 | publisher=[[Rotten Tomatoes]] | accessdate=2013-03-08 }}&lt;/ref&gt;
+| {{n/a}}
+| B+&lt;ref name=&quot;Pcs&quot; /&gt;
+|-
+| ''Predators''
+| 64% (187 reviews)&lt;ref&gt;{{cite web| url=http://www.rottentomatoes.com/m/10012256-predators/ | title=Predators | publisher=[[Rotten Tomatoes]] | accessdate=2013-03-08 }}&lt;/ref&gt;
+| 51 (30 reviews)&lt;ref&gt;{{cite web| url=http://www.metacritic.com/movie/predators | title=Predators Reviews | publisher=[[Metacritic]] | accessdate=2013-03-08 }}&lt;/ref&gt;
+| C+&lt;ref name=&quot;Pcs&quot;&gt;{{cite web | url=http://www.cinemascore.com/ | title=CinemaScore | work=cinemascore.com | accessdate=March 7, 2015}}&lt;/ref&gt;
+|-
+! Average
+! 56%
+! 44
+! B
+|}
+
+==Media==
+There have been a number of [[Spin-off (media)|spin-offs]] in other media including a large number of [[Fictional crossover|crossovers]] within the ''Aliens'' fictional universe. These include:
+
+===Novels===
+As well as the [[novelization]]s based on the various films there are a number of novel series:
+
+* ''Predator'' by [[Paul Monette]]
+* ''Predator 2'' by [[Simon Hawke]]
+* ''Predator: Concrete Jungle'' by [[Nathan Archer]]
+* ''Predator: Cold War'' by Nathan Archer
+* ''Predator: Big Game'' by Sandy Schofield
+* ''Predator: Forever Midnight'' by [[John Shirley]]
+* ''Predator: Flesh and Blood'' by [[Michael Jan Friedman]]
+* ''Predator: Turnabout'' by [[Steve Perry (author)|Steve Perry]]
+* ''Predator: South China Sea '' by [[Jeff VanderMeer]]
+* ''Predator: Prey to the Heavens'' by [[John Arcudi]] and Javier Saltares
+* ''[[Aliens vs. Predator (novel series)|Aliens vs. Predator]]''
+** ''Aliens vs. Predator: Prey'' by Steve Perry
+** ''Aliens vs. Predator: Hunter's Planet'' by Dave Bischoff
+** ''Aliens vs. Predator: War'' by [[S.D. Perry]]
+** ''Alien vs. Predator: The Movie Novelization'' by Marc Cerasini
+
+===Comic books===
+{{Main article|Predator (comics)}}
+
+====Non-canonical comics====
+* ''[[Predator (comics)|Predator]]''
+* ''[[Aliens Versus Predator (comics)|Aliens versus Predator]]''
+* ''[[Aliens versus Predator versus The Terminator]]''
+* ''[[Aliens/Predator: Deadliest of the Species]]''
+* ''[[Mindhunter|Aliens/Predator/Witchblade/The Darkness: Mindhunter]]''
+* ''[[Archie vs. Predator]]''
+* ''[[Batman versus Predator]]''
+* ''JLA vs. Predator''
+* ''[[Predator vs. Judge Dredd]]''
+* ''Predator vs. Magnus, Robot Fighter''
+* ''[[Superman and Batman versus Aliens and Predator]]''
+* ''[[Superman vs. Predator]]''
+* ''Tarzan vs. Predator at the Earth's Core''
+
+====Canonical comics====
+* ''Predator: Concrete Jungle''
+* ''Predator 2: Movie Adaption''
+* ''Predators'' ({{small|2010 prequel comic}})
+* ''[[Fire and Stone]]''
+
+===Games===
+{{Main article|List of Alien and Predator games}}
+
+==See also==
+* [[List of Predator characters]]
+* ''[[Predatoroonops]]'', a genus of spider named after the Predator
+
+==References==
+{{commons category|Predator (franchise) films}}
+{{Reflist}}
+
+==Further reading==
+* ''Beautiful Monsters: The Unofficial and Unauthorised Guide to the Alien and Predator Films'' (by [[David A. McIntee]], Telos, 272 pages, 2005, ISBN 1-903889-94-4)
+
+{{Predator}}
+
+{{DEFAULTSORT:Predator (Franchise)}}
+[[Category:Predator (franchise)]]
+[[Category:Film series]]
+[[Category:1987 introductions]]
+[[Category:1980s science fiction films]]
+[[Category:1990s science fiction films]]
+[[Category:2010s science fiction films]]
+[[Category:Science fiction films by series]]
+[[Category:Horror films by series]]
+[[Category:Action films by series]]
+[[Category:20th Century Fox franchises]]
+[[Category:Science fiction horror film series]]
+[[Category:Films adapted into novels]]
+[[Category:Films adapted into comics]]
+[[Category:Films adapted into video games]]</text>
+      <sha1>mz3yj21oh7j3omwzt1th7f1657wo4d9</sha1>
+    </revision>
+  </page>
+</mediawiki>

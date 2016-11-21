@@ -1,0 +1,170 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Hypodontia</title>
+    <ns>0</ns>
+    <id>1434429</id>
+    <revision>
+      <id>748296107</id>
+      <parentid>745181351</parentid>
+      <timestamp>2016-11-07T13:47:09Z</timestamp>
+      <contributor>
+        <username>Headbomb</username>
+        <id>1461430</id>
+      </contributor>
+      <minor/>
+      <comment>/* Etiology */clean up, replaced: Acta Odontol Scand. → Acta Odontol Scand (3) using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17426">{{See also|List of dental abnormalities associated with cutaneous conditions}}
+{{cleanup|date=December 2011}}
+{{Infobox medical condition 
+ | Name            = Hypodontia 
+ | Image           = 
+ | Caption         = 
+ | DiseasesDB      = 
+ | ICD10           = {{ICD10|K|00|0|k|00}} 
+ | ICD9            = {{ICD9|520.0}} 
+ | ICDO            = 
+ | OMIM            = 
+ | MedlinePlus     = 
+ | eMedicineSubj   = 
+ | eMedicineTopic  = 
+ | MeshID          = D000848 
+}}
+In [[dentistry]], '''hypodontia''' is the condition at which the patient has missing [[tooth (human)|teeth]] as a result of the failure of those teeth to develop (also called tooth agenesis).  Hypodontia describes a situation where the patient is missing up to five permanent teeth, excluding the [[wisdom teeth|3rd molars]]. Missing third molars occur in 9-30% of studied populations.  In primary dentition the [[maxilla]] is more affected, with the condition usually involving the [[maxillary lateral incisor]].
+
+The condition of missing over five  (six or more) permanent teeth, excluding 3rd molars or wisdom teeth, has been called '''oligodontia'''. The condition for missing all teeth, either primary and/or permanent), is called  '''[[anodontia]]'''.  A similar condition is [[hyperdontia]], in which there are more than the usual number of teeth, more commonly called supernumerary teeth.
+
+Many other terms to describe a reduction in number of teeth appear in the literature: aplasia of teeth, congenitally missing teeth, absence of teeth, agenesis of teeth and lack of teeth.&lt;ref&gt;{{cite journal |author=Fekonja A |title=Hypodontia in orthodontically treated children |journal=European Journal of Orthodontics |volume=27 |issue=5 |pages=457–60 |date=October 2005 |pmid=16043466 |doi=10.1093/ejo/cji027}}&lt;/ref&gt;
+
+==Prevalence==
+In persons of European ancestry, the most common missing teeth are the [[wisdom teeth]] (25-35%), the permanent upper lateral incisors (2%), the lower second premolars (3%), or the upper second premolar, with a higher prevalence in females than in males. The prevalence of missing [[primary teeth]] is found at 0.1-0.9%, with a 1:1 male to female ratio. Excluding the third molars, missing permanent dentition accounts for 3.5-6.5%. Similar trends of missing teeth can be seen in approximately 3-10% of orthodontic patients.&lt;ref&gt;{{cite journal |author= Medina AC |title=Radiographic study of prevalence and distribution of hypodontia in a pediatric orthodontic population in Venezuela.|journal= Pediatr Dent.|volume=34 |issue=2 |pages=113–116 |year=2012 |pmid= 22583882}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |author=Vahid-Dastjerdi E, Borzabadi-Farahani A, Mahdian M, Amini N |title=Non-syndromic hypodontia in an Iranian orthodontic population |journal=J Oral Sci. |volume=52 |issue=3 |pages=455–461 |year=2010 |pmid=20881340 |doi=10.2334/josnusd.52.455|last2=Borzabadi-Farahani |last3=Mahdian |last4=Amini }}&lt;/ref&gt;
+
+30-50% of people with missing primary teeth will have missing permanent teeth, as well.
+
+==Etiology==
+The cause of isolated missing teeth remains unclear, but the condition is believed to be associated with genetic or environmental factors during [[Tooth development|dental development]].  Missing teeth have been reported in association with increased maternal age, low birth weight, multiple births and [[rubella virus]] infection during embryonic life. {{Citation needed|date=June 2012}}
+
+There is a possible correlation between tooth agenesis and innervation.&lt;ref&gt;{{cite journal |author=Chávez-Lomeli M E, Lory J M, Pompa J A, Kjær I. |title=The human mandibular canal arises from three separate canals innervating different tooth groups |journal=J Dent Res |volume=75 |issue=8 |pages=1540–4 |year=1996 |pmid=8906121 |doi= 10.1177/00220345960750080401 |url=http://jdr.sagepub.com/cgi/reprint/75/8/1540.pdf|last2=Mansilla Lory |last3=Pompa |last4=Kjaer }}&lt;/ref&gt;&lt;ref&gt;{{cite journal |author=Kjær I, Kocsis G, Nodal M, Christensen L R. |title=Aetiological aspects of mandibular tooth agenesis—focusing on the role of nerve, oral mucosa, and supporting tissues |journal=Eur J Orthod |volume=16 |issue=5 |pages=371–5 |year=1994 |pmid=7805810 |doi=10.1093/ejo/16.5.371 |url=http://ejo.oxfordjournals.org/cgi/content/abstract/16/5/371 |last2=Kocsis |last3=Nodal |last4=Christensen }}&lt;/ref&gt;&lt;ref&gt;{{cite journal |author=Jacobsen J, Jørgensen J B, Kjær I. |title=Tooth and bone development in a Danish medieval mandible with unilateral absence of the mandibular canal |journal=Am J Phys Anthropol |volume=85 |issue=3 |pages=15–23 |year=1991 |pmid=1853939 |doi=10.1002/ajpa.1330850104 |url=http://www3.interscience.wiley.com/journal/110486586/abstract|last2=Jørgensen |last3=Kjaer }}&lt;/ref&gt;&lt;ref&gt;{{cite journal |doi=10.3109/00016359509005963 |author=Kjær I. |title=Human prenatal craniofacial development related to brain development under normal and pathologic conditions |journal=Acta Odontol Scand|volume=53|issue=3|pages=135–43 | year=1995 | pmid=7572088 | url=http://informahealthcare.com/doi/ref/10.3109/00016359509005963}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |doi=10.3109/00016359709091945 |author=Kjær I. |title=Can the location of tooth agenesis and the location of initial bone loss seen in juvenile periodontitis be explained by neural developmental fields in the jaws? |journal=Acta Odontol Scand |volume=55 |issue=1 |pages=70–72 |year=1997 |pmid=9083580 |url=http://informahealthcare.com/doi/ref/10.3109/00016359709091945}}&lt;/ref&gt; A relationship was also postulated between abnormalities of the [[brainstem]] and the presence of agenesis.&lt;ref&gt;{{cite journal |author=Linderstrom A, Samuelsson L, Huggare J. |title= Is tooth agenesis related to brainstem anomalies in myelomeningocele patients with Chiari II malformations? |journal=Acta Odontol Scand |volume=60 |issue=6 |pages=337–340 |year=2002 |pmid=12512882 |doi=10.1080/000163502762667351|url=http://www.informaworld.com/smpp/843522732-58694790/content~db=all~content=a713790410|last2= Samuelsson |last3= Huggare }}&lt;/ref&gt;
+
+Hypodontia is often familial, and can also be associated with genetic disorders such as [[ectodermal dysplasia]] or [[Down syndrome]].  Hypodontia can also been seen in people with [[cleft lip and palate]].
+
+Among the possible causes are mentioned genetic, hormonal, environmental and infectious.
+
+Etiology due to hormonal defects: idiopathic [[Parathyroid hormone|hypoparathyroidism and pseudohypoparathyroidism]].&lt;ref name=&quot;bare_url&quot;&gt;{{cite journal |author=Sutphin, A., Albright, F., McCune, D. J. |title=Five cases (3 in siblings) of idiopathic hypoparathyroidism associated with moniliasis |journal=J. Clin. Endocr. |volume=3 |issue=12 |pages=625–634 |year=1943 |doi=10.1210/jcem-3-12-625 |url=http://jcem.endojournals.org/cgi/content/abstract/3/12/625|last2=Albright |last3=McCune }}&lt;/ref&gt;&lt;ref&gt;{{cite journal |author=Jensen SB, Illum F, Dupont E |title=Nature and frequency of dental changes in idiopathic hypoparathyroidism and pseudohypoparathyroidism |journal=Scandinavian Journal of Dental Research |volume=89 |issue=1 |pages=26–37 |date=February 1981 |pmid=6262903 |doi=10.1111/j.1600-0722.1981.tb01274.x|last2=Illum |last3=Dupont }}&lt;/ref&gt; Exists the possibility that this defect depends on a moniliasis ([[candidiasis]], ''candida endocrinopathy syndrome'').&lt;ref name=&quot;bare_url&quot; /&gt;&lt;ref&gt;{{cite journal |author=Muriel M. McLean |title=Chronic Idiopathic Hypoparathyroidism Associated with Moniliasis |journal=Arch Dis Child. |volume=29 |issue=147 |pages=419–421 |year=1954 |pmc=2011654 |doi= 10.1136/adc.29.147.419 |pmid=13208313}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |doi=10.1136/adc.40.213.565 |author=Ritchie GM. |title=Dental manifestations of pseudohypoparathyroidism |journal=Arch Dis Child. |volume=40 |issue=213 |pages=565–572 |year=1965 |pmid=5830003 |pmc= 2019454}}&lt;/ref&gt;
+
+Environmental causes involving exposure to PCBs (ex.[[dioxins and dioxin-like compounds|dioxin]]),&lt;ref&gt;{{cite journal |author=Alaluusua S, Lukinmaa PL, Torppa J, Tuomisto J, Vartiainen T |title=Developing teeth as biomarker of dioxin exposure |journal=Lancet |volume=353 |issue=9148 |pages=206 |date=January 1999 |pmid=9923879 |doi=10.1016/S0140-6736(05)77214-7|last2=Lukinmaa |last3=Torppa |last4=Tuomisto |last5=Vartiainen }}&lt;/ref&gt;&lt;ref&gt;{{cite journal |doi=10.1289/ehp.6920 |author=Alaluusua S |title=Developmental dental aberrations after the dioxin accident in Seveso |journal=Environmental Health Perspectives |volume=112 |issue=13 |pages=1313–8 |date=September 2004 |pmid=15345345 |pmc=1247522 |name-list-format=vanc|author2=Calderara P |author3=Gerthoux PM |display-authors=3 |last4=Lukinmaa |first4=Pirjo-Liisa |last5=Kovero |first5=Outi |last6=Needham |first6=Larry |last7=Patterson |first7=Donald G. |last8=Tuomisto |first8=Jouko |last9=Mocarelli |first9=Paolo}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |author=Guo YL, Lambert GH, Hsu CC, Hsu MM |title=Yucheng: health effects of prenatal exposure to polychlorinated biphenyls and dibenzofurans |journal=International Archives of Occupational and Environmental Health |volume=77 |issue=3 |pages=153–8 |date=April 2004 |pmid=14963712 |doi=10.1007/s00420-003-0487-9|last2=Lambert |last3=Hsu |last4=Hsu }}&lt;/ref&gt; radiation,&lt;ref name=&quot;Niswander1963&quot;&gt;{{cite journal |author=Niswander JD, Sujaku C |title=Congenital anomalies of teeth in Japanese children |journal=American Journal of Physical Anthropology |volume=21 |issue= 4|pages=569–74 |date=December 1963 |pmid=14185534 |doi=10.1002/ajpa.1330210413|last2=Sujaku }}&lt;/ref&gt;&lt;ref&gt;{{cite journal |author=Sevbitov AV |title=[Remote effects of the Chernobyl accident: evaluation of the maxillodental status of the children] |language=Russian |journal=Stomatologiia |volume=83 |issue=1 |pages=44–7 |year=2004 |pmid=15021876}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |author=Kaste SC |title=Impact of radiation and chemotherapy on risk of dental abnormalities: a report from the Childhood Cancer Survivor Study |journal=Cancer |volume=115 |issue=24 |pages=5817–27 |date=December 2009 |pmid=19834960 |doi=10.1002/cncr.24670 |name-list-format=vanc|author2=Goodman P |author3=Leisenring W |display-authors=3 |last4=Stovall |first4=Marilyn |last5=Hayashi |first5=Robert J. |last6=Yeazel |first6=Mark |last7=Beiraghi |first7=Soraya |last8=Hudson |first8=Melissa M. |last9=Sklar |first9=Charles A.}}&lt;/ref&gt; anticancer chemotherapeutic agents,&lt;ref&gt;{{cite journal |author=Näsman M, Forsberg CM, Dahllöf G |title=Long-term dental development in children after treatment for malignant disease |journal=European Journal of Orthodontics |volume=19 |issue=2 |pages=151–9 |date=April 1997 |pmid=9183064 |doi=10.1093/ejo/19.2.151|last2=Forsberg |last3=Dahllöf }}&lt;/ref&gt; allergy &lt;ref&gt;{{cite journal |author=Yamaguchi T, Tomoyasu Y, Nakadate T, Oguchi K, Maki K |title=Allergy as a possible predisposing factor for hypodontia |journal=European Journal of Orthodontics |volume=30 |issue=6 |pages=641–4 |date=December 2008 |pmid=18687988 |doi=10.1093/ejo/cjn043|last2=Tomoyasu |last3=Nakadate |last4=Oguchi |last5=Maki }}&lt;/ref&gt; and [[toxic epidermal necrolysis]] after drug.&lt;ref&gt;{{cite journal |author1=Fréderick Gaultier |author2=Juliette Rochefort |author3=Marguerite-Marie Landru |author4=Laurence Allanore |author5=Adrien Naveau |author6=Jean-Claude Roujeau |author7=Bruno Gogly |title=Severe and Unrecognized Dental Abnormalities After Drug-Induced Epidermal Necrolysis |journal=Arch Dermatol. |volume=475 |issue=11 |pages=1332–1333 |date=October 2009 |pmid=19917972 |doi=10.1001/archdermatol.2009.233|url=http://www3.interscience.wiley.com/journal/121394694/abstract}}&lt;/ref&gt;
+
+Infectious causes of hypodontia: [[rubella]],&lt;ref&gt;{{cite journal |author1=Charlene Chun-Lam Wu |author2=Ricky Wing-Kit Wong |author3=Urban Hägg |title= A review of hypodontia: the possible etiologies and orthodontic, surgical and restorative treatment options—conventional and futuristic |journal=Hong Kong Dental Journal |volume=4 |pages=113–21 |year=2007 |url=http://www.hkda.org/hkdj/V4/N2/v4N2_P113_RA.pdf}}&lt;/ref&gt; [[Candida (genus)|candida]].&lt;ref&gt;{{cite journal |author=Kinirons MJ. |title= Candidal invasion of dentine complicating hypodontia |journal=British Dental Journal |volume=154 |issue=12 |pages=400–1 |date=June 1983 |pmid=6576802 |doi=10.1038/sj.bdj.4805102}}&lt;/ref&gt;
+
+The Journal of the American Dental Association published  preliminary data suggesting a statistical association between hypodontia of the permanent teeth and epithelial [[ovarian cancer]] (EOC). The study shows that women with EOC are 8.1 times more likely to have hypodontia than are women without EOC. The suggestion therefore is that hypodontia can serve as a &quot;marker&quot; for potential risk of EOC in women.&lt;ref&gt;{{cite journal |author=Chalothorn LA |title=Hypodontia as a risk marker for epithelial ovarian cancer: a case-controlled study |journal=Journal of the American Dental Association |volume=139 |issue=2 |pages=163–9 |date=February 2008 |pmid=18245684 |url=http://jada.ada.org/cgi/pmidlookup?view=long&amp;pmid=18245684 |name-list-format=vanc|author2=Beeman CS |author3=Ebersole JL |display-authors=3 |last4=Kluemper |first4=GT |last5=Hicks |first5=EP |last6=Kryscio |first6=RJ |last7=Desimone |first7=CP |last8=Modesitt |first8=SC |doi=10.14219/jada.archive.2008.0132}}&lt;/ref&gt;
+
+Also the increased frequency of hypodontia in twins and low birth weight in twins with hypodontia suggests that environmental factors during perinatal are responsible hypodontia.&lt;ref&gt;{{cite web|url = http://oai.dtic.mil/oai/oai?verb=getRecord&amp;metadataPrefix=html&amp;identifier=AD0688764 |title = THE RELATIONSHIP BETWEEN BIRTH WEIGHT AND HYPODONTIA IN TWINS, 12 MAY 1969 | publisher = NAVAL DENTAL RESEARCH INST GREAT LAKES ILL by Keene,Harris J.|accessdate = 2010-05-22}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |doi=10.1093/ortho/25.3.175 |author=Kindelan JD, Rysiecki G, Childs WP. |title=Hypodontia: genotype or environment? A case report of monozygotic twins |journal=Br J Orthod. |volume=25 |issue=3 |pages=175–178 |year=1998 |pmid=9800013|last2=Rysiecki |last3=Childs }}&lt;/ref&gt;
+
+===Genetics===
+Genetic causes also involve the genes [[MSX1]] and [[PAX9]].&lt;ref&gt;{{cite journal |author=Nieminen P |title=Genetic basis of tooth agenesis |journal=Journal of Experimental Zoology. Part B, Molecular and Developmental Evolution |volume=312B |issue=4 |pages=320–42 |date=June 2009 |pmid=19219933 |doi=10.1002/jez.b.21277}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |author=De Coster PJ, Marks LA, Martens LC, Huysseune A |title=Dental agenesis: genetic and clinical perspectives |journal=Journal of Oral Pathology &amp; Medicine |volume=38 |issue=1 |pages=1–17 |date=January 2009 |pmid=18771513 |doi=10.1111/j.1600-0714.2008.00699.x |url=http://www3.interscience.wiley.com/journal/121394694/abstract|last2=Marks |last3=Martens |last4=Huysseune }}&lt;/ref&gt;
+
+Genetic associations for selective tooth agenesis (&quot;STHAG&quot;) include:
+
+{| class=&quot;wikitable&quot;
+|-
+! Type
+! [[OMIM]]
+! Gene
+! Locus
+|-
+| STHAG1
+| {{OMIM2|106600}}
+| ''[[MSX1]]''
+| 4p16
+|-
+| STHAG2 
+| {{OMIM2|602639}}
+| ?
+| 16q12
+|-
+| STHAG3
+| {{OMIM2|604625}}
+| ''[[PAX9]]''
+| 14q12
+|-
+| STHAG4 
+| {{OMIM2|150400}}
+| ''WNT10A''
+| 2q35
+|-
+| STHAG5 
+| {{OMIM2|610926}}
+| ?
+| 10q11
+|-
+| STHAG6 
+| {{OMIM2|613097}}
+| ''[[LTBP3]]''
+| 11q12
+|-
+| STHAGX1 
+| {{OMIM2|313500}}
+| ''EDA''
+| Xq13.1
+|}
+
+==Curiosity==
+In the 1960s and 1970s, several studies were conducted sponsored by the [[United States Atomic Energy Commission|U.S. Atomic Energy Commission]], with the aim of finding a link between genetics and hypodontia.&lt;ref name=&quot;Niswander1963&quot; /&gt;&lt;ref&gt;{{cite journal |author=C M Woolf |last2=John |first2=SA |last3=Revel |first3=JP |title=Missing maxillary lateral incisors: a genetic study |journal=American Journal of Human Genetics |volume=21|pages=289–296 |date=May 1971 |issue=3 |pmc=1706719 |pmid=5089845 }}&lt;/ref&gt;
+
+==Restorative management of hypodontia==
+The oral rehabilitation of hypodontia, especially where a significant number of teeth have not developed, is often an multidisciplinary process, involving a specialist orthodontist, a consultant in restorative dentistry, and a paediatric dentist in the earlier years.&lt;ref&gt;{{cite journal |author=Borzabadi-Farahani |last2=A |title=Orthodontic considerations in restorative management of hypodontia patients with endosseous implants. |journal=Journal of Oral Implantology |volume=36|pages=779–791 |date=December 2012 |issue=6 |PMID=21728818 |doi=10.1563/AAID-JOI-D-11-00022}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |author=Borzabadi-Farahani A, Zadeh, HH |title=Adjunctive orthodontic applications in dental implantology. |journal=Journal of Oral Implantology |date=October 2013 |PMID=24175964 |doi=10.1563/AAID-JOI-D-13-00235 |volume=41 |pages=501–8}}&lt;/ref&gt; The process of treating and managing hypodontia begins in the early years of the patients dentition where absent teeth are identified and the process of maintaining the remaining teeth begins. This is largely conducted by the paediatric dentist with orthodontic input. Once all the adult teeth have erupted the orthodontist is likely to liaise with the restorative dentist regarding optimal positioning of teeth for subsequent replacement with [[prosthodontic]] methods. This may include the utilisation of a [[resin-retained bridge]] and [[Dental implant|implants]] for spaces or [[composite resin]], [[veneer (dentistry)|veneers]] or [[crown (dentistry)|crowns]] where teeth are diminutive or misshaped.
+
+==References==
+{{reflist|2}}
+
+{{Tooth disease}}
+
+[[Category:Developmental tooth disorders]]</text>
+      <sha1>g5j6bn7n88ozih7orac1hztoxu32gpq</sha1>
+    </revision>
+  </page>
+</mediawiki>

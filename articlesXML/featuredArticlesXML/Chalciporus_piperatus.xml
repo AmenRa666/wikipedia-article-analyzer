@@ -1,0 +1,250 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Chalciporus piperatus</title>
+    <ns>0</ns>
+    <id>7506350</id>
+    <revision>
+      <id>731378568</id>
+      <parentid>731378533</parentid>
+      <timestamp>2016-07-25T00:02:02Z</timestamp>
+      <contributor>
+        <username>Materialscientist</username>
+        <id>7852030</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/TwitterPoodleCorp|TwitterPoodleCorp]] ([[User talk:TwitterPoodleCorp|talk]]) to last version by ClueBot NG</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="26989">{{bots|deny=Citation bot}}
+{{featured article}}
+{{stack begin}}
+{{Taxobox 
+| image = Chalciporus piperatus LC0182.jpg
+| image_width = 234px
+| image_caption =
+| regnum = [[Fungi]]
+| divisio = [[Basidiomycota]]
+| classis = [[Agaricomycetes]]
+| ordo = [[Boletales]]
+| familia = [[Boletaceae]]
+| genus = ''[[Chalciporus]]''
+| species = '''''C. piperatus '''''
+| binomial = ''Chalciporus piperatus''
+| binomial_authority = ([[Jean Baptiste François Pierre Bulliard|Bull.]]) [[Frédéric Bataille|Bataille]] (1908)
+| synonyms_ref = &lt;ref name=&quot;urlMycoBank: Chalciporus piperatus&quot;/&gt;
+| synonyms = 
+ {{plainlist|
+*''Boletus piperatus'' &lt;small&gt;Bull. (1790)&lt;/small&gt;
+*''Leccinum piperatum'' &lt;small&gt;(Bull.) [[Samuel Frederick Gray|Gray]] (1821)&lt;/small&gt;
+*''Viscipellis piperata'' &lt;small&gt;(Bull.) [[Quél.]] (1886)&lt;/small&gt;
+*''Ixocomus piperatus'' &lt;small&gt;(Bull.) Quél. (1888)&lt;/small&gt;
+*''Suillus piperatus'' &lt;small&gt;(Bull.) [[Otto Kuntze|Kuntze]] (1898)&lt;/small&gt;
+*''Ceriomyces piperatus'' &lt;small&gt;(Bull.) [[William Alphonso Murrill|Murrill]] (1909)&lt;/small&gt;
+  }}
+}}
+ {{mycomorphbox 
+| name = ''Chalciporus piperatus''
+| whichGills = adnate 
+| capShape = convex 
+| hymeniumType = pores
+| stipeCharacter = bare
+| sporePrintColor = brown
+| howEdible = unpalatable
+}}
+{{stack end}}
+
+'''''Chalciporus piperatus''''', commonly known as the '''peppery bolete''', is a small pored [[mushroom]] of the family [[Boletaceae]] found in mixed woodland in Europe and North America. It has been recorded under [[introduced species|introduced]] trees in Brazil, and has become [[naturalization (biology)|naturalised]] in [[Tasmania]] and spread under native ''[[Nothofagus cunninghamii]]'' trees. A small bolete, the [[basidiocarp|fruit body]] has a {{convert|1.6|–|9|cm|in|1|abbr=on}} orange-fawn [[pileus (mycology)|cap]] with cinnamon to brown pores underneath, and a {{convert|4|–|9.5|cm|in|abbr=on}} high by {{convert|0.6|–|1.2|cm|in|1|abbr=on}} thick [[stipe (mycology)|stipe]]. The rare [[variety (botany)|variety]] ''hypochryseus'', found only in Europe, has yellow pores and tubes.
+
+Described by [[Jean Baptiste François Pierre Bulliard|Pierre Bulliard]] in 1790 as ''Boletus piperatus'', it is only distantly related to other members of the genus ''[[Boletus]]'' and was reclassified as ''Chalciporus piperatus'' by [[Frédéric Bataille]] in 1908. The genus ''[[Chalciporus]]'' was an early branching [[lineage (evolution)|lineage]] in the Boletaceae and appears to be related to boletes with [[parasitism|parasitic]] properties. Previously thought to be [[ectomycorrhiza]]l (a [[symbiosis|symbiotic relationship]] that occurs between a fungus and the roots of various plant species), ''C.&amp;nbsp;piperatus'' is now suspected of being [[parasitism|parasitic]] on ''[[Amanita muscaria]]''. The [[trama (mycology)|flesh]] of ''C.&amp;nbsp;piperatus'' has a very peppery taste, and can be used as a condiment or flavouring.
+
+==Taxonomy and naming==
+
+[[File:Coloured Figures of English Fungi or Mushrooms - t. 34.jpg|thumb|left|From [[James Sowerby]]'s 1797 ''Coloured Figures of English Fungi or Mushrooms'']]
+French mycologist [[Jean Baptiste François Pierre Bulliard|Pierre Bulliard]] described the species as ''Boletus piperatus'' in 1790.&lt;ref name=&quot;Bulliard 1790&quot;/&gt; In its [[taxonomy (biology)|taxonomic]] history, it has been transferred to the genera ''[[Leccinum]]'' ([[Samuel Frederick Gray]], 1821), ''Viscipellis'' ([[Lucien Quélet]], 1886), ''Ixocomus'' (Quélet, 1888), ''[[Suillus]]'' ([[Otto Kuntze]], 1898), and ''Ceriomyces'' ([[William Alphonso Murrill]], 1909).&lt;ref name=&quot;urlMycoBank: Chalciporus piperatus&quot;/&gt; It was reclassified and given its current [[Binomial nomenclature|binomial]] name in 1908 by [[Frédéric Bataille]] when he made it the [[type species]] of the newly circumscribed genus ''Chalciporus''.&lt;ref name=&quot;Bataille 1908&quot;/&gt;  The [[botanical name|species name]] ''piperatus'' means &quot;peppery&quot; in [[Latin]].&lt;ref name=&quot;Nilper 1977&quot;/&gt; It is [[common name|commonly]] known as the &quot;peppery bolete&quot;.&lt;ref name=&quot;BMS&quot;/&gt;
+
+''Chalciporus piperatus'' is a member of the genus ''[[Chalciporus]]'', with which the genus ''[[Buchwaldoboletus]]'' form a group of fungi that is an early offshoot in the [[Boletaceae]]. Many members of the group appear to be [[parasitism|parasitic]].&lt;ref name=&quot;Nuhn 2013&quot;/&gt;
+
+Two [[variety (botany)|varieties]] have been described. ''Chalciporus piperatus'' var. ''hypochryseus'' was originally described as ''Boletus hypochryseus'' by Czech mycologist Josef Šutara in 1993,&lt;ref name=&quot;Šutara 1993&quot;/&gt; and was moved to ''Chalciporus'' a year later by Regis Courtecuisse.&lt;ref name=&quot;Courtecuisse 1994&quot;/&gt; Wolfgang Klofac and Irmgard Krisai-Greilhuber reclassified it as a variety of ''C.&amp;nbsp;piperatus'' in 2006,&lt;ref name=&quot;Klofac 2006&quot;/&gt; although some sources continue to regard it as a distinct species.&lt;ref name=&quot;Šutara 2009&quot;/&gt; Variety ''amarellus'', first published by Quélet as ''Boletus amarellus'' in 1883 and later transferred to ''Chalciporus'' by Bataille in 1908, was described as a variety of ''C.&amp;nbsp;piperatus'' in 1974 by [[Albert Pilát]] and [[Aurel Dermek]]. Authorities disagree as to whether or not it has independent taxonomic significance.&lt;ref name=&quot;urlFungorum: Chalciporus piperatus var. amarellus&quot;/&gt;&lt;ref name=&quot;MycoBank: Chalciporus amarellus&quot;/&gt;
+
+==Description==
+
+One of the smaller boletes, ''Chalciporus piperatus '' has an orange-fawn {{convert|1.6|–|9|cm|in|1|abbr=on}} [[pileus (mycology)|cap]] that is initially convex before flattening out in age.&lt;ref name=&quot;Bessette 2000&quot;/&gt; The cap surface can be furrowed;&lt;ref name=&quot;Lamaison 2005&quot;/&gt; shiny when dry,&lt;ref name=&quot;Nilper 1977&quot;/&gt; it can be a little sticky when wet.&lt;ref name=&quot;Lamaison 2005&quot;/&gt; The colour of the pore surface ranges from cinnamon to dark reddish brown in maturity. When bruised, the pore surface stains brown. Individual pores are angular, measuring about 0.5–2&amp;nbsp;mm wide, while the tubes are 3–10&amp;nbsp;mm deep.&lt;ref name=&quot;Bessette 2000&quot;/&gt; Slender for a bolete,&lt;ref name=&quot;Nilper 1977&quot;/&gt; the [[stipe (mycology)|stipe]] measures {{convert|4|–|9.5|cm|in|abbr=on}} long by {{convert|0.6|–|1.2|cm|in|1|abbr=on}} thick, and is either roughly the same width throughout its length, or slightly thicker near the base. The colour of the stem is similar to the cap, or lighter, and there is yellow [[mycelium]] at the base.  The [[trama (mycology)|flesh]] is yellow, sometimes with reddish tones, maturing to purplish brown. It has no odour. The [[spore print]] is brown to cinnamon.&lt;ref name=&quot;Bessette 2000&quot;/&gt; Variety ''hypochryseus'' is essentially identical to the main form except for its bright yellow tubes and pores.&lt;ref name=&quot;Šutara 1993&quot;/&gt; Variety ''amarellus'' has pinker pores and a taste that is bitter rather than peppery.&lt;ref name=&quot;Roberts 2011&quot;/&gt;
+[[File:2010-08-11 Chalciporus piperatus (Bull.) Bataille 99106.jpg|thumb|right|Spores are narrowly fusiform.]]
+The [[spore]]s are smooth, narrowly fusiform (fuse-shaped), and measure 7–12 by 3–5&amp;nbsp;[[micrometre|µm]]. The [[basidia]] (spore-bearing cells) measure 20–28 by 6–8&amp;nbsp;µm and are [[hyaline]] (translucent), four-spored, and narrowly club-shaped, with many internal oil droplets. [[Cystidia]] are fusiform, sometimes with a rounded tip, and have dimensions of 30–50 by 9–12&amp;nbsp;µm. Some are more or less hyaline, while others are encrusted with a golden pigment.&lt;ref name=&quot;Alessio 1985&quot;/&gt; The [[cap cuticle]] is a trichodermium, an arrangement in which the outermost [[hypha]]e emerge roughly parallel, like hairs, perpendicular to the cap surface. These hyphae are 10–17&amp;nbsp;µm wide and have elliptical to cylindrical cells at their ends that are not gelatinous. [[Clamp connection]]s are absent from the hyphae.&lt;ref name=&quot;Smith 1971&quot;/&gt;
+
+===Similar species===
+The fruit body of the North American species ''[[Chalciporus piperatoides]]'' are similar, but can be distinguished by its flesh and pores staining blue after cutting or bruising. It has a less peppery taste.&lt;ref name=&quot;Baroni 1991&quot;/&gt; Another mild-tasting relative, ''[[Chalciporus rubinellus|C.&amp;nbsp;rubinellus]]'', has brighter colours than ''C.&amp;nbsp;piperatus'', including completely red tubes.&lt;ref name=&quot;Groves 1979&quot;/&gt; One European species, ''[[Chalciporus rubinus|C.&amp;nbsp;rubinus]]'', has a shape similar to ''C.&amp;nbsp;piperatus'', but has red pores and a stem covered in red dots.&lt;ref name=&quot;Roberts 2011&quot;/&gt;
+
+==Distribution and habitat==
+[[File:Fly Agaric mushroom 04.jpg|thumb|left|''Chalciporus piperatus'' is suspected to be parasitic on ''Amanita muscaria'' (pictured).]]
+
+Fruit bodies of ''Chalciporus piperatus'' occur singly, scattered, or in groups on the ground.&lt;ref name=&quot;Smith 1971&quot;/&gt; The fungus occurs naturally in or near [[coniferous]] or [[beech]] and [[oak]] [[woodland]]s, often on sandy soils.&lt;ref name=&quot;Carluccio 2003&quot;/&gt; Fruit bodies appear in Europe in late summer and autumn from August to November.&lt;ref name=&quot;Haas 1969&quot;/&gt; The fungus is widespread across North America, fruiting from July to October in the eastern states and from September to January on the Pacific Coast.&lt;ref name=&quot;Audubonguide&quot;/&gt; It is found in Mexico and Central America.&lt;ref name=&quot;Klofac 2006&quot;/&gt; In Asia, it has been collected from Pakistan,&lt;ref name=&quot;Razaq 2013&quot;/&gt; [[West Bengal]] (India),&lt;ref name=&quot;Shajahan 1995&quot;/&gt; and [[Guangdong Province]] (China).&lt;ref name=&quot;Zhishu 1993&quot;/&gt; In South Africa, it is known from the southwestern [[Cape Province]] and the eastern [[Transvaal Province]].&lt;ref name=&quot;Westhuizen 1994&quot;/&gt;
+
+''Chalciporus piperatus'' grows in conifer plantations associated with the fly agaric (''[[Amanita muscaria]]'') and the chanterelle (''[[Cantharellus cibarius]]'').&lt;ref name=&quot;Haas 1969&quot;/&gt; It has been recorded under introduced loblolly pine (''[[Pinus taeda]]'') plantations in [[Santa Catarina (state)|Santa Catarina]] and [[Paraná (state)|Paraná]] states in southern Brazil,&lt;ref name=&quot;Sulzbacher 2013&quot;/&gt; and under introduced trees in the [[Los Lagos Region]] of Chile.&lt;ref name=&quot;Valenzuela 1999&quot;/&gt; It has also spread into native forest in northeastern [[Tasmania]] and Victoria, having been found growing with the native myrtle beech (''[[Nothofagus cunninghamii]]'').&lt;ref name=&quot;Fuhrer 1992&quot;/&gt;&lt;ref name=&quot;Dunk 2012&quot;/&gt; The rare variety ''hypochryseus'' occurs only in Europe, including Austria, the Czech Republic, Greece, Italy, and Spain.&lt;ref name=&quot;Šutara 2009&quot;/&gt; Also rare, variety ''amarellus'' is widespread in European coniferous forests, where it usually found near [[pine]]s, [[spruce]], and sometimes [[fir]].&lt;ref name=&quot;Klofac 2006&quot;/&gt;  
+
+Fruit bodies can be parasitised by the mould ''[[Sepedonium chalcipori]]'', a highly specialised [[wikt:mycoparasite|mycoparasite]] that is only known to infect this bolete. Infections result in [[necrosis|necrotic]] mushroom tissue and the production of copious yellow [[conidia]].&lt;ref name=&quot;Toniolo 2009&quot;/&gt;
+
+Initially thought to be [[ectomycorrhizal]] ([[symbiosis|symbiotic]] with plants, like most Boletaceae), ''C.&amp;nbsp;piperatus'' has not been confirmed as such in multiple synthesis studies&lt;ref name=&quot;Godbout 1985&quot;/&gt;&lt;ref name=&quot;Kasuya 1996&quot;/&gt;&lt;ref name=&quot;Yamada 1995&quot;/&gt; or in [[isotope fractionation]] studies.&lt;ref name=&quot;Hogberg 1999&quot;/&gt;&lt;ref name=&quot;Zeller 2007&quot;/&gt;&lt;ref name=&quot;Tedersoo 2010&quot;/&gt; There is some speculation that ''C.&amp;nbsp;piperatus'' is a mycoparasite on the mycorrhiza of ''Amanita muscaria''.&lt;ref name=&quot;Roberts 2011&quot;/&gt; In New Zealand, ''A.&amp;nbsp;muscaria'' is thought to have been [[introduced species|introduced]] with ''[[Pinus radiata]]'', and has made a [[host (biology)|host]] jump to the native ''[[Nothofagus]]'' trees; ''C.&amp;nbsp;piperatus'' has since been observed fruiting near ''Nothofagus'' trees with ''A.&amp;nbsp;muscaria'' associations.&lt;ref name=&quot;Dunk 2012&quot;/&gt;&lt;ref name=&quot;Tedersoo 2010&quot;/&gt;  ''[[Buchwaldoboletus lignicola]]'' is in the same [[clade]] as ''C.&amp;nbsp;piperatus'' and is thought to be a parasite as well, strengthening the evidence that ''C.&amp;nbsp;piperatus'' and its relatives may be mycoparasites.&lt;ref name=&quot;Nuhn 2013&quot;/&gt;
+
+==Uses==
+[[File:2006-09-10 Chalciporus piperatus 26645.jpg|thumb|right|In cross-section]]
+This mushroom is edible but very peppery. The Italian chef [[Antonio Carluccio]] recommends only using it to add flavour to other mushrooms. It has been used as a condiment in many countries.&lt;ref name=&quot;Carluccio 2003&quot;/&gt; The mushroom should be well-cooked before consumption to minimize the risk of gastric symptoms;&lt;ref name=&quot;Audubonguide&quot;/&gt; the peppery taste is lost with cooking.&lt;ref name=&quot;Thiers 1975&quot;/&gt; In powdered form, it loses its peppery taste quickly.&lt;ref name=&quot;Bresinsky 1989&quot;/&gt; Some guidebooks classify ''C.&amp;nbsp;piperatus'' as inedible.&lt;ref name=&quot;Nilper 1977&quot;/&gt;&lt;ref name=&quot;Roberts 2011&quot;/&gt; Fruit bodies can be used for [[mushroom dye]]ing; depending on the [[mordant]] used, yellow, orange, or greenish-brown dyes can be made.&lt;ref name=&quot;Roberts 2011&quot;/&gt;
+
+==Chemistry==
+Sclerocitrin, a [[biological pigment|pigment]] compound originally isolated from the common earthball (''[[Scleroderma citrinum]]''), is the major contributor to the yellow colour of the mycelium and the stipe base of ''C.&amp;nbsp;piperatus'' fruit bodies. Other compounds that have been isolated from this species include [[norbadione A|norbadione&amp;nbsp;A]], chalciporone, xerocomic acid, [[variegatic acid]], [[variegatorubin]], and another yellow pigment, chalcitrin. Chalciporone is responsible for the bitter taste of the fruit bodies. The pigments sclerocitrin, chalcitrin, and norbadione&amp;nbsp;A are derived [[biosynthesis|biosynthetically]] from xerocomic acid.&lt;ref name=&quot;Winner 2004&quot;/&gt; Related compounds found in the fruit bodies include the chalciporone [[isomer]]s isochalciporone and dehydroisochalciporone.&lt;ref name=&quot;Yannai 2013&quot;/&gt;
+
+A field study of fungi growing in polluted sites in the Czech and Slovak Republics found that ''C.&amp;nbsp;piperatus'' fruit bodies growing near lead [[smelting|smelters]] and on mine and [[slag]] dumps had the greatest ability to [[bioaccumulate]] the element [[antimony]]. In one collection, an &quot;extremely high&quot; level of the element was detected—1423 milligrams of antimony per kilogram of dried mushroom. In comparison, the antimony levels detected in other common terrestrial fungi from the same area, both [[saprobic]] and ectomycorrhizal, were more than an [[order of magnitude]] smaller.&lt;ref name=&quot;Borovička 2006&quot;/&gt;
+
+==See also==
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+&lt;ref name=&quot;Alessio 1985&quot;&gt;{{cite book |author=Alessio CL. |title=''Boletus'' Dill. ex L. (''sensu lato'') |year=1985 |publisher=Biella Giovanna |location=Saronno |pages=402–04 |language=Italian}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Audubonguide&quot;&gt;{{cite book |author=Lincoff GH. |title=National Audubon Society Field Guide to Mushrooms |publisher=Alfred A. Knopf |location=New York |year=2000 |page=571 |isbn=978-0-394-51992-0}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Baroni 1991&quot;&gt;{{cite journal |vauthors=Baroni TJ, Both EE |title=''Chalciporus piperatoides'' in North America |journal=Mycologia |year=1991 |volume=83 |issue=5 |pages=559–64 |jstor=3760211 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0083/005/0559.htm |doi=10.2307/3760211}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Bataille 1908&quot;&gt;{{cite journal |author=Bataille F. |title=Quelques champignons intéressants des environs de Besançon |journal=Bulletin de la Société d'Histoire Naturelle du Doubs |year=1908 |volume=15 |pages=23–61 (see p.&amp;nbsp;39) |language=French}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Bessette 2000&quot;&gt;{{cite book |vauthors=Bessette AE, Roody WC, Bessette AR |title=North American Boletes |year=2000 |publisher=Syracuse University Press |location=Syracuse |page=173 |isbn=978-0-8156-0588-1}}&lt;/ref&gt;
+
+&lt;ref name=&quot;BMS&quot;&gt;{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=List of recommended English Names for Fungi in the UK |format=PDF |publisher=[[British Mycological Society]] |year=2003}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Borovička 2006&quot;&gt;{{cite journal |vauthors=Borovička J, Řanda Z, Jelínek E |year=2006 |title=Antimony content of macrofungi from clean and polluted areas |journal=Chemosphere |volume=64 |issue=11 |pages=1837–44 |doi=10.1016/j.chemosphere.2006.01.060 |pmid=16529796}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Bresinsky 1989&quot;&gt;{{cite book |vauthors=Bresinsky A, Besl H |title=A Colour Atlas of Poisonous Fungi: A Handbook for Pharmacists, Doctors, and Biologists |publisher=Manson Publishing |location=London |year=1989 |page=168 |isbn=978-0-7234-1576-3 |url=https://books.google.com/books?id=EIcQGsZ2kksC&amp;pg=PA168}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Bulliard 1790&quot;&gt;{{cite book |author=Bulliard F. |title=Herbier de la France |year=1790 |volume=10  |location=Paris |publisher=Chez l'auteur, Didot, Debure, Belin |at=Pl. 451; fig. II |url=http://biodiversitylibrary.org/page/4303740 |language=French}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Carluccio 2003&quot;&gt;{{cite book |author=[[Antonio Carluccio|Carluccio A.]] |title=The Complete Mushroom Book |page=34 |year=2003 |publisher=Quadrille |location=London |isbn=978-1-84400-040-1}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Courtecuisse 1994&quot;&gt;{{cite journal |author=Courtecuisse R. |title=Novitates 3 |journal=Documents Mycologiques |year=1994 |volume=23 |issue=92 |page=62 |language=French}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Dunk 2012&quot;&gt;{{cite journal |vauthors=Dunk CW, Lebel T, Keane PJ |year=2012 |title=Characterisation of ectomycorrhizal formation by the exotic fungus ''Amanita muscaria'' with ''Nothofagus cunninghamii'' in Victoria, Australia |journal=Mycorrhiza |volume=22 |issue=2 |pages=135–47 |doi=10.1007/s00572-011-0388-9 |pmid=21573836}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Fuhrer 1992&quot;&gt;{{cite book |vauthors=Fuhrer B, Robinson R |year=1992 |title=Rainforest Fungi of Tasmania and Southeast Australia |publisher=CSIRO Press |location=Collingwood |isbn=978-0-643-05311-3}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Godbout 1985&quot;&gt;{{cite journal |vauthors=Godbout C, Fortin JA |year=1985 |title=Synthesized ectomycorrhizae of aspen: Fungal genus level of structural characterization |journal=Canadian Journal of Botany |volume=63 |issue=2 |pages=252–62 |doi=10.1139/b85-029}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Groves 1979&quot;&gt;{{cite journal |author=Groves JW. |title=Edible and Poisonous Mushrooms of Canada |year=1979 |publisher=Research Branch, Agriculture Canada |location=Ottawa |page=229 |url=http://biodiversitylibrary.org/page/37098015 |isbn=978-0-660-10136-1}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Haas 1969&quot;&gt;{{cite book |author=Haas H. |title=The Young Specialist looks at Fungi |year=1969 |page=224 |publisher=Burke |location=London |isbn=978-0-222-79409-3}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Hogberg 1999&quot;&gt;{{cite journal |vauthors=Högberg P, Plamboeck AH, Taylor AF, Fransson P |year=1999 |title=Natural &lt;sup&gt;13&lt;/sup&gt;C abundance reveals trophic status of fungi and host-origin of carbon in mycorrhizal fungi in mixed forests |journal=Proceedings of the National Academy of Sciences |volume=96 |issue=15 |pages=8534–39 |url=http://www.pnas.org/content/96/15/8534.long |doi=10.1073/pnas.96.15.8534}} {{open access}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Kasuya 1996&quot;&gt;{{cite journal |vauthors=Kasuya MC, Igarashi T |title=In vitro ectomycorrhizal formation in ''Piceae glehnii'' seedlings |journal=Mycorrhiza |volume=6 |issue=5 |pages=451–54 |doi=10.1007/s005720050146 |year=1996}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Klofac 2006&quot;&gt;{{cite journal |vauthors=Klofac W, Krisai-Greilhuber I |title=Die Gattung ''Chalciporus'', ein weltweiter Überblick |trans_title=The genus ''Chalciporus'', a world-wide survey |journal=Österreichische Zeitschrift für Pilzkunde |year=2006 |volume=15 |pages=31–65 [43–45] |url=http://www.landesmuseum.at/pdf_frei_remote/OestZPilz_15_0031-0065.pdf |language=German}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Lamaison 2005&quot;&gt;{{cite book |vauthors=Lamaison JL, Polese JM |title=The Great Encyclopedia of Mushrooms |year=2005 |publisher=Könemann |location=Cologne |isbn=978-3-8331-1239-3 |page=24}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Nilper 1977&quot;&gt;{{cite book |vauthors=Nilson S, Persson O |year=1977 |title=Fungi of Northern Europe 1: Larger Fungi (Excluding Gill-Fungi) |publisher=Penguin |location=Harmondsworth |isbn=978-0-14-063005-3 |pages=106–07}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Nuhn 2013&quot;&gt;{{cite journal |vauthors=Nuhn ME, Binder M, Taylor AF, Halling RE, Hibbett DS |title=Phylogenetic overview of the Boletineae |journal=Fungal Biology |year=2013 |volume=117 |issue=7–8 |pages=479–511 |doi=10.1016/j.funbio.2013.04.008 |pmid=23931115}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Razaq 2013&quot;&gt;{{cite journal |vauthors=Razaq A, Shazad S |title=Newly recorded species of Boletaceae from Pakistan |journal=Pakistan Journal of Botany |year=2013 |volume=45 |issue=3 |pages=1473–76 |url=http://www.pakbs.org/pjbot/PDFs/45(4)/52.pdf |format=PDF}} {{open access}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Roberts 2011&quot;&gt;{{cite book |vauthors=Roberts P, Evans S |title=The Book of Fungi |year=2011 |publisher=University of Chicago Press |location=Chicago |page=343 |isbn=978-0-226-72117-0}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Shajahan 1995&quot;&gt;{{cite journal |vauthors=Shajahan M, Samajpati N |title=Ectomycorrhizal fungi of  ''Shorea robusta'' G.f. from West Bengal |journal=Journal of Mycopathological Research |year=1995 |volume=33 |issue=2 |pages=105–17}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Smith 1971&quot;&gt;{{cite book |vauthors=Smith AH, Thiers HD |title=The Boletes of Michigan |year=1971 |publisher=University of Michigan Press |location=Ann Arbor |page=295 |url=http://quod.lib.umich.edu/f/fung1tc/agk0838.0001.001/303?didno=AGK0838.0001.001;page=root;rgn=full+text;size=100;view=image}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Sulzbacher 2013&quot;&gt;{{cite journal|vauthors=Sulzbacher MA, Grebenc T, Jacques RJ, Antoniolli ZI |year=2013 |title=Ectomycorrhizal fungi from southern Brazil – a literature-based review, their origin and potential hosts |journal=Mycosphere |volume=4 |issue=1 |pages=61–95 |url=http://mycosphere.org/pdfs/MC4_1_No5.pdf|doi=10.5943/mycosphere/4/1/5 }}&lt;/ref&gt;
+
+&lt;ref name=&quot;Šutara 1993&quot;&gt;{{cite journal |author=Šutara J. |title=''Boletus hypochryseus'', nový hřib ze skupiny druhu ''Boletus piperatus'' |trans_title=''Boletus hypochryseus'', new species, a new bolete from the ''Boletus piperatus'' group |journal=Česká Mykologie |year=1993 |volume=46 |issue=3–4 |pages=203–08 |language=Czech}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Šutara 2009&quot;&gt;{{cite book |vauthors=Šutara J, Mikšík M, Janda V |title=Hřibovité houby. Čeled’ Boletaceae a rody ''Gyrodon'', ''Gyroporus'', ''Boletinus'' a ''Suillus'' |publisher=Academia |location=Prague |isbn=978-80-200-1717-8 |page=92 |language=Czech}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Tedersoo 2010&quot;&gt;{{cite journal |vauthors=Tedersoo L, May TW, Smith ME |year=2010 |title=Ectomycorrhizal lifestyle in fungi: Global diversity, distribution, and evolution of phylogenetic lineages |journal=Mycorrhiza |volume=20 |issue=4 |pages=217–63 |doi=10.1007/s00572-009-0274-x |pmid=20191371}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Thiers 1975&quot;&gt;{{cite web |author=Thiers HD. |url=http://www.mykoweb.com/boletes/species/Boletus_piperatus.html |title=The Boletes of California (online edition) (originally ''California Mushrooms -- A Field Guide to the Boletes''. New York, NY: Hafner Press. |veditors=Wood M, Steven F, Boom M |year=1998 |origyear=1975 |accessdate=25 September 2013}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Toniolo 2009&quot;&gt;{{cite book |vauthors=Toniolo C, Brückner H |title=Peptaibiotics |url=https://books.google.com/books?id=zMcvAXRcOAgC&amp;pg=PA130 |year=2009 |publisher=John Wiley &amp; Sons |location=Zürich |isbn=978-3-906390-52-9 |page=130}}&lt;/ref&gt;
+
+&lt;ref name=&quot;urlFungorum: Chalciporus piperatus var. amarellus&quot;&gt;{{cite web |title=''Chalciporus piperatus'' var. ''amarellus'' (Quél.) Pilát &amp; Dermek,: 69 (1974) |url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=352668 |publisher=[[Index Fungorum]]. CAB International |accessdate=11 September 2013}}&lt;/ref&gt;
+
+&lt;ref name=&quot;urlMycoBank: Chalciporus piperatus&quot;&gt;{{cite web |title=''Chalciporus piperatus'' (Bull.) Bataille, Bulletin de la Société d'Histoire Naturelle du Doubs, 15: 39, 1908 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&amp;Rec=26658&amp;Fields=All |publisher=[[MycoBank]]. International Mycological Association |accessdate=14 May 2013}}&lt;/ref&gt;
+
+&lt;ref name=&quot;MycoBank: Chalciporus amarellus&quot;&gt;{{cite web |title=''Chalciporus amarellus'' (Quél.) Bataille, Bulletin de la Société d'Histoire Naturelle du Doubs, 15: 39, 1908 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&amp;Rec=225519&amp;Fields=All |publisher=MycoBank. International Mycological Association |accessdate=11 September 2013}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Valenzuela 1999&quot;&gt;{{cite journal |vauthors=Valenzuela E, Esteve-Raventos F |title=Algunos agaricales s.l. aloctonos asociados a especies arbóreas exóticas cultivadas en la X región de Chile |trans_title=Some allochthonous Agaricales s.l. associated with exotic trees cultivated in the X region of Chile |journal=Boletín Micológico |year=2013 |volume=14 |issue=1/2 |pages=73–81 |language=Spanish}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Westhuizen 1994&quot;&gt;{{cite book |vauthors=Van der Westhuizen GC, Eicker A |title=Field Guide Mushrooms of Southern Africa |url=https://books.google.com/books?id=jflEAAAAYAAJ |year=1994 |publisher=Struik Publishers |location=Cape Town |isbn=978-1-86825-507-8 |page=89}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Winner 2004&quot;&gt;{{cite journal |vauthors=Winner M, Giménez A, Schmidt H, Sontag B, Steffan B, Steglich W |title=Unusual pulvinic acid dimers from the common fungi ''Scleroderma citrinum'' (common earthball) and ''Chalciporus piperatus'' (peppery bolete) |journal=Angewandte Chemie International Edition |year=2004 |volume=43 |issue=14 |pages=1883–86 |doi=10.1002/anie.200352529 |pmid=15054803}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Yamada 1995&quot;&gt;{{cite journal |vauthors=Yamada A, Katsua K |year=1995 |title=Mycorrhizal associations of isolates from sporocarps and ectomycorrhizas with ''Pinus densiflora'' seedlings |journal=Mycoscience |volume=36 |issue=3 |pages=315–23 |doi=10.1007/BF02268607}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Yannai 2013&quot;&gt;{{cite book |author=Yannai S. |title=Dictionary of Food Compounds |url=https://books.google.com/books?id=_pHQQQkl8FMC&amp;pg=PA251 |year=2013 |publisher=CRC Press |location = Boca Raton |isbn=978-1-4200-8351-4 |page=251}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Zeller 2007&quot;&gt;{{cite journal |vauthors=Zeller B, Brechet C, Maurice JP, Le Tacon F |year=2007 |title=&lt;sup&gt;13&lt;/sup&gt;C and &lt;sup&gt;15&lt;/sup&gt;N isotopic fractionation in trees, soils, and fungi in a natural forest stand and a Norway spruce plantation |journal=Annals of Forest Science |volume=64 |issue=4 |pages=419–29 |doi=10.1051/forest:2007019}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Zhishu 1993&quot;&gt;{{cite book |vauthors=Zhishu B, Zheng G, Taihui L |title=The Macrofungus Flora of China's Guangdong Province |publisher=Columbia University Press |location=New York |year=1993 |page=479 |isbn=962-201-556-5 |url=https://books.google.com/books?id=0cAered-vqYC&amp;pg=PA479}}&lt;/ref&gt;
+
+}}
+
+==External links==
+{{commons category}}
+*{{IndexFungorum|311021}}
+
+[[Category:Boletaceae]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1790]]
+[[Category:Fungi naturalized in Australia]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Central America]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungi of South America]]</text>
+      <sha1>0tcvfa8833h8tr4tw0nuffr6cx5b475</sha1>
+    </revision>
+  </page>
+</mediawiki>

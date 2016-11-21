@@ -1,0 +1,141 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Aluminium chloride</title>
+    <ns>1</ns>
+    <id>1878055</id>
+    <revision>
+      <id>717704441</id>
+      <parentid>565761986</parentid>
+      <timestamp>2016-04-29T07:28:25Z</timestamp>
+      <contributor>
+        <username>JJMC89 bot</username>
+        <id>27446209</id>
+      </contributor>
+      <comment>subst /Comments to [[WP:DCS|discontinue comments subpage]]) ([[Project:AWB|AWB]] [12009]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11146">{{Article history
+|action1=GAN
+|action1date=2005-12-10
+|action1link=
+|action1result=listed
+|action1oldid=30795963
+|action2=GAR
+|action2date=1 September 2007
+|action2link=Talk:Aluminium chloride#GA sweeps review
+|action2result=kept
+|action2oldid=155163745
+|currentstatus=GA
+|topic=Natsci
+}}
+{{WikiProject Chemicals|core|class=A|importance=High|GA=yes}}
+{{WP1.0|v0.7=pass|class=GA|category=Natsci|WPCD=yes|importance=high}}
+
+__TOC__
+
+==Untitled==
+*6. ''Handbook of Chemistry and Physics'', 71st edition, CRC Press, [[Ann Arbor, Michigan]], 1990
+While doing a general clean up, I found the above ref in the article; it appeard uncited. Please replace or discard as appropriate. Kind regards —''[[User:Encephalon|&lt;span style=&quot;font-family:Times;color:#002bb8;cursor:crosshair;&quot;&gt;'''Encephalon'''&lt;/span&gt;]] 22:36, 6 March 2006 (UTC)''
+:Someone appears to have done it [[User:Tpbradbury|Tom B]] ([[User talk:Tpbradbury|talk]]) 10:15, 6 August 2010 (UTC)
+
+==Uses: in anti-perspirants?==
+*Aluminium chloride is listed as an ingredient in many anti-perspirants yet this is not addressed in the article.  Could someone add this, please?--'''[[User:Hraefen|Hraefen]]''' &lt;sup&gt;[[User talk:Hraefen|Talk]]&lt;/sup&gt; 04:38, 10 July 2006 (UTC)
+::Yes, we should have a mention: the page is linked from [[deodorant]] and [[hyperhidrosis]]. The product used in many (if not all) antiperspirants is a mixed chloride-hydroxide, so this would have to be explained... I might even get round to it myself! --[[User:Physchim62|Physchim62]] [[User talk:Physchim62|(talk)]] 14:44, 11 July 2006 (UTC)
+
+== What about the other Aluminum Chlorides?!==
+What of the other aluminum chlorides?  There is AlCl, AlCl&lt;sub&gt;2&lt;/sub&gt;, and the Aluminum chloride hexahydrate.  These are just a few I can think of; I'm certain there is even more.  The way the article is constructed, one could think that no other aluminum chlorides exist! &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:71.208.83.158|71.208.83.158]] ([[User talk:71.208.83.158|talk]] • [[Special:Contributions/71.208.83.158|contribs]]) &lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+:Actually, the article DOES talk about AlCl in the lead, even providing a reference:
+:*''Aluminium also forms a lower chloride, aluminum(I) chloride (AlCl), but this is very unstable and only known in the vapour phase.[1]''
+:*There is also a link to the oddly named, related [[aluminium chlorohydrate]].
+:There is no explicit mention of the hexahydrate in the lead, that should be rectified, although the chembox clearly describes the properties of the hydrate.  
+:As for AlCl&lt;sub&gt;2&lt;/sub&gt;, I've never heard of such a thing, or any other chlorides of aluminium.  If you can provide a reference that describes it, I'll gladly add the content into the article, if you like.  [[User:Walkerma|Walkerma]] 02:34, 2 June 2007 (UTC)
+
+== Topical medical application ==
+I'm not 100% sure but I'm pretty confident that aluminum chloride has uses as an Anti-Hemorrhagic agent.  I had an ingrown toenail removed recently and when the podiatrist cut off the granulation he applied a solution called Lumicain, whose active ingredient is aluminum chloride, to stop the bleeding.  I also found on this website (http://premium.hpodemo.com/common/adam/DisplayMonograph.asp?storeID=2174E645301D4D3E9683D7D6E5507C28&amp;DocID=41_002607) that aluminum chloride &quot;precipitates tissue and blood proteins causing a mechanical obstruction to hemorrhage from injured blood vessels&quot;.  Can someone with a little more knowledge please confirm this and update the article if necessary?  Thanks
+
+==GA sweeps review==
+I am reviewing this article again as part of the [[Wikipedia:WikiProject Good articles/Project quality task force/Sweeps|GA sweeps]] process for [[WP:WGA]], since this article was passed in December 2005, in the early days of the GA program. But having reviewed it again, against the newer, revised [[WP:WIAGA|GA criteria]], I think it still passes the criteria, and will be kept.
+
+There's still a couple of minor issues that could be tightened up a bit. The lead section has gotten a little long, and some of that content could be merged into subsequent sections, possibly chemical properties? Plus, the precautions section is rather short, and only one sentence long; maybe this should be merged with another section? Plus, it seems more like something that you'd find in the MSDS instead of an encyclopedia. Perhaps rewording and moving it might make the article a bit better? I think there might also be a few gaps in the referencing/sources as well; nothing too major, but a few more references couldn't hurt (specifically, 'uses' and 'chemical properties').
+
+Anyway, the article overall still looks good, and acceptable as a GA. Cheers! [[User:Derek.cashman|Dr. Cash]] 06:29, 2 September 2007 (UTC)
+:From the technical perspective, the article has some gaps.  I was surprised to see an image of yellow aluminium trichloride. I am no superexpert in Al chem, but a bright yellow form of AlCl&lt;sub&gt;3&lt;/sub&gt;?  Possibly Fe(III)-contamination? The applications tend to focus on academic themes. I think that alkylation of benzene is bigger than acylation and there are other apps that are more prosaic. Anhydrous AlCl&lt;sub&gt;3&lt;/sub&gt; is also prepared by carbothermal routes also.  The relationship to [[aluminium chlorohydrate]] merits a some greater explanation about the structural and chemical trends.--[[User:Smokefoot|Smokefoot]] ([[User talk:Smokefoot|talk]]) 12:40, 6 August 2010 (UTC)
+
+== 9 solubility entries ==
+
+Is there any particular reason to list the (slightly varying) solubility of aluminium chloride in water at nine different temperatures? In my opinion one solubility at standard conditions ought to be enough. Instead the solubilities of other aluminium chloride compounds should probably be added.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/193.113.135.112|193.113.135.112]] ([[User talk:193.113.135.112|talk]]) 10:31, 20 September 2011 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Toxicology Section ==
+
+This article is lacking a toxicology section. If there is knowledge of how poisonous this material is then it should be posted. [[Special:Contributions/2602:306:C518:6C40:D5B6:C1CD:4D8E:9B53|2602:306:C518:6C40:D5B6:C1CD:4D8E:9B53]] ([[User talk:2602:306:C518:6C40:D5B6:C1CD:4D8E:9B53|talk]]) 19:08, 16 May 2013 (UTC)
+:Toxicology is meaningless for a chemical compound that is highly reactive with water.  The section titled &quot;Precautions&quot; is sufficient to cover the safety aspects of handling this compound.  [[User:ChemNerd|ChemNerd]] ([[User talk:ChemNerd|talk]]) 20:39, 16 May 2013 (UTC)
+
+Then consume it. [[Special:Contributions/2602:306:C518:6C40:D5B6:C1CD:4D8E:9B53|2602:306:C518:6C40:D5B6:C1CD:4D8E:9B53]] ([[User talk:2602:306:C518:6C40:D5B6:C1CD:4D8E:9B53|talk]]) 21:49, 16 May 2013 (UTC)
+:If you would like a section on toxicology, feel free to find a [[WP:RS|reliable source]] and [[WP:DIY|add it]]. - [[User:SummerPhD|&lt;span style=&quot;color:#D70270;background-color:white;&quot;&gt;Sum&lt;/span&gt;&lt;span style=&quot;color:#734F96;background-color:white;&quot;&gt;mer&lt;/span&gt;&lt;span style=&quot;color:#0038A8;background-color:white;&quot;&gt;PhD&lt;/span&gt;]] ([[User talk:SummerPhD|talk]]) 02:50, 17 May 2013 (UTC)
+
+==NFPA Rating seems incorrect==
+Sigma-Aldrich MSDS shows this as having a NFPA reactivity rating of 2, not zero as is given in the article.  I don't know how to correct this, so anyone else feel free to do so.  The health and fire ratings appear correct.  Link:
+http://www.sigmaaldrich.com/MSDS/MSDS/DisplayMSDSPage.do?country=US&amp;language=en&amp;productNumber=563919&amp;brand=ALDRICH&amp;PageToGoToURL=http%3A%2F%2Fwww.sigmaaldrich.com%2Fcatalog%2Fproduct%2Faldrich%2F563919%3Flang%3Den
+[[Special:Contributions/152.5.254.22|152.5.254.22]] ([[User talk:152.5.254.22|talk]]) 14:32, 25 July 2013 (UTC)
+:Fixed. Good catch! [[User:DMacks|DMacks]] ([[User talk:DMacks|talk]]) 15:03, 25 July 2013 (UTC)
+
+==Assessment comment==
+{{Substituted comment|length=2965|lastedit=20070602225936|comment=The following suggestions were generated by a semi-automatic [[User:AndyZ/peerreviewer|javascript program]], and might not be applicable for the article in question.
+*The lead of this article may be too long, or may contain too many paragraphs. Please follow guidelines at [[WP:LEAD]]; be aware that the lead should adequately summarize the article.&lt;sup&gt;[[User:AndyZ/G#leadlong|[?]]]&lt;/sup&gt;
+*Consider removing links that add little to the article or that have been repeated in close proximity to other links to the same article, as per [[Wikipedia:Manual of Style (links)]] and [[WP:CONTEXT]].&lt;sup&gt;[[User:AndyZ/G#overlink|[?]]]&lt;/sup&gt;
+*Per [[Wikipedia:What is a featured article?]], [[WP:IMAGE|Images]] should have concise captions.&lt;sup&gt;[[User:AndyZ/G#caption|[?]]]&lt;/sup&gt;
+*Per [[Wikipedia:Manual of Style (dates and numbers)#Units of measurement|Wikipedia:Manual of Style (numbers)]], there should be a non-breaking space - &lt;code&gt;&amp;amp;nbsp;&lt;/code&gt; between a number and the unit of measurement. For example, instead of ''100 ml'', use ''100&amp;nbsp;ml'', which when you are editing the page, should look like: &lt;tt&gt;100&amp;amp;nbsp;ml&lt;/tt&gt;.&lt;sup&gt;[[User:AndyZ/G#nbsp|[?]]]&lt;/sup&gt;
+*Per [[Wikipedia:Manual of Style (dates and numbers)#Units of measurement|Wikipedia:Manual of Style (numbers)]], please spell out source units of measurements in text; for example, ''the Moon is 380,000 kilometres (240,000 mi) from Earth''.&lt;sup&gt;[[User:AndyZ/G#spellnum|[?]]]&lt;/sup&gt; Specifically, an example is 100 ml.
+*Please make the spelling of English words consistent with either [[American and British English spelling differences|American or British spelling]], depending upon the subject of the article. Examples include: ''behaviour'' (B) (American: ''behavior''), ''aluminum'' (A) (British: ''aluminium''), ''aluminium'' (B) (American: ''aluminum''), ''ization'' (A) (British: ''isation''), ''catalyse'' (B) (American: ''catalyze''), ''hydrolyse'' (B) (American: ''hydrolyze'').
+*Watch for [[User:Tony1/How_to_satisfy_Criterion_2a#Redundancy|redundancies]] that make the article too wordy instead of being crisp and concise. (You may wish to try Tony1's [[User:Tony1/How to satisfy Criterion 1a: redundancy exercises|redundancy exercises]].)
+**While additive terms like “also”, “in addition”, “additionally”, “moreover”, and “furthermore” may sometimes be useful, overusing them when they aren't necessary can instead detract from the brilliancy of the article. This article has 8 additive terms, a bit too much.
+*Please ensure that the article has gone through a thorough copyediting so that it exemplifies some of [[WP:WIAFA|Wikipedia's best work]]. See also [[User:Tony1/How to satisfy Criterion 1a]].&lt;sup&gt;[[User:AndyZ/G#copyedit|[?]]]&lt;/sup&gt;
+You may wish to browse through [[User:AndyZ/Suggestions]] for further ideas. Thanks, &lt;span style{{nw=}}&quot;color:#B03060;&quot;&gt;&lt;i&gt;[[User:Wimvandorst|Wim van Dorst'']] ([[user talk:Wimvandorst|''Talk'']])&lt;/i&gt;&lt;/span&gt; 22:59, 2 June 2007 (UTC)}}
+Substituted at 07:28, 29 April 2016 (UTC)</text>
+      <sha1>qsxxewmqgh6642tbr798znnq98ylx22</sha1>
+    </revision>
+  </page>
+</mediawiki>

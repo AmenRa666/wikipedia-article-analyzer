@@ -1,0 +1,506 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>John F. Kennedy Presidential Library and Museum</title>
+    <ns>0</ns>
+    <id>1185823</id>
+    <revision>
+      <id>750560752</id>
+      <parentid>750062647</parentid>
+      <timestamp>2016-11-20T14:31:43Z</timestamp>
+      <contributor>
+        <username>Randy Kryn</username>
+        <id>4796325</id>
+      </contributor>
+      <comment>add italics, extend caption to include the Resolute desk</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="45742">{{Use mdy dates|date=April 2013}}
+{{Infobox presidential library
+| name = John F. Kennedy Presidential Library and Museum
+| logo = Official logo of the John F. Kennedy Presidential Library.svg
+| logosize = 260px
+| logocaption = 
+| image = JFK library Stitch Crop.jpg
+| imagesize = 260px
+| caption =
+| map_type=USA Massachusetts
+| latitude=42.31589
+| longitude=-71.03409
+| location={{Coord|42|18|57.21|N|71|2|2.71|W|region:US-MA_type:landmark|display=inline,title|format=dms|name= John F. Kennedy Presidential Library (Suffolk County, Massachusetts)}}&lt;br&gt;[[Boston, Massachusetts|Boston]], [[Suffolk County, Massachusetts|Suffolk County]], [[Massachusetts]], United States
+| map_size= 260px
+| map_caption=
+| construction_start_date = August 1977&lt;br /&gt;Groundbreaking: June 12, 1977
+| completion_date =
+| dedication_date = October 20, 1979
+| rededication_date = October 23, 1993&lt;ref name=&quot;Rededication&quot;&gt;{{cite web
+ | url= http://www.jfklibrary.org/Historical+Resources/Archives/Reference+Desk/Rededication+of+the+John+F+Kennedy+Library+and+Museum+October+29+1993.htm |title= Rededication of the John F. Kennedy Library and Museum, October 29, 1993
+ | accessdate= November 3, 2008
+ | publisher=John F. Kennedy Presidential Library and Museum
+ | archiveurl= https://web.archive.org/web/20080807170041/http://www.jfklibrary.org/Historical+Resources/Archives/Reference+Desk/Rededication+of+the+John+F+Kennedy+Library+and+Museum+October+29+1993.htm &lt;!--Added by H3llBot--&gt;
+ | archivedate= August 7, 2008}}&lt;/ref&gt;
+| named_for =[[John F. Kennedy]]
+| number_of_exhibits =
+| architect = [[I.M. Pei]]
+| size = {{convert|10|acre|m2}}
+| cost_amount =  $20.8 million&lt;ref name=&quot;Huxtable1979&quot;&gt;{{cite news
+ | first = Ada
+ | last = Huxtable
+ | authorlink = Ada Louise Huxtable
+ | title = The Museum Upstages The Library
+ | url = http://select.nytimes.com/gst/abstract.html?res=FB0B16F8345D11728DDDA10A94D8415B898BF1D3
+ | format = PDF
+ | work = Architecture view
+ | publisher = The New York Times
+ | location = Washington
+ | date = October 27, 1979
+ | accessdate = August 16, 2008
+ | quote = &quot;The project for the Harvard location was for a much larger, three-part complex which was to include the library-museum, the John F. Kennedy School of Government and an Institute of Politics. Only the School of Government has been built at Harvard.&quot; &quot;A {{convert|125|ft|m|sing=on}} high, nine-story, white concrete tower housing offices and archives, and a low circular section containing two theaters are connected by a truss-walled, gray glass pavilion that rises a full {{convert|115|ft|m}} to form the ceremonial heart of the structure.&quot; &quot;Finishes are neither luxurious nor special; standard components have kept the cost to $20.8 million raised from public gifts and the Kennedy family.&quot;
+ }}&lt;/ref&gt;
+| manager =[[National Archives and Records Administration]]
+| website = [http://www.jfklibrary.org jfklibrary.org]
+| footnotes =
+}}The '''John F. Kennedy Presidential Library and Museum''' is the [[presidential library]] and [[museum]] of [[John F. Kennedy|John Fitzgerald Kennedy]], the [[List of Presidents of the United States|35th]] [[President of the United States]] (1961&amp;ndash;1963). It is located on [[Columbia Point, Boston|Columbia Point]] in the [[Dorchester, Boston|Dorchester]] neighborhood of [[Boston]], [[Massachusetts]], next to the [[University of Massachusetts Boston]], the [[Edward M. Kennedy Institute for the United States Senate]], and the [[Massachusetts Archives|Massachusetts Archives and Commonwealth Museum]]. Designed by the architect [[I. M. Pei]], the building is the official repository for original papers and correspondence of the Kennedy Administration, as well as special bodies of published and unpublished materials, such as books and papers by and about [[Ernest Hemingway]]. The library and museum were dedicated in 1979 by President [[Jimmy Carter]] and members of the [[Kennedy family]]. It can be reached from nearby [[Interstate 93]] or via [[Public transport|shuttle bus]] or walk from the [[JFK/UMass (MBTA station)|JFK/UMass]] stop on the [[Red Line (MBTA)|Boston subway's Red line]].
+
+==Location, design and dedication==
+
+===Original site and name===
+During a weekend visit to [[Boston]] on October 19, 1963, President Kennedy, along with [[John Carl Warnecke]] — the architect who would design the President’s  [[John F. Kennedy Eternal Flame|tomb in Arlington]]&lt;ref name=&quot;Franklin&quot;&gt;{{cite news
+ | first = Ben
+ | last = Franklin
+ | title = Kennedy Chose Site at Harvard For Presidential Library Oct. 19
+ | url = http://select.nytimes.com/gst/abstract.html?res=F00D10F73A541A7B93C2AA178AD95F478685F9
+ | format = PDF
+ | work = Special to The New York Times
+ | publisher = The New York Times
+ | location = Washington
+ | date = November 29, 1963
+ | accessdate = August 16, 2008
+ | quote = “away from scholarly resources.” “a complete record of a Presidential era.”
+ }}&lt;/ref&gt;&lt;ref name=&quot;ArlingtonCemetary&quot;&gt;{{cite web
+ | title = President John Fitzgerald Kennedy
+ | work = Visitor Information Monuments and Memorials
+ | publisher =  Arlington National Cemetery
+ | url = http://www.arlingtoncemetery.org/visitor_information/jfk.html
+ | accessdate = November 3, 2008 }}&lt;/ref&gt; — viewed several locations offered by [[Harvard]] as a site for the library and museum. At the time there were only four other [[Presidential Library|Presidential Libraries]]: the [[Hoover Presidential Library]], the [[Franklin D. Roosevelt Presidential Library|Franklin D. Roosevelt Library]], the [[Truman Library]], and the [[Dwight D. Eisenhower Library]]. They were all scattered around the country in small towns from New York to Iowa. Kennedy had not decided on any design concept yet, but he felt that the existing presidential libraries were placed too &quot;far away from scholarly resources.&quot;&lt;ref name=&quot;Franklin&quot; /&gt;
+
+Kennedy chose a plot of land next to the [[Harvard Business School|Harvard Graduate School of Business Administration]].&lt;ref name=&quot;Franklin&quot; /&gt; The building would face the [[Charles River]] which was a few feet away, and on the other side of which, the dormitories that included [[Winthrop House]] where Kennedy spent his upperclassman days.&lt;ref name=&quot;Franklin&quot; /&gt;
+
+Since Kennedy encouraged his [[Kennedy administration|administration]] to save effects of both personal and official nature, the complex would not just be a collection of the President's papers, but &quot;a complete record of a Presidential era.&quot; And so, the building would have the word museum appended to its name: '''John F. Kennedy Presidential Library and Museum'''.&lt;ref name=&quot;Franklin&quot; /&gt;
+
+===Initial progress===
+After [[John F. Kennedy assassination|President Kennedy was assassinated]] in November 1963, his [[Kennedy family|family]] and friends discussed how to construct a library that would serve as a fitting memorial. A committee was formed to advise Kennedy's widow [[Jacqueline Kennedy Onassis|Jacqueline]], who would make the final decision. The group deliberated for months, and visited with architects from around the world including [[Pietro Belluschi]] and others from the United States, Brazil's [[Lucio Costa]], and Italy's [[Franco Albini]]. Mrs. Kennedy and others met with the candidates together at the [[Kennedy Compound]] in [[Hyannis, Massachusetts]], and visited several in their offices. The committee also conducted a secretive process whereby the architects voted anonymously for the most capable of their colleagues.&lt;ref&gt;Wiseman, pp. 96–98.&lt;/ref&gt;
+
+Progress on the building began shortly after his death. On January 13, 1964, [[United States Attorney General|Attorney General]] [[Robert F. Kennedy]] announced that a taped [[oral history|oral-history]] project was to be undertaken for inclusion in the library. The project would feature administration staff, friends, family, and politicians from home and abroad. The Attorney General also announced that [[Eugene R. Black, Sr.]] agreed to serve as chairman of the board of trustees and that $1 million of Black’s $10 million goal had been given to the trust by the [[Joseph P. Kennedy, Jr. Foundation]].&lt;ref name=&quot;LewisJanuary&quot;&gt;{{cite news
+ | first = Anthony
+ | last = Lewis
+ | title = Taped Oral History of Kennedy to Go in Projected Library
+ | url = http://select.nytimes.com/gst/abstract.html?res=F0071FF9385C147A93C6A8178AD85F408685F9
+ | format = PDF
+ | work = Special to The New York Times
+ | publisher = The New York Times
+ | location = Washington
+ | date = January 13, 1964
+ | accessdate = August 16, 2008 }}&lt;/ref&gt;
+
+The death of the President was still fresh in the hearts and minds of the American public and by March of that year $4.3 million had been pledged, including 18,727 unsolicited donations from the public.&lt;ref name=&quot;LewisMarch&quot;&gt;{{cite news
+ | first = Anthony
+ | last = Lewis
+ | title = Advisers on Kennedy Library Named
+ | url = http://select.nytimes.com/gst/abstract.html?res=F10916FD395415738DDDAC0894DB405B848AF1D3
+ | format = PDF
+ | work = Special to The New York Times
+ | publisher = The New York Times
+ | location = Washington
+ | date = March 4, 1964
+ | accessdate = August 16, 2008
+ }}&lt;/ref&gt; Large donations came from the Hispanic world with [[Venezuela]] pledging $100,000 and [[Governor of Puerto Rico]] [[Luis Muñoz Marín]] offering the same. The oral-history project also began recording, starting with Jacqueline Kennedy and Robert Kennedy. Originally projected to consist of interviews with 150 people, 178 had agreed to participate and the total number of expected participants doubled to 300, with just one person (a [[United States Secret Service|Secret Service]] agent) declining to take part.&lt;ref name=&quot;LewisMarch&quot; /&gt;
+
+Also by this time fourteen architects were named to serve on a design advisory committee:&lt;ref name=&quot;LewisMarch&quot; /&gt;
+
+{| class=&quot;wikitable&quot;
+! Americans !! Base
+|-
+| [[Pietro Belluschi]] || Dean of the [[MIT School of Architecture and Planning|MIT School of Architecture]]
+|-
+| [[Louis Kahn]] ||  [[University of Pennsylvania School of Design|University of Pennsylvania Architecture School]]
+|-
+| [[I. M. Pei]] || [[New York City]]
+|-
+| [[Mies van der Rohe]] || [[Chicago]]
+|-
+| [[Hugh Stubbins]] || [[Cambridge, Massachusetts|Cambridge]]
+|-
+| [[Paul Thiry (architect)|Paul Thiry]] || [[Seattle]]
+|-
+| [[Benjamin C. Thompson]] || [[Cambridge, Massachusetts|Cambridge]]
+|-
+| [[John C. Warnecke]] || [[Washington, D.C.|Washington]]
+|-
+! Overseas!! Base
+|-
+| [[Alvar Aalto]] || [[Finland]]
+|-
+| [[Franco Albini]] || Italy
+|-
+| [[Lucio Costa]] || [[Brazil]]
+|-
+| [[Sven Markelius]] || Sweden
+|-
+| [[Sir Basil Spence]] || England
+|-
+| [[Kenzo Tange]] || Japan
+|}
+
+Over the following months pledges continued to funnel in for the building still being conceptualized by the various architects. Some notable donations include $900,000 handed over to [[United States Postmaster General|Postmaster General]] [[John A. Gronouski]] on July 9, 1964. It was the sum of a campaign encompassing 102 Federal agencies. Gronouski said many of the Federal employee contributions were in the form of a $5 withholding each payday for a period of three years.&lt;ref name=&quot;EmployeeContributions&quot;&gt;{{cite news
+ | title = U.S. employees give to Kennedy Library
+ | url = http://select.nytimes.com/gst/abstract.html?res=F50C17F73B5B1B728DDDA10894DF405B848AF1D3
+ | format = PDF
+ | work = AP
+ | publisher = The New York Times
+ | location = Washington
+ | date = July 7, 1964
+ | accessdate = August 16, 2008
+ | quote = &quot;Mr. Gronouski said the Federal employe contributions included pledges of $5 each pay day for three years and an individual donationn of $5,000.&quot;
+ }}&lt;/ref&gt; The next day the [[Indian Ambassador to the United States|Indian ambassador to the United States]], [[Braj Kumar Nehru]]. presented Black with a check for $100,000 during a ceremony at the River Club. Nehru said that the Indian people were hit by a &quot;sad blow&quot; when the President died, and that they held him &quot;in the highest regard, esteem and affection.&quot; He desired for [[Indian students abroad]] in the United States to use the library, then still planned for construction at Harvard along the banks of the Charles River.&lt;ref name=&quot;IndiaGives&quot;&gt;{{cite news
+ | title = India Gives $100,000 To Kennedy Library
+ | url = http://select.nytimes.com/gst/abstract.html?res=FB0812F73B5B1B728DDDA00894DF405B848AF1D3
+ | format = PDF
+ | publisher = The New York Times
+ | date = July 8, 1964
+ | accessdate = August 16, 2008
+ | quote = &quot;in the highest regard, esteem and affection.&quot; &quot;sad blow&quot; &quot;that Indian students in the United states would make great use of the library and the accompanying institute that will be built on the banks of the Charles River in Boston.&quot;
+ }}&lt;/ref&gt;
+
+===Pei selected as architect===
+[[Image:JFK_Library_Boston_09222016.jpg|thumb|The JFK Presidential Library and Museum as seen from the [[Boston Harborwalk]] on the Columbia Point segment]]
+On December 13, 1964, the Kennedy family announced that I. M. Pei was unanimously chosen by a subcommittee as the architect of the library.&lt;ref name=&quot;HuxtableDec12-64&quot;&gt;{{cite news
+ | first = Ada
+ | last = Huxtable
+ | authorlink = Ada Louise Huxtable
+ | title = PEI will design Kennedy Library
+ | url = http://select.nytimes.com/gst/abstract.html?res=FB0817F63C5D13738DDDAD0994DA415B848AF1D3
+ | format = PDF
+ | publisher = The New York Times
+ | page = Front page
+ | date = December 13, 1964
+ | accessdate = August 16, 2008
+ | quote = &quot;The idea of the institute is to stimulate interest in politics,&quot; Robert Kennedy said.  &quot;Good Luck, Mr. Pei,&quot; Mr. Kennedy said, with an encouraging grin.
+ }}&lt;/ref&gt; Even though Pei was relatively unknown amongst the list of candidates, Mrs. Kennedy, who viewed him as filled with promise and imagination and after spending several months inspecting the many architects’ offices and creations, selected him to create the vision she held for the project.&lt;ref name=&quot;jfkl.org-Pei&quot;&gt;{{cite web
+ | url= http://www.jfklibrary.org/About-Us/About-the-JFK-Library/History/IM-Pei--Architect.aspx
+ | title= I. M. Pei, Architect
+ | accessdate= March 1, 2015
+ | publisher= John F. Kennedy Presidential Library Foundation
+ | quote= &quot;At an early meeting in 1964, Mr. Pei explained to Mrs. Kennedy, somewhat apologetically, that as a relatively young architect he had not worked on monumental projects. Though relatively unknown and obscure at the time, Mrs. Kennedy nevertheless selected Pei from a list of candidates that included of some America’s best-known architects. He seemed to her so filled with promise and he had the imagination and temperament to create a structure that would reinforce her vision of the goals of the library.&quot; &quot;The Kennedy Library was erected on a landfill site overlooking Boston, Dorchester Bay, and the ocean beyond. To overcome existing conditions, the site was raised {{convert|15|ft|m}}.&quot;
+}}&lt;/ref&gt; Pei did not have a design yet, but the idea as described by Robert Kennedy was to “stimulate interest in politics.” Meanwhile, the suggestion that Harvard may not be a suitable site for the library had begun cropping up. When asked if Pei may have had to start from scratch, he said this was the case. With an “encouraging grin” Robert Kennedy simply wished Mr. Pei “Good luck.”&lt;ref name=&quot;HuxtableDec12-64&quot; /&gt;
+
+Mrs. Kennedy chose Pei to design the library, based on two considerations. First, she appreciated the variety of ideas he had used for earlier projects. &quot;He didn't seem to have just one way to solve a problem,&quot; she said. &quot;He seemed to approach each commission thinking only of it and then develop a way to make something beautiful.&quot;&lt;ref&gt;Quoted in Wiseman, p. 98.&lt;/ref&gt; Ultimately, however, Kennedy made her choice based on her personal connection with Pei. Calling it &quot;really an emotional decision&quot;, she explained: &quot;He was so full of promise, like Jack; they were born in the same year. I decided it would be fun to take a great leap with him.&quot;&lt;ref&gt;Quoted in Wiseman, p. 99.&lt;/ref&gt;
+
+Not long before Pei was selected, the $10 million goal set by Black had been reached.&lt;ref name=&quot;HuxtableDec12-64&quot; /&gt; By 1965, fundraising was suspended when the contributions reached $20 million.&lt;ref name=&quot;Raymont&quot;&gt;{{cite news
+ | first = Henry
+ | last = Raymont
+ | title = Kennedy Library to Be Scaled Down
+ | url = http://select.nytimes.com/gst/abstract.html?res=F6091FFB355F127A93C1AB178ED85F458785F9
+ | format = PDF
+ | publisher = The New York Times
+ | date = May 22, 1971
+ | accessdate = August 16, 2008
+ }}&lt;/ref&gt;
+
+===Years of setbacks===
+In January 1966, when [[Governor of Massachusetts|Massachusetts Governor]] [[John A. Volpe]] signed a bill allowing the state to purchase the land for the site — an old train yard belonging to the [[Massachusetts Bay Transit Authority]] (MBTA) — it was expected that the project would be complete by 1970.&lt;ref name=&quot;Samuelson&quot;&gt;{{cite web
+|url= http://www.thecrimson.com/article.aspx?ref=253061
+|title= Volpe Signs Bill Allowing State To Buy Site for Kennedy Library
+|accessdate= November 3, 2008
+|first= Robert
+|last= Samuelson
+|date= January 5, 1966
+|publisher= The Harvard Crimson
+}}&lt;/ref&gt; The original design was a large complex comprising the John F. Kennedy Library and Museum, the [[John F. Kennedy School of Government]], and an [[Harvard Institute of Politics|Institute of Politics]].&lt;ref name=&quot;Huxtable1979&quot; /&gt; However the project faced many delays. The MBTA would not agree to remove the heavy machinery from the land until 1970. By that time construction costs had risen to over $20 million.&lt;ref name=&quot;Raymont-RisingCosts&quot;&gt;{{cite news
+ | first = Henry
+ | last = Raymont
+ | title = Kennedy Library Faces Rise in Cost; Long-Delayed Kennedy Library Faces Cost Rise and Lag in Aid
+ | url = http://select.nytimes.com/gst/abstract.html?res=FB081EF83A5C127A93C7AB178AD85F448785F9
+ | format = PDF
+ | publisher = The New York Times
+ | page = Front page
+ | date = January 24, 1970
+ | accessdate = August 16, 2008
+ | quote = &quot;A major obstacle to the construction of the library and its related buildings on the Harvard University campus was removed three weeks ago when the Massachusetts Bay Transit Authority agreed to vacate its subway-train yards on the proposed {{convert|12.2|acre|m2|sing=on}} construction site in Cambridge, Mass.&quot;
+ }}&lt;/ref&gt; Only now could Pei prepare a six-month study of the site’s soil, and he said the &quot;money we had six years ago, today will barely pay for 60 percent of the original plans.&quot;&lt;ref name=&quot;Raymont-RisingCosts&quot; /&gt;
+
+Robert Kennedy, by then a senator from New York, had been serving as president of the John F. Kennedy Library Corporation until he was [[Assassination of Robert F. Kennedy|assassinated in 1968]]. Weeks before, [[William Manchester]] and [[Harper &amp; Row]] donated $750,000 to the library.&lt;ref name=&quot;Raymont-Manchester&quot;&gt;{{cite news
+ | first = Henry
+ | last = Raymont
+ | title = Manchester and Harper Donate $750,000 to the Kennedy Library; Kennedy Library is given $750,000
+ | url = http://select.nytimes.com/gst/abstract.html?res=F10C14F63D5E147493C3AB178DD85F4C8685F9
+ | format = PDF
+ | publisher = The New York Times
+ | page = Front page
+ | date = June 20, 1968
+ | accessdate = August 16, 2008
+ | quote = In acknowledging the contribution, Mrs. John F. Kennedy said: &quot;I think it is so beautiful what Mr. Manchester did. I am glad that Senator Kennedy knew about it before he died. All the pain of the book and now this noble gesture, of such generosity, makes the circle come around and close with healing.&quot;
+ }}&lt;/ref&gt; The first in a series of installments expected to total $5 million, came from the profits of the book ''[[The Death of a President]]'' which caused a bitter feud between the Kennedys and Manchester. Mrs. Kennedy remarked &quot;I think it is so beautiful what Mr. Manchester did. I am glad that Senator Kennedy knew about it before he died.&quot;&lt;ref name=&quot;Raymont-Manchester&quot; /&gt; The youngest of the [[Kennedy family#Third generation|Kennedy brothers]], Senator [[Ted Kennedy|Edward M. Kennedy]], would step down as vice president of the corporation to fill the newly vacant position.
+
+By 1971, construction had still not begun; researchers and scholars were forced to work out of the Federal Records Center which was temporarily housing some of the 15 million documents and manuscripts. Pei said there was finally &quot;a clear way ahead&quot;; however, he was asked to save on construction expenses by using inexpensive materials.&lt;ref name=&quot;Raymont&quot; /&gt; This would translate into Pei working with concrete instead of his preferred stone.&lt;ref name=&quot;WGBH&quot;&gt;{{cite video
+ | people = Robert Campbell, Ieoh Ming Pei
+ | date = September 26, 2004
+ | title = Conversation with I. M. Pei
+ | url = http://forum.wgbh.org/wgbh/forum.php?lecture_id=1655
+ | format = RAM
+ | medium = Television production
+ | publisher = WGBH Educational Foundation
+ | location = JFK Library and Museum, Main Hall
+ | accessdate = August 17, 2008
+}}&lt;/ref&gt;
+
+On May 22, 1971, President [[Lyndon B. Johnson]], who succeeded Kennedy as president, saw the dedication of the [[Lyndon Baines Johnson Library and Museum]] in [[Austin, Texas]]. On the campus of the [[University of Texas at Austin]], and next to the [[LBJ School of Public Affairs]], he would beat the Kennedy team to building the first Presidential Library that also served as a place of scholarly research. He would not live to see work begin on his predecessor's.
+
+Meanwhile, the Cambridge community was in fierce opposition to having the library being built in Cambridge at all. Although originally welcomed in 1965, the library was now seen as a great attractor of over a million annual tourists who would change the neighborhood with &quot;hordes of tourists, automobiles, fast-food franchises and souvenir shops,&quot;&lt;ref name=&quot;KifnerBlockedby&quot;&gt;{{cite news
+ | first = John
+ | last = Kifner
+ | title = Kennedy Museum Blocked By Combination of Forces
+ | url = http://select.nytimes.com/gst/abstract.html?res=F10910F83C5A157B93C0A81789D85F418785F9
+ | format = PDF
+ | publisher = The New York Times
+ | location = Cambridge, Mass.
+ | page = Front page
+ | date = February 11, 1975
+ | accessdate = August 16, 2008
+ | quote = &quot;But in recent years, the project has met with sharp criticism from residents from surrounding neighborhoods who feared it would attract hordes of tourists, automobiles, fast food franchises and souvenir shops into the already congested Harvard Square area.&quot;
+ }}&lt;/ref&gt;&lt;ref name=&quot;jfkl.org-history&quot;&gt;{{cite web
+ |url= http://www.jfklibrary.org/JFK+Library+and+Museum/Kennedy+Library+Foundation/History/
+ |title= History
+ |accessdate = August 17, 2008
+ |publisher= John F. Kennedy Presidential Library and Museum
+}}&lt;/ref&gt; as well as cause a negative environmental impact.&lt;ref name=&quot;Kifner&quot;&gt;{{cite news
+ | first = John
+ | last = Kifner
+ | title = Cambridge Loses Kennedy Museum; Plan for Kennedy Museum Is Dropped
+ | url = http://select.nytimes.com/gst/abstract.html?res=F30B10FA3F5C137B93C5A91789D85F418785F9
+ | format = PDF
+ | work = Special to The New York Times
+ | publisher = The New York Times
+ | location = Cambridge, Mass.
+ | page = Front page
+ | date = February 6, 1975
+ | accessdate = August 16, 2008
+ | quote = &quot;We have tried to be responsive to the wishes of the people of Cambridge,&quot; Mr. Smith said in his statement. He added: &quot;But the fact is that a segment of the Cambridge community seems likely to remain opposed to our plans. We want the Kennedy Library to be a happy place. It would not be in keeping with the nature of this memorial for it to open in an atmosphere of discord and controversy.&quot;
+ }}&lt;/ref&gt; One neighborhood group filed a lawsuit in federal court demanding that the [[General Services Administration]] study, which found that the great number of visitors would have &quot;no adverse effect on the area,&quot; be reexamined.&lt;ref name=&quot;Kifner&quot; /&gt;
+
+Stephen E. Smith, a Kennedy in-law who heads the John F. Kennedy Library Corporation decided that “we want the Kennedy Library to be a happy place. It would not be in keeping with the nature of this memorial for it to open in an atmosphere of discord and controversy.”&lt;ref name=&quot;Kifner&quot; /&gt; And in February 1975 the plans for having the library where President Kennedy would have wanted it, were dropped.&lt;ref name=&quot;jfkl.org-history&quot; /&gt;&lt;ref name=&quot;Kifner&quot; /&gt;
+
+===New location, new plan===
+[[Image:JFK Library Pavillion &amp; flag.jpg|thumb|135px|From the pavilion (pictured), designer I. M. Pei says there is a restricted access area that offers the best view in the complex.&lt;ref name=&quot;WGBH&quot; /&gt;]]
+The new location of the site was [[Columbia Point (Boston)|Columbia Point]] in the Dorchester neighborhood of Boston, near the [[University of Massachusetts Boston]], described as a group of &quot;massive, blocky structures...in sharp contrast to the mellow and urbane atmosphere of the library’s original site near Harvard Square.&quot;&lt;ref name=&quot;Goldberger&quot;&gt;{{cite news
+ | first = Paul
+ | last = Goldberger
+ | title = New Kennedy Library Plan Released
+ | url = http://select.nytimes.com/gst/abstract.html?res=FB0E13FC3C59157493C1A81783D85F428785F9
+ | format = PDF
+ | publisher = The New York Times
+ | date = February 11, 1975
+ | accessdate = August 16, 2008
+ | quote = &quot;The out-of-the-way site, called Columbia Point, houses the massive, blocky structures of a commuter campus of the University of Massachusetts, and it is in sharp contrast to the mellow and urbane atmosphere of the library's original site near Harvard Square in Cambridge.&quot;
+ }}&lt;/ref&gt; The site was originally a [[garbage dump]], Pei recalls finding old refrigerators and appliances under the soil. In all seriousness, he asserted that one could toss a lit match on the earth and watch the ground ignite as the soil emitted [[methane gas]].&lt;ref name=&quot;WGBH&quot; /&gt; One thing the site did have going for it was that the community was not opposed to the area being [[landscaped]] to house the library.
+
+June 12, 1977 marked the official [[groundbreaking ceremony|groundbreaking]] for the library with construction following in August. Although the site was a landfill it did overlook Boston, [[Dorchester Bay (Boston Harbor)|Dorchester Bay]] and the [[Atlantic ocean|ocean]]. The area was covered in {{convert|15|ft|m}} of earth and [[topsoil]].&lt;ref name=&quot;jfkl.org-Pei&quot; /&gt; Pei was particularly proud of the landscaping results.&lt;ref name=&quot;WGBH&quot; /&gt;
+
+The design would be a simple geometric structure with a large glass pavilion. The concrete tower stands {{convert|125|ft|m}} tall and houses offices and archives. A circular section contains two theaters and is connected to the tower by the {{convert|115|foot|m}} grey-glass pavilion. The [[concrete]] finish of the building directly reflects the budget.&lt;ref name=&quot;Huxtable1979&quot; /&gt; With more money Pei would have made the building with stone which he believes offers a nicer finish with more detail.&lt;ref name=&quot;WGBH&quot; /&gt; The materials chosen kept the costs within budget, in total costing $20.8 million.&lt;ref name=&quot;Huxtable1979&quot; /&gt;
+
+Over 30 million people contributed to the cost of construction,&lt;ref name=&quot;jfkl.org-LibraryDedication&quot;&gt;{{cite web
+ | url = http://www.jfklibrary.org/JFK+Library+and+Museum/Kennedy+Library+Foundation/History/Dedication.htm
+ | title = Library Dedication
+ | accessdate = August 17, 2008
+ | publisher = John F. Kennedy Presidential Library and Museum
+ | archiveurl = https://web.archive.org/web/20080724112309/http://www.jfklibrary.org/JFK+Library+and+Museum/Kennedy+Library+Foundation/History/Dedication.htm &lt;!--Added by H3llBot--&gt;
+ | archivedate = July 24, 2008
+}}&lt;/ref&gt; which more than 225 construction workers labored to complete before the end of 1979.&lt;ref name=&quot;jfkl.org-Pei&quot; /&gt;
+
+===Dedication===
+The official dedication was held on October 20, 1979. Outside the building on [[lawn|the green]], on a blue-carpeted stage with a bank of yellow [[chrysanthemum]]s sat the Kennedy family and those close to them. Among many others, President [[Jimmy Carter]] was in their company. The ceremony began with President Kennedy’s daughter, [[Caroline Kennedy]], introducing her brother, [[John F. Kennedy, Jr.]], who read from the [[Stephen Spender]] poem, ''I Think Continually of Those Who Were Truly Great''.
+
+President Carter said of John F. Kennedy that he embodied “the ideals of a generation as few public figures have ever done in the history of the earth.”&lt;ref name=&quot;TerranceSmith&quot;&gt;{{cite news
+ | first1 = Terrance
+ | last1 = Smith
+ |author2=Paul Goldberger
+ | title = Carter and Kennedy Share Stage at Library Dedication; Attack on Oil Companies
+ | format = PDF
+ | work = Special to The New York Times
+ | publisher = The New York Times
+ | location = Boston
+ | page = Front page
+ | date = October 21, 1979
+ | accessdate = August 16, 2008
+ | quote = &quot;It was a grievous personal loss Mr. Carter said &quot;My President. I wept openly for the first time in more than 10 years — for the first time since the day my own father died.&quot; – &quot;On the blueu-carpeted state, set off by a bank of yellow chrysanthemums, the Kennedys dominated the scene. The late President's widow, Jacqueline Onassis sat cool and composed next to her children, Caroline and John F. Kennedy Jr.,...&quot;
+ }}&lt;/ref&gt;&lt;ref name=&quot;jfkl.org-CarterDedication&quot;&gt;{{cite web
+| url =  http://www.jfklibrary.org/JFK+Library+and+Museum/Kennedy+Library+Foundation/History/1979+Dedication+Speech+by+President+Carter.htm
+| title = 1979 Dedication Remarks by President Carter
+| accessdate = August 17, 2008
+| publisher = John F. Kennedy Presidential Library and Museum
+}}&lt;/ref&gt; He spoke of openly weeping upon hearing about the death of Kennedy, something that he had not done since his own father died, ten years before. Afterwards, he accepted the library “on behalf of the American people”&lt;ref name=&quot;TerranceSmith&quot; /&gt; and the [[National Archives and Records Administration]].&lt;ref name=&quot;jfkl.org-LibraryDedication&quot; /&gt;
+
+Senator [[Ted Kennedy|Edward M. Kennedy]], said of his brother's life, that it &quot;was a voyage of discovery, a quest for excellence that inspired universal trust and faith. In that brief unfinished journey, he made us believe once more in the great historic purpose of this land. He filled America with pride and made the nation young again.&quot;&lt;ref name=&quot;jfkl.org-Tedication&quot;&gt;{{cite web
+| url =  http://www.jfklibrary.org/JFK+Library+and+Museum/Kennedy+Library+Foundation/History/1979+Dedication+Speech+by+Senator+Edward+Kennedy.htm
+| title = 1979 Dedication Remarks by Senator Kennedy
+| accessdate = August 17, 2008
+| publisher= John F. Kennedy Presidential Library and Museum
+}}&lt;/ref&gt;
+
+Critics generally liked the finished building, but the architect himself was unsatisfied. The years of conflict and compromise had changed the nature of the design, and Pei felt that the final result lacked its original passion. &quot;I wanted to give something very special to the memory of President Kennedy,&quot; he said in 2000. &quot;It could and should have been a great project.&quot;&lt;ref name=&quot;vb56&quot;&gt;von Boehm, p. 56.&lt;/ref&gt; Perhaps the most important consequence of the Kennedy project for Pei was his elevation in the public's consciousness as an architect of note.&lt;ref&gt;Wiseman, p. 119.&lt;/ref&gt; Pei considered the John F. Kennedy Library &quot;the most important commission in my life.&quot;&lt;ref name=&quot;vb56&quot;/&gt;
+
+==Exhibits and collection==
+The library's first floor features a museum containing video monitors, family photographs, political memorabilia. Visitors to the museum begin their visit by watching a film narrated by President Kennedy in one of two cinemas that show an orientation film, and a third shows a documentary on the [[Cuban Missile Crisis]].
+
+The are seven permanent exhibits:&lt;ref&gt;[http://www.jfklibrary.org/Exhibits/Permanent-Exhibits.aspx Permanent Exhibits], John F. Kennedy Presidential Library and Museum.&lt;/ref&gt;
+
+* Campaign Trail – Exhibit on the [[United States presidential election, 1960|presidential campaign of 1960]] and [[New Frontier]], featuring [[1960 Democratic National Convention]] memorabilia, and a replica of a Kennedy campaign office.&lt;ref&gt;[http://www.jfklibrary.org/Exhibits/Permanent-Exhibits/Campaign-Trail.aspx Campaign Trail], John F. Kennedy Presidential Library and Museum.&lt;/ref&gt;
+* The Briefing Room – Exhibit on Kennedy's speeches and [[press conference]]s.&lt;ref&gt;[http://www.jfklibrary.org/Exhibits/Permanent-Exhibits/Briefing-Room.aspx The Briefing Room], John F. Kennedy Presidential Library and Museum.&lt;/ref&gt;
+* The Space Race – Exhibit on the [[Space Race]] and the [[NASA|U.S. space program]] during [[Project Mercury]]; features the [[Mercury-Redstone 3]] (''Freedom 7'') [[space capsule]] in which astronaut [[Alan B. Shepard]] became the first American in space.&lt;ref&gt;[http://www.jfklibrary.org/Exhibits/Permanent-Exhibits/The-Space-Race.aspx The Space Race], John F. Kennedy Presidential Library and Museum.&lt;/ref&gt; The capsule, which was displayed at the [[United States Naval Academy|United States Naval Academy's]] Armel-Leftwich Visitor Center from 1998 to 2012, came to the JFK Library in 2012, and will return to the [[Smithsonian Institution|Smithsonian Institution's]] [[National Air and Space Museum]] in Washington, D.C., in 2016.&lt;ref&gt;Sarah N. Mattero, [https://www.boston.com/metrodesk/2012/09/12/historic-space-capsule-goes-display-kennedy-library-boston/qSiXByXIs5jfJkMiY2V7PO/story.html Historic space capsule goes on display at Kennedy Library in Boston] (Sep 12, 2012). ''Boston Globe''.&lt;/ref&gt;&lt;ref&gt;[http://www.jfklibrary.org/Exhibits/Special-Exhibits/Freedom-7-Space-Capsule.aspx ''Freedom 7'' Space Capsule], John F. Kennedy Presidential Library and Museum.&lt;/ref&gt;
+* Attorney General's Office – Exhibit on [[United States Attorney General|Attorney General]] [[Robert F. Kennedy]], President Kennedy's brother and closest political advisor. Features information on RFK's role in fighting organized crime as chief counsel for the [[United States Senate Select Committee on Improper Activities in Labor and Management|Senate McClellan Committee]], and the [[United States Department of Justice|Department of Justice's]] role in the [[American Civil Rights Movement]] during RFK's time as attorney general. The centerpiece of the exhibit are items that RFK had in his office at the [[Robert F. Kennedy Department of Justice Building|Department of Justice Building]]. These include documents, personal items, and a [[Bust (sculpture)|bust]] of Winston Churchill by [[Leo Cherne]].&lt;ref&gt;[http://www.jfklibrary.org/Exhibits/Permanent-Exhibits/Attorney-Generals-Office.aspx Attorney General's Office], John F. Kennedy Presidential Library and Museum.&lt;/ref&gt;
+* The Oval Office – Exhibit features information on the [[American Civil Rights Movement]] during the Kennedy presidency, and items that Kennedy kept in the [[Oval Office]].&lt;ref&gt;[http://www.jfklibrary.org/Exhibits/Permanent-Exhibits/The-Oval-Office.aspx The Oval Office], John F. Kennedy Presidential Library and Museum.&lt;/ref&gt;
+* First Lady Jacqueline Bouvier Kennedy – Exhibit on the life of [[First Lady of the United States|First Lady]] [[Jacqueline Kennedy Onassis|Jacqueline Bouvier Kennedy]]; features footage of the First Lady and artifacts from her life, include several pieces of clothing.&lt;ref&gt;[http://www.jfklibrary.org/Exhibits/Permanent-Exhibits/First-Lady-Jacqueline-Bouvier-Kennedy.aspx First Lady Jacqueline Bouvier Kennedy], John F. Kennedy Presidential Library and Museum.&lt;/ref&gt;
+* The Kennedy Family – This exhibit on the famous [[Kennedy family]] features a number of artifacts, including [[Kathleen Cavendish, Marchioness of Hartington|Kathleen Kennedy's]] [[American Red Cross|Red Cross]] uniform jacket, a commemorative cup, a [[blackthorn]] [[walking stick]], and a replica of the Great Mace of [[Galway]], Ireland.&lt;ref&gt;[http://www.jfklibrary.org/Exhibits/Permanent-Exhibits/The-Kennedy-Family.aspx The Kennedy Family], John F. Kennedy Presidential Library and Museum.&lt;/ref&gt;
+
+[[File:John F Kennedy sailboat Victura at Kennedy LibraryIMG 20160510 141846009 HDRc.jpg|thumb|160px|The sailboat ''Victura'' and the exterior of the Library]]
+
+Among the Library's art collection is a 1962 portrait of Robert F. Kennedy by [[Lajos Markos]],&lt;ref&gt;[http://www.jfklibrary.org/Asset-Viewer/hmnCxXiHFUeQq-_MmbmKsg.aspx Portrait of Robert F. Kennedy], John F. Kennedy Presidential Library and Museum.&lt;/ref&gt; a watercolor sketch of John F. Kennedy by [[Jamie Wyeth]],&lt;ref&gt;[http://www.jfklibrary.org/Asset-Viewer/hmnCxXiHFUeQq-_MmbmKsg.aspx Portrait of John F. Kennedy], John F. Kennedy Presidential Library and Museum.&lt;/ref&gt; a watercolor painting of the [[White House]] painted by Jacqueline Kennedy and given as a gift to her husband, who had it hung in the Oval Office,&lt;ref&gt;[http://www.jfklibrary.org/Asset-Viewer/hmnCxXiHFUeQq-_MmbmKsg.aspx The White House Long Ago], John F. Kennedy Presidential Library and Museum.&lt;/ref&gt; a [[fingerpaint]]ing by [[Caroline Kennedy]] as a child,&lt;ref&gt;[http://www.jfklibrary.org/Asset-Viewer/hmnCxXiHFUeQq-_MmbmKsg.aspx Finger Painting by Caroline Kennedy], John F. Kennedy Presidential Library and Museum&lt;/ref&gt; and a bust of John F. Kennedy sculpted by [[Felix de Weldon]].&lt;ref&gt;[http://www.jfklibrary.org/Asset-Viewer/hmnCxXiHFUeQq-_MmbmKsg.aspx Bust of John F. Kennedy], John F. Kennedy Presidential Library and Museum.&lt;/ref&gt;
+
+Kennedy's 25-foot [[Wianno Senior]] [[sailboat]] ''Victura'' is on display on the grounds of the Library from May to October.  Acquired by the family when Kennedy was 15, it played an important role in forging sibling bonds and, after the president's death, continued being sailed by other members of the family, especially race-enthusiast brother [[Ted Kennedy|Ted]].&lt;ref&gt;{{cite book|last1=Graham|first1=James|title=Victura: the Kennedys, a Sailboat, and the Sea|date=April 1, 2014|publisher=ForeEdge/University Press of New England|location=Lebanon, NH|isbn=978-1-61168-411-7|pages=3–10|edition=First}}&lt;/ref&gt;&lt;ref&gt;[http://www.jfklibrary.org/Visit/Plan-Your-Trip.aspx Plan Your Trip], John F. Kennedy Presidential Library and Museum.&lt;/ref&gt;
+
+The Library has a variety of temporary and special exhibits.&lt;ref&gt;[http://www.jfklibrary.org/Exhibits/Past-Exhibits.aspx Past Exhibits], John F. Kennedy Presidential Library and Museum.&lt;/ref&gt;
+
+==Archives==
+[[Image:JFK PT-109 Coconut.jpg|thumb|160px|President Kennedy had the coconut made into a paperweight. It sat on the [[Resolute desk|''Resolute'' desk]], which Kennedy used in the Oval Office. The message reads: &quot;NAURO ISL… COMMANDER… NATIVE KNOWS POS'IT… HE CAN PILOT… 11 ALIVE… NEED SMALL BOAT… KENNEDY&quot;]]
+
+===Audiovisual===
+The audiovisual archives contain over 400,000 still photographs taken from 1863–1984, over 7.5 million feet (2.29×[[one million|10&lt;sup&gt;6&lt;/sup&gt;]] m) of film shot between 1910–83, and 11,000 reels of audio recordings from 1910–85.&lt;ref name=&quot;jfkl.org-AV&quot;&gt;{{cite web
+ | url = http://www.jfklibrary.org/Historical+Resources/Archives/Audiovisual/
+ | title = Audiovisual archives
+ | accessdate = August 17, 2008
+ | publisher = John F. Kennedy Presidential Library and Museum
+}}&lt;/ref&gt;
+
+===Oral-history project===
+Begun in 1964, the oral-history project was a unique undertaking to document and preserve interviews with those associated with Kennedy. Initially expected to have about 150 participants,&lt;ref name=&quot;LewisMarch&quot; /&gt; today it contains over 1,100 interviews and continues to this day.&lt;ref name=&quot;jfkl.org-oral-history&quot;&gt;{{cite web
+ | url = http://www.jfklibrary.org/Historical+Resources/Archives/Oral+History+Project/About+the+Oral+History+Program.htm
+ | title = The Oral History Program
+ | accessdate = August 17, 2008
+ | publisher = John F. Kennedy Presidential Library and Museum
+}}  {{webarchive |url=https://web.archive.org/web/20100518194718/http://www.jfklibrary.org/Historical+Resources/Archives/Oral+History+Project/About+the+Oral+History+Program.htm |date=May 18, 2010 }}&lt;/ref&gt; It is modelled after a program by the [[Columbia University Oral History Research Office]], the worlds oldest, which began in 1948.&lt;ref name=&quot;LewisJanuary&quot; /&gt; At its conception, while serving as Attorney General, Robert Kennedy speculated that some of the interviews, such as ones relating to the Cuban Missile Crisis, might have to be sealed for a while due to containing &quot;highly classified material.&quot; He said that although the emphasis would be on releasing everything as soon as possible, some items might remain closed for 10 to 25 years.&lt;ref name=&quot;LewisJanuary&quot; /&gt;
+
+Because the interviewees are allowed to review their transcripts before the interviews are released for use by scholars, the audio may differ from the written record; so that the interviewing may disambiguate any misunderstanding in their speech and make it clear in a written form.&lt;ref name=&quot;jfkl.org-oral-history&quot; /&gt;
+
+===Artifacts===
+The library keeps a wide range of artifacts, many of which can be found in their respective exhibits. One is the original coconut on which a rescue message was inscribed by Kennedy to rescue the crew of the ''[[Motor Torpedo Boat PT-109|PT-109]]'', and which was delivered by [[Biuku Gasa and Eroni Kumana]], natives of the [[Solomon Islands]].&lt;ref name=&quot;jfkl.org-coconut&quot;&gt;{{cite web
+ | url = http://www.jfklibrary.org/Asset+Tree/Asset+Viewers/Image+Asset+Viewer.htm?guid={B834EA62-0711-47A4-9EC1-E00C12CF9390}&amp;type=Image
+ | title = Coconut Shell Paperweight
+ | accessdate = August 17, 2008
+ | publisher = John F. Kennedy Presidential Library and Museum
+ | archiveurl = https://web.archive.org/web/20080621024952/http://www.jfklibrary.org/Asset+Tree/Asset+Viewers/Image+Asset+Viewer.htm?guid=%7BB834EA62-0711-47A4-9EC1-E00C12CF9390%7D&amp;amp;type=Image &lt;!--Added by H3llBot--&gt;
+ | archivedate = June 21, 2008
+}}&lt;/ref&gt;
+
+==The Ernest Hemingway Collection==
+The library is also home to a collection of documents and belongings from [[Ernest Hemingway]].  The collection was established in 1968 following an exchange of letters between [[Mary Welsh Hemingway|Hemingway's widow Mary]] and [[Jacqueline Kennedy]] that confirmed that Hemingway's papers would be archived there.&lt;ref name=&quot;ehchist&quot;&gt;{{cite web
+ | url= http://www.jfklibrary.org/Research/The-Ernest-Hemingway-Collection/History-of-the-Hemingway-Collection.aspx| title = History of the Collection – John F. Kennedy and Ernest Hemingway
+ | publisher = John F. Kennedy Presidential Library and Museum
+ | accessdate = July 10, 2012}}&lt;/ref&gt; In 1961, despite a U.S. travel ban to Cuba, President Kennedy had arranged to allow Mary Hemingway to go there to claim her recently deceased husband's documents and belongings.&lt;ref name=&quot;ehchist&quot;/&gt;  A room for the collection was dedicated on July 18, 1980 by [[Patrick Hemingway]] and Jacqueline Kennedy Onassis.&lt;ref name=&quot;ehchist&quot;/&gt;
+
+The Ernest Hemingway Collection spans Hemingway's career, and includes &quot;ninety percent of existing Hemingway manuscript materials, making the Kennedy Library the world's principal center for research&quot; on his life and work.&lt;ref name=&quot;ehccoll&quot;&gt;{{cite web
+ | url = http://www.jfklibrary.org/Research/The-Ernest-Hemingway-Collection/Highlights.aspx
+ | title = Highlights
+ | publisher = John F. Kennedy Presidential Library and Museum
+ | accessdate = July 10, 2012}}&lt;/ref&gt;  It includes:&lt;ref name=&quot;ehccoll&quot;/&gt;
+*Over 1000 manuscripts of varying lengths, including hand-written drafts of ''[[The Sun Also Rises]]'' and dozens of hand-drafted alternate endings to ''[[A Farewell to Arms]]'';
+*Research material on bullfighting, used as background for ''[[Death in the Afternoon]]'' and ''[[The Dangerous Summer]]''
+*Thousands of letters written by or to Hemingway; this included correspondence with fellow writers such as [[Sherwood Anderson]], [[Carlos Baker]], [[John Dos Passos]], [[William Faulkner]], [[F. Scott Fitzgerald]], [[Robert Frost]], [[Martha Gellhorn]], [[A. E. Hotchner]], [[James Joyce]], [[Archibald MacLeish]], [[Ezra Pound]], and [[Gertrude Stein]], as well as with actress [[Marlene Dietrich]], restaurateur [[Toots Shor]], Cardinal [[Francis Spellman]], publisher [[Charles Scribner II|Charles Scribner]], his editor [[Maxwell Perkins]], and his lawyer Alfred Rice
+*More than 10,000 photographs, as well as press clippings and other [[ephemera]]
+*Books from his private library, many with [[marginalia]], and including a rare copy of [[Francisco Goya]]'s ''[[Los disparates|Los Proverbios]]''.
+
+==2013 fire==
+On April 15, 2013, a fire occurred in the library. Initial reports stated the fire appears to have started in a mechanical room.&lt;ref&gt;{{cite web
+ | url = https://twitter.com/JFKLibrary/status/323894491075444736
+ | title = JFK Library Twitter Post
+ | accessdate = April 15, 2013}}&lt;/ref&gt; An official communication from the library stated that the fire is being investigated. The fire was unrelated to the [[Boston Marathon bombings]], which occurred simultaneously.&lt;ref&gt;{{cite web
+ | url = https://twitter.com/JFKLibrary/status/323894638681419776
+ | title = JFK Library Twitter Post
+ | accessdate = April 15, 2013}}&lt;/ref&gt;
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+{{refbegin}}
+*von Boehm, Gero. ''Conversations with I.M. Pei: Light is the Key''. Munich: Prestel, 2000. ISBN 3-7913-2176-5.
+*Wiseman, Carter. ''I.M. Pei: A Profile in American Architecture''. New York: H.N. Abrams, 2001. ISBN 0-8109-3477-9.
+{{refend}}
+
+==External links==
+{{commons category|John F. Kennedy Library}}
+* [http://www.jfklibrary.org/ John F. Kennedy Library and Museum]
+* [http://store.jfklibrary.org/ John F. Kennedy Library and Museum Online Store]
+
+{{US presidential libraries}}
+{{John F. Kennedy|state=expanded}}
+{{Robert F. Kennedy}}
+{{Ernest Hemingway}}
+{{PT-109}}
+{{BostonMA}}
+{{Boston landmarks}}
+{{University of Massachusetts Boston}}
+{{Good article}}
+
+[[Category:I. M. Pei buildings|Kennedy, John F. Library]]
+[[Category:John F. Kennedy|Library]]
+[[Category:Landmarks in Boston]]
+[[Category:Library buildings completed in 1979]]
+[[Category:Museums in Boston]]
+[[Category:Presidential libraries|Kennedy, John F. Library]]
+[[Category:Presidential museums in Massachusetts]]</text>
+      <sha1>jm2fe4xzpd9t9bcu7xc22p3bqd44nrz</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -13,7 +13,7 @@ var fields = ["characterCount", "wordCount", "syllableCount", "sentenceCount", "
 var trigrams = [ "he_","ing","ng_","_th","the","_of","of_","in_","_in","ion","on_","ed_","_an","and","nd_","er_","_to","to_","as_","DT,NNP,NNP","NNP,NNP,NNP","DT,NN,IN","NN,IN,DT","IN,DT,NNP","NNP,NNP,IN","NNP,IN,NNP","NNP,IN,DT","IN,DT,NN","DT,NN,VBD","NNS,IN,DT","NNP,NNP,VBD","JJ,NN,IN","IN,DT,JJ","DT,JJ,NN","NN,IN,NNP","IN,NNP,NNP","VBD,DT,NN","VBD,VBN,IN","VBN,IN,DT","NN,IN,NN","IN,NN,IN","JJ,NNS,IN","NN,CC,NN","IN,JJ,NNS","IN,DT,NNS","TO,VB,DT","DT,NN,NN","NNP,NNP,CC","IN,JJ,NN","NNP,CC,NNP","NNP,POS,NN","NN,IN,JJ" ]
 
 
-converter.fromFile("datasets/datasetWithTrigrams.csv",function(err,result){
+converter.fromFile("datasets/datasetWithTrigrams.csv", (err, res) => {
   if (err) throw err
   var dataset = result
 

@@ -1,0 +1,153 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>West Liberty Foods</title>
+    <ns>0</ns>
+    <id>5776207</id>
+    <revision>
+      <id>750205234</id>
+      <parentid>750197699</parentid>
+      <timestamp>2016-11-18T09:17:23Z</timestamp>
+      <contributor>
+        <username>My Chemistry romantic</username>
+        <id>25052795</id>
+      </contributor>
+      <minor/>
+      <comment>Disambiguated: [[West Liberty]] → [[West Liberty, Iowa]] using [[WP:DABSOLVER|Dab solver]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18585">{{Use mdy dates|date=October 2012}}
+{{Infobox company
+ |  name   = West Liberty Foods, L.L.C.
+ |  logo   = [[File:WestLibertyFoods Logo.png|West Liberty Foods logo|68px]]
+ |  type   = Private company
+ |  foundation     = {{Start date|1996|df=n}} in [[West Liberty, Iowa]]
+ |  location       = [[West Liberty, Iowa]]
+ |  key_people     = Ed Garrett, President and CEO
+ |  industry       = [[Meat Processing]]
+ |  products       = Sliced Meats&lt;br /&gt;Other meat products
+ |  num_employees  = 2,600 (2016)
+ |  homepage       = {{URL|www.wlfoods.com}}
+}}
+'''West Liberty Foods, [[Limited liability company|L.L.C.]]''' is a US [[meat packing industry|meat processing]] company owned by the Iowa Turkey Growers Cooperative and formed in 1996&lt;ref name=&quot;Young1&quot;&gt;{{cite news |author = Young, Barbara |title = Growth Essentials. |work = National Provisioner, The |date = May 2004 }}&lt;/ref&gt; by a group of [[Iowa]] [[Domesticated turkey|turkey]] growers,&lt;ref name=&quot;O'Keefe&quot;&gt;{{cite news |author = O’Keefe, Terrence |year = 2003 |title = A Slice of the Future |url = http://www.wlfoods.com/0703wp26.pdf |publisher = West Liberty Foods |accessdate = 2006-06-30 |archiveurl = https://web.archive.org/web/20060329082524/http://www.wlfoods.com/0703wp26.pdf |archivedate = March 29, 2006}}&lt;/ref&gt; and now owns four meat processing plants.&lt;ref name=&quot;Plants&quot;&gt;{{cite web|url= http://www.wlfoods.com/about/plants.htm |title=Plants |accessdate=07-05 2007 |archiveurl = https://web.archive.org/web/20070307112647/http://www.wlfoods.com/about/plants.htm |archivedate = March 7, 2007}}&lt;/ref&gt;  The company mainly produces [[Product (business)|products]] for [[customers]] to sell under their own brand names.&lt;ref name=&quot;O'Keefe&quot; /&gt; As of 2006, West liberty Foods was the 12th largest turkey company in the United States.&lt;ref name=&quot;O'Keefe2&quot;&gt;{{cite news |author = O’Keefe, Terrence |url = http://www.wattpoultryusa-digital.com/wattpoultryusa/200702/?pg=64 |title = Top Turkey Company Profiles |work = Watt Poultry USA |date = February 2007 |accessdate = 2007-07-27 }}&lt;/ref&gt;
+
+The company has four facilities in three states. Headquartered in [[West Liberty, Iowa]] the company has a vertically integrated turkey plant in [[West Liberty, Iowa|West Liberty]] that processes 200 million pounds&lt;ref&gt;Estimated fiscal 2014 live weight&lt;/ref&gt; of live turkeys annually. The company also has manufacturing facilities in [[Mount Pleasant, Iowa]], [[Tremonton, Utah]], and [[Bolingbrook, Illinois]]. The company has over a 400MM pound capacity to further process multiple proteins including turkey, ham, chicken, and beef.
+
+==Information==
+[[File:WL Plant Entrance.JPG|thumb|400px|right|Main entrance to the company’s plant in [[West Liberty, Iowa]]]]
+Most known for sliced luncheon meats, today they produce sliced, individually quick frozen (IQF) and specialty protein products for both foodservice and retail. In addition to turkey processing, the company produces products in all proteins including beef, chicken, pork, and turkey.Company [[revenue]] has grown rapidly with US$65 million in sales during 1997, US$120 million in 2000, and US$200 million in 2003.&lt;ref name=&quot;O'Keefe&quot; /&gt;&lt;ref name=&quot;Phoenix&quot;&gt;{{cite web|url= http://www.wlfoods.com/news/meatprocess.html |title=The Iowa Phoenix |accessdate=August 14, 2006 |date=October 2000 |work=Meat Processing |archiveurl = https://web.archive.org/web/20060329082642/http://www.wlfoods.com/news/meatprocess.html |archivedate = March 29, 2006}}&lt;/ref&gt;  West Liberty Foods posted US$442 million in revenue for 2006,&lt;ref name=&quot;O'Keefe2&quot; /&gt; and most recently posting net sales of $775 in 2015 making the company the 38th largest meat processor company by sales in the United States.&lt;ref&gt;http://www.provisioneronline.com/2016-top-100-meat-and-poultry-processors&lt;/ref&gt;  Much of the company's sales come from large nationwide [[foodservice]] customers,&lt;ref name=&quot;Young3&quot;&gt;{{cite news|title=Extraordinary Chief Executive.|date=January 2006|work=National Provisioner, The|author=Young, Barbara}}&lt;/ref&gt; and over the past several years has grown the retail side of the business through the growing popularity of Antibiotic Free Lunchmeats (ABF). West Liberty Foods' four plants have been [[ISO 14000|ISO 14001:2004]] certified for meeting environmental management standards, and the West Liberty plant was the first turkey processing plant in the United States to receive this [[Professional certification|certification]].&lt;ref name=&quot;Enviro&quot;&gt;{{cite web|url= http://www.wlfoods.com/about/environment.htm |title=Environment |accessdate=August 14, 2006 |archiveurl = https://web.archive.org/web/20060618232122/http://wlfoods.com/about/environment.htm |archivedate = June 18, 2006}}&lt;/ref&gt; West Liberty Foods is also a Landfill Free company meaning less than 1% of all waste is sent to the landfill. 99% of total waste is either recycled, composted, or sent to waste-to-energy facilities. In total, since beginning the initiative in 2012 the company has diverted over 520 million lbs from the landfill. This has been 3rd party verified by NSF Strategic Registrations.&lt;ref&gt;{{cite web|url=http://www.nsf.org/services/by-industry/sustainability-environment/landfill-free|title=Landfill-Free Verification - NSF International|website=www.nsf.org|access-date=2016-11-17}}&lt;/ref&gt;
+
+West Liberty Foods maintains a USDA inspected Research &amp; Development pilot plant and laboratory [[Experiment|testing]] services.  The R&amp;D facility includes testing space for both [[raw food|raw]] and cooked product, and can create test products from start to finish, including initial formulation, final slicing, and [[Packaging and labelling|packaging]].&lt;ref name=&quot;Young1&quot; /&gt;  The lab conducts product quality testing [[polymerase chain reaction]] (PCR) technology for rapid bacteriological testing.&lt;ref name=&quot;Bagel&quot;&gt;{{cite news |author = Bagel, Ann |title = Food Safety First |work = Poultry |page = 16 |date = Apr–May 2005 }}&lt;/ref&gt;  This system can return results within 30 hours of production.&lt;ref name=&quot;Bagel&quot; /&gt;
+
+==History==
+Prior to 1996, [[Oscar Mayer|Louis Rich]], the brand name for [[Oscar Mayer]]'s turkey [[Division (organisation)|division]], owned the processing plant in West Liberty, IA.&lt;ref name=&quot;O'Keefe&quot; /&gt;  In early 1996, Oscar Mayer's parent company, [[Kraft Foods]], announced that they would close the plant that December if no buyer purchased it.&lt;ref name=&quot;Grocer&quot;&gt;{{cite web|url=http://www.wlfoods.com/news/iowa-gr.htm |title= West Liberty Foods Finds Success with Cooperation |accessdate=August 14, 2006 |year=2006 |work=Iowa Grocer |archiveurl = https://web.archive.org/web/20060329082713/http://www.wlfoods.com/news/iowa-gr.htm |archivedate = March 29, 2006}}&lt;/ref&gt;  The Iowa turkey growers who sold to Kraft discussed purchasing the plant to ensure that [[Supply and demand|demand]] for their birds remained.&lt;ref name=&quot;O'Keefe&quot; /&gt;  In May 1996, forty-seven of the turkey growers formed the Iowa Turkey Growers Cooperative(ITGC).&lt;ref name=&quot;O'Keefe&quot; /&gt;  ITGC purchased the plant from Kraft and took control of it in December.&lt;ref name=&quot;O'Keefe&quot; /&gt;  The growers hired meat industry veteran Ken Rutledge to be President and COO of the company.&lt;ref name=&quot;Find&quot;&gt;{{cite web|url= http://www.wlfoods.com/news/niche.html |title=Finding the Right Niche |accessdate=August 14, 2006 |date=October 2006 |work=Meat Processing |archiveurl = https://web.archive.org/web/20060329082721/http://www.wlfoods.com/news/niche.html |archivedate = March 29, 2006}}&lt;/ref&gt; Oscar Mayer helped West Liberty Foods by promising to purchase half of the plant's output in 1997 and a quarter of the output in 1998 to help the [[startup company]].&lt;ref name=&quot;AP&quot;&gt;{{cite news | agency =Associated Press | title =Low Prices Hurt Turkey Co-Op | work =Telegraph Herald | page =A5 | date =December 15, 1997 | accessdate =2006-07-31 }}, cited at Newsbank/Infoweb&lt;/ref&gt;
+
+Production under ITGC ownership began in January 1997.&lt;ref name=&quot;O'Keefe&quot; /&gt;  The company faced financial difficulty because the turkey market was oversupplied and prices hit historic lows.&lt;ref name=&quot;O'Keefe&quot; /&gt;  While financial projections assumed a price of US$1.92 per pound for turkey, prices averaged US$1.46 per pound in 1997.&lt;ref name=&quot;AP&quot; /&gt; During this time period, four of the growers left ITGC.&lt;ref name=&quot;Grocer&quot; /&gt;  Turkey prices eventually rebounded, and the company was bolstered by sales to [[Sara Lee (corporation)|Sara Lee]] near the end of 1998.&lt;ref name=&quot;O'Keefe&quot; /&gt;
+
+Since the rebound, West Liberty Foods’ sales have grown steadily.&lt;ref name=&quot;O'Keefe&quot; /&gt;  In 2000, the company acquired a second plant in Sigourney, IA from [[Pinnacle Foods]] to meet rising [[Order (business)|orders]].The facility was sold in 2012.&lt;ref name=&quot;O'Keefe&quot; /&gt;  The company grew again in April 2003 when it opened a processing plant in Mount Pleasant, IA which was later expanded in 2004.&lt;ref name=&quot;Young2&quot;&gt;{{cite news |author = Young, Barbara |title = Branding Food Safety. |work = National Provisioner, The |date = May 2004}}&lt;/ref&gt;  Company leadership changed in 2004 as Ed Garrett was named president and CEO when Rutledge resigned to take a position with another growers' organization.&lt;ref name=&quot;Change&quot;&gt;{{cite news |url = http://www.zwire.com/site/news.cfm?newsid=11094778&amp;BRD=1105&amp;PAG=461&amp;dept_id=151632&amp;rfi=8 |title = Change at the Top of WL Foods |work = West Liberty Index |date = March 9, 2004 | accessdate = 2006-06-14 }}&lt;/ref&gt; In 2007 they opened their doors in Tremonton, Utah and in 2014 acquired a manufacturing operation in Bolingbrook, IL. In February 2016, the company opened a 175,000 square-foot cold storage complex in Bolingbrook, IL that operates under the name Liberty Cold.&lt;ref&gt;{{Cite news|url=http://www.refrigeratedfrozenfood.com/articles/90361-liberty-cold-opens-doors-to-new-cold-storage-facility|title=Liberty Cold opens doors to new cold storage facility|access-date=2016-11-17}}&lt;/ref&gt;
+
+==Plants==
+
+===West Liberty, Iowa ===
+The West Liberty plant is a {{convert|270000|sqft|m2|adj=on}} facility which slaughters and further processes turkey products.&lt;ref name=&quot;O'Keefe&quot; /&gt;  The slaughter operation converts approximately 22,000 turkeys per day and produces turkey, ham, roast beef, chicken, dry sausage, and specialty meats. This facility employs over 850 team members and is both ISO 14001 certified and BRC certified. This facility is also Landfill Free verified.
+
+West Liberty Foods is also headquartered in West Liberty, Iowa
+
+===Mount Pleasant, Iowa ===
+The Mount Pleasant plant is a {{convert|84000|sqft|m2|sing=on}} facility that is used for slicing fully cooked turkey, chicken, beef, pork and dry sausage. The plant employs approximately 500 people&lt;ref name=&quot;O'Keefe2&quot; /&gt; working in three shifts.&lt;ref name=&quot;Young2&quot; /&gt;  A {{convert|68000|sqft|m2|sing=on}} cold storage facility is located adjacent to the Mount Pleasant plant operating under the name of Lineage Logistics. The two facilities are connected, and product is immediately transferred by [[Conveyor belt|conveyor]] from the plant to cold storage when packaging is complete.&lt;ref name=&quot;Bagel&quot; /&gt; Mount Pleasant has High Pressure Pasteurization (HPP) capability. This location is both ISO 14001 certified and BRC certified. This facility is also Landfill Free verified.
+
+The design and operation of the Mount Pleasant plant to are intended decrease potential hazards to food safety.&lt;ref name=&quot;Lazar&quot;&gt;{{cite news |author = Lazar, Virginia |title = Listeria Benchmark: 0 |work = Meat Processing |page = 26 |date = November 2003}}&lt;/ref&gt;  WLF representatives have stated that the goal of the Mount Pleasant plant is to create a [[pathogen]]-free environment.&lt;ref name=&quot;Lazar&quot; /&gt;  West Liberty received a patent on innovative clean room food processing systems that reduce the risk of pathogens contaminating food products. See U.S. patent number 7,707,931,132 issued May 4, 2010 for details.&lt;ref&gt;{{Citation|last=Garrett|first=Edward S.|title=United States Patent: 8216510 - Clean room food processing methods|date=July 10, 2012|url=http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=/netahtml/PTO/search-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN/8216510|last2=Woodford|first2=Richard D.|accessdate=2016-11-17}}&lt;/ref&gt;
+
+The Mount Pleasant facility consists of approximately 20 individual processing cells that are separated from one another and are set up so that they could operate as micro-plants. Before anti-microbial [[flooring]] was poured, the cells were erected with [[stainless steel]] [[Antimicrobial|anti-microbial]] walls that are built into the floor.&lt;ref name=&quot;Bagel&quot; /&gt;&lt;ref name=&quot;Lazar&quot; /&gt;  Each processing cell has independent refrigeration and [[drainage]] systems.  The refrigeration systems [[Air filter|filter]] the cell's air and maintain positive [[Pressure|air pressure]] at {{convert|38|°F|°C|abbr=on}}, and the drainage systems are sealed off and flooded with sanitizers nightly.&lt;ref name=&quot;Bagel&quot; /&gt;
+
+During operation, fully cooked meat logs arrive sealed in impermeable [[Casing (sausage)|casings]].&lt;ref name=&quot;Bagel&quot; /&gt;  The logs go through a casing sanitation step that involves being treated with a sanitizing liquid before the casings are removed from the logs.&lt;ref name=&quot;Bagel&quot; /&gt;  The logs then undergo a post-lethality treatment by passing through an [[infrared]] [[pasteurization]] tunnel to kill pathogens on the logs.&lt;ref name=&quot;O'Keefe&quot; /&gt;  The logs are then mechanically transferred to slicers, sliced, and placed in sealed packages that are transferred out of the processing cell.&lt;ref name=&quot;Bagel&quot; /&gt;  The mechanical transfers decrease the risk of product contamination by reducing handling of product by personnel .&lt;ref name=&quot;Bagel&quot; /&gt;
+
+===Sigourney, Iowa ===
+The Sigourney plant is no longer active, and has been closed. The remaining employees were released as of Wed. March 18, 2009.
+West Liberty sold the facility in 2012.
+
+===Tremonton, Utah ===
+The Tremonton plant is 242,000 square feet and houses two separate campuses separated in the middle by Lineage Logistics Cold Storage &amp; Distribution center. There is complete separation between the raw products and ready to eat products to ensure the utmost in food safety. This location utilizes technology such as fully automated individually quick frozen (IQF) lines and robotics to handle 10&amp;nbsp;ft logs. This location manufacturers turkey, ham, roast beef, chicken, dry sausage and speciality meats. They also have High Pressure Pasteurization (HPP) capabilities. This location is both ISO 14001 certified and BRC certified. This facility is also Landfill Free verified.
+
+In 2008, the Hearts &amp; Hands Children's Academy was opened and offers child care to West Liberty Foods team members. Also that year the academy was awarded the Ameritas HR Evolution Award for this accomplishment.
+
+=== Bolingbrook, Illinois ===
+West Liberty Foods purchased operations in Bolingbrook, Illinois in 2014 after the bankruptcy proceedings of Quantum Foods.&lt;ref&gt;{{Cite news|url=http://www.chicagobusiness.com/article/20140515/NEWS07/140519846/quantum-foods-to-liquidate-after-sales-deal-fails|title=Quantum Foods to liquidate after sales deal fails|newspaper=Crain's Chicago Business|access-date=2016-11-17}}&lt;/ref&gt; The company now operates the 220,000 square-foot production facility along with the 80,000 square foot culinary facility. The acquisition of this facility gave the company an expanded product portfolio due to the additional capabilities in the areas of raw portion control, par cooked, and batter/breaded. This site has an on-site R&amp;D test kitchen along with extensive culinary resources and HPP capabilities. They produce turkey ham, roast beef, and chicken with additional capabilities to produce whole muscle products.  Together the facilities employ 600 team members and is both ISO 14001 certified and BRC certified. They are also verified Landfill Free.
+
+In early 2016, Liberty Cold opened the doors to a new 173,000 square foot storage complex. It is a state-of-the-art facility designed around food safety and security as top priority bringing a focus on logistic services for local food manufacturers and distributors. Built to service 20,000 pallet positions the building is also equipt with 112 blast freezer positions, penthouse refrigeration, and LED motion lighting.
+
+==Awards==
+West Liberty Foods has received a number of awards from various organizations.
+
+* 2001 – Subway Supplier of the Year&lt;ref name=&quot;O'Keefe&quot; /&gt;
+* 2003 – Paul Hill honored by the National Council of Farmer Cooperatives&lt;ref name=&quot;Release&quot;&gt;{{cite web|url=http://www.wlfoods.com/about/news.htm|title=News and Press Releases http|accessdate=August 14, 2006|archiveurl=https://web.archive.org/web/20060618231756/http://wlfoods.com/about/news.htm|archivedate=June 18, 2006}}&lt;/ref&gt;
+* 2005 – Economic Vision Award from [[United States Department of Agriculture|USDA]] Rural Development,&lt;ref name=&quot;Venture&quot;&gt;{{cite news |url = http://www.zwire.com/site/news.cfm?newsid=1196827&amp;BRD=1105&amp;PAG=461&amp;dept_id=151632&amp;rfi=8 |title = West Liberty Foods Receives Venture Award |work = West Liberty Index |date = December 20, 2000 |accessdate = 2006-06-14 }}&lt;/ref&gt; Best Business [[Recycling]] Program award from Iowa Recycling Association,&lt;ref name=&quot;Release&quot; /&gt; Dedicated Services Award from Subway&lt;ref name=&quot;Release&quot; /&gt;
+* 2006 – Ed Garrett named &quot;Executive of the Year&quot; by The National Provisioner,&lt;ref name=&quot;Release&quot; /&gt; Mount Pleasant and Sigourney plants receive Safety Awards from Iowa-Illinois Safety Council, a chapter of the [[National Safety Council]]&lt;ref name=&quot;Release&quot; /&gt;
+* 2007 – Quality Gold Standard Award from Subway&lt;ref name=&quot;Release&quot; /&gt;
+[[Hormel]] Spirit of Excellence Award in 1998, 1999, 2000, 2001, and 2002.&lt;ref name=&quot;O'Keefe&quot; /&gt;
+* 2008 – Subway Supply Chain Partner Award – Iowa-Illinois Safety Council Safety Award -Food Quality Award
+* 2008 - Recipient of the 7th Food quality Award from DuPont Qualicon
+* 2008 - Recipient of the Ameritas HR Evolution Award
+* 2009 - Processor of the Year Award from National Provisioner Magazine
+* 2011- First Iowa Based Business to be IMAGE Certified by the U.S. Immigration and Customs Enforcement (ICE) to ensure a legal and more secure workforce
+* 2012- Subway Vendor of the Year
+* 2013 - Ed Garrett awarded Knowlton Innovation Award by MeatingPlace magazine
+* 2016 - Subway Partner Awards
+
+==References==
+{{reflist|2}}
+
+{{Good article}}
+
+[[Category:Agriculture companies of the United States]]
+[[Category:Companies based in Iowa]]
+[[Category:Cooperatives in the United States]]
+[[Category:Brand name poultry meats]]
+[[Category:Companies established in 1996]]
+[[Category:Meat processing in the United States]]</text>
+      <sha1>o83w1tfe5djjxseyniae44qs0g4ltyu</sha1>
+    </revision>
+  </page>
+</mediawiki>

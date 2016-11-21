@@ -1,0 +1,435 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Architecture of Buffalo, New York</title>
+    <ns>0</ns>
+    <id>26493033</id>
+    <revision>
+      <id>744764117</id>
+      <parentid>739674200</parentid>
+      <timestamp>2016-10-17T08:37:37Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v1.2.5)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="37710">[[File:Buffalo City Hall.jpg|thumb|right|[[Art Deco]] detail of [[Buffalo City Hall]]]] [[File:Taste of buffalo 2008.jpg|thumb|right|[[Niagara Square]] during the [[Taste of Buffalo]] in 2008]] The '''Architecture of [[Buffalo, New York]]''', particularly the buildings constructed between the [[American Civil War]] and the [[Great Depression]], is said to have created a new, distinctly American form of architecture and to have influenced design throughout the world.&lt;ref name=NYT&gt;[http://www.nytimes.com/2008/11/16/arts/design/16ouro.html nytimes.com Nicolai Ourousoff, &quot;Saving Buffalo's Untold Beauty,&quot; ''The New York Times,'' November 14, 2006]&lt;/ref&gt;
+
+==History==
+Buffalo’s original plan from the early 19th century was loosely based on [[Pierre Charles L’Enfant]]’s [[L'Enfant Plan|1791 plan]] for [[Washington, D.C.|Washington]], an Americanized version of [[Paris]]’s system of radiating boulevards.  Buffalo’s radial street grid was designed by [[Joseph Ellicott]] and complemented by a system of parks and parkways designed by [[Frederick Law Olmsted]]. Buffalo was the first city for which Olmsted designed an interconnected park and parkway system rather than stand-alone parks.
+
+[[File:Buffalo Panorama 2015.jpg|centre|thumb|1000px|Aerial view of Buffalo's skyline. At center is the [[Robert H. Jackson United States Courthouse]] and the [[Art Deco]] [[Buffalo City Hall]], with the [[Buffalo City Court Building]] to the right. On the far right is [[One Seneca Tower]], formerly the HSBC Building.]]
+
+During the [[Centennial Exposition]] of 1876 in [[Philadelphia, Pennsylvania]], [[Frederick Law Olmsted]] declared Buffalo to be &quot;the best planned city, as to its streets, public places, and grounds, in the United States, if not in the world.”&lt;ref&gt;{{cite book|last1=Kowsky|first1=Francis|title=The Best Planned City in the World: Olmsted, Vaux, and the Buffalo Park System|date=June 2013|publisher=University of Massachusetts Press|isbn=978-1-62534-006-1}}&lt;/ref&gt;
+
+According to ''The New York Times'' architecture writer Nicolai Ourousoff:
+
+&lt;blockquote&gt;[[Buffalo, New York|Buffalo]] was founded on a rich tradition of architectural experimentation. The architects who worked here were among the first to break with European traditions to create an aesthetic of their own, rooted in American ideals about individualism, commerce and social mobility.&lt;ref name=NYT /&gt;
+&lt;/blockquote&gt;
+
+The city contains buildings designed by American architecture masters like [[Frank Lloyd Wright]], [[Louis Sullivan]], and [[H.H. Richardson]], making Buffalo one of the most architecturally significant cities in America. It also contains many buildings designed by modern architects including [[Minoru Yamasaki]], [[Toshiko Mori]], and [[Harrison &amp; Abramovitz]].
+
+===Tallest buildings===
+{{main|List of tallest buildings in Buffalo}}
+{| class=&quot;wikitable sortable&quot;
+|-
+! Rank
+! Building
+! Height&lt;br /&gt;&lt;small&gt;feet/meters&lt;/small&gt;
+! Floors
+! Year
+|-
+| &lt;span style=&quot;display:none&quot;&gt;01.0&lt;/span&gt;1
+| [[One Seneca Center]]
+| &lt;span style=&quot;display:none&quot;&gt;01.0&lt;/span&gt;529 / 161
+| 40
+| 1972
+|-
+| &lt;span style=&quot;display:none&quot;&gt;02.0&lt;/span&gt;2
+| [[Buffalo City Hall]]
+| &lt;span style=&quot;display:none&quot;&gt;02.0&lt;/span&gt;398 / 121
+| 32
+| 1931
+|-
+| &lt;span style=&quot;display:none&quot;&gt;03.0&lt;/span&gt;3
+| [[Rand Building]]
+| &lt;span style=&quot;display:none&quot;&gt;03.0&lt;/span&gt;391 / 119
+| 29
+| 1929
+|-
+| &lt;span style=&quot;display:none&quot;&gt;04.0&lt;/span&gt;4
+| [[Main Place Tower]]
+| &lt;span style=&quot;display:none&quot;&gt;04.0&lt;/span&gt;350 / 107
+| 26
+| 1969
+|-
+| &lt;span style=&quot;display:none&quot;&gt;05.0&lt;/span&gt;5
+| [[Liberty Building (Buffalo, New York)|Liberty Building]]
+| &lt;span style=&quot;display:none&quot;&gt;05.0&lt;/span&gt;345 / 105
+| 23
+| 1945
+|-
+| &lt;span style=&quot;display:none&quot;&gt;06.0&lt;/span&gt;6
+| [[One M&amp;T Plaza]]
+| &lt;span style=&quot;display:none&quot;&gt;06.0&lt;/span&gt;317 / 97
+| 21
+| 1966
+|-
+| &lt;span style=&quot;display:none&quot;&gt;07.0&lt;/span&gt;7
+| [[Electric Tower]]
+| &lt;span style=&quot;display:none&quot;&gt;07.0&lt;/span&gt;294 / 90
+| 14
+| 1912
+|-
+| &lt;span style=&quot;display:none&quot;&gt;07.0&lt;/span&gt;8
+| [[St. Paul's Cathedral (Buffalo, New York)|St. Paul's Cathedral]]
+| &lt;span style=&quot;display:none&quot;&gt;07.0&lt;/span&gt;275 / 84
+| N/A
+| 1851
+|-
+| &lt;span style=&quot;display:none&quot;&gt;09.0&lt;/span&gt;9
+| [[Key Center North Tower|Key Center]]
+| &lt;span style=&quot;display:none&quot;&gt;09.0&lt;/span&gt;275 / 84
+| 17
+| 1990
+|-
+| &lt;span style=&quot;display:none&quot;&gt;10.0&lt;/span&gt;10
+| [[Buffalo Central Terminal]]
+| &lt;span style=&quot;display:none&quot;&gt;10.0&lt;/span&gt;271 / 83
+| 20
+| 1929
+|}
+
+==Notable architects==
+Numerous [[architect]]s and [[landscape architect]]s have constructed landmark buildings and park systems of varying styles in [[Buffalo, New York|Buffalo]]. They include: [[File:Frank Lloyd Wright LC-USZ62-36384.jpg|thumb|right|[[Frank Lloyd Wright]], 1926]]
+{{colbegin|2}}
+*[[Max Abramovitz]]
+*[[Dankmar Adler]]
+*[[Charles N. Agree]]
+*[[Frederick C. Backus]]
+*[[Milton Earl Beebe]]
+*[[Alfred Bossom]]
+*[[Gordon Bunshaft]]
+*[[Daniel Burnham]]
+*[[Carrère and Hastings]]
+*[[Joseph Ellicott]]
+*[[Cyrus L. W. Eidlitz]]
+*[[James A. Johnson (architect)|James A. Johnson]]
+*[[Esenwein &amp; Johnson]]
+*[[Philip M. Jullien]]
+*[[Edward Brodhead Green|E.B. Green]]
+*[[Alfred T. Fellheimer]]
+*[[Gwathmey Siegel &amp; Associates Architects]]
+*[[Wallace Harrison]]
+*[[Albert Kahn (architect)|Albert Kahn]]
+*[[Edward Austin Kent]]
+*[[Kohn Pedersen Fox]]
+*[[Lockwood, Greene &amp; Co.]]
+*[[Lord &amp; Burnham]]
+*[[Duane Lyman]]
+*[[George Washington Maher]]
+*[[McKim, Mead &amp; White]]
+*[[George Jacob Metzger]]
+*[[Toshiko Mori]]
+*[[Robert North]]
+*[[Frederick Law Olmsted]]
+*[[George B. Post]]
+*[[Cyrus Kinne Porter]]
+*[[Cornelius Ward Rapp]]
+*[[George Leslie Rapp]]
+*[[H.H. Richardson]]
+*[[Paul Marvin Rudolph]]
+*[[Eliel Saarinen]]
+*[[Eero Saarinen]]
+*[[Ellen Biddle Shipman]]
+*[[Joseph Lyman Silsbee]]
+*[[Edward Durell Stone]]
+*[[Louis Sullivan]]
+*[[Skidmore, Owings &amp; Merrill]]
+*Max Toltz
+*[[Richard Upjohn]]
+*[[Calvert Vaux]]
+*[[Stanford White]]
+*[[Frank Lloyd Wright]]
+*[[Minoru Yamasaki]]
+{{colend}}
+
+==Landmarks, monuments and public places==
+[[File:Buffalo Panorama 1911.jpg|centre|thumb|1000px|Panorama view of Buffalo in 1911, with the [[Prudential (Guaranty) Building]] left of middle]]
+
+===Albright–Knox Art Gallery===
+{{main|Albright–Knox Art Gallery}}
+[[File:Albright Knox Art Gallery Sculpture 2.jpg|thumb|right|&quot;Karma&quot; by [[Do-ho Suh]] (2010) in front of [[Albright–Knox Art Gallery]]]] The [[Albright–Knox Art Gallery]] was designed in 1890 architect [[Edward Brodhead Green]] and funded by Buffalo entrepreneur and philanthropist, [[John J. Albright]], a wealthy [[Buffalo, New York|Buffalo]] industrialist. It was originally intended to be used as the Fine Arts Pavilion for the [[Pan-American Exposition]] in 1901, but delays in its construction caused it to remain uncompleted until 1905. In 1962, a new addition was made to the gallery through the contributions of [[Seymour H. Knox II|Seymour H. Knox, Jr.]] and his family, and many other donors. At this time the museum was renamed the Albright–Knox Art Gallery. The new building was designed by [[Skidmore, Owings and Merrill]] architect [[Gordon Bunshaft]], who is noted for the [[Lever House]] in New York City. The Albright–Knox Art Gallery is listed in the [[National Register of Historic Places]].
+
+===Buffalo Central Terminal===
+{{main|Buffalo Central Terminal}}
+The [[Buffalo Central Terminal]] is a 17-story [[Art Deco]] style station designed by architects [[Fellheimer &amp; Wagner]] and built in 1929 for the [[New York Central Railroad]]. The terminal &quot;was built to handle over 200 trains and 10,000 passengers daily, as well as 1,500 New York Central employees. It included shops, a restaurant, soda fountain, parking garage and all other services required for daily passenger operations.&quot;&lt;ref&gt;{{cite web|title=History of the Buffalo Central Terminal|url=http://buffalocentralterminal.org/history/|website=buffalocentralterminal.org|accessdate=31 August 2015}}&lt;/ref&gt; It was added to the [[National Register of Historic Places]] on September 7, 1984.
+
+===Buffalo City Court Building===
+{{main|Buffalo City Court Building}}
+The [[Buffalo City Court Building]] is named ''Frank A. Sedita City Court'' (for Buffalo mayor [[Frank A. Sedita]]), and designed by ''Pfohl, Roberts and Biggie''. It is a 10-story court house built in 1974 and located in [[Niagara Square]] and adjacent to [[Buffalo City Hall]].The structure is a classic example of [[Brutalist]] architecture; its façade is dominated by large [[Precast concrete]] panels with narrow windows. The design was conceived with limited windows in order to keep the courtrooms and judges' chambers free from outside distraction.&lt;ref&gt;{{Cite web|title= City Court Building|author=LaChiusa, Chuck|url=http://www.buffaloah.com/a/del/50/index.html}}&lt;/ref&gt;
+
+===Buffalo City Hall===
+{{main|Buffalo City Hall}}
+[[Buffalo City Hall]] is a 32 story [[Art Deco]] building and was completed in 1931 by Dietel, Wade &amp; Jones. It's walls are faced with Ohio sandstone and gray Minnesota limestone, above a base of gray granite. The exterior and interior are adorned with symbolic figures and decorations representing Buffalo's history, including the [[Iroquois Indian]]s, the steel industry, law and education, electrical energy, and the waterfront community. In the lobby, there are four statues, &quot;each which represent the characteristic of good citizenship, Virtue, Diligence, Service, and Fidelity.&quot;&lt;ref&gt;{{cite web|last1=Schihl|first1=James|last2=Healy|first2=James|title=City Hall History|url=https://www.ci.buffalo.ny.us/home/leadership/mayor/cityhallhistory|website=City of Buffalo|publisher=Tony DiNatale|accessdate=31 August 2015}}&lt;/ref&gt; It was added to the [[National Register of Historic Places]] on January 15, 1999.
+
+===Buffalo History Museum===
+{{main|Buffalo History Museum}}
+[[File:Buffalo&amp;Erie County Historical Society.jpg|thumb|right|[[Buffalo History Museum]]]] The [[Buffalo History Museum]] was constructed in 1901 as the [[New York State]] pavilion for the [[Pan American Exposition]] of 1901 and is the sole surviving permanent structure from the exposition. It was added to the [[National Register of Historic Places]] on April 23, 1980 and designated a [[National Historic Landmark]] on February 27, 1987.
+
+===Buffalo Main Light===
+{{main|Buffalo Main Light}}
+The [[Buffalo Main Light]], also known as ''The Buffalo Lighthouse'', is Buffalo's oldest building. It was built in 1833 and deactivated in 1914. It appears on the city seal at the mouth of the Buffalo River.  It is also one of the oldest lighthouses on the Great Lakes. The walls of the tapered, unpainted octagonal limestone tower are four feet thick at the base and rise to 44 feet in height. The foundation material was stone molehead and the lighthouse was constructed out of [[limestone]] and [[cast iron]].  The shape of the tower was octagonal and was {{convert|60|ft}}  high.  The lens installed in 1857 was a third order [[Fresnel lens]].&lt;ref&gt;{{cite web|title=Buildings &amp; Monuments|url=http://www.visitbuffaloniagara.com/business-type/buildings-monuments/|website=visitbuffaloniagara.com|accessdate=9 October 2015}}&lt;/ref&gt; It was listed on the National Register of Historic Places in 1984.
+
+===Delaware Park System===
+{{main|Delaware Park–Front Park System}}
+[[File:Delaware Park Casino.jpg|thumb|right|[[Delaware Park–Front Park System|Delaware Park Casino]]]] The [[Delaware Park–Front Park System|Delaware Park System]] is a historic [[park]] system and national [[Historic district (United States)|historic district]] located in the northern and western sections of [[Buffalo, New York|Buffalo]].  The park system was designed by [[Frederick Law Olmsted]] and [[Calvert Vaux]] and developed between 1868 and 1876. The Park System comprises many parks, Delaware Park being the largest (encompassing 376 acres).  There are also Gates Circle, Chapin Parkway, Soldier's Place, Lincoln Parkway, Bidwell Parkway, and Front Park, among others. The park system was listed on the [[National Register of Historic Places]] in 1982.
+
+===Larkin Administration Building===
+{{main|Larkin Administration Building}}
+[[File:LarkinAdministrationBuilding1906.jpg|thumb|right|[[Larkin Administration Building]], 1906]] The [[Larkin Administration Building]] was [[Frank Lloyd Wright]]'s first commission in Buffalo. Larkin executive [[Darwin D. Martin]] hired Wright to design a building that would house the large number of clerks needed to operate the mail-order business for the [[Larkin Company|Larkin Soap Company]].  Because the building would be located in an industrial part of town, it was necessary to make the building as attractive as possible to women, who made up the bulk of the [[white-collar worker|white collar]] work force.&lt;ref name=PBS&gt;[http://www.pbs.org/flw/buildings/larkin/larkin.html PBS website]&lt;/ref&gt;
+
+The Larkin building was Wright's first commercial commission&lt;ref&gt;[http://www.terrastories.com/bearings/frank-lloyd-wright-and-his-forgotten-larkin-building Terra Stories]&lt;/ref&gt; and he designed not just the building, but also the furniture, light fixtures and the china for the workers' cafeteria.   Where possible, files and furniture were built into the structure, and he created desks with attached chairs that could swivel to save room. Wright included a pipe organ for lunchtime entertainment, a lending library and a [[conservatory (greenhouse)|conservatory]] to allow employees to rest and commune with nature.  The [[Larkin Administration Building]] is significant for its comprehensive design, where every element performed a specific task, as well as being the first modern office building that separated [[blue-collar]] and [[white-collar worker|white-collar]] workers.
+
+The Larkin Company went out of business in 1937, and the building was sold.  Eventually, the City of Buffalo took it over for back taxes planning to demolish it for a trucking plaza.  Despite community outcry, the building was torn down in 1950.
+
+===Old Post Office===
+{{main|Old Post Office (Buffalo, New York)}}
+[[File:Old Post Office Buffalo NY Full View Dec 09.JPG|thumb|right|[[Old Post Office (Buffalo, New York)|Old Post Office]], 2009]] The [[Old Post Office (Buffalo, New York)|Old Post Office]] is a historic [[post office]] building located at 121 Ellicott Street in [[Buffalo, New York|Buffalo]] in [[Erie County, New York]]. It was designed by the then [[Office of the Supervising Architect]], [[Jeremiah O'Rourke]], when construction started in 1897. The $1,500,000 ({{Inflation|US|1500000|1901|r=-3|fmt=eq}}) building opened in 1901 during the tenure of [[James Knox Taylor]] and operated as Buffalo's central post office until 1963 and was the tallest building in the city from 1901 to 1912.  The highly ornamented [[Gothic Revival architecture|Gothic Revival]] style four story building features a 244-foot tower over the central entrance and a roofed courtyard.  It was subsequently occupied by federal offices.&lt;ref name=&quot;nrhpinv_ny&quot;&gt;{{cite web|url=http://www.oprhp.state.ny.us/hpimaging/hp_view.asp?GroupView=2194|title=National Register of Historic Places Registration: U.S. Post Office|date=n.d.|accessdate=2009-07-25 |author=T. Robins Brown|publisher=[[New York State Office of Parks, Recreation and Historic Preservation]]}} ''See also:'' {{cite web|url=http://www.oprhp.state.ny.us/hpimaging/hp_view.asp?GroupView=2196|title=Accompanying three photos}}&lt;/ref&gt; Since 1981, it has been home to the city campus of [[Erie Community College]].  Its tower is 74.4 meters tall.&lt;ref name=skyscraperpage&gt;{{Cite web|title=Old Post Office|url=http://skyscraperpage.com/cities/?buildingID=16586|accessdate=2007-12-25|publisher=SkyscraperPage.com}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|title=Old Post Office|url=http://www.emporis.com/en/wm/bu/?id=oldpostoffice-buffalo-ny-usa|publisher=Emporis.com|accessdate=2007-12-25}}&lt;/ref&gt;
+
+===Prudential (Guaranty) Building===
+{{main|Prudential (Guaranty) Building}}
+The [[Prudential (Guaranty) Building]] was completed in 1896 and was designed by Chicago architect's [[Louis Sullivan]] and [[Dankmar Adler]]. It remains one of the first [[skyscrapers]] ever built with a steel structure and is embellished with [[terra cotta]] blocks. It was added to the [[National Register of Historic Places]] on March 20, 1973 and designated a [[National Historic Landmark]] on May 15, 1975.
+
+===Richardson Olmsted Complex===
+{{main|Richardson Olmsted Complex}}
+[[File:H.H. Richardson complex.jpg|thumb|right|[[Richardson Olmsted Complex]], 2009]] The [[Richardson Olmsted Complex]] is a grouping of Medina red sandstone and brick hospital buildings designed in 1870 in the [[Kirkbride Plan]] by architect [[Henry Hobson Richardson]] with grounds by landscape architect [[Frederick Law Olmsted]]. The complex was the largest commission of Richardson's career and marks the beginning of his characteristic &quot;Romanesque Revival&quot; style known as &quot;[[Richardsonian Romanesque]].&quot; It was added to the [[National Register of Historic Places]] on January 12, 1973 and designated a [[National Historic Landmark]] on June 24, 1986.
+
+===Sculptures and monuments===
+[[File:David in Buffalo.jpg|thumb|right|[[Replicas of Michelangelo's David|Michelangelo's David]], 2009]] There are several sculptures and monuments located throughout the city, including:
+{{colbegin|2}}
+*'''[[Replicas of Michelangelo's David|Michelangelo's David]]''' by Angelus and Sons (founder)&lt;ref&gt;{{cite web|title=DAVID|url=http://www.ci.buffalo.ny.us/files/1_2_1/public%20art%20website/web%20pages/David.html|website=ci.buffalo.ny.us|accessdate=9 October 2015}}&lt;/ref&gt;
+*'''[[Lafayette Square (Buffalo)|Soldiers and Sailors Monument (Civil War Monument)]]''' by Caspar Bubert (Sculptor), [[George W. Keller]] (Architect), M.J. Powers (Founder)&lt;ref&gt;{{cite web|title=SOLDIERS AND SAILORS MONUMENT|url=http://www.ci.buffalo.ny.us/files/1_2_1/public%20art%20website/web%20pages/Soldiers%20and%20Sailors.html|website=ci.buffalo.ny.us|accessdate=9 October 2015}}&lt;/ref&gt;
+*'''[[McKinley Monument]]''' by [[Alexander Phimister Proctor]] (Sculptor), Newman &amp; Evans (Sculptor), [[Carrère and Hastings]] (Architect)&lt;ref&gt;{{cite web|title=WILLIAM MCKINLEY MONUMENT|url=http://www.ci.buffalo.ny.us/files/1_2_1/public%20art%20website/web%20pages/McKinley%20Monument.html|website=ci.buffalo.ny.us|accessdate=9 October 2015}}&lt;/ref&gt;
+*'''[[Wolfgang A. Mozart]]''' by Olin H. Warner (Sculptor), [[Bureau Brothers Foundry]] (Founder)&lt;ref&gt;{{cite web|title=WOLFGANG A. MOZART|url=http://www.ci.buffalo.ny.us/files/1_2_1/public%20art%20website/web%20pages/Mozart.html|website=ci.buffalo.ny.us|accessdate=9 October 2015}}&lt;/ref&gt;
+*'''[[Sándor Petőfi|Alexander Petofi (Sandor Petofi)]]''' by Geza Kende (Sculptor; Original Bust), Gabriella F. Koszorus-Varsa (Sculptor; New Bust), Frank A. Spangenberg (Sculptor; Base)&lt;ref&gt;{{cite web|title=ALEXANDER PETOFI|url=http://www.ci.buffalo.ny.us/files/1_2_1/public%20art%20website/web%20pages/Petofi.html|website=ci.buffalo.ny.us|accessdate=9 October 2015}}&lt;/ref&gt;
+*'''[[John F. Kennedy]] bust''' by [[Bryant Baker]]&lt;ref&gt;{{cite web|title=JOHN F. KENNEDY|url=http://www.ci.buffalo.ny.us/files/1_2_1/public%20art%20website/web%20pages/J.F.K.%20Bust.html|website=ci.buffalo.ny.us|accessdate=9 October 2015}}&lt;/ref&gt;
+*'''[[Memorials to Giuseppe Verdi|Giuseppe Verdi]]''' by Antonio Ugo (Sculptor), A. Decianno (Sculptor)&lt;ref&gt;{{cite web|title=GIUSEPPE VERDI (ORIGINAL)|url=http://www.ci.buffalo.ny.us/files/1_2_1/public%20art%20website/web%20pages/Verdi%20original.html|website=ci.buffalo.ny.us|accessdate=9 October 2015}}&lt;/ref&gt;
+*'''[[Frederic Chopin]]''' by [[Jozef Mazur]]&lt;ref&gt;{{cite web|title=FREDERIC CHOPIN|url=http://www.ci.buffalo.ny.us/files/1_2_1/public%20art%20website/web%20pages/Chopin.html|website=ci.buffalo.ny.us|accessdate=9 October 2015}}&lt;/ref&gt;
+*'''[[Frank X. Schwab]]''' by C. Sorgi&lt;ref&gt;{{cite web|title=FRANK X. SCHWAB|url=http://www.ci.buffalo.ny.us/files/1_2_1/public%20art%20website/web%20pages/Schwab.html|website=ci.buffalo.ny.us|accessdate=9 October 2015}}&lt;/ref&gt;
+*'''Indian Hunter''' by [[John Quincy Adams Ward]]&lt;ref&gt;{{cite web|title=Indian Hunter|url=http://www.ci.buffalo.ny.us/files/1_2_1/public%20art%20website/web%20pages/Indian%20Hunter.html|website=ci.buffalo.ny.us|accessdate=9 October 2015}}&lt;/ref&gt;
+*'''[[Daniel D. Bidwell|General Daniel Davidson Bidwell]]''' by [[Sahl Swarz]]&lt;ref&gt;{{cite web|title=General Daniel Davidson Bidwell|url=http://www.ci.buffalo.ny.us/files/1_2_1/public%20art%20website/web%20pages/Bidwell.html|website=ci.buffalo.ny.us|accessdate=9 October 2015}}&lt;/ref&gt;
+*'''[[Commodore Oliver Hazard Perry]]''' by [[Charles Henry Niehaus]]&lt;ref&gt;{{cite web|title=Commodore Oliver Hazard Perry|url=http://www.ci.buffalo.ny.us/files/1_2_1/public%20art%20website/web%20pages/Perry.html|website=ci.buffalo.ny.us|accessdate=9 October 2015}}&lt;/ref&gt;
+{{colend}}
+
+==Residential==
+
+===Birge-Horton House===
+[[File:20090412 Birge-Horton House.JPG|thumb|right|[[Birge-Horton House]], 2009]]
+{{main article|Birge-Horton House}}
+The [[Birge-Horton House]] was designed in 1895 by the Buffalo architectural firm of [[Edward Brodhead Green|Green and Wicks]] and is a [[Georgian architecture|Georgian Revival]] style row house in &quot;The Midway&quot; section of Delaware Avenue. It is a four story brick house with stone trim. The house is situated within the boundaries of the [[Allentown Historic District (Buffalo, New York)|Allentown Historic District]].&lt;ref&gt;{{cite web|url=http://www.oprhp.state.ny.us/hpimaging/hp_view.asp?GroupView=100572|title=National Register of Historic Places Registration: Birge--Horton House|date=January 26, 2004|accessdate=2009-06-14 |author=Claire L. Ross |publisher=[[New York State Office of Parks, Recreation and Historic Preservation]]}} ''See also:'' {{cite web|url=http://www.oprhp.state.ny.us/hpimaging/hp_view.asp?GroupView=100521 |title=Accompanying four photos}}&lt;/ref&gt;  The Birge-Horton House was the last of the thirteen luxury row houses built from 1893-1895. All were four-story houses and each house is the work of varying architects and of different designs, however, they give an overall appearance of unified composition because of similarities in height, width, and construction materials.
+
+===Charles W. Goodyear House===
+{{main article|Charles W. Goodyear House}}
+The [[Charles W. Goodyear House]] was designed by [[Buffalo, New York|Buffalo]] architect [[Edward Brodhead Green|Edward Green]], of the [[Buffalo, New York|Buffalo]] architecture firm Green &amp; Wicks, and was completed in 1903 at a cost of $500,000 ({{Inflation|US|500000|1903|r=-3|fmt=eq}}). The home was built for [[Charles W. Goodyear|Charles and Ella Goodyear]]. The house is located in the [[Delaware Avenue Historic District (Buffalo, New York)|Delaware Avenue Historic District]], a federally designated [[Historic districts in the United States|historic district]] listed on the [[National Register of Historic Places]] since 1974. The exterior of the two and a half story house is brick trimmed with stone. The [[mansard roof]] includes a row of [[dormer]]s with [[pediment]]ed tops with a [[festoon]]ed motif that runs along the roofline above a dentilled cornice. The principal entrance is on the north (right) side of the house denoted by a large arched doorway, bordered on each side by stone [[urn]]s. The east façade facing Delaware Avenue has a one story porch with columns, that was later bricked in.&lt;ref&gt;{{cite web|title=Delaware Avenue Historic District|url=http://www.livingplaces.com/NY/Erie_County/Buffalo_City/Delaware_Avenue_Historic_District.html|website=livingplaces.com|accessdate=9 September 2015}}&lt;/ref&gt;
+
+===Darwin D. Martin House===
+[[File:Darwin D Martin House, Buffalo, NY.jpg|thumb|right|[[Darwin D. Martin House]], 2012]]{{main article|Darwin D. Martin House}}
+The [[Darwin D. Martin House]] was designed by [[Frank Lloyd Wright]] and built between 1903 and 1905 for [[Darwin D. Martin]], an executive of the [[Larkin Soap Company]]. Martin chose Wright to design his own house because he was so impressed with Wright and his design for the [[Larkin Administration Building]].&lt;ref&gt;[http://www.darwinmartinhouse.org/ Darwin D. Martin House website]&lt;/ref&gt;  The Martin House is considered to be one of the most important projects from Wright's [[Prairie School]] era. Compared to other Prairie Houses, the Martin House is unusually large and has an open plan containing fifteen distinctive patterns of nearly 400 [[art glass]] windows, designed by Wright, some of which contain over 750 individual pieces of iridescent glass, that act as light screens to connect exterior views to the spaces within. More patterns of art glass were designed for the house than for any other of Wright's Prairie Houses.  It was added to the [[National Register of Historic Places]] on February 24, 1986 and designated a [[National Historic Landmark]], also on February 24, 1986.
+
+===Theodore Roosevelt Inaugural National Historic Site===
+{{main article|Theodore Roosevelt Inaugural National Historic Site}}
+The [[Theodore Roosevelt Inaugural National Historic Site]], also known as the ''Ansley Wilcox House'', at 641 Delaware Avenue was built in 1840 by George Cary (U.S. Army) originally intended as the Barrack's officer's quarters. After the post was disbanded in 1845, the home reverted to a private residence.  Subsequent owners continued to modify the structure adding and demolishing out structures and additions.  In the late 19th century, Dexter Rumsey gave the property to his son-in-law [[Ansley Wilcox]] and his wife Mary Grace Rumsey.  The newest inhabitants made extensive renovations to the structure.
+
+In 1901, while attending the [[Pan-American Exposition]], anarchist [[Leon Czolgosz]] shot President [[William McKinley]]. [[Vice-President]] [[Theodore Roosevelt]] rushed back to Buffalo, but arrived only after McKinley had died.  Due to the tragic and politically charged circumstances of the President's death, the inauguration was held immediately, and the most appropriate site was determined to be the Wilcox home.  Approximately 50 dignitaries, family members and cabinet officials gathered in the front library for the inauguration and Federal Judge [[John R. Hazel]] administered the oath.  The Wilcoxes continued to live in the home until their deaths in the 1930s. The [[National Historic Sites (United States)|National Historic Site]] was authorized on November 2, 1966.  As a historic area administered by the [[National Park Service]], it was automatically listed on the [[National Register of Historic Places]] the same day.
+
+===William Dorsheimer House===
+{{main article|William Dorsheimer House}}
+The [[William Dorsheimer House]] was designed and built in 1868 by [[Henry Hobson Richardson]] (1838–1886) for [[William Dorsheimer]] (1832–1888), a prominent local lawyer and [[Lieutenant Governor of New York]]. It is located on Delaware Avenue in [[Buffalo, New York|Buffalo]] and is a two-and-a-half-story brick dwelling. It represents the profound influence of French ideas on the arts in the post [[American Civil War|Civil War]] period.&lt;ref name&gt;{{cite web|url=http://www.oprhp.state.ny.us/hpimaging/hp_view.asp?GroupView=2251|title=National Register of Historic Places Registration: William Dorsheimer House|date=April 10, 1980|accessdate=2009-06-14 |author=Francis Kowsky |publisher=[[New York State Office of Parks, Recreation and Historic Preservation]]}} ''See also:'' {{cite web|url=http://www.oprhp.state.ny.us/hpimaging/hp_view.asp?GroupView=2250 |title=Accompanying seven photos}}&lt;/ref&gt;  It was listed on the [[National Register of Historic Places]] in 1980.
+
+===William R. Heath House===
+{{main article|William R. Heath House}}
+The [[William R. Heath House]] was designed by [[Frank Lloyd Wright]], built in 1904–1905, and is located at 76 [[Delaware Park-Front Park System|Soldiers Place]] in [[Buffalo, New York]]. It is built in the [[Prairie School]] architectural style.  William Heath was a lawyer who served as office manager, and eventually vice-president, of the [[Larkin Company]] in Buffalo.&lt;ref name=&quot;buffarch&quot; &gt;Reyner Banham &amp; Francis R. Kowsky, ''Buffalo Architecture'', p.163-164, Buffalo Architectural Guidebook Corporation; 1981&lt;/ref&gt; Heath's wife Mary was a sister of [[Elbert Hubbard]], a former Larkin executive.&lt;ref name=&quot;buffarch&quot;/&gt;&lt;ref name=&quot;tafel2&quot; &gt;Edgar Tafel, ''Years with Frank Lloyd Wright: Apprentice to Genius'', p.84, Courier Dover Publications; 1985&lt;/ref&gt;  The property was a deep and narrow corner lot, facing a large [[traffic circle]]. This presented Wright with the problem of situating a substantial Prairie house, with its characteristically open structure, in a confined space with twice the street exposure.  The house was placed with its long axis right up against the Bird Ave. sidewalk with sections of the traffic circle acting as the grounds that a house of this standing would normally possess.&lt;ref name=&quot;gill&quot; &gt;Brendan Gill, ''Many Masks'', p.145-146, Da Capo Press; 1998&lt;/ref&gt;
+
+== Gallery ==
+&lt;gallery mode=packed heights=&quot;170px&quot;&gt;
+File:Asbury Delaware Church, Buffalo 1.jpg|[[Delaware Avenue Methodist Episcopal Church|Asbury Delaware Church]]
+File:Buffalo Athletic Club.jpg|Buffalo Athletic Club
+File:Buffalo Central Terminal 2.jpg|[[Buffalo Central Terminal]]
+File:McKinley Monument, Buffalo, NY - IMG 3702.JPG|[[Buffalo City Hall]]
+File:Buffalo&amp;Erie County Historical Society.jpg|[[Buffalo History Museum]]
+File:Brisbane Building.JPG|Brisbane Building
+File:888 Delaware Ave.jpg|[[Charles W. Goodyear House]] by [[Edward Brodhead Green]]
+File:Darwin D. Martin House.jpg|[[Darwin D. Martin House]] (by [[Frank Lloyd Wright]])
+File:General Electric Tower.JPG|[[Electric Tower]]
+|Eleanor and [[Wilson Greatbatch]] Pavilion, [[Darwin D. Martin House]] by [[Toshiko Mori]]
+File:Erie County Hall 2012.jpg|[[County and City Hall|Erie County Hall]]
+File:Gates Vascular Institute.JPG|[[Gates Vascular Institute]] - Kaleida Health
+File:Kleinhans Music Hall.jpg|[[Kleinhans Music Hall]] (by [[Eliel Saarinen]] and [[Eero Saarinen]])
+File:M&amp;T Plaza.jpg|[[One M&amp;T Plaza]] (by [[Minoru Yamasaki]])
+File:Main Place Tower.JPG|[[Main Place Tower]] by [[Harrison &amp; Abramovitz]]
+File:Old Post Office - Buffalo.JPG|[[Old Post Office (Buffalo, New York)|Old Post Office]] or &quot;U.S. Post Office&quot;
+File:Prudential Building HDR.jpg|[[Prudential (Guaranty) Building]]
+File:Buffalo Psy Admin Building.JPG|[[Richardson Olmsted Complex]]
+File:Ansley-wilcox-house.jpg|Ansley Wilcox House, 1965
+&lt;/gallery&gt;
+
+==Timeline of notable buildings==
+'''Before 1900''':
+*1833 '''[[Buffalo Main Light]]'''
+*1840 '''[[Theodore Roosevelt Inaugural National Historic Site|Ansley Wilcox House]]''', George Cary
+*1849-1851 '''[[St. Paul's Cathedral (Buffalo, New York)|St. Paul's Cathedral]]''', [[Richard Upjohn]]
+*1868 '''[[William Dorsheimer House]]''', [[Henry Hobson Richardson]]
+*1870 '''[[Richardson Olmsted Complex]]''', [[Henry Hobson Richardson]] and [[Frederick Law Olmsted]]
+*1871 '''[[Delaware Avenue Methodist Episcopal Church]]''', John Selkirk; 2000-2006, renovation to '''[[Righteous Babe Records|Babeville]]''' Flynn Battaglia
+*1871 '''[[County and City Hall]]''', Andrew Warner
+*1882 '''Metcalfe House''', [[McKim, Mead &amp; White]] (Demolished, 1980)
+*1889 '''[[St. Louis Roman Catholic Church]]''', Schikel and Ditmar
+*1890-1893 '''[[Erie County Savings Bank]]''', [[George B. Post]] (Demolished, 1968)
+*1890-1905 '''[[Albright–Knox Art Gallery]]''', [[Edward Brodhead Green]]; 1962 [[Skidmore, Owings and Merrill]] architect [[Gordon Bunshaft]]
+*1894 '''[[Twentieth Century Club (Buffalo, New York)|Twentieth Century Club]]''', [[Green &amp; Wicks]]
+*1894 '''Robert Root House''', [[Stanford White]] of [[McKim, Mead &amp; White]] (Demolished, 1935)
+*1895 '''[[Birge-Horton House]]''', [[Green and Wicks]]
+*1895-1896 '''Williams-Pratt House''', [[Stanford White]] of [[McKim, Mead &amp; White]]
+*1896 '''[[Prudential (Guaranty) Building]]''', [[Louis Sullivan]] and [[Dankmar Adler]]
+*1896 '''[[Ellicott Square Building]]''', [[Daniel Burnham]]
+*1896-1898 '''Williams-Butler House/Jacobs Executive Development Center''', [[Stanford White]] of [[McKim, Mead &amp; White]]
+*1897 '''[[Old Post Office (Buffalo, New York)|Old Post Office]]''', [[Office of the Supervising Architect]] during the tenure of [[Jeremiah O'Rourke]]
+'''1900-1920''':
+*1900 '''[[Buffalo and Erie County Botanical Gardens]]''', [[Lord &amp; Burnham]]
+*1901 '''[[Buffalo Savings Bank]]''', [[Green &amp; Wicks]]
+*1901 '''[[Buffalo History Museum]]''', George Cary
+*1901 '''[[Temple of Music]]''', [[Esenwein &amp; Johnson]] (Demolished, 1902)
+*1901-1902 '''[[Young Men's Christian Association Central Building (Buffalo, New York)|YMCA Central Building]]''' or '''Olympic Towers''', [[Green &amp; Wicks]]
+*1902-1911 '''[[Hotel Lafayette]]''', [[Louise Blanchard Bethune|Bethune]], Bethune &amp; Fuchs; 1916–1917 and 1924-1926 additions, [[Esenwein &amp; Johnson]]
+*1903 '''[[Charles W. Goodyear House]]''', [[Edward Brodhead Green]] 
+*1903-1904 '''[[George Barton House]]''', [[Frank Lloyd Wright]]
+*1903-1905 '''[[Darwin D. Martin House]]''', [[Frank Lloyd Wright]]
+*1903-1906 '''[[Larkin Administration Building]]''', [[Frank Lloyd Wright]] (Demolished, 1950)
+*1904-1905 '''[[William R. Heath House]]''', [[Frank Lloyd Wright]] 
+*1906 '''[[The Calumet]]''', [[Esenwein &amp; Johnson]]
+*1908 '''[[Walter V. Davidson House]]''', [[Frank Lloyd Wright]]
+*1911-1912 '''[[Larkin Terminal Warehouse]]''', [[Lockwood, Greene &amp; Co.]]
+*1912 '''[[City Honors School]]''' or '''[[Fosdick-Masten Park High School]]''', [[Esenwein &amp; Johnson]]
+*1912 '''[[Electric Tower]]''', [[Esenwein &amp; Johnson]] and [[Edward Brodhead Green|E.B. Green and Sons]]
+*1912 '''[[Harlow C. Curtiss Building]]''', Paul F. Mann
+*1913 '''[[Main Seneca Building]]''', [[Green &amp; Wicks]]
+*1914-1915 '''[[South Park High School (Buffalo, New York)|South Park High School]]''', [[Edward Brodhead Green]]
+*1915 '''[[Concrete-Central Elevator]]''', H.R. Wait and [[Monarch Engineering Co.]]
+'''1920-1939''':
+*1922 '''[[Saturn Club]]''', [[Duane Lyman|Bley &amp; Lyman]]
+*1923 '''[[Statler Hotels|Hotel Statler]]''' or '''Statler City''', [[George B. Post|George B. Post &amp; Sons]]
+*1924 '''[[M. Wile and Company Factory Building]]''', [[Esenwein &amp; Johnson]]
+*1925 '''[[Cargill Pool Elevator]]''', [[C. D. Howe]] and [[Monarch Engineering Co.]]
+*1925 '''[[Liberty Building (Buffalo, New York)|Liberty Building]]''', [[Alfred C. Bossom]]; 1961 addition [[Duane Lyman|Lyman &amp; Associates]]
+*1926 '''[[Shea's Performing Arts Center]]''', [[Rapp and Rapp]]
+*1926 '''[[The Huyler Building]]''', Harvey Starin Horton
+*1929 '''[[Buffalo Central Terminal]]''', [[Fellheimer &amp; Wagner]]
+*1929 '''[[Buffalo Museum of Science]]''', [[Esenwein &amp; Johnson]]
+*1929 '''[[Rand Building]]''', James W. Kideney &amp; Associates; Franklyn and William Kidd
+*1931 '''[[Buffalo City Hall]]''', Dietel, Wade &amp; Jones
+*1934 '''[[Edwin M. and Emily S. Johnston House]]''', [[Duane Lyman|Bley &amp; Lyman]]
+*1936 '''[[Michael J. Dillon Memorial United States Courthouse]]''', [[Edward Brodhead Green|E.B. Green and Sons]] and Bley &amp; Lyman
+*1938 '''[[Erie County Holding Center]]''', [[Edward Brodhead Green|Green &amp; James]]
+*1938-1940 '''[[Kleinhans Music Hall]]''', [[Eliel Saarinen]] and [[Eero Saarinen]]
+*1939-1940 '''[[Buffalo Memorial Auditorium]]''', [[Edward Brodhead Green|Green &amp; James]]
+'''1940 to the present''':
+*1964-1966 '''[[One M&amp;T Plaza]]''', [[Minoru Yamasaki]] and [[Duane Lyman|Lyman Associates]]
+*1969 '''[[Main Place Tower]]''', [[Harrison &amp; Abramovitz]]
+*1969-1972 '''[[One Seneca Tower]]''', [[Skidmore, Owings &amp; Merrill]]
+*1973 '''[[The Avant]]'''; 2009 renovation, Stieglitz Snyder Architecture
+*1974 '''[[Buffalo City Court Building]]''', Pfohl, Roberts and Biggie
+*1990 '''[[Key Center North Tower]]''', Brisbin Brook Beynon Architects
+*2004 '''[[Blue Sky Mausoleum]]''', Anthony Puttnam of [[Taliesin Associated Architects]] from [[Frank Lloyd Wright]] design, 1935
+*2007-2011 '''[[Robert H. Jackson United States Courthouse]]''', [[Kohn Pedersen Fox]]
+*2009 '''[[Darwin D. Martin House|Eleanor and Wilson Greatbatch Pavilion]]''', [[Toshiko Mori]]
+*2012 '''[[Gates Vascular Institute]]''', Mehrdad Yazdani of [[CannonDesign]]
+*2014-2015 '''[[250 Delaware Avenue]]''', [[Diamond and Schmitt Architects]]
+
+==Styles and schools==
+[[File:Buffalo Japanese Garden.JPG|thumb|right|Japanese Garden, [[Delaware Park–Front Park System|Delaware Park]]]] Buffalo architects used many design styles and belonged to a variety of architectural schools. Below is a sample of some of the styles and schools and schools found in Buffalo architecture:
+{{colbegin|2}}
+*[[Art Deco]]
+*[[Art Nouveau]]
+*[[Brutalism]]
+*[[Châteauesque]]
+*[[Federal Style]]
+*[[Gothic Revival architecture|Gothic Revival]]
+*[[Greek Revival architecture|Greek Revival]]
+*[[Italianate architecture|Italianate]]
+*[[Second Empire architecture|Second Empire]]
+*[[Louis Sullivan|Sullivanesque]]
+*[[Victorian architecture|Victorian]]
+*[[Queen Anne Style architecture|Queen Anne]]
+{{colend}}
+
+==See also==
+*[[Buffalo, New York]]
+*[[National Register of Historic Places listings in Buffalo, New York]]
+*[[List of National Historic Landmarks in New York]]
+*[[List of tallest buildings in Buffalo]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*[https://web.archive.org/web/20101119142313/http://buffaloresearch.com/built.html ''Built in Buffalo: How to Research Local Architecture''], a page of online and offline sources for documenting houses, factories, churches and other Buffalo buildings
+
+{{NHLbyState}}
+{{National Register of Historic Places in New York}}
+
+{{DEFAULTSORT:Architecture In Buffalo}}
+[[Category:Culture of Buffalo, New York]]
+[[Category:Architecture of Buffalo, New York]]
+[[Category:Architecture in New York|Buffalo]]
+[[Category:Architecture in the United States by city|Buffalo]]
+[[Category:Buildings and structures in Buffalo, New York]]
+[[Category:Skyscrapers in Buffalo, New York]]</text>
+      <sha1>7hbkr9i8o427ocxsm30umobqqukm5fn</sha1>
+    </revision>
+  </page>
+</mediawiki>

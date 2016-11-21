@@ -1,0 +1,257 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Driving licence in Lebanon</title>
+    <ns>0</ns>
+    <id>41540997</id>
+    <revision>
+      <id>746346919</id>
+      <parentid>722614554</parentid>
+      <timestamp>2016-10-26T21:14:33Z</timestamp>
+      <contributor>
+        <username>Rathfelder</username>
+        <id>398607</id>
+      </contributor>
+      <comment>removed [[Category:Driving licenses by country]]; added [[Category:Driving licences by country]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14068">In the [[Republic of Lebanon]], a '''[[driver's license]]'''  is the official document which authorises its holder to operate various types of [[motor vehicle]]s on highways and some other roads to which the public have access and are issued by each individual canton ({{lang-ar|قضاء}}, {{transl|ar|Kadaa}}).
+
+In domestic non-electronic identification the driving license has remained in a leading position, since most of the population have to have a license anyway, and a driving license is valid for almost every situation where non-electronic personal identification is needed even though they are not officially recognized as such.
+
+==International Use==
+The Republic of Lebanon allows non-residents to use regular licenses issued by other states and countries in return Lebanese driving licenses are also valid in many other countries due to various international agreements and treaties. The Republic of Lebanon bears the legal right suspend an individual's driving privilege within its borders for traffic violations.
+
+Visitors to the Republic of Lebanon who hold overseas drivers licenses may be required to take a driving test before they qualify for a full Lebanese license. However, those from countries with similar road rules are only required to take a theory test (similar to the learner license test) within a year of arrival or even simply convert their license to a full Lebanese drivers license for only $40 without any further tests (e.g. Jordan); until this time they may continue to drive on their foreign drivers license provided it is either written in Arabic, French, or English, or they have an authorized translation available.
+
+== Types of licenses ==
+* '''Unrestricted Licenses''' are driver's licenses that most Lebanese drivers have in order to drive.
+* '''Hardship licenses for minors''' are driver's licenses that are restricted to drivers between 14 and 15 (sometimes up to 16) years old who need to drive to and from home and school due to serious hardships, e.g. the driver's family has financial or medical problems; the driver needs to get to work or school and has no other practical way of getting to work or school. A hardship license for minors is distinct from hardship licenses granted for drivers with revoked or suspended licenses.
+* '''Provisional Licenses''' are functionally the same as a driver's license, but are typically issued to new drivers under the age of 17, i.e. 15–16 years old.
+* '''Chauffeur Licenses''' are functionally the same as a passenger car license, but also allow the holder to drive a taxi, limo, or other livery [[vehicle for hire]]. Livery licensing in the Republic of Lebanon is somewhat complicated. In the Republic of Lebanon, chauffeur licenses are not considered commercial or professional driver's licenses, and (assuming the driver already holds a regular passenger license) a road test is usually not required to convert it to a chauffeur license a short written exam on taxi-specific driving laws and/or a background check is required. This type of license is typically, though not universally, called '''Class E'''.
+* '''Motorcycle Licenses''' covers [[motorcycle]]s only; frequently combined with a regular driver's license.
+* '''Enhanced Licenses''' establish nationality in addition to driving privileges. A [[Lebanese passport]], [[Lebanese identity card]], or another document proving citizenship is required to apply for this type of license. Motorcycle and commercial driver's licenses (see above and below) usually can also be issued as enhanced.
+
+== Classes of Licenses ==
+The Lebanese driver licensing system is split into six classes of license. Class 1 (&quot;car license&quot;) allows the driver to drive most cars, light vehicles, [[moped]], [[tractor]] and [[all-terrain vehicle]]s, while Class 6 (&quot;motorcycle license&quot;) allows the driver to ride a motorcycle. Classes 2, 3, 4, and 5 (&quot;heavy vehicles license&quot;) allow the driver to drive heavy vehicles of varying degrees according to the classes carried.
+
+Classes 1 and 6 licenses are able to be obtained on or after the driver's 17th birthday. Prior to 1 August 2011, the minimum age was 16 years, which means drivers born between 1 August 1995 and 31 July 1996 can hold a license under 16 if they applied for it on or before 31 July 2011.
+
+This table shows which vehicles can be driven while holding which class of license:-
+{| class=&quot;wikitable&quot; border=&quot;1&quot;
+|-
+! width=&quot;16%&quot;| Vehicle
+! width=&quot;13%&quot;| Class 1 &lt;br /&gt; (Car)
+! width=&quot;13%&quot;| Class 2 &lt;br /&gt; (Medium Rigid)
+! width=&quot;13%&quot;| Class 3 &lt;br /&gt; (Medium Combination)
+! width=&quot;13%&quot;| Class 4 &lt;br /&gt; (Heavy Rigid)
+! width=&quot;13%&quot;| Class 5 &lt;br /&gt; (Heavy Combination)
+! width=&quot;13%&quot;| Class 6 &lt;br /&gt; (Motorcycle)
+|-
+! Car or light rigid vehicle
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{No}}
+|-
+! Car or light rigid vehicle with trailer
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{No}}
+|-
+! Moped
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+| {{Yes}}
+|-
+! Motorcycle
+| {{No}}
+| {{No}}
+| {{No}}
+| {{No}}
+| {{No}}
+| {{Yes}}
+|-
+! Tractor or farm machinery
+| {{depends|Up to 4500kg  (all licenses) &lt;br /&gt; Up to 6000kg  (full license)&lt;br /&gt; Up to 18,000kg  if driven at 40km/h or less (restricted and full license)}}
+| {{depends|Up to 18,000kg }}
+| {{depends|Up to 18,000kg }}
+| {{Yes}}
+| {{Yes}}
+| {{No}}
+|-
+! Heavy rigid vehicle &lt;br /&gt; (Weight &gt; 3500&amp;nbsp;kg)
+| {{depends|Up to 4500kg  (all licenses)&lt;br /&gt; up to 6000kg  (full license)}}
+| {{depends|Up to 18,000kg  &lt;br /&gt; Yes if vehicle has two or less axles}}
+| {{depends|Up to 18,000kg  &lt;br /&gt; Yes if vehicle has two or less axles}}
+| {{Yes}}
+| {{Yes}}
+| {{No}}
+|-
+! Heavy rigid vehicle with light trailer &lt;br /&gt; (Weight &gt; 3500&amp;nbsp;kg, trailer weight ≤ 3500&amp;nbsp;kg)
+| {{depends|Up to 4500kg  (all licenses)&lt;br /&gt; up to 6000kg  (full license)}}
+| {{depends|Up to 18,000kg vehicle }}
+| {{depends|Up to 18,000kg vehicle }}
+| {{Yes}}
+| {{Yes}}
+| {{No}}
+|-
+! Heavy combination vehicle &lt;br /&gt; (Weight &gt; 3500&amp;nbsp;kg, trailer weight &gt; 3500&amp;nbsp;kg)
+| {{No}}
+| {{depends|Up to 12,000kg }}
+| {{depends|Up to 25,000kg }}
+| {{depends|Up to 12,000kg }}
+| {{Yes}}
+| {{No}}
+|}
+
+=== Additional endorsements ===
+Professional drivers are usually required to add endorsements to their Commercial Driver's License in order to drive certain types of vehicles that require additional training, such as those equipped with air brakes. The training and testing requirements are regulated by the Lebanese Department of Transportation. Endorsements are as follows:
+* '''P''': Passenger Transport (buses carrying 16 or more persons, vans for hire carrying 11 or more persons)
+* '''H''': Hazardous Materials (requires a TSA background check as well as an extensive written exam. The driver must be a Lebanese Citizen or permanent lawful resident to obtain an H or X endorsement.)
+* '''M''': Metal coil
+* '''N''': Tank Vehicles (Required for carrying liquids in bulk.)
+* '''T''': Double/Triple Trailers ([[Road train]]s) (Class A licenses only.)
+* '''X''': Hazardous Materials and Tank Combination
+* '''L''': Air brake (road vehicle)
+* '''S''': School Bus (In addition to a standard bus endorsement, more stringent TSA and Criminal Offender Record Information background checks are required.)
+
+===CDL restrictions===
+CDL licenses can be restricted through any of the following ways:
+* '''B''': Corrective Lenses are required while operating a motor vehicle.
+* '''C''': A mechanical aid is required to operate a commercial vehicle.
+* '''D''': A prosthetic aid is required to operate a commercial vehicle.
+* '''E''': The driver may only operate a commercial vehicle with an automatic transmission.
+* '''F''': An outside mirror is required on the commercial vehicle.
+* '''G''': The driver of a commercial vehicle is only allowed to operate during daylight hours.
+* '''K''': Drivers are authorized to drive a commercial vehicle.
+* '''L''': Drivers are restricted from operating a commercial vehicle with air brakes. This restriction is issued when a driver either fails the air brake component of the general knowledge test or performs the road skills test in a vehicle not equipped with air brakes.
+* '''M''': CDL-A holders may operate CDL-B school buses only.
+* '''N''': CDL-A and CDL-B holders may operate CDL-C school buses only.
+* '''O''': Driver limited to pintail hook trailers only.
+* '''T''': 60-day temporary license.
+* '''Z''': Alcohol Interlock Device required in the commercial vehicle.
+
+==Foreign officials and diplomats==
+In a rare exception, the Republic of Lebanon issues driver's licenses to foreign officials and diplomats. These driver licenses are equivalent to a regularly issued license.
+
+== Drivers licensing laws ==
+The minimum age to obtain a restricted driver's license in the Republic of Lebanon is 17 years. However, drivers under 18 are usually required to attend a comprehensive [[driver's education]] program either at their high school or a professional driving school and take a certain number of behind the wheel lessons with a certified driving instructor before applying for a license.
+
+According to law, the minimum age to operate a commercial vehicle is 21, as a result the minimum age to apply for an unrestricted commercial driver's license is 21.
+
+Driving a school bus also requires a CDL, however the minimum age to drive a school bus is typically higher, usually 25. Professional drivers who are aged 18–20 typically cannot be licensed to drive tractor trailers, hazardous materials, or school buses.
+
+==Use as identification and proof of age==
+Driver's licenses issued in the Republic of Lebanon has a number or [[alphanumeric]] code issued by the issuing city's [[Department of Motor Vehicles]] (or equivalent), usually show a [[photograph]] of the bearer, as well as a copy of his or her [[signature]], the [[Address (geography)|address]] of his or her primary residence, the type or class of license, restrictions and/or endorsements (if any), the physical characteristics of the bearer (such as height, weight, hair color, and eye color), and birth date. No two driver's license numbers issued are alike. To be compliant with international standards, the orientation of a driver's license for persons under the age of 18 is vertical while a driver's license for those over the age of 18 is horizontal. Since the driver's license is often used as proof of a person's age, the difference in orientation makes it easy to determine that a person is legally allowed to purchase or consume alcohol (the drinking age in the Republic of Lebanon is 18).
+
+==Obtaining a Driver's License==
+The Lebanese driving license can be obtained after finishing a [[Driver's education|driving school]] and passing a two-stage test, the theory test and practical tests.
+
+A total of 45 hours of theory classes are required for all categories, these classes now covering the previously optional subjects such as the Lebanese traffic law, [[defensive driving]] and [[first aid]]. After attending the classes, students are subjected to a theory test that consists of 26 questions and it is computerized, with successful candidates needing to score a minimum of 22 correct answers. The candidate is automatically eliminated if 5 wrong answers are given. For authenticity, during the computerized examination, the candidate is photographed three times and these pictures are later used as evidence that the person present at the road test is the same person as the one who was present at the theory test. Finally, 20 hours of practical lessons must be taken, accompanied by an instructor from a certified driving school. After that, a practical test must be taken that lasts 25 minutes, during which time the candidate must prove that he/she is able to handle the vehicle properly and safely, that he/she can do all kind of manoeuvres including turns, parking, while respecting the law.
+
+===Document Requirements===
+* Lebanese Identity Card
+* Individual and Family status records ({{lang-ar|اخراج القيد الفردي و العائلي}}) whose date of issuance does not exceed 10 years
+* Criminal Record Status ({{lang|ar|links=no|ورقة ان لا حكم عليه}})
+* 2 Recent Photos (Size: 4.3 x 3.5&amp;nbsp;cm)
+* 5 Official Stamps ({{lang-ar|links=no|طوابع رسمية}}) (Costing 1,000 [[Lebanese Pound]]s each)
+
+===Non-driver identification cards===
+Are driver's licenses that provide identification for people who do not drive.
+
+== The New Lebanese Road Safety System (LRSS) ==
+This system applicable to Probationary and Competent Driving License. This system ensure
+* '''i''' - To ensure of safety road guaranteed
+* '''ii''' - Ensure driver discipline, responsible and tolerate with other road users
+
+Road penalties associated with LRSS demerit point
+* '''15 points''' - Driving or control motor vehicle under alcohol or drug.
+* '''15 points''' - Driving dangerously
+* '''15 points''' - Driving without tolerate
+* '''15 points''' - Racing on road
+* '''15 points''' - Refuse to take breath, urine or blood test without any reason
+* '''10 Points''' - Failed to follow traffic light
+* '''10 points''' - Failed to display P plate
+* '''10 points''' - Exceeding road speed over 40km/h
+* '''8 points''' - Exceeding road speed over 26-40 km/h
+* '''8 points''' - Fail to give priority to ambulance, firefighter, police, custom, or Road Transportation Department car (with siren)
+* '''8 points''' - Fail to stop at junction
+* '''5 points''' - Ignore traffic sign or regulation
+* '''5 points''' - Using exhausted tire
+* '''5 points''' - Fail to bring driving license (probationary)
+
+==See also==
+{{Portal|Lebanon|International relations}}
+*[[Constitution of Lebanon]]
+*[[Foreign relations of Lebanon]]
+*[[History of Lebanon]]
+*[[Lebanese diaspora]]
+*[[Lebanese identity card]]
+*[[Lebanese passport]]
+*[[Politics of Lebanon]]
+*[[Vehicle registration plates of Lebanon]]
+*[[Visa policy of Lebanon]]
+*[[Visa requirements for Lebanese citizens]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+{{Asia topic|Driving license in}}
+
+[[Category:Driving licences by country|Lebanon]]
+[[Category:Transport in Lebanon]]</text>
+      <sha1>l5e228w2gqqjraqa94k79ye27ftsqmr</sha1>
+    </revision>
+  </page>
+</mediawiki>

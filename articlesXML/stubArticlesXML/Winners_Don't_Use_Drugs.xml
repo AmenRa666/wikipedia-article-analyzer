@@ -1,0 +1,90 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Winners Don't Use Drugs</title>
+    <ns>0</ns>
+    <id>4403888</id>
+    <revision>
+      <id>748142375</id>
+      <parentid>716150772</parentid>
+      <timestamp>2016-11-06T15:53:42Z</timestamp>
+      <contributor>
+        <username>GoodDay</username>
+        <id>589223</id>
+      </contributor>
+      <comment>Reduce whitespace</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2717">{{Refimprove|date=October 2014}}
+[[File:Winners Dont Use Drugs.png|right|thumb|Screenshot of the slogan]]
+
+'''Winners Don't Use Drugs''' is an [[recreational drug use|anti-drug]] [[slogan]] that was included on all&lt;ref name=&quot;Inverse&quot;&gt;https://www.inverse.com/article/5193-how-the-f-b-i-made-winners-don-t-use-drugs-the-arcade-motto-of-the-90s Hutchinson, Sean. &quot;How the F.B.I. Made 'Winners Don't Use Drugs' the Arcade Motto of the '90s.&quot; Inverse, August 19, 2015.&lt;/ref&gt; [[arcade game]]s imported into [[North America]] for 11 years from 1989 to 2000. The slogan appears on a screen that is shown during a game's [[attract mode]].&lt;ref&gt;{{cite web|url=https://www.inverse.com/article/5193-how-the-f-b-i-made-winners-don-t-use-drugs-the-arcade-motto-of-the-90s|title=How the F.B.I. Made 'Winners Don't Use Drugs' the Arcade Motto of the '90s|author=Sean Hutchinson|date=19 August 2015|work=Inverse}}&lt;/ref&gt;
+
+The messages are credited to [[FBI Director]] [[William S. Sessions]], whose name appears alongside the slogan. Sessions reached a deal with [[American Amusement Machine Association]] president Robert Fay through which 20 arcade manufacturers agreed to include the slogan in their games.&lt;ref name=&quot;Inverse&quot; /&gt; The slogan made its official debut on January 10, 1989, when three major games that included the slogan were shown to the press. A similar campaign called [[Recycle It, Don't Trash It!]] was launched several years afterward. Although Sessions's tenure with the FBI ended several years later, the slogan continued to be included in newer arcade games. It has since become a 1990s symbol of arcade gaming in the US.
+
+The slogan has been parodied various times, such as in the Xbox Live Arcade/PlayStation Network title ''[[Scott Pilgrim vs. the World: The Game]]'', saying &quot;Winners Don't Eat Meat&quot;&lt;ref name=&quot;Time&quot;&gt;http://techland.time.com/2010/08/11/maybe-if-you-knew-the-science…-scott-pilgrim-vs-the-world-the-game-review/&lt;/ref&gt; or in ''[[Futurama]]'' with the version &quot;Winners don't play video games&quot;.&lt;ref name=&quot;Denofgeek&quot;&gt;{{cite web|url=http://www.denofgeek.com/tv/futurama/10481/futurama-season-6-episode-17-review-law-and-oracle|title=Futurama season 6 episode 17 review: Law And Oracle|work=Den of Geek}}&lt;/ref&gt;
+
+== See also ==
+* [[Symbols of the Federal Bureau of Investigation|Seal of the FBI]]
+* [[Just Say No]]
+* [[Recycle It, Don't Trash It!]]
+
+== References ==
+&lt;references /&gt;
+
+[[Category:Video game culture]]
+[[Category:Advertising slogans]]
+[[Category:History of drug control in the United States]]
+[[Category:Federal Bureau of Investigation]]
+[[Category:Public service announcements of the United States]]
+[[Category:1990s in video gaming]]
+
+
+{{videogame-culture-stub}}
+{{advertising-stub}}</text>
+      <sha1>b14kbx5461bgk3oha8jqglwkvhzchd0</sha1>
+    </revision>
+  </page>
+</mediawiki>

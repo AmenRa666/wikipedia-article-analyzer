@@ -1,0 +1,166 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Grand Western Canal</title>
+    <ns>1</ns>
+    <id>10753612</id>
+    <revision>
+      <id>717771368</id>
+      <parentid>595782396</parentid>
+      <timestamp>2016-04-29T16:36:21Z</timestamp>
+      <contributor>
+        <username>JJMC89 bot</username>
+        <id>27446209</id>
+      </contributor>
+      <comment>subst /Comments to [[WP:DCS|discontinue comments subpage]]) ([[Project:AWB|AWB]] [12009]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10354">{{Talk header}}
+{{Article history| action1       = GAN
+ | action1date   = 21:09 6 Feb 2008
+ | action1link   = Talk:Grand Western Canal#GA review
+ | action1result = Listed
+ | action1oldid  = 189578541
+ | currentstatus = GA
+ | topic         = engtech
+}}
+{{WikiProject banner shell|1=
+{{WikiProject Somerset|class=GA|importance=low}}
+{{WikiProject UK Waterways|class=GA|importance=Mid}}
+{{WikiProject UK geography|class=GA|importance=Mid}}
+{{WikiProject Devon|class=GA|importance=Mid}}
+{{WikiProject England|class=GA|importance=mid}}
+{{WikiProject Historic sites|class=GA|importance=}}
+}}
+{{WW template |Grand Western Canal plan}}
+{{WW template |Grand Western Canal map}}
+{{Somerset selected article|Sept|2008}}
+== Holcomb v Holcombe &amp; adding links from villages ==
+
+I think this article is looking really good.
+
+In the &quot;Construction&quot; section the article discusses &quot;''rock cuttings at Holcomb, from which springs of water gushed''&quot;. I can't find any evidence of  village spelled like that in the area. Neither [[Holcombe, East Devon]] or [[Holcombe, Somerset]] seem to be in the right place. Does anyone have any further info or a grid ref etc on which to base an article?
+
+:It was [[Holcombe Rogus]]&amp;mdash; [[User:Rodw|Rod]] &lt;sup&gt;[[User talk:Rodw|talk]]&lt;/sup&gt; 12:21, 6 December 2007 (UTC)
+
+Also, would it be a good idea to add a note on the articles for relevant sites on the canal, to add a note saying that the canal passed through the village etc - I've done this for [[Nynehead]] &amp; [[Holcombe Rogus]] but it would be useful elsewhere.&amp;mdash; [[User:Rodw|Rod]] &lt;sup&gt;[[User talk:Rodw|talk]]&lt;/sup&gt; 08:38, 6 December 2007 (UTC)
+
+== Nynehead Boat Lift ==
+
+There is loads of info, photos diagrams &amp; animations etc on the Nynehead boat lift at {{cite web |url=http://www.nynehead.org/canal/nynehead_lift.html |title=The Boat Lift on The Grand Western at Nynehead |accessdate=2007-12-06 |format= |work=Nynehead Village Web Site }}&amp;mdash; [[User:Rodw|Rod]] &lt;sup&gt;[[User talk:Rodw|talk]]&lt;/sup&gt; 09:03, 6 December 2007 (UTC)
+
+== ? ready for GA nomination ==
+
+I've expanded the lead a bit in line with [[WP:LEAD]]. Are there other things which people still feel need to be worked on, or do we feel it is ready for nomination at [[WP:GAC]]?&amp;mdash; [[User:Rodw|Rod]] &lt;sup&gt;[[User talk:Rodw|talk]]&lt;/sup&gt; 18:45, 19 December 2007 (UTC)
+:Could you leave it another day or so. I've borrowed a copy of Hadfield's Canals of Southern England.  This book is not referenced in the article, but it has quite a bit of coverage. I may not necessarily add anything, but some reviewers look for stability in an article, so don't want them to start looking just yet.[[User:Pyrotec|Pyrotec]] ([[User talk:Pyrotec|talk]]) 18:12, 20 December 2007 (UTC)
+::Did you find anything useful? Would it be OK to put this up for GA tomorrow?&amp;mdash; [[User:Rodw|Rod]] &lt;sup&gt;[[User talk:Rodw|talk]]&lt;/sup&gt; 17:19, 31 December 2007 (UTC)
+:::OK put it up for GA tomorrow and I also aim to finish what I started tomorrow as well.[[User:Pyrotec|Pyrotec]] ([[User talk:Pyrotec|talk]]) 22:59, 31 December 2007 (UTC)
+
+==GA review==
+{{#if:|{{#ifeq:{{NAMESPACE}}|Talk||{{error:not substituted|GAList}}&lt;div style=&quot;display:none;&quot;&gt;}}}}
+:'''[[Wikipedia:Good article nominations|GA]] review''' (see [[Wikipedia:What is a good article?|here]] for criteria)
+{{#if:Just needs some expansion and a few prose tweaks|&lt;hr width=50%&gt;Just needs some expansion and a few prose tweaks|}}
+#It is '''reasonably well written'''.
+#:a ''(prose)'': {{GAList/check|aye}} b ''([[Wikipedia:Manual of Style|MoS]])'': {{GAList/check|aye}}
+#:: {{#if:|{{{1com}}}|}}
+#It is '''factually accurate''' and '''[[Wikipedia:Verifiability|verifiable]]'''.
+#:a ''(references)'': {{GAList/check|aye}} b ''(citations to [[WP:RS|reliable sources]])'': {{GAList/check|aye}} c ''([[Wikipedia:No original research|OR]])'': {{GAList/check|aye}}
+#:: {{#if:|{{{2com}}}|}}
+#It is '''broad in its coverage'''.
+#:a ''(major aspects)'': {{GAList/check|aye}} b ''(focused)'': {{GAList/check|aye}}
+#:: {{#if:|{{{3com}}}|}}
+#It follows the '''[[WP:NPOV|neutral point of view]] policy'''.
+#:''Fair representation without bias'': {{GAList/check|aye}}
+#:: {{#if:|{{{4com}}}|}}
+#It is '''stable'''.
+#:''No edit wars etc.'': {{GAList/check|aye}}
+#:: {{#if:|{{{5com}}}|}}
+#It is illustrated by '''[[Wikipedia:Images|images]]''', where possible and appropriate.
+#:a ''(images are tagged and non-free images have [[Wikipedia:Image_description_page#Use_rationale|fair use rationales]])'': {{GAList/check|aye}} b ''(appropriate use with [[WP:CAP|suitable captions]])'': {{GAList/check|aye}}
+#:: {{#if:|{{{6com}}}|}}
+#'''Overall''': 
+#:''Pass/Fail'': {{GAList/check|}}
+#:: {{#if:|{{{7com}}}|}}&lt;!-- Template:GAList --&gt;&lt;/div&gt;
+
+Details:
+
+* Lede, I'm unsure about the tense in the first sentence. &quot;... Canal is a canal in the UK which ran...&quot; doesn't agree in verb tense. Not sure which tense you wish to go with, so didn't change it myself. As it is now, it reads awkwardly. 
+* Lede, Every sentence but one in the lead starts with &quot;The...&quot; Consider rewording to avoid repetition.
+* Lede - I'd like to see just a bit more information in the lede. It feels skimpy compared to the length of the article.
+* History section, second paragraph, consider cutting a bit of the detailed description in the second sentence, as it is now a bit of a run on sentence.
+* History section, Construction subsection. The last sentence of the first paragraph probably doesn't need six separate citations, since it isn't a particularly contentious statemtne. Consider cutting a few. Same for the last sentence of the second paragraph, the &quot;Bridges... &quot; probably doesn't need three citations.
+* Same section and subsection, the last paragraph is only one sentence, which gives the prose a choppy feel. Consider merging with another paragraph in the section or expanding.
+
+Really neat article, just needs a few tweaks and some expansion on the lede to pass.
+
+I've put the article on hold for seven days to allow folks to address the issues I've brought up. Feel free to contact me on my talk page, or here with any concerns, and let me know one of those places when the issues have been addressed. If I may suggest that you strike out, check mark, or otherwise mark the items I've detailed, that will make it possible for me to see what's been addressed, and you can keep track of what's been done and what still needs to be worked on.[[User:Ealdgyth|Ealdgyth]] | [[User talk:Ealdgyth|Talk]] 20:15, 6 February 2008 (UTC)
+:Thanks for your review and comments (and edits). I've attempted to expand the lead and change some of the awkward grammar. I've also done some edits to the history section - hopefully showing that each of the citations was to a different bridge. If there are further tweaks which you feel would help to improve the article please let us know.&amp;mdash; [[User:Rodw|Rod]] &lt;sup&gt;[[User talk:Rodw|talk]]&lt;/sup&gt; 21:01, 6 February 2008 (UTC)
+::Looks great! I'm going ahead and passing it. It was SOOO close, just needed those little things that someone who didn't write the article will notice. [[User:Ealdgyth|Ealdgyth]] | [[User talk:Ealdgyth|Talk]] 21:08, 6 February 2008 (UTC)
+
+== First map vs Second map ==
+
+How does the second (detailed) map correlate to the first (general plan) map? I am guessing that the green section is the same on both, but the first map doesn't actually say this. Is there a caption missing somewhere?
+
+[[User:EdJogg|EdJogg]] ([[User talk:EdJogg|talk]]) 16:49, 14 October 2008 (UTC)
+
+:It does help if you read the article and the titles; perhaps an explanation is needed. Its actually a bit more than the green bit in the middle of the first map (it includes some of the light and dark blue bits at the bottom). The first map is a schematic of a plan to link the Bristol Channel with the English Channel, that was never completed. The second is a schematic map of the Grand Western Canal. The second map can be regarded as a &quot;magnified version&quot; of the &quot;middle part&quot; of the first map. The &quot;Common link&quot; link to both is the [[Bridgwater and Taunton Canal]] and the [[River Parrett]], at the top of the second map, and Tiverton Basin, at the bottom of the second map. I did not produce them, I'm merely answering the question.[[User:Pyrotec|Pyrotec]] ([[User talk:Pyrotec|talk]]) 18:47, 15 October 2008 (UTC)
+
+::Sometimes when I'm in proof-reading mode I find a need to query details that may be clear to me, but not necessarily obvious to someone who knows less about the subject. In this case I am reading the first paragraph, then looking at the first map and thinking &quot;where's the Grand Western Canal?&quot; (the map is labelled &quot;The Grand Western '''Plan'''&quot;).
+::Now, I've realised that part of the problem results from the initial text describing the route from south to north (ie 'downhill'!) whereas the map displays north to south. (I've now fixed that.)  But I still look and expect to see &quot;Grand Western Canal&quot; somewhere on the map, showing how it fitted into the wider network. Maybe I'm making a bigger thing about this than I need to (seems to be a growing tendency with me on WP!).
+::[[User:EdJogg|EdJogg]] ([[User talk:EdJogg|talk]]) 00:17, 17 October 2008 (UTC)
+
+:::Would it help if the first plan was renamed to something like &quot;Plan to link Bristol and English Channels&quot;, that might remove some confusion; and then bring the Grand Western Canal map nearer the top of the article? [[User:Pyrotec|Pyrotec]] ([[User talk:Pyrotec|talk]]) 19:42, 17 October 2008 (UTC)
+
+::::It's worth a try. That certainly sounds like it'll do the trick. You could probably get away with the two maps butting against one another too.
+::::[[User:EdJogg|EdJogg]] ([[User talk:EdJogg|talk]]) 23:34, 17 October 2008 (UTC)
+:::::I have altered the plan, to label the open section, the tub-boat section and the authorised section, and added Topsham as the location of the junction with the River Exe. [[User:Bob1960evens|Bob1960evens]] ([[User talk:Bob1960evens|talk]]) 10:53, 26 December 2008 (UTC)
+
+==Assessment comment==
+{{Substituted comment|length=247|lastedit=20080529180054|comment='''GA''' - Looks great! I'm going ahead and passing it. It was SOOO close, just needed those little things that someone who didn't write the article will notice. [[User:Ealdgyth|Ealdgyth]] | [[User talk:Ealdgyth|Talk]] 21:08, 6 February 2008 (UTC)}}
+Substituted at 16:36, 29 April 2016 (UTC)</text>
+      <sha1>4u793z213ktm1k0hamqo94cs121s6d6</sha1>
+    </revision>
+  </page>
+</mediawiki>

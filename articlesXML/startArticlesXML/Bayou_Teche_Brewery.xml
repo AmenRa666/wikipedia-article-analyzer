@@ -1,0 +1,123 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bayou Teche Brewery</title>
+    <ns>0</ns>
+    <id>39916764</id>
+    <revision>
+      <id>748200087</id>
+      <parentid>747805492</parentid>
+      <timestamp>2016-11-06T23:21:42Z</timestamp>
+      <contributor>
+        <username>BD2412</username>
+        <id>196446</id>
+      </contributor>
+      <minor/>
+      <comment>/* History */Per consensus in discussion at [[Talk:New York#Proposed action to resolve incorrect incoming links]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5682">{{Infobox brewery
+| name             = Bayou Teche Brewery
+| image            = Bayou Teche Beer Taps.jpg
+| caption          = Various beers by Bayou Teche 
+| type             = Brewery
+| location         = Arnaudville
+| location_place   = 
+| location_city    = 
+| location_state   = Louisiana
+| location_country = USA
+| coordinates      = 
+| opened           = St. Patrick's Day 2009
+| closed           = 
+| key_people       = Karlos, Byron and Dorsey Knott
+| production       = 
+| other_products   = 
+| revenue          = 
+| operating_income = 
+| intl             = 
+| net_income       = 
+| assets           = 
+| owner            = 
+| num_employees    = 
+| parent           = 
+| divisions        = 
+| subsid           = 
+| distribution     = 
+| tasting          = 
+| url              = 
+| active_beers     = LA-31Bière Pale, LA-31 Bière Noire, LA-31 Passionné
+| seasonal_beers   = 
+| other_beers      = LA-31 Boucanée, Acadie
+| inactive_beers   = 
+}}
+
+'''Bayou Teche Brewing''' is a [[brewery]] in [[Arnaudville, Louisiana]], USA.  Bayou Teche Brewing was formed by three brothers, Karlos, Byron and Dorsey Knott, when they started brewing in an abandoned railcar on St. Patrick's Day in 2009.&lt;ref&gt;{{cite web|last=Ducote|first=Jay|title=Bayou Teche Brewing|url=http://breweries.louisianatravel.com/breweries/bayou-teche-brewing|work=Louisiana Brewery Trail|publisher=louisianatravel.com}}&lt;/ref&gt;
+
+== History ==
+
+The company first began selling beer in January 2010.&lt;ref&gt;{{cite web|title=NEW BREWERY IN ACADIANA RELEASES FIRST BEER|url=http://www.thebeerinme.com/tbimplugins/forum/forum_viewtopic.php?9198}}&lt;/ref&gt; Karlos, the head Brewmaster for Bayou Teche, grew an interest in quality beer while stationed as an Army cavalry scout in Germany. Once he returned to the US in 1994 and was stationed in Ft. Lewis in Washington state, he began experimenting with microbrewing at home. The primary intention of the beer creation process was to create beers that would complement well with Cajun and Creole cuisine. &lt;ref&gt;{{cite web|last=Price|first=Todd|title=Cajun brewery Bayou Teche comes to New Orleans|url=http://www.nola.com/drink/index.ssf/2010/03/cajun_brewery_bayou_teche_come.html|work=The Times-Picayune}}&lt;/ref&gt; The website AskMen named Bayou Teche as one of their Top 10 best microbreweries in the [[United States]].&lt;ref&gt;{{cite web|title=American Microbreweries|url=http://www.askmen.com/top_10/travel/american-microbreweries_9.html#ixzz2TZaCZbIj|work=AskMen.com}}&lt;/ref&gt;
+Bayou Teche Brewing has produced 11 beers total, including 5 year-round beers (LA-31Bière Pale, LA-31 Bière Noire, LA-31 Passionné, LA-31 Boucanée, and Acadie). Bayou Teche beer is distributed in five states currently, including native [[Louisiana]] and [[New York (state)|New York]].&lt;ref&gt;{{cite web|title=Distributors|url=http://bayoutechebrewing.com/about-us/retailers-distributors/}}&lt;/ref&gt; 
+
+Its flagship beer is the LA-31 Bière Pale, which won a Silver Medal in the World Beer Championships in 2013, scoring 89 points out of 100.&lt;ref&gt;{{cite web|last=Purdy|first=Anna|title=Beer, you win again|url=http://www.theind.com/food/8605-beer-you-win-again|work=The Website of Independent Media|publisher=Acadiana Business}}&lt;/ref&gt; According to the [[Beverage Tasting Institute]], who holds the competition, the tasting notes of the Belgian-style pale ale contain “Aromas of grainy corn flour, nut brittle, lettuce and roasted turnips are interestingly taco-like with a round dryish medium-to-full body body and crisp, okra and grassy hop bite.”&lt;ref&gt;{{cite web|title=WORLD BEER CHAMPIONSHIPS AWARD: Silver Medal|url=http://www.tastings.com/scout_beer.lasso?id=195558}}&lt;/ref&gt; It is recommended to be paired with [[red beans and rice]], [[jambalaya]], [[gumbo]] and hot [[boudin]]. &lt;ref&gt;{{cite web|last=Protz |first=Roger |title=LA-31 Bière Pâle |url=http://allaboutbeer.com/learn-beer/reviews/beer-talk/2010/05/la-31-biere-pale/ |work=All About Beer Magazine |deadurl=yes |archiveurl=https://web.archive.org/web/20131028210636/http://allaboutbeer.com/learn-beer/reviews/beer-talk/2010/05/la-31-biere-pale/ |archivedate=2013-10-28 |df= }}&lt;/ref&gt;
+
+A unique beer made for smoked Cajun food is LA-31 Boucanée, which is made using smoked cherrywood, a common tree in south Louisiana. The beer has a “sweet smoky taste that can remind you of standing downwind from a smokehouse or campfire.” &lt;ref&gt;{{cite web|last=Price|first=Todd|title=Bayou Teche releases Boucanee smoked beer in bottles|url=http://www.nola.com/drink/index.ssf/2011/06/bayou_teche_releases_boucanee.html|work=The Times-Picayune}}&lt;/ref&gt; 
+
+Acadie is has its roots in Cajun culture and is “brewed as a Bière de Garde – a centuries old French style of farmhouse seasonal brew.” &lt;ref&gt;{{cite web|last=Fullpint|first=Johnny|title=Bayou Teche Releases Acadie Biere|url=http://thefullpint.com/beer-news/bayou-teche-releases-acadie-biere/|work=The Full Pint}}&lt;/ref&gt; 
+
+Another year-round beer is their “Bière Noire”, which was modeled after a German style brewing process which made a schwarzbier with ale yeast instead of lager yeast. (3) It is recommended as a compliment to grilled food. &lt;ref&gt;{{cite web|last=Price|first=Todd|title=Bayou Teche's Biere Noire modeled on extinct German brew|url=http://www.nola.com/drink/index.ssf/2011/10/bayou_teches_biere_noire_model.html|work=The Times-Picayune}}&lt;/ref&gt;
+
+== References ==
+{{reflist|30em}}
+
+[[Category:2010 establishments in Louisiana]]
+[[Category:Beer brewing companies based in Louisiana]]
+[[Category:Companies established in 2010]]
+[[Category:Beer in Louisiana]]
+[[Category:American companies established in 2010]] 
+[[Category:Food and drink companies established in 2010]]</text>
+      <sha1>fln59c77ropzevuiz0td3t6uc139oj3</sha1>
+    </revision>
+  </page>
+</mediawiki>

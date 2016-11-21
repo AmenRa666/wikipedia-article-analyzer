@@ -1,0 +1,101 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Blacks in Liverpool</title>
+    <ns>0</ns>
+    <id>45495641</id>
+    <revision>
+      <id>748845577</id>
+      <parentid>746788170</parentid>
+      <timestamp>2016-11-10T18:51:05Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>clean up; http&amp;rarr;https for [[Google Books]] and other Google services using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5518">{{Infobox ethnic group
+|group   = Liverpudlian Blacks 
+|poptime  = 
+|popplace = 
+|langs    = [[English language|English]]
+|rels     =[[Christianity]] 
+|related  = [[Mixed (United Kingdom ethnicity category)|Mixed British]] {{•}} [[Black British]] {{•}} [[Caribbean people|Caribbeans]]
+}}
+'''Liverpool-born Blacks''' are people of Black African ancestry born in the city of [[Liverpool]]. Liverpool has the United Kingdom's oldest and longest established black community, going back several generations.&lt;ref&gt;David Clay, [http://pubs.iied.org/pdfs/G02865.pdf &quot;&quot;The changing face of community participation: the Liverpool black experience&quot;], ''Participatory Learning and Action'' 58 (IIED), June 2008.&lt;/ref&gt; Liverpool's black community is also unusual among those in the United Kingdom, as the Liverpool-born Black British community often constitute a category distinct from later African and Afro-Caribbean migrants.&lt;ref&gt;Diane Frist, [https://books.google.com/books?id=52gX8NaBS9cC&amp;pg=PA188&amp;lpg=PA188&amp;dq=liverpool-born+blacks++mixed+race&amp;source=bl&amp;ots=dRuJOjlP8Y&amp;sig=zfhSUsK0CBu1jBODJBiPt2XVRgU&amp;hl=en&amp;sa=X&amp;ei=f6fsVMfREMPtUsunhLAL&amp;ved=0CC8Q6AEwAzgK#v=onepage&amp;q=liverpool-born%20blacks%20%20mixed%20race&amp;f=false ''Work and Community Among West African Migrant Workers Since the Nineteenth Century''], Liverpool University Press, 1999, p. 188.&lt;/ref&gt;
+
+==History==
+Dating to the 1730s, the Black community of Liverpool is Britain's oldest, with some Black Liverpudlians being able to trace their roots for as many as ten generations. The community dates back to the [[American Revolutionary War]] with [[Black Loyalists]] settling in the city. They were later followed by more [[African-American]] soldiers. The original African-American community was followed in the 19th and 20th centuries by sailors and soldiers from all over the [[West Indies]] and [[West Africa]].&lt;ref name=&quot;diversemag.co.uk&quot;&gt;Ray Costello, [http://www.diversemag.co.uk/race-detail/the-liverpool-born-black-community &quot;The Liverpool-born black community&quot;], Diverse Magazine, 14 May 2015.&lt;/ref&gt; The black community experienced continued growth due to the location of Liverpool as a port city. Liverpool's port attracted many servicemen and seafarers, including [[African Americans]], [[Jamaicans]], [[Afro-Trinidadian and Tobagonian|Trinidadians]], [[Belizean people|Belizeans]], [[Afro-Guyanese|Guyanese]], [[Nigerians]], [[Ghanaian people|Ghanaians]], [[Gambian people|Gambians]], and others from all over the Caribbean and Africa.&lt;ref name=Jnb&gt;{{cite book|last1=Brown|first1=Jacqueline Nassy|title=Dropping Anchor, Setting Sail: Geographies of Race in Black Liverpool|date=2009|publisher=Princeton University Press|isbn=1400826411|pages=32 &amp; 93|url=https://www.google.com/books?id=LXNrE7QkDw8C|accessdate=24 February 2015}}&lt;/ref&gt; Mostly settling in the [[Toxteth]] district, they joined already settled [[English people|English]], [[Irish people|Irish]], [[Welsh people|Welsh]], [[Han Chinese|Chinese]] and to a lesser extent [[Indian people|Indians]] of seafarer or serviceman heritage. The Liverpudlian Black community became a [[Mixed (United Kingdom ethnicity category)|Mixed]]-race community early on, with intermarriages taking place on a large scale among people with African roots, Whites and Asians. In turn most of today's Liverpudlian Blacks, even adding more recent Afro-Caribbean and African migrants, are product of a community that became a distinct multiracial community centuries ago. This process made the Liverpudlian Black community possibly the most distinct [[Black British]] community in the United Kingdom, creating a community that is native as well as unique to the country.&lt;ref name=&quot;diversemag.co.uk&quot;/&gt;
+
+==Social unrest==
+The Liverpool Black community experienced unrest early on, with race riots going back to 1919 when returned soldiers descended on the predominantly black/mixed-race areas of Toxteth.&lt;ref&gt;David Clay, [https://books.google.com/books?id=qC6zKGwTqG8C&amp;pg=PA89&amp;lpg=PA89&amp;dq=liverpool++black+community&amp;source=bl&amp;ots=GmUTcF2W7p&amp;sig=fdUPdEg-pCfDUy3vNCGWiSuatqc&amp;hl=en&amp;sa=X&amp;ei=DqXsVLjkC4HBUrmLgNAD&amp;ved=0CCAQ6AEwADgU#v=onepage&amp;q=liverpool%20%20black%20community&amp;f=false &quot;The changing face of community participation: the Liverpool black experience&quot;], in Tom Wakeford, Jasber Singh, ''Participatory Learning and Action'' 58, ''Towards Empowered Participation: Stories and Reflections'' (IIED), June 2008, p. 89.&lt;/ref&gt;
+
+Infamous were the [[1981 Toxteth riots]], which was the direct result of long-standing tensions between the local police and the black community and that saw hundreds of police and public injured, one man dead, 500 arrested, 70 buildings destroyed and damage estimated at £11m.&lt;ref&gt;[http://www.liverpoolecho.co.uk/news/liverpool-news/toxteth-riots-1981-background---3369242 &quot;Toxteth Riots 1981 background - and how it all began&quot;], ''Liverpool Echo'', 4 July 2011.&lt;/ref&gt;
+
+==Notable Black Liverpudlians==
+*[[Craig Charles]]
+*[[John Archer (British politician)|John Archer]]
+*[[John Conteh]]
+*[[Laurence Westgaph]]
+*[[Paul Barber (actor)|Paul Barber]]
+
+==Further reading==
+*Costello, Ray (2001). ''Black Liverpool: The Early History of Britain's Oldest Black Community 1730-1918''. Liverpool: Picton Press.
+
+== References ==
+{{Reflist|30em}}
+
+[[Category:Black British people]]
+[[Category:African diaspora in the United Kingdom]]
+[[Category:Ethnic groups in Europe]]
+[[Category:Ethnic groups in the United Kingdom]]
+[[Category:Black British culture in England]]
+[[Category:Black British history]]</text>
+      <sha1>qj5z6hsrrbgqpuebt3xx0fpfo23l897</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,379 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ontario Highway 420</title>
+    <ns>0</ns>
+    <id>1274481</id>
+    <revision>
+      <id>748487152</id>
+      <parentid>748475179</parentid>
+      <timestamp>2016-11-08T12:30:46Z</timestamp>
+      <contributor>
+        <username>Llammakey</username>
+        <id>21878292</id>
+      </contributor>
+      <comment>not necessary</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22009">{{featured article}}
+{{Infobox road
+|province       = ON
+|type           = Fwy
+|route          = 420
+|alternate_name = Niagara Veterans Memorial Highway
+|map            = Ontario 420 map.svg
+|map_alt        = A map of the southern portion of the Canadian province of Ontario and environs, with the 400-series highway network superimposed. An inset of the Niagara Peninsula shows the location of Highway&amp;nbsp;420.
+|map_notes      = Highway 420 within [[Southern Ontario]]
+|length_km      = 3.3
+|length_ref     = &lt;ref name=&quot;km&quot;&gt;{{cite web
+ | title      = Annual Average Daily Traffic (AADT) counts
+ | author     = [[Ministry of Transportation of Ontario]]
+ | year       = 2012
+ | url        = http://www.raqsb.mto.gov.on.ca/techpubs/TrafficVolumes.nsf/tvweb?OpenForm&amp;Seq=5
+ | accessdate = August 3, 2016}}&lt;/ref&gt;
+|history        = November 1, 1941 (as [[Queen Elizabeth Way]])&lt;br /&gt;1972 (as Highway&amp;nbsp;420)
+|direction_a    = West
+|direction_b    = East
+|section1       = Highway 420
+|terminus_a1    = {{jcon|Niagara|98|Montrose Road}}
+|junction1      = {{jcon|Hwy|QEW}}
+|terminus_b1    = {{jcon|Niagara|102|Stanley Avenue}}
+|section2       = Niagara Regional Road&amp;nbsp;420
+|terminus_a2    = {{jcon|Niagara|102|Stanley Avenue}}
+|terminus_b2    = {{jct|state=NY|NY|384}} and {{jct|state=NY|NY|104}} at the [[Rainbow Bridge (Niagara Falls)|Rainbow Bridge]] to [[United States]]
+|cities         = [[Niagara Falls, Ontario|Niagara Falls]]
+|previous_type  = ON
+|previous_route = 418
+|next_type      = ON
+|next_route     = 427
+}}
+'''King's Highway 420''', commonly referred to as '''Highway 420''', is a [[400-series highway]] in the [[Provinces and territories of Canada|Canadian province]] of [[Ontario]] that connects the [[Queen Elizabeth Way]] (QEW) with downtown [[Niagara Falls, Ontario|Niagara Falls]]. It continues east as a limited-access expressway named '''Niagara Regional Road&amp;nbsp;420''' to connect with the [[Rainbow Bridge (Niagara Falls)|Rainbow Bridge]] international crossing between Canada and the United States over the [[Niagara River]]; this was part of Highway&amp;nbsp;420 until 1998. West of the QEW, the freeway ends at an [[at-grade intersection]] with Montrose Road (Niagara Regional Road&amp;nbsp;98). The highway has a speed limit of {{convert|80|km/h|mph}}, making it the only 400-series highway to have a speed limit less than {{convert|100|km/h|mph}} for its entirety.
+
+Originally constructed as a divided four-lane road with two [[traffic circle]]s, the route of Highway&amp;nbsp;420 formed part of the QEW between 1941 and 1972 before being assigned a unique [[route number]]. This took place during the reconstruction of the four lane divided highway into a freeway and the construction of the large interchange at the freeway's western terminus. In 1998, the section of Highway&amp;nbsp;420 east of Stanley Avenue was transferred to the responsibility of the [[Regional Municipality of Niagara]] and redesignated as Regional Road&amp;nbsp;420.
+
+== Route description ==
+[[File:June 2008 420 ER Lightpost.jpg|thumb|left|An [[Elizabeth Bowes-Lyon|&quot;ER&quot;]] lightpost along Highway 420, recounting the route's historical connection to the QEW]]
+At {{convert|3.3|km|abbr=on}}, Highway&amp;nbsp;420 is the shortest [[400-series highway]], travelling through Niagara Falls from Montrose Road to Stanley Avenue,&lt;ref name=&quot;km&quot; /&gt; on the outskirts of the city's tourist district.&lt;ref name=&quot;1996 map&quot; /&gt; East of Stanley&amp;nbsp;Avenue (Regional Road&amp;nbsp;102) the highway becomes Niagara Regional Road&amp;nbsp;420 and is known as Falls Avenue and Newman Hill on approach to the Rainbow Bridge. This portion was designated a part of Highway&amp;nbsp;420 until 2000, when it was transferred to the City of Niagara Falls and the Regional Municipality of Niagara, although the Ministry of Transportation of Ontario (MTO) still assists with the maintenance of it under a [[Connecting Link]] agreement.&lt;ref name=&quot;CL&quot;&gt;{{cite book
+
+ | type       = Report
+ | title      = Highway Connecting Link List
+ | author     = Contract Management and Operations Branch
+ | publisher  = Ministry of Transportation of Ontario
+ | year       = 2011}}&lt;/ref&gt;
+East of Drummond Road,&lt;ref&gt;{{cite web
+
+ | title      = View from Drummond Road showing standard luminaires to the west and &quot;ER&quot; luminaires to the east
+ | author     = [[Google]]
+ | publisher  = Google
+ | work       = Google Street View
+ | date       = July 2015
+ | url        = https://goo.gl/maps/8FugpwHY4Lq
+ | accessdate = July 13, 2016}}&lt;/ref&gt;
+Highway&amp;nbsp;420 features stylized light fixtures with the letters &quot;ER&quot;, which stand for ''Elizabeth Regina'' and are a tribute to [[Queen Elizabeth The Queen Mother|The Queen Mother]].&lt;ref name=&quot;teh&quot;&gt;{{cite book
+
+ | type       = Report
+ | title      = The History of Toronto's Unfinished Expressway System
+ | publisher  = Energy Probe&lt;!-- Note: Strikingly familiar to the former Get Toronto Moving Transportation plan. --&gt;
+ | date       = April 5, 2009
+ | page       = 4
+ | url        = http://ep.probeinternational.org/2009/04/05/history-torontos-unfinished-expressway-system/
+ | accessdate = January 23, 2012}}&lt;/ref&gt;
+
+Highway&amp;nbsp;420 begins in the west at a signalized intersection with Montrose Road (Regional Road&amp;nbsp;98),&lt;ref name=&quot;gmaps1&quot; /&gt; beyond which it continues as Watson Street through the residential neighbourhood of Greens Corners to Beaverdams Road (Regional Road&amp;nbsp;53).&lt;ref name=&quot;1996 map&quot;&gt;{{cite map
+
+ | title       = Golden Horseshoe
+ | author      = Rand McNally &amp; Co
+ | publisher   = Allmaps Canada
+ | year        = 1996
+ | pages       = 348–349
+ | scale       = 1:25,000
+ | isbn        = 978-0-88640-767-4}}&lt;/ref&gt;
+East of Montrose Road, the highway is a four lane roadway divided by a raised paved [[central reservation|median]], and passes north of a forest as it approaches an [[interchange (road)|interchange]] with the QEW. As well as a [[partial cloverleaf interchange]] that provides almost all directional movements, this four-level [[stack interchange]] features two [[overpass|flyovers]] that arc from south to east as well as a four lane mainline that curves from north to east, directing most westbound Highway&amp;nbsp;420 traffic onto the Toronto-bound QEW.&lt;ref name=&quot;gmaps1&quot;&gt;{{Google maps
+
+ | title      = QEW&amp;nbsp;/ Highway&amp;nbsp;420 interchange
+ | url        = http://g.co/maps/f2urq
+ | accessdate = January 30, 2012
+ | link       = no}}&lt;/ref&gt;
+
+[[File:420 Expressway.JPG|right|thumb|A view of Regional Road 420 proceeding east past Stanley Avenue at the terminus of Highway&amp;nbsp;420]]
+East of the QEW, Highway&amp;nbsp;420 encounters an interchange with Dorchester Road as both cross the [[Queenston-Chippawa Power Canal]].&lt;ref name=&quot;gmaps&quot;&gt;{{Google maps
+
+ | title      = Highway&amp;nbsp;420 length and route
+ | url        = http://g.co/maps/gsfmy
+ | accessdate = January 30, 2012
+ | link       = no}}&lt;/ref&gt;
+This interchange was originally a [[traffic circle]] that was removed in the early 1970s.{{sfnp|Stamp|1987|p=65}}&lt;!--; the Royal Manor Drive bridge over the power canal is the only remainder from this circle. --- Confirmed by Niagara Public Works Department --&gt; The numerous lanes from the stack interchange to the west begin to converge between residential subdivisions east of Dorchester Road, gradually narrowing to four through lanes at the Drummond Road interchange.&lt;ref name=&quot;gmaps&quot; /&gt; After passing beneath Portage Road, the route widens on approach to an [[at-grade]] intersection with Stanley Avenue. This intersection is the eastern end of both the freeway segment of the route and the signed King's Highway 420; east of Stanley Avenue the route is signed as Niagara Regional Road&amp;nbsp;420 and known as Falls Avenue.&lt;ref name=&quot;2010 mapart&quot; /&gt;&lt;ref name=&quot;FallsAvenue&quot; /&gt;
+
+Now separated by a landscaped median, the route progresses eastward, intersecting MacDonald Avenue and providing access to several residential and retail properties that adjoin the road. The route travels within a concrete trench and abruptly curves to the southeast as it passes beneath Victoria Avenue, with which there is a simple interchange.&lt;ref name=&quot;gmaps&quot; /&gt; East of this point, the road was named Newman Hill until March 2012. Palmer Avenue and Ontario Avenue pass over the route as it descends a hill towards the [[Niagara Gorge]]. At the bottom, the route curves to the southwest, where it provides access to the Rainbow Bridge border crossing into the United States as well as the tourist district of the city.&lt;ref name=&quot;2010 mapart&quot; /&gt;
+
+Due to its association with the number [[420 (cannabis culture)|420]] in [[cannabis culture]], Highway 420 is also the location for the annual Cannabis Conference and Protest, usually taking place sometime around April&amp;nbsp;20. The event includes a march beginning near Niagara Falls and travelling to Highway 420.&lt;ref&gt;{{cite web
+
+ | title       = Home
+ | publisher   = Highway 420 Anti-Prohibition Rally
+ | date        = n.d.
+ | url         = http://www.hwy420.ca
+ | accessdate  = July 13, 2016
+ | archivedate = February 18, 2012
+ | archiveurl  = https://web.archive.org/web/20120218022805/http://hwy420.ca/}}&lt;/ref&gt;&lt;ref&gt;{{cite news
+
+ | title      = 420 Rally Urges Need For Legal Weed
+ | first      = John
+ | last       = Law
+ | work       = Niagara Falls Review
+ | date       = April 20, 2014
+ | url        = http://www.niagarafallsreview.ca/2014/04/20/420-rally-urges-need-for-legal-weed
+ | accessdate = August 7, 2016}}&lt;/ref&gt;
+
+== History ==
+
+=== Rainbow Bridge Approach ===
+{{see also|Rainbow Bridge (Niagara Falls)}}
+{{multiple image
+ | align             = left
+ | direction         = vertical
+ | header            = 
+ | header_align      = left/right/center
+ | header_background = 
+ | footer            = 
+ | footer_align      = left/right/center
+ | footer_background = 
+ | width             = 
+ | image1            = 420 Approaching Rainbow Bridge, 1941.png
+ | width1            = 250
+ | caption1          = Construction of the Roberts Street link between the QEW and the Rainbow Bridge, February 13, 1941
+ | image2            = 420 Approaching Rainbow Bridge, 1942.jpg
+ | width2            = 250
+ | caption2          = Similar angle in the spring of 1942
+}}
+The history of Highway&amp;nbsp;420 predates its designation by nearly 75 years, tied in with the crossing of the Niagara Gorge between the twin cities of Niagara Falls. The first level crossing between the two cities was the Honeymoon Bridge, constructed in 1898. The {{convert|14|m|ft|abbr=on}} wide structure spanned {{convert|255|m|ft|abbr=on}} between the Canadian and American sides, {{convert|58|m|ft|abbr=on}} above the [[Niagara River]]. Its narrow design proved to be a fatal flaw, and on January&amp;nbsp;27, 1938, under the weight of a massive ice jam in the river, the structure collapsed.{{sfnp|Stamp|1992|p=123}}
+A day later, the owners of the previous bridge — the [[International Railway (New York – Ontario)|International Railway Company]] (IRC) — as well as the Minister of Highways [[Thomas Baker McQuesten]] announced intentions to construct a new span; a long political battle ensued for several years over the merits of private or public ownership of border crossings. In the end, the [[Niagara Falls Bridge Commission]] (NFBC) paid the IRC $615,000 to purchase the right-of-way of the old bridge as well as the rights to construct the new one.{{sfnp|Stamp|1992|pp=124–125}}
+The future Rainbow Bridge was royally dedicated by [[King George VI]] and [[Queen Elizabeth The Queen Mother|Queen Elizabeth]] on June&amp;nbsp;7, 1939, just hours after the couple dedicated the QEW.&lt;ref name=&quot;thunderalley&quot; /&gt;
+
+On May&amp;nbsp;16, 1940, Samuel Johnson, the vice-chair of the NFBC, and McQuesten, who along with his parliamentary role was chair of the commission, ceremonially turned the first sod for the new bridge using a two-handled shovel.{{sfnp|Stamp|1992|pp=124–125}}
+Construction had begun two weeks earlier on May&amp;nbsp;4.&lt;ref name=&quot;thunderalley&quot;&gt;{{cite web
+
+ | title      = Bridges Over Niagara River
+ | first      = Rick
+ | last       = Berketa
+ | publisher  = Niagara Falls Thunder Alley&lt;!-- Note: This source has received plenty of coverage by reliable Niagara institutions. It is a SPS, but it undoubtedly meets the expert criteria of WP:SPS --&gt;
+ | date       = February 20, 2012
+ | url        = http://www.niagarafrontier.com/bridges.html#b12
+ | accessdate = July 22, 2016}}&lt;/ref&gt;
+The new bridge was assembled over the following 18&amp;nbsp;months; the design was prepared by New York engineering firm Waddell &amp; Hardesty and supervised by the Edward Lupfer Corporation, the latter the designers of the [[Peace Bridge]].{{sfnp|Stamp|1992|pp=126–127}}
+The new structure was located {{convert|167|m|ft|abbr=on}} downstream from the Honeymoon Bridge, as the gorge is slightly wider at that point, resulting in a {{convert|288|m|ft|abbr=on}} span.{{sfnp|Stamp|1992|p=128}}
+
+Meanwhile, McQuesten was overseeing construction of the QEW between Toronto and Fort Erie. The new [[dual highway]], inspired by [[Autobahn|German Autobahns]], was the first of its kind in Canada.&lt;ref group=&quot;note&quot; name=&quot;n1&quot;&gt;[[Cootes Drive]] in Hamilton is also claimed as the first dual highway in Canada, although the QEW was the first divided highway designed for long-distance travel.&lt;/ref&gt;
+The outbreak of [[World War II]] in September&amp;nbsp;1939 temporarily halted McQuesten's ambitions, as funding was quickly shifted to the war effort. As a result, construction on the new superhighway was put on hold south of Niagara Falls. McQuesten officially opened the QEW on August&amp;nbsp;23, 1940; the pavement ended south of Lundy's Lane.&lt;ref&gt;{{cite news
+
+ | title      = Queen Elizabeth Roadway to Open
+ | work       = Evening Courier
+ | location   = Prescott, Arizona
+ | date       = August 23, 1940
+ | url        = https://news.google.com/newspapers?id=grRaAAAAIBAJ&amp;sjid=9E8DAAAAIBAJ&amp;dq=queen%20elizabeth%20highway&amp;pg=4452%2C3926563
+ | accessdate = January 11, 2012}}&lt;/ref&gt; Despite the war, work began on a link between the highway and the Rainbow Bridge through the centre of Niagara Falls. This link would not be completed in time for the opening of the new bridge.{{sfnp|Stamp|1992|p=129}}
+
+On November&amp;nbsp;1, 1941, the Rainbow Bridge was officially opened during a simple ceremony. The oldest living couple known to have wed in Niagara Falls, a pair from [[Pennsylvania]], were the first to cross, followed by a newlywed couple from [[Georgia (U.S. state)|Georgia]]. This symbolically tied the history of the two bridges together, and was followed by McQuesten and Johnson walking towards the centre of the structure from the Canadian and American sides, respectively, and shaking hands at the centre. Several pyrotechnic explosions at both ends capped the ceremony, and the bridge was opened to traffic.{{sfnp|Stamp|1992|pp=124–125}}
+
+[[File:420 Terminus.JPG|right|thumb|Regional Route 420's terminus at Falls Avenue in Niagara Falls near the Rainbow Bridge and [[Clifton Hill (Niagara Falls)|Clifton Hill]]]]
+Work continued on the four lane bridge approach throughout 1941, and by mid-1942 it was possible to drive directly from the bridge onto the QEW. The new link featured a traffic circle at Dorchester Road as well as at the QEW.{{sfnp|Stamp|1992|pp=126–127}}
+Four gravel lanes opened between Niagara Falls and Fort Erie during the summer of 1941, becoming the main route of the QEW.{{sfnp|Stamp|1987|p=49}} As a result, what would become Highway&amp;nbsp;420 was referred to by several names, including the Queen Elizabeth Way Extension (and known by locals for decades as the &quot;Queen E Extension&quot;)&lt;ref&gt;{{cite book
+
+ | title     = A.A.D.T. Traffic Volumes 1955–1969 And Traffic Collision Data 1967–1969
+ | publisher = Ontario Department of Highways
+ | year      = 1970
+ | page      = 4}}&lt;/ref&gt;
+and the Rainbow Bridge Approach.{{sfnp|Stamp|1987|pp=126–127}}
+
+=== Upgrade to freeway ===
+During the mid-1960s, the [[Department of Highways]] examined the possibility of extending the freeway portion of the route east towards the Rainbow Bridge. They began to purchase properties lining Roberts Street in 1966.&lt;ref name=&quot;gateway&quot;&gt;{{cite news
+
+ | title      = Roberts Street Gateway to be Renamed Falls Avenue
+ | first      = Peter
+ | last       = Conradi
+ | work       = Bullet News Niagara
+ | date       = August 17, 2008
+ | url        = http://www.bulletnewsniagara.ca/2011/08/17/roberts-street-gateway-to-be-renamed-falls-avenue/
+ | accessdate = March 12, 2012}}&lt;/ref&gt;
+In 1971, construction began on a three-level stack interchange between the QEW and the Rainbow Bridge Approach. This removed the two traffic circles along the approach.{{sfnp|Stamp|1987|p=65}}
+The interchange between the QEW and Lundy's Lane (Highway&amp;nbsp;20) was also removed; instead, the new stack interchange included access to Montrose Road.&lt;ref&gt;{{cite map
+
+ | title       = Ontario Road Map
+ | author      = Cartography Section
+ | publisher   = Ministry of Transportation and Communications
+ | year        = 1977
+ | inset       = South-Central Ontario
+ | scale       = 1:800,000}}&lt;/ref&gt;
+By April 1972, the Rainbow Bridge Approach was designated as Highway&amp;nbsp;420.&lt;ref&gt;{{cite book
+
+ | type       = Report
+ | title      = Highway Construction Program 1972-73
+ | publisher  = Ministry of Transportation and Communications
+ | date       = April 1972
+ | section    = Queen Elizabeth Way - Hamilton to Fort Erie
+ | page       = xv}}&lt;/ref&gt;&lt;ref&gt;{{cite news
+
+ | title      = Search Engine: Highway Mysteries Solved
+ | first      = Karena
+ | last       = Walter
+ | work       = Niagara Falls Review
+ | date       = February 21, 2014
+ | url        = http://www.niagarafallsreview.ca/2014/02/21/search-engine-highway-mysteries-solved
+ | accessdate = April 19, 2014}}&lt;/ref&gt;
+
+In 1998, the Niagara Falls Transportation Study was released, recommending that Roberts Street be rebuilt as a gateway to the city as opposed to a freeway. Highway&amp;nbsp;420 east of Stanley Avenue was  transferred to Niagara Region.&lt;ref name=&quot;gateway&quot; /&gt;
+While the section near the QEW junction has high-mast lighting, like other provincial freeways, the rest of the route (including Regional Road 420) had the &quot;ER&quot; lightposts, to commemorate the route's historical status as the original routing of the QEW and its historical tie to the [[Elizabeth Bowes-Lyon|Queen Mother]].{{sfnp|Stamp|1987|pp=31–34}}
+
+On September 23, 2010, Highway 420 was designated as the Niagara Veterans Memorial Highway.&lt;ref&gt;{{cite news
+
+ | title      = Niagara Veterans Memorial Highway now official
+ | first      = Tony
+ | last       = Ricciuto
+ | work       = Niagara Falls Review
+ | date       = September 23, 2010}}&lt;/ref&gt;
+On January&amp;nbsp;31, 2012, Niagara Regional Council approved the renaming of Roberts Street and Newman Hill as an extension of Falls Avenue, beginning March&amp;nbsp;1. Prior to this, Falls Avenue curved into Newman Hill at the Rainbow Bridge.&lt;ref name=&quot;FallsAvenue&quot;&gt;{{cite news
+
+ | title      = Roberts Street to Become Falls Avenue
+ | first      = Paul
+ | last       = Forsyth
+ | work       = Niagara This Week
+ | date       = February 2, 2012
+ | url        = http://www.niagarathisweek.com/news/news/article/1291126
+ | accessdate = March 17, 2012}}&lt;/ref&gt;
+
+== Exit list ==
+{{ONinttop|unnum=yes|maint=MTO|length_ref=&lt;ref name=&quot;km&quot; /&gt;|division=Niagara|division_ref=&lt;ref name=&quot;2010 mapart&quot;&gt;{{cite map
+
+ | title       = Ontario Back Road Atlas
+ | year        = 2010
+ | publisher   = Peter Heiler
+ | author      = [[MapArt]]
+ | page        = 19
+ | sections    = S34–35
+ | scale       = 1:250,000
+ | isbn        = 978-1-55198-226-7}}&lt;/ref&gt;}}
+{{ONint
+| location         = Niagara Falls
+| lspan            = 6
+| km               = 0.0
+| road             = {{jcon|Niagara|98|Montrose Road}}
+| notes            = At-grade; western terminus of Highway&amp;nbsp;420; continues as Watson Street
+}}
+{{ONint
+| km               = 0.4
+| road             = {{jcon|Hwy|QEW|city=Hamilton|city2=Toronto|town=Fort Erie}}
+| notes            = Westbound exit and eastbound entrance
+}}
+{{ONint
+| km               = 1.1
+| road             = Dorchester Road
+| notes            = 
+}}
+{{ONint
+| km               = 2.2
+| road             = Drummond Road
+| notes            = 
+}}
+{{ONint
+| km               = 3.3
+| road             = {{jcon|Niagara|102|Stanley Avenue}}
+| notes            = At-grade; eastern terminus of Highway&amp;nbsp;420; continues as Roberts Street / Regional Road&amp;nbsp;420, maintained as a [[Connecting Link]]&lt;ref name=&quot;CL&quot; /&gt;
+}}
+{{ONint|former
+| km               = 4.8
+| road             = [[Rainbow Bridge (Niagara Falls)|Rainbow Bridge]] to [[United States]]
+| notes            = Former eastern terminus&lt;ref name=&quot;km&quot; /&gt;
+}}
+{{jctbtm|keys=closed}}
+
+[[File:Hwy 420 and Horseshoe Falls.png|thumb|center|400px|Highway 420 crosses through Niagara Falls, becoming Regional Road 420 at Stanley Avenue before descending [[Clifton Hill (Niagara Falls)|Clifton Hill]] to cross the [[Rainbow Bridge (Niagara Falls)|Rainbow Bridge]]. In this aerial photo, the highway is visible beginning at the top left and across the majority of the image before abruptly turning towards the bridge crossing the river.]]
+
+== References ==
+
+=== Notes ===
+{{reflist|group=&quot;note&quot;}}
+
+=== Sources ===
+{{Reflist|30em}}
+
+=== Bibliography ===
+*{{cite book
+
+ | title     = QEW&amp;nbsp;– Canada's First Superhighway
+ | last      = Stamp
+ | first     = Robert M.
+ | ref       = harv
+ | publisher = The Boston Mills Press
+ | year      = 1987
+ | isbn      = 0-919783-84-8
+ | oclc      = 19222948}}
+*{{cite book
+
+ | title     = Bridging the Border: Structures of Canadian–American Relations
+ | first     = Robert M.
+ | last      = Stamp
+ | ref       = harv
+ | publisher = Dundurn Press
+ | year      = 1992
+ | location  = Toronto
+ | isbn      = 1-55002-074-9
+ | oclc      = 26930343}}
+
+== External links ==
+{{Attached KML|display=title,inline}}
+{{Commons category}}
+*[http://www.youtube.com/watch?v=heT2vbvBK0g Video of Highway 420 eastbound]
+
+{{ONT 400 Hwys}}
+{{Niagara Regional Roads}}
+
+
+
+[[Category:400-series highways|20]]
+[[Category:Roads in Niagara Falls, Ontario]]
+[[Category:Niagara Regional Roads|420]]</text>
+      <sha1>tg6dkdnvmtnqm1tpjcohf3dz50jjf5d</sha1>
+    </revision>
+  </page>
+</mediawiki>

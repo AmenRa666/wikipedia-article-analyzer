@@ -5,7 +5,10 @@ var Schema = mongoose.Schema;
 var revisionsSchema = new Schema({
   user: String,
   timestamp: Date,
-  articleTitle: String
+  articleTitle: String,
+  revid: String,
+  parentid: String,
+  size: Number
 });
 
 // instances of Models are documents

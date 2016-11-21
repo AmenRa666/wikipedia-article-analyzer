@@ -1,0 +1,208 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Belgrade</title>
+    <ns>1</ns>
+    <id>175900</id>
+    <revision>
+      <id>748399907</id>
+      <parentid>747023068</parentid>
+      <timestamp>2016-11-08T01:04:37Z</timestamp>
+      <contributor>
+        <username>3family6</username>
+        <id>8294396</id>
+      </contributor>
+      <comment>adding task force</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12820">{{talk header}}
+{{ArticleHistory
+|action1=PR
+|action1date=16:37, 19 September 2006
+|action1link=Wikipedia:Peer review/Belgrade/archive1
+|action1result=reviewed
+|action1oldid=76558892
+
+|action2=FAC
+|action2date=19:58, 7 October 2006
+|action2link=Wikipedia:Featured article candidates/Belgrade/archive1
+|action2result=not promoted
+|action2oldid=80068506
+
+|action3=FAC
+|action3date=22:44, 6 November 2006
+|action3link=Wikipedia:Featured article candidates/Belgrade
+|action3result=promoted
+|action3oldid=85967359
+
+|action4=FAR
+|action4date=15:49, July 31, 2007
+|action4link=Wikipedia:Featured article review/Belgrade/archive1
+|action4result=kept
+|action4oldid=148290150
+
+|maindate=November 24, 2006
+|aciddate=Apr 30 2006
+|currentstatus=FA
+}}
+{{Vital article|level=4|topic=Geography|class=FA}}
+{{WikiProjectBannerShell|
+{{WPCities|class=FA|importance=Top}}
+{{WikiProject Serbia|class=FA|importance=Top|Belgrade=yes}}
+{{WP1.0|v0.7=pass|class=FA|category=Geography|importance=mid}}
+{{WikiProject Greece|topic=history|byzantine-task-force=yes}}
+}}{{Auto archiving notice |bot=MiszaBot I |age=90 |units=days}}
+{{User:MiszaBot/config
+|archiveheader = {{tan}}
+|maxarchivesize = 90K
+|counter = 3
+|minthreadsleft = 3
+|algo = old(90d)
+|archive = Talk:Belgrade/Archive %(counter)d
+}}
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[Belgrade]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=712123757 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive http://web.archive.org/web/20110522124646/http://www.emportal.rs/vesti/srbija/62935.html to http://www.emportal.rs/vesti/srbija/62935.html
+
+{{sourcecheck|checked=true}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 03:15, 27 March 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:29|one external link|29 external links}} on [[Belgrade]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=726596800 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive http://web.archive.org/web/20110905092854/http://www.beogradskatvrdjava.co.rs/Belgrade-Fortress-history_2178-74_2176 to http://www.beogradskatvrdjava.co.rs/Belgrade-Fortress-history_2178-74_2176
+*Added archive http://web.archive.org/web/20110727110857/http://www.napredniklub.org/tekstovi.php?subaction=showfull&amp;id=1255532834&amp;archive=&amp;start_from=&amp;ucat=1&amp; to http://www.napredniklub.org/tekstovi.php?subaction=showfull&amp;id=1255532834&amp;archive=&amp;start_from=&amp;ucat=1&amp;
+*Added archive http://web.archive.org/web/20100530041540/http://www.scribd.com/doc/14429469/Izmedju-Srpa-i-Cekica to http://www.scribd.com/doc/14429469/Izmedju-Srpa-i-Cekica
+*Added archive http://web.archive.org/web/20130618055051/http://www.boell.eu/downloads/mai_68_uk.pdf to http://www.boell.eu/downloads/mai_68_uk.pdf
+*Added archive http://web.archive.org/web/20150828212417/http://www.belgradewaterfront.com:80/en/project-phases to http://www.belgradewaterfront.com/en/project-phases
+*Added archive http://web.archive.org/web/20140501125302/http://www.tanjug.rs:80/news/126461/sinisa-mali-becomes-belgrade-mayor.htm to http://www.tanjug.rs/news/126461/sinisa-mali-becomes-belgrade-mayor.htm
+*Added archive http://web.archive.org/web/20130128091441/http://www.mup.gov.rs:80/cms_lat/sadrzaj.nsf/ambasade.h to http://www.mup.gov.rs/cms_lat/sadrzaj.nsf/ambasade.h
+*Added archive http://web.archive.org/web/20090212031104/http://arhiva.kurir-info.rs:80/Arhiva/2005/februar/19-20/B-01-19022005.shtml to http://arhiva.kurir-info.rs/Arhiva/2005/februar/19-20/B-01-19022005.shtml
+*Added archive http://web.archive.org/web/20130515105613/http://www.madlenianum.rs/en/index.php?execute=view_page&amp;module=system&amp;page_id=17 to http://www.madlenianum.rs/en/index.php?execute=view_page&amp;module=system&amp;page_id=17
+*Added archive http://web.archive.org/web/20130405120959/http://www.britishcouncil.org/serbia.htm to http://www.britishcouncil.org/serbia.htm
+*Added archive http://web.archive.org/web/20130605173502/http://konfucije.fil.bg.ac.rs/about%20us.html to http://konfucije.fil.bg.ac.rs/about%20us.html
+*Added archive http://web.archive.org/web/20130511172337/http://www.ruskidom.rs/ru/istorijat to http://www.ruskidom.rs/ru/istorijat
+*Added archive http://web.archive.org/web/20070830011312/http://www.hs.fi:80/english/article/Serbian+ballad+wins+Eurovision+Song+Contest+-+Belgrade+hosts+in+2008+/1135227223254 to http://www.hs.fi/english/article/Serbian+ballad+wins+Eurovision+Song+Contest+-+Belgrade+hosts+in+2008+/1135227223254
+*Added archive http://web.archive.org/web/20110814163742/http://www.narodnimuzej.rs/code/navigate.php?Id=75 to http://www.narodnimuzej.rs/code/navigate.php?Id=75
+*Added archive http://web.archive.org/web/20130401012108/http://www.mgb.org.rs:80/en/the-new-museum-building to http://www.mgb.org.rs/en/the-new-museum-building
+*Added archive http://web.archive.org/web/20130401011549/http://www.mgb.org.rs:80/en/collections to http://www.mgb.org.rs/en/collections
+*Added archive http://web.archive.org/web/20070811101910/http://web.mit.edu:80/most/www/ser/Belgrade/zoran_manevic.html to http://web.mit.edu/most/www/ser/Belgrade/zoran_manevic.html
+*Added archive http://web.archive.org/web/20120808153418/http://livinginbelgrade.com:80/news.php?idNews=224 to http://livinginbelgrade.com/news.php?idNews=224
+*Added archive http://web.archive.org/web/20101020233543/http://arhiva.kurir-info.rs:80/Arhiva/2006/maj/23/B-01-23052006.shtml to http://arhiva.kurir-info.rs/Arhiva/2006/maj/23/B-01-23052006.shtml
+*Added archive http://web.archive.org/web/20110726020707/http://www.ekoforum.org/index/vest.asp?vID=181 to http://www.ekoforum.org/index/vest.asp?vID=181
+*Added archive http://web.archive.org/web/20131002113709/http://www.bizlife.rs/vesti/62079-beograd-vole-mladji-strani-turisti to http://www.bizlife.rs/vesti/62079-beograd-vole-mladji-strani-turisti
+*Added archive http://web.archive.org/web/20101220050323/http://www.tob.rs:80/en/see.php?kat=9 to http://www.tob.rs/en/see.php?kat=9
+*Added archive http://web.archive.org/web/20071008062254/http://www.beograd2007.org/index.php?option=com_content&amp;task=view&amp;id=20&amp;Itemid=131&amp;limit=1&amp;limitstart=3&amp;lang=en to http://www.beograd2007.org/index.php?option=com_content&amp;task=view&amp;id=20&amp;Itemid=131&amp;limit=1&amp;limitstart=3&amp;lang=en
+*Added archive http://web.archive.org/web/20111107082930/http://www.belgradefashionweek.com:80/srpski/onama.php to http://www.belgradefashionweek.com/srpski/onama.php
+*Added archive http://web.archive.org/web/20101006194902/http://www.bg.ac.rs:80/eng/uni/en_recrektora.php to http://www.bg.ac.rs/eng/uni/en_recrektora.php
+*Added archive http://web.archive.org/web/20090510071133/http://www.gsp.rs:80/english/statistic.htm to http://www.gsp.rs/english/statistic.htm
+*Added archive http://web.archive.org/web/20101010040713/http://www.srbrail.rs:80/redvoznje1/Beovoz.aspx to http://www.srbrail.rs/redvoznje1/Beovoz.aspx
+*Added archive http://web.archive.org/web/20110715211706/http://www.rtvpink.com/vesti/vest.php?id=26907 to http://www.rtvpink.com/vesti/vest.php?id=26907
+*Added archive http://web.archive.org/web/20110119012627/http://www.tob.rs:80/en/index.php to http://www.tob.rs/en/index.php
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II&lt;/sup&gt;]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner&lt;/span&gt;]]:Online&lt;/sub&gt;&lt;/small&gt; 04:38, 23 June 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:36|one external link|36 external links}} on [[Belgrade]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=746892665 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Corrected formatting/usage for http://www.beograd.rs/cms/view.php?id=320
+*Corrected formatting/usage for http://www.independent.co.uk/travel/europe/belgrade-has-risen-from-the-ashes-to-become-the-balkans-party-city-1651037.html?
+*Corrected formatting/usage for http://www.britannica.com/eb/article-9109633/Constantine-I
+*Corrected formatting/usage for http://www.beligrad.com/history.htm
+*Corrected formatting/usage for http://www.belgradenet.com/belgrade_history.html
+*Corrected formatting/usage for http://www.britannica.com/eb/article-9050991/Battle-of-the-Maritsa-River
+*Corrected formatting/usage for http://www.britannica.com/eb/article-9046112/Battle-of-Kosovo
+*Corrected formatting/usage for http://www.historynet.com/magazines/military_history/3030796.html
+*Corrected formatting/usage for http://www.serbia-info.com/g3/images/1930-50-e.htm
+*Corrected formatting/usage for http://www.vreme.com/arhiva_html/450/2.html
+*Corrected formatting/usage for http://www.b92.net/eng/news/politics-article.php?yyyy=2007&amp;mm=10&amp;dd=05&amp;nav_category=90&amp;nav_id=44315
+*Added archive https://web.archive.org/web/20140811224233/http://pod2.stat.gov.rs/ObjavljenePublikacije/Popis2011/Nacionalna%20pripadnost-Ethnicity.pdf to http://pod2.stat.gov.rs/ObjavljenePublikacije/Popis2011/Nacionalna%20pripadnost-Ethnicity.pdf
+*Corrected formatting/usage for http://www.vreme.com/arhiva_html/471/10.html
+*Corrected formatting/usage for http://www.dawn.com/2005/12/07/int17.htm
+*Corrected formatting/usage for http://www.electronicbookreview.com/thread/internetnation/sumatrism
+*Corrected formatting/usage for http://www.xs4all.nl/~eteia/kitabhana/Selimovic_Mehmed_Mesa/Biografija.html
+*Corrected formatting/usage for http://www.popboks.com/albumi/beogradskisindikat.shtml
+*Added archive https://web.archive.org/web/20121205150856/http://www.iran.rs:80/ to http://www.iran.rs/
+*Corrected formatting/usage for http://www.muzejrv.org/istorija/istorija.html
+*Corrected formatting/usage for http://www.tesla-museum.org/meni_en/nt.php?link=muzej/m&amp;opc=sub2
+*Corrected formatting/usage for http://www.ear.europa.eu/serbia/main/documents/2006Media.pdf
+*Corrected formatting/usage for http://seecult.org/english/module-News-display-sid-211.html
+*Corrected formatting/usage for http://www.tob.co.rs/eng/index.php?option=com_content&amp;amp;task=view&amp;amp;id=167&amp;amp;Itemid=281
+*Corrected formatting/usage for http://www.ekapija.com/website/sr/page/17516
+*Corrected formatting/usage for http://travel.guardian.co.uk/article/2003/aug/10/observerescapesection1
+*Corrected formatting/usage for http://www.dw-world.de/dw/article/0,2144,2129528,00.html
+*Corrected formatting/usage for http://www.seenews.com/profiles/companies/cs_bip_beogradska_industrija_piva/
+*Corrected formatting/usage for http://www.smh.com.au/travel/the-worlds-top-10-party-towns-20091118-im4q.html
+*Corrected formatting/usage for http://www.fisu.net/site/page_1068.php
+*Corrected formatting/usage for http://www.cjr.org/issues/2005/1/manasek-paradox.asp
+*Corrected formatting/usage for http://www.bankwatch.org/project.shtml?w=147584&amp;amp;s=1961998
+*Corrected formatting/usage for http://www.ebrd.com/projects/eias/34913s.pdf
+*Corrected formatting/usage for http://www.coventry.gov.uk/directory/25/twin_towns_and_cities
+*Corrected formatting/usage for http://www.banjaluka.rs.ba/front/category/64/
+*Corrected formatting/usage for http://www.fdimagazine.com/news/fullstory.php/aid/1543
+*Corrected formatting/usage for http://www.seeurope.net/files2/pdf/rgn0906/13_Belgrade_CityOfTheFutureInSEE.pdf
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:InternetArchiveBot|'''&lt;span style=&quot;color:darkgrey;font-family:monospace&quot;&gt;InternetArchiveBot&lt;/span&gt;''']] &lt;span style=&quot;color:green;font-family:Rockwell&quot;&gt;([[User talk:InternetArchiveBot|Report bug]])&lt;/span&gt; 05:46, 30 October 2016 (UTC)</text>
+      <sha1>qw9b4i629wuuifq47aa12otevj24cio</sha1>
+    </revision>
+  </page>
+</mediawiki>

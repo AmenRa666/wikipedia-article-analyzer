@@ -1,0 +1,84 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Love in an Elevator</title>
+    <ns>1</ns>
+    <id>11132940</id>
+    <revision>
+      <id>450705378</id>
+      <parentid>450705232</parentid>
+      <timestamp>2011-09-15T21:10:19Z</timestamp>
+      <contributor>
+        <username>SineBot</username>
+        <id>4936590</id>
+      </contributor>
+      <minor/>
+      <comment>Signing comment by [[Special:Contributions/94.195.200.232|94.195.200.232]] - &quot;/* Love in an Elevator Day? */ new section&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4049">{{WikiProject Aerosmith|class=C|importance=high}}
+{{WikiProject Songs|class=C|auto=inherit|importance=}}
+==Unspecified source for [[:Image:Aerosmith - Love in an Elevator.jpg]]==
+I found '''[[:Image:Aerosmith - Love in an Elevator.jpg]]''' and noticed that the file's description page currently doesn't specify who created the content, so the [[copyright]] status is unclear. Someone will need to specify the owner of the copyright. If it was obtained it from a website, then a link to the website from which it was taken, together with a restatement of that website's terms of use of its content, is usually sufficient information. However, if the copyright holder is different from the website's publisher, then their copyright should also be acknowledged.
+
+As well as adding the source, please add a proper copyright licensing tag if the file doesn't have one already. If you created/took the picture, audio, or video then the {{tl|GFDL-self-no-disclaimers}} tag can be used to release it under the [[GFDL]]. If you believe the media meets the criteria at [[Wikipedia:Fair use]], use a tag such as {{tlp|non-free fair use in|article name}} or one of the other tags listed at [[Wikipedia:Image copyright tags#Fair use]]. See [[Wikipedia:Image copyright tags]] for the full list of copyright tags that you can use.
+
+If there are other files on this page, consider checking that they have specified their source and are tagged properly, too. '''Unsourced and untagged images may be deleted one week after they have been tagged''', as described on [[wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. If the image is copyrighted under a [[Wikipedia:Image copyright tags/Fair use|non-free license]] (per [[Wikipedia:Fair use]]) then '''the image will be deleted [[WP:CSD#I7|48 hours]] after 15:58, 31 May 2007 (UTC)'''. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you.
+&lt;!-- Template:Image source --&gt; [[User:BetacommandBot|BetacommandBot]] 15:58, 31 May 2007 (UTC)
+==Fair use rationale for Image:Aerosmith - Love in an Elevator.jpg==
+[[Image:Nuvola apps important.svg|70px|left]]
+'''[[:Image:Aerosmith - Love in an Elevator.jpg]]''' is being used on this article. I notice the image page specifies that the image is being used under [[Wikipedia:Fair use|fair use]] but there is no [[Wikipedia:Fair use rationale guideline|explanation or rationale]] as to why its use in Wikipedia articles constitutes fair use. In addition to the [[Wikipedia:Image copyright tags/Fair use|boilerplate fair use template]], you must also write out on the image description page a specific explanation or rationale for why using this image in each article is consistent with [[WP:FU|fair use]].
+
+Please go to [[:Image:Aerosmith - Love in an Elevator.jpg|the image description page]] and edit it to include a [[Wikipedia:Fair use rationale guideline |fair use rationale]].
+
+If there is other other fair use media, consider checking that you have specified the fair use rationale on the other images used on this page.  Note that any fair use images uploaded after 4 May, 2006, and lacking such an explanation will be deleted one week after they have been uploaded, as described on [[Wikipedia:Criteria for speedy deletion#Images.2FMedia|criteria for speedy deletion]]. If you have any questions please ask them at the [[Wikipedia:Media copyright questions|Media copyright questions page]]. Thank you.&lt;!-- Template:Missing rationale2 --&gt;[[User:BetacommandBot|BetacommandBot]] 15:58, 31 May 2007 (UTC)
+
+== Love in an Elevator Day? ==
+
+There has never been a mayor of Vancouver named Robert Quinn. And 'Love in an Elevator Day' doesn't ring any bells.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/94.195.200.232|94.195.200.232]] ([[User talk:94.195.200.232|talk]]) 21:09, 15 September 2011 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;</text>
+      <sha1>kievo2pmb9j3t4mchfb4ynpwazzo303</sha1>
+    </revision>
+  </page>
+</mediawiki>

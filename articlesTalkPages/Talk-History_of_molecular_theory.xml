@@ -1,0 +1,273 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:History of molecular theory</title>
+    <ns>1</ns>
+    <id>7071737</id>
+    <revision>
+      <id>611798947</id>
+      <parentid>603242956</parentid>
+      <timestamp>2014-06-06T09:39:00Z</timestamp>
+      <contributor>
+        <username>Olegrog</username>
+        <id>11049984</id>
+      </contributor>
+      <comment>/* Descartes' hooks */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="46800">{{WikiProject History of Science|class=A|importance=High}}
+{{chemistry|class=A|importance=Mid}}
+
+==Untitled==
+Moved here from [[Talk:Molecule]]:
+==History of the molecule==
+It has been [http://en.wikipedia.org/wiki/User_talk:Sadi_Carnot#molecule.2C_covalent_bonds_and_history suggested] by [[User:Unconcerned]] that I build up the history section in the [[molecule]] article:
+
+:Hi Sadi Carnot.  Ionic substances like NaCl are generally not thought of as composed of molecules.  On the other hand, from your contributions to [[Heat]] I know that you are a passionate reader of various thermodynamics books and have done a wonderful job synthesizing textbook information for that article.  A discussion like [http://roger.ecn.purdue.edu/~aae590d/lec1.html this] regarding the continuum and the molecular treatment in the kinetic theory of gases would be greatly beneficial to the [[molecule#history|history]] section of the [[molecule]] article.  Would you please [http://en.wikipedia.org/w/index.php?title=Molecule&amp;action=edit&amp;section=1 contribute] a few sentences or a short paragraph on this subject in order to show where the concept comes from and why the IUPAC [http://goldbook.iupac.org/goldbook/M04002.html definition] alone is not sufficient in the intro paragraph?  Your help would be greatly appreciated. --[[User:Unconcerned|Unconcerned]] 16:55, 17 September 2006 (UTC)
+
+::Unconcerned, I'm running out of time today, but I'll check into that soon. --[[User:Sadi Carnot|Sadi Carnot]] 17:06, 17 September 2006 (UTC)
+
+I like doing history sections and I am already in the process of researching the history of [[molecular orbital theory]] so I will probably work on it over the next month.  I will probably make some hook and loop diagrams as well as other early molecule models such as [[Loschmidt]]'s 1861 [http://www.physicstoday.org/pt/vol-54/iss-3/captions/p45cap4.html molecule drawings].  I will likely follow [[J. R. Partington]]’s ''History of Chemistry'' opus as an outline.  I will likely argue the following:
+
+:Moved to: [[History of the molecule]] due to file size. 
+
+----
+This is just a quick start; I'll build on this over the weeks.  We'll have to properly foot-note all the &quot;see article&quot; links later.  If someone wants to work on the Gaudin &quot;red-link&quot; that would help. In addition, the following [http://roger.ecn.purdue.edu/~aae590d/lec1.html link] was suggested as a resource.  If anyone has any suggestions or good references please leave me notes here.  If everyone contributes ideas below, I'll do the work of writing up the section.  Thanks: --[[User:Sadi Carnot|Sadi Carnot]] 17:58, 19 September 2006 (UTC)
+
+:The file size is getting big, so I will start a seperate page: [[History of the molecule]] and attach a &quot;link to main&quot; to the history section of the [[molecule]] article. --[[User:Sadi Carnot|Sadi Carnot]] 01:01, 20 September 2006 (UTC)
+
+::WOW! [[History of the molecule|This]] is awesome.  I've &lt;u&gt;never&lt;/u&gt; seen a fresh article so complete.  Thanks for the excellent work! --[[User:Unconcerned|Unconcerned]] 04:10, 20 September 2006 (UTC)
+
+:::Thanks, I didn’t plan on writing this all at once, but I started with an uploaded image this morning and just kept on going.  The only thing I can't find is the date, original picture, and article as to where [[Rene Descartes]] thought up the hook-and-eye atom bonding model?  I’ve been searching the internet all day for this source?  If you have any ideas on this let me know.  I left a message on Descartes’ talk page.  Talk later: --[[User:Sadi Carnot|Sadi Carnot]] 04:16, 20 September 2006 (UTC)
+
+::::Hello Sadi Carnot! I didn't know that Descartes attributed an hook-and-eye form to material particles: have you a precise reference in his works?  I was convinced that this was already the ancient atomists' idea about atoms... I can look for details, if you wish - but if your sources say that Descartes was the first to invent it, there is no need. Another thing: I thought that the first scientist who used the word &quot;molécule&quot; (in French, but referring only to the &quot;molécule organique&quot;) was the zoologist Buffon in the 18th century, but it is said in the article: 
+
+::::&lt;blockquote&gt;from Fr. molécule (1678)&lt;/blockquote&gt;
+
+::::Does it mean that the first French occurence dates from 1678? In which context/author? Thanks - and bravo for the article!  [[User:Benio76|Benio76]] 01:14, 10 January 2007 (UTC)
+
+::::::From what I have read, the books say that Descrates is the dominante first proponent of the concept of the molecule.  Certainly, however, after [[Leucippus]] proposed the concept of the atom, many unknowns would have likely had atom 'joining' theories. --[[User:Sadi Carnot|Sadi Carnot]] 04:18, 10 January 2007 (UTC)
+
+:::::In case you are interested, this is the earliest usage example recorded in the Oxford English Dictionary, from 1666 by Boyle: &quot;1666 D. COXE Let. 19 Jan. in M. Hunter et al. Corresp. R. Boyle (2001) III. 31 These Subtilized principles meeting together may bee readily united..: which Substances thus united Constitute a little masse, or '''molecula''' of mettall, many of which are usually associated before they appeare in a visible or sensible forme.&quot; [[User:Itub|Itub]] 01:48, 10 January 2007 (UTC)
+
+::::::Itub, good work on the reference; I'll have to dig around in my copy of Boyle's 1661 book to see if he uses the word in there. --[[User:Sadi Carnot|Sadi Carnot]] 04:18, 10 January 2007 (UTC)
+
+==To do list==
+The article is starting to feel solid.  A few details left to finish include:
+
+#[[Marc Antoine Auguste Gaudin]] - fix this redlink
+#[[Alfred Lauck Parson|Alfred Parson]] - fix this redlink
+#[[Maurice M. Rapport ]] - fix this redlink
+#[[K.L. Wolf]] - fix this redlink
+#Find the date, original picture, and article as to where [[Rene Descartes]] thought up the [[hook-and-eye atom bonding model]] concept.
+#Find diagrams of the early [[geometric shapes of elements]], used by the Greeks and others, in terms of how these combined to form pre-cursory &quot;molecules&quot; (before [[Descartes]] models)
+#Possibly add parts on molecules in medicine such as &quot;[[drug-receptor]]&quot; ideas as well as [[designer molecule]]s used to mimic neurochemicals, such as [[neurotransmitter]]s in the brain, etc.
+#Find more pre-[[17th century]] views on pseudo or precursor molecule concepts
+
+Thanks: --[[User:Sadi Carnot|Sadi Carnot]] 10:55, 20 September 2006 (UTC)
+
+== Descartes' hooks ==
+
+I was intrigued by Benio76's question above, and tried to look for some references. Google's book search gives some starting points. I started by searching for [http://books.google.com/books?q=descartes+atoms+hooks&amp;btnG=Search+Books&amp;lr= descartes atom hooks], and found some conflicting views. Some indicate that Descartes didn't believe in atoms. Others attribute the &quot;hooks&quot; to the Greek philosophers, and yet others to [[Pierre Gassendi]]. See the search for  [http://books.google.com/books?q=gassendi+atoms+hooks&amp;btnG=Search+Books&amp;lr= gassendi atom hooks], which gives more specific results. However, most suggest that he was just &quot;reviving&quot; the theories of the Greeks.
+
+In any case, I think that the picture of the water molecule with the hooks that is currently found in the article needs a big disclaimer: at the time of Gassendi and Descartes, the composition of water was not known.
+
+I haven't changed the article because I don't have time now to really make sense of the references and decide which to cite. [[User:Itub|Itub]] 02:21, 10 January 2007 (UTC)
+
+:Good research findings; I'll amend the article a bit.  My guess is that the &quot;hook theory&quot; evolved out the earlier &quot;abrasion theory&quot; (I don’t know who exactly started this theory), in which atoms formed different shapes due to inter-atomic abrasions, frictions, and rubbings. --[[User:Sadi Carnot|Sadi Carnot]] 04:25, 10 January 2007 (UTC)
+
+::Hi! it is certainly correct to say that Descartes did not believe in atoms, at least in the historical, philosophical and etymologycal meaning of the word: &quot;atom&quot; means the ultimate and indivisible part of matter, while Descartes believed that the essence of matter was extension (&quot;res extensa&quot;), and therefore in his opinion matter was infinitely divisible! Moreover, he refuted the existence of void (the matter, being &quot;extension&quot;, fills the whole space) and therefore he was fiercly against the atomist theories!  For this reason, I was amazed when I found Descartes mentioned in an article about atoms! Nevertheless, it is true that Descartes said that matter is composed of particles (I think that it is in the ''Principia Phlosophiae'' that he said it), but only in an empirical sense, because these paricles could have been divided and divided and so on... because, in his ontological and metaphysical opinion matter was extension, and not &quot;atoms and void&quot;, as atomists claimed. For these reasons, I'm not sure that it is correct to ascribe to Descartes a &quot;molecular theory&quot;, except in a very large sense. What do you think of improving the paragraph a little?
+
+::And, Itub, thanks for the reference! [[User:Benio76|Benio76]] 15:47, 10 January 2007 (UTC)
+
+:::I added about seven paragraphs and five references, I hope this clarifies the situation; though it would still be nice to find an original image of a &quot;hooked atom&quot; drawn prior to the 1920s.  According to Itub's search results, there are about a dozen references that state that Descartes had theories on attached atoms, also this [http://www.etymonline.com/index.php?search=molecule&amp;searchmode=none reference] in particlular states that the theory of the molecule can be traced to the philosophy of Descartes. --[[User:Sadi Carnot|Sadi Carnot]] 01:21, 11 January 2007 (UTC)
+
+::::Hi! I finally found the exact reference concerning molecules in Descartes' works! It is indeed in the ''Principia Philosopiae'', that you can find [http://www.gutenberg.org/dirs/etext03/pnpph10.txt here] in English - it's not the whole work, but the chapters about particles are available: see part IV, chapters CCI and following. Actually, in ch. CCII Descartes states his opinion about Democritus philosophy and rejects the indivisibility of atoms and the existence of void:
+
+::::&lt;blockquote&gt;But it may be said that Democritus also supposed certain corpuscles that were of various figures, sizes, and motions, from the heaping together and mutual concourse of which all sensible bodies arose; and, nevertheless, his mode of philosophizing is commonly rejected by all. To this I reply that the philosophy of Democritus was never rejected by any one, because he allowed the existence of bodies smaller than those we perceive, and attributed to them diverse sizes, figures, and motions, for no one can doubt that there are in reality such, as we have already shown; but it was rejected, in the first place, because he supposed that these corpuscles were indivisible, on which ground I also reject it; in the second place, because he imagined there was a vacuum about them, which I show to be impossible; thirdly, because he attributed gravity to these bodies, of which I deny the existence in any body, in so far as a body is considered by itself, because it is a quality that depends on the relations of situation and motion which several bodies bear to each other; and, finally, because he has not explained in particular how all things arose from the concourse of corpuscles alone, or, if he gave this explanation with regard to a few of them, his whole reasoning was far from being coherent, [or such as would warrant us in extending the same explanation to the whole of nature]. This, at least, is the verdict we must give regarding his philosophy, if we may judge of his opinions from what has been handed down to us in writing.&lt;/blockquote&gt;
+
+::::Perhaps  that you will find also the reference to the hook-and-eye theory in this text, I have no time to look for it. Anyway, I hope this was useful. Indeed, your article has been useful to me, because it brought me to revise Descartes' science (I am much more familiar to Descartes' metaphysics!) and to realize that indeed a theory of the molecule can be attributed to him! Good night! [[User:Benio76|Benio76]] 23:07, 11 January 2007 (UTC)
+
+Good detective work Benio, I'll put that book on my reading list. --[[User:Sadi Carnot|Sadi Carnot]] 16:41, 13 January 2007 (UTC)
+
+:I've seen that you found more info about the origin of the hook-and-eye model - I remembered well, it was the ancient atomosts indeed! My memory is not definitively lost! Maybe I can find more detailed references in Leucippus and Democritus works - I'll take a look. [[User:Benio76|Benio76]] 22:45, 5 February 2007 (UTC)
+
+::I added the direct references to Democritus. The references are in the [[Hermann Alexander Diels|Diels Kranz]]  form, which is normally the standard way to quote the Presocratics, so I think that there is no need to add more: the reader can find them in any edition and translation. In the first two fragments I quoted it is said that some atoms have hooks, and in the third one that atoms enlace because, having different forms, they hook each other. Since I have a French translation, I did not add the exact quotes in the articles. I will ask editors of [[Democritus]] if they have an English translation. [[User:Benio76|Benio76]] 15:04, 7 February 2007 (UTC)
+
+I have removed any references to Descartes, because his original works do not contain scientific contribution to the molecular theory. He could not use the hook-and-eye model, because he denied atomism (recall a dispute with Gassendi). Moreover, Descartes never have dealt with chemistry problems. [[User:olegrog|olegrog]] 9:38, 6 June 2014 (UTC)
+
+== Medioeval theories of molecules ==
+Hi! What about writing just a line about medioeval theories of molecules? I just improved the [[William of Conches]] article with a short description of his physical theory about elements: in general, all the 12th century philosophers of the Chartres school had a theory of elements. Let me know! [[User:Benio76|Benio76]] 22:37, 5 February 2007 (UTC)
+
+:Yes, anything pre-molecular theories before the 17th century would be nice.  I would especially like to find an old diagram showing the different shapes of atoms and how they attached due to congruent geometries. --[[User:Sadi Carnot|Sadi Carnot]] 03:53, 6 February 2007 (UTC)
+
+::I think that it will be hard... I'll take a look if there are images in Gassendi's works on Epicurus, otherwise I don't know where such a thing could be found... And, by the way, what about a link to [[Atomism#Indian_atomism|Indian atomism]]? [[User:Benio76|Benio76]] 15:48, 7 February 2007 (UTC)
+
+::Hi! I added the small paragraph about medioeval theories at last! But unfortunately I found no images in Gassendi's works... :-( [[User:Benio76|Benio76]] 22:25, 17 February 2007 (UTC)
+
+:::Good contrib; however, you need to explain how that passage relates to &quot;molecules&quot; not just &quot;elements&quot; or else we will have to put that section into the [[element]]s section.  In other words, what did [[Thierry_de_Chartres|Thierry of Chartres]] and [[William of Conches]] think molecules were? --[[User:Sadi Carnot|Sadi Carnot]] 15:43, 19 February 2007 (UTC)
+
+::::I found some supporting material in a book I have, I'll add to your last contribution a bit.  Thanks: --[[User:Sadi Carnot|Sadi Carnot]] 03:21, 20 February 2007 (UTC)
+
+:::::Hi! Your contribution is very good! Actually, since I already wrote something on Thierry and William's theories on their respective pages, I was not sure if I was supposed to repeat the same things here or the reader was supposed just to follow the links to know more. So, thank you for your intervention! I just have some doubts about the phrase &quot;a direct result of certain fundamental objections of the Christian church and an overall decline in civilization as a whole&quot;. I don't agree on defining medioeval thought a &quot;decline&quot;, I mean, it's a projection of the modern point of view! And Enlightenment propaganda too! As for the objections of the Christian church, does your book cite anything specific? I ask because I experienced that the &quot;opposition of the Catholic Church&quot; has become a sort of jolly for all simple explanations of history of thought. I'm not Catholic at all, so it is not a matter of reabilitation of the Catholic Church, be reassured! It's just to understand better the evolution of ideas. Thanks! :-) [[User:Benio76|Benio76]] 22:45, 21 February 2007 (UTC)
+
+Benio, yes those words were essentially pulled from part two of Bernard Pullman's ''The Atom in the History of Human Thought''.  I'll add a reference to clarify. --[[User:Sadi Carnot|Sadi Carnot]] 17:37, 2 March 2007 (UTC)
+
+:Yes, of course, I understood that it was an opinion taken from your source, but I think that it is questionable. I agree that we can say that Middle Ages are a pause in the development of scientific thought (at least, as we conceive it): so, the beginning of the paragraph is no problem for me. But to speak of decline of civilization is naif, honestly. There is lots of literature on Medioeval thought - not to speak about art! This opinion is not essential to the article. I propose to remove just the phrase &quot;a direct result of certain fundamental objections of the Christian church and an overall decline in civilization as a whole&quot;: it would not alter at all the section. 
+
+:And, I propose to replace [[Dark Ages]], which appears to be a historiographic category, with [[Early Middle Ages]]. The chonology is to be corrected too: Middle Ages start conventionally in V century after Christ (when the Western Roman Empire ended and the last emperor was deposed). I'm going to do this, since it is not too controversial.
+
+:And, thanks for your contribution on [[Timaeus]]!! The image is great! [[User:Benio76|Benio76]] 18:58, 2 March 2007 (UTC)
+
+My general consensus is that there was a general decline in Western science starting essentially with [[Constantine]]’s adoption of Christianity (313) and ending with the invention of [[Gutenberg]]’s printing press (1450).  However you want to word it is fine with me; I just think that there should be a loose sentence explaining why there was no atomic-molecular development during these years.  And yes, I agree, the image is pleasing to the eye. --[[User:Sadi Carnot|Sadi Carnot]] 14:49, 4 March 2007 (UTC)
+
+== Rename or move ==
+:from [[User talk:Kurzon]]:
+Did you just write all that?! If so, that is brilliant! Or was it just part of a split or something? [[User:J Milburn|J Milburn]] 10:08, 24 February 2007 (UTC)
+
+:Thank's for the complement (I wrote most of it), but it was a newby cut-n-paste. --[[User:Sadi Carnot|Sadi Carnot]] 18:52, 24 February 2007 (UTC)
+
+I've just undone a &quot;cut n paste&quot; move to [[History of molecular theory]] and redirected that page back here. I am in agreement with the renaming, but it seems that discussion should precede the change and the move should be done correctly once consensus is established to keep the page history and talk page connected. [[User:Vsmith|Vsmith]] 15:01, 24 February 2007 (UTC)
+
+*I'm not in favor of a move.  The title as is, is simple.  The proposed name change over-complicates the title, i.e. &quot;molecular theory&quot;.  A similar case occurred [http://en.wikipedia.org/w/index.php?title=History_of_the_brain&amp;action=history here] with the [[History of the brain]] (which I started), where a newbie attempted to move it to [[History of brain studies]], which again overcomplicates the title. --[[User:Sadi Carnot|Sadi Carnot]] 18:52, 24 February 2007 (UTC)
+*The history of '''molecules''' began billions of years ago when two atoms joined to create the first ever molecule (ask a particle physicist what it could've been).  The history of '''molecular theory''' began only a few centuries ago (or a few thousand years if you consider the ancient philosophers).  Two different things.  And if the average Wikipedia reader cannot easily grasp the phrase &quot;molecular theory&quot; then he won't be able to grasp the article anyway.  I vote that the name ''should'' be changed.[[User:Kurzon|Kurzon]] 18:59, 28 February 2007 (UTC)
+*Redirects should take care of all the possible alternate titles.  One such redir could be [[History of the molecule concept]].  My vote is &lt;u&gt;keep the current title but create redirects&lt;/u&gt;. --[[User:Unconcerned|Unconcerned]] 03:16, 2 March 2007 (UTC)
+
+===Comment===
+I put a [[nucleosynthesis]] “other uses” tag at the top so clarify that this article is not about the history of element or molecular formation following the [[big bang]].
+
+Also, one of the main problems with a suggested name change is that there really is no such thing as “[[molecular theory]]”; hence, how can there be a “history of [[molecular theory]]”, e.g. see: Google [http://www.google.com/search?hl=en&amp;q=molecular+theory search results].  There are, however, related topics such as [[molecular orbital theory]], [[kinetic molecular theory]], [[Six Postulates of the Kinetic Molecular Theory]], [[On the Motion Required by the Molecular Kinetic Theory of Heat of Small Particles Suspended in a Stationary Liquid]], etc.  I also agree with Unconcerned about redirects.  I will add those per the suggestion. --[[User:Sadi Carnot|Sadi Carnot]] 17:23, 2 March 2007 (UTC)
+
+
+== Problems with 21st century section ==
+The 21st century section seems very random to me.  There is really no reasoning given for inclusion of the particular research included. I think that is unlikely anyone would use these examples to represent the history of chemistry 50 years from now. I think that items in this section should be removed until a major prize is awarded or a history of chemstry sources includes them. [[User:M stone|M stone]] 20:08, 19 July 2007 (UTC)
+
+:I don’t think so.  Those items are all ones that made the news in the last seven years; hence, I will align with these over your person predictions about the next fifty years.  If, however, you have significant 21st century molecules that you would like to add with a reference to its notability, then please add accordingly. --[[User:Sadi Carnot|Sadi Carnot]] 11:26, 22 July 2007 (UTC)
+
+::I disagree.  Simply &quot;making the news&quot; does not make a discovery historical since nearly all chemical research published in the journals of Science and Nature is accompanied by some coverage in the press.  Another problem is the references currently included are not widely read publications.  For instance a public release by Rice Univeristy[http://www.eurekalert.org/pub_releases/2005-10/ru-rsb102005.php] or University of California Riverside [http://www.newsroom.ucr.edu/cgi-bin/display.cgi?id=1166] are clearly self-promotion. This section needs higher standards! [[User:M stone|M stone]] 18:28, 22 July 2007 (UTC)
+:::Rice is widely known as a good university, and UCR has John Baez, for example. Might you suggest some review articles which meet your standards? --[[User:Ancheta Wis|Ancheta Wis]] 23:11, 22 July 2007 (UTC)
+::::I do not have a problem with Rice and agree that they are a good univeristy.  However, they cannot be considered an impartial source since they have an interest in promoting research from their univeristy.  I think that press releases are not a good indication of the hisorical impact of research. [[User:M stone|M stone]] 00:43, 23 July 2007 (UTC)
+
+Making the news is most definitely not the same as making history. The headline at nytimes.com right now is &quot;Democrats Press House to Expand Health Care Bill&quot;. Does anyone think many people will remember this story in 50 years? I don't. The same might happen to the molecular car, the walking molecule, and the incandescent lamps with nanotubes. It can take decades to decide what is hype and what is history, which may help explain why Nobel prizes nowadays are often awarded decades after the discoveries. Writing about 21st century history risks violating the [[WP:CRYSTAL|&quot;crystal ball&quot; policy]]. --[[User:Itub|Itub]] 08:02, 23 July 2007 (UTC)
+:In defense of the 21st c. section, the daily reporting of what is in the news makes incremental history. Step back, and let the facts accumulate. After a suitable period of time, I do not think anyone will object to the content, as it will then be historical. What will then be noteworthy is that which has not been reported. But we cannot critique the daily reporting of molecules in the news with any kind of perspective until after a suitable period of time. --[[User:Ancheta Wis|Ancheta Wis]] 03:45, 24 July 2007 (UTC)
+===2000-2007===
+Itub, writing about developments, ideas, conceptions, applications, or new theories about molecules during the last seven years is not violating anything.  In writing the article, I tried accentuate on topics that are visually appealing, which is a major part of the learning process.  Also, instead of everyone shooting down my section (which is certainly better than no section), I don’t here anyone make constructive or better suggestions?  Moreover, if you do a Google News search for [http://news.google.com/news?hl=en&amp;ned=us&amp;q=molecule&amp;btnG=Search+News molecule], you see that nanotubes, nanoblades, etc., are very prominent in the news, and hence making history.  --[[User:Sadi Carnot|Sadi Carnot]] 03:06, 24 July 2007
+
+::If Chairman Mao, when asked what he thought of the French Revolution, could reply &quot;Too early to tell&quot;, then I think we can reply to &quot;What is the history of the molecule in the 21st Century?&quot; with the same response and not have a section for the 21st century. It really is far too early to tell. --[[User:Bduke|Bduke]] 03:35, 24 July 2007 (UTC)
+
+:I agree that there can be important historical developements of the molecule in the 21st century, however I think that there must be '''high standards''' for inclusion. (1) References to important widely read publications and not press releases.  (2) Having the research replicated or built on by other investigators. (3) Perhaps recognition of the research by an award.  At this point I will begin to make some edits to address these problems.  [[User:M stone|M stone]] 04:37, 24 July 2007 (UTC)
+::What about items such as the notability of [[purple plague]]. Until this problem was solved, [[integrated circuit]]ry was an impractical subject. Fifty years later, it might not be so notable, but it was a huge advance at [[Fairchild Semiconductor]] at the time, and this enabled what is now a multi-hundred-billion dollar industry. What is the right time to report a notable item? Did the man who figured out how to solve 'purple plague' get a [[Millennium Prize]]? No. 
+::Does this mean we only list items which themselves have been cited N times by other researchers? No, of course not. N need only be 1. --[[User:Ancheta Wis|Ancheta Wis]] 10:59, 24 July 2007 (UTC)
+
+:::One thing is to &quot;report a notable item&quot;, and another is to say that an item is historic. For example, I have no objection to having an article on the [[nanocar]], as we indeed do. I think it is a notable topic. However, implying that this is an historic achievement that should be listed together with the discovery of chemical bonding, the DNA structure, etc. is simply an unsubstantiated opinion at this point. There's simply not enough perspective. I would have no problem with adding an item such as the nanocar if there were sources such as editorials from notable journals such as ''Nature'' or ''Science'' commenting on the significance of the achievement. But a press release just isn't enough. --[[User:Itub|Itub]] 11:30, 24 July 2007 (UTC)
+
+::::*How’s about Chemical &amp; Engineering News [http://pubs.acs.org/cen/news/83/i43/8343nanocar.html World's first molecular car zips about on fullerene wheels], Copyright © 2006 American Chemical Society, as a references.  Every reference I put in this article can be easily backed up by ten or more references. --[[User:Sadi Carnot|Sadi Carnot]] 23:42, 24 July 2007 (UTC)
+
+:::::*I disagree with the inclusion of the molecular car.  I don't know how historical it can be if no one else has replicated or expanded upon the research.  Having some kind of standards for inclusion would help distinguish between hisory and hype.  Note that nearly all chemical research published in Nature and Science is covered in Chemical &amp; Engineering News.  [[User:M stone|M stone]] 00:44, 25 July 2007 (UTC)
+
+How's about this reference: [http://www.nature.com/nnano/journal/v1/n1/fig_tab/nnano.2006.45_F7.html Making molecular machines work] (Nature) or try a Google search on [http://www.google.com/search?hl=en&amp;q=molecular+car molecular car] and you will see just how wide-spread the idea is. --[[User:Sadi Carnot|Sadi Carnot]] 01:04, 25 July 2007 (UTC)
+
+==Quantum mechanics==
+Please look carefully at all contributions from [[User:Sadi Carnot]]. This editor (Sadi Carnot) has been [http://en.wikipedia.org/w/index.php?title=Special:Log&amp;type=block&amp;page=User:Sadi_Carnot blocked] for creating bogus articles and a pattern of disruptive editing. The page section &quot;Quantum mechanics&quot; contains a description of one published article. I think it should either be re-named to something more specific or expanded to include more. --[[User:JWSchmidt|JWSchmidt]] 05:07, 22 October 2007 (UTC)
+
+==Problems with including recent research==
+I think that including the quantum mechanics research reported by Zeilinger is problematic. No reference has been provided that describes it as &quot;historic&quot; including the recently added &quot;Quantum physics: Waves, particles and fullerenes&quot; Nature 401: 651-653.  Without references it is simply a &quot;point of view&quot; that the reseach is historic. [[User:M stone|M stone]] 13:50, 22 October 2007 (UTC)
+:I disagree (although I agree with removing the 21st century section). The article I quoted comments specifically on the work by Zeilinger, and considers it notable for &quot;for extending the applicability of wave–particle duality by about one order of magnitude in the macroscopic direction&quot;. The don't exactly use the word &quot;historic&quot;, but I think that is an unreasonable requirement. But it is basically saying that this is establishing a new &quot;world record&quot; for what can show interference (beating the previous one by at least a factor of ten), and that is something historic IMO. It is also the best-known example of a molecule as a whole showing interference. The article has been cited over 150 times, and it was also commented on in Physics Today. --[[User:Itub|Itub]] 14:13, 22 October 2007 (UTC)
+::Nearly all research in Nature is notable and important and this particular report is already included under [[wave–particle duality]]. If this research is indeed historic then it should not be difficult to find a reference describing it as such. If relatively new research is first described as historic on Wikipedia, then would that not at least be &quot;original research?&quot; Personally I think the best references for this page would be ones that acutually describe &quot;the history of the molecule.&quot; [[User:M stone|M stone]] 14:48, 22 October 2007 (UTC)
+
+:::I'm afraid there might be no references about &quot;the history of the molecule&quot;, and I don't mean just regarding the particle-wave duality of fullerenes. In that case, it is possible that these entire article will end up deleted, like most of Sadi Carnot's work. I think that would be sad, because this article has a lot of good content. --[[User:Itub|Itub]] 14:59, 22 October 2007 (UTC)
+::::There may be good content in this article, but there is a lot of tangently related junk too. The early stuff appears to describe the history of atomic theory and does not really belong here at least in such detail. I am most concerned about subsections starting from &quot;supramolecular chemistry&quot; that seem to be included simply because an image &quot;pleasing to the eye&quot; was found. Perhaps it would be useful to solicit the opinions of others on how to proceed.  [[User:M stone|M stone]] 15:29, 22 October 2007 (UTC)
+
+:::::Sure, I've just posted at [[Wikipedia talk:WikiProject Chemistry]] and [[Wikipedia talk:WikiProject History of Science]] to ask for opinions. --[[User:Itub|Itub]] 16:24, 22 October 2007 (UTC)
+
+== RFC -- what should be done with this article? ==
+
+For reference, this is the question I posted at [[Wikipedia talk:WikiProject Chemistry]] and [[Wikipedia talk:WikiProject History of Science]]:
+
+There has been some concern of [[WP:SYN]] at this article. While claims in the article are reasonably factual and referenced, there is some question about whether the overall story is too original and incorporates too many topics that are just tangentially related, especially regarding recent history. Also, is &quot;the history of the molecule&quot; a good topic for an article by its own, or should it be incorporated into other topics such as [[history of chemistry]]? --[[User:Itub|Itub]] 16:27, 22 October 2007 (UTC)
+:On a quick read, I can't see anything seriously wrong with it. The article seems to neglect the qustion of the atom, which was not debated in its current sense until the start of the nineteenth century. The article also neglects the [[kinetic theory of gases]], which must be an important part in the history of the concept of chemical bonding. Might I suggest these as paths for improvement. [[User:Physchim62|Physchim62]] [[User talk:Physchim62|(talk)]] 16:46, 22 October 2007 (UTC)
+:'''merge and delete some.'''  The question of what to do with this article touches on peoples' core views on what WE should be.  I recommend that the content be blended in with the [[history of chemistry]], because I believe that chemistry and molecules are inseparable concepts.  The older history section superficially looks good to me.  I do think that the latter sections on &quot;20th century developments&quot; are arbitrary and violate NPOV (IMHO).  The discussion above this one under the heading &quot;Problems with 21st century section&quot; is significantly guided by the deceiver SadiCarnot. Many things written by SadiCarnot has a subtle undercurrent supporting her thesis on &quot;human chemistry.&quot;--[[User:Smokefoot|Smokefoot]] 18:40, 22 October 2007 (UTC)
+::I am also in favor of deleting all the mini histories in the 21st century.  Including: Supramolecular chemistry, Chemical synthesis, Neurochemistry, Molecular imaging, Structural determination of DNA, Retinal,  Structural determination of proteins, Nanotechnology, Wave-particle duality of molecules. All this material is covered else where and seems tangentially related. If there are no objections, then I will delete these sections. Not sure what to do with early stuff that needs work, but seems worth salvaging. [[User:M stone|M stone]] 15:19, 23 October 2007 (UTC)
+:::I don't support merging with history of chemistry. I would suggest a section on the subject in history of chemistry with a main link to this article. This article in turn looks like it needs some pruning. The history of atomic theory is clearly interrelated and should be summarized here but perhaps with another link to [[atomic theory]] in order to focus on molecular theory. There is an issue of name space consistent with atomic theory too. I think a much shorter recent history section with links to appropriate articles could be good. Note that most encyclopedia history sections and history books have a brief section at the end which is really a summary of current events. History is everything in the past. It need not be &quot;historic&quot; to be history. These sections need to be aware that they may not reflect the future impact of current events but do reflect current perspectives which is indeed history.--[[User:Nick Y.|Nick Y.]] 18:32, 23 October 2007 (UTC)
+::::I think that much of the semi-recent 20th century history that is being questioned is really a notable part of the history of chemistry. Any recent book on the history of chemistry will include for example a discussion on the evolution of chemical synthesis, and may also mention proteins, DNA, fullerenes, and supramolecular chemistry (depending on the scope of the book). Now, is it really part of &quot;the history of the molecule&quot;? In a sense, obviously it is, because it involves molecules. But most chemistry involves molecules, which is what makes delimiting the scope of this article a problem! I'd still argue that these topics belong. The argument is as follows:
+::::The &quot;history of the molecule&quot; could be divided into a few stages: 0) prehistory (up to about 1800). 1) elucidation of the modern concept of molecule and its relation with the atom (first half of the 19th century). 2) Structural theory and growth of organic synthesis (second half of the 19th century). 3) Physical proof of the existence and structure of molecules (late 19th and early 20th century). 4) Theoretical basis for chemical bonding (early 20th century). Many old books stop at this point, and I think Stone would like to stop here. However, I'd argue that the following steps should not be ignored, as they constitute a natural extension of the previous ones. In most cases it's just a case of getting &quot;bigger and better&quot;, or &quot;breaking records&quot; as I said above when discussing the fulerene diffraction experiment.
+::::For example, I think we'll all agree that the ability to determine the 3D structure of a molecule using diffraction or other physical methods is a notable historical step. Why not extend the story a bit further into the present and discuss how bigger and bigger '''molecules''' have been determined? I'm thinking here about the sections on the structures of proteins, DNA, and even the ribosome. These are all Nobel Prize material, not trivial things. Same for the story of chemical synthesis, how with the modern knowledge of molecules, chemists can now make almost any '''molecule''' they want, whether a natural product or a fanciful structure. Here again at least a couple of Nobel Prizes were mentioned. Supramolecular chemistry and nanotechnology are also recent outgrowths of the concept of molecule that deserve to be mentioned. And so on. If we are going to have an article on the history of the molecule, I think it would be incomplete without mentioning all of these topics. I agree that we shouldn't generally jump to the point of listing the latest molecule mentioned in Nature or Science, but some cases that fit neatly into the historical sequence of &quot;bigger and better&quot; can sometimes be included even if they are recent. That's my rationale for supporting inclusion of the fullerene diffraction experiment. It is a classic, historic experiment that had been done first with light, then with electrons, and now it's being done with pretty large '''molecules'''. That's historic enough for me. As an analogy, imagine that today someone manages to run the 100 m race in eight seconds instead of almost ten (I know, ''very'' unlikely...). I would argue that we should include this immediately in an article on the history of running without having to wait for the history books to be published! --[[User:Itub|Itub]] 09:59, 24 October 2007 (UTC)
+
+I would also like to include 20th century topics.  However, I feel that choosing some events without any guidance from an outside source is highly arbitrary. For instance, all the examples discuss organic chemistry. What about inorganic molecules? Surely the first molecule composed of a noble gas deserves mentioning. Perhaps the synthesis of ferrocene which was an important to the establishment of organometallic chemistry. Should we establish some rules for which topics should be included or excluded? [[User:M stone|M stone]] 12:28, 24 October 2007 (UTC)
+
+:Some rules would be helpful, sure, and I would rather add inorganic chemistry than delete organic chemistry! I think it would be better if you didn't delete these sections while the discussion is going on. While I agree with the deletion of retinal and neurochemicals, I disagree with the deletion of structural determination of DNA and proteins. What I would like to propose is a different organization. Instead of the current seemingly-random selection of subheadings, we could use fewer headings that are more general and more related to the history of the molecule in a broader sense. For example, I agree that having headings for DNA and proteins can look arbitrary. How about having instead a heading for &quot;physical determination of molecular structure&quot; or something similar? This section would mention the historical development of X-ray crystallography, microwave spectroscopy, NMR, and so on, and would include DNA and proteins among the examples, without having them steal the spotlight. Similarly, we could have a section on &quot;synthesis of molecules&quot; which would illustrate how chemical synthesis has evolved, how chiral molecules can now be synthesized stereoselectively, and how bigger systems are now of interest. Again, it is not necessary to devote a large amount of attention to any specific molecule, in the way the article has done in the past, but to focus on the historic process while giving a few examples. --[[User:Itub|Itub]] 12:45, 24 October 2007 (UTC)
+
+::I actually think that the definition at the top of the page is a good one: &quot;In chemistry, the history of the molecule traces the origins of the concept or idea of the existence of strong chemical bonds between two or more atoms.&quot;  If topics do not fall under this definition, then get rid of them. Otherwise we end up with the history of chemistry instead of the history of the molecule.  Perhaps the new sections you are proposing still fit this definition. [[User:M stone|M stone]] 13:30, 24 October 2007 (UTC)
+
+::: It sounds like (most) everyone agrees that we should keep this article but we need to be careful about its scope. The modern history especially needs to be very molecule focused and not include all of chemistry. That distinction is perhaps difficult to maintain but I believe it is there. Nanomolecules have definitely changed our understanding of molecules. We should mention them and link to relevant pages. I also think the diffraction experiment is important in our understanding of the molecules. It is a demonstration of the particle wave duality of molecules. In some of the cases there are some irrelevant content to this article. Perhaps the entire modern section should not be broken into separate subjects, at least in a traditional scheme. A couple of coherent paragraphs covering how our perception our molecules have evolved would be best.--[[User:Nick Y.|Nick Y.]] 19:45, 24 October 2007 (UTC)
+I think we need to be careful about article length, and also the fact that readers are coming here to look for a &quot;history&quot;, not necessarily all the modern developments. In some senses, the history of the molecule ends soon after the Karlsruhe conference of 1860! Maybe we also need [[history of the chemical bond]]in order to be able to split content between them. [[User:Physchim62|Physchim62]] [[User talk:Physchim62|(talk)]] 16:33, 25 October 2007 (UTC)
+
+== What about Boscovich? ==
+
+Both in [[Atomic Theory]] and [[History of the molecule]] articles, the contributions of [[Boscovich]] is ignored. But he has many claims which came close the quantum physics... [[Special:Contributions/85.104.79.121|85.104.79.121]] ([[User talk:85.104.79.121|talk]]) 11:27, 8 February 2008 (UTC)
+
+==Requested move==
+This title should be renamed &quot;History of molecular theory&quot;.  Logically speaking, the &quot;history of the molecule&quot; stretches back to the beginnings of the Universe!  And anyone who feels the new title would be &quot;overcomplicated&quot; should not bother trying to understand the article's content.[[User:Kurzon|Kurzon]] ([[User talk:Kurzon|talk]]) 04:35, 15 February 2009 (UTC)
+
+*'''Support''' a move ''from'' the current title for what should be obvious reasons noted in the nomination. — &lt;span style=&quot;border:1px solid blue;padding:1px;&quot;&gt;[[User talk:AjaxSmack|&lt;font style=&quot;color:#fef;background:navy;&quot;&gt;''' AjaxSmack '''&lt;/font&gt;]]&lt;/span&gt; 17:05, 15 February 2009 (UTC)
+
+*'''Comment.''' I wonder if ''theory'' is the correct term. Perhaps ''molecular science''? (I am not a scientist.) •••[[User:Life of Riley|Life of Riley]] ([[User talk:Life of Riley|T]]–[[Special:Contributions/Life of Riley|C]]) 21:23, 15 February 2009 (UTC)
+**I agree that &quot;theory&quot; might not be the best word. After all, there should be different theories about molecules. And I know of no opponent to the concept of &quot;molecules&quot; (but that's not my area at all, some people might very well find the concept of molecule bogus, you never know) [[User:Jasy jatere|Jasy jatere]] ([[User talk:Jasy jatere|talk]]) 15:06, 17 February 2009 (UTC)
+***Is there any problem with [[History of molecular science]]? — &lt;span style=&quot;border:1px solid blue;padding:1px;&quot;&gt;[[User talk:AjaxSmack|&lt;font style=&quot;color:#fef;background:navy;&quot;&gt;''' AjaxSmack '''&lt;/font&gt;]]&lt;/span&gt; 17:07, 21 February 2009 (UTC)
+
+*'''Support''' rename to &quot;Molecular theory&quot;.
+*'''Comment''' [[History of molecular science]] is better than the proposed name; using ''[[theory]]'' can be confusing to the general readership. However currently [[molecular science]] redirects to [[molecular physics]]. Perhaps this is a problem with the redirect? [[Molecular chemistry]] is a redirect to [[chemistry]] although the term doesn't appear there. Maybe [[molecular science]] should be a dab, as to the general reader it would apply equally to both (molecular) chemistry and molecular physics. --[[User:Rogerb67|Rogerb67]] ([[User talk:Rogerb67|talk]]) 00:48, 22 February 2009 (UTC)
+
+
+*I assume everyone feels a name change is still necessary? Can we have some kind of indication of where we all stand? I favour [[History of molecular science]] provided it can be reconciled in usage to [[molecular science]]. I would settle for [[History of molecular theory]] as better than the current title but less than ideal. --[[User:Rogerb67|Rogerb67]] ([[User talk:Rogerb67|talk]]) 03:18, 28 February 2009 (UTC)
+
+*I support [[History of molecular theory]] since this article is limited to the way the molecule is described. I does not discuss the study of the molecule, which I would consider necessary to use the term &quot;molecular science.&quot; [[User:M stone|M stone]] ([[User talk:M stone|talk]]) 14:51, 28 February 2009 (UTC)
+*'''Support''' move to ''History of molecular theory'', as it appears someone has already made a redirect by that name. I would be equally happy with ''History of molecular science.'' I read the article and it is indeed a history of different theories. •••[[User:Life of Riley|Life of Riley]] ([[User talk:Life of Riley|T]]–[[Special:Contributions/Life of Riley|C]]) 03:34, 19 March 2009 (UTC)
+
+Article has been moved to ''History of molecular theory''.  &lt;font color=&quot;DarkGray&quot;&gt;...&lt;/font&gt; [[User:discospinster|&lt;font color=&quot;DarkOrange&quot;&gt;'''disco'''&lt;/font&gt;&lt;font color=&quot;DarkOliveGreen&quot;&gt;'''''spinster'''''&lt;/font&gt;]] &lt;sub&gt;[[User talk:discospinster|'''&lt;font color=&quot;DarkGray&quot;&gt;talk&lt;/font&gt;''']]&lt;/sub&gt; 23:39, 17 August 2009 (UTC)</text>
+      <sha1>tii47hj1u25vh0n4p352zmj3qw6mzfe</sha1>
+    </revision>
+  </page>
+</mediawiki>

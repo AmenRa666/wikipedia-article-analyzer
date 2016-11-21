@@ -1,0 +1,137 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:John F. Kennedy Presidential Library and Museum</title>
+    <ns>1</ns>
+    <id>6749309</id>
+    <revision>
+      <id>704470821</id>
+      <parentid>552168188</parentid>
+      <timestamp>2016-02-11T20:11:09Z</timestamp>
+      <contributor>
+        <username>Cyberbot II</username>
+        <id>16283967</id>
+      </contributor>
+      <comment>Notification of altered sources needing review #IABot</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6892">{{ArticleHistory
+|action1=GAN
+|action1date=21:46, 4 November 2008
+|action1link=Talk:John F. Kennedy Library/GA1
+|action1result=listed
+|action1oldid=249517178
+|currentstatus=GA
+|topic=architecture
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Museums|class=GA|importance=mid|auto=yes}}
+{{WikiProject History|class=GA|importance=high}}
+{{WikiProject United States|class=GA|importance=high|MA=yes|MA-importance=high|Boston=yes|Boston-importance=high}}
+{{WikiProject Architecture|class=GA|importance=mid}}
+{{WikiProject Libraries|class=GA|auto=inherit|importance=high}}
+{{WikiProject National Archives|class=GA|importance=mid}}
+}}
+
+== How about a features section like this? ==
+Perhaps including photo's and other media in sections like those in the collapsed box below:
+{{hidden
+| headercss = background: #ccccff; font-size: 110%; width: 50%;
+|extended content|
+&lt;nowiki&gt;===Permanent Exhibits===&lt;/nowiki&gt;&lt;br /&gt;
+&lt;nowiki&gt;====Space====&lt;/nowiki&gt;&lt;br /&gt;
+The space exhibit...
+&lt;nowiki&gt;====Briefing Room====&lt;/nowiki&gt;&lt;br /&gt;
+{{loremipsum}}
+&lt;nowiki&gt;====Campaign Trail====&lt;/nowiki&gt;&lt;br /&gt;
+{{loremipsum}}
+&lt;nowiki&gt;====Attorney General’s Office====&lt;/nowiki&gt;&lt;br /&gt;
+{{loremipsum}}
+&lt;nowiki&gt;====The Kennedy Family====&lt;/nowiki&gt;&lt;br /&gt;
+{{loremipsum}}
+&lt;nowiki&gt;====First Lady Jacqueline Bouvier Kennedy====&lt;/nowiki&gt;&lt;br /&gt;
+{{loremipsum}}
+&lt;nowiki&gt;====The Oval Office====&lt;/nowiki&gt;&lt;br /&gt;
+{{loremipsum}}
+&lt;nowiki&gt;===Temporary Exhibits===&lt;/nowiki&gt;&lt;br /&gt;
+{{loremipsum}}
+&lt;nowiki&gt;====Current====&lt;/nowiki&gt;&lt;br /&gt;
+'''Shaping Up America: JFK, Sports and The Call to Physical Fitness'''&lt;br /&gt;
+{{loremipsum}}
+&lt;nowiki&gt;====Upcoming====&lt;/nowiki&gt;&lt;br /&gt;
+{{loremipsum}}
+&lt;nowiki&gt;====Past====&lt;/nowiki&gt;&lt;br /&gt;
+&lt;nowiki&gt;=====Jacqueline Kennedy Entertains: The Art of the White House Dinner=====&lt;/nowiki&gt;&lt;br /&gt;
+{{loremipsum}}
+}}
+ &lt;small&gt;&lt;span style=&quot;border:1px solid #955619;padding:1px;&quot;&gt;&lt;font style=&quot;color:#955619;&quot;&gt;[[User:Louis Waweru|&lt;b&gt;Louis Waweru&lt;/b&gt;]]&lt;/font&gt; [[User_talk:Louis Waweru|&lt;font style=&quot;color:#FFFFFF;background:#955619;&quot;&gt;&amp;nbsp;Talk&amp;nbsp;&lt;/font&gt;]]&lt;/span&gt;&lt;/small&gt; 09:35, 17 August 2008 (UTC)
+
+==From [[WP:FEED|Request for feedback]]==
+Hello, I've reworked this article ([http://en.wikipedia.org/w/index.php?title=John_F._Kennedy_Library&amp;diff=242234290&amp;oldid=219344442 diff]) and was wondering how it can be further improved and promoted from start class. Most of my contributions went into creating the sections on the background of the site. Thank you =) &lt;small&gt;&lt;span style=&quot;border:1px solid #955619;padding:1px;&quot;&gt;&lt;font style=&quot;color:#955619;&quot;&gt;[[User:Louis Waweru|&lt;b&gt;Louis Waweru&lt;/b&gt;]]&lt;/font&gt; [[User_talk:Louis Waweru|&lt;font style=&quot;color:#FFFFFF;background:#955619;&quot;&gt;&amp;nbsp;Talk&amp;nbsp;&lt;/font&gt;]]&lt;/span&gt;&lt;/small&gt; 14:53, 14 October 2008 (UTC)
+
+::Looking good already, you seem to have things in hand. The only reason it is &quot;Start&quot;, is that none of the protects have reassessed it. Click on the project banner templates on the talk page and look for their &quot;assessments&quot; pages. Most will have a list you can add the article to ask for a reassessment. I would be very suprised if any rate it less than B. Might be worth going directly to [[WP:GAN|Good article nomination]] - some reviewers would pass it, and if not, they should give specific reason why not that you can then fix.[[User:Yobmod|Yobmod]] ([[User talk:Yobmod|talk]]) 12:11, 24 October 2008 (UTC)
+
+== Boston Marathon Explosion ==
+There was an explosion April 15th, 2013  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/140.107.157.245|140.107.157.245]] ([[User talk:140.107.157.245|talk]]) 20:21, 15 April 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+: However, the edits were reverted for I guess being unreliably sourced, so I will provide a source here for someone to add later (I'd do it myself, but I can't make league edits on my iPad): [http://www.detroitnews.com/article/20130415/NATION/304150425/1020/rss09] '''&lt;span style=&quot;text-shadow:#808080 0.2em 0.2em 0.2em&quot;&gt;[[User:ZappaOMati|&lt;font color=&quot;#0000FF&quot;&gt;Zappa&lt;/font&gt;]][[Special:Contributions/ZappaOMati|&lt;font color=&quot;#00FF00&quot;&gt;O&lt;/font&gt;]][[User talk:ZappaOMati|&lt;font color=&quot;#FF0000&quot;&gt;Mati&lt;/font&gt;]]&lt;/span&gt;''' 22:16, 15 April 2013 (UTC)
+There are two workers who said they heard an explosion. Rachel Flor (http://www.bostonglobe.com/metro/2013/04/15/jfk-library-evacuated-after-explosion-fire-polie-probe-possible-link-marathon-blast/4gQintGxnUv8he2Ul8THLI/story.html) and Paul Yazbeck (http://www.bostonirish.com/news/2013/jfk-library-official-fire-was-not-caused-device). Yet everyone jumped into the &quot;fire related&quot; mantra. Are these workers lying? In my opinion, it's just incredible that even though no one knows who bombed the marathon and the investigation is far from closed, everyone is absolutely sure the library fire is unrelated. How can this possibly be assessed so quickly? No one knows what was damaged inside the library yet.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/177.140.194.198|177.140.194.198]] ([[User talk:177.140.194.198|talk]]) 12:55, 16 April 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+* Even if there was no explosion (though major media like the Daily Mail continue to report there was) the fact numerous media sources like CNN, based upon early statements by the police, reported an explosion should be included in the article.  In any event, are there any reports regarding damage? [[Special:Contributions/70.72.211.35|70.72.211.35]] ([[User talk:70.72.211.35|talk]]) 18:52, 16 April 2013 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[John F. Kennedy Presidential Library and Museum]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=704470816 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20100518194718/http://www.jfklibrary.org:80/Historical+Resources/Archives/Oral+History+Project/About+the+Oral+History+Program.htm to http://www.jfklibrary.org/Historical+Resources/Archives/Oral+History+Project/About+the+Oral+History+Program.htm
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 20:11, 11 February 2016 (UTC)</text>
+      <sha1>7srzdcu58mnzolon4pft5gg1bkjk1ek</sha1>
+    </revision>
+  </page>
+</mediawiki>

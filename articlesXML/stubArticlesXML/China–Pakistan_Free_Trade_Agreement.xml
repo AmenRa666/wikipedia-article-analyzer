@@ -1,0 +1,100 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>China–Pakistan Free Trade Agreement</title>
+    <ns>0</ns>
+    <id>34043572</id>
+    <revision>
+      <id>687786124</id>
+      <parentid>684855317</parentid>
+      <timestamp>2015-10-27T18:54:28Z</timestamp>
+      <contributor>
+        <username>Yi Ding</username>
+        <id>1208474</id>
+      </contributor>
+      <comment>added second phase information</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2868">{{Infobox
+|title    = China–Pakistan Free Trade Agreement
+|data1= [[File:Flag of Pakistan.svg|100px]] [[File:Flag of the People's Republic of China.svg|100px]]
+|header2 = China–Pakistan Free Trade Agreement
+|label3  = Negotiations&lt;br /&gt;began
+|data3   = 2006 
+|label4  = Signed
+|data4   = 2007
+|label5  = Provisional&lt;br /&gt;application
+|data5   = 2007
+|label6 = Signatories
+|data6 = 2 (Pakistan and China)
+|label7  = Ratification status
+|data7   = Ratified and in force
+}}
+The '''China–Pakistan Free Trade Agreement''' is a major [[free trade agreement]] signed between the [[People's Republic of China]] and [[Pakistan]].&lt;ref&gt;[http://www.china.org.cn/business/faqs/2007-08/06/content_1219921.htm What does the China-Pakistan Free Trade Agreement cover?]&lt;/ref&gt;&lt;ref&gt;[http://wits.worldbank.org/GPTAD/PDF/archive/China-Pakistan.pdf Free Trade Agreement Between China and Pakistan], [[World Bank]]&lt;/ref&gt;&lt;ref&gt;[http://fta.mofcom.gov.cn/topic/enpakistan.shtml China-Pakistan FTA]&lt;/ref&gt;&lt;ref&gt;[http://english.peopledaily.com.cn/90001/90778/90857/90861/6599194.html China-Pakistan free trade agreement on services to be in effect soon]&lt;/ref&gt; It was concluded in 2006 and entered into effect in July 2007.
+
+Trade volume due to agreement between the two states was $13 billion in 2013, and reached to $20 billion by 2015 when both countries signed 51 agreements and Memorandums of Understanding (MoUs) for cooperation in different fields.&lt;ref&gt;[http://www.thenews.com.pk/Todays-News-13-37104-Pak-China-trade-volume-to-be-taken-to-$20-bn/ Enhanced business: ‘Pak-China trade reached $20b’]&lt;/ref&gt; China had been contributing significantly to Pakistan’s imports even before the FTA was signed and has seen considerable improvement in its ranking after the FTA was implemented in 2007. By 2012, it was the source for 15% of Pakistan’s overall imports from the world as compared to 9.8% in 2006.&lt;ref&gt;[http://tdap.gov.pk/pdf/Annex-II_PK-CN_FTA.pdf RULES OF ORIGIN FOR THE CHINA-PAKISTAN FREE TRADE AREA]&lt;/ref&gt;&lt;ref&gt;[http://articles.timesofindia.indiatimes.com/2009-09-12/international-business/28060611_1_india-china-trade-trade-area-free-trade Pakistan-China FTA to become effective in October]&lt;/ref&gt;
+
+==Second Phase==
+A Second Phase agreement is currently being negotiated between China and Pakistan. The second phase will lower tariffs further as well as normalize various trade procedures.&lt;ref&gt;http://www.dawn.com/news/1213122&lt;/ref&gt;
+==References==
+{{reflist}}
+
+{{China–Pakistan relations}}
+{{Free Trade Associations of the People's Republic of China}}
+
+{{DEFAULTSORT:China-Pakistan Free Trade Agreement}}
+[[Category:China–Pakistan relations]]
+[[Category:Free trade agreements of China|Pakistan]]
+[[Category:Free trade agreements of Pakistan]]
+[[Category:Treaties concluded in 2006]]
+[[Category:Treaties entered into force in 2007]]
+
+
+{{China-stub}}
+{{Pakistan-gov-stub}}</text>
+      <sha1>blrrafpex9xsdywbydwrvcbebdajjb3</sha1>
+    </revision>
+  </page>
+</mediawiki>

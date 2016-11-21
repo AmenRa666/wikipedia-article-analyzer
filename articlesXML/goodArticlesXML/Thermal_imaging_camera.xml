@@ -1,0 +1,123 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Thermal imaging camera</title>
+    <ns>0</ns>
+    <id>8202959</id>
+    <revision>
+      <id>743526720</id>
+      <parentid>741242579</parentid>
+      <timestamp>2016-10-10T02:05:00Z</timestamp>
+      <contributor>
+        <username>BOZ</username>
+        <id>861759</id>
+      </contributor>
+      <minor/>
+      <comment>BOZ moved page [[Thermal imaging camera (firefighting)]] to [[Thermal imaging camera]]: per request on my talk page</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17266">{{about|thermal imaging in firefighting||thermographic camera}}
+
+A '''thermal imaging camera''' (colloquially known as a '''TIC''') is a type of [[thermographic camera]] used in firefighting.  By rendering [[infrared radiation]] as [[visible light]], such cameras allow [[firefighter]]s to see areas of heat through smoke, darkness, or heat-permeable barriers. Thermal imaging cameras are typically handheld, but may be helmet-mounted.  They are constructed using heat- and water-resistant housings, and ruggedized to withstand the hazards of fireground operations.
+
+While they are expensive pieces of equipment, their popularity and adoption by firefighters in the United States is increasing markedly due to the increased availability of government equipment [[Grant (money)|grant]]s following the [[September 11 attacks]] in 2001. Thermal imaging cameras pick up body heat, and they are normally used in cases where people are trapped where rescuers cannot find them.
+
+== Construction ==
+[[File:Thermal imaging camera side.jpg|thumb|right|A handheld thermal imaging camera]]
+
+A thermal imaging camera consists of five components: an optic system, detector, amplifier, signal processing, and display.&lt;ref name=fe-nist /&gt;  Fire-service specific thermal imaging cameras incorporate these components in a heat-resistant,&lt;ref&gt;{{cite journal|last=Molinaro|first=Hope|title=Where there's Smoke...|journal=Plastics Engineering|date=2004-04-01|pages=14|volume=60|issue=4|accessdate=2008-09-22|url=http://proquest.umi.com/pqdweb?did=672911291&amp;sid=2&amp;Fmt=6&amp;clientId=20886&amp;RQT=309&amp;VName=PQD}} (subscription required for access to content)&lt;/ref&gt; ruggedized, and waterproof housing.&lt;ref&gt;See any manufacturer's promotional material, e.g. {{cite web|url=http://goliath.ecnext.com/coms2/gi_0199-3319214/RAYTHEON-UNVEILS-THERMAL-EYE-X100XP.html|title=Raytheon Unveils Thermal-Eye X100XP Thermal Imaging Camera|date=2003-12-01|accessdate=2008-09-19}}&lt;/ref&gt; These parts work together to render [[infrared radiation]], such as that given off by warm objects or flames, into a [[visible light]] representation in real time.&lt;ref name=fs /&gt;
+
+The camera display shows infrared output differentials, so two objects with the same temperature will appear to be the same &quot;color&quot;.&lt;ref name=fs /&gt;  Many thermal imaging cameras use grayscale to represent normal temperature objects, but highlight dangerously hot surfaces in different colors.&lt;ref&gt;{{cite web|title=Introduction of the latest thermal imaging camera – the Scott Eagle Imager 320|url=http://www.firefightingincanada.com/content/view/2423/179/|date=2008-08-22|accessdate=2008-09-19|publisher=Firefightingcanada.com}}&lt;/ref&gt;
+
+Cameras may be handheld&lt;ref name=fc-ic&gt;{{cite journal|journal=Fire Chief|last=Smith|first=Hezedean|volume=51|issue=8|pages=120|issn=0015-2552|title=Image Conscious|date=2007-08-01|url=http://search.ebscohost.com/login.aspx?direct=true&amp;AuthType=ip,url,uid&amp;db=bch&amp;AN=26383095&amp;site=ehost-live|accessdate=2008-09-19}} (subscription required for access to content)&lt;/ref&gt; or helmet-mounted.&lt;ref name=handsfree&gt;{{cite journal|last=Boyd|first=Jonathan|title=Using Hands-Free Thermal Imaging Cameras|journal=Fire Engineering|date=2007-05-01|pages=95–97|issn=0015-2587|volume=160|issue=5|url=http://search.ebscohost.com/login.aspx?direct=true&amp;AuthType=ip,url,uid&amp;db=bch&amp;AN=25132700&amp;site=ehost-live|accessdate=2008-09-17}} (subscription required for access to content)&lt;/ref&gt;  A handheld camera requires one hand to position and operate, leaving only one free hand for other tasks, but can be easily transferred between firefighters.  The majority of thermal imaging cameras in use in the fire service are handheld models.
+
+The [[National Institute of Standards and Technology]] Fire Research division is the lead government agency developing performance standards for fire service thermal imaging cameras in the United States, although the [[U.S. Army]] [[Night Vision]] Laboratory has contributed to the effort.&lt;ref name=fe-nist&gt;{{cite journal|last=Madrzykowski|first=Dan|author2=Steve Kerber |journal=Fire Engineering|date=2008-05-01|title=Technology Roundup: Firefighting Technology Research at NIST|pages=68|volume=161|issue=5|issn=0015-2587|url=http://search.ebscohost.com/login.aspx?direct=true&amp;AuthType=ip,url,uid&amp;db=bch&amp;AN=32456939&amp;site=ehost-live|accessdate=2008-09-18}} (subscription required for access to content)&lt;/ref&gt;  Preliminary recommendations from the field include visible low-battery warnings, ability to withstand full immersion in water, and the ability to provide meaningful visual readouts beyond 2,000&amp;nbsp;°F (~1,100&amp;nbsp;°C).&lt;ref&gt;{{cite journal|last=Little|first=David A.|title=Safety First|date=2005-04-01|volume=50|issue=4|page=92|issn=0015-2552|journal=Fire Chief|url=http://search.ebscohost.com/login.aspx?direct=true&amp;AuthType=ip,url,uid&amp;db=bch&amp;AN=20786754&amp;site=ehost-live|accessdate=2008-09-18}} (subscription required for access to content)&lt;/ref&gt;
+
+== Usage ==
+[[File:Thermal imaging tire.jpg|thumb|A view of a truck tire through a thermal imaging camera]]
+
+Since thermal imaging cameras can &quot;see&quot; through darkness or smoke, they allow firefighters to quickly find the seat of a [[structure fire]], or see the heat signature of visually obscured victims.&lt;ref name=oh /&gt;  They can be used to search for victims outdoors on a cool night, spot smoldering fires inside a wall,&lt;ref name=foht&gt;{{cite book|last=Norman|first=John|title=Fire Officer's Handbook of Tactics|url=https://books.google.com/books?id=VPxWmvKmzZkC&amp;pg=PT88&amp;dq=%22thermal+imaging+camera%22+RIT|accessdate=2008-09-19|year=2005|publisher=PennWell Books|isbn=1-59370-061-X}}&lt;/ref&gt; or detect overheating electrical wiring.&lt;ref name=fs&gt;{{cite book|title=Fireground Strategies|last=Avillo|first=Anthony|page=421|url=https://books.google.com/books?id=7uP1rC7W9jkC&amp;pg=PA421&amp;dq=%22thermal+imaging+camera%22|accessdate=2008-09-18|publisher=PennWell Books|year=2002|isbn=0-87814-840-X}}&lt;/ref&gt;  Thermal imaging cameras were credited with saving multiple lives per year through victim identification and removal from low visibility conditions as early as 1999.&lt;ref&gt;{{cite web|title=Thermal Imaging Camera Credited for Saving Child|date=1999-10-10|accessdate=2008-10-12|url=http://www.firehouse.com/news/99/10/19_camera.html|publisher=''Firehouse''|last=Lozare|first=Nicole}}&lt;/ref&gt;
+
+In addition to the ability to see through dense smoke, thermal imaging cameras also can see materials involved in spontaneous, low level combustion.  In one documented instance, a TIC was used to isolate a smoldering hot spot in a grain storage facility; by isolating and removing only the affected grain, 75% of the stored crop was saved.&lt;ref&gt;{{cite journal|last=Buzard|first=Eric|title=Fresh Set of Eyes|journal=Fire Chief|volume=49|issue=9|issn=0015-2552|pages=82–85|date=2005-09-01|url=http://search.ebscohost.com/login.aspx?direct=true&amp;AuthType=ip,url,uid&amp;db=bch&amp;AN=18511970&amp;site=ehost-live|accessdate=2008-09-18}} (subscription required for access to content)&lt;/ref&gt;
+
+In another, Tennessee firefighters used a thermal imaging camera to detect a hidden fire inside a cinder railroad bed, resulting in an estimated $500,000 cost avoidance.&lt;ref&gt;{{cite web|title=AEDC Helps Local Company Save Nearly $500,000|date=2002-01-24|url=http://search.ebscohost.com/login.aspx?direct=true&amp;AuthType=ip,url,uid&amp;db=bch&amp;AN=32W1494378977&amp;site=ehost-live|accessdate=2008-09-19|publisher=eMediaMillWorks}} (subscription required for access to content)&lt;/ref&gt; Thermal imaging cameras have also been reported to be particularly useful for fighting fires in cellulose insulation,&lt;ref&gt;{{cite journal|last=McLees|first=Mark|journal=Firehouse|date=2008-06-01|title=&quot;Going Green&quot; May Make You &quot;See Red&quot;|volume=33|issue=6|pages=46–49|accessdate=2008-09-22|url=http://proquest.umi.com/pqdweb?did=1501984401&amp;sid=2&amp;Fmt=3&amp;clientId=20886&amp;RQT=309&amp;VName=PQD}} (subscription required for access to content)&lt;/ref&gt; and for ascertaining that a structure is safe to reenter after a fire has been put out.&lt;ref&gt;{{cite web|title=Thermal Imaging Cameras: Helping to Pick Up The Pieces|last=Studer|first=Michael A.|url=http://cms.firehouse.com/web/online/Technology-and-Communications/Thermal-Imaging-Cameras--Helping-to-Pick-Up-The-Pieces/13$33439|date=2004-07-29|accessdate=2008-10-12|publisher=''Firehouse''}}&lt;/ref&gt;  Ventura County, California firefighters used their TIC to find a cat which had become sealed inside a walkway during construction.&lt;ref&gt;{{cite web|title=California Firefighters Use Thermal-Imaging to Find Cat|last=Foxman|first=Adam|publisher=Firehouse.com|date=2008-10-21|accessdate=2008-10-29|url=http://cms.firehouse.com/content/article/article.jsp?id=61372&amp;sectionId=46}}&lt;/ref&gt;
+
+Prototypes of helmet-mounted thermal imaging cameras were first publicized in 1992,&lt;ref&gt;{{cite journal|last=Marks|first=Paul|title=Helmet Camera Lends a Hand to Firefighters|journal=New Scientist|date=1992-09-19|volume=135|issue=1839|page=22|issn=0262-4079|url=http://search.ebscohost.com/login.aspx?direct=true&amp;AuthType=ip,url,uid&amp;db=bch&amp;AN=9211091366&amp;site=ehost-live|accessdate=2008-09-18}} (subscription required for access to content)&lt;/ref&gt; but a detailed evaluation of their performance in real world situations was not published until 2007. The model evaluated in 2007 weighed approximately 1.5&amp;nbsp;lbs, substantially increasing weight over an unadorned helmet.&lt;ref name=handsfree /&gt;  However, the ability to &quot;use the devices while they were also pulling hose and carrying tools&quot;&lt;ref name=handsfree /&gt; was favorably received by firefighters evaluating the product.&lt;ref name=handsfree /&gt;
+
+Benefits of helmet mounted TICs included that multiple firefighters each observed different aspects of a fire, while drawbacks included firefighters relaxing safety discipline.&lt;ref name=handsfree /&gt;  In timed testing, teams of firefighters with helmet-mounted cameras completed search tasks substantially faster, were less disoriented, and used less air than teams with a single handheld camera, who in turn fared better than teams with no TIC at all.&lt;ref name=handsfree /&gt;
+
+A limitation of these and similar devices has been their poor [[depth perception]] (the user has a hard time judging how far away objects are).&lt;ref name=kemah&gt;{{cite web|last=Kemah (Texas) Fire Department|url=http://www.kemahfire.com/sog/Thermal_Imager.pdf|format=PDF|title=Thermal Imaging Camera|pages=2|accessdate=2008-10-12}}&lt;/ref&gt;&lt;ref&gt;{{cite book|first=J. Michael|last=Lloyd|title=Thermal Imaging Systems|publisher=[[Springer Science+Business Media|Springer]]|year=1975|isbn=0-306-30848-7|page=70}} &quot;we usually consider that depth is not significant.&quot;&lt;/ref&gt;  This increases the likelihood that the user will trip over&lt;ref name=kemah /&gt; or run into obstacles, or have other distance-related problems.  An additional limitation of infrared technology is that since materials at the same temperature are shown as the same color, the display will not depict many details normally viewable in visible light.
+
+== History ==
+While thermal imaging technology has long been in use in specialized law enforcement and military applications,&lt;ref name=fs /&gt; its acceptance by the fire service has been hampered by the cost of the cameras. &quot;The first documented civilian life saved with thermal imaging technology was following the 1985 Putney gas explosion in London.&quot;.&lt;ref&gt;{{cite web|title=On This Day 10 January 1985|accessdate=25 October 2015|url=http://news.bbc.co.uk/onthisday/hi/dates/stories/january/10/newsid_4045000/4045495.stm|publisher=''[[BBC]]''}}&lt;/ref&gt;  While rapidly becoming standard in naval firefighting following the [[HMS Sheffield (D80)]] sinking, thermal imaging remained specialist equipment in the civilian fire services through into the 1990s. The [[Seattle Fire Department]] acquired its first thermal imaging camera in 1997, for a cost of $16,000.&lt;ref&gt;{{cite news|work=[[Seattle Times]]|last=Tu|first=Janet I-Chin|issn=0745-9696|date=2007-08-18|url=http://community.seattletimes.nwsource.com/archive/?date=19970818&amp;slug=2555416|accessdate=2016-04-23|title=Technology at Work -- Firefighters Look Into the Future -- New Computers, Camera Can Spot Hidden Dangers}}&lt;/ref&gt;
+
+In 2000, the ''[[Los Angeles Times]]'' called the thermal imaging camera &quot;[p]erhaps the best advance in fire equipment in the last 25 years—and the most expensive&quot;.&lt;ref name=lat&gt;{{cite web|title=New Firefighter Gear Calls for Money to Burn|last=Ivey|first=Catherine|date=2000-04-02|accessdate=2008-09-19|url=http://articles.latimes.com/2000/apr/02/news/mn-15085|publisher=''[[Los Angeles Times]]''}}&lt;/ref&gt;  Fire departments have pursued various sources and methods to fund thermal imaging cameras including direct budgeting,&lt;ref name=fc-ic /&gt; grants,&lt;ref name=oh&gt;{{cite journal|last=Goodwin|first=John W. Jr.|journal=[[The Vindicator]]|date=2008-07-30|title=Liberty, Ohio, firefighters receive FEMA grant|url=http://search.ebscohost.com/login.aspx?direct=true&amp;AuthType=ip,url,uid&amp;db=krh&amp;AN=2W62W6544237007&amp;site=ehost-live|accessdate=2008-09-17}} (subscription required for access to content)&lt;/ref&gt; and charity donations,&lt;ref&gt;{{cite web|title=Employing heat for safety's sake|url=http://www.riverheadfd.org/02_news_archives.htm|date=2002-04-11|accessdate=2008-09-19|publisher=Riverhead, NY Fire Department |archiveurl = https://web.archive.org/web/20080609030019/http://www.riverheadfd.org/02_news_archives.htm |archivedate = June 9, 2008}}&lt;/ref&gt; among others.  One fire chief observed that the same sorts of cost issues plagued [[Self-contained breathing apparatus|SCBA]] acquisitions during their initial adoption.&lt;ref name=handsfree /&gt;
+
+In 2001, the [[Federal Emergency Management Agency]] (FEMA) began issuing grants under the Firefighter Investment and Response Enhancement (FIRE) Act, which provided $100 million to U.S. fire agencies during that fiscal year.  Many departments used these funds to purchase thermal imaging cameras.&lt;ref&gt;{{cite journal|title=A Financial Shot in the Arm|last=Elliott|first=Fred|journal=Occupational Health &amp; Safety|volume=70|issue=11|date=2001-11-01|pages=32|url=http://proquest.umi.com/pqdweb?did=90045999&amp;sid=2&amp;Fmt=3&amp;clientId=20886&amp;RQT=309&amp;VName=PQD|accessdate=2008-09-22}} (subscription required for access to content)&lt;/ref&gt; However, replacing a damaged thermal imaging camera can be a substantial challenge for a department which acquired the camera outside the normal budget process.&lt;ref&gt;{{cite web|title=Massachusetts Department Looks to Replace Thermal Imaging Camera|url=http://cms.firehouse.com/web/online/News/Massachusetts-Department-Looks-to-Replace-Thermal-Imaging-Camera/46$56582|date=2007-10-01|accessdate=2008-10-12|last=Quadros Bowles|first=Sandy|publisher=''Firehouse''}}&lt;/ref&gt;
+
+As departments began acquiring thermal imaging cameras, they were typically assigned to specialized units, such as heavy rescue and truck companies.&lt;ref name=fc-ic /&gt;  Thermal imaging cameras are routinely assigned to [[Firefighter Assist and Search Team|Rapid Intervention Teams]], to enable them to more effectively reach and free trapped firefighters.&lt;ref name=frs /&gt;&lt;ref name=sf&gt;{{cite book|title=Structural Firefighting|last=Klaene|first=Bernard J.|author2=Russell E. Sanders |publisher=Jones &amp; Bartlett|year=2007|accessdate=2008-09-19|isbn=0-7637-5168-5|url=https://books.google.com/books?id=JpW0nuK2p64C&amp;pg=PA135&amp;dq=%22thermal+imaging+camera%22+RIT|page=135}}&lt;/ref&gt; Since 2003, the lack of a properly used thermal imaging camera has been recognized by [[National Institute for Occupational Safety and Health|NIOSH]] as an avoidable factor contributing to firefighter injuries and deaths,&lt;ref name=frs&gt;{{cite book|title=Firefighter Rescue &amp; Survival|last=Kolomay|first=Richard|author2=Robert Hoff |url=https://books.google.com/books?id=IyQgMl4bmNYC&amp;pg=PA127&amp;dq=%22thermal+imaging+camera%22|accessdate=2008-09-18|publisher=PennWell Books|year=2003|isbn=0-87814-829-9}}&lt;/ref&gt; and the fact that a thermal imaging cameras not used was cited in a 2005 NIOSH report as a contributing factor to the 2004 line of duty death of Houston firefighter Kevin Kulow.&lt;ref&gt;{{cite web|title=Federal Report: Houston Fire Department Didn't Use Thermal Imager in Search for Fallen Firefighter in 2004 Blaze|url=http://departments.firehouse.com/web/online/In-The-Line-Of-Duty/Federal-Report--Houston-Fire-Department-Didnt-Use-Thermal-Imager-in-Search-for-Fallen-Firefighter-in-2004-Blaze/39$45031|last=Murphy|first=Bill|publisher=''Firehouse''|date=2005-10-05|accessdate=2008-10-12}}&lt;/ref&gt; One of the recommendations of the [[Charleston Sofa Super Store fire]] post incident assessment and review team was &quot;the purchase of
+a standard model thermal imaging camera for each engine and ladder company&quot;.&lt;ref&gt;{{cite web|url=http://www.firehouse.com/mz/images/2007/11/charleston_phase_one_report.pdf|title=City of Charleston Post Incident Assessment and Review Team Phase 1 Report|date=2007-10-16|last=Routley|first=J. Gordon|publisher=''Firehouse''|accessdate=2008-10-12}}&lt;/ref&gt;
+
+==See also==
+*[[Flame detector]]
+
+== References ==
+{{reflist|2}}
+
+==External links==
+*{{Commons category-inline|Thermal imaging cameras}}
+
+{{fire fighting}}
+{{good article}}
+
+{{DEFAULTSORT:Thermal Imaging Camera}}
+[[Category:Cameras by type]]
+[[Category:Firefighting equipment]]
+[[Category:Infrared imaging]]
+[[Category:Surveillance]]</text>
+      <sha1>45cvdtt51tzl7piyixf9o11rk6m48l5</sha1>
+    </revision>
+  </page>
+</mediawiki>

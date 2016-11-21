@@ -5,6 +5,7 @@ var async = require('async')
 var qs = require('querystring')
 var mkdirp = require('mkdirp')
 var _ = require('underscore')
+var sanitize = require("sanitize-filename");
 
 
 // LOGIC
@@ -16,13 +17,15 @@ var pathIndex = 0
 var index = 1
 
 const writeFile = (title, contents, cb) => {
-  mkdirp(folder + paths[pathIndex], (err) => {
+  // mkdirp(folder + paths[pathIndex], (err) => {
+  mkdirp(folder, (err) => {
     if (err) {
       console.log(err);
       return cb(err);
     }
     title = title.replace(/\//g, '\u2215') // REPLACE SLASH
-    fs.writeFile(folder + paths[pathIndex] + 'Talk:' + title + '.xml', contents, () => {
+    // fs.writeFile(folder + paths[pathIndex] + 'Talk-' + sanitize(title) + '.xml', contents, () => {
+    fs.writeFile(folder + 'Talk-' + sanitize(title) + '.xml', contents, () => {
       console.log(index +' SAVED: '+ 'Talk:' + title);
       index++
       cb(null, 'Article Downloaded')

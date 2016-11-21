@@ -1,0 +1,823 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Multi-armed bandit</title>
+    <ns>0</ns>
+    <id>2854828</id>
+    <revision>
+      <id>750533849</id>
+      <parentid>747418983</parentid>
+      <timestamp>2016-11-20T09:59:28Z</timestamp>
+      <contributor>
+        <username>Naereen</username>
+        <id>17832473</id>
+      </contributor>
+      <minor/>
+      <comment>/* Optimal solutions */ µ-typing mistake</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="46921">[[File:Las Vegas slot machines.jpg|thumb|right|A row of slot machines in Las Vegas.]]
+
+In [[probability theory]], the '''multi-armed bandit problem''' (sometimes called the '''''K''-&lt;ref name=&quot;doi10.1023/A:1013689704352&quot;&gt;{{Cite journal | last1 = Auer | first1 = P. | last2 = Cesa-Bianchi | first2 = N. | last3 = Fischer | first3 = P. | journal = Machine Learning | volume = 47 | issue = 2/3 | pages = 235–256 | year = 2002 |title=Finite-time Analysis of the Multiarmed Bandit Problem| doi = 10.1023/A:1013689704352 | pmid =  | pmc = }}&lt;/ref&gt; or ''N''-armed bandit problem'''&lt;ref&gt;{{Cite journal | last1 = Katehakis | first1 = M. N. | last2 = Veinott | first2 = A. F. | doi = 10.1287/moor.12.2.262 | title = The Multi-Armed Bandit Problem: Decomposition and Computation | journal = Mathematics of Operations Research | volume = 12 | issue = 2 | pages = 262–268 | year = 1987 | pmid =  | pmc = }}&lt;/ref&gt;) is a problem in which a gambler at a row of [[slot machines]] (sometimes known as &quot;one-armed bandits&quot;) has to decide which machines to play, how many times to play each machine and in which order to play them.&lt;ref name=&quot;weber&quot;&gt;{{citation
+ | last = Weber | first = Richard
+ | issue = 4
+ | journal = [[Annals of Applied Probability]]
+ | pages = 1024–1033
+ | title = On the Gittins index for multiarmed bandits
+ | volume = 2
+ | year = 1992
+ | jstor=2959678
+ | doi = 10.1214/aoap/1177005588}}&lt;/ref&gt; When played, each machine provides a random reward from a [[probability distribution]] specific to that machine. The objective of the gambler is to maximize the sum of rewards earned through a sequence of lever pulls.&lt;ref name=&quot;Gittins89&quot;/&gt;&lt;ref Name=&quot;BF&quot;/&gt;
+
+[[Herbert Robbins]] in 1952, realizing the importance of the problem, constructed convergent population selection strategies in &quot;some aspects of the sequential design of experiments&quot;.&lt;ref&gt;{{Cite journal | last1 = Robbins | first1 = H. | title = Some aspects of the sequential design of experiments | doi = 10.1090/S0002-9904-1952-09620-8 | journal = Bulletin of the American Mathematical Society | volume = 58 | issue = 5 | pages = 527–535 | year = 1952 | pmid =  | pmc = }}&lt;/ref&gt;
+
+A theorem, the [[Gittins index]], first published by [[John C. Gittins]], gives an optimal policy for maximizing the expected discounted reward.&lt;ref&gt;{{cite journal | author = J. C. Gittins | authorlink = John C. Gittins | year = 1979 | title = Bandit Processes and Dynamic Allocation Indices | journal = Journal of the Royal Statistical Society. Series B (Methodological)  | volume = 41 | issue = 2 | pages = 148–177 | doix =  | jstor = 2985029 | url =  | format =  | accessdate = }}&lt;/ref&gt;
+
+In practice, multi-armed bandits have been used to model the problem of managing research projects in a large organization, like a science foundation or a [[Pharmaceutical industry|pharmaceutical company]]. Given a fixed budget, the problem is to allocate resources among the competing projects, whose properties are only partially known at the time of allocation, but which may become better understood as time passes.&lt;ref name=&quot;Gittins89&quot; /&gt;&lt;ref name=&quot;BF&quot;/&gt;
+
+In early versions of the multi-armed bandit problem, the gambler has no initial knowledge about the machines. The crucial tradeoff the gambler faces at each trial is between &quot;exploitation&quot; of the machine that has the highest expected payoff and &quot;exploration&quot; to get more [[Bayes' theorem|information]] about the expected payoffs of the other machines. The trade-off between exploration and exploitation is also faced in [[reinforcement learning]].
+
+==Empirical motivation==
+[[File:The Jet Propulsion Laboratory (9416811752).jpg|thumb|How to distribute a given budget among these research departments to maximize results?]]
+The multi-armed bandit problem models an agent that simultaneously attempts to acquire new knowledge (called &quot;exploration&quot;) and optimize his or her decisions based on existing knowledge (called &quot;exploitation&quot;). The agent attempts to balance these competing tasks in order to maximize his or her total value over the period of time considered. There are many practical applications of the bandit model, for example:
+
+* [[clinical trial]]s investigating the effects of different experimental treatments while minimizing patient losses,&lt;ref name=&quot;Gittins89&quot; /&gt;&lt;ref name=&quot;BF&quot;/&gt;&lt;ref name=&quot;WHP&quot;/&gt;&lt;ref name=&quot;KD&quot;&gt;Press (1986)&lt;/ref&gt;
+* [[adaptive routing]] efforts for minimizing delays in a network,
+* [[Portfolio (finance)|portfolio design]]&lt;ref name=&quot;BrochuHoffmandeFreitas&quot; /&gt;&lt;ref name=&quot;ShenWangJiangZha&quot; /&gt;
+
+In these practical examples, the problem requires balancing reward maximization based on the knowledge already acquired with attempting new actions to further increase knowledge. This is known as the ''exploitation vs. exploration tradeoff'' in [[reinforcement learning]].
+
+The model has also been used to control dynamic allocation of resources to different projects, answering the question of which project to work on, given uncertainty about the difficulty and payoff of each possibility.&lt;ref name=&quot;farias2011irrevocable&quot; /&gt;
+
+Originally considered by Allied scientists in [[World War II]], it proved so intractable that, according to [[Peter Whittle]], the problem was proposed to be dropped over [[Germany]] so that German scientists could also waste their time on it.&lt;ref name=&quot;Whittle79&quot;/&gt;
+
+The version of the problem now commonly analyzed was formulated by [[Herbert Robbins]] in 1952.
+
+==The multi-armed bandit model==
+The multi-armed bandit (short: ''bandit'') can be seen as a set of real [[Probability distribution|distributions]] &lt;math&gt;B = \{R_1, \dots ,R_K\}&lt;/math&gt;, each distribution being  associated with the rewards delivered by one of the &lt;math&gt;K \in \mathbb{N}^+&lt;/math&gt; levers. Let &lt;math&gt;\mu_1, \dots , \mu_K&lt;/math&gt; be the mean values associated with these reward distributions. The gambler iteratively plays one lever per round and observes the associated reward. The objective is to maximize the sum of the collected rewards. The horizon &lt;math&gt;H&lt;/math&gt; is the number of rounds that remain to be played. The bandit problem is formally equivalent to a one-state [[Markov decision process]]. The [[Regret (decision theory)|regret]] &lt;math&gt;\rho&lt;/math&gt; after &lt;math&gt;T&lt;/math&gt; rounds is defined as the expected difference between the reward sum associated with an optimal strategy and the sum of the collected rewards: &lt;math&gt;\rho = T \mu^* - \sum_{t=1}^T \widehat{r}_t&lt;/math&gt;, where &lt;math&gt;\mu^*&lt;/math&gt; is the maximal reward mean, &lt;math&gt;\mu^* = \max_k \{ \mu_k \}&lt;/math&gt;, and &lt;math&gt;\widehat{r}_t&lt;/math&gt; is the reward at time ''t''.
+
+A ''zero-regret strategy'' is a strategy whose average regret per round &lt;math&gt;\rho / T&lt;/math&gt; tends to zero with probability 1 when the number of played rounds tends to infinity.&lt;ref name=&quot;Vermorel2005&quot;/&gt; Intuitively, zero-regret strategies are guaranteed to converge to a (not necessarily unique) optimal strategy if enough rounds are played.
+
+==Variations==
+A common formulation is the ''Binary multi-armed bandit'' or ''Bernoulli multi-armed bandit,'' which issues a reward of one with probability &lt;math&gt;p&lt;/math&gt;, and otherwise a reward of zero.
+
+Another formulation of the multi-armed bandit has each arm representing an independent Markov machine. Each time a particular arm is played, the state of that machine advances to a new one, chosen according to the Markov state evolution probabilities. There is a reward depending on the current state of the machine. In a generalisation called the &quot;restless bandit problem&quot;, the states of non-played arms can also evolve over time.&lt;ref name=&quot;Whittle88&quot;/&gt; There has also been discussion of systems where the number of choices (about which arm to play) increases over time.&lt;ref name=&quot;Whittle81&quot;/&gt;
+
+Computer science researchers have studied multi-armed bandits under worst-case assumptions, obtaining algorithms to minimize regret in both finite and infinite ([[asymptotic]]) time horizons for both stochastic &lt;ref name=&quot;doi10.1023/A:1013689704352&quot;/&gt; and non-stochastic&lt;ref&gt;{{Cite journal | last1 = Auer | first1 = P. | last2 = Cesa-Bianchi | first2 = N. | last3 = Freund | first3 = Y. | last4 = Schapire | first4 = R. E. | title = The Nonstochastic Multiarmed Bandit Problem | doi = 10.1137/S0097539701398375 | journal = [[SIAM Journal on Computing|SIAM J. Comput.]] | volume = 32 | issue = 1 | pages = 48–77 | year = 2002 | pmid =  | pmc = }}&lt;/ref&gt; arm payoffs.
+
+==Bandit strategies==
+A major breakthrough was the construction of optimal population selection strategies, or policies (that possess uniformly maximum convergence rate  to the population with highest mean) in the work described below.
+
+===Optimal solutions===
+[[File:1966-HerbertRobbins.jpg|thumb|Herbert Robbins]]
+In the paper &quot;Asymptotically efficient adaptive allocation rules&quot;, Lai and Robbins&lt;ref&gt;{{cite journal | last1 = Lai | first1 = T.L. | last2 = Robbins | first2 = H. | year = 1985 | title = Asymptotically efficient adaptive allocation rules | url = | journal = Advances in Applied Mathematics | volume = 6 | issue = 1| pages =4–22 | doi = 10.1016/0196-8858(85)90002-8  }}&lt;/ref&gt;  (following papers of Robbins and his co-workers going back to Robbins in the year 1952) constructed convergent population selection policies that possess the fastest rate of convergence (to the population with highest mean) for the case that the population reward distributions are the one-parameter exponential family.  Then, in [[Michael Katehakis|Katehakis]] and [[Herbert Robbins|Robbins]] &lt;ref&gt;{{cite journal | last1 = Katehakis | first1 = M.N. | last2 = Robbins | first2 = H.  | year = 1995 | title = Sequential choice from several populations | url = | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 92 | issue = 19| pages =8584–5 | doi = 10.1073/pnas.92.19.8584 | pmid = 11607577 | pmc = 41010  }}&lt;/ref&gt; simplifications of the policy and the main proof were given for the case of normal populations with known variances. The next notable progress was obtained by Burnetas and [[Michael Katehakis|Katehakis]]  in the paper &quot;Optimal adaptive policies for sequential allocation problems&quot;,&lt;ref&gt;{{cite journal | last1 = Burnetas | first1 = A.N. | last2 = Katehakis | first2 = M.N. | year = 1996 | title = Optimal adaptive policies for sequential allocation problems | url = | journal = Advances in Applied Mathematics | volume = 17 | issue = 2| pages =122–142 | doi = 10.1006/aama.1996.0007  }}&lt;/ref&gt; where index based policies  with uniformly maximum convergence rate were constructed, under more general conditions that include the case in which the distributions of outcomes from each population depend on a vector of unknown parameters. Burnetas and Katehakis (1996) also provided an explicit solution for the important case in which the distributions of outcomes follow arbitrary (i.e., non-parametric) discrete, univariate distributions.
+
+Later in &quot;Optimal adaptive policies for Markov decision processes&quot;&lt;ref&gt;{{cite journal | last1 = Burnetas | first1 = A.N. | last2 = Katehakis | first2 = M.N. | year = 1997 | title = Optimal adaptive policies for Markov decision processes | url = | journal = Math. Oper. Res. | volume = 22 | issue = 1| pages =222–255 | doi = 10.1287/moor.22.1.222  }}&lt;/ref&gt;  Burnetas and Katehakis studied the much larger model of Markov Decision Processes under partial information,  where the transition law and/or the expected one period rewards may depend on unknown parameters. In this work the explicit form for a class of adaptive policies that possess uniformly maximum convergence rate  properties for the total expected finite horizon reward, were constructed under sufficient assumptions of finite state-action spaces and irreducibility of the transition law. A main feature of these policies is that the choice of actions, at each state and time period, is based on indices that are inflations of the right-hand side of the estimated average reward optimality equations. These inflations
+have recently been called the optimistic approach in the work of Tewari and Bartlett,&lt;ref&gt;{{cite journal | last1 = Tewari | first1 = A. | last2 = Bartlett | first2 = P.L. | year = 2008 | title = Optimistic linear programming gives logarithmic regret for irreducible MDPs | url = http://books.nips.cc/papers/files/nips20/NIPS2007_0673.pdf | format=PDF| journal = Advances in Neural Information Processing Systems | volume = 20 | issue = | pages =  | citeseerx=10.1.1.69.5482 }}&lt;/ref&gt; Ortner&lt;ref&gt;{{cite journal | last1 = Ortner | first1 = R. | year = 2010 | title = Online regret bounds for Markov decision processes with deterministic transitions | url = | journal = Theoretical Computer Science | volume = 411 | issue = 29| pages =2684–2695 | doi = 10.1016/j.tcs.2010.04.005  }}&lt;/ref&gt; Filippi,  Cappé, and Garivier,&lt;ref&gt;Filippi, S. and Cappé, O. and Garivier, A. (2010). &quot;Online regret bounds for Markov decision processes with deterministic transitions&quot;, ''Communication, Control, and Computing (Allerton), 2010 48th Annual Allerton Conference on'', pp. 115--122&lt;/ref&gt; and Honda and Takemura.&lt;ref&gt;{{cite journal | last1=Honda | first1= J.|last2= Takemura  | first2= A. |year=2011|title=An asymptotically optimal policy for finite support models in the multi-armed bandit problem|journal=Machine learning|volume=85|issue=3|pages= 361–391 | arxiv=0905.2776 |doi=10.1007/s10994-011-5257-4}}&lt;/ref&gt;
+
+===Approximate solutions===
+Many strategies exist which provide an approximate solution to the bandit problem, and can be put into the four broad categories detailed below.
+
+====Semi-uniform strategies====
+Semi-uniform strategies were the earliest (and simplest) strategies discovered to approximately solve the bandit problem. All those strategies have in common a [[Greedy algorithm|greedy]] behavior where the ''best'' lever (based on previous observations) is always pulled except when a (uniformly) random action is taken.
+
+* '''Epsilon-greedy strategy'''{{Citation needed|date=March 2015}}: The best lever is selected for a proportion &lt;math&gt;1 - \epsilon&lt;/math&gt; of the trials, and a lever is selected at random (with uniform probability) for a proportion &lt;math&gt;\epsilon&lt;/math&gt;. A typical parameter value might be &lt;math&gt;\epsilon = 0.1&lt;/math&gt;, but this can vary widely depending on circumstances and predilections.
+* '''Epsilon-first strategy'''{{Citation needed|date=March 2015}}: A pure exploration phase is followed by a pure exploitation phase. For &lt;math&gt;N&lt;/math&gt; trials in total, the exploration phase occupies &lt;math&gt;\epsilon N&lt;/math&gt; trials and the exploitation phase &lt;math&gt;(1 - \epsilon) N&lt;/math&gt; trials. During the exploration phase, a lever is randomly selected (with uniform probability); during the exploitation phase, the best lever is always selected.
+* '''Epsilon-decreasing strategy'''{{Citation needed|date=March 2015}}: Similar to the epsilon-greedy strategy, except that the value of &lt;math&gt;\epsilon&lt;/math&gt; decreases as the experiment progresses, resulting in highly explorative behaviour at the start and highly exploitative behaviour at the finish.
+* '''Adaptive epsilon-greedy strategy based on value differences (VDBE)''': Similar to the epsilon-decreasing strategy, except that  epsilon is reduced on basis of the learning progress instead of manual tuning (Tokic, 2010).&lt;ref name=&quot;Tokic2010&quot;/&gt; High fluctuations in the value estimates lead to a high epsilon (high exploration, low exploitation); low fluctuations to a low epsilon (low exploration, high exploitation). Further improvements can be achieved by a [[softmax function|softmax]]-weighted action selection in case of exploratory actions (Tokic &amp; Palm, 2011).&lt;ref name=&quot;TokicPalm2011&quot;/&gt;
+* '''Contextual-Epsilon-greedy strategy''': Similar to the epsilon-greedy strategy, except that the value of &lt;math&gt;\epsilon&lt;/math&gt; is computed regarding the situation in experiment processes, which let the algorithm be Context-Aware. It is based on dynamic exploration/exploitation and can adaptively balance the two aspects by deciding which situation is most relevant for exploration or exploitation, resulting in highly explorative behavior when the situation is not critical and highly exploitative behavior at critical situation.&lt;ref name=&quot;Bouneffouf2012&quot;/&gt;
+
+====Probability matching strategies====
+Probability matching strategies reflect the idea that the number of pulls for a given lever should ''match'' its actual probability of being the optimal lever.  Probability matching strategies are also known as [[Thompson sampling]] or Bayesian Bandits,&lt;ref name=&quot;Scott2010&quot;/&gt; and surprisingly easy to implement if you can sample from the posterior for the mean value of each alternative.
+
+Probability matching strategies also admit solutions to so-called contextual bandit problems.
+
+====Pricing strategies====
+Pricing strategies establish a ''price'' for each lever. For example, as illustrated with the POKER algorithm,&lt;ref name=&quot;Vermorel2005&quot;/&gt; the price can be the sum of the expected reward plus an estimation of extra future rewards that will gain through the additional knowledge. The lever of highest price is always pulled.
+
+====Strategies with ethical constraints====
+These strategies minimize the assignment of any patient to an inferior arm ([[Medical ethics|&quot;physician's duty&quot;]]).  In a typical case, they minimize expected successes lost (ESL), that is, the expected number of favorable outcomes that were missed because of assignment to an arm later proved to be inferior.  Another version minimizes resources wasted on any inferior, more expensive, treatment.&lt;ref name=&quot;WHP&quot; /&gt;
+
+==Contextual Bandit==
+A particularly useful version of the multi-armed bandit is the contextual multi-armed bandit problem. In this problem, in each iteration an agent has to choose between arms. Before making the choice, the agent sees a d-dimensional feature vector (context vector),
+associated with the current iteration. The learner uses these context vectors along with the rewards of the arms played in the past to make the choice of the arm to play in
+the current iteration. Over time, the learner's aim is to collect enough information about how the context vectors and rewards relate to each other, so that it can
+predict the next best arm to play by looking at the feature vectors.&lt;ref name=&quot;Langford2008&quot; /&gt;
+
+===Approximate solutions for Contextual Bandit===
+Many strategies exist which provide an approximate solution to the Contextual bandit problem, and can be put into two broad categories detailed below.
+
+====Online linear classifier====
+* '''LinUCB algorithm''': the authors assume a linear dependency between the expected reward of an action and its context and model the representation space using a set of linear predictors.
+
+====Online non-linear classifier====
+* '''UCBogram algorithm''': The nonlinear reward functions are estimated using piecewise constant over a functions using a piecewise constant estimator called ''regressogram'' in [[Nonparametric regression]]. Then, UCB is employed on each constant piece. Successive refinements of the partition of the context space are scheduled or chosen adaptively.&lt;ref name=&quot;RigZee10&quot;/&gt;&lt;ref name=&quot;slivkins11&quot;/&gt;&lt;ref name=&quot;PerRig13&quot;/&gt;
+* '''NeuralBandit algorithm''':  In this algorithm several neural networks are trained to modelize the value of rewards knowing the context, and it uses a multi-experts approach to choose online the parameters of multi-layer perceptrons.&lt;ref name=&quot;Robin2014&quot;/&gt;
+* '''KernelUCB algorithm''': a kernelized non-linear version of linearUCB, with efficient implementation and finite-time analysis.&lt;ref name=&quot;Valko2014&quot;/&gt;
+* '''Bandit Forest algorithm''': a random forest is built and analyzed w.r.t the random forest built knowing the joint distribution of contexts and rewards.&lt;ref&gt;{{Cite journal|last=Féraud|first=Raphaël|last2=Allesiardo|first2=Robin|last3=Urvoy|first3=Tanguy|last4=Clérot|first4=Fabrice|date=2016|title=Random Forest for the Contextual Bandit Problem|url=http://jmlr.org/proceedings/papers/v51/feraud16.html|journal=AISTATS|doi=|pmid=|access-date=}}&lt;/ref&gt;
+
+===Constrained Contextual Bandit===
+In practice, there is usually a cost associated with the resource consumed by each action and the total cost is limited by a budget in many applications such as crowdsourcing and clinical trials. Constrained contextual bandit (CCB) is such a model that consider both the time and budget constraints in multi-armed bandit setting.
+A. Badanidiyuru et al.&lt;ref name=&quot;Badanidiyuru2014COLT&quot;/&gt; first studies the contextual bandits with budget constraints, also referred to as Resourceful Contextual Bandits, and show that a &lt;math&gt;O(\sqrt{T})&lt;/math&gt; regret is achievable. However,&lt;ref name=&quot;Badanidiyuru2014COLT&quot;/&gt; focuses on a finite set of policies and the algorithm is computationally inefficient.
+
+[[File:Framework of UCB-ALP for Constrained Contextual Bandits.jpg|thumbnail|Framework of UCB-ALP for constrained contextual bandits]]
+A simple algorithm with logarithmic regret is proposed in:&lt;ref name=&quot;Wu2015UCBALP&quot;/&gt;
+* '''UCB-ALP algorithm''': The framework of UCB-ALP is shown in the right figure. UCB-ALP is a simple algorithm that combines the UCB method with an Adaptive Linear Programming (ALP) algorithm, and can be easily deployed in practical systems. It is the first work that show how to achieve logarithmic regret in constrained contextual bandits. Although &lt;ref name=&quot;Wu2015UCBALP&quot;/&gt; is devoted to a special case with single budget constraint and fixed cost, the results shed light on the design and analysis of algorithms for more general CCB problems.
+
+==Adversarial Bandit==
+Another variant of the multi-armed bandit problem is called the adversarial bandit, first introduced by Auer and Cesa-Bianchi (1998). In this variant, at each iteration an agent chooses an arm and an adversary simultaneously chooses the payoff structure for each arm. This is one of the strongest generalizations of the bandit problem&lt;ref&gt;Burtini (2015)&lt;/ref&gt; as it removes all assumptions of the distribution and a solution to the adversarial bandit problem is a generalized solution to the more specific bandit problems.
+
+==Infinite Armed Bandit==
+In the original specification and in the above variants, the bandit problem is specified with a discrete and finite number of arms, often indicated by the variable &lt;math&gt;K&lt;/math&gt;. In the infinite armed case, introduced by Agarwal (1995), the &quot;arms&quot; are a continuous variable in &lt;math&gt;K&lt;/math&gt; dimensions.
+
+==Dueling Bandit==
+The Dueling Bandit variant was introduced by Yue et al. (2012) &lt;ref name=&quot;YueEtAll2012&quot;/&gt; to model the exploration-versus-exploitation tradeoff for relative feedback.
+In this variant the gambler is allowed to pull two levers at the same time, but she only gets a binary feedback telling which lever provided the best reward. The difficulty of this problem stems from the fact that the gambler has no way of directly observing the reward of her actions.
+The earliest algorithms for this problem are InterleaveFiltering,&lt;ref name=&quot;YueEtAll2012&quot;/&gt; Beat-The-Mean.&lt;ref name=&quot;Yue2011ICML:BTM&quot;/&gt;
+The relative feedback of dueling bandits can also lead to [[Voting paradoxes]]. A solution is to take the [[Condorcet winner]] as a reference.&lt;ref name = &quot;Urvoy2013ICML:SAVAGE&quot;/&gt;
+
+More recently, researchers have generalized algorithms from traditional MAB to dueling bandits: Relative Upper Confidence Bounds (RUCB),&lt;ref name=&quot;Zoghi2014ICML:RUCB&quot;/&gt; Relative EXponential weighing (REX3),&lt;ref name=&quot;Gajane2015ICML:REX3&quot;/&gt; 
+Copeland Confidence Bounds (CCB),&lt;ref name=&quot;Zoghi2015NIPS:CDB&quot;/&gt; Relative Minimum Empirical Divergence (RMED),&lt;ref name=&quot;Komiyama2015COLT:DB&quot;/&gt; and Double Thompson Sampling (DTS).&lt;ref name=&quot;Wu2016DTS&quot;/&gt;
+
+== Non-Stationary Bandit ==
+Garivier and Moulines derive some of the first results with respect to bandit problems where the underlying model can change during play. A number of algorithms were presented to deal with this case, including Discounted UCB &lt;ref&gt;Discounted UCB, Levente Kocsis, Csaba Szepesvári, 2006&lt;/ref&gt; and Sliding-Window UCB.&lt;ref&gt;On Upper-Confidence Bound Policies for Non-Stationary Bandit Problems, Garivier and Moulines, 2008 &lt;http://arxiv.org/abs/0805.3415&gt;&lt;/ref&gt;
+
+Djallel Bouneffouf and Raphael Feraud,&lt;ref name=&quot;AUCBDB&quot;/&gt; they consider a variant where the trend is a priori known, that is, the gambler knows the path of the changing reward function of each arm but not its distribution. By adapting the standard multi-armed bandit algorithm UCB1 to take advantage of this setting, they propose an algorithm named Adjusted Upper Confidence Bound (A-UCB) that assumes a stochastic model. They also provide upper bounds of the regret which compare favorably with the ones of UCB1.
+
+Another work by Burtini et al. introduces a weighted least squares Thompson sampling approach, which proves beneficial in both the known and unknown non-stationary cases &lt;ref&gt;Improving Online Marketing Experiments with Drifting Multi-armed Bandits, Giuseppe Burtini, Jason Loeppky, Ramon Lawrence, 2015 &lt;http://www.scitepress.org/DigitalLibrary/PublicationsDetail.aspx?ID=Dx2xXEB0PJE=&amp;t=1&gt;&lt;/ref&gt;
+
+==Clustering Bandit==
+The Clustering of Bandits (i.e., CLUB) was introduced by Gentile and Li and Zappela (ICML 2014),&lt;ref name=&quot;GLZ2014CLUB&quot;/&gt; with a novel algorithmic approach to content recommender systems based on adaptive clustering of exploration-exploitation (&quot;bandit&quot;) strategies. They provide a sharp regret analysis of this algorithm in a standard stochastic noise setting, demonstrate its scalability properties, and prove its effectiveness on a number of artificial and real-world datasets. Their experiments show a significant increase in prediction performance over state-of-the-art methods for bandit problems.
+
+==Distributed Bandit==
+The distributed clustering of bandits (i.e., DCCB) was introduced by Korda and Szorenyi and Li (ICML 2016),&lt;ref name=&quot;KSL2016DCCB&quot;/&gt; they provide two distributed confidence ball algorithms for solving linear bandit problems in peer to peer networks with limited communication capabilities. For the first, they assume that all the peers are solving the same linear bandit problem, and prove that their algorithm achieves the optimal asymptotic regret rate of any centralised algorithm that can instantly communicate information between the peers. For the second, they assume that there are clusters of peers solving the same bandit problem within each cluster as in,&lt;ref name=&quot;GLZ2014CLUB&quot;/&gt; and they prove that their algorithm discovers these clusters, while achieving the optimal asymptotic regret rate within each one. Through experiments on several real-world datasets, they demonstrate the performance of proposed algorithms compared to the state-of-the-art.
+
+==Collaborative Bandit==
+The collaborative filtering bandits (i.e., COFIBA) was introduced by Li and Karatzoglou and Gentile (SIGIR 2016),&lt;ref name=&quot;LKG2016COFIBA&quot;/&gt; where the classical collaborative filtering, and content-based filtering methods try to learn a static recommendation model given training data. These approaches are far from ideal in highly dynamic recommendation domains such as news recommendation and computational advertisement, where the set of items and users is very fluid. In this work, they investigate an adaptive clustering technique for content recommendation based on exploration-exploitation strategies in contextual multi-armed bandit settings.&lt;ref name=&quot;GLZ2014CLUB&quot;/&gt; Their algorithm (COFIBA, pronounced as &quot;Coffee Bar&quot;) takes into account the collaborative effects&lt;ref name=&quot;LKG2016COFIBA&quot;/&gt; that arise due to the interaction of the users with the items, by dynamically grouping users based on the items under consideration and, at the same time, grouping items based on the similarity of the clusterings induced over the users. The resulting algorithm thus takes advantage of preference patterns in the data in a way akin to collaborative filtering methods. They provide an empirical analysis on medium-size real-world datasets, showing scalability and increased prediction performance (as measured by click-through rate) over state-of-the-art methods for clustering bandits. They also provide a regret analysis within a standard linear stochastic noise setting.
+
+==See also==
+* [[Gittins index]]&amp;nbsp;— a powerful, general strategy for analyzing bandit problems.
+* [[Optimal stopping]]
+* [[Search theory]]
+* [[Greedy algorithm]]
+
+==References==
+&lt;references&gt;
+
+&lt;ref name=&quot;slivkins11&quot;&gt;
+{{citation
+ | last   = Slivkins
+ | first  =  Aleksandrs
+ | series = Conference on Learning Theory, COLT 2011
+ | title  = Contextual bandits with similarity information.
+ | year   = 2011
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;RigZee10&quot;&gt;
+{{citation
+ | last1  = Rigollet
+ | first1 = Philippe
+ | last2  = Zeevi
+ | first2 = Assaf
+ | series = Conference on Learning Theory, COLT 2010
+ | title  = Nonparametric Bandits with Covariates
+ | year   = 2010
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;PerRig13&quot;&gt;
+{{citation
+ | last1   = Perchet
+ | first1  =  Vianney
+ | last2   = Rigollet
+ | first2  = Philippe
+ | journal = [[Annals of Statistics]]
+ | title  = The multi-armed bandit problem with covariates
+ | volume = 41
+ | issue  = 2
+ | year   = 2013
+ | doi=10.1214/13-aos1101
+ | pages=693–721
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Valko2014&quot;&gt;
+{{citation
+ | author1 = Michal Valko
+ | author2 = Nathan Korda
+ | author3 = Rémi Munos
+ | author4 = Ilias Flaounas
+ | author5 = Nello Cristianini
+ | series  = 29th Conference on Uncertainty in Artificial Intelligence (UAI 2013) and (JFPDA 2013).
+ | title   = Finite-Time Analysis of Kernelised Contextual Bandits
+ | arxiv = 1309.6869| year    = 2013
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Gittins89&quot;&gt;
+{{citation
+ | last        = Gittins
+ | first       = J. C.
+ | author-link = John C. Gittins
+ | isbn        = 0-471-92059-2
+ | location    = Chichester
+ | publisher   = John Wiley &amp; Sons, Ltd.
+ | series      = Wiley-Interscience Series in Systems and Optimization.
+ | title       = Multi-armed bandit allocation indices
+ | year        = 1989
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;BF&quot;&gt;
+{{citation
+ | last1        = Berry
+ | first1       = Donald A.
+ | author1-link = Don Berry (statistician)
+ | last2        = Fristedt
+ | first2       = Bert
+ | isbn         = 0-412-24810-7
+ | location     = London
+ | publisher    = Chapman &amp; Hall
+ | series       = Monographs on Statistics and Applied Probability
+ | title        = Bandit problems: Sequential allocation of experiments
+ | year         = 1985
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Whittle79&quot;&gt;
+{{citation
+ | last        = Whittle
+ | first       = Peter
+ | author-link = Peter Whittle
+ | journal     = [[Journal of the Royal Statistical Society]]
+ | series      = Series B
+ | page        = 165
+ | title       = Discussion of Dr Gittins' paper
+ | volume      = 41
+ | issue       = 2
+ | year        = 1979
+ | jstor       = 2985029
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Whittle81&quot;&gt;
+{{citation
+ | last        = Whittle
+ | first       = Peter
+ | author-link = Peter Whittle
+ | doi         = 10.1214/aop/1176994469
+ | journal     = Annals of Probability
+ | pages       = 284–292
+ | title       = Arm-acquiring bandits
+ | volume      = 9
+ | year        = 1981
+ | issue       = 2
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Whittle88&quot;&gt;
+{{citation
+ | last        = Whittle
+ | first       = Peter
+ | author-link = Peter Whittle
+ | mr          = 974588
+ | journal     = Journal of Applied Probability
+ | pages       = 287–298
+ | title       = Restless bandits: Activity allocation in a changing world
+ | volume      = 25A
+ | year        = 1988
+ | doi=10.2307/3214163
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;WHP&quot;&gt;
+{{Citation
+ | first      = William H.
+ | last       = Press
+ | year       = 2009
+ | url        = http://www.pnas.org/content/106/52/22387
+ | title      = Bandit solutions provide unified ethical models for randomized clinical trials and comparative effectiveness research
+ | journal    = Proceedings of the National Academy of Sciences
+ | volume     = 106
+ | pages      = 22387–22392
+ | pmid       = 20018711
+ | doi        = 10.1073/pnas.0912378106
+ | issue      = 52
+ | pmc        = 2793317
+ | postscript = .
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Scott2010&quot;&gt;
+{{citation
+ | last    = Scott
+ | first   = S.L.
+ | doi     = 10.1002/asmb.874
+ | journal = Applied Stochastic Models in Business and Industry
+ | pages   = 639–658
+ | title   = A modern Bayesian look at the multi-armed bandit
+ | volume  = 26
+ | year    = 2010
+ | issue   = 2
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Vermorel2005&quot;&gt;
+{{citation
+ | url       = http://bandit.sourceforge.net/Vermorel2005poker.pdf
+ | last1     = Vermorel
+ | first1    = Joannes
+ | last2     = Mohri
+ | first2    = Mehryar
+ | publisher = Springer
+ | series    = In European Conference on Machine Learning
+ | pages     = 437–448
+ | title     = Multi-armed bandit algorithms and empirical evaluation
+ | year      = 2005
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Robin2014&quot;&gt;
+{{citation
+ | last1        = Allesiardo
+ | first1       = Robin
+ | last2        = Féraud
+ | first2       = Raphaël
+ | last3        = Djallel
+ | first3       = Bouneffouf
+ | contribution = A Neural Networks Committee for the Contextual Bandit Problem
+ | pages        = 374–381
+ | publisher    = Springer
+ | series       = [[Lecture Notes in Computer Science]]
+ | title        = Neural Information Processing - 21st International Conference, ICONIP 2014, Malaisia, November 03-06,2014, Proceedings
+ | volume       = 8834
+ | year         = 2014
+ | isbn         = 978-3-319-12636-4
+ | doi=10.1007/978-3-319-12637-1_47
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Bouneffouf2012&quot;&gt;
+{{Cite book | last1 = Bouneffouf | first1 = D. | last2 = Bouzeghoub | first2 = A. | last3 = Gançarski | first3 = A. L. | doi = 10.1007/978-3-642-34487-9_40 | chapter = A Contextual-Bandit Algorithm for Mobile Context-Aware Recommender System | title = Neural Information Processing | series = Lecture Notes in Computer Science | volume = 7665 | pages = 324 | year = 2012 | isbn = 978-3-642-34486-2 | pmid =  | pmc = }}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Tokic2010&quot;&gt;
+{{citation
+ | last1     = Tokic
+ | first1    = Michel
+ | chapter   = Adaptive ε-greedy exploration in reinforcement learning based on value differences
+ | doi       = 10.1007/978-3-642-16111-7_23
+ | pages     = 203–210
+ | publisher = Springer-Verlag
+ | series    = Lecture Notes in Computer Science
+ | title     = KI 2010: Advances in Artificial Intelligence
+ | volume    = 6359
+ | year      = 2010
+ | url       = http://www.tokic.com/www/tokicm/publikationen/papers/AdaptiveEpsilonGreedyExploration.pdf
+ | isbn      = 978-3-642-16110-0}}.
+&lt;/ref&gt;
+
+&lt;ref name=&quot;TokicPalm2011&quot;&gt;
+{{citation
+ | last1     = Tokic
+ | first1    = Michel
+ | last2     = Palm
+ | first2    = Günther
+ | chapter   = Value-Difference Based Exploration: Adaptive Control Between Epsilon-Greedy and Softmax
+ | pages     = 335–346
+ | publisher = Springer-Verlag
+ | series    = Lecture Notes in Computer Science
+ | title     = KI 2011: Advances in Artificial Intelligence
+ | volume    = 7006
+ | year      = 2011
+ | url       = http://www.tokic.com/www/tokicm/publikationen/papers/KI2011.pdf
+ | isbn      = 978-3-642-24455-1}}.
+&lt;/ref&gt;
+
+&lt;ref name=&quot;BrochuHoffmandeFreitas&quot;&gt;
+{{citation
+ | last1  = Brochu
+ | first1 = Eric
+ | last2  = Hoffman
+ | first2 = Matthew W.
+ | last3  = de Freitas
+ | first3 = Nando
+ | arxiv    = 1009.5419| date   = September 2010
+ | title  = Portfolio Allocation for Bayesian Optimization}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;ShenWangJiangZha&quot;&gt;
+{{citation
+ | last1  = Shen
+ | first1 = Weiwei
+ | last2  = Wang
+ | first2 = Jun
+ | last3  = Jiang
+ | first3 = Yu-Gang
+ | last4  = Zha 
+ | first4 = Hongyuan
+ | journal = Proceedings of International Joint Conferences on Artificial Intelligence (IJCAI2015)
+ | url    = http://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/viewPDFInterstitial/10972/10798
+ | date   = 2015
+ | title  = Portfolio Choices with Orthogonal Bandit Learning}}
+&lt;/ref&gt;
+&lt;ref name=&quot;Langford2008&quot;&gt;
+{{citation
+ | url       = http://papers.nips.cc/paper/3178-the-epoch-greedy-algorithm-for-multi-armed-bandits-with-side-information
+ | last1     = Langford
+ | first1    = John
+ | last2     = Zhang
+ | first2    = Tong
+ | publisher = Curran Associates, Inc.
+ | pages     = 817–824
+ | title     = Advances in Neural Information Processing Systems 20
+ | chapter   = The Epoch-Greedy Algorithm for Contextual Multi-armed Bandits
+ | year      = 2008
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Badanidiyuru2014COLT&quot;&gt;
+{{citation
+ | last1     = Badanidiyuru
+ | first1    = A.
+ | last2     = Langford
+ | first2    = J.
+ | last3     = Slivkins
+ | first3    = A.
+ | title     = Proceeding of Conference on Learning Theory (COLT)
+ | chapter   = Resourceful contextual bandits
+ | year      = 2014
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Wu2015UCBALP&quot;&gt;
+{{citation
+ | url       = https://papers.nips.cc/paper/6008-algorithms-with-logarithmic-or-sublinear-regret-for-constrained-contextual-bandits
+ | last1     = Wu
+ | first1    = Huasen
+ | last2     = Srikant
+ | first2    = R.
+ | last3     = Liu
+ | first3    = Xin
+ | last4     = Jiang
+ | first4    = Chong
+ | title     = Algorithms with Logarithmic or Sublinear Regret for Constrained Contextual Bandits
+ | journal   = The 29th Annual Conference on Neural Information Processing Systems (NIPS) 
+ | year      = 2015
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;YueEtAll2012&quot;&gt;
+{{citation
+ | url     = http://www.sciencedirect.com/science/article/pii/S0022000012000281
+ | last1   = Yue
+ | first1  = Yisong
+ | last2   = Broder
+ | first2  = Josef
+ | last3   = Kleinberg
+ | first3  = Robert
+ | last4   = Joachims
+ | first4  = Thorsten
+ | volume  = 78
+ | issue   = 5
+ | pages   = 1538–1556
+ | title   = Journal of Computer and System Sciences
+ | chapter = The K-armed Dueling Bandits Problem
+ | year    = 2012
+ | doi=10.1016/j.jcss.2011.12.028
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Yue2011ICML:BTM&quot;&gt;
+{{citation
+ | last1   = Yue
+ | first1  = Yisong
+ | last2   = Joachims
+ | first2  = Thorsten
+ | title   = Proceedings of ICML'11
+ | chapter = Beat the Mean Bandit
+ | year    = 2011
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Urvoy2013ICML:SAVAGE&quot;&gt;
+{{citation
+ | url     = http://www.jmlr.org/proceedings/papers/v28/urvoy13.pdf
+ | last1   = Urvoy
+ | first1  = Tanguy
+ | last2   =  Clérot
+ | first2  = Fabrice
+ | last3   = Féraud
+ | first3  = Raphaël
+ | last4   = Naamane  
+ | first4  = Sami
+ | title   = Proceedings of the 30th International Conference on Machine Learning (ICML-13)
+ | chapter = Generic Exploration and K-armed Voting Bandits
+ | year    = 2013
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Zoghi2014ICML:RUCB&quot;&gt;
+{{citation
+ | url     = http://www.jmlr.org/proceedings/papers/v32/zoghi14.pdf
+ | last1   = Zoghi
+ | first1  = Masrour 
+ | last2   =  Whiteson
+ | first2  = Shimon
+ | last3   = Munos
+ | first3  = Remi
+ | last4   = Rijke  
+ | first4  = Maarten D
+ | title   = Proceedings of the 31st International Conference on Machine Learning (ICML-14)
+ | chapter = Relative Upper Confidence Bound for the $K$-Armed Dueling Bandit Problem
+ | year    = 2014
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Gajane2015ICML:REX3&quot;&gt;
+{{citation
+ | url     = http://jmlr.org/proceedings/papers/v37/gajane15.pdf
+ | last1   = Gajane
+ | first1  = Pratik
+ | last2  = Urvoy
+ | first2  = Tanguy
+ | last3   =  Clérot
+ | first3  = Fabrice
+ | title   = Proceedings of the 32nd International Conference on Machine Learning (ICML-15)
+ | chapter = A Relative Exponential Weighing Algorithm for Adversarial Utility-based Dueling Bandits
+ | year    = 2015
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Zoghi2015NIPS:CDB&quot;&gt;
+{{citation
+ | arxiv     = 1506.00312| last1   = Zoghi
+ | first1  = Masrour 
+ | last2   =  Karnin
+ | first2  =  Zohar S
+ | last3   = Whiteson
+ | first3  =  Shimon
+ | last4   =  Rijke 
+ | first4  = Maarten D
+ | title   = Advances in Neural Information Processing Systems, NIPS'15
+ | chapter = Copeland Dueling Bandits
+ | year    = 2015
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Komiyama2015COLT:DB&quot;&gt;
+{{citation
+ | url     = http://jmlr.org/proceedings/papers/v40/Komiyama15.pdf
+ | last1   = Komiyama
+ | first1  = Junpei 
+ | last2   =  Honda
+ | first2  =  Junya
+ | last3   =  Kashima
+ | first3  = Hisashi
+ | last4   =  Nakagawa
+ | first4  =  Hiroshi
+ | title   = Proceedings of The 28th Conference on Learning Theory
+ | chapter = Regret Lower Bound and Optimal Algorithm in Dueling Bandit Problem
+ | year    = 2015
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Wu2016DTS&quot;&gt;
+{{citation
+ | arxiv       = 1604.07101| last1     = Wu
+ | first1    = Huasen
+ | last2     = Liu
+ | first2    = Xin
+ | title     = Double Thompson Sampling for Dueling Bandits
+ | journal   = The 30th Annual Conference on Neural Information Processing Systems (NIPS) 
+ | year      = 2016
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;AUCBDB&quot;&gt;
+{{citation
+ | last1   = Bouneffouf
+ | first1  = Djallel
+ | last2   = Feraud
+ | first2  = Raphael 
+ | title   = Neurocomputing
+ | chapter = Multi-armed bandit problem with known trend
+ | year    = 2016
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;GLZ2014CLUB&quot;&gt;
+{{citation
+ | arxiv     = 1401.8257| last1   = Gentile
+ | first1  = Claudio
+ | last2   =  Li
+ | first2  =  Shuai 
+ | last3   =  Zappella 
+ | first3  = Giovanni 
+ | title   = The 31st International Conference on Machine Learning, Journal of Machine Learning Research (ICML 2014)
+ | chapter = Online Clustering of Bandits
+ | year    = 2014
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;KSL2016DCCB&quot;&gt;
+{{citation
+ | arxiv     = 1604.07706| last1   = Korda
+ | first1  = Nathan Korda
+ | last2   =  Szorenyi
+ | first2  =  Balazs 
+ | last3   =  Li 
+ | first3  = Shuai 
+ | title   = The 33rd International Conference on Machine Learning, Journal of Machine Learning Research (ICML 2016)
+ | chapter = Distributed Clustering of Linear Bandits in Peer to Peer Networks
+ | year    = 2016
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;LKG2016COFIBA&quot;&gt;
+{{citation
+ | arxiv     = 1502.03473| last1   = Li
+ | first1  = Shuai
+ | last2   =  Alexandros
+ | first2  =  Karatzoglou 
+ | last3   =  Gentile
+ | first3  = Claudio
+ | title   = The 39th International ACM SIGIR Conference on Information Retrieval (SIGIR 2016)
+ | chapter = Collaborative Filtering Bandits
+ | year    = 2016
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;farias2011irrevocable&quot;&gt;
+{{citation
+ | url = http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.380.6983&amp;rep=rep1&amp;type=pdf
+ | title=The irrevocable multiarmed bandit problem
+ | last1 = Farias | first1 = Vivek F | first2 = Madan | last2 = Ritesh
+ | journal=[[Operations Research (journal)|Operations Research]]
+ | volume=59
+ | number=2
+ | pages=383–399
+ | year= 2011
+}}
+&lt;/ref&gt;
+
+&lt;/references&gt;
+
+==Further reading==
+*{{Cite journal | last1 = Guha | first1 = S. | last2 = Munagala | first2 = K. | last3 = Shi | first3 = P. | title = Approximation algorithms for restless bandit problems | doi = 10.1145/1870103.1870106 | journal = Journal of the ACM | volume = 58 | pages = 1–50 | year = 2010 | pmid =  | pmc = }}
+*{{citation
+ | last1 = Dayanik | first1 = S.
+ | last2 = Powell | first2 = W.
+ | last3 = Yamazaki | first3 = K.
+ | doi = 10.1239/aap/1214950209
+ | issue = 2
+ | journal = Advances in Applied Probability
+ | pages = 377–400
+ | title = Index policies for discounted bandit problems with availability constraints
+ | volume = 40
+ | year = 2008}}.
+*{{citation
+ | last = Powell | first = Warren B.
+ | contribution = Chapter 10
+ | isbn = 0-470-17155-3
+ | location = New York
+ | publisher = John Wiley and Sons
+ | title = Approximate Dynamic Programming: Solving the Curses of Dimensionality
+ | year = 2007}}.
+*{{citation
+ | last = Robbins | first = H. | author-link = Herbert Robbins
+ | doi = 10.1090/S0002-9904-1952-09620-8
+ | journal = [[Bulletin of the American Mathematical Society]]
+ | pages = 527–535
+ | title = Some aspects of the sequential design of experiments
+ | volume = 58  | year = 1952  | issue = 5}}.
+*{{citation
+ | last1 = Sutton | first1 = Richard
+ | last2 = Barto | first2 = Andrew
+ | isbn = 0-262-19398-1
+ | publisher = MIT Press
+ | title = Reinforcement Learning
+ | url = http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html
+ | year = 1998}}.
+
+*{{citation
+ | last = Allesiardo  | first = Robin
+ | contribution = A Neural Networks Committee for the Contextual Bandit Problem
+ | pages = 374–381
+ | publisher = Springer
+ | series = Lecture Notes in Computer Science
+ | title = Neural Information Processing - 21st International Conference, ICONIP 2014, Malaisia, November 03-06,2014, Proceedings
+ | volume = 8834
+ | year = 2014
+ | isbn = 978-3-319-12636-4
+ | doi=10.1007/978-3-319-12637-1_47}}.
+
+*{{citation
+ | last = Bouneffouf  | first = Djallel
+ | contribution = A Contextual-Bandit Algorithm for Mobile Context-Aware Recommender System
+ | pages = 324–331
+ | publisher = Springer
+ | series = Lecture Notes in Computer Science
+ | title = Neural Information Processing - 19th International Conference, ICONIP 2012, Doha, Qatar, November 12-15,2012, Proceedings, Part III
+ | volume = 7665
+ | year = 2012
+ | url = http://link.springer.com/chapter/10.1007%2F978-3-642-34487-9_40
+ | isbn = 978-3-642-34486-2
+ | doi=10.1007/978-3-642-34487-9_40}}.
+* {{citation
+ | last = Weber | first = Richard
+ | issue = 4
+ | journal = [[Annals of Applied Probability]]
+ | pages = 1024–1033
+ | title = On the Gittins index for multiarmed bandits
+ | volume = 2
+ | year = 1992
+ | jstor=2959678
+ | doi = 10.1214/aoap/1177005588}}.&lt;!-- &quot;The proof from God&quot; according to Whittle's survey of applied probability --&gt;
+* {{Citation
+|author=[[Michael N. Katehakis|Katehakis, M.]] and C. Derman
+|title=Computing Optimal Sequential Allocation Rules in Clinical Trials
+|journal=IMS Lecture Notes-Monograph Series
+|volume=8
+|year=1986
+|pages=29–39
+|jstor= 4355518
+|postscript=.
+|doi=10.1214/lnms/1215540286
+}}
+* {{Citation
+|author=[[Michael N. Katehakis|Katehakis, M.]] and  A. F. Veinott, Jr.
+|title=The multi-armed bandit problem: decomposition and computation
+|journal=Mathematics of Operations Research
+|volume=12
+|year=1987
+|pages=262–268
+|jstor= 3689689
+|issue=2
+|doi=10.1287/moor.12.2.262
+|postscript=.
+}}
+
+==External links==
+*[http://mloss.org/software/view/415/ PyMaBandits], [[Open-Source]] implementation of bandit strategies in Python and Matlab
+*[http://bandit.sourceforge.net bandit.sourceforge.net Bandit project ], Open-Source implementation of bandit strategies
+*[https://github.com/jkomiyama/banditlib Banditlib], [[Open-Source]] implementation of bandit strategies in C++
+* [http://www.cs.washington.edu/research/jair/volume4/kaelbling96a-html/node6.html Leslie Pack Kaelbling and Michael L. Littman (1996). Exploitation versus Exploration: The Single-State Case]
+* Tutorial: Introduction to Bandits: Algorithms and Theory. [http://techtalks.tv/talks/54451/ Part1]. [http://techtalks.tv/talks/54455/ Part2].
+* [http://www.feynmanlectures.info/exercises/Feynmans_restaurant_problem.html Feynman's restaurant problem], a classic example (with known answer) of the exploitation vs. exploration tradeoff.
+* [http://www.chrisstucchio.com/blog/2012/bandit_algorithms_vs_ab.html Bandit algorithms vs. A-B testing].
+* [http://homes.di.unimi.it/~cesabian/Pubblicazioni/banditSurvey.pdf S. Bubeck and N. Cesa-Bianchi A Survey on Bandits]
+* [http://www.cs.cmu.edu/~lizhou/files/contextual_bandit_survey.pdf A Survey on Contextual Multi-armed Bandits], a survey/tutorial for Contextual Bandits.
+
+{{DEFAULTSORT:Multi-Armed Bandit}}
+[[Category:Sequential methods]]
+[[Category:Sequential experiments]]
+[[Category:Stochastic optimization]]
+[[Category:Machine learning]]</text>
+      <sha1>tbgfoxbzec029yhphr19a3lkv1s4dor</sha1>
+    </revision>
+  </page>
+</mediawiki>

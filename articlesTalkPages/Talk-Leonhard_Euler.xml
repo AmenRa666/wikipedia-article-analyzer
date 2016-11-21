@@ -1,0 +1,151 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Leonhard Euler</title>
+    <ns>1</ns>
+    <id>17953</id>
+    <revision>
+      <id>731536223</id>
+      <parentid>731426931</parentid>
+      <timestamp>2016-07-26T00:05:14Z</timestamp>
+      <contributor>
+        <username>Lowercase sigmabot III</username>
+        <id>17518500</id>
+      </contributor>
+      <minor/>
+      <comment>Archiving 1 discussion(s) to [[Talk:Leonhard Euler/Archive 2]]) (bot</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5647">{{Talk header}}
+{{Vital article|level=3|topic=People|class=FA}}
+{{article history
+|action1=FAC
+|action1date=17:10, 5 July 2006
+|action1link=Wikipedia:Featured article candidates/Leonhard Euler/archive1
+|action1result=not promoted
+|action1oldid=62207202
+
+|action2=FAC
+|action2date=15:04, 7 October 2006
+|action2link=Wikipedia:Featured article candidates/Leonhard Euler
+|action2result=promoted
+|action2oldid=80034102
+
+|currentstatus=FA
+|maindate=November 11, 2006
+|otddate=2007-04-15
+|otdoldid=123038891
+}}
+{{WikiProjectBannerShell|1={{WikiProject Biography|living=no|class=FA|s&amp;a-priority=Top|core=yes|s&amp;a-work-group=yes|listas=Euler, Leonhard}}
+{{WikiProject History of Science|class=FA|importance=High}}
+{{maths rating|frequentlyviewed=yes|vital=Y|class=FA|importance=top|field=mathematician|portal=Y}}
+{{WikiProject Physics|class=FA|importance=high|fluid-dynamics=yes|bio=yes}}
+{{WikiProject Russia|class=FA|importance=Top|sci=yes}}
+{{WikiProject Switzerland|class=FA|importance=High}}
+{{WikiProject Christianity|class=FA|importance=low|theology-work-group=yes|theology-importance=Low|saints=yes|saints-importance=Low}}
+{{WikiProject Education|class=FA|importance=mid}}
+{{WikiProject Systems|class=FA|importance=mid|field=Visualization}}
+{{WP1.0|v0.5=pass|class=FA|importance=high|category=Math|VA=yes}}
+{{WikiProject Music Theory|class=FA|importance=mid}} }}
+{{User:MiszaBot/config
+| algo=old(365d)
+| archive=Talk:Leonhard Euler/Archive %(counter)d
+| counter=2
+| maxarchivesize=75K
+| archiveheader={{Automatic archive navigator}}
+| minthreadsleft=5
+| minthreadstoarchive=1
+}}
+{{Archive box|auto=yes}}
+
+== Mechanical Engineering ==
+
+Euler made important formulae for the buckling of colums which are not dicussed here.
+
+== Expressions That May Lead to Confusion ==
+
+Section 2.1 Mathematical notation, line 3: He also introduced ... the letter e for the base of the natural logarithm (now also known as Euler's number)
+
+Section 2.5 ... describing numerous applications of ... Euler numbers
+
+It is hard to distinguish between Euler's number and Euler number. Although there are seperate pages devoted to the two concepts, this may still lead to confusion for beginners and those who use English as a foreign language. Shouldn't there be &quot;see also&quot; links behind both expressions?
+
+-- [[User:Dale Zhong]] 14:59, 7 July 2007 (GMT+0800)
+
+== [[TYPO]] in footnote, in the &lt;nowiki&gt;{{Infobox scientist}}&lt;/nowiki&gt; ==
+
+In the article, near the end of the &lt;nowiki&gt;{{Infobox scientist}}&lt;/nowiki&gt;, (under &quot;Notes&quot;), there are two sentences, and the second one says &quot;He is listed by an academic genealogy as the equivalent to the doctoral advisor of Joseph Louis Lagrange.[1]&quot;. 
+
+The problem is, in the footnote.  The footnote says:&lt;blockquote&gt;Leonhard Euler at the Mathematics Genealogy Project&lt;/blockquote&gt;;  but it is coded using a macro, that (&quot;via&quot; the use of the ref &quot;name&quot; '''mathg'''), amounts to this: &lt;code&gt;&lt;nowiki&gt;{{MathGenealogy|id=17864}}&lt;/nowiki&gt;&lt;/code&gt; ...which '''displays as''' this: 
+{{MathGenealogy|id=17864}} 
+
+...which is '''NOT''' the &quot;MathGenealogy&quot; entry for Leonhard Euler (that would be &quot;38586&quot;, not &quot;17864&quot;).   It is the &quot;MathGenealogy&quot; entry for &quot;Joseph Louis Lagrange&quot;. 
+
+There are various ways that this could be remedied ... either change the name (it probably &quot;defaults&quot; to the name of this article ... but there might be an &quot;optional&quot; parameter, to the &quot;MathGenealogy&quot; macro or 'template', to over-ride that...) ... OR, to just change the number. 
+
+[[IMHO]], the simplest (and best) solution, would be to just change the number -- from &quot;17864&quot; to &quot;38586&quot;. 
+
+Thus: 
+{{MathGenealogy|id=38586}}
+
+However, never having (yet) edited this article, (or else I've forgotten), I would like to get consensus first before proceeding.  Tacit consensus (consisting of &quot;NO REPLIES at all&quot;) [or, only replies ridiculing the hesitancy] will be interpreted (by me) as a [[special case]] of that (kind of [sufficient]) consensus. 
+
+Any advice, or other comments, would be appreciated. --[[User:Mike Schwartz|Mike Schwartz]] ([[User talk:Mike Schwartz|talk]]) 23:55, 26 February 2015 (UTC)
+
+== Removal of religious beliefs from lede ==
+
+{{ping|Smk65536}} Euler's religious beliefs have been removed from the lede, see [https://en.wikipedia.org/w/index.php?title=Leonhard_Euler&amp;type=revision&amp;diff=667789857&amp;oldid=667619122 diff]. The lede is supposed to summarize the article, which was a section on 'personal beliefs', therefore a mention in the led is appropriate. [[User:Jonpatterns|Jonpatterns]] ([[User talk:Jonpatterns|talk]]) 17:47, 20 June 2015 (UTC)
+
+: It does need to be proportionate compared to his other contributions, which is only briefly mentioned in the lede. This is why I do not think the religious part is relevant enough. [[User:Smk65536|Smk65536]] ([[User talk:Smk65536|talk]]) 18:01, 20 June 2015 (UTC)
+
+== &quot;Euler is the only mathematician to have two numbers named after him&quot; ==
+
+[[Feigenbaum constants]]? [[User:Double sharp|Double sharp]] ([[User talk:Double sharp|talk]]) 07:42, 25 July 2016 (UTC)
+
+:[[Paul Erdős]] ? ([http://search.proquest.com/openview/dfc9b5fd2540ccfb8f83c3af737a119e/1?pq-origsite=gscholar&amp;cbl=2034877 Erdős constant], [[Copeland-Erdős constant]], [[Erdős-Borwein constant]], [https://books.google.ch/books?id=swb2c9enRJcC&amp;pg=PA209&amp;lpg=PA209&amp;dq=Erdos+constant+-copeland+-borwein&amp;source=bl&amp;ots=KuS9zlimu2&amp;sig=2UWzYr9TT24dGlWn-inL8k_fbe0&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiWiKqNmo7OAhXGVhQKHdb0D1IQ6AEILDAC#v=onepage&amp;q=Erdos%20constant%20-copeland%20-borwein&amp;f=false Mayer-Erdős Constant]). And there are probably others. [[User:Sapphorain|Sapphorain]] ([[User talk:Sapphorain|talk]]) 08:42, 25 July 2016 (UTC)</text>
+      <sha1>isu8sts6oevmzsh5m8npoa239xj39j4</sha1>
+    </revision>
+  </page>
+</mediawiki>

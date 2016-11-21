@@ -10,6 +10,7 @@ var async = require('async')
 var time = require('node-tictoc')
 var jsonfile = require('jsonfile')
 var mkdirp = require('mkdirp')
+var sanitize = require("sanitize-filename");
 // Analizer
 var articleAnalyzer = require('./articleAnalyzer.js')
 // Database Agent
@@ -104,7 +105,7 @@ const load = (file, cb) => {
               console.log('ID: ' + id);
 
               // Article title
-              var title = textWithTitleAndSectionTitles.substring(0, textWithTitleAndSectionTitles.indexOf("\n"))
+              var title = sanitize(textWithTitleAndSectionTitles.substring(0, textWithTitleAndSectionTitles.indexOf("\n")))
               console.log('Title: ' + title);
               console.log('- - - - - - - - - - - - - - - - - - - -')
 
@@ -190,7 +191,8 @@ const load = (file, cb) => {
                 var styleFeatures = articleJSON.features.styleFeatures
                 var readabilityFeatures = articleJSON.features.readabilityFeatures
                 var lexicalFeatures = articleJSON.features.lexicalFeatures
-                var trigrams = articleJSON.features.trigrams
+                var posTrigrams = articleJSON.features.posTrigrams
+                var charTrigrams = articleJSON.features.charTrigrams
 
                 var article = {
                   id: id,
@@ -324,29 +326,82 @@ const load = (file, cb) => {
                   differentSubordinatingPrepositionsAndConjunctionsDifferentWordsRatio: lexicalFeatures.differentSubordinatingPrepositionsAndConjunctionsDifferentWordsRatio,
                   syllablesPerWord: lexicalFeatures.syllablesPerWord,
                   charactersPerWord: lexicalFeatures.charactersPerWord,
-                  // TRIGRAMS
-                  posTrigrams: trigrams.posTrigrams,
-                  characterTrigrams: trigrams.characterTrigrams,
+                  //POS Trirgams
+                  "DT,NNP,NNP": posTrigrams["DT,NNP,NNP"],
+                  "NNP,NNP,NNP": posTrigrams["NNP,NNP,NNP"],
+                  "DT,NN,IN": posTrigrams["DT,NN,IN"],
+                  "NN,IN,DT": posTrigrams["NN,IN,DT"],
+                  "IN,DT,NNP": posTrigrams["IN,DT,NNP"],
+                  "NNP,NNP,IN": posTrigrams["NNP,NNP,IN"],
+                  "NNP,IN,NNP": posTrigrams["NNP,IN,NNP"],
+                  "NNP,IN,DT": posTrigrams["NNP,IN,DT"],
+                  "IN,DT,NN": posTrigrams["IN,DT,NN"],
+                  "DT,NN,VBD": posTrigrams["DT,NN,VBD"],
+                  "NNS,IN,DT": posTrigrams["NNS,IN,DT"],
+                  "NNP,NNP,VBD": posTrigrams["NNP,NNP,VBD"],
+                  "JJ,NN,IN": posTrigrams["JJ,NN,IN"],
+                  "IN,DT,JJ": posTrigrams["IN,DT,JJ"],
+                  "DT,JJ,NN": posTrigrams["DT,JJ,NN"],
+                  "NN,IN,NNP": posTrigrams["NN,IN,NNP"],
+                  "IN,NNP,NNP": posTrigrams["IN,NNP,NNP"],
+                  "VBD,DT,NN": posTrigrams["VBD,DT,NN"],
+                  "VBD,VBN,IN": posTrigrams["VBD,VBN,IN"],
+                  "VBN,IN,DT": posTrigrams["VBN,IN,DT"],
+                  "NN,IN,NN": posTrigrams["NN,IN,NN"],
+                  "IN,NN,IN": posTrigrams["IN,NN,IN"],
+                  "JJ,NNS,IN": posTrigrams["JJ,NNS,IN"],
+                  "NN,CC,NN": posTrigrams["NN,CC,NN"],
+                  "IN,JJ,NNS": posTrigrams["IN,JJ,NNS"],
+                  "IN,DT,NNS": posTrigrams["IN,DT,NNS"],
+                  "TO,VB,DT": posTrigrams["TO,VB,DT"],
+                  "DT,NN,NN": posTrigrams["DT,NN,NN"],
+                  "NNP,NNP,CC": posTrigrams["NNP,NNP,CC"],
+                  "IN,JJ,NN": posTrigrams["IN,JJ,NN"],
+                  "NNP,CC,NNP": posTrigrams["NNP,CC,NNP"],
+                  "NNP,POS,NN": posTrigrams["NNP,POS,NN"],
+                  "NN,IN,JJ": posTrigrams["NN,IN,JJ"],
+                  // Char Trigrams
+                  "he_": charTrigrams["he_"],
+                  "ing": charTrigrams["ing"],
+                  "ng_": charTrigrams["ng_"],
+                  "_th": charTrigrams["_th"],
+                  "the": charTrigrams["the"],
+                  "_of": charTrigrams["_of"],
+                  "of_": charTrigrams["of_"],
+                  "in_": charTrigrams["in_"],
+                  "_in": charTrigrams["_in"],
+                  "ion": charTrigrams["ion"],
+                  "on_": charTrigrams["on_"],
+                  "ed_": charTrigrams["ed_"],
+                  "_an": charTrigrams["_an"],
+                  "and": charTrigrams["and"],
+                  "nd_": charTrigrams["nd_"],
+                  "er_": charTrigrams["er_"],
+                  "_to": charTrigrams["_to"],
+                  "to_": charTrigrams["to_"],
+                  "as_": charTrigrams["as_"],
                   // Quality Class
                   qualityClass: qualityClass
                 }
 
+                dbAgent.insertArticle(article, cb)
+
                 // Print trigrams
-                var trigramObj = {
-                  posTrigrams: trigrams.posTrigrams,
-                  characterTrigrams: trigrams.characterTrigrams,
-                  qualityClass: qualityClass
-                }
-                var fileToSave = id + '.json'
-                var trigramPath = 'trigrams/'
-                mkdirp(trigramPath, (err) => {
-                  if (err) throw err
-                  jsonfile.writeFile(trigramPath + fileToSave, trigramObj, {spaces: 2}, (err) => {
-                    if (err) throw err
-                    // Save the article in MongoDB
-                    dbAgent.insertArticle(article, cb)
-                  })
-                })
+                // var trigramObj = {
+                //   posTrigrams: trigrams.posTrigrams,
+                //   characterTrigrams: trigrams.characterTrigrams,
+                //   qualityClass: qualityClass
+                // }
+                // var fileToSave = id + '.json'
+                // var trigramPath = 'trigrams/'
+                // mkdirp(trigramPath, (err) => {
+                //   if (err) throw err
+                //   jsonfile.writeFile(trigramPath + fileToSave, trigramObj, {spaces: 2}, (err) => {
+                //     if (err) throw err
+                //     // Save the article in MongoDB
+                //     dbAgent.insertArticle(article, cb)
+                //   })
+                // })
 
               })
 

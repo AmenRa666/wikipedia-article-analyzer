@@ -1,0 +1,212 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Pseudoryzomys</title>
+    <ns>0</ns>
+    <id>6899422</id>
+    <revision>
+      <id>729956257</id>
+      <parentid>726993259</parentid>
+      <timestamp>2016-07-15T19:06:51Z</timestamp>
+      <contributor>
+        <username>Bender235</username>
+        <id>88026</id>
+      </contributor>
+      <minor/>
+      <comment>clean up; http-&gt;https (see [[WP:VPR/Archive 127#RfC: Should we convert existing Google and Internet Archive links to HTTPS?|this RfC]]) using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="32049">{{pp-move-indef}}
+{{italic title}}{{Taxobox | name = ''Pseudoryzomys simplex''
+| status = LC | status_system = IUCN3.1
+| status_ref = &lt;ref name=iucn&gt;Percequillo et al., 2008&lt;/ref&gt;
+| image = Pseudoryzomys simplex type.png
+| image_width = 200px
+| image_alt = From top to bottom: side view of skull with mandible, missing much of the posterior part; text &quot;1. Hesperomys simplex&quot;; and views of the same skull from above and below.
+| image_caption = [[Lectotype]] skull as illustrated by Winge in 1887.
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Mammal]]ia
+| ordo = [[Rodent]]ia
+| familia = [[Cricetidae]]
+| subfamilia = [[Sigmodontinae]]
+| tribus = [[Oryzomyini]]
+| genus = '''''Pseudoryzomys'''''
+| genus_authority = [[Philip Hershkovitz|Hershkovitz]], 1962{{#tag:ref|Hershkovitz introduced the genus name ''Pseudoryzomys'' in a 1959 article, but failed to make the name available under the [[International Code of Zoological Nomenclature]], because he did not explicitly name the diagnostic characteristics of the genus. In his 1962 monograph on [[Phyllotini|phyllotine]] rodents, Hershkovitz properly identified diagnostic characters, making the name formally available for the first time.  Accordingly, the correct year of publication for ''Pseudoryzomys'' is 1962, not 1959.&lt;ref&gt;Voss and Myers, 1991, p.&amp;nbsp;418&lt;/ref&gt;|group=&quot;fn&quot;}}
+| species = '''''P.&amp;nbsp;simplex'''''
+| binomial = ''Pseudoryzomys simplex''
+| binomial_authority = ([[Herluf Winge|Winge]], 1887)
+| synonyms =
+*''Hesperomys simplex'' &lt;small&gt;Winge, 1887&lt;/small&gt;
+*''Oryzomys simplex'': &lt;small&gt;Trouessart, 1898&lt;/small&gt;
+*''Oryzomys wavrini'' &lt;small&gt;Thomas, 1921&lt;/small&gt;
+*''Pseudoryzomys wavrini'': &lt;small&gt;Hershkovitz, 1959&lt;/small&gt;
+*''Pseudoryzomys wavrini reigi'' &lt;small&gt;Pine and Wetzel, 1975&lt;/small&gt;
+*''Pseudoryzomys simplex'': &lt;small&gt;Massoia, 1980
+|range_map=Pseudoryzomys distribution.png
+|range_map_alt=Map of South America, with a contiguous red area extending over northeastern Argentina, much of Paraguay, and eastern Bolivia, east into northeastern Brazil; and a small blue area in eastern Argentina.
+|range_map_caption=Distribution of ''Pseudoryzomys'' in South America (in red); fossil record from Cueva Tixi, eastern Argentina, in blue.
+}}
+'''''Pseudoryzomys simplex''''', also known as the '''Brazilian false rice rat'''&lt;ref name=iucn/&gt; or '''false oryzomys''',&lt;ref&gt;Musser and Carleton, 2005, p. 1164&lt;/ref&gt; is a [[species]] of [[rodent]] in the family [[Cricetidae]] from south-central [[List of South American mammals|South America]]. It is found in lowland [[Tropical and subtropical grasslands, savannas, and shrublands|palm savanna and thorn scrub]] [[habitat]]s. It is a medium-sized species, weighing about {{convert|50|g|oz|1|sp=us}}, with gray–brown fur, long and narrow hindfeet, and a tail that is about as long as the head and body. The [[International Union for Conservation of Nature|IUCN]] has assessed its conservation status as being of [[least concern]], although almost nothing is known of its diet or reproduction.
+
+The [[monotypic|only species]] in the [[genus]] '''''Pseudoryzomys''''', its closest living relatives are the large rats ''[[Holochilus]]'' and ''[[Lundomys]]'', which are [[semiaquatic]], spending much of their time in the water. The three genera share several characters, including specializations towards a semiaquatic lifestyle, such as the presence of membranes between the digits ([[interdigital webbing]]), and a reduction in the complexity of the [[molar (tooth)|molar]] crowns, both of which are at incipient stages in ''Pseudoryzomys''. Together, they form a unique assemblage within the [[Oryzomyini|oryzomyine]] tribe, a very diverse group including over one hundred species, mainly in South America. This tribe is part of the subfamily [[Sigmodontinae]] and family [[Cricetidae]], which include many more species, mainly from Eurasia and the Americas. ''Pseudoryzomys simplex'' was independently described in 1887 on the basis of subfossil cave specimens from Brazil (as ''Hesperomys simplex''); and in 1921 on the basis of a live specimen from Paraguay (as ''Oryzomys wavrini''). This was confirmed in 1991 that both names pertained to the same species.
+
+==Taxonomy==
+
+===Discovery and recognition===
+''Pseudoryzomys simplex'' has had a complex [[Taxonomy (biology)|taxonomic]] history. It was first described in 1887 by Danish zoologist [[Herluf Winge]],&lt;ref&gt;Winge, 1887&lt;/ref&gt; who reviewed the materials [[Peter Wilhem Lund]] had collected in the caves of [[Lagoa Santa, Minas Gerais|Lagoa Santa]], [[Minas Gerais]], [[Brazil]]. Winge described the species as ''Hesperomys simplex'', and placed it in the same [[genus]] (''[[Hesperomys]]'') as the species now called ''[[Lundomys|Lundomys molitor]]'' and two species now placed in ''[[Vesper mouse|Calomys]]''. Like most [[Lund's mammals of Lagoa Santa|other species]] Winge proposed, ''H.&amp;nbsp;simplex'' was mostly ignored in the systematic literature, but from 1952 it was used briefly, in the combination &quot;''Oecomys simplex''&quot;, for an ''[[Oecomys]]'' species from central Brazil.&lt;ref&gt;Voss and Carleton, 1993, p.&amp;nbsp;31&lt;/ref&gt; In his 1960 review of ''Oecomys'', [[Field Museum of Natural History|Field Museum]] mammalogist [[Philip Hershkovitz]] denied any affinities between ''simplex'' and ''Oecomys'', noting that various features of the ''H.&amp;nbsp;simplex'' skull illustrated by Winge instead suggested affinities to the [[Phyllotini|phyllotine]] or [[Sigmodontini|sigmodont]] groups.&lt;ref&gt;Hershkovitz, 1960, pp.&amp;nbsp;519–520&lt;/ref&gt;
+
+In 1921, renowned British mammalogist [[Oldfield Thomas]] described ''Oryzomys wavrini'' as a new species of ''[[Oryzomys]]'' from Paraguay. In the next decades, it was viewed as an aberrant species of ''Oryzomys'' (then used in a much broader sense than now),&lt;ref name=VM424/&gt; but it was moved to a separate genus, named ''Pseudoryzomys'', by Hershkovitz in 1959, who noted that although it is similar to ''[[marsh rice rat|Oryzomys palustris]]'' in appearance, other features suggest it is more closely related to ''[[Phyllotis]]''.&lt;ref name=H59&gt;Hershkovitz, 1959, pp. 8–9&lt;/ref&gt; Thus, he viewed the animal as a member of the phyllotine group of rodents, which includes ''Calomys'' and ''Phyllotis'', not of the [[Oryzomyini|oryzomyine]] group, which includes ''Oryzomys'',&lt;ref&gt;Hershkovitz, 1962, p.&amp;nbsp;208&lt;/ref&gt; and his opinion was mostly accepted in the next few decades. Scientific knowledge of the rare ''Pseudoryzomys wavrini''—only three specimens were known when Hershkovitz described the genus ''Pseudoryzomys'' in 1959&lt;ref&gt;Hershkovitz, 1959, p.&amp;nbsp;9&lt;/ref&gt;—increased in the following years, and in 1975 the [[Bolivia]]n population was named as a separate [[subspecies]], ''Pseudoryzomys wavrini reigi'', because Bolivian animals are slightly larger and darker than those from Paraguay.&lt;ref name=VM424/&gt;
+
+In 1980, Argentinean zoologist Elio Massoia suggested that Winge's ''Hesperomys simplex'' and the living ''Pseudoryzomys wavrini'' are in fact the same species. In a 1991 study, American zoologists Voss and Myers confirmed this suggestion after re-examining Winge's material, finding no appreciable differences among specimens of ''H. simplex'' and ''P. wavrini''. Since then, the species has been known as ''Pseudoryzomys simplex'' (Winge, 1887), because ''simplex'' is the oldest [[specific name (zoology)|specific name]] for the animal; ''Oryzomys wavrini'' Thomas, 1921, and ''Pseudoryzomys wavrini reigi'' Pine and Wetzel, 1975, are [[synonym (taxonomy)|junior synonym]]s. Voss and Myers also re-evaluated the relationships of ''Pseudoryzomys''; they considered it closer to oryzomyines than to phyllotines, but declined to formally place it in Oryzomyini in the absence of explicit [[phylogenetics|phylogenetic]] justification for such a placement.&lt;ref name=VM423&gt;Voss and Myers, 1991, p. 423&lt;/ref&gt;
+
+===Oryzomyine relationships===
+{{cladogram|align=left|caption=Relationships of ''Pseudoryzomys'' based on morphology (top) and [[RBP3|IRBP]] (bottom).&lt;ref&gt;Weksler, 2006, figs. 34–36&lt;/ref&gt;
+|clades={{clade|label1=[[Oryzomyini]]&amp;nbsp;
+               |1={{clade|1=Other Oryzomyini
+                         |2={{clade|1=''[[Oryzomys]]''
+                                   |2={{clade|1='''''Pseudoryzomys'''''
+                                             |2={{clade|1=''[[Lundomys]]''|2=''[[Holochilus]]''}}
+                                      }}
+                            }}
+                  }}
+        }}
+{{clade|label1=[[Oryzomyini]]&amp;nbsp;
+               |1={{clade|1=Other Oryzomyini
+                         |2={{clade|1=''[[Lundomys]]''
+                                   |2={{clade|1='''''Pseudoryzomys'''''|2=''[[Holochilus]]''}}
+                            }}
+                  }}
+        }}
+}}
+When Voss and Carleton formally characterized Oryzomyini two years later, they did place ''Pseudoryzomys'' in the group, even though it lacks complete [[mesoloph]](id)s. The mesoloph is an accessory crest on the upper molars and the mesolophid is the corresponding structure on the lower molars. Only a few other animals now considered oryzomyines lack complete mesoloph(id)s, but they are absent in various non-oryzomyines, some of which had previously been regarded as close relatives of the oryzomyines that lack them. Oryzomyines with and without complete mesoloph(id)s share various other characters, however, including presence of [[mammae]] on the chest, absence of a gall bladder, and some characters of the skull, suggesting that they form one natural, [[monophyly|monophyletic]] group.&lt;ref&gt;Voss and Carleton, 1993, p.&amp;nbsp;31–32&lt;/ref&gt; Oryzomyini is now one of several [[tribe (taxonomy)|tribes]] recognized within the [[subfamily]] [[Sigmodontinae]], which encompasses hundreds of species found across South America and into southern North America. Sigmodontinae itself is the largest subfamily of the family [[Cricetidae]], other members of which include [[vole]]s, [[lemming]]s, [[hamster]]s, and [[Peromyscus|deermice]], all mainly from Eurasia and North America.&lt;ref&gt;Musser and Carleton, 2005, table 1&lt;/ref&gt;
+
+Several [[phylogenetics|phylogenetic]] studies published during the 1990s and 2000s supported a close relationship between ''Pseudoryzomys'' and two other oryzomyines with reduced or absent mesoloph(id)s, ''Lundomys'' and ''[[Holochilus]]''. The extinct genera ''[[Noronhomys]]'' and ''[[Carletonomys]]'', described in 1999 and 2008 respectively, were also recognized as members of the group.&lt;ref&gt;Pardiñas, 2008, p.&amp;nbsp;1275&lt;/ref&gt; In 2006, a broad [[morphology (biology)|morphological]] and [[molecular phylogenetics|molecular]] phylogenetic study of Oryzomyini provided further support for the relationship between ''Holochilus'', ''Lundomys'', and ''Pseudoryzomys''. Within this group, morphological data supported a closer relationship between ''Holochilus'' and ''Lundomys'' to the exclusion of ''Pseudoryzomys'', but DNA sequence data favored a clustering between ''Holochilus'' and ''Pseudoryzomys'' to the exclusion of ''Lundomys''; among all oryzomyines, this was the only case where relationships which received strong support from morphological and DNA sequence data conflicted.&lt;ref&gt;Weksler, 2006, p.&amp;nbsp;72&lt;/ref&gt; Together, the three genera form part of a large group of oryzomyines (&quot;[[Oryzomyini#clade D|clade D]]&quot;), which contains tens of other species. Several of those display some adaptations to life in the water, being partially [[aquatic animal|aquatic]], as do ''Pseudoryzomys'' and its relatives. Morphological data indicate that the genus ''[[Oryzomys]]'' is the closest relative of the group that includes ''Pseudoryzomys'', but DNA sequence data from the nuclear [[RBP3|IRBP]] gene did not support this relationship; [[convergent evolution|convergent]] adaptations towards a semiaquatic lifestyle may explain the morphological support for a relation between ''Oryzomys'' and the other three genera.&lt;ref&gt;Weksler, 2006, p.&amp;nbsp;131&lt;/ref&gt;
+{{clear}}
+
+==Description==
+''Pseudoryzomys simplex'' is a nondescript, medium-sized rat with long, soft fur. The upperparts are gray–brown and the underparts are [[buff (color)|buff]]; the color changes gradually over the body. The small ears are covered with short hairs. The tail is as long as or slightly longer than the head and body and is dark above and light below. Despite the presence of short hairs, the scales on the tail are clearly visible. The hairs on the feet are pale. The hindfeet are long and narrow and have five toes, the first and fifth of which are short.&lt;ref name=VM420&gt;Voss and Myers, 1991, p.&amp;nbsp;420&lt;/ref&gt; [[Interdigital webbing|Webbing]] is present between the second, third, and fourth toes, but the membranes are not as large as in ''Lundomys'' or ''Holochilus''. The [[ungual tufts|tufts of hair]] on the toes and several of the [[Paw#Common characteristics|pads]] are reduced, other common characteristics of semiaquatic oryzomyines.&lt;ref&gt;Weksler, 2006, pp.&amp;nbsp;23–25&lt;/ref&gt; The head-body length is {{convert|94|to|140|mm|in|1|sp=us}}, tail length {{convert|102|to|140|mm|in|1|abbr=on}}, hindfeet length {{convert|27|to|33|mm|in|1|abbr=on}}, ear length {{convert|13|to|19|mm|in|1|abbr=on}} and body mass {{convert|45|to|55|g|oz|1|abbr=on}}.&lt;ref&gt;Voss and Myers, 1991, tables&amp;nbsp;1, 2; Bonvicino et al., 2008, p.&amp;nbsp;54&lt;/ref&gt;
+[[File:Oryzomys palustris.jpg|thumb|right|alt=Rat, yellow–brown above and white below, walking on mesh.|The [[marsh rice rat]] (''Oryzomys palustris'') of the eastern United States is similar in appearance to ''Pseudoryzomys''.&lt;ref name=H59/&gt;]]
+
+The female has four pairs of [[teat]]s, including one on the chest and three on the belly, and the [[gall bladder]] is absent, both important characters of Oryzomyini.&lt;ref&gt;Weksler, 2006, pp.&amp;nbsp;17, 19, 58–59&lt;/ref&gt; As is characteristic of Sigmodontinae, ''Pseudoryzomys'' has a complex penis, with the [[baculum]] (penis bone) displaying large protuberances at the sides. In the [[cartilage|cartilaginous]] part of the baculum, the central digit is smaller than those at the sides.&lt;ref&gt;Weksler, 2006, pp. 55–56&lt;/ref&gt;
+
+===Skull===
+The skull, which is short at the front, shows some typical oryzomyine characters. The [[palate]] is long, extending past the molars and the [[maxilla]]ry bones. The [[alisphenoid strut]], which in some sigmodontines separates two [[foramina of the skull|foramina]] (openings) in the skull, is absent. The [[squamosal]] bone lacks a suspensory [[process (anatomy)|process]] contacting the [[tegmen tympani]], the roof the [[tympanic cavity]]. The front part is short.&lt;ref name=VM422&gt;Voss and Myers, 1991, p.&amp;nbsp;422&lt;/ref&gt;
+
+The [[nasal bone|nasal]] bones end bluntly close to the hindmost extent of the [[premaxillary]] bones.&lt;ref&gt;Weksler, 2006, pp.&amp;nbsp;27–28, table&amp;nbsp;5&lt;/ref&gt; The narrow [[interorbital region]],&lt;ref name=VM422/&gt; located between the eyes, converges towards the front and is flanked by low beads.&lt;ref&gt;Weksler, 2006, pp.&amp;nbsp;28–30, table&amp;nbsp;5&lt;/ref&gt; The [[interparietal]] bone, located in the roof of the skull on the braincase, is nearly as wide as the [[frontal bone|frontals]], but does not reach the squamosals.&lt;ref&gt;Weksler, 2006, p.&amp;nbsp;31&lt;/ref&gt;
+
+The [[incisive foramen|incisive foramina]], which perforate the palate between the [[incisor]]s and the [[molar (tooth)|molars]], are long and narrow, extending between the first molars.&lt;ref&gt;Voss and Myers, 1991, p.&amp;nbsp;422; Weksler, 2006, p.&amp;nbsp;31&lt;/ref&gt; The back margins of the [[zygomatic plate]]s, the flattened front portions of the [[zygomatic arch]]es (cheekbones), are located before the first molars.&lt;ref&gt;Weksler, 2006, p.&amp;nbsp;32, table&amp;nbsp;5&lt;/ref&gt; Like its close relatives ''Lundomys'' and ''Holochilus'', ''Pseudoryzomys'' has spinous processes on its zygomatic plates.&lt;ref&gt;Weksler, 2006, pp.&amp;nbsp;31–32&lt;/ref&gt; These genera also share relatively simple [[posterolateral palatal pit]]s, perforations of the palate near the third molar.&lt;ref&gt;Weksler, 2006, pp.&amp;nbsp;35–36, 131&lt;/ref&gt; Unlike ''Holochilus'' and ''Lundomys'', however, ''Pseudoryzomys'' has a flat palate, lacking a ridge on the middle that extends along the length of the palate.&lt;ref&gt;Weksler, 2006, p.&amp;nbsp;35&lt;/ref&gt; The [[parapterygoid fossa]]e, which are located behind the third molars, are excavated beyond the level of the palate, but not as deeply as in ''Holochilus'' and ''Lundomys''.&lt;ref&gt;Weksler, 2006, p.&amp;nbsp;36&lt;/ref&gt; The [[mastoid]] skull bone contains a conspicuous opening, as in most oryzomyines.&lt;ref name=W41&gt;Weksler, 2006, p.&amp;nbsp;41&lt;/ref&gt;
+
+The [[mandible]] (lower jaw) is short and deep.&lt;ref name=VM422/&gt; The [[mental foramen]], an opening at the front of the mandible, just before the first molar, opens to the side.&lt;ref name=W41/&gt; The [[capsular process]] of the lower incisor, a raising of the mandibular bone at the back end of the incisor, is well developed. The two [[masseteric ridge]]s, to which some of the chewing muscles are attached, are entirely separate, joining only at their front edges, which are located below the first molar.&lt;ref&gt;Weksler, 2006, p.&amp;nbsp;42&lt;/ref&gt;
+
+===Molars===
+[[File:Chaco Boreal Paraguay.jpg|thumb|left|alt=Landscape with grass and scattered trees. The sky is blue, with a few scattered clouds.|''Pseudoryzomys'' was first found as a living animal in the Chaco of Paraguay.&lt;ref name=VM416&gt;Voss and Myers, 1991, p.&amp;nbsp;416&lt;/ref&gt;]]
+As in all oryzomyines except ''Holochilus'' and its close relatives, the molars are [[brachyodont]], low-crowned, and [[bunodont]], with the cusps extending higher than the central parts of the molars.&lt;ref&gt;Weksler, 2006, pp.&amp;nbsp;43–44; Pardiñas, 2008, table 2&lt;/ref&gt; They are characterized by strong cusps and absence or reduction of accessory crests. The cusps of the upper molars are opposite, but in the lower molars the labial (outer) cusps are slightly further to the front than the lingual (inner) ones. On the upper first molar, one accessory ridge, the [[anteroloph]], is lacking, but another, the [[mesoloph]], is present. Unlike in most other oryzomyines, however, which have mesolophs reaching the labial margin of the molar, the mesolophs of ''Pseudoryzomys'' are short and protrude only slightly from the middle of the molar. The corresponding structure in the lower molars, the [[mesolophid]], is completely absent.&lt;ref name=VM422/&gt; The hindmost valley between cusps on the lower first molar, the [[posteroflexid]], is severely reduced, foreshadowing its loss in ''Lundomys'' and ''Holochilus''.&lt;ref name=W52&gt;Weksler, 2006, p.&amp;nbsp;52&lt;/ref&gt; A number of molar traits support ''Pseudoryzomys''{{'}}s relationship with ''Holochilus'' and ''Lundomys'', forming steps in the transition from the complex, low-crowned generalized oryzomyine molar pattern to the simpler, high-crowned pattern of ''Holochilus''.&lt;ref&gt;Weksler, 2006, p. 131; Carleton and Olson, 1999, pp.&amp;nbsp;49–50&lt;/ref&gt;
+
+As in all oryzomyines, the upper molars all have one root on the inner (lingual) side and two on the outer (labial) side; in addition, the first upper molar in ''Pseudoryzomys'' and some other species has another labial root. The first lower molar has large roots at the front and back of the tooth and two smaller ones in between, at the labial and lingual side. The second and third lowers molars have two roots at the front, one labial and one lingual, and another at the back.&lt;ref name=VM422/&gt;
+
+===Postcranial skeleton===
+''Pseudoryzomys'' has 19 or 20&amp;nbsp;[[thoracic vertebrae|thoracic]] (chest) and [[lumbar vertebrae]],&lt;ref name=VM423/&gt; 13 of which bear [[rib]]s, as is characteristic of oryzomyines. The first ribs contact both the [[vertebra prominens|seventh]] cervical (neck) vertebra and the first thoracic vertebra, an important character of the [[Sigmodontinae]].&lt;ref name=W52/&gt; Unlike in most sigmodontines, including ''Holochilus'' and ''Lundomys'', the fourth lumbar vertebra lacks the processes known as [[anapophyses]].&lt;ref name=W53&gt;Weksler, 2006, p.&amp;nbsp;53&lt;/ref&gt; There are three or four [[sacral vertebrae|sacral]] and about 29&amp;nbsp;[[caudal vertebrae|caudal]] (tail) vertebrae.&lt;ref name=VM423/&gt; Between the second and third caudal vertebrae, separate bones called [[hemal arches]] are present. These display a spinous process at the back, as in both ''Holochilus'' and ''Lundomys''.&lt;ref name=W53/&gt; On the [[humerus]], the upper arm bone, the [[entepicondylar foramen]] is absent, as in all members of the [[Sigmodontinae]]; in some other cricetids, it perforates the far (distal) end of the humerus.&lt;ref&gt;Weksler, 2006, p.&amp;nbsp;55&lt;/ref&gt;
+
+===Karyotype===
+The [[karyotype]] generally includes 56&amp;nbsp;[[chromosome]]s with a total of 54&amp;nbsp;major arms (2n&amp;nbsp;=&amp;nbsp;56, FN&amp;nbsp;=&amp;nbsp;54) in specimens from both Bolivia and Brazil; a poorly prepared Paraguayan specimen seems to have a similar karyotype.&lt;ref&gt;Voss and Myers, 1991, p. 423; Bonvicino et al., 2005, p. 399; Moreira et al., 2013, p. 202&lt;/ref&gt; In this karyotype, all [[autosome]]s (non-sex chromosomes) are [[acrocentric]] (with one arm so short as to be almost invisible). However, in two specimens from the Brazilian states of [[Tocantins]] and [[São Paulo (state)|São Paulo]], one pair of autosomes contains both an acrocentric and a [[Centromere#Metacentric|metacentric]] chromosome (with two equally long arms), yielding an FN of 55. One arm of the metacentric chromosome consists entirely of [[heterochromatin]].&lt;ref name=&quot;Moreira et al., 2013, p. 202&quot;&gt;Moreira et al., 2013, p. 202&lt;/ref&gt; Apparently, a whole heterochromatic arm was added to this chromosome; cases of similar variation are known from the rodents ''[[Peromyscus]]'', ''[[Clyomys]]'', and ''[[Thaptomys]]''.&lt;ref name=&quot;Moreira et al., 2013, p. 204&quot;&gt;Moreira et al., 2013, p. 204&lt;/ref&gt; Both [[sex chromosome]]s are acrocentric, and [[X chromosome|X]] is larger than [[Y chromosome|Y]]. In addition to heterochromatin near the [[centromere]], the Y chromosome contains two large blocks of heterochromatin on its long arm.&lt;ref name=&quot;Moreira et al., 2013, p. 202&quot;/&gt; The karyotype is closely similar to that of ''[[Holochilus brasiliensis]]''.&lt;ref name=&quot;Moreira et al., 2013, p. 204&quot;/&gt;
+
+==Distribution, ecology, and variation==
+[[File:Tyto alba close up.jpg|thumb|right|alt=Owl, looking to the viewer's left, on a green background.|Remains of ''Pseudoryzomys'' have been found in pellets of the [[barn owl]] (''Tyto alba'').&lt;ref name=P105/&gt;]]
+''Pseudoryzomys simplex'' is known from northeastern Argentina, probably south to about 30°S,&lt;ref name=P105/&gt; northward through western Paraguay to eastern Bolivia and from there eastward through Brazil in the states of [[Mato Grosso]], [[Goiás]], Tocantins, [[Minas Gerais]], São Paulo, [[Bahia]], and far in the northeast, [[Alagoas]] and [[Pernambuco]].&lt;ref&gt;Musser and Carleton, 2005, p.&amp;nbsp;1164; Bonvicino et al., 2008, p.&amp;nbsp;54&lt;/ref&gt; Paraguayan animals are somewhat smaller than those from Bolivia and Brazil and those from Bolivia have darker fur than Paraguayan specimens, but these differences are not considered significant enough to recognize [[subspecies]]. Certain [[bat]]s show a similar pattern of variation: they are smaller and paler in the [[Gran Chaco|Chaco]] region, which includes much of Paraguay.&lt;ref name=VM424&gt;Voss and Myers, 1991, p. 424&lt;/ref&gt; Two specimens from Paraguay, collected {{convert|600|km|mi|-2}} apart, differed by 1.4% in the sequence of the [[cytochrome b|cytochrome ''b'']] gene,&lt;ref name=Dea49&gt;D'Elia et al., 2008, p. 49&lt;/ref&gt; but nothing is known about genetic variation in other parts of the range. The species has long been rare in collections; in 1991, Voss and Myers could use less than 50 specimens for their study of the species, including Lund's fragmentary material from Lagoa Santa.&lt;ref&gt;Voss and Myers, 1991, pp. 426–427&lt;/ref&gt;
+
+A fragmentary lower jaw of &quot;''Pseudoryzomys'' aff. ''P.&amp;nbsp;simplex''&quot; (i.e., an unnamed species close to ''Pseudoryzomys simplex'') is known from a cave deposit in [[Cueva Tixi]], [[Buenos Aires Province]], Argentina, outside the current distribution of the species. It is dated from the first millennium CE. The jaw's [[morphology (biology)|morphology]] agrees with that of ''P.&amp;nbsp;simplex'', but the toothrow is relatively long (5.78&amp;nbsp;mm; 4.61 to 5.60&amp;nbsp;mm in three specimens of ''P.&amp;nbsp;simplex'') and the first molar is relatively narrow (1.28&amp;nbsp;mm; 1.30 to 1.40&amp;nbsp;mm in five ''P.&amp;nbsp;simplex'').&lt;ref&gt;Pardiñas, 1995, pp.&amp;nbsp;199–201&lt;/ref&gt;
+
+''P.&amp;nbsp;simplex'' inhabits [[Tropical and subtropical grasslands, savannas, and shrublands|open, usually humid tropical and subtropical lowlands]].&lt;ref name=VM425&gt;Voss and Myers, 1991, p.&amp;nbsp;425&lt;/ref&gt; In Argentina, it is mainly a species of the eastern Chaco&lt;ref name=Pea108/&gt; and in Brazil it is found in the [[Cerrado]] and [[Caatinga]].&lt;ref name=Bea54&gt;Bonvicino et al., 2008, p.&amp;nbsp;54&lt;/ref&gt; Most specimens for which habitat data are known were caught on the ground in humid grassland, some in seasonally flooded areas;&lt;ref&gt;Voss and Myers, 1991, p.&amp;nbsp;426; Bonvicino et al., 2005, p. 399; D'Elia et al., 2008, p. 49&lt;/ref&gt; an Argentinean specimen was captured in dense swamp vegetation.&lt;ref name=Pea108&gt;Pardiñas et al., 2004, p.&amp;nbsp;108&lt;/ref&gt; It is terrestrial and semiaquatic, living on the ground but also spending time in the water.&lt;ref&gt;Hershkovitz, 1962, p.&amp;nbsp;213; Bonvicino et al., 2008, p.&amp;nbsp;54; Wetzel and Lovett, 1974, p.&amp;nbsp;211&lt;/ref&gt;
+
+Nothing is known about behavior or diet. ''P.&amp;nbsp;simplex'' has frequently been found in [[pellet (ornithology)|pellets]] of the [[barn owl]] (''Tyto alba'')&lt;ref name=P105&gt;Pardiñas et al., 2004, p.&amp;nbsp;105&lt;/ref&gt; and also in those of the [[great horned owl]] (''Bubo virginianus'').&lt;ref&gt;Chebez et al., 2005, p.&amp;nbsp;484&lt;/ref&gt; It is a preferred prey of the [[maned wolf]] (''Chrysocyon brachyurus'').&lt;ref&gt;Belentani et al., 2005, p.&amp;nbsp;96&lt;/ref&gt;
+
+==Conservation status==
+The species is not known to be threatened and its conservation status is classified as [[least concern]] by the [[International Union for Conservation of Nature|IUCN]]. It is a widely distributed species without substantial threats to its continued existence, but degradation of its habitat may endanger some populations.&lt;ref name=iucn/&gt; It was assessed as &quot;potentially vulnerable&quot; in Argentina.&lt;ref&gt;Díaz and Ojeda, 2000&lt;/ref&gt;
+
+==Footnotes==
+{{reflist|group=&quot;fn&quot;}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==Literature cited==
+*Belentani, S.C. da S., Motta-Junior, J.C. and Talamoni, S.A. 2005. [http://revistaseletronicas.pucrs.br/ojs/index.php/fabio/article/view/175/157 Notes on the food habits and prey selection of the maned wolf (''Chrysocyon brachyurus'') (Mammalia, Canidae) in southeastern Brazil]. Biocièncias 13(1):95–98.
+*Bonvicino, C.R., Lemos, B. and Weksler, M. 2005. [http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1519-69842005000300004 Small mammals of Chapada dos Veadeiros National Park (Cerrado of Central Brazil): Ecologic, karyologic, and taxonomic considerations]. Brazilian Journal of Biology 65(3):395–406.
+*Bonvicino, C.R., Oliveira, J.A. and D'Andrea, P.S. 2008. {{lang|pt|Guia dos Roedores do Brasil, com chaves para gêneros baseadas em caracteres externos}}. Rio de Janeiro: Centro Pan-Americano de Febre Aftosa – OPAS/OMS, 120 pp. (in Portuguese). ISSN 0101-6970
+*Carleton, M.D. and Olson, S.L. 1999. [http://hdl.handle.net/2246/3097  Amerigo Vespucci and the rat of Fernando de Noronha: a new genus and species of Rodentia (Muridae, Sigmodontinae) from a volcanic island off Brazil's continental shelf]. American Museum Novitates 3256:1–59.
+*Chebez, J.C., Pereira, J., Massoia, E., Di Giacomo, A.G. and Fortabat, S.H. 2005. [http://www.avesargentinas.org.ar/cs/DESCARGABLES/Conservacion/ReservaElBagual/10-%20El%20Bagual%20-%20Mamiferos.pdf Mamíferos de la Reserva El Bagual]. Temas de Naturaleza y Conservación 4:467–499 (in Spanish).
+*D'Elia, G., Mora, I., Myers, P. and Owen, R.D. 2008. [http://www.mapress.com/zootaxa/2008/f/z01784p057f.pdf New and noteworthy records of Rodentia (Erethizontidae, Sciuridae, and Cricetidae) from Paraguay] (subscription required for full paper). Zootaxa 1784:39–57.
+*Díaz, G. and Ojeda, R. 2000. Libro Rojo de los mamíferos amenazados de la Argentina. Mendoza: Sociedad Argentina para el Estudio de los Mamíferos, 106 pp. (in Spanish). ISBN 978-987-98497-0-5&lt;!--fide Chebez et al. 2005--&gt;
+*Hershkovitz, P.M. 1959. Two new genera of South American rodents (Cricetinae). Proceedings of the Biological Society of Washington 72:5–10.
+*Hershkovitz, P.M. 1960. [http://biodiversitylibrary.org/page/15609926#537 Mammals of northern Colombia, preliminary report no. 8: Arboreal rice rats, a systematic revision of the subgenus ''Oecomys'', genus ''Oryzomys'']. Proceedings of the United States National Museum 110:513–568.
+*Hershkovitz, P. 1962. [http://biodiversitylibrary.org/bibliography/2781 Evolution of Neotropical cricetine rodents (Muridae) with special reference to the phyllotine group]. Fieldiana Zoology 46:1–524.
+*Moreira, C.N., Di-Nizo, C.B., Silva, M.J.d.J., Yonenaga-Yassuda, Y. and Ventura, K. 2013. [http://dx.doi.org/10.1590/S1415-47572013000200010 A remarkable autosomal heteromorphism in ''Pseudoryzomys simplex'' 2n = 56; FN = 54-55 (Rodentia, Sigmodontinae)] (subscription required). Genetics and Molecular Biology 36(2):201–206.
+*Musser, G.G. and Carleton, M.D. 2005. Superfamily Muroidea. Pp.&amp;nbsp;894–1531 in Wilson, D.E. and Reeder, D.M. (eds.). [http://www.bucknell.edu/msw3 Mammal Species of the World: a taxonomic and geographic reference. 3rd ed.] Baltimore: The Johns Hopkins University Press, 2 vols., 2142 pp.&amp;nbsp;ISBN 978-0-8018-8221-0 &lt;!-- p. 1164 --&gt;
+*Pardiñas, U.F.J. 1995. [https://books.google.com/books?id=g34IMyGogUoC&amp;pg=PA197#v=onepage Novedosos cricetidos (Mammalia, Rodentia) en el Holoceno de la Región Pampeana, Argentina]. Ameghiniana 32(2):197–203 (in Spanish).
+*Pardiñas, U.F.J. 2008. [http://www.bioone.org/doi/abs/10.1644/07-MAMM-A-099.1 A new genus of oryzomyine rodent (Cricetidae: Sigmodontinae) from the Pleistocene of Argentina] (subscription required). Journal of Mammalogy 89(5):1270–1278.
+*Pardiñas, U.F.J., Cirignoli, S. and Galliari, C.A. 2004. [http://www.scielo.org.ar/scielo.php?pid=S0327-93832004000100013&amp;script=sci_arttext Distribution of ''Pseudoryzomys simplex'' (Rodentia: Cricetidae) in Argentina]. Mastozoología Neotropical 11(1):105–108.
+*Percequillo, A., Weksler, M., Pardiñas, U. and D'Elía, G. 2008. {{IUCNlink|18598|Pseudoryzomys simplex}}. In IUCN. IUCN Red List of Threatened Species. Version 2009.2. &lt;[http://www.iucnredlist.org/ www.iucnredlist.org]&gt; . Downloaded on November 9, 2009.
+*Voss, R.S. and Carleton, M.D. 1993. [http://hdl.handle.net/2246/4982 A new genus for ''Hesperomys molitor'' Winge and ''Holochilus magnus'' Hershkovitz (Mammalia, Muridae) with an analysis of its phylogenetic relationships]. American Museum Novitates 3085:1–39.
+*Voss, R.S. and Myers, P. 1991. [http://hdl.handle.net/2246/900 ''Pseudoryzomys simplex'' (Rodentia: Muridae) and the significance of Lund's collections from the caves of Lagoa Santa, Brazil]. Bulletin of the American Museum of Natural History 206:414–432.
+*Weksler, M. 2006. [http://hdl.handle.net/2246/5777 Phylogenetic relationships of oryzomyine rodents (Muroidea: Sigmodontinae): separate and combined analyses of morphological and molecular data]. Bulletin of the American Museum of Natural History 296:1–149.
+*Wetzel, R.M. and Lovett, J.W. 1974. A collection of animals from the Chaco of Paraguay. University of Connecticut Occasional Papers 2(13):203–216.
+*Winge, H. 1887. [http://biodiversitylibrary.org/bibliography/14696 Jordfundne og nulevende Gnavere (Rodentia) fra Lagoa Santa, Minas Geraes, Brasilien]. E Museo Lundii 1(3):1–200.
+{{Oryzomyini nav}}
+
+{{featured article}}
+
+[[Category:Mammals of Argentina]]
+[[Category:Mammals of Bolivia]]
+[[Category:Mammals of Brazil]]
+[[Category:Mammals of Paraguay]]
+[[Category:Oryzomyini]]
+[[Category:Monotypic rodent genera]]
+[[Category:Animals described in 1887]]
+[[Category:Taxa named by Philip Hershkovitz]]</text>
+      <sha1>qtebqhdl78fwbczyizgiwwkvjd3i5v8</sha1>
+    </revision>
+  </page>
+</mediawiki>

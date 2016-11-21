@@ -1,0 +1,287 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SMS Deutschland (1904)</title>
+    <ns>0</ns>
+    <id>15281541</id>
+    <revision>
+      <id>746720052</id>
+      <parentid>712845636</parentid>
+      <timestamp>2016-10-29T03:32:03Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18975">{| {{Infobox ship begin}}
+{{Infobox ship image
+| Ship image   = [[File:Bundesarchiv DVM 10 Bild-23-61-08, Linienschiff &quot;SMS Deutschland&quot;.jpg|300px|alt=A large gray battleship sits in a lock, crew members in white uniforms crowd the ship's deck]]
+| Ship caption = SMS ''Deutschland'' in a lock in 1912
+}}
+{{Infobox ship career
+| Hide header = 
+| Ship country = [[German Empire]]
+| Ship flag = {{shipboxflag|German Empire|naval}}
+| Ship name = ''Deutschland''
+| Ship namesake = Germany (Deutschland in German)
+| Ship ordered = 
+| Ship builder = [[Friedrich Krupp Germaniawerft|Germaniawerft]], [[Kiel]]
+| Ship laid down = 20 June 1903
+| Ship launched = 19 November 1904
+| Ship acquired = 
+| Ship commissioned = 3 August 1906
+| Ship decommissioned = 
+| Ship in service = 
+| Ship out of service = 
+| Ship struck = 25 January 1920
+| Ship reinstated = 
+| Ship honours = 
+| Ship fate = Scrapped in 1920
+| Ship status = 
+| Ship notes = 
+}}
+{{Infobox ship characteristics
+| Hide header = 
+| Header caption = 
+| Ship class = {{sclass-|Deutschland|battleship}}
+| Ship displacement =*{{convert|13,191|t|LT|abbr=on}} normal
+*{{convert|14,218|t|LT|abbr=on}} full load
+| Ship length = {{convert|127.6|m|ftin|abbr=on}}
+| Ship beam = {{convert|22.2|m|ftin|abbr=on}}
+| Ship draft = {{convert|7.7|m|ftin|abbr=on}}
+| Ship propulsion = {{convert|11,768|kW|ihp|order=flip|abbr=on}}, three shafts
+| Ship speed = {{convert|18|kn|lk=in}}
+| Ship range = {{convert|4,850|nmi|abbr=on|lk=in}} at {{convert|10|kn}}
+| Ship complement = 743
+| Ship armament =*  2 × 2 – [[28 cm SK L/40 gun|{{convert|28|cm|in|abbr=on}} SK L/40 guns]]
+* 14 × [[17 cm SK L/40 gun|{{convert|17|cm|in|abbr=on}} SK L/40 gun]]s (casemated)
+* 22 × [[8.8 cm SK L/45 naval gun|{{convert|8.8|cm|in|abbr=on}} SK L/45 naval gun]]s (casemated)
+*  6 × {{convert|45|cm|in|abbr=on}} torpedo tubes
+  
+| Ship armor =* 225 mm in belt
+* 280 mm in turrets
+*  40 mm in deck
+  
+| Ship notes = 
+}}
+|}
+
+'''SMS ''Deutschland'''''{{efn|name=SMS}} was the first of five {{sclass-|Deutschland|battleship|0}} [[pre-dreadnought]] [[battleship]]s built for the [[Kaiserliche Marine]] between 1903 and 1906. She was named after the German name for Germany, and built at the [[Germaniawerft]] shipyard in [[Kiel]], where she was launched on 20 November 1904. She was commissioned on 3 August 1906, only a few months before {{HMS|Dreadnought|1906|6}} was commissioned, the first of a revolutionary new standard of [[dreadnought|&quot;all-big-gun&quot; battleships]] which rendered ''Deutschland'' and the rest of her class obsolete.
+
+She served as the flagship of [[Prince Heinrich of Prussia|Prince Heinrich]] until 1913. With the outbreak of [[World War I]] in mid-1914, ''Deutschland'' and her sisters were tasked with defending the mouth of the [[Elbe]] and the [[German Bight]] from possible British incursions while the rest of the fleet was being mobilized. ''Deutschland'' and the other four ships of her class were then attached to the [[High Seas Fleet]] as the II Battle Squadron; the unit participated in most of the large-scale fleet actions in the first two years of war, culminating in the [[Battle of Jutland]] on 31 May&amp;nbsp;– 1 June 1916. Late on the first day of the battle, ''Deutschland'' and the other pre-dreadnoughts briefly engaged several British [[battlecruiser]]s before retreating.
+
+After the battle, ''Deutschland'' and her three surviving sisters were assigned to coastal defense duties. By 1917, they had been withdrawn from combat service completely and tasked with auxiliary roles. ''Deutschland'' was used as a barracks ship in [[Wilhelmshaven]] until the end of the war. She was struck from the naval register on 25 January 1920, sold to ship breakers that year, and broken up for scrap by 1922. Her bow ornament is preserved at the [[Eckernförde]] underwater weapons school and her bell is on display at the Mausoleum of Prince Heinrich on the Hemmelmark estate.
+
+== Construction ==
+{{main|Deutschland-class battleship}}
+[[File:Deutschland class line-drawing.png|thumb|left|Line-drawing of the ''Deutschland'' class]]
+
+''Deutschland'' was the second naval vessel to bear the name, after {{SMS|Deutschland|1874}} (an armored frigate), and was intended to fight in the German [[line of battle|battle line]] with the other battleships of the Imperial German Navy.{{sfn|Herwig|p=45}} She was laid down on 20 July 1903 at the [[Germaniawerft]] dockyard in [[Kiel]],{{sfn|Staff|p=5}} and launched on 19 November 1904. Her trials lasted from 3 August 1906 until September. The British battleship {{HMS|Dreadnought|1906|6}}—armed with ten 12&amp;nbsp;inch (30.5&amp;nbsp;cm) guns—was commissioned in December 1906.{{sfn|Gardiner &amp; Gray|pp=21–22}} ''Dreadnought''{{'}}s revolutionary design rendered every capital ship of the German navy obsolete, including ''Deutschland''.{{sfn|Herwig|p=57}}
+
+''Deutschland'' was {{convert|127.6|m|ftin|abbr=on}} long, had a beam of {{convert|22.2|m|ftin|abbr=on}}, and a draft of {{convert|8.21|m|ftin|abbr=on}}. She had a full-load displacement of {{convert|14218|t|LT|0|sp=us}} and was equipped with coal-fired [[triple expansion engine]]s that produced a rated {{convert|11,768|kW|ihp|order=flip|lk=in}} and gave her a top speed of {{convert|18|kn}}. At a cruising speed of {{convert|10|kn}}, she could steam for {{convert|4,850|nmi|sp=us}}.{{sfn|Gröner|1982|p=44}}
+
+''Deutschland''{{'}}s primary armament consisted of four [[28 cm SK L/40 gun|{{convert|28|cm|in|abbr=on}} SK L/40]] guns in two twin turrets.{{efn|name=gun nomenclature}} She was also equipped with fourteen {{convert|17|cm|in|abbr=on|1}} guns mounted in casemates, twenty {{convert|8.8|cm|in|abbr=on|2}} guns in pivot mounts, and six {{convert|45|cm|in|abbr=on|2}} [[torpedo tube]]s were submerged in the hull.{{sfn|Staff|p=6}}
+
+== Service history ==
+[[File:SMS Deutschland with steam up.jpg|thumb|''Deutschland'']]
+On 26 September 1906 the ship officially joined the fleet, when Admiral [[Prince Heinrich of Prussia|Prince Heinrich]] made her his [[flagship]].{{sfn|Staff|p=7}} She was tactically assigned to the [[II Battle Squadron]], though as the fleet flagship she was not subordinate to the Squadron commander. She took part in training exercises in the [[North Sea]] in December 1906 before returning to Kiel. On 16 February 1907, the fleet was renamed the [[High Seas Fleet]].{{sfn|Staff|p=7}} Fleet maneuvers in the North Sea followed in early 1907 and again in May–June. A cruise to Norway followed the fleet training in June. After returning from Norway, ''Deutschland'' went to [[Swinemünde]]. Another round of fleet training followed in September 1907. In November, she was taken into [[drydock]] for an annual refit.{{sfn|Staff|p=8}}
+
+''Deutschland'' participated in fleet maneuvers in February 1908 in the [[Baltic Sea]]; in May–June training was conducted off the island fortress of [[Helgoland]] in the North Sea. In July 1908, ''Deutschland'' and the rest of the fleet sailed into the Atlantic Ocean to conduct training there. During the cruise, ''Deutschland'' stopped at [[Funchal]] and [[Santa Cruz de Tenerife]]. The fleet returned to Germany on 13 August. The following month another set of training maneuvers was conducted in the Baltic and North Seas, with a winter cruise into the Baltic afterward.{{sfn|Staff|p=8}}
+
+The following year—1909—followed much the same pattern. Another cruise into the Atlantic was conducted from 7 July to 1 August, during which ''Deutschland'' stopped in [[Bilbao]]. After another round of exercises, ''Deutschland'' went in for another periodic overhaul. During the refit, she was given additional pedestal-mounted search lights, as well as becoming the first ship in the German navy to be equipped with an X-ray machine.{{sfn|Staff|p=8}} In May 1910, the fleet conducted training maneuvers in the [[Kattegat]], between Norway and Denmark. The annual summer cruise went to Norway, and was followed by fleet training. In November, ''Deutschland'' hosted Kaiser [[Wilhelm II]] during the celebration of the opening of the [[Naval Academy at Mürwik]]. A training cruise into the Baltic followed at the end of the year.{{sfn|Staff|p=8}}
+
+The next two years followed the same pattern of training exercises and cruises to Norway in the summer, with the exception of 1912 when, due to the [[Agadir Crisis]], the cruise only went into the Baltic. In September, following maneuvers, ''Deutschland'' was partially grounded in the Baltic. The damage necessitated dry-docking, and repairs were completed by November.{{sfn|Staff|p=8}} In January 1913, the new [[dreadnought]] battleship {{SMS|Friedrich der Grosse|1911|2}} replaced ''Deutschland'' as the flagship of the fleet. The golden bow ornament that denoted the flagship was removed, and ''Deutschland'' returned to the ranks of the II Battle Squadron.{{sfn|Staff|p=10}}
+
+=== World War I ===
+[[File:SMS Deutschland.jpg|thumb|left|''Deutschland'' underway]]
+At the outbreak of war, the ship was deployed to the mouth of the [[Elbe]] to guard the area. ''Deutschland'' remained with the High Seas Fleet in the II Battle Squadron for the first two years of the war. While her sisters covered the raid on the English coast on 15–16 December, ''Deutschland'' remained on picket duty in the mouth of the Elbe. On 21 February 1915, ''Deutschland'' went into dock in Kiel, where work lasted until 12 March. Afterward, ''Deutschland'' returned to the Elbe for guard duty. On 21 September the ship went to the Baltic for training, which was completed by 11 October, after which she went into the dockyard in Kiel again for maintenance. ''Deutschland'' went to the [[AG Vulcan]] drydock in [[Hamburg]] for additional work from 27 February to 1 April 1916. After returning to the fleet, ''Deutschland'' was made the flagship of the II Battle Squadron under the command of Admiral Franz Mauve.{{sfn|Staff|p=10}}
+
+On 24–25 April 1916, ''Deutschland'' and her four sisters joined the dreadnoughts of the High Seas Fleet to support the battlecruisers of the [[I Scouting Group]] on a raid of the English coast.{{sfn|Staff|p=10}} While en route to the target, the battlecruiser {{SMS|Seydlitz||2}} was damaged by a [[naval mine|mine]]; she was detached to return home while the operation proceeded. The battlecruisers conducted a short [[Bombardment of Yarmouth and Lowestoft|bombardment of the ports of Yarmouth and Lowestoft]]. Visibility was poor, and the operation was called off before the British fleet could intervene.{{sfn|Tarrant|pp=52–54}} On 4 May, ''Deutschland'' took part in a sortie against British ships off [[Horns Reef]], without result.{{sfn|Staff|p=10}}
+
+==== Battle of Jutland ====
+[[File:Map of the Battle of Jutland, 1916.svg|thumb|Diagram of the Battle of Jutland showing the major movements|alt=The German fleet sailed to the north and met the British fleet sailing from the west; both fleets conducted a series of turns and maneuvers during the chaotic battle.]]
+{{main|Battle of Jutland}}
+
+Admiral Scheer immediately planned another foray into the North Sea, but the damage to ''Seydlitz'' delayed the operation until the end of May.{{sfn|Tarrant|p=58}} ''Deutschland'' was the first ship in the III Division of the II Battle Squadron and the flagship of Rear Admiral [[Franz Mauve]]. The II Battle Squadron, with the weakest battleships involved in the battle, was positioned at the rear of the German line.{{sfn|Tarrant|p=286}} During the &quot;Run to the North,&quot; Admiral [[Reinhard Scheer]], the commander of the fleet, ordered the fleet to pursue the retreating battleships of the British V Battle Squadron at top speed. ''Deutschland'' and her sisters were significantly slower than the dreadnoughts, and quickly fell behind.{{sfn|London|p=73}} By 19:30, the [[Grand Fleet]] had arrived on the scene and confronted Admiral Scheer with significant numerical superiority.{{sfn|Tarrant|p=150}} The German fleet was severely hampered by the presence of the slower ''Deutschland''-class ships; if Scheer ordered an immediate turn towards Germany, he would have to sacrifice the slower ships to make good his escape.{{sfn|Tarrant|pp=150–152}}
+
+Admiral Scheer reversed the course of the fleet via the ''Gefechtskehrtwendung'' ('battle turn'), a maneuver that required every unit in the German line to turn 180° simultaneously.{{sfn|Tarrant|pp=152–153}} Having fallen behind, the ships of the II Battle Squadron could not conform to the new course following the turn.{{sfn|Tarrant|p=154}} ''Deutschland'' and the other five ships of the squadron were therefore on the disengaged side of the German line. Admiral Mauve considered moving his ships to the rear of the line, astern of the III Battle Squadron dreadnoughts, but decided against it when he realized the movement would interfere with the maneuvering of Admiral [[Franz von Hipper]]'s battlecruisers. Instead, he attempted to place his ships at the head of the line.{{sfn|Tarrant|p=155}}
+
+Later on the first day of the battle, the hard-pressed battlecruisers of the I Scouting Group were being pursued by their British opponents. ''Deutschland'' and the other so-called &quot;five-minute ships&quot; came to their aid by steaming between the opposing battlecruiser squadrons.{{sfn|Tarrant|p=195}}{{efn|name=five-minute ships}} Poor visibility made the subsequent engagement brief. ''Deutschland'' fired only one round from her 28&amp;nbsp;cm guns during this period.{{sfn|Tarrant|p=195}} Admiral Mauve decided it would be inadvisable to continue the fight against the much more powerful battlecruisers, and so ordered an 8-point turn to starboard.{{sfn|Tarrant|pp=195–196}}
+
+Late on the 31st, the fleet organized for the night march back to Germany; ''Deutschland'', ''Pommern'', and ''Hannover'' fell in behind {{SMS|König||2}} and the other dreadnoughts of the III Battle Squadron towards the rear of the line.{{sfn|Tarrant|p=241}} British destroyers conducted a series of attacks against the fleet, some of which targeted ''Deutschland''. In the melee, ''Deutschland'' and ''König'' turned away from the attacking destroyers, but could not make out targets clearly enough to engage them effectively.{{sfn|Tarrant|p=242}} Soon after, ''Pommern'' was struck by at least one torpedo and exploded. Fragments of the ship rained down around ''Deutschland''.{{sfn|Tarrant|p=243}} Regardless, the High Seas Fleet punched through the British destroyer forces and reached [[Horns Reef]] by 4:00 on 1 June.{{sfn|Tarrant|pp=246–247}} The German fleet reached Wilhelmshaven a few hours later, where the undamaged dreadnoughts of the {{sclass-|Nassau|battleship|5}} and {{sclass-|Helgoland|battleship|4}}es took up defensive positions.{{sfn|Tarrant|p=263}}
+
+=== Later career ===
+After Jutland, ''Deutschland'' and her sisters returned to picket duty in the mouth of the Elbe. They were also occasionally transferred for guard duty in the Baltic. From 22 December 1916 to 16 January 1917, ''Deutschland'' lay idle in the [[Bay of Kiel]]. On 24 January, the ship was taken to Hamburg where she went into the drydock for maintenance; this work lasted until 4 April. ''Deutschland'' sailed out of the Altenbruch [[roadstead|roads]] at the mouth of the Elbe and then to the Baltic for continued guard duty. On 15 August, the II Battle Squadron was disbanded; two weeks later, on 31 August, ''Deutschland'' arrived in Kiel and was decommissioned on 10 September. ''Deutschland'' had her guns removed in Kiel before she was transferred to Wilhelmshaven to serve as a barracks ship.{{sfn|Staff|p=10}} On 25 January 1920 the ship was struck from the naval register and sold for scrapping, which was complete by 1922. The ship's bow ornament is on display at the [[Eckernförde]] underwater weapons school and her bell is located in the mausoleum of [[Prince Heinrich of Prussia|Prince Heinrich]] at the Hemmelmark estate.{{sfn|Gröner|p=22}}
+
+== Notes ==
+
+{{notes
+| notes =
+
+{{efn
+| name = SMS
+| &quot;SMS&quot; stands for &quot;''[[Seiner Majestät Schiff]]''&quot;, or &quot;His Majesty's Ship&quot; in German.
+}}
+
+{{efn
+| name = gun nomenclature
+| In Imperial German Navy gun nomenclature, &quot;SK&quot; (Schnelladekanone) denotes that the gun is quick loading, while the L/40 denotes the length of the gun. In this case, the L/40 gun is 40 [[Caliber (artillery)|caliber]], meaning that the gun is 40 times long as it is in diameter.
+}}
+
+{{efn
+| name = five-minute ships
+| The ships were called &quot;five-minute ships&quot; because that was the length of time they were expected to survive if confronted by a dreadnought. See: {{harvnb|Tarrant|p=62}}.
+}}
+
+}}
+
+=== Citations ===
+
+{{reflist|20em}}
+
+== References ==
+
+{{portal|Battleships}}
+
+* {{cite book
+  | editor1-last = Gardiner
+  | editor1-first = Robert
+  | editor2-last = Gray
+  | editor2-first = Randal
+  | year = 1985
+  | title = Conway's All the World's Fighting Ships, 1906–1921
+  | publisher = Naval Institute Press
+  | location = Annapolis
+  | isbn = 978-0-87021-907-8
+  | oclc = 12119866
+  | url = https://books.google.com/books?id=V2r_TBjR2TYC&amp;printsec=frontcover
+  | ref = {{sfnRef|Gardiner &amp; Gray}}
+  }}
+* {{cite book
+  | last = Gröner
+  | first = Erich
+  | year = 1990
+  | title = German Warships: 1815–1945
+  | publisher = Naval Institute Press
+  | location = Annapolis
+  | isbn = 978-0-87021-790-6
+  | ref = {{sfnRef|Gröner}}
+  }}
+* {{cite book
+  | last = Herwig
+  | first = Holger
+  | year = 1998
+  | origyear = 1980
+  | title = &quot;Luxury&quot; Fleet: The Imperial German Navy 1888–1918
+  | publisher = Humanity Books
+  | location = [[Amherst, New York]]
+  | isbn = 978-1-57392-286-9
+  | oclc = 57239454
+  | ref = {{sfnRef|Herwig}}
+  }}
+* {{cite book
+  | last = London
+  | first = Charles
+  | year = 2000
+  | title = Jutland 1916: Clash of the Dreadnoughts
+  | publisher = Osprey Publishing
+  | location = Oxford
+  | isbn = 978-1-85532-992-8
+  | oclc = 
+  | url = https://books.google.com/books?id=geQ6-XpW5fEC&amp;printsec=frontcover
+  | ref = {{sfnRef|London}}
+  }}
+* {{cite book
+  | last = Staff
+  | first = Gary
+  | year = 2010
+  | title = German Battleships: 1914–1918 (1)
+  | publisher = Osprey Books
+  | location = Oxford
+  | isbn = 978-1-84603-467-1
+  | ref = {{sfnRef|Staff}}
+  }}
+* {{cite book
+  | last = Tarrant
+  | first = V. E.
+  | year = 2001
+  | origyear = 1995
+  | title = Jutland: The German Perspective
+  | publisher = Cassell Military Paperbacks
+  | location = London
+  | isbn = 978-0-304-35848-9
+  | oclc = 48131785
+  | ref = {{sfnRef|Tarrant}}
+  }}
+
+==Further reading==
+* {{cite journal
+  | last = Dodson
+  | first = Aidan
+  | year = 2014
+  | title = Last of the Line: The German Battleships of the Braunschweig and Deutschland Classes
+  | journal = Warship 2014 
+  | page = 49–69
+  | publisher = Conway Maritime Press
+  | location = London
+  | isbn = 978-1591149231
+  | ref = {{sfnRef|Dodson}}
+  }}
+
+{{Deutschland class battleship}}
+{{Good article}}
+
+{{DEFAULTSORT:Deutschland}}
+[[Category:Deutschland-class battleships]]
+[[Category:Ships built in Kiel]]
+[[Category:1904 ships]]
+[[Category:World War I battleships of Germany]]</text>
+      <sha1>818fipffzk09ejvgrg5m32l4av0wj4d</sha1>
+    </revision>
+  </page>
+</mediawiki>

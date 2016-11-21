@@ -10,6 +10,7 @@ var lengthAnalyzer = require('./analyzers/lengthAnalyzer.js')
 var structureAnalyzer = require('./analyzers/structureAnalyzer.js')
 var lexicalAnalyzer = require('./analyzers/lexicalAnalyzer.js')
 var styleAnalyzer = require('./analyzers/styleAnalyzer.js')
+// var revisionAnalyzer = require('./analyzers/revisionAnalyzer.js')
 
 
 // LOGIC
@@ -34,7 +35,9 @@ var articleJSON = {
     structureFeatures : {},
     styleFeatures: {},
     readabilityFeatures: {},
-    trigrams: {}
+  //   posTrigrams: {},
+  //   charTrigrams: {},
+  //   reviewFeatures: {}
   }
 }
 
@@ -126,16 +129,22 @@ const getStyleFeatures = (cb) => {
 
 const getPosTrigrams = (cb) => {
   posAnalyzer.getPosTrigrams(sentencesTags, (posTrigrams) => {
-    articleJSON.features.trigrams.posTrigrams = posTrigrams
+    articleJSON.features.posTrigrams = posTrigrams
     cb(null, 'Get POS Trigrams')
   })
 }
 
-const getTrigrams = (cb) => {
-  trigramAnalyzer.getTrigrams(articleJSON.plainText, (trigrams) => {
-    articleJSON.features.trigrams.characterTrigrams = trigrams
+const getCharTrigrams = (cb) => {
+  trigramAnalyzer.getCharTrigrams(articleJSON.plainText, (charTrigrams) => {
+    articleJSON.features.charTrigrams = charTrigrams
     cb(null, 'Get Trigrams')
   })
+}
+
+const getReviewFeatures = (cb) => {
+  // revisionAnalyzer.getReviewFeatures
+
+  cb (null, 'Get Review Features')
 }
 
 const analyze = (articleTextFromXML, id, title, textWithSectionTitles, subsectionIndexes, abstract, sections, text, sentences, onlyLettersAndNumbersText, words, cb) => {
@@ -160,47 +169,55 @@ const analyze = (articleTextFromXML, id, title, textWithSectionTitles, subsectio
   articleJSON.features.structureFeatures = {}
   articleJSON.features.styleFeatures = {}
   articleJSON.features.readabilityFeatures = {}
-  articleJSON.features.trigrams = {}
+  articleJSON.features.posTrigrams = {}
+  articleJSON.features.charTrigrams = {}
+  articleJSON.features.reviewFeatures = {}
 
   // async.series([
   //   getLengthFeatures,
-  //   getStructureFeatures
+  //   getStructureFeatures,
   //   getReadabilityIndexes,
   //   getTags,
   //   getPosTrigrams,
-  //   getTrigrams,
+  //   getCharTrigrams,
   //   getLexicalFeatures,
   //   getStyleFeatures
   // ], (res, result) => {
   //   cb(articleJSON)
   // })
 
-  async.series([
+  async.parallel([
+    getReviewFeatures,
     (cb) => {
-      async.parallel([
+      async.series([
         (cb) => {
-          async.series([
-            getLengthFeatures,
+          async.parallel([
             (cb) => {
-              async.parallel([
-                getStructureFeatures,
-                getReadabilityIndexes
+              async.series([
+                getLengthFeatures,
+                (cb) => {
+                  async.parallel([
+                    getStructureFeatures,
+                    getReadabilityIndexes
+                  ], cb)
+                },
               ], cb)
             },
+            (cb) => {
+              async.series([
+                getTags,
+                getPosTrigrams
+              ], cb)
+            },
+            getCharTrigrams
           ], cb)
         },
-        (cb) => {
-          async.series([
-            getTags,
-            getPosTrigrams
-          ], cb)
-        },
-        getTrigrams
+        getLexicalFeatures,
+        getStyleFeatures
       ], cb)
-    },
-    getLexicalFeatures,
-    getStyleFeatures
-  ], (res, result) => {
+    }
+  ], (err, res) => {
+    if (err) throw err
     cb(articleJSON)
   })
 

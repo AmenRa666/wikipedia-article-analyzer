@@ -1,0 +1,117 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Accurate News and Information Act</title>
+    <ns>1</ns>
+    <id>24697453</id>
+    <revision>
+      <id>645559709</id>
+      <parentid>559629920</parentid>
+      <timestamp>2015-02-04T05:13:37Z</timestamp>
+      <contributor>
+        <username>Arctic.gnome</username>
+        <id>244607</id>
+      </contributor>
+      <minor/>
+      <comment>clean up using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4504">{{ArticleHistory
+|action1=GAN
+|action1date=12 November 2009
+|action1link=Talk:Accurate News and Information Act/GA1
+|action1result=Listed
+|action1oldid=325444832
+
+|action2=PR
+|action2date=20:04, 20 November 2009
+|action2link=Wikipedia:Peer review/Accurate News and Information Act/archive1
+|action2result=reviewed
+|action2oldid=326980219
+
+|action3=FAC
+|action3date=02:31, 28 December 2009
+|action3link=Wikipedia:Featured article candidates/Accurate News and Information Act/archive1
+|action3result=promoted
+|action3oldid=334226488
+
+| topic         = Politics
+| dykdate       = 20 October 2009
+| dyklink       = 
+|maindate=26 January 2010
+|currentstatus=FA
+|four=yes
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Freedom of speech|class=FA|importance=Mid}}
+{{WikiProject Canada| ppap=yes|ab=yes| importance=low | class=FA}}
+{{WikiProject Politics|class=FA|importance=low}}
+{{WikiProject Law|class=FA|importance=low}}
+}}
+&lt;!----&gt;
+
+{{Talk:Accurate_News_and_Information_Act/GA1}}
+
+== introductory paragraph ==
+I find that the first sentences start by giving background instead of stating the outright nature of the act. I believe the background should come later.
+[[User:Frankman|Frankman]] ([[User talk:Frankman|talk]]) 00:09, 26 January 2010 (UTC)
+:I agree, actually, and have made some changes: [http://en.wikipedia.org/w/index.php?title=Accurate_News_and_Information_Act&amp;action=historysubmit&amp;diff=340036826&amp;oldid=340030283] What do you think? [[User:Steve Smith|Steve Smith]] ([[User talk:Steve Smith|talk]]) 00:40, 26 January 2010 (UTC)
+
+== Act or bill? ==
+
+If this never became law, why is it an [[Act of Parliament|Act]] rather than a [[Bill (proposed law)|Bill]]? [[User:Jnestorius|jnestorius]]&lt;sup&gt;([[User talk:Jnestorius|talk]])&lt;/sup&gt; 21:42, 28 January 2010 (UTC)
+:When bills are drafted, they're given names that include the word &quot;act&quot;, notwithstanding that they're not actually acts until passed by the Queen in Parliament.  Consider a Wikipedia article about a movie that was never made: if it needed to be disambiguated it would probably be done with &quot;(film)&quot;, and over the course of the article it would likely be referred to as &quot;the movie&quot;, even though it really doesn't become a movie until there are actual actors and camerafolk involved. [[User:Steve Smith|Steve Smith]] ([[User talk:Steve Smith|talk]]) 21:50, 28 January 2010 (UTC)
+::As well as the title of the article and the name of its subject,  there are various references through the text to &quot;the Act&quot; or &quot;the act&quot; rather than &quot;the Bill&quot;. If it is the custom in Canada to refer to Bills as Acts, this should be stated and clarified, because it may be confusing for those of us from the UK and Ireland, where this is definitely not the practice.  
+::See for example [http://www.irishtimes.com/newspaper/ireland/2010/0128/1224263289785.html this article from today's Irish Times] about the Civil Partnership Bill, named as such and referred to as &quot;the Bill&quot; in the course of the report. The [http://www.oireachtas.ie/viewdoc.asp?DocID=12249 legislature's webpage on the Bill] does likewise. The various drafts begin: &quot;CIVIL PARTNERSHIP BILL 2009 / BILL entitled AN ACT TO ... 1.—(1) This Act may be cited as the Civil Partnership Act 2009....&quot; In other words, although the Bill refers to itself internally as an Act, externally it is referred to as a Bill. 
+::It is true that in the English language, the concepts &quot;completed movie&quot; and &quot;unproduced movie&quot; are both subsumed into the word &quot;movie&quot;; but it is not (necessarily) the case that &quot;act passed into law&quot; and &quot;bill proposed&quot; are both subsumed into &quot;act&quot;. 
+::BTW the names of articles in [[:Category:Proposed laws of Canada]] are mostly with Bill, though some have Act. Most look like still-active proposals, but [[Canada Well-Being Measurement Bill]] and [[Naval Service Bill]] are not, so I guess the present article belongs in the category too. [[User:Jnestorius|jnestorius]]&lt;sup&gt;([[User talk:Jnestorius|talk]])&lt;/sup&gt; 22:21, 28 January 2010 (UTC)
+:::Well, the alternative would be calling it [[Bill 9]], which doesn't seem very helpful.  As for calling it &quot;the Act&quot; as shorthand, that just follows from the page title. [[User:Steve Smith|Steve Smith]] ([[User talk:Steve Smith|talk]]) 03:57, 29 January 2010 (UTC)
+::::No it doesn't. You could start 
+:::::The '''Accurate News and Information Act''' was a [[Bill (proposed law)|Bill]] ....
+::::and then continue &quot;the bill&quot;... [[User:Jnestorius|jnestorius]]&lt;sup&gt;([[User talk:Jnestorius|talk]])&lt;/sup&gt; 12:58, 29 January 2010 (UTC)</text>
+      <sha1>cuzgbxhwcqv6dp2y2l975ls6yecplyu</sha1>
+    </revision>
+  </page>
+</mediawiki>

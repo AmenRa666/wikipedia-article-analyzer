@@ -1,0 +1,146 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>William Morton Wheeler</title>
+    <ns>0</ns>
+    <id>330863</id>
+    <revision>
+      <id>743355983</id>
+      <parentid>737588150</parentid>
+      <timestamp>2016-10-09T08:06:13Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* Cited sources */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12128">{{Infobox scientist
+|name              = William Morton Wheeler
+|birth_date        = March 19, 1865
+|birth_place       = [[Milwaukee]], [[Wisconsin]]
+|death_date        = {{death date and age|1937|4|19|1865|3|19}}
+|death_place       = [[Cambridge, Massachusetts]]
+|image             = William Morton Wheeler.jpg
+|caption     = Wheeler in 1910
+|residence         = 
+|citizenship       = 
+|nationality       = [[United States|American]]
+|ethnicity         = 
+|field             = [[Entomologist]], [[Myrmecologist]]
+|work_institutions = [[Harvard University]]&lt;br/&gt;[[American Museum of Natural History]]
+|alma_mater        = 
+|doctoral_advisor  = 
+|known_for         = 
+|influences        = 
+|influenced        = [[E. O. Wilson]]{{sfn|Lenfield|2011}}
+|prizes            = [[Daniel Giraud Elliot Medal]] (1922)&lt;br&gt;[[Leidy Award]] (1931){{sfn|Proceedings of the Academy of Natural Sciences of Philadelphia}}
+}}
+
+'''William Morton Wheeler''' (March 19, 1865 – April 19, 1937) was an American [[entomologist]], [[myrmecologist]] and [[Harvard]] professor.
+
+==Biography==
+===Early life and education===
+William Morton Wheeler was born on March 19, 1865 to parents Julius Morton Wheeler and Caroline Georgiana Wheeler ({{nee}} Anderson) in [[Milwaukee]], Wisconsin.{{sfn|Parker|1938|p=203}} At a young age, Wheeler had an interest in natural history, first being when he observed a moth ensnared in a spiders web; such observation interested Wheeler that he became importunate for more nature lore.{{sfn|Melander|Carpenter|1937|p=433}} Wheeler attended public school, but he was transferred to a local [[University School of Milwaukee|German academy]] due to &quot;persistently bad behavior&quot;, which was known for its extreme discipline.{{efn|Stated by Wheeler himself.{{sfn|Melander|Carpenter|1937|p=433}}}} After he completed his courses in the German academy, he attended a German normal school. In both institutions, Wheeler was trained in a variety of subjects: he was given training in languages, philosophy and science. By this time, he could read fluently in French, German, Greek, Italian, Latin and Spanish.{{sfn|Parker|1938|p=203}}{{sfn|Melander|Carpenter|1937|p=433}} While he was a student at the German academy, Wheeler would frequently observe the old museum of natural history at the institution.{{sfn|Melander|Carpenter|1937|p=434}}
+
+In 1884, [[Henry August Ward]], proprietor of the [[Ward's Natural Science Establishment]], brought a collection of stuffed and skeletonized mammals, birds and reptiles, and also a series of marine invertebrates to the academy. This was to persuade the city fathers to purchase them and combine them with the present collection at the academy, in which it would lay the foundation for a free municipal museum
+of natural history.{{sfn|Parker|1938|p=204}} Wheeler, who had familiarized himself with the museum since childhood, volunteered to spend the nights in helping to unpack and install the specimens.{{sfn|Melander|Carpenter|1937|p=434}}{{sfn|Parker|1938|p=204}} Impressed by his enthusiasm, Ward offered Wheeler a job in his [[Rochester, New York]] establishment. His first duties were to identify and list birds and mammals and the preparation of catalogues.{{sfn|Melander|Carpenter|1937|p=434}}{{sfn|Parker|1938|p=204}} He was later made as a foreman and spent most of his time identifying and arranging the collection of shells, echinoderms, and sponges, as well as preparing catalogues and price lists of these specimens for publication.{{sfn|Parker|1938|p=204}}
+
+In 1885, Wheeler returned to Milwaukee to teach German and physiology at a high school.{{sfn|Melander|Carpenter|1937|p=434}}{{sfn|Parker|1938|p=207}} At the time, George W. Peckham was the principal of the school, in which Wheeler and Peckham formed an intimate relationship.{{sfn|Melander|Carpenter|1937|p=434}} Wheeler collaborated with some of Peckham's published papers by illustrating the [[Pedipalp|palpi]] and [[epigyne]]s of spiders, and by assisting him and his wife with their field work on wasps.{{sfn|Parker|1938|p=207}} Wheeler was also under the influence of professors [[Charles Otis Whitman|C.O. Whitman]] and Dr. William Pattern, who were embryologists at the Allis Lake Laboratory in Milwaukee. He was inspired by Pattern to study insect embryology and did so for several years. During this time, Wheeler left the high school in 1887 and become a custodian at [[Milwaukee Public Museum]], a position he held until 1890. He studied embryology at home and after work hours, in which he had set up a small laboratory.{{sfn|Melander|Carpenter|1937|p=434}} He left Milwaukee after leaving the museum to assist Whitman at [[Clark University]], and, by 1892, secured a [[doctorate]] in philosophy; his dissertation was &quot;Contribution to Insect Embryology&quot;.{{sfn|Melander|Carpenter|1937|p=434}}{{sfn|Parker|1938|p=210}} At the same time, Wheeler commenced his work on insects and published around 10 entomological papers, which presented himself as a candidate for the degree of Ph.D.{{sfn|Parker|1938|p=211}} After receiving a call from the [[University of Chicago]], Whitman subsequently accepted their offer, followed by Wheeler who was appointed under him as instructor in embryology in 1892. He held this position until 1897, where he became the assistant professor in his chosen field.{{sfn|Parker|1938|p=211}} Before he began his duties at Chicago, Wheeler was given a year's absence, allowing him to study in Europe between 1893 and 1894. There, he first spent time at the Zoological Institute at the University of Wiirzburg as a student, and also at the Naples Zoological Station. Enamoured by the fauna of Naples, Wheeler studied the sex life of ''[[Myzostoma]]'', a subject he further studied at the Institut Zoologique at Liege, Belgium. His monograph on ''Myzostoma'' was published in 1897 by professor E. Van Beneden in the ''Archives de Biologie''.{{sfn|Parker|1938|p=212}}
+
+===Career===
+Wheeler returned to Chicago in 1894 and was a teacher of embryology for five years. He continued to publish more papers, half of which involved insects. Wheeler married his wife Dora Bay Emerson in 1898, where they both met each other in Chicago previously.{{sfn|Parker|1938|p=212}} In 1899, he was offered the &quot;Professorship In Zoology&quot; following the death of professor Norman of the [[University of Texas at Austin|University of Texas]]. There, he took the opportunity to reorganize the department as professor of zoology. He remained there until 1903, but during this period was when Wheeler developed an interest in the behavior and classification of ants. The ants would eventually become the predominant group of insects he studied.{{sfn|Parker|1938|p=212–213}}{{sfn|Melander|Carpenter|1937|p=435}} His two children were also born in [[Rockford, Illinois|Rockford]], Illinois while he was staying in Texas.{{sfn|Parker|1938|p=213}}
+
+A number of students sought to study under Wheeler; notable entomologists such as [[C. T. Brues]] and [[A. L. Melander]] made their way to Austin and spent several years studying there in his labaratory. This began an influx of young students, both who were pupils and scientific associates, to study and research for long periods of time under his guidance.{{sfn|Parker|1938|p=213}} Other students include [[C. L. Metcalf]], [[T. D. Mitchell]], [[O. E. Plath]], [[George Salt]], [[Alfred C. Kinsey]], [[George C. Wheeler]], [[Frank M. Carpenter]], [[William S. Creighton]], [[Neal A. Weber]], [[J. G. Myers]], [[William M. Mann]], [[Marston Bates]] and [[Philip J. Darlington]].{{sfn|Sleigh|2007|p=71}}
+
+In 1903, Wheeler resigned from his position at the University of Texas and accepted the position &quot;Curator of Invertebrate Zoology&quot; at the [[American Museum of Natural History]] in New York City.{{sfn|Melander|Carpenter|1937|p=435}}{{sfn|Sleigh|2007|p=71}}
+
+A close contact of the British [[myrmecologist]] and [[coleopterist]] [[Horace Donisthorpe]], it was to Wheeler whom Donisthorpe dedicated his [https://archive.org/stream/britishantstheir00donirich#page/n3/mode/2up first major book on ants] in 1915. Donisthorpe and Wheeler also frequently exchanged specimens, leading the latter to first develop the idea that the [[Formicinae]] [[subfamily]] had its origins in North America.
+
+For his work, ''Ants of the American Museum Congo Expedition'', Wheeler was awarded the [[Daniel Giraud Elliot Medal]] from the National Academy of Sciences in 1922.{{sfn|National Academy of Sciences}} He was professor of [[applied biology]] at [[Harvard University]]'s [[Bussey Institute]], which had one of the most highly regarded biology programs in the United States.
+
+His work includes 467 titles.{{sfn|Carpenter|1938|p=422–423}}
+
+==Bibliography==
+* {{cite book|last1=Wheeler|first1=W.M.|title=Ants: Their Structure, Development and Behavior|url=http://www.antwiki.org/wiki/images/b/b1/Wheeler_1910.pdf|year=1910|series=[[Columbia University Biological Series]]|volume=9|publisher=[[Columbia University Press]]}}
+** {{Cite journal| title = Review| doi = 10.2307/1635969| issn = 0036-8075| volume = 31| issue = 805| pages = 860–862| last = Cockerell| first = T. D. A.| authorlink = Theodore Dru Alison Cockerell| journal = Science| series = New Series| date = 1910| jstor = 1635969}}
+** {{Cite journal| title = Review| doi = 10.2307/2455589| issn = 0003-0147| volume = 44| issue = 521| pages = 319–320| last = Parker| first = G. H.| journal = The American Naturalist| date = 1910| jstor = 2455589}}
+
+==Notes==
+{{notes|30em}}
+
+==References==
+{{reflist|40em}}
+
+===Cited sources===
+{{refbegin|30em}}
+*{{cite journal|last1=Carpenter|first1=F.M.|title=William Morton Wheeler|journal=Isis|date=1938|volume=28|issue=2|pages=421–423|doi=10.1086/347342|ref=harv}}
+*{{cite book |last1=Evans|first1=M.A.|last2=Howard|first2=E.|title=William Morton Wheeler, Biologist|publisher=iUniverse|location=New York |year=1999|isbn=978-1-58348-312-1|ref=harv}}
+*{{cite web|last1=Lenfield|first1=S.|title=Ants through the Ages|url=http://harvardmagazine.com/2011/07/ants-through-the-ages|website=Harvard Magazine|date=July-August 2011|accessdate=June 13, 2016|ref=harv}}
+*{{cite journal|last1=Melander|first1=A.L.|last2=Carpenter|first2=F.M.|title=William Morton Wheeler|journal=The Entomological Society of America|date=1937|volume=30|issue=3|pages=433–437|url=http://www.antwiki.org/wiki/images/c/c9/Wheeler_Obit_1937.pdf|ref=harv}}
+*{{cite web|title=Daniel Giraud Elliot Medal |url=http://www.nasonline.org/site/PageServer?pagename=AWARDS_elliot |publisher=National Academy of Sciences |accessdate=February 16, 2011 |ref={{sfnRef|National Academy of Sciences}} |deadurl=unfit |archiveurl=https://web.archive.org/web/20060102123628/http://www.nasonline.org/site/PageServer?pagename=AWARDS_elliot |archivedate=January 2, 2006 }}
+*{{cite journal|last1=Parker|first1=G.H.|title=Biographical Memoir of William Morton Wheeler|journal=National Academy of Sciences Biographical Memoirs|date=1938|volume=19|pages=201–241|url=http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/wheeler-william.pdf|ref=harv}}
+*{{cite journal|date=2007|title=The Four Awards Bestowed by The Academy of Natural Sciences and Their Recipients|journal=Proceedings of the Academy of Natural Sciences of Philadelphia|volume=156 |issue=1|pages=403–404|doi=10.1635/0097-3157(2007)156[403:TFABBT]2.0.CO;2|ref={{sfnRef|Proceedings of the Academy of Natural Sciences of Philadelphia}}}}
+*{{cite book|last1=Sleigh|first1=C.|title=Six Legs Better: A Cultural History of Myrmecology|url=https://books.google.com/books?id=-S3YISCdz9IC&amp;pg=PA63|date=2007|publisher=Johns Hopkins University Press|location=Baltimore|isbn=978-0-8018-8445-0|ref=harv}}
+{{refend}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wheeler, William Morton}}
+[[Category:1865 births]]
+[[Category:1937 deaths]]
+[[Category:Harvard University faculty]]
+[[Category:American entomologists]]
+[[Category:Ethologists]]
+[[Category:Myrmecologists]]
+[[Category:American zoologists]]
+[[Category:American non-fiction writers]]
+[[Category:National Academy of Sciences laureates]]
+[[Category:Members of the United States National Academy of Sciences]]</text>
+      <sha1>8n8guex1152k3c6i3i7jxzc7yrbcdvv</sha1>
+    </revision>
+  </page>
+</mediawiki>

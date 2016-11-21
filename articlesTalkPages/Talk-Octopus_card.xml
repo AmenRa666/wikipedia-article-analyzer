@@ -1,0 +1,152 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Octopus card</title>
+    <ns>1</ns>
+    <id>636306</id>
+    <revision>
+      <id>680856991</id>
+      <parentid>633598952</parentid>
+      <timestamp>2015-09-13T16:47:36Z</timestamp>
+      <contributor>
+        <username>BU Rob13</username>
+        <id>25420061</id>
+      </contributor>
+      <comment>Remove template as per [[Wikipedia:Templates_for_discussion/Log/2015_August_23#.27Portal_selected.27_templates|this TfD]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6963">{{ArticleHistory
+|action1=PR
+|action1date=04:39, 3 Feb 2005
+|action1link=Wikipedia:Peer review/Octopus card/archive1
+|action1result=reviewed
+|action1oldid=10001943
+
+|action2=FAC
+|action2date=06:37, 10 Feb 2005
+|action2link=Wikipedia:Featured article candidates/Octopus card/archive1
+|action2result=promoted
+|action2oldid=10154799
+
+|action3=FAR
+|action3date=14:50, 18 January 2007
+|action3link=Wikipedia:Featured article review/Octopus card/archive1
+|action3result=removed
+|action3oldid=100614805
+
+|action4=GAN
+|action4date=08:36, 31 May 2007
+|action4link=Talk:Octopus card#Passed
+|action4result=listed
+|action4oldid=134735025
+
+|action5=PR
+|action5date=2007-07-04
+|action5link=Wikipedia:Peer review/Octopus card/archive2
+|action5oldid=142203099
+
+|action6=FAC
+|action6date=16:19, 3 August 2007
+|action6link=Wikipedia:Featured article candidates/Octopus card
+|action6result=promoted
+|action6oldid=148642706
+
+|maindate=March 13, 2005
+|topic=Engtech
+|currentstatus=FA
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Hong Kong|class=FA|importance=mid}}
+{{WikiProject Numismatics|class=FA|importance=high}}
+{{WikiProject Finance|class=FA|importance=low}}
+}}
+
+{{Archive box|&lt;center&gt;
+[[/Archive 1|'''Archive 1''']]: ''2004'' - ''2009''
+&lt;/center&gt;}}
+
+== Gold card being given out anymore? ==
+
+When I got my Octopus card, I got a rainbow-coloured one (did not request a personalized one or any other special request). I've seen the same thing happen two more times since then. Anyone know if they've changed to using this colour as standard now? [[User:Heimstern|Heimstern Läufer]] [[User talk:Heimstern|(talk)]] 13:16, 7 June 2010 (UTC)
+
+==Store and forward==
+
+Does this mean that if there is an error say for a minibus reader and all the data gets deleted, the bus gets no money and all the money spent goes into thin air (or rather to Octopus)? And if there is an error in 7-11, then Octopus loses money and 7-11 gets it? [[Special:Contributions/94.173.122.171|94.173.122.171]] ([[User talk:94.173.122.171|talk]]) 15:43, 18 June 2010 (UTC)
+
+== Principle of use ==
+
+I have read the whole article but I could get a clue how the system works. Do you check-in at the start of the journey and then check-out and get the corresponding value deduced from the card? Is it similar to oyster-card in that respect and how is does the Hong-kong tarif system set up? With zones, price by distance, etc.  I am very surprised this is considered a complete and balanced article. [[User:Smiley.toerist|Smiley.toerist]] ([[User talk:Smiley.toerist|talk]]) 23:59, 23 November 2010 (UTC)
+
+: '''[[WP:NOTTRAVEL]]'''
+
+: It's not covered in this article because it depends on whcih transport system you refer to. For the [[MTR]] metro and light-rail system, you need to check-in and -out to determine your fare by the travel distance or zone. For the [[Bus services in Hong Kong|bus]] and [[Hong Kong Tramways|double-decker tram]], since there're only one fixed fares for each system, you only need to check your octopus once. (The D-D tram is special that it does not require passenger to check-in but only check-out when alighting, which is the only charging mode seen in Hong Kong.)  Some [[Public light bus|light bus / minibus]] offers cheaper fare if you travel shorter, in that case you'll need to press the button on the octopus reader panel to adjust the desired amount before touching the Octopus card. -- [[User:Sameboat|Sameboat - 同舟]] ([[User talk:Sameboat|talk]]) 01:27, 24 November 2010 (UTC)
+
+: I find this a very restrictive interpretation of the &quot;nottravel&quot; policy.  A broad outline that it is used in different ways and can use the &quot;Pay as you go&quot; principle, would be usefull.  The information where you can buy and charge up the card can also be considered travel information. There is a contradiction here.  When I compare this article with [[Oyster card]], there is a lot more background information without becoming a travel guide. [[User:Smiley.toerist|Smiley.toerist]] ([[User talk:Smiley.toerist|talk]]) 18:46, 24 November 2010 (UTC)
+
+: Is there any tarif integration between the different travel modes? In the dutch OV-chipkaart system you only pay the initial startup charge once, as long as you crossover within 35 minutes. (it is actualy more complicated than this, but lets keep it simple)[[User:Smiley.toerist|Smiley.toerist]] ([[User talk:Smiley.toerist|talk]]) 18:46, 24 November 2010 (UTC)
+
+::The basic principle is that WP should not be an instruction guide.  I see it as ultimately unnecessary.  There is good reason why it has not been included - because the Octopus card isn't just used to pay for public transportation.  It is really used as a value-charged debit card.  Many businesses accept it as a form of payment, and beverage machines also accept it for payment, etc etc.  Having said that, I am not completely opposed to a general level of information of how it is used to pay for public transportation if someone can propose the text to add and post it up here in the Talk page first.  The reason I ask the proposed text to be reviewed first is because this is a FA article and apparently we already have one editor who is opposed to adding the information.  [[User:HongQiGong|Hong Qi Gong]] &lt;small&gt;([[User talk:HongQiGong|Talk]] - [[Special:Contributions/HongQiGong|Contribs]])&lt;/small&gt; 19:51, 24 November 2010 (UTC)
+
+::Proposal text in: Card usage: As the card was originaly designed for the public transport use, it allows full flexibility in the revenue collection for the public transport companies. This goes from flat-fare collection to pay-as-you systems with a check-in and check-out function, to varying prices depending on the time of day to many other travel-permit forms. Each company can use it own part of the card-memory for its own IT systems. [[User:Smiley.toerist|Smiley.toerist]] ([[User talk:Smiley.toerist|talk]]) 23:36, 8 December 2010 (UTC)
+==File:Octopus Mini.jpg Nominated for speedy Deletion==
+&lt;!--TSTAMP:{{{4}}}--&gt;
+{|
+|-
+| [[File:Image-x-generic.svg|100px]] 
+| &lt;!--IMAGES--&gt;
+An image used in this article, [[:File:Octopus Mini.jpg|File:Octopus Mini.jpg]], has been nominated for speedy deletion for the following reason: ''Wikipedia files with no non-free use rationale as of 3 December 2011'' 
+&lt;!--/IMAGES--&gt;
+;What should I do?
+''Don't panic''; you should have time to contest the deletion (although please review [[WP:CSD|deletion guidelines]] before doing so). The best way to contest this form of deletion is by posting on the image talk page.
+* If the image is [[WP:NFCC|non-free]] then you may need to provide a [[WP:FUR|fair use rationale]]
+* If the image isn't freely licensed and there is no fair use rationale, then it cannot be uploaded or used.
+* If the image has already been deleted you may want to try [[WP:DRV|Deletion Review]]
+
+''This notification is provided by a Bot'' --[[User:CommonsNotificationBot|CommonsNotificationBot]] ([[User talk:CommonsNotificationBot|talk]]) 10:01, 3 December 2011 (UTC)
+|}</text>
+      <sha1>4h7cosnjhl3ktasw517mbfphk05o6zu</sha1>
+    </revision>
+  </page>
+</mediawiki>

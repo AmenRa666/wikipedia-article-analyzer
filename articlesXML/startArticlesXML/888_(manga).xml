@@ -1,0 +1,153 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>888 (manga)</title>
+    <ns>0</ns>
+    <id>6279083</id>
+    <revision>
+      <id>745733417</id>
+      <parentid>725188232</parentid>
+      <timestamp>2016-10-23T00:10:04Z</timestamp>
+      <contributor>
+        <username>Gabriel Yuji</username>
+        <id>14855220</id>
+      </contributor>
+      <comment>added [[Category:ComicsOne titles]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4008">{{Infobox animanga/Header
+| name            = 888
+| image           = [[File:888 Volume 1.jpg|230px]]
+| caption         = Cover of ''888'' volume 1.
+| ja_kanji        = スリーエイト
+| ja_romaji       = Surii Eito
+| genre           = [[Mystery fiction|Mystery]], [[Comedy]]
+}}
+{{Infobox animanga/Print
+| type            = manga
+| author          = [[Noriko Kuwata]]
+| publisher       = [[Gentosha]]
+| publisher_en    = {{English manga publisher|NA=[[ComicsOne]]}}
+| demographic     = ''[[Seinen manga|Seinen]]''
+| magazine        = [[Comic Birz]]
+| first           = September 2003
+| last            = 23 April 2005
+| volumes         = 5
+| volume_list     = 
+}}
+{{Infobox animanga/Footer}}
+
+{{nihongo|'''''888'''''|スリーエイト|Surii Eito|lead=yes}}, or '''''Three Eight''''', is a comedy manga series written and illustrated by [[Noriko Kuwata]].
+
+== Story ==
+The newly opened Suehiro Detective Agency is composed of laid-back manager Hisago, dog-loving chief investigator Shimeki and administrator Tsukumo. With very few paying customers, the three protagonists are free to spend their time bickering with and teasing one another, setting each other up in matchmaking schemes and looking for lost pets. Shimeki also has to contend with his knife-wielding ex-wife and the overly dependent little brother he's just been re-united with.
+
+==Manga==
+===Volume list===
+{{Graphic novel list/header
+ | OneLanguage = yes
+ | LineColor   = CCF
+}}
+{{Graphic novel list
+ | VolumeNumber    = 01
+ | RelDate         = September 24, 2003&lt;ref name=&quot;JapVol1&quot;&gt;{{cite web|url=http://www.gentosha.co.jp/search/book.php?ID=600359|title=888 スリーエイト (1)|publisher=[[Gentosha]]|language=Japanese|accessdate=June 16, 2010}}&lt;/ref&gt;
+ | ISBN            = 4-344-80289-6 
+ | ChapterList     =
+ | Summary         = 
+ | LineColor       = CCF
+}}
+{{Graphic novel list
+ | VolumeNumber    = 02
+ | RelDate         = April 24, 2005&lt;ref name=&quot;JapVol2&quot;&gt;{{cite web|url=http://www.gentosha.co.jp/search/book.php?ID=600797|title=888 スリーエイト (2)|publisher=[[Gentosha]]|language=Japanese|accessdate=June 16, 2010}}&lt;/ref&gt;
+ | ISBN            = 4-344-80549-6 
+ | ChapterList     =
+ | Summary         = 
+ | LineColor       = CCF
+}}
+{{Graphic novel list
+ | VolumeNumber    = 03
+ | RelDate         = June 23, 2007&lt;ref name=&quot;JapVol3&quot;&gt;{{cite web|url=http://www.gentosha.co.jp/search/book.php?ID=601392|title=888 スリーエイト (3)|publisher=[[Gentosha]]|language=Japanese|accessdate=June 16, 2010}}&lt;/ref&gt;
+ | ISBN            = 978-4-344-81012-9
+ | ChapterList     =
+ | Summary         = 
+ | LineColor       = CCF
+}}
+{{Graphic novel list
+ | VolumeNumber    = 04
+ | RelDate         = November 22, 2008&lt;ref name=&quot;JapVol4&quot;&gt;{{cite web|url=http://www.gentosha.co.jp/search/book.php?ID=601870|title=888 スリーエイト (4)|publisher=[[Gentosha]]|language=Japanese|accessdate=June 16, 2010}}&lt;/ref&gt;
+ | ISBN            = 978-4-344-81480-6
+ | ChapterList     =
+ | Summary         = 
+ | LineColor       = CCF
+}}
+{{Graphic novel list
+ | VolumeNumber    = 05
+ | RelDate         = May 24, 2010&lt;ref name=&quot;JapVol5&quot;&gt;{{cite web|url=http://www.gentosha.co.jp/search/book.php?ID=602332|title=888 スリーエイト (5)|publisher=[[Gentosha]]|language=Japanese|accessdate=June 16, 2010}}&lt;/ref&gt;
+ | ISBN            = 978-4-344-81955-9
+ | ChapterList     =
+ | Summary         = 
+ | LineColor       = CCF
+}}
+{{Graphic novel list/footer}}
+
+==Critical response==
+[[IGN]] gave the first volume of ''888'' a rating of &quot;Pass It,&quot; complaining that &quot;nothing happens, and it keeps on not happening for eight chapters.&quot;&lt;ref&gt;{{cite web | last = Sparrow | first = A.E.| date = 2006-04-06 | url = http://comics.ign.com/articles/700/700504p1.html | title = 888 Vol. 1 Review | publisher = IGN}}&lt;/ref&gt;
+
+==References==
+{{Reflist|2}}
+
+==External links==
+
+{{DEFAULTSORT:888 (Manga)}}
+[[Category:Comedy anime and manga]]
+[[Category:ComicsOne titles]]
+[[Category:Gentosha manga]]
+[[Category:Manga series]]
+[[Category:Mystery anime and manga]]
+[[Category:Seinen manga]]</text>
+      <sha1>ebx34ooai6l0jey7ip0kkc5q4872nuh</sha1>
+    </revision>
+  </page>
+</mediawiki>

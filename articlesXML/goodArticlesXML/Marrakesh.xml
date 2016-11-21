@@ -1,0 +1,648 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Marrakesh</title>
+    <ns>0</ns>
+    <id>20513</id>
+    <revision>
+      <id>749728255</id>
+      <parentid>749727732</parentid>
+      <timestamp>2016-11-15T21:35:58Z</timestamp>
+      <contributor>
+        <username>Motivação</username>
+        <id>28401773</id>
+      </contributor>
+      <comment>/* International relations */ unnecessary links</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="114012">{{other uses|Marrakesh (disambiguation)}}
+{{Infobox settlement
+|name                   = Marrakesh
+|other_name             = Marrakech
+|native_name            = Meṛṛakec /{{lang|ar|مراكش}} / {{lang|ber|ⴰⵎⵓⵔⴰⴽⵓⵛ}}
+|settlement_type        = Prefecture-level city
+|image_skyline          = Marrakech montage2.png
+|imagesize              = 250px
+|image_caption          = Clockwise, from top: Djamâa el Fna, Saadian wall, Musicians on Djamâa el Fna, Local handicraft, Bab Agnaou, Saadian tombs, Ben Youssef Medersa, Koutoubia Mosque.
+|image_seal             = 
+|image_flag             = 
+|image_map              = Marrakech map.png
+|map_caption            = Map of Marrakesh
+|pushpin_map            = Morocco
+|pushpin_map_caption    = Location in Morocco
+|coordinates_display    = inline,title
+|coordinates_region     = MA
+|subdivision_type       = Country
+|subdivision_name       = {{flag|Morocco}}
+|subdivision_type1      = [[Regions of Morocco|Region]]
+|subdivision_name1      = [[Marrakech-Safi]]
+|subdivision_type2      = [[Provinces of Morocco|Prefecture]]
+|subdivision_name2      = Marrakesh 
+|leader_title           = Mayor
+|leader_name            = [[Mohamed Larbi Belcaid]]&lt;ref&gt;{{fr}}{{cite web|title=Présidences des communes: des résultats sans surprises|url=http://www.medias24.com/Les-plus-de-Medias-24/157925-Mohamed-Larbi-Belcaid-PJD-nouveau-maire-de-Marrakech.html|website=medias24.com|accessdate=23 October 2015}}&lt;/ref&gt;
+|established_title      = Established
+|established_date       = 1062
+|founder                = [[Abu Bakr ibn Umar]]
+|area_total_km2         = 
+|population_as_of       = 2014
+|population_total       = 928,850&lt;ref name=&quot;census&quot;&gt;[http://rgph-2014.hcp.ma/attachment/562303/ 2014 Morocco Population Census]&lt;/ref&gt;
+|population_density_km2 =
+|population_metro       = 1,063,415
+|population_rank        = [[List of cities in Morocco|4th]]
+|timezone               = [[Western European Time|WET]] 
+|utc_offset             =  +0
+|timezone_DST           = [[Western European Summer Time|WEST]]
+|utc_offset_DST         = +1
+|latd=31 |latm=37 |lats = 48 |latNS=N
+|longd=8|longm=0|longs  = 32 |longEW=W
+|elevation_footnotes    =  
+|elevation_m            = 466
+|elevation_ft           =
+|elevation_max_m        = 
+|elevation_max_ft       =
+|elevation_min_m        = 
+|elevation_min_ft       =
+|website                = 
+|footnotes              = 
+}}
+
+'''Marrakesh''' also known by the [[French language|French]] [[spelling]] '''Marrakech'''{{sfn|Nanjira|2010|p=208}} ({{IPAc-en|m|ə|ˈ|r|æ|k|ɛ|ʃ}} or {{IPAc-en|ˌ|m|æ|r|ə|ˈ|k|ɛ|ʃ}};&lt;ref&gt;{{cite web|url=http://www.collinsdictionary.com/dictionary/english/marrakech?showCookiePolicy=true|title=Marrakech or Marrakesh
+|accessdate=24 September 2014|publisher=Collins Dictionary|date=n.d.}}&lt;/ref&gt; {{lang-ar|مراكش}}, ''Murrākuš''; {{lang-ber|''Meṛṛakec'', ⴰⵎⵓⵔⴰⴽⵓⵛ}}) is a major city of the [[Morocco|Kingdom of Morocco]]. It is the fourth largest city in the country, after [[Casablanca]], [[Fes]] and [[Tangier]]. It is the capital city of the mid-southwestern region of [[Marrakesh-Safi]]. Located to the north of the foothills of the snow-capped [[Atlas Mountains]], Marrakesh is located {{convert|580|km|abbr=on}} southwest of Tangier, {{convert|327|km|abbr=on}} southwest of the Moroccan capital of Rabat, {{convert|239|km|abbr=on}} south of Casablanca, and {{convert|246|km|abbr=on}} northeast of [[Agadir]].
+
+Marrakesh is possibly the most important of Morocco's four [[History of Morocco|former]] [[Imperial cities of Morocco|imperial cities]] (cities that were built by Moroccan Berber empires). The region has been inhabited by [[Berber people|Berber]] farmers since [[Neolithic]] times, but the actual city was founded in 1062 by [[Abu Bakr ibn Umar]], chieftain and cousin of [[Almoravid dynasty|Almoravid]] king [[Yusuf ibn Tashfin]]. In the 12th century, the Almoravids built many [[madrasa]]s (Koranic schools) and mosques in Marrakesh that bear [[Andalusia]]n influences. The red walls of the city, built by [[Ali ibn Yusuf]] in 1122–1123, and various buildings constructed in red sandstone during this period, have given the city the nickname of the &quot;Red City&quot; or &quot;Ochre City&quot;. Marrakesh grew rapidly and established itself as a cultural, religious, and trading centre for the [[Maghreb]] and sub-Saharan Africa; [[Jemaa el-Fnaa]] is the busiest square in Africa.
+
+After a period of decline, the city was surpassed by [[Fes]], but in the early 16th century, Marrakesh again became the capital of the kingdom. The city regained its preeminence under wealthy [[Saadian dynasty|Saadian]] sultans [[Abu Abdallah al-Qaim]] and [[Ahmad al-Mansur]], who embellished the city with sumptuous palaces such as the [[El Badi Palace]] (1578) and restored many ruined monuments. Beginning in the 17th century, the city became popular among [[sufism|Sufi]] pilgrims for Morocco's seven patron saints, who are entombed here. In 1912 the French Protectorate in Morocco was established and [[T'hami El Glaoui]] became Pasha of Marrakesh and held this position nearly throughout the duration of the protectorate until the role was dissolved upon independence of Morocco and the reestablishment of the monarchy in 1956. In 2009, Marrakesh mayor [[Fatima Zahra Mansouri]] became the second woman to be elected mayor in Morocco.
+
+Like many Moroccan cities, Marrakesh comprises an old fortified city packed with vendors and their stalls (the [[medina quarter|''medina'']]), bordered by modern neighborhoods, the most prominent of which is ''Gueliz''. Today it is one of the busiest cities in Africa and serves as a major economic centre and tourist destination. Tourism is strongly advocated by the reigning Moroccan monarch, [[Mohammed VI of Morocco|Mohammed VI]], with the goal of doubling the number of tourists visiting Morocco to 20 million by 2020. Despite the economic recession, real estate and hotel development in Marrakesh has grown dramatically in the 21st century. Marrakesh is particularly popular with the French, and numerous French celebrities own property in the city. Marrakesh has the largest traditional market (''[[souk]]'') in Morocco, with some 18 ''souks'' selling wares ranging from traditional [[Berber carpet]]s to modern consumer electronics. Crafts employ a significant percentage of the population, who primarily sell their products to tourists.
+
+Marrakesh is served by [[Menara International Airport|Ménara International Airport]] and the [[Marrakesh railway station]], which connects the city to [[Casablanca]] and northern Morocco. Marrakesh has several universities and schools, including [[Cadi Ayyad University]]. A number of Moroccan football clubs are located here, including [[Najm de Marrakech]], [[KAC Marrakech]], [[Mouloudia de Marrakech]] and [[Chez Ali Club de Marrakech]]. The [[Marrakesh Street Circuit]] hosts the [[World Touring Car Championship]], [[Auto GP]] and [[FIA Formula Two Championship]] races.
+
+==Etymology==
+The exact meaning of the name is debated.{{sfn|Shillington|2005|p=948}} The probable origin of the name Marrakesh is from the [[Berber language|Berber]] (Amazigh) words ''amur (n) akush'' (ⴰⵎⵓⵔ ⵏ ⴰⴽⵓⵛ), which means &quot;Land of God&quot;.{{sfn|Nanjira|2010|p=208}} According to historian Susan Searight, however, the town's name was first documented in an 11th-century manuscript in the [[Qarawiyyin]] library in [[Fes|Fez]], where its meaning was given as &quot;country of the sons of Kush&quot;.{{sfn|Searight|1999|p=378}} The word ''mur'' {{sfn|Egginton|Pitz|2010|p=11}} is used now in Berber mostly in the feminine form ''tamurt''. The same word &quot;mur&quot; appears in [[Mauretania]], the North African kingdom from antiquity, although the link remains controversial as this name possibly originates from μαύρος ''mavros'', the [[ancient Greek]] word for black.{{sfn|Shillington|2005|p=948}} The common English spelling is &quot;Marrakesh&quot;,{{sfn|Bosworth|1989|p=588}}{{sfn|Cornell|1998|p=15}} although &quot;Marrakech&quot; (the [[French language|French]] spelling) is also widely used.{{sfn|Nanjira|2010|p=208}} The name is spelled ''Mṛṛakc'' in the [[Berber Latin alphabet]], ''Marraquexe'' in [[Portuguese language|Portuguese]], ''Marraquech'' in [[Spanish language|Spanish]],{{sfn|Bosworth|1989|p=588}}{{sfn|Cornell|1998|p=15}} and &quot;Mer-reksh&quot; in [[Moroccan Arabic]].{{sfn|Egginton|Pitz|2010|p=11}}
+
+From medieval times until around the beginning of the 20th century, the entire country of Morocco was known as the &quot;Kingdom of Marrakesh&quot;, as the kingdom's [[History of Morocco|historic]] capital city was often Marrakesh.{{sfn|Bosworth|1989|p=593}}{{sfn|Gottreich|2007|p=10}} The name for Morocco is still &quot;Marrakesh&quot; to this day in [[Persian language|Persian]] and [[Urdu]] (مراكش) as well as many other South Asian languages. Various European names for Morocco (Marruecos, Marrocos, Maroc, Marokko, etc.) are directly derived from the Berber word ''Murakush''. Conversely, the city itself was in earlier times simply called ''Marocco City'' (or similar) by travelers from abroad. The name of the city and the country diverged after the [[Treaty of Fez]] made Morocco a [[French and Spanish protectorate of Morocco|French and Spanish protectorate]], but the old interchangeable usage lasted widely until about the interregnum of [[Mohammed Ben Aarafa]] (1953–1955).&lt;ref name=&quot;IbpUSA2006&quot;&gt;{{cite book|author1=International Business Publications |title=Morocco Country Study Guide|url=https://books.google.com/books?id=8GjrAeMS1dIC&amp;pg=PA23|accessdate=29 June 2013|date=1 April 2006|publisher=International Business Publications|isbn=978-0-7397-1514-7|page=23}}&lt;/ref&gt; The latter episode set in motion the country's return to independence, when Morocco officially became ''al-Mamlaka al-Maġribiyya'' (المملكة المغربية) (&quot;The Maghreb Kingdom&quot;), its name no longer referring to the city of Marrakesh. Marrakesh is known by a variety of nicknames, including the &quot;Red City&quot;, the &quot;Ochre City&quot; and &quot;the Daughter of the Desert&quot;, and has been the focus of poetic analogies such as one comparing the city to &quot;a drum that beats an [[Africa]]n identity into the complex soul of Morocco.&quot;{{sfn|Rogerson|Lavington|2004|p=xi}}
+
+==History==
+{{main article|History of Marrakesh|Timeline of Marrakesh}}
+The Marrakesh area was inhabited by Berber farmers from [[Neolithic]] times, and numerous stone implements have been unearthed in the area.{{sfn|Searight|1999|p=378}} Marrakesh was founded in 1062 (454 in the [[Hijri year|Hijri calendar]]) by [[Abu Bakr ibn Umar]], chieftain and second cousin of the [[Almoravid dynasty|Almoravid]] king [[Yusuf ibn Tashfin]] (c. 1061–1106).{{Sfn|Messier|2010|p=180}}{{sfn|Naylor|2009|p=90}}{{sfn|Gerteiny|1967|p=28}} Under the Almoravids, pious and learned warriors from the desert, numerous mosques and [[madrasa]]s (Koranic schools) were built, developing the community into a trading center for the [[Maghreb]] and sub-Saharan Africa.&lt;ref name=&quot;International2005&quot;&gt;{{cite book|title=The Rotarian|url=https://books.google.com/books?id=DjMEAAAAMBAJ&amp;pg=PA14|accessdate=9 October 2012|date=July 2005|publisher=Rotary International|page=14|issn=0035-838X}}&lt;/ref&gt; Marrakesh grew rapidly and established itself as a cultural and religious center, supplanting [[Aghmat]], which had long been the capital of [[Haouz]]. Andalusian craftsmen from [[Córdoba, Andalusia|Cordoba]] and [[Seville]] built and decorated numerous palaces in the city, developing the [[Umayyad]] style characterized by carved domes and cusped arches.{{sfn|Searight|1999|p=378}}{{sfn|Lehmann|Henss|Szerelmy|2009|p=292}} This Andalusian influence merged with designs from the Sahara and West Africa, creating a unique style of architecture which was fully adapted to the Marrakesh environment. Yusuf ibn Tashfin completed the city's first mosque (the [[Ben Youssef Mosque|Ben Youssef mosque]], named after his son), built houses, minted coins, and brought gold and silver to the city in caravans.{{sfn|Searight|1999|p=378}} The city became the capital of the Almoravid Emirate, stretching from the shores of [[Senegal]] to the center of [[Spain]] and from the Atlantic coast to [[Algiers]].
+[[File:Almoravid dinar 1138 631905.jpg|thumb|right|Gold coin minted during the reign of Ali ibn Yusef]]
+
+Marrakesh is one of the great citadels of the [[Muslim world]].{{sfn|Rogerson|Lavington|2004|p=xi}} The city was fortified by Tashfin's son, [[Ali ibn Yusuf]], who in 1122–1123 built the ramparts which remain to this day, completed further mosques and palaces, and developed an underground water system in the city known as the ''rhettara'' to irrigate his new garden.{{sfn|Searight|1999|p=378}} In 1125, the preacher [[Ibn Tumert]] settled in [[Tin Mal]] in the mountains to the south of Marrakesh. He preached against the Almoravids and influenced a revolt which succeeded in bringing about the fall of nearby [[Aghmat]], but stopped short of bringing down Marrakesh following an unsuccessful siege in 1130.{{sfn|Searight|1999|p=378}} The [[Almohad Caliphate|Almohads]], [[Masmuda|Masmouda]] tribesmen from the [[High Atlas]] mountains who practiced orthodox Islam, took the city in 1147 under leader [[Abd al-Mu'min]].{{sfn|Searight|1999|p=378}} After a long siege and the killing of some 7,000 people, the last of the Almoravids were exterminated apart from those who sought exile in the [[Balearic Islands]]. As a result, almost all the city's monuments were destroyed.{{sfn|Searight|1999|p=378}} The Almohads constructed a range of palaces and religious buildings, including the famous [[Koutoubia Mosque]] (1184–1199), and built upon the ruins of an Almoravid palace.{{sfn|Searight|1999|p=378}} It was a twin of the [[Giralda]] in Seville and the unfinished [[Hassan Tower]] in [[Rabat]], all built by the same designer.{{sfn|Barrows|2004|p=85}} The Kasbah housed the residence of the caliph, a title borne by the Almohad rulers from the reign of Abd al-Mu'min, rivaling the far eastern [[Abbasid Caliphate]]. The Kasbah was named after the caliph [[Yaqub al-Mansur]]. The irrigation system was perfected to provide water for new palm groves and parks, including the [[Menara Garden]].{{sfn|Searight|1999|p=378}} As a result of its cultural reputation, Marrakesh attracted many writers and artists, especially from [[Andalusia]], including the famous philosopher [[Averroes]] of [[Cordoba, Spain|Cordoba]].
+
+The death of [[Yusuf II, Almohad Caliph|Yusuf II]] in 1224 began a period of instability. Marrakesh became the stronghold of the Almohad tribal sheikhs and the ''ahl ad-dar'' (descendants of [[Ibn Tumart]]), who sought to claw power back from the ruling Almohad family. Marrakesh was taken, lost and retaken by force multiple times by a stream of caliphs and pretenders, such as during the brutal seizure of Marrakesh by the Sevillan caliph [[Abd al-Wahid II|Abd al-Wahid II al-Ma'mun]] in 1226, which was followed by a massacre of the Almohad tribal sheikhs and their families and a public denunciation of Ibn Tumart's doctrines by the caliph from the pulpit of the Kasbah mosque.&lt;ref name = cenival300&gt;Cenival (1913–38: p.300; 2007: p.324)&lt;/ref&gt; After al-Ma'mun's death in 1232, his widow attempted to forcibly install her son, acquiring the support of the Almohad army chiefs and Spanish mercenaries with the promise to hand Marrakesh over to them for the [[looting|sack]]. Hearing of the terms, the people of Marrakesh sought to make an agreement with the military captains and saved the city from destruction with a sizable payoff of 500,000 dinars.&lt;ref name = cenival300/&gt; In 1269, Marrakesh was conquered by nomadic [[Zenata]] tribes who overran the last of the Almohads.{{sfn|Lehmann|Henss|Szerelmy|2009|p=57}} The city then fell into a state of decline, which soon led to the loss of its status as capital to rival city Fes.
+[[File:El Badi Palace 3.jpg|thumb|left|El Badi Palace]]
+
+In the early 16th century, Marrakesh again became the capital of the kingdom, after a period when it was the seat of the [[Hintata]] emirs. It quickly reestablished its status, especially during the reigns of the [[Saadian dynasty|Saadian]] sultans [[Abu Abdallah al-Qaim]] and [[Ahmad al-Mansur]]. Thanks to the wealth amassed by the Sultans, Marrakesh was embellished with sumptuous palaces while its ruined monuments were restored. El Badi Palace, built by Ahmad al-Mansur in 1578, was a replica of the [[Alhambra Palace]], made with costly and rare materials including marble from Italy, gold dust from Sudan, [[porphyry (geology)|porphyry]] from India and jade from China. The palace was intended primarily for hosting lavish receptions for ambassadors from Spain, England and the Ottoman Empire, showcasing Saadian Morocco as a nation whose power and influence reached as far as the borders of [[Niger]] and [[Mali]].&lt;ref name=&quot;Communications1996&quot;&gt;{{cite book|title=Orange Coast Magazine|url=https://books.google.com/books?id=wP0DAAAAMBAJ&amp;pg=PA46|accessdate=16 October 2012|date=February 1996|publisher=Emmis Communications|page=46|issn=0279-0483}}&lt;/ref&gt; Under the Saadian dynasty, Marrakesh regained its former position as a point of contact for caravan routes from the Maghreb, the Mediterranean and sub-Saharan African. &lt;!--As a trading center, Marrakesh had once influenced political polarization of the western Maghreb in 1947, after Marrakesh was established, due to the termination of Marinid Dynasty, Wattasid rulers getting to Fes and Saadi’s (hierarchy traced to the prophet Mohhamed’s period) from the south. In the late 15th century the Portuguese took advantage of ongoing trade and territorial disputes to establish a number of outposts in Morocco in the cities of [[Azemmour]] (1486) and [[Safi, Morocco|Safi]] (1488) on the pretext of military protection. When these two cities sought independence, however, they were occupied by the Portuguese army.{{sfn|Delbeke|Schraven|2011|p=185}}&lt;ref&gt;{{Cite web|url=http://repositorium.sdum.uminho.pt/bitstream/1822/22424/1/Intersections22_JCorreia.pdf|format=pdf|title=Clash of Power and Creed: Cultural (RE) &quot;Foundations in Northwest Africa|accessdate=28 June 2013|publisher= Universidade do Minho}}&lt;/ref&gt;--&gt;
+
+For centuries Marrakesh has been known as the location of the tombs of Morocco's seven patron saints (''sebaatou rizjel''). When [[sufism]] was at the height of its popularity during the late 17th century reign of [[Ismail Ibn Sharif|Moulay Ismail]], the festival of these saints was founded by [[Abu Ali al-Hassan al-Yusi]] at the request of the sultan.&lt;ref&gt;{{Cite web|url=http://www.dar-sirr.com/Patron_Saints_of_Marrakech.html|title=The Patron Saints of Marrakech|accessdate=28 June 2013|publisher=Dar-Sirr.com}}&lt;/ref&gt; The tombs of several renowned figures were moved to Marrakesh to attract pilgrims, and the pilgrimage associated with the seven saints is now a firmly established institution. Pilgrims visit the tombs of the saints in a specific order, as follows: [[Sidi Yusuf|Sidi Yusuf Ali Sangadji]] (1196–97), a leper; [[Cadi Ayyad ben Moussa|Kadi Iyad]] or Kadi of Cueta (1083–1149), a theologian and author of [[Ash-Shifa]] (treatises on the virtues of [[Muhammad]]); [[Abu al-Abbas as-Sabti|Sidi Bel Abbas]]  (1130–1204), known as the patron saint of the city and most revered in the region; [[Muhammad al-Jazuli|Sidi Muhammad al-Jazuli]] (1465), a well known Sufi who founded the Djazuli brotherhood; [[Abdelaziz al-Tebaa]] (1508), a student of Djazuli; [[Abdallah al-Ghazwani]] (1528), known as Mawla; and [[Al-Suhayli|Sidi Abu al-Qasim Al-Suhayli]], (1185), also known as Imam Al Suhyani.{{sfn|Bosworth|1989|p=591}} Until 1867, European Christians were not authorized to enter the city unless they acquired special permission from the sultan; east European Jews were permitted. {{sfn|Gottreich|2007|p=10}}
+
+During the early 20th century, Marrakesh underwent several years of unrest. After the premature death in 1900 of the grand vizier [[Ba Ahmed]], who had been designated regent until the designated sultan [[Abdelaziz of Morocco|Abd al-Aziz]] became of age, the country was plagued by anarchy, tribal revolts, the plotting of feudal lords, and European intrigues. In 1907, Marrakesh caliph [[Moulay Abd al-Hafid]] was proclaimed sultan by the powerful tribes of the High Atlas and by [[Ulama]] scholars who denied the legitimacy of his brother, Abd al-Aziz.{{sfn|Loizillon|2008|p=50}} It was also in 1907 that Dr. Mauchamp, a French doctor, was murdered in Marrakesh, suspected of spying for his country.&lt;ref&gt;Chisholm, Hugh, General Editor. Entry for 'Marrakesh'. [[1911 Encyclopedia Britannica]] (1910).&lt;/ref&gt; France used the event as a pretext for sending its troops from the eastern Moroccan town of [[Oujda]] to the major metropolitan center of Casablanca in the west. The French colonial army encountered strong resistance from [[Ahmed al-Hiba]], a son of Sheikh [[Ma al-'Aynayn]], who arrived from the Sahara accompanied by his nomadic Reguibat tribal warriors. On 30 March 1912, the French Protectorate in Morocco was established.&lt;ref&gt;{{cite book|title=Bibliographic Set (2 Vol Set). International Court of Justice, Digest of Judgments and Advisory Opinions, Canon and Case Law 1946 – 2011|url=https://books.google.com/books?id=q_L23IXwnFQC&amp;pg=PA117|accessdate=7 July 2013|publisher=Martinus Nijhoff Publishers|isbn=978-90-04-23062-0|page=117}}&lt;/ref&gt; After the [[Battle of Sidi Bou Othman]], which saw the victory of the French Mangin column over the al-Hiba forces in September 1912, the French seized Marrakesh. The conquest was facilitated by the rallying of the Imzwarn tribes and their leaders from the powerful Glaoui family, leading to a massacre of Marrakesh citizens in the resulting turmoil.{{sfn|Barrows|2004|p=73}}
+[[File:Thami El Glaoui.jpg|thumb|right|[[T'hami El Glaoui]], [[Pasha]] of Marrakesh (1912 to 1956).]]
+[[T'hami El Glaoui]], known as &quot;Lord of the Atlas&quot;, became Pasha of Marrakesh, a post he held virtually throughout the 44-year duration of the Protectorate (1912–1956).{{sfn|Lehmann|Henss|Szerelmy|2009|p=84}} Glaoui dominated the city and became famous for his collaboration with the general residence authorities, culminating in a plot to dethrone Mohammed Ben Youssef (Mohammed V) and replace him with the Sultan's cousin, [[Ben Arafa]].{{sfn|Lehmann|Henss|Szerelmy|2009|p=84}} Glaoui, already known for his amorous adventures and lavish lifestyle, became a symbol of Morocco's colonial order. He could not, however, subdue the rise of nationalist sentiment, nor the hostility of a growing proportion of the inhabitants. Nor could he resist pressure from France, who agreed to terminate its Moroccan Protectorate in 1956 due to the launch of the [[Algerian War]] (1954–1962) immediately following the end of the [[Indochina War|war]] in [[Indochina]] (1946–1954), in which Moroccans had been conscripted to fight in [[Vietnam]] on behalf of the French Army. After two successive exiles to [[Corsica]] and [[Madagascar]], Mohammed Ben Youssef was allowed to return to Morocco in November 1955, bringing an end to the despotic rule of Glaoui over Marrakesh and the surrounding region. A protocol giving independence to Morocco was then signed on 2 March 1956 between French Foreign Minister Christian Pineau and M’Barek Ben Bakkai.{{sfn|Hoisington|2004|p=109}}
+[[File:MARRAKECH MOROCCO APRIL 2013 (8713889396).jpg|thumb|left|Marrakesh in April 2013]]
+
+Since the independence of Morocco, Marrakesh has thrived as a tourist destination. In the 1960s and early 1970s the city became a trendy &quot;[[Hippies|hippie]] mecca&quot;. It attracted numerous western rock stars and musicians, artists, film directors and actors, models, and fashion divas,{{sfn|Christiani|2009|p=38}} leading tourism revenues to double in Morocco between 1965 and 1970.&lt;ref&gt;{{cite book|title=MEED.|url=https://books.google.com/books?id=gthHAAAAYAAJ|page=324|accessdate=8 July 2013|year=1971|publisher=Economic East Economic Digest, Limited}}&lt;/ref&gt; [[Yves Saint Laurent (designer)|Yves Saint Laurent]], [[The Beatles]], [[The Rolling Stones]] and [[Jean-Paul Getty]] all spent significant time in the city; Laurent bought a property here and renovated the Majorelle Gardens.{{Sfn|Sullivan|2006|p=8}}{{sfn|Howe|2005|p=46}} Expatriates, especially those from France, have invested heavily in Marrakesh since the 1960s, and developed many of the ''[[Riad (Morocco)|riad]]s'' and palaces.{{Sfn|Sullivan|2006|p=8}} Old buildings were renovated in the Old Medina, new residences and commuter villages were built in the suburbs, and new hotels began to spring up.
+
+[[United Nations]] agencies became active in Marrakesh beginning in the 1970s, and the city's international political presence has subsequently grown. In 1985, [[UNESCO]] declared the old town area of Marrakesh a [[UNESCO World Heritage Site]], raising international awareness of the cultural heritage of the city.{{sfn|Shackley|2012|p=43}} In the 1980s, [[Patrick Guerand-Hermes]] purchased the {{Convert|30|acre}} [[Ain el Quassimou]], built by the family of [[Leo Tolstoy]]. {{sfn|Howe|2005|p=46}} On 15 April 1994, the [[Marrakesh Agreement]] was signed here to establish the [[World Trade Organization]],&lt;ref&gt;{{Cite web|url=http://treaties.un.org/untc//Pages//doc/Publication/UNTS/Volume%201867/volume-1867-I-31874-English.pdf|format=pdf|title= Marrakesh Agreement establishing the World Trade Organization (with final act, annexes and protocol). Concluded at Marrakesh on 15 April 1994 |accessdate=13 July 2013|publisher= United Nations}}&lt;/ref&gt; and in March 1997 Marrakesh served as the site of the [[World Water Council]]'s first World Water Forum, which was attended by over 500 international participants.{{sfn|Academie de droit|2002|p=71}}
+
+In the 21st century, property and real estate development in the city has boomed, with a dramatic increase in new hotels and shopping centres, fuelled by the policies of [[Mohammed VI of Morocco]], who aims to increase the number of tourists annually visiting Morocco to 20 million by 2020. In 2010, a major gas explosion occurred in the city. On 28 April 2011, a [[the 2011 Marrakech bombing|bomb attack]] took place in the [[Jemaa el-Fnaa]] square, killing 15 people, mainly foreigners. The blast destroyed the nearby Argana Cafe.&lt;ref name=&quot;BBC0411&quot;&gt;{{cite web|url=http://www.bbc.co.uk/news/world-africa-13226117|title=Morocco: Marrakesh bomb strikes Djemaa el-Fna square|publisher=[[BBC]]|date=28 April 2011|accessdate=28 October 2012}}&lt;/ref&gt; Police sources arrested three suspects and claimed the chief suspect was loyal to [[Al-Qaeda]], although [[Al-Qaeda in the Islamic Maghreb]] denied involvement.&lt;ref&gt;{{Cite web|url=http://www.reuters.com/article/2011/05/07/us-morocco-attack-qaeda-idUSTRE7462FB20110507|title= Qaeda denies involvement in Morocco cafe bomb attack|date=7 May 2011|accessdate=29 June 2013|publisher=Reueters}}&lt;/ref&gt;
+
+==Geography==
+[[File:Pavillon Menaragärten.jpg|thumb|right|300px|In winter, the [[Atlas mountains]] typically are covered in snow and ice]]
+
+By road, Marrakesh is located {{convert|580|km}} southwest of [[Tangier]], {{convert|327|km}} southwest of the Moroccan capital of [[Rabat]], {{convert|239|km}} southwest of Casablanca, {{convert|196|km}} southwest of [[Beni Mellal]], {{convert|177|km}} east of [[Essaouira]], and {{convert|246|km}} northeast of [[Agadir]].&lt;ref name=&quot;GM&quot;&gt;{{cite map|title= Maps|publisher=[[Google Maps]]}}&lt;/ref&gt; The city has expanded north from the old centre with suburbs such as [[Daoudiate]], [[Diour El Massakine]], [[Yamama]], [[Sidi Abbad]], [[Sakar, Morocco|Sakar]], and [[Malizia]], to the southeast with [[Sidi Youssef Ben Ali]], to the west with [[Massima]], and southwest to [[Hay Annahda]], [[Berradi]] and beyond the airport.&lt;ref name=&quot;GM&quot;/&gt; On the P2017 road leading south out of the city are large villages such as  [[Douar Lahna]], [[Touggana]], [[Lagouassem]], and [[Lahebichate]], leading eventually through desert to the town of [[Tahnaout]] at the edge of the [[High Atlas]], the highest mountainous barrier in North Africa.&lt;ref name=&quot;GM&quot;/&gt; The average elevation of the snow-covered High Atlas lies above {{convert|3000|m}}. It is mainly composed of [[Jurassic]] [[limestone]]. The mountain range runs along the Atlantic coast, then rises to the east of Agadir and extends northeast into Algeria before disappearing into [[Tunisia]].{{Sfn|Clark|2012|pp=11–13}}
+
+The [[Ourika River]] valley is located about {{convert|30|km}} south of Marrakesh.{{sfn|Searight|1999|p=407}} The &quot;silvery valley of the Ourika river curving north towards Marrakesh&quot;, and the &quot;red heights of [[Jebel Yagour]] still capped with snow&quot; to the south are sights in this area.{{sfn| Rogerson|Lavington|2004|p=49}} [[David Prescott Barrows]], who describes Marrakesh as Morocco's &quot;strangest city&quot;, describes the landscape in the following terms: &quot;The city lies some fifteen or twenty miles from the foot of the Atlas mountains, which here rise to their grandest proportions. The spectacle of the mountains is superb. Through the clear desert air the eye can follow the rugged contours of the range for great distances to the north and eastward. The winter snows mantle them with white, and the turquoise sky gives a setting for their grey rocks and gleaming caps that is of unrivaled beauty.&quot;{{sfn|Barrows|2004|p=73}}
+
+With 130,000 hectares of greenery and over 180,000 palm trees in its Palmeraie, Marrakesh is an oasis of rich plant variety. Throughout the seasons, fragrant [[orange (fruit)|orange]], [[ficus|fig]], [[pomegranate]] and [[olive]] trees display their color and fruits in [[Agdal Garden]], [[Menara Garden]] and other gardens in the city.{{sfn|Lehmann|Henss|Szerelmy|2009|p=310}} The city's gardens feature numerous native plants alongside other species that have been imported over the course of the centuries, including giant [[bamboo]]s, [[yucca]]s, [[papyrus]], [[palm tree]]s, [[banana tree]]s, [[cypress]], [[philodendron]]s, [[rose]] bushes, [[bougainvilleas]], [[pine]]s and various kinds of [[cactus]] plants.
+
+=== Climate ===
+A [[hot semi-arid climate]] ([[Köppen-Geiger climate classification system|Köppen]]: BSh) predominates at Marrakesh. Average temperatures range from {{Convert|12|C|F}} in the winter to {{Convert|32|-|45|C|F}} in the summer.&lt;ref name=&quot;NOAA&quot;/&gt; The relatively wet winter and dry summer precipitation pattern of Marrakesh mirrors precipitation patterns found in [[Mediterranean Climate|Mediterranean climates]]. However, the city receives less rain than is typically found in a Mediterranean climate, resulting in a semi-arid climate classification. Between 1961 and 1990 the city averaged {{convert|281.3|mm|in|1}} of precipitation annually.&lt;ref name=&quot;NOAA&quot;/&gt; Barrows says of the climate, &quot;The region of Marrakesh is frequently described as desert in character, but, to one familiar with the [[Southwestern United States|southwestern parts of the United States]], the locality does not suggest the desert, but rather an area of seasonal rainfall, where moisture moves underground rather than by surface streams, and where low brush takes the place of the forests of more heavily watered regions. The location of Marrakesh on the north side of the [[Atlas Mountains|Atlas]], rather than the south, forbids its from being described as a desert city, but it remains the northern focus of the Saharan lines of communication, and its history, its types of dwellers, and its commerce and arts, are all related to the great south Atlas spaces that reach further into the [[Sahara desert]].&quot;{{sfn|Barrows|2004|p=74}}
+
+{{Weather box|location = Marrakesh, Morocco ([[Menara International Airport]]) 1961–1990, extremes 1900–present
+|metric first = Yes
+|single line = Yes
+|Jan record high C = 30.1
+|Feb record high C = 34.3
+|Mar record high C = 37.0
+|Apr record high C = 39.6
+|May record high C = 44.4
+|Jun record high C = 46.9
+|Jul record high C = 49.6
+|Aug record high C = 48.6
+|Sep record high C = 44.8
+|Oct record high C = 38.7
+|Nov record high C = 35.2
+|Dec record high C = 30.0
+|year record high C = 49.6
+|Jan high C = 18.4
+|Feb high C = 19.9
+|Mar high C = 22.3
+|Apr high C = 23.7
+|May high C = 27.5
+|Jun high C = 31.3
+|Jul high C = 36.8
+|Aug high C = 36.5
+|Sep high C = 32.5
+|Oct high C = 27.5
+|Nov high C = 22.2
+|Dec high C = 18.7
+|year high C = 26.4
+|Jan mean C = 12.2
+|Feb mean C = 13.8
+|Mar mean C = 15.8
+|Apr mean C = 17.3
+|May mean C = 20.6
+|Jun mean C = 23.8
+|Jul mean C = 28.3
+|Aug mean C = 28.3
+|Sep mean C = 25.3
+|Oct mean C = 21.1
+|Nov mean C = 16.3
+|Dec mean C = 12.6
+|year mean C = 19.6
+|Jan low C = 5.9
+|Feb low C = 7.6
+|Mar low C = 9.4
+|Apr low C = 11.0
+|May low C = 13.8
+|Jun low C = 16.3
+|Jul low C = 19.9
+|Aug low C = 20.1
+|Sep low C = 18.2
+|Oct low C = 14.7
+|Nov low C = 10.4
+|Dec low C = 6.5
+|year low C = 12.8
+|Jan record low C = -2.3
+|Feb record low C = -3.0
+|Mar record low C = 0.4
+|Apr record low C = 2.8
+|May record low C = 6.8
+|Jun record low C = 9.0
+|Jul record low C = 10.4
+|Aug record low C = 6.0
+|Sep record low C = 10.0
+|Oct record low C = 1.1
+|Nov record low C = 0.0
+|Dec record low C = -1.6
+|year record low C = -3.0
+|precipitation colour = green
+|Jan precipitation mm = 32.2
+|Feb precipitation mm = 37.9
+|Mar precipitation mm = 37.8
+|Apr precipitation mm = 38.8
+|May precipitation mm = 23.7
+|Jun precipitation mm = 4.5
+|Jul precipitation mm = 1.2
+|Aug precipitation mm = 3.4
+|Sep precipitation mm = 5.9
+|Oct precipitation mm = 23.9
+|Nov precipitation mm = 40.6
+|Dec precipitation mm = 31.4
+|year precipitation mm = 281.3
+|Jan precipitation days = 7.6
+|Feb precipitation days = 6.8
+|Mar precipitation days = 7.5
+|Apr precipitation days = 7.7
+|May precipitation days = 4.8
+|Jun precipitation days = 1.2
+|Jul precipitation days = 0.6
+|Aug precipitation days = 1.2
+|Sep precipitation days = 2.8
+|Oct precipitation days = 5.5
+|Nov precipitation days = 6.6
+|Dec precipitation days = 6.5
+|year precipitation days = 58.8
+|Jan humidity = 65
+|Feb humidity = 66
+|Mar humidity = 61
+|Apr humidity = 60
+|May humidity = 58
+|Jun humidity = 55
+|Jul humidity = 47
+|Aug humidity = 47
+|Sep humidity = 52
+|Oct humidity = 59
+|Nov humidity = 62
+|Dec humidity = 65
+|year humidity = 58
+|Jan sun = 220.6
+|Feb sun = 209.4
+|Mar sun = 247.5
+|Apr sun = 254.5
+|May sun = 287.2
+|Jun sun = 314.5
+|Jul sun = 335.2
+|Aug sun = 316.2
+|Sep sun = 263.6
+|Oct sun = 245.3
+|Nov sun = 214.1
+|Dec sun = 220.6
+|year sun = 3128.7
+|source 1 = NOAA&lt;ref name= NOAA&gt;{{cite web
+| url = ftp://ftp.atdd.noaa.gov/pub/GCOS/WMO-Normals/RA-I/FM/60230.TXT
+| title = Marrakech (Marrakesh) Climate Normals 1961–1990
+| publisher = [[National Oceanic and Atmospheric Administration]]
+| accessdate = January 26, 2016}}&lt;/ref&gt;
+|source 2 = [[Deutscher Wetterdienst]] (record highs for February, April, May, September and November, and humidity),&lt;ref name = DWD&gt;
+{{cite web
+| url = http://www.dwd.de/DWD/klima/beratung/ak/ak_602300_kt.pdf
+| title = Klimatafel von Marrakech / Marokko
+| work = Baseline climate means (1961-1990) from stations all over the world
+| publisher = Deutscher Wetterdienst
+| language = German
+| accessdate = January 26, 2016}}&lt;/ref&gt;  Meteo Climat (record highs and record lows for June, July and August only)&lt;ref name = meteoclimat&gt;
+{{cite web 
+| url = http://meteo-climat-bzh.dyndns.org/index.php?page=stati&amp;id=1557
+| title = Station Menara
+| publisher = Météo Climat 
+| language = French 
+| accessdate = October 14, 2016}}&lt;/ref&gt;
+}}
+
+==Demographics==
+According to the 2014 census, the population of Marrakesh was 928,850 against 843,575 in 2004. The number of households in 2014 was 217,245 against 173,603 in 2004.&lt;ref name=&quot;census&quot; /&gt;&lt;ref name=&quot;Pop&quot;&gt;{{cite web|url=http://www.lavieeco.com/documents_officiels/Recensement%20population.pdf|title=Recensement général de la population et de l'habitat de 2004|publisher=Haut-commissariat au Plan, Lavieeco.com|accessdate=27 April 2012}}&lt;/ref&gt;
+
+==Economy==
+[[File:SOFITEL HOTEL MARRAKECH MOROCCO APRIL 2013 (8709735037).jpg|thumb|right|Sofitel Hotel, April 2013]]
+Marrakesh is a vital component to the economy and culture of Morocco.&lt;ref name=&quot;BP0906&quot;&gt;{{cite web|url=http://www.highbeam.com/doc/1G1-150780063.html|title=WORLD TRAVEL: Africa's beating heart; Marrakech, no longer a hippy paradise, is still a vital centre of economy and culture in Morocco.|publisher=''[[The Birmingham Post]]'' via [[HighBeam Research]] {{subscription required}}|date=2 September 2006|accessdate=18 October 2012}}&lt;/ref&gt; Improvements to the highways from Marrakesh to Casablanca, Agadir and the local airport have led to a dramatic increase in tourism in the city, which now attracts over two million tourists annually. Because of the importance of tourism to Morocco's weak economy as a whole, [[King Mohammed VI]] has vowed to attract 20 million tourists a year to Morocco by 2020, doubling the number of tourists from 2012.&lt;ref name=&quot;T12&quot;&gt;{{cite web|url=http://www.telegraph.co.uk/travel/columnists/fionaduncan/9364954/The-best-Marrakesh-hotels.html|author=Duncan, Fiona|title=The best Marrakesh hotels|publisher=''[[The Daily Telegraph|The Telegraph]]''|accessdate=18 October 2012}}&lt;/ref&gt; The city is popular with the French, and many French celebrities have bought property in the city, including fashion moguls [[Yves Saint Laurent (designer)|Yves St Laurent]] and [[Jean-Paul Gaultier]].&lt;ref name=&quot;AB0305&quot;/&gt; In the 1990s very few foreigners lived in the city, but real estate developments have dramatically increased in the last 15 years; by 2005 over 3,000 foreigners had purchased properties in the city, lured by its culture and the relatively cheap house prices.&lt;ref name=&quot;AB0305&quot;&gt;{{cite web|url=http://www.highbeam.com/doc/1G1-130570413.html|title=Marrakech is the new Costa del Sol: for a host of Western celebrities, Marrakech in Morocco has become the place to be seen at and increasingly, to live in. Where celebrities go, the lesser folk are bound to follow. The result is that Morocco's economy and its culture is changing—but for the better or for the worse?|publisher=''[[African Business]]'' via [[HighBeam Research]] {{subscription required}}|date=1 March 2005|accessdate=18 October 2012}}&lt;/ref&gt; It has been cited in French weekly magazine ''[[Le Point]]'' as the second [[St Tropez]]: &quot;No longer simply a destination for a scattering of adventurous elites, bohemians or backpackers seeking Arabian Nights fantasies, Marrakech is becoming a desirable stopover for the European jet set.&quot;&lt;ref name=&quot;AB0305&quot;/&gt; However, despite the tourism boom, the majority of the city's inhabitants are still poor, and {{As of|2010|lc=y}}, some 20,000 households still have no access to water or electricity.&lt;ref name=&quot;JA&quot;&gt;{{cite web|url=http://www.jeuneafrique.com/Article/ARTJAJA2558p052-053.xml0/|title=Fatima Zahra Mansouri, première dame de Marrakech|publisher=''[[Jeune Afrique]]''|date=25 January 2010|accessdate=28 October 2012|language=French}}&lt;/ref&gt; Many enterprises in the city are facing colossal debt problems.&lt;ref name=&quot;JA&quot;/&gt;
+
+Despite the [[Great Recession|global economic crisis]] that [[Financial crisis of 2007–08|began in 2007]], investments in real estate progressed substantially in 2011 both in the area of tourist accommodation and social housing. The main developments have been in facilities for tourists including hotels and leisure centres such as golf courses and health spas, with investments of 10.9 billion dirham (US$1.28 billion) in 2011.&lt;ref&gt;{{cite web|url=http://www.regiepresse.com/la-reprise-de-la-croissance-du-secteur-immobilier-a-marrakech/|title=La reprise de la croissance du secteur immobilier à Marrakech|date= 28 February 2012|language=French|accessdate=17 October 2012|publisher=Regiepresse.co}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=http://www.huffingtonpost.com/2012/07/19/marrakech-morocco-sees-hotel-boom_n_1664409.html|title=Marrakech, Morocco Sees Hotel Boom|date=19 July 2012|accessdate=17 October 2012|publisher=Huffington Post}}&lt;/ref&gt; The hotel infrastructure in recent years has experienced rapid growth. In 2012, alone, 19 new hotels were scheduled to open, a development boom often compared to [[Dubai]].&lt;ref name=&quot;T12&quot;/&gt; [[Royal Ranches Marrakech]], one of [[Gulf Finance House]]'s flagship projects in Morocco, is a {{Convert|380|ha}} resort under development in the suburbs and one of the world's first five star Equestrian Resorts.&lt;ref name=&quot;MR1008&quot;&gt;{{cite web|url=http://www.highbeam.com/doc/1G1-186249027.html|title=Royal Ranches Marrakech' closes land sale with Equine Management Services|publisher=''[[Mena Report]]'' via [[HighBeam Research]] {{subscription required}}|date=2 October 2008|accessdate=18 October 2012}}&lt;/ref&gt; The resort is expected to make a significant contribution to the local and national economy, creating many jobs and attracting thousands of visitors annually; as of April 2012 it was about 45% complete.&lt;ref name=&quot;MR0410&quot;&gt;{{cite web|url=http://www.highbeam.com/doc/1G1-286269661.html|title=Bahrain : Royal Ranches Marrakech inks MoU with BMCE.(Memorandum of Understanding )(Banque Marocaine de Commerce Exteriur)|publisher=''[[Mena Report]]'' via [[HighBeam Research]] {{subscription required}}|date=13 April 2012|accessdate=18 October 2012}}&lt;/ref&gt; 
+The [[Avenue Mohammed VI]], formerly Avenue de France, is a major city thoroughfare. It has seen rapid development of residential complexes and many luxury hotels. Avenue Mohammed VI contains what is claimed to be Africa's largest nightclub:{{sfn|Humphrys|2010|p=9}} [[Pacha Marrakech]], a trendy club that plays [[house music|house]] and [[electro house]] music.&lt;ref name=&quot;Misc. 2008&quot;&gt;{{cite book|author=Misc.|title=Cool Restaurants Top of the World|url=https://books.google.com/books?id=6pSoXlsM8_sC&amp;pg=PA274|accessdate=8 October 2012|date=1 June 2008|publisher=teNeues|isbn=978-3-8327-9233-6|page=274}}&lt;/ref&gt; It also has two large cinema complexes, Le Colisée à Gueliz and Cinéma Rif, and a new shopping precinct, Al Mazar.
+[[File:Gueliz Marrakech (2844894943).jpg|250px|thumb|left|Gueliz district in Marrakech]]
+Trade and crafts are extremely important to the local tourism-fueled economy. There are 18 ''souks'' in Marrakesh, employing over 40,000 people in pottery, copperware, leather and other crafts. The ''souks'' contain a massive range of items from plastic sandals to Palestinian-style scarves imported from India or China. Local boutiques are adept at making western-style clothes using Moroccan materials.&lt;ref name=&quot;AB0305&quot;/&gt; The ''[[Birmingham Post]]'' comments: &quot;The ''souk'' offers an incredible shopping experience with a myriad of narrow winding streets that lead through a series of smaller markets clustered by trade. Through the squawking chaos of the poultry market, the gory fascination of the open-air butchers' shops and the uncountable number of small and specialist traders, just wandering around the streets can pass an entire day.&quot;&lt;ref name=&quot;BP0906&quot;/&gt; Marrakesh has several supermarkets including [[Marjane Acima]], [[Asswak Salam]] and [[Carrefour]], and three major shopping centers, Al Mazar Mall, Plaza Marrakech and Marjane Square; a branch of Carrefour opened in Al Mazar Mall in 2010.{{sfn|Humphrys|2010|p=161}}&lt;ref name=&quot;Group&quot;&gt;{{cite book|title=The Report: Morocco 2011|url=https://books.google.com/books?id=ncqqQra-2ToC&amp;pg=PA100|accessdate=9 October 2012|publisher=Oxford Business Group|isbn=978-1-907065-30-9|page=100}}&lt;/ref&gt; Industrial production in the city is centred in the neighborhood of Sidi Ghanem Al Massar, containing large factories, workshops, storage depots and showrooms. Ciments Morocco, a subsidiary of a major Italian cement firm, has a factory in Marrakech.&lt;ref&gt;{{cite web|url=http://www.cimentsdumaroc.com/FR/Nos+usines+et+centres/Marrakech.htm|title= Nos usines et centres L'usine de Marrakech|publisher=Ciments du Maroc|language=French|accessdate=18 October 2012}}&lt;/ref&gt; The AeroExpo Marrakech International Exhibition of aeronautical industries and services is held here, as is the Riad Art Expo.
+
+==Politics and administration==
+[[File:MoroccoMarrakech cityHall.jpg|thumb|right|Marrakesh City Hall]]
+Marrakesh, the regional capital, constitutes a prefecture-level administrative unit of Morocco, [[Marrakech Prefecture]], forming part of the region of [[Marrakech-Safi]]. Marrakesh is a major centre for law and jurisdiction in Morocco and most of the major courts of the region are located here. These include the regional Court of Appeal, the Commercial Court, the Administrative Court, the Court of First Instance, the Court of Appeal of Commerce, and the Administrative Court of Appeal.&lt;ref&gt;{{cite web|url=http://www.justice.gov.ma/fr/OrganisationJudiciaire/Listes.aspx?region=52&amp;_=1|title=L'Organisation Judicaire|publisher=Le Ministère de la Justice|language=French|accessdate=20 October 2012}}&lt;/ref&gt; Numerous organizations of the region are based here, including the regional government administrative offices, the Regional Council of Tourism office, and regional public maintenance organizations such as the Governed Autonomous Water Supply and Electricity and [[Maroc Telecom]].&lt;ref&gt;{{cite web|url=http://www.ccismar.ma/ccism.asp?codelangue=23&amp;info=59|title=Adresses Utiles|publisher=Chambre de Commerce, D'Industrie et des Services de Marrakech|accessdate=20 October 2012|language=French}}&lt;/ref&gt;
+
+Testament to Marrakesh's development as a modern city, on 12 June 2009, [[Fatima-Zahra Mansouri]], a then 33-year-old lawyer and daughter of a former assistant to the local authority chief in Marrakesh, was elected the first female mayor of the city, defeating outgoing Mayor [[Omar Jazouli]] by 54 votes to 35 in a municipal council vote.&lt;ref name=&quot;AA0609&quot;&gt;{{cite web|url=http://www.highbeam.com/doc/1G1-202221996.html|title=
+Morocco's Marrakech elects first woman mayor|publisher=''[[Al Arabiya]]'' (Saudi Arabia) via [[HighBeam Research]] {{subscription required}}|date=21 June 2009|accessdate=18 October 2012}}&lt;/ref&gt;&lt;ref name=&quot;africansuccess.org&quot;&gt;{{cite web|url=http://www.africansuccess.org/visuFiche.php?lang=en&amp;id=853|title=Biography of Fatima Zahra MANSOURI|publisher=African Success|accessdate=27 October 2012}}&lt;/ref&gt; Mansouri became the second woman in the history of Morocco to obtain a mayoral position, after [[Asma Chaabi]], mayor of [[Essaouira]].&lt;ref name=&quot;AA0609&quot;/&gt; The Secretary General of her [[Authenticity and Modernity Party]] (PAM), [[Mohamed Cheikh Biadillah]], stated that &quot;her election reflects the image of a modern Morocco.&quot;&lt;ref name=&quot;AA0609&quot;/&gt; Her appointment was shrouded in controversy and resulted in her temporarily losing her seat the following month after a court ruled that the election had been fixed. The court found that &quot;some ballots were distributed before the legal date and some vote records were destroyed.&quot;&lt;ref name=&quot;AA0709&quot;&gt;{{cite web|url=http://www.highbeam.com/doc/1G1-203634590.html|title=Morocco mayor's unseating prompts strike calls|publisher=''[[Al Arabiya]]'' (Saudi Arabia) via [[HighBeam Research]] {{subscription required}}|date=14 July 2009|accessdate=18 October 2012}}&lt;/ref&gt; Her party called for a 48-hour strike to &quot;protest the plot against the democratic process.&quot;&lt;ref name=&quot;AA0709&quot;/&gt; On 7 July 2011, Mansouri presented her resignation from the city council of Marrakesh, but reconsidered her decision the next day.&lt;ref&gt;
+{{cite web|url=http://hespress.com/regions/34137.html|script-title=ar:فاطمة الزهراء المنصوري تستقيل من عمودية مراكش|publisher=Hespress.com|language=Arabic|accessdate=20 October 2012}}&lt;/ref&gt;
+
+Since the legislative elections in November 2011, the ruling political party in Marrakesh has, for the first time, been the [[Justice and Development Party (Morocco)|Justice and Development Party]] or PDJ which also rules at the national level. The party, which advocates [[Islamism]] and [[Islamic democracy]], won five seats; the [[National Rally of Independents]] (RNI) took one seat, while the PAM won three.&lt;ref&gt;{{Cite news|url=http://www.leconomiste.com/article/889030-legislatives-2011brmarrakech-grosse-defaite-pour-les-partis-de-la-koutla|title= Législatives 2011 – Marrakech: Grosse défaite pour les partis de la Koutla|language=French|date=28 November 2011|accessdate= 23 October 2012|publisher=L'Economiste}}&lt;/ref&gt;  In the partial legislative elections for the Guéliz Ennakhil constituency in October 2012, the PDJ under the leadership of [[Ahmed El Moutassadik]] was again declared the winner with 10,452 votes. The PAM, largely consisting of friends of King [[Mohammed VI of Morocco|Mohammed VI]], came in second place with 9,794 votes.&lt;ref&gt;{{Cite news|url=http://mobile.leconomiste.com/article/899326-l-gislatives-partiellesmarrakech-le-pjd-garde-son-si-ge|title=Législatives partielles: Marrakech: Le PJD garde son siège|language=French|accessdate=23 October 2012|publisher=L'Economiste}}&lt;/ref&gt;
+
+==Landmarks==
+{{main article|Landmarks of Marrakesh}}
+
+===Jemaa el-Fnaa===
+{{Infobox World Heritage Site
+| WHS = Medina of Marrakesh
+| Image = [[File:Maroc Marrakech Jemaa-el-Fna Luc Viatour.JPG|250px|Jemaa el-Fnaa place]]
+| State Party = [[Morocco]]
+| Type = Cultural
+| Criteria = i, ii, iv, v
+| Region = [[List of World Heritage Sites in the Arab States|Arab States]]
+| Year = 1985
+| Session = 9th
+| ID = 331
+| Link = http://whc.unesco.org/en/list/331
+}}
+The [[Jemaa el-Fnaa]] is one of the best-known squares in Africa and is the centre of city activity and trade. It has been described as a &quot;world-famous square&quot;, &quot;a metaphorical urban icon, a bridge between the past and the present, the place where (spectacularized) Moroccan tradition encounters modernity.&quot;{{sfn|Pons|Crang|Travlou|2009|p=39}} It has been part of the UNESCO World Heritage site since 1985.{{sfn|Harrison|2012|p=144}} The name roughly means &quot;the assembly of trespassers&quot; or malefactors.{{sfn|Barrows|2004|pp=76–78}} Jemaa el-Fnaa was renovated along with much of the Marrakech city, whose walls were extended by Abu Yaqub Yusuf and particularly by Yaqub al-Mansur in 1147–1158. The surrounding mosque, palace, hospital, parade ground and gardens around the edges of the marketplace were also overhauled, and the [[Kasbah]] was fortified. Subsequently, with the fluctuating fortunes of the city, Jemaa el-Fnaa saw periods of decline and renewal.&lt;ref&gt;{{Cite web|url=http://whc.unesco.org/en/list/331|title= UNESCO World Heritage Convention|accessdate=17 October 2012|publisher=UNESCO}}&lt;/ref&gt;
+Historically this square was used for public decapitations by rulers who sought to maintain their power by frightening the public. The square attracted dwellers from the surrounding desert and mountains to trade here, and stalls were raised in the square from early in its history. The square attracted tradesmen, snake charmers (&quot;wild, dark, frenzied men with long disheveled hair falling over their naked shoulders&quot;), dancing boys of the [[Chleuh]] Atlas tribe, and musicians playing [[Bagpipes|pipes]], [[tambourine]]s and [[African drum]]s.{{sfn|Barrows|2004|pp=76–78}} Richard Hamilton said that Jemaa el-Fnaa once &quot;reeked of Berber particularism, of backward-looking, ill-educated countrymen, rather than the reformist, pan-Arab internationalism and command economy that were the imagined future.&quot;{{sfn|Hamilton|2011|p=13}} Today the square attracts people from a diversity of social and ethnic backgrounds and tourists from all around the world. Snake charmers, acrobats, magicians, mystics, musicians, monkey trainers, herb sellers, story-tellers, dentists, pickpockets, and entertainers in medieval garb still populate the square.{{sfn|Harrison|2012|p=144}}&lt;ref name=&quot;Publishing2003&quot;&gt;{{cite book|title=Out|url=https://books.google.com/books?id=xWIEAAAAMBAJ&amp;pg=PA74|accessdate=16 October 2012|date=March 2003|publisher=Here Publishing|pages=73–75|issn=1062-7928}}&lt;/ref&gt;
+
+===Souks===
+{{double image|left|Marrakech olives merchant.jpg|200|Colourful shoes in Marrakech.jpg|200|Olives and colourful bejewelled slippers for sale}}
+Marrakesh has the largest traditional Berber market in Morocco and the image of the city is closely associated with its ''[[souk]]s''. Paul Sullivan cites the ''souks'' as the principal shopping attraction in the city: &quot;A honeycomb of intricately connected alleyways, this fundamental section of the old city is a micro-medina in itself, comprising a dizzying number of stalls and shops that range from itsy kiosks no bigger than an elf's wardrobe to scruffy store-fronts that morph into glittering [[Aladdin's Cave]]s once you're inside.&quot;{{sfn|Sullivan|2006|p=148}} Historically the souks of Marrakesh were divided into retail areas for particular goods such as leather, carpets, metalwork and pottery. These divisions still roughly exist but with significant overlap. Many of the souks sell items like carpets and rugs, traditional Muslim attire, leather bags, and lanterns.{{sfn|Sullivan|2006|p=148}} [[Haggling]] is still a very important part of trade in the souks.{{sfn|Christiani|2009|p=51}}
+
+One of the largest ''souks'' is [[Souk Semmarine]], which sells everything from brightly coloured bejewelled sandals and slippers and leather pouffes to jewellery and kaftans.{{sfn|Christiani|2009|p=50}} [[Souk Ableuh]] contains stalls which specialize in [[lemon]]s, [[Chili pepper|chili]]s, [[caper]]s, [[Pickling|pickle]]s, green, red, and black [[olive]]s, and mint, a common ingredient of Moroccan cuisine and tea. Similarly, [[Souk Kchacha]] specializes in dried fruit and nuts, including [[Phoenix dactylifera|dates]], [[figs]], [[walnut]]s, [[cashew]]s and [[apricot]]s.{{sfn|Christiani|2009|p=49}} Rahba Qedima contains stalls selling hand-woven baskets, natural [[perfume]]s, knitted hats, scarves, tee shirts, Ramadan tea, [[ginseng]], and [[alligator]] and [[iguana]] skins. Criee Berbiere, to the northeast of this market, is noted for its dark Berber carpets and rugs.{{sfn|Christiani|2009|p=50}} [[Souk Siyyaghin]] is known for its jewellery, and [[Souk Smata]] nearby is noted for its extensive collection of [[babouche]]s and [[Belt (clothing)|belt]]s. [[Souk Cherratine]] specializes in leatherware, and Souk Belaarif sells modern consumer goods.{{sfn|Christiani|2009|p=51}} [[Souk Haddadine]] specializes in ironware and lanterns.{{sfn|Christiani|2009|p=52}}
+
+Ensemble Artisanal is a government-run complex of small arts and crafts which offers a range of leather goods, textiles and carpets. Young apprentices are taught a range of crafts in the workshop at the back of this complex.{{sfn|Jacobs|2013|p=153}}
+
+===City walls and gates===
+[[File:Marrakech, Bab Agnaou.JPG|thumb|right|[[Bab Agnaou]]]]
+The ramparts of Marrakesh, which stretch for some {{convert|19|km}} around the medina of the city, were built by the Almoravids in the 12th century as protective fortifications. The walls are made of a distinct orange-red clay and chalk, giving the city its nickname as the &quot;red city&quot;; they stand up to {{convert|19|ft}} high and have 20 gates and 200 towers along them.{{sfn|Christiani|2009|p=43}} [[Bab Agnaou]] was built in the 12th century during the Almohad dynasty. The [[Berber languages|Berber]] name Agnaou, like [[Gnaoua]], refers to people of Sub-Saharan African origin (cf. Akal-n-iguinawen – land of the black). The gate was called Bab al Kohl (the word ''kohl'' also meaning &quot;black&quot;) or Bab al Qsar (palace gate) in some historical sources. The corner-pieces are embellished with floral decorations. This ornamentation is framed by three panels marked with an inscription from the [[Quran]] in [[Maghrebi script]] using foliated [[Kufic]] letters, which were also used in [[Al-Andalus]]. Bab Agnaou was renovated and its opening reduced in size during the rule of sultan [[Mohammed ben Abdallah]]. [[Bab Aghmat]] is located east of the Jewish and Muslim cemeteries, and is near the tomb of [[Ali ibn Yusuf]].{{sfn|Gottreich|2007|p=117}} [[Bab Berrima]] with its solid towers stands near the Badi Palace.{{sfn|Searight|1999|p=402}} [[Bab er Robb]] (meaning &quot;Lord's gate&quot;) is a southern exit from the city, near Bab Agnaou. Built in the 12th century, it provides access to roads leading to the mountain towns of [[Amizmiz]] and [[Asni]]. [[Bab el Khemis|Bab el Khémis]], situated in the medina's northeastern corner, is one of the city's main gates and features a man-made spring.{{sfn|Gottreich|2007|p=106}}
+
+===Gardens===
+[[File:Marrakesh, devensive wall.jpg|thumb|right|300px|Agdal Gardens]]
+The [[Menara gardens]] are located to the west of the city, at the gates of the Atlas mountains. They were built around 1130 by the Almohad ruler [[Abd al-Mu'min]]. The name ''menara'' derives from the [[pavilion]] with its small green pyramid roof (''menzeh''). The pavilion was built during the 16th century [[Saadi dynasty]] and renovated in 1869 by sultan [[Abderrahmane of Morocco]], who used to stay here in summertime.{{sfn|Febvre|1988|p=1401}}
+[[File:Medina walls of Marrakech (Dec. 2009).jpg|thumb|left|300px|Medina walls of Marrakesh]]
+The pavilion and a nearby [[Basin (maritime)|artificial lake]] are surrounded by [[orchard]]s and [[olive grove]]s. The lake was created to [[Irrigation|irrigate]] the surrounding gardens and orchards using a sophisticated system of underground channels called a ''[[qanat]]''. The basin is supplied with water through an old [[hydraulic system]] which conveys water from the mountains located approximately {{convert|30|km}} away from Marrakesh. There is also a small amphitheater and a symmetrical pool{{sfn|Christiani|2009|p=101}} where films are screened. Carp fish can be seen in the pond.{{sfn|Sullivan|2006|p=147}}
+{{multiple image
+  |direction = vertical
+  |align     =right
+  |width     = 240
+  |footer    = 
+  |image1    = Jardins de la Ménara.jpg
+  |alt1      =
+  |caption1  =[[Saadi dynasty|Saadian]] [[Pavilion|garden pavilion]] of the [[Menara gardens]]
+  |image2    = Le jardin des majorelle 21.JPG
+  |alt2      =
+  |caption2  =The Museum of Islamic Art, painted in [[Majorelle Blue]], at the Majorelle Garden
+}}
+The [[Majorelle Garden]], on Avenue Yacoub el Mansour, was at one time the home of the landscape painter [[Jacques Majorelle]]. Famed designer Yves Saint Laurent bought and restored the property, which features a [[stele]] erected in his memory,&lt;ref name=&quot;fondation-pb-ysl.net&quot;&gt;{{cite web|url=http://www.fondation-pb-ysl.net/en/History-399.html|title=History|publisher=Fondation Pierre Bergé – Yves Saint Laurent|accessdate=13 October 2012}}&lt;/ref&gt; and the Museum of Islamic Art, which is housed in a dark blue building.{{sfn|Davies|2009|p=111}} The garden, open to the public since 1947, has a large collection of plants from five continents including [[cacti]], palms and bamboo.{{sfn|Sullivan|2006|pp=145–146}}
+
+The Agdal Gardens, located south of the medina and also built in the 12th century, are royal orchards surrounded by ''[[Rammed earth|pise]]'' walls. Measuring {{convert|400|ha}} in size, the gardens feature citrus, apricot, pomegranate, olive and cypress trees. Sultan Moulay Hassan's harem resided at the Dar al Baida pavilion, which was situated within these gardens.{{sfn|Christiani|2009|p=101}} This site is also known for its historic swimming pool, where a Sultan is said to have drowned.{{sfn|Sullivan|2006|p=145}}
+
+The Koutoubia Gardens are situated behind the [[Koutoubia Mosque]]. They feature orange and palm trees, and are frequented by storks.{{sfn|Christiani|2009|p=101}} The Mamounia Gardens, more than 100 years old and named after Prince Moulay Mamoun, have olive and orange trees as well as a variety of floral displays.{{sfn|Sullivan|2006|p=146}}
+
+===Palaces and Riads===
+The historic wealth of the city is manifested in palaces, mansions and other lavish residences. The main palaces are [[El Badi Palace]], the [[Royal Palace (Marrakesh)|Royal Palace]] and [[Bahia Palace]]. ''Riads'' (Moroccan mansions) are common in Marrakesh. Based on the design of the Roman villa, they are characterized by an open central garden courtyard surrounded by high walls. This construction provided the occupants with privacy and lowered the temperature within the building.{{sfn|Davies|2009|p=104}} Buildings of note inside the Medina are Riad Argana, Riad Obry, Riad Enija, Riad el Mezouar, Riad Frans Ankone, Dar Moussaine, Riad Lotus, Riad Elixir, Riad les Bougainvilliers, Riad Dar Foundouk, Dar Marzotto, Dar Darma, and Riad Pinco Pallino. Others of note outside the Medina area include Ksar Char Bagh, Amanjena, Villa Maha, Dar Ahlam, Dar Alhind and Dar Tayda.{{sfn|Listri|Rey|2005|p=3}}
+
+====El Badi Palace====
+The El Badi Palace flanks the eastern side of the Kasbah. It was built by Saadian sultan Ahmad al-Mansur after his success against the Portuguese at the [[Battle of the Three Kings]] in 1578.{{sfn|Searight|1999|p=402}} The lavish palace, which took around a quarter of a century to build, was funded by compensation from the Portuguese and African gold and sugar cane revenue. This allowed [[Carrara marble]] to be brought from Italy and other materials to be shipped from France, Spain and India.{{sfn|Searight|1999|p=402}} It is a larger version of the [[Alhambra]]'s [[Court of the Lions]].{{sfn|Bloom|Blair|2009|p=466}} Although the palace is now a ruin with little left but the outer walls, the site has become the location of the annual [[Marrakech Folklore Festival]] and other events.{{sfn|Searight|1999|p=403}}
+
+====Royal Palace====
+The Royal Palace, also known as Dar el-Makhzen, is located next to the Badi Palace. The Almohads built the palace in the 12th century on the site of their kasba,{{sfn|Bloom|Blair|2009|p=466}} and it was partly remodeled by the Saadians in the 16th century and the Alaouites in the 17th century.{{sfn|Searight|1999|p=403}} Historically it was one of the palaces owned by the Moroccan king,{{sfn|Aldosar|2007|p=1253}} who employed some of the most talented craftsmen in the city for its construction.{{sfn|Listri|Rey|2005|p=72}}&lt;ref name=&quot;LLC1986&quot;&gt;{{cite book|title=New York Magazine|url=https://books.google.com/books?id=J-cCAAAAMBAJ&amp;pg=PA33|accessdate=20 October 2012|date=24 March 1986|publisher=New York Media, LLC|page=33|issn=0028-7369}}&lt;/ref&gt; The palace is not open to the public, and is now privately owned by French businessman [[Dominique du Beldi]].{{sfn|Searight|1999|p=403}}{{sfn|Listri|Rey|2005|p=72}} The rooms are large, with unusually high ceilings for Marrakesh, with ''zellij'' (elaborate geometric [[terracotta]] tile work covered with [[Vitreous enamel|enamel]]) and cedar painted ceilings.{{sfn|Listri|Rey|2005|pp=72,75}}
+
+====Bahia Palace====
+[[File:Bahia Palace Marrakech Back Courtyard LL.JPG|thumb|right|Back courtyard of the Bahia Palace]]
+The Bahia Palace, set in extensive gardens, was built in the late 19th century by the Grand Vizier of Marrakesh, Si Ahmed ben Musa (Bou-Ahmed). Bou Ahmed resided here with his four wives, 24 concubines and many children.{{sfn|VorheesEdsall|2005|p=288}} With a name meaning &quot;brilliance&quot;, it was intended to be the greatest palace of its time, designed to capture the essence of [[Islamic culture|Islamic]] and [[Culture of Morocco|Moroccan]] architectural styles. Bou-Ahmed paid special attention to the privacy of the palace in its construction and employed architectural features such as multiple doors which prevented passers-by from seeing into the interior.{{sfn|VorheesEdsall|2005|p=288}} The palace took seven years to build, with hundreds of craftsmen from Fes working on its wood, carved [[stucco]] and ''zellij''.{{sfn|Searight|1999|p=404}} The palace is set in a two-acre (8,000 m²) garden with rooms opening onto courtyards. The palace acquired a reputation as one of the finest in Morocco and was the envy of other wealthy citizens. Upon the death of Bou-Ahmed in 1900,&lt;ref&gt;{{cite book|title=E.J. Brill's First Encyclopaedia of Islam, 1913–1936|url=https://books.google.com/books?id=zJU3AAAAIAAJ&amp;pg=PA35|year=1987|publisher=BRILL|isbn=978-90-04-08265-6|page=35}}&lt;/ref&gt; the palace was raided by Sultan [[Abdelaziz of Morocco|Abd al-Aziz]].{{sfn|VorheesEdsall|2005|p=288}}
+
+===Mosques===
+
+====Koutoubia Mosque====
+[[File:Minaret de Marrakech.jpg|thumb|right|Minaret of the Koutoubia Mosque]]
+[[Koutoubia Mosque]] is the largest mosque in the city, located in the southwest [[medina quarter]] of Marrakesh alongside the square. It was completed under the reign of the Almohad Caliph Yaqub al-Mansur (1184–1199), and has inspired other buildings such as the [[Giralda]] of [[Seville]] and the [[Hassan Tower]] of [[Rabat]]. The mosque is made of red stone and brick and measures {{Convert|80|m}} long and {{Convert|60|m}} wide. The [[minaret]] was designed to prevent a person at the top of the tower from viewing activity within the king's harems. The Umayyad-style minaret is constructed from sandstone and stands {{Convert|77|m}} high. It was originally covered with Marrakshi pink plaster, but in the 1990s experts opted to remove the plaster to expose the original stone work. The spire atop the minaret is decorated with gilded copper balls that decrease in size towards the top, a style unique to Morocco.&lt;ref name=Sacred&gt;{{Cite web|url=http://www.sacred-destinations.com/morocco/Marrakech-koutoubia-mosque|title=Koutoubia Mosque, Marrakesh|accessdate=5 October 2012|publisher=Sacred Destinations}}&lt;/ref&gt;
+
+====Ben Youssef Mosque====
+Ben Youssef Mosque, distinguished by its green tiled roof and minaret, is located in the medina and is Marrakesh's oldest mosque.{{sfn|Searight|1999|p=399}} It was originally built in the 12th century by the Almoravid Sultan [[Ali ibn Yusuf]] in honor of [[Yusuf ibn Ali al-Sanhaji]].{{sfn|Searight|1999|p=399}} When built it was the city's largest mosque but today it is half its original size. It was rebuilt in the 1560s{{Sfn|Jacobs|2013|p=425}} by Saadian Sultan [[Abdallah al-Ghalib]], as the original had fallen into ruin. He also built a madrasa with a large library beside the mosque, but this also deteriorated over time, leaving only the 19th-century mosque intact.{{sfn|Rogerson|2000|p=100}} The Almoravid [[Almoravid Koubba|Koubba Ba’adiyn]], a two-storied kiosk, was discovered in a sunken location on the mosque site in 1948. In the Moroccan architectural style, its arches are scalloped on the first floor, while those on the second floor bear a twin horseshoe shape embellished with a turban motif. The dome of the kiosk is framed by a battlement decorated with arches and seven-pointed stars. The interior of the octagonally arched dome is decorated with distinctive carvings bordered by a [[Kufic]] frieze inscribed with the name of its patron, Sultan Ali ibn Yusuf. The [[quinches]] at the corners of the dome are covered with [[muqarnas]].{{sfn|Rogerson|2000|pp=100–102}} The kiosk has motifs of [[pine cones]], [[Arecaceae|palms]] and [[Acanthus (plant)|acanthus]] leaves which are also replicated in the Ben Youssef Madrasa.{{sfn|Jacobs|2013|pp=425–426}}
+
+====Mouassine Mosque====
+The [[Mouassine Mosque]] (also known as the Al Ashraf Mosque) was built by the Marinids in the 14th century in the style popularized by the Almohads.{{sfn|Rogerson|Lavington|2004|p=106}} It is located in [[Mouassine]] and is part of the Mouassine complex, which includes a library, hamman, madrasa (school) and the Mouassine Fountain, the largest and most important in the city. Located on a small square to the north of the mosque, it is a triple-arched fountain of Saadian origin.{{sfn|Rogerson|Lavington|2004|p=106}}&lt;ref&gt;{{Cite web|url=http://www.cityzeum.com/|title=la-mosquee-al-mouassine-3 La mosquée Al Mouassine|language=French|accessdate=18 October 2012|publisher=Ciyzeum}}&lt;/ref&gt; It is decorated with geometric patterns and calligraphy.{{sfn|Christiani|2009|p=53}}
+
+===Tombs===
+
+====Saadian Tombs====
+[[File:Saadian tombs.JPG|thumb|right|240px|Saadian Tombs]]
+The [[Saadian Tombs]] were built in the 16th century as a mausoleum to bury numerous Saadian rulers and entertainers. It was lost for many years until the French rediscovered it in 1917 using aerial photographs. The mausoleum comprises the corpses of about sixty members of the [[Saadi Dynasty]] that originated in the valley of the [[Draa River]].&lt;ref name=&quot;Publishing2003&quot;/&gt;{{sfn|Christiani|2009|p=43}} Among the graves are those of Saadian sultan [[Ahmad al-Mansur]] and his family; al-Mansur buried his mother in this dynastic necropolis in 1590 after enlarging the original square funeral structure. It is located next to the south wall of the Almohad mosque of the Kasba,{{Sfn|Bloom|Blair|2009|p=189}} in a cemetery that contains several graves of [[Mohammad]]'s descendants.{{sfn|Vorhees|Edsall|2005|p=287}} His own tomb, richly embellished with decorations, was modeled on the Nasrid mausoleum in Granada, Spain.{{Sfn|Bloom|Blair|2009|p=189}} The building is composed of three rooms; the best known has a roof supported by twelve columns and encloses the tomb of al-Mansur's son. The room exemplifies Islamic architecture with floral motifs, calligraphy, ''zellij'' and [[carrara]] marble, and the stele is in finely worked [[cedar wood]] and stucco.&lt;ref name=&quot;Publishing2003&quot;/&gt;{{sfn|Christiani|2009|p=43}} Outside the building are a garden and the graves of soldiers and servants.
+
+====Tombs of the Seven Saints====
+The Medina holds the tombs of the seven patron saints of Morocco, which are visited every year by pilgrims during the week-long ''[[ziara]]'' pilgrimage. According to tradition, it is believed that these saints are only sleeping and will awaken one day to resume their good deeds. A pilgrimage to the tombs offers an alternative to the ''[[hajj]]'' to [[Mecca]] and [[Medina]] for people of western Morocco who could not visit Arabia due to the arduous and costly journey involved.{{sfn|VorheesEdsall|2005|p=285}} [[Circumambulation]] of the tombs is undertaken by devotees to achieve inner purity. This ritual is performed on Fridays in the following ordained sequence: Sidi Yusuf ibn Ali Sanhaji, Sidi al-Qadi Iyyad al-Yahsubi, Sidi Bel Abbas, Sidi Mohamed ibn Sulayman al-Jazouli, Sidi Abdellaziz Tabba'a, Sidi Abdellah al-Ghazwani, and lastly, Sidi Abderrahman al-Suhayli.&lt;ref name=&quot;dar-sirr.com&quot;&gt;{{cite web|url=http://www.dar-sirr.com/Patron_Saints_of_Marrakech.html|title=The Patron Saints of Marrakech|publisher=Dar Sirr|accessdate=21 October 2012}}&lt;/ref&gt; The most important of the seven tombs is the shrine of [[Sidi Bel Abbas]].{{sfn|VorheesEdsall|2005|p=285}}
+
+===Mellah===
+The old Jewish Quarter (''[[Mellah]]'') is situated in the kasbah area of the city's medina, east of Place des Ferblantiers. It was created in 1558 by the Saadians at the site where the sultan's stables were previously located.{{sfn|Gottreich|2003|p=287}} At the time, the Jewish community consisted of a large portion of the city's bankers, jewelers, metalworkers, tailors and sugar traders. During the 16th century, the Mellah had its own fountains, gardens, synagogues and souks. Until the arrival of the French in 1912, Jews could not own property outside of the Mellah; all growth was consequently contained within the limits of the neighborhood, resulting in narrow streets, small shops and higher residential buildings. The Mellah, today reconfigured as a mainly residential zone renamed Hay Essalam, currently occupies an area smaller than its historic limits and has an almost entirely Muslim population. The Alzama Synagogue, built around a central courtyard, is located in the Mellah.&lt;ref name=&quot;Larson2012&quot;&gt;{{cite news|url=http://www.thejewishweek.com/travel/vacations/marrakesh_express|title=The Marrakesh Express |last=Larson|first=Hilary |date=May 8, 2012|publisher=''The Jewish Week''|accessdate=21 October 2012}}&lt;/ref&gt; The Jewish cemetery here is the largest of its kind in Morocco. Characterized by white-washed tombs and sandy graves,&lt;ref name=&quot;Larson2012&quot; /&gt; the cemetery is located within the Medina on land adjacent to the Mellah.&lt;ref name=&quot;iajgsjewishcemeteryproject.org&quot;&gt;{{cite web|url=http://www.iajgsjewishcemeteryproject.org/morocco/marrakech.html|title=Marrakech|date=16 February 2010|publisher=International Jewish Cemetery Project|accessdate=21 October 2012}}&lt;/ref&gt;
+
+===Hotels===
+[[File:Hotel Marrakch.JPG|thumb|Hotel Marrakech]]
+As one of the principal tourist cities in Africa, Marrakesh has over 400 hotels. [[La Mamounia|Mamounia Hotel]] is a five-star hotel in the [[Art Deco]]-Moroccan fusion style, built in 1925 by [[Henri Prost]] and A. Marchis.{{sfn|Denby|2004|p=194}} It is considered the most eminent hotel of the city{{sfn|Layton|2011|p=104}}{{sfn|Sullivan|2006|p=45}} and has been described as the &quot;grand dame of Marrakesh hotels.&quot; The hotel has hosted numerous internationally renowned people including [[Winston Churchill]], [[Charles, Prince of Wales|Prince Charles]] of Wales and [[Mick Jagger]].{{sfn|Sullivan|2006|p=45}} Churchill used to relax within the gardens of the hotel and paint there.{{sfn|Venison|2005|p=214}} The 231-room hotel,{{sfn|Davies|2009|p=103}} which contains a casino, was refurbished in 1986 and again in 2007 by French designer [[Jacques Garcia]].{{sfn|Venison|2005|p=214}}{{sfn|Sullivan|2006|p=45}} Other hotels include Eden Andalou Hotel, Hotel Marrakech, Sofitel Marrakech, Palm Plaza Hotel &amp; Spa, Royal Mirage Hotel, Piscina del Hotel, and Palmeraie Golf Palace. In March 2012, [[Accor]] opened its first Pullman-branded hotel in Marrakech, Pullman Marrakech Palmeraie Resort &amp; Spa. Set in a {{Convert|17|ha}} olive grove at La Palmeraie, the hotel has 252 rooms, 16 suites, six restaurants and a {{convert|535|m2}} conference room.&lt;ref name=&quot;HME0312&quot;&gt;{{cite web|author=Hudson, Christopher|url=http://www.highbeam.com/doc/1G1-283745828.html|title=Accor opens first Pullman hotel in Marrakech|publisher=''[[Hotelier Middle East]]'' via [[HighBeam Research]] {{subscription required}}|date=20 March 2012|accessdate=18 October 2012}}&lt;/ref&gt;
+
+{{clear all}}
+
+==Culture==
+
+===Museums===
+
+====Marrakech Museum====
+{{multiple image
+  |direction = vertical
+  |align     =right
+  |width     = 240
+  |footer    = 
+  |image1    = Museum of Marrakech.JPG
+  |alt1      =
+  |caption1  =[[Marrakech Museum]]
+  |image2    = Dar Si Said museum.jpg
+  |alt2      =
+  |caption2  =[[Museum of Moroccan Arts]]
+}}
+
+The [[Marrakech Museum]], housed in the Dar Menebhi Palace in the old city centre, was built at the end of the 19th century by [[Mehdi Menebhi]]. The palace was carefully restored by the Omar Benjelloun Foundation and converted into a museum in 1997.{{sfn|Mayhew|Dodd|2003|p=341}} The house itself represents an example of classical Andalusian architecture, with fountains in the central courtyard, traditional seating areas, a hammam and intricate tilework and carvings.{{sfn|Vorhees|Edsall|2005|p=286}} It has been cited as having &quot;an orgy of stalactite stucco-work&quot; which &quot;drips from the ceiling and combines with a mind-boggling excess of ''zellij'' work.&quot;{{sfn|Vorhees|Edsall|2005|p=286}} The museum holds exhibits of both modern and traditional Moroccan art together with fine examples of historical books, coins and pottery produced by Moroccan Jewish, Berber and Arab peoples.{{sfn|Sullivan|2006|p=144}}&lt;ref&gt;{{Cite web|url=http://www.museedemarrakech.ma/|title=Musée de Marrakech: Fondation Omar Benjelloun|language=French|accessdate= 18 October 2012}}&lt;/ref&gt;
+
+====Dar Si Said Museum====
+Dar Si Said Museum, also known as the [[Museum of Moroccan Arts]] is located to the north of the Bahia Palace. It was the townhouse of Sidi Said, brother to [[Grand Vizier]] Bow Ahmad, and was constructed at the same time as Ahmad's own [[Palace De La Bahia]]. The townhouse was the envy of reigning sultan [[Abdelaziz of Morocco|Abd al-Aziz]], and after the Vizier’s death the sultan had this house ransacked.{{sfn|VorheesEdsall|2005|p=288}} The collection of the museum is considered to be one of the finest in Morocco, with &quot;jewellery from the High Atlas, the Anti Atlas and the extreme south; carpets from the [[Haouz]] and the High Atlas; oil lamps from [[Taroudannt]]; blue pottery from [[Safi, Morocco|Safi]] and green pottery from [[Tamgroute]]; and leatherwork from Marrakesh.&quot;{{sfn|VorheesEdsall|2005|p=288}}
+
+====Museum of Islamic Art====
+The Museum of Islamic Art (''Musée d'Art Islamique'') is a blue-coloured building located in the Marjorelle Gardens. The private museum was created by Yves Saint Laurent and [[Pierre Bergé]] in the home of Jacques Majorelle,{{sfn|Bloom|Blair|2009|p=466}} who had his art studio there. Recently renovated, its small exhibition rooms have displays of Islamic artifacts and decorations including Irke pottery, polychrome plates, jewellery, and antique doors.{{sfn|Sullivan|2006|p=143}}&lt;ref&gt;{{Cite web|url=http://hg2marrakech.com/sights/museum/---sights-sightseeing-culture-things-to-do-things-to-see-gueliz-marrakech---marrakech-morocco |title=Museum Of Islamic Art|accessdate=18 October 2012|publisher=Hg2 Marrakech}}&lt;/ref&gt;
+
+===Music, theatre and dance===
+Two types of music are traditionally associated with Marrakesh. [[Berber music]] is influenced by Andalusian classical music and typified by its ''[[oud]]'' accompaniment. By contrast, [[Gnaoua]] music is loud and funky with a sound reminiscent of the Blues. It is performed on handmade instruments such as [[castanets]], ''ribabs'' (three-stringed banjos) and ''deffs'' (handheld drums). Gnaoua music's rhythm and crescendo take the audience into a mood of trance; the style is said to have emerged in Marrakesh and [[Essaouira]] as a ritual of deliverance from slavery.{{sfn|Bing|2011|pp=154–6}} More recently, several Marrakesh female music groups have also risen to popularity.{{sfn|Bing|2011|pp=154–156}}
+
+The [[Théâtre Royal de Marrakesh]], the [[Institut Français (Marrakesh)|Institut Français]] and [[Dar Chérifa]] are major performing arts institutions in the city. The Théâtre Royal, built by Tunisian architect [[Charles Boccara]], puts on theatrical performances of [[comedy]], [[opera]], and [[dance]] in French and Arabic.{{sfn|Christiani|2009|p=134}} A greater number of theatrical troupes perform outdoors and entertain tourists on the main square and the streets, especially at night. Christopher Hudson of the ''[[Daily Mail]]'' noted that &quot;men dressed as women performed bawdy street theatre, to the delight of a ring of onlookers of all ages.&quot;&lt;ref name=&quot;DM1298&quot;&gt;{{cite web|author=Hudson, Christopher|url=http://www.highbeam.com/doc/1G1-110691500.html|title=The Magic Marrakech|publisher=''[[Daily Mail]]'' via [[HighBeam Research]] {{subscription required}}|date=26 December 1998|accessdate=18 October 2012}}&lt;/ref&gt;
+
+===Crafts===
+[[File:Hats on Marrakesh market.jpg|thumb|Locally made hats]]
+The arts and crafts of Marrakesh have had a wide and enduring impact on Moroccan handicrafts to the present day. Riad décor is widely used in carpets and textiles, ceramics, woodwork, metal work and ''zelij''. Carpets and textiles are weaved, sewn or embroidered, sometimes used for upholstering. Moroccan women who practice craftsmanship are known as ''Maalems'' (expert craftspeople) and make such fine products as [[Berber carpet]]s and shawls made of ''sabra'' (cactus silk).{{sfn|Bing|2011|pp=154–156}} Ceramics are in monochrome Berber-style only, a limited tradition depicting bold forms and decorations.{{sfn|Bing|2011|pp=154–156}}
+
+Wood crafts are generally made of [[Cedar wood|cedar]], including the ''riad'' doors and palace ceilings. [[Orange wood]] is used for making [[ladle (spoon)|ladle]]s known as ''harira'' (lentil soup ladles). ''[[Thuya]]'' craft products are made of caramel coloured ''[[Tetraclinis|thuya]]'', a [[conifer]] indigenous to Morocco. Since this species is almost extinct, these trees are being replanted and promoted by the artists' cooperative Femmes de Marrakech.{{sfn|Bing|2011|pp=154–156}}
+
+Metalwork made in Marrakesh includes [[brass]] lamps, iron lanterns, [[candle]] holders made from recycled [[sardine]] tins, and engraved brass teapots and tea trays used in the traditional serving of tea. Contemporary art includes sculpture and figurative paintings. Blue veiled ''Tuareg'' figurines and calligraphy paintings are also popular.{{sfn|Bing|2011|pp=154–156}}
+
+===Festivals===
+Festivals, both national and Islamic, are celebrated in Marrakesh and throughout the country, and some of them are observed as national holidays.{{sfn|Aldosar|2007|p=1245}} Cultural festivals of note held in Marrakesh include the National Folklore Festival, the Marrakech Festival of Popular Arts (in which a variety of famous Moroccan musicians and artists participate), and the Berber Festival.{{sfn|Aldosar|2007|p=1245}}{{sfn|Bing|2011|p=25}} The [[International Film Festival of Marrakech]], which aspires to be the North African version of the [[Cannes Film Festival]], was established in 2001.{{sfn|Humphrys|2010}} The festival, which showcases over 100 films from around the world annually, has attracted Hollywood stars such as [[Martin Scorsese]], [[Francis Ford Coppola]], [[Susan Sarandon]], [[Jeremy Irons]], [[Roman Polanski]] and many European, Arabic and Indian film stars.{{sfn|Humphrys|2010}} The Marrakech Bienniale was established in 2004 by Vanessa Branson as a cultural festival in various disciplines, including visual arts, cinema, video, literature, performing arts, and architecture.&lt;ref name=marrakechbiennale.com&gt;{{cite web|title=History|url=http://www.marrakechbiennale.com/history/|publisher=Marrakech Biennale|accessdate=2 June 2013}}&lt;/ref&gt;
+
+===Cuisine===
+{{double image|right| Tanjia-959.jpg|175| The menthe.jpg|175|Left: [[Tanjia]]s are prepared in [[tangia]] pots sealed with paper. Right: Tea is prepared with green tea, fresh mint and sugar.}}
+Surrounded by lemon, orange, and [[olive]] groves, the city's culinary characteristics are rich and heavily spiced but not hot, using various preparations of ''[[Ras el hanout]]'' (which means &quot;Head of the shop&quot;), a  blend of dozens of spices which include ash berries, chilli, cinnamon, grains of paradise, monk’s pepper, nutmeg, and turmeric.&lt;ref name=Radan2013&gt;{{cite news|last=Radan|first=Silvia|title=A journey through  Marrakech  cuisine|url=http://www.khaleejtimes.com/kt-article-display-1.asp?xfile=data/expressions/2013/April/expressions_April17.xml&amp;section=expressions|accessdate=1 June 2013|newspaper=''[[Khaleej Times]]''|date=13 April 2013}}&lt;/ref&gt; A specialty of the city and the symbol of its cuisine is ''[[tajine|tanjia marrakshia]]'' a local ''tajine'' prepared with beef meat, spices and &quot;smen&quot; and slow-cooked in a traditional oven in hot ashes.{{sfn|Hal|2002|pp=16, 29}} Tajines can be prepared with chicken, lamb, beef or fish, adding fruits, olives and preserved lemon, vegetables and spices, including cumin, peppers, saffron, turmeric, and ''ras el hanout''. The meal is prepared in a [[tajine]] pot and slow-cooked with steam. Another version of tajine includes vegetables and [[chickpea]]s seasoned with flower petals.{{sfn|Caldicott|Caldicott|2001|p=153}} Tajines may also be basted with &quot;smen&quot; [[moroccan ghee]] that has a flavour similar to blue cheese.{{sfn|Mallos|2006|p=253}}
+
+Shrimp, chicken and lemon-filled ''[[briouat]]s'' are another traditional specialty of Marrakesh. Rice is cooked with saffron, raisins, spices, and almonds, while [[couscous]] may have added vegetables. A ''[[pastilla]]'' is a [[filo]]-wrapped pie stuffed with minced chicken or pigeon that has been prepared with almonds, cinnamon, spices and sugar.{{sfn|Sullivan|2006|p=13}} [[Harira]] soup in Marrakesh typically includes lamb with a blend of chickpeas, lentils, vermicelli, and tomato paste, seasoned with coriander, spices and parsley. ''[[Kefta]]'' (mince meat), liver in ''[[crépinette]]'', ''[[merguez]]'' and [[tripe]] stew are commonly sold at the stalls of Jemaa el-Fnaa.{{sfn|Koehler|2012|p=32}}
+
+The desserts of Marrakesh include ''[[chebakia]]'' (sesame spice cookies usually prepared and served during Ramadan), [[tartlet]]s of filo dough with dried fruit, or cheesecake with dates.&lt;ref name=telegraph2013&gt;{{cite news|title=Marrakech magic|url=http://www.telegraphindia.com/1130310/jsp/graphiti/16652348.jsp|accessdate=1 June 2013|newspaper=[[The Telegraph (Calcutta)|''The Telegraph'']]|date=19 March 2013}}&lt;/ref&gt;
+
+The [[Moroccan tea culture]] is practiced in Marrakesh; [[green tea]] with mint is served with sugar from a curved teapot spout into small glasses.{{sfn|Humphrys|2010|p=114}}  Another popular non-alcoholic drink is orange juice.{{sfn|Davies|2009|p=62}} Under the Almoravids, alcohol consumption was common;{{sfn|Ring|Salkin|Boda|1996|p=468}} historically, hundreds of Jews produced and sold alcohol in the city.{{sfn|Gottreich|2007|p=164}} In the present day, alcohol is sold in some hotel bars and restaurants.{{sfn|Sullivan|2006|p=71}}
+
+==Education==
+[[File:Université Privée de Marrakech.jpg|thumb|Université Privée de Marrakech]]
+Marrakesh has several universities and schools, including [[Cadi Ayyad University]] (also known as the University of Marrakech), and its component, the [[École nationale des sciences appliquées de Marrakech]] (ENSA Marrakech), which was created in 2000 by the [[Education in Morocco|Ministry of Higher Education]] and specializes in engineering and scientific research, and the La faculté des sciences et techniques-gueliz which known to be number one in Morocco in its kind of faculties. {{sfn|Arino|Hbid|Dads|2006|p=21}}{{sfn|Casas|Solh|Hafez|1999|p=74}} Cadi Ayyad University was established in 1978 and operates 13 institutions in the Marrakech Tensift Elhaouz and Abda Doukkala regions of Morocco in four main cities, including [[Kalaa of Sraghna]], [[Essaouira]] and [[Safi, Morocco|Safi]] in addition to Marrakech.&lt;ref&gt;{{cite web|url=http://www.uca-en.ucam.ac.ma/the-university/rub-18.php|title=The University|publisher=Cadi Ayyad University|accessdate=16 October 2012}}&lt;/ref&gt; [[Sup de Co Marrakech]], also known as the École Supérieure de Commerce de Marrakech, is a private four-year college that was founded in 1987 by Ahmed Bennis. The school is affiliated with the [[École supérieure de commerce de Toulouse|École Supérieure de Commerce of Toulouse]], [[France]]; since 1995 the school has built partnership programs with numerous American universities including the [[University of Delaware]], [[University of St. Thomas (Houston)|University of St. Thomas]], [[Oklahoma State University]], [[National-Louis University]], and [[Temple University]]. &lt;!--Also of note is the [[Lycée Hassan II]]: the poet of the city was [[Mohammed Ben Brahim]] and his favorite place was café Al-Masraf. The poems and songs of [[Mohammed Ben Brahim|Ben Brahim]] are still known by heart by many Marrakeshi.--&gt;
+
+===Primary and secondary schools===
+{{expand section|date=May 2016}}
+International schools include:
+*[[Lycée Victor Hugo (Marrakesh)|Lycée Victor Hugo]] (French secondary school)
+*École [[Auguste Renoir]]&lt;!--https://sites.google.com/site/ecolerenoirmarrakech/--&gt; (French primary school)
+*[[Groupe Scolaire Jacques Majorelle (Marrakech)|Groupe Scolaire Jacques Majorelle]] (French primary and secondary school)
+*[[American School of Marrakesh]]
+
+===Ben Youssef Madrasa===
+[[File:Ben youssef marrakech.jpg|right|thumb|200px|A patio of the madrasa]]
+The [[Ben Youssef Madrasa]], located to the north of the Medina, was an [[Islam]]ic [[college]] in Marrakesh named after the Almoravid sultan Ali ibn Yusuf (1106–1142) who expanded the city and its influence considerably. It is the largest madrasa in all of Morocco and was one of the largest theological colleges in [[North Africa]], at one time housing as many as 900 students.{{sfn|Lehmann|Henss|Szerelmy|2009|p=299}}
+
+The college, which was affiliated with the neighbouring Ben Youssef Mosque, was founded during the [[Marinid]] dynasty in the 14th century by Sultan [[Abu Al-Hasan Ali ibn Othman|Abu al-Hassan]].{{sfn|Lehmann|Henss|Szerelmy|2009|p=299}}
+
+This education complex specialized in Koranic law and was linked to similar institutions in [[Fes|Fez]], [[Taza]], [[Tale, Morocco|Tale]], and [[Meknes]].{{sfn|Rogerson|2000|pp=100–102}} The [[Madrasa]] was re-constructed by the [[Saadi Dynasty|Saadian]] Sultan [[Abdallah al-Ghalib]] (1557–1574) in 1564 as the largest and most prestigious madrasa in Morocco.{{sfn|Rogerson|2000|pp=100–102}} The construction ordered by Abdallah al-Ghalib was completed in 1565, as attested by the inscription in the prayer room.{{sfn|Cheurfi|2007|p=740}} Its 130 student dormitory cells cluster around a courtyard richly carved in [[cedrus|cedar]], [[marble]] and [[stucco]]. In accordance with Islam, the carvings contain no representation of humans or animals, consisting entirely of inscriptions and geometric patterns. One of the school's best known teachers was [[Mohammed al-Ifrani]] (1670–1745). After a temporary closure beginning in 1960, the building was refurbished and reopened to the public as a historical site in 1982.{{sfn|Michelin|2001|p=363}}
+
+==Sports==
+Football clubs based in Marrakesh include [[Najm de Marrakech]], [[KAC Marrakech]], [[Mouloudia de Marrakech]] and [[Chez Ali Club de Marrakech]]. The city contains the [[Circuit International Automobile Moulay El Hassan]] a race track which hosts the [[World Touring Car Championship]] and from 2017 [[FIA Formula E]]. The [[Marrakech Marathon]] is also held here.{{sfn|Christiani|2009|p=161}} Roughly 5000 runners turn out for the event annually.{{sfn|Clammer|2009|p=308}}
+
+[[Golf]] is a popular sport in Marrakech. The city has three golf courses, located just outside the city limits and played almost through the year. The three main courses are the Golf de Amelikis on the road to Ourazazate, the Palmeraie Golf Palace near the Palmeraie, and the Royal Golf Club, the oldest of the three courses.{{sfn|Sullivan|2006|p=175}}
+
+==Transport and communications==
+
+=== Rail ===
+[[File:Interior Marrakech Railway Station.jpg|250|thumb|right||Marrakesh railway station]]
+The [[Marrakesh railway station]] is linked by several trains running daily to other major cities in Morocco such as Casablanca, Tangiers, Fez, Meknes and Rabat. A modern [[TGV|high-speed rail]] system has been planned.&lt;ref name=&quot;Group2007&quot;&gt;{{cite book|last= Group|first=Oxford Business|title= The Report: Emerging Morocco |url=https://books.google.com/books?id=X9kcBzjUtrwC&amp;pg=PA104&amp;lpg=PA104&amp;dq=Road+net+work+in+Marrakech&amp;source=bl&amp;ots=RbstICa74M&amp;sig=fgEsOxvpLbwcN1bkuigNDpHHJNw&amp;hl=en&amp;sa=X&amp;ei=wnyAUKzvA42rqAH10YCgDA&amp;ved=0CEwQ6AEwBA#v=onepage&amp;q=Road%20net%20work%20in%20Marrakech&amp;f=false|date=18 October 2012|year=2007|publisher= Oxford Business Group|isbn=9781902339764|pages=104–107}}&lt;/ref&gt;
+
+In 2015, a [[:fr:Tramway de Marrakech|tramway]] is proposed.
+
+=== Road ===
+The main road network within and around Marrakesh is well paved. The major highway connecting Marrakesh with Casablanca to the south is A7, a toll expressway, {{convert|210|km|abbr=on}} in length. The road from Marrakesh to [[Settat]], a {{convert|146|km|abbr=on}} stretch, was inaugurated by [[King Mohammed VI]] in April 2007, completing the {{convert|558|km|abbr=on}} highway to Tangiers. Highway A7 connects also Marrakesh to [[Agadir]], {{convert|233|km|abbr=on}} to the south-west.&lt;ref name=&quot;Group2007&quot;/&gt;
+
+=== Air ===
+[[File:Airportmarrakech.jpg|250|thumb|right||[[Marrakesh Menara Airport]]]]
+The [[Marrakesh-Menara Airport]] (RAK) is {{convert|3|km|abbr=on}} southwest of the city centre. It is an international facility that receives several [[Europe]]an flights as well as flights from [[Casablanca]] and several [[Arab world|Arab]] nations.&lt;ref name=&quot;ONDA-Marrakech&quot;&gt;{{cite web | url = http://www.onda.ma/ONDA/An/Espaces/EspacePassagers/LeReseauAeroportuaireONDA/Lesaeroports/Fiches+d%E2%80%99identit%C3%A9+par+a%C3%A9roport/MARRAKECH/ | title = Marrakech | publisher =[[Moroccan Airports Authority|Office National Des Aéroports]] | accessdate = 18 October 2012}}&lt;/ref&gt; The airport is located at an elevation of {{convert|471|m}} at {{Coord|31|36|25|N|008|02|11|W}}.&lt;ref&gt;{{Cite web|url=http://www.worldaerodata.com/wad.cgi?id=MO78388&amp;sch=GMMX|title=MenARA Airport General Information|accessdate=18 October 2012|publisher= World Aero Data.com }}&lt;/ref&gt; It has two formal passenger terminals, but these are more or less combined into one large terminal. A third terminal is being built.&lt;ref&gt;{{Cite web|url=http://www.onda.ma/ONDA/Fr/Espaces/EspaceONDA/PlanDuDeveloppementStrat%c3%a9gique/prog2011/prog+2011.htm|title=Investment program 2011|accessdate=18 October 2012|publisher=[[Moroccan Airports Authority|Office National Des Aéroports]]}}&lt;/ref&gt; The existing T1 and T2 terminals offer a space of {{convert|42000|m2|abbr=on}} and have a capacity of 4.5 million passengers per year. The blacktopped runway is {{convert|4.5|km|abbr=on}} long and {{convert|45|m|abbr=on}} wide. The airport has parking space for 14 [[Boeing 737]] and four [[Boeing 747]] aircraft. The separate freight terminal has {{convert|340|m2|abbr=on}} of covered space.&lt;ref&gt;{{Cite web|url=http://www.onda.ma/ONDA/Fr/Espaces/EspacePassagers/LeReseauAeroportuaireONDA/Lesaeroports/Fiches+d%e2%80%99identit%c3%a9+par+a%c3%a9roport/MARRAKECH/Presentation.htm |title=Presentation RAK|publisher=[[Moroccan Airports Authority|Office National Des Aéroports]]}}&lt;/ref&gt;
+
+==Healthcare==
+Marrakesh has long been an important centre for healthcare in Morocco, and the regional rural and urban populations alike are reliant upon hospitals in the city. The psychiatric hospital installed by the Merinid Caliph [[Ya'qub al-Mansur]] in the 16th century was described by the historian [[Abdelwahid al-Marrakushi|'Abd al-Wahfd al- Marrakushi]] as one of the greatest in the world at the time.{{sfn|Laet|1994|p=344}} A strong Andalusian influence was evident in the hospital, and many of the physicians to the Caliphs came from places such as [[Seville]], [[Zaragoza]] and [[Denia]] in eastern Spain.{{sfn|Laet|1994|p=344}}
+
+A severe strain has been placed upon the healthcare facilities of the city in the last decade as the city population has grown dramatically.&lt;ref name=&quot;OFID&quot;&gt;{{cite web|url=http://www.ofid.org/NewsPress/tabid/87/ArticleId/150/Morocco-expands-hospital-services-with-US-8-million-OPEC-Fund-loan.aspx|title=Morocco expands hospital services with US$8 million OPEC Fund loan|publisher=[[The OPEC Fund for International Development]]|date=9 February 2001|accessdate=19 October 2012}}&lt;/ref&gt; [[Ibn Tofail University Hospital]] is one of the major hospitals of the city.&lt;ref&gt;{{cite web|url=http://www.highbeam.com/doc/1G1-214554024.html|title=Marrakech attack, terrorist act resulting from strong explosion caused by an explosive device|publisher=''[[Agence Maghreb Arabe Presse]]'' (MAP) via [[HighBeam Research]] {{subscription required}}|date=28 April 2011|accessdate=18 October 2012}}&lt;/ref&gt; In February 2001, the Moroccan government signed a loan agreement worth eight million U.S. dollars with [[The OPEC Fund for International Development]] to help improve medical services in and around Marrakesh, which led to expansions of the Ibn Tofail and [[Ibn Nafess Hospital|Ibn Nafess]] hospitals. Seven new buildings were constructed, with a total floor area of {{convert|43,000|m²}}. New radiotherapy and medical equipment was provided and {{convert|29,000|m²}} of existing hospital space was rehabilitated.&lt;ref name=&quot;OFID&quot;/&gt;
+ 
+In 2009, king Mohammed VI inaugurated a regional psychiatric hospital in Marrakesh, built by the [[Mohammed V Foundation for Solidarity]], costing 22 million ''[[dirham]]s'' (approximately 2.7 million U.S. dollars).&lt;ref name=&quot;MAP0909&quot;&gt;{{cite web|url=http://www.highbeam.com/doc/1G1-214554024.html|title=H.M. the king inaugurates regional psychiatry hospital in Marrakech.|publisher=''[[Agence Maghreb Arabe Presse]]'' (MAP) via [[HighBeam Research]] {{subscription required}}|date=7 September 2009|accessdate=18 October 2012}}&lt;/ref&gt; 
+The hospital has 194 beds, covering an area of {{convert|3|ha}}.&lt;ref name=&quot;MAP0909&quot;/&gt; Mohammed VI has also announced plans for the construction of a 450 million dirham military hospital in Marrakesh.&lt;ref&gt;{{cite web|url=http://www.highbeam.com/doc/1G1-250069592.html|title=HM the King launches relocation operation of military installations in Marrakech.|publisher=''[[Agence Maghreb Arabe Presse]]'' (MAP) via [[HighBeam Research]] {{subscription required}}|date=25 September 2011|accessdate=18 October 2012}}&lt;/ref&gt;
+
+==International relations==
+{{See also|List of twin towns and sister cities in Africa#Morocco|l1=List of twin towns and sister cities in Morocco}}
+
+===Twin towns – sister cities===
+Marrakesh is [[Twin towns and sister cities|twinned]] with:
+* {{flagicon|ESP}} [[Granada]], Spain
+* {{flagicon|FRA}} [[Marseille]], France
+*{{flagicon|FRA}} [[Clermont-Ferrand]], France&lt;ref name=&quot;Clermont-Ferrand twinnings&quot;&gt;{{cite web | url =http://www.cncd.fr/frontoffice/bdd-region.asp?action=getRegion&amp;id=3#tabs3 | title = National Commission for Decentralised cooperation | accessdate = 2013-12-26|work = Délégation pour l’Action Extérieure des Collectivités Territoriales (Ministère des Affaires étrangères) | language = French}}&lt;/ref&gt;
+* {{flagicon|MLI}} [[Timbuktu]], Mali
+* {{flagicon|FRA}} [[Ajaccio]], France
+
+==See also==
+{{Portal|Morocco}}
+* [[List of people from Marrakech]]
+* [[Marrakech in popular culture]]
+
+==References==
+{{reflist|2}}
+
+===Bibliography===
+{{div col|3}}
+* {{cite book|last=Academie de droit|first=|title=Water Resources and International Law|url=https://books.google.com/books?id=y8ROjvTbrD4C&amp;pg=PA71|year=2002|publisher=Martinus Nijhoff Publishers|isbn=978-90-411-1864-6}}
+* {{cite book|last= Aldosar|first=Ali|title= Middle East, western Asia, and northern Africa|url=https://books.google.mg/books?id=j894miuOqc4C&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false|publisher= Marshall Cavendish|isbn=9780761475712|year=2007|ref=harv}}
+* {{cite book|last1=Arino|first1=O.|last2=Hbid|first2=M.L.|last3=Dads|first3=Ait|title=Delay Differential Equations and Applications: Proceedings of the NATO Advanced Study Institute held in Marrakech, Morocco, 9–21 September 2002|url=https://books.google.com/books?id=rKtyAnqCC6MC&amp;pg=PR21|year=2006|publisher=Springer|isbn=978-1-4020-3645-3|ref=harv}}
+* {{cite book|last=Barrows|first=David Prescott|title=Berbers And Blacks: Impressions Of Morocco, Timbuktu And The Western Sudan|url=https://books.google.com/books?id=KLhuMhMtE5gC|year=2004|publisher=Kessinger Publishing|isbn=978-1-4179-1742-6|page=85|ref=harv}}
+* {{cite book|last=Bing|first=Alison|title=Marrakesh Encounter|url=https://books.google.com/books?id=kILSQgAACAAJ|year=2011|publisher=Lonely Planet|isbn=978-1-74179-316-1|ref=harv}}
+* {{cite book|last1=Bloom|first1=Jonathan M.|last2=Blair|first2=Sheila|title=The Grove Encyclopedia of Islamic Art and Architecture: Delhi to Mosque|url=https://books.google.com/books?id=un4WcfEASZwC&amp;pg=PA189|year=2009|publisher=Oxford University Press|isbn=978-0-19-530991-1|ref=harv}}
+* {{cite book|last=Bosworth|first=Clifford Edmund|title=Encyclopaedia of Islam, Fascicle 107|url=https://books.google.com/books?id=tPsUAAAAIAAJ&amp;pg=PA593|year=1989|publisher=Brill Archive|isbn=978-90-04-09082-8|ref=harv}}
+* {{cite book|last1=Caldicott|first1=Chris|last2=Caldicott|first2=Carolyn|title=The spice routes: chronicles and recipes from around the world|url=https://books.google.com/books?id=z0bCxxuDrZIC&amp;pg=PA153|year=2001|publisher=frances lincoln ltd|isbn=978-0-7112-1756-0|ref=harv}}
+* {{cite book|last1=Casas |first1=Joseph|last2=Solh |first2=Mahmoud|last3=Hafez|first3=Hala|title=The National Agricultural Research Systems in West Asia and North Africa Region|url=https://books.google.com/books?id=AYjaYoJdREAC&amp;pg=PA74|year=1999|publisher=ICARDA|isbn=978-92-9127-096-5|ref=harv}} 
+* {{cite book|last=Cheurfi|first=Achour|title=L'encyclopédie maghrébine|url=https://books.google.com/books?id=_n0PAQAAMAAJ|year=2007|publisher=Casbah éditions|isbn=978-9961-64-641-0|ref=harv}}
+* {{cite book|last=Christiani|first=Kerry|title=Frommer's Marrakech Day by Day|url=https://books.google.com/books?id=rvrf_AMIoMIC&amp;pg=PA1|year=2009|publisher=John Wiley &amp; Sons|isbn=978-0-470-71711-0|ref=harv}}
+* {{cite book|last=Clammer|first=Paul|title=Morocco|url=https://books.google.com/books?id=Kkl5d8NRCOEC&amp;pg=PA308|year=2009|publisher=Lonely Planet|isbn=978-1-74104-971-8|ref=harv}}
+* {{cite book|last=Cornell|first=Vincent J.|title=Realm of the Saint: Power and Authority in Moroccan Sufism|url=https://books.google.com/books?id=u4X1s7S0ZdgC&amp;pg=PR15|year=1998|publisher=University of Texas Press|isbn=978-0-292-71210-2|ref=harv}}
+* {{cite book|last= Clark |first=Des |title=Mountaineering in the Moroccan High Atlas|url=https://books.google.com/books?id=XGU5ML7nRhsC|year=2012|publisher=Cicerone Press Limited|isbn=978-1-84965-717-4|ref=harv}}
+* {{cite book|last=Davies|first=Ethel|title=North Africa: The Roman Coast|url=https://books.google.com/books?id=H4QeOGV_zl4C&amp;pg=PA397|year=2009|publisher=Bradt Travel Guides|isbn=978-1-84162-287-3|ref=harv}}
+* {{cite book|last1=Delbeke|first1=M.|last2=Schraven|first2=M.|title=Foundation, Dedication and Consecration in Early Modern Europe|url=https://books.google.com/books?id=r7p2l48O2KoC&amp;pg=PA185|year=2011|publisher=BRILL|isbn=978-90-04-21757-7|page=185|ref=harv}}
+* {{cite book|last=Denby|first=Elaine|title=Grand Hotels: Reality and Illusion|url=https://books.google.com/books?id=NhLyGME7734C&amp;pg=PA194|year=2004|publisher=Reaktion Books|isbn=978-1-86189-121-1|ref=harv}}
+* {{cite book|last1=Egginton|first1=Jane|last2=Pitz|first2=Anne|title=NG Spirallo Marrakech|url=https://books.google.com/books?id=5szG0YjHjwUC&amp;pg=PR11|year=2010|publisher=Mair Dumont Spirallo|isbn=978-3-8297-3274-1|language=German|ref=harv}}
+* {{cite book|last=Febvre|first=Lucien Paul Victor|title=Annales|url=https://books.google.com/books?id=J00qAQAAMAAJ|year=1988|publisher=A. Colin|ref=harv}}
+* {{cite book|last=Gerteiny|first=Alfred G.|title=Mauritania|url=https://books.google.com/books?id=0HI_AAAAMAAJ |year=1967 |publisher=Praeger |ref=harv}}
+* {{cite book|last=Gottreich|first=Emily|title=The Mellah of Marrakesh: Jewish And Muslim Space in Morocco's Red City|url=https://books.google.com/books?id=c6fALw8d9ZoC&amp;pg=PA10|year=2007|publisher=Indiana University Press|isbn=978-0-253-21863-6|ref=harv}}
+* {{cite journal|jstor=3879621|title=On the Origins of the Mellah of Marrakesh|first=Emily |last=Gottreich|journal=International Journal of Middle East Studies|volume=35|issue=2 |year=2003|pages=287–305|publisher=Cambridge University Press|ref=harv|doi=10.1017/s0020743803000126}}
+* {{cite book|last=Hal|first=Fatéma|title=Food of Morocco: Authentic Recipes from the North African Coast|url=https://books.google.com/books?id=0Wlz2FBIinAC&amp;pg=PA16 |year=2002|publisher=Tuttle Publishing|isbn=978-962-593-992-6|ref=harv}} 
+* {{cite book|last=Hamilton|first=Richard|title=The Last Storytellers: Tales from the Heart of Morocco|url=https://books.google.com/books?id=dZU7VD2r4sQC&amp;pg=PR14|year=2011|publisher=I.B.Tauris|isbn=978-1-84885-491-8|ref=harv}}
+* {{cite book|last=Harrison|first=Rodney|title=Heritage: Critical Approaches|url=https://books.google.com/books?id=2y8Cds2o8SwC&amp;pg=PT144|year=2012|publisher=Routledge|isbn=978-1-136-26766-6|ref=harv}}
+* {{cite book|author=Hoisington|title=The Assassination of Jacques Lemaigre Dubreuil: A Frenchman between France and North Africa|url=https://books.google.com/books?id=4X9dcN8HtR0C&amp;pg=PA109|year=2004|publisher=Psychology Press|isbn=978-0-415-35032-7|ref=harv}}
+* {{cite book|last=Howe|first=Marvine|title=Morocco: The Islamist Awakening and Other Challenges|url=https://books.google.com/books?id=olBTEdJ0ncIC&amp;pg=PA46|year=2005|publisher=Oxford University Press|isbn=978-0-19-516963-8|ref=harv}}
+* {{cite book|last=Humphrys|first=Darren|title=Frommer's Morocco|url=https://books.google.com/books?id=3QK6vvWTq8YC&amp;pg=PT124|year=2010|publisher=John Wiley &amp; Sons|isbn=978-0-470-56022-8|ref=harv}}
+* {{cite book|last=Jacobs|first=Daniel|title=The Rough Guide to Morocco|url=https://books.google.com/books?id=L2JMpcsjRJoC&amp;pg=PT425|year=2013|publisher=Rough Guides|isbn=978-1-4093-3267-1|ref=harv}}
+* {{cite book|last=Koehler|first=Jeff|title=Morocco: A Culinary Journey with Recipes: A Culinary Journey with Recipes from the Spice-Scented Markets|url=https://books.google.com/books?id=vao-pmPnz-4C&amp;pg=PA32|year=2012|publisher=Chronicle Books|isbn=978-1-4521-1365-4|ref=harv}}
+* {{cite book|last=Laet|first=Sigfried J. de|title=History of Humanity: From the seventh to the sixteenth century|url=https://books.google.com/books?id=ixCyd2lByggC&amp;pg=PA344|year=1994|publisher=UNESCO|isbn=978-92-3-102813-7|ref=harv}}
+* {{cite book|last=Layton|first=Monique|title=Notes from Elsewhere: Travel and Other Matters|url=https://books.google.com/books?id=xcV3dbLCJXYC&amp;pg=PA104|year=2011|publisher=iUniverse|isbn=978-1-4620-3649-3|ref=harv}}
+* {{cite book|last1=Lehmann|first1=Ingeborg|last2=Henss|first2=Rita|last3=Szerelmy|first3=Beate|title=Baedeker Morocco|url=https://books.google.com/books?id=CX7zx5C1bf4C&amp;pg=PA299|year=2009|publisher=Baedeker|isbn=978-3-8297-6623-4|ref=harv}}
+* {{cite book|last1=Listri|first1=Massimo|last2=Rey|first2=Daniel|title=Marrakech: Living on the Edge of the Desert|url=https://books.google.com/books?id=dEBEF6F9r_8C|year=2005|publisher=Images Publishing|isbn=978-1-86470-152-4|ref=harv}}
+* {{cite book|last=Loizillon|first=Sophie|title=Maroc|url=https://books.google.com/books?id=pbSwNZLuKZQC&amp;pg=PA50|year=2008|publisher=Editions Marcus|isbn=978-2-7131-0271-4|language=French|ref=harv}}
+* {{cite book|last=Mallos|first=Tess|title=A Little Taste Of-- Morocco|url=https://books.google.com/books?id=Jhq9EfV3RY4C&amp;pg=PA253|year=2006|publisher=Murdoch Books|isbn=978-1-74045-754-5|ref=harv}}
+* {{cite book|last1=Mayhew|first1=Bradley|last2=Dodd|first2=Jan|title=Morocco|url=https://books.google.com/books?id=h2Pr8hZrXxoC|year=2003|publisher=Lonely Planet|isbn=978-1-74059-361-8|ref=harv}}
+* {{cite book|title=Morocco|url=https://books.google.com/books?id=EuouAQAAIAAJ|year=2001|last =Michelin|publisher=Michelin Travel Publications|ref=harv}}
+* {{cite book|last= Messier|first=Ronald A.|title=The Almoravids and the Meanings of Jihad|url=https://books.google.com/books?id=5YouJtx-igIC&amp;pg=PA180|year=2010|publisher=ABC-CLIO|isbn=978-0-313-38589-6|ref=harv}}
+* {{cite book|last=Nanjira|first=Daniel Don|title=African Foreign Policy and Diplomacy From Antiquity to the 21st Century|url=https://books.google.com/books?id=LZuxGsXVPoMC&amp;pg=PA208|year=2010|publisher=ABC-CLIO|isbn=978-0-313-37982-6|ref=harv}}
+* {{cite book|last=Naylor|first=Phillip C.|title=North Africa: A History from Antiquity to the Present|url=https://books.google.com/books?id=a1jfzkJTAZgC&amp;pg=PA90|year=2009|publisher=University of Texas Press|isbn=978-0-292-71922-4|ref=harv}}
+* {{cite book|last1=Pons|first1=Pau Obrador|last2=Crang|first2=Mike|last3=Travlou|first3=Penny|title=Cultures of Mass Tourism: Doing the Mediterranean in the Age of Banal Mobilities|url=https://books.google.com/books?id=xqg0qJScQLUC&amp;pg=PA39|year=2009|publisher=Ashgate Publishing, Ltd.|isbn=978-0-7546-7213-5|ref=harv}}
+* {{cite book|last1=Ring|first1=Trudy|last2=Salkin|first2=Robert M.|last3=Boda|first3=Sharon La|title=International Dictionary of Historic Places: Middle East and Africa|url=https://books.google.com/books?id=R44VRnNCzAYC&amp;pg=PA468|year=1996|publisher=Fitzroy Dearborn Publishers|isbn=978-1-884964-03-9|ref=harv}}
+* {{cite book|last1=[[Barnaby Rogerson|Rogerson]]|first1=[[Barnaby Rogerson|Barnaby]]|last2=Lavington|first2=Stephen|title=Marrakech: The Red City|url=https://books.google.com/books?id=j-sPAQAAMAAJ|year=2004|publisher=Sickle Moon|isbn=978-1-900209-18-2|ref=harv}}
+* {{cite book|last=Rogerson|first=Barnaby|title=Marrakesh, Fez, Rabat|url=https://books.google.com/books?id=BK0neG2HIP4C&amp;pg=PA106|year=2000|publisher=New Holland Publishers|isbn=978-1-86011-973-6|ref=harv}}
+* {{cite book|last=Searight|first=Susan|title=Maverick Guide to Morocco|url=https://books.google.com/books?id=t4hmPoi_CJ4C&amp;pg=PA403|year=1999|publisher=Pelican Publishing|isbn=978-1-56554-348-5|ref=harv}}
+* {{cite book|last=Shackley|first=Myra|title=Atlas of Travel and Tourism Development|url=https://books.google.com/books?id=9UY0bJsRdWsC&amp;pg=PA43|year=2012|publisher=Routledge|isbn=978-1-136-42782-4|ref=harv}}
+* {{cite book|last=Shillington|first=Kevin|title=Encyclopedia of African history|url=https://books.google.com/books?id=x_UpAQAAMAAJ|year=2005|publisher=Fitzroy Dearborn|ref=harv}}
+* {{cite book|last=Sullivan|first=Paul|title=A Hedonist's Guide to Marrakech|url=https://books.google.com/books?id=1wvhTUeqEr8C&amp;pg=PA1|year=2006|publisher=A Hedonist's guide to...|isbn=978-1-905428-06-9|ref=harv}}
+* {{cite book|last=Venison|first=Peter J.|title=In the Shadow of the Sun: Travels And Adventures in the World of Hotels|url=https://books.google.com/books?id=P6Aj7OW6-_8C&amp;pg=PA214|year=2005|publisher=iUniverse|isbn=978-0-595-35458-0|ref=harv}}
+* {{cite book|last1= Vorhees |first1=Mara |last2= Edsall |first2=Heidi|title=Morocco|url=https://books.google.com/books?id=FKxWBLwMBqYC&amp;pg=PA286|year=2005|publisher=Lonely Planet|isbn=978-1-74059-678-7|ref=harv}}
+{{div col end}}
+
+==Further reading==
+{{div col|3}}
+* {{cite book|last1=Auzias|first1=Dominique|last2=Labourdette|first2=Jean-Paul|title=Marrakech 2011 – 2012|url=https://books.google.com/books?id=X8dDNHbdC78C|accessdate=8 October 2012|year=2011|publisher=Collectif, Petit Futé|isbn=978-2-7469-3014-8|language=French}}
+* {{cite book|last=Bing|first=Alison|title=Best of Marrakesh|url=https://books.google.com/books?id=X-kuAQAAIAAJ|year= 2006|publisher=Lonely Planet|isbn=978-1-74059-594-0}}
+* {{cite book|last=Bing|first=Alison|title=Marrakesh Encounter|url=https://books.google.com/books?id=kILSQgAACAAJ|year=2011|publisher=Lonely Planet|isbn=978-1-74179-316-1}}
+* {{cite book|last=Brown|first=Hamish M.|title=The Mountains Look on Marrakech|url=https://books.google.com/books?id=dktmAAAACAAJ|year=2007|publisher=Whittles|isbn=978-1-870325-29-5}}
+* {{cite book|last=Canetti|first=Elias|title=The Voices of Marrakesh: A Record of a Visit|url=https://books.google.com/books?id=RYySO-twrzwC|year=2012|publisher=Penguin Books Limited|isbn=978-0-14-119562-9}}
+* {{cite book|last=Charvet|first=Marie|title=Marrakesh|url=https://books.google.com/books?id=dPrEGwAACAAJ|year=2003|publisher=Everyman|isbn=978-1-84159-073-8}}
+* {{cite book|last=Christiani|first=Kerry|title=Frommer's Marrakech Day by Day|url=https://books.google.com/books?id=rvrf_AMIoMIC&amp;pg=PA1|year=2010|publisher=John Wiley &amp; Sons|isbn=978-0-470-71711-0}}
+* {{cite book|author=Editors of Time Out|title=Time Out Shortlist Marrakech|url=https://books.google.com/books?id=JRDoGgAACAAJ|year=2008|publisher=Time Out|isbn=978-1-84670-076-7}}
+* {{cite book|last=Fernea|first=Elizabeth Warnock|title=A Street in Marrakech: A Personal View of Urban Women in Morocco|url=https://books.google.com/books?id=sgFzAAAAMAAJ|year=1988|publisher=Waveland Press|isbn=978-0-88133-404-3}}
+* {{cite book|last=Gottreich|first=Emily|title=The Mellah of Marrakesh: Jewish And Muslim Space in Morocco's Red City|url=https://books.google.com/books?id=c6fALw8d9ZoC&amp;pg=PA10|year=2007|publisher=Indiana University Press|isbn=978-0-253-21863-6}}
+* {{cite book|last=Gould|first=Stephen Jay|title=The Lying Stones of Marrakech: Penultimate Reflections in Natural History|url=https://books.google.com/books?id=wApMpVmi-5gC|year=2011|publisher=Harvard University Press|isbn=978-0-674-06167-5}}
+* {{cite book|last=Humphreys|first=Andrew|title=Marrakech|url=https://books.google.com/books?id=MdztGgAACAAJ|year=2008|publisher=Dorling Kindersley|isbn=978-1-4053-2827-2}}
+* {{cite book|last=Humphreys|first=Andrew|title=DK Eyewitness Top 10 Travel Guide: Marrakech: Marrakech|url=https://books.google.com/books?id=Fwbcvk-rkLgC|year=2010|publisher=Dorling Kindersley Limited|isbn=978-1-4053-6690-8}}
+* {{cite book|last=Jacobs|first=Daniel|title=Marrakesh Directions|url=https://books.google.com/books?id=ODJtOFUFQtEC|year=2004|publisher=Rough Guides|isbn=978-1-84353-321-4}}
+* {{cite book|last1=Listri|first1=Massimo|last2=Rey|first2=Daniel|title=Marrakech: Living on the Edge of the Desert|url=https://books.google.com/books?id=dEBEF6F9r_8C|year=2006|publisher=Images Publishing|isbn=978-1-86470-152-4}}
+* {{cite book|last=McGuinness|first=Justin|title=Footprint Marrakech &amp; the High Atlas Handbook: The Travel Guide|url=https://books.google.com/books?id=6f5ITDa1YM0C|year=2002|publisher=Footprint Handbooks|isbn=978-1-903471-12-8}}
+* {{cite book|last=McGuinness|first=Justin|title=Marrakech|url=https://books.google.com/books?id=FC3EQwAACAAJ|year=2004|publisher=Footprint Handbooks|isbn=978-1-903471-81-4}}
+* {{cite book|last=Mourad|first=Khireddine|title=Marrakech Et La Mamounia|url=https://books.google.com/books?id=knKMJSOAlrwC|year=1994|publisher=www.acr-edition.com|isbn=978-2-86770-081-1|language=French}}
+* {{cite book|last=Nichols|first=Fiona|title=Marrakech Travel Pack|url=https://books.google.com/books?id=AotPPgAACAAJ|year=2009|publisher=Globetrotter|isbn=978-1-84773-472-3}}
+* {{cite book|last=Sullivan|first=Paul|title=A Hedonist's Guide to Marrakech|url=https://books.google.com/books?id=1wvhTUeqEr8C&amp;pg=PA1|year=2006|publisher=A Hedonist's guide to...|isbn=978-1-905428-06-9}}
+* {{cite book|last=Sweeney|first=Sarah|title=Marrakesh|url=https://books.google.com/books?id=KNyBOgAACAAJ|year=2009|publisher=Insight Guides|isbn=978-981-282-122-5}}
+* {{cite book|last1=Wilbaux|first1=Quentin|last2=Lebrun|first2=Michel|last3=McElhearn|first3=Kirk|title=Marrakesh: The Secret of Courtyard Houses|url=https://books.google.com/books?id=d7V1J9R_IjsC|year=2009|publisher=www.acr-edition.com|isbn=978-2-86770-130-6}}
+* {{cite book|last=Wilde|first=Tatiana|title=Select Marrakech|url=https://books.google.com/books?id=zNKUZwEACAAJ|year= 2012|publisher=APA Publications UK, Limited|isbn=978-1-78005-285-4}}
+{{div col end}}
+
+==External links==
+{{Commons category|Marrakech}}
+{{Wikivoyage}}
+* [http://www.parlement.ma/ Parliament of Morocco]
+
+&lt;!--spacing--&gt;
+
+{{Marrakesh}}
+{{Marrakesh-Safi}}
+{{Prefectures and provinces of Morocco}}
+{{World Heritage Sites in Morocco}}
+{{Authority control}}
+
+{{good article}}
+
+[[Category:Marrakesh| ]]
+[[Category:Prefecturial capitals in Morocco]]
+[[Category:Regional capitals in Morocco]]
+[[Category:1071 establishments in Africa]]</text>
+      <sha1>mg6o2ecv029yo4pgipmbeabn60h38sz</sha1>
+    </revision>
+  </page>
+</mediawiki>

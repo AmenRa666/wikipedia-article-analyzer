@@ -1,0 +1,443 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Scottish Parliament Building</title>
+    <ns>1</ns>
+    <id>1527266</id>
+    <revision>
+      <id>734188443</id>
+      <parentid>726581557</parentid>
+      <timestamp>2016-08-12T17:53:22Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <comment>/* Blacklisted Links Found on the Main Page */necessaryily -&gt; necessarily (By request of Cyberpower678 fixing typo by Cyberbot II -  see discussion [[User_talk:Cyberpower678#necessaryily]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="45801">{{summary in|Scottish Parliament}}
+{{ArticleHistory
+|action1=PR
+|action1date=17 December 2006
+|action1link=Wikipedia:Peer review/Scottish Parliament Building/archive1
+|action1result=Reviewed
+|action2=FAC
+|action2date=22:34, 10 January 2007
+|action2link=Wikipedia:Featured article candidates/Scottish Parliament Building
+|action2result=promoted
+|action2oldid=99818733
+|maindate=May 2, 2007
+|currentstatus=FA
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Architecture|class=FA|importance=mid}}
+{{WikiProject Edinburgh|class=FA|importance=High}}
+{{WikiProject Scotland|class=FA|importance=high}}
+{{WikiProject Politics of the United Kingdom|class=FA|importance=Mid}}
+}}
+{{Architecture SA|2007|9}}
+{{old move | date = 21 February 2013 | destination =  | result = not moved | link = Talk:Scottish_Parliament_Building#Requested_move}}
+
+
+==Photo==
+Seeing as the building is now finished, the construction photo seems a little dated.  There are some wonderful photos at [http://www.scottish.parliament.uk/nmCentre/images/latest/index.htm the Parliament website], which as far as I can see from their conditions, there would no problem with us using.  What does anyone else think? [[User:Maccoinnich|Maccoinnich]] 01:53, Feb 20, 2005 (UTC)
+
+:I have replaced the first photo with a sunny picture from this morning. You won't get it much sunnier than that. I see no problem having the construction photo further down in the text, where it is already located.--[[User:Klaus with K|Klaus with K]] 15:17, 29 April 2006 (UTC)
+
+== Fraser Inquiry ==
+
+''The Brief emphasised the importance of design and quality over quality and programme'' - not sure what that's supposed to mean.  --[[User:Duncancumming|duncan]] 00:43, 11 August 2006 (UTC)
+
+== Debating Chamber ==
+
+Does anyone know why the Debating Chamber is arranged roughly in a semi-circle (in three sections) as opposed to the facing benches (government and opposition) as in the [[Palace of Westminster]] and in other Westminster system parliaments, such as [[Parliament House, Canberra|Australia]], [[Parliament of Canada|Canada]], [[Dáil Éireann|Ireland]] and [[Parliament of New Zealand|New Zealand]]? [[User:ThirdEdition|ThirdEdition]] 03:53, 11 August 2006 (UTC)
+
+
+It was to encourage a more co-operative and less adverserial style of politics.  Most modern European parliaments have a similar layout.  Apparently, the layout was intended to be even more forward facing; the layout as executed was something of a compromise.[[User:FrFintonStack|FrFintonStack]] 01:46, 10 October 2006 (UTC)
+
+== Links in image captions? ==
+
+I note that there are currently no links provided in any of the captions to images, eg. at ''&quot;The distinctive windows of the MSP building inspired by Henry Raeburn's famous painting - the Skating Minister&quot;'' it would seem logical to internally wikilink to the [[Henry Raeburn]] article and [[The Skating Minister]] article (and perhaps even the [[Member of the Scottish Parliament]] article).
+
+Is this an ommission, or is it [[WP:MOS]] policy that we prefer ''not'' to link within captions? Is this something to do with the FA candidature? 
+
+I do not consider caption linking to be &quot;duplicate&quot; linking, as the images may be far removed from any links in the main text. But others may hold a different view.
+
+I am willing to run through all the captions wikilinking appropriate items, but I just wondered if we had intentionally not done it for some reason. --[[User:Mais oui!|Mais oui!]] 09:02, 31 December 2006 (UTC)
+
+::When I wrote the captions I wasn't sure about duplication of links, so I just left linking to the text. I don't see a problem with duplicate caption links, at all. [[User:Globaltraveller|Globaltraveller]] 17:30, 31 December 2006 (UTC)
+==Architecture==
+GTraveller - I've made a start expanding some of the architectural concept and will finish that and the &quot;Criticism&quot; (architectural and public) section tomorrow. I've added new headings and changed the hierarchy a bit to give some distinction to the building description and the other issued. I'd urge you to think again about moving the Fraser inquiry section to a separate article and summarising it in this - it's very detailed and a little brevity may help balance the article a bit better. --[[User:Mcginnly|Mcginnly]] | [[User talk:Mcginnly|Natter]] 02:34, 6 January 2007 (UTC)
+:P.S. I always sort images and layout last so sorry if it's now looking a bit ropey. --[[User:Mcginnly|Mcginnly]] | [[User talk:Mcginnly|Natter]] 02:42, 6 January 2007 (UTC)
+
+:I am 110% adamant. The Fraser Inquiry stays (1B, remember?). It is far too an important to start hacking to death, substantially, and the bits on this article are the tip of the iceberg of any future [[Fraser Inquiry]] article. I will when I get time, determine if some of it can de dispensed with. If you want more room, rationalise the &quot;Further problems&quot; section, and incorporate that into the preceeding text (although the panoramic image of the chamber must stay) and delete the pretty irrelevant paragraph on the Parliament Building's opening hours, in the Parliamentary Complex section. [[User:Globaltraveller|Globaltraveller]] 09:13, 6 January 2007 (UTC)
+::Ah good I was wondering about that paragraph - I'll keep something in about the public accessibility though. --[[User:Mcginnly|Mcginnly]] | [[User talk:Mcginnly|Natter]] 13:29, 6 January 2007 (UTC)
+
+I've added most of what I wanted to say - there's a few bits still to do - expand the debating chamber a bit to include how it affords views of the landscape and its elevated continuation of the lines from arthur's seat - include a reference to the artwork on the cannongate wall - include some mention of the bomb blast engineering and affects to the design (cannon gate wall is one) - include the architectural reaction in the lead - expand the Garden lobby section a bit &quot;one of the great processional routes in contemporary architecture&quot; - finally, the more I think about it the more the article desparately needs a plan - I'll get on that tomorrow as a priority. Cheers. --[[User:Mcginnly|Mcginnly]] | [[User talk:Mcginnly|Natter]] 04:43, 7 January 2007 (UTC)
+
+:OK, I have to admit I was very wary about the critic opinions being incorporated into the article, as I said elsewhere, but the way you've incorporated them into this article is great - and some of the extensions to the sustainability features are good. I do hope, though, there is not a great deal more, as the article is a bit on the big side - and we don't want to have to cut down on other things - because '''everything here is relevant''', and part of the whole story of the building. A floor plan will be the icing on the cake. [[User:Globaltraveller|Globaltraveller]] 10:06, 7 January 2007 (UTC)
+
+==Site Plan==
+'''Site plan of the Scottish Parliament'''&lt;br&gt;
+{|
+|-valign=&quot;top&quot;
+|[[Image:Scottish Parliament site plan.jpg|none|right|350px]]
+|width=20%|&lt;small&gt;'''1'''&amp;nbsp;Public Entrance '''2'''&amp;nbsp;Plaza '''3'''&amp;nbsp;Pond '''4'''&amp;nbsp;Press Tower '''5'''&amp;nbsp;Debating Chamber '''6'''&amp;nbsp;Tower one '''7'''&amp;nbsp;Tower two '''8'''&amp;nbsp;Tower three '''9'''&amp;nbsp;Tower four '''10'''&amp;nbsp;Tower five, Cannongate Bldg. '''11'''&amp;nbsp;Main Staircase '''12'''&amp;nbsp;MSP's Entrance '''13'''&amp;nbsp;Lobby '''14'''&amp;nbsp;Garden '''15'''&amp;nbsp;Queensbery House '''16'''&amp;nbsp;MSP building '''17'''&amp;nbsp;Turf roof '''18'''&amp;nbsp;Carpark and vehiclular entrance '''19'''&amp;nbsp;Landscaped park&lt;/small&gt;
+|-
+|}
+
+
+:Any comments? subtractions, additions etc.? --[[User:Mcginnly|Mcginnly]] | [[User talk:Mcginnly|Natter]] 13:43, 8 January 2007 (UTC)
+
+:: comment - from what I can see it looks very encyclopedic, illustrative, and informative. subtraction - I'd suggest subtracting ~ 23MB. this file is way too large for the info it contains, and it has viewing problems for me as a result. addition - you should probably add more source info. the image file says &quot;|Source=Own Work&quot; and my guess is it is derived from someone elses' drawing, surveying or satellite photo, and ultimately EMBT's plans so I'm unsure about the copyright status and whether you can claim cc-by-sa-2.5 on your version. [[User:DVD R W| DVD]]+[[User_talk:DVD R W| R/W]] 16:57, 8 January 2007 (UTC)
+:::Well my process for creating the plan was to download about 6 separate images of the plan from google including a google earth aerial photo, EMBT drawings, other parties diagrams and overlay them all in AutoCAD I then traced over the median resulting lines (there's some quite big descrepancies between all the images) and then coloured it up in photoshop - I'm fairly confident it's sufficiently my own work to claim cc-by-sa-2.5. I've reduced the file size now to 890Kb --[[User:Mcginnly|Mcginnly]] | [[User talk:Mcginnly|Natter]] 17:33, 8 January 2007 (UTC)
+::::If you could convert it to [[SVG]] that would likely be even better. Nice picture BTW. HTH HAND [[User:Phil Boswell|Phil]] | [[User talk:Phil Boswell|Talk]] 18:09, 8 January 2007 (UTC)
+
+:Nice work. Where abouts can it go? Deleting the Politics of Scotland infobox, might free up some room? [[User:Globaltraveller|Globaltraveller]] 14:56, 9 January 2007 (UTC)
+::I think we introduce it in the &quot;Parliamentary complex&quot; section - this is where we get to the nitty gritty of the design so it makes sense to have a handy plan to reference the text to. I think losing the infobox would be a good idea - or at least replacing it with a 100% wide one at the bottom of the article. I'm hopefully going to finish up tonight and then give you a support vote at the FAC - can we find a better, more arresting image for the lead paragraph? perhaps:-
+{|
+|[[Image:Scottish Parliament detail.jpg|thumb|left|300px|this one shows the landscaping quite well.]]
+|[[Image:Edinburgh Scottish Parliament01 2006-04-29.jpg|thumb|center|300px|this one shows the building a bit better]]
+|[[Image:Scottish Parliament seating.JPG|thumb|right|300px|this one is a bit more abstract - but cuts to the chase]]--[[User:Mcginnly|Mcginnly]] | [[User talk:Mcginnly|Natter]] 15:22, 9 January 2007 (UTC)
+|}
+
+Getting rid of the infobox is fine. Of the images, I'd say the second or possibly third might be the best in the Lead section. The first one doesn't look that great IMO - it looks like it has got a severe case of the colouroids. But anything would be fine. What about on the Scottish Parliament website. I'm not sure about the licensing, but from their conditions it doesn't seem like there would be much problem using them here? [http://www.scottish.parliament.uk/nmCentre/images/latest/index.htm] [[User:Globaltraveller|Globaltraveller]] 15:44, 9 January 2007 (UTC)
+:I'm no authority on copyright either - but I generally try and avoid fair use images in FA candidates - people seem to be a bit snippy about it. I think maybe the debating chamber chairs could be a good opening image. --[[User:Mcginnly|Mcginnly]] | [[User talk:Mcginnly|Natter]] 17:38, 9 January 2007 (UTC)
+
+==Other Images==
+All free use --[[User:Mcginnly|Mcginnly]] | [[User talk:Mcginnly|Natter]] 10:22, 9 January 2007 (UTC)
+&lt;gallery&gt;
+Image:Scottish Parliament seating.JPG|Debating chamber seating
+Image:Scottish Parliament garden lobby.JPG|Garden lobby
+Image:Scottish parliament elevation.JPG|'Pistol' features
+Image:Scottish parliament cannongate.JPG|Canongate elevation
+Image:Scottish Parliament site plan.jpg|Site plan
+&lt;/gallery&gt;
+==Needs a final copyedit==
+I'm done now Global, it could do with a fresh pair of eyes for spelling, image placement etc. but I'm really happy we've got all the facets of this complicated building covered now. --[[User:Mcginnly|Mcginnly]] | [[User talk:Mcginnly|Natter]] 01:33, 10 January 2007 (UTC)
+
+Excellent job, well done, Thanks. I take it all back ;-) [[User:Globaltraveller|Globaltraveller]] 09:35, 10 January 2007 (UTC)
+:You're welcome - it was a fantastic article to begin with - before I stuck my oar in. --[[User:Mcginnly|Mcginnly]] | [[User talk:Mcginnly|Natter]] 13:30, 10 January 2007 (UTC)
+
+== Repeated quote, proofread ==
+
+The following quote is repeated, in the intro and in the Debating chamber section:
+*&quot;a tour de force of arts and crafts and quality without parallel in the last 100 years of British architecture&quot;
+I am not sure that repetition like that is a very good idea, but I left it in for others to consider it.
+
+I have proofread the article, and it seems very good to me. We had been a bit inconsistent with the capitalising of &quot;Parliament&quot;, &quot;Building&quot;, &quot;Canongate building&quot; (lower-case &quot;b&quot;) etc etc. Could someone in-the-know please make sure that we are capitalising the names of individual buildings and rooms correctly and consistently. This is one problem with multi-author wikis - inconsistent style. I hope I have caught most of them. --[[User:Mais oui!|Mais oui!]] 09:32, 10 January 2007 (UTC)
+
+:Thanks for the proof read. I swapped the quote in the body of the article for an alternative - &quot;It is an arts and crafts building, designed with high-tech flair. You really have to go back to the Houses of Parliament in London to get interior design of such a high creative level - in fact, it is more creative&quot; --[[User:Mcginnly|Mcginnly]] | [[User talk:Mcginnly|Natter]] 01:39, 11 January 2007 (UTC)
+
+::It was a pleasure. Good alt quote. --[[User:Mais oui!|Mais oui!]] 09:05, 11 January 2007 (UTC)
+
+== Some editing comments ==
+
+I would like to make some minor suggestions on the text.
+
+Second paragraph: Should &quot;The choice of location, architect, design and construction company were all criticised...&quot; rather be &quot;The choices of location, architect, design and construction company were all criticised...&quot; (the choices were criticised).
+
+Second paragraph: Perhaps &quot;initial estimates of between £10m and £40m&quot; rather than &quot;initial costings of between £10m and £40m.&quot; [[User:Edinborgarstefan|Stefán]] 21:18, 13 January 2007 (UTC)
+
+::If you think you can improve the flow of the prose, then please do so. Bear in mind though, &quot;estimate&quot; and &quot;estimated&quot; are over used words in this article (including about two words before the example you use here), and it doesn't make the prose very good if they are repeated all the time, and in such short succession. And you are right, one can be ''too'' accurate. [[User:Globaltraveller|Globaltraveller]] 21:56, 13 January 2007 (UTC)
+:::Yes, I will make edits I am sure of and raise the points which I am not sure about there. As for the accuracy, the reference we have says ''some 4 acres'' and ''approximately 480m''. Thus it is way too accurate to say 16187m2. Must go shopping now, more later [[User:Edinborgarstefan|Stefán]] 22:08, 13 January 2007 (UTC)
+:::I have more time to explain myself now.
+:::I am simply not sure whether it is better English to have choice in the singular or the plural in the sentence I quoted above.
+:::I didn't know the word ''costing'' in the sense &quot;an estimation of cost&quot; but I checked it in the [[OED]] so I have no problem with that.
+:::From [[Wikipedia:Manual of Style (dates and numbers)#Units of measurement]] ''Converted values should use a level of precision similar to that of the source value. For example, &quot;the Moon is 380,000 kilometres (240,000 mi) from Earth&quot;, not &quot;(236,121 mi)&quot;.'' [[User:Edinborgarstefan|Stefán]] 01:48, 14 January 2007 (UTC)
+
+:::There has to be an agreement on the use of apostrophes on the word MSP. Newspapers seem to use the following convention. One MSP, many MSPs, one MSP's desk, many MSPs' desks. This is the scheme I am following as there was no consistent scheme before. Also, I am talking about Miralles's wife as newspapers seem to do. [[User:Edinborgarstefan|Stefán]] 02:51, 14 January 2007 (UTC)
+::::[[User:Mais oui!]] has now stated in an edit summary that ''the possessive of Miralles is Miralles', not Miralles's''. I disagree with this. To support my argument I would mention eg. the Guardian style guide [http://www.guardian.co.uk/styleguide/page/0,,184844,00.html] (scroll down to '''apostrophes''') which says we should talk about Bridget Jones's diary, as indeed we [[Bridget Jones's Diary|do]]. In the debates in the Parliament itself there is talk of ''Mr Miralles's invitation'' [http://www.scottish.parliament.uk/business/officialReports/meetingsParliament/or-99/or011002.htm] and ''Enric Miralles's entry'' and several other such phrases at [http://www.scottish.parliament.uk/business/officialReports/meetingsParliament/or-04/sor0922-02.htm]. I must mention that sometimes the s is dropped, this is the rule for certain fixed phrases such as [[Achilles' heel]] and there is one mention of ''Senor Miralles' death'' in the second link I provided. There is probably more examples to be found of both usages but I would prefer to follow the Guardian style guide. A search for ''Miralles' design'' on Guardian Unlimited [http://browse.guardian.co.uk/search?search_target=%2Fsearch&amp;fr=cb-guardian&amp;search=%22Miralles%27+design%22&amp;N=] gives 12 results, whereof one is irrelevant, 9 have ''Miralles's design'' and two have ''Miralles' design''. [[User:Edinborgarstefan|Stefán]] 06:52, 14 January 2007 (UTC)
+
+:::::Please note that the Guardian section invoked above in fact states:
+
+::::::The possessive in words and names ending in S '''normally''' takes an apostrophe followed by a second S (Jones's, James's), '''but be guided by pronunciation and use the plural apostrophe where it helps: Mephistopheles', Waters', Hedges' rather than Mephistopheles's, Waters's, Hedges's'''.
+
+:::::Miralles's/Miralles' could be added as a further textbook example, and the article therefore supports the opposite position to that which you propose. Please note also that Bridget Jones's Diary is a proper noun, which is thus replicated regardless of its accuracy.[[Special:Contributions/212.20.248.186|212.20.248.186]] ([[User talk:212.20.248.186|talk]]) 14:50, 17 January 2008 (UTC)
+
+== Holyrood inquiry image ==
+
+This is an excellent article which has a lot of beautiful photos, one superb map and one public domain picture, all illustrating and emphasising the content of the article. Then it has one horribly looking logo which illustrates nothing, it is just two words with some ugly background colouring. Does anybody mind if it were to disappear? Additionally, the use of the logo falls under &quot;fair use&quot; which some people don't like. [[User:Edinborgarstefan|Stefán]] 08:05, 14 January 2007 (UTC)
+
+::Yes, it should stay, either that or a Free Use one of something similar ''of the inquiry''. If you know of, or can find another Free Use or public domain image of the inquiry, then that would be great. The image is also under a specific Fair Use licence and not the General one that causes problems. [[User:Globaltraveller|Globaltraveller]] 08:49, 14 January 2007 (UTC)
+:::Look, this point about it being fair use is very minor as it has an excellent fair use claim and fair use images are allowed. It is the quality of the logo which really gets me. Still, even such a bad logo should be in an article if it was there to illustrate something important about the article. This doesn't illustrate anything that two words of text couldn't illustrate just as well. It does raise another question though, this section of the article is titled ''Fraser Inquiry'' and then talks about a ''public inquiry'' without giving it a name, whereas the logo suggests that the name is the ''Holyrood Inquiry''. From TV, I recall the name Fraser inquiry but perhaps we should give both. I will add it to the article. [[User:Edinborgarstefan|Stefán]] 18:17, 14 January 2007 (UTC)
+::Well, I agree it isn't great, but it'll just stay for the moment. When we get a better image of the Inquiry (or perhaps Lord Fraser) or something connected to it then it can be replaced. For the time being, it is the best we have. [[User:Globaltraveller|Globaltraveller]] 18:32, 14 January 2007 (UTC)
+:::I like the idea of an image of Lord Fraser - surely not too difficult to obtain - alternatively - where was the inquiry held? maybe a picture of the location? --[[User:Mcginnly|Mcginnly]] | [[User talk:Mcginnly|Natter]] 20:41, 14 January 2007 (UTC)
+::There was some of him on the Inquiry website, but to be honest, they weren't all that great either. An image of him would probably be best. Looking at the website, the Land Court appears to be on &lt;s&gt;George Street in the centre of Edinburgh&lt;/s&gt; Grosvenor Crescent in the centre of Edinburgh. I'll be near that area tomorrow. I am quite happy to take my camera, and if I have time, see whether it would make a good photograph or not. [[User:Globaltraveller|Globaltraveller]] 20:52, 14 January 2007 (UTC)
+:::Out of interest, did you see this [http://images.google.com/imgres?imgurl=http://www.thecourier.co.uk/output/2006/12/21/images/FRAS.jpeg&amp;imgrefurl=http://www.thecourier.co.uk/output/2006/12/21/newsstory9092826t0.asp&amp;h=563&amp;w=298&amp;sz=25&amp;hl=en&amp;sig2=09b_c5e_ocXSIILUeuYhCQ&amp;start=13&amp;tbnid=R8rb_LJHKngFGM:&amp;tbnh=133&amp;tbnw=70&amp;ei=j1qrRZ_ECavOwQGluNDhDg&amp;prev=/images%3Fq%3DLord%2BFraser%26svnum%3D10%26hl%3Den%26lr%3D%26sa%3DG]? - There's this image in the article about him:- &lt;!--[[Image:PeterFraser.jpg|thumb|right]]--&gt; --[[User:Mcginnly|Mcginnly]] | [[User talk:Mcginnly|Natter]] 10:46, 15 January 2007 (UTC)
+::::I've been bold and replaced the logo with the image of lord fraser --[[User:Mcginnly|Mcginnly]] | [[User talk:Mcginnly|Natter]] 10:54, 15 January 2007 (UTC)
+::No but that's much better. Unfortunately though, the image fails Fair Use because &quot;technically&quot; it could be replaced by a free use image (as the subject is still living). This would have been flagged at the FAC if it was on the article, then. Incidentally the Scottish Land Court wouldn't make a pretty good image, anyway. The building is now derelict. Thanks [[User:Globaltraveller|Globaltraveller]] 14:29, 15 January 2007 (UTC)
+:::The photo of Peter Fraser doesn't seem to pass the Wikipedia fair use guidlines so I have removed it (and commented it out from Mcginnly's text above). Please reconsider whether there needs to be any image in this section. There already is an abundance of images in the article which illustrate and emphasise various aspects of the text but neither an image of Fraser nor the logo illustrate anything. They only have a decorative role (which is why it is extra bad that the logo really isn't decorative at all).
+:::If you feel there desperately has to be an image for this section, I can offer two suggestions. A photo of the building illustrating some element of the building that was emphasised in the report or related to the cost increases. Eg. the image which is already in the article [[Image:Scottish Parliament with G8 police DSC05008.JPG|thumb|right]] pointing out the increased cost due to security reasons. Another suggestion. If somebody is able to go the National Library on George IV Bridge and take a photo of [http://main-cat.nls.uk/cgi-bin/Pwebrecon.cgi?Search_Arg=Holyrood+inquiry&amp;SL=None&amp;Search_Code=TALL&amp;PID=3SOawAyLg-jCxdu-_LVVVR8Dq&amp;SEQ=20070115173705&amp;CNT=50&amp;HIST=1 the report]. [[User:Edinborgarstefan|Stefán]] 17:50, 15 January 2007 (UTC)
+
+::The images are not there for &quot;decorative purposes&quot; just to make the article &quot;look nice&quot;, the images in sections, should be relevant to the sections, therefore an image in the Fraser Inquiry section should be related to the Fraser Inquiry. And yes, the section does need an image. If we can't find one, then the logo will have to do.[[User:Globaltraveller|Globaltraveller]] 18:06, 15 January 2007 (UTC)
+:::As I said, all the other images in the article (and there are quite a few of them) are very nice and serve a purpose. But neither the logo nor the image of Lord Fraser taken in a different context have an illustrative purpose for a discussion on the report. That is why I said they are only decorative. (An image of the report or an image of where the inquiry was held also don't have any illustrative purpose.) Thus my main suggestion is just to have no image for this section, it doesn't need one, why do you say it does?  [[User:Edinborgarstefan|Stefán]] 18:14, 15 January 2007 (UTC)
+
+::To balance a text heavy section, and to illustrate that section, like all the others do. [[User:Globaltraveller|Globaltraveller]] 19:01, 15 January 2007 (UTC)
+
+== Timeline ==
+
+I feel there should be consistency in the dates of the timeline: Either we give give each date only as a month or we try and find exact dates for as many events as we can. For example we can see from [http://www.holyroodinquiry.org/FINAL_report/annex%20a.pdf] that the first parliamentary date took place on 17 June 1999. Actually, I would prefer to have just the month because dating an event of the form &quot;when something became known&quot; can be slightly iffy as different people got to know the thing on different days as the news spread.
+
+While on the subject of dates, we quote the Scotsman timeline as saying that the original estimate of the cost became known in September 1997. That is actually the date of the election. The Fraser Inquiry timeline [http://www.holyroodinquiry.org/FINAL_report/annex%20a.pdf] says that in July 1997 a white-paper was published indicating the original cost estimate. I think I am correct in saying that that would be the time when the original cost estimate became known. [[User:Edinborgarstefan|Stefán]] 18:39, 14 January 2007 (UTC)
+
+July is probably the date to go with. We should be exact as we can, for example the two parliamentary debates on  17th June and the 5th of April are known (and btw such full dates should be linked under [[WP:MOS]]). It really doesn't matter what individuals knew when, it is when these things are in the public domain that is important. [[User:Globaltraveller|Globaltraveller]] 18:44, 14 January 2007 (UTC)
+
+== Election time - WikiProject Scotland discussion ==
+Please comment/contribute at:
+*[[Wikipedia_talk:WikiProject_Scotland#It.27s_election_time_folks.21.21]]
+While you are there, please feel free to sign up as a member of the WikiProject, or just give it a &quot;Watch&quot;. Ta. --[[User:Mais oui!|Mais oui!]] 09:10, 4 April 2007 (UTC)
+
+== 'S math sin ==
+I don't know much about architecture, so I'm all the more impressed with the high quality of this article, both in terms of the content and in terms of the presentation.  All who worked on it share in the success, deservedly.    ''Chan e gogadh nan ceann a ni an t-iomradh.'' — [[User:OtherDave|OtherDave]] 02:20, 2 May 2007 (UTC)
+
+== What qualifies as &quot;aerial view&quot;? ==
+
+Regarding one of the image captions, is a photo from a nearby mountain still an &quot;aerial view&quot;?
+
+== Main Image ==
+
+[[Image:Edinburgh Scottish Parliament01 2006-04-29.jpg|thumb|right|300px|The new Scottish Parliament Building at Holyrood designed by the Catalan architect Enric Miralles and opened in October 2004.]]
+
+does anyone else think the one on the right is a terrible picture of the buildings. Its hard to see, and hard to tell what building is which...
+
+
+I'd prefer to see the one below as the main image, as its a bit brighter and easier to see.
+[[Image:Scottish Parliament detail.jpg|thumb|left|300px|this one shows the landscaping quite well.]]
+
+Thoughts?
+[[User:Kennedygr|Kennedygr]] 10:55, 18 September 2007 (UTC)
+
+:I would say the one on the right is much better, and certainly much better and clearer than the one on the left, which looks terribly blurred and out of focus, as if someone let the colour run when it was drying out. The main image is there to give an overview of the complex, the specifics of the different component parts are shown more clearly in subsequent photographs. And for that reasons, the current image is far clearer. [[User:Globaltraveller|Globaltraveller]] 12:47, 18 September 2007 (UTC)
+
+== Succession box ==
+
+I might be wrong, but shouldn't the succession box at the bottom show the last home of the Parliament as being the [[General Assembly Hall of the Church of Scotland]] where they were based before this building was finished?- ''[[User:JLogan|J Logan]] &lt;sup&gt;[[User talk:JLogan|t]]&lt;/sup&gt;'': 11:53, 3 February 2008 (UTC)
+:No, you are totally right. The succession box has been amended to show this. Thanks [[User:Globaltraveller|Globaltraveller]] ([[User talk:Globaltraveller|talk]]) 10:55, 24 March 2008 (UTC)
+
+== Merge ==
+
+I am suggesting merging [[Canongate Wall]] into the artwork section. Most of the information is here already, and unless the Canongate Wall article can be substantially expanded, I don't see the need for a separate article. Would appreciate other editors views. Thanks, [[User:Jonathan Oldenbuck|Jonathan Oldenbuck]] ([[User talk:Jonathan Oldenbuck|talk]]) 09:32, 24 April 2008 (UTC)
+
+* I'd say it needs to be expanded rather than merged. [[User:Ha!|Ha!]] ([[User talk:Ha!|talk]]) 14:38, 25 April 2008 (UTC)
+
+== Proposal to remove date-autoformatting ==
+
+Dear fellow contributors
+
+[[Wikipedia:Manual_of_Style_%28dates_and_numbers%29#Date_autoformatting|MOSNUM]] no longer encourages date autoformatting, having evolved over the past year or so from the mandatory to the optional after much discussion there and elsewhere of the disadvantages of the system. Related to this, MOSNUM prescribes [[Wikipedia:Manual_of_Style_%28dates_and_numbers%29#Full_date_formatting|rules for the raw formatting]], irrespective of whether or not dates are autoformatted. [[Wikipedia:Manual_of_Style_%28links%29#Overlinking_and_underlinking|MOSLINK]] and [[Wikipedia:Context#What_generally_should_not_be_linked|CONTEXT]] are consistent with this. 
+
+There are at least six disadvantages in using date-autoformatting, which I've capped here:
+{{hidden|contentstyle=border:1px solid #C0C0C0; |headerstyle=color:black; background: #C0C0C0; |header= Disadvantages of date-autoformatting|content=&lt;/br&gt;
+
+*'''(1) In-house only'''
+:*(a) It works only for the WP &quot;elite&quot;. 
+:*(b) To our readers out there, it displays all-too-common inconsistencies in raw formatting in bright-blue underlined text, yet conceals them from WPians who are logged in and have chosen preferences.  
+:*(c) It causes visitors to query why dates are bright-blue and underlined.
+
+*'''(2) Avoids what are merely trivial differences'''
+:*(a) It is trivial whether the order is day–month or month–day. It is more trivial than color/colour and realise/realize, yet our consistency-within-article policy on spelling ([[WP:ENGVAR]]) has worked very well. English-speakers readily recognise both date formats; all dates after our signatures are international, and no one objects.
+
+*'''(3) Colour-clutter: the bright-blue underlining of all dates'''
+:*(a) It dilutes the impact of high-value links.
+:*(b) It makes the text slightly harder to read.
+:*(c) It doesn't improve the appearance of the page.
+
+*'''(4) Typos and misunderstood coding'''
+:*(a) There's a disappointing error-rate in keying in the auto-function; not bracketing the year, and enclosing the whole date in one set of brackets, are examples.
+:*(b) Once autoformatting is removed, mixtures of US and international formats are revealed in display mode, where they are  much easier for WPians to pick up  than in edit mode; so is the use of the wrong format in country-related articles.
+:*(c) Many WPians don't understand date-autoformatting—in particular, how if differs from ordinary linking; often it's applied simply because it's part of the furniture.
+
+*'''(5) Edit-mode clutter'''
+:*(a) It's more work to enter an autoformatted date, and it doesn't make the edit-mode text any easier to read for subsequent editors.
+
+*'''(6) Limited application'''
+:*(a) It's incompatible with date ranges (&quot;January 3–9, 1998&quot;, or &quot;3–9 January 1998&quot;, and &quot;February–April 2006&quot;) and slashed dates (&quot;the night of May 21/22&quot;, or &quot;... 21/22 May&quot;).
+:*(b) By policy, we avoid date autoformatting in such places as quotations; the removal of autoformatting avoids this inconsistency.}}
+
+Removal has generally been met with positive responses by editors. I'm seeking feedback about this proposal to remove it from the main text (using a script) in about a week's time on a trial basis/ The original input formatting would be seen by all WPians, not just the huge number of visitors; it would be plain, unobtrusive text, which would give greater prominence to the high-value links. [[User:Tony1|&lt;font color=&quot;darkgreen&quot;&gt;'''Tony'''&lt;/font &gt;]] [[User talk:Tony1|&lt;font color=&quot;darkgreen&quot;&gt;(talk)&lt;/font &gt;]] 08:36, 28 July 2008 (UTC)
+
+== Precise Holyrood boundaries? ==
+
+I have read somewhere that there is some sense in which Holyrood has precise boundaries, where some special laws apply, and that the Scottish Parliament Building is actually just outside those boundaries. Can anyone confirm this, and provide more detail? [[User:Laurel Bush|Laurel Bush]] [[User:Laurel Bush|Laurel Bush]] ([[User talk:Laurel Bush|talk]]) 11:34, 6 October 2008 (UTC).
+
+== Who owns the buildings? ==
+
+[http://en.wikipedia.org/w/index.php?title=Scottish_Parliament_Building&amp;curid=1003265&amp;diff=452157285&amp;oldid=448903440 This edit] raises a rather interesting question: who actually ''does'' own the land and the buildings and structures on it? If not the Scottish Government, then who? Cos ''somebody'' must!
+
+I understand that the land (or most of it), used to belong to [[Scottish &amp; Newcastle]], but I assume that the successor company to S&amp;N no longer own it. --[[User:Mais oui!|Mais oui!]] ([[User talk:Mais oui!|talk]]) 11:26, 24 September 2011 (UTC)
+
+==Requested move==
+&lt;div class=&quot;boilerplate&quot; style=&quot;background-color: #efe; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #aaa;&quot;&gt;&lt;!-- Template:RM top --&gt;
+:''The following discussion is an archived discussion of a [[WP:requested moves|requested move]]. &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on the talk page. Editors desiring to contest the closing decision should consider a [[Wikipedia:move review|move review]]. No further edits should be made to this section. ''
+
+The result of the move request was: '''not moved'''.  [[User:Malcolmxl5|Malcolmxl5]] ([[User talk:Malcolmxl5|talk]]) 16:25, 2 March 2013 (UTC)
+
+----
+
+----
+* [[:Scottish Parliament Building]] → ?
+
+– Please see my query about correct grammar below. [[User:Gryffindor|Gryffindor]] ([[User talk:Gryffindor|talk]]) 18:29, 21 February 2013 (UTC)
+
+=== correct spelling Scottish parliament building? ===
+
+This is rather confusing, what is the correct term in correct English grammar? 
+
+1) Scottish Parliament Building
+
+2) Scottish Parliament building
+
+2) Scottish parliament building 
+
+Any ideas? [[User:Gryffindor|Gryffindor]] ([[User talk:Gryffindor|talk]]) 12:19, 20 February 2013 (UTC)
+
+*'''Oppose'''. This is a featured article. If there was any issue with its capitalisation, it would not be a featured article. All of your suggested terms are correct English grammar. The first one is also correct English capitalisation. And, as you would expect for a featured article, it is the one used in the article. -- [[User:Derek Ross|Derek Ross]] &amp;#124; [[User talk:Derek Ross|Talk]]'' 19:05, 21 February 2013 (UTC)
+*'''Oppose'''. Perfectly correct. -- [[User:Necrothesp|Necrothesp]] ([[User talk:Necrothesp|talk]]) 15:51, 22 February 2013 (UTC)
+*'''Oppose''' nothing wrong with current title.--[[User:Staberinde|Staberinde]] ([[User talk:Staberinde|talk]]) 10:03, 1 March 2013 (UTC)
+*'''Oppose'''.  Nothing wrong with the current title.  Please do not list RMs without first establishing a preferred target.  Discuss first, vote when discussion requires a decision.  --[[User:SmokeyJoe|SmokeyJoe]] ([[User talk:SmokeyJoe|talk]]) 08:08, 2 March 2013 (UTC)
+:''The above discussion is preserved as an archive of a [[WP:RM|requested move]].  &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on this talk page or in a [[WP:move review|move review]]. No further edits should be made to this section.&lt;/div&gt;&lt;!-- Template:RM bottom --&gt;
+
+== New images for debating chamber ==
+
+I've taken some new images of the debating chamber that you may wish to use. 
+
+&lt;gallery heights=200px mode=packed&gt;
+Scottish Parliament Debating Chamber 1.jpg
+Scottish Parliament Debating Chamber 2.jpg
+Scottish Parliament Debating Chamber 3.jpg
+&lt;/gallery&gt;
+
+-- [[User:Colin|Colin]]°[[User talk:Colin|&lt;sup&gt;Talk&lt;/sup&gt;]] 18:52, 3 January 2014 (UTC)
+
+== Blacklisted Links Found on the Main Page ==
+
+Cyberbot II has detected that page contains external links that have either been globally or locally blacklisted.
+Links tend to be blacklisted because they have a history of being spammed, or are highly innappropriate for Wikipedia.
+This, however, doesn't necessarily mean it's spam, or not a good link.
+If the link is a good link, you may wish to request whitelisting by going to the [[MediaWiki talk:Spam-whitelist|request page for whitelisting]].
+If you feel the link being caught by the blacklist is a false positive, or no longer needed on the blacklist, you may request the regex be removed or altered at the [[MediaWiki talk:Spam-blacklist|blacklist request page]].
+If the link is blacklisted globally and you feel the above applies you may request to whitelist it using the before mentioned request page, or request its removal, or alteration, at the [[meta:Talk:Spam Blacklist|request page on meta]].
+When requesting whitelisting, be sure to supply the link to be whitelisted and wrap the link in nowiki tags.
+The whitelisting process can take its time so once a request has been filled out, you may set the invisible parameter on the tag to true.
+Please be aware that the bot will replace removed tags, and will remove misplaced tags regularly.
+
+'''Below is a list of links that were found on the main page:'''
+
+*&lt;nowiki&gt;http://www.designbuild-network.com/projects/scottparliament/&lt;/nowiki&gt;
+*:''Triggered by &lt;code&gt;\bdesignbuild-network\.com\b&lt;/code&gt; on the local blacklist''
+
+If you would like me to provide more information on the talk page, contact [[User:Cyberpower678]] and ask him to program me with more info.
+
+From your friendly hard working bot.—[[User:Cyberbot II|&lt;span style=&quot;color:green;font-family:Neuropol&quot;&gt;cyberbot II]] [[User talk:Cyberbot II|&lt;sup style=&quot;color:green;font-family:arnprior&quot;&gt;Notify]]&lt;sub style=&quot;margin-left:-6.1ex;color:green;font-family:arnprior&quot;&gt;Online&lt;/sub&gt; 10:06, 3 April 2014 (UTC)
+
+==Intro==
+I've deleted this long bit tacked on to the end of the intro, which seems to be a defence against points made by the intro, primarily because its only source was published 3 years before the building was completed!
+:Insiders on the project have refuted claims that the project ran hugely over-budget. The oft-cited figure of £40million is argued to be a &quot;mythical figure&quot; by a consultant, who guessed parliament would resemble a four-storey office block. Initially capped at £195million pounds the project's cost became unlimited in July 2001 following an overwhelmingly supported vote by MSPs to remove the cap, in order that Scotland had a parliament worthy of its aspirations. Additional, unforeseen costs, including security concerns, added complications to design and construction costs. The entire specification of the project also changed, after the client changed from the [[Scottish Executive]] to the [[Scottish Parliament]], somewhat changing the project's design.&lt;ref name=&quot;Fairs&quot;&gt;{{cite web |url=http://www.building.co.uk/scottish-parliament-the-true-story/1011961.article
+|title=Scottish parliament: The true story |publisher=Building.co.uk no.39 p. 32–44 | year= 2001 |author=Murcus Fairs |accessdate=2013-12-29}}&lt;/ref&gt;
+[[Special:Contributions/90.198.224.197|90.198.224.197]] ([[User talk:90.198.224.197|talk]]) 11:42, 26 September 2014 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:4|one external link|4 external links}} on [[Scottish Parliament Building]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=698905038 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20060504024309/http://www.scottish.parliament.uk:80/nmCentre/events/holyroodOpening/index.htm to http://www.scottish.parliament.uk/nmCentre/events/holyroodOpening/index.htm
+*Added archive https://web.archive.org/20070226194935/http://www.scottish.parliament.uk:80/nmCentre/news/news-07/pa07-018.htm to http://www.scottish.parliament.uk/nmCentre/news/news-07/pa07-018.htm
+*Added archive https://web.archive.org/20070125115221/http://www.scottish.parliament.uk:80/nmCentre/news/news-99/pa0029.htm to http://www.scottish.parliament.uk/nmCentre/news/news-99/pa0029.htm
+*Added archive https://web.archive.org/20060228192148/http://www.scottish.parliament.uk:80/nmCentre/news/news-05/pa05-019.htm to http://www.scottish.parliament.uk/nmCentre/news/news-05/pa05-019.htm
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 23:40, 8 January 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[Scottish Parliament Building]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=704284213 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20060926054148/http://www.niassembly.gov.uk/educationprog/leaflets/guide_partb.htm to http://www.niassembly.gov.uk/educationprog/leaflets/guide_partb.htm
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 17:57, 10 February 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:1|one external link|1 external links}} on [[Scottish Parliament Building]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=716876899 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive http://web.archive.org/web/20140111115429/http://www.royal.gov.uk/LatestNewsandDiary/Speechesandarticles/2004/TheQueenopensthenewScottishParliamentbuildinginEdi.aspx to http://www.royal.gov.uk/LatestNewsandDiary/Speechesandarticles/2004/TheQueenopensthenewScottishParliamentbuildinginEdi.aspx
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II&lt;/sup&gt;]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner&lt;/span&gt;]]:Online&lt;/sub&gt;&lt;/small&gt; 12:38, 24 April 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:5|one external link|5 external links}} on [[Scottish Parliament Building]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=726581550 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive http://web.archive.org/web/20070514222228/http://www.scottish.parliament.uk:80/vli/history/firstscottishparliament/index.htm to http://www.scottish.parliament.uk/vli/history/firstscottishparliament/index.htm
+*Added archive http://web.archive.org/web/20120120181054/http://www.scotland.gov.uk/news/1_4_98/pr0029.htm to http://www.scotland.gov.uk/news/1_4_98/pr0029.htm
+*Added archive http://web.archive.org/web/20070103111235/http://www.scottish.parliament.uk:80/vli/holyrood/inquiry/sp205-09.htm to http://www.scottish.parliament.uk/vli/holyrood/inquiry/sp205-09.htm#6
+*Added archive http://web.archive.org/web/20070517014116/http://www.scottish.parliament.uk:80/business/officialReports/meetingsParliament/or-99/or011010.htm to http://www.scottish.parliament.uk/business/officialReports/meetingsParliament/or-99/or011010.htm
+*Added archive http://web.archive.org/web/20070517013516/http://www.scottish.parliament.uk:80/business/officialReports/meetingsParliament/or-00/or051302.htm to http://www.scottish.parliament.uk/business/officialReports/meetingsParliament/or-00/or051302.htm#Col1290
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II&lt;/sup&gt;]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner&lt;/span&gt;]]:Online&lt;/sub&gt;&lt;/small&gt; 02:06, 23 June 2016 (UTC)</text>
+      <sha1>2r4dt99y1fvxj6hmkhm3j5waskuonmw</sha1>
+    </revision>
+  </page>
+</mediawiki>

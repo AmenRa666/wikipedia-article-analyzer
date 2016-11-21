@@ -1,0 +1,683 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Second voyage of HMS Beagle</title>
+    <ns>0</ns>
+    <id>8008600</id>
+    <revision>
+      <id>750555859</id>
+      <parentid>750530239</parentid>
+      <timestamp>2016-11-20T13:48:02Z</timestamp>
+      <contributor>
+        <username>Dave souza</username>
+        <id>85186</id>
+      </contributor>
+      <comment>/* Atlantic islands */ [[John Vaughan Thompson]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="123609">{{DISPLAYTITLE:Second voyage of HMS ''Beagle''}}
+{{Use British English|date=May 2011}}
+[[File:HMS Beagle by Conrad Martens.jpg|thumb|400px|right|A watercolour by [[HMS Beagle|HMS ''Beagle'']]'s [[technical drawing|draughtsman]], [[Conrad Martens]]. Painted during the survey of [[Tierra del Fuego]], it depicts native Fuegians hailing the ''Beagle''.]]
+
+The '''second voyage of HMS ''Beagle''''', from 27 December 1831 to 2 October 1836, was the second survey expedition of [[HMS Beagle|HMS ''Beagle'']], under captain [[Robert FitzRoy]] who had taken over command of the ship on its first voyage after the previous captain committed suicide. FitzRoy had already thought of the advantages of having an expert in [[geology]] on board, and sought a gentleman [[natural history|naturalist]] as a [[supernumerary]] who could be his companion while the ship was at sea. The young graduate [[Charles Darwin]] had hoped to see the tropics before becoming a [[parson]], and accepted the opportunity. He was greatly influenced by reading [[Charles Lyell]]'s ''[[Principles of Geology]]'' during the voyage. By the end of the expedition, Darwin had already made his name as a geologist and [[fossil]] collector, and the publication of his journal which became known as ''[[The Voyage of the Beagle]]'' gave him wide renown as a writer.
+
+The ''Beagle'' sailed across the [[Atlantic Ocean]], and then carried out detailed [[hydrographic survey]]s around the coasts of the southern part of [[South America]], returning via [[Tahiti]] and [[Australia]] after having circumnavigated the Earth. While the expedition was originally planned to last two years, it lasted almost five.
+
+Darwin spent most of this time exploring on land: three years and three months on land, 18 months at sea.&lt;ref name=intro&gt;{{harvnb|Browne|Neve|1989|p=16}}&lt;/ref&gt; Early in the voyage he decided that he could write a book about geology, and he showed a gift for theorising. At [[Punta Alta]] he made a major find of gigantic fossils of extinct mammals, then known from only a very few specimens. He ably collected and made detailed observations of plants and animals, with results that shook his belief that species were fixed and provided the basis for ideas which came to him when back in England, and led to his theory of [[evolution]] by [[natural selection]].
+
+==Aims of the expedition==
+[[File:British Museum Marine Chronometer.jpg|thumb|right|[[Ship's chronometer from HMS Beagle|Ship's chronometer from HMS ''Beagle'']] ]]
+The main purpose of the expedition was to conduct a [[hydrographic survey]] of the coasts of the southern part of [[South America]] as a continuation and correction of the work of previous surveys, to produce [[nautical chart]]s showing navigational and sea depth information for the navy and for commerce.
+
+An [[Admiralty]] memorandum set out the detailed instructions. The first requirement was to resolve disagreements in the earlier surveys about the [[longitude]] of [[Rio de Janeiro]], which was essential as the base point for [[Meridian arc|meridian distances]]. The accurate [[marine chronometer]]s needed to [[Longitude by chronometer|determine longitude]] had only become affordable since 1800; the ''Beagle'' carried [[List of chronometers on HMS Beagle|22 chronometers]] to allow corrections. The ship was to stop at specified points for four-day rating of the chronometers and to check them by [[Celestial navigation|astronomical observations]]: it was essential to take observations at [[Praia|Porto Praya]] and [[Fernando de Noronha]] to calibrate against the previous surveys of [[William Fitzwilliam Owen|Owen]] and [[Henry Foster (scientist)|Foster]]. It was important to survey the extent of the [[Abrolhos Archipelago]] reefs, shown incorrectly in [[Albin Roussin|Roussin's]] survey, then proceed to Rio de Janeiro to decide the exact longitude of [[Villegagnon Island]].&lt;ref name=&quot;admiralty 1&quot;&gt;{{harvnb|FitzRoy|1839|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F10.2&amp;pageseq=47 24–26]}}&lt;/ref&gt;
+
+The &quot;real work of the survey&quot; was then to commence south of the [[Río de la Plata]], with return trips to [[Montevideo]] for supplies; details were given of priorities, including surveying [[Tierra del Fuego]] and approaches to harbours on the [[Falkland Islands]]. The west coast was then to be surveyed as far north as time and resources permitted. The commander would then determine his own route west: season permitting, he could survey the [[Galápagos Islands]]. Then the ''Beagle'' was to proceed to [[1769 Transit of Venus observed from Tahiti|Point Venus,Tahiti]] and on to [[Port Jackson]], [[Australia]] which were known points to verify the chronometers.&lt;ref name=&quot;admiralty 2&quot;&gt;{{harvnb|FitzRoy|1839|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F10.2&amp;pageseq=49 26–33]}}&lt;/ref&gt;
+
+No time was to be wasted on elaborate drawings; charts and plans should have notes and simple views of the land as seen from the sea showing measured heights of hills. Continued records of tides and [[meteorology|meteorological]] conditions were also required. An additional suggestion was for a geological survey of a circular coral [[atoll]] in the [[Pacific Ocean]] including its profile and of tidal flows, to investigate the [[The Structure and Distribution of Coral Reefs|formation of such coral reefs]].&lt;ref name=&quot;admiralty 3&quot;&gt;{{harvnb|FitzRoy|1839|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F10.2&amp;pageseq=56 33–40]}}&lt;/ref&gt;
+
+==Context and preparations==
+The previous survey expedition to [[South America]] involved [[HMS Aid (1809)|HMS ''Adventure'']] and HMS ''Beagle'' under the overall command of the Australian Commander [[Phillip Parker King]]. During the survey ''Beagle's'' captain, [[Pringle Stokes]], committed suicide and command of the ship was given to the young aristocrat [[Robert FitzRoy]], a nephew of [[George FitzRoy, 4th Duke of Grafton]]. When a ship's boat was taken by native [[Fuegians]], FitzRoy took some of them hostage. After their return to [[HMNB Devonport|Devonport dockyard]] on 14 October 1830 Captain King retired.&lt;ref&gt;{{harvnb|Browne|Neve|1989|pp=3–4}}&lt;/ref&gt;
+
+The 26-year-old FitzRoy had hopes of commanding a second expedition to continue the South American survey, but when he heard that the [[Lords of the Admiralty]] no longer supported this, he grew concerned about how to return the Fuegians who had been taught English with the idea that they could become missionaries. He made an agreement with the owner of a small merchant-vessel to take himself and five others back to South America, but a kind uncle heard of this and contacted the [[Admiralty]]. Soon afterwards FitzRoy heard that he was to be appointed commander of [[HMS Chanticleer (1808)|HMS ''Chanticleer'']] to go to [[Tierra del Fuego]], but due to her poor condition ''Beagle'' was substituted. On 27 June 1831 FitzRoy was commissioned as commander of the voyage, and Lieutenants [[John Clements Wickham]] and [[Bartholomew Sulivan|Bartholomew James Sulivan]] were appointed.&lt;ref name=fitz13&gt;{{harvnb|FitzRoy|1839|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F10.2&amp;pageseq=36 13–16]}}&lt;/ref&gt;
+
+Captain [[Francis Beaufort]], the Hydrographer of the Admiralty, was invited to decide on the use that could be made of the voyage to continue the survey, and he discussed with FitzRoy plans for a voyage of several years, including a continuation of the  trip around the world to establish median distances. The ''Beagle'' was [[ship commissioning|commissioned]] on 4 July 1831 under the command of Captain Robert FitzRoy, who promptly spared no expense in having the ''Beagle'' extensively refitted. The ''Beagle'' was immediately taken into dock for extensive rebuilding and refitting. As she required a new deck, FitzRoy had the upper deck raised considerably, by 8&amp;nbsp;inches (200&amp;nbsp;mm) aft and 12&amp;nbsp;inches (300&amp;nbsp;mm) forward.&lt;ref name=fitz17/&gt; The [[Cherokee class brig-sloop|''Cherokee'' class brig-sloops]] had the reputation of being &quot;coffin brigs&quot;, which handled badly and were prone to sinking.&lt;ref name=PortCities&gt;{{Cite web|url=http://www.portcities.org.uk/london/server/show/ConFactFile.64/HMS-Beagle.html |title=HMS ''Beagle'' - Port of science and discovery - Port Cities |work= |quote= |accessdate=2009-01-30}}&lt;/ref&gt; By helping the decks to drain more quickly with less water collecting in the [[Gunwale|gunnel]]s, the raised deck gave the ''Beagle'' better handling and made her less liable to become top-heavy and capsize. Additional sheathing to the hull added about seven tons to her [[burthen]] and perhaps fifteen to her displacement.&lt;ref name =fitz17/&gt;
+
+The ship was one of the first to test the [[lightning rod|lightning conductor]] invented by [[William Snow Harris]]. FitzRoy obtained five examples of the ''[[Sympiesometer]]'', a kind of [[Mercury (element)|mercury]]-free [[barometer]] patented by [[Alexander Adie]] and favoured by FitzRoy as giving the accurate readings required by the Admiralty.&lt;ref name=fitz17&gt;{{harvnb|FitzRoy|1839|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F10.2&amp;pageseq=40 17–22]}}&lt;/ref&gt;
+
+In addition to its officers and crew, the ''Beagle'' carried several [[supernumerary#Science and transportation|supernumeraries]], passengers without an official position. FitzRoy employed a mathematical instrument maker to maintain his [[List of chronometers on HMS Beagle|22 marine chronometers kept in his cabin]], as well as engaging the artist/draughtsman [[Augustus Earle]] to go in a private capacity.&lt;ref name=fitz17 /&gt; The three Fuegians taken on the previous voyage were going to be returned to [[Tierra del Fuego]] on the ''Beagle'' together with the missionary Richard Matthews.&lt;ref name=fitz13/&gt;&lt;ref&gt;{{harvnb|Browne|Neve|1989|pp=4–5}}&lt;/ref&gt;
+
+===Naturalist and geologist===
+For [[Francis Beaufort|Beaufort]] and the leading [[University of Cambridge|Cambridge]] &quot;gentlemen of science&quot; the opportunity for a [[natural history|naturalist]] to join the expedition fitted with their drive to revitalise British government policy on science. This elite disdained research done for money and felt that [[natural philosophy]] was for [[gentleman|gentlemen]], not [[tradesman|tradesmen]]. The officer class of the Army and Navy provided a way to ascend this hierarchy; it was commonly the [[Ship's doctor|Ship's Surgeon]] who collected specimens on voyages, and [[Robert McCormick (explorer)|Robert McCormick]] had secured the official position of surgeon on the ''Beagle'' after taking part in earlier expeditions and studying natural history. A sizeable collection had considerable social value, attracting wide public interest, and McCormick aspired to fame as an exploring naturalist.&lt;ref&gt;{{harvnb|Browne|1995|pp=150–151, 204–209}}&lt;/ref&gt; Collections made by the Ship's Surgeon and other officers were government property, though the Admiralty was not consistent on this,&lt;ref name=&quot;letter: 131&quot;&gt;{{cite web |url=http://www.darwinproject.ac.uk/entry-131 |title= Letter 131 – Darwin, C. R. to FitzRoy, Robert (19 Sept 1831) |publisher=Darwin Correspondence Project }}&lt;/ref&gt; and went to important London establishments, usually the [[British Museum]].&lt;ref&gt;{{harvnb|Browne|1995|p=208}}&lt;/ref&gt; The Admiralty instructions for the first voyage had required officers &quot;to use their best diligence in increasing the Collections in each ship: the whole of which must be understood to belong to the Public&quot;, but on the second voyage this requirement was omitted, and the officers were free to keep all the specimens for themselves.&lt;ref name=&quot;letter: 131&quot; /&gt;
+
+FitzRoy's narrative recalls that, when investigating islands on the first voyage, he had regretted that no-one on board had expertise on [[mineralogy]] or [[geology]] to make use of the opportunity of &quot;ascertaining the nature of the rocks and earths&quot; of the areas surveyed, and resolved that if on a similar expedition, he would &quot;endeavour to carry out a person qualified to examine the land; while the officers, and myself, would attend to [[hydrography]].&quot;&lt;ref name=king&gt;{{harvnb|King|1839|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F10.1&amp;pageseq=477 385]}}&lt;/ref&gt; This clearly indicated a need for a naturalist qualified to examine geology, who would spend considerable periods onshore away from the ship. McCormick lacked expertise in geology, and had to attend to his duties on the ship.{{sfn | Wyhe | 2013 | p=3}} 
+
+FitzRoy knew that commanding a ship could involve stress and loneliness; he was fully aware of the suicide of [[Pringle Stokes|Captain Stokes]], and his own uncle [[Viscount Castlereagh]] had committed suicide under stress of overwork.&lt;ref&gt;{{harvnb|Desmond|Moore|1991|p=104}}&lt;/ref&gt; For the first time he would be fully in charge with no commanding officer or second captain to consult, and it has been suggested that he felt the need for a gentleman companion who shared his scientific interests and could dine with him as an equal.&lt;ref&gt;{{harvnb|Browne|1995|pp=148–149}}&lt;/ref&gt; There is no direct evidence to support this. Henslow described the position &quot;more as a companion than a mere collector&quot;, but this was an assurance that FitzRoy would treat his guest as a gentleman naturalist. Several other ships at this period carried unpaid civilians as naturalists.{{sfn | Wyhe | 2013 | pp=5–7}}
+
+Early in August, FitzRoy discussed this position with Beaufort, who had a scientific network of friends at the [[University of Cambridge]].&lt;ref name=intro4&gt;{{harvnb|Browne|Neve|1989|pp=4–7}}&lt;/ref&gt; At Beaufort's request, mathematics lecturer [[George Peacock]] wrote from London to Professor [[John Stevens Henslow]] about this &quot;rare opportunity for a naturalist&quot;, saying that an &quot;offer has been made to me to recommend a proper person to go out as a naturalist with this expedition&quot;, and suggesting the Reverend [[Leonard Jenyns]].&lt;ref name=&quot;letter: 104&quot;&gt;{{cite web |url=http://www.darwinproject.ac.uk/entry-104 |title=Darwin Correspondence Project » letter: 104 – Peacock, George to Henslow, J. S., (6 or 13 August 1831) |accessdate=2014-11-11}}&lt;/ref&gt; Though Jenyns nearly accepted, and even packed his clothes, he had concerns about his obligations as vicar of [[Swaffham Bulbeck]] and his health, so declined. Henslow briefly thought of going, but his wife &quot;looked so miserable&quot; that he quickly dropped the idea.&lt;ref name=&quot;letter: 115&quot;&gt;{{cite web |url=http://www.darwinproject.ac.uk/entry-115 |title=Darwin Correspondence Project » letter: 115 – Darwin, C. R. to Darwin, S. E., (4 Sept 1831) |accessdate=2014-11-11}}&lt;/ref&gt; Both recommended the 22-year-old [[Charles Darwin]] who had just completed the ordinary [[Bachelor of Arts]] degree which was a prerequisite for his intended career as a [[parson]], and was on a [[geology]] field trip with [[Adam Sedgwick]].&lt;ref name=intro4 /&gt; 
+
+====Offer of place to Darwin====
+Darwin fitted well the expectations of a gentleman natural philosopher, and was well trained as a naturalist.{{sfn | Wyhe | 2013 | p=6}} When he had studied geology in his second year at Edinburgh he had found it dull, but from Easter to August 1831 he learned a great deal with [[Adam Sedgwick]] and developed a strong interest during their geological field trip.&lt;ref name=fieldnotesGalapagos /&gt; 
+On 24 August [[John Stevens Henslow|Henslow]] wrote to Darwin:
+
+&lt;blockquote&gt;
+...that I consider you to be the best qualified person I know of who is likely to undertake such a situation— I state this not on the supposition of yr. being a finished Naturalist, but as amply qualified for collecting, observing, &amp; noting any thing worthy to be noted in Natural History. Peacock has the appointment at his disposal &amp; if he can not find a man willing to take the office, the opportunity will probably be lost— Capt. F. wants a man (I understand) more as a companion than a mere collector &amp; would not take any one however good a Naturalist who was not recommended to him likewise as a ''gentleman''. ... there never was a finer chance for a man of zeal &amp; spirit... Don't put on any modest doubts or fears about your disqualifications for I assure you I think you are the very man they are in search of.&lt;ref name=&quot;Letter 105&quot;&gt;{{Cite web|url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-105.html |title=Darwin Correspondence Project - Letter 105 — Henslow, J. S. to Darwin, C. R., 24&amp;nbsp;Aug 1831 |accessdate=2008-12-29}}&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+The letter went first to [[George Peacock]], who quickly forwarded it to Darwin with further details, confirming that the &quot;ship sails about the end of September&quot;. Peacock had discussed the offer with [[Francis Beaufort|Beaufort]], &quot;he entirely approves of it &amp; you may consider the situation as at your absolute disposal&quot;.&lt;ref name=&quot;letter 106&quot;&gt;{{Cite web|url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-106.html |title=Darwin Correspondence Project - Letter 106 — Peacock, George to Darwin, C. R., (26? Aug 1831) |accessdate=2009-01-28}}&lt;/ref&gt; [[Charles Darwin's education#Voyage on the Beagle|When Darwin returned home]] late on 29 August and opened the letters, his father objected strongly to the voyage so the next day he wrote declining the offer,&lt;ref name=&quot;letter: 107&quot;&gt;{{cite web |url=http://www.darwinproject.ac.uk/entry-107 |title=Darwin Correspondence Project » letter: 107 –  Darwin, C. R. to Henslow, J. S., 30 (Aug 1831) |accessdate=2014-11-13}}&lt;/ref&gt; and left to go shooting at the estate of his uncle [[Josiah Wedgwood II]]. With Wedgwood's help, Darwin's father was persuaded to relent and fund his son's expedition, and on Thursday 1 September Darwin wrote accepting Peacock's offer.&lt;ref name=&quot;letter: 112&quot;&gt;{{cite web |url=http://www.darwinproject.ac.uk/entry-112 |title=Darwin Correspondence Project » letter: 112  Darwin, C. R. to Beaufort, Francis, 1 Sept (1831) |accessdate=2014-11-12}}&lt;/ref&gt; That day, Beaufort wrote to tell FitzRoy that his friend Peacock had &quot;succeeded in getting a '[[wikt:savant|Savant]]' for you&amp;mdash;A Mr Darwin grandson of the well known philosopher and poet&amp;mdash;full of zeal and enterprize and having contemplated a voyage on his own account to S. America&quot;.&lt;ref name=&quot;letter: 113&quot;&gt;{{cite web |url=http://www.darwinproject.ac.uk/entry-113 |title=Darwin Correspondence Project » letter: 113 – Beaufort, Francis to FitzRoy, Robert, 1 Sept (1831) |accessdate=2014-11-12}}&lt;/ref&gt; On Friday Darwin left for Cambridge, where he spent Saturday with Henslow getting advice on preparations, and references to experts.&lt;ref name=&quot;letter: 115&quot; /&gt;
+
+Alexander Charles Wood (an undergraduate whose tutor was Peacock) wrote from Cambridge to his cousin FitzRoy to recommend Darwin.&lt;ref&gt;{{harvnb|Browne|1995|pp=158–159}}&lt;/ref&gt; Around midday on Sunday 4 September Wood received FitzRoy's response, &quot;straightforward and gentlemanlike&quot; but strongly against Darwin joining the expedition; both Darwin and Henslow then &quot;gave up the scheme&quot;. Darwin went to London anyway, and next morning met FitzRoy who explained that he had promised the place to his friend Mr. Chester, (possibly the novelist Harry Chester) but Chester had turned it down in a letter received not five minutes before Darwin arrived. FitzRoy emphasised the difficulties including cramped conditions and plain food.&lt;ref name=&quot;letter: 117&quot;&gt;{{cite web |url=http://www.darwinproject.ac.uk/entry-117 |title=Darwin Correspondence Project » letter: 117 Darwin, C. R. to Darwin, S. E., (5 Sept 1831)|accessdate=2014-11-12}}&lt;/ref&gt;&lt;ref name=&quot;letter: 118&quot;&gt;{{cite web |url=http://www.darwinproject.ac.uk/entry-118 |title=Darwin Correspondence Project » letter: 118 – Darwin, C. R. to Henslow, J. S., (5 Sept 1831) |accessdate=2014-11-13}}&lt;/ref&gt; Darwin would be on the Admiralty's books to get provisions (worth £40 a year) and, like the ship's officers and captain, would pay £30 a year towards the [[mess]] bill.&lt;ref name=&quot;letter: 132&quot;&gt;{{cite web |url=http://www.darwinproject.ac.uk/entry-132 |title=Darwin Correspondence Project » letter: 132 – Darwin, C. R. to Fox, W. D., 19 (Sept 1831) |accessdate=2014-11-14}}&lt;/ref&gt; Including outfitting, the cost to him was unlikely to reach £500.&lt;ref name=&quot;letter: 117&quot; /&gt; The ship would sail on 10 October, and would probably be away for three years. They talked and dined together, and soon found each other agreeable.&lt;ref name=&quot;letter: 118&quot; /&gt; The [[Tory]] FitzRoy had been cautious at the prospect of companionship with this unknown young gentleman of [[British Whig Party|Whig]] background, and later admitted that his letter to Wood was &quot;to throw cold water on the scheme&quot; in &quot;a sudden horror of the chances of having somebody he should not like on board&quot;. He half-seriously said that he nearly rejected Darwin on the [[Phrenology|phrenological]] basis that the shape (or [[physiognomy]]) of Darwin's nose indicated a lack of determination.&lt;ref&gt;{{harvnb|Browne|1995|pp=160–161}}&lt;/ref&gt;&lt;ref name=&quot;letter: 122&quot;&gt;{{cite web |url=http://www.darwinproject.ac.uk/entry-122 |title=Darwin Correspondence Project » letter: 122 – Darwin, C. R. to Darwin, S. E., (9 Sept 1831) |accessdate=2014-11-12}}&lt;/ref&gt;
+
+====Darwin's preparations====
+While he continued to get acquainted with Fitzroy, going shopping together, Darwin rushed around to arrange his supplies and equipment, getting advice from experts on specimen preservation such as [[William Yarrell]] at the [[Zoological Society of London]], [[Robert Brown (botanist)|Robert Brown]] at the [[British Museum]], Captain [[Phillip Parker King]] who led the first expedition, and invertebrate anatomist [[Robert Edmond Grant]] who had tutored Darwin at Edinburgh. Yarrell gave invaluable advice, and bargained with shopkeepers so Darwin paid £50 for two pistols and a rifle, while FitzRoy had spent £400 on firearms.&lt;ref name=&quot;letter: 122&quot; /&gt;&lt;ref name=&quot;letter: 123&quot;&gt;{{cite web |url=http://www.darwinproject.ac.uk/entry-123 |title=Darwin Correspondence Project » letter: 123 –  Darwin, C. R. to Henslow, J. S., 9 (Sept 1831) |accessdate=2014-11-12}},&lt;br&gt;{{cite web |url=http://darwin-online.org.uk/content/frameset?pageseq=1&amp;itemID=CUL-DAR29.3.78&amp;viewtype=text |title=CUL-DAR29.3.78 |author= Darwin, C. R. |date= 1831 |publisher=darwin-online.org.uk |quote= recommendations attributed to [[Benjamin Leadbeater]], Henslow, Yarrell, Phillip Parker King, [[John Lort Stokes]], [[Robert Edmond Grant]], [[Frederick William Hope]] |accessdate=2014-11-13}}&lt;/ref&gt; On Sunday 11 September, FitzRoy and Darwin took the [[Packet trade|steam packet]] for Portsmouth.&lt;ref name=&quot;DJ 7–8&quot;&gt;{{cite web |url=http://darwin-online.org.uk/content/frameset?pageseq=12&amp;itemID=CUL-DAR158.1-76&amp;viewtype=text |title=Darwin's 'Journal' (1809-1881). CUL-DAR158.1-76 |author= John van Wyhe ed. |date= |publisher= Darwin Online|pages= 7 verso–8 verso|quote= |accessdate=2014-11-13}}&lt;/ref&gt; Darwin was not seasick, and had a pleasant &quot;sail of three days&quot;. For the first time he saw the &quot;very small&quot; cramped ship, met the officers,&lt;ref name=&quot;letter: 126&quot;&gt;{{cite web |url=http://www.darwinproject.ac.uk/entry-126 |title=Darwin Correspondence Project » letter: 126 – Darwin, C. R. to Darwin, S. E., (14 Sept 1831) |accessdate=2014-11-13}}&lt;/ref&gt; and was glad to get a large cabin, shared with the assistant surveyor [[John Lort Stokes]]. On Friday Darwin rushed back to London, &quot;250 miles in 24 hours&quot;,&lt;ref name=&quot;letter: 127&quot;&gt;{{cite web |url=http://www.darwinproject.ac.uk/entry-127 |title=Darwin Correspondence Project » letter: 127 – Darwin, C. R. to Darwin, S. E., 17 (Sept 1831) |accessdate=2014-11-13}}&lt;/ref&gt; and on via Cambridge to arrive in Shrewsbury on 22 September for a last quick visit to family and friends, leaving for London on 2 October.&lt;ref name=&quot;DJ 7–8&quot; /&gt; Delays to the ''Beagle'' gave Darwin an extra week to consult experts and complete packing his baggage.&lt;ref name=&quot;urlDarwin Correspondence Project » letter: 142&quot;&gt;{{cite web |url=http://www.darwinproject.ac.uk/entry-142 |title=Darwin Correspondence Project » letter: 142 – Darwin, C. R. to FitzRoy, Robert (10 Oct 1831) |accessdate=2014-11-13}}&lt;/ref&gt; After sending his heavy goods down by steam packet, he took the coach along with [[Augustus Earle]], and arrived at [[Devonport, Devon|Devonport]] on 24 October.&lt;ref name=&quot;urlDarwin Correspondence Project » letter: 139&quot;&gt;{{cite web |url=http://www.darwinproject.ac.uk/entry-139#back-mark-139.f3 |title=Darwin Correspondence Project » letter: 139 – Darwin, C. R. to FitzRoy, Robert (4 or 11 Oct 1831) |accessdate=2014-11-13}}&lt;/ref&gt;
+
+The geologist [[Charles Lyell]] asked FitzRoy to record observations on geological features such as erratic boulders. Before they left England, FitzRoy gave Darwin a copy of the first volume of Lyell's ''Principles of Geology'' which explained features as the outcome of a gradual process taking place over extremely long periods of time.&lt;ref&gt;{{harvnb|Browne|Neve|1989|pp=12}}&lt;/ref&gt; In his autobiography Darwin recalled Henslow giving advice at this time to obtain and study the book, &quot;but on no account to accept the views therein advocated&quot;.&lt;ref name=k01p27&gt;{{harvnb|Keynes|2001|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=59 27]}}&lt;/ref&gt;
+
+Darwin's position as a naturalist on board was as a self-funded guest with no official appointment, and he could leave the voyage at any suitable stage. At the outset [[George Peacock]] had advised that &quot;The Admiralty are not disposed to give a salary, though they will furnish you with an official appointment &amp; every accomodation{{sic}}: if a salary should be required however I am inclined to think that it would be granted&quot;. Far from wanting this,&lt;ref name=&quot;letter 106&quot;/&gt;&lt;ref name=&quot;letter: 199&quot;&gt;{{cite web |url=http://www.darwinproject.ac.uk/entry-119 |title=Letter 119 – Darwin, C. R. to Darwin, S. E. (6 Sept 1831) |publisher=Darwin Correspondence Project }}&lt;/ref&gt; Darwin's concern was to maintain control over his collection. He was even reluctant to be on the Admiralty's books for [[:wikt:victuals|victuals]] until he got assurances from FitzRoy and Beaufort that this would not affect his rights to assign his specimens.&lt;ref name=&quot;letter: 132&quot; /&gt; Darwin did not want his collection to go to the British Museum as he had heard that specimens from the first ''Beagle'' voyage were still waiting to be described. Beaufort assured him that he &quot;should have no difficulty&quot; as long as he &quot;presented them to some public body&quot; such as the [[Zoological Society of London|Zoological]] or [[Geological Society of London|Geological]] societies. Darwin himself thought his new finds should go to the &quot;largest &amp; most central collection&quot;, not the  [[Cambridge Philosophical Society]] museum that [[John Stevens Henslow|Henslow]] was setting up at Cambridge,&lt;ref name=&quot;letter: 123&quot; /&gt;&lt;ref&gt;{{harvnb|Browne|1995|pp=208–209}}&lt;/ref&gt; but after getting Henslow's willing agreement to take delivery of the consignments of specimens, Darwin replied that he hoped to give some to the Cambridge museum.&lt;ref name=&quot;Letter 144&quot; /&gt;
+
+====Darwin's work on the expedition====
+The captain had to record his survey in painstaking paperwork, and Darwin too kept a daily log as well as detailed notebooks of his finds and speculations, and a diary which became his journal. Darwin's notebooks show a complete professionalism that he had probably learnt at the [[University of Edinburgh]] when making natural history notes while exploring the shores of the [[Firth of Forth]] with his brother Erasmus in 1826 and studying marine invertebrates with [[Robert Edmund Grant]] for a few months in 1827.&lt;ref name=kix&gt;{{harvnb|Keynes|2000|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1840&amp;pageseq=12 ix–xi].}}&lt;/ref&gt; Darwin had also collected [[beetle]]s at Cambridge, but he was a novice in all other areas of natural history. During the voyage Darwin investigated small invertebrates, while collecting specimens of other creatures for experts to examine and describe once the ''Beagle'' had returned to England.&lt;ref name=fieldnotesGalapagos&gt;{{Cite web|url=http://darwin-online.org.uk/EditorialIntroductions/Chancellor_Keynes_Galapagos.html |title=Darwin's field notes on the Galapagos: 'A little world within itself' |author=Gordon Chancellor |author2=[[Randal Keynes]]  |date = October 2006|publisher=[[Darwin Online]]}}&lt;/ref&gt; More than half of his carefully organised zoology notes deal with marine invertebrates, and the notes record closely reasoned interpretations of what he found about their complex internal anatomy while dissecting specimens under his microscope, and of little experiments on their response to stimulation. His onshore observations included intense, analytical comments on possible reasons for the behaviour, distribution, and relation to their environment of the creatures he saw. He made good use of the ship's excellent library of books on natural history, but continually questioned their correctness.&lt;ref name=kx&gt;{{harvnb|Keynes|2000|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1840&amp;pageseq=13 x].}}&lt;/ref&gt;
+
+Geology was Darwin's &quot;principal pursuit&quot; on the expedition and his notes on that subject were almost four times larger than his zoology notes, although he kept extensive records on both. During the voyage, he wrote to his sister that &quot;there is nothing like geology; the pleasure of the first days partridge shooting or first days hunting cannot be compared to finding a fine group of fossil bones, which tell their story of former times with almost a living tongue&quot;. To him, investigating geology brought reasoning into play and gave him opportunities for theorising.&lt;ref name=kix/&gt;
+[[File:Voyage of the Beagle.jpg|thumb|500px|right|The voyage of the ''Beagle'']]
+
+==Voyage==
+Charles Darwin had been told that the ''Beagle'' was expected to sail about the end of September 1831,&lt;ref name=&quot;letter 106&quot; /&gt; but fitting out took longer. The [[Admiralty]] Instructions were received on 14 November, and on 23 November she was moved to anchorage, ready to depart.  Repeated Westerly gales caused delays, and forced them to turn back after departing on 10 and 21 December. Drunkenness at Christmas lost another day. Finally, on the morning of 27 December, the ''Beagle'' left its anchorage in the Barn Pool, under [[Mount Edgcumbe Country Park|Mount Edgecumbe]] on the west side of [[Plymouth Sound]] and set out on its surveying expedition.&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=36 4–17].}}&lt;br /&gt;{{harvnb|FitzRoy|1839|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F10.2&amp;pageseq=65 42].}}&lt;/ref&gt;
+
+===Atlantic islands===
+The ''Beagle'' touched at [[Madeira]] for a confirmed position without stopping, Then on 6 January it reached [[Tenerife]] in the [[Canary Islands]], but was [[quarantined]] there because of [[cholera]] in England. Although tantalisingly near to the town of [[Santa Cruz de Tenerife|Santa Cruz]], to Darwin's intense disappointment, they were denied landing. With improving weather conditions, they sailed on. On 10 January Darwin tried out a [[plankton net]] he had devised to be towed behind the ship - only the second recorded use of such a net (after use by [[John Vaughan Thompson]] in 1816). Next day, he noted the great number of animals collected far from land and wrote &quot;Many of these creatures so low in the scale of nature are most exquisite in their forms &amp; rich colours. — It creates a feeling of wonder that so much beauty should be apparently created for such little purpose.&quot;&lt;ref&gt;{{Harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?itemID=F1925&amp;viewtype=text&amp;pageseq=51 19–22]}}&lt;/ref&gt;
+
+Six days later they made their first landing at [[Praia|Porto Praya]] on the volcanic island of [[Santiago, Cape Verde|St. Jago]] in the [[Cape Verde]] Islands. It is here that Darwin's description in his published ''[[The Voyage of the Beagle|Journal]]'' begins.&lt;ref&gt;{{Harvnb|Darwin|1839|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F10.3&amp;pageseq=20 1–7].}}&lt;/ref&gt; His initial impression was of a desolate and sterile volcanic island, but after visiting the town he came to a deep valley where he &quot;first saw the glory of tropical vegetation&quot; and had &quot;a glorious day&quot;, finding overwhelming novelty in the sights and sounds. FitzRoy set up tents and an observatory on [[Santa Maria Island, Cape Verde|Quail Island]] to determine the exact position of the islands, while Darwin collected numerous sea animals, delighting in vivid tropical corals in tidal pools, and investigating the geology of Quail Island.&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=54 22–26]}}&lt;/ref&gt;
+
+Though [[Charles Daubeny|Daubeny]]'s book in the ''Beagle'''s library described the volcanic geology of the Canary Islands, it said that the structure of the Cape Verde Islands was &quot;too imperfectly known&quot;. Darwin saw Quail Island as his key to understanding the structure of St. Jago, and made careful studies of its [[stratigraphy]] in the way he had learnt from [[Adam Sedgwick]]. He collected specimens and described a white layer of hard white rock formed from crushed coral and seashells lying between layers of black volcanic rocks,  and noted a similar white layer running horizontally in the black cliffs of St. Jago at {{convert|40|ft|m}} above sea level. The seashells were, as far as he could tell, &quot;the same as those of present day&quot;. He speculated that in geologically recent times a lava flow had covered this shell sand on the sea bed, and then the strata had slowly risen to their present level. [[Charles Lyell]]'s ''[[Principles of Geology]]'' presented a thesis of gradual rising and falling of the Earth's crust illustrated by the changing levels of the [[Macellum of Pozzuoli|Temple of Serapis]]. Darwin implicitly supported Lyell by remarking that &quot;Dr. Daubeny when mentioning the present state of the temple of Serapis. doubts the possibility of a surface of country being raised without cracking buildings on it. – I feel sure at St Jago in some places a town might have been raised without injuring a house.&quot;&lt;ref&gt;{{harvnb|Herbert|1991|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=A342&amp;pageseq=6 164–170].}}&lt;/ref&gt; In a letter to Henslow he wrote that &quot;The geology was preeminently interesting &amp; I believe quite new: there are some facts on a large scale of upraised coast&amp;nbsp;... that would interest Mr. Lyell.&lt;ref name=&quot;Letter 171&quot; /&gt; While still on the island, Darwin was inspired to think of writing a book on geology,&lt;ref&gt;{{Harvnb|Darwin|1958|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1497&amp;pageseq=83 81]}}&lt;/ref&gt; and later wrote of &quot;seeing a thing never seen by Lyell, one yet saw it partially through his eyes&quot;.&lt;ref&gt;[http://darwin-online.org.uk/content/frameset?itemID=F1548.2&amp;viewtype=text&amp;pageseq=146 Letter to L. Horner], Down, 29 August 1844&lt;/ref&gt;
+
+Customarily the ship's surgeon took the position of naturalist, and the ''Beagle'''s surgeon [[Robert McCormick (explorer)|Robert McCormick]] sought fame and fortune as an explorer.&lt;ref name=f196&gt;{{harvnb|Freeman|2007|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=A27b&amp;pageseq=203 196]}}&lt;/ref&gt; When they first met at the start of the voyage, Darwin had commented that &quot;My friend [McCormick] is an ass, but we jog on very amicably&quot;.&lt;ref name=&quot;Letter 144&quot;&gt;{{Cite web|url=http://www.darwinproject.ac.uk/entry-144 |title=Letter 144 — Darwin, C. R. to Henslow, J. S., 30 (Oct 1831) |publisher= Darwin Correspondence Project |quote= |accessdate=2010-08-01}}&lt;/ref&gt; They walked into the countryside of St. Jago together,&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=58 26–28]}}&lt;/ref&gt; and Darwin, influenced by Lyell, found the surgeon's approach old-fashioned.&lt;ref name=&quot;Letter 171&quot;&gt;{{Cite web|url=http://www.darwinproject.ac.uk/entry-171  |title=Letter 171 — Darwin, C. R. to Henslow, J. S., 18&amp;nbsp;May &amp; 16&amp;nbsp;June 1832 |publisher=Darwin Correspondence Project |quote=as for the Doctor he has gone back to England.—as he chose to make himself disagreeable to the Captain &amp; to Wickham He was a philosopher of rather an antient date; at St Jago by his own account he made ''general remarks'' during the first fortnight &amp; collected particular facts during the last. |accessdate=2010-08-01}}&lt;/ref&gt; They found a remarkable [[baobab]] tree, which FitzRoy measured and sketched. Darwin went on subsequent &quot;riding expeditions&quot; with [[Benjamin Bynoe]] and Rowlett to visit [[Cidade Velha|Ribeira Grande]] and [[São Domingos, Cape Verde|St Domingo]]. FitzRoy extended their stay to 23 days, to complete his measurements of [[Magnetic anomaly|magnetism]].&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=60 28–34]}}&lt;/ref&gt; Darwin subsequently wrote to Henslow that his collecting included &quot;several specimens of an Octopus, which possessed a most marvellous power of changing its colours; equalling any chamaelion, &amp; evidently accommodating the changes to the colour of the ground which it passed over.—yellowish green, dark brown &amp; red were the prevailing colours: this fact appears to be new, as far as I can find out.&quot;&lt;ref name=&quot;Letter 171&quot; /&gt; Henslow replied that &quot;The fact is not new, but any fresh observations will be highly important.&quot;&lt;ref name=&quot;Letter 196&quot;&gt;{{Cite web | title = Letter 196 &amp;#8212; Henslow, J. S. to Darwin, C. R., 15 &amp;amp; 21 Jan (1833) | url = http://www.darwinproject.ac.uk/entry-196 | publisher = Darwin Correspondence Project | accessdate = 8 July 2011 }}&lt;/ref&gt;
+
+McCormick increasingly resented the favours FitzRoy gave to assist Darwin with collecting. On 16 February, FitzRoy landed a small party including himself and Darwin on [[Saint Peter and Paul Rocks|St. Paul's rocks]], finding the seabirds so tame that they could be killed easily, while an exasperated McCormick was left circling the islets in a second small boat.&lt;ref&gt;{{harvnb|Browne|1995|pp=202–204}}&lt;/ref&gt; That evening novices were greeted by a pseudo-[[Neptune (mythology)|Neptune]], and in the morning they crossed the [[equator]] with the traditional [[line-crossing ceremony]].&lt;ref&gt;{{harvnb|FitzRoy|1839|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F10.2&amp;pageseq=83 56–58].}}&lt;br /&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=68 36–38].}}&lt;/ref&gt;
+
+Darwin had a special position as guest and social equal of the captain, so junior officers called him &quot;sir&quot; until the captain dubbed Darwin ''Philos'' for &quot;ship's philosopher&quot;, and this became his suitably respectful nickname.&lt;ref&gt;{{harvnb|Browne|1995|p=195}}&lt;/ref&gt;
+
+===Surveying South America===
+In South America,  ''Beagle'' carried out its survey work going to and fro to along the coasts to allow careful measurement and rechecking.
+Darwin made long journeys inland with travelling companions from the locality. He spent much of the time away from the ship, returning by prearrangement when the ''Beagle'' returned to ports where mail could be received and Darwin's notes, journals, and collections sent back to England. He had ensured that his collections were his own and they were shipped back to [[John Stevens Henslow|Henslow]] in [[Cambridge]] to await his return.  Several others on board including FitzRoy and other officers were able amateur naturalists, and they gave Darwin generous assistance as well as making collections for the Crown, which the [[Admiralty]] placed in the [[British Museum]].&lt;ref&gt;{{harvnb|Browne|Neve|1989|pp=11–17}}&lt;/ref&gt;
+
+====Tropical paradise and slavery====
+Due to heavy surf they only stayed at [[Fernando de Noronha]] for a day to make the required observations, and Fitzroy decided to make for [[Bahia, Brazil|Bahia]], [[Brazil]], to rate the chronometers and take on water.&lt;ref name=&quot;admiralty 1&quot; /&gt;&lt;ref&gt;{{harvnb|FitzRoy|1839|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F10.2&amp;pageseq=89 58–60].}}&lt;/ref&gt; On 28 February they reached the continent, arriving at the magnificent sight of the town now known as [[Salvador, Bahia|Salvador]], with large ships at harbour scattered across the bay. On the next day, Darwin was in &quot;transports of pleasure&quot; walking by himself in the [[Bahia coastal forests|tropical forest]], and in &quot;long naturalizing walks&quot; with others continued to &quot;add raptures to the former raptures&quot;.&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=73 41–44].}}&lt;/ref&gt; He found the sights of slavery offensive and when FitzRoy defended the practice by describing a visit to a slaveowner whose slaves replied &quot;no&quot; on being asked by their master if they wished to be freed, Darwin suggested that answers in such circumstances were worthless. Enraged that his word had been questioned, FitzRoy lost his temper and banned Darwin from his company. The officers had nicknamed such outbursts &quot;hot coffee,&quot; and within hours FitzRoy apologised and asked Darwin to remain.&lt;ref&gt;{{harvnb|Darwin|1958|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1497&amp;pageseq=75 73–74].}}&lt;/ref&gt; Later, FitzRoy had to remain silent when Captain Paget visited them and recounted &quot;facts about slavery so revolting&quot; that refuted his claim.&lt;ref&gt;{{harvnb|Keynes|2001|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=77 45]}}&lt;/ref&gt; 
+Surveying of sandbanks around the harbour was completed on 18 March, and the ship made its way down the coast to survey the extent and depths of the [[Abrolhos Archipelago|Abrolhos reefs]], completing and correcting [[Albin Roussin|Roussin's]] survey.&lt;ref name=&quot;keynes 48&quot; /&gt;
+
+On 4 April they entered the harbour of [[Rio de Janeiro]], to make observations of [[longitude]] from [[Villegagnon Island]]. Darwin took in the sights of the city then made an expedition into the interior, returning to the ship on 24 April. By then [[Robert McCormick (explorer)|Robert McCormick]] had left the ship, with permission from the admiral in command, and returned to England. Assistant Surgeon [[Benjamin Bynoe]] was made acting surgeon in his place.&lt;ref name=&quot;keynes 48&quot;&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=80 48–65].}}&lt;/ref&gt; McCormick felt &quot;very much disappointed in my expectations of carrying out my natural history pursuits, every obstacle having been placed in the way of my getting on shore and making collections&quot; while the gentleman Darwin received all the invitations from dignitaries onshore and was given facilities to pack his collections.&lt;ref&gt;{{harvnb|Browne|1995|p=210}}&lt;/ref&gt; &lt;br /&gt;On 26 April Darwin moved into a house he had rented at [[Botafogo]], and stayed there with three others when the ''Beagle'' left on 10 May to recheck observations at Bahia.&lt;ref name=&quot;keynes 48&quot; /&gt; FitzRoy had found a discrepancy of {{convert|4|miles|km}} in the meridian distance of longitude between his measurements and those of [[Albin Roussin]], and decided to go back. A seaman, a [[Cabin boy|ship's boy]] and a young [[midshipman]] had caught a fever after visiting the [[Macacu River]], and died. When the ship returned to Rio on 3 June, FitzRoy confirmed that his measurements of Bahia and of the Abrolhos reefs were correct, and sent these corrections to Roussin. They sailed from Rio on 5 July.&lt;ref&gt;{{harvnb|FitzRoy|1839|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F10.2&amp;pageseq=109 74–81].}}&lt;/ref&gt;
+
+====Fossil finds====
+After storms, the ''Beagle'' reached [[Montevideo]] on 26 July 1832, and took observations for the chronometers. An attempt to call at [[Buenos Aires]] for information was thwarted by officials, then  FitzRoy agreed a request for ship's crew (and Darwin) to briefly occupy a Montevideo fort to  dispel a [[revolution]]. On 22 August, after taking soundings in [[Samborombón Bay]], the ''Beagle'' began survey work down the coast from [[Cape San Antonio, Argentina|Cape San Antonio]].&lt;ref&gt;{{harvnb|FitzRoy|1839|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F10.2&amp;pageseq=129 94–97].}}&lt;/ref&gt;
+
+[[File:Augustus Earle (presumed) - Quarter Deck of a Man of War on Diskivery (sic) or interesting Scenes on an Interesting Voyage.jpg|thumb|A caricature of the scene on the quarter deck while anchored at [[Bahia Blanca]], painted around 24 September 1832. Darwin is the central figure in a top hat, Fitzroy the second figure to his left. The watercolour is attributed to the shipboard artist [[Augustus Earle]].&lt;ref name=&quot;Armitstead 2015&quot;&gt;{{cite web | last=Armitstead | first=Claire | title=Unique watercolour of Darwin on HMS Beagle tipped to fetch upwards of £50,000 at auction | website=the Guardian | date=2015-11-25 | url=http://www.theguardian.com/books/2015/nov/25/rare-drawing-charles-darwin-on-hms-beagle-50-thousand-sothebys-auction | accessdate=2015-11-25}}&lt;/ref&gt; ]]
+At [[Bahía Blanca]], in the southern part of present [[Buenos Aires Province]], Darwin rode inland into [[Patagonia]] with [[gaucho]]s: he saw them use [[bolas]] to bring down &quot;ostriches&quot; ([[rhea (bird)|rheas]]), and ate roast [[armadillo]]. With FitzRoy, he went for &quot;a very pleasant cruize about the bay&quot; on 22 September, and about ten miles (16&amp;nbsp;km) from the ship they stopped for a while at [[Punta Alta]]. In low cliffs near the point Darwin found [[Conglomerate (geology)|conglomerate rocks]] containing numerous shells and fossilised teeth and bones of gigantic extinct [[mammal]]s,&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=136 104–109]}}; p. 109, Keynes notes the site is now under [[Puerto Belgrano]] naval base.&lt;/ref&gt; in strata near an earth layer with shells and [[armadillo]] fossils, suggesting to him quiet tidal deposits rather than a catastrophe.&lt;ref name=cpw&gt;[http://darwin-online.org.uk/EditorialIntroductions/Chancellor_fieldNotebooks1.10.html 'Cinnamon and port wine': an introduction to the ''Rio Notebook''], Bahía Blanca, September—October 1832.&lt;/ref&gt; With assistance (possibly including the young sailor [[Syms Covington]] acting as his servant&lt;ref name=JSC3&gt;{{Cite web|url=http://austehc.unimelb.edu.au/bsparcs/covingto/chap_3.htm#cite37 |title=The Journal of Syms Covington - Chapter Three |author= |authorlink= |format= |work= |publisher= |pages= |language= |archiveurl=https://web.archive.org/web/20060826001731/http://austehc.unimelb.edu.au/bsparcs/covingto/chap_3.htm |archivedate=2006-08-26 |quote= |accessdate=2008-07-29}}&lt;/ref&gt;) Darwin collected numerous fossils over several days,&lt;ref name=D46PA&gt;{{harvnb|Darwin|1846|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F273&amp;pageseq=98 84].}}&lt;/ref&gt; amusing others with &quot;the cargoes of apparent rubbish which he frequently brought on board&quot;.&lt;ref&gt;{{harvnb|FitzRoy|1839|pp=[http://darwin-online.org.uk/content/frameset?pageseq=141&amp;itemID=F10.2&amp;viewtype=text 106–107].}}&lt;/ref&gt;
+
+Much of the second day was taken up with excavating a large skull which Darwin found embedded in soft rock, and seemed to him to be allied to the [[rhinoceros]].&lt;ref&gt;{{harvnb|Keynes|2001|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=139 107].}}&lt;/ref&gt; On 8 October he returned to the site, and found a jawbone and tooth which he was able to identify using [[Jean Baptiste Bory de Saint-Vincent|Bory de Saint-Vincent]]'s ''Dictionnaire classique''. He wrote home describing this and the large skull as ''[[Megatherium]]'' fossils, or perhaps ''[[Megalonyx]]'', and excitedly noted that the only specimens in Europe were locked away in the King's collection at [[Madrid]].&lt;ref name=k109&gt;{{Harvnb|Keynes|2001|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=141 109]}}&lt;/ref&gt;&lt;ref name=Letter188&gt;{{Cite web|url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-188.html#back-mark-188.f3 |title=Darwin Correspondence Project - Letter 188 — Darwin, C. R. to Darwin, C. S., 24 Oct &amp; 24 Nov (1832) }}&lt;/ref&gt; In the same layer he found a large surface of polygonal plates of bony armour. His immediate thought was that they came from an enormous armadillo like the small creatures common in the area, but from [[Georges Cuvier|Cuvier]]'s misleading description of the Madrid specimen and a recent newspaper report about a fossil found by [[Woodbine Parish]], Darwin thought that the bony armour identified the fossil as the ''Megatherium''.&lt;ref name=Letter192&gt;{{Cite web|url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-192.html#mark-192.f4 |title=Darwin Correspondence Project - Letter 192 — Darwin, C. R. to Henslow, J. S., (26 Oct–) 24&amp;nbsp;Nov 1832 }}&lt;/ref&gt;&lt;ref&gt;{{Harvnb|Browne|1995|pp=223–224}}&lt;br /&gt;&amp;nbsp;{{Harvnb|Darwin|1835|p=[http://darwin-online.org.uk/content/frameset?itemID=F1&amp;viewtype=text&amp;pageseq=7 7]}}&lt;br /&gt;&amp;nbsp;{{Harvnb|Desmond &amp; Moore|1991|Ref=CITEREFDesmondMoore1991|p= 210}}&lt;br /&gt;&amp;nbsp;{{Harvnb|Eldredge|2006}}&lt;/ref&gt; With FitzRoy, Darwin went about 30&amp;nbsp;miles (48&amp;nbsp;km) across the bay to [[Monte Hermoso]] on 19 October, and found numerous fossils of smaller [[rodent]]s in contrast to the huge [[Xenarthra|Edentatal]] mammals of Punta Alta.&lt;ref&gt;{{Harvnb|Keynes|2001|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=142 110]}}&lt;/ref&gt;&lt;ref name=D46MH&gt;{{harvnb|Darwin|1846|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F273&amp;pageseq=95 81].}}&lt;/ref&gt; In November at [[Buenos Aires]] he &quot;purchased fragments of some enormous bones&quot; which he &quot;was assured belonged to the former giants!!&quot;,&lt;ref name=B64&gt;{{harvnb|Barlow|1967|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1598&amp;pageseq=84 64].}}&lt;/ref&gt; and subsequently took any chance to get fossils &quot;by gold or galloping&quot;.&lt;ref name=B92&gt;{{harvnb|Barlow|1967|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1598&amp;pageseq=114 92].}}&lt;/ref&gt;
+
+At Montevideo in November the mail from home included a copy of the second volume of [[Charles Lyell]]'s ''[[Principles of Geology]]'',&lt;ref name=k01p27/&gt; a refutation of [[Lamarckism]] in which there was no   shared ancestry of different species or overall progress to match the gradual geological change, but a continuing cycle in which species mysteriously appeared, closely adapted to their &quot;centres of creation&quot;, then became extinct when the environment changed to their disadvantage.&lt;ref&gt;{{harvnb|Desmond|Moore|1991|p=131}}&lt;/ref&gt;
+
+====Tierra del Fuego====
+[[File:Fuegian BeagleVoyage.jpg|right|thumb|His encounter with the natives of the [[Tierra del Fuego]] on his ''Beagle'' voyage made Darwin believe that [[civilization]] had evolved over time from a more primitive state.]]
+
+They reached [[Tierra del Fuego]] on 18 December 1832 and Darwin was taken aback at what he perceived as the crude savagery of the [[Yaghan]] natives, in stark contrast to the &quot;civilised&quot; behaviour of the three [[Fuegians]] they were returning as missionaries (who had been given the names York Minster, Fuegia Basket and [[Jemmy Button]]). He described his first meeting with the native Fuegians as being &quot;without exception the most curious and interesting spectacle I ever beheld: I could not have believed how wide was the difference between savage and civilised man: it is greater than between a wild and domesticated animal, inasmuch as in man there is a greater power of improvement.&quot; In contrast, he said of Jemmy that &quot;It seems yet wonderful to me, when I think over all his many good qualities, that he should have been of the same race, and doubtless partaken of the same character, with the miserable, degraded savages whom we first met here.&quot; (Four decades later, he recalled these impressions in ''[[The Descent of Man]]'' to support his argument that just as humans had descended from &quot;a lower form&quot;, civilised society had arisen by graduations from a more primitive state. He recalled how closely the Fuegians on board the ''Beagle'' &quot;resembled us in disposition and in most of our mental faculties.&quot;&lt;ref&gt;{{harvnb|Darwin|1871|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F937.1&amp;pageseq=47 34–35], [http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F937.1&amp;pageseq=193 180–181]}}&lt;/ref&gt;)
+
+At the island of &quot;Buttons Land&quot; on 23 January 1833 they set up a mission post, with huts, gardens, furniture and crockery, but when they returned nine days later the possessions had been looted and divided up equally by the natives. Matthews gave up, rejoining the ship and leaving the three civilised Fuegians to continue the missionary work. The ''Beagle'' went on to the [[Falkland Islands]] arriving just after the [[Re-establishment of British rule on the Falklands (1833)|British return]]. Darwin studied the relationships of species to habitats and found ancient fossils like those he had found in Wales. Fitzroy bought a [[schooner]] to assist with the surveying, and they returned to Patagonia where this was fitted with a new copper bottom and renamed ''Adventure''. Darwin was assisted by [[Syms Covington]] in preserving specimens and his collecting was so successful that with FitzRoy's agreement he took on Covington as a full-time servant for £30 a year.&lt;ref&gt;{{harvnb|Desmond|Moore|pp=134–138}}&lt;/ref&gt;
+
+====Gauchos, rheas, fossils and geology====
+The two ships sailed to the [[Río Negro (Argentina)|Río Negro]] in  [[Argentina]] and on 8 August 1833 Darwin left on another journey inland with the [[gaucho]]s. On 12&amp;nbsp;August he met General [[Juan Manuel de Rosas]] who was then leading a [[punitive expedition]] in [[Desert Campaign (1833–34)|his military campaign]] against [[Indigenous peoples in Argentina|native &quot;Indians&quot;]], and obtained a passport from him. As they crossed the [[pampas]] the gauchos and Indians told Darwin of a rare smaller species of [[Darwin's rhea|rhea]].&lt;ref name=B63-271&gt;{{harvnb|Barlow|1963|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1577&amp;pageseq=73 271–5].}}&lt;/ref&gt;  After three days at [[Bahía Blanca]] he grew tired of waiting for the ''Beagle'' and on 21&amp;nbsp;August revisited Punta Alta where he reviewed the geology of the site in light of his new knowledge, wondering if the bones were older than the seashells. He was very successful with searching for bones, and on 1&amp;nbsp;September found a near complete skeleton with its bones still in position.&lt;ref&gt;{{harvnb|Barlow|1945|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1571&amp;pageseq=213 193–196].}}&lt;/ref&gt;&lt;ref name=Letter215&gt;{{Cite web|url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-215.html |title=Darwin Correspondence Project - Letter 215 — Darwin, C. R. to Darwin, C. S., 20 Sept (1833) }}&lt;/ref&gt;
+
+He set off again and on 1&amp;nbsp;October searching the cliffs of the [[Carcarañá River]] found &quot;an enormous gnawing tooth&quot; then in a cliff of the [[Paraná River]] saw &quot;two great groups of immense bones&quot; which were too soft to collect but a tooth fragment identified them as [[mastodon]]s.&lt;ref&gt;{{harvnb|Keynes|2001|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=225 193].}}&lt;/ref&gt;&lt;ref name=Letter229&gt;{{Cite web|url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-229.html |title=Darwin Correspondence Project - Letter 229 — Darwin, C. R. to Henslow, J. S., 12 Nov 1833}}&lt;/ref&gt; Illness delayed him at  [[Santa Fe, Argentina|Santa Fe]], and after seeing the fossilised casing of a huge [[armadillo]] embedded in rock, he was puzzled to find a horse tooth in the same rock layer, since horses had been introduced to the continent with European migration.&lt;ref name=StFeintro&gt;{{Cite web|url=http://darwin-online.org.uk/EditorialIntroductions/Chancellor_fieldNotebooks1.13.html |title='Filled with astonishment': an introduction to the St. Fe Notebook |publisher=[[Darwin Online]] }}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Barlow|1945|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1571&amp;pageseq=230 210].}}&lt;/ref&gt; They took a riverboat down the Paraná River to [[Buenos Aires]] but became entangled in [[Revolution of the Restorers|a revolution]] as rebels allied to Rosas blockaded the city. The passport helped and with Covington he managed to escape in a boatload of refugees. They rejoined the ''Beagle'' at [[Montevideo]].&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=227 195–198].}}&lt;/ref&gt;
+
+As surveys were still in progress Darwin set off on another 400&amp;nbsp;mile (600&amp;nbsp;km) &quot;galloping&quot; trip in [[Uruguay|Banda Oriental]] to see the [[Uruguay River]] and visit the Estancia of Mr Keen near [[Mercedes, Uruguay|Mercedes]] on the [[Río Negro (Uruguay)|Río Negro]]. On 25&amp;nbsp;November he &quot;heard of some giants bones, which as usual turned out to be those of the Megatherium&quot; but could only extract a few broken fragments, then on the next day visited a nearby house and bought for about two [[shilling]]s &quot;a head of a Megatherium which must have been when found quite perfect&quot;, though the teeth had since been broken and the lower jaw had been lost. Mr Keen arranged to ship the skull down river to Buenos Aires.&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=235 203–204].}}&lt;/ref&gt;&lt;ref name=Letter238&gt;{{Cite web|url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-238.html#back-mark-238.f2 |title=Darwin Correspondence Project - Letter 238 — Darwin, C. R. to Henslow, J. S., Mar 1834 }}&lt;/ref&gt;&lt;ref name=introBandaOriental&gt;{{Cite web|url=http://darwin-online.org.uk/EditorialIntroductions/Chancellor_fieldNotebooks1.9.html |title='A man who has seen half the world': Introduction to the Banda Oriental Notebook }}&lt;/ref&gt; At [[Las Piedras, Uruguay|Las Piedras]] a clergyman let him see fossils including a club-like tail which he sketched and called an &quot;extraordinary weapon&quot;.&lt;ref name=introBandaOriental/&gt;&lt;ref name=BO36&gt;'Banda Oriental S. Cruz.' Beagle field notebook. EH1.9, [http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=EH1.9&amp;pageseq=39 p. 36], a typical [[Glyptodontidae|Glyptodont]] tail.&lt;/ref&gt; His notes included a page showing his realisation that the cliff banks of the rivers exposed two strata formed in an [[estuary]] interrupted by an undersea stratum, indicating that the land had risen and fallen.&lt;ref name=BO37&gt;'Banda Oriental S. Cruz.' Beagle field notebook. EH1.9, [http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=EH1.9&amp;pageseq=40 p. 37]&lt;/ref&gt;
+
+[[File:Image-Rhea Darwinii1.jpg|thumb|Illustration of [[Darwin's rhea]], published in 1841 in [[John Gould]]'s description of birds collected on the ''Beagle'' voyage.]]
+Back at Montevideo, Darwin was introduced to [[Conrad Martens]], the replacement artist brought on board the ''Beagle'' after Augustus Earle had to leave due to health problems. They sailed south, putting in at [[Puerto Deseado|Port Desire]] on 23&amp;nbsp;December, and the following day Darwin shot a [[guanaco]] which provided them with a Christmas meal. Early in the new year, Martens shot a rhea which they enjoyed eating before Darwin realised that this was the elusive smaller rhea, and preserved the remains.&lt;ref name=B63-271/&gt; On 9&amp;nbsp;January&amp;nbsp;1834, 110&amp;nbsp;miles (180&amp;nbsp;km) further south, they reached [[Puerto San Julián|Port St Julian]] and exploring the [[Patagonia#Geology|local geology]] in cliffs near the harbour Darwin found fossils of pieces of spine and a hind leg of &quot;some large animal, I fancy a Mastodon&quot;.&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=240 208–214]}}&lt;br /&gt;{{harvnb|Barlow|1967|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1598&amp;pageseq=106 84].}}&lt;/ref&gt;&lt;ref name=Letter238/&gt; On 26 January they entered the [[Straits of Magellan]] and at [[St. Gregory's Bay]] they met half-civilised Patagonian &quot;giants&quot; over 6&amp;nbsp;ft (1.8&amp;nbsp;m) tall, described by Darwin as &quot;excellent practical naturalists&quot;. One told him that the smaller rheas were the only species this far south, while the larger rheas kept to the north, the species meeting around the Rio Negro.&lt;ref&gt;{{harvnb|Barlow|1963|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1577&amp;pageseq=74 272].}}&lt;/ref&gt;
+
+After further surveying in Tierra del Fuego they returned on 5 March 1834 to visit the missionaries, but found the huts deserted. Then canoes approached and they found that one of the natives was [[Jemmy Button]], who had lost his possessions and had settled into the native ways, taking a wife. Darwin had never seen &quot;so complete &amp; grievous a change&quot;. Jemmy came on board and dined using his cutlery properly, speaking English as well as ever, then assured them that he &quot;had not the least wish to return to England&quot; and was &quot;happy and contented&quot;, leaving them gifts of otter skins and arrowheads before returning to the canoe to join his wife.&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=258 226–227].}}&lt;/ref&gt; Of the first visit Darwin had written that &quot;Viewing such men, one can hardly make oneself believe that they are fellow creatures placed in the same world.&amp;nbsp;....  It is a common subject of conjecture; what pleasure in life some of the less gifted animals can enjoy? How much more reasonably it may be asked with respect to these men&quot;,&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=254 222–223]}}&lt;/ref&gt; yet Jemmy had readily adapted to civilisation and then chosen to return to his primitive ways. This raised awkward questions; it jarred with [[Charles Lyell]]'s sheltered views, expressed in volume 2 of his ''[[Principles of Geology]]'', that [[Race (classification of humans)|human races]] &quot;showed only a slight deviation from a common standard&quot;, and that acceptance of transmutation meant renouncing man's &quot;belief in the high genealogy of his species&quot;.&lt;ref&gt;{{harvnb|Desmond|Moore|pp=146–147}}&lt;/ref&gt;
+
+About this time Darwin wrote ''Reflection on reading my Geological notes'', the first of a series of essays included in his notes.&lt;ref name=introBandaOriental/&gt; He speculated on possible causes of the land repeatedly being raised, and on a history of life in Patagonia as a sequence of named species.&lt;ref&gt;{{harvnb|Herbert|1995|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1956&amp;pageseq=1 23].}}&lt;/ref&gt;
+
+They returned to the Falkland Islands on 16&amp;nbsp;March just after an incident where gauchos and Indians had butchered senior members of Vernet's settlement, and helped to put the revolt down. Darwin noted the immense number of organisms dependent on the [[kelp forest]]s.&lt;ref&gt;{{harvnb|Keynes|2000|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1840&amp;pageseq=22 xix].}}&lt;/ref&gt; He received word from [[John Stevens Henslow|Henslow]] that his first dispatch of specimens had reached Cambridge, with the South American fossils being prized by the expert [[William Clift]] as showing hitherto unknown species and features of the Megatherium, and displayed by [[William Buckland]] and Clift before the cream of British science, making Darwin's reputation.&lt;ref name=Letter238/&gt;&lt;ref name=Letter213&gt;{{Cite web|url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-213.html#back-mark-213.f1 |title=Darwin Correspondence Project - Letter 213 — Henslow, J. S. to Darwin, C. R., 31 Aug 1833 }}&lt;/ref&gt;
+
+The ''Beagle'' now sailed to southern Patagonia, and on 19 April an expedition including FitzRoy and Darwin set off to take boats as far as possible up the [[Santa Cruz River (Argentina)|Santa Cruz river]], with all involved taking turn in teams dragging the boats upstream. The river cut through a series of rises then plateaux forming wide plains covered with shells and shingle, and Darwin discussed with FitzRoy his interpretation that these terraces had been shores that had gradually raised in accordance with Lyell's theories. Several of the smaller rheas were seen in the distance, but were too elusive to catch.&lt;ref name=B63-271/&gt; The expedition approached the Andes but had to turn back.
+
+Darwin summarised his speculation in his essay on the ''Elevation of Patagonia''. Though tentative, it challenged Lyell's ideas. Darwin drew on measurements by the ''Beagle''&lt;nowiki&gt;'&lt;/nowiki&gt;s officers as well as his own measurements to propose that the plains had been raised in successive stages by forces acting over a wide area, rather than smaller scale actions in a continuous movement. However, he supported Lyell in finding evidence to dismiss a sudden deluge when normal processes were suddenly speeded. Seashells he had found far inland still showing their colour suggested to him that the process had been relatively recent, and could have affected human history.&lt;ref name=herb16&gt;{{harvnb|Herbert|1991|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=A342&amp;pageseq=16 174–179].}}&lt;/ref&gt;
+
+====West coast of South America====
+[[File:Cerro La Campana.jpg|thumb|right|The Bell mountain, ''[[Cerro La Campana]]'', which Darwin ascended on 17 August 1834.]]
+The ''Beagle'' and ''Adventure'' now surveyed the [[Straits of Magellan]] before sailing north round up the west coast, reaching the island of [[Chiloé Island|Chiloé]] in the wet and heavily wooded [[Chiloé Archipelago]] on 28 June 1834. They then spent the next six months surveying the coast and islands southwards. On Chiloé, Darwin found fragments of black [[lignite]] and [[petrifaction|petrified]] wood, at least two of which the [[British Geological Survey]] discovered in 2011 locked away in their collection labeled &quot;unregistered fossil plants&quot;. Exchanged with [[Joseph Dalton Hooker]] about ten years later, one slide was signed &quot;Chiloe, C. Darwin Esq&quot;.&lt;ref&gt;{{cite web|title=Joseph Hooker, botanist to the Survey|url=http://bgs.ac.uk/discoveringGeology/geologyOfBritain/archives/jdhooker/jHooker.html#voyages|publisher=British Geological Survey|accessdate=17 January 2012}}&lt;/ref&gt;
+
+They arrived at [[Valparaiso]] on 23 July. After several walks in the area, Darwin obtained horses and on 14 August set off up the volcanic [[Andes]] with a companion. Three days later they spent an enjoyable day on the summit of the [[Cerro La Campana|Bell mountain]]. Darwin visited a copper mine and spent five days scrambling in the mountains before going on to [[Santiago, Chile]].  On his way back, he fell ill on 20 September and had to spend a month in bed. It is possible that he contracted [[Chagas' disease]] here, leading to [[Charles Darwin's health|his health problems]] after his return to England, but this diagnosis of his symptoms is disputed. He learnt that the Admiralty had reprimanded FitzRoy for buying the ''Adventure''. FitzRoy had taken it badly, selling the ship and announcing they would go back to recheck his survey, then had resigned his command doubting his sanity, but was persuaded by his officers to withdraw his resignation and proceed. The artist [[Conrad Martens]] left the ship and took passage to Australia.&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=281 249–264]}}&lt;/ref&gt;
+
+After waiting for Darwin, the ''Beagle'' sailed on 11 November to survey the Chonos Archipelago. From here they saw the eruption of  the volcano [[Osorno (volcano)|Osorno]] in the Andes. They sailed north, and Darwin wondered about the fossils he had found. The giant ''[[Mastodon]]''s&lt;!-- Mastodon is an obsolete genus name. --&gt; and ''[[Megatherium]]''s were extinct, but he had found no geological signs of a &quot;[[catastrophism|diluvial debacle]]&quot; or of the changed circumstances that, in Lyell's view, led to species no longer being adapted to the position they were created to fit. He agreed with Lyell's idea of &quot;the gradual birth &amp; death of species&quot; but, unlike Lyell, Darwin was willing to believe [[Giovanni Battista Brocchi]]'s idea that extinct species had somehow aged and died out.&lt;ref name=bonesofMastodon&gt;{{Cite web|url=http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=CUL-DAR42.97-99&amp;pageseq=1 |title=The position of the bones of Mastodon (?) at Port St Julian is of interest |author=Charles Darwin |authorlink=Charles Darwin |date=February 1835 }}&lt;/ref&gt;&lt;ref name=HurrahChiloe&gt;{{Cite web|url=http://darwin-online.org.uk/EditorialIntroductions/Chancellor_fieldNotebooks1.8.html |title=Darwin Online: 'Hurrah Chiloe': an introduction to the Port Desire Notebook |work= |accessdate=}}&lt;/ref&gt;
+
+[[File:Remains of the Cathedral of Conception - 1835.png|thumb|right|Concepción after the earthquake, as drawn by Lieutenant [[John Clements Wickham]] of the ''Beagle''.]]
+They  arrived at the port of [[Valdivia, Chile|Valdivia]] on 8 February 1835, then twelve days later Darwin was on shore when he experienced a [[1835 Concepción earthquake|severe earthquake]] and returned to find the port town badly damaged. They sailed two hundred miles (320&amp;nbsp;km) north to [[Concepción, Chile|Concepción]], and arrived on 4 March to find that the same earthquake had devastated the city by repeated shocks and a tidal wave, with even the cathedral in ruins. Darwin noted the horrors of death and destruction, and FitzRoy carefully established that [[mussel]] beds were now above high tide, giving clear evidence of the ground rising some 9&amp;nbsp;ft (2.7&amp;nbsp;m) which he confirmed a month later. They had actually experienced the gradual process of the continent emerging from the ocean as Lyell had indicated.&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=324 292–303].}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Desmond|Moore|1991|pp=158–162}}&lt;/ref&gt;
+
+Back in Valparaiso, Darwin set out on another trek up the Andes and on 21 March reached the continental divide at 13,000&amp;nbsp;ft (4,000&amp;nbsp;m): even here he found fossil seashells in the rocks. He felt the glorious view &quot;was like watching a thunderstorm, or hearing in the full Orchestra a Chorus of the Messiah.&quot;&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=340 308–309]}}&lt;/ref&gt; After going on to [[Mendoza, Argentina|Mendoza]] they were returning by a different pass when they found a petrified forest of fossilised trees, crystallised in a sandstone escarpment showing him that they had been on a Pacific beach when the land sank, burying them in sand which had been compressed into rock, then had gradually been raised with the continent to stand at 7,000&amp;nbsp;ft (2,100&amp;nbsp;m) in the mountains. On returning to Valparaiso with half a mule's load of specimens he wrote to his father that his findings, if accepted, would be crucial to the theory of the formation of the world. After another gruelling expedition in the Andes while the ''Beagle'' was refitted he rejoined it and sailed to [[Lima]], but found an armed insurrection in progress and had to stay with the ship. Here he was writing up his notes when he realised that Lyell's idea that coral atolls were on the rims of rising extinct volcanoes made less sense than the volcanoes gradually sinking so that the coral reefs around the island kept building themselves close to sea level and became an atoll as the volcano disappeared below. This was [[The Structure and Distribution of Coral Reefs|a theory]] he would examine when they reached such islands.&lt;ref&gt;{{harvnb|Herbert|1991|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=A342&amp;pageseq=29  187–190]}}&lt;/ref&gt;
+
+===Galápagos Islands===
+A week out of Lima, the ''Beagle'' reached the [[Galápagos Islands]] on 15 September 1835. The next day Captain FitzRoy dropped anchor near the site of the modern town of [[Puerto Baquerizo Moreno]] on [[San Cristóbal Island|Chatham Island]]. At the location that is now known as Frigatebird Hill/Cerro Tijeretas, Darwin spent his first hour on shore in the Galapagos islands.&lt;ref&gt;Grant, K. Thalia and Estes, Gregory B. &quot;Darwin in Galapagos: Footsteps to a New World.&quot; 2009. Princeton University Press. [http://darwiningalapagos.com]&lt;/ref&gt;
+
+Darwin eagerly looked forward to seeing newly formed volcanic islands, and took every opportunity to go ashore while the ''Beagle'' was methodically moved round to chart the coast. He found broken black rocky volcanic lava scorching under the hot sun, and made detailed geological notes of features including [[volcanic cone]]s like chimneys which reminded him of the iron foundries of industrial [[Staffordshire]].&lt;ref name=k354&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=385 353–354].}}&lt;/ref&gt; He was disappointed that he did not see active volcanoes or find strata showing uplift as he had hoped, though one of the officers found broken oyster-shells high above the sea on one of the islands.&lt;ref&gt;{{harvnb|Darwin|1845|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F272&amp;pageseq=128 114–115].}}&lt;/ref&gt; Abundant giant [[Galápagos tortoise]]s appeared to him almost [[antediluvian]], and large black [[marine iguana]]s seemed &quot;most disgusting, clumsy Lizards&quot; well suited to their habitat – he noted that someone had called them &quot;imps of darkness&quot;.&lt;ref name=k354/&gt; Darwin had learnt from [[John Stevens Henslow|Henslow]] about studying the geographical distribution of species, and particularly of linked species on oceanic islands and on nearby continents, so he endeavoured to collect plants in flower. He found widespread &quot;wretched-looking&quot; thin scrub thickets of only ten species, and very few insects. Birds were remarkably unafraid of humans, and in his first field note he recorded that [[San Cristobal mockingbird|a mockingbird]] was similar to those he had seen on the continent.&lt;ref name=fieldnotesGalapagos/&gt;&lt;ref name=gould&gt;{{harvnb|Gould|1839|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F8.11&amp;pageseq=10 62–64]}}&lt;/ref&gt;
+
+[[File:Galapagos mockingbird -Santa Cruz -Charles Darwin Research Centre.jpg|thumb|left|The [[Mimus|various Galápagos mockingbirds]] Darwin caught resembled the [[Chile]]an [[mockingbird]] [[Chilean mockingbird|''Mimus thenka'']], but differed from island to island.]]
+The ''Beagle'' sailed on to [[Floreana Island|Charles Island]]. By chance they were greeted by the Englishman [[Nicolas Lawson]], acting Governor of Galápagos for the [[Ecuador|Republic of the Equator]], who accompanied them up to the [[penal colony]]. It was said that tortoises differed in the shape of the shells from island to island, and Darwin noted Lawson's statement that on seeing a tortoise he could &quot;pronounce with certainty from which island it has been brought&quot;.&lt;ref name=k2k291&gt;{{harvnb|Keynes|2000|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1840&amp;pageseq=328 291].}}&lt;/ref&gt; Though Darwin remembered this later, he did not pay much attention at the time. However, he found [[Floreana mockingbird|a mockingbird]] and &quot;fortunately happened to observe&quot; that it differed from the Chatham Island specimen, so from then on carefully noted where mockingbirds had been caught.&lt;ref name=fieldnotesGalapagos/&gt;&lt;ref name=gould/&gt; He industriously collected all the animals, plants, insects &amp; reptiles, and speculated about finding &quot;from future comparison to what district or 'centre of creation' the organized beings of this archipelago must be attached.&quot;&lt;ref name=K2001356&gt;{{Harvnb|Keynes|2001|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=388 356].}}&lt;/ref&gt; At this stage his thoughts reflected Lyell's rejection of [[transmutation of species]].&lt;ref name=K2000xix/&gt;
+
+They went on to [[Isabela Island (Ecuador)|Albemarle Island]], where Darwin saw a small jet of smoke from a recently active volcano. On 1 October he landed near Tagus Cove and explored Beagle Crater.&lt;ref&gt;Grant, K. Thalia and Estes, Gregory B. &quot;Darwin in Galapagos: Footsteps to a New World.&quot; 2009 Princeton University Press. [http://darwiningalapagos.com]&lt;/ref&gt; There he saw his first [[Galapagos land iguana]]s. Water pits were disappointingly inadequate for drinking, but attracted swarms of small birds and Darwin made his only note of the [[Darwin's finches|finches]] he was not bothering to label by island.&lt;ref name=K2001357&gt;{{Harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=389 357–360].}}&lt;/ref&gt; He caught a [[Galápagos mockingbird|third species of mockingbird]].&lt;ref name=gould/&gt;
+
+After passing the northern islands of [[Pinta Island|Abingdon]], [[Genovesa Island|Tower]] and [[Marchena Island|Bindloe]], Darwin was put ashore at [[Santiago Island (Galápagos)|James Island]] for nine days together with the surgeon Benjamin Bynoe and their servants, and they busily collected all sorts of specimens while the ''Beagle'' went back to Chatham Island for fresh water.&lt;ref name=K2001360&gt;{{Harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=392 360–367].}}&lt;/ref&gt;
+
+After further surveying, the ''Beagle'' set sail for Tahiti on 20 October 1835. Darwin wrote up his notes, and to his astonishment found that all the mockingbirds caught on Charles, Albemarle, James and Chatham Islands differed from island to island.&lt;ref name=fieldnotesGalapagos/&gt; He wrote &quot;This birds which is so closely allied to the Thenca of Chili (Callandra of B. Ayres) is singular from existing as varieties or distinct species in the different Isds.— I have four specimens from as many Isds.— These will be found to be 2 or 3 varieties.— Each variety is constant in its own Island....&quot;.&lt;ref name=k2k298&gt;{{harvnb|Keynes|2000|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1840&amp;pageseq=335 298].}}&lt;/ref&gt;
+
+===Tahiti to Australia===
+They sailed on, dining on Galapagos tortoises, and passed the [[atoll]] of [[Puka-Puka|Honden Island]] on 9 November. They passed through the [[Tuamotus|Low Islands]] archipelago, with Darwin remarking that they had &quot;a very uninteresting appearance; a long brilliantly white beach is capped by a low bright line of green vegetation.&quot; Arriving at [[Tahiti]] on 15 November he soon found interest in luxuriant vegetation and the pleasant intelligent natives who showed the benefits of Christianity, refuting allegations he had read about tyrannical missionaries overturning indigenous cultures.&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=396 364–378]}}&lt;/ref&gt;
+
+On 19 December they reached [[New Zealand]] where Darwin thought the tattooed [[Māori people|Māori]] to be savages with character of a much lower order than the Tahitians, and noted that they and their homes were &quot;filthily dirty and offensive&quot;. He saw missionaries bringing improvement in character as well as new farming practices with an exemplary &quot;English farm&quot; employing natives. Richard Matthews was left here with his elder brother Joseph Matthews who was a missionary at [[Kaitaia]]. Darwin and FitzRoy were agreed that missionaries had been unfairly misrepresented in tracts, particularly one written by the artist [[Augustus Earle]] which he had left on the ship. Darwin also noted many English residents of the most worthless character, including runaway convicts from [[New South Wales]]. By 30 December he was glad to leave New Zealand.&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=412 380–395]}}&lt;/ref&gt;
+
+The first sight of [[Australia]] on 12 January 1836 reminded him of Patagonia, but inland the country improved and he was soon filled with admiration at the bustling city of [[Sydney]]. On a journey into the interior he came across a group of aborigines who looked &quot;good-humoured &amp; pleasant &amp; they appeared far from such utterly degraded beings as usually represented&quot;. They gave him a display of spear throwing for a shilling, and he reflected sadly on how their numbers were rapidly decreasing.&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=430 398–399].}}&lt;/ref&gt; At a large sheep farm he joined a hunting party and caught his first marsupial, a &quot;[[Potoridae|potoroo]]&quot; (rat-kangaroo). Reflecting on the strange animals of the country, he thought that an unbeliever &quot;might exclaim 'Surely two distinct Creators must have been [at] work; their object however has been the same &amp; certainly the end in each case is complete',&quot; yet an [[antlion]] he was watching was very similar to its European counterpart. That evening he saw the even stranger [[platypus]] and noticed that its bill was soft, unlike the preserved specimens he had seen. Aboriginal stories that they laid eggs were believed by few Europeans.&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=434 402–403].}}&lt;/ref&gt;&lt;ref name=Coccatoos&gt;{{Cite web|url= http://darwin-online.org.uk/EditorialIntroductions/Chancellor_fieldNotebooks1.3.html |title=Darwin Online: 'Coccatoos &amp; Crows': An introduction to the Sydney Notebook }}&lt;/ref&gt;
+
+The ''Beagle'' visited [[Hobart]], [[Tasmania]], where Darwin was impressed by the agreeable high society of the settlers, but noted that the island's &quot;Aboriginal blacks are all removed &amp; kept (in reality as prisoners) in a Promontory, the neck of which is guarded. I believe it was not possible to avoid this cruel step; although without doubt the misconduct of the Whites first led to the Necessity.&quot;&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=440 408–410].}}&lt;/ref&gt; They then sailed to [[King George Sound|King George's Sound]] in south west Australia, a dismal settlement then being replaced by the [[Swan River Colony]]. Darwin was impressed by the &quot;good disposition of the aboriginal blacks... Although true Savages, it is impossible not to feel an inclination to like such quiet good-natured men.&quot; He provided boiled rice for an aboriginal &quot;[[Corroboree|Corrobery]]&quot; dancing party performed by the men of two tribes to the great pleasure of the women and children, a &quot;most rude barbarous scene&quot; in which everyone appeared in high spirits, &quot;all moving in hideous harmony&quot;  and &quot;perfectly at their ease&quot;.&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=442 410–412].}}&lt;/ref&gt; The ''Beagle'''s departure in a storm was delayed when she ran aground. She was refloated and got on her way.
+
+===Keeling Island homewards===
+FitzRoy's instructions from the [[Admiralty]] required a detailed geological survey of a circular [[coral]] [[atoll]] to investigate how [[coral reef]]s formed, particularly whether they rose from the bottom of the sea or from the summits of extinct volcanoes, and the effects of [[tide]]s measured with specially constructed gauges. He chose the [[Cocos (Keeling) Islands|Keeling Islands]] in the [[Indian Ocean]], and on arrival on 1 April the entire crew set to work.&lt;ref&gt;{{harvnb|FitzRoy|1839|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F10.2&amp;pageseq=61 38–39], [http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F10.2&amp;pageseq=748 629–637].}}&lt;/ref&gt; Darwin found a coconut economy, serving both the small settlement and wildlife. There was a limited range of native plants and no land birds, but [[hermit crab]]s everywhere. The lagoons teemed with a rich variety of invertebrates and fish, and he examined the atoll's structure in view of [[The Structure and Distribution of Coral Reefs|the theory]] he had developed in Lima, of encircling reefs becoming atolls as an island sank.&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=445 413–419].}}&lt;/ref&gt; This idea was supported by the numerous [[Sounding line|soundings]] FitzRoy had taken showing a steep slope outside the reef with no living corals below 20–30 [[fathom]]s (10–15&amp;nbsp;m).&lt;ref&gt;{{harvnb|Darwin|1845|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F14&amp;pageseq=480 467–468].}}&lt;/ref&gt;
+
+Arriving at [[Mauritius]] on 29 April 1836, Darwin was impressed by the civilised prosperity of the French colony which had come under British rule. He toured the island, examining its volcanic mountains and fringing coral reefs. The Surveyor-general Captain Lloyd took him on the only elephant on the island to see an elevated coral plain.&lt;ref name=Coccatoos/&gt;&lt;ref&gt;{{harvnb|Darwin|1845|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F14&amp;pageseq=496 483–486].}}&lt;/ref&gt; By then FitzRoy was writing the official ''Narrative'' of the ''Beagle'' voyages, and after reading Darwin’s diary he proposed incorporating it into the account, a suggestion Darwin discussed with his family.&lt;ref name=Letter301&gt;{{Cite web|url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-301.html |title=Darwin Correspondence Project - Letter 301 — Darwin, C. R. to Darwin, C. S., 29 Apr 1836 }}&lt;/ref&gt;
+
+The ''Beagle'' reached the [[Cape of Good Hope]] on 31 May. In [[Cape Town]] Darwin received a letter dated 29 December from his sister Caroline telling him that his fame was spreading. On 18 November 1835 Sedgwick had read extracts from Darwin's geological notes to the [[Geological Society of London]]. and this had been reported in ''[[Athenaeum (British magazine)|The Athenæum]]'' on 21 November. On 25 December their father received a letter from Henslow which said that Darwin would become one of the premier naturalists of the time, and enclosed some copies of a book of extracts of Darwin's letters on South American geology which had been printed for private distribution. Their father &quot;did not move from his seat till he had read every word of ''your'' book &amp; he was very much gratified – he liked so much the simple clear way you gave your information&quot;.&lt;ref name=Letter291&gt;{{Cite web|url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-291.html |title=Darwin Correspondence Project - Letter 291 — Darwin, C. S. &amp; Langton, Charlotte to Darwin, C. R., 29 Dec (1835)}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Darwin|1835}}, {{harvnb|Darwin|1836}}, {{Cite web | title = Darwin Correspondence Project – Letter 290 – Darwin, R. W. to Henslow, J. S., 28 Dec 1835 | url = http://www.darwinproject.ac.uk/entry-290 }}&lt;/ref&gt; Darwin was horrified that his careless words were in print, but ''No hay remedio'' (it can't be helped).&lt;ref name=Letter302&gt;{{Cite web|url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-302.html |title=Darwin Correspondence Project - Letter 302 — Darwin, C. R. to Darwin, E. C., 3 June 1836 }}&lt;/ref&gt; He explored the geology of the area, reaching conclusions about slate formation and the injection of granite seams as liquid which differed from the ideas of Lyell and Sedgwick. The zoologist [[Andrew Smith (zoologist)|Andrew Smith]] showed him formations, and later discussed the large animals living on sparse vegetation, showing that a lack of luxuriant vegetation did not explain the extinction of the giant creatures in South America.&lt;ref name=Rascals/&gt;
+
+Around 15 June Darwin and FitzRoy visited the noted astronomer Sir [[John Herschel]]. In his diary Darwin called this &quot;the most memorable event which, for a long period, I have had the good fortune to enjoy.&quot; His zeal for science had been stirred at Cambridge by reading Herschel's book on philosophy of science, which had guided his theorising during the voyage.&lt;ref name=Rascals/&gt; Their discussion is not recorded, but a few months earlier, on 20 February 1836, Herschel had written to Lyell praising his ''[[Principles of Geology]]'' as a work which would bring &quot;a complete revolution in [its] subject, by altering entirely the point of view in which it must thenceforward be contemplated.&quot; and opening a way for bold speculation on &quot;that mystery of mysteries, the replacement of extinct species by others.&quot; Herschel himself thought [[catastrophism|catastrophic extinction and renewal]] &quot;an inadequate conception of the Creator&quot;, and by analogy with other [[Physical law|intermediate causes]] &quot;the origination of fresh species, could it ever come under our cognizance, would be found to be a natural in contradistinction to a miraculous process&quot;.&lt;ref name=hersch&gt;{{harvnb|van Wyhe|2007|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=A544&amp;pageseq=21 197]}}&lt;br /&gt;{{harvnb|Babbage|1838|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=A25&amp;pageseq=232 225–227]}}&lt;/ref&gt;
+
+In Cape Town missionaries were being accused of causing racial tension and profiteering, and after the ''Beagle'' set to sea on 18 June FitzRoy wrote an open letter to the [[evangelicalism|evangelical]] ''South African Christian Recorder'' on the ''Moral State of Tahiti'' incorporating extracts from both his and Darwin's diaries to defend the reputation of missionaries. This was given to a passing ship which took it to Cape Town to become FitzRoy's (and Darwin's) first published work.&lt;ref&gt;{{harvnb|Browne|1995|pp=330–331}}&lt;br /&gt;{{Cite web|url=http://darwin-online.org.uk/content/frameset?itemID=F1640&amp;viewtype=text&amp;pageseq=1 |title=A letter, containing remarks on the moral state of Tahiti, New Zealand, &amp;c. |author=FitzRoy, R |author2=Darwin, C  |date = September 1836|work= |publisher=South African Christian Recorder |pages=221–238 |quote=At Sea, 28th June, 1836}}&lt;/ref&gt;
+
+On 8 July they stopped at [[St. Helena]] for six days. Darwin took lodgings near [[Napoleon I of France|Napoleon's]] tomb, and when writing to Henslow asking to be proposed for the [[Geological Society of London|Geological Society]], mentioned his suspicions &quot;that differently from most Volcanic Islds. its structure is rather complicated. It seems strange, that this little centre of a distinct creation should, as is asserted, bear marks of recent elevation.&quot;&lt;ref name=Rascals&gt;{{Cite web|url=http://darwin-online.org.uk/EditorialIntroductions/Chancellor_fieldNotebooks1.6.html |title=Darwin Online: 'Runaway Rascals': an introduction to the Despoblado Notebook |author= |authorlink= |work= |publisher= |pages= |language= |archiveurl= |archivedate= |quote= |accessdate=}}&lt;/ref&gt;&lt;ref name=Letter304&gt;{{Cite web|url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-304.html |title=Darwin Correspondence Project - Letter 304 — Darwin, C. R. to Henslow, J. S., 9 July 1836 }}&lt;/ref&gt; With a guide he wandered over the island, noting its complex sloping [[stratum|strata]] showing [[Fault (geology)|fault lines]], interlaced with [[Fissure vent|volcanic]] [[Dike (geology)|dykes]]. He examined beds high on the hill which had been taken as seashells showing that St. Helena had risen from the ocean in recent times, but Darwin identified them as extinct species of land-shells. He noted that woodland had been destroyed by goats and hogs which had run wild since being introduced in 1502,&lt;ref&gt;{{harvnb|Darwin|1844|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F272&amp;pageseq=103 89–90].}}&lt;/ref&gt; and native vegetation only predominated on high steep ridges, having been replaced by imported species.&lt;ref&gt;{{harvnb|Darwin|1845|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F14&amp;pageseq=499 486–488].}}&lt;/ref&gt;
+
+At this stage Darwin had an acute interest in island [[biogeography]], and his description of St Helena as &quot;a little centre of creation&quot; in his geological diary reflects [[Charles Lyell]]'s speculation in Volume 2 of ''[[Principles of Geology]]'' that the island would have acted as a &quot;focus of creative force&quot;.&lt;ref name=Rascals/&gt; He later recalled believing in the permanence of species, but &quot;as far as I can remember, vague doubts occasionally flitted across my mind&quot;.&lt;ref name=Poulton&gt;{{harvnb|Poulton|1896|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=A334&amp;pageseq=36 28–29].}}&lt;/ref&gt; When organising his ''Ornithological Notes'' between mid June and August,&lt;ref&gt;{{Harvnb|Keynes|2000|p=[http://darwin-online.org.uk/content/frameset?itemID=F1840&amp;viewtype=text&amp;pageseq=23 xx].}}&lt;/ref&gt; Darwin expanded on his initial notes on the Galapagos [[mockingbird]] ''Mimus thenca'':&lt;ref name=fieldnotesGalapagos/&gt;
+&lt;blockquote&gt;
+These birds are closely allied in appearance to the Thenca of Chile or Callandra of la Plata. ... In each Isld. each kind is ''exclusively'' found: habits of all are indistinguishable. When I recollect, the fact that the form of the body, shape of scales &amp; general size, the Spaniards can at once pronounce, from which Island any Tortoise may have been brought. When I see these Islands in sight of each other, &amp; [but del.] possessed of but a scanty stock of animals, tenanted by these birds, but slightly differing in structure &amp; filling the same place in Nature, I must suspect they are only varieties.&lt;br /&gt;The only fact of a similar kind of which I am aware, is the constant asserted difference — between the wolf-like Fox of East &amp; West Falkland Islds.&lt;br /&gt; If there is the slightest foundation for these remarks the zoology of  Archipelagoes — will be well worth examining; for such facts [would ''inserted''] undermine the stability of Species.&lt;ref&gt;{{Harvnb|Barlow|1963|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1577&amp;pageseq=64 262].}}&lt;/ref&gt;
+&lt;/blockquote&gt;
+The term &quot;would&quot; before &quot;undermine&quot; had been added after writing what is now noted as the first expression of his doubts about species being immutable, which led to him becoming convinced about the [[transmutation of species]] and hence [[evolution]].&lt;ref name=K2000xix&gt;{{Harvnb|Keynes|2000|p=[http://darwin-online.org.uk/content/frameset?itemID=F1840&amp;viewtype=text&amp;pageseq=22 xix].}}&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;{{Harvnb|Eldredge|2006}}&lt;/ref&gt; In opposing transmutation, Lyell had proposed that varieties arose due to changes in environment, but these varieties lived in similar conditions though each on its own island. Darwin had just reviewed similar inconsistencies with mainland bird genera such as ''[[Pteroptochos]]''.&lt;ref&gt;{{Harvnb|Hodge|2009|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=A623&amp;pageseq=4 93–98].}}&lt;/ref&gt; Though his suspicions about the [[Falkland Islands wolf|Falkland Island fox]] may have been unsupported, the differences in [[Galápagos tortoise]]s between islands were remembered, and he later wrote that he had been greatly struck from around March 1836 by the character of South American fossils and of species on the Galapagos Archipelago, noting &quot;These facts origin (especially latter) of all my views&quot;.&lt;ref&gt;{{Harvnb|Barlow|1933|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1566&amp;pageseq=14 xiii].}}&lt;/ref&gt;
+
+The ''Beagle'' reached [[Ascension Island]] on 19 July 1836, and Darwin was delighted to receive letters from his sisters with news that Sedgwick had written &quot;He is doing admirably in S. America, &amp; has already sent home a Collection above all praise.— It was the best thing in the world for him that he went out on the Voyage of Discovery— There was some risk of his turning out an idle man: but his character will now be fixed, &amp; if God spare his life, he will have a great name among the Naturalists of Europe.&quot;&lt;ref name=Letter288&gt;{{Cite web|url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-288.html |title=Darwin Correspondence Project - Letter 288 — Darwin, S. E. to Darwin, C. R., 22 Nov 1835 }}&lt;/ref&gt; Darwin later recalled how he &quot;clambered over the mountains... with a bounding step and made the volcanic rocks resound under my geological hammer!.&quot;&lt;ref&gt;{{harvnb|Darwin|1958|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1497&amp;pageseq=83 81–82].}}&lt;/ref&gt; He agreed with the saying attributed to the people of St Helena that &quot;We know we live on a rock, but the poor people at Ascension live on a cinder&quot;, and noted the care taken to sustain &quot;houses, gardens &amp; fields placed near the summit of the central mountain&quot;.&lt;ref&gt;{{harvnb|Keynes|2001|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=463 431–432]}}&lt;/ref&gt; (In the 1840s Darwin worked with Hooker, who proposed in 1847 that the Royal Navy import tree species, a project started in 1850 which led to the creation of an artificial cloud forest.&lt;ref&gt;{{Cite web|last=Falcon |first=Howard |url=http://www.bbc.co.uk/news/science-environment-11137903 |title=Creation of an artificial cloud forest |publisher=Bbc.co.uk |date=1 September 2010 |accessdate=2010-09-18}}&lt;/ref&gt;)
+
+On 23 July they set off again longing to reach home, but FitzRoy wanted to ensure the accuracy of his longitude measurements and so took the ship across the [[Atlantic]] back to [[Bahia]] in [[Brazil]] to take check readings. Darwin was glad to see the beauties of the jungle for a last time, but now compared &quot;the stately Mango trees with the Horse Chesnuts of England.&quot;&lt;ref name=Letter306&gt;{{Cite web|url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-306.html |title=Darwin Correspondence Project - Letter 306 — Darwin, C. R. to Darwin, S. E., 4 Aug (1836)}}&lt;/ref&gt; The return trip was delayed for a further 11 days when weather forced the ''Beagle'' to shelter further up the coast at [[Pernambuco]], where Darwin examined rocks for signs of elevation, noted &quot;Mangroves like rank grass&quot; and investigated marine invertebrates at various depths on the sandbar. The ''Beagle'' departed for home on 17 August.&lt;ref name=Rascals/&gt; After a stormy passage including a stop for supplies at the [[Azores]], the Beagle finally reached [[Falmouth, Cornwall]], [[England]] on 2 October 1836. A plaque now commemorates his arrival point in [[Falmouth, Cornwall]].
+
+==Return==
+[[File:HMSBeagle.jpg|thumb|250px|right|In 1837 [[HMS Beagle|HMS ''Beagle'']] set off on a survey of [[Australia]], shown here in an 1841 watercolour by Owen Stanley.]]
+Upon his return, Darwin was quick to take the [[Stagecoach|coach]] home, arriving late at night on 4 October 1836 at [[The Mount, Shrewsbury|The Mount House]], the family home in [[Shrewsbury, Shropshire]]. Darwin reportedly headed straight to bed and greeted his family at breakfast. After ten days of catching up with family he went on to [[Cambridge]] and sought [[John Stevens Henslow|Henslow]]'s advice on organising the description and cataloguing of his collections.
+
+Darwin's father gave him an allowance that enabled him to put aside other careers, and as a scientific celebrity with a reputation established by his fossils and Henslow's publication of his letters on South American geology, he toured [[London]]'s society institutions. By this time he was part of the &quot;scientific [[The Establishment|establishment]]&quot;, collaborating with expert naturalists to describe his specimens, and working on ideas he had been developing during the voyage. [[Charles Lyell]] gave him enthusiastic backing. In December 1836, Darwin presented a talk to the [[Cambridge Philosophical Society]]. He wrote a paper proving that Chile, and the South American [[continent]], was slowly rising, which he read to the [[Geological Society of London]] on 4 January 1837.&lt;ref name=geosoc37&gt;{{Cite web|url=http://darwin-online.org.uk/content/frameset?itemID=F1645&amp;viewtype=text&amp;pageseq=1 |title=Observations of proofs of recent elevation on the coast of Chili, made during the survey of His Majesty's Ship Beagle commanded by Capt. FitzRoy R.N. |author=Darwin, C. R. |authorlink=Charles Darwin |date=1837|publisher=Proceedings of the Geological Society of London 2: 446-449}}&lt;/ref&gt;
+
+Darwin thought of having his diary published mixed in with FitzRoy's account, but his relatives including [[Emma Darwin|Emma]] and [[Hensleigh Wedgwood]] urged that it be published separately. On 30 December the question was settled by FitzRoy taking the advice of [[William Broderip]] that Darwin's journal should form the third volume of the ''Narrative''. Darwin set to work reorganising and trimming his diary, and incorporating scientific material from his notes. He completed his ''[[the Voyage of the Beagle|Journal and Remarks]]'' (now commonly known as ''The Voyage of the Beagle'') in August 1837, but FitzRoy was slower and the three volumes were published in August 1839.&lt;ref name=K01intro&gt;{{harvnb|Keynes|2001|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1925&amp;pageseq=20 xviii–xx].}}&lt;/ref&gt;
+
+[[Syms Covington]] stayed with Darwin as his servant, then on 25 February 1839 (shortly after Darwin's marriage) Covington parted on good terms and migrated to Australia.&lt;ref name=K449&gt;{{harvnb|Keynes|2001|p=[http://darwin-online.org.uk/content/frameset?viewtype=side&amp;itemID=F1925&amp;pageseq=481 449].}}&lt;/ref&gt;
+
+==Expert publications on Darwin's collections==
+Darwin had shown great ability as a collector and had done the best he could with the reference books he had on ship. It was now the province of recognised expert specialists to establish which specimens were unknown, and make their considered [[Taxonomy (biology)|taxonomic]] decisions on defining and naming new species.&lt;ref name=H11&gt;{{harvnb|Herbert|1980|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1583e&amp;pageseq=13 11].}}&lt;/ref&gt;
+
+===Fossils===
+[[Richard Owen]] had expertise in comparative anatomy and his professional judgements revealed a succession of similar species in the same locality, giving Darwin insights which he would later recall as being central to his new views.&lt;ref name=H11/&gt; Owen met Darwin on 29 October 1836 and quickly took on the task of describing these new fossils. At that time the only fully described fossil mammals from South America were three species of ''[[Mastodon]]'' and the gigantic ''Megatherium''.&lt;ref name=O38p13&gt;{{harvnb|Owen|1840|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F9.1&amp;pageseq=23 13]}}&lt;/ref&gt; On 9 November Darwin wrote to his sister that &quot;Some of them are turning out great treasures.&quot; The near complete skeleton from Punta Alta was apparently very closely allied to [[anteater]]s, but of the extraordinary size of a small horse. The [[rhinoceros]] sized head bought for two shillings near [[Mercedes, Uruguay|Mercedes]] was not a megatherium, but &quot;as far as they can guess, must have been a gnawing animal. Conceive a Rat or a Hare of such a size— What famous Cats they ought to have had in those days!&quot;&lt;ref name=Letter321&gt;{{Cite web|url=http://www.darwinproject.ac.uk/darwinletters/calendar/entry-321.html |title=Darwin Correspondence Project - Letter 321 — Darwin, C. R. to Darwin, C. S., (9&amp;nbsp;Nov 1836) |accessdate=}}&lt;/ref&gt; Over the following years Owen published descriptions of the most important fossils, naming several as new species.
+
+[[File:Scelidotherium leptocephalum side.jpg|thumb|right|A ''[[Scelidotherium]]'' skeleton in Paris.]]
+The fossils from [[Punta Alta]] included a nearly perfect head and three fragments of heads of the ''[[Megatherium|Megatherium Cuvierii]]'', the jaw of a related species which Owen named ''[[Mylodon|Mylodon Darwinii]]'', and jaws of ''[[Megalonyx|Megalonyx Jeffersonii]]''. The near complete skeleton was named ''[[Scelidotherium]]'' by Owen, who found it had most of its bones nearly in their proper relative positions.&lt;ref name=D46PA/&gt; At the nearby [[Monte Hermoso]] beds the numerous rodents included species allied to the [[Brazilian tuco-tuco]] and the [[capybara]].&lt;ref name=D46MH/&gt;
+
+Owen decided that the fossils of polygonal plates of bony armour found at several locations were not from the Megatherium as [[Georges Cuvier|Cuvier]]'s description implied, but from a huge armadillo as Darwin had briefly thought. Owen found a description of an earlier unnamed specimen which he named ''[[Glyptodon|Glyptodon clavipes]]'' in 1839.&lt;ref name=O40&gt;{{harvnb|Owen|1840|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F9.1&amp;pageseq=116 106–108]}}&lt;/ref&gt; Darwin's find from Punta Alta, a large surface about 3&amp;nbsp;ft (1.5&amp;nbsp;m) by 2&amp;nbsp;ft (0.6&amp;nbsp;m) doubled over with toe bones still inside the folded armour,&lt;ref name=D46PA/&gt; was identified as a slightly smaller ''[[Glyptodontidae|Glyptodont]]'' named ''[[Hoplophorus]]'' by [[Peter Wilhelm Lund|Lund]] in the same year.&lt;ref name=k109/&gt;&lt;ref name=O40/&gt;
+
+The huge skull from near Mercedes was named ''[[Toxodon]]'' by Owen,&lt;ref name=O37&gt;{{harvnb|Owen|1837|pp=[http://darwin-online.org.uk/content/frameset?itemID=A235&amp;viewtype=text&amp;pageseq=1 541–542]}}&lt;/ref&gt; and he showed that the &quot;enormous gnawing tooth&quot; from the cliffs of the [[Carcarañá River]] was a molar from this species.&lt;ref name=O38&gt;{{harvnb|Owen|1840|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F9.1&amp;pageseq=26 16–18]}}&lt;/ref&gt; The finds near Mercedes also included a large fragment of ''Glyptodont'' armour and a head which Owen initially identified as a ''[[Glossotherium]]'', but later decided was a ''Mylodon''.&lt;ref name=D46M&gt;{{harvnb|Darwin|1846|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F273&amp;pageseq=106 92]}}&lt;/ref&gt;  Owen found fragments of the jaw and a tooth of another ''Toxodon'' in the fossils from Punta Alta.&lt;ref name=D46PA/&gt;
+
+The fossils from near [[Santa Fe, Argentina|Santa Fé]] included the horse tooth which had puzzled Darwin as it had been previously thought that horses had only come to the Americas in the 16th century, close to a ''[[Toxodon]]'' tooth and a tooth of ''Mastodon andium'' (now ''[[Cuvieronius]] hyodon''). Owen confirmed that the horse tooth was of an extinct South American species which he named ''[[Equus curvidens]]'', and its age was confirmed by a corroded horse tooth among the Punta Alta fossils.&lt;ref&gt;{{harvnb|Darwin|1846|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F273&amp;pageseq=104 90]}}&lt;/ref&gt; This discovery was later explained as part of the [[evolution of the horse]].
+
+The &quot;soft as cheese&quot; ''[[Mastodon]]'' bones at the [[Paraná River]] were identified as two gigantic skeletons of the ''Mastodon andium'', and mastodon teeth were also identified from Santa Fé and the Carcarañá River.&lt;ref&gt;{{harvnb|Darwin|1846|pp=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F273&amp;pageseq=102 88–92].}}&lt;/ref&gt; The pieces of spine and a hind leg from [[Puerto San Julián|Port S. Julian]] which Darwin had thought came from &quot;some large animal, I fancy a Mastodon&quot; gave Owen difficulties, as the creature which he named ''[[Macrauchenia]]'' appeared to be a &quot;gigantic and most extraordinary [[Pachydermata|pachyderm]]&quot;, allied to the ''[[Palaeotherium]]'', but with affinities to the [[llama]] and the [[camel]].&lt;ref name=D46PSJ&gt;{{harvnb|Darwin|1846|p=[http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F273&amp;pageseq=109 95]}}&lt;/ref&gt; The fossils at Punta Alta included a pachyderm tooth which was thought probably came from ''Macrauchenia''.&lt;ref name=D46PA/&gt;
+
+==Notes==
+{{Reflist|colwidth=30em}}
+
+==References==
+{{bots|deny=Citation bot}}
+*{{Citation
+  | last =Babbage
+  | first = Charles
+  | author-link = Charles Babbage
+  | title = The Ninth Bridgewater Treatise
+  | place = London
+  | publisher = John Murray
+  | year = 1838
+  | edition = 2nd
+  | url = http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=A25&amp;pageseq=1
+  | accessdate =2009-02-02 }}
+*{{Citation
+ | last =Barlow
+ | first = Nora ed.
+ | author-link = Nora Barlow
+ | year = 1933
+ | title = Charles Darwin's diary of the voyage of H.M.S. Beagle
+ | publication-place = Cambridge
+ | publisher = University Press
+ | url =http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1566&amp;pageseq=1
+ | accessdate =2009-01-29 }}
+*{{Citation
+ | last =Barlow
+ | first = Nora ed.
+ | author-link = Nora Barlow
+ | year = 1945
+ | title = Charles Darwin and the voyage of the Beagle
+ | publication-place = London
+ | publisher = Pilot Press
+ | url =http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1571&amp;pageseq=1
+ | accessdate =2009-01-29 }}
+*{{Citation
+ | last =Barlow
+ | first = Nora ed.
+ | author-link = Nora Barlow
+ | year = 1963
+ | title =With introduction, notes and appendix by the editor
+ | contribution =Darwin's ornithological notes
+ | periodical =Bulletin of the British Museum (Natural History)
+ | volume = 2
+ | issue =7
+ | url =http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1577&amp;pageseq=1
+ | pages =201–278
+ | accessdate =2009-01-29 }}
+*{{Citation
+ | last =Barlow
+ | first = Nora ed.
+ | author-link = Nora Barlow
+ | year = 1967
+ | title = Darwin and Henslow. The growth of an idea
+ | contribution =
+ | publication-place = London
+ | publisher =Bentham-Moxon Trust, John Murray
+ | url =http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1598&amp;pageseq=1
+ | accessdate =2009-01-29 }}
+*{{Citation
+ | last = Browne
+ | first = Janet
+ | author-link = Janet Browne
+ | last2 = Neve
+ | first2 = Michael
+ | publication-date = 1989
+ | contribution =Introduction
+ | editor-last = Darwin
+ | editor-first = Charles
+ | editor-link = Charles Darwin
+ | title =Voyage of the Beagle: Charles Darwin's Journal of researches
+ | publication-place =London
+ | publisher =Penguin Books
+ | isbn =0-14-043268-X
+ | year = 1989 }}
+*{{Citation
+ | last = Browne
+ | first = E. Janet
+ | author-link = Janet Browne
+ | year = 1995
+ | title = Charles Darwin: vol. 1 Voyaging
+ | publication-place = London
+ | publisher = Jonathan Cape
+ | isbn = 1-84413-314-1 }}
+*{{Citation
+ | last = Darwin
+ | first = Charles
+ | author-link =Charles Darwin
+ | year = 1835
+ | title = Extracts from letters to Professor Henslow
+ | publication-place = Cambridge
+ | publisher =[privately printed]
+ | url = http://darwin-online.org.uk/content/frameset?itemID=F1&amp;viewtype=text&amp;pageseq=1
+ | accessdate =2009-01-27 }}
+*{{Citation
+ | last = Darwin
+ | first = Charles
+ | year = 1836
+ | title = Geological notes made during a survey of the east and west coasts of S. America, in the years 1832, 1833, 1834 and 1835, with an account of a transverse section of the Cordilleras of the Andes between Valparaiso and Mendoza. (Read 18 November 1835) 
+ | publication-place = London
+ | journal =Proceedings of the Geological Society
+ | url = http://darwin-online.org.uk/content/frameset?itemID=F1642&amp;viewtype=text&amp;pageseq=1
+ | volume= 2
+ | pages = 210–212
+ | accessdate =2013-02-23 }}
+*{{Citation
+ | last= Darwin
+ | first= Charles
+ | author-link=Charles Darwin
+ | year= 1839
+ | title=Narrative of the surveying voyages of His Majesty's Ships Adventure and Beagle between the years 1826 and 1836, describing their examination of the southern shores of South America, and the Beagle's circumnavigation of the globe. Journal and remarks. 1832-1836.
+ | place=
+ | publication-place= London
+ | publisher=Henry Colburn
+ | volume=III
+ | url=http://darwin-online.org.uk/content/frameset?itemID=F10.3&amp;viewtype=text&amp;pageseq=1
+ | accessdate =2009-01-27 }}
+*{{Citation
+ | last= Darwin
+ | first= Charles
+ | author-link= Charles Darwin
+ | year = 1842
+ | title =The Structure and Distribution of Coral Reefs. Being the first part of the geology of the voyage of the Beagle, under the command of Capt. Fitzroy, R.N. during the years 1832 to 1836
+ | publication-place = London
+ | publisher =Smith Elder and Co.
+ | url =http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F271&amp;pageseq=1
+ | accessdate =2009-01-29 }}
+*{{Citation
+ | last= Darwin
+ | first= Charles
+ | author-link= Charles Darwin
+ | year = 1844
+ | title = Geological Observations on the Volcanic Islands visited during the Voyage of H.M.S. Beagle, together with some brief notices of the geology of Australia and the Cape of Good Hope. Being the second part of the geology of the voyage of the Beagle, under the command of Capt. Fitzroy, R.N. during the years 1832 to 1836
+ | publication-place = London
+ | publisher =Smith Elder and Co.
+ | url =http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F272&amp;pageseq=1
+ | accessdate =2009-01-29 }}
+*{{Citation
+ | last= Darwin
+ | first= Charles
+ | author-link=Charles Darwin
+ | year= 1845
+ | title= [[The Voyage of the Beagle|Journal of Researches]] into the natural history and geology of the countries visited during the voyage of H.M.S. Beagle round the world, under the Command of Capt. Fitz Roy, R.N. 2d edition
+ | publication-place= London
+ | publisher=John Murray
+ | accessdate =2009-01-27 }}
+*{{Citation
+ | last= Darwin
+ | first= Charles
+ | author-link=Charles Darwin
+ | year= 1846
+ | title= Geological Observations on South America. Being the third part of the geology of the voyage of the Beagle, under the command of Capt. Fitzroy, R.N. during the years 1832 to 1836
+ | publication-place= London
+ | publisher=Smith Elder and Co.
+ | url= http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F273&amp;pageseq=1
+ | accessdate =2009-01-27 }}
+*{{Citation
+| last = Darwin
+| first = Charles
+| year = 1871
+| title =[[The Descent of Man, and Selection in Relation to Sex]]
+| edition =1st
+| publication-place = London
+| publisher =John Murray
+| accessdate =2010-06-03
+}}
+*{{Citation
+ | last = Darwin
+ | first = Charles
+ | author-link =
+ | year = 1958
+ | editor-last = Barlow
+ | editor-first = Nora
+ | editor-link =Nora Barlow
+ | title =[[The Autobiography of Charles Darwin]] 1809–1882. With the original omissions restored. Edited and with appendix and notes by his granddaughter Nora Barlow
+ | publication-place = London
+ | publisher = Collins
+ | accessdate =2009-01-29 }}
+*{{Citation
+ | last = Desmond
+ | first = Adrian
+ | author-link = Adrian Desmond
+ | last2 = Moore
+ | first2 = James
+ | author2-link = James Moore (biographer)
+ | year = 1991
+ | title = Darwin
+ | publication-place = London
+ | publisher = Michael Joseph, Penguin Group
+ | isbn = 0-7181-3430-3}}
+*{{Citation
+ | last = Eldredge
+ | first = Niles
+ | author-link = Niles Eldredge
+ | publication-date =
+ | year = 2006
+ | title = Confessions of a Darwinist
+ | periodical = The Virginia Quarterly Review
+ | issue = Spring 2006
+ | pages = 32–53
+ | url = http://www.vqronline.org/articles/2006/spring/eldredge-confessions-darwinist/
+ | accessdate =2009-01-27 }}
+*{{Citation
+ | last= FitzRoy
+ | first= Robert
+ | author-link=Robert FitzRoy
+ | year= 1836
+ | title=''Sketch of the Surveying Voyages of his Majesty's Ships Adventure and Beagle'', 1825-1836. Commanded by Captains P. P. King, P. Stokes, and R. Fitz-Roy, Royal Navy. (Communicated by John Barrow)
+ | journal =Journal of the Geological Society of London
+ | volume =6
+ | pages =311–343
+ | url=http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=A73&amp;pageseq=1 
+ | accessdate =2012-05-14 }}
+*{{Citation
+ | last = FitzRoy
+ | first = Robert
+ | author-link = Robert FitzRoy
+ | year = 1839
+ | title = Narrative of the surveying voyages of His Majesty's Ships Adventure and Beagle between the years 1826 and 1836, describing their examination of the southern shores of South America, and the Beagle's circumnavigation of the globe. Proceedings of the second expedition, 1831-36, under the command of Captain Robert Fitz-Roy, R.N.
+ | publication-place = London
+ | publisher = Henry Colburn
+ | volume=II
+ | url = http://darwin-online.org.uk/content/frameset?itemID=F10.2&amp;viewtype=text&amp;pageseq=1
+ | accessdate =2009-01-27 }}
+*{{Citation
+ | last= FitzRoy
+ | first= Robert
+ | author-link=Robert FitzRoy
+ | year= 1839
+ | title=Narrative of the surveying voyages of His Majesty's Ships Adventure and Beagle between the years 1826 and 1836, describing their examination of the southern shores of South America, and the Beagle's circumnavigation of the globe
+ | place=
+ | publication-place= London
+ | publisher=Henry Colburn
+ | volume= Appendix to Volume II
+ | url=http://darwin-online.org.uk/content/frameset?itemID=F10.2a&amp;viewtype=text&amp;pageseq=1
+ | accessdate =2009-01-27 }}
+*{{Citation
+| last = Freeman
+| first = R. B.
+| year = 2007
+| title = Charles Darwin: A companion. 2d online edition, compiled by Sue Asscher and edited by John van Wyhe.
+| edition = 2d online edition, compiled by Sue Asscher and edited by John van Wyhe
+| publisher = Darwin Online
+| url = http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=A27b&amp;pageseq=1
+| accessdate =2010-08-01 }}
+*{{Citation
+ | last = Gould
+ | first = John
+ | author-link = John Gould
+ | year = 1839
+ | editor-last = Darwin
+ | editor-first = C. R.
+ | title = Birds Part 3 No. 4
+ | series =The zoology of the voyage of H.M.S. Beagle
+ | publication-place = London
+ | publisher = Smith Elder and Co.
+ | url=http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F8.11&amp;pageseq=1
+ | accessdate =2009-04-18 }}
+
+*{{Citation
+ | last =Herbert
+ | first = Sandra
+ | publication-date = 1991
+ | title =Charles Darwin as a prospective geological author
+ | periodical =British Journal for the History of Science
+ | issue = 24
+ | pages =159–192
+ | url =http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=A342&amp;pageseq=1
+ | accessdate =2009-01-29 }}
+*{{Citation
+ | last =Herbert
+ | first = Sandra
+ | publication-date = 1995
+ | title =From Charles Darwin's portfolio: An early essay on South American geology and species. 14, no. 1, pp.
+ | periodical =Earth Sciences History
+ | volume =14
+ | issue = 1
+ | pages =23–36
+ | url = http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F1956&amp;pageseq=1
+ | accessdate =2009-01-29
+ | doi=10.17704/eshi.14.1.76570264u727jh36}}
+*{{Citation
+ | last =Hodge
+ | first = Jonathan
+ | title =Darwin, the Galapagos and his changing thoughts about species origins: 1835-1837
+ | journal =Proceedings of the California Academy of Sciences
+ | volume =61
+ | issue =Supplement II, No. 7
+ | pages =89–106
+ | year =2009
+ | url =http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=A623&amp;pageseq=1
+ | accessdate =2012-02-19}}
+*{{Citation
+ | last= Keynes
+ | first= Richard
+ | author-link = Richard Keynes
+ | year= 2000
+ | title = Charles Darwin’s zoology notes &amp; specimen lists from H.M.S. Beagle.
+ | publisher=Cambridge University Press
+ | url =http://darwin-online.org.uk/content/frameset?itemID=F1840&amp;viewtype=text&amp;pageseq=1
+ | accessdate =2009-01-27 }}
+*{{Citation
+ | last= Keynes
+ | first= Richard
+ | author-link = Richard Keynes
+ | year= 2001
+ | title=Charles Darwin's Beagle Diary
+ | publisher=Cambridge University Press
+ | url =http://darwin-online.org.uk/content/frameset?itemID=F1925&amp;viewtype=text&amp;pageseq=1
+ | accessdate =2009-01-27 }}
+*{{Citation
+ | last= King
+ | first= P. P.
+ | author-link=Phillip Parker King
+ | year= 1839
+ | editor-last= FitzRoy
+ | editor-first= Robert
+ | editor-link=Robert FitzRoy
+ | title=Narrative of the surveying voyages of His Majesty's Ships Adventure and Beagle between the years 1826 and 1836, describing their examination of the southern shores of South America, and the Beagle's circumnavigation of the globe. Proceedings of the first expedition, 1826-30, under the command of Captain P. Parker King, R.N., F.R.S.
+ | place=
+ | publication-place= London
+ | publisher=Henry Colburn
+ | volume=I
+ | url= http://darwin-online.org.uk/content/frameset?itemID=F10.1&amp;viewtype=text&amp;pageseq=1
+ | accessdate =2009-01-27 }}
+*{{Citation
+ | last = Owen
+ | first = Richard
+ | author-link = Richard Owen
+ | year = 1837
+ | title = A description of the Cranium of the Toxodon Platensis, a gigantic extinct mammiferous species, referrible by its dentition to the Rodentia, but with affinities to the Pachydermata and the Herbivorous Cetacea [Read 19&amp;nbsp;April]
+ | periodical =Proceedings of the Geological Society of London
+ | issue =2
+ | pages =541–542
+ | url=http://darwin-online.org.uk/content/frameset?itemID=A235&amp;viewtype=text&amp;pageseq=1
+ | accessdate =2009-01-27 }}
+*{{Citation
+ | last = Owen
+ | first = Richard
+ | author-link = Richard Owen
+ | year = 1840
+ | editor-last = Darwin
+ | editor-first = C. R.
+ | title = Fossil Mammalia Part 1
+ | series =The zoology of the voyage of H.M.S. Beagle
+ | publication-place = London
+ | publisher = Smith Elder and Co.
+ | url=http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F9.1&amp;pageseq=1
+ | accessdate =2009-01-27 }}
+*{{Citation
+ | last = Poulton
+ | first =Edward Bagnall
+ | author-link = Edward Bagnall Poulton
+ | year = 1896
+ | title = Charles Darwin and the theory of natural selection
+ | series =
+ | publication-place = London
+ | publisher =Cassell &amp; Co.
+ | url=http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=F9.1&amp;pageseq=1
+ | accessdate =2009-01-27 }}
+*{{Citation
+ | last = van Wyhe
+ | first = John
+ |author-link=John van Wyhe
+ | title = Mind the gap: Did Darwin avoid publishing his theory for many years?
+ | journal = Notes and Records of the Royal Society
+ | volume = 61
+ | issue =
+ | pages = 177–205
+ | date = 27 March 2007
+ | doi = 10.1098/rsnr.2006.0171
+ | url= http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=A544&amp;pageseq=1
+ | accessdate =2009-02-02 }}
+* {{citation | last=van Wyhe | first=John | title=“My appointment received the sanction of the Admiralty”: Why Charles Darwin really was the naturalist on HMS Beagle | journal=Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences | publisher=Elsevier BV | volume=44 | issue=3 | year=2013 | pages=316–326 | url=http://darwin-online.org.uk/people/2013,%20John%20van%20Wyhe,%20My%20appointment...Darwin%20was%20the%20naturalist%20of%20the%20Beagle.pdf | doi=10.1016/j.shpsc.2013.03.022  | accessdate=2016-09-23}}
+*{{Citation
+ | last = von Wartenberg
+ | first = Henry
+ | title = Charles Darwin al sur del sur: Detrás de sus huellas dos siglos después
+ | publication-place = Buenos Aires
+ | date = 2010 }}
+
+==External links==
+*{{Cite web|url=http://www.cnrs.fr/cw/dossiers/dosdarwinE/darwin.html |title=Darwin, a naturalist's voyage around world |accessdate=2009-11-09 |publisher=[[French National Centre for Scientific Research|CNRS]], Paris, France}}
+*{{Cite web|url=http://www.aboutdarwin.com/voyage/voyage01.html |title=AboutDarwin.com - Beagle Voyage |accessdate=2007-11-21 |work=}}
+*{{Citation|last= Rookmaaker |first= Kees |title=Darwin's itinerary on the voyage of the Beagle |year= 2009 |url=http://darwin-online.org.uk/content/frameset?viewtype=text&amp;itemID=A575&amp;pageseq=1 |publisher=Darwin Online |accessdate=2009-08-18}}
+*{{Citation|last= Grant K. Thalia and |first= Estes Gregory B.|title=Darwin's itinerary in Galapagos |year= 2009 |url=http://darwiningalapagos.com/darwins-itinerary}}
+
+==Further reading==
+*[[The Complete Works of Charles Darwin Online]] – [http://darwin-online.org.uk/ Darwin Online]; Darwin's publications, private papers and bibliography, supplementary works including biographies, obituaries and reviews. Free to use, includes items not in public domain.
+*{{gutenberg author| id=Charles+Darwin | name=Charles Darwin}}; public domain
+*[http://www.darwinproject.ac.uk/ Darwin Correspondence Project] Text and notes for most of his letters
+*Darwin in Galapagos: Footsteps to a New World - [http://darwiningalapagos.com]
+
+{{Darwin}}
+{{Use dmy dates|date=October 2012}}
+
+{{DEFAULTSORT:Second Voyage Of Hms Beagle}}
+[[Category:Charles Darwin|Voyage on HMS ''Beagle'']]
+[[Category:History of evolutionary biology]]
+[[Category:Global expeditions]]
+[[Category:1831 in the United Kingdom]]
+[[Category:1833 in Argentina]]
+[[Category:1830s in science]]
+[[Category:HMS Beagle]]
+[[Category:Expeditions from the United Kingdom]]</text>
+      <sha1>75jud5ve8xb90ttdsb89b3giluvrrkz</sha1>
+    </revision>
+  </page>
+</mediawiki>

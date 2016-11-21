@@ -1,0 +1,463 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Cherry Springs State Park</title>
+    <ns>0</ns>
+    <id>6016829</id>
+    <revision>
+      <id>750057205</id>
+      <parentid>749181620</parentid>
+      <timestamp>2016-11-17T16:27:35Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:AnomieBOT/docs/TemplateSubster|Substing templates]]: {{PDFlink}}. See [[User:AnomieBOT/docs/TemplateSubster]] for info.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="82730">&lt;!-- Note - the convention used for this article is that species names are capitalized, but other plant and animals are not: so &quot;Cooper's Hawk&quot;, but just &quot;hawks&quot;. --&gt;
+{{Geobox | Protected Area
+&lt;!-- *** Name section *** --&gt;
+| name = Cherry Springs State Park
+| native_name =
+| other_name =
+| other_name1 =
+&lt;!-- *** Category *** --&gt;
+| category = [[List of Pennsylvania state parks|Pennsylvania State Park]]
+| category_iucn = V
+&lt;!-- *** Image *** --&gt;
+| image = CSSP Sagittarius Combine1C.jpg
+| image_caption = The sky at Cherry Springs State Park, the second [[International Dark-Sky Association|International Dark Sky]] Park and the first in the eastern US, is so dark that the [[Milky Way]] casts a visible shadow.
+&lt;!-- *** Etymology *** ---&gt;
+| etymology_type = Named for
+| etymology = A large stand of cherry trees in the park
+&lt;!-- *** Country etc. *** --&gt;
+| country = United States
+| state = Pennsylvania
+| region_type = County
+| region = [[Potter County, Pennsylvania|Potter]]
+| district_type = Township
+| district = [[West Branch Township, Potter County, Pennsylvania|West Branch]]
+| city =
+&lt;!-- *** Geography *** --&gt;
+| location =
+| lat_d = 41
+| lat_m = 39
+| lat_s = 46
+| lat_NS = N
+| long_d = 77
+| long_m = 49
+| long_s = 23
+| location_note =&lt;ref name=&quot;gnis&quot;/&gt;
+| long_EW = W
+| elevation_imperial = 2300
+| elevation_round = 1
+| elevation_note =&lt;ref name=&quot;gnis&quot;/&gt;
+| area_unit = acre
+| area_imperial = 82
+| area_round = 0
+| area_note =
+| area1_imperial =
+| area1_type =
+| length_imperial =
+| length_orientation =
+| width_imperial =
+| width_orientation =
+| highest =
+| highest location =
+| highest_lat_d =
+| highest_lat_m =
+| highest_lat_s =
+| highest_lat_NS =
+| highest_long_d =
+| highest_long_m =
+| highest_long_s =
+| highest_long_EW =
+| highest_elevation_imperial =
+| lowest =
+| lowest_location =
+| lowest_lat_d =
+| lowest_lat_m =
+| lowest_lat_s =
+| lowest_lat_NS =
+| lowest_long_d =
+| lowest_long_m =
+| lowest_long_s =
+| lowest_long_EW =
+| lowest_elevation_imperial =
+&lt;!-- *** Nature *** --&gt;
+| biome =
+| biome_share =
+| biome1 =
+| biome1_share =
+| geology =
+| geology1 =
+| plant =
+| plant1 =
+| animal =
+| animal1 =
+&lt;!-- *** People *** --&gt;
+| established_type =
+| established = 1922
+| established_note =&lt;ref name=&quot;cssp&quot;/&gt;
+| management_body = Pennsylvania Department of Conservation and Natural Resources
+| management_location =
+| management_lat_d =
+| management_lat_m =
+| management_lat_s =
+| management_lat_NS =
+| management_long_d =
+| management_long_m =
+| management_long_s =
+| management_long_EW =
+| management_elevation =
+| visitation = 52,229
+| visitation_year = 2003
+| visitation_note =&lt;ref name = &quot;fermata&quot;/&gt;
+&lt;!-- *** Free fields *** --&gt;
+| free_type =
+| free =
+| free1_type = '''Added to [[National Register of Historic Places|NRHP]]:'''
+| free1 = May 11, 1987
+| free2_type = '''NRHP Reference #:'''
+| free2 = 87000052
+&lt;!-- *** Map section *** --&gt;
+| map = Pennsylvania Locator Map.PNG
+| map_caption = Location of Cherry Springs State Park in Pennsylvania
+| map_locator = Pennsylvania
+| map1 =
+| map_first =
+&lt;!-- *** Website *** --&gt;
+| website = [http://www.dcnr.state.pa.us/stateparks/findapark/cherrysprings/index.htm Cherry Springs State Park]
+}}
+'''Cherry Springs State Park''' is a {{convert|82|acre|adj=on}}{{Ref label|A|a|none}} [[List of Pennsylvania state parks|Pennsylvania state park]] in [[Potter County, Pennsylvania|Potter County]], [[Pennsylvania]], in the United States. The park was created from land within the [[Susquehannock State Forest]], and is on [[Pennsylvania Route 44]] in [[West Branch Township, Potter County, Pennsylvania|West Branch Township]]. Cherry Springs, named for a large stand of [[Prunus serotina|Black Cherry]] trees in the park, is atop the [[dissected plateau|dissected]] [[Allegheny Plateau]] at an elevation of {{convert|2300|ft|0}}. It is popular with astronomers and stargazers for having &quot;some of the darkest night skies on the east coast&quot;  of the United States, and was chosen by the [[Pennsylvania Department of Conservation and Natural Resources]] (DCNR) and its Bureau of Parks as one of &quot;25 Must-See Pennsylvania State Parks&quot;.&lt;ref name =mustsee&gt;{{cite web| url = http://www.dcnr.state.pa.us/stateparks/findapark/index.htm | title = Find a Park: 25 Must-see Parks | accessdate = May 26, 2015 | publisher = Pennsylvania Department of Conservation and Natural Resources}}&lt;/ref&gt;
+
+The earliest recorded inhabitants of the area were the [[Susquehannock]]s, followed by the [[Seneca nation]], who hunted there. The first settlement within the park was a log [[tavern]] built in 1818&amp;nbsp;along a trail; the trail became a [[toll road|turnpike]] by 1834&amp;nbsp;and a hotel replaced the tavern in 1874, then burned in 1897. In the late 19th and early 20th centuries the [[old-growth forest]]s were [[Clearcutting|clearcut]]; the state forest was established in 1901&amp;nbsp;and contains [[secondary forest|second growth woodlands]]. &quot;Cherry Springs Scenic Drive&quot; was established in 1922, and the [[Civilian Conservation Corps]] built much of Cherry Springs State Park during the [[Great Depression]], including a picnic pavilion listed on the [[National Register of Historic Places]] (NRHP). An annual &quot;Woodsmen's Show&quot; has been held in the park each August since 1952.
+
+Cherry Springs State Park was named Pennsylvania's first [[Dark-sky preserve|dark sky park]] by the DCNR in 2000. The adjoining [[Cherry Springs Airport]], built in 1935, was closed and its land was added to the park in 2006, to expand its stargazing area. On June 11, 2007,&amp;nbsp;the [[International Dark-Sky Association]] named it the second &quot;International Dark Sky Park&quot;; under optimum conditions the [[Milky Way]] casts a discernible shadow. Cherry Springs has received national press coverage and hosts two [[star party|star parties]] a year, which attract hundreds of astronomers. There are regular stargazing and educational programs for the public at the park, and the Woodsmen's Show attracts thousands each summer. Cherry Springs also offers rustic camping, [[picnic]] facilities, and trails for [[mountain biking]], [[hiking]], and [[Snowmobile|snowmobiling]]. The surrounding state forest and park are home to a variety of flora and fauna.
+
+==History==
+
+===Native Americans===
+Archeological evidence shows that humans have lived in what is now Pennsylvania since at least 10,000&amp;nbsp;BC. The first settlers were [[Paleo-Indians|Paleo-Indian]] [[nomad]]ic hunters known from their [[stone tool]]s.&lt;ref name = &quot;prehistory&quot;&gt;{{cite book|title = Foundations of Pennsylvania Prehistory| author = Kent, Barry C.; Smith III, Ira F.; McCann, Catherine (Editors)|year= 1971|publisher= Commonwealth of Pennsylvania, The Pennsylvania Historical and Museum Commission|location= Harrisburg, Pennsylvania|series= Anthropological Series of the Pennsylvania Historical and Museum Commission|volume= 1 |oclc = 2696039 }}&lt;/ref&gt;&lt;ref name = &quot;indians&quot;&gt;{{cite book|last= Wallace|first= Paul A. W.|title= Indians in Pennsylvania|year= 2000| publisher= Commonwealth of Pennsylvania, The Pennsylvania Historical and Museum Commission|location= Harrisburg, Pennsylvania|isbn= 978-0-89271-017-1| origyear = 1961}} &lt;br /&gt;''Note'': For a general overview of Native American History in the West Branch Susquehanna watershed, see {{cite book
+| last = Meginness
+| first = John Franklin
+| title = History of Lycoming County, Pennsylvania: including its aboriginal history; the colonial and revolutionary periods; early settlement and subsequent growth; organization and civil administration; the legal and medical professions; internal improvement; past and present history of Williamsport; manufacturing and lumber interests; religious, educational, and social development; geology and agriculture; military record; sketches of boroughs, townships, and villages; portraits and biographies of pioneers and representative citizens, etc. etc.
+| year = 1892
+| url = http://www.usgennet.org/usa/pa/county/lycoming/history/lyco-history-01.html
+| accessdate = June 17, 2008
+| edition = 1st
+| publisher = Brown, Runk &amp; Co
+| location = Chicago, IL
+| isbn = 0-7884-0428-8
+| chapter = Chapter I. Aboriginal Occupation.
+| chapterurl = http://www.usgennet.org/usa/pa/county/lycoming/history/Chapter-01.html
+}} ''Note:'' ISBN refers to the Heritage Books July 1996&amp;nbsp;reprint. URL is to a scan of the 1892&amp;nbsp;version with some [[Optical Character Recognition|OCR]] typos.&lt;/ref&gt; The [[hunter-gatherer]]s of the [[Archaic period in the Americas|Archaic period]], which lasted locally from 7000&amp;nbsp;to 1000&amp;nbsp;BC, used a greater variety of more sophisticated stone artifacts. The [[Woodland period]] marked the gradual transition to semi-permanent villages and [[horticulture]], between 1000&amp;nbsp;BC and 1500&amp;nbsp;AD. Archeological evidence found in the state from this time includes a range of pottery types and styles, [[tumulus|burial mounds]], pipes, bows and arrows, and ornaments.&lt;ref name = &quot;prehistory&quot;/&gt;
+
+[[File:Cherry Springs State Park Map.png|thumb|left|Map of the park and its facilities]]
+Historical records show that the earliest known inhabitants of the [[West Branch Susquehanna River]] [[drainage basin]], which includes Cherry Springs State Park, were the [[Iroquoian languages|Iroquoian]]-speaking [[Susquehannock]]s. They were a [[matriarchy|matriarchal]] society that lived in large [[longhouse|long house]]s in [[stockade]]d villages. [[Decimation (Roman army)#Current usage of the word|Decimated]] by disease and warfare with the Five Nations of the [[Iroquois]], by 1675&amp;nbsp;they had died out, moved away, or been [[cultural assimilation|assimilated]] into other tribes.&lt;ref name = &quot;indians&quot;/&gt;&lt;ref name=&quot;path&quot;&gt;{{cite book
+| last = Wallace
+| first = Paul A.W.
+| title = Indian Paths of Pennsylvania
+| edition = Fourth Printing
+| year = 1987
+| publisher = Pennsylvania Historical and Museum Commission
+| location = [[Harrisburg, Pennsylvania]]
+| isbn = 0-89271-090-X
+| pages = 66–72
+}} ''Note:'' ISBN refers to 1998&amp;nbsp;impression&lt;/ref&gt; Another name for the tribe is &quot;Susquehanna&quot;, and both the river and the [[Susquehannock State Forest]] which almost completely surrounds the park are named for them.&lt;ref name=&quot;donehoo&quot;&gt;{{cite book|last=Donehoo|first= Dr. George P.|title= A History of the Indian Villages and Place Names in Pennsylvania|url= http://www.srbc.net/docs/IndianNamesDataChart.PDF|format= PDF| accessdate= November 9, 2006|edition= Second Reprint|year= 1999|publisher= Wennawoods Publishing|location= [[Lewisburg, Pennsylvania]]|isbn= 1-889037-11-7|pages = 215–219|origyear= 1928}} ''Note'': ISBN refers to a 1999 reprint edition, URL is for the Susquehanna River Basin Commission's web page of Native American Place names, quoting and citing the book&lt;/ref&gt;&lt;ref name=&quot;susquehannock&quot;&gt;{{cite map| publisher = Pennsylvania Department of Conservation and Natural Resources| title = Susquehannock State Forest Map| url = http://www.dcnr.state.pa.us/forestry/stateforests/maps/fd15_map.pdf| format = PDF| scale = 1 inch = 2 miles| accessdate = March 3, 2009}}&lt;/ref&gt;
+
+After the departure of the Susquehannocks, the lands of the West Branch Susquehanna River valley were under the nominal control of the Iroquois, who lived in long houses, primarily in what is now [[upstate New York]], and had a strong [[confederation|confederacy]] which gave them power beyond their numbers.&lt;ref name = &quot;indians&quot;/&gt; The [[Seneca nation|Seneca]], members of the Iroquois Confederacy, hunted in the area of what is now Cherry Springs State Park. Their nearest villages were {{convert|51|mi}} to the northeast at modern [[Painted Post, New York|Painted Post]], New York, and {{convert|43|mi}} to the southeast at what is now [[Lock Haven, Pennsylvania|Lock Haven]], Pennsylvania. The Seneca had temporary hunting camps to the east in the area of [[Pine Creek Gorge]].&lt;ref name=&quot;history&quot;/&gt;&lt;ref name=&quot;distance&quot;&gt;{{cite web| last = Michels| first = Chris| year = 1997
+| url = http://www2.nau.edu/~cvm/latlongdist.html| title = Latitude/Longitude Distance Calculation| publisher = [[Northern Arizona University]]
+| accessdate = February 2, 2009}}&lt;/ref&gt; To fill the void left by the demise of the Susquehannocks, the Iroquois also encouraged displaced tribes from the east to settle in the West Branch watershed, including the [[Lenape]] (or Delaware) and [[Shawnee]].&lt;ref name = &quot;indians&quot;/&gt;
+
+The Seneca allowed very few travelers to pass through the area and kept non-native settlement to a minimum.&lt;ref name=&quot;history&quot;/&gt; The [[French and Indian War]] (1754–1763) led to the migration of many Native Americans westward to the Ohio River basin, and more departed after the [[American Revolutionary War]] (1775–1783).&lt;ref name = &quot;indians&quot;/&gt; The United States acquired the Last Purchase, including what is now Cherry Springs State Park, from the Iroquois in the second [[Treaty of Fort Stanwix (1784)|Treaty of Fort Stanwix]] in October 1784.&lt;ref name=&quot;path&quot;/&gt; In the years that followed, Native Americans almost entirely left Pennsylvania.&lt;ref name=&quot;indians&quot;/&gt;
+
+===Pioneers and lumber===
+Potter County was formed from part of [[Lycoming County, Pennsylvania|Lycoming County]] on March 26, 1804,&lt;ref name = &quot;potter&quot;&gt;{{cite web|url = http://www.phmc.state.pa.us/bah/dam/counties/pdfs/Potter.pdf|title = Potter County 8th class|accessdate = May 4, 2007| format = PDF| publisher = [[Pennsylvania Historical and Museum Commission]]}}&lt;/ref&gt; but the difficult terrain and thick [[old-growth forest]] prevented the new county from being settled by European-Americans until 1808.&lt;ref name=&quot;history&quot;/&gt; Prior to the arrival of [[William Penn]] and his [[Religious Society of Friends|Quaker]] [[Province of Pennsylvania|colonists]] in 1682, up to 90&amp;nbsp;percent of what is now Pennsylvania was covered with woods: more than {{convert|31000|sqmi}} of [[eastern white pine]], [[Tsuga canadensis|eastern hemlock]], and a mix of [[hardwood]]s.&lt;ref name=&quot;timber&quot;&gt;{{cite web|url = http://www.lumbermuseum.org/history.html|title = The Pennsylvania Lumber Museum – History| accessdate= May 1, 2009|publisher = Pennsylvania Historical and Museum Commission}}&lt;/ref&gt; The forests in and near the three original counties, [[Philadelphia County, Pennsylvania|Philadelphia]], [[Bucks County, Pennsylvania|Bucks]], and [[Chester County, Pennsylvania|Chester]], were the first to be harvested, as the early settlers used the readily available timber and cleared land for agriculture. By the time of the [[American Revolution]], [[logging]] had reached the interior and mountainous regions,&lt;ref name=&quot;timber&quot;/&gt;&lt;ref name=&quot;taber&quot;&gt;{{cite book|last=Taber III|first= Thomas T.|title= Williamsport Lumber Capital|date= 1995|edition= First|publisher= Paulhamus Litho, Inc|location= [[Montoursville, Pennsylvania]]|chapter= Chapter Two: The Boom — Making It All Possible|pages = 23–34 | oclc = 35920715}}&lt;/ref&gt; and became a leading industry in Pennsylvania.&lt;ref name=&quot;timber&quot;/&gt; Trees furnished fuel to heat homes, [[tannin]] for the state's many [[Tanning (leather)|tanneries]], and wood for construction, furniture, and [[barrel]] making. Large areas of forest were harvested by [[charcoal|colliers]] to fire [[bloomery|iron furnaces]]. Rifle stocks and shingles were made from Pennsylvania timber, as were a wide variety of household utensils, and the first [[Conestoga wagon]]s.&lt;ref name=&quot;timber&quot;/&gt;
+
+[[File:Tavern at Cherry Springs State Park.JPG|thumb|The [[Civilian Conservation Corps|CCC]] built this replica of the Cherry Springs Hotel, the tavern built by Jonathan Edgcomb in 1818.]]
+The area surrounding Cherry Springs State Park has been a wilderness for much of its history. A [[bridle path]] was cut through the woods in 1806–1807, and was widened to accommodate wagons in 1812.&amp;nbsp;(Modern [[Pennsylvania Route 44]], which passes through the park, follows the course of this path between [[Jersey Shore, Pennsylvania|Jersey Shore]] and [[Coudersport, Pennsylvania|Coudersport]].) In 1818&amp;nbsp;the Ceres Land Company, which owned much of the land in Potter County and sought to open the area to settlement, hired an early settler, Jonathan Edgcomb, to build a [[tavern]] or hotel for travelers at the site of the park. The hotel was in a very remote location {{convert|16|mi}} south of Coudersport, and its visitors were few, occasional wandering travelers or Native Americans.&lt;ref name=&quot;cssp&quot;/&gt;&lt;ref name=&quot;history&quot;&gt;{{cite journal|last= Morey|first= Tim|author2=Harrison, Maxine| year= 2002|title= Cherry Springs State Park: Hidden Resource in the Dark (part of the &quot;Emerald Gems&quot; series)|journal= Pennsylvania Recreation &amp; Parks|volume= 33|issue=  2|publisher= Pennsylvania Recreation and Park Society| location= [[State College, Pennsylvania]]|issn= 0742-793X|url= http://www.kwastronomy.com/History_of_Cherry_Springs_Park.htm|accessdate= October 14, 2008}} ''Note'': URL is to an authorized reprint of the article as &quot;History of Cherry Springs State Park&quot; on Kevin Wigell's Astronomy Page&lt;/ref&gt;
+
+Edgcomb and his wife received {{convert|100|acre}} of land in exchange for building the hotel and running it for three years. When the contract expired in 1821, they sold their land and left the area, but the hotel and land that Edgcomb had cleared became known as &quot;Edgcomb's Clearing&quot;. The Jersey Shore and Coudersport [[Toll road|Turnpike]] was constructed along the wagon path between 1825&amp;nbsp;and 1834, and tolls were collected for travel on the road until 1860.&lt;ref name=&quot;history&quot;/&gt; The park is in [[West Branch Township, Pennsylvania|West Branch Township]], which was incorporated from [[Eulalia Township, Pennsylvania|Eulalia Township]] in 1856.&lt;ref name = &quot;potter&quot;/&gt; A post office was opened at Edgcomb's Clearing in 1873; the locals petitioned the [[United States Post Office]] to change the name to &quot;Cherryville&quot;, for a nearby group of [[Prunus serotina|Black Cherry]] trees. However, since there was already a Cherryville, Pennsylvania, post office in [[Lehigh Township, Northampton County, Pennsylvania|Lehigh Township]] in [[Northampton County, Pennsylvania|Northampton County]], the name &quot;Cherry Spring&quot; was chosen as a compromise. In time an &quot;s&quot; was added, hence the name &quot;Cherry Springs&quot;.&lt;ref name=&quot;history&quot;/&gt; There are also at least two [[Spring (hydrosphere)|springs]] in the park.&lt;ref name = &quot;park map&quot;/&gt;
+
+In 1874&amp;nbsp;a new, larger hotel was built on the other side of the road from the original tavern.&lt;ref name=&quot;history&quot;/&gt; It provided accommodations for wealthy summer visitors from Coudersport. This part of Potter County became known for an abundance of [[game (food)|game]] and fish, and attracted hunters and anglers who also stayed at the Cherry Springs Hotel. This era as a &quot;sportsmen's paradise&quot; was not to last, as the more profitable lumber industry came to West Branch and surrounding townships, which were home to &quot;some of the tallest, straightest timber left standing&quot; along the [[East Coast of the United States]].&lt;ref name=&quot;history&quot;/&gt;
+
+When lumbermen reached the Cherry Springs area in the late 1880s, eastern white pine and eastern hemlock covered the surrounding mountains. [[Lumberjack]]s harvested the trees and sent them down the creeks to the West Branch Susquehanna River to the [[Susquehanna Boom]] and [[sawmill]]s at [[Williamsport, Pennsylvania|Williamsport]]. [[Clearcutting]] allowed silt to choke the streams, and nothing was left except the dried-out tree tops, which became a fire hazard. As a result, large swaths of land burned and were left barren,&lt;ref name=&quot;cssp&quot;/&gt;&lt;ref name = &quot;history&quot;/&gt; and much of the central part of the state became known as the &quot;Pennsylvania Desert&quot;.&lt;ref name=&quot;seasons doaf&quot;&gt;{{cite book| last = Owlett| first = Steven E.| title = Seasons Along The Tiadaghton: An Environmental History of the Pine Creek Gorge| year = 1993| chapter = The Death of a Forest| pages = 53–62| edition = 1st| publisher = Interprint| location = Petaluma, California| isbn = 0-9635905-0-2}}&lt;/ref&gt; The Cherry Springs Hotel itself burned in 1897&amp;nbsp;and the property was abandoned.&lt;ref name=&quot;history&quot;/&gt;
+
+===Civilian Conservation Corps===
+{{Infobox NRHP
+  | name = Cherry Springs Picnic Pavilion
+  | nrhp_type = 
+  | image = 
+  | caption = 
+  | location= 8 mi. N of Carter Camp off PA 44, [[West Branch Township, Pennsylvania]]
+  | built = 1933
+  | architect OR builder = Civilian Conservation Corps
+  | added = May 11, 1987
+  | area = less than one acre
+  | governing_body = Local
+  | mpsub = {{NRHP url|id=64000724|title=Emergency Conservation Work (ECW) Architecture in Pennsylvania State Parks: 1933–1942, TR}}
+  | refnum = 87000052&lt;ref name=&quot;nris&quot;&gt;{{NRISref|version=2010a}}&lt;/ref&gt;
+}}
+As the timber was exhausted and the land burned, many companies simply abandoned their holdings.&lt;ref name=&quot;seasons doaf&quot;/&gt; In 1897&amp;nbsp;the [[Pennsylvania General Assembly]] passed legislation which authorized the purchase of &quot;unseated lands for forest reservations&quot; and the first [[List of Pennsylvania state forests|Pennsylvania state forest lands]] were acquired the following year.&lt;ref&gt;{{cite web|url = http://www.portal.state.pa.us/portal/server.pt?open=514&amp;objID=588459&amp;mode=2|title = A Chronology of Events in Pennsylvania Forestry Showing Things as They Happened to Penn's Woods From the Landing of the First Europeans on the Shores of the Delaware to the Present Time|year=1975|accessdate = March 4, 2009|publisher =Bureau of Forestry, Pennsylvania Department of Environmental Resources}}&lt;/ref&gt; The first land for the Susquehannock State Forest was acquired in 1901; the cost for the major acquisitions was an average of $2.50&amp;nbsp;per acre ($6.18&amp;nbsp;per ha). This is roughly equivalent to ${{Inflation|US|2.6|1917}}&amp;nbsp;per acre (${{Inflation|US|5|1913}}&amp;nbsp;per ha) in {{CURRENTYEAR}} terms.&lt;ref&gt;{{cite web | title = Consumer Price Index (Estimate) 1800–2008 | publisher = Federal Reserve Bank of Minneapolis | date = 2009 | url =https://www.minneapolisfed.org/community_education/teacher/calc/hist1800.cfm | accessdate = February 25, 2009}}&lt;/ref&gt; &lt;!-- Please see talk page for how this figure was determined --&gt; As of 2003, the Susquehannock State Forest, which almost entirely surrounds the park, covered {{convert|265000|acre}}, chiefly in Potter County with small tracts in [[Clinton County, Pennsylvania|Clinton]] and [[McKean County, Pennsylvania|McKean]] counties.&lt;ref name = &quot;susquehannock map&quot;&gt;{{cite map| title = A Public Use Map for Susquehannock State Forest| publisher = Pennsylvania Department of Conservation and Natural Resources, Bureau of Forestry|date = July 2003}} ''Note'': This is a map on one side, with a guide to the state forest and its resources on the other side&lt;/ref&gt;
+
+{{Multiple image|direction=vertical|align=left|image1=Cherry Springs State Park Pavilion front 2.jpg|image2=Cherry Springs State Park Pavilion rear 2012.jpg|width=300|caption1=&quot;The largest and most unique of the CCC-built picnic pavilions&quot; in Pennsylvania was constructed in 1939.&lt;ref name = &quot;ECW&quot;/&gt;&lt;br /&gt;highway side;|caption2=Astronomy Field side.}}
+The park traces its existence back to 1922, when the Pennsylvania Department of Forestry established three scenic areas in state forests as part of a &quot;plan for retaining their natural beauty&quot;.&lt;ref name=&quot;forrey&quot;&gt;{{cite book| title = History of Pennsylvania's State Parks| last = Forrey|first = William C.| year = 1984|publisher = Bureau of State Parks, Office of Resources Management, Department of Environmental Resources, Commonwealth of Pennsylvania|location = Harrisburg, Pennsylvania| pages = 13–16, 90, 91, 97 |oclc = 17824084}}&lt;/ref&gt; One of these was the {{convert|6.5|mi|adj=on}} &quot;Cherry Springs Scenic Drive&quot; on the old Coudersport-Jersey Shore Turnpike. That same year, one of 16&amp;nbsp;&quot;Class B&quot; public campgrounds in the state forests was located on Cherry Springs Drive.{{Ref label|B|b|none}} These campgrounds were free for the public to use and all had potable water, picnic tables, a fireplace, garbage can, and a latrine.&lt;ref name = &quot;forrey&quot;/&gt; The land where the hotel sat was purchased by the state in 1932.&lt;ref name=&quot;history&quot;/&gt;
+
+Like many state parks in north central Pennsylvania, development of the facilities at Cherry Springs was the work of the [[Civilian Conservation Corps]] (CCC), a work relief program for young men from unemployed families. Established in 1933&amp;nbsp;as part of [[President of the United States|President]] [[Franklin D. Roosevelt]]'s [[New Deal]] legislation, the CCC was designed to combat unemployment during the [[Great Depression in the United States|Great Depression]]. It operated in every [[U.S. state]],&lt;ref name=&quot;npsccc&quot;&gt;{{cite book|last= Paige|first= John C.|title= The Civilian Conservation Corps and the National Park Service, 1933–1942: An Administrative History|url= http://www.nps.gov/history/history/online_books/ccc/ccc1.htm|accessdate= February 11, 2009|year= 1985|publisher= U.S. National Park Service, Department of the Interior|location= Washington, C.C.|chapter= Chapter One: A Brief History of the Civilian Conservation Corps | oclc=12072830}}&lt;/ref&gt; and established ten CCC camps in the Susquehannock State Forest,&lt;ref name = &quot;cssp&quot;/&gt; of which eight were in Potter County.&lt;ref&gt;{{cite map| title = CCC Camps in Pennsylvania 1933–1942| url = http://www.dcnr.state.pa.us/stateparks/ccc/images/cccmap.pdf| publisher = [[Pennsylvania Department of Conservation and Natural Resources]]| accessdate = March 6, 2009}}&lt;/ref&gt;
+
+Cherry Springs was home to CCC Camp S-136-Pa, which was established on May 27, 1933.&lt;ref name = &quot;camp 136&quot;&gt;{{cite web| url = http://www.dcnr.state.pa.us/stateparks/ccc/camp.aspx?ID=63| work = Pennsylvania CCC Archive|title = Camp Information for S-136-Pa| publisher = [[Pennsylvania Department of Conservation and Natural Resources]]| accessdate = March 6, 2009}}&lt;/ref&gt; According to the camp's 1936&amp;nbsp;History: &quot;Through the efforts of the [CCC] enrollees Cherry Springs Park, formerly a clearing, has been transformed into a park of which the people of Potter County can be proud of.&quot;[''[[sic]]'']&lt;ref&gt;{{cite web| url = http://www.dcnr.state.pa.us/stateparks/ccc/docs/140.pdf| work = Pennsylvania CCC Archive|title = History Company 5437, S-136-Pa. Galeton, Pa.| publisher = [[Pennsylvania Department of Conservation and Natural Resources]]| accessdate = March 6, 2009}}&lt;/ref&gt; A historic recreation of the original tavern was built, as were a rifle range, picnic tables and shelters, roads, and hiking trails. The young men of the CCC camps worked to clear brush from the woods as a fire prevention measure. After clearing the woods, they planted stands of [[Norway Spruce]] and white pine, as well as an apple orchard.&lt;ref name=&quot;cssp&quot;/&gt;&lt;ref name=&quot;history&quot;/&gt; Camp-136-Pa closed on July 10, 1937.&lt;ref name = &quot;camp 136&quot;/&gt;
+
+[[File:Cherry Springs State Park Small Pavilion.jpg|thumb|right|The other CCC-built picnic pavilion has a hexagonal roof and is in the camping area.]]
+Men from CCC Camp S-88-Pa, based at nearby [[Lyman Run State Park|Lyman Run]] in Potter County,&lt;ref name=&quot;lrsp&quot;&gt;{{cite web| url = http://www.dcnr.state.pa.us/stateparks/findapark/lymanrun/index.htm| title = Lyman Run State Park| accessdate = October 30, 2007| publisher = [[Pennsylvania Department of Conservation and Natural Resources]]}}&lt;/ref&gt; were also active in the park. In 1939, they built a structure at Cherry Springs which is &quot;the largest and most unique of the CCC-built picnic [[pavilions]]&quot; in the state, and is listed on the [[National Register of Historic Places]].&lt;ref name = &quot;ECW&quot;/&gt; The pavilion overlooks PA Route 44&amp;nbsp;and is shaped like an H, with two partially enclosed structures (the vertical lines of the H) connected by a [[breezeway]] (the horizontal bar). The breezeway is a roof supported by eight log columns with log railings. The ends of the pavilion are built from log walls with white chinking, like [[log cabin]]s. Each end has a large opening to the breezeway in one wall, while the other three sides are fully enclosed with a large window in the wall facing the highway, a stone fireplace and chimney on the opposite wall, and a door flanked by windows on the wall opposite the breezeway.&lt;ref name = &quot;fermata&quot;&gt;{{cite web| url = http://www.fermatainc.com/penn/documents/CherrySprings02_000.pdf| title = Pennsylvania WildsDarkSkies: An Early Implementation Conceptualization for Cherry Springs State Park| date = December 2004| publisher = Fermata Inc| accessdate = March 20, 2009| archiveurl = https://web.archive.org/web/20071214180814/http://www.fermatainc.com/penn/documents/CherrySprings02_000.pdf| archivedate = December 14, 2007}} ''Note'': the official map of the park before the Cherry Springs Airport was added to its territory is on page 5.&lt;/ref&gt;&lt;ref name = &quot;ECW&quot;/&gt;&lt;ref name=&quot;milner&quot;/&gt;
+
+A 1984&amp;nbsp;survey of Pennsylvania state parks found the &quot;three picnic pavilions, and their associated latrines&quot; at Cherry Springs &quot;typical of the smallest day use areas constructed by the CCC&quot;.&lt;ref name = &quot;ECW&quot;&gt;{{cite web| title = Emergency Conservation Work (ECW) Architecture in Pennsylvania State Parks: 1933–1942, Thematic Resources| url = {{NRHP url|id=64000724}}| date = January 5, 1987| publisher = [[National Park Service]], [[National Register of Historic Places]]| accessdate = March 6, 2009}}&lt;/ref&gt; These pavilions are examples of the rustic style built by the CCC in state parks throughout the Great Depression. Local materials were used in a way that minimized impact on the natural surroundings, and in a manner that resembled the building style of the pioneer settlements of the Appalachian Mountains.&lt;ref name=&quot;milner&quot;&gt;{{cite web
+| url = http://www.arch.state.pa.us
+| title = National Historic Landmarks &amp; National Register of Historic Places in Pennsylvania
+| publisher = ARCH: Pennsylvania's Historic Architecture &amp; Archaeology
+| format = Searchable database
+| accessdate= October 25, 2008
+}} ''Note:'' This includes {{cite web
+| url = {{NRHP-PA|H088873_01D.pdf}}
+| title = Pennsylvania Historic Resource Survey Form: Cherry Springs State Park
+| accessdate= October 25, 2008
+| author = John Milner Associates
+| format = PDF
+| date=1986
+}}&lt;/ref&gt;
+
+In addition to the two CCC camps active at the park, Cherry Springs also was home to Camp Elliott, which was run by the Pennsylvania Department of Forests and Waters (precursor to the [[Pennsylvania Department of Conservation and Natural Resources|Department of Conservation and Natural Resources]] (DCNR)) for college students and other unemployed men. In 1935&amp;nbsp;they built an [[Aerodrome|airfield]], [[Cherry Springs Airport|Cherry Springs Intermediate Field]], just north of the park. The {{convert|40|acre|adj=on}} airfield was originally built for emergency landings and later became a small airport.&lt;ref name = &quot;cssp&quot;/&gt;&lt;ref name = &quot;history&quot;/&gt; In 1936&amp;nbsp;it had a [[sod]] [[runway]] of dimensions {{convert|2400|by|500|ft}}, and a hangar.&lt;ref&gt;{{cite book| title = Civil Aeronautics Bulletin| publisher = United States [[Civil Aeronautics Authority|Civil Aeronautics Administration]]| date = 1936| url = https://books.google.com/?id=_OO3AAAAIAAJ&amp;dq=Cherry+Spring+Airport&amp;q=%22Cherry+Springs%22| page = 22}}&lt;/ref&gt; The United States' entry into the [[World War II|Second World War]] led to the end of the CCC and all its camps were closed by the summer of 1942.&lt;ref name=&quot;npsccc&quot;/&gt;
+
+===Modern era===
+The park has had several names through the years, starting with its 1922&amp;nbsp;establishment as &quot;Cherry Springs Scenic Drive&quot; and the associated &quot;Cherry Springs 'Class B' public campground&quot;.&lt;ref name = &quot;forrey&quot;/&gt; The 1941&amp;nbsp;Pennsylvania Department of Highways official map of Potter County shows it as &quot;Cherry Springs State Park&quot;.&lt;ref&gt;{{cite map|publisher= [[Pennsylvania Department of Transportation]]|title= General Highway Map Potter County Pennsylvania|url= ftp://ftp.dot.state.pa.us/public/pdf/BPR_PDF_FILES/Maps/Type_10_GHS_Historical_Scans/Potter_1941.pdf|year= 1941|origyear=Culture Features as of 1939|cartography= Pennsylvania Department of Highways in cooperation with the Public Roads Administration Federal Works Agency|accessdate= March 9, 2009}}&lt;/ref&gt; On November 11, 1954, the Pennsylvania Geographic Board officially named it &quot;Cherry Springs State Forest Picnic Area&quot;. Forrey's 1984&amp;nbsp;''History of Pennsylvania's State Parks'' and the 1986&amp;nbsp;NRHP nomination form still used this name, but Forrey clarified that it was &quot;under the jurisdiction of the Bureau of State Parks&quot;.&lt;ref name = &quot;forrey&quot;/&gt;&lt;ref name=&quot;milner&quot;/&gt; Cupper's 1993&amp;nbsp;''Our Priceless Heritage: Pennsylvania's State Parks 1893–1993'' refers to it as &quot;Cherry Springs State Park&quot;,&lt;ref name=&quot;cupper&quot;&gt;{{cite book|last= Cupper|first= Dan|title= Our Priceless Heritage: Pennsylvania's State Parks 1893–1993|year= 1993|publisher= [[Pennsylvania|Commonwealth of Pennsylvania]], [[Pennsylvania Historical and Museum Commission]] for Pennsylvania Department of Natural Resources, Bureau of State Parks|location= [[Harrisburg, Pennsylvania]]|isbn= 0-89271-056-X|pages = 25, 27, 54}}&lt;/ref&gt; and this remains the official name as of 2009.&lt;ref name=&quot;cssp&quot;/&gt;
+
+[[File:CSSP Cygnus Combine1B NR.jpg|thumb|left|Up to 10,000&amp;nbsp;stars, such as these in the constellation [[Cygnus (constellation)|Cygnus]], can be seen from the park]]
+In the post-war era, the park was long known chiefly for its isolated location and primitive camping facilities. In August 1952&amp;nbsp;it played host to the first Woodsmen's Carnival, an annual celebration of the lumbering industry, which was again active in the [[Secondary forest|second growth forests]] in the area. The festival, originally sponsored by the Penn-York Lumbermen's Club, features lumberjack competitions as a reminder of the past, as well as displays of new equipment.&lt;ref name = &quot;history&quot;/&gt; In 1987&amp;nbsp;the Galeton [[Rotary International|Rotary Club]] took over sponsorship,&lt;ref&gt;{{cite news| url = http://greenfreelibrary.newspaperarchive.com/PdfViewer.aspx?img=14509737&amp;firstvisit=true&amp;src=search&amp;currentResult=5&amp;currentPage=10| title = Woodsman's Carnival set| date = May 27, 1987| page = 2| work = Wellsboro Gazette| accessdate = April 6, 2009}}&lt;/ref&gt; and renamed the event the Woodsmen's Show in 1990.&lt;ref name = &quot;history&quot;/&gt;&lt;ref name = &quot;1990 show&quot;&gt;{{cite news| url = http://greenfreelibrary.newspaperarchive.com/PdfViewer.aspx?img=18601372&amp;firstvisit=true&amp;src=search&amp;currentResult=2&amp;currentPage=0| title = Woodsmen's show set in Galeton| date = July 25, 1990| page = 8| work = Wellsboro Gazette| accessdate = April 6, 2009}}&lt;/ref&gt;
+
+In the 1980s, the CCC and its work in the park were honored. Cherry Springs State Park was one of several to celebrate the fiftieth anniversary of the founding of the Civilian Conservation Corps with a CCC reunion in the summer of 1983.&lt;ref name = &quot;cupper&quot;/&gt; On May 11, 1987, the Cherry Springs Picnic Pavilion was listed on the NRHP.&lt;ref name=&quot;milner&quot;/&gt; &lt;!-- NRHP Ref Number 87000052 --&gt; None of the other remaining CCC structures in the park had retained its historic integrity sufficiently to be included on the NRHP.&lt;ref name = &quot;ECW&quot;/&gt;
+
+Cherry Springs began attracting stargazers in the early 1990s.&lt;ref name = &quot;history&quot;/&gt; In 1999&amp;nbsp;the &quot;Dark Sky Fund&quot; was established and continues &quot;to enhance the stargazing and astronomy experience&quot; by funding improvements at the park.&lt;ref name = &quot;dark skies&quot;&gt;{{cite web| title = The Dark Skies of Cherry Springs State Park| url = http://www.dcnr.state.pa.us/stateparks/findapark/cherrysprings/cherrysprings-darkskies/index.htm| publisher = Pennsylvania Department of Conservation and Natural Resources| accessdate = March 11, 2009}}&lt;/ref&gt; In 2000 Cherry Springs was officially named a &quot;Dark Sky Park&quot; by the DCNR,&lt;ref name = &quot;dark skies&quot;/&gt; and that same year it became part of the [[Hills Creek State Park]] complex, an administrative grouping of eight state parks in Potter and [[Tioga County, Pennsylvania|Tioga]] counties. The headquarters for Cherry Springs are at nearby [[Lyman Run State Park]].&lt;ref name = &quot;cssp&quot;/&gt;&lt;ref&gt;{{cite news| url = http://greenfreelibrary.newspaperarchive.com/PdfViewer.aspx?img=12106011&amp;firstvisit=true&amp;src=search&amp;currentResult=4&amp;currentPage=0| title = Manager named at Hills Creek Lake| work = Wellsboro Gazette| date = February 2, 2000| page = 6| accessdate = April 9, 2009}} ''Note'': the eight parks in the Hills Creek State Park Complex are Cherry Springs, [[Colton Point State Park|Colton Point]], [[Denton Hill State Park|Denton Hill]], [[Hills Creek State Park|Hills Creek]], [[Leonard Harrison State Park|Leonard Harrison]], [[Lyman Run State Park|Lyman Run]], [[Patterson State Park|Patterson]], and [[Prouty Place State Park|Prouty Place]].&lt;/ref&gt; The National Public Observatory picked it &quot;as the pilot for the Stars-n-Parks program&quot; in April 2001.&lt;ref name = &quot;history&quot;/&gt; The DCNR acquired the Cherry Springs Airport in 2006&amp;nbsp;&quot;to expand the overall Dark Sky observation area and allow for increased programming opportunities&quot; at the park,&lt;ref name = &quot;progress&quot;&gt;{{cite web| title = Progress through Partnerships: A Three-Year Report on the Pennsylvania Wilds| url = http://www.dcnr.state.pa.us/info/pawilds/progressthroughpartnerships.pdf| date = January 2007| publisher = Pennsylvania Department of Conservation and Natural Resources| accessdate = March 11, 2009}}&lt;/ref&gt; and closed it in 2007.&lt;ref&gt;{{cite news| url = http://www.endeavornews.com/news/2008/0105/front_page/005.html| title = It was the news: stories of 2007| date = January 5, 2008| work = Endeavor News| accessdate = March 11, 2009}}&lt;/ref&gt; On June 11, 2008, the International Dark-Sky Association named Cherry Springs State Park the second &quot;International Dark Sky Park&quot;. (The first was [[Natural Bridges National Monument]] in [[Utah]].)&lt;ref name=&quot;darksky&quot;/&gt;
+
+==Geology and climate==
+[[File:Cherry Springs 1938 Aerial Photo Crop.jpg|thumb|right|1938&amp;nbsp;aerial view of the park, [[Cherry Springs Airport|airport]], PA 44, West Branch Pine Creek, and Hopper House Run]]
+Cherry Springs State Park is at an elevation of {{convert|2300|ft|0}} above sea level,&lt;ref name=&quot;gnis&quot;&gt;{{cite web | url={{Gnis3|1171676}}| title=Cherry Springs State Park
+| date = August 30, 1990 | work=[[Geographic Names Information System]]| publisher=[[United States Geological Survey]]| accessdate=February 10, 2008}}&lt;/ref&gt; atop the [[Allegheny Plateau]] and &quot;near the glaciated boundary&quot;.&lt;ref name = &quot;history&quot;/&gt; The plateau and the [[Appalachian Mountains]] were all formed in the [[Alleghenian orogeny]] some 300&amp;nbsp;million years ago, when [[Gondwana]] (specifically what became Africa) and what became North America collided, forming [[Pangaea]]. Although the region appears mountainous, these are not true mountains: instead millions of years of [[erosion]] have made this a [[dissected plateau]], causing the &quot;mountainous&quot; terrain seen today. The hardest of the ancient rocks are on top of the ridges, while the softer rocks eroded away forming the valleys.&lt;ref name = &quot;roadside&quot;/&gt;&lt;ref name = &quot;geology&quot;&gt;{{cite book|title= The Geology of Pennsylvania|last= Shultz|first= Charles H. (Editor)|year= 1999|publisher= Pennsylvania Geological Society and Pittsburgh Geological Society|location= Harrisburg and Pittsburgh, Pennsylvania|isbn= 0-8182-0227-0}}&lt;/ref&gt;
+
+The park is in the [[West Branch Pine Creek]] drainage basin, where the underlying rocks are primarily [[conglomerate (geology)|conglomerate]], [[sandstone]], and [[shale]].&lt;ref name=&quot;Streams II&quot;/&gt; Two major rock formations are present in Cherry Springs State Park, both at least partly from the [[Carboniferous]] period. The youngest of these, which forms the highest points in the park, is the early [[Pennsylvanian (geology)|Pennsylvanian]] [[Pottsville Formation]], a gray conglomerate that may contain sandstone, [[siltstone]], and shale, as well as [[anthracite]] coal. The lower formation is the late [[Devonian]] and early [[Mississippian age|Mississippian]] [[Huntley Mountain Formation]], which is made of relatively soft grayish-red shale and olive-gray sandstone. Outside the park the creek has cut down into the Devonian [[Catskill Formation]], a reddish sandstone.&lt;ref name = &quot;roadside&quot;&gt;{{cite book|title= Roadside Geology of Pennsylvania|last= Van Diver|first= Bradford B.|year= 1990|publisher= Mountain Press Publishing Company|location= Missoula, Montana|isbn= 0-87842-227-7|page= 115}}&lt;/ref&gt;&lt;ref name = &quot;geology&quot;/&gt;&lt;ref name=&quot;map 61&quot;&gt;{{cite web| url = http://www.dcnr.state.pa.us/topogeo/map61/conrad15ne.pdf| title = Atlas of Preliminary Geologic Quadrangle Maps of Pennsylvania: Cherry Springs| accessdate = March 8, 2009| author = Berg, T. M.|publisher = Pennsylvania Department of Conservation and Natural Resources, Bureau of Topographic and Geologic Survey| year = 1981| format = PDF}}&lt;/ref&gt;&lt;ref&gt;{{cite web| url = http://www.dcnr.state.pa.us/topogeo/pub/map/pdfs/map067_tabloid_exp.pdf|title = Map 67: Tabloid Edition Explanation|publisher = Pennsylvania Department of Conservation and Natural Resources, Bureau of Topographic and Geologic Survey|format = PDF|accessdate = June 3, 2008}}&lt;/ref&gt;
+
+The Allegheny Plateau has a [[continental climate]], with occasional severe low temperatures in winter and average daily [[Diurnal temperature variation|temperature ranges]] of 20&amp;nbsp;°F (11&amp;nbsp;°C) in winter and 26&amp;nbsp;°F (14&amp;nbsp;°C) &lt;!-- Note these are delta temperature values, so can't use convert. Example - the difference between 50 F (10 C) and 70 F (21 C) is 20 F (11 C).--&gt;in summer.&lt;ref&gt;{{cite web| url = http://climate.met.psu.edu/data/ncdc_pa.pdf|format=PDF| title = Climate of Pennsylvania| publisher = Pennsylvania State University, Pennsylvania State Climatologist| accessdate = April 12, 2008}}&lt;/ref&gt; The mean annual [[precipitation (meteorology)|precipitation]] for the West Branch Pine Creek watershed is {{convert|40|to|42|in|mm|0}}.&lt;ref name=&quot;Streams II&quot;&gt;{{cite book| last = Shaw| first = Lewis C.| others = Prepared in Cooperation with the United States Department of the Interior Geological Survey| title = Pennsylvania Gazetteer of Streams Part II (Water Resources Bulletin No. 16)|date=June 1984| edition = 1st| publisher = Commonwealth of Pennsylvania, Department of Environmental Resources| location = Harrisburg, PA| page = 162 | oclc = 17150333}}&lt;/ref&gt; January is the coldest month at Cherry Springs, July the warmest, and June the wettest. The highest recorded temperature at the park was {{convert|94|F}} in 1966, and the record low was {{convert|-28|F}} in 1963.&lt;ref name=&quot;WeatherChannel&quot;&gt;{{cite web| title = Monthly Averages for Cherry Springs State Park|url= http://www.weather.com/outlook/recreation/outdoors/wxclimatology/monthly/PASPCS:13|accessdate = March 7, 2009|publisher= The Weather Channel Interactive, Inc}}&lt;/ref&gt;
+{{Weather box
+|location = Cherry Springs State Park
+|single line = Yes
+|Jan high F = 29
+|Feb high F = 34
+|Mar high F = 42
+|Apr high F = 56
+|May high F = 67
+|Jun high F = 75
+|Jul high F = 78
+|Aug high F = 77
+|Sep high F = 69
+|Oct high F = 58
+|Nov high F = 45
+|Dec high F = 33
+|Jan low F = 13
+|Feb low F = 15
+|Mar low F = 23
+|Apr low F = 33
+|May low F = 43
+|Jun low F = 51
+|Jul low F = 54
+|Aug low F = 53
+|Sep low F = 47
+|Oct low F = 37
+|Nov low F = 28
+|Dec low F = 18
+|Jan precipitation inch = 2.47
+|Feb precipitation inch = 2.28
+|Mar precipitation inch = 2.84
+|Apr precipitation inch = 3.12
+|May precipitation inch = 3.73
+|Jun precipitation inch = 5.63
+|Jul precipitation inch = 4.13
+|Aug precipitation inch = 3.99
+|Sep precipitation inch = 3.99
+|Oct precipitation inch = 3.34
+|Nov precipitation inch = 3.59
+|Dec precipitation inch = 2.87
+|source 1 = The Weather Channel&lt;ref name=&quot;WeatherChannel&quot;/&gt;
+|date=August 2010
+}}
+
+==Ecology==
+[[File:Northern Saw-whet Owl, Reifel BC 1.jpg|thumb|left|[[Northern saw-whet owl]]s have been studied in the park.]]
+Cherry Springs State Park and the surrounding Susquehannock State Forest have recovered from the clearcutting of the lumber era. However, the composition of the forests has changed, so that there are now more hardwoods, including [[Acer saccharum|sugar maple]] and black cherry, and fewer eastern white pine and eastern hemlock. The park also has apple trees from the CCC orchard.&lt;ref name = &quot;history&quot;/&gt; Over 400&amp;nbsp;species of birds have been found in Pennsylvania, including 186&amp;nbsp;that breed in the state.&lt;ref&gt;{{cite book|last= Audubon Pennsylvania|authorlink= National Audubon Society|author2= Department of Conservation and Natural Resources, Commonwealth of Pennsylvania|title= Susquehanna River Birding and Wildlife Trail|url= http://web1.audubon.org/trailMaps/|format= Searchable database|accessdate= March 8, 2009|location= Harrisburg, Pennsylvania|page= 2|year= 2004|archiveurl= https://web.archive.org/web/20090131201609/http://web1.audubon.org/trailMaps/ &lt;!--Added by H3llBot--&gt;|archivedate= January 31, 2009}}&lt;/ref&gt; Birds such as [[osprey]]s, [[hawk]]s, [[owl]]s, [[nightjar]]s, and [[bald eagle]]s have returned to the park and state forest,&lt;ref name = &quot;fermata&quot;/&gt;&lt;ref name = &quot;susquehannock map&quot;/&gt; and [[Northern saw-whet owl|saw-whet owls]] have been studied in the park.&lt;ref&gt;{{cite web| url = http://www.state.pa.us/papower/cwp/view.asp?A=11&amp;Q=455724| title = Pennsylvania Wilds Discovery Weekend Offers Outdoor Adventure|publisher = Pennsylvania State Government|format = PDF|accessdate = June 3, 2008| archiveurl = https://web.archive.org/web/20060923104813/http://www.state.pa.us/papower/cwp/view.asp?A=11&amp;Q=455724| archivedate = September 23, 2006}}&lt;/ref&gt;
+
+Some animals which had been locally extinct have also returned or been reintroduced to the area, including [[white-tailed deer]], [[elk]], [[Fisher (animal)|fishers]] (a type of weasel), and [[otter]]s.&lt;ref name = &quot;cssp&quot;/&gt;&lt;ref name = &quot;history&quot;/&gt; Although banned in the park, hunting is allowed in the surrounding state forest, which regained its title as a &quot;sportsmen's paradise&quot; in the 20th century.&lt;ref name = &quot;history&quot;/&gt; Game species include [[American black bear|black bears]], white-tailed deer, [[duck]]s, [[ruffed grouse]], [[Eastern cottontail|rabbits]], [[Eastern gray squirrel|gray]] and [[American red squirrel|red squirrels]], and [[wild turkey]]s. Other animals present in the park and forest include [[chipmunk]]s, [[American mink|minks]], [[raccoon]]s, [[porcupine]]s, [[groundhog]]s, and the occasional [[bobcat]], as well as [[frog]]s, [[beetle]]s, and [[moth]]s.&lt;ref name = &quot;fermata&quot;/&gt;&lt;ref name = &quot;susquehannock map&quot;/&gt;&lt;ref name=&quot;moon&quot;/&gt;
+
+A branch of Hopper House Run rises within the park, and flows east and then north into the West Branch Pine Creek. West Branch Road (or Branch Road) follows the valleys of the run and creek from Pennsylvania Route 44 east {{convert|10|mi}} to Galeton. PA 44 roughly follows the line dividing the Pine Creek watershed to the north and the [[Sinnemahoning Creek]] watershed to the south. East Fork Road leaves PA 44 in the park and follows the East Fork Sinnemahoning Creek valley southwest {{convert|12|mi}} to the village of Conrad.&lt;ref name = &quot;park map&quot;&gt;{{cite map| title = Cherry Springs State Park| url = http://www.dcnr.state.pa.us/stateparks/parks/cherrysprings/cherrysprings_mini.pdf| date = January 2008| publisher = Pennsylvania Department of Conservation and Natural Resources| accessdate = March 10, 2009}} ''Note'': One spring feeding Hopper House Run is between the Cherry Springs Tavern and the parking lot ([[:File:Cherry Springs State Park Spring1.jpg|photo]]), while another is between PA Route 44 and West Branch Road, just east of their junction ([[:File:Cherry Springs State Park Spring 2.jpg|photo]]).&lt;/ref&gt;&lt;ref name = &quot;penndotmap&quot;/&gt; Both creeks are approved [[trout]] streams for fishing, which means they are [[fish stocking|stocked]] with trout in season.&lt;ref&gt;{{cite web| url = http://pfbc.state.pa.us/CountyGuide/countyguide.htm| title = PFBC County Guide| publisher = [[Pennsylvania Fish and Boat Commission]]| work = Searchable interactive map| accessdate = March 10, 2009}}&lt;/ref&gt;
+
+==Recreation==
+
+===Dark skies===
+[[File:M20-Combine1B.jpg|thumb|upright|right|The [[Trifid Nebula]] (M20) in Sagittarius, as seen from the park ]]Astronomers and stargazers appreciate Cherry Springs State Park for the darkness and clarity of its skies, which make it &quot;perhaps the last best refuge of the natural night sky&quot; in the eastern half of the United States.&lt;ref name = &quot;darksky&quot;/&gt; The sky at Cherry Springs has been classified as a 2&amp;nbsp;on the [[Bortle Dark-Sky Scale]], meaning it has almost no [[light pollution]].&lt;ref name = &quot;bortle&quot;&gt;{{cite web| url = http://www.dcnr.state.pa.us/info/wind/documents/cherry-springs-state-park-light-pollution-analysis-05-29-08.pdf| title = Cherry Springs State Park: Light Pollution Analysis and Recommendations| publisher = Pennsylvania Department of Conservation and Natural Resources| date = May 27, 2008| author = Clanton &amp; Associates| accessdate = March 21, 2009}}&lt;/ref&gt; Such &quot;truly dark, starry skies are unavailable to two-thirds of the world's population, including 99&amp;nbsp;percent of people in the continental U.S. and Western Europe&quot;.&lt;ref name = &quot;fermata&quot;/&gt; With optimum conditions, 10,000&amp;nbsp;stars are visible with the [[naked eye]] at the park, clouds appear only as black holes in the starry sky, and the [[Milky Way]] is so bright that it casts a discernible shadow.&lt;ref name = &quot;bortle&quot;/&gt; In contrast, big city residents can see a few dozen stars at best, and even those in rural areas can typically only see 2,000–3,000&amp;nbsp;stars. The Milky Way cannot be seen by most in the eastern US, even when there is no moonlight to obscure it.&lt;ref name = &quot;fermata&quot;/&gt;&lt;ref name = &quot;history&quot;/&gt;
+
+The quality of the night skies at the park and its growing popularity for stargazing are the result of several factors. Cherry Springs is in the midst of the largely undeveloped {{convert|262000|acre|adj=on}} Susquehannock State Forest, and is on a summit {{convert|2300|ft|0}} above sea level. Because it is on the Allegheny Plateau, there are no mountain peaks to block the sky, and the Astronomy Field offers a 360&amp;nbsp;degree unobstructed view. The closest city is Williamsport, {{convert|60|mi}} to the southeast. Surrounding communities sit in deep valleys, so the intervening terrain screens much of the light they produce; the park has no artificial [[skyglow]] in any direction. Cherry Springs is generally fog-free and its latitude puts it in excellent position to observe the [[Galactic Center]] of the Milky Way. The remote location also means there is little commercial air traffic to interfere with [[astrophotography]], while PA Route 44 still offers relatively easy access to the park from [[Interstate 80 in Pennsylvania|Interstate 80]].&lt;ref name = &quot;history&quot;/&gt;&lt;ref name = &quot;dark skies&quot;/&gt;&lt;ref name=&quot;nytimes&quot;/&gt;
+
+In addition to these natural factors, much has been done intentionally to make the skies at the park clear and dark and help keep them that way. Within the park, former overhead electrical lines have been buried so they do not obstruct views, all lighting is shielded, and all white lights have been converted to red, which has the least effect on [[night vision]] and astrophotography. Light from passing vehicles is blocked by earthen [[berm]]s covered with grass, or shrubbery and spruce trees; the Astronomy Field gate has a special light-blocking tarp. The park's Dark Sky Fund has paid for many of these improvements since 1999.&lt;ref name = &quot;history&quot;/&gt;&lt;ref name = &quot;dark skies&quot;/&gt;&lt;ref name = &quot;awesome&quot;&gt;{{cite news| title = 'Awesome': Stargazers revel in Cherry Springs’ dark skies| last = Lamey| first = Jessica| date = June 29, 2008| pages = E1, E3| work = [[Williamsport Sun-Gazette]]| url = http://www.sungazette.com/page/content.detail/id/512360.html?nav=5013| accessdate = March 23, 2009}}&lt;/ref&gt;
+
+[[File:Snowy Domes - Cherry Springs SP.jpg|thumb|left|Two of the park's three astronomy domes, the walls prevent the wind from moving telescopes during observation&lt;ref name=&quot;nytimes&quot;/&gt;]]
+Since the 2006&amp;nbsp;acquisition of the Cherry Springs airport, a new Public Programming field has been established on the former airstrip. This field is northeast of PA Route 44 and is intended for educational programs or stargazing, but not for those who spend the night. Overnight observers and those with large telescopes use the Astronomy Field southwest of the highway. Nighttime visitors may only use flashlights with red filters, and may only point them at the ground. The Astronomy Field has further restrictions on lights, and parts of the park are light-free zones.&lt;ref name = &quot;dark skies&quot;/&gt;&lt;ref name = &quot;awesome&quot;/&gt;&lt;ref name = &quot;sky and telescope&quot;/&gt;
+
+To help preserve the dark skies at Cherry Springs State Park, Tri-County Rural Electric company installs light-shielding caps on outdoor lights at local homes for free.&lt;ref name = &quot;history&quot;/&gt; In 2001&amp;nbsp;the Pennsylvania General Assembly passed the &quot;Outdoor Lighting Control Act&quot;, which both established the park as a &quot;Dark Sky Preserve&quot; and required minimal and shielded lighting at all new state facilities to reduce light pollution.&lt;ref&gt;{{cite web| url = http://www.legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=PDF&amp;sessYr=2001&amp;sessInd=0&amp;billBody=H&amp;billTyp=B&amp;billNbr=0300&amp;pn=2860| title = An Act Providing for management of outdoor night lighting (House Bill No. 300, Session of 2001)| publisher = The General Assembly of Pennsylvania| date = November 13, 2001| accessdate = March 23, 2009}}&lt;/ref&gt; A design guide for the Pennsylvania Wilds region, which includes the park, emphasizes the importance of maintaining dark skies.&lt;ref&gt;{{cite web| url = http://www.clintoncountypa.com/PA%20Wilds/PA%20Wilds%20Guide/PA%20Wilds%20Design%20Guide2.pdf| title = Pennsylvania Wilds Design Guide&quot; A Design Guide for Community Character Stewardship| author = The Pennsylvania Wilds Planning Team| publisher = [[Clinton County, Pennsylvania]]| date = February 13, 2009| accessdate = March 29, 2009}}&lt;/ref&gt; The DCNR spent $396,000 in June 2007 to buy [[mineral rights]] under {{convert|1980|acre}} of the park and state forest to prevent [[natural gas]] drilling and associated development there.&lt;ref&gt;{{cite news| url = http://www.post-gazette.com/pg/09123/967360-113.stm| title = Goddard State Park's gas wells may be first of hundreds: Where mineral rights are privately owned, Pennsylvania officials can't prevent drilling| date = May 3, 2009| first = Don| last = Hopey| work = [[Pittsburgh Post-Gazette]]| accessdate = May 6, 2009}}&lt;/ref&gt;
+
+A [[wind farm]] has been proposed on a site {{convert|13.7|mi}} from the park. In 2008&amp;nbsp;Potter County passed an ordinance that [[wind turbine]] lights shall not &quot;interfere with the state-designated Dark Skies Preserve at Cherry Springs State Park&quot;.&lt;ref&gt;{{cite web| url = http://www.pottercountypa.net/planning/saldo/Article12.doc| title = Potter County Wind Energy Ordinance| date = 2008| publisher = [[Potter County, Pennsylvania]]| accessdate = March 29, 2009}}&lt;/ref&gt; That same year the DCNR commissioned a study on the wind farm's impact, which concluded the red warning lights on the wind turbines would not impact the darkness of the sky and would only be directly visible from the Astronomy Field under rare conditions.&lt;ref name=&quot;bortle&quot;/&gt; Others in the astronomy community challenged these conclusions and feared that new lights on &quot;several dozen wind turbines near the park&quot; will degrade observations and astrophotography.&lt;ref name = &quot;sky and telescope&quot;&gt;{{cite web| url = http://www.skyandtelescope.com/news/21914474.html| title = Cherry Springs Earns Dark-Sky Status| author = Beatty, Kelly| work = [[Sky and Telescope]]| date = June 27, 2008| accessdate = March 27, 2009}}&lt;/ref&gt; The study also recommended that the DCNR shield and redirect lights at the nearby [[Denton Hill State Park]] downhill ski area to make the sky even darker at Cherry Springs.&lt;ref name = &quot;bortle&quot;/&gt;&lt;ref&gt;{{cite news| title = State: Proposed wind farm would not affect dark skies at Cherry Springs State Park| date = June 29, 2008| page = E3| work = [[Williamsport Sun-Gazette]]| url =http://www.sungazette.com/page/content.detail/id/512363.html| accessdate = March 23, 2009}}&lt;/ref&gt;
+
+===Astronomical observing===
+[[File:Cherry Springs telescopes.jpg|thumb|Telescopes belonging to amateur astronomers await nightfall]]
+The staff at Cherry Springs State Park did not intend for it to become an attraction for amateur astronomers; the astronomers came to them instead. In 1997&amp;nbsp;or 1998&amp;nbsp;Chip Harrison, the park supervisor, noticed a man looking through a telescope at the park at about 1&amp;nbsp;AM.&lt;ref name=&quot;nytimes&quot;&gt;{{cite web| url = http://travel.nytimes.com/2007/09/14/travel/escapes/14dark.html| title = Dark Sky, Bright Lights Over Pennsylvania| first = Dave| last = Caldwell| date = September 14, 2007| accessdate = February 1, 2009| work = [[The New York Times]]}}&lt;/ref&gt;&lt;ref name = &quot;pittsburgh&quot;&gt;{{cite news| title = Pennsylvania peak is heaven for stargazers| last = Nephin| first = Dan| date = September 15, 2006| url = http://www.post-gazette.com/pg/06258/721452-37.stm| agency= [[Associated Press]] |work=[[Pittsburgh Post-Gazette]]|accessdate = March 23, 2009}}&lt;/ref&gt; When Harrison asked why the man had come there, the astronomer said he had noticed an isolated black patch over north central Pennsylvania on nighttime satellite photos. Cherry Springs State Park is in that patch, one of the best locations east of the [[Mississippi River]] for [[Amateur astronomy|stargazing]].&lt;ref name=&quot;nytimes&quot;/&gt;
+
+An increasing number of astronomers began to come to Cherry Springs, most in the 14-day dark sky period around the [[new moon]], between the last quarter and first quarter phases. The park is open year-round and between 60&amp;nbsp;and 85&amp;nbsp;nights each year have ideal conditions,&lt;ref name = &quot;nytimes&quot;/&gt; when the [[apparent magnitude]]s of the faintest stars visible can range from 7.1&amp;nbsp;to 7.5.&lt;ref name = &quot;bortle&quot;/&gt; The park's Astronomy Field has been upgraded to accommodate these astronomers. In 2005&amp;nbsp;a rotating {{convert|15|ft|adj=on}} slotted observatory dome, two {{convert|12|ft|adj=on}} clamshell domes, and a {{convert|10|by|12|ft|adj=on}} sky shed were added, as well as a small amphitheater for programs. The four structures protect telescopes from the wind and thermal currents. The next year concrete pads {{convert|4|and|6|ft|}} in diameter were placed at random in the field, and electrical pedestals, each with six outlets, were added to power telescopes and computers.&lt;ref name = &quot;dark skies&quot;/&gt;&lt;ref name = &quot;progress&quot;/&gt; In 2009, [[Wi-Fi]] internet access was added to the Astronomy Field.&lt;ref&gt;{{cite web| url = http://www.astrohbg.org/CSSP/Information.html| title = 2009 Cherry Springs Star Party| publisher = The Astronomical Society of Harrisburg, Pennsylvania| accessdate = May 6, 2009}}&lt;/ref&gt;
+
+[[File:M51a.jpg|thumb|left|The [[Whirlpool Galaxy]] (M51) in the constellation [[Canes Venatici]], as seen from the Astronomy Field]]
+While a typical clear night might have 50&amp;nbsp;to 100&amp;nbsp;observers,&lt;ref name = &quot;history&quot;/&gt;&lt;ref name = &quot;pittsburgh&quot;/&gt; each year the park hosts two major [[star party|star parties]] which both attract several hundred astronomers for several nights.&lt;ref name = &quot;fermata&quot;/&gt; The Black Forest Star Party, sponsored by the Central Pennsylvania Observers of [[State College, Pennsylvania|State College]], has been held each fall since 1999.&lt;ref&gt;{{cite web| url = http://www.bfsp.org/starparty/about.cfm| title = About the Black Forest Star Party| publisher = Central Pennsylvania Observers, Inc.|accessdate = March 29, 2009}}&lt;/ref&gt; The Cherry Springs Star Party, sponsored by the Astronomical Society of [[Harrisburg, Pennsylvania|Harrisburg]], has been held each June since 2005.&lt;ref name = &quot;fermata&quot;/&gt;&lt;ref&gt;{{cite web| url = http://www.astrohbg.org/CSSP/Schedule.html| title = Cherry Springs Star Party 2009 Schedule| publisher = The Astronomical Society of Harrisburg, Pennsylvania| accessdate = March 29, 2009}}&lt;/ref&gt; There are also free public programs at the amphitheater on the former airport site, some of which are part of the National Public Observatory's Stars-n-Parks program.&lt;ref name=&quot;cssp&quot;/&gt; [[Meteor shower]]s will also attract a crowd and the [[Aurora (astronomy)|Aurora Borealis]] can be seen from the park.&lt;ref name = &quot;history&quot;/&gt;&lt;ref name = &quot;progress&quot;/&gt; A stargazing business, &quot;Crystal Spheres&quot;, has been established and presents Music and Stars programs, with an hour-long concert followed by an hour of stargazing.&lt;ref name = &quot;nytimes&quot;/&gt;&lt;ref name = &quot;awesome&quot;/&gt;&lt;ref&gt;{{cite web| url = http://www.dcnr.state.pa.us/info/pawilds/0706-twotw.aspx| title = A PA Wilds Business Success Story: The Sky’s the Limit for Astronomy in Potter County| author = Morey, Tim| publisher = Pennsylvania Department of Conservation and Natural Resources| date = June 2007| accessdate = March 29, 2009}}&lt;/ref&gt; Such &quot;nature tourism&quot; has a positive economic impact for the area.&lt;ref name = &quot;bemus&quot;&gt;{{cite news| url = http://greenfreelibrary.newspaperarchive.com/PdfViewer.aspx?img=29872600&amp;firstvisit=true&amp;src=search&amp;currentResult=0&amp;currentPage=0| title = Volunteer receives DCNR award|last = August| first = Henry| date = April 9, 2003| work = Wellsboro Gazette (The Marketplace)| accessdate = March 29, 2009}}&lt;/ref&gt;
+
+Awards and press recognition have come to Cherry Springs and its staff. Thom Bemus, who initiated and coordinates the Stars-n-Parks program, was named DCNR's 2002&amp;nbsp;Volunteer of the Year.&lt;ref name = &quot;bemus&quot;/&gt; In 2007&amp;nbsp;the park's Dark Sky Programming and staff received the Environmental Education Excellence in Programming award from the Pennsylvania Recreation and Parks Society.&lt;ref&gt;{{cite news| url = http://greenfreelibrary.newspaperarchive.com/PdfViewer.aspx?img=131773422&amp;firstvisit=true&amp;src=search&amp;currentResult=1&amp;currentPage=0| title = Cherry Springs wins environmental award| date = 2007-05-30| work = Wellsboro Gazette (The Marketplace)| accessdate = March 29, 2009}}&lt;/ref&gt; Operations manager Chip Harrison and his wife Maxine, who directs the Dark Sky Fund, received a 2008&amp;nbsp;award from the Pennsylvania Outdoor Lighting Council for &quot;steadfast adherence and active promotion of the principles of responsible outdoor lighting at Cherry Springs State Park&quot;.&lt;ref&gt;{{cite news| url = http://www.sungazette.com/page/content.detail/id/515859.html| title = Cherry Springs State Park team of husband-wife receives award| date = September 21, 2008|work = [[Williamsport Sun-Gazette]] | accessdate = March 29, 2009}}&lt;/ref&gt; The DCNR has named Cherry Springs one of &quot;25 Must-See Pennsylvania State Parks&quot;, specifically for having the &quot;darkest night skies on the east coast&quot;.&lt;ref name=&quot;must see&quot;&gt;{{cite web| url = http://www.dcnr.state.pa.us/stateparks/findapark/index.htm | title = Find a Park: Twenty Must-see Parks | accessdate = November 26, 2011 | publisher = Pennsylvania Department of Conservation and Natural Resources}} ''Note: Despite the title, there are twenty-one parks in the list, with [[Colton Point State Park|Colton Point]] and [[Leonard Harrison State Park]]s treated as one.''&lt;/ref&gt; Cherry Springs State Park was featured in the national press in 2003&amp;nbsp;when ''[[USA Today]]'' named it one of &quot;10&amp;nbsp;Great Places to get some stars in your eyes&quot;,&lt;ref&gt;{{cite news| url = http://www.usatoday.com/travel/destinations/10great/2003-09-29-star-gazing_x.htm| title = 10 Great Places to get some stars in your eyes| date = July 31, 2003| work = [[USA Today]]| accessdate = March 29, 2009}}&lt;/ref&gt; in 2006&amp;nbsp;when ''[[National Geographic Adventure Magazine|National Geographic Adventure]]'' featured it in &quot;Pennsylvania: The Wild, Wild East&quot;,&lt;ref&gt;{{cite journal|last= Minarcek|first= Andrea|date=May 2006|title= Pennsylvania: The Wild, Wild East|journal= [[National Geographic Adventure Magazine|National Geographic Adventure]]|accessdate=March 30, 2009| url = http://www.nationalgeographic.com/adventure/travel/pennsylvania.html}}&lt;/ref&gt; and in ''[[The New York Times]]'' in 2007.&lt;ref name = &quot;nytimes&quot;/&gt; All these were before it was named an International Dark Sky Park by the [[International Dark-Sky Association]] in 2008.&lt;ref name=&quot;darksky&quot;&gt;{{cite web| url = http://weblogs.marylandweather.com/2008/06/pa_park_wins_dark_sky_designat.html| title = Pa. park wins &quot;dark sky&quot; designation| accessdate = June 21, 2008| author = Frank Roylance| publisher = [[The Baltimore Sun]] / MarylandWeather.com}}&lt;/ref&gt;
+
+===Woodsmen's Show===
+[[File:Phot cherryshow2.jpg|thumb|A chainsaw event at the Woodsmen's Show]]
+The Woodsmen's Show attracts thousands of visitors to Cherry Springs State Park on the first weekend in August. It has been held every year since 1952, and has been sponsored by the [[Galeton, Pennsylvania|Galeton]] Rotary Club since 1987. In 2008&amp;nbsp;events at the three-day show included tree-felling, cross-cutting, [[logrolling (sport)|log rolling]], axe-throwing, [[horse pulling]], spring board chopping, the standing block chop, and [[chainsaw]] competitions and demonstrations. The 2008&amp;nbsp;show also featured historic recreations of life in a logging camp, musical performances, and vendors selling food, crafts, and equipment related to the lumber industry.&lt;ref name=&quot;cssp&quot;&gt;{{cite web| url = http://www.dcnr.state.pa.us/stateparks/findapark/cherrysprings/index.htm| title = Cherry Springs State Park| accessdate = November 4, 2008| publisher = Pennsylvania Department of Conservation and Natural Resources}}&lt;/ref&gt;&lt;ref name=&quot;events&quot;&gt;{{cite web| url = http://www.woodsmenshow.com/MAJOR%20EVENTS.htm| title = 57th Annual Woodsmen's Show| accessdate = February 11, 2009| publisher = T. Dennison Promotions}}&lt;/ref&gt;&lt;ref name = &quot;sg woodsmen&quot;&gt;{{cite news| url = http://www.sungazette.com/page/content.detail/id/513424.html| title = Cherry Springs State Park hosts 57th edition of Woodsmen’s Show| last = Lamey| first = Jessica| date = July 27, 2008| work = [[Williamsport Sun-Gazette]]| accessdate = April 6, 2009}}&lt;/ref&gt;
+
+The show and its events, which celebrate Potter County's lumbering history, have changed with time. In the early years, up to three working sawmills were set up just for the carnival,&lt;ref name = &quot;cupper&quot;/&gt;&lt;ref&gt;{{cite news| url = http://greenfreelibrary.newspaperarchive.com/PdfViewer.aspx?img=12215681&amp;firstvisit=true&amp;src=search&amp;currentResult=3&amp;currentPage=0| title = Ann'l Woodsmen's Carnival Aug. 5–6, Cherry Springs Park| date = August 4, 1956| page = 7| work = Wellsboro Agitator| accessdate = April 6, 2009}}&lt;/ref&gt; and there was an associated Woodsmen's Ball on Saturday evening, after the carnival ended.&lt;ref name = &quot;history&quot;/&gt; The Woodsmen's Show had its first female competitor in 1979.&lt;ref&gt;{{cite news| url = http://greenfreelibrary.newspaperarchive.com/PdfViewer.aspx?img=14477673&amp;firstvisit=true&amp;src=search&amp;currentResult=4&amp;currentPage=0| title = Woodsmen's Show – Largest Yet| date = August 8, 1979| page = 4| work = Wellsboro Gazette| accessdate = April 6, 2009}}&lt;/ref&gt; Some events have been tried and discontinued; in 1987&amp;nbsp;one-hour seminars on topics such as &quot;Outdoor Adventures on Mules&quot; and the first &quot;Woodsmen's Carnival Queen&quot; were introduced,&lt;ref name = &quot;1987 woodsmen&quot;&gt;{{cite news| url = http://greenfreelibrary.newspaperarchive.com/PdfViewer.aspx?img=14511071&amp;firstvisit=true&amp;src=search&amp;currentResult=5&amp;currentPage=0| title = Lots going on at woodsmen's carnival| date = July 8, 1987| page = 7| work = Wellsboro Gazette| accessdate = April 6, 2009}}&lt;/ref&gt; and in 1993&amp;nbsp;there was [[tractor pulling]] with [[lawn mower|lawn tractors]].&lt;ref name = &quot;1993 Woodsmen&quot;&gt;{{cite news| url = http://greenfreelibrary.newspaperarchive.com/PdfViewer.aspx?img=12385470&amp;firstvisit=true&amp;src=search&amp;currentResult=0&amp;currentPage=0| title = Potter County's annual Woodsmen's Show buzzes into Cherry Springs State Park| date = July 28, 1993| page = 15| work = Wellsboro Gazette| accessdate = April 6, 2009}}&lt;/ref&gt; In 1990&amp;nbsp;the name was changed from the &quot;Woodsmen's Carnival&quot; to the &quot;Woodsmen's Show&quot;, a third day was added, and an ecumenical church service was held Sunday morning in the large picnic pavilion.&lt;ref name = &quot;1990 show&quot;/&gt; The next year the show was part of the [[STIHL Timbersports Series]] and some of the competition was televised on [[ESPN]].&lt;ref&gt;{{cite news| url = http://greenfreelibrary.newspaperarchive.com/PdfViewer.aspx?img=12327062&amp;firstvisit=true&amp;src=search&amp;currentResult=3&amp;currentPage=0| title = Annual Woodsmen's show to open at Cherry Springs| date = July 24, 1991| page = 19| work = Wellsboro Gazette| accessdate = April 6, 2009}}&lt;/ref&gt; Although it is no longer part of the STIHL series, as of 2008&amp;nbsp;many of the same athletes competed at the show.&lt;ref name = &quot;sg woodsmen&quot;/&gt;
+
+Attendance was 4,000&amp;nbsp;the first year and grew to 12,000&amp;nbsp;three years later in 1955,&lt;ref name = &quot;cssp&quot;/&gt;&lt;ref&gt;{{cite news| url = http://greenfreelibrary.newspaperarchive.com/PdfViewer.aspx?img=12219153&amp;firstvisit=true&amp;src=search&amp;currentResult=0&amp;currentPage=0| title = Woodsmen Hold Carnival August 3, Cherry Springs Park| date = July 26, 1956| page = 1| work = Wellsboro Agitator| accessdate = April 6, 2009}}&lt;/ref&gt; then peaked at 33,000&amp;nbsp;in 1962, with nearly as many in 1965&amp;nbsp;(32,000) and 1981&amp;nbsp;(30,000).&lt;ref&gt;{{cite news| url = http://greenfreelibrary.newspaperarchive.com/PdfViewer.aspx?img=12109868&amp;firstvisit=true&amp;src=search&amp;currentResult=7&amp;currentPage=10| title = Woodsmen's Carnival Attracts 33,000 Persons Winners Announced| date = August 9, 1962| page = 8| work = Wellsboro Agitator| accessdate = April 6, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite news| url = http://greenfreelibrary.newspaperarchive.com/PdfViewer.aspx?img=12124813&amp;firstvisit=true&amp;src=search&amp;currentResult=8&amp;currentPage=10| title = Annual Woodsmen's Carnival Aug. 5–6 Arena Enlarged| date = July 7, 1966| page = 12| work = Wellsboro Agitator| accessdate = April 6, 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite news| url =http://greenfreelibrary.newspaperarchive.com/PdfViewer.aspx?img=12209540&amp;firstvisit=true&amp;src=search&amp;currentResult=7&amp;currentPage=0
+| title = Woodsmen's Carnival is Success| date = August 5, 1981| page = 17| work = Wellsboro Gazette| accessdate = April 7, 2009}}&lt;/ref&gt; In 1983, 20,000&amp;nbsp;visitors came to the show,&lt;ref name = &quot;1983 Woodsmen&quot;&gt;{{cite news| url = http://greenfreelibrary.newspaperarchive.com/PdfViewer.aspx?img=12222660&amp;firstvisit=true&amp;src=search&amp;currentResult=3&amp;currentPage=0| title = Woodsmen's Carnival A Success? ... You Bet! | date = August 10, 1983| page = 19| work = Wellsboro Gazette| accessdate = April 6, 2009}}&lt;/ref&gt; 15,000&amp;nbsp;came in 1985,&lt;ref&gt;{{cite news| url = http://greenfreelibrary.newspaperarchive.com/PdfViewer.aspx?img=14493088&amp;firstvisit=true&amp;src=search&amp;currentResult=0&amp;currentPage=0| title = 15,000 Attend Woodsmen's Show| date = August 7, 1985| page = 25| work = Wellsboro Gazette| accessdate = April 6, 2009}}&lt;/ref&gt; and by the early 21st century attendance was about 14,000.&lt;ref name = &quot;history&quot;/&gt; Admission is charged and cash prizes are awarded in the competitions.&lt;ref name = &quot;sg woodsmen&quot;/&gt; Proceeds from the show under the Penn-York Lumbermen's Club went to promote the lumber industry and support the [[Pennsylvania Lumber Museum]].&lt;ref name = &quot;1983 Woodsmen&quot;/&gt; The Galeton Rotary Club has used the funds to improve the [[standard of living]] in and around Galeton, including [[scholarship|college scholarships]], a new roof for the Community building, support for the local [[public library]], and clean-up and maintenance of the downtown.&lt;ref name=&quot;rotary&quot;&gt;{{cite web| url = http://www.woodsmenshow.com/galeton_rotary_club.htm| title = Galeton Rotary Club| accessdate = February 10, 2009| publisher = T. Dennison Promotions}}&lt;/ref&gt;
+
+===Camping, picnicking, and trails===
+[[File:Cherry Springs State Park Camping Area 2.jpg|thumb|right|The camping area at the park, with picnic tables]]
+The park has 30&amp;nbsp;camping sites which can each accommodate a tent, or a [[recreational vehicle]] (RV) up to {{convert|30|ft}} long. The sites all have a fire ring, lantern hanger, and picnic table, and are classified as rustic because they have no running water. The camping area, which is southeast of Pennsylvania Route 44, is open from April to December and does not accept reservations. The park has two modern latrines, one in the camping area and the other at the Astronomy Field. There is also a [[holding tank dump station]] for RVs.&lt;ref name=&quot;cssp&quot;/&gt;&lt;ref name = &quot;park map&quot;/&gt;&lt;ref name=&quot;moon&quot;&gt;{{cite book| url = https://books.google.com/?id=-5EWcHhCUSwC&amp;pg=PA89&amp;dq=cherry+Springs+Camping+moon| title = Pennsylvania Camping: The Complete Guide to Tent and RV Camping| series = Moon Outdoors| last = Miller| first = Jason| first2 = Heidi Ruby|last2=Miller| others = Miller, Jason Jack (photographer)| publisher = Avalon Travel Publishing| date = 2006| isbn = 978-1-56691-986-9}}&lt;/ref&gt;&lt;ref&gt;{{cite web| url = http://www.dcnr.state.pa.us/stateparks/findapark/cherrysprings/index.htm | title = Cherry Springs State Park | accessdate = November 12, 2014| publisher = Pennsylvania Department of Conservation and Natural Resources}}&lt;/ref&gt; Although the Astronomy Field is not an official camping area, overnight observers may set up tents and vehicles there in which to camp.&lt;ref name = &quot;dark skies&quot;/&gt; In addition to the picnic tables and small pavilion in the camping area, the main picnic area at Cherry Springs is on the southwest side of Route 44, in and around the large historic, CCC-built pavilion. The area surrounding the pavilion has many picnic tables situated in an old [[apple]] [[orchard]] and a stand of huge [[Eastern white pine|white pine]] and [[Norway spruce]] trees.&lt;ref name=&quot;cssp&quot;/&gt;
+
+Cherry Springs State Park is at the southern end of a {{convert|15|mi|adj=on}} long, single-track [[mountain bike]] trail, which begins at [[Denton Hill State Park]] and passes through [[Patterson State Park]].&lt;ref&gt;{{cite web
+| url = http://www.dcnr.state.pa.us/stateparks/findapark/patterson/index.htm| title = Patterson State Park
+| accessdate = November 4, 2006
+| publisher = Pennsylvania Department of Conservation and Natural Resources}}&lt;/ref&gt; In 2005&amp;nbsp;the [[snowmobile]] [[trailhead]] at Cherry Springs was moved to the southern end of the park to avoid the Astronomy Field.&lt;ref&gt;{{cite news| url = http://greenfreelibrary.newspaperarchive.com/PdfViewer.aspx?img=74402018&amp;firstvisit=true&amp;src=search&amp;currentResult=0&amp;currentPage=0| title = Cherry Springs State Park snowmobile trailhead relocated| work = Wellsboro Gazette| date = November 30, 2005| page = 14| accessdate = April 6, 2009}}&lt;/ref&gt; The snowmobile trail is one of many trails available for [[cross-country skiing]], backpacking, hiking, and [[all-terrain vehicle]] and horseback riding in the surrounding Susquehannock State Forest. The {{convert|85|mi|adj=on}} long [[Susquehannock Trail System]] passes close to the park and loops around it. South of the park the trail passes through the [[Hammersley Wild Area]], which at {{convert|30253|acre}} without roads is the second largest wild area in Pennsylvania.&lt;ref name = &quot;cssp&quot;/&gt;&lt;ref name = &quot;susquehannock&quot;/&gt;&lt;ref&gt;{{cite web| url = http://www.dcnr.state.pa.us/news/resource/res2004/01-hammersley.aspx| title = Hammersley Wild Area becomes official| date = January 2004| accessdate = April 6, 2009| publisher = Pennsylvania Department of Conservation and Natural Resources| work = The Resource}}&lt;/ref&gt;
+
+==Nearby state parks==
+Cherry Springs State Park is on Pennsylvania Route 44 in West Branch Township, {{convert|10|mi}} southwest of Galeton.&lt;ref name=&quot;distance&quot;/&gt;&lt;ref&gt;{{cite web
+| url = http://www.dcnr.state.pa.us/stateparks/findapark/where/index.htm
+| title = Find a Park by Region (interactive map)
+| accessdate = November 18, 2011
+| publisher = [[Pennsylvania Department of Conservation and Natural Resources]] }}&lt;/ref&gt; The following state parks are within {{convert|30|mi}} of Cherry Springs State Park:&lt;ref name=&quot;penndotmap&quot;&gt;{{cite map|scale = 1:65,000| publisher= Pennsylvania Department of Transportation, Bureau of Planning and Research, Geographic Information Division| url= ftp://ftp.dot.state.pa.us/public/pdf/BPR_pdf_files/Maps/GHS/Roadnames/potter_GHSN.pdf| title= 2007 General Highway Map Potter County Pennsylvania| accessdate= July 27, 2007}} ''Note: shows Cherry Springs State Park''&lt;/ref&gt;
+{|
+|- valign=&quot;top&quot;
+|
+* [[Bucktail State Park Natural Area]] ([[Cameron County, Pennsylvania|Cameron]] and [[Clinton County, Pennsylvania|Clinton Counties]])
+* [[Colton Point State Park]] ([[Tioga County, Pennsylvania|Tioga County]])
+* [[Denton Hill State Park]] (Potter County)
+* [[Hyner Run State Park]] (Clinton County)
+* [[Hyner View State Park]] (Clinton County)
+* [[Kettle Creek State Park]] (Clinton Counties)
+* [[Leonard Harrison State Park]] (Tioga County)
+|
+* [[Lyman Run State Park]] (Potter County)
+* [[Ole Bull State Park]] (Potter County)
+* [[Patterson State Park]] (Potter County)
+* [[Prouty Place State Park]] (Potter County)
+* [[Sinnemahoning State Park]] (Cameron and Potter Counties)
+* [[Sizerville State Park]] (Cameron and Potter Counties)
+|}
+&lt;!-- comment distance check complete --&gt;
+
+{{Panorama
+|image = File:Cherry Springs State Park panorama.jpg
+|caption = Panoramic view of the park, left to right: astronomy bulletin board, CCC-built picnic pavilion, pumphouse, Astronomy Field, sky shed and three astronomy observation domes, information display, modern latrines, amphitheater, and CCC-built replica of the Cherry Springs Tavern (log cabin across [[Pennsylvania Route 44]]).
+|height = 300
+}}
+
+==Notes==
+{{refbegin}}
+:'''a.''' {{Note label|A|a|none}}As of April 2009, the official website for Cherry Springs State Park still lists the area as {{convert|48|acre}}, as does Forrey's 1984&amp;nbsp;''History of Pennsylvania's State Parks''.&lt;ref name = &quot;cssp&quot;/&gt;&lt;ref name = &quot;forrey&quot;/&gt; This was the size of the park before the [[Cherry Springs Airport]] was closed and much of its land was transferred to the park.&lt;ref name = &quot;fermata&quot;/&gt; When built the airport was {{convert|40|acre}}, and it had expanded in size to {{convert|59|acre}} by 1981.&lt;ref name = &quot;cssp&quot;/&gt;&lt;ref&gt;{{cite web| work = [[Geographic Names Information System]]| publisher = [[United States Geological Survey]]| date = August 30, 1990| url ={{Gnis3|1194270}}| title = Cherry Springs Airport| accessdate =2009-03-30}}&lt;/ref&gt; The airport land was owned by the Bureau of Forestry, which is part of the DCNR along with the Bureau of State Parks.&lt;ref name=&quot;airport&quot;&gt;{{cite web| url = http://www.gcr1.com/5010web/main.cfm?Site=5G6|title = Cherry Springs Airport| author = [[Federal Aviation Administration]]| publisher = Public 5010 Web|accessdate = 2009-03-30}}&lt;/ref&gt; As of January 30, 2015, the official website for Cherry Springs State Park states that it covers 82 acres. {{cite web| url = http://www.dcnr.state.pa.us/stateparks/findapark/cherrysprings/index.htm|title = Cherry Springs State Park}}
+
+:'''b.''' {{Note label|B|b|none}}Although the park was along the {{convert|6.5|mi|adj=on}} Cherry Springs Drive, the exact endpoints of the drive are not clear. Two vistas are southeast of the park on Pennsylvania Route 44: it is {{convert|3.1|mi}} from the park to Water Tank Hollow Vista (which looks north), and {{convert|1.8|mi}} from the park to Cherry Springs Vista (which looks south). The Cherry Springs [[fire lookout tower|fire tower]] is {{convert|1.9|mi}} south of the park, just south of Cherry Springs vista.&lt;ref name = &quot;fermata&quot;/&gt;&lt;ref&gt;{{cite web| url = http://www.weather.com/outlook/driving/scenicdrives/?sd=paalleghenyplateau.jsp&amp;param1=USPA1799&amp;param2=USPA0930&amp;param3=USPA0339| title = Pennsylvania: Allegheny Plateau Scenic Drive| publisher = The Weather Channel| accessdate = 2009-04-06}} This cites {{cite book| title = Scenic Driving Pennsylvania| last = Ostertag| first = George| last2= Ostertag| first2 = Rhonda| publisher = Falcon Press Publishing Co| location = Helena, Montana| year = 1999| isbn = 1-56044-732-X}}&lt;/ref&gt; [[Coudersport, Pennsylvania|Coudersport]] is {{convert|15|mi}} northwest of the park along Route 44,&lt;ref name = &quot;1987 woodsmen&quot;/&gt; and the Cherry Springs &quot;Class B&quot; public campground was about {{convert|11|mi}} from Coudersport, or about {{convert|4|mi}} from the current park.&lt;ref&gt;{{cite book| title = Bulletin: In Penn's woods. A handy and helpful pocket manual of the natural wonders and recreational facilities of the state forests of Pennsylvania| last = Illick| first = Joseph S.| first2 = Henry W.| last2 = Shoemaker| publisher = Pennsylvania Dept. of Forests and Waters| url = https://books.google.com/?id=bO5DAAAAIAAJ&amp;dq=%22cherry+springs+drive%22&amp;q=%22cherry+springs%22| year = 1925| pages = 39–41}}&lt;/ref&gt; As of 2009&amp;nbsp;this area is part of the state forest, but does not have any park facilities.&lt;ref name = &quot;susquehannock map&quot;/&gt;&lt;ref name = &quot;penndotmap&quot;/&gt; The [[United States Geological Survey]] topographic map (Ayers Hill quadrant) does show a &quot;Little Cherry Springs Park&quot; in this area.&lt;ref&gt;{{cite web| url={{Gnis3|1179501}}| title= Little Cherry Springs Park| date = August 2, 1979| work=[[Geographic Names Information System]]| publisher=[[United States Geological Survey]]| accessdate=2009-04-07}}&lt;/ref&gt; Patterson State Park is a short distance northwest of the site of Little Cherry Springs Park, and it is {{convert|6.5|mi}} along PA 44 from Patterson to the Cherry Springs vista.&lt;ref name = &quot;penndotmap&quot;/&gt; &lt;!-- Distance from Patterson SP to Cherry Springs vista checked with tool at http://mapmyrun.com, not sure if this is a [[WP:RS]] --&gt;
+{{refend}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category}}
+{{Portal|Pennsylvania}}
+* {{cite web|url= http://www.dcnr.state.pa.us/ucmprd1/groups/public/documents/document/dcnr_005526.pdf |title=Cherry Springs State Park official map }}&amp;nbsp;{{small|(59&amp;nbsp;KB)}}
+* [http://www.dcnr.state.pa.us/stateparks/findapark/cherrysprings/cherrysprings-darkskies/index.htm The Dark Skies of Cherry Springs State Park] Pennsylvania Department of Conservation and Natural Resources
+* [http://www.cleardarksky.com/c/ChrSprPkPAkey.html Cherry Springs State Park Clear Sky Chart] Attilla Danko
+* [http://bfsp.org/about-the-bfsp/ Black Forest Star Party] Central Pennsylvania Observers
+* [http://www.astrohbg.org/CSSP/ Cherry Springs Star Party] The Astronomical Society of Harrisburg, Pennsylvania
+* [http://www.woodsmenshow.com/ Annual Woodsmen's Show]
+
+{{Protected areas of Pennsylvania}}
+{{National Register of Historic Places in Pennsylvania}}
+{{Registered Historic Places}}
+
+{{Featured article}}
+
+[[Category:State parks of Pennsylvania]]
+[[Category:State parks of the Appalachians]]
+[[Category:Parks in Potter County, Pennsylvania]]
+[[Category:Allegheny Plateau]]
+[[Category:Amateur astronomy]]
+[[Category:Dark-sky preserves]]
+[[Category:Campgrounds in Pennsylvania]]
+[[Category:Buildings and structures completed in 1933]]
+[[Category:1922 establishments in Pennsylvania]]
+[[Category:Protected areas established in 1922]]
+[[Category:Park buildings and structures on the National Register of Historic Places in Pennsylvania]]
+[[Category:Civilian Conservation Corps in Pennsylvania]]
+[[Category:National Register of Historic Places in Potter County, Pennsylvania]]</text>
+      <sha1>erdcz7ww1bux118d8u14gcl48trax8h</sha1>
+    </revision>
+  </page>
+</mediawiki>

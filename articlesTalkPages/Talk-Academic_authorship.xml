@@ -1,0 +1,122 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Academic authorship</title>
+    <ns>1</ns>
+    <id>12056318</id>
+    <revision>
+      <id>728369460</id>
+      <parentid>728268801</parentid>
+      <timestamp>2016-07-04T23:07:17Z</timestamp>
+      <contributor>
+        <username>MarnetteD</username>
+        <id>220924</id>
+      </contributor>
+      <comment>/* External links modified */ the update was successful</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8815">{{WikiProjectBannerShell|1=
+{{WikiProject Philosophy|importance=low|class=B|ethics=yes}}
+{{WikiProject Education|importance=low|class=B}}
+{{WikiProject Academic Journals|importance=Mid|class=B}}
+}}
+
+{{dyktalk|7 July|2007|entry=...that '''[[academic authorship|authorship]]''' of a research article in fields such as [[genome sequencing]] and [[particle physics]] is sometimes claimed by over 100 scientists?}}
+
+==Untitled==
+This is good material, but I'm not sure this is the best place for it, and thought some discussion might help.  Two concerns: first, in its current state this article seems to deal entirely with scientific publishing and has nothing to say about &quot;academic&quot; authorship more broadly.  And second, perhaps this would work better as a section of [[academic publishing]] or [[scientific publishing]]?  Is there really enough of a separate topic here for this to stand on its own as an article? -- [[User:Rbellin|Rbellin]]|[[User talk:Rbellin|Talk]] 18:48, 2 July 2007 (UTC)
+:I understand your concerns. Regarding the scope of the article, my personal knowledge limits what I can write about; there is no reason to think that the coverage won't be broaded by future contributors.  I will attempt to shape the article so that it is clearer that what is currently written is not necessarily general to all academics.  Regarding whether this topic is large enough to stand alone, I believe it is. I think it is already at the level of detail that if it were a section in another article, someone would suggest summarizing and moving the detail to a separate article.  I'd prefer to give this article a chance; we could re-evaluate its state after a couple months and see if it is progressing towards becoming a good stand-alone article. [[User:Ike9898|ike9898]] 13:29, 3 July 2007 (UTC)
+:: You're right, it's probably a good idea to leave the article here for a while and see if it grows.  I am pretty sure that it will remain skewed toward scientific publication, simply because there's much more to say on the topic of authorship in fields where multiple coauthors are common.  In most humanities fields and some social sciences, single authors on articles and books are the norm (and authorship simply means direct involvement in writing the piece), making most of the questions described in the article much simpler. -- [[User:Rbellin|Rbellin]]|[[User talk:Rbellin|Talk]] 14:12, 3 July 2007 (UTC)
+:: After thinking about this a bit more, I'm inclined to favor (eventually) moving this article to [[scientific authorship]] and re-focusing it on scientific publication.  I don't think there's any reason to pretend that this discussion applies across all disciplines, and most of these issues simply don't occur outside of the scientific disciplines in which multiple coauthorship is common.  (It's still fine with me to wait a few weeks/months before making the move, but I don't think the article ''can'' be expanded to cover the humanities in a way that makes sense.)  -- [[User:Rbellin|Rbellin]]|[[User talk:Rbellin|Talk]] 19:07, 3 July 2007 (UTC)
+:How about fields such as history? In an original research article, is it common to have multiple authors? [[User:Ike9898|ike9898]] 19:52, 3 July 2007 (UTC)
+:: Obviously my own experience is not universal, and when I have a moment I'll look for sources on the topic, but to my knowledge in many/most humanities fields co-authorship (a) is relatively uncommon and (b) basically always means that both authors (there are almost always only two) had a significant part in both the research and the writing of the piece.  A more common form of collaboration is contribution to, or editing of, an anthology or collection on a shared topic, with each piece individually authored. -- [[User:Rbellin|Rbellin]]|[[User talk:Rbellin|Talk]] 20:25, 3 July 2007 (UTC)
+
+== Possible light-hearted image ==
+If you want to inject some relevant humor into the article, I suggest this [http://www.phdcomics.com/comics/archive.php?comicid=562 comic]. [[User:LizardWizard|&lt;sup&gt;L&lt;/sup&gt;&lt;sub&gt;W&lt;/sub&gt;&lt;font size=&quot;3&quot;&gt;izard&lt;/font&gt;]] [[User_talk:LizardWizard|@]] 16:22, 7 July 2007 (UTC)
+:Sweet, but of course, it's copyrighted. [[User:Ike9898|ike9898]] 20:50, 7 July 2007 (UTC)
+
+== Source for 'hundreds of authors' claim ==
+
+I'd be interested to see a source (or examples) listed for the claim that &quot;In genome sequencing and particle-physics collaborations, for example, a paper's author list can run into the hundreds.&quot; [[User:Orthabok|Orthabok]] 22:17, 8 July 2007 (UTC)
+:I'm pretty sure I got that from the van Loon reference. [[User:Ike9898|ike9898]] 01:09, 9 July 2007 (UTC)
+::A practical example: [http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&amp;Cmd=Search&amp;Term=%22Eichenbaum%20AM%22%5BAuthor%5D&amp;itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVAbstractPlus selected PubMed example] (Note: pseudo-randomly selected author) [[User:217.122.83.79|217.122.83.79]] 11:22, 22 August 2007 (UTC)
+:::Holy crap! I wouldn't have believed it until I saw it myself.  Do you think that in this sort of paper there is a lot of significance attached to one's position on the list? Is eight author much more important than 50th? [[User:Ike9898|ike9898]] 20:49, 22 August 2007 (UTC)
+::::Well, I know that in genome sequencing papers, the first one or two authors will be the principle investigators, the last usually the head of the department, and the authors in between are mostly laboratory technicians. I doubt there is an order in all those. [[User:217.122.83.79|217.122.83.79]] 16:48, 11 September 2007 (UTC)
+:::::With these, it's usually some principals at the head and tail of the list.  Then the &quot;workers&quot; are ordered first by institution, then alphabetical within the institution.[[User:Originalname37|Originalname37]] ([[User talk:Originalname37|talk]]) 15:33, 16 September 2008 (UTC)
+
+== Mathematics ==
+
+This article completely lacks any discussion of priority disputes in math, e.g. ''[[Manifold Destiny]]''; see also [[Grigori Perelman#Withdrawal from mathematics]] and [[Shing-Tung Yau#Poincar.C3.A9_conjecture_debates|Yau's criticism of Chinese academia]] for more anecdotal evidence. [[User:Pohta ce-am pohtit|Pcap]] [[User_talk:Pohta ce-am pohtit|&lt;small&gt;ping&lt;/small&gt;]] 10:34, 7 September 2009 (UTC)
+*Thanks for the leads. [[User:Ike9898|ike9898]] ([[User talk:Ike9898|talk]]) 18:39, 8 September 2009 (UTC)
+**From reading through a little of what you linked to above, it became apparent to me that our article lacks any discussion of plagarism, which of course, is a concept closely linked to authorship. [[User:Ike9898|ike9898]] ([[User talk:Ike9898|talk]]) 18:47, 8 September 2009 (UTC)
+
+== Merge discussion ==
+
+Although the article was tagged for merging, there was no discussion yet. I have removed the tag and redirected &quot;Honorary Authorship&quot; here, since all info in that article was already present here, too. --[[User:Crusio|Crusio]] ([[User talk:Crusio|talk]]) 18:27, 16 January 2010 (UTC)
+
+== Article copies directly from source (i.e. plagiarism) ==
+
+The section on Order of Authors in a List copies word for word from the Nature paper cited.  Despite the citation, this constitutes plagiarism.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Chickadee84|Chickadee84]] ([[User talk:Chickadee84|talk]] • [[Special:Contributions/Chickadee84|contribs]]) 21:27, 27 June 2011 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Statistical Authorship Model ==
+Please add a section on statistical authorship model. [[User:Aravind V R|Aravind V R]] ([[User talk:Aravind V R|talk]]) 03:52, 2 August 2013 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:2|one external link|2 external links}} on [[Academic authorship]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=728268797 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Corrected formatting/usage for http://epac.web.cern.ch/EPAC/sitges/abstr/abstr.html
+*Corrected formatting/usage for http://epac.web.cern.ch/EPAC/sitges/abstr/abstr.html
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=true}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II&lt;/sup&gt;]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner&lt;/span&gt;]]:Online&lt;/sub&gt;&lt;/small&gt; 09:44, 4 July 2016 (UTC)</text>
+      <sha1>gfp9y9by4hc7xaeu8g6ed62bqwhvb2r</sha1>
+    </revision>
+  </page>
+</mediawiki>

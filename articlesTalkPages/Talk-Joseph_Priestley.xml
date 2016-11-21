@@ -1,0 +1,298 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Joseph Priestley</title>
+    <ns>1</ns>
+    <id>2351706</id>
+    <revision>
+      <id>750718860</id>
+      <parentid>699660389</parentid>
+      <timestamp>2016-11-21T12:46:35Z</timestamp>
+      <contributor>
+        <username>Place Clichy</username>
+        <id>5286041</id>
+      </contributor>
+      <comment>/* Date of birth */ new section</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="52792">{{Talk header|noarchive=yes}}
+{{ArticleHistory|action1=GAN|action1date=04:45, 13 September 2007|action1result=listed|action1oldid=157094092
+|action2=WPR|action2date=20:10, 20 October 2007|action2link=Wikipedia:WikiProject Biography/Peer review/Joseph Priestley|action2oldid=165906668
+|action3=WPR|action3date=05:28, 28 October 2007|action3link=Wikipedia:Scientific peer review/Joseph Priestley|action3result=reviewed|action3oldid=167496332
+|action4=FAC|action4date=16:28, 18 November 2007|action4link=Wikipedia:Featured article candidates/Joseph Priestley|action4result=promoted|action4oldid=171975591
+|topic=Philrelig
+|currentstatus=FA
+|maindate=March 1, 2008 
+}}
+{{American English}}
+{{Vital article|level=4|topic=People|class=FA}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Pennsylvania|class=FA|importance=mid}}
+{{WikiProject History of Science|class=FA|importance=mid}}
+{{WikiProject Chemistry|class=FA|importance=mid}}
+{{WikiProject Biography|living=no|class=FA|s&amp;a-priority=mid|s&amp;a-work-group=yes|old-peer-review=yes|listas=Priestley, Joseph}}
+{{WikiProject Philosophy|class=FA|importance=mid|philosopher=yes|social=yes}}
+{{WikiProject Politics|class=FA|importance=mid}}
+{{WikiProject Cheshire|class=FA|importance=mid}}
+{{WikiProject Yorkshire|class=FA|importance=mid}}
+{{WikiProject Wiltshire|class=FA|importance=mid}}
+{{WikiProject Christianity|class=FA|importance=|unitarian-universalism=yes|unitarian-universalism-importance=High}}
+}}
+{{archives|search=yes}}
+
+== Languages ==
+
+Do we know what is meant by the &quot;Chaldean&quot; and &quot;Syrian&quot; languages? Chaldean links to [[Chaldean Neo-Aramaic]], but I find it hard to believe an 18th-century Englishman would learn a contemporary language spoken by Middle Eastern peasants. The [[Chaldean]] disambig page says &quot;Chaldean language&quot; is used in older source to refer to [[Urartian language|Urartian]], but that wasn't discovered until after Priestley's death. However, [[Chaldean Neo-Aramaic]] does say that &quot;Chaldean language&quot; can also refer to [[Old Aramaic]], and I suspect that (or more specifically [[Biblical Aramaic]]) is what Priestly learned. As for &quot;Syrian&quot;, I suspect what he actually learned is [[Syriac language|Syriac]], a later stage of Aramaic than Old Aramaic and the language the [[Peshitta]] translation of the Bible is written in. +[[User:Angr|'''An''']][[User talk:Angr|''gr'']] 14:33, 30 October 2009 (UTC)
+:I will leave it to Awadewit to confirm (as she will have the sources) but Biblical Aramaic and Syriac makes much more sense for a theologian. Thanks, [[User:Ruhrfisch|Ruhrfisch]]  '''[[User talk:Ruhrfisch|&lt;sub&gt;&lt;font color=&quot;green&quot;&gt;&amp;gt;&amp;lt;&amp;gt;&lt;/font&gt;&lt;/sub&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;sup&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;/sup&gt;]]''' 14:49, 30 October 2009 (UTC)
+
+== Another Building ==
+
+This was just added: ''In 2009, Queen Mary, University of London renamed a Biochemistry building 'The Joseph Priestl[e]y Building'.'' A quick Google search reveals that the Queen Mary college does indeed have a Priestley building, but I could not find anything online about a 2009 renaming. [[User:Ruhrfisch|Ruhrfisch]]  '''[[User talk:Ruhrfisch|&lt;sub&gt;&lt;font color=&quot;green&quot;&gt;&amp;gt;&amp;lt;&amp;gt;&lt;/font&gt;&lt;/sub&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;sup&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;/sup&gt;]]''' 12:15, 13 April 2010 (UTC)
+:Also, not the most crucial piece of information. We have to be choosy in this article, as it is so long. [[User:Awadewit|Awadewit]] ([[User talk:Awadewit|talk]]) 13:39, 13 April 2010 (UTC)
+::Agreed - I did find a ref to the 2009 name change [http://www.nanoforce.co.uk/news.htm here] [[User:Ruhrfisch|Ruhrfisch]]  '''[[User talk:Ruhrfisch|&lt;sub&gt;&lt;font color=&quot;green&quot;&gt;&amp;gt;&amp;lt;&amp;gt;&lt;/font&gt;&lt;/sub&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;sup&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;/sup&gt;]]''' 13:58, 13 April 2010 (UTC)
+
+== [[Homerton]] ==
+
+From [[Homerton]]: &quot;Another eminent minister was the formidable polymath, [[Joseph Priestley]], discoverer of [[oxygen]]. When his support of dissent led to the riots named after him, he fled Birmingham and headed for London; he was appointed minister here in 1793. A blue plaque marks the site of his house on the corner of Clapton Passage and Lower Clapton Road. Priestley said of his time here, &quot;On the whole I spent my life more happily at Hackney than I had ever done before&quot;. The meeting house is now used as a factory.&quot;
+:Needs to be added here? [[User:Martinevans123|Martinevans123]] ([[User talk:Martinevans123|talk]]) 20:05, 7 June 2010 (UTC)
+::This is a FA and as such needs refs to [[WP:RS|reliable sources]] for new claims like this - I have reverted the addition accordingly. Wikipedia is not a reliable source - the section in the Homerton article is not sourced, and in the direct quote attributed to Priestley, he himself refers to it as Hackney, not Homerton. [[User:Ruhrfisch|Ruhrfisch]]  '''[[User talk:Ruhrfisch|&lt;sub&gt;&lt;font color=&quot;green&quot;&gt;&amp;gt;&amp;lt;&amp;gt;&lt;/font&gt;&lt;/sub&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;sup&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;/sup&gt;]]''' 03:50, 8 June 2010 (UTC)
+:::Agreed. Moreover, not every quote from Priestley can be included in this article, even if it were sourced. We have to be discriminating. [[User:Awadewit|Awadewit]] ([[User talk:Awadewit|talk]]) 06:04, 8 June 2010 (UTC)
+::::That seems quite fair, but unfortunate that two articles can appear to contradict each other. It's sometimes easy to forget that Wikipedia is not a reliable source. At other times it's very easy. I had thought &quot;his house on the corner of Clapton Passage and Lower Clapton Road&quot; was a little more precise that &quot;near Hackney&quot; ? A blue plaque there seemed to confer some authenticity. [[User:Martinevans123|Martinevans123]] ([[User talk:Martinevans123|talk]]) 06:40, 8 June 2010 (UTC)
+::::I see [http://www.hackney.gov.uk/ep-joseph-priestley.htm here] that there are, in fact, two plaques for Priestley in Hackney. Perhaps these could be used to pin down the geographical location(s)? [[User:Martinevans123|Martinevans123]] ([[User talk:Martinevans123|talk]]) 12:29, 8 June 2010 (UTC)
+:::::The brown plaque at the corner of Clapton Passage and Lower Clapton Road seems to be just about visible on Google Street View. It's above the sign for &quot;Danny's Motor Shop&quot; at co-ords 51.5523, -0.0526. So I suggest changing ''&quot;.. the Priestleys eventually settled in Clapton &lt; !-- Do not link unless you know if it is Upper or Lower Clapton --&gt;, near [[Hackney (parish)|Hackney]].. &quot;'' to ''&quot;.. the Priestleys eventually settled in a house on the Lower Clapton Road, near [[Hackney (parish)|Hackney]]..&quot;''. [[User:Martinevans123|Martinevans123]] ([[User talk:Martinevans123|talk]]) 19:47, 8 June 2010 (UTC)
+::::::Or what about ''&quot;.. the Priestleys eventually moved to 113 Lower Clapton Road, in [[Lower Clapton]], near [[Hackney (parish)|Hackney]].. &quot;? [[User:Martinevans123|Martinevans123]] ([[User talk:Martinevans123|talk]]) 21:17, 9 June 2010 (UTC)
+
+::::Ram Place, site of the Meeting House (and where the blue plaque now is) is further south, the other side of Morning Lane, but there is currently no Google Street view. [[User:Martinevans123|Martinevans123]] ([[User talk:Martinevans123|talk]]) 19:57, 8 June 2010 (UTC)
+
+Thanks for finding these plaques and for the reference. I guess the question for me is two-fold. First off, was the street name the same in 1793 as it is today? I know that the name of the street he lived on in [[Northumberland, Pennsylvania]] has changed since Priestley lived there (it was not called &quot;Priestley Avenue&quot; then ;-) ). Second, even if the street name is the same, is that level of detail needed here? The street name and number of his Pennsylvania house is not given in this article, for example (though it is in [[Joseph Priestley House]]). Since there is not a separate article on his Hackney house, should the street address be given (perhaps in a footnote / reference)? Finally, it seems that today it would be better to describe it as &quot;the Priestleys eventually settled in Lower Clapton, a district in Hackney&quot; (it now reads &quot; the Priestleys eventually settled in Clapton, near Hackney&quot;)? [[User:Ruhrfisch|Ruhrfisch]]  '''[[User talk:Ruhrfisch|&lt;sub&gt;&lt;font color=&quot;green&quot;&gt;&amp;gt;&amp;lt;&amp;gt;&lt;/font&gt;&lt;/sub&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;sup&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;/sup&gt;]]''' 23:39, 10 June 2010 (UTC)
+:Yes, the house number does seems a little over detailed. And a footnote might be useful, perhaps mentioning the plaque(s). I would be surprised if those street names had changed, but I shall endeavour to confirm that they have not. And agree about the description of location. Although Clapton, Hackney and Homerton all seem to overlap in some ways, Hackney is the Borough. [[User:Martinevans123|Martinevans123]] ([[User talk:Martinevans123|talk]]) 07:08, 11 June 2010 (UTC)
+::Have now added detail and footnote with link. Regarding the location of 113 Lower Clapton Road, the link explicitly states &quot;the site of&quot; - so the road name and/or number, as well as the building itself of course, could easily have been different in 1791. I'm not sure if any of the biographies would help. Maps of that era, if such still exist, might need to be consulted. [[User:Martinevans123|Martinevans123]] ([[User talk:Martinevans123|talk]]) 17:14, 11 June 2010 (UTC)
+
+== The lead image situation ==
+
+So I've looked through the archives (including the RfC) and I can't see any conclusion other than that the primary reason that this article doesn't follow the layout guidelines used by practically every single other biography on the project (especially FAs; and I am well aware that there are exceptions, but they're firmly in the minority and none have been challenged so often) is this has been strongly opposed for the last three years by a handful of editors, ostensibly on the back of an extremely lightweight consensus between two of them way back then. This goes hand-in-hand with the deletion of the infobox, which was done on the even more specious grounds that one editor in 2005 didn't ''like'' infoboxes.
+
+I would far rather not make this personal, but it is evident that this is a case of people assuming too close stewardship of an article based on the &quot;local consensus&quot; fallacy countered at [[WP:CONLIMITED]].
+
+A history of the discussion:
+
+; 2005: {{user|Hoary}} removes the infobox for no reason other than personal preference. Awadewit opposes this but not strongly.
+; June 2007: {{user|Awadewit}} moves the image to the left hand side. Hoary opposes this, but not strongly.
+; October 2007: Awadewitt first uses the &quot;consensus has been reached&quot; line to both remove the infobox and move the image. Note that only two editors were involved in that discussion, and that it was given scant discussion: nevertheless, no attempt is made to reevaluate that decision, only to consider it settled.
+; November 2007: BrE is opposed on the grounds that the article was originally written in AmE. Awadewit refers to a &quot;bloodbath&quot; elsewhere as having settled this for her, but does not oppose a change so long as someone else does the work.
+; March 2008: {{user|Ruhrfisch}} uses the &quot;hashed out before&quot; argument regarding the image placement. {{user|Finell}} uses the &quot;passed FA with it on the left&quot; argument for the first time. Awadewitt now states that &quot;this debate has already been hashed out multiple times on this talk page, at FAC, and at the MOS talk page and come to the same conclusion&quot;. Note that the only one of those debates which actually mentioned Priestley was a quick discussion between Hoary and Awadewitt herself, as is pointed out in that discussion: nevertheless, Awadewit states that because &quot;this article is relatively quiet, so I doubt that there would be an &quot;original consensus&quot; of more than two for anything&quot;. However, despite it having never been discussed since (it was shot down summarily on the only previous occasion it came up), it has already been described as settled for good several times.
+; June 2009: The RfC. By far the most vocal opposition to restoring right alignment comes from the aforementioned editors: those four make up the vast majority of the text supporting the left alignment (close to 90% of it).
+; July 2009: Awadewit insists twice that as the RfC closed with no consensus that change is forbidden (literally: &quot;the image must stay where it is for now&quot;). Finell now argues that it is a ''minority'' of editors who are opposed to the left alignment.
+
+It cannot be seriously argued that were it not for the long-term vociferous support of only a handful of editors closely involved with this article that the image alignment would not have been a settled issue in favour of right alignment by now.
+
+Proposals:
+
+# The image is moved back to the right. Whether the portrait faces to one side or not, it is evident that the effect is not egregious (multiple editors have pointed out that it is actually ''looking'' to the left) and that the current layout is unnecessarily jarring to readers expecting the usual layout for article lede sections. While there are exceptions, even amongst FA articles, they are far less common and none seem as disputed.
+# An infobox is re-added. Over at {{tl|infobox person}} we've done a lot of work recently on a new plug-in structure which makes it far easier to create modular infoboxes which can cope with people with varied lives.
+# The article is converted to British English, with the exception of the citations obviously.
+
+I'm happy to do ''all'' the donkey work for this myself, simply to settle it for good.
+
+If anyone thinks that this deserves wider attention feel free to alert appropriate WikiProjects or notice boards. Should it not be possible to agree to this through an unstructured discussion I'll open another RfC.
+
+Once again, apologies in advance for having to pick people out personally here, but it's the only way to ensure that the history of the debate is accurately characterised.
+
+[[user:thumperward|Chris Cunningham (not at work)]] - [[user talk:thumperward|talk]] 14:28, 8 June 2010 (UTC)
+*I can no longer devote any time to this discussion. [[User:Awadewit|Awadewit]] ([[User talk:Awadewit|talk]]) 15:19, 8 June 2010 (UTC)
+
+*As a newcomer to this article, and one not involved in any previous discussions, I must admit that when I first saw this page I was pleasantly surprised by the novel layout. The clear and striking effect is, I think, helped by such a clear and striking portrait image. How good, I thought, that Wikipedia can accommodate such layout style variety, especially for an FA article. But I was soon rather dismayed by the lack of an info box and was surprised that one could not be found even lower down in the article. Having now read a very clear summary of how this situation has arisen, I fully support all three proposals. [[User:Martinevans123|Martinevans123]] ([[User talk:Martinevans123|talk]]) 19:07, 8 June 2010 (UTC)
+
+*Since Priestley was a nonconformist, I have always liked the fact that his article is a bit different. There is no requirement for an infobox, and the MOS allows a left-justified lead image. I have no problem with switching the article to British English as long as a) I do not have to do the work, b) someone who knows BE well checks the article after conversion, and c) the change does not degrade the article's prose quality. I think there should be an RfC with two separate questions for the alignment and infobox. I also think it would be helpful if the infobox were prepared ahead of time (here or on a subpage) so that we see what is being proposed. [[User:Ruhrfisch|Ruhrfisch]]  '''[[User talk:Ruhrfisch|&lt;sub&gt;&lt;font color=&quot;green&quot;&gt;&amp;gt;&amp;lt;&amp;gt;&lt;/font&gt;&lt;/sub&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;sup&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;/sup&gt;]]''' 20:44, 8 June 2010 (UTC)
+
+*I've watched this article on and off for some time now. I don't like that it has an infobox. But if it passed FA without an infobox, then it must be okay without an infobox. Also the discussion over the placement of the portrait of Priestly in the lead seems rather pointless. I think the most important factor in the FA status of this article is the content of the text. What the article says is far more important than the layout of the pictures and the presence or lack of an infobox. As for converting it to British English? I say go for it. I think most English readers should be able to read American English or British English with equal ease. [[User:Dincher|Dincher]] ([[User talk:Dincher|talk]]) 00:18, 9 June 2010 (UTC)
+
+* Left-alignment also crops up at [[List of works by Joseph Priestley]], [[Mary Martha Sherwood]], [[John Knox]], and [[John Calvin]]. Unsurprisingly, many of the primary contributors to these excellent articles are the very same &quot;handful of vociferous authors&quot; supporting left-image alignment during the RfC. My reading of the &quot;consensus&quot; from the RfC was that (1) there is an inherent inconsistency or conflict in the [[MOS:IMAGE]] where left-alignment is justified under some aesthetic considerations but it recommends that all lead images should be right aligned and (2) given how this lead image alignment issue affects other articles, MOS:IMAGE should be clarified. However, Awadewit didn't want to commit to mediation or participate in a discussion of that policy, so I let it die. My position remains the same and I doubt that another RfC on this article would accomplish much: I suggest taking it to MOS:IMAGE and clarifying this once and for all. I'm indifferent towards imposing infoboxes on articles, but would certainly include them on any I was writing or demand them on any article I was reviewing. [[User:Madcoverboy|Madcoverboy]] ([[User talk:Madcoverboy|talk]]) 15:55, 9 June 2010 (UTC)
+
+*Please note that '''none''' of the three proposals (left/right image alignment, infoboxes, BE/AE) are based on Wikipedia policies. So why spend so much effort '''imposing''' minor guidelines on articles that took much time and effort to create and contribute and that are widely appreciated by the readership as they are? In my opinion, stop focusing on these tiny issues, leave these articles alone, and spend more time creating quality content which Wikipedia badly needs. --[[User:RelHistBuff|RelHistBuff]] ([[User talk:RelHistBuff|talk]]) 08:51, 12 June 2010 (UTC)
+** &quot;Rules for thee, but not for me.&quot; [[User:Madcoverboy|Madcoverboy]] ([[User talk:Madcoverboy|talk]]) 19:42, 13 June 2010 (UTC)
+
+*Since this issue of whether or not left-aligned lead images are allowed by the MoS is a problem across several different articles, a larger discussion on this policy should take place. The MoS seems pretty clear to me as it says to &quot;Start an article with a right-aligned lead image or infobox&quot; and nowhere does it say that a left-aligned lead image is allowed. But if that is not clear enough for some people then [[MOS:IMAGE]] should be clarified as to avoid any ambiguity in this area. [[User:Rreagan007|Rreagan007]] ([[User talk:Rreagan007|talk]]) 20:01, 13 June 2010 (UTC)
+** The left-aligners have repeatedly made it clear that they will not abide by guidelines or consensus elsewhere under [[WP:IAR]] (along with arguments evoking [[WP:OWN|ownership]]). Nevertheless, I fully support making the good-faith effort to clarify the guideline at MOS:IMAGE and then pursuing other dispute-resolution mechanisms for enforcing common-sense standardization across encyclopedia articles. [[User:Madcoverboy|Madcoverboy]] ([[User talk:Madcoverboy|talk]]) 20:16, 13 June 2010 (UTC)
+***Oh and one more thing. I also think the article should have an infobox. All biographical articles, in general, should have an infobox. Unfortunately, the left-aligned lead image makes placement of an infobox particularly difficult (which is probably why the article has gone for so long without one). [[User:Rreagan007|Rreagan007]] ([[User talk:Rreagan007|talk]]) 20:20, 13 June 2010 (UTC)
+
+The infobox point is a good one. Perhaps it should be emphasised more in the next annual Joseph Priestley's Article Looks Strange discussion. In the meantime, I have a request, one I hope won't start a new debate: Could the table of contents be moved to the right if the image is going to be on the left? There's a sizable gap between the end of the text and the beginning of the contents due to my monitor's size (1920x1080p), which could be solved rather easily. I don't want to offend anyone's sense of aesthetics though. [[User:Recognizance|Recognizance]] ([[User talk:Recognizance|talk]]) 22:50, 9 October 2010 (UTC)
+
+=== MoS clarification ===
+
+Mercifully, the Manual of Style has finally been [http://en.wikipedia.org/w/index.php?title=Wikipedia:Manual_of_Style&amp;diff=412021036&amp;oldid=411930954 clarified]. If ever there was room for interpretation, there isn't now. Consensus is plainly that articles should start with right-aligned images regardless of which direction a portrait's head is turned in. As such, we should move the one in this article and get back to improving it. [[user:thumperward|Chris Cunningham (user:thumperward)]] - [[user talk:thumperward|talk]] 12:13, 1 July 2011 (UTC)
+
+: This has finally been actioned. [[user:thumperward|Chris Cunningham (user:thumperward)]] - [[user talk:thumperward|talk]] 08:52, 8 July 2011 (UTC)
+
+::What exactly needs to be improved here? [[User:Truthkeeper88|Truthkeeper88]] ([[User talk:Truthkeeper88|talk]]) 01:33, 12 July 2011 (UTC)
+
+:::I agree with Truthkeeper88 - while there is room for improvement in every article, this is already a very well-researched and very well-written FA. What exactly needs to be improved? [[User:Ruhrfisch|Ruhrfisch]]  '''[[User talk:Ruhrfisch|&lt;sub&gt;&lt;font color=&quot;green&quot;&gt;&amp;gt;&amp;lt;&amp;gt;&lt;/font&gt;&lt;/sub&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;sup&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;/sup&gt;]]''' 01:52, 12 July 2011 (UTC)
+
+:::: Folks, in case you missed Thumperward's edit to the article a few days ago: the above section refers to the matter of changing the lead image from left-aligned—which it had been for years—to right-aligned, which she did based on the above. I undid that edit, citing the long-established talk-page consensus (one based on sound aesthetic arguments, not &quot;ownership&quot;) as superior to the above &quot;MoS diff&quot;. I then undid my undo because Thumperward referred to my contributions, among others, as furthering &quot;ownership&quot; here and being &quot;poisonous&quot; and causing the article to stagnate(?--see my talk page history if you're really interested). Wanting no part in such accusations, I undid myself. The image is now right-aligned, and if you have no issue with this, then there is nothing to discuss here. [[User:Riggr Mortis|Riggr Mortis]] ([[User talk:Riggr Mortis|talk]]) 02:05, 12 July 2011 (UTC)
+
+I don't think Chris's action in switching to right-aligned was unreasonable, given the statement in MoS, but given that there is also a consensus on this talk page that this particular image should not be right-aligned I think either another image should be chosen for the lead image or we should stick with left-aligned (my preference).  Per the heading on MoS pages &quot;This guideline is a part of the English Wikipedia's Manual of Style. Use common sense in applying it; it will have occasional exceptions.&quot; Hence I would disagree with Chris's comment above that there's no room for interpretation. [[User:Mike Christie|Mike Christie]] ([[User_talk:Mike Christie|talk]] - [[Special:Contributions/Mike_Christie|contribs]] -  [[User:Mike Christie/Reference library|library]]) 12:24, 12 July 2011 (UTC)
+
+: People have been claiming that an informal discussion between Awadewit and Hoary four years ago constituted some sort of formal consensus ever since it happened, and &quot;no consensus for change&quot; is not, in fact, a particularly strong argument. The sole reason this article still has a left-aligned image is that every time a well-meaning editor changes it, the same handful of editors seem to periodically pop in and revert it (your [http://en.wikipedia.org/w/index.php?title=Joseph_Priestley&amp;diff=439075797&amp;oldid=439012171 last] [http://en.wikipedia.org/w/index.php?title=Joseph_Priestley&amp;diff=421387204&amp;oldid=421360270 three] [http://en.wikipedia.org/w/index.php?title=Joseph_Priestley&amp;diff=405397905&amp;oldid=405397030 edits] to the article, dating back six whole months, are for solely this purpose). It can quite readily be argued that, were it not for people randomly jumping in to revert &quot;based on consensus&quot;, the article would have had a right-aligned image for years. There are simple, well-reasoned arguments for a right-aligned image (not least that, aside from the MoS mandating it, it avoids [http://en.wikipedia.org/w/index.php?title=Joseph_Priestley&amp;oldid=439075797 clashing with the ToC]) which should make this a simple and uncontroversial change. Along with the apparent tactic of deliberately not taking to the talk page to justify this continued diversion from the MoS, this looks like nothing more than a filibuster. [[user:thumperward|Chris Cunningham (user:thumperward)]] - [[user talk:thumperward|talk]] 10:59, 13 July 2011 (UTC)
+
+::I believe I have this article on my watchlist because a long time ago Awadewit asked people at [[WT:FAC]] to watchlist the FAs she'd worked on while she was planning to be away from Wikipedia for a while.  I don't remember the details; I don't think I've ever collaborated on an article with Awadewit, though we certainly worked together at [[WP:FAT]] and have been involved together in a lot of FA-related discussions.  I've never worked on this article, but although I pay extra attention to the views of the primary editors of an article, I think others' views are relevant too -- your own included -- so I don't think it's germane to discuss the editing history of the participants in these discussions unless you think you detect collusion or canvassing or a lack of good faith. I've reverted these changes because there doesn't seem to me to be a clear consensus for them, and I think the status quo should prevail in situations like that.  I hope I'd argue the same way in a situation where I didn't agree with the status quo.  I'm not sure what you mean by &quot;deliberately not taking to the talk page&quot;; I posted above, after all.  I think it's clear there are some editors who don't agree with you, as well as some that do.  I haven't gone back and looked at the RfC you mention but without a reason to think consensus has changed I would prefer not to have another long discussion about this.  The change to the MoS is a reasonable trigger for discussion, but it is a guideline, after all, not policy, and as I said above exceptions can be made. [[User:Mike Christie|Mike Christie]] ([[User_talk:Mike Christie|talk]] - [[Special:Contributions/Mike_Christie|contribs]] -  [[User:Mike Christie/Reference library|library]]) 23:51, 13 July 2011 (UTC)
+
+:::While {{U|Awadewit}} and I collaborated on the FA [[Joseph Priestley House]], I did not play a role in getting this to FA. I was also someone who added this article to his watchlist at Awadewit's request. I still think there is nothing wrong with starting an article with a left justified image, but will not edit war about this. I also do not think this needs or even should have an infobox. The article on the Priestley house has had to be updated several times (budget woes in Pennsylvania). I will ask again then, how has this article stagnated? How does it need to be improved (lead image aside). Thanks, [[User:Ruhrfisch|Ruhrfisch]]  '''[[User talk:Ruhrfisch|&lt;sub&gt;&lt;font color=&quot;green&quot;&gt;&amp;gt;&amp;lt;&amp;gt;&lt;/font&gt;&lt;/sub&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;sup&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;/sup&gt;]]''' 02:46, 14 July 2011 (UTC)
+::::I see the last edit referred to filibustering; I think that's not the most friendly way to describe what's going on here, which seemed to me to be a good faith discussion on a point of disagreement with good arguments made on both sides.  It seemed to me more like [[WP:BRD]]; the initial edit to move the article to right alignment was legitimately bold and was legitimately reverted.  Instead of discussing the issue, the edit was made again before a consensus can be re-established.  Like Ruhrfisch I won't edit war over this; I've reverted once and won't do so again unless there seems to be a fresh consensus in favour of the left aligned image. [[User:Mike Christie|Mike Christie]] ([[User_talk:Mike Christie|talk]] - [[Special:Contributions/Mike_Christie|contribs]] -  [[User:Mike Christie/Reference library|library]]) 02:58, 14 July 2011 (UTC)
+:::::::Just to comment re the filibustering - I too watchlisted a number of {{U|Awadewit}}'s pages. I think the work she did was exemplary, and arguing over the placement of an image, or the existence of a infobox minimizes the amount of work, research, and good writing on this page. I object to the infobox; and  if Awadewit wanted to the image on the left, and the page passed FAC with the image on the left, I for one don't object to having an image on the left. This is not filibustering - it's stewartship of good pages. [[User:Truthkeeper88|Truthkeeper88]] ([[User talk:Truthkeeper88|talk]]) 02:45, 15 July 2011 (UTC)
+:::::::: I fail to understand your argument: (1) No one has ever (to my knowledge) impugned the productivity or quality of Awadewit's extensive body of work, (2) FAs are not forever set in stone upon promotion, but continue to evolve and change, and (3) any single editor's stylistic wishes – regardless of how intensely they contributed – cannot be privileged over stylistic standards and conventions decided by the community. To these points, it's worth noting that the other articles I referenced above (in 2010) as having similar left-aligned lead image issues have since adopted right-aligned images and infoboxes. [[User:Madcoverboy|Madcoverboy]] ([[User talk:Madcoverboy|talk]]) 20:04, 15 July 2011 (UTC)
+::::: The 2009 RfC clearly referenced the contradictory nature of the MoS as the rationale for left-alignment. The history of left-alignment that I and others have raised have repeatedly demonstrated that no consensus for left-alignment ever existed and the formatting change only prevailed because of a lack of consensus to change it from the existing left-aligned state. If editors wish to violate the MoS, consensus on every other article, or otherwise IAR, they need to both articulate this exculpatory rationale and develop a consensus to make this change. This is a tired argument and will forever be put to rest once the lead image remains right-aligned like every other article. For the record, I have no opinion about an infobox. [[User:Madcoverboy|Madcoverboy]] ([[User talk:Madcoverboy|talk]]) 03:13, 14 July 2011 (UTC)
+
+The way this article is at present, with the lead image on the right, looks fine, and much preferable to bunching things up on the left. I see no reason to revert. [[User:Jonathunder|Jonathunder]] ([[User talk:Jonathunder|talk]]) 02:47, 14 July 2011 (UTC)
+
+FYI, since Chris cited [http://en.wikipedia.org/w/index.php?title=Wikipedia:Manual_of_Style&amp;diff=412021036&amp;oldid=411930954 this edit] in MoS as a reason to change the alignment, I [[Wikipedia_talk:Manual_of_Style#Alignment_of_images_in_lead|asked at MoS]] what the discussion was leading to that change.  Given the conversations here, I'm aware that even if that wording change is reversed it's likely this article will still end up with a right-aligned image, but I thought it was sensible to let everyone here know that I was posting there. [[User:Mike Christie|Mike Christie]] ([[User_talk:Mike Christie|talk]] - [[Special:Contributions/Mike_Christie|contribs]] -  [[User:Mike Christie/Reference library|library]]) 13:25, 14 July 2011 (UTC)
+:My opinion is not based on the Manual of Style--I've been around long enough to see it change many times, and it's silly to take it as received writ. I simply don't think having a lead image of a portrait with the subject looking straight into the frame is any kind of reason to bunch everything up on the left in this article, pushing the table of contents down. Let's leave the top image at right, the way it is now, with the layout almost every other featured article has. [[User:Jonathunder|Jonathunder]] ([[User talk:Jonathunder|talk]]) 19:55, 14 July 2011 (UTC)
+::This could be (at least partly) addressed by using [[Template:TOC right]], [[User:Ruhrfisch|Ruhrfisch]]  '''[[User talk:Ruhrfisch|&lt;sub&gt;&lt;font color=&quot;green&quot;&gt;&amp;gt;&amp;lt;&amp;gt;&lt;/font&gt;&lt;/sub&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;sup&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;/sup&gt;]]''' 22:56, 14 July 2011 (UTC)
+
+== List of works ==
+
+The [[List of works by Joseph Priestley]] is linked at least twice in the present article. One of those times is in an inappropriate self-referential style in the article body. Another is in the &quot;external links&quot; section. Neither or these are appropriate; if we are linking to other articles, we should use the standard methods (either templates such as {{tl|see also}}, or the &quot;see also&quot; section of an article). I've raised the issue of the idiosyncratic naming of the section in question on that other article's talk page, as the external links one was broken due to someone having retitled said section. [[user:thumperward|Chris Cunningham (not at work)]] - [[user talk:thumperward|talk]] 09:45, 10 June 2010 (UTC)
+:I've attempted to fix the link here in the &quot;Selected works&quot; section, and removed the 2 selfreferential links.
+:I've responded at the List article's talkpage regarding the problems there. (that EL section should probably be merged into the rest of the list there). -- [[User:Quiddity|Quiddity]] ([[User talk:Quiddity|talk]]) 20:21, 10 June 2010 (UTC)
+::Honestly, Chris, I am sick to death of your efforts to, what seem to me, make this article worse. Several of us worked very hard over the course of a year to put together a carefully-researched, well-illustrated and impeccably laid out article. Every few months you come by and attempt, under the guise of the &quot;rules&quot;, to make the article harder to readers to use. So, for example, you removed the link in the &quot;External links&quot; section to a list of Priestley's works. I honestly don't care if this isn't a typical external link - this is incredibly helpful for readers. Many readers will want to know where Priestley's works can be found - we have now given them a shortcut a list. Please listen to the reasoning for the way things are structured here. Thanks. [[User:Awadewit|Awadewit]] ([[User talk:Awadewit|talk]]) 02:01, 11 June 2010 (UTC)
+:::: I would remind all contributors to assume others are acting in [[WP:AGF|acting in good faith]] and that Wikipedia contributors are editors, not authors, and no one, no matter how skilled, has the right to act as if they are the [[WP:OWN|owner of a particular article]]. [[User:Madcoverboy|Madcoverboy]] ([[User talk:Madcoverboy|talk]]) 19:35, 13 June 2010 (UTC)
+::: {{ww}}. I don't see any evidence that this was requested by a reader who thought that this was unclear; rather, it seems like one of the idiosyncracies which survives in this article by fiat of its maintainers. There is no need to have the same link here twice, as you have just  [http://en.wikipedia.org/w/index.php?title=Joseph_Priestley&amp;diff=367338267&amp;oldid=367277809 reverted back in]. This should be removed again. [[user:thumperward|Chris Cunningham (not at work)]] - [[user talk:thumperward|talk]] 08:20, 11 June 2010 (UTC)
+::::You are deliberately misunderstanding me. I am talking of the reader in the abstract. And the link should ''not'' be removed. Please stop attempting to make the article less useful in a misbegotten MOS crusade. A link to a list of Priestley's works online is, without a doubt, a very useful link. [[User:Awadewit|Awadewit]] ([[User talk:Awadewit|talk]]) 19:05, 11 June 2010 (UTC)
+
+::::: &quot;The reader in the abstract&quot; is quite indistinguishable from a personal opinion as to how to present something, unless there is evidence that a third party has done just that. It is true that the link is useful, but presenting it twice (once using an inappropriate self-reference) is unnecessary. [[user:thumperward|Chris Cunningham (not at work)]] - [[user talk:thumperward|talk]] 10:55, 14 June 2010 (UTC)
+
+In my opinion, I see two different links. The first one is a standard &quot;Main article&quot; link, the [[List of works by Joseph Priestley]]. The second one points to a different list. These are works that are available online. And appropriately, this second link is exactly in the right section i.e., &quot;External links&quot;. The same list could have been reproduced in this article; no one could argue against that. But what for? Keeping the list of online works in one place is easier to maintain. Simply placing a link here is a clever solution. --[[User:RelHistBuff|RelHistBuff]] ([[User talk:RelHistBuff|talk]]) 21:31, 11 June 2010 (UTC)
+
+:I agree with RelHistBuff; this approach seems sensible to me. [[User:Mike Christie|Mike Christie]] [[User_talk:Mike Christie|(talk)]] 23:49, 11 June 2010 (UTC)
+
+::I also agree with RelHistBuff. [[User:Ruhrfisch|Ruhrfisch]]  '''[[User talk:Ruhrfisch|&lt;sub&gt;&lt;font color=&quot;green&quot;&gt;&amp;gt;&amp;lt;&amp;gt;&lt;/font&gt;&lt;/sub&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;sup&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;/sup&gt;]]''' 17:12, 12 June 2010 (UTC)
+
+: Why does the same article need to be linked twice? [[user:thumperward|Chris Cunningham (not at work)]] - [[user talk:thumperward|talk]] 10:55, 14 June 2010 (UTC)
+::I explained above. They are two different links: one to the article, the other to a specific section. In any case, according to [[WP:REPEATLINK]] it says, &quot;In general, link only the first occurrence of an item. This is a rule of thumb that has ''many exceptions''...&quot; (emphasis mine). --[[User:RelHistBuff|RelHistBuff]] ([[User talk:RelHistBuff|talk]]) 08:31, 15 June 2010 (UTC)
+
+== [[:File:A Word of Comfort2.jpg]] to appear as POTD soon ==
+Hello! This is a note to let the editors of this article know that [[:File:A Word of Comfort2.jpg]] will be appearing as [[Wikipedia:picture of the day|picture of the day]] on March 24, 2011. You can view and edit the POTD blurb at [[Template:POTD/2011-03-24]]. If this article needs any attention or maintenance, it would be preferable if that could be done before its appearance on the [[Main Page]] so Wikipedia doesn't look bad. :) Thanks! &lt;span style=&quot;font-family:Verdana; &quot;&gt;'''[[User:Howcheng|&lt;span style=&quot;color:#33C;&quot;&gt;howcheng&lt;/span&gt;]]'''  &lt;small&gt;{[[User talk:Howcheng|chat]]}&lt;/small&gt;&lt;/span&gt; 22:38, 22 March 2011 (UTC) &lt;!-- substituted from [[Template:UpcomingPOTD]] --&gt;
+{{POTD/2011-03-24|allowedit=y}}
+
+: I have tried to expand the blurb somewhat, in line with the descriprion given at the file source. But a bit concerned that without any mention of the Test and Corporation Acts, the whole point of the cartoon will be lost. And of course the topical appearance of the Prince of Wales (George IV) and Maria Fitzherbert, in the Fleur-de-Lys box pew at the back, really also deserve a mention. [[User:Martinevans123|Martinevans123]] ([[User talk:Martinevans123|talk]]) 23:39, 22 March 2011 (UTC)
+
+::Couold anyone advise if Priestley and Fox are shown as adversaries or as allies here? - see my addition at image Talk page. Thanks. [[User:Martinevans123|Martinevans123]] ([[User talk:Martinevans123|talk]]) 20:20, 24 March 2011 (UTC)
+
+== Big Picture of Descartes ==
+
+That isn't a picture of Priestley is it, it's Descartes. I for one don't know how to change it.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/82.0.23.176|82.0.23.176]] ([[User talk:82.0.23.176|talk]]) 17:32, 24 March 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:No, all the images that are supposed to be of Priestley are. Thanks, [[User:Ruhrfisch|Ruhrfisch]]  '''[[User talk:Ruhrfisch|&lt;sub&gt;&lt;font color=&quot;green&quot;&gt;&amp;gt;&amp;lt;&amp;gt;&lt;/font&gt;&lt;/sub&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;sup&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;/sup&gt;]]''' 19:59, 24 March 2011 (UTC)
+
+Now it is but yesterday it was a picture of Descartes.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/82.0.23.176|82.0.23.176]] ([[User talk:82.0.23.176|talk]]) 21:07, 25 March 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:And now it's today again. So which of the eight possible images is being discussed? Thanks. [[User:Martinevans123|Martinevans123]] ([[User talk:Martinevans123|talk]]) 21:16, 25 March 2011 (UTC)
+
+== [[A Chart of Biography]] and [[A New Chart of History]] ==
+
+[[File:PriestleyChart.gif|thumb|right|[[A Chart of Biography]].]]
+[[File:A New Chart of History.jpg|thumb|[[A New Chart of History]].]]
+Hi, I have uploaded a version of the [[A New Chart of History]] chart of Priestley. Now it noticed there seems to be an inconsistency in the current text at the image in the ''educator and historian'' section (see [http://en.wikipedia.org/w/index.php?title=Joseph_Priestley&amp;oldid=420840039#Educator_and_historian here]), which states:  
+
+: A redacted version of ''[[A Chart of Biography]]'' (1765); Priestley believed his ''Charts'' would &quot;impress&quot; upon students &quot;a just image of the rise, progress, extent, duration, and contemporary state of all the considerable empires that have ever existed in the world&quot;.&lt;ref&gt;Qtd. in Sheps, 146.&lt;/ref&gt;
+
+It seems to me this text doesn't refer to the [[A Chart of Biography]] - chart, but to the [[A New Chart of History]] - chart. The first is a timeline of people, while the second is a timeline of history of the world. The text also speaks of the second.     
+
+I also found conformation of this for example in: William Enfield, Andrew Wilson (1808). ''The speaker: or Miscellaneous pieces, selected from the best English writers...''. p.348, which gives the following short description of the both: 
+
+:A NEW CHART OF HISTORY, with a book explaining it, containing an epitome of universal history. By Dr. Priestley. Price 10s. 6d.
+:''The capital use of a chart of this kind is, that it is a most excellent mechanical help to the knowledge of history, impressing the imagination indelibly with a. just image of the rise, progress, extent, duration, and temporaty state of all the considerable empires that have ever existed in the world''.
+:A CHART OF BIOGRAPHY, containing about two thousand names of persons the most distinguished in the annals of fame, the length of whose lives here represented by lines drawn in proportion to their real duration, and placed so as to show by intuition, how long any number of persons were contemporary, and how long one life, begun before, or extendett beyond another. The names are also distributed into classes. By Dr. Prestley Price ios. 6d.
+
+I guess this should be corrected in the article, either by changing the image are changing the text...!? -- [[User:Mdd|Mdd]] ([[User talk:Mdd|talk]]) 01:17, 27 March 2011 (UTC)
+
+:I have changed the image and made a small adjustment in the text, which solves this inconsistency. -- [[User:Mdd|Mdd]] ([[User talk:Mdd|talk]]) 19:01, 29 March 2011 (UTC)
+
+::Well done. I'm sure you're right. It's just unfortunate that, at this size at least, the original image is so much clearer and easier to read. Perhaps it also deserves a place? [[User:Martinevans123|Martinevans123]] ([[User talk:Martinevans123|talk]]) 19:40, 29 March 2011 (UTC)
+
+== Infobox ==
+
+Okay so now that the whole debate over the left-aligned lead image is over, I think it's about time this article had an infobox. I tried adding one but I see it has been removed because it &quot;mentions none of his religious or philosphy achievements&quot;. If the problem was not enough information, I would think the solution would have just been to add more information to the infobox than to remove it entirely. [[User:Rreagan007|Rreagan007]] ([[User talk:Rreagan007|talk]]) 20:01, 4 October 2011 (UTC)
+*I see no need for an infobox and there is no requirement for one. The article passed FAC without one and has a lead that summarizes the man and his life better than any box could. Now that the [[WP:BRD]] cycle has started (with Rreagan007's boldness, my revert, and our comments), let's have a discussion and see if we can come to a consensus. [[User:Ruhrfisch|Ruhrfisch]]  '''[[User talk:Ruhrfisch|&lt;sub&gt;&lt;font color=&quot;green&quot;&gt;&amp;gt;&amp;lt;&amp;gt;&lt;/font&gt;&lt;/sub&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;sup&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;/sup&gt;]]''' 20:07, 4 October 2011 (UTC)
+**This is one of many pages that don't have infoboxes and have passed FAC without one. An infobox is not mandatory or required, and often not necessary for pages such as these. I'd prefer not to see an infobox added here. [[User:Truthkeeper88|Truthkeeper]] ([[User talk:Truthkeeper88|talk]]) 20:29, 4 October 2011 (UTC)
+*** Leaving aside the non-arguments above, the problem with Priestley is that his career was... varied. {{tl|infobox scientist}} doesn't really cut it alone, and {{tl|infobox person}} isn't quite flexible enough. For ''precisely'' this reason we've been working on creating &quot;module&quot; support for {{tl|infobox person}} which allows different careers to be &quot;plugged into&quot; it: I've got a (still wholly inadequate, and definitely not proposed for inclusion here) example at [[user:thumperward/Priestley]]. It's going to be a while until this even approaches readiness. For now, it seems prudent to refrain from upsetting the relative stability we've got with the right-aligned image. [[User:Thumperward|Chris Cunningham (user:thumperward)]] ([[User talk:Thumperward|talk]]) 10:46, 19 December 2011 (UTC)
+**** While I acknowledge that infoboxes aren't required, &quot;I don't like it&quot;, &quot;keep Priestly's article non-standardized&quot; and &quot;nothing in the article can change after FAC&quot; aren't exactly persuasive counter-arguments. Nevertheless, I concur with [[User:Thumperward]] above that we shouldn't shoehorn Priestley into an ill-fitting infobox. If an infobox comes along in the future that allows us to adequately summarize his biographical coordinates and contributions, then I think an infobox should be introduced. [[User:Madcoverboy|Madcoverboy]] ([[User talk:Madcoverboy|talk]]) 22:31, 19 December 2011 (UTC)
+
+==Biographies vs. Primary materials==
+Why does this article list Biographies after Primary materials? I copied the layout for this article for [[Bert Bell]], but I am confused why a Biographies is not listed first in the ''Bibliography'' section? How can a biography section be listed after primary materials section?[[Special:Contributions/66.234.33.8|66.234.33.8]] ([[User talk:66.234.33.8|talk]]) 00:00, 11 November 2011 (UTC)
+:It's kind of impossible for the other books I list in Bell to be on par with Lyon's book. There is absolutely no comparison. So I am confused. [[Special:Contributions/66.234.33.8|66.234.33.8]] ([[User talk:66.234.33.8|talk]]) 00:03, 11 November 2011 (UTC)
+::It is a choice. The Primary materials are things written by Priestley and edited by others. They are [[primary source]]s as they come from Priestley himself. If you want to follow this model, any autobiographical by Bell would be a primary source. Works by others on Priestley (or Bell) are [[Secondary source]]s. Hope this helps, [[User:Ruhrfisch|Ruhrfisch]]  '''[[User talk:Ruhrfisch|&lt;sub&gt;&lt;font color=&quot;green&quot;&gt;&amp;gt;&amp;lt;&amp;gt;&lt;/font&gt;&lt;/sub&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;sup&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;/sup&gt;]]''' 03:46, 11 November 2011 (UTC)
+
+== Infobox (yet again), see [[WP:BRD]] ==
+
+I have just reverted the addition of an Infobox to this article. Please search the Archives, where this has been discussed multiple times, and where there has never been consensus to add any sort of Inbox. 
+
+Please note I did not revert all of the changes (the Moonstone pic or copyedits). I also note there is a much better photo of Priestley's actual grave on Commons. Thanks, [[User:Ruhrfisch|Ruhrfisch]]  '''[[User talk:Ruhrfisch|&lt;sub&gt;&lt;font color=&quot;green&quot;&gt;&amp;gt;&amp;lt;&amp;gt;&lt;/font&gt;&lt;/sub&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;sup&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;/sup&gt;]]''' 14:10, 2 September 2013 (UTC)
+
+PS A quick search shows infoboxes are mentioned in talk Archives 1, 2, 3 and 6. [[User:Ruhrfisch|Ruhrfisch]]  '''[[User talk:Ruhrfisch|&lt;sub&gt;&lt;font color=&quot;green&quot;&gt;&amp;gt;&amp;lt;&amp;gt;&lt;/font&gt;&lt;/sub&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;sup&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;/sup&gt;]]''' 14:13, 2 September 2013 (UTC)
+
+:The most recent of those is from 2009, four years ago. It only seems to touch on infoboxes - Infobox scientist, not the one I used - tangentially, in a discussion of image alignment. Consensus can, of course, change and I note that you dismiss my addition of an infobox without making any arguments against it, consideration of its contents, or attempt to reach a new consensus, other than to cite those historic discussions. Each of the facts I included in the infobox I added is taken from the article. Nonetheless, I'm done here; other editors can debate the pros and cons of the infobox, whether to include it, and whether to change its contents. (BTW, I hope to have better pics of the Moonstone shortly.) &lt;span class=&quot;vcard&quot;&gt;&lt;span class=&quot;fn&quot;&gt;[[User:Pigsonthewing|Andy Mabbett]]&lt;/span&gt; (&lt;span class=&quot;nickname&quot;&gt;Pigsonthewing&lt;/span&gt;); [[User talk:Pigsonthewing|Talk to Andy]]; [[Special:Contributions/Pigsonthewing|Andy's edits]]&lt;/span&gt; 15:14, 2 September 2013 (UTC)
+
+::Thanks. I am busy in real life and do not have time to debate all of this right now, though I can try to do so if anyone else wants to continue this discussion. I will swap out the better grave image. [[User:Ruhrfisch|Ruhrfisch]]  '''[[User talk:Ruhrfisch|&lt;sub&gt;&lt;font color=&quot;green&quot;&gt;&amp;gt;&amp;lt;&amp;gt;&lt;/font&gt;&lt;/sub&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;sup&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;/sup&gt;]]''' 15:40, 2 September 2013 (UTC)
+
+:::Pigsonthewing, given your involvement in a current case before ArbCom on Infoboxes, I mentioned this series of edits at [[Wikipedia talk:Arbitration/Requests/Case/Infoboxes/Proposed decision]]. I also note the most recent consensus on infoboxes was at the end of 2011 (see above on this talk page). [[User:Ruhrfisch|Ruhrfisch]]  '''[[User talk:Ruhrfisch|&lt;sub&gt;&lt;font color=&quot;green&quot;&gt;&amp;gt;&amp;lt;&amp;gt;&lt;/font&gt;&lt;/sub&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;sup&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;/sup&gt;]]''' 10:59, 3 September 2013 (UTC)
+
+== Election to French National Convention in 1792 ==
+
+At present the article says Priestley was elected for &quot;three separate departments&quot;, but the entry on Priestley in Robert, Bourloton and Cougny's ''Dictionnaire des Parliamentaires Français'' (volume 5, Paris 1891, [http://www.assemblee-nationale.fr/histoire/biographies/1789-1889/Tome_5/PRADT_PRONY.PDF p. 47]) says he was elected for two: Orne and Rhône-et-Loire. I've put a &quot;verification needed&quot; tag on the statement. Apparently he was also proclaimed a French citizen on 26 August 1792. [[User:Opera hat|Opera hat]] ([[User talk:Opera hat|talk]]) 10:51, 8 September 2013 (UTC)
+:Did you check the citations listed at the end of the sentence? You are citing an 1891 source and the sources we used were well-researched scholarly biographies. I hate to go hunting through lots of sources again if you haven't taken the time to check the fact against the sources we provided first. That is why they are there. [[User:Wadewitz|Wadewitz]] ([[User talk:Wadewitz|talk]]) 16:36, 9 September 2013 (UTC)
+::If I had access to any of the cited sources I certainly would have checked them first, but I don't. Even though it's from 1891, I would have thought a dictionary of French parliamentarians, in French, would be a pretty authoritative source for elections to a French parliamentary body - more so, perhaps, than an English-language biography of an individual whose election to the National Convention was a very minor event in a varied career. It makes the statement about &quot;three departments&quot; worth questioning, at least. [[User:Opera hat|Opera hat]] ([[User talk:Opera hat|talk]]) 20:18, 11 September 2013 (UTC)
+
+== Date of birth ==
+
+Hello!
+
+The {{oldid2|749993526|current version}} of the page states in introduction that Priestley was born on {{OldStyleDate|24 March|1733|13 March}}. Its Wikidata item [https://www.wikidata.org/w/index.php?title=Q159636&amp;oldid=378109209 currently states] 26 March 1733 (Julian) as DoB, as ''imported from Wikipedia in English''. [[:fr:Joseph Priestley]], a featured article, has 24 March 1732 (O.S.) as DOB. Adolphe Robert &amp; Gaston Cougny's [http://www2.assemblee-nationale.fr/sycomore/fiche/%28num_dept%29/17830 Dictionnaire des parlementaires français de 1789 à 1889] gives 13 March 1733 as DOB.
+
+In spite of the 24 vs. 26 March difference, there seems to be a confusion whether this date is Old Style (Julian) or New Style (Gregorian) DOB. Also, 1732 and 1733 could come from the O.S./N.S. blur. Article [[Old Style and New Style dates]] states that until 1752, the civil or legal year in Great Britain began on 25 March, which if I understand correctly means that '''24 March 1732 O.S.''' is equivalent to '''24 March 1733 N.S.''' which is also equivalent to '''4 April 1733 (Gregorian)'''. In turn, '''13 March 1732 O.S.''' would be equivalent to '''13 March 1733 N.S.''' and to '''24 March 1733 (Gregorian)'''.
+
+Is any knowledgeable editor of this article able to provide information on Priestley's actual date of birth ? [[User:Place Clichy|Place Clichy]] ([[User talk:Place Clichy|talk]]) 12:46, 21 November 2016 (UTC)</text>
+      <sha1>hpl4g1j7apjpuy1gbu5lusbswczjjtx</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,372 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:NeXT</title>
+    <ns>1</ns>
+    <id>54345</id>
+    <revision>
+      <id>726842744</id>
+      <parentid>614363020</parentid>
+      <timestamp>2016-06-24T19:49:09Z</timestamp>
+      <contributor>
+        <username>Charlesreid1</username>
+        <id>1922262</id>
+      </contributor>
+      <comment>changing importance for Wikiproject United States to &quot;low&quot;. NeXT cannot possibly be of mid-level importance to the entire history of the United States, by any reasonable standard.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="38848">{{COI editnotice|track=yes}}
+{{Talk header}}
+{{ArticleHistory
+|action1=PR
+|action1date=16:00, 21 June 2006 
+|action1link=Wikipedia:Peer review/NeXT/archive1
+|action1result=Reviewed
+|action1oldid=59829374
+
+|action2=GAN
+|action2date=15:43, 5 July 2006
+|action2result=listed
+|action2oldid=61741455
+
+|action3=FAC
+|action3date=19:06, 26 November 2006 
+|action3link=Wikipedia:Featured article candidates/NeXT/archive1
+|action3result=failed
+|action3oldid=91617856
+
+|action4=FAC
+|action4date=06:17, 31 January 2007
+|action4link=Wikipedia:Featured article candidates/NeXT/archive2
+|action4result=not promoted
+|action4oldid=103955340
+
+|action5=FAC
+|action5date=07:46, 15 March 2007
+|action5link=Wikipedia:Featured article candidates/NeXT/archive3
+|action5result=not promoted
+|action5oldid=114710548
+
+|action6=FAC
+|action6date=00:07, 17 May 2008
+|action6link=Wikipedia:Featured article candidates/NeXT
+|action6result=promoted
+|action6oldid=212854988
+
+|topic=Socsci
+|currentstatus=FA
+|maindate=October 28, 2008
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Companies|class=FA|importance=mid}}
+{{WikiProject Computing|class=FA|importance=high}}
+{{WikiProject Apple Inc.|class=FA|importance=high}}
+{{WikiProject California|class=FA|importance=mid|sfba=yes|sfba-importance=high}}
+{{WikiProject United States|class=FA|importance=low}}
+{{WikiProject Spoken Wikipedia|NeXT.ogg|455061626}}
+}}
+
+==Technology==
+
+I don't think the comparison to 8088/8086/286s is appropriate time-wise. By the time the NeXT was released, 386s were definitely in use, and I think even the 486 was not too far off. Also, when my college received our NeXT cubes, we already had some Mac II computers, with color. I think we even had Macc IIci and IIsi models.
+
+==Sentence Correction==
+
+This sentence needs to be re-worded: &quot;Basically the drive itself, while faster than a floppy, was simply not fast enough to run a Unix based OS as its primary medium.&quot; It sounds like the OS is the primary medium of the MO drive, where it is in fact the MO drive that is the primary medium for the OS.
+
+:Changed to: &quot;...was simply not fast enough to run as the primary medium for a Unix-based OS.&quot; [[User:ABoerma|ABoerma]] 13:25, 29 March 2006 (UTC)
+
+==Sneakernet Link==
+
+Sneakernet could probably be an article link.
+
+== WebObjects ==
+
+We need to create a paragraph about [[WebObjects]]. It's an important NeXT product that still exists. -- [[User:Tooki|tooki]] 17:07, 26 Jul 2004 (UTC)
+
+==Major Copyedit==
+I have gone through and performed a pretty serious copyedit... I also added a large number of &lt;nowiki&gt;{{fact}}s&lt;/nowiki&gt;. It's important to remember that this article is about NeXT, not Apple, so I removed a lot of statements about OS X that weren't directly related to NeXT's software contributions. [[User:Themillofkeytone|Themillofkeytone]] 16:00, 21 June 2006 (UTC)
+
+==This is a [[WP:GA|Good Article]]==
+
+After reviewing the article, I've determined it to meet the [[WP:WIAGA|qualifications]] for GA status. It is well written, comprehensive, and of a good neutral tone. The last copyedit by [[User:Themillofkeytone]] seems to have done the trick.
+
+The biggest step for improvement now would be filling all the &lt;nowiki&gt;{{fact}}&lt;/nowiki&gt; templates with actual citations. If anyone wanted to help the article out, verifying and citing a few of those little facts would go a long way!
+
+Keep up the good work, folks. [[User:Phidauex|Phidauex]] 15:43, 5 July 2006 (UTC)
+
+==Irrelevant Apple Stuff== 
+
+The last paragraph lists every new Apple machine that was released during the transition from PPC to Intel processors. These details are tangential overkill in an article about NeXT. No one who comes here to learn about the NeXT corporation needs to know the specific date the Apple MacBook was released. Just say when the transition began or ended and be done with it. [[User:Eric Winesett|emw]] 15:42, 26 August 2006 (UTC)
+:Fixed, removed the specifics about Apple. — [[User:Wackymacs|Wackymacs]] 15:49, 26 August 2006 (UTC)
+
+==NeXT's software was a BSD Variant==
+
+'NeXT's software was originally intended to be used as the foundation for Mac OS X[2], however they opted to base it on a BSD variant instead.'
+
+This is not accurate.  NeXTStep was a Mach 2.5-derived kernel with a BSD server which provided most of the UNIX services.  During the Rhapsody era, Apple imported a lot of NetBSD code into the BSD component, to replace ageing 4.2BSD parts.  With OS X, they imported more FreeBSD code.  They also took a load of userland components from NetBSD and FreeBSD, although some (e.g. top) are still the NeXT versions.  
+
+If you read the XNU (OS X kernel) source code (or Amit Singh's excellent book on the subject) you will see a large number of source files with copyright notices dating back to 1996 and earlier.  Most of these were present in NeXT's operating system and do not originate from any other BSD system.  
+
+The new IOKit, based on Embedded C++ replaces the old NeXT driver kit based on Objective-C (for performance reasons), but this is entirely new, and not found in any other OS.
+
+At the kernel level, OS X is an updated OPENSTEP.  At the API level (Cocoa) it is an updated OPENSTEP.  The window server component was re-written in a large part to take advantage of the features of modern 3D cards, and to address some issues with DPS (e.g. the fact that it is not possible to determine how long a program written in a Turing-complete language will take to execute, making scheduling of drawing difficult).  
+
+--[[User:David Chisnall|David Chisnall]] 13:52, 1 September 2006 (UTC)
+
+== Glass Staircase ==
+
+So which office had the glass staircase?  The first or the second?  It is mentioned as being in both.[[User:Geneffects|Geneffects]] 22:10, 11 December 2006 (UTC)
+
+== NeXTcube name ==
+
+This article mistakenly refers to the first-generation NeXT workstation as the &quot;NeXTcube&quot;; this name was only officially used for the second-generation '040-based cube. The original NeXT model was simply called the &quot;NeXT Computer&quot; (or &quot;NeXT Computer System&quot;) in NeXT's literature - see [http://www.simson.net/ref/NeXT/brochure_index.htm the brochure]. Also, looking at the brochure scans, the company seems to have been called &quot;NeXT, Inc.&quot; at the time of the original launch, and later changed to NeXT Computer, Inc. [[User:Letdorf|Letdorf]] 10:47, 10 April 2007 (UTC).
+
+==Continuity issues==
+
+This article, says Steve Jobs resigned from Apple Computer. Yet the [[Steve Jobs]] article says he was fired
+[[User:ClEeFy|ClEeFy]]
+
+::Jobs was marginalized from any active role in the company and subsequently resigned. In upper management, this is one way executives get fired. [[User:Gwen Gale|Gwen Gale]] ([[User talk:Gwen Gale|talk]]) 07:49, 29 November 2007 (UTC)
+
+==Net income , gross revenues not present in the right side box==
+can some one please place these values as found in all the other company portals.
+thank you.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Nikhilhuilgol|Nikhilhuilgol]] ([[User talk:Nikhilhuilgol|talk]] • [[Special:Contributions/Nikhilhuilgol|contribs]]) 07:02, 20 September 2007 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== When did the Intel port of NeXTSTEP start? ==
+
+Though a minor point, I have some reason to think (a private e-mail message by Jobs) that it started before 1992. Is this 1992 date based on good sources? If not, then from the message I got in Sep 1991 it seems they were already at work then.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Gctwnl|Gctwnl]] ([[User talk:Gctwnl|talk]] • [[Special:Contributions/Gctwnl|contribs]]) 00:13, 2 January 2008 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+The port began in October 1991.  A demo version was displayed at the NeXTWorld Expo in January 1992.  Subsequent to that, a full product version was developed and completed by May 1993. [[User:Tystnaden|Tystnaden]] ([[User talk:Tystnaden|talk]]) 11:58, 25 May 2013 (UTC)
+
+== The missing citation for statement &quot;The NeXT Computer was slower than many Unix workstations becoming available at that time, but cost about half as much&quot; ==
+
+I think that the New York Times article &quot;The Executive Computer; Fresh Momentum for Unix, but Still Hurdles to Clear&quot; [http://query.nytimes.com/gst/fullpage.html?res=9C0CE5DB153CF934A35753C1A966958260&amp;sec=&amp;spon=&amp;pagewanted=all] is acceptable a  source, but I have chosen not to add it because do not know the proper way to do so. --[[User:Adamthewebman|AdamTheWebMan]] ([[User talk:Adamthewebman|talk]]) 23:54, 22 January 2008 (UTC)
+:As I now read the article, it doesn't say so. It says the NeXT computers were ''of comparable performance'' to other UNIX workstations, but cost about half as much. ›[[User:mysid|&lt;font color=&quot;#ff1ee7&quot;&gt;mys&lt;/font&gt;&lt;font color=&quot;#a21eff&quot;&gt;id&lt;/font&gt;]] ([[User talk:Mysid|☎]][[Special:Contributions/Mysid|∆]]) 19:12, 18 February 2008 (UTC)
+::It actually says that a Sun color IPC was $8,995 and a color Nextstation was $7,995.--[[User:NapoliRoma|NapoliRoma]] ([[User talk:NapoliRoma|talk]]) 19:20, 18 February 2008 (UTC)
+
+== removed &quot;NeXT To Return in 2009?&quot; ==
+
+Yoinked the following for myriad reasons:
+
+&lt;blockquote&gt;Since the early period after the millennium rumors have been circulating in the back rooms of 1 Infinite loop [[Cupertino, California]] that NeXT is to make a comeback. Some employes have reportedly seen large black MacPro cases with a covered up logo in place of the usual [[Apple]] [[Logo]], being hurriedly transported in and out of rooms. In February 2007 an employe was added to the apple payroll under the heading &quot;New and Continuing Product Division&quot;, the name of this employee is [[Maxx Kai-Morten]] who previously worked for the now defunct Quicksilver (UK) software. From the very limited information that has been leaked, the new machine could be based upon the current MacPro and the [[OS]] would be based around [[Mac OS 10.5]]. As to be expected with NeXT the computer would have an insane spec and be very cutting edge.
+
+NeXT was also rumored to make a comeback around the 2003 area but these plans never came to fruition as apple was concentrating all its energy on the [[iPod]]. From the time that the product development started the NeXT computer should be due for release in early 2009, although this is yet to be confirmed by [[Apple]] from the time that the project started and the amount of time that has been spent on the project the product is now more than overdue.&lt;/blockquote&gt;
+
+== Diskless workstations ==
+
+:''At the time of release in 1989, some workstations were not shipped with a [[hard drive]], such as the [[DECstation|DECstation 3100]] and [[SPARCstation 1]]. [[Floppy disk]]s were used to load the OS and additional software, meaning users needed to swap between floppy disks to load an ever-growing number of applications.''
+
+This is nonsense. Diskless workstations did exist, but they used a [[fileserver]] for their mass storage (and booting), not floppy disks. I can't think of any [[UNIX]] [[workstations]] contemporaneous with the NeXT Computer which used floppies as their primary mass storage medium - that would have been impractical. [[User:Letdorf|Letdorf]] ([[User talk:Letdorf|talk]]) 11:41, 16 April 2008 (UTC).
+::I reworded it slightly. — [[User:Wackymacs|Wackymacs]] ([[User talk:Wackymacs|talk]]) 12:28, 16 April 2008 (UTC)
+
+== Merge NeXT(UK) and NeXT articles ==
+Does anyone think that the [[NeXT (UK)]] and the [[NeXT]] articles should be merged? ([[Special:Contributions/86.134.36.96|86.134.36.96]] ([[User talk:86.134.36.96|talk]]) 19:06, 3 May 2008 (UTC))
+*No. Because none of it is referenced, and it all seems dubious. (And that NeXT (UK) article is up for deletion). — [[User:Wackymacs|Wackymacs]] ([[User talk:Wackymacs|talk]]) 19:57, 3 May 2008 (UTC)
+
+== Some notes and ideas after copy-editing ==
+
+At the request of Wackymacs, I've done some copy editing on the article. A lot of this was just simple grammar and formatting corrections which I haven't listed here. Three persistent errors to watch out for: 
+
+* &lt;s&gt;misuse of italics (used for names of books, films, albums but not for software and hardware or company names)&lt;/s&gt;
+* &lt;s&gt;companies are singular, not plural (&quot;Apple used the software for its site&quot;, not &quot;Apple used the software for their site&quot;)&lt;/s&gt;
+* &lt;s&gt;in the context of an article about a US company and only quoting US dollars, the US before figures isn't needed (or is needed at most on the first example), not at random after that.&lt;/s&gt;
+
+Like many a Wikipedia article, this degrades a little over the course of the text. Here's a list of broader problems which I think need to be addressed in the article but will leave other editors to consider implementing.
+
+* &lt;s&gt;The successor element in the former company infobox seems redundant.&lt;/s&gt;
+* Most of the inline references in the lead seem unnecessary and arbitrary to me, as they don't refer to controversial facts and they're all sourced in the body (I haven't followed any previous discussion on this topic though.
+*&lt;s&gt; I don't think the OpenStep 5.0 reference is needed in the lead (and I'm not sure it's supported by the cited text); also, this point isn't made anywhere in the body text, where it would be more appropriate (if it's justified). &lt;/s&gt;
+* &lt;s&gt;The section headings need work. 'Early years' is uninformative and could perhaps be replaced with 'Founding Next'. The subsequent sections are all quite long and could do with being divided up (certainly the hardware section could be split between the two main generations). The Apple section is mostly about the development of OS X, not the acquisition, so should also be renamed. I don't think the &quot;, Inc.&quot; is needed in the subheadings either, just at the first reference to that version of the company name in the text.&lt;/s&gt;
+* &lt;s&gt;The early history was a bit garbled, so I reordered it to make it more chronological.&lt;/s&gt;
+* The comment about late release of Macs needs a more precise time frame.
+* Most of the direct quotations in the article seem gratuitous to me -- included because they sound pithy rather than because they advance our understanding of the topic. The &quot;five years ahead&quot; quote is arguably well-known enough to merit inclusion, but needs to be set in context (what release date was missed?) The &quot;bue jeans&quot; quote adds nothing. The Gates and McNealy material could be presented more succinctly, and needs a topic sentence explaining the context (presumably reactions to NeXT from other industry players).
+* &lt;s&gt;I think a brief explanation of what a wet lab simulation is (not just a Wikilink) would help general reader comprehension.&lt;/s&gt; Ditto for a Mach-based system.
+* While the article goes to some lengths to contrast the specifications for the NeXT Computer and its competitors, it doesn't say anything about an equally important factor: the price. Material on this is needed (there's discussion of the 'dorm room ambition' of an affordable machine but the high price is rather ignored subsequently).
+* &quot;The drive was not sufficient to run as the primary medium&quot; needs clarification, Not big enough? Not fast enough?
+* &lt;s&gt;The material about NeXTWorld magazine and the expo doesn't sit well where it's currently located. Might work as a separate section on 'The NeXT Community' after the corporate culture section. More specific dates on the tenure of the editors would be good. Were the four volumes four individual magazines, or four years' worth of publication? (Volume is an odd term to use in a non-academic context.)&lt;/s&gt;
+* &lt;s&gt;The processor port history was uncomfortably tangled with the material about NeXT ceasing systems manufacture. I've moved some stuff around here, but it probably needs further work.&lt;/s&gt;
+* Did the Sun investment go through?
+* &lt;s&gt;The discussion of the development of Mac OS X is much too detailed in the context of an article about NeXT. The key points seem to me to be that the tools were ported to Mac and Intel platforms, that many key features were retained in OS X, and that platform independence remained a primary goal; the detail on Carbon, Blue Box, Yellow Box etc. is excessive and liable to confuse the reader. Definitely could use some trimming. Also, the details of what got included don't need repeating in the impact section, I'd argue.&lt;/s&gt;
+* The corporate culture section would benefit from a discussion of whether any of these innovations survived at Apple or influenced other companies, assuming that material can be sourced.
+* The section on Macs in the impact discussion needs some more context: if 10 million users had shifted, how many hadn't? Do we have more recent figures for OS X sales? What proportion of the overall computer market does this represent?
+*&lt;s&gt;The list of sites that use WebObjects doesn't need repeating.&lt;/s&gt;
+*&lt;s&gt;The stuff that's not included in Mac OS X (Display PostScript and tear-off menus) hasn't ever been mentioned before; it should be dropped or explained more fully earlier in the article. (I'd personally just dump it.&lt;/s&gt;
+
+Hope this has been helpful, happy to clarify any comments here or explain other changes. [[User:Gusworld|Gusworld]] ([[User talk:Gusworld|talk]]) 01:26, 2 May 2008 (UTC)
+
+== Proposal to remove date-autoformatting ==
+
+Dear fellow contributors
+
+[[Wikipedia:Manual_of_Style_%28dates_and_numbers%29#Date_autoformatting|MOSNUM]] no longer encourages date autoformatting, having evolved over the past year or so from the mandatory to the optional after much discussion there and elsewhere of the disadvantages of the system. Related to this, MOSNUM prescribes [[Wikipedia:Manual_of_Style_%28dates_and_numbers%29#Full_date_formatting|rules for the raw formatting]], irrespective of whether or not dates are autoformatted. [[Wikipedia:Manual_of_Style_%28links%29#Overlinking_and_underlinking|MOSLINK]] and [[Wikipedia:Context#What_generally_should_not_be_linked|CONTEXT]] are consistent with this. 
+
+There are at least six disadvantages in using date-autoformatting, which I've capped here:
+{{hidden|contentstyle=border:1px solid #C0C0C0; |headerstyle=color:black; background: #C0C0C0; |header= Disadvantages of date-autoformatting|content=&lt;/br&gt;
+
+*'''(1) In-house only'''
+:*(a) It works only for the WP &quot;elite&quot;. 
+:*(b) To our readers out there, it displays all-too-common inconsistencies in raw formatting in bright-blue underlined text, yet conceals them from WPians who are logged in and have chosen preferences.  
+:*(c) It causes visitors to query why dates are bright-blue and underlined.
+
+*'''(2) Avoids what are merely trivial differences'''
+:*(a) It is trivial whether the order is day–month or month–day. It is more trivial than color/colour and realise/realize, yet our consistency-within-article policy on spelling ([[WP:ENGVAR]]) has worked very well. English-speakers readily recognise both date formats; all dates after our signatures are international, and no one objects.
+
+*'''(3) Colour-clutter: the bright-blue underlining of all dates'''
+:*(a) It dilutes the impact of high-value links.
+:*(b) It makes the text slightly harder to read.
+:*(c) It doesn't improve the appearance of the page.
+
+*'''(4) Typos and misunderstood coding'''
+:*(a) There's a disappointing error-rate in keying in the auto-function; not bracketing the year, and enclosing the whole date in one set of brackets, are examples.
+:*(b) Once autoformatting is removed, mixtures of US and international formats are revealed in display mode, where they are  much easier for WPians to pick up  than in edit mode; so is the use of the wrong format in country-related articles.
+:*(c) Many WPians don't understand date-autoformatting—in particular, how if differs from ordinary linking; often it's applied simply because it's part of the furniture.
+
+*'''(5) Edit-mode clutter'''
+:*(a) It's more work to enter an autoformatted date, and it doesn't make the edit-mode text any easier to read for subsequent editors.
+
+*'''(6) Limited application'''
+:*(a) It's incompatible with date ranges (&quot;January 3–9, 1998&quot;, or &quot;3–9 January 1998&quot;, and &quot;February–April 2006&quot;) and slashed dates (&quot;the night of May 21/22&quot;, or &quot;... 21/22 May&quot;).
+:*(b) By policy, we avoid date autoformatting in such places as quotations; the removal of autoformatting avoids this inconsistency.}}
+
+Removal has generally been met with positive responses by editors. Does anyone object if I remove it from the main text (using a script) in a few days’ time on a trial basis? The original input formatting would be seen by all WPians, not just the huge number of visitors; it would be plain, unobtrusive text, which would give greater prominence to the high-value links. [[User:Tony1|&lt;font color=&quot;darkgreen&quot;&gt;'''Tony'''&lt;/font &gt;]] [[User talk:Tony1|&lt;font color=&quot;darkgreen&quot;&gt;(talk)&lt;/font &gt;]] 06:42, 24 July 2008 (UTC)
+
+:Sound fine to me, but I'm curious about whether you're planning on posing this question on all {{NUMBEROFARTICLES}} talk pages...--[[User:NapoliRoma|NapoliRoma]] ([[User talk:NapoliRoma|talk]]) 14:59, 24 July 2008 (UTC)
+::Heavens no: shared task going through some FAs. We hope that letting key editors know about the option may prompt a broader shift. Thanks. [[User:Tony1|&lt;font color=&quot;darkgreen&quot;&gt;'''Tony'''&lt;/font &gt;]] [[User talk:Tony1|&lt;font color=&quot;darkgreen&quot;&gt;(talk)&lt;/font &gt;]] 08:35, 10 August 2008 (UTC)
+
+
+==Requested move==
+&lt;div class=&quot;boilerplate&quot; style=&quot;background-color: #efe; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #aaa;&quot;&gt;&lt;!-- Template:RM top --&gt;
+:''The following discussion is an archived discussion of a [[WP:RM|requested move]]. &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on the talk page. No further edits should be made to this section. ''
+
+The result of the move request was '''not moved'''. While [[WP:MOSTM]] recommends using standard English capitalization rules regardless of the trademark owner's preference, there seems to be consensus that the current name is the most recognizable one for English speakers, and as such it meets the [[Wikipedia:Naming conventions#Use common names|naming conventions]]. [[User:Jafeluv|Jafeluv]] ([[User talk:Jafeluv|talk]]) 11:48, 20 September 2009 (UTC)
+
+----
+
+[[:NeXT]] → ? — I am not familiar enough to know what it should be moved to, but the current name of the article violates [[WP:MOSTM]], so the article needs to be moved (to something that has the &quot;Next&quot; capitalization). '''&lt;span style=&quot;border: 2px Maroon solid;background:#4682B4;font-family: Monotype Corsiva&quot;&gt;[[User:TJ Spyke|&lt;font color=&quot;Maroon&quot;&gt;TJ&lt;/font&gt;]] [[User talk:TJ Spyke|&lt;font color=&quot;Maroon&quot;&gt;Spyke&lt;/font&gt;]]&lt;/span&gt;''' 22:23, 16 September 2009 (UTC)
+
+===Survey===
+:''Feel free to state your position on the renaming proposal by beginning a new line in this section with'' &lt;code&gt;&lt;nowiki&gt;*'''Support'''&lt;/nowiki&gt;&lt;/code&gt; ''or'' &lt;code&gt;&lt;nowiki&gt;*'''Oppose'''&lt;/nowiki&gt;&lt;/code&gt;'', then sign your comment with'' &lt;code&gt;&lt;nowiki&gt;~~~~&lt;/nowiki&gt;&lt;/code&gt;''. Since [[Wikipedia:Polling is not a substitute for discussion|polling is not a substitute for discussion]], please explain your reasons, taking into account [[Wikipedia:Naming conventions|Wikipedia's naming conventions]].''
+
+*'''Support''' &amp;mdash; per [[WP:MOSTM]] &amp; suggest [[:NeXT]] → [[Next (computer company)]]&lt;small&gt;&amp;nbsp;&lt;span style=&quot;padding:0.3em;border:0.1em solid #999;background:#CCC;font-size:11px;color:#000;&quot;&gt;「&amp;nbsp;[[User:gu1dry|'''ɠu¹ɖяy''']]&amp;nbsp;」&lt;small&gt;[[User talk:gu1dry|¤]]&amp;nbsp;•&amp;nbsp;[[Special:Contributions/Gu1dry|¢]]&lt;/small&gt;&lt;/span&gt;&amp;nbsp; 22:45, 16 September 2009 (UTC)&lt;/small&gt;
+
+*'''Oppose''': notwithstanding [[WP:MOSTM]], the distinctive presentation of the NeXT company name and trademark is well-known and generally accepted in published works other than WP.  IMHO, an encyclopedia should, within reason, reflect reality as closely as possible and not distort it to fit its own norms - this should include typography. Furthermore, no-one appears to have objected to the title of this article when it achieved FA status in October 2008. [[User:Letdorf|Letdorf]] ([[User talk:Letdorf|talk]]) 23:52, 16 September 2009 (UTC).
+**First, what they are known as doesn't overide MOSTM. Take a look at TIME for example, they are almost always referred to as that, but the article is at &quot;Time (magazine)&quot;, not &quot;TIME&quot; or &quot;TIME (magazine)&quot;. As for your second point, even FA's are not perfect and can continue to be changed and improved. '''&lt;span style=&quot;border: 2px Maroon solid;background:#4682B4;font-family: Monotype Corsiva&quot;&gt;[[User:TJ Spyke|&lt;font color=&quot;Maroon&quot;&gt;TJ&lt;/font&gt;]] [[User talk:TJ Spyke|&lt;font color=&quot;Maroon&quot;&gt;Spyke&lt;/font&gt;]]&lt;/span&gt;''' 00:28, 17 September 2009 (UTC)
+*'''Oppose''' per [[Jury nullification|IDONTLIKETHEAPPLICATIONOFMOSTMINTHISCASE]]. &lt;sup&gt;&lt;small&gt;&lt;font color=&quot;green&quot;&gt;[[User talk:Bongomatic|Bongo]]&lt;/font&gt;&lt;/small&gt;&lt;/sup&gt;&lt;sub style=&quot;margin-left:-4.2ex;&quot;&gt;&lt;small&gt;&lt;font color=&quot;blue&quot;&gt;[[Special:Contributions/Bongomatic|matic]]&lt;/font&gt;&lt;/small&gt;&lt;/sub&gt; 02:08, 17 September 2009 (UTC)
+*'''Oppose''' - I do not find this a useful or appropriate application of [[WP:MOSTM]]. [[User:Twp|Tim Pierce]] ([[User talk:Twp|talk]]) 02:12, 17 September 2009 (UTC)
+**Do you have any policies or guidelines to support NeXT? Because as of right now no one has provided any compelling reason for this article to continue violating the naming guidelines. This is like talking to a religious person about evolution, they keep ignoring facts and want to indulge their fantasy world. '''&lt;span style=&quot;border: 2px Maroon solid;background:#4682B4;font-family: Monotype Corsiva&quot;&gt;[[User:TJ Spyke|&lt;font color=&quot;Maroon&quot;&gt;TJ&lt;/font&gt;]] [[User talk:TJ Spyke|&lt;font color=&quot;Maroon&quot;&gt;Spyke&lt;/font&gt;]]&lt;/span&gt;''' 02:33, 17 September 2009 (UTC)
+***MOS is a guideline that should be taken seriously. However, the chief examples given are all-cap or all lowercase versus initial cap. Initial lowercase with a single camelcap (iPhone) are explicitly permitted). There are no examples that are on all fours with NeXT, and the closest (eBay, etc.) seem to point in another direction. &lt;sup&gt;&lt;small&gt;&lt;font color=&quot;green&quot;&gt;[[User talk:Bongomatic|Bongo]]&lt;/font&gt;&lt;/small&gt;&lt;/sup&gt;&lt;sub style=&quot;margin-left:-4.2ex;&quot;&gt;&lt;small&gt;&lt;font color=&quot;blue&quot;&gt;[[Special:Contributions/Bongomatic|matic]]&lt;/font&gt;&lt;/small&gt;&lt;/sub&gt; 02:43, 17 September 2009 (UTC)
+**The compelling reason is that the community has already reached consensus on &quot;NeXT&quot;.  Indeed, it appears to me that the Wikipedia community disagrees with [[WP:MOSTM]] on this point in nearly every example I can think of: [[TRUSTe]], [[Banyan VINES]], [[ProDOS]], [[BeOS]], [[microSD]] and [[miniSD]], [[MiG-1]], etc. etc. etc.  I think this particular guideline is just not a strong justification. [[User:Twp|Tim Pierce]] ([[User talk:Twp|talk]]) 03:17, 17 September 2009 (UTC)
+***Don't forget [[SunOS]]. --[[User:Tothwolf|Tothwolf]] ([[User talk:Tothwolf|talk]]) 15:16, 17 September 2009 (UTC)
+
+*'''Oppose''' per Tim Pierce,since any other selection would be even more confusing, also considering how common &quot;Next&quot; is. [[Special:Contributions/76.66.196.139|76.66.196.139]] ([[User talk:76.66.196.139|talk]]) 04:24, 17 September 2009 (UTC)
+*'''Oppose''' ''NeXT'' and ''NeXTSTEP'' are the official and the most recognised form of the name. The product documentation and software that I personally have in my possession have ''NeXT'' and ''NeXTSTEP'' printed on them. Even the [http://git.savannah.gnu.org/cgit/config.git/tree/config.guess config.guess] script for GNU [[Autoconf]] checks to see if ''NeXT'' (which is case sensitive) is defined in the system header files or is present in the output of the &lt;code&gt;hostinfo&lt;/code&gt; command (note that the only place config.guess uses lowercase is the ''[http://sourceware.org/autobook/autobook/autobook_17.html configuration name]'' or canonical host name triplet that the config.guess script itself generates for the configure script). The MOS and other guidelines also do not override common sense, see [[WP:RAP]] --[[User:Tothwolf|Tothwolf]] ([[User talk:Tothwolf|talk]]) 15:13, 17 September 2009 (UTC)
+
+*'''Oppose''' This is ridiculous. I strongly oppose the proposal to move the article to an '''unknown''' title. The nominator, who admits he is unfamiliar with the subject, should close this discussion immediately at least until he can come up with a valid alternate name. [[WP:MOSTM]] is a '''guideline''' not a policy. [[User:AlistairMcMillan|AlistairMcMillan]] ([[User talk:AlistairMcMillan|talk]]) 18:00, 17 September 2009 (UTC)
+**... which is not ''in and of itself'' a reason to side-step it.  [[Special:Contributions/81.110.104.91|81.110.104.91]] ([[User talk:81.110.104.91|talk]]) 20:05, 17 September 2009 (UTC)
+*'''Oppose''', for reasons that have everything to do with the existing usage, and nothing whatsoever to do with the MOS being a guideline or the wisdom (or otherwise) of the nominator.  The exception is well-justified.  [[Special:Contributions/81.110.104.91|81.110.104.91]] ([[User talk:81.110.104.91|talk]]) 20:05, 17 September 2009 (UTC)
+
+===Discussion===
+:''Any additional comments:''
+*'''NOTE''' there is a related move request for [[NeXTSTEP]] to [[Nextstep]], see [[Talk:NeXTSTEP]] [[Special:Contributions/76.66.196.139|76.66.196.139]] ([[User talk:76.66.196.139|talk]]) 12:04, 17 September 2009 (UTC)
+
+* There has been much debate (generating more heat than light, it has to be said) on the [[WP:MOSTM]] guideline on [[Wikipedia talk:MOSTM|its talk page]]. However, this particular comment seemed quite sensible to me:
+:&lt;blockquote&gt; MOSTM must be one of the most widely and sensibly ignored guides on Wikipedia, and the timesink caused by people coming to articles to try to enforce it in good faith is an excellent case for junking it. Let editors decide this case by case and do not direct people to follow one way because of a particular guideline or policy which is not widely supported, and has a ridiculously convoluted set of &quot;legitimate&quot; exceptions symptomatic of a problem. &lt;/blockquote&gt;
+:[[User:Letdorf|Letdorf]] ([[User talk:Letdorf|talk]]) 13:36, 17 September 2009 (UTC).
+
+I am not familiar with the subject either, but could someone say how many of [http://news.google.com/news/search?aq=f&amp;um=1&amp;ned=us&amp;hl=en&amp;q=%22nextstep%22 these news hits] are about this subject?  In particular, how many of the standardized ones are about this subject?  It seems that, at the very least, CNET News standardizes this trademark.  [[User:Croctotheface|Croctotheface]] ([[User talk:Croctotheface|talk]]) 20:28, 17 September 2009 (UTC)
+
+:It doesn't appear to me that they ever standardized at all: e.g. http://news.cnet.com/Its-Intel-inside-for-Apples-Mac/2009-1006_3-5733937.html uses &quot;NeXT&quot; but http://news.cnet.com/Apple-acquires-Next,-Jobs/2100-1001_3-256914.html uses &quot;Next&quot;.  Similarly for CNN: &quot;NeXT&quot; at http://money.cnn.com/galleries/2008/fortune/0806/gallery.gates_v_jobs.fortune/7.html and &quot;Next&quot; at http://money.cnn.com/magazines/fortune/fortune_archive/1990/10/08/74184/index.htm.  If anything, it seems as if more recent articles are more likely to use &quot;NeXT&quot; and older articles are more likely to use &quot;Next&quot;. [[User:Twp|Tim Pierce]] ([[User talk:Twp|talk]]) 00:49, 18 September 2009 (UTC)
+
+:: Interesting.  If our sources don't really use a style, it's hard to really argue that it's standard.  If &quot;Next&quot; basically doesn't exist, or only exists in a trivial way, while &quot;NeXT&quot; is used more or less exclusively, then it's hard to see how MOSTM even supports a move.  [[User:Croctotheface|Croctotheface]] ([[User talk:Croctotheface|talk]]) 01:10, 18 September 2009 (UTC)
+
+Someone referred the discussion to [[WP:Naming conventions]] for additional comments about trademarks.  That policy has this to say about case-specific trademarks: &quot;if the name is ambiguous, and one meaning is usually capitalized, this is one possible method of disambiguation.&quot;  NeXT seems to be an excellent example of just such a term. [[User:Twp|Tim Pierce]] ([[User talk:Twp|talk]]) 21:19, 17 September 2009 (UTC)
+
+I'm curious what happens when someone suggests a page move but doesn't suggest a destination name. If consensus resulted in &quot;Support&quot; for the move do we then have a second debate to then try to establish a consensus on an accepted destination name? This debate is ridiculous. [[User:AlistairMcMillan|AlistairMcMillan]] ([[User talk:AlistairMcMillan|talk]]) 21:46, 17 September 2009 (UTC)
+
+: Well, first off, there isn't going to be a move consensus, so it doesn't much matter in this case.  I'd imagine that if there were a consensus to use something other than &quot;NeXT,&quot; the discussion would be closed and editors would be advised to figure out where to move it and then execute the move.  [[User:Croctotheface|Croctotheface]] ([[User talk:Croctotheface|talk]]) 21:59, 17 September 2009 (UTC)
+*'''Close this already'''. The consensus is clear, whether or not some editors like it. The community frequently rejects guidelines&amp;mdash;that one way they are changed. &lt;sup&gt;&lt;small&gt;&lt;font color=&quot;green&quot;&gt;[[User talk:Bongomatic|Bongo]]&lt;/font&gt;&lt;/small&gt;&lt;/sup&gt;&lt;sub style=&quot;margin-left:-4.2ex;&quot;&gt;&lt;small&gt;&lt;font color=&quot;blue&quot;&gt;[[Special:Contributions/Bongomatic|matic]]&lt;/font&gt;&lt;/small&gt;&lt;/sub&gt; 01:16, 18 September 2009 (UTC)
+:''The above discussion is preserved as an archive of a [[WP:RM|requested move]].  &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on this talk page. No further edits should be made to this section.&lt;/div&gt;&lt;!-- Template:RM bottom --&gt;
+
+==Spoken Wikipedia recording ==
+I've updated the Spoken Wikipedia recording of this article.  Please let me know if I've made any mistakes.  Thanks. --[[User:Mangst|Mangst]] ([[User talk:Mangst|talk]]) 15:06, 29 September 2010 (UTC)
+
+== Bias ==
+
+One issue I noticed in reading the page is that it does come across as being a bit biased. I realize NeXT may have its fans out there, but unless something has changed with Wikipedia's standards and views on this, it should be presented in as neutral and unbiased a way and viewpoint as possible. For example, I see references that it was supposedly very influential and yet no mention made of how exactly it impacted or influenced computing and when it does attempt to mention object-oriented programming (which existed long before NeXT came into being, from what I understand) and GUIs (which also existed with other systems out there prior to 1988), it seems a little confusing as to what it's trying to say. Did it cause object-oriented programming to become popular? The use of GUIs? Or some combination of both (possibly using object-oriented programming in GUIs)?  Also, if any of that is the case, just how and what did it influence? Also where are the references or citations for any of that? Or did it just influence off-shoots of its own product? In which case, I don't know if I might call that a major influence or even as profound upon the computer industry as the article seems to imply, in the sense that it refers to something more within the company as opposed to the industry as a whole. I only cite that as one example of the bias being shown in this article. I think it might be more effective--and especially informative--if there was more neutral language used. As it is now, it almost sounds like it was written by a fan.[[User:Tuxenstein|Tuxenstein]] ([[User talk:Tuxenstein|talk]]) 23:07, 8 May 2011 (UTC)
+
+: I agree some things are missing or need improvements, I also was surprised to see no reference BSD and Xerox (there was reference to Mach, though)... [[Special:Contributions/76.10.128.192|76.10.128.192]] ([[User talk:76.10.128.192|talk]]) 19:59, 11 June 2012 (UTC)
+
+:NeXT was a flop as a seller of hardware boxes, but somewhat of an inspiration to many as a more or less comprehensive non-toy graphic/visual windowing Smalltalk-like operating system with integrated development tools.  The attempted direct imitations of NeXT didn't work out too well commercially, but NeXT apparently still had a diffuse influence in a number of smaller ways on various operating system efforts during the late 1980s / early 1990s (though it certainly didn't single-handedly popularize the idea of GUIs)... [[User:AnonMoos|AnonMoos]] ([[User talk:AnonMoos|talk]]) 23:17, 11 June 2012 (UTC)
+
+== Request edit on 11 October 2013 ==
+
+&lt;!-- PLEASE READ: Please provide your requested edit after the {{request edit}} below in a roughly &quot;replace X with Y&quot; format. Explain the rationale behind the edit and provide reliable sources to support the proposed changes. At the end of the request, add four tildes &quot;~~~~&quot; and click &quot;Save Page&quot; --&gt;
+
+{{request edit|D|See below.}}
+Addition of Books or Further Reading Section and inclusion of specific listing.
+
+The book is &quot;Anatomy of an Apple - The lessons Steve taught us.&quot; Author is Ben Klaiber. ISBN is 9781483506975.
+
+While the majority of the book is about the turnaround of Apple with Steve Jobs' return, multiple chapters delve deeply into NeXT. It covers a tremendous amount of history and details of the NeXT period as well as often neglected elements of the company.
+
+Examples:  Covers in depth the legal limitations imposed by Apple on NeXT, which contributed heavily to their dearth of sales. Covers specific pricing/performance of models and comparisons with competition at the time.  Explains and analyzes the competitive positioning of the hardware-software combination, the software alone, the software as extension of other competing OS's, the NeXT OS as open sourced product.
+
+Anatomy of an Apple also extensively discusses anticompetitive tactics used by Microsoft at the time and how they affected NeXT. The discussion explores and details how these competitive experiences molded the strategies that Apple would use upon Steve Jobs' return there.
+
+Excerpts related to the NeXT period are posted online at http://www.anatomyofanapple.com/2013/09/LetstalkaboutNeXT.html. 
+[[User:Bryan Roberts7982|Bryan Roberts7982]] ([[User talk:Bryan Roberts7982|talk]]) 15:38, 11 October 2013 (UTC)
+15:38, 11 October 2013 (UTC)[[User:Bryan Roberts7982|Bryan Roberts7982]] ([[User talk:Bryan Roberts7982|talk]])
+
+&lt;!-- Do NOT remove this line! --&gt;&lt;sub&gt;(The above requested edit was made by clicking on a link in an automatically added [[User:Theo's Little Bot/coi_tracker/bot|notice]].)&lt;/sub&gt;
+:{{not done}}. Sorry, but there are dozens of books about Steve Jobs and NeXT - we don't have space to include them all, and including only some of them would be playing favourites. — '''''[[User:Mr. Stradivarius|&lt;span style=&quot;color: #194D00; font-family: Palatino, Times, serif&quot;&gt;Mr. Stradivarius&lt;/span&gt;]]''''' &lt;sup&gt;[[User talk:Mr. Stradivarius|♪ talk ♪]]&lt;/sup&gt; 01:35, 2 November 2013 (UTC)
+
+== id software and NeXT ==
+
+Also Wolfenstein 3D was developed with a NeXT computer(from Masters of Doom).--[[Special:Contributions/141.24.16.97|141.24.16.97]] ([[User talk:141.24.16.97|talk]]) 13:28, 25 June 2014 (UTC)</text>
+      <sha1>gva7uju2eqwblfjqw2xz0cjr9ae08e4</sha1>
+    </revision>
+  </page>
+</mediawiki>

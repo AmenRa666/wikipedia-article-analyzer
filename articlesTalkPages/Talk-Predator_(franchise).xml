@@ -1,0 +1,121 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Predator (franchise)</title>
+    <ns>1</ns>
+    <id>16680360</id>
+    <revision>
+      <id>726663395</id>
+      <parentid>709785373</parentid>
+      <timestamp>2016-06-23T15:45:40Z</timestamp>
+      <contributor>
+        <username>Argento Surfer</username>
+        <id>15145848</id>
+      </contributor>
+      <comment>/* Cast and characters */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8296">{{talk header}}
+{{User:MiszaBot/config
+|maxarchivesize = 130K
+|counter = 1
+|algo = old(30d)
+|archive = Talk:Predator (franchise)/Archive %(counter)d
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Alien|class=Start|importance=Mid}}
+
+{{WikiProject Media franchises|class=Start|importance=Low}}
+
+{{Horror|class=Start|importance=Low}}
+{{Science Fiction Project|class=Start|type=Article|importance=Low}}
+
+{{Film|American-task-force=yes|class=Start}}
+{{NovelsWikiProject|class=Start|importance=Low|sf-task-force=yes}}
+{{comicsproj|class=Start|importance=low|US=yes}}
+}}
+{{AutoArchivingNotice|bot=MiszaBot I|small=yes|age=30|dounreplied=yes}}
+
+== Suggested move ==
+
+I suggest that we move this article to [[Predator (franchise)]] in order to be more inclusive of the various other aspects of the franchise besides the films (the comics, games, etc). This would be similar to the [[Star Wars]] article, which gives an overview and brief history of the franchise as a whole and serves as the parent/forking-off article for all the other articles related to specific branches of the franchise. I also suggest the same renaming of [[:Category:Predator series]] to [[:Category:Predator (franchise)]]. The parent category for all things Alien-related has been changed to [[:Category:Alien (franchise)]] after an AfD discussion, and this closely related franchise has a similar difficulty with naming that could be solved with an identical disambiguation. This move would mirror the inclusive renaming of the Alien category. Thoughts? If there are no objections, I will probably get around to moving this article in the next few days. --[[User:IllaZilla|IllaZilla]] ([[User talk:IllaZilla|talk]]) 20:23, 30 March 2008 (UTC)
+
+Since there were no objections, I've gone ahead with this move. This is part of a larger categorization/article moving project I'm undertaking (see [[Wikipedia:WikiProject Alien/Article categorization]] for more info)..Redirects will need to be fixed, but shortly all the Alien and Predator-related articles will at least be categorized properly. --[[User:IllaZilla|IllaZilla]] ([[User talk:IllaZilla|talk]]) 20:35, 5 April 2008 (UTC)
+
+== Pride &amp; Predator ==
+
+Despite the title, and plot detail involving an alien, there is no evidence that this ''Predator'' alien is in anyway related to the Predator of this franchise. Although various tabloids and blogs have interpreted the announcement as an official Predator tie-in, no-one from Fox has linked the character. Until an official source explicitly states otherwise, this film does not belong on this page. [[User:Magnius|magnius]] ([[User talk:Magnius|talk]]) 16:57, 2 March 2009 (UTC)
+
+:Agreed. There is not yet any [[WP:RS|reliable]] evidence suggesting that this is a tie-in to this franchise. --[[User:IllaZilla|IllaZilla]] ([[User talk:IllaZilla|talk]]) 21:12, 2 March 2009 (UTC)
+
+:: Well, I got redirected here, looking to read about Pride and Predator, which isn't in fact mentioned on the page. Sort it out somehow. [[Special:Contributions/81.131.51.38|81.131.51.38]] ([[User talk:81.131.51.38|talk]]) 00:14, 9 April 2009 (UTC)
+
+== Predators Continuity ==
+
+I believe Rodriguez's comments about Predator 2, Alien vs. Predator, and Aliens vs. Predator: Requiem being ignored from the continuity is only wishful thinking on his part. I don't think he ment it literally that this new film erases those. The script itself makes no mention to re-establishing this as a direct sequel either. It's just yet another Predator film, similiar to Predator 2, that doesn't make references to the prior films. Therefor, I don't think it's necessary to include in this article how it's &quot;proven&quot; the Predator sequels no longer count. Until Fox makes an official statement, or it says in the film itself that it's a restart, then it's not set in stone. I also don't understand why it says &quot;The Alien vs. Predator films are sometimes included...&quot; They share story/concept elements from both the Alien and Predator series, so I don't see why they wouldn't be included as part of the Alien and Predator franchises, not just &quot;sometimes&quot;.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/174.55.53.51|174.55.53.51]] ([[User talk:174.55.53.51|talk]]) 13:34, 11 February 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:''Predator 2'' and both ''AvP'' films are canonical and part of both franchises' continuities no matter how many fanboys dislike or choose to ignore them. They are officially licensed films produced by 20th Century Fox, members of the creative teams behind both the ''Alien'' and ''Predator'' franchises were involved in their writing and creation, and they make direct plot tie-ins to both the ''Alien'' and ''Predator'' films (via the characters of Charles Weyland and Mrs. Yutani). Unless Rodriguez or Fox officially state that ''Predators'' is a franchise reboot, or the film itself breaks continuity with the previous ones, then it is merely a sequel and becomes part of the overall film canon. It is just like how ''[[Freddy vs. Jason]]'' is part of both the ''Nightmare on Elm Street'' and ''Friday the 13th'' franchises, continuing from the events of ''[[Freddy's Dead: The Final Nightmare]]'' and ''[[Jason Goes to Hell: The Final Friday]]''. Unless ''Predators'' is a stated, blatant reboot like [[Friday the 13th (2009 film)|the 2009 ''Friday the 13th'']] or the upcoming ''[[A Nightmare on Elm Street (2010 film)|A Nightmare on Elm Street]]'', then it is merely a continuation of the existing ''Predator'' franchise which includes ''Predator'', ''Predator 2'', and both ''AvP''s. --[[User:IllaZilla|IllaZilla]] ([[User talk:IllaZilla|talk]]) 15:44, 11 February 2010 (UTC)
+
+:In other words, I agree with you. --[[User:IllaZilla|IllaZilla]] ([[User talk:IllaZilla|talk]]) 00:41, 12 February 2010 (UTC)
+
+::Agreed, and new information posted recently regarding the plot says the ''Predators'' film is set between the first and second Predator films. This series has never had direct continuation of its story lines, so the fact this movie won't make reference to ''Predator 2'', or both ''AVP'' movies shouldn't be confused with ignoring them. Similarly the ''Indiana Jones'' films have done the same thing, with each new installment being unrelated to the last. ''Predators'' is almost the ''Indiana Jones and the Temple of Doom'' of the Predator series.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/174.59.169.173|174.59.169.173]] ([[User talk:174.59.169.173|talk]]) 22:14, 14 March 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Predators (2010) ==
+
+This section talks about [[Arnold Schwarzenegger|Schwarzenegger]] possibly coming back in his role as Dutch, and [[Robert Rodriguez|Rodriguez]] is still seeking a director and writer. The movie is out, it's past the cinema and on DVD/BluRay. I think Rodriguez found a director and writer and Schwarzenegger probably isn't coming back unless he goes all [[Terminator 2|T2]] on us and goes back in time to remake the movie. This whole section needs a tidy up... ≈ [[User talk:Seraph 31|Seraph]] 12:54, 24 February 2011 (UTC)
+
+:I'm just going to delete all that shit. [[Special:Contributions/184.88.235.102|184.88.235.102]] ([[User talk:184.88.235.102|talk]]) 09:58, 21 October 2011 (UTC)
+
+==  Ventura's [[autobiography]] also alleges Van Damme intentionally injured a stunt man. ==
+
+&quot;Ventura's [[autobiography]] also alleges Van Damme intentionally injured a stunt man.&quot; I've removed this quote as it is unsourced so it's a [[WP:BLP]] issue. Please add it back if the source can be found. [[Special:Contributions/24.20.21.240|24.20.21.240]] ([[User talk:24.20.21.240|talk]]) 13:30, 26 February 2011 (UTC)
+
+== Cast and characters ==
+There is almost no overlap, why is this written as a table?-[[Special:Contributions/217.248.19.70|217.248.19.70]] ([[User talk:217.248.19.70|talk]]) 02:10, 13 March 2016 (UTC)
+:I agree. This would work much better as (brief) prose. Most of it should be left to the individual film pages. [[User:Argento Surfer|Argento Surfer]] ([[User talk:Argento Surfer|talk]]) 15:45, 23 June 2016 (UTC)</text>
+      <sha1>iiwog1crbwylk8gppoa58wivdlytkj7</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,168 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Juan de Zumárraga</title>
+    <ns>0</ns>
+    <id>558663</id>
+    <revision>
+      <id>730542069</id>
+      <parentid>730221219</parentid>
+      <timestamp>2016-07-19T17:36:31Z</timestamp>
+      <contributor>
+        <username>Bender235</username>
+        <id>88026</id>
+      </contributor>
+      <minor/>
+      <comment>/* Later years */clean up; http-&gt;https (see [[WP:VPR/Archive 127#RfC: Should we convert existing Google and Internet Archive links to HTTPS?|this RfC]]) using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16699">{{Infobox Archbishop
+| honorific-prefix = His Excellency 
+| name = Juan de Zumárraga O.F.M.
+| honorific-suffix =
+| archbishop_of = [[Roman Catholic Archdiocese of Mexico|Bishop of Mexico]]
+| image = Juan-de-Zumarraga.jpg
+| caption =
+| province = Mexico City
+| diocese =
+| see = [[Roman Catholic Archdiocese of Mexico|Mexico]]
+| enthroned = August 20, 1530
+| ended = June 3, 1548
+| predecessor = None
+| successor = [[Alonso de Montúfar]], O. P.
+| ordination =
+| consecration    = April 27, 1533
+| consecrated_by  = [[Diego Ribera de Toledo]]
+| other_post =
+| birth_name =
+| birth_date = 1468
+| birth_place = [[Durango, Biscay|Durango]], [[Biscay]], [[Spain]]
+| death_date = June 3, {{death year and age|1548|1468}}
+| death_place = [[Mexico City]], [[New Spain]] (present-day [[Mexico]])
+| buried =
+| nationality = {{flagicon|Spain}} [[Spanish people|Spanish]]
+| religion = [[Roman Catholicism|Roman Catholic]]
+| residence =
+| parents =
+| occupation =
+| alma_mater =
+| signature =
+}}
+
+'''Juan de Zumárraga''' (1468 &amp;ndash; June 3, 1548) was a [[Spain|Spanish]] [[Basque people|Basque]] [[Franciscan]] [[prelate]] and first [[bishop]] of [[Mexico]]. He wrote ''Doctrina breve'', the first book published in the Western hemisphere, printed in Tenochtitlan (Mexico City) in 1539.&lt;ref&gt;{{cite book|last1=Murray|first1=Stuart A. P.|title=The Library: An Illustrated History|date=2009|publisher=Skyhorse Publishing|location=New York|isbn=9781616084530|page=136|edition=ALA}}&lt;/ref&gt;
+
+==Origins and arrival in New Spain==
+Zumárraga was born in 1468 of a noble family, in [[Durango, Spain|Durango]] in the [[Biscay]] province in [[Spain]]. He entered the [[Franciscan Order]], and in 1527 was custodian of the convent of Abrojo. Shortly afterwards he was appointed one of the judges of the court for the examination of witches in the Basque province. From his writings it would appear that he looked upon witches merely as women possessed of hallucinations.
+
+By this time more detailed accounts of the importance of the conquest of [[Hernán Cortés]] began to be received, and on December 20, 1527, Zumárraga was recommended by [[Charles V, Holy Roman Emperor|Charles V]] for the post of first bishop of Mexico. Without having been consecrated and with only the title of bishop-elect and [[Protector of the Indians]], he, accompanied by [[Andrés de Olmos]], left Spain with the first civil officials, auditors (''[[oidor]]es''), towards the end of August 1528, and reached Mexico on December 6. Thirteen days after, two auditors, Alonso de Parada and Diego Maldonado, persons of years and experience, died. Their companions, [[Juan Ortiz de Matienzo]] and [[Diego Delgadillo]], assumed their authority, which was also shared by [[Nuño Beltrán de Guzmán|Nuño de Guzmán]], who had come from his territories in the [[Río Pánuco|Pánuco Valley]]. Their administration was one of the most disastrous epochs in [[New Spain]] and one of great difficulty for Zumárraga.&lt;ref name=Crivelli&gt;[http://www.newadvent.org/cathen/15767a.htm Crivelli, Camillus. &quot;Juan de Zumárraga.&quot; The Catholic Encyclopedia. Vol. 15. New York: Robert Appleton Company, 1912. 11 Sept. 2014]&lt;/ref&gt;
+
+==&quot;Protector of the Indians&quot;==
+[[Image:Juan de Zumarraga.jpg|thumb|Juan de Zumárraga, the first archbishop of Mexico City]]
+Although Zumárraga was appointed bishop on August 20, 1530, he was not consecrated until April 27, 1533.&lt;ref name=CathHierJuanZuma /&gt; Zumárraga, as Protector of the Indians, endeavored to defend them. His position was a critical one; the [[Spanish monarchy]] had defined neither the extent of his jurisdiction nor his duties as Protector of the Indians. Moreover, he had not received official consecration as bishop, and was thus at a disadvantage when he attempted to exercise his authority. The Indians appealed to him as protector with all manner of complaints. His own Franciscans, who had so long labored for the welfare of the Indians, pressed him to put an end to the excesses of the auditors. It was clear that he must have had an open conflict with the civil officials of the colony, relying only on his spiritual prerogatives, which commanded no respect from these immoral and unprincipled men. Some members of other religious orders, perhaps envious of the influence of the Franciscans, upheld the persecution of the Indians. Bishop Zumárraga attempted to notify the Spanish court of the course of events, but the auditors had established a successful censorship of all letters and communications from New Spain. Finally, a Biscayne sailor concealed a letter in a cake of wax which he immersed in a barrel of oil.&lt;ref name=Crivelli/&gt;
+
+Meanwhile, news reached Mexico that Cortés had been well received at the Spanish court and was about to return to New Spain. Fearful of the consequences, Nuño de Guzmán left Mexico City on December 22, 1529, and began his famous expedition to [[Michoacán]], [[Jalisco]], and [[Sinaloa]]. The remaining auditors retained power and continued their outrages. In the early part of 1530 they dragged a priest and a former servant of Cortés from a church, [[hanging, drawing and quartering|quartered]] him and [[torture]]d his servant. Zumárraga placed the city under [[interdict]], and the Franciscans retired to [[Texcoco (Aztec site)|Texcoco]]. At Easter the interdict was lifted, but the auditors were excommunicated for a year. On July 15, 1530, Cortés, now titled Captain General of New Spain, reached [[Veracruz, Veracruz|Vera Cruz]]. The Crown appointed new auditors, among them [[Sebastián Ramírez de Fuenleal]], [[Roman Catholic Archdiocese of Santo Domingo|Bishop of Santo Domingo]], and the lawyer [[Vasco de Quiroga]], who later became the first [[Roman Catholic Archdiocese of Morelia|Bishop of Michoacán]].&lt;ref name=Crivelli/&gt;
+
+In December of the same year, the new ''[[Audiencia Real|Audiencia]]'', the ensemble of auditors, reached Mexico, and with them, an era of peace for both Zumárraga and the Indians. Matienzo and Delgadillo were sent to Spain as prisoners, but Nuño de Guzmán escaped, being then absent in Sinaloa.
+
+Meantime the calumnies spread by the enemies of Zumárraga and the partisans of the first auditor had shaken the confidence of the Spanish Court, and he set sail in May 1532 under orders to return to Spain. On his arrival he met his implacable enemy Delgadillo, who, though still under indictment, continued his calumnies. As a result of Delgadillo's charges, Charles V held back the Bull of Clement VII, originally dated September 2, 1530, that would have named Zumárraga bishop. Zumárraga, however, had little difficulty vindicating his good name, and was consecrated bishop at [[Valladolid]] on April 27, 1533 by [[Diego Ribera de Toledo]], [[Roman Catholic Diocese of Segovia|Bishop of Segovia]] with [[Francisco Zamora de Orello]], [[Titular Bishop]] of ''Brefny'', and [[Francisco Solís]], [[Bishop of Drivasto]], as Co-Consecrators.&lt;ref name=CathHierJuanZuma&gt;[http://www.catholic-hierarchy.org/bishop/bzum.html Catholic Hierarchy: &quot;Archbishop Juan de Zumárraga, O.F.M.&quot;] retrieved November 11, 2015&lt;/ref&gt; After another year in Spain working for favourable concessions for the Indians, he reached Mexico in October 1534, accompanied by a number of mechanics and six female teachers for the Indian girls. He no longer held the title of Protector of the Indians, as it was thought that the new auditors would refrain from the abuses of prior regimes. On November 14, 1535, with the arrival of the first [[Viceroy of New Spain|viceroy]], [[Antonio de Mendoza]], the rule of the new auditors ended.
+
+While bishop, he was the principal consecrator of [[Juan Lopez de Zárate]], [[Roman Catholic Archdiocese of Antequera, Oaxaca|Bishop of Antequera, Oaxaca]] (1537); [[Francisco Marroquin|Francisco Marroquín Hurtado]], [[Roman Catholic  Archdiocese of Santiago de Guatemala|Bishop of Santiago de Guatemala]] (1537); and [[Vasco de Quiroga]], [[Roman Catholic Archdiocese of Morelia|Bishop of Michoacán]] (1539).&lt;ref name=CathHierJuanZuma /&gt;
+
+==Evangelization efforts==
+According to Fray [[Toribio de Benavente Motolinia]], the number of [[Baptism|baptized]] Indians in Mexico in 1536 was five million. The multitude of Indians who asked for baptism, said to have greatly increased after the apparition of Our Lady of Guadalupe in 1531, forced the missionaries to adopt a special form for administering this sacrament. The catechumens were arranged in order, with children in front. Prayers were recited in common over all, salt, saliva, etc., applied to a few, and then water was poured on the head of each without using the customary holy [[Oil of catechumens|oils]] or [[chrism]]. The practice faced no opposition while the Franciscans were in charge of the missions, but as soon as members of other religious orders and some secular ecclesiastics arrived, doubt began to be cast upon the validity of these baptisms. To put an end to the dispute Bishop Zumárraga submitted the case to [[Holy See|Rome]], and on June 1, 1537, [[Pope Paul III]] issued the [[Papal bull|bull]] ''Altitudo divini consilii'', which declared that the friars had not sinned in administering baptism in this form, but decreed that in the future it should not be thus administered except in cases of urgent need.
+
+Another difficulty arose regarding marriage. The pre-Columbian religions had permitted [[polygamy]] and the taking of [[concubine]]s, and when Natives were converted the question arose as to which were legitimate wives and which were concubines, and whether any of the marriages had been valid at all. The Franciscans knew that certain rites were observed for certain unions, and that in some cases where separation or [[divorce]] was desired, it was necessary to obtain the consent of the authorities, while in other cases the consent of the interested parties sufficed. These customs, they argued, meant that there were valid marriages among the Indians. Others denied that this was the case. Bishop Zumárraga took part in all these discussions until the case was submitted to the Holy See. Pope Paul III decreed in the ''Altitudo'' that the converted Indians should keep the first woman wed as their wife.
+
+A third important difficulty concerned the position of the [[regular clergy]] (non-order affiliated) and their privileges. [[Adrian VI]] on May 9, 1522, issued the bull ''Exponi nobis fecisti'' to Charles V, in which he transferred his own [[Apostolic See|Apostolic]] authority in all matters to the Franciscans and other mendicant orders when they judged it necessary for the conversion of the Indians, except for acts as requiring episcopal consecration. This provision affected regions where there was no bishop, or where it required two or more days of travel to reach one. Pope Paul III confirmed the bull on January 15, 1535. The bishops found their authority much limited, and a series of assemblies followed in which Zumárraga with his customary prudence tried to arrive at an understanding with the regulars without openly clashing with them. Various modifications were adopted with the consent of the regulars on condition that these &quot;should not impair the privileges of the regulars&quot;. The question therefore remained open. In 1535, Bishop Zumárraga received the title and powers of Apostolic Inquisitor of the diocese of Mexico from the [[Mexican Inquisition|Inquisitor General]], Álvaro Manrique, [[Archbishop of Seville]], including that of delivering criminals to the secular courts. He never availed himself of the title and did not establish the tribunal, although he did indict and deliver to the secular courts a lord of Texcoco, known as Don [[Carlos Ometochtzin]] Chichimecatecuhtli, accused of having &quot;reverted to idolatry&quot; and of offering [[human sacrifice]]s.
+
+Meanwhile, [[Bartolomé de Las Casas|Las Casas]] had gone to Spain and obtained from the Junta of Valladolid (1541&amp;ndash;1542) the approbation of the celebrated &quot;''Nuevas Leyes''&quot;. These laws conclusively and decisively prohibited the enslavement of the Indians, withdrew all grants from all corporations, [[ecclesiastical]] and [[secular]], and from those who were or had been [[List of Viceroys of New Spain|Viceroys]], [[governor]]s, or employees of any description whatsoever; previous grants were reduced; Indians were taken from owners who had ill-treated them; all governors were deprived of the faculty to &quot;[[Encomienda|encomendar]]&quot; (a system of patents which permitted forced labor of the Indians); owners were compelled to live upon their own possessions; and in all newly discovered territory no grants could be made. [[Francisco Tello de Sandoval]], commissioned to carry out the new laws, reached Mexico on March 8, 1544.
+
+The gravest difficulties confronted him. Those affected by the new laws were almost all the Spaniards of the colony, many of them far advanced in years, who had passed through all the trying period of the conquest, and whom the new laws would leave in abject poverty. These had recourse to Bishop Zumárraga to intercede with Tello to obtain a suspension of the order until they could be heard before the Spanish Court. The representatives of the colonists found the emperor, [[Charles V, Holy Roman Emperor|Charles V]], at [[Mechlin]], on October 20, 1545. In virtue of the situation as explained to him, he modified the general tenor of the laws so that while still correcting the principal abuses, they would not bear too heavily on the Spaniards of the colony. Through the prudent intervention of Bishop Zumárraga and the compliance of Tello, Mexico was undoubtedly saved from a bloody civil struggle such as engulfed [[Peru]] on account of the enforcement of these same laws and from which the Indians emerged worse off than they were before.
+
+==Later years==
+The last years of Bishop Zumárraga's life were devoted to carrying out the numerous works he had undertaken for the welfare of his diocese. Among the chief of these should be mentioned: the school for Indian girls; the famous [[Colegio de Santa Cruz de Tlatelolco|''Colegio de Santa Cruz'']] in [[Tlatelolco (Mexico City)|Tlatelolco]]; the [[House of the First Print Shop in the Americas|introduction of the first printing press into the New World]]; the foundation of various hospitals, especially those of Mexico and [[Veracruz, Veracruz|Vera Cruz]]; the impetus he gave to industries, agriculture, and manufactures, for which he brought trained mechanics and labourers from Spain; and the printing of many books. At the instance of the emperor, [[Pope Paul III]] separated (February 11, 1546) the See of Mexico from the metropolitan [[See of Seville]], and erected the [[Archdiocese of Mexico]], appointing Bishop Zumárraga first archbishop and designating the dioceses of [[Oaxaca]], [[Michoacán]], [[Tlaxcala]], [[Guatemala]], and [[Ciudad Real de Chiapas]], as suffragans. The Bull of appointment was sent on July 8, 1548, but Bishop Zumárraga had died one month previously.
+
+Bishop Zumarraga is also credited with chocolate becoming a popular drink among Europeans. A community of nuns in Oaxaca, after encountering a recipe of cocoa mixed with sugar, prepared it for the bishop. Prior to this, ground cocoa had not found a role in European diets.&lt;ref&gt;[https://books.google.com/books?id=A-8PGtx3uI4C&amp;pg=PA57&amp;lpg=PA57&amp;dq=Juan+de+Zum%C3%A1rraga&amp;source=bl&amp;ots=r9lCbHQ3hN&amp;sig=C_toPwbhImfPdbfM--CgpskYIr8&amp;hl=en&amp;sa=X&amp;ei=uPIRVK6IBurlsASbv4JQ&amp;ved=0CFYQ6AEwBzgU#v=onepage&amp;q=Juan%20de%20Zum%C3%A1rraga&amp;f=false Mercier, Jacques. ''The Temptation of Chocolate'', p. 57, Lannoo Uitgeverij, 2008 ISBN 9782873865337]&lt;/ref&gt;
+
+==Notes==
+{{Reflist}}
+
+==References==
+*{{cite book |author=Himmerich y Valencia, Robert |origyear=1991 |year=1996 |title=The Encomenderos of New Spain, 1521–1555 |location=Austin |publisher=University of Texas Press |pages=266}}
+
+{{Wikisource1913CatholicEnc|Juan de Zumárraga}}
+{{Commons category}}
+
+{{s-start}}
+{{s-rel|ca}}
+{{s-new}}
+{{s-ttl|title=[[Roman Catholic Archdiocese of Mexico|Bishop of Mexico]]
+|years=1528–1548}}
+{{s-aft|after=[[Alonso de Montúfar]]}}
+{{s-vac|reason=[[Escheat]]ed|last=[[Hernando Medel]]}}
+{{s-ttl|title=[[Encomendero]] of [[Ocuituco]]
+|years=1535–1544}}
+{{s-non|reason=[[Escheat]]ed}}
+{{end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Zumarraga, Juan De}}
+[[Category:1468 births]]
+[[Category:1548 deaths]]
+[[Category:Basque people]]
+[[Category:Spanish Franciscans]]
+[[Category:16th-century Roman Catholic bishops]]
+[[Category:16th-century Spanish people]]
+[[Category:Spanish Roman Catholic priests]]
+[[Category:Archbishops of Mexico]]
+[[Category:People of New Spain]]
+[[Category:Encomenderos]]
+[[Category:Our Lady of Guadalupe]]
+[[Category:Colonial Mexico]]</text>
+      <sha1>3f1rfm3sl61v883v682qh7xkjzt80dn</sha1>
+    </revision>
+  </page>
+</mediawiki>

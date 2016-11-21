@@ -1,0 +1,139 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>2001–02 Czech 2. Liga</title>
+    <ns>0</ns>
+    <id>33053843</id>
+    <revision>
+      <id>739848626</id>
+      <parentid>660896106</parentid>
+      <timestamp>2016-09-17T12:00:49Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 0 as dead. #IABot (v1.2.4)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3512">{{Infobox football league season
+| competition                = 2. česká fotbalová liga
+| season                     = 2001–02
+| winners                    = [[SK Dynamo České Budějovice|České Budějovice]]
+| promoted                   = České Budějovice&lt;br/&gt;[[FC Tescoma Zlín|Zlín]]
+| relegated                  = [[FK Baník Ratíškovice|Ratíškovice]]&lt;br/&gt;[[FK Kolín|Kolín]]
+| league topscorer           = [[Radek Drulák (footballer born 1980)|Radek Drulák]] (16)
+| biggest home win           =
+| biggest away win           =
+| highest scoring            =
+| matches                    = 240
+| total goals                = 620
+| average attendance         = 1,047
+| prevseason                 = [[2000–01 Czech 2. Liga|2000–01]]
+| nextseason                 = [[2002–03 Czech 2. Liga|2002–03]]
+}}
+
+The '''2001–02 Czech 2. Liga''' was the ninth season of the [[Czech 2. Liga|2. česká fotbalová liga]], the second tier of the [[Czech Republic football league system|Czech football league]].
+
+==League standings==
+{{Fb cl header}}
+{{Fb cl team |p=1 |t=České Budějovice  |w=20|d=6 |l=4 |gf=58|ga=20|bc=#D0F0C0|champion=y}}
+{{Fb cl3 qr |rows=2|promotion=y|competition=[[2002–03 Czech First League]]}}
+{{Fb cl team |p=2 |t=Zlín              |w=18|d=10|l=2 |gf=56|ga=24|bc=#D0F0C0|promoted=y}}
+{{Fb cl team |p=3 |t=Mladá Boleslav    |w=15|d=7 |l=8 |gf=40|ga=29}}
+{{Fb cl team |p=4 |t=Viktoria Plzeň    |w=15|d=5 |l=10|gf=56|ga=34}}
+{{Fb cl team |p=5 |t=FK AS Pardubice   |w=12|d=10|l=8 |gf=39|ga=30}}
+{{Fb cl team |p=6 |t=Xaverov           |w=13|d=7 |l=10|gf=44|ga=36}}
+{{Fb cl team |p=7 |t=Jihlava           |w=12|d=6 |l=12|gf=47|ga=46}}
+{{Fb cl team |p=8 |t=Vítkovice         |w=9 |d=13|l=8 |gf=38|ga=38}}
+{{Fb cl team |p=9 |t=Most              |w=9 |d=9 |l=12|gf=36|ga=37}}
+{{Fb cl team |p=10|t=Prostějov         |w=8 |d=12|l=10|gf=33|ga=34}}
+{{Fb cl team |p=11|t=HFK Olomouc       |w=9 |d=8 |l=13|gf=34|ga=41}}
+{{Fb cl team |p=12|t=Sigma Olomouc B   |w=9 |d=8 |l=13|gf=33|ga=53}}
+{{Fb cl team |p=13|t=Chomutov          |w=9 |d=7 |l=14|gf=30|ga=50}}
+{{Fb cl team |p=14|t=Spolana Neratovice|w=7 |d=9 |l=14|gf=32|ga=39}}
+{{Fb cl team |p=15|t=Ratíškovice       |w=7 |d=3 |l=20|gf=21|ga=53|bc=#FFCCCC|relegated=y}}
+{{Fb cl3 qr |relegation=y|competition=2002-03 [[Moravian-Silesian Football League|MSFL]]}}
+{{Fb cl team |p=16|t=Mogul Kolín       |w=5 |d=6 |l=19|gf=22|ga=55|bc=#FFCCCC|relegated=y}}
+{{Fb cl3 qr |relegation=y|competition=2002-03 [[Bohemian Football League|ČFL]]}}
+{{Fb cl footer|u= |s=[http://nv.fotbal.cz/scripts/detail.php?id=9296&amp;tmplid=1745 The Football Association of the Czech Republic]|date=August 2013}}
+
+==Top goalscorers==
+{| class=&quot;wikitable&quot; style=&quot;text-align:center&quot;
+|-
+!Rank
+!Scorer
+!Club
+!Goals
+|-
+!1
+|align=&quot;left&quot;|{{flagicon|CZE}} [[Radek Drulák (footballer born 1980)|Radek Drulák]]
+|align=&quot;left&quot;|[[1. HFK Olomouc|HFK Olomouc]]
+|16
+|-
+!2
+|align=&quot;left&quot;|{{flagicon|CZE}} [[Lubomír Myšák]]
+|align=&quot;left&quot;|[[SC Xaverov|Xaverov]]
+|15
+|}
+
+==See also==
+* [[2001–02 Czech First League]]
+* [[2001–02 Czech Cup]]
+
+==References==
+{{reflist}}
+* [http://nv.fotbal.cz/scripts/detail.php?id=9296&amp;tmplid=1745 Official website] {{cs icon}}
+* [https://web.archive.org/web/20130315024500/https://rsssf.com/tablest/tsje02.html RSSSF]
+
+{{Czech 2. Liga}}
+
+{{DEFAULTSORT:2001-02 Czech 2. Liga}}
+[[Category:Czech 2. Liga seasons]]
+[[Category:2001–02 in European second tier association football leagues|Czech]]
+[[Category:2001–02 in Czech football]]</text>
+      <sha1>m9so4rrp57ge73p40s6mqqqu5u67zcx</sha1>
+    </revision>
+  </page>
+</mediawiki>

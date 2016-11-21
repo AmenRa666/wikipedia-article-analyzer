@@ -1,0 +1,136 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Gulf War</title>
+    <ns>1</ns>
+    <id>46759</id>
+    <revision>
+      <id>734988400</id>
+      <parentid>734901597</parentid>
+      <timestamp>2016-08-18T00:11:05Z</timestamp>
+      <contributor>
+        <username>Lowercase sigmabot III</username>
+        <id>17518500</id>
+      </contributor>
+      <minor/>
+      <comment>Archiving 2 discussion(s) to [[Talk:Gulf War/Archive 1]]) (bot</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3783">{{talkheader}}
+{{Vital article|level=4|topic=History|class=C}}
+{{article history
+|action1=FAC
+|action1date=06:16, 21 July 2006
+|action1link=Wikipedia:Featured article candidates/Gulf War/archive1
+|action1result=not promoted
+|action1oldid=64867692
+
+|currentstatus=FFAC
+|otddate=2004-02-27
+|otdoldid=3496404
+|otd2date=2004-08-02
+|otd2oldid=5068889
+|otd3date=2005-01-16
+|otd3oldid=10491269
+|otd4date=2005-08-02
+|otd4oldid=20127478
+|otd5date=2006-08-02
+|otd5oldid=67178209
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Western Asia |class=C |importance=High |Kuwait=yes |Kuwait-importance=Top}}
+{{WikiProject Australia|class=C |importance=Mid}}
+{{WP1.0|v0.7=pass |class=C |category=History}}
+{{WikiProject Military history|class=c |British-task-force=yes |Canadian-task-force=yes |French-task-force=yes |US-task-force=yes |Middle-Eastern-task-force=yes |B-Class-1=no |B-Class-2=yes |B-Class-3=yes |B-Class-4=yes |B-Class-5=yes}}
+{{WikiProject Saudi Arabia|class=c |importance=Top}}
+{{WikiProject Arab world|class=C |importance=Low}}
+{{WikiProject Iraq|class=C |importance=Top}}
+{{WikiProject United States|class=c |importance=mid}}
+{{WikiProject New Zealand|class=c|importance=low}}
+{{American English}}}}
+{{Discretionary sanctions|a-i|long}}
+
+{{User:MiszaBot/config
+|archiveheader = {{talkarchivenav|noredlinks=y}}
+|maxarchivesize = 125K
+|counter = 1
+|minthreadsleft = 4
+|algo = old(100d)
+|archive = Talk:Gulf War/Archive %(counter)d
+}}
+{{User:HBC Archive Indexerbot/OptIn
+|target=Talk:Gulf War/Archive index
+|mask=Talk:Gulf War/Archive &lt;#&gt;
+|leading_zeros=0
+|indexhere=yes
+}}
+{{Archive box|bot=MiszaBot I|age=100|search=yes|auto=long|index=/Archive index}}
+
+==Untitled==
+Article merged: See old talk-page [[Talk:Naming the Gulf War|here]]
+
+==External links modified==
+Hello fellow Wikipedians,
+
+I have just modified {{plural:3|one external link|3 external links}} on [[Gulf War]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=722159490 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/20090818141800/http://users.lighthouse.net:80/danvaught/eyewitness01.html to http://users.lighthouse.net/danvaught/eyewitness01.html
+*Added archive https://web.archive.org/20100821200403/http://people.psych.cornell.edu:80/~fhoran/gulf/GW_cost/GW_payments.html to http://people.psych.cornell.edu/~fhoran/gulf/GW_cost/GW_payments.html
+*Added archive https://web.archive.org/web/20100711090755/http://www.deepdishtv.org/Series/Default.aspx?id=4 to http://www.deepdishtv.org/Series/Default.aspx?id=4
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II&lt;/sup&gt;]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner&lt;/span&gt;]]:Online&lt;/sub&gt;&lt;/small&gt; 10:23, 26 May 2016 (UTC)
+
+==Discussion at [[ Wikipedia:Village pump (proposals)#RfC: Persian Gulf and Arabian Gulf ]]==
+[[File:Farm-Fresh eye.png|15px|link=|alt=]]You are invited to join the discussion at [[ Wikipedia:Village pump (proposals)#RfC: Persian Gulf and Arabian Gulf ]].  [[User:Shhhnotsoloud|Shhhnotsoloud]] ([[User talk:Shhhnotsoloud|talk]]) 09:00, 7 June 2016 (UTC){{Z48}}&lt;!-- [[Template:Please see]] --&gt;
+
+==Why did the picture disappear?==
+It was obviously in the public domain. [[User:GMRE|GMRE]] ([[User talk:GMRE|talk]]) 12:07, 17 August 2016 (UTC)</text>
+      <sha1>9e4lc9tjjam4vi99yjftq0ezk1lev7q</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,602 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Palm Island, Queensland</title>
+    <ns>0</ns>
+    <id>1163769</id>
+    <revision>
+      <id>750359742</id>
+      <parentid>750358773</parentid>
+      <timestamp>2016-11-19T06:16:31Z</timestamp>
+      <contributor>
+        <username>Stephen</username>
+        <id>154721</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/203.214.99.185|203.214.99.185]] ([[User talk:203.214.99.185|talk]]) to last version by Izno</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="93618">{{about|the community|the island on which the community is located|Great Palm Island}}
+{{Use dmy dates|date=January 2013}}
+{{Use Australian English|date=January 2013}}
+{{Infobox Australian place
+| type     = town
+| name     = Palm Island
+| state    = qld
+| image    = Great Palm Island highlighted.PNG
+| caption  = Palm Island, [[North Queensland]]
+| latd  =18|latm =44 |lats  =
+| longd =146 |longm =35 |longs =
+| pushpin_label_position = right
+| lga      = Palm Island Aboriginal Shire Council
+| postcode = 4816
+| pop      = 1984
+| pop_year = {{CensusAU|2006}}
+| pop_footnotes = &lt;ref name=&quot;statistical district&quot;/&gt;
+| timezone = UTC+10
+| elevation=
+| maxtemp  =
+| mintemp  =
+| rainfall =
+| stategov = [[Electoral district of Townsville|Townsville]]
+| fedgov   = [[Division of Herbert|Herbert]]
+| dist1    = 57
+| dir1     = N
+| location1= Townsville
+| dist2    = 46
+| dir2     = E
+| location2= [[Ingham, Queensland|Ingham]]
+| dist3    = 224
+| dir3     = S
+| location3= [[Cairns, Queensland|Cairns]]&lt;ref&gt;{{cite web|url=http://www.fallingrain.com/icao/YPAM.html|title=Airport PALM ISLAND|accessdate=5 February 2007}}&lt;/ref&gt;
+}}
+'''Palm Island''' is an Aboriginal community located on [[Great Palm Island]], also called by the [[Indigenous Australians|Aboriginal]] name &quot;Bwgcolman&quot;, an island on the [[Great Barrier Reef]] in North [[Queensland]], Australia&lt;ref name=&quot;Lonely Planet&quot;&gt;Bindloss, Joseph (2002) page 330&lt;/ref&gt;  The settlement is also known by a variety of other names including &quot;the Mission&quot;, Palm Island Settlement or Palm Community.&lt;ref name=&quot;Background briefing&quot;&gt;{{cite news|first=Ian |last=Townsend |url=http://www.abc.net.au/rn/backgroundbriefing/stories/2007/1884420.htm |title=Privatising Palm Island |work=Background Briefing |publisher=[[Australian Broadcasting Corporation]] |date=1 April 2007 |accessdate=3 April 2007 |archiveurl=https://web.archive.org/web/20070428172740/http://www.abc.net.au/rn/backgroundbriefing/stories/2007/1884420.htm |archivedate=28 April 2007 |deadurl=yes |df=dmy }}&lt;/ref&gt;
+
+Palm Island is often termed a classic &quot;tropical paradise&quot; given its natural endowments, but it has had a troubled history since the [[History of Australia (1788-1850)|European settlement of Australia]].&lt;ref name=&quot;Oz – Bitter Paradise&quot;&gt;{{cite news|last=Koch|first=Tony|author2=MATP|title=BITTER PARADISE|work=[[The Weekend Australian]]|date=4 December 2004|section=Features|page=19}}&lt;/ref&gt;  For much of the twentieth century it was used by the [[Government of Queensland|Queensland Government]] as a settlement for Aboriginals considered guilty of such infractions as being &quot;disruptive&quot;, being pregnant to a white man or being born with &quot;[[Miscegenation|mixed blood]]&quot;.&lt;ref name=&quot;Cathy Freeman&quot;&gt;{{cite news|last=Meade|first=Kevin|title=Cathy Freeman, island of despair's patron saint|work=[[The Australian]]|date=26 January 1998|page=4}}&lt;/ref&gt;
+
+The community created by this history has been beset by many problems and has often been the discussion point of political and social commentators.  Of significant sociological concern is a lack of jobs and housing.&lt;ref name=&quot;Background briefing&quot;/&gt;  Since its creation as an Aboriginal reserve, Palm Island has been considered synonymous with Indigenous disadvantage and violence.&lt;ref name=&quot;Q Mag 3/07&quot;&gt;{{cite news|last=Walker|first=Jamie|title=skin deep|publisher=Qweekend ([[The Courier-Mail]])|date=17 March 2007|pages=16–21}}&lt;/ref&gt;  At the same time it has been at the forefront of political activism which has sought to improve the conditions and treatment of Australia's Indigenous peoples as well as redress injustices visited on them broadly as a race and on Palm Island specifically.&lt;ref name=&quot;Oz – Bitter Paradise&quot;/&gt;
+
+==History==
+[[File:View of Palm Island from wallaby point.JPG|thumb|right|View of Palm Island from Wallaby Point]]
+
+===Pre-settlement===
+In [[Manbarra]] folklore the Palm Island group were formed in the [[Dreamtime]] from the broken up fragments of an ancestral spirit, [[Rainbow Serpent]].&lt;ref name = &quot;Hooper 10&quot;&gt;{{cite book |last= Hooper |first= Chloe |authorlink= Chloe Hooper|title= The Tall Man: Death and Life on Palm Island |year= 2008|publisher= Penguin Group |location= Camberwell, Australia|isbn= 978-0-241-01537-7|page=10}}&lt;/ref&gt;
+
+The island was named by explorer [[James Cook]] in 1770 as he sailed up the eastern coast of Australia on his [[First voyage of James Cook|first voyage]].  It is estimated that the population of the island at the time of Cook's visit was about 200&amp;nbsp;Manbarra people.&lt;ref name = &quot;AATA268&quot;&gt;{{cite web|url=http://www.austlii.edu.au/cgi-bin/disp.pl/au/cases/cth/aat/2004/268.html|title=The Manbarra People and Great Barrier Reef Marine Park Authority and Anor [2004] AATA 268|author=Administrative Appeals Tribunal|publisher=Australasian Legal Information Institute (AustLII)|date=15 March 2004|accessdate=30 January 2007}}&lt;/ref&gt;&lt;ref name=&quot;Wilson Case study&quot;&gt;Wilson, Paul (1985) pages 49–50&lt;/ref&gt;  Cook sent some of his men to Palm Island and 'they returned on board having met with nothing worth observing.'&lt;ref name = &quot;Hooper 10&quot;/&gt;
+
+From the 1850s locals were recruitment targets to leave the island to be involved with [[Holothuroidea|bêche-de-mer]] and [[Pearl hunting|pearling]] enterprises with Europeans and Japanese.&lt;ref name = &quot;AATA268&quot;/&gt;&lt;ref name=&quot;Wilson Case study&quot;/&gt;
+
+By the end of the 19th century the population had been reduced to about 50.&lt;ref name = &quot;AATA268&quot;/&gt;&lt;ref name=&quot;Wilson Case study&quot;/&gt; In 1909 the Chief [[Protector of Aborigines]] visited the Island, apparently to check on the activities of Japanese pearling crews in the area, and reported the existence of a small camp of Aborigines.
+
+In 1916 Queensland's Chief Protector of Aborigines found Palm Island to be &quot;the ideal place for a delightful holiday' and that its remoteness also made it suitable for use as a penitentiary&quot; for &quot;individuals we desire to punish&quot;.&lt;ref name = &quot;Hooper 10&quot;/&gt;
+
+===&quot;Penal settlement&quot; 1920s–60s===
+In 1914 the Government established an [[Hull River Aboriginal Settlement|Aboriginal settlement]] on the [[Hull River National Park|Hull River]] near [[Mission Beach, Queensland|Mission Beach]] on the Australian mainland.  On 10 March 1918, the structures were destroyed by a [[cyclone]] and were never rebuilt.  Subsequently, the settlement relocated to Palm Island with the new population referred to as the [[Bwgcolman]] people.  In the first two decades of its establishment the population of Indigenous ''inmates'' increased from 200&lt;ref&gt;{{cite news|last= |first= |title=PALM ISLAND ABORIGINAL SETTLEMENT|publisher=The Queenslander|date=12 April 1919|page=13|url=http://nla.gov.au/nla.news-article22371485}}&lt;/ref&gt; to 1,630.  People from at least 57&amp;nbsp;different language speaking regions throughout Queensland were relocated to Palm.&lt;ref&gt;{{cite web|url=http://publib.slq.qld.gov.au/footprints/communities/mainlandmap.htm#palm |title=State Library of Queensland – Mainland Missions and Communities |accessdate=1 February 2007 |archiveurl=https://web.archive.org/web/20060823152055/http://publib.slq.qld.gov.au/footprints/communities/mainlandmap.htm#palm |archivedate=23 August 2006 |deadurl=yes |df=dmy }}&lt;/ref&gt;&lt;ref name=&quot;future directions history&quot;&gt;McDougall, Scott (January 2006), page 27&lt;/ref&gt;
+
+By the early 1920s, Palm Island had become the largest of the Government Aboriginal settlements.  Administrators found its location attractive as Aboriginal people could be isolated, but Palm Island quickly gained a reputation amongst Aborigines as a [[penal colony|penal settlement]].&lt;ref name=&quot;The Place&quot;&gt;''Palm Island – The Place'', Reconciliation and Social Justice Library (1996) [http://www.austlii.edu.au/cgi-bin/disp.pl/au/special/rsjproject/rsjlibrary/rciadic/individual/brm%5fbmj/4.html?query=%5e+palm+island Auslii website]{{dead link|date=July 2012}}. Retrieved 23 January 2007.&lt;/ref&gt;  They were removed from across Queensland as punishment; being &quot;disruptive&quot;, falling pregnant to a white man or being born with &quot;[[miscegenation|mixed blood]]&quot; were included in infringements which could lead to the penalty of being sent to Palm Island.&lt;ref name=&quot;Cathy Freeman&quot;/&gt;  New arrivals came after being sentenced by a court, or released from prison, or were sent by administrators of other missions wishing to weed out their more ill-mannered or disruptive Aboriginals.&lt;ref name=&quot;Wilson Case study&quot;/&gt; These removals to the Palm Island Mission continued until the late 1960s.
+
+On arrival, children were separated from their parents and then segregated by gender.&lt;ref&gt;{{cite news|last=Koch|first=Tony|title=Once oppressed voice strikes chord with crowd|work=[[The Australian]]|date=7 September 2004|page=2}}&lt;/ref&gt;  Aborigines were forbidden to speak their language and from going into &quot;white&quot; zones.&lt;ref&gt;{{cite news|last=Scott |first=Leisa |author2=MATP|title=Cruel history of the punishment place|work=[[The Australian]]|date=29 November 2004|page=10}}&lt;/ref&gt;  Every day activity was highly controlled by administrators including nightly curfews and the vetting of mail.&lt;ref name=&quot;future directions history&quot;/&gt;
+
+In the 1930s a local doctor highlighted [[malnutrition]] on the island, and demanded that the Government triple rations for the islanders and that children be provided with [[Juice|fruit juice]], but the request was denied.&lt;ref&gt;{{cite news|last=Neill|first=Rosemary|title=Beattie offer adds insult to injury|work=[[The Australian]]|date=16 August 2002|page=13}}&lt;/ref&gt;
+
+[[File:CricketonPI.jpg|left|thumb|Locals playing cricket with the bell tower in the background (1996)]]
+A bell tower was built to dictate the running of the mission.  It would ring each morning at eight; a signal for everyone to line up for parade in the mission square.  Those who failed to line up had their food allocation cut.  At nine each evening the bell would ring again signalling the shutting down of the island's electricity.  The bell tower still stands in the local square to this day, a relic of Palm's history.&lt;ref name=&quot;Q Mag 3/07&quot;/&gt;  It was recorded at the time that there was almost military-like discipline in the segregation between white and black, and that inmates &quot;were treated as rather dull retarded children&quot;.&lt;ref name=&quot;Wilson Case study50&quot;&gt;Wilson, Paul 1985 page&amp;nbsp;50&lt;/ref&gt;
+
+In 1927 a hospital was built at nearby [[Fantome Island]]; Aborigines were sent there mainly for treatment of [[sexually transmitted diseases]].  In 1936 Fantome Island became a medical clearing station where people sent to Palm Island were examined and treated if necessary.  A [[leprosarium]] was established on Fantome in 1939. After World War II the hospital was closed, and by 1965 only the leprosarium remained on Fantome, it was administered by a Roman Catholic nursing order until 1973 when the inhabitants were moved to Palm Island.
+
+The administrators had complete and unaccountable control over the lives of residents, punishments included the shaving of the girls' heads.&lt;ref name=&quot;Wilson Case study50&quot;/&gt;  On a surprise inspection of the Palm Island Prison during an official visit in the late 1960s, Senator [[Jim Keeffe]] and academic [[Henry Reynolds (historian)|Henry Reynolds]] discovered two 12- to 13‑year‑old schoolgirls incarcerated in the settlement's prison by the senior administrator on the island (the [[superintendent (police)|superintendent]]), because &quot;they swore at the teacher&quot;.&lt;ref&gt;{{cite interview |title= Race wars written out of Australian history: historian |last= Professor Reynolds|first= Henry|subjectlink= Henry Reynolds (historian)|interviewer= [[Kerry O'Brien (journalist)|Kerry O'Brien]] |url= http://www.abc.net.au/7.30/stories/s28233.htm |work= [[The 7.30 Report]]|publisher= [[Australian Broadcasting Corporation|ABC]]|date=7 June 1999}}&lt;/ref&gt;
+
+The following letter was written to a new bride by the &quot;Protector&quot;;
+&lt;blockquote&gt;
+&quot;Dear Lucy, Your letter gave me quite a shock, fancy you wanting to draw four pounds to buy a brooch, ring, bangle, work basket, tea set, etc, etc.  I am quite sure Mrs. Henry would expend the money carefully for you, but I must tell you that no Aborigine can draw 4/5 of their wages unless they are sick and in hospital and require the money to buy comforts... However, as it is Christmas I will let you have 1/5/ – out of your banking account to buy lollies with.&quot;&lt;ref name=&quot;Hooper 12&quot;&gt;Hooper, Chloe (2008) page 12&lt;/ref&gt;
+&lt;/blockquote&gt;
+&lt;!-- as per talk page there is a gap in the history here that should be filled--&gt;
+
+===Path to self governance 1986 – present===
+On 26 October 1986 ownership of the island was transferred to a newly formed ''Palm Island Community Council'' under a [[Deed of Grant in Trust]] from the Queensland government.&lt;ref&gt;{{cite news|last=Robbins|first=Matt|title=Island for wayward juveniles|work=The Australian|date=4 January 2000|page=4}}&lt;/ref&gt;
+
+Self-appointed &quot;president&quot; of Palm Island, [[Jeremy Geia]], symbolically declared independence from Australia in 2001.  The &quot;Peoples Democratic Republic of Palm Island&quot; was an expression of grievances against the Australian and Queensland Governments for neglect of Palm Islanders.&lt;ref&gt;{{cite news|title=Aboriginal community announces independence |url=http://www.abc.net.au/news/newsitems/200111/s417112.htm |publisher=[[Australian Broadcasting Corporation|ABC Online]] |date=15 November 2001 |accessdate=31 January 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070206032054/http://www.abc.net.au/news/newsitems/200111/s417112.htm |archivedate=6 February 2007 }}&lt;/ref&gt;  There were concerns at the time that this activism would interfere in a major Government investigation into [[sexual abuse]] by making victims too uncomfortable to come to the mainland for examination.&lt;ref&gt;{{cite news|title=Activist may jeopardise inquiries into Palm Island sexual abuse |url=http://www.abc.net.au/news/newsitems/200112/s439216.htm |publisher=[[Australian Broadcasting Corporation|ABC Online]] |date=13 December 2001 |accessdate=31 January 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20080418093111/http://www.abc.net.au/news/newsitems/200112/s439216.htm |archivedate=18 April 2008 }}&lt;/ref&gt;
+
+In 2001 The Palm Island State Emergency Services Cadet Group was formed.&lt;ref&gt;{{cite news |title= Palm Island welcomes new Cadet Group|url= http://www.emergency.qld.gov.au/ses/publications/pdf/SES_News_2001_08_aug.pdf|format= newsletter|publisher= State Emergency Services News |page= 4|date=July–August 2001|accessdate=2 June 2007}}&lt;/ref&gt;
+
+The Palm Island Community Council became the [[Palm Island Aboriginal Shire Council]] in 2004 under the Queensland ''Local Government (Community Government Areas) Act''.  Like the other Aboriginal Shire Councils that were created, this Act gave the Council full status as a Local Government on a par with other Councils in Queensland. {{Citation needed|date=June 2009}}
+
+==Notable events==
+
+===1930 Palm Island Tragedy===
+{{Main article|1930 Palm Island Tragedy}}
+In 1930, the Superintendent of the settlement shot and wounded two people, and set fire to several buildings, killing his two children.  Later in the day, the Superintendent was shot dead.&lt;ref name = &quot;Curry bio&quot;&gt;
+{{cite web
+| url         = http://www.adb.online.anu.edu.au/biogs/AS10115b.htm
+| title       = Curry, Robert Henry (Bob) (1885–1930)
+| first       = Joanne
+| last        = Watson
+| work        = Australian Dictionary of Biography
+| edition     = Online Edition, Copyright 2006, updated continuously
+| issn        = 1833-7538
+| publisher   = Australian National University
+| accessdate  =7 January 2011
+}}&lt;/ref&gt;
+An official inquiry by the Queensland Attorney General followed.  Those involved in the shooting of the Superintendent, including the Deputy Superintendent and the Palm Island Medical Officer, were charged with murder.  During the trial the Crown Prosecutor was directed by the trial judge to drop the charges, stating that the shooting was justified.&lt;ref name = &quot;Northern Standard 1&quot;&gt;
+{{cite news
+| url = http://nla.gov.au/nla.news-article48045958 
+| title = The Palm Island Murders, Pryor and Hoffman Discharged, Shooting of Curry Justified
+| newspaper = [[The Northern Standard]]
+| location = Darwin, NT
+| date = 19 August 1930
+| accessdate =7 January 2011
+| page = 1
+| publisher = National Library of Australia
+}}&lt;/ref&gt;
+
+===World War 2 use as a Catalina airbase===
+In July 1943 the [[US Navy]] built a [[Naval Air Station]] at Palm Island, with facilities to operate and overhaul [[PBY Catalina|Catalina]] [[flying boat]]s and patrol boats.  The air station was built at Wallaby point, an isolated area of Palm Island, overlooking a large stretch of sheltered water in Challenger Bay, which was ideal for flying boat operations.&lt;ref name=&quot;ozatwar&quot;&gt;{{cite web |url=http://ozatwar.com/airfields/palmislandnavalairstation.htm |title=PALM ISLAND NAVAL AIR STATION PALM ISLAND, QLD NEAR TOWNSVILLE DURING WW2 |accessdate=24 January 2007 |first=Peter |last=Dunn |date=22 May 2004}}&lt;/ref&gt;  The station was built by two officers and 122 enlisted men of Company C of the 55th Naval Construction Battalion (Seabee) that arrived 6 July 1943,&lt;ref&gt;{{Citation | last= 55th Naval Construction Battalion | first= |title=55th Naval Construction Battalion—Historical Information|  place=Washington, D.C. | publisher=Naval History And Heritage Command | series= | volume= | origyear= | page= | pages= | language= |url=http://www.history.navy.mil/museums/seabee/UnitListPages/NCB/055%20NCB.pdf}}&lt;/ref&gt; and a similar detachment that left Brisbane later with 1,500 tons of construction material.
+
+A 1,000 man camp was constructed at the point.  Concrete flying boat ramps to the ocean were built with a tarmac parking area for up to 12 flying boats.  Moorings for 18 flying boats were provided in Challenger Bay, and 3 nose hangars were also built. Coral aggregate from coral reefs at low tide was used to manufacture concrete.&lt;ref name=&quot;ozatwar&quot;/&gt;
+
+A series of fuel tanks were constructed to hold 60,000 barrels of aviation fuel. Steel rail lines were installed to launch the PBY Catalinas back into the water.
+
+By September 1943 the majority of the facilities were finished, and large numbers of operational and maintenance personnel began to arrive to commission the station.  The Palm Island US Naval Air Station was fully operational from 25 October 1943, and could repair an average of four aircraft per day.  The last personnel of the 55th Seabees left Palm Island on 8 November 1943.&lt;ref name=&quot;ozatwar&quot;/&gt;
+
+US Navy [[Patrol Squadron]] 101, Patrol Wing 10, with 8 PBY Catalinas as briefly stationed at Palm Island in December 1943, before relocating to [[Perth]].
+
+US Navy Patrol Squadron VP-11 arrived at the station in late December 1943 where they were taken off combat duties.  The squadron comprised 13 PBY-5 Catalinas, 46 officers and 99 enlisted men.  They carried out training and routine flights between [[Port Moresby]], [[Samarai]] and [[Brisbane]]. They were assigned to [[Fleet Air Wing]] 17 while at Palm Island, and left in February 1944.&lt;ref name=&quot;ozatwar&quot;/&gt;
+
+The Naval Air Station closed in May 1944.&lt;ref name=&quot;ozatwar&quot;/&gt; On 18 June 1944 one hundred seventy seven men and four officers of Company B, 91st Naval Construction Battalion (Seabee), arrived from [[Milne Bay]] to dismantle station's buildings and facilities, removeing and crating over 5,000 tons of materials and equipment and loading it aboard ship before departing 31 August 1944 and their return to Brisbane.&lt;ref&gt;{{Citation | last= 91st Naval Construction Battalion | first= |title=91st Naval Construction Battalion—Historical Information|  place=Washington, D.C. | publisher=Naval History And Heritage Command | series= | volume= | origyear= | page= | pages= | language= |url=http://www.history.navy.mil/museums/seabee/UnitListPages/NCB/091%20NCB.pdf}}&lt;/ref&gt;
+
+The remains of the steel rails and submerged wrecks of a number of Catalinas can still be seen today.  Live ammunition is occasionally found by locals. {{Citation needed|date=June 2009}}
+
+===1957 Strike===
+[[File:Veiw of nearby islands from mount bently, Palm Island.jpg|thumb|right|View of nearby islands from Mount Bently, Palm Island]]
+All Islanders were required to work 30 hours each week, and up until the 1960s no wages were paid for this work.&lt;ref name=&quot;Wilson Case study50&quot;/&gt; The catalyst for the strike was the attempted deportation of Indigenous inmate Albie Geia who committed the offence of disobeying the European overseer.&lt;ref name=&quot;play&quot;&gt;{{cite news| url=http://www.torresnews.com.au/index.php?option=com_content&amp;view=article&amp;id=492%3Astrike-of-57-production&amp;Itemid=59}}{{dead link|date=July 2012}}&lt;/ref&gt; The strike continued for five days and was broken with dawn raids to remove the families involved by boat to the mainland.
+
+Seven families were banished from the Palm Island in 1957 for taking part in a [[Strike action|strike]] organised to protest against the [[Dickensian]] working conditions imposed by the Queensland Government under the reserve system. Athlete [[Cathy Freeman]]'s mother, Cecilia Barber, and the family of strike ringleader Frederick William Doolan including [[Billy Doolan]] Jnr. were among those banished from the island.&lt;ref name=&quot;Cathy Freeman&quot;/&gt;&lt;ref&gt;{{cite news| url=http://www.theage.com.au/national/palm-island-dreaming-a-vivid-backdrop-to-the-art-of-making-doo-20101231-19c1f.html | location=Melbourne | work=The Age | first=Chris | last=Johnston | title=Palm Island dreaming, a vivid backdrop to the art of making Doo | date=1 January 2011}}&lt;/ref&gt;
+
+In a 2007 commemorative ceremony the Queensland Government apologised to the surviving wives of two of the strikers for the actions of the Government in the 1950s.&lt;ref name=&quot;IBN News – Strike&quot;&gt;{{cite news
+|url= http://ibnnews.org/national/palm_island_commemorating_1957_strike_16607_777778450124577_00000.html  | title =Palm Island commemorating 1957 strike  | publisher =IBN News  |date=16 June 2007  | accessdate =21 June 2007}}&lt;/ref&gt;
+
+===Wilson's criminological analysis===
+[[File:Palm Island, North-east bay.jpg|thumb|right|Palm Island, North-east bay]]
+In 1985 then Associate Professor of Sociology [[Paul Wilson (criminologist)|Paul Wilson]] published a [[Criminology|criminological]] analysis of criminal statistics averaged over the period of January 1977 to May 1984.&lt;ref name=&quot;Wilson Case study51&quot;&gt;Wilson, Paul (1985) pages 51–52&lt;/ref&gt;
+{| class=&quot;wikitable&quot;| align=&quot;center&quot; border=&quot;1&quot;
+|+ '''Estimated Violence Rates Per 100 000&amp;nbsp;people'''&lt;br /&gt;1976/77 to 1981/82
+|-
+!
+! style=&quot;text-align:center;&quot;|Aboriginal&lt;br /&gt;communities
+! style=&quot;text-align:center;&quot;|Queensland
+! Palm Island
+|-
+| Homicide
+| style=&quot;text-align:center;&quot;|39.6
+| style=&quot;text-align:center;&quot;|6.15
+| style=&quot;text-align:center;&quot;|94.3
+|-
+| Serious Assault
+| style=&quot;text-align:center;&quot;|226.1
+| style=&quot;text-align:center;&quot;|45.9
+| style=&quot;text-align:center;&quot;|929.9
+|}
+Wilson considered the Palm Island rates to be a gross underestimate, as the figures provided by the Legal Aid Office&lt;ref&gt;Townsville Aboriginal and Islander Legal Aid Office&lt;/ref&gt; only counted cases that went to court, whereas the Queensland rates, provided by the [[Australian Bureau of Statistics]], were based on reported incidents.
+
+The Palm Island figures demonstrated that 86% of violence involved the offender exhibiting heavy drinking patterns and in most cases the victim was also drinking.  38% of incidents involved people who were married or in a de facto relationship, and, of those, 90% of the offenders were male.&lt;ref name=&quot;Wilson Case study51&quot;/&gt;
+
+Wilson attributed the extreme crime rates to historical, social,  economic, housing and educational factors, and an &quot;alcohol culture&quot; that perceived not drinking to be antisocial.  Further contributing factors were the employment circumstances of Palm Island and the destruction of society and traditional culture and structures.  He cited research rejecting an Aboriginal propensity for violence and contrasted the [[Aurukun, Queensland|Aurukun]] community where no homicides had been recorded in the period from the 1950s.&lt;ref name=&quot;Wilson Case study53&quot;&gt;Wilson, Paul (1985) pages 53–55&lt;/ref&gt;
+
+At the time alcohol was limited to beer sold in the canteen between the hours of 5&amp;nbsp;pm and 9&amp;nbsp;pm.  Spirits were banned, however there was a flourishing [[Sly-grog shop|sly-grog]] trade.&lt;ref name=&quot;Wilson Case study53&quot;/&gt;
+
+===Kukamunburra remains returned===
+A burial site and headstone is located in the &quot;Mission&quot; area of Palm Island. It tells the story of a young Palm Island man of the 19th Century called Kukamunburra who was renamed &quot;Tambo&quot; by a circus agent for the &quot;[[Ringling Brothers and Barnum and Bailey Circus|Barnum, Bailey and Hutchinson's Greatest show on earth]]&quot;. He was toured along with eight other [[Murri (people)|Murris]], three of whom were from [[Hinchinbrook Island]] and five from Palm. {{Citation needed|date=June 2009}}
+
+In 1884 Kukamunburra died at 21 years old of [[pneumonia]] in [[Cleveland]], United States of America.  The rest of the circus group carried on to the European leg of the tour; by the end of 1885 only three of the Murris were still alive.&lt;ref name=&quot;News of the Odd – Tambo&quot;&gt;{{cite news|title=Tambo Tambo, Circus Performer, Dies |url=http://www.newsoftheodd.com/article1006.html |website=News of the Odd |accessdate=26 February 2007 |archiveurl=https://web.archive.org/web/20061209191338/http://www.newsoftheodd.com/article1006.html |archivedate=9 December 2006 |deadurl=yes |df=dmy }}&lt;/ref&gt;&lt;ref name=&quot;National Library – Tambo&quot;&gt;{{cite news|title=Captive Lives: Looking for Tambo and his companions |url=http://www.nla.gov.au/pressrel/1997/201097.html |publisher=National Library of Australia |date=20 January 1997 |accessdate=26 February 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20080602183434/http://www.nla.gov.au/pressrel/1997/201097.html |archivedate=2 June 2008 }}&lt;/ref&gt;
+
+Kukamunburra's body was embalmed; 109 years later, in 1993, the body was discovered in a local funeral parlour.  His remains were returned to his homeland and buried on Palm Island in February 1994.&lt;ref name=&quot;News of the Odd – Tambo&quot;/&gt;&lt;ref name=&quot;National Library – Tambo&quot;/&gt;
+
+===Palm Island Vision Plan===
+In December 1997 [[Queensland Health]] and the Palm Island Council initiated the ''Palm Island Public Mental Health Project'' aimed at overcoming serious social problems, particularly the suicide rate. {{Citation needed|date=June 2009}}
+
+This Project led to the May 1998 community development of a planning document, ''Palm Island Vision Plan''.  The planning document contained a series of visions and objectives as well as the nominated action group responsible for actioning each of them. {{Citation needed|date=June 2009}}
+
+Objectives included strategies to address a broad range of issues such as; significantly 'Aboriginalising' the local hospital within ten years, establishing a whole-of-government forum, economic development strategy and a program to combat youth suicide. {{Citation needed|date=June 2009}}
+
+The Queensland Health initiative gained momentum and support throughout 1998 and 1999 implementing a consultative process and it was met with optimism from a cross section of the community.  Unfortunately the project did not gain full support from other Departments and had objectives and timeframes which were in retrospect seen as unrealistically ambitious.  The project failed to secure funding for training for the community ‘facilitators’ and key people were forced to withdraw.  The project became unsustainable by the end of 1999 due to ad hoc funding and high demand on human resources. {{Citation needed|date=June 2009}}
+
+A subsequent Federal (Dillon) report alleged that Queensland Health employees appeared to question the program's worth and began to undermine it.  In response to a perception of this undermining, community leaders reaffirmed their commitment to the Vision Plan and requested the Department to instruct their Palm Island employees to ‘cease denigrating it’ in November 1999. By February 2000 Queensland Health withdrew from the project. {{Citation needed|date=June 2009}}
+
+The Dillon Report acknowledged that both the community and Queensland Health had invested a considerable amount into this project to provide developmental support to residents.  However it observed that the project was overly ambitious and the strain this placed on staff and resources meant that it was not likely to succeed.  Particularly where the projects objectives came into conflict with government bureaucracy which presented conflicts for Queensland Health.&lt;ref name=&quot;Dillon 5.2.1 Public Mental Health Project&quot;&gt;Dillon, Colin (April 2000) ''chapter 5.2.1 ESTABLISHING A FRAMEWORK FOR COMMUNITY DEVELOPMENT – Queensland Government's Public Mental Health Project – the Palm Island Vision Plan'' pages 120–122&lt;/ref&gt;
+
+===Compensation by Queensland Government for underpaid wages===
+[[File:Palm Island Swimming hole - 'Palm Valley'.jpg|thumb|right|Palm Island Swimming hole – 'Palm Valley']]
+
+In 1999 the Queensland Government apologised and gave $7,000 compensation each to former Indigenous Palm Islander employees in recompense for underpaid wages between 1975 and 1986.&lt;ref&gt;{{cite news|last=Robbins|first=Matt|title=No pay for sly groggers|work=The Australian|date=17 December 1999|page=7}}&lt;/ref&gt;  The payment was ordered by the [[Human Rights and Equal Opportunity Commission]] in a case first brought to the Commission by seven Palm Islanders in 1986.&lt;ref&gt;{{cite news|last=Robbins|first=Matt|title=Island's new rich spend up – Sofas, video recorders, stereos, toys and alcohol|work=The Australian|date=24 December 1999|page=8}}&lt;/ref&gt;
+
+===''Guinness Book of Records'' controversy===
+The 1999 edition of the ''[[Guinness Book of Records]]'' brought international attention to Palm Island when it named the island the most violent place on earth outside a combat zone.  To support this claim it stated statistics such as a murder rate 15 times higher than that of the entire state of Queensland, a life expectancy of 40 years, the highest rate of youth suicide per capita in the world, and a total of 40&amp;nbsp;suicide fatalities over a period of only five&amp;nbsp;years.&lt;ref name=Aust-131198&gt;{{cite news|last=Meade|first=Kevin|title=Welcome to Palm Island, the most violent haven on Earth|work=The Australian|date=13 November 1998|page=1}}&lt;/ref&gt;
+
+''[[The Australian]]'' newspaper hypothesised that the ''Guinness Book of Records'' statement was based on an article in a London newspaper.&lt;ref name=Aust-131198/&gt;  The article from ''The Sunday Times'' stated that Palm Island had one of the highest crime rates in the world and that &quot;boys ride bareback on horses through the near-derelict civic centre as infants ambush passing cars with [[slingshot]]s.&quot;&lt;ref name=ST-UK&gt;{{cite news|last=Levy|first=Adrian|author2=Scott-Clark, Cathy|title='Apartheid island' slaves sue Australia|work=The Sunday Times|location=London|date=5 October 1997|page=24}}&lt;/ref&gt;  It referred to violence statistics and stated that &quot;the white overseers&quot; left the island in 1985 removing most of the island's assets and resources, only allowing a [[Public house|pub]] to remain. ''The Sunday Times'' claimed that up to 30 people live in each house, without sufficient drinking water.&lt;ref name=&quot;ST-UK&quot;/&gt;
+
+The ''Guinness Book of Records'' figures were strongly disputed at the time by the Queensland Government, the Police Commissioner and the Palm Island Community Council.&lt;ref&gt;{{cite news|last=Meade|first=Kevin|title=The Earth's most violent place? Not here|work=The Weekend Australian|date=14 November 1998|page=7}}&lt;/ref&gt;  However, it was conceded by the Queensland Aboriginal Policy Minister, [[Judy Spence]], that Palm Island &quot;can be violent at times&quot;, particularly for women and children, but that the situation was being improved.&lt;ref name=Aust-131198/&gt;
+
+===Legal action in relation to pearl farming===
+[[File:Fantome and Orpheus Islands taken from Palm Island.jpg|thumb|right|[[Fantome Island]] and [[Orpheus Island]]s seen from Palm Island]]
+Zen Pearls Pty Ltd and Indian Pacific Pearls Pty Ltd (both controlled by Michael Crimp) established [[cultured pearl|pearl farms]] in 1998 with the permission of the [[Great Barrier Reef Marine Park Authority]]&lt;ref&gt;{{cite web
+| title =Zen Pearls Pty Ltd V Great Barrier Reef Marine Park Authority
+| publisher =Australian Indigenous Law Reporter
+| date = 15 March 2004
+| url =http://www.austlii.edu.au/au/journals/AILR/2004/8.html
+| accessdate =3 March 2007}} Para 24.&lt;/ref&gt; (which controls the sea waters around the islands), despite the opposition of, at least some, of the people of Palm Island.&lt;ref&gt;{{cite web
+| title =Zen Pearls Pty Ltd V Great Barrier Reef Marine Park Authority
+| publisher =Australian Indigenous Law Reporter
+|date=15 March 2004
+| url =http://www.austlii.edu.au/au/journals/AILR/2004/8.html
+| accessdate =3 March 2007}} Para 117 and following.&lt;/ref&gt;  On 24 September 1998 the Manbarra elders passed a resolution opposing the farms on the basis of;
+&lt;blockquote&gt;
+&quot;the historical and cultural significance of the Juno Bay site for both the [[Manbarra]] and [[Bwgcolman]] Peoples, the sense of trespass on traditional ownership rights, concerns that the cultural connection to the area would slip away and a strong feeling that the provision of a small number of employment opportunities offered by the pearling operations would not adequately compensate the damage to cultural values.&quot;&lt;ref&gt;{{cite web
+| title =Zen Pearls Pty Ltd V Great Barrier Reef Marine Park Authority
+| publisher =Australian Indigenous Law Reporter
+|date=15 March 2004
+| url =http://www.austlii.edu.au/au/journals/AILR/2004/8.html
+| accessdate =3 March 2007}} Para 146.&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+Subsequently, the Park Authority refused to extend the pearl farming permits and Crimp took action before the [[Administrative Appeals Tribunal]] to have this decision reversed.  On 15 March 2004 the Tribunal agreed that the permits should be terminated but allowed the existing pearling operations to continue to 1 December 2005.&lt;ref&gt;{{cite web
+| title =Zen Pearls Pty Ltd V Great Barrier Reef Marine Park Authority
+| publisher =Australian Indigenous Law Reporter
+|date=15 March 2004
+| url =http://www.austlii.edu.au/au/journals/AILR/2004/8.html
+| accessdate =3 March 2007}} Para 2.&lt;/ref&gt;  This decision was substantially upheld by the [[Federal Court of Australia|Federal Court]] on 21 October 2004.&lt;ref&gt;{{cite web
+| title =Great Barrier Reef Marine Park Authority v Indian Pacific Pearls Pty Ltd [2004] FCAFC 277
+| publisher =Australasian Legal Information Institute
+|date=21 October 2004
+| url =http://www.austlii.edu.au//cgi-bin/disp.pl/au/cases/cth/FCAFC/2004/277.html?query=Great%20Barrier%20Reef%20Marine%20Park%20Authority
+| accessdate =3 February 2007}}&lt;/ref&gt;
+
+===2004 death in custody controversy and riot===
+{{Main article|2004 Palm Island death in custody}}
+{{See also|Trial of Lex Wotton}}
+Australian Aboriginal Palm Island resident, [[Mulrunji]] (known as Cameron Doomadgee while alive), aged&amp;nbsp;36, died in November 2004 in a police cell on Palm Island, one hour after being picked up for allegedly causing a public nuisance.&lt;ref name=&quot;weekend-04&quot;&gt;{{cite news|last=Koch|first=Tony|author2=Fraser, Andrew|title=Police run for their lives as rioters torch buildings in a tropical island rampage|work=[[The Weekend Australian]]|date=27 November 2004|page=1}}&lt;/ref&gt;  The family of the deceased were informed by the Coroner that the death was the result of &quot;an intra-abdominal haemorrhage caused by a ruptured liver and portal vein&quot;.&lt;ref name=&quot;weekend-04&quot;/&gt;
+
+A week after the death the results of the [[autopsy]] report were read to a public meeting by then [[Palm Island Aboriginal Shire Council|Palm Island Council]] Chairwoman Erykah Kyle.  A succession of angry young Aboriginal men subsequently spoke to the crowd and encouraged immediate action be taken against the police.  Mulrunji's death was repeatedly branded &quot;cold-blooded murder&quot;, and a [[riot]] erupted.&lt;ref name=&quot;weekend-04&quot;/&gt;  The local courthouse, police station and police barracks were burned down and 18 local police and their families were forced to withdraw and barricade themselves in the hospital. Later the same day approximately 80&amp;nbsp;police from Townsville and Cairns were flown to Palm to restore order.&lt;ref name=&quot;weekend-04&quot;/&gt;
+
+In April 2005, in response to the riot, Premier Beattie established the Palm Island Select Committee to investigate issues leading to the riot and other problems. Their report was tabled on 25 August 2005, detailing  65&amp;nbsp;recommendations which seek to reduce violence and overcrowding, and improve standards of education and health. In achieving these objectives, issues such as drug and alcohol abuse and unemployment would also be addressed.&lt;ref name=&quot;ParlimentaryCtee05&quot;&gt;{{cite news|url=http://www.abc.net.au/news/newsitems/200508/s1446119.htm |title=Overcrowding central to Palm Island's problems: report |publisher=[[Australian Broadcasting Corporation|ABC Online]] |date=25 August 2005 |accessdate=25 January 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20051106131837/http://abc.net.au/news/newsitems/200508/s1446119.htm |archivedate=6 November 2005 }}&lt;/ref&gt;
+
+In late September 2006, coroner [[Christine Clements]] found that Doomadgee was killed as a result of punches by the Senior Sergeant arresting officer.&lt;ref&gt;[http://news.bbc.co.uk/1/hi/world/asia-pacific/5383950.stm Police accused of Aborigine death], [[BBC News]], 27 September 2006.&lt;/ref&gt;  Despite the finding of the coroner, [[Leanne Clare#Chris Hurley|Leanne Clare]], the Queensland [[Director of Public Prosecutions]] (DPP), announced on 14 December 2006 that no charges would be laid.&lt;ref&gt;[http://news.bbc.co.uk/1/hi/world/asia-pacific/6178575.stm No charges over Aborigine death], [[BBC News]], 14 December 2006.&lt;/ref&gt;  After media and public pressure, the Queensland Attorney-General appointed former Chief Justice of the [[Supreme Court of New South Wales]], Sir [[Laurence Street]] to review the decision.&lt;ref name=&quot;Street 07&quot;&gt;{{cite news |title = Street seeks island 'feeling'|url =http://www.news.com.au/couriermail/story/0,23739,21051129-3102,00.html | work = [[The Courier-Mail]] |date=12 January 2007 |first = Emma |last = Chalmers |author2=Odgers, Rosemary | accessdate =24 January 2007}}&lt;/ref&gt; The Street Review resulted in the overturning of the DPP's decision, with a finding that there was sufficient evidence to prosecute for [[manslaughter]].&lt;ref&gt;{{cite news|title=Policeman to be charged over Palm Island death|url=http://www.atns.net.au/objects/QI2003_052.jpg|publisher = [[Australian Broadcasting Corporation|ABC Online]] |date=26 January 2007|accessdate=30 January 2007}}&lt;/ref&gt;  A high-profile trial in the Townsville Supreme Court ensued.  In June 2007 the jury found the Senior Sergeant not guilty of manslaughter and assault charges. On 24 October 2008, a jury found [[Trial of Lex Wotton|Lex Wotton]], a two-time councillor on the [[Palm Island Aboriginal Shire Council]], guilty of inciting the 2004 riot that resulted in the destruction of the island's police station, the courthouse, and an officer's residence.&lt;ref&gt;{{cite news|last=|first=|date=24 October 2008|work=[[Australian Associated Press]]|title=Qld: Jury finds Wotton guilty over riot|section=|pages=|accessdate=18 November 2008|url=http://www.news.com.au/adelaidenow/story/0,,24549702-5006301,00.html}}&lt;/ref&gt; Wotton then was sentenced to seven years in prison,&lt;ref&gt;{{cite news|last=Guest|first=Annie|date=7 November 2008|work=[[PM (ABC Radio)]]|title=Jail for Palm Island rioter|section=|pages=|accessdate=18 November 2008|url=http://www.abc.net.au/pm/content/2008/s2413949.htm}}&lt;/ref&gt; reduced to six years for time already served.&lt;ref&gt;{{cite news|last=|first=|date=7 November 2008|work=[[ABC Premium News]]|title=Aboriginal leader criticises Wotton sentence|section=|pages=|accessdate=18 November 2008|url=http://www.abc.net.au/news/stories/2008/11/07/2413955.htm}}&lt;/ref&gt;
+
+==Governance==
+[[local government areas of Queensland|Local government]] on the island is provided by the [[Palm Island Aboriginal Shire Council]],&lt;ref name=&quot;LG&quot;&gt;{{cite web
+| url = http://www.lgp.qld.gov.au/applications/lgDirectory/CouncilInfo/Default.aspx?OrgCode=PALM
+| title = Local Government Directory – Palm Island Aboriginal Shire Council
+| work =
+| publisher = Queensland Department of Local Government &amp; Planning
+| accessdate =25 January 2007
+}}&lt;/ref&gt; created under the ''Local Government (Community Government Areas) Act (2004)''.  Previously, Palm Island was a community council without the same powers as other Queensland Shire Councils.  It was constituted under the authority of the Queensland ''Community Services (Aborigines) Act 1984'' as the Palm Island Aboriginal Council and had a Deed of Grant in Trust (DOGIT) for ten islands in the Palm Island Group.&lt;ref&gt;Dillon, Colin (April 2000) ''chapter 1.2.2 Historical INTRODUCTION – Historical Overviews – Palm Island'' page 10&lt;/ref&gt;
+
+The Current civic Cabinet consists of the Mayor, Deputy Mayor and three Councilors:
+*'''Mayor''': Alfred Lacey (Administration &amp; Finance, Alcohol Management, Youth Affairs, Health, Government Coordination &amp; Community Engagement)
+*'''Deputy Mayor''': Raymond Sibley (Education, Land, Sea &amp; Environment, Housing)
+*'''CEO''': Ross Norman
+'''Councilors''' (undivided council without divisions):
+*Ruth Gorringe (Commerce &amp; Economic Development, Education, Employment &amp; Training, Health)
+*Zina Prior (Commerce &amp; Economic Development, Sports &amp; Recreation, Land, Sea &amp; Environment, Housing)
+*Mick Thaiday (Community Justice, Cultural Heritage Events &amp; Planning, Emergency Services, Planning &amp; Infrastructure)&lt;ref&gt;{{cite web
+  | last =
+  | first =
+  | authorlink =
+  | title = Councillors – Palm Island Shire Council – Community Website
+  | work =
+  | publisher = Palm Island Shire Council
+  | url = http://www.piac.com.au/council/councillors.php
+  | doi =
+  | accessdate =27 December 2010}}&lt;/ref&gt;
+
+The structure of the Aboriginal Shire Council (or Community Council as it was previously) has been criticised for the following reasons:&lt;ref name=&quot;Dillon 3.1 Governance&quot;&gt;Dillon, Colin (April 2000) ''chapter 3.1 REVIEW FINDINGS – Governance'' pages 18–27&lt;/ref&gt;
+*''Comparatively broad responsibility'': it holds responsibility for policy portfolios which go far beyond what is expected of other Local Government Authorities, such as being the trustee of the DOGIT land, the provision of housing infrastructure, previously the running of the canteen and currently the running of the general store, law and justice, health, maintenance of culture and language, etc.  The Council is designed under the model of a mainstream Local Government Authority which structurally does not provide the latitude to address those functions which are not normally expected of mainstream Councils.
+*''Culturally inappropriate decision making'': The Organisation is not designed to deal with cultural issues or complex social problems; the normal Indigenous decision-making processes and protocols such as consultation and input from family groupings are not structurally accommodated.
+*''Unrealistic local expectations'': It is of concern that even greater expectations are put on the Community Council by their own constituents.  The Council is seen to have responsibility for all the community's needs and issues, ignoring the legislative limitations of the Council, the complexity of issues impacting on the community, the impact of past and present governments' policies and the skill level of respective Councillors. This leads to Palm Island Councillors having far higher expectations put on them than mainstream Councillors and deflects responsibility away from Government Agencies, which could lead to Councillors considering that their role was a do 'what-ever' was required to meet the diverse needs of residents.
+*''Red tape'': The Council is overburdened with accountability and reporting requirements which detract from the role of consulting with constituents over their needs and aspirations and strategies to address them.
+
+Final transition to full Shire Council status was completed in January 2007.&lt;ref name=&quot;LGP&quot;&gt;{{cite web | year = 2007 | url = http://www.lgp.qld.gov.au/?id=1971  | title = Aboriginal and Island Councils | publisher = Department of Local Government, Planning, Sport and Recreation  | work = Local Government and Planning | accessdate =23 January 2007}}&lt;/ref&gt;  The Shire's core business is the provision of housing.  It recently conducted an audit of its houses and the people living in them; the audit found that 120 new homes were needed, however the Council primarily relies on income from rent and Government subsidies and can only afford to build one or two new houses a year.&lt;ref name=&quot;Background briefing&quot;/&gt;  The Council has jurisdiction over the islands of the Palm Island Group other than [[Orpheus Island|Orpheus]] and [[Pelorus Island|Pelorus]] Islands.&lt;ref name=&quot;Lonely Planet&quot;/&gt;
+
+{| style=&quot;float:right;margin: 0 0 0.5em 1em;&quot;
+|-
+|
+{| class=&quot;wikitable&quot;
+! colspan=&quot;3&quot; | [[Queensland state election, 2006|2006 State Elections]]&lt;ref&gt;{{cite web|url=http://www.ecq.qld.gov.au/elections/state/state2006/results/booth84.html|title=Electoral Commission of Queensland – 2006 two candidate preferred and booth details|accessdate=28 December 2006}}&lt;/ref&gt;
+|-
+| {{Australian politics/party colours/Labor}}|&amp;nbsp;
+| Australian Labor Party || style=&quot;background:#ff9;&quot;|'''482–80.60%'''
+|-
+| {{Australian politics/party colours/Liberal}}|&amp;nbsp;
+| Liberal Party of Australia
+| style=&quot;background:#ff9;&quot;| 67–11.2%
+|-
+| {{Australian politics/party colours/Greens}}|&amp;nbsp;
+| Greens || style=&quot;background:#ff9;&quot;| 40–6.69%
+|-
+| {{Australian politics/party colours/Fishing Party}}|&amp;nbsp;
+| Fishing Party / Independent || style=&quot;background:#ff9;&quot;| 9–1.51%
+|}
+|}
+{| style=&quot;float:right;margin: 0 0 0.5em 1em;&quot;
+|-
+|
+{| class=&quot;wikitable&quot;
+! colspan =&quot;3&quot; | [[Australian federal election, 2004|2004 Federal Elections]]&lt;ref&gt;{{cite web|url=http://results.aec.gov.au/12246/results/HousePollingPlaceFirstPrefs-12246-5685.htm|title=POLLING PLACE – PALM ISLAND Australian Electoral Commission – Virtual Tally Room|accessdate=23 September 2007}}&lt;/ref&gt;
+|-
+| {{Australian politics/party colours/Labor}}|&amp;nbsp;
+| Australian Labor Party || style=&quot;background:#ff9;&quot;| 324–55.29%
+|-
+| {{Australian politics/party colours/Liberal}}|&amp;nbsp;
+| Liberal Party of Australia || style=&quot;background:#ff9;&quot;| '''188–32.08%'''
+|-
+| {{Australian politics/party colours/Family First}}|&amp;nbsp;
+| Family First || style=&quot;background:#ff9;&quot;| 45–7.68%
+|-
+| {{Australian politics/party colours/Greens}}|&amp;nbsp;
+| Greens || style=&quot;background:#ff9;&quot;| 18–3.07%
+|-
+| {{Australian politics/party colours/Democrats}}|&amp;nbsp;
+| Democrats || style=&quot;background:#ff9;&quot;| 5–0.85%
+|-
+| {{Australian politics/party colours/CEC}}|&amp;nbsp;
+| Citizens Electoral Council || style=&quot;background:#ff9;&quot;| 4–0.68%
+|-
+| {{Australian politics/party colours/One Nation}}|&amp;nbsp;
+| One Nation || style=&quot;background:#ff9;&quot;| 2–0.34%
+|}
+|}
+
+Palm Island falls in the federal [[Division of Herbert]] and the [[Electoral district of Townsville]].&lt;ref name=&quot;AEC:Herbert&quot;&gt;{{cite web|url=http://apps.aec.gov.au/esearch/electorate.cfm?Electorates__Electorate=HERBERT%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20 |title=Electorate:Herbert |work=[[Australian Electoral Commission]] Info Centre |date=20 January 2006 |accessdate=24 January 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20090703093514/http://apps.aec.gov.au/esearch/electorate.cfm?Electorates__Electorate=HERBERT%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20 |archivedate=3 July 2009 }}&lt;/ref&gt;&lt;ref name = &quot;ECQ Townsville&quot;&gt;{{cite web | url = http://www.ecq.qld.gov.au/profiles/Townsville/Map.pdf | title=State Electoral District of Townsville |format=PDF|year=2005|accessdate=24 January 2007}}&lt;/ref&gt;  [[Peter Lindsay]] ([[Liberal Party of Australia]]) is the Federal Member and [[Mike Reynolds (politician)|Mike Reynolds]] ([[Australian Labor Party]]) is the State Member.
+
+Peter Lindsay has claimed that Palm Island is a hopelessly dysfunctional community and that either the Island economy/landholdings should be mainstreamed or the [[Bwgcolman|Indigenous population]] should be relocated to the mainland.  The Palm Island Council and Mike Reynolds reacted with outrage calling the idea racist and lacking cultural competency, the Queensland Government has ruled out forced relocation.&lt;ref&gt;{{cite news|last=Grant |first=Karla |title=MOVING PALM |url=http://news.sbs.com.au/livingblack/index.php?action=proginfo&amp;id=311 |publisher=[[Living Black (SBS TV, Australia)]] |date=17 December 2006 |accessdate=31 January 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20060824080127/http://news.sbs.com.au/livingblack/index.php?action=proginfo&amp;id=311 |archivedate=24 August 2006 }}&lt;/ref&gt;
+
+==Economy==
+There is no [[fee simple|freehold]] [[title (property)|land title]] on Palm Island, with property owned by either the Local or State Government.  More than 90% of the adult population is unemployed.  There is no industry on the island despite rich natural resources such as [[crayfish]] worth $150 each and enormous tourism potential.&lt;ref name=&quot;Oz – Bitter Paradise&quot;/&gt;
+
+Carpentaria Land Council chief executive Brad Foster in 2004 summarised their economic standing thus; &quot;This island has 4000&amp;nbsp;residents, and the services applicable to a community with 500&amp;nbsp;people. That has to change and businesses have to be able to invest here, make profits, employ and train locals – get part of the real world.&quot;&lt;ref name=&quot;Oz – Bitter Paradise&quot;/&gt;
+
+Cost of living is relatively very high on Palm Island due to the remoteness of island living and the general lack of private enterprise.  At the island store bread costs approximately $4.20 a loaf, about twice the average in Australia.&lt;ref name=&quot;Q Mag 3/07&quot;/&gt;  Goods in general, particularly essential food items, cost considerably more than similar products in mainstream Queensland, sometimes two to three times higher.  The cost of living issue is exacerbated by economic loss to alcohol, drug dependence and gambling, and the fact that crops and livestock are not cultivated locally on the island.&lt;ref name=&quot;Dillon 3.12 Cost of Living&quot;&gt;Dillon, Colin (April 2000) ''chapter 3.12 REVIEW FINDINGS – Cost of Living'' pages 66–68&lt;/ref&gt;
+
+Around the island there are failed or abandoned ventures, the relics of which are still there; a piggery, chicken farm, disused stockyards, market garden and a joinery works.&lt;ref name=&quot;Oz – Bitter Paradise&quot;/&gt;
+
+A presently abandoned oyster farm is an example of one of the failed ventures on Palm Island.  The natural environment of Palm Island and adjacent [[Halifax Bay]] is ideal for the [[aquaculture]] of [[oysters]], [[shrimp]], [[prawns]] and [[mackerel]].  Over a five-year period in the 1970s Applied Ecology Pty Ltd (an organisation designed to assist Aboriginal communities to develop sustainable industries, funded by the Government) established an oyster lease on Palm Island.  At one point the lease had $600,000 worth of oysters.  Unfortunately due to alleged poor management and lack of interest among the community the oyster lease fell into disrepair.&lt;ref&gt;{{cite news|last=Hirst|first=George|title= From the archives: Keith Bryson – The man behind the White Lady (Part 2)|url=http://www.magnetictimes.com/index.php?ID=2273|work=Magnetic Times|year=2001|accessdate=23 February 2007}}&lt;/ref&gt;  The farm is purported to have cost $20&amp;nbsp;million.&lt;ref name=&quot;Oz – Bitter Paradise&quot;/&gt;
+
+Research by the Centre for Tropical Urban and Regional Planning at [[James Cook University]] has concluded that Palm Island has most of the resources it needs to be largely self-sufficient through housing, agriculture and tourism.  However Barry Moyle the [[Chief Executive Officer]] of the [[Palm Island Aboriginal Shire Council]] and former Mayor of [[Johnstone Shire Council]] suggests that the tourism potential of the island is hindered by the negative reputation that Palm Island is considered to have.  Moyle asserts that once potential tourists get past that negative image &quot;they will find really nice and beautiful people, with a rich culture, living on this untouched tropical gem of [[North Queensland]]&quot;.  Further, according to Moyle, &quot;it could be considered a big ask that people will get past the perception that the people are all no-hoper alcoholics and perpetrators of domestic violence, which is considered to be the general reputation that Palm Islanders have in broader Australia.  Locals say that there are bad eggs, but that is the same in all communities.&quot;&lt;ref name=&quot;Background briefing&quot;/&gt;
+
+===Land title===
+
+[[Native Title]] claims do not apply to most residents as they are not the [[Manbarra|original inhabitants]] of the land, the general community ([[Bwgcolman]] people) do have a strong historical connection to the land, most having been born there.  Having ''historical'' (as opposed to ''traditional'') rights recognised is a legally grey area.  Free hold title does not apply either; most land is controlled by the Palm Island Aboriginal Shire Council.  The land is held by the Council for the benefit of the community in [[Trust law|trust]], through a &quot;Deed of Grant in Trust&quot; (DOGIT).  This in practice means that, for example, a third party would not be able to lease and develop land on Palm Island without the permission of the community and even then leases are limited to 30&amp;nbsp;years.&lt;ref name=&quot;Background briefing&quot;/&gt;
+
+A basic three bedroom house costs approximately $350,000 to $400,000 to build on Palm Island (not including sewerage, power, phone and water, and the cost of the land).&lt;ref name=&quot;Background briefing&quot;/&gt;  Federal Minister [[Mal Brough]] has stated that building prices on Palm (or in indigenous communities in general) are over inflated and that it could be done for half the cost.&lt;ref name=&quot;Background briefing&quot;/&gt;  All homes are on crown land and are owned by the Palm Island Aboriginal Shire Council and are rented at a Government-subsidised rate of $44 to $60&amp;nbsp;a&amp;nbsp;week to residents.&lt;ref name=&quot;Background briefing&quot;/&gt;&lt;ref name=&quot;Q Mag 3/07&quot;/&gt;  There are 320&amp;nbsp;rental&amp;nbsp;houses under this arrangement.&lt;ref name=&quot;Background briefing&quot;/&gt;
+
+Most businesses are owned by the Council and land title restrictions hinder private investment; approval to build a house or start a business can take up to three years.&lt;ref name=&quot;Background briefing&quot;/&gt;
+
+[[File:Road up Mount Bently, Palm Island.jpg|thumb|right|Road up Mount Bently, Palm Island]] There is widespread frustration with the land title system.  Privatising home ownership and the creation of a market economy with long term leases is seen by some commentators as the best option to move forward on Palm.  This proposal is described as giving Indigenous people &quot;skin in the game&quot; and empowerment.  In the period 1999 to 2007 35&amp;nbsp;houses were replaced due to damage.  [[Noel Pearson]] of the [[Cape York Institute for Policy and Leadership]] argues that housing degradation in these communities has more to do with overcrowding and poor construction than it does with poor tenancy.  However he adds that Aboriginal people naturally take much better care of property that they have constructed or paid for themselves, than they do that which has been handed to them 'on a plate' and which they have had little personal engagement in.  The push for privatisation of title was led by the Australian Government (through [[Mal Brough]], Indigenous Affairs Minister), Noel Pearson, and some families on the island (the community is very divided on this issue). The proposal had partial (or cautious) support from the then Federal [[Australian Labor Party]] Opposition.&lt;ref name=&quot;Background briefing&quot;/&gt;
+
+However other Islanders are suspicious of these moves as an opportunity for the more powerful families to gain more power through land ownership or even worse a way of taking land off the Palm Islanders, who in desperation may sell to the highest bidding developer even if that bid significantly undervalues the land in question.&lt;ref name=&quot;Background briefing&quot;/&gt;  Professor [[Mick Dodson]], director of the Centre for Indigenous Studies at the [[Australian National University|ANU]], argues that the people on Palm Island do not have the financial capacity to compete in the housing market on a commercial basis: He asserts that the only solution to the problem of overcrowding lies in increasing the level of [[Public housing#Australia|public housing]], there are not the jobs to build capacity among locals to become home owners.&lt;ref name=&quot;Background briefing&quot;/&gt;
+
+There is an alternative option under the push for privatising landholdings which addresses fears of the land being lost from the community: a closed market system where [[:wikt:caveat|caveat]]s restricting ownership to members of the community are placed on 99-year leases.  This would mean that land could be bought and sold but only between Palm Islanders.&lt;ref name=&quot;Background briefing&quot;/&gt; It is unclear whether this arrangement would allow for mortgages as the banks who give the loans are outside the community and would require security for their loan that they can legally collect.
+
+Traditional ownership of the [[Manbarra]] people complicates debate about Palm Island land title.  There is no registered Native Title claim and only seven traditional owners still live on the island, however there could be a valid claim.  Professor Dodson argues that the historical international experience is that once communal title is extinguished then the indigenous people lose the land permanently.  Minister Brough argues that 100-year leases will not extinguish Native Title over the land.&lt;ref name=&quot;Background briefing&quot;/&gt;
+
+The Queensland Government, which has constitutional responsibility for land tenure, holds the position that this issue is extremely complex and that it will not be bullied by the Commonwealth.  The former state Minister for Indigenous Affairs, [[Warren Pitt]], in 2007 said that all parties have matured since Native Title was introduced and can recognise that while the issues are complex, the betterment of Aboriginal people can be realised.&lt;ref name=&quot;Background briefing&quot;/&gt;
+
+==Law and order==
+Palm Island has an extreme level of theft, domestic violence, sexual assaults against children and abject drunkenness.&lt;ref name=&quot;Oz – Bitter Paradise&quot;/&gt; This behaviour is attributed locally to boredom, aimlessness, lack of education, absence of role models and a complete loss of self-worth.&lt;ref name=&quot;Oz – Bitter Paradise&quot;/&gt; Another important factor is bitter family divisions which rule the social fabric of the island and a complex web of historical disputes between those families, some going back decades.&lt;ref name=&quot;Oz – Bitter Paradise&quot;/&gt;&lt;ref name=&quot;Q Mag 3/07&quot;/&gt;  Criminologist Dr Paul Wilson found Palm Island to have one of the highest rates of violent crime in the world. He suggested that the problems could be tied to repression of the past and colonial practices.&lt;ref name = &quot;Wilson04&quot;&gt;{{cite news | publisher = BBC News| last = Mercer |first= Phil | title = Aborigines' dark island home |url = http://news.bbc.co.uk/1/hi/world/asia-pacific/4066203.stm |date=4 December 2004|accessdate=24 January 2007}}&lt;/ref&gt; In the December 2004 to December 2005 period there were 76&amp;nbsp;admissions to the hospital for assault involving residents, 26&amp;nbsp;times the standard [[Queensland]] rate.&lt;ref name=&quot;Q Mag 3/07&quot;/&gt;
+
+These figures do not necessarily reflect the war-like violence that is commonly associated with Palm Island. St Michael's Catholic School Principal, Lil Mirtl, has stated that people visiting or living on the Island just need to take sensible precautions such as not walking alone at night, similar to precautions that people should exercise in most places.&lt;ref name=&quot;Q Mag 3/07&quot;/&gt;
+
+The most successful program implemented to reduce the high levels of crime is the Palm Island Community Justice Group.  The Justice Group has existed since 1992; it is a committee of elders on the island who, it is said, have far more influence over young offenders on the island than the police or courts.&lt;ref name=&quot;Oz – youth in good hands&quot;&gt;{{cite news|last=Meade|first=Kevin|title=Indigenous youth in good hands when it comes to discipline|work=The Australian|date=10 November 1998|page=4}}&lt;/ref&gt;  The Justice group has a statutory role within the judicial system in administering justice on the island.&lt;ref&gt;{{cite news|last=Royal|first=Simon|title=Sexual abuse, alcoholism, drugs: life on Palm Island|url= http://www.abc.net.au/7.30/content/2002/s453800.htm |work= [[The 7.30 Report]]|publisher= [[Australian Broadcasting Corporation|ABC]]|date=7 January 2002}}&lt;/ref&gt;  The group is funded by the Queensland Government to administer the program, created in response to the [[Royal Commission into Aboriginal Deaths in Custody]], with the aim of keeping indigenous children on Palm out of the criminal justice system.  Under the program, the Palm Island community is encouraged to devise their own systems for dealing with offenders.  In the three years after the Community Justice Group was established, Palm Island juveniles appearing before magistrates courts fell by a third.&lt;ref name=&quot;Oz – youth in good hands&quot;/&gt;  Police and the courts often refer offenders to the Community Justice Group.&lt;ref name=&quot;Oz – youth in good hands&quot;/&gt;
+
+&lt;blockquote&gt;
+&quot;These older ones have the wisdom and knowledge, and they can sit around the table and talk, and bring feuding parties together. .. When they come before us they can't bluff us, because it's black on black.&quot;  Peena Geia, Chairwoman of the Community Justice Group, 2001&lt;ref&gt;{{cite news|last=Laurie|first=Victoria|title=Payback – Justice in black &amp; white|work=The Australian|date=20 October 2001|page=1}}&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+In December 2001, the Community Justice Group assisted a five-day investigation by a team of Queensland police and Department of Families officers. The investigation discreetly collected information from islanders about suspected child sexual abuse in the community,&lt;ref name=&quot;Aust-191201&quot;&gt;{{cite news|last=McGregor|first=Adrian|title=Palm Islanders fear child-sex ring|work=[[The Australian]]|date=19 December 2001|page=4}}&lt;/ref&gt; resulting in a number of arrests.&lt;ref&gt;{{cite news|title=Child sex charges|work=The Australian|date=21 December 2001|page=5}}&lt;/ref&gt;  The investigation was accompanied by a series of allegations suggesting that almost 100% of girls between 13 and 16&amp;nbsp;years&amp;nbsp;old had contracted sexually transmitted diseases.  It was also alleged that girls as young as 12 had been trading sex for cigarettes and alcohol and that children as young as five were being molested.&lt;ref name=&quot;Aust-191201&quot; /&gt;
+
+There are various other local programs which have assisted with lowering the crime rate of Palm Island:  The Men's Group, coordinated by former Mayor Robert Blackley, runs a prison cell visitors program, a support service, and a children's night patrol.&lt;ref name=&quot;Background briefing&quot;/&gt;  In 2000, the Palm Island Council used a $40,000 state government grant to establish a community-run re-orientation program for youths to help reduce youth crime and suicide, by relocating wayward youths to a new youth and cultural camp where they would be taught their culture, language and art on neighbouring [[Fantome Island]], a former leprosarium.&lt;ref&gt;{{cite news|last=Robbins|first=Matt|title=Island for wayward juveniles|work=[[The Australian]]|date=4 January 2000|page=4}}&lt;/ref&gt;  The Coolgaree nippers club is the first indigenous club in Surf Lifesaving Queensland; Coolgaree is affiliated to Arcadian surf lifesaving club in the first year of the nippers club operating (1999) juvenile crime rates on Palm Island dropped from 186&amp;nbsp;offences to 99.&lt;ref&gt;{{cite news|last=Pryor|first=Cathy|title=Island's nippers help turn tide against crime|work=The Australian|date=27 September 2001|page=3}}&lt;/ref&gt;
+
+[[Tony Fitzgerald (judge)|Tony Fitzgerald]] QC investigated alcohol abuse in indigenous communities and was shocked by the extent of the statewide problem.&lt;ref name=&quot;7:30 -Fitzgerald&quot;&gt;{{cite news|last=Bevan|first=Scott|authorlink=Scott Bevan (journalist)|title=Fitzgerald report stirs political debate|url= http://www.abc.net.au/7.30/content/2002/s510506.htm|work= [[The 7.30 Report]]|publisher= [[Australian Broadcasting Corporation|ABC]]|date=21 March 2002}}&lt;/ref&gt;  He recommended to the Queensland government that unless things improved dramatically within a period of three years, that alcohol should be banned in consultation with the communities.&lt;ref name=&quot;7:30 -Fitzgerald&quot;/&gt;  Like other community councils (in 2001),&lt;ref name=&quot;7:30 -Fitzgerald&quot;/&gt; the Palm Island Community Council relied on revenue generated by alcohol sales at the hotel; the investigation report recommended this perceived conflict of interest end.&lt;ref&gt;[http://www.parliament.qld.gov.au/view/publications/documents/research/ResearchBriefs/2002/2002026.pdf] {{webarchive |url=https://web.archive.org/web/20110316071612/http://www.parliament.qld.gov.au/view/publications/documents/research/ResearchBriefs/2002/2002026.pdf |date=16 March 2011 }}&lt;/ref&gt;
+
+The Queensland Department of Aboriginal and Torres Strait Islander Policy commissioned a further report in 2005&lt;ref name=&quot;Future Directions&quot;/&gt; and, as a result of its recommendations, the islands in the [[Palm Island Aboriginal Shire Council]] became the 19th Queensland community&lt;ref&gt;{{cite news|last=Roberts|first=Greg|title=Beattie defends police methods|work=[[The Australian]]|date=30 November 2004|page=6}}&lt;/ref&gt; to become a restricted area for possession of alcohol from 19 June 2006.  These restrictions include a limit of one carton of [[beer]] disembarking from the ferry service.&lt;ref&gt;{{cite web|url=http://www.mcmc.qld.gov.au/community/search/palm_island.php#community|title=Palm Island – Alcohol management|author=Department of Aboriginal and Torres Strait Islander Policy (Queensland)|year=2005|accessdate=23 January 2007}}&lt;/ref&gt; The alternative source of alcohol is the Palm Island Hotel / canteen, for either on-site consumption or on a retail basis.  Alcohol sales from the canteen are again restricted to one carton per person, or per vehicle.&lt;ref name=&quot;???&quot;&gt;{{cite web
+ |url=http://www.liquor.qld.gov.au/Indigenous/Alcohol+Management+Plans/Palm+Island 
+ |title=Palm Island 
+ |publisher=Queensland Government Liquor Licensing Division 
+ |accessdate=26 February 2007 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20060918083421/http://www.liquor.qld.gov.au/Indigenous/Alcohol+Management+Plans/Palm+Island 
+ |archivedate=18 September 2006 
+ |df=dmy 
+}} &lt;/ref&gt;
+
+==Demographics==
+At the [[Census in Australia#2006|2006 census]] Palm Island had 1,984&amp;nbsp;residents, 93.4% of whom are of [[Indigenous Australians|indigenous origin]].&lt;ref name=&quot;statistical district&quot;&gt;{{Census 2006 AUS|id=345155770|name=Palm Island (S) (Statistical Local Area)|accessdate=27 June 2007|quick=on}}&lt;/ref&gt;  However, there are various conflicting estimates of the population size; 3,000–3,500&amp;nbsp;residents is a figure which has been regularly quoted by local, state and federal politicians.&lt;ref name=&quot;Q Mag 3/07&quot;/&gt;&lt;ref name=&quot;Tvl Bulletin – not the largest&quot;&gt;{{cite news|title=Palm not the largest community|work=[[Townsville Bulletin]]|date=16 August 2006|page=5}}&lt;/ref&gt;  There is controversy over the common practice of referring to Palm Island as the largest Indigenous community in Australia, with census figures from 2001 and 2006 showing the [[Yarrabah, Queensland|Yarrabah]] community as slightly larger.&lt;ref name=&quot;Tvl Bulletin – not the largest&quot;/&gt;&lt;ref name=&quot;Census Yarrabah&quot;&gt;* {{Census 2006 AUS|id=350107600|name=Yarrabah (S) (Statistical Local Area)|quick=on|accessdate=27 June 2007}}&lt;/ref&gt;
+
+The indigenous population generally identify with either the [[Bwgcolman]] (historical connection with Palm Island) or [[Manbarra]] (traditional connection) people.&lt;ref name = &quot;The Place&quot;/&gt; Compared with other parts of Australia, the Palm Island community is young with 35.6% under 15 and only 6.4% over 55.  Only 5.1% of the population describe themselves as being non-religious compared with 18.7% of Australians, 42.6% are [[Roman Catholic|Catholic]] (25.8% Australia wide), 23.2% [[Anglican Church of Australia|Anglican]] and 11.2% being other [[Protestant]].&lt;ref name=&quot;statistical district&quot;/&gt;
+
+The community, consisting of approximately 42&amp;nbsp;[[Murri (people)|mainland]] and [[Torres Strait Islander]] clan or family groups, suffers from chronic [[alcohol abuse|alcohol]], [[drug abuse|drug]] and [[domestic abuse]], has an [[unemployment]] rate of 90% and an average [[life expectancy]] of 50&amp;nbsp;years, thirty less than the Australian average.&lt;ref name=&quot;statelineSep06&quot;&gt;{{cite interview |last= Beattie|first= Peter |subjectlink= Peter Beattie |interviewer= Chris O'Brien |url= http://www.abc.net.au/stateline/qld/content/2006/s1752412.htm |work= [[Stateline (TV program)|''Stateline'' (Queensland edition)]]|publisher= [[Australian Broadcasting Corporation|ABC]]|location= Brisbane|date= 29 September 2006}}&lt;/ref&gt;&lt;ref name=&quot;hughes07&quot;&gt;{{cite web|last=Hughes |first=Helen |authorlink=Helen Hughes |date=8 January 2007 |url=http://www.cis.org.au/exechigh/Eh2007/EH20007.htm |title=Palmed off and abused |work=CIS Media Releases |publisher=The Centre for Independent Studies |accessdate=23 January 2007 }}{{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}&lt;/ref&gt;
+
+The 2006 census was conducted on 8 August; unlike mainstream Australia, Palm Island figures were not be based on forms filled out by each household on census evening.  Instead Palm Island was singled out for the population to be verbally interviewed individually over a ten-day period due to past controversy about the accuracy of census details for Palm Island.  Between ten and fifteen Indigenous census interviewers took the households' details from one adult from each house, interviews took between an hour and an hour and a half each and were conducted during business hours.&lt;ref name=&quot;Tvl Bulletin – will spot overcrowding&quot;&gt;{{cite news|last=Andersen|first=John|title=Island census 'will spot overcrowding'|work=[[Townsville Bulletin]]|date=16 August 2006|page=5}}&lt;/ref&gt;&lt;ref&gt;
+{{cite press release
+| title = Census has not forgotten Palm Island
+| publisher = Australian Bureau of Statistics
+|date=9 August 2006
+| url = http://www.abs.gov.au/ausstats/abs@.nsf/latestproducts/2903.0.55.002media%20release232006?opendocument&amp;tabname=Summary&amp;prodno=2903.0.55.002&amp;issue=2006&amp;num=&amp;view=
+| accessdate =9 May 2007
+}}&lt;/ref&gt;
+
+==Culture and sport==
+Many residents consider that the introduction of [[Western culture]] and the subsequent Mission policies of prohibiting the expression of [[Australian Aboriginal culture|traditional cultural]] has seriously eroded the cultural base of Palm Island.  Many of the contemporary issues of substance abuse, law and order problems and the high suicide rate have been attributed in part to this absence of [[culture]].&lt;ref&gt;Dillon, Colin (April 2000) ''chapter 2.4 ISSUES RAISED – Cultural Issues'' page 13&lt;/ref&gt;
+
+Amongst sporting activities on Palm Island [[boxing]] features prominently (both men's and women's) in 2006 11 young Palm Islanders represented Queensland at national boxing championships for the first time.&lt;ref name=&quot;Boxing&quot;&gt;{{cite news
+| last = Gerard
+| first = Ian
+|date=21 November 2006
+| url = http://www.kooriweb.org/foley/news/2006/palm/aust21nov06.html
+| title = New generation brings self-esteem to Palm Island
+| work=[[The Australian]]
+| accessdate =24 January 2007
+}}&lt;/ref&gt;  The Barracudas are the local rugby league team, with [[Vern Daisy]] as a notable ex-player.  In June 2005 the inaugural 3&amp;nbsp;on&amp;nbsp;3 Basketball competition was held, attracting over 300&amp;nbsp;locals.&lt;ref name=&quot;Qld PCYC Newsletter&quot;&gt;{{cite news
+ |last=Cassidy 
+ |first=Andy 
+ |date=Spring 2005 
+ |url=http://www.pcyc.org.au/news/BSC/BSC-SPRING05.pdf 
+ |title=PCYC – Driving positive change on Palm Island 
+ |publisher=PCYC Queensland – business supporters club news (newsletter) 
+ |accessdate=7 April 2007 
+ |format=PDF 
+ |archiveurl=https://web.archive.org/web/20070330010022/http://www.pcyc.org.au/news/BSC/BSC-SPRING05.pdf 
+ |archivedate=30 March 2007 
+ |deadurl=yes 
+ |df=dmy 
+}}&lt;/ref&gt;
+
+Many of the sporting activities are actively supported by or managed through the Queensland Police Citizens Youth Welfare Association facility; the Palm Island Community and Youth Centre (PICYC). The Centre was opened by the then [[Premier of Queensland|Premier]] [[Peter Beattie]] in February 2005 over strong community objections due to animosity towards the [[Queensland Police]] following the November 2004 [[2004 Palm Island death in custody|death in custody]] and the Police response to the subsequent [[2004 Palm Island death in custody#Riot|riot]].&lt;ref&gt;{{cite news|last=Gerard|first=Ian|author2=MATP|title=Islanders picket Beattie ceremony|work=[[The Australian]]|date=18 February 2005|page=6}}&lt;/ref&gt;  Having moved on from a dispute between the State Government and the Palm Island Council over who should run the facility,&lt;ref&gt;{{cite web |url=http://www.abc.net.au/am/content/2005/s1304792.htm |title=Peter Beattie opens youth centre in Palm Island |accessdate=3 March 2007 |work=[[Australian Broadcasting Corporation]]}}&lt;/ref&gt; the situation has become very positive and cooperative, the Centre is used for its intended purpose of youth and community engagement through sport and education.  Adults and youth use the facility heavily, including a gym for boxing training, facilities for; women's aerobics, ballroom dancing, Indoor Volleyball, 5&amp;nbsp;on&amp;nbsp;5 Indoor Soccer, Old-time Dancing, and a mix of conventional and traditional games.&lt;ref name=&quot;Qld PCYC Newsletter&quot;/&gt;&lt;ref name=&quot;PCYC Living Black&quot;&gt;{{cite news|last=Leha |first=Tim |date=23 August 2006 |url=http://news.sbs.com.au/livingblack/index.php?action=proginfo&amp;id=367 |title=Palm Island PCYC |publisher=[[Living Black (SBS TV, Australia)]] |accessdate=6 April 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070610220714/http://news.sbs.com.au/livingblack/index.php?action=proginfo&amp;id=367 |archivedate=10 June 2007 }}&lt;/ref&gt;&lt;ref name=&quot;PCYC website&quot;&gt;{{cite web|url=http://www.pcyc.org.au/branch/palisl.htm |title=Palm Island PCYC webpage |accessdate=7 April 2007 |archiveurl=https://web.archive.org/web/20070830110622/http://www.pcyc.org.au/branch/palisl.htm |archivedate=30 August 2007 |deadurl=yes |df=dmy }}&lt;/ref&gt;
+
+The PICYC, home to the Palm Island Police Citizens Youth Club, is considered to be a great success story, especially considering its controversial beginnings soon after the [[2004 Palm Island death in custody#Police youth centre|2004 death in custody and riot]].  The Centre is mostly staffed by community members who teach the younger generation both traditional and life skills such as weaving and cooking in a safe and comfortable environment. The Centre has an atmosphere of respect and traditional culture which tries to build children's confidence and self-esteem.  Additionally to the sporting activities, the Centre hosts community growth projects, services and facilities such as a radio service (''Bwgcolman Radio''), an Internet Café, TAFE cooking classes, after-school and vacation care, monthly discos, [[Drum circle|drumming groups]] ($8,000 worth of drums donated by the Queensland Police), Family Movie Nights, and Bingo.&lt;ref name=&quot;Qld PCYC Newsletter&quot;/&gt;&lt;ref name=&quot;PCYC Living Black&quot;/&gt;&lt;ref name=&quot;PCYC website&quot;/&gt;&lt;ref&gt;{{cite news |first=Neil |last=Doorley |title=The Palm Island PCYC is running a music program to encourage interaction between police and local indigenous youth |publisher= [[National Nine News]]|location=Brisbane|date=18 May 2007}}&lt;/ref&gt;  The PICYC employs a paid staff of nine locals and one volunteer.&lt;ref name=&quot;Qld PCYC Newsletter&quot;/&gt;
+
+==Infrastructure==
+&lt;!-- Image with unknown copyright status removed: [[File:jeddy.jpg|right|thumb|View of the pier, main port of the island, photographed 1996|{{Deletable image-caption|1=Friday, 5 October 2007|date=May 2012}}]] --&gt;
+Palm Island has no urban planning to speak of (most of the town has not been surveyed), although they officially have names there are no street signs or even traffic signs which are standard on most other Queensland roads.
+
+Facilities operated by the State Government on the island include a hospital, a Prep to Grade 10 school, the Palm Island Community and Youth Centre (PICYC), a [[sewage treatment]] plant, a local supermarket store and (new) police station and courthouse.&lt;ref name=&quot;Background briefing&quot;/&gt;&lt;ref name = &quot;SMH Tropic&quot;&gt;{{cite news |url=http://www.smh.com.au/news/National/Tropic-of-despair/2004/12/03/1101923341699.html|title= Tropic of despair |work=[[Sydney Morning Herald]]| date= 4 December 2004|first = Mark|last = Todd|accessdate=4 February 2007}}&lt;/ref&gt;
+
+The Palm Island Council operates the Palm Island Hotel (also known as the Coolgaree Bay Hotel and previously known as the canteen), the community's only outlet with a liquor license.&lt;ref name=&quot;Q Mag 3/07&quot;/&gt; The Council owns various other local services and businesses such as the garage and the Commonwealth Bank agency.&lt;ref name=&quot;Background briefing&quot;/&gt;
+
+Private retail enterprise on the Island is limited to a [[butcher]], a fish-and-chip shop, a clothes shop, the Post Office and a [[BP]] service station that sells [[Gasoline|petrol]] at about $.50 a litre more than Townsville.&lt;ref name=&quot;Background briefing&quot;/&gt;&lt;ref name=&quot;Q Mag 3/07&quot;/&gt;&lt;ref name = &quot;SMH Tropic&quot;/&gt;  Non-Government services which are standard for population bases of this size in Australia are absent on Palm Island include a baker, hairdresser and newsagent.&lt;ref name=&quot;Q Mag 3/07&quot;/&gt;
+
+In 2004 the army completed $10&amp;nbsp;million worth of work constructing a permanent water-supply dam on the island and upgrading a number of roads.&lt;ref name=&quot;Oz – Bitter Paradise&quot;/&gt;  Other transport infrastructure includes [[Palm Island Airport]] on the South-West of the Island from which [[Skytrans]] flies to and from [[Townsville]] up to four times each day.  Palm Island's pier is in Challenger Bay, a [[ferry]]-boat service operated by [[Sunferries]] makes a return trip from Townsville four times a week. A barge service operates twice a week from Townsville operated by Palm Island Barge Services bringing food, machinery and fuel to the island. Also there is another barge that operates from [[Lucinda, Queensland|Lucinda]].
+
+Transport on Palm Island is primarily walking with few private cars on the island, in 2005 the Police Citizens Youth Club (PCYC), with Queensland Transport, purchased a 23-seat community bus which runs a school bus service and transport to PCYC events.&lt;ref name=&quot;Qld PCYC Newsletter&quot;/&gt;
+
+==Education==
+
+Education infrastructure is comparatively high on Palm Island for a remote low population base.  There is [[Public and private education in Australia|State and private]] primary education locally and [[Queensland State High Schools|secondary education]] offered up to year twelve on the Island and a campus of the Barrier Reef Institute of [[TAFE]]. Some students chose to board on the main land at private schools.
+
+However educational outcomes are adversely affected by problems faced in home life, particularly; being exposed to serious alcohol and other substance abuse, family violence, exposure to suicides and attempted suicides, balancing cultural and educational demands, living with poverty, child abuse and overcrowded housing.  These problems can result in high rates of absenteeism, low self-esteem and little concentration on education.  Alternatively, school can be a haven from these external problems; there are many dedicated educators and concerned parents interested in contributing to an effective, viable and culturally appropriate education system on Palm.&lt;ref&gt;Dillon, Colin (April 2000) ''chapter 3.10  Review findings – Education/Youth'' pages 60–65&lt;/ref&gt;
+
+The island has two schools; St Michael's Catholic School (Prep to grade&amp;nbsp;7) and the [[Queensland State Schools|Education Queensland]]  Bwgcolman Community School (Prep to Grade&amp;nbsp;12).  The Bwgcolman Community School includes the Bwgcolman Community Library which is jointly managed and funded by the Council and State Government.&lt;ref&gt;{{cite web|url = http://publib.slq.qld.gov.au/directory/palmisla.htm|title = Palm Island Community Council library services|accessdate =2 February 2007}}&lt;/ref&gt;
+
+The Bwgcolman Community School has 350&amp;nbsp;students with 50&amp;nbsp;Indigenous and 27&amp;nbsp;non-Indigenous staff.&lt;ref&gt;{{cite news|last=Koch|first=Tony|title=Island kids get to the art of the matter|work=[[The Australian]]|date=1 December 2004|page=1}}&lt;/ref&gt;  Palm Island, like most Aboriginal communities, has difficulties with school attendance, the Principal of St. Michael's has stated that absenteeism averages about 30% among their 160&amp;nbsp;students.&lt;ref name=&quot;Q Mag 3/07&quot;/&gt;  A 2005 test at Bwgcolman school ([[News leak|leaked]] to the media) showed that the primary school students score &quot;significantly less&quot; than Queensland  average in literacy and numeracy.&lt;ref name=&quot;Q Mag 3/07&quot;/&gt;  St Michael's have a program of teaching students &quot;dainty&quot; ([[Australian English]]) as a third language in addition to the communally spoken &quot;[[Australian Aboriginal English|Island English]]&quot; and the particular [[Indigenous Australian languages|language group]] that the child belongs to.&lt;ref name=&quot;Q Mag 3/07&quot;/&gt;
+
+==Health==
+Palm Island is serviced by the Joyce Palmer Health Service based at the Palm Island Hospital, completed in 2000, which has an [[emergency department]] and a 15-bed general ward.  The service is named for Joyce Palmer, a  health worker who commenced her work in the 1940s at the Island's old grass hospital, and provided health care to the people of Palm Island for over 40&amp;nbsp;years. {{Citation needed|date=June 2009}}
+
+The hospital provides a primary level of acute care services and provides secondary services such as [[community health]], [[X-ray]], [[pharmacy]], dental, child health, sexual health, and [[Obstetrics|antenatal]] and specialist clinics.  There are two doctors based on Palm Island.  Critical patients are stabilised and transferred to [[Townsville Hospital]] by [[Royal Flying Doctor Service of Australia|Royal Flying Doctors Service]] or the [[Search and Rescue|Air Sea Rescue]].&lt;ref&gt;{{cite web |url=http://www.health.qld.gov.au/townsville/Facilities/joyce_palmer.asp| title =Joyce Palmer Health Service|accessdate =1 February 2007}}&lt;/ref&gt;  There is a community [[mental health]] team based at the Palm Island Hospital with nurses and indigenous health workers. A consultant psychiatrist visits for one day every 6&amp;nbsp;weeks.&lt;ref&gt;{{cite web|url=http://www.health.qld.gov.au/townsville/IMHS/Indigenous/palm.asp |title=Palm Island Mental Health Service |accessdate=7 May 2007 |archiveurl=https://web.archive.org/web/20070422031047/http://www.health.qld.gov.au/townsville/IMHS/Indigenous/palm.asp |archivedate=22 April 2007 |deadurl=yes |df=dmy }}&lt;/ref&gt;
+
+The [[Queensland Ambulance Service]] (QAS) began operations on Palm Island in 2000 and took over from the hospital based service. Presently staffed by two paramedics and three ambulance attendants, they average approx 2200 cases per year. One paramedic is qualified as a Paramedic Practitioner and practices under the guidelines of paramedic practitioners giving the community more health resources and options – this officer assists with sexual health cases and general medical cases including suturing at the local Joyce Palmer Health Service. The QAS is also involved in teaching [[First Aid]] to the community, &quot;Adopt an Ambo&quot; programs with both schools, motivational camps for teenagers and local football competitions and works closely with allied health services on the island. The QAS has also started a [[Box jellyfish|stinger]] prevention program with stinger stations having been established in different locations around the island. Funding has been raised to provide stinger suits to the communities children and adults through the PCYC and through funding grants obtained for the cause with the main one being the medicare benefit fund. A Joint Emergency Services Complex has now been completed and is located opposite the CDEP and at the old piggery site at the Farm Area – this complex house's the Qld Ambulance Service, The Qld Rural Fire Brigade and the Local SES unit, and is fully functional.
+
+Despite the healthcare facilities, a report tabled in the Queensland Parliament on 21 April 2006 claimed that conditions at Palm Island resembled those of a [[third world]] country.&lt;ref name=&quot;Future Directions&quot;&gt;{{cite book | last=McDougall | first=Scott |date=January 2006 | title=| place=| publisher=| page=74}}&lt;/ref&gt;&lt;ref&gt;{{cite hansard | url= http://parlinfo.parliament.qld.gov.au/isysnative/XFxXRUJTRVJWRVJcSEFOX0lTWVM2REJcMjAwNi5wZGZcMjAwNl8wNF8yMV9XRUVLTFkucGRm/2006_04_21_WEEKLY.pdf| house= [[Legislative Assembly of Queensland]]|date=21 April 2006| page=1338 |format=PDF}}&lt;/ref&gt;
+
+In 1979 an outbreak of [[hepatoenteritis]], also known as the ''Palm Island mystery disease'', was reported and described a [[hepatitis]]-like illness (associated with dehydration and bloody diarrhoea) in 138&amp;nbsp;children and 10&amp;nbsp;adults of Indigenous descent.&lt;ref&gt;{{cite journal
+| title =Severe hepatotoxicity caused by the tropical cyanobacterium (blue-green alga) Cylindrospermopsis raciborskii (Woloszynska) Seenaya and Subba Raju isolated from a domestic water supply reservoir
+| publisher =Applied and Environmental Microbiology
+|date=November 1985
+| pmc =238741
+| volume =50
+| issue =5
+| pmid =3937492
+| last1 =Hawkins
+| first1 =PR
+| last2 =Runnegar
+| first2 =MT
+| last3 =Jackson
+| first3 =AR
+| last4 =Falconer
+| first4 =IR
+| pages =1292–1295
+| journal =Applied and Environmental Microbiology}}&lt;/ref&gt;&lt;ref&gt;Bourke ATC, Hawes RB, Nielson A, Stallman ND. ''An outbreak of hepatoenteritis (the Palm Island mystery disease) possibly caused by algal intoxication [abstract]. Toxicon Suppl 1983;45–48.'&lt;/ref&gt;  This was proposed to have been caused by the toxin [[cylindrospermopsin]], which was released from [[lysis|lysed]] [[cyanobacteria]]l cells after the addition of excessive doses of [[copper sulfate]] to the water supply of [[Solomon Dam]] to target a bloom of [[Cylindrospermopsin|Cylindrospermopsis raciborskii]]. A later report alternatively proposed that the excess copper in the water was the cause of the disease. The excessive dosing was following the use of least-cost contractors to control the algae, who were unqualified in the field.&lt;ref name=&quot;MJA 2004&quot;&gt;{{cite journal|last=Prociv|first=Paul|url=http://www.mja.com.au/public/issues/181_06_200904/letters_200904_fm-6.html|year=2004|journal=Medical Journal of Australia|volume=181|issue=6|page=344|title=(Letters) Algal toxins or copper poisoning – revisiting the Palm Island 'epidemic'|accessdate=23 January 2007|pmid=15377259}}&lt;/ref&gt;
+
+In December 1934 there was a major outbreak of Influenza with a large number of residents hospitalised.&lt;ref&gt;{{cite news|last=|first=|title=INFLUENZA OUTBREAK AT PALM ISLAND|work=[[The Courier-Mail]]|date=22 December 1934|page=13}}&lt;/ref&gt;
+
+== References ==
+
+=== Citations ===
+{{Reflist|30em}}
+
+=== Sources ===
+* {{cite book |last= Bindloss|first= Joseph |authorlink= |title= Queensland|year= 2002|publisher= [[Lonely Planet]] |location= |ISBN = 0-86442-712-3}}''
+*{{cite book |last= Dillon|first= Colin|authorlink= |title= Final report – review of the indigenous communities of doomadgee and palm island|date=April 2000|publisher= Phillip, A.C.T. : ATSIC. Review commissioned by the then Australian Minister for Aboriginal and Torres Strait Islander Affairs, Senator [[John Herron (Australian politician)|John Herron]] March 1998|location= |ISBN =}}
+* {{cite book|last=McDougall |first=Scott |date=January 2006 |title=Palm Island: Future Directions – Resource Officer Report |location=[[Brisbane, Queensland]] |publisher=(the former) Queensland Department of Aboriginal and Torres Strait Islander Policy |url=http://www.datsip.qld.gov.au/resources/publications/documents/future-directions-palm-island-resource-officer-report.pdf |format=PDF |deadurl=yes |archiveurl=https://web.archive.org/web/20070707062313/http://www.datsip.qld.gov.au/resources/publications/documents/future-directions-palm-island-resource-officer-report.pdf |archivedate=7 July 2007 }}
+* {{cite web|last=Hooper |first=Chloe |authorlink= |title=The Tall Man: Inside Palm Island's Heart of Darkness |url=http://www.themonthly.com.au/tm/node/185 |date=March 2006 |work=[[The Monthly]] |deadurl=yes |archiveurl=https://web.archive.org/web/20080828171629/http://www.themonthly.com.au/tm/node/185 |archivedate=28 August 2008 }}
+* {{cite web|last=[http://www.parliament.qld.gov.au/PISC Palm Island Select Committee] |first= |authorlink= |title=Report – August 2005 |url=http://www.parliament.qld.gov.au/PISC/view/committees/documents/PISC/reports/report.pdf |date=August 2005 |publisher=[http://www.parliament.qld.gov.au/view/legislativeAssembly/tableOffice/documents/historical/tabledPapers/TABLEDPAPERS-0511st.pdf Tabled] in the [[Legislative Assembly of Queensland]] 25 August 2005 |location= |isbn= |format=PDF |deadurl=yes |archiveurl=https://web.archive.org/web/20070925233302/http://www.parliament.qld.gov.au/PISC/view/committees/documents/PISC/reports/report.pdf |archivedate=25 September 2007 }}
+* {{cite web|author=Queensland Government |authorlink=Queensland Government |title=Queensland Government Response to the [http://www.parliament.qld.gov.au/PISC Palm Island Select Committee] |url=http://www.parliament.qld.gov.au/PISC/view/committees/documents/PISC/response%20to%20PISC.PDF |date=November 2005 |work=[http://www.parliament.qld.gov.au/view/legislativeAssembly/tableOffice/documents/historical/tabledPapers/TABLEDPAPERS-0511st.pdf Tabled] in the [[Legislative Assembly of Queensland]] 10 November 2005 |location= |isbn= |deadurl=yes |archiveurl=https://web.archive.org/web/20070925233256/http://www.parliament.qld.gov.au/PISC/view/committees/documents/PISC/response%20to%20PISC.PDF |archivedate=25 September 2007 }}
+* {{cite web |author = Queensland Government |authorlink= Queensland Government |title= Queensland Government Progress Report on implementation of the Government Response to the Palm Island Select Committee |date=November 2006 |work = [http://www.parliament.qld.gov.au/view/legislativeassembly/tableOffice/documents/HALnks/061128/MinStats.pdf Tabled]{{dead link|date=July 2012}} in the [[Legislative Assembly of Queensland]] 28 November 2006|location= |isbn=}}
+* {{Cite journal |last = Watson |first = Joanne |title = Becoming Bwgcolman : exile and survival on Palm Island Reserve, 1918 to the present |journal = PhD Thesis |publisher = School of History, Philosophy, Religion, and Classics, The University of Queensland |year = 1994 |postscript = &lt;!-- Bot inserted parameter. Either remove it; or change its value to &quot;.&quot; for the cite to end in a &quot;.&quot;, as necessary. --&gt;{{inconsistent citations}}}}
+* {{cite journal |last = Wilson |first= Paul |authorlink= |title = Black Death White Hands Revisited: The Case of Palm Island |journal = Aust. &amp; NZ Journal of Criminology |date = March 1985 |volume= 18 |pages = 49–57|doi = 10.1177/000486588501800106}}
+
+==External links==
+*[http://www.bwgcolmacoms.eq.edu.au/ Bwgcolmacom Community School website]
+*[https://web.archive.org/web/20060506105216/http://www.accq.org.au:80/comm/palm.htm Local Council information]
+*[http://www.pcyc.org.au/branches/palm-island/index.php Palm Island PCYC webpage]{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}
+*[https://web.archive.org/web/20060901002408/http://atns.net.au/biogs/A002600b.htm Database of Agreements to which the Palm Island Aboriginal Shire Council are parties]
+*[http://www.health.qld.gov.au/townsville/Facilities/joyce_palmer.asp Joyce Palmer Health Service webpage]
+*[http://home.st.net.au/~dunn/airfields/palmislandnavalairstation.htm Dunn, Peter &quot;WW2 Palm Island naval base&quot; Australia @ War, 22 May 2004 &lt;small&gt;(and updated since)&lt;/small&gt;]
+*[https://web.archive.org/web/20070206023827/http://www.mcmc.qld.gov.au:80/community/search/palm_island.php Queensland Government information webpage on Palm Island and alcohol management]
+*[http://www.communityrenewal.qld.gov.au/communities/operate/palm_island.shtm Queensland Government information webpage on Community Renewal on Palm Island]
+*[https://web.archive.org/web/20060917224058/http://www.mcmc.qld.gov.au/community/documents/palm-island-map.pdf Queensland Government map of alcohol restriction zone]
+*[https://web.archive.org/web/20071007011934/http://www.indigenous.gov.au/sra/qld/fact_sheets/qldnov0506.html Australian Government Shared Responsibility Agreement – Palm Island our horses, our responsibility]
+
+&lt;u&gt;'''Articles produced by [[The Brisbane Institute]] think tank'''&lt;/u&gt;
+
+*Professor [[Steffen Lehmann]],  ''Lessons from Palm Island'', The Brisbane Institute, 17 November 2005
+*Boe, Andrew, ''Palm Island: something is very wrong'', The Brisbane Institute, 21 April 2005
+*Boe, Andrew, ''Palm Island Inquest findings – the unacceptable political inertia'', The Brisbane Institute, 6 October 2006
+
+{{Great Palm Island group}}
+{{Suburbs of Townsville}}
+{{1stVoyageCookAus}}
+
+{{good article}}
+
+[[Category:North Queensland]]
+[[Category:Townsville]]
+[[Category:Aboriginal communities in Queensland]]
+[[Category:Queensland in World War II]]
+[[Category:Aboriginal Shire of Palm Island]]
+[[Category:Palm Island, Queensland| ]]</text>
+      <sha1>ruo6qota7hkil9mu1jx3xlaclbzevzb</sha1>
+    </revision>
+  </page>
+</mediawiki>

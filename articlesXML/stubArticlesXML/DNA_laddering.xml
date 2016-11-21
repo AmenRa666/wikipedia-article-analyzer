@@ -1,0 +1,96 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>DNA laddering</title>
+    <ns>0</ns>
+    <id>4791660</id>
+    <revision>
+      <id>748196090</id>
+      <parentid>721425589</parentid>
+      <timestamp>2016-11-06T22:49:14Z</timestamp>
+      <contributor>
+        <username>Pji2013</username>
+        <id>29349215</id>
+      </contributor>
+      <comment>Added sources, and information to improve the quality of the article, and make it more reliable</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5995">[[File:Apoptotic DNA Laddering.png|alt=White DNA bands against a  dark grey background, resembling the rungs of a ladder|thumb|right||upright|DNA laddering (left) visualised in an [[agarose gel]] by [[ethidium bromide]] staining. A [[Base pair#Length measurements|1 kb]] [[DNA ladder|marker]] (middle) and [[Scientific control|control]] DNA (right) are included.]]
+
+'''DNA laddering''' is a feature that can be observed when [[DNA]] fragments, resulting from [[apoptotic DNA fragmentation]], are visualized after separation by [[gel electrophoresis]]. It was first described in 1980 by [[Andrew Wyllie]] at the [[University of Edinburgh Medical School]].&lt;ref&gt;
+{{cite journal| author = Wyllie AH| date = 1980-04-10| title = Glucocorticoid-induced thymocyte apoptosis is associated with endogenous endonuclease activation| journal = [[Nature (journal)|Nature]]| volume = 284| issue = 5756| pages = 555–556| issn = 0028-0836| doi = 10.1038/284555a0| pmid = 6245367| url = http://www.nature.com/nature/journal/v284/n5756/abs/284555a0.html}}&lt;/ref&gt; DNA fragments can also be detected in cells that underwent necrosis, but when these DNA fragments are visualized after separation there is no clear &quot;ladder&quot; pattern present.&lt;ref&gt;{{Cite journal|last=Kressel|first=M.|last2=Groscurth|first2=P.|date=1994-12-01|title=Distinction of apoptotic and necrotic cell death by in situ labelling of fragmented DNA|url=https://www.ncbi.nlm.nih.gov/pubmed/7850865/|journal=Cell and Tissue Research|volume=278|issue=3|pages=549–556|issn=0302-766X|pmid=7850865}}&lt;/ref&gt;
+
+DNA laddering is a distinctive feature of DNA degraded by [[caspase-activated DNase]] (CAD), which is a key event during [[apoptosis]]. CAD cleaves genomic DNA at [[internucleosomal linker]] regions, resulting in DNA fragments that are multiples of 180–185 [[base-pair]]s in length.&lt;ref name=&quot;:0&quot;&gt;{{Cite journal|last=Elmore|first=Susan|date=2007-01-01|title=Apoptosis: A Review of Programmed Cell Death|url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2117903/|journal=Toxicologic pathology|volume=35|issue=4|pages=495–516|doi=10.1080/01926230701320337|issn=0192-6233|pmc=2117903|pmid=17562483}}&lt;/ref&gt; Separation of the fragments by [[agarose gel electrophoresis]] and subsequent visualization, for example by [[ethidium bromide]] staining, results in a characteristic &quot;ladder&quot; pattern.
+
+While most of the [[Morphology (biology)|morphological]] features of apoptotic cells are short-lived, DNA laddering can be used as final state read-out method and has therefore become a reliable method to distinguish [[apoptosis]] from [[necrosis]].&lt;ref name=Iwata1994&gt;
+{{cite journal| vauthors = Iwata M, Myerson D, Torok-Storb B, Zager RA|date=December 1994| title = An evaluation of renal tubular DNA laddering in response to oxygen deprivation and oxidant injury| journal = [[Journal of the American Society of Nephrology]]| volume = 5| issue = 6| pages = 1307–1313| issn = 1046-6673| doi = | pmid = 7893995| url = http://jasn.asnjournals.org/cgi/content/abstract/5/6/1307}}&lt;/ref&gt; DNA laddering can also be used to see if cells underwent apoptosis in the presence of a virus.&lt;ref&gt;{{Cite journal|last=Srivastava|first=Vikram|last2=Rawall|first2=Shweta|last3=Vijayan|first3=V. K.|last4=Khanna|first4=Madhu|date=2009-05-01|title=Influenza a virus induced apoptosis: inhibition of DNA laddering &amp; caspase-3 activity by zinc supplementation in cultured HeLa cells|url=https://www.ncbi.nlm.nih.gov/pubmed/19675388|journal=The Indian Journal of Medical Research|volume=129|issue=5|pages=579–586|issn=0971-5916|pmid=19675388}}&lt;/ref&gt; This is useful because it can help determine the effects a virus has on a cell.
+
+DNA laddering can only be used to detect apoptosis during the later stages of apoptosis. This is due to DNA fragmentation taking place in a later stage of the apoptosis process.&lt;ref name=&quot;:0&quot; /&gt; DNA laddering is used to test for apoptosis of many cells, and is not accurate at testing for only a few cells that committed apoptosis. &lt;ref name=&quot;:0&quot; /&gt; To enhance the accuracy in testing for apoptosis, other assays are used along with DNA laddering such as TEM and TUNEL.&lt;ref name=&quot;:0&quot; /&gt; With recent improvements to DNA laddering, DNA laddering has become a more reliable, and reasonable technique to use when detecting apoptosis.&lt;ref&gt;{{Cite journal|last=Rahbar Saadat|first=Yalda|last2=Saeidi|first2=Nazli|last3=Zununi Vahed|first3=Sepideh|last4=Barzegari|first4=Abolfazl|last5=Barar|first5=Jaleh|date=2015-01-01|title=An update to DNA ladder assay for apoptosis detection|url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4401164/|journal=BioImpacts : BI|volume=5|issue=1|pages=25–28|doi=10.15171/bi.2015.01|issn=2228-5652|pmc=4401164|pmid=25901294}}&lt;/ref&gt; It is also important to note that DNA laddering occurs differently depending on the type of cell, so there may be slight changes in the process of DNA laddering depending on the cell that is being investigated. &lt;ref&gt;{{Cite journal|last=Jiang|first=Ai-Liang|last2=Cheng|first2=Yanwei|last3=Li|first3=Jianyou|last4=Zhang|first4=Wei|date=2008-07-31|title=A zinc-dependent nuclear endonuclease is responsible for DNA laddering during salt-induced programmed cell death in root tip cells of rice|url=https://www.ncbi.nlm.nih.gov/pubmed/18295371|journal=Journal of Plant Physiology|volume=165|issue=11|pages=1134–1141|doi=10.1016/j.jplph.2007.12.008|issn=1618-1328|pmid=18295371}}&lt;/ref&gt;
+
+*[[Apoptotic DNA fragmentation]]
+*[[Caspase-activated DNase]]
+*[[Nicoletti assay]]
+*[[TUNEL assay]]
+
+==References==
+{{Research help|Med}}
+{{reflist|2}}
+
+==Further reading==
+{{Cite journal | last1 = Yeung | first1 = M. C. | title = Accelerated apoptotic DNA laddering protocol | journal = BioTechniques | volume = 33 | issue = 4 | pages = 734, 736 | year = 2002 | pmid = 12398177}}
+
+[[Category:Apoptosis]]
+[[Category:Biological techniques and tools]]
+[[Category:Cell biology]]
+[[Category:Electrophoresis]]
+[[Category:Laboratory techniques]]
+[[Category:Programmed cell death]]
+
+
+{{cell-biology-stub}}</text>
+      <sha1>742pncgpzour9n71lhh4ewo7jru77bp</sha1>
+    </revision>
+  </page>
+</mediawiki>

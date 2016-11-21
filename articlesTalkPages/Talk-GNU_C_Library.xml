@@ -1,0 +1,158 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:GNU C Library</title>
+    <ns>1</ns>
+    <id>1645474</id>
+    <revision>
+      <id>632597905</id>
+      <parentid>542594701</parentid>
+      <timestamp>2014-11-05T20:01:59Z</timestamp>
+      <contributor>
+        <username>RokerHRO</username>
+        <id>7913967</id>
+      </contributor>
+      <comment>/* When the support for Intel 386 was dropped? */ new section</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10311">{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Computing|class=Start|importance=Mid}}
+{{WPFS|class=Start|importance=High}}
+{{WikiProject Linux|class=Start|importance=High}}
+{{WikiProject C/C++|class=Start|importance=High|c=yes}}
+}}
+
+{{User:WildBot/m04|sect={{User:WildBot/m03|1|GNU variants#Debian GNU/NetBSD|Debian GNU/NetBSD}}, {{User:WildBot/m03|1|GNU variants#Debian GNU/kFreeBSD|Debian GNU/kFreeBSD}}|m04}}
+
+== dicdef? ==
+isn't this really kind of more of a dicdef than an encyclopedic entry? [[User:Avriette|Avriette]] 00:56, 25 Mar 2005 (UTC)
+
+== Covered by GPL? ==
+Is this library licensed under the GPL?  Is it, then, possible at all to compile and release proprietary programs under Linux using these standard C libraries, which I'm pretty sure are the only modern ones available under Linux?  --[[User:I am not good at running|I am not good at running]] 05:30, 12 May 2005 (UTC)
+
+:[[LGPL]]. Entire properitary operating systems (BeOS, for instance) have used glibc as their main C library. [[User:Kiand|Kiand]] 09:38, 12 May 2005 (UTC)
+
+== Later today I plan to move this article ==
+From the package's homepage [http://www.gnu.org/software/libc/libc.html] it seems that the proper name is &quot;[[GNU C Library]]&quot;.  Can anyone give a good reason for me ''not'' to move this article to that name?
+
+Nothing will be lost - not the Talk, not the history.  Nothing will be broken, no links will have to be changed, [[Glibc]] will become a redirect to [[GNU C Library]]. [[User:Gronky|Gronky]] 11:16, 13 November 2005 (UTC)
+
+: At that point why would you move the article?  Why not just make your additional article name the redirect and save the troublesome redirect for the talk page?  [[User:Janizary|Janizary]] 07:24, 21 November 2005 (UTC)
+
+::I'm not familiar with &quot;''the troublesome redirect for the talk page''&quot;.  My reason for moving the article was that the new title is correct and the old one is not.  If titles didn't matter, each page would be refered to by number and would then have redirect aliases.  One effect of the title is that it gets written in big letters across the top of the page. [[User:Gronky|Gronky]] 15:51, 21 November 2005 (UTC)
+
+== Alpha? ==
+I've unlinked an ambigious &quot;alpha&quot; from the main page, but am not sure enough that it means [[DEC Alpha]] to link it. - [[User:Aaron Brenneman|&lt;font color=&quot;#2f4f4f&quot;&gt;brenneman&lt;/font&gt;]][[User Talk:Aaron Brenneman|&lt;font color=&quot;#2f4f4f&quot;&gt;&lt;sup&gt;(t)&lt;/sup&gt;&lt;/font&gt;]][[Special:Contributions/Aaron Brenneman|&lt;font color=&quot;#2f4f4f&quot;&gt;&lt;sup&gt;(c)&lt;/sup&gt;&lt;/font&gt;]] 23:44, 21 December 2005 (UTC)
+
+== libc6 usage uncommon? ==
+
+The official Debian (and Ubuntu) package for glibc version 2 is 'libc6', which seems like a fairly major use... --[[User:Delirium|Delirium]] 06:25, 16 March 2006 (UTC)
+:Nah. The package may be named that, but glibc is pretty universally called glibc, not libc6, except to contrast it with the older libcs. A Debian package name may be major, but it's not common (if you get my drift). Maintaining this name is just clumsy, because glibc is not exclusive to Linux (and on other platforms there may not even be a &quot;libc5&quot;) and it has its own version number. I think the Debian name remains for historical reasons. We wouldn't expect a &quot;libc7&quot; any time soon, after all, just newer versions of glibc. [[User:81.58.51.131|81.58.51.131]] 08:32, 29 March 2006 (UTC)
+:The story is told here: http://linuxmafia.com/faq/Licensing_and_Law/forking.html (about half way down, point #6) [[User:Gronky|Gronky]] 10:30, 29 March 2006 (UTC)
+::libc.so.6 is the standard soname of the gnu C library on linux. Debian names the binary package libc6 due to thier standard naming conventions for library packages (the source package is called glibc btw). I'm not sure what distros outside the debian family do. If and when there is ever a glibc 3.0 with backwards compatibility broken i supsect it will have a soname of libc.so.7 and a debian package name of libc7 but i don't see that happening in the near future. [[User:Plugwash|Plugwash]]
+:::Also note that the name of the debian binary package (along with the soname of the library) varies by architecture. It's libc0.1 on kfreebsd, libc0.3 on hurd and libc6.1 on alpha and ia64 [[User:Plugwash|Plugwash]] ([[User talk:Plugwash|talk]]) 13:32, 24 November 2011 (UTC)
+
+== pronounce ==
+
+Glibc -- how do you pronounce this??
+
+:I've always heard it pronounced as: &quot;gee lib see&quot; (soft 'g') [[User:Gronky|Gronky]] 13:15, 15 June 2007 (UTC)
+
+== what exactly was the linux libc5? ==
+
+anyone know any more about it? who wrote it? what license was it under? why did people preffer glibc? [[User:Plugwash|Plugwash]] 22:35, 7 June 2006 (UTC)
+
+:libc5 was a fork of GNU libc by the Linux developers.  They eventually gave up and went back to GNU libc.  This is way GNU libc, even though it is still on version 2.4 is often called &quot;libc6&quot;, as it superseded libc5.  The story is in section 6 of [http://linuxmafia.com/faq/Licensing_and_Law/forking.html Fear of forking].  I'll add that link to the article. [[User:Gronky|Gronky]] 22:52, 7 June 2006 (UTC)
+
+==Todo==
+*Add refs to the claims that it supports X, Y, and Z standards.  Refs can almost certainly be found from the page liked to from here:[http://www.gnu.org/software/libc/manual/html_node/Standards-and-Portability.html#Standards-and-Portability]
+*History: there is probably a lot of glibc info in the old GNUs bulletins: [http://www.gnu.org/bulletins/]
+
+== [[ glibc ]][[ initialism ]] ==
+I do hope f/ a [[ disambiguation]]-list, of various related [[ initialism]]s, f/ [[ ignorami]], such as myself.
+
+Thank You,
+
+[[ user : hopiakuta |&amp;#91;&amp;#91; hopiakuta ]] Please do [[ sign ]] your [[ signature ]] on your [[ message]]. [[ %7e%7e ]] [[ %7e%7e | Thank You. ]]-]] 23:00, 2 March 2008 (UTC)
+
+== Familiar a GNU/Linux distribution? ==
+
+I would argue rather strongly against that description. OpenEmbedded (on which OM and Fam are based) does not require (and commonly) GNU tools at all. If you use the Qtopia/OPIE version then there is no glibc required either. We can't call a distribution GNU/Linux if its not based on GNU at all - no matter the argument. --[[User:KimDabelsteinPetersen|Kim D. Petersen]] ([[User talk:KimDabelsteinPetersen|talk]]) 17:12, 3 June 2008 (UTC)
+:I think the confusion here comes from the GDE option (which is GNU based). Its an option for a PDA like interface - but its not the only one. The other is Qtopia/OPIE (which is not GNU based). You can't (afaik) build GDE on a non-glibc basis (ie with uClibc or others), but you can (and do) with OPIE. --[[User:KimDabelsteinPetersen|Kim D. Petersen]] ([[User talk:KimDabelsteinPetersen|talk]]) 17:19, 3 June 2008 (UTC)
+
+== Improve history section with when major versions where released ==
+
+History section could be improved by adding major version numbers and the date they were released and perhaps a note about the major features in the new version. [[User:Daniel.Cardenas|Daniel.Cardenas]] ([[User talk:Daniel.Cardenas|talk]]) 17:32, 13 October 2008 (UTC)
+
+== standalone applications ==
+
+I know that applications that run on Linux typically use glibc.
+But what about the Linux kernel itself? Does it use glibc?
+I've been told that glibc doesn't work for &quot;standalone applications&quot; such as the Linux kernel.
+I hear that &quot;standalone applications&quot; require a library that supports standalone applications[http://www.inf.u-szeged.hu/gcc-arm/paper/summit2003-paper.pdf], a library such as [[newlib]].
+Is this true? Or a misconception common enough that this article needs to directly confront?
+--[[Special:Contributions/68.0.124.33|68.0.124.33]] ([[User talk:68.0.124.33|talk]]) 13:58, 7 April 2009 (UTC)
+
+: [http://wiki.osdev.org/How_kernel,_compiler,_and_C_library_work_together Here's a primer]. [[user:thumperward|Chris Cunningham (not at work)]] - [[user talk:thumperward|talk]] 15:02, 7 April 2009 (UTC)
+
+:: Thank you for the reference. It agrees that the Linux kernel does not directly call any function in the glibc library, although the Linux kernel does have the &quot;Supporting OS subroutines required&quot; for user applications that call functions in the glibc library.
+:: One more question: I see that the Linux kernel calls at least some [[C standard library]] functions and constants such as &lt;code&gt;memcpy()&lt;/code&gt;, &lt;code&gt;tolower()&lt;/code&gt;, and &lt;code&gt;INT_MAX&lt;/code&gt; -- [http://www.tamacom.com/tour/kernel/linux/cgi-bin/global.cgi?pattern=memcpy&amp;id=&amp;type=reference search for &quot;memcpy&quot; in the Linux kernel], [http://www.tamacom.com/tour/kernel/linux/cgi-bin/global.cgi?pattern=tolower&amp;id=&amp;type=reference search for &quot;tolower&quot; in the Linux kernel], and [http://www.tamacom.com/tour/kernel/linux/cgi-bin/global.cgi?pattern=INT_MAX&amp;id=&amp;type=reference search for &quot;INT_MAX&quot; in the Linux kernel]. 
+:: So what library implements those functions? --[[Special:Contributions/68.0.124.33|68.0.124.33]] ([[User talk:68.0.124.33|talk]]) 07:20, 21 April 2009 (UTC)
+:::In kernelspace these functions are declared by specific kernel headers and implemented in specific kernel files; for memcpy at least Linux appears to implement them using machine-specific assembly files (if you look on the search page you linked, there's a section where there are a bunch of files include/asm/asm-$arch/string.h that declares the function, so presumably there's a string.s file with the assembly code.
+
+:::This is not at all unusual for production-grade operating systems.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/74.96.138.199|74.96.138.199]] ([[User talk:74.96.138.199|talk]]) 00:07, 18 February 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Sun RPC code ==
+
+Someone with more knowledge about this than me could maybe add [http://spot.livejournal.com/315383.html this] information/link to the article. Basically, glibc is ''really'' free software since [http://yro.slashdot.org/story/10/08/26/2339249/Glibc-Is-Finally-Free-Software August 18, 2010]. --[[Special:Contributions/82.171.70.54|82.171.70.54]] ([[User talk:82.171.70.54|talk]]) 23:01, 27 August 2010 (UTC)
+
+== When the support for Intel 386 was dropped? ==
+
+I think this shall be mentioned in the version history comments. --[[User:RokerHRO|RokerHRO]] ([[User talk:RokerHRO|talk]]) 20:01, 5 November 2014 (UTC)</text>
+      <sha1>sm7b0gs2rror8en27ut9gmla4p36d6e</sha1>
+    </revision>
+  </page>
+</mediawiki>

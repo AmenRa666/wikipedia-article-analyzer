@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Nicotinamide adenine dinucleotide</title>
+    <ns>1</ns>
+    <id>1121799</id>
+    <revision>
+      <id>732140186</id>
+      <parentid>717839530</parentid>
+      <timestamp>2016-07-29T22:23:04Z</timestamp>
+      <contributor>
+        <username>BU RoBOT</username>
+        <id>25993922</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */[[WP:AUTOASSESS|Auto-assessment]] of article class. Editors are encouraged to manually assess articles. See [[User:BU_RoBOT/autoassess]] for more info.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="39031">{{Article history|action1=GAN
+|action1date=22:23, 27 October 2007 (UTC)
+|action1link=Talk:Nicotinamide adenine dinucleotide#Previous GA Review (October 2007)
+|action1result=failed
+|action1oldid=167540469
+
+|action2=GAN
+|action2date=5 December 2007
+|action2link=Talk:Nicotinamide adenine dinucleotide#GA Review
+|action2result=listed
+|action2oldid=176161045
+
+|action3=FAC
+|action3date=16:46, 23 December 2007
+|action3link=Wikipedia:Featured article candidates/Nicotinamide adenine dinucleotide
+|action3result=promoted
+|action3oldid=179800535
+
+| topic         = Natsci
+|currentstatus=FA
+|maindate=November 26, 2009
+}}
+{{WikiProject banner shell|1=
+{{WikiProject Chemicals|core|class=FA|importance=High|FA=yes}}
+{{WikiProject Molecular and Cellular Biology|importance=Top|class=FA}}
+{{WikiProject Genetics|class=FA|importance=mid}}
+{{WikiProject Physiology|class=FA|auto=inherit|importance=mid|field=respiratory}}}}
+
+{{User:WildBot/m04|sect={{User:WildBot/m03|1|Opacity (optics)#Extinction coefficient|extinction coefficient}}|m04}}
+
+==Vitamin==
+What vitamin is NAD made from?
+
+:Added an explanatory caption for the [[niacin]] picture. --[[User:Townmouse|Townmouse]] 00:46, 13 Nov 2004 (UTC)
+
+The structure that has been given is incomplete. The hydroxyl groups on the ribose moiety are missing.
+
+:Reaaallllyyyy??? -- [[User:BorisTM|Boris]] 04:43, 10 March 2006 (UTC)
+
+== Plant Production of ADP ==
+
+Plants surely do not produce ADP through photosynthesis, but instead like animals through respiration. Plants produce sugars through photosynthesis that can then be metabolised to produce ATP-&gt;ADP etc? --[[User:Murphyen|Murphyen]] 20:14, 14 May 2006 (UTC)
+
+:First you have mixed up ADP and ATP. Second they do produce ATP in the chloroplast by a similar but independent mechanism to respiration in the mitochondria. That ATP (and NADPH) is used to synthesis the sugars you mention. [[User:Daycd|David D.]] [[User talk:Daycd|(Talk)]] 06:07, 15 May 2006 (UTC)
+::It's called [[photophosphorylation]].[[Special:Contributions/96.54.53.165|96.54.53.165]] ([[User talk:96.54.53.165|talk]]) 20:32, 26 November 2009 (UTC)
+
+== nothing about its role ==
+
+few questions
+how is it formed?
+how is it transported?
+how is it cycled?
+how is it equivalent to ATP formation?
+--[[User:M siterman|M siterman]] 09:18, 17 May 2006 (UTC)
+
+==Outside review==
+
+I go this mail today. [[User:TimVickers|Tim Vickers]] 23:58, 11 September 2007 (UTC)
+
+:Dear Dr. Vickers,
+
+:Recently, I noticed that some of my students use Wikipedia and we've found that there are a number of articles in our area of research that need work.
+
+:I found you as a fully attributed contributor to articles in metabolism so I wanted to make a few suggestions, especially as related to the NAD entry. The reason I don't enter these corrections myself is that I could be considered self-interested in that my group discovered both of the eukaryotic NAD biosynthetic pathways from nicotinamide riboside.
+
+:The most recent comprehensive review of NAD metabolism is our 2007 TiBS article (pubmed ID 17161604, also reference 64 on http://www.dartmouth.edu/~brenner/cv.html, at which a full-text pdf is available).  In my view, the key points on human NAD biosynthesis are 1) the existence of a de novo pathway from tryptophan; 2) the existence of three distinct NAD+ precursor vitamins and four biosynthetic pathways from the three vitamins.  Two of the vitamins were discovered by Conrad Elvehjem in 1938.  The current NAD page depicts these two compounds (nicotinamide and nicotinic acid).  The pathway that utilizes nicotinic acid is a &quot;classic&quot; one, discovered by Preiss and Handler in 1958.  The pathway that utilizes nicotinamide is one for which a gene was only identified in the last few years.  Curiously, the nicotinamide phosphoribosyltransferase is encoded by a protein termed pre-B cell colony enhancing factor.  We discovered nicotinamide riboside as a third vitamin precursor of NAD+ in 2004 (pubmed ID, ref 50 on our pubs page).  Jeff Milbrandt at your institution has another important paper on NR (pubmed 16914673).  NR is phosphorylated by yeast and human nicotinamide riboside kinases, described in our 2004 Cell paper.  In addition, NR is split into a nicotinamide product by Urh1 and Pnp1 (homolog of human PNP) for nicotinamide salvage.  We described this in pubmed ID 17482543 (ref 66, see also features in Cell, Nature and ACS Chem Biol accessible from our web site).  Our paper also showed that lifespan can be extended in high glucose media using NR through the Nrk pathway and the Urh1/Pnp1 pathway.
+
+:The other critically important point I think should be made in an article on NAD is that it is not only a co-enzyme but also a consumed substrate by enzymes such as sirtuins, PARP and cADP ribose synthases.  We cover this in the TiBS as well.
+
+::I'd recommend that we encourage this individual to contribute a paragraph or two to this talk page (or email a draft to Tim), and assuming there are no major concerns, we can format it and integrate it into the article. --[[User:Arcadian|Arcadian]] 00:38, 12 September 2007 (UTC)
+
+:I replied doing exactly that, he was a little concerned that, as a leader in the field, he might have a conflict of interest in describing other scientists' work, but I don't really think that is a major concern. Seems a very nice guy. [[User:TimVickers|Tim Vickers]] 01:02, 12 September 2007 (UTC)
+
+== Previous GA Review (October 2007) ==
+
+This is a reasonably good article, and critically important for biochemistry, but there are problems significant enough in the article that I have failed it at this time.  
+
+:'''[[Wikipedia:Good article nominations|GA]] review''' (see [[Wikipedia:What is a good article?|here]] for criteria)
+#It is '''reasonably well written'''.
+#:The article needs a thorough copy edit.  There are several awkward paragraphs.  The repeated phrase &quot;these coenzymes&quot; became irritating and distracting during the reading, and the History section needs a greater variety of sentence structure.  I will be copy editing the article myself to make many of the changes I would like to see made.
+#It is '''factually accurate''' and '''[[Wikipedia:Verifiability|verifiable]]'''.
+#:Factually accurate, check.
+#It is '''broad in its coverage'''.
+#:There is much basic information still missing from the article:
+##Why doesn't the article explain the name of the compound at the outset? (or anywhere?)
+#::Added to the start of the &quot;Physical and chemical properties&quot; section.
+##Who elucidated the chemical structure and when?
+#::This is covered in the &quot;History&quot; section. It was Otto Warburg in 1936
+##Why is the reduction reaction given for NAD, but no explicit mention is made that the reaction is reversible?
+#::Corrected.
+#While the article does a good job covering the chemistry and human biology, it leaves out significant biological information for plants and fungi. A quick read-through left questions open, and a quick look in the index of a college biochemistry text found major topics not yet mentioned in the article.  If it's in a freshman-level text, it ought to be in the article. 
+##Do [[fungi]] and [[Archaea]] use NAD? The article doesn't address this issue and these two are ''major'' groups of organisms.  In short, is NAD universal to ''all'' life?
+#::Yes, it is universal. Statement to this effect added to first sentence of lead.
+##What of the role of NAD in biosynthesis of [[fatty acid]]s?
+#::None I know of, NADPH is important in this reaction, but not NAD. I added this as an example to the metabolism section.
+##What of the [[glycerol phosphate shuttle]], critical for coupling NAD redox reactions to oxidative phosphorylation?
+#::Added to metabolism section.
+##What of the critical role of NAD in [[photosynthesis]], specifically Photosystem I and the [[Calvin cycle]]?
+#::It is NADPH that is involved in those reactions, not NADH.
+#:::Does that mean there is (or will be) a separate article on NADPH? --[[User:EncycloPetey|EncycloPetey]] 20:53, 2 December 2007 (UTC)
+#::::Yes, there is a separate article on NADP/NADPH, this is linked at the first use of the term in the first paragraph. I have changed the link to spell out the full name, to make it a bit more obvious. [[User:TimVickers|Tim Vickers]] 23:07, 2 December 2007 (UTC)
+#It follows the '''[[WP:NPOV|neutral point of view]] policy'''.
+#:NPOV, check.
+#It is '''stable'''.
+#:Stable, check.
+#It is illustrated by '''[[Wikipedia:Images|images]]''', where possible and appropriate.
+#:It is appropriately illustrated, but there are problems with one of the illustrations.  The biosynthesis diagram is confusing for using '''Na''', which normally represents [[sodium]], but apparently does not in this diagram.  On a page for a chemical, this point ''must'' be clarified.
+#:::This is explained both in the text and the diagram of the three precursors.
+#'''Overall''': 
+#:''Pass/Fail'': '''Fail'''  --[[User:EncycloPetey|EncycloPetey]] 22:23, 27 October 2007 (UTC)
+
+==GA Review==
+This article is very well written and informative. The use of illustrations is also very good, and greatly helps the reader to understand the topic. I believe all of the issues raised by [[User:EncycloPetey|EncycloPetey]] above have been addressed (though I did find a few minor copyediting things to fix, but nothing major). One minor suggestion; I wonder if the biosynthesis section should be moved to immediately after the properties section, as it might help to order it by starting a discussion of the properties, then talk about how it's made, then discuss it's function? Overall, though, this article is in excellent shape, and meets the [[WP:WIAGA|Good Article criteria]]. Good work! [[User:Derek.cashman|Dr. Cash]] ([[User talk:Derek.cashman|talk]]) 15:31, 6 December 2007 (UTC)
+
+== list of three items in the second sentence ==
+
+I changed the wording, hoping that the first two are not so closely linked that they required the previous wording. [[User:Tony1|&lt;font color=&quot;darkgreen&quot;&gt;'''Tony'''&lt;/font &gt;]] [[User_talk:Tony1|&lt;font color=&quot;darkgreen&quot;&gt;(talk)&lt;/font &gt;]] 23:33, 8 December 2007 (UTC)
+
+:Simplified down to two. Thanks. [[User:TimVickers|Tim Vickers]] ([[User talk:TimVickers|talk]]) 23:37, 8 December 2007 (UTC)
+
+==Structure==
+[[Image:NAD_structure_%28in_transhydrogenase%29.png|thumb|50px]]
+&lt;s&gt;Here is a picture, but I have no idea where to fit it into the article. [[User:Narayanese|Narayanese]] ([[User talk:Narayanese|talk]]) 08:19, 23 December 2007 (UTC)Found a spot for it. [[User:Narayanese|Narayanese]] ([[User talk:Narayanese|talk]]) 08:38, 23 December 2007 (UTC)&lt;/s&gt;Aw, I realised there are no hydrogens on the carbons [[User:Narayanese|Narayanese]] ([[User talk:Narayanese|talk]]) 08:43, 23 December 2007 (UTC)
+:I'm not sure that is an error, it is pretty normal to avoid the clutter.  However, despite the picture being pretty I don't think it tells us much more than the lead diagram, actually it is more confusing. [[User:David D.|David D.]] [[User talk:David D.|(Talk)]] 09:12, 23 December 2007 (UTC)
+::You have a point. [[User:Narayanese|Narayanese]] ([[User talk:Narayanese|talk]]) 09:56, 23 December 2007 (UTC)
+:::On the other hand it does give you a sense of proportion, whereas the the lead does not.  So they do complement each other in that sense. [[User:David D.|David D.]] [[User talk:David D.|(Talk)]] 15:07, 23 December 2007 (UTC)
+
+[[Image:NAD-2FM3-3D-sticks.png|thumb|right|300px]]
+
+I've created another 3D model of NAD&lt;sup&gt;+&lt;/sup&gt;, based on [http://www.rcsb.org/pdb/explore.do?structureId=2FM3 PDB 2FM3]. It's a stick model, which looks the cleanest, and even has hydrogens.
+
+If anyone wants to put it in the article (is there space?), it's here!
+
+[[User:Benjah-bmm27|Ben]] ([[User talk:Benjah-bmm27|talk]]) 14:53, 10 January 2008 (UTC)
+
+== Two forms of NADH ==
+
+It might be a good idea to mention that when reduced, there are two possible forms of NADH: A form and the B form. I just read it on Lehninger's biochemistry textbook that says different enzymes add the hydrogen to different locations on the nucleotide ring. [[User:Epingchris|Keith Galveston]] ([[User talk:Epingchris|talk]]) 12:57, 7 March 2008 (UTC)
+
+:this refers to the fact that the 4 position on the nicotinamide ring is [[prochiral]] and, while all dehydrogenases transfer a hydrogen atom to the same carbon, some do this to one face of the ring, while others transfer to the opposite face. These two types of dehydrogenase can therefore generate two different [[stereoisomer]]s of NADH, but only if you feed the enzyme [[deuterium]]-labeled substrates. You're right we should probably mention this. [[User:TimVickers|Tim Vickers]] ([[User talk:TimVickers|talk]]) 16:37, 7 March 2008 (UTC)
+
+::I've added a paragraph to the oxidoreductases section. [[User:TimVickers|Tim Vickers]] ([[User talk:TimVickers|talk]]) 17:37, 7 March 2008 (UTC)
+
+:::Bravo.  Le Prof [[User:Leprof 7272|Leprof 7272]] ([[User talk:Leprof 7272|talk]]) 08:59, 28 June 2014 (UTC)
+
+== Accuracy of chembox ==
+
+Counting the charges (2 phosphate -ve charges, 1 quat N+), the structure is not neutral, making it an ion rather than a substance. On the other hand, SMILES gives 1 neutral phosphate (OH), making it charge zero. Formula and MW are for the neutral compound as well.
+
+The consensus at wikiproject chemistry is that we prefer neutral species as far as possible, and that chemboxes should be for substances, not ions. That means that the image in the box should be updated. I can do it quite easily, but I want to check if there are any violent objections here first.
+
+I can generate the image easily too, but I need to know which phosphate is to be protonated. I do believe that it should be an equilibrium, but the image is a depiction of reality rather than reality itself). --[[User:Rifleman 82|Rifleman 82]] ([[User talk:Rifleman 82|talk]]) 19:14, 7 March 2008 (UTC)
+
+:I don't think there is any significant difference in the pKa values for the two phosphates, so either would be fine. For simplicity's sake you could do the same one as in the [http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5892 PubChem structure]. [[User:TimVickers|Tim Vickers]] ([[User talk:TimVickers|talk]]) 19:31, 7 March 2008 (UTC)
+
+== Wheredo's additions ==
+
+They look like an advertisement for some book of his in alternative medicine, and don't belong the the article [[User:Narayanese|Narayanese]] ([[User talk:Narayanese|talk]]) 14:23, 28 June 2008 (UTC)
+
+:Agreed, I've removed this. [[User:TimVickers|Tim Vickers]] ([[User talk:TimVickers|talk]]) 15:13, 28 June 2008 (UTC)
+
+== Pronunciation of abbreviations ==
+
+What is the proper way to pronounce &quot;NADH&quot; or &quot;NAD+&quot;? Do you spell out the abbreviation or do it in some other way? Do you say &quot;En-Ay-Dee Plus&quot; for NAD+ or something else?-[[Special:Contributions/132.239.5.102|132.239.5.102]] ([[User talk:132.239.5.102|talk]]) 20:01, 3 June 2009 (UTC)
+
+:Just spell them out, but I've never heard anybody saying &quot;plus&quot;, NAD+ is usually just referred to as &quot;En-Ay-Dee&quot;. [[User:TimVickers|Tim Vickers]] ([[User talk:TimVickers|talk]]) 21:07, 3 June 2009 (UTC)
+
+== Sup template ==
+
+Hi there. A while back I came across the [[Template:Sup|sup template]], and I think it could be pretty useful here given the number of instances of &quot;NAD&lt;sup&gt;+&lt;/sup&gt;&quot;. Compare:
+
+*&lt;nowiki&gt;&lt;sup&gt;+&lt;/sup&gt;&lt;/nowiki&gt;
+*&lt;nowiki&gt;{{sup|+}}&lt;/nowiki&gt;
+
+The template takes up far less space in the text while editing. I just wanted to make sure there isn't some drawback to using it here that I'm not aware of; otherwise I'll go ahead and make the switch. —'''&lt;font color=&quot;#0010A0&quot;&gt;[[User:tktktk|tk]]&lt;/font&gt;&lt;font color=&quot;#003FFF&quot;&gt;[[User talk:tktktk|tk]]&lt;/font&gt;&lt;font color=&quot;#308EFF&quot;&gt;[[Special:Contributions/Tktktk|tk]]&lt;/font&gt;''' 02:22, 26 November 2009 (UTC)
+
+:Since there are no objections, I'll go in and make this change now. —'''&lt;font color=&quot;#0010A0&quot;&gt;[[User:tktktk|tk]]&lt;/font&gt;&lt;font color=&quot;#003FFF&quot;&gt;[[User talk:tktktk|tk]]&lt;/font&gt;&lt;font color=&quot;#308EFF&quot;&gt;[[Special:Contributions/Tktktk|tk]]&lt;/font&gt;''' 00:21, 14 December 2009 (UTC)
+
+== Improved==
+The article has again appeared on the front page. Has it been greatly upgraded recently? (I'm planning to translate). --&lt;font color=&quot;000066&quot;&gt;[[User:CopperKettle|&lt;b&gt;C&lt;/b&gt;&lt;font color=&quot;CC3300&quot;&gt;opper&lt;/font&gt;&lt;b&gt;K&lt;/b&gt;&lt;font color=&quot;CC0000&quot;&gt;ettle&lt;/font&gt;]]&lt;/font&gt; 08:57, 26 November 2009 (UTC)
+
+:No, I added a new reference on NAD modification of RNA recently, but no major changes. [[User:TimVickers|Tim Vickers]] ([[User talk:TimVickers|talk]]) 18:35, 26 November 2009 (UTC)
+
+==Ratios==
+The discussions of NAD+/NADH ratios in &quot;Concentration and state in cells&quot; and &quot;Role in redox metabolism&quot; seem to contradict each other. Which is it? Weighted towards NAD+ or roughly equal? (And, yes, it's somewhat different in the mitochondrion... I added the word 'cytoplasmic' to the first of these sections to clarify its quoted 700x figure.)
+
+:This is due to the lack of clarity versus free vs bound. If you measure total coenzymes, you get a ratio of about 3-10. If you correct to just get the free, the ratio rises to about 700. See PMID 12648681 for a discussion of this. Different sources discuss one or the other, so both figures can be right. I've tried to clarify this a bit in the article. [[User:TimVickers|Tim Vickers]] ([[User talk:TimVickers|talk]]) 20:59, 26 April 2010 (UTC)
+
+== Redox clairifications ==
+The article lists the redox couple of NADH/NAD+ as –0.34V, but I think you are going to have to be more specific about conditions before this fact has any meaning.  While most potentials are measured against the [[Standard hydrogen electrode]] there are many other alternatives which things are commonly measured against each of which has a very different definition of 0.0 V.  By just assuming something is referenced to the standard hydrogen electrode I have been burned before.  Also solvent and temperature are important for potentials.  This is especially true for the NADH/NAD+ couple which has been shown to very by more then a full volt just based on whether it is in acidic or basic media, see: Karyakin, A. A.; Ivanova, Y. N.; Karyakina, E. E. Electrochemistry Communications, 2003, 5, 667-680.
+
+As a side note can –0.34V really be considered a strong reductant?  In aqueous media strong reductants are usually considered to be things like Li/Li+ which is &lt; –3.0 V, almost a full order of magnitude stronger then NADH/NAD+.  Obviously, NADH being a terminal reductant in most organisms means that it is just about the strongest reductant commonly found in biology.  However, being a strong reductant by biological standards or perhaps under biophysical conditions (which one, or is it both?) is an important distinction from the more general label &quot;a strong reductant&quot; that is found in this article.
+
+[[Special:Contributions/131.215.32.217|131.215.32.217]] ([[User talk:131.215.32.217|talk]]) 21:41, 17 June 2010 (UTC) Nat
+
+:hmmm. . . the –0.34V value came from ref 3.  I just read through ref 3 trying to find more information on the conditions.  They have that number in a big table, without listing temperature, solvent conditions, what standard is referenced as 0 V, or which of their 200+ reference that value was obtained from.  This is kind of frustrating.  Anyone know where a value with listed conditions to impart meaning on this NADH/NAD+ couple could be found?
+
+[[Special:Contributions/131.215.32.217|131.215.32.217]] ([[User talk:131.215.32.217|talk]]) 00:24, 18 June 2010 (UTC) Nat
+
+::Just found –0.32V from another source that lists more conditions.  NADH/NAD+ is –0.32V &quot;at physiological pH7 with respect to the [[Standard hydrogen electrode]].&quot;  Doesn't say temperature but based off of that description it should be somewhere in the range 24 to 37 °C.  From:  Housecroft, C. E.; Sharpe, A. G. In ''Inorganic Chemistry''; Pearson Education Limited: Edinburgh Gate Harlow, 2005; Second Edition, pp 846–847.
+
+::I also would also like to reiterate my earlier complaint that I think the statement &quot;a strong reductant&quot; should be &quot;a strong reductant by biological standards&quot; or something in that vein. In the range of standard oxidants and reductants relative to the SHE/NHE at pH7, the –0.32V of NADH/NAD+ is almost exactly half way between the two extremes of Li/Li+ at –3.04V and F2/2F– at +2.87V.  Thus in absolute terms the NADH/NAD+ couple is so moderate it could be considered either a reductant or an oxidant by various standard half cells.  Thus &quot;a strong reductant by biological standards&quot; seems more appropriate then just &quot;a strong reductant&quot; which in absolute terms it is not.
+
+[[Special:Contributions/131.215.32.217|131.215.32.217]] ([[User talk:131.215.32.217|talk]]) 22:30, 21 June 2010 (UTC)Nat
+::[[Special:Contributions/131.215.32.217|131.215.32.217]] ([[User talk:131.215.32.217|talk]]) 22:32, 21 June 2010 (UTC)Nat
+:::The best source for information of this kind may be found in tabulations of data such as the 'CRC Handbook of Biochemistry' (aka the Rubber Bible) or 'Data For Biochemical Research' published by the the Biochemical Society (UK), and is more reliable than grubbing around in individual publications where the data may not be the focus of the article being cited.  
+Anyhow a reported value for reduction potential should be at Standard State, which for biochemistry is defined as aqueous state, 1 M concentrations of reactants and products, 25 C, 1 atm pressure, and pH 7.0 (which means that [H+] is 10e-7 M rather than 1 M) (ref Tinoco, Sauer and Wang, Physical Chemistry Principles and Applications in Biological Sciences pp.139-140, Prentice Hall, New Jersey 1995).  Of course, it's usually not possible to do biochemical reaction with 1 M concentrations, so realistic concentrations are used and the standard reduction potential is calculated by means of the [[Nernst Equation]]. The consensus value for the standard reduction potential of NADH is -0.32 V and for NADPH -0.324 V.  In an oxygenated eukaryotic cell, cytoplasmic [NADH]/[NAD+] is about 0.002, effective E' = -0.24 V, whereas mitochondrial [NADH]/[NAD+] is about 0.1, effective E' = -0.29 V (Biochemistry, A.H. Lehninger, Worth, NY 1975). 
+In metabolism, NAD+ typically participates as the oxidant, the resulting NADH being passed to the oxidative phosphorylation system for generation of ATP.  [NADPH]/[NADP+] is about 100, effective E' = -0.38 V, and in metabolism, NADPH is used primarily as a reductant in biosynthetic reactions.
+Because of the different ratios and reduction potentials NADPH and NADH are not used interchangeably, and it costs the energy equivalent of one ATP to get NADH to reduce NADP+.
+For comparison with other metabolic reactions, the standard reduction potential for the acetic acid/acetaldehyde couple is -0.581 V, for acetaldehyde/ethanol is -0.197 V, for pyruvate/lactate (ketone/secondary alcohol) is -0.18 V and for fumarate/succinate (reduction of C=C bond) +0.031 V. [[Special:Contributions/96.54.32.44|96.54.32.44]] ([[User talk:96.54.32.44|talk]]) 07:53, 4 December 2010 (UTC)
+
+== Description of the diphosphate link ==
+
+The physical and chemical properties paragraph starts with the sentence 'Nicotinamide adenine dinucleotide, like all dinucleotides, consists of two nucleotides joined by a pair of bridging phosphate groups.' Actually dinucleotides from DNA and RNA would only have a single bridging phosphodiester group linking 3'- of one ribose to the 5'- of the other ribose. The second phosphate would be a phosphomonoester attached to one of the other 3'- or 5'- hydroxyls.  NAD+ also differs in that the linkage is 5'- to 5'-, and contains a high energy phosphoanhydride bond. [[Special:Contributions/96.54.32.44|96.54.32.44]] ([[User talk:96.54.32.44|talk]]) 01:33, 4 December 2010 (UTC)
+
+== Title ==
+
+The lede wording is presently unclear whether the title &quot;Nicotinamide adenine dinucleotide&quot; refers to NAD&lt;sup&gt;+&lt;/sup&gt;, to NADH, or to both. The normal form is to give '''the full name''' (ABBR) before any further use of the abbreviation.
+
+== Rejuvenation news ==
+
+http://www.sciencedaily.com/releases/2013/12/131219130738.htm  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.176.108.8|76.176.108.8]] ([[User talk:76.176.108.8|talk]]) 03:36, 20 December 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== IMPORTANT, FIRM CRITICISM: If article remains about two molecules the title needs altered and structures and infoboxes must change ==
+
+In addition to addressing my own concerns, the following proposed set of edits also addresses the concerns of two previous editors, here [https://en.wikipedia.org/wiki/Talk:Nicotinamide_adenine_dinucleotide#Description_of_the_diphosphate_link] (&quot;Description...&quot;) and here [https://en.wikipedia.org/wiki/Talk:Nicotinamide_adenine_dinucleotide#Title] (&quot;Title&quot;), as well as others; see above.
+
+The title refers to one molecule, but by virtue of redirects and content, the article aims to be about two structurally, chemically distinct molecules. Hence the structure and information given in the infobox is either incomplete or incorrect (and so inherently confusing). To present one structure to cover both molecules, and give beneath it two CAS numbers—clearly we are not putting ourselves in the shoes of a nonspecialist coming to this page. Having both NAD+ and NADH searches come to this same page, with its opening and lede and superficial features (including the single inbox and single structure) is tremendously confusing to any but those already knowing the structures and subject.
+
+To address this:
+#the  title of the article needs to be clarified to indicate that it intends to cover both molecules, i.e., to be changed to &quot;Nicotinamide adenine dinucleotides, oxidized and reduced forms&quot;.
+#two infoboxes need to appear, each with one structure and CAS number (and corresponding properties and descriptors for each), one for NAD+, and one for NADH.
+#the lede needs to be rewritten, with awareness that some are coming having looked for NADH, others for NAD+, and it needs to reflect the fact that this is an article about two redox paired molecules, e.g., something like:{{quote|1=&quot;The term '''nicotinamide adenine dinucleotide''' refers to either a reduced or oxidized form or a pair of molecules, abbreviated NAD+ and NADH, respectively. As a pair, they serve as [[coenzyme]]s—small organic molecules bound to enzymes, and assisting in their catalyses—and so are found in all living cells. Each is a &quot;dinucleotide&quot;, consisting of two nucleotides joined through a unique [[pyrophosphate]] (phosphoanhydride) [[diester]] linkage between the 5'-hydroxyl group of the [[ribose]] ring of each nucleotide. One nucleotide is an [[adenine]]-type, and the second an unusual ribofuranosyl[[nicotinamide]] (derived from dietary niacin, a vitamin). }}
+
+::{{quote|1=In metabolism, NAD+ and NADH are involved in [[redox reaction]]s, the reduced form (NADH) being generated when an enzyme's [[substrate (biochemistry)|substrate]] is oxidized, the oxidized form (NAD+) being generated when a substrate is reduced. In this way, NAD+ is an oxidizing agent (accepting electrons from other molecules) and NADH is a reducing agent (donating electrons to other molecules); because they are molecules, and can diffuse away from the original enzyme and site of reaction, they can serve to shuttle electrons between pathways in [[biosynthesis]]. The &quot;business end&quot; (see ([http://www.merriam-webster.com/dictionary/business%20end]) of the NAD+ oxidant is the substituted [[pyridinium]] [[cation]] of its nicotinamide moiety, which can be reduced under biological conditions to the corresponding 1,4-[[dihydropyridine]]; the midpoint potential of the NAD+/NADH redox pair is −0.32 volts (STP), making NADH a potent biological reducing agent that can be used, after it is generated, to accomplish many other reactions in metabolism. Hence, a central aim of primary metabolism (e.g., the [[citric acid cycle]] and other pathways), besides the production of particular metabolic intermediates, is the generation of NADH, as well as [[ATP]], for use in other chemical reactions.&quot; }}
+
+An additional minor point well addressed by many of our inorganic brethren (editors) but missed often by the organic and biochem of the flock: ''3D representations of molecules are only rigourous, and so meaningful, if they include details in the legend as to how they were derived.'' If the 3D ball-and-stick form of the NAD+ molecule shown in the infobox is a representative of an ensemble of low energy structures derived by MM2 or MD computations, say so, and give some detail (summarizing more complete information on the image page at Wikimidia Commons). Complete the legend by saying why the given pose was chosen and presented. ''A computed structure, if good, is [[WP:OR]] at best, and at worst is simply nonsense. Make clear that the 3D images you post are not nonsense;'' see [https://en.wikipedia.org/wiki/Aminoglycoside] and [https://commons.wikimedia.org/wiki/File:Strep1.png] by way of example.
+
+Finally, conceptually, an opinion: to elevate NAD+ over NADH, in any way—choosing it, of the two molecules, to make preeminent (via structure, direction reactions written, etc.)—is also worth review. From an utterly unbiased perspective, considering extremophiles surviving in environments at the limits of oxidizing and reducing, neither of the pair can be given primacy. But, given the fact that the overall thrust of metabolism—and a very critical chemical milestone that the origin of life demanded—is the need for a mobile form of reducing equivalents to perform the work of biosynthesis (accomplished as this was, in NADH), says which I would emphasize. In an iron-rich oxidizing environment, the lessor problem is how to get things oxidized; the hard problem is gettng them reduced, and reversibly, via a mobile, quasistable organic agent. In this sense, the NAD+/NADH couple, and its uses, constitute a chemical miracle (RD, forgive my loose use of language).
+
+Sorry to rain on the parade; I am sure relative to many WP articles this is in very good shape, and worth the given accolades. But, it is not yet clear with regard to the aspects indicated above. Anytime a chemical infobox has to present two CAS numbers, and an article shows one structure at its top, after being referred via two molecule searches... any real chemist is going to say [[Danger, Will Robinson]] ([http://www.youtube.com/watch?v=RG0ochx16Dg]).  Le Prof [[User:Leprof 7272|Leprof 7272]] ([[User talk:Leprof 7272|talk]]) 08:50, 28 June 2014 (UTC)
+
+: This is a relatively small problem that can easily be fixed.  I think it is clear from the contents of this article it is about the pair, NAD+ and NADH and the lead should be adjusted accordingly. I disagree that the article name needs to be changed. Per [[WP:NAMINGCRITERIA]], the current title is recognizable, concise, and sufficiently precise.  As a practical matter, I also disagree that required that we have two chemboxes.  These chemboxes are quite large and having two of them would overwhelm the article. NAD+/NADH is more commonly used as an reducing agent, hence having a NADH chembox makes sense. (Also please stop shouting, it is not necessary. It is also customary to use shorter section headings on talk pages. Less is more.) [[User:Boghog|Boghog]] ([[User talk:Boghog|talk]]) 13:21, 28 June 2014 (UTC)
+
+: {{fixed}} in this [https://en.wikipedia.org/w/index.php?title=Nicotinamide_adenine_dinucleotide&amp;diff=614760435&amp;oldid=612212882 edit].  The previous version had clearly stated that this article was about two distinct but closely related molecules.  The problem was this was mentioned in the second paragraph instead of the first.  This is now made clear in the first paragraph. [[User:Boghog|Boghog]] ([[User talk:Boghog|talk]]) 14:24, 28 June 2014 (UTC)
+
+:: &lt;font color=&quot;Maroon&quot;&gt;'''NOT'''&lt;/font&gt; {{fixed}} &lt;font color=&quot;Maroon&quot;&gt;'''WITH THAT EDIT'''&lt;/font&gt;. The article remains confusing to non-experts, who you clearly do not represent (nor have taught for many a year I suspect). The notion that NADH is more commonly used than NAD+ is simply, utterly pedagogic ''nonsense''—what, in living systems, where they are ''paired'' in every reaction they appear in? Perhaps, in your scientific assay experience this is so, but this has nothing to do with a general scientific presentation of the matter—and certainly does not address the needs or sophistication of those coming to Wikipedia, whose minds you cannot read. That there cannot be two chemboxes for space occupied is a feable argument, for there are various articles in which two appear; clarity of the conceptual development should drive the matter, and not a personal preference against two boxes (or your distaste for any proposal of strength coming from me). Please. The fact that this one chembox reflects 1.2 molecules (mostly the information, parameters, and descriptors of one, but via a CAS number a trace of another) makes the status quo confusing to lay persons who come to the artcle ignorant of this pair of molecules and their function (and who arrive from an NAD+ linkin, especially). Period. As for matters of my style and emphasis, leave off Dad. You use colors, attention-getting tags such as {{fixed}}, etc. I use other styles. You lost the respect needed to have such impact on personal matters long ago. ''Main points remain, we disagree, and I await other input'' (besides from an editor that follows me about to simplify and superficially dismiss thoughtful points I make). Le Prof  [[User:Leprof 7272|Leprof 7272]] ([[User talk:Leprof 7272|talk]]) 16:37, 1 July 2014 (UTC)
+
+::: Again, focus on the edits, not the editors and please stop the [[WP:PA|personal attacks]]. Furthermore I am not following you about.  Tim Vickers talk page has been on my watch list for ages.  You posted on his talk page which lead me to this article. Tim Vickers is clearly a biochemistry expert and through his hard work, this article was promoted to [[WP:FA|featured status]].  This article was not confusing to Tim Vickers nor to the featured article reviewers.  Furthermore it is made clear in the lead that this article is about two closely related chemicals and therefore it should not be confusing to anyone else. Of course NAD{{+}}/NADH is part of a redox couple as is already made clear by this article.  In order for NADH to be used as a biochemical reagent in living systems, it of course must be regenerated from NAD{{+}}.  The main source of NADH is from the [[citric acid cycle]] which reduces NAD{{+}} into NADH.  The main use biochemically of the NAD{{+}}/NADH redox couple is as a reducing agent (e.g., to produce ATP in [[oxidative phosphorylation]]). Once again, by focusing on the trees, you are losing track of the forest. [[User:Boghog|Boghog]] ([[User talk:Boghog|talk]]) 20:39, 1 July 2014 (UTC)
+::::I can see where LeProf is coming from, but in my opinion this article is one of several cases where rigor and readability conflict.  Hence, I think that it would be a mistake to have two chemboxes.   In the case of complex cofactors, I dont think that anyone is looking for a refractive index or m.p.  The box really a placeholder to allow us to present some simple info - the MW, some names, an image.  I do agree that quickly in the lede we need to be clear that the article is about the redox couple.  I guess that we all agree that creating two articles would be a mistake because their contents would be competing and virtually indistinguishable.  
+::::We have this issue of rigor vs readability often. Racemic vs enantiomers.  Anhydrous vs various [[water of crystallization]] (e.g., we decided all forms of CuSO4 go into one article, even though there are several). [[Hydrogen chloride]] vs [[hydrochloric acid]].  Getting back on the bio-topic, [[lipoic acid]] is relevant.  We have an ultrashort article on the dihydro form, but that pair are well defined organic compounds in the m.p. sense.--[[User:Smokefoot|Smokefoot]] ([[User talk:Smokefoot|talk]]) 12:44, 2 July 2014 (UTC)
+
+== Explain NAD+ faces oxidoreductases ==
+
+The article distinguishes two classes of enzymes depending on whether the hydride is delivered &quot;above or below the plane&quot; of C4 on NAD+. That directional terminology seems completely dependent on the perspective from which one considers NAD+. There is either some &quot;standard&quot; (but unexplained in this area of the article) orientation, or else it is in reference to how NAD+ is bound to some other entity. But none of this is explained in this area of the article.
+
+At minimum, I think there should be a diagram of NAD+ with identified &quot;above&quot;/&quot;below&quot; (or front/back, or whatever is appropriate) or else a diagram NADH with two H identified as to which would come from class-A vs class-B. I assume the reaction occurs with a &quot;stack&quot; of enzyme/NAD+/substrate (or enzyme/substrate/NAD+?) and that the different classes lead to binding of opposite faces of the nicotinamide ring as the &quot;reason&quot; for the facial distinction. A clear illustration of this could be 3D side perspectives of an example of each, with highlighting of the nicotinamide ring and the hydride to be transferred from the other substrate. [[User:DMacks|DMacks]] ([[User talk:DMacks|talk]]) 05:59, 28 November 2014 (UTC)
+:Or is the origin solely different conformations of NAD+ itself as induced by the enzyme ({{PMC|1991597}}) (one face of nicotinamide shielded by other parts of the NAD+ structure) rather than specific facial interaction of nicotinamide with the enzyme? [[User:DMacks|DMacks]] ([[User talk:DMacks|talk]]) 06:46, 28 November 2014 (UTC)
+::I have attempted to clarify [https://en.wikipedia.org/w/index.php?title=Nicotinamide_adenine_dinucleotide&amp;diff=644846191&amp;oldid=644750641] but this isn't my field. [[User:DrKiernan|DrKiernan]] ([[User talk:DrKiernan|talk]]) 14:02, 30 January 2015 (UTC)
+
+==Assessment comment==
+{{Substituted comment|length=998|lastedit=20071223182702|comment=The following suggestions were generated by a semi-automatic [[User:AndyZ/peerreviewer|javascript program]], and might not be applicable for the article in question.
+*This article may need to undergo [[WP:SS|summary style]], where a series of appropriate subpages are used. For example, if the article is [[United States]], then an appropriate subpage would be [[History of the United States]], such that a summary of the subpage exists on the mother article, while the subpage goes into more detail.&lt;sup&gt;[[User:AndyZ/G#SS|[?]]]&lt;/sup&gt;
+*Please ensure that the article has gone through a thorough copyediting so that it exemplifies some of [[WP:WIAFA|Wikipedia's best work]]. See also [[User:Tony1/How to satisfy Criterion 1a]].&lt;sup&gt;[[User:AndyZ/G#copyedit|[?]]]&lt;/sup&gt;
+You may wish to browse through [[User:AndyZ/Suggestions]] for further ideas. Thanks, &lt;span style{{nw=}}&quot;color:#B03060;&quot;&gt;&lt;i&gt;[[User:Wimvandorst|Wim van Dorst'']] ([[user talk:Wimvandorst|''Talk'']])&lt;/i&gt;&lt;/span&gt; 17:42, 23 December 2007 (UTC)}}
+Substituted at 01:14, 30 April 2016 (UTC)</text>
+      <sha1>6rwkvq5r3gwmsygi01zmo0mo7akvw0r</sha1>
+    </revision>
+  </page>
+</mediawiki>

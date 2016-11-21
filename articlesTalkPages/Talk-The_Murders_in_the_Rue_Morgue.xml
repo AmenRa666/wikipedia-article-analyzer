@@ -1,0 +1,199 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:The Murders in the Rue Morgue</title>
+    <ns>1</ns>
+    <id>2833243</id>
+    <revision>
+      <id>645247300</id>
+      <parentid>548579532</parentid>
+      <timestamp>2015-02-02T02:29:03Z</timestamp>
+      <contributor>
+        <ip>90.197.181.12</ip>
+      </contributor>
+      <comment>/* Graham Robb's Critique */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="24495">{{talkheader}}
+{{ArticleHistory
+|action1=PR
+|action1date=03:12, 27 November 2007
+|action1link=Wikipedia:Peer review/The Murders in the Rue Morgue/archive1
+|action1result=reviewed
+|action1oldid=173985541
+
+|action2=GAN
+|action2date=22:16, 26 December 2007
+|action2result=listed
+|action2oldid=180318599
+
+|currentstatus=GA
+|topic=Langlit
+}}
+{{WikiProject Novels|class=GA|importance=High|19thC-task-force=yes|19thC-importance=mid|short-story-task-force=yes|short-story-importance=High|crime-task-force=yes|crime-importance=mid|listas=Murders in the Rue Morgue, The}}
+== Modern reception ==
+Reception says that modern readers are &quot;put off&quot; by the story because they wouldn't expect an orangutan, but isn't that the point of the story? The narrator talks about using one's imagination... if we're put off, then, like the police inspector, we're &quot;too cunning&quot;, and the fault is with us, not Poe/the narrator. Maybe Rosenheim is off in his assessment? Just sayin'.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/142.58.84.168|142.58.84.168]] ([[User talk:142.58.84.168|talk]]) 16:27, 8 July 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+ 
+== Rue Morgue (magazine) ==
+
+The tag {{For|the magazine Rue Morgue|Rue Morgue (magazine)}} at the top of this article was moved into a &quot;See also&quot; section. I changed [[Rue Morgue]] to redirect to the magazine because that seemed to make more sense. [[User:Midnightdreary|Midnightdreary]] 18:25, 16 March 2007 (UTC)
+
+== Plot summary ==
+
+This is one of the few articles that actually needs an expanded plot summary (most are way too long). Anyway, if anyone wants to give it a go, that would be great. [[User:Midnightdreary|Midnightdreary]] 16:15, 18 March 2007 (UTC)
+
+== Pop references ==
+
+So the whole list of references in popular culture (or whatever it was called) was removed. Sure enough, within a couple hours someone started adding similar material. I'm wondering if we should discuss this stuff officially. ''League of Extraordinary Gentlemen'' isn't the only piece of literature that references &quot;Rue Morgue.&quot; Anyway, thoughts? --[[User:Midnightdreary|Midnightdreary]] 15:55, 18 August 2007 (UTC)
+
+:If you check around to my other edits, I am pretty aggressive at removing mere trivia that's not notable. At least some of the examples that were removed here I think are fairly notable. [[WP:TRIVIA]] says they should not be in mere lists, especially as it's so easy to add junk at the end to make it balloon out of control. It doesn't say delete all of it indiscriminately. Even in the currently disputed section that was added and removed to [[WP:NOT]] it wouldn't say all these needed to go. We should prioritize though. The magazine with the same names seems particularly notable. Thoughts? [[User:DreamGuy|DreamGuy]] 17:07, 18 August 2007 (UTC)
+
+::These types of sections are tough. More than notability, I'd question [[WP:OR]]; we'd need a source that ''proves'' the given song/book/movie/video game is referencing ''this story'' and it's not just a coincidence. I agree with full sentences though. The more info we have on context, the better. --[[User:Midnightdreary|Midnightdreary]] 18:44, 18 August 2007 (UTC)
+::Minor addendum: I wasn't the one that removed the original list of cultural references. Just to be clear. :) --[[User:Midnightdreary|Midnightdreary]] 18:57, 18 August 2007 (UTC)
+
+::Err, well, most of these are extremely obvious. It'd be odd to demand sources for things are completely undeniable. Clive Barker's &quot;New Murders in the Rue Morgue&quot; and LXG reference the original story extremely frequently and explicitly. The [[Rue Morgue]] magazine should be pretty obvious too. These aren't OR in the sense that no &quot;research&quot; is actually involved It's not a question of reading through the lines, as it's in your face. [[User:DreamGuy|DreamGuy]] 18:58, 18 August 2007 (UTC)
+
+:::Well, I wouldn't make too many assumptions. My concern is that &quot;Rue Morgue&quot; is just the name of a street in Paris; so, just because a work mentions the street doesn't make it relative to this story. And, still, even obvious references don't necessarily add anything to this article ([[WP:TRIVIA]] seems to indicate the same) even if it's &quot;notable&quot; (and most of these options will be debatable). Anyway, my recommendation is to have a few strong, obvious references written in prose-form (like you suggest) here, and then lead people to the [[Edgar Allan Poe in television and film]] and/or [[Edgar Allan Poe and music]] articles. My other guess is that no one else will respond to this query but, even so, we should give a few days before making our consensus. :) --[[User:Midnightdreary|Midnightdreary]] 19:49, 18 August 2007 (UTC)
+
+Also, in Ray Bardbury's Martian chronicals, the story &quot;usher II&quot; is about multiple poe Murder stories being reinacted on people who burned books as subversive material, and a woman is stuffed into a fireplace by an &quot;ape&quot;.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/71.61.163.146|71.61.163.146]] ([[User talk:71.61.163.146|talk]]) 01:25, 4 October 2007 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== &quot;G--&quot; ==
+
+Someone keeps changing &quot;G--&quot; to &quot;God.&quot; This is NOT a reference to God, but a reference to the prefect's name, which is unrevealed beyond its first letter. Please, do not change again. --[[User:Midnightdreary|Midnightdreary]] 14:31, 28 August 2007 (UTC)
+
+== Good Article ==
+
+Hello to anyone who watches this page! I'm interested in bringing this article up to Good Article status if anyone wants to help out. This isn't necessarily one of my favorite stories, but it's literary importance almost demands that its Wikipedia article be at Good status. Anyone willing to help? --[[User:Midnightdreary|Midnightdreary]] 13:41, 2 November 2007 (UTC)
+
+== Removed allusions section ==
+
+This is the section about Allusions/references from other works... it was removed as irrelevant, unless anyone wants to make a case for it.
+&lt;small&gt;
+*&quot;Murders in the Rue Morgue&quot; is also the name of a [[song]] by [[Iron Maiden]] inspired by Poe's story. The song appears on their second album, ''[[Killers (Iron Maiden album)|Killers]]'' This song was later covered by the [[Swedish death metal]] pioneers, [[In Flames]] on their 1994 EP, [[Subterranean]].
+*The horror culture magazine ''[[Rue Morgue Magazine|Rue Morgue]]'' took its name from the story.
+*[[Clive Barker]]'s &quot;New Murders in the Rue Morgue&quot; appears in volume two of his ''[[Books of Blood]]''
+*[[Dwain Esper|Dwayne Esper's]] film ''[[Maniac (1934 film)|Maniac]]'' contained a character who believed himself to be a reincarnation of the orangutan.
+*Auguste Dupin sees history repeating itself in the pages of the [[comic book]] ''[[League of Extraordinary Gentlemen]]'' by [[Alan Moore]] and [[Kevin O'Neill]], where new murders are committed in Rue Morgue by no less than [[Robert Louis Stevenson]]'s [[Strange Case of Dr Jekyll and Mr Hyde|Mister Hyde]]. Among the victims is [[Émile Zola]]'s [[Nana (novel)|Nana]].
+*[[Bob Dylan]]'s song &quot;Just Like Tom Thumb Blues&quot; from 1965's ''Highway 61 Revisited'' includes the lyrics &quot;Don't put on any airs when you're down on Rue Morgue Avenue,&quot; which may be a reference to this story.
+*The song &quot;Little Dysfunk You&quot; by swedish pop group [[The Ark (band)|The Ark]] contains the lyrics &quot;I'll be the murder on the Rue Morgue you're trying to solve&quot;.&lt;/small&gt;
+I would recommend anything worthwhile be removed to [[Edgar Allan Poe and music]] or [[Edgar Allan Poe in television and film]]. Or whatever is appropriate. --[[User:Midnightdreary|Midnightdreary]] ([[User talk:Midnightdreary|talk]]) 14:34, 24 November 2007 (UTC)
+
+==Good article nomination==
+GA reviewer, feel free to leave comments here. Thanks! --[[User:Midnightdreary|Midnightdreary]] ([[User talk:Midnightdreary|talk]]) 22:05, 26 December 2007 (UTC)
+
+==Successful [[Wikipedia:Good articles|good article]] nomination==
+I am glad to report that this article nomination for [[WP:GA|good article]] status has been promoted. This is how the article, as of January 2, 2008, compares against the  [[Wikipedia:What is a good article?|six good article criteria]]:
+
+:'''1. Well written?:''' Pass
+:'''2. Factually accurate?:''' Pass
+:'''3. Broad in coverage?:''' Pass
+:'''4. Neutral point of view?:''' Pass
+:'''5. Article stability?''' Pass
+:'''6. Images?:''' Pass: There is only one image, but then perhaps it is the only available image for the article topic. I wonder if there is any old (not necessarily first printing) cover art for the story, but it will probably be under fair use which should be kept at minimum.
+
+  If you feel that this review is in error, feel free to take it to [[Wikipedia:Good article reassessment|Good article reassessment]]. Thank you to all of the editors who worked hard to bring it to this status, and congratulations.&lt;!-- Template:PGAN --&gt;&lt;/div&gt;— [[User:BorgQueen|BorgQueen]] ([[User talk:BorgQueen|talk]]) 13:15, 2 January 2008 (UTC)
+
+== Translations ==
+
+I am fairly certain that the story has been translated into a lot of languages, but only the French one is mentioned in the article. The Japanese wiki article has a long list of Japanese translations, beginning in 1913. If reliable sources can be found, such history of various translations will make a nice informative addition to this article, in my view. --[[User:BorgQueen|BorgQueen]] ([[User talk:BorgQueen|talk]]) 17:44, 2 January 2008 (UTC)
+:Good point. Though not all translations or re-printings are notable, in my future research I'll try to keep an eye out for further information on &quot;Rue Morgue&quot; around the world. I'll also try to pay attention for possible images to add in. Thanks for reviewing!! --[[User:Midnightdreary|Midnightdreary]] ([[User talk:Midnightdreary|talk]]) 01:39, 3 January 2008 (UTC)
+
+== Hoffmann ==
+
+It would be nice to see a a source that directly connects Hoffman's influence to Poe. I have never seen the claim (not to say it isn't possible). Unless several scholars make the link, it does not represent an academic consensus to say that Poe was influenced by Hoffman. Putting forward a claim that is not heavily supported actually violates [[WP:NPOV]] as well. Especially on an article with such a high importance rating (not to mention one at GA status), we have to be careful. --[[User:Midnightdreary|Midnightdreary]] ([[User talk:Midnightdreary|talk]]) 19:26, 29 September 2008 (UTC)
+:Also, please note that according to wiki-policy and the Manual of Style for the project, an article on an American topic should not use British/Australian spellings (unless a quote, obviously). The anon editor using a shifting IP may also want to reconsider [[WP:WEASEL]], which clearly says the word &quot;often&quot; is a weasel word. Again, as I said in the edit summary, there are two sources that say that this story is considered the first detective story (both are footnoted); neither use the term &quot;often&quot;. To suggest that the two sources say &quot;often&quot; is inaccurate and misrepresents the sources. I hope this is helpful. --[[User:Midnightdreary|Midnightdreary]] ([[User talk:Midnightdreary|talk]]) 21:35, 29 September 2008 (UTC)
+::Look, I'm trying to come to a compromise/understanding here. But there is a certain anonymous editor with a rotating IP that refuses to engage on this talk page. As such, he/she is compromising the integrity of this article, which is recognized with [[WP:GA|good status]]. I'm considering requesting full protection so that we can work this out rather than edit warring. However, this only works if that editor is willing to engage in discussion. --[[User:Midnightdreary|Midnightdreary]] ([[User talk:Midnightdreary|talk]]) 02:03, 30 September 2008 (UTC)
+
+:It is not my POV. I gave the reference (Booker) which includes the whole discussion about priority and direct influence. Booker wasn't pretending to make an original claim. And the edit simply alerts the reader to earlier claimants to the title.  Read any book on Poe for confirmation of the influence of Hoffmann. Or read the wiki article on [[E. T. A. Hoffmann]], which I didn't write! And look at the German wikipedia entry on Hoffmann's story [http://de.wikipedia.org/wiki/Das_Fr%C3%A4ulein_von_Scuderi] to see that it has the classic elements. The &quot;often&quot; is accurate, but removed to please you. (&quot;Weasel&quot; is a stupid, thick-fingered policy as it stands. It cannot distinguish between what we all know - and doesn't need proof - and what is unprovable.) A bald statement that &quot;it is the first&quot; simply does not reflect the disagreement about the matter. I suspect patriotic American &quot;historians of detective fiction&quot; don't read German too well and aren't anxious to find earlier examples. Poe learnt (learned??) to write prose at school in England (like [[Raymond Chandler]]) he should be allowed spellings that reflect that and Hoffmann is spelled (spellt??) Hoffmann unless there is an American spelling of it I don't know about. [[Special:Contributions/62.64.206.111|62.64.206.111]] ([[User talk:62.64.206.111|talk]]) 10:58, 30 September 2008 (UTC)
+
+I am having difficulty [[WP:AGF|assuming good faith]] from this user because he/she has refused my several previous attempts to start a dialogue. I'm going to try again and lay out my concerns with this anon editor who doesn't seem to like to play with others. The problem with the edits are as follows:
+#Manual of Style problems - You can not change the spelling to British style spellings on an American subject article. Words like &quot;neighbour&quot; should not exist in this article. This is non-negotiable; it is policy.
+#Moving the note that the term 'detective' did not exist in the dictionary to the introduction section violates the policy on [[WP:LEAD|leads]] as it is far too specific a detail and should ''not'' exist there unless it goes into further detail in the body of the article. Instead, this editor is trying to add to the lead without any intention of expanding.
+#Adding the term &quot;often&quot; to the claim that &quot;Rue Morgue&quot; is considered the first detective story is, for one thing, [[WP:NPOV|POV]] and, for another, incorrect based on the footnotes. There are, in fact, ''three'' footnotes that support &quot;Rue Morgue&quot; as the first detective story (not &quot;often&quot;); two are in the lead, another is further down. Adding &quot;often&quot; implies that these sources use the term; they don't. If we add it, we are being deceptive and/or manipulative of other people's words.
+#The information on Hoffman could very well be legitimate, but we have to examine a bit: First, is it considered the first detective story? Fine, that's great. But, more importantly, was it an influence on Poe? As the source is not a Poe scholar, I have to take it with a grain of salt. There have been essays written just about what books Poe has read - long, long inventories of any book he ever directly mentioned in a review, in a short story, in an epigraph... Has this source done the research to determine if Poe actually read Hoffman? As he was not a Poe scholar, you may see my concern. As an attempt at reaching out, I have brought out my library of Poe books, including ones that focus specifically on his detective fiction, and will start pouring through them to see if they can corroborate this claim.
+#I hope you understand (and are actually reading this). This is how things work at Wiki - we collaborate. We don't force POV, and we don't break established policies (number one on my list, I think, is enough reason to revert). Please tell me [[WP:CON|you are willing to discuss]]... finally? --[[User:Midnightdreary|Midnightdreary]] ([[User talk:Midnightdreary|talk]]) 11:01, 30 September 2008 (UTC)
+
+::Thank you so much for joining the discussion! Now we can really move forward with this. Okay, first, this editor did, in fact, add the info to the Hoffman article that Poe was influenced by him; note that it uses the same source. But, anyway, first, about the spellings... this is an article on an American story. Wikipedia's [[WP:MOS|Manual of Style]] will definitely tell you we ''must'' use American spelling. I don't argue policy, I just follow it as best I know how. --[[User:Midnightdreary|Midnightdreary]] ([[User talk:Midnightdreary|talk]]) 11:05, 30 September 2008 (UTC)
+
+::In fact look back at the history of the Hoffmann article!! His influence on Poe was there long before I added a source about the story. The story is set in France (like Hoffmann's story). Why not use French spelling?? [[Special:Contributions/62.64.206.111|62.64.206.111]] ([[User talk:62.64.206.111|talk]])
+
+:::Fine, I concede that Hoffman had the Poe influence before you. But I will '''not''' concede that you are breaking policy by using British spelling on an American article. Are you familiar with policy? I can't assume anything because you do not have an account and I can't confirm your edit history with a rotating IP. --[[User:Midnightdreary|Midnightdreary]] ([[User talk:Midnightdreary|talk]]) 11:12, 30 September 2008 (UTC)
+:::And, since you've threatened me with the [[WP:3RR|3RR]] (quite appropriately, frankly), I hope you will go ahead and fix the spelling yourself. Please! --[[User:Midnightdreary|Midnightdreary]] ([[User talk:Midnightdreary|talk]]) 11:14, 30 September 2008 (UTC)
+:::Other problems with your current edit: using the term &quot;strong claim&quot; is most certainly not [[WP:NPOV|NPOV]] (it force-feeds the value judgment of &quot;strong&quot;). Additionally, &quot;The Murders in the Rue Morgue&quot; is a short story and, as such, is formatting in quotes - ''not italics''. This is more than just Wiki policy; it is common use of the English language. --[[User:Midnightdreary|Midnightdreary]] ([[User talk:Midnightdreary|talk]]) 11:16, 30 September 2008 (UTC)
+
+:::You can have the spellings you feel appropriate. But since you are more familiar with them than I am, it would be better if you &quot;corrected&quot; them. Italics are used for short stories very often - I am looking at a book now which uses them for ''The Naval Treaty'', a Sherlock Holmes story. Perhaps a love of using double quotation marks as much as possible is another American idiosyncrasy (I understand that it is). [[Special:Contributions/62.64.206.111|62.64.206.111]] ([[User talk:62.64.206.111|talk]]) 11:23, 30 September 2008 (UTC)
+
+::::Actually, the usage of italics on short story titles is quite rare and usually is only when the story borders on [[novella]] status. I don't mean to be idiosyncratic, I'm just pointing out policy and manual of style things that we simply ''must'' follow. For specificity, see [[WP:MOST]]. Anyway, my next step is going to be to search through Poe sources that may give more info on Hoffman's influence on this story or Poe in general. --[[User:Midnightdreary|Midnightdreary]] ([[User talk:Midnightdreary|talk]]) 11:29, 30 September 2008 (UTC)
+
+===Update===
+I have now combed through eleven books on Poe, including two that specialize on Poe's detective stories, as well as several essays and papers. I have yet to find ''any'' Poe-focused book that makes a connection between Poe and E. T. A. Hoffman. In other words, though we can acknowledge the existence of a story by Hoffman, we can not confirm or imply that Poe was familiar with it, let alone inspired by it. I have clarified wording in this article to remove any implication of a connection. It is worth considering also that we are talking about a &quot;detective story&quot; not a &quot;mystery&quot; - and they are two very different genres. I wonder if Hoffman is writing &quot;mystery&quot; and not a &quot;detective story&quot;? --[[User:Midnightdreary|Midnightdreary]] ([[User talk:Midnightdreary|talk]]) 20:25, 14 October 2008 (UTC)
+
+==1909 Film Adaptation==
+Poe's story was used, with Conan Doyle's detective supplanting Dupin:
+[http://www.imdb.com/title/tt0299137/fullcredits Sherlock Holmes in the Great Murder Mystery][[User:Avitor|Avitor]] ([[User talk:Avitor|talk]]) 01:14, 24 December 2008 (UTC)
+
+== up the irons ==
+
+What about the Iron Maiden song called: &quot;Murders in the Rue Morgue&quot; please add it to the adaptations. Thank You  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/91.120.128.108|91.120.128.108]] ([[User talk:91.120.128.108|talk]]) 10:53, 29 March 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:Why? Does the song really ''adapt'' the whole story of &quot;The Murders in the Rue Morgue&quot;? Or is it just a trivial pop culture reference trying to sound cool by capitalizing on Poe, &quot;murders&quot; and &quot;morgue&quot;? This sounds like an entry for [[Edgar Allan Poe and music]]... and it's already there! --[[User:Midnightdreary|Midnightdreary]] ([[User talk:Midnightdreary|talk]]) 13:47, 29 March 2009 (UTC)
+
+In order to increase my enjoyment of my readings of Poe, I enjoy knowing how his stories and poems have influenced other artists and musicians and creative types.  To find Iron Maiden's piece I would not know to go to a wikipedia page titled 'Edgar Allan Poe and music' (unless it is linked in the See Also section).  How might this be remedied?  I know there are difficulties with trivia and pop culture sections (let alone the arbitrary definitions of these vague terms - was not Poe pop culture when he was alive, and considered much less in the half century after his death?) but leaving this information out serves to limit a reader's understanding of how far-reaching Poe's influence continues to be.  Great work Midnightdreary on this and other articles.  ~~  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.235.186.191|76.235.186.191]] ([[User talk:76.235.186.191|talk]]) 19:30, 30 September 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:Well, the only way that you can include it here is if you can find a [[WP:RS|reliable]] published source which makes the connection. Failure to do so makes the inclusion of such information a violation of [[WP:OR|original research]]. Also bear in mind the debate over &quot;[[WP:TRIVIA|trivia]]&quot; and [[WP:NOT|what Wikipedia is not]] (particularly the idea that this should not be an indiscriminatory list of information; even if true, the question must arise: ''does this particular piece of information have merit? would the article be improved by its inclusion?''). --[[User:Midnightdreary|Midnightdreary]] ([[User talk:Midnightdreary|talk]]) 20:32, 30 September 2009 (UTC)
+
+== Graham Robb's Critique ==
+In his exploration of medical, cultural and literary tropes, Graham Robb's ''Strangers: Homosexual Love in the Nineteenth Century'' expounds a novel critique of Poe's ''Rue Morgue'', that the real solution is to a mystery that has probably passed the reader quite by: namely, that Dupin and the unnamed narrator are in fact male lovers. The argument seems bizarre at first, but Robb picks the narrative apart, taking each literary reference back to its textual origin, and hardly a one does not treat in some way of [[uranism]], [[transvestism]] or some other oblique significator pointing to [[Homosexuality|homosexual]] culture such as it was in Poe's day. Even the discovery of the culprit as being anthropoid in shape and capabilities, but not in fact a man at all, is artfully construed by Robb as being indicative of the detective's and his companion's un-masculinity. Robb is actually himself heterosexual (though we've all heard [[Bisexuality|that one]] before), and so can't be pulled up for any perceived gay ideological &quot;log-rolling&quot;.
+
+As for myself, I'm not actually convinced (though it makes very interesting reading). I think what the analysis shows is that the devices in the narrative all indicate a murderer who is not a man, a non-human culprit.
+
+[[User:Nuttyskin|Nuttyskin]] ([[User talk:Nuttyskin|talk]]) 16:33, 20 September 2012 (UTC)
+:This is an interesting reading of the story, and I wonder if it's worth representing here. Incidentally, I remember seeing (though I don't recall the source) some analysis that argued the two murdered women were, in fact, lesbians, making their death a potential hate crime. --[[User:Midnightdreary|Midnightdreary]] ([[User talk:Midnightdreary|talk]]) 17:36, 20 September 2012 (UTC)
+
+::Yeah, it was probably a homophobic orangutang. [[Special:Contributions/90.197.181.12|90.197.181.12]] ([[User talk:90.197.181.12|talk]]) 02:29, 2 February 2015 (UTC)</text>
+      <sha1>9f53e5mnhsertcq1xemri15lsketgk8</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,240 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Suillus brevipes</title>
+    <ns>0</ns>
+    <id>24431456</id>
+    <revision>
+      <id>729959109</id>
+      <parentid>723872062</parentid>
+      <timestamp>2016-07-15T19:28:55Z</timestamp>
+      <contributor>
+        <username>Bender235</username>
+        <id>88026</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */clean up; http-&gt;https (see [[WP:VPR/Archive 127#RfC: Should we convert existing Google and Internet Archive links to HTTPS?|this RfC]]) using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="26378">{{Taxobox
+| image = Suillus brevipes 98931.jpg
+| image_width = 234px
+| regnum = [[Fungi]]
+| divisio = [[Basidiomycota]]
+| classis = [[Agaricomycetes]]
+| ordo = [[Boletales]]
+| familia = [[Suillaceae]]
+| genus = ''[[Suillus]]''
+| species = '''''S. brevipes'''''
+| binomial = ''Suillus brevipes''
+| binomial_authority = ([[Charles Horton Peck|Peck]]) [[Otto Kuntze|Kuntze]] (1898)
+| synonyms_ref = &lt;ref name=&quot;urlMycoBank: Suillus brevipes&quot;/&gt;
+| synonyms = *''Boletus brevipes'' &lt;small&gt;Peck (1885)&lt;/small&gt;
+*''Boletus viscosus'' &lt;small&gt;[[Charles Christopher Frost|Frost]] (1885)&lt;/small&gt;
+*''Rostkovites brevipes'' &lt;small&gt;(Peck) [[William Alphonso Murrill|Murrill]] (1948)&lt;/small&gt;
+}}
+{{mycomorphbox
+| name = ''Suillus brevipes''
+| whichGills = adnate
+| whichGills2 = decurrent
+| capShape = convex
+| capShape2 = flat
+| hymeniumType = pores
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = brown
+| howEdible = edible
+}}
+
+'''''Suillus brevipes''''' is a species of [[fungus]] in the family [[Suillaceae]]. First described by American [[Mycology|mycologists]] in the late 19th century, it is [[common name|commonly]] known as the '''stubby-stalk''' or the '''short-stemmed slippery Jack'''. The [[basidiocarp|fruit bodies]] ([[mushroom]]s) produced by the fungus are characterized by a chocolate to reddish-brown [[pileus (mycology)|cap]] covered with a sticky layer of slime, and a short whitish [[stipe (mycology)|stipe]] that does not have either a [[partial veil]] or prominent dark or colored glandular dots. The cap can reach a diameter of about {{convert|10|cm|in|1|abbr=on}}, while the stipe is up to {{convert|6|cm|in|abbr=on}} long and {{convert|2|cm|in|1|abbr=on}} thick. Like other [[bolete]] mushrooms, ''S.&amp;nbsp;brevipes'' produces [[basidiospore|spores]] in a vertically arranged layer of spongy tubes with openings that form a layer of small yellowish pores on the underside of the cap.
+
+''Suillus brevipes'' grows in a [[mycorrhizae|mycorrhizal]] association with various species of two- and three-needled pines, especially [[lodgepole pine|lodgepole]] and [[ponderosa pine]]. The fungus is found throughout North America, and has been [[introduced species|introduced]] to several other countries via transplanted pines. In the [[ecological succession|succession]] of mycorrhizal fungi associated with the regrowth of [[jack pine]] after [[clearcutting]] or [[wildfire]]s, ''S.&amp;nbsp;brevipes'' is a multi-stage fungus, found during all stages of tree development.  The mushrooms are [[edible mushroom|edible]], and are high in the [[essential fatty acid|essential]] fatty acid [[linoleic acid]].
+
+==Taxonomy==
+The species was first described scientifically as ''Boletus viscosus'' by American mycologist [[Charles Christopher Frost|Charles Frost]] in 1874. In 1885, [[Charles Horton Peck]], who had found specimens in pine woods of [[Albany County, New York]], explained that the species name was a [[homonym (biology)|taxonomic homonym]] (''[[Boletus viscosus]]'' was already in use for another species named by [[Étienne Pierre Ventenat|Ventenat]] in 1863&lt;ref name=&quot;urlMycoBank: Boletus viscosus&quot;/&gt;), and so renamed it to ''Boletus brevipes''.&lt;ref name=Peck1885/&gt;&lt;ref name=Halling1983/&gt; Its current name was assigned by German [[Otto Kuntze]] in 1898.&lt;ref name=Kuntze1898/&gt; [[William Alphonso Murrill]] renamed it as ''Rostkovites brevipes'' in 1948;&lt;ref name=Murrill1948/&gt; the genus ''Rostkovites'' is now considered to be [[synonym (taxonomy)|synonymous]] with ''[[Suillus]]''.&lt;ref name=Kirk2008/&gt;
+
+[[Agaricales]] specialist [[Rolf Singer]] included ''Suillus brevipes'' in the [[subsection (botany)|subsection]] ''Suillus'' of genus ''[[Suillus]]'', an infrageneric (a [[Taxonomy (biology)|taxonomic]] level below genus) grouping of species characterized by a cinnamon-brown [[spore print]], and pores less than 1&amp;nbsp;mm wide.&lt;ref name=Singer1986/&gt; [[Molecular phylogenetic]] analyses of [[ribosomal DNA]] sequences shows that the most closely related species to ''Suillus brevipes'' include ''[[Suillus luteus|S.&amp;nbsp;luteus]]'', ''[[Suillus pseudobrevipes|S.&amp;nbsp;pseudobrevipes]]'', and ''[[Suillus weaverae|S.&amp;nbsp;weaverae]]'' (formerly ''Fuscoboletinus weaverae'').&lt;ref name=Kretzer1996/&gt;
+
+The [[specific name (botany)|specific epithet]] is derived from the [[Latin]] ''brevipes'', meaning &quot;short-footed&quot;.&lt;ref name=Evenson/&gt; The mushroom is [[common name|commonly known]] as the &quot;stubby-stalk&quot;&lt;ref name=McKnight1987/&gt; or the &quot;short-stemmed slippery Jack&quot;.&lt;ref name=Arora1986/&gt;
+
+==Description==
+{{Multiple image|direction=vertical|align=left|image1=Suillus brevipes 44419.jpg|image2=Suillus brevipes 51813.jpg|width=200|caption1=The cap flesh is white or pale yellow, and does not change color when cut.|caption2=The pores on the underside of the cap are minute, typically 2–3 per millimeter.}}
+The [[pileus (mycology)|cap]] is deep brown to reddish-brown, later fading to [[tan (color)|tan]] with age, and it does not bruise with handling. The cap surface is smooth, and, depending on the moisture in the environment, may range from sticky to the touch to slimy. Depending on its maturity, the cap shape may range from spherical to broadly convex. The cap diameter measures {{convert|5|–|10|cm|in|1|abbr=on}},&lt;ref name=Miller2006/&gt; and the [[pileipellis|cap cuticle]] can be peeled from the surface. The tubes are yellow, becoming olive-green with age, and they have an attachment to the stipe that ranges from [[wikt:adnate|adnate]] (with most of the tube fused to the stipe) to [[decurrent]] (with the tubes broadly attached, but running somewhat down the length of the stipe). They are typically up to {{convert|1|cm|in|1|abbr=on}} deep, and there are about 1–2 tube mouths (pores) per millimeter.&lt;ref name=Healy2008/&gt; The pores are pale yellow, round, 1–2&amp;nbsp;mm wide, and do not change color when bruised.&lt;ref name=Tylutki1987II/&gt;
+
+The [[stipe (mycology)|stipe]] is white to pale yellow, dry, solid, not bruising, and [[wikt:pruinose|pruinose]] (having a very fine whitish powder on the surface). A characteristic feature of many ''Suillus'' species are the glandular dots found on the stipe—clumps of [[hypha]]l cell ends through which the fungus secretes various metabolic wastes, leaving a sticky or resinous &quot;dot&quot;. In ''S.&amp;nbsp;brevipes'', the form of the glandular dots is variable: they may be absent, slightly underdeveloped or obscurely formed with age. The stipe is usually short in comparison to the diameter of the cap, typically {{convert|2|–|6|cm|in|1|abbr=on}} long and {{convert|1|–|2|cm|in|1|abbr=on}} thick. It is either of equal width throughout, or may taper downwards; its surface bears minute puncture holes at maturity, and is it slightly fibrous at the base.&lt;ref name=Grund1976/&gt; Collections made in New Zealand tend to have a reddish coloration at the very base of the stipe.&lt;ref name=&quot;McNabb 1968&quot;/&gt; The [[trama (mycology)|flesh]] of the mushroom is initially white, but turns pale yellow in age. The odor and taste are mild.  The [[spore print]] is cinnamon-brown.&lt;ref name=Orr1979/&gt;
+
+===Microscopic characteristics===
+The [[basidiospore|spores]] are [[wikt:elliptical|elliptical]] to [[wikt:oblong|oblong]], smooth, and have dimensions of 7–10 by 3–4&amp;nbsp;[[micrometre|µm]].&lt;ref name=Tylutki1987II/&gt; The spore-bearing cells, the [[basidia]], are thin-walled, club-shaped to roughly cylindrical, and measure 2–25 by 5–7&amp;nbsp;µm. They bear either two or four spores. The pleurocystidia ([[cystidia]] that are found on the face of a gill) are roughly cylindrical with rounded ends, thin-walled, and 40–55 by 5–8&amp;nbsp;µm. The cells often have brown contents, and in the presence of 2%&amp;nbsp;[[potassium hydroxide]] (KOH) will appear [[hyaline]] (translucent) or [[wine (color)|vinaceous]] (red wine-colored); in [[Melzer's reagent]] they become pale yellow or brown. The cheilocystidia (cystidia found on the edge of a gill) are 30–60 by 7–10&amp;nbsp;µm, club-shaped to almost cylindrical, thin-walled, with brown incrusting material at the base, and arranged like a bundle of fibers. In KOH they appear hyaline, and are pale yellow in Melzer's reagent. Caulocystidia (found on the stipe) are 60–90 by 7–9&amp;nbsp;µm, mostly cylindrical with rounded ends, and arranged in bundles with brown [[pigment]] particles at the base. The caulocystidia stain vinaceous in KOH. The [[pileipellis|cuticle]] of the cap is made of a layer of interwoven gelatinous hyphae that are individually 2–5&amp;nbsp;µm thick; the gelatinous hyphae are responsible for the sliminess of the cuticle.&lt;ref name=Grund1976/&gt; There are no [[clamp connection]]s in the [[hypha]]e.&lt;ref name=Tylutki1987II/&gt;
+
+===Edibility===
+[[File:Suillus brevipes 78.jpg|thumb|right|Sources recommend peeling off the slimy cap cuticle before eating the mushroom.]]
+Like many species of the genus ''[[Suillus]]'', ''S.&amp;nbsp;brevipes'' is [[edible mushroom|edible]], and the mushroom is considered choice by some.&lt;ref name=Orr1979/&gt; The odor is mild, and the taste mild or slightly acidic.&lt;ref name=Evenson/&gt; [[Field guide]]s typically recommended to remove the slimy cap cuticle, and, in older specimens, the tube layer before consumption.&lt;ref name=Evenson/&gt;&lt;ref name=Weber1980/&gt; The mushrooms are common in the diet of [[grizzly bear]]s in [[Yellowstone National Park]].&lt;ref name=Mattson2002/&gt;
+
+The [[fatty acid]] composition of ''S.&amp;nbsp;brevipes'' fruit bodies has been analyzed. The cap contained a higher [[lipid]] content than the stipe—18.4% of the [[dry matter|dry weight]], compared to 12.4%. In the cap, [[linoleic acid]] made up 50.7% of the total lipids (65.7% in the stipe), [[oleic acid]] was 29.9% (12.4% in the stipe), followed by [[palmitic acid]] at 10.5% (12.6% in the stipe).&lt;ref name=Sumner1973/&gt; Linoleic acid—a member of the group of [[essential fatty acid]]s called [[omega-6 fatty acid]]s—is an essential dietary requirement for humans.&lt;ref name=Russo2009/&gt;
+
+===Similar species===
+Several ''Suillus'' species which grow under pines could be confused with ''S.&amp;nbsp;brevipes''. ''[[Suillus granulatus|S.&amp;nbsp;granulatus]]'' has a longer stipe, and distinct raised granules on the stipe. ''S.&amp;nbsp;brevipes'' is differentiated from ''[[Suillus albidipes|S.&amp;nbsp;albidipes]]'' by not having a cottony roll of velar tissue (derived from a [[partial veil]]) at the margin when young. ''[[Suillus pallidiceps|S.&amp;nbsp;pallidiceps]]'' is by distinguished its pale yellow cap color; and ''[[Suillus albivelatus|S.&amp;nbsp;albivelatus]]'' has a veil.&lt;ref name=Tylutki1987II/&gt; ''[[Suillus pungens|S.&amp;nbsp;pungens]]'' has a characteristic pungent odor, compared to the mild smell of ''S.&amp;nbsp;brevipes'', and like ''S.&amp;nbsp;granulatus'', has glandular dots on the stipe.&lt;ref name=Orr1979/&gt;
+
+==Ecology==
+[[File:Lodgepole pine Yellowstone 1998 near firehole.jpg|thumb|left|''S. brevipes'' appears early in the succession of mycorrhizal fungi during the regrowth of pine after wildfire.]]
+
+''Suillus brevipes'' is a [[mycorrhiza]]l fungus, and it develops a close [[symbiosis|symbiotic]] association with the roots of various tree species, especially [[pine]]. The underground [[mycelia]] form a sheath around the tree rootlets, and the fungal hyphae penetrate between the [[cortex (botany)|cortical]] cells of the root, forming [[mycorrhiza#Types of mycorrhiza|ectomycorrhizae]]. In this way, the fungus can supply the tree with minerals, while the tree reciprocates by supplying [[carbohydrate]]s created by [[photosynthesis]]. In nature, it associates with two- and three-needle pines, especially [[Lodgepole Pine|lodgepole]] and [[ponderosa pine]]. Under controlled laboratory conditions, the fungus has been shown to form ectomycorrhizae with ponderosa, lodgepole,&lt;ref name=Grand1968/&gt; [[Loblolly Pine|loblolly]], [[Eastern White Pine|eastern white]],&lt;ref name=Doak1934/&gt;&lt;ref name=Palm1984/&gt; [[Patula Pine|patula]],&lt;ref name=Mohan1993/&gt; [[Pond Pine|pond]],&lt;ref name=Suggs1971/&gt; [[Radiata Pine|radiata]],&lt;ref name=Morrison1973/&gt; and [[red pine]]s.&lt;ref name=Palm1984/&gt; ''[[In vitro]]'' mycorrhizal associations formed with non-pine species include [[Pacific madrone]], [[Arctostaphylos uva-ursi|bearberry]],&lt;ref name=Molina1982a/&gt; [[western larch]], [[Sitka spruce]], and [[coast Douglas-fir]].&lt;ref name=Molina1982b/&gt; Fungal growth is inhibited by the presence of high levels of the [[heavy metal (chemistry)|heavy metals]] [[cadmium]] (350&amp;nbsp;[[parts per million|ppm]]), [[lead]] (200&amp;nbsp;ppm), and [[nickel]] (20&amp;nbsp;ppm).&lt;ref name=McCreight1982/&gt;
+
+During the regrowth of pine trees after disturbance like [[clearcutting]] or [[wildfire]], there appears an orderly sequence of mycorrhizal fungi as one species is replaced by another. A study on the [[ecological succession]] of ectomycorrhizal fungi in Canadian [[jack pine]] forests following wildfire concluded that ''S.&amp;nbsp;brevipes'' is a multi-stage fungus. It appears relatively early during tree development; fruit bodies were common in 6-year-old tree stands, and the fungus colonized the highest proportion of root tips. The fungus persists throughout the life of the tree, having been found in tree stands that were 41, 65, and 122 years old. There is, however, a relative reduction in the prevalence of the fungus with increasing stand age, which may be attributed to increased competition from other fungi, and a change in habitat brought about by closure of the [[canopy (biology)|forest canopy]].&lt;ref name=Visser1995/&gt; Generally, ''S.&amp;nbsp;brevipes'' responds favorably to [[silviculture|silvicultural]] practices such as thinning and clearcutting. A 1996 study demonstrated that fruit bodies increased in abundance as the severity of disturbance increased.&lt;ref name=Kropp1996/&gt; It has been suggested that the thick-walled, wiry [[rhizomorph]]s produced by the fungus may serve as an adaptation that helps it to survive and remain viable for a period of time following disturbance.&lt;ref name=Bradbury1998/&gt;
+
+==Habitat and distribution==
+''Suillus brevipes'' grows singly, scattered, or in groups on the ground in late summer and autumn. A common—and sometimes abundant—mushroom, it occurs over most of North America (including Hawaii&lt;ref name=Hemmes2002/&gt;),&lt;ref name=Miller2006/&gt; south to Mexico,&lt;ref name=Cappello1982/&gt; and north to Canada.&lt;ref name=Bossenmaier1997/&gt; This species has been found in [[Puerto Rico]] growing under planted ''[[Pinus caribaea]]'', where it is thought to have been [[introduced species|introduced]] inadvertently from [[North Carolina]] by the [[USDA Forest Service]] in 1955.&lt;ref name=Miller2000/&gt;&lt;ref name=USDA1971/&gt; Other introductions have also occurred in exotic pine plantations in Argentina, India, New Zealand,&lt;ref name=Read2000/&gt;&lt;ref name=Natarajan1983/&gt; Japan, and Taiwan.&lt;ref name=Yeh1983/&gt;
+
+==See also==
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+&lt;ref name=Arora1986&gt;{{cite book |author=Arora D.|title=Mushrooms Demystified: a Comprehensive Guide to the Fleshy Fungi |publisher=Ten Speed Press |location=Berkeley, California |year=1986 |pages=501–502 |isbn=978-0-89815-169-5}}&lt;/ref&gt;
+
+&lt;ref name=Bossenmaier1997&gt;{{cite book |author=Bossenmaier EF.|title=Mushrooms of the Boreal Forest |publisher=University Extension Press, University of Saskatchewan |location=Saskatoon, Canada |year=1997 |page=60 |isbn=978-0-88880-355-9}}&lt;/ref&gt;
+
+&lt;ref name=Cappello1982&gt;{{cite journal |vauthors=Cappello S, Cifuentes J|year=1982 |title=New records of the genus ''Suillus'' (Boletaceae) from Mexico |journal=Boletin de la Sociedad Mexicana de Micologia |issue=17 |pages=196–206 |issn=0085-6223}}&lt;/ref&gt;
+
+&lt;ref name=Bradbury1998&gt;{{cite journal |vauthors=Bradbury SM, Danielson RM, Visser S |year=1998 |title=Ectomycorrhizas of regenerating stands of lodgepole pine (''Pinus contorta'') |journal=Canadian Journal of Botany |volume=76 |issue=2 |pages=218–27 |doi=10.1139/cjb-76-2-218}}&lt;/ref&gt;
+
+&lt;ref name=Doak1934&gt;{{cite journal |author=Doak KB. |year=1934 |title=Fungi that produce ectotrophic mycorrhizae |journal=Phytopathology |volume=24 |page=7}}&lt;/ref&gt;
+
+&lt;ref name=Evenson&gt;{{cite book |title=Mushrooms of Colorado and the Southern Rocky Mountains|author=Evenson VS. |year=1997 |publisher=Westcliffe Publishers |location=Boulder, CO |isbn=978-1-56579-192-3 |page=158 |url=https://books.google.com/books?id=EAeDeyqZLq0C&amp;pg=PA158}}&lt;/ref&gt;
+
+&lt;ref name=Grand1968&gt;{{cite journal |author=Grand LF. |year=1968 |title=Conifer associated and mycorrhizal syntheses of some Pacific Northwest ''Suillus'' species |journal=Forest Science |volume=14 |issue=3 |pages=304–12}}&lt;/ref&gt;
+
+&lt;ref name=Grund1976&gt;{{cite book |title=Nova Scotian Boletes |vauthors=Grund DW, Harrison AK |year=1976 |publisher=J.&amp;nbsp;Cramer |location=Lehre, Germany |isbn=978-3-7682-1062-1 |pages=176–78}}&lt;/ref&gt;
+
+&lt;ref name=Halling1983&gt;{{cite journal |author=Halling RE. |year=1983 |title=Boletes described by Charles C. Frost |jstor=3792925 |journal=Mycologia |volume=75 |issue=1 |pages=70–92 |doi=10.2307/3792925}}&lt;/ref&gt;
+
+&lt;ref name=Healy2008&gt;{{cite book |vauthors=Healy RA, Huffman DR, Tiffany LH, Knaphaus G |title=Mushrooms and Other Fungi of the Midcontinental United States |series=Bur Oak Guide |publisher=University of Iowa Press |location=Iowa City, Iowa |year=2008 |page=171 |isbn=978-1-58729-627-7 |url=https://books.google.com/books?id=tl2fVAHuej4C&amp;pg=PA171}}&lt;/ref&gt;
+
+&lt;ref name=Hemmes2002&gt;{{cite book |vauthors=Hemmes DE, Desjardin D |title=Mushrooms of Hawai'i: An Identification Guide|publisher=Ten Speed Press |location=Berkeley, California |year=2002 |page=31 |isbn=978-1-58008-339-3 |url=https://books.google.com/books?id=xbEC2PrmZZkC&amp;pg=PA32}}&lt;/ref&gt;
+
+&lt;ref name=Kirk2008&gt;{{cite book |vauthors=Kirk PM, Cannon PF, Minter DW, Stalpers JA |title=Dictionary of the Fungi |edition=10th |publisher=CAB International |location=Wallingford, Connecticut |year=2008 |page=607 |isbn=978-0-85199-826-8}}&lt;/ref&gt;
+
+&lt;ref name=Kretzer1996&gt;{{cite journal |vauthors=Kretzer A, Li Y, Szaro T, Bruns TD |year=1996 |title=Internal transcribed spacer sequences from 38 recognized species of ''Suillus'' sensu lato: Phylogenetic and taxonomic implications |journal=Mycologia |volume=88 |issue=5 |pages=776–85 |doi=10.2307/3760972 |jstor=3760972}}&lt;/ref&gt;
+
+&lt;ref name=Kropp1996&gt;{{cite journal |vauthors=Kropp BR, Albee S |year=1996 |title=The effects of silvicultural treatments on occurrence of mycorrhizal sporocarps in a ''Pinus contorta'' forest: A preliminary study |journal=Biological conservation |volume=78 |issue=3 |pages=313–18 |doi=10.1016/S0006-3207(96)00140-1}}&lt;/ref&gt;
+
+&lt;ref name=Kuntze1898&gt;{{cite book |title=Revisio Generum Plantarum |volume=3 |author=Kuntze O. |year=1898 |location=Leipzig |publisher=A.&amp;nbsp;Felix |page=535 |language=German |url=http://biodiversitylibrary.org/page/3752}}&lt;/ref&gt;
+
+&lt;ref name=Mattson2002&gt;{{cite journal |vauthors=Mattson DJ, Podruzny SR, Haroldson MA |year=2002 |title=Consumption of fungal sporocarps by Yellowstone Grizzly Bears |journal=Ursus |volume=13 |pages=95–103 |url=http://www.bearbiology.com/fileadmin/tpl/Downloads/URSUS/Vol_13/Mattson_13.pdf |format=PDF}}&lt;/ref&gt;
+
+&lt;ref name=McCreight1982&gt;{{cite journal |vauthors=McCreight JD, Schroeder DB |year=1982 |title=Inhibition of growth of nine ectomycorrhizal fungi by cadmium, lead, and nickel ''in vitro'' |journal=Environmental and Experimental Botany |volume=60 |issue=9 |pages=1601–5}}&lt;/ref&gt;
+
+&lt;ref name=McKnight1987&gt;{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms, North America |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=plate 11 |isbn=978-0-395-91090-0}}&lt;/ref&gt;
+
+&lt;ref name=&quot;McNabb 1968&quot;&gt;{{cite journal |author=McNabb RFR. |title=The Boletaceae of New Zealand |journal=New Zealand Journal of Botany |year=1968 |volume=6 |issue=2 |pages=137–76 (see p.&amp;nbsp;162) |doi=10.1080/0028825X.1968.10429056}} {{open access}}&lt;/ref&gt;
+
+&lt;ref name=Miller2000&gt;{{cite journal |vauthors=((Miller OK Jr)), Lodge DJ, Baroni TJ |year=2000 |title=New and interesting ectomycorrhizal fungi from Puerto Rico, Mona, and Guana Islands |journal=Mycologia |volume=92 |issue=3 |pages=558–70 |doi=10.2307/3761516 |jstor=3761516 }}&lt;/ref&gt;
+
+&lt;ref name=Miller2006&gt;{{cite book |vauthors=Miller HR, Miller OK |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |publisher=Falcon Guide |location=Guilford, Connecticut |year=2006 |page=357 |isbn=978-0-7627-3109-1 |url=https://books.google.com/books?id=zjvXkLpqsEgC&amp;pg=PA357}}&lt;/ref&gt;
+
+&lt;ref name=Mohan1993&gt;{{cite journal |vauthors=Mohan V, Natarajan K, Ingleby K |year=1993 |title=Anatomical studies on ectomycorrhizas .2. The ectomycorrhizas produced by ''Amanita muscaria'', ''Laccaria laccata'' and ''Suillus brevipes'' on ''Pinus patula'' |journal=Mycorrhiza |volume=3 |issue=1 |pages=43–49 |issn=0940-6360 |doi=10.1007/bf00213467}}&lt;/ref&gt;
+
+&lt;ref name=Molina1982a&gt;{{cite journal |vauthors=Molina R, Trappe JM |year=1982 |title=Lack of mycorrhizal specificity by the ericaceous hosts ''Arbutus menzeniesii'' and ''Arctostaphylos uva-ursi'' |journal=New Phytologist |volume=90 |issue=3 |pages=495–509 |doi=10.1111/j.1469-8137.1982.tb04482.x}}&lt;/ref&gt;
+
+&lt;ref name=Molina1982b&gt;{{cite journal |vauthors=Molina R, Trappe JM |year=1982 |title=Patterns of ectomycorrhizal host specificity and potential among Pacific Northwest conifers and fungi |journal=Forest Science |volume=28 |pages=423–58}}&lt;/ref&gt;
+
+&lt;ref name=Morrison1973&gt;{{cite journal |vauthors=Morrison TM, Burr R |year=1973 |title=Physiology of the mycorrhizas of Radiata Pine |journal=Report of Forest Research Institute for 1972, New Zealand Forest Service |volume=1 |pages=19–20}}&lt;/ref&gt;
+
+&lt;ref name=Murrill1948&gt;{{cite journal |author=Murrill WA. |year=1948 |title=Florida boletes |journal=Lloydia |volume=11 |page=29}}&lt;/ref&gt;
+
+&lt;ref name=Natarajan1983&gt;{{cite journal |vauthors=Natarajan K, Raman N |year=1983|title=South Indian Agaricales 20. Some mycorrhizal species |journal=Kavaka |volume=11 |pages=59–66 |issn=0379-5179}}&lt;/ref&gt;
+
+&lt;ref name=Orr1979&gt;{{cite book |vauthors=Orr DB, Orr RT |title=Mushrooms of Western North America |publisher=University of California Press |location=Berkeley, CA |year=1979 |pages=88–90 |isbn=978-0-520-03656-7}}&lt;/ref&gt;
+
+&lt;ref name=Palm1984&gt;{{cite journal |vauthors=Palm ME, Stewart EL |year=1984 |title=''In vitro'' synthesis of mycorrhizae between presumed specific and nonspecific ''Pinus'' + ''Suillus'' combinations |journal=Mycologia |volume=76 |issue=4 |pages=579–600 |doi=10.2307/3793215 |jstor=3793215}}&lt;/ref&gt;
+
+&lt;ref name=Peck1885&gt;{{cite journal |author=Peck CH. |year=1885 |title=Report of the Botanist (1884) |journal=Annual Report on the New York State Museum of Natural History |volume=38 |page=110}}&lt;/ref&gt;
+
+&lt;ref name=Read2000&gt;{{cite book |chapter=The mycorrhizal status of ''Pinus''|title=Ecology and Biogeography of ''Pinus''|author=Read DJ. |editor=Richardson DM |year=2000 |publisher=Cambridge University Press |location=Cambridge, UK |isbn=978-0-521-78910-3 |page=333 |url=https://books.google.com/books?id=YawYOzQmcHEC&amp;pg=PA333}}&lt;/ref&gt;
+
+&lt;ref name=Russo2009&gt;{{cite journal |author=Russo GL. |title=Dietary ''n''-6 and ''n''-3 polyunsaturated fatty acids: from biochemistry to clinical implications in cardiovascular prevention |journal=Biochemical Pharmacology |volume=77 |issue=6 |pages=937–46 |year=2009 |pmid=19022225 |doi=10.1016/j.bcp.2008.10.020}}&lt;/ref&gt;
+
+&lt;ref name=Singer1986&gt;{{cite book |author=Singer R. |title=The Agaricales in Modern Taxonomy |edition=4th |publisher=Koeltz Scientific Books |location=Koenigstein, Germany |year=1986 |page=756 |isbn=978-3-87429-254-2}}&lt;/ref&gt;
+
+&lt;ref name=Suggs1971&gt;{{cite journal |vauthors=Suggs EG, Grand LF |year=1971 |title=Formation of mycorrhizae in monoxenic culture by pond pine (''Pinus serotina'') |journal=Canadian Journal of Botany |volume=50 |issue=5 |pages=1003–7 |doi=10.1139/b72-122}}&lt;/ref&gt;
+
+&lt;ref name=Sumner1973&gt;{{cite journal |author=Sumner JL. |year=1973 |title=The fatty acid composition of Basidiomycetes |journal=New Zealand Journal of Botany |volume=11 |issue=3 |pages=435–42 |doi=10.1080/0028825x.1973.10430293}}&lt;/ref&gt;
+
+&lt;ref name=Tylutki1987II&gt;{{cite book |title=Mushrooms of Idaho and the Pacific Northwest. Vol. 2. Non-gilled Hymenomycetes |author=Tylukti EE. |year=1987 |publisher=The University of Idaho Press |location=Moscow, Idaho |isbn=978-0-89301-097-3}}&lt;/ref&gt;
+
+&lt;ref name=USDA1971&gt;{{cite book |title=Mycorrhizae, proceedings of the first North American conference on mycorrhizae. April 1969. Forest Service Misc. Publication 1189 |author=Vozzo JA. |chapter-url=https://archive.org/stream/mycorrhizaeproce1189nort#page/187/mode/1up |chapter=Field inoculations with mycorrhizal fungi |editor=Hacskaylo E |year=1971 |publisher=US Department of Agriculture |pages=187–96}}&lt;/ref&gt;
+
+&lt;ref name=Visser1995&gt;{{cite journal |author=Visser S. |year=1995 |title=Ectomycorrhizal fungal succession in Jack Pine stands following wildfire |journal=New Phytologist |volume=129 |issue=3 |pages=389–401 |doi=10.1111/j.1469-8137.1995.tb04309.x |jstor=2558393}}&lt;/ref&gt;
+
+&lt;ref name=Weber1980&gt;{{cite book |vauthors=Weber NS, Smith AH |title=The Mushroom Hunter's Field Guide |publisher=University of Michigan Press |location=Ann Arbor, Michigan |year=1980 |page=98 |isbn=978-0-472-85610-7 |url=https://books.google.com/books?id=TYI4f6fqrfkC&amp;pg=RA1-PA98}}&lt;/ref&gt;
+
+&lt;ref name=Yeh1983&gt;{{cite journal |vauthors=((Yeh K-W)), ((Chen Z-C)) |year=1983 |title=Boletes of Taiwan 4 |journal=Taiwania |volume=28 |pages=122–27 |url=http://tai2.ntu.edu.tw/taiwania/pdf/tai.1983.28.1.122.pdf |format=PDF}}&lt;/ref&gt;
+
+&lt;ref name=&quot;urlMycoBank: Boletus viscosus&quot;&gt;{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&amp;Rec=177435 |title=''Boletus viscosus'' Vent. 1863 |publisher=International Mycological Association |work=MycoBank |accessdate=2010-09-01}}&lt;/ref&gt;
+
+&lt;ref name=&quot;urlMycoBank: Suillus brevipes&quot;&gt;{{cite web |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&amp;Rec=26636&amp;Fields=All |title=''Suillus brevipes'' (Peck) Kuntze 1898 |publisher=[[MycoBank]]. International Mycological Association |accessdate=2015-05-22}}&lt;/ref&gt;
+
+}}
+
+==External links==
+{{wikicommons}}
+{{wikispecies}}
+
+{{Taxonbar}}
+
+{{featured article}}
+
+{{DEFAULTSORT:Suillus Brevipes}}
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1885]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungi of North America]]
+[[Category:Suillus|brevipes]]</text>
+      <sha1>ldd7z3vdg2bbl699whrvijft2s4ttb2</sha1>
+    </revision>
+  </page>
+</mediawiki>

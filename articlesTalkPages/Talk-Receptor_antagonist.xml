@@ -1,0 +1,186 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Receptor antagonist</title>
+    <ns>1</ns>
+    <id>7158479</id>
+    <revision>
+      <id>687352333</id>
+      <parentid>687352309</parentid>
+      <timestamp>2015-10-25T01:14:53Z</timestamp>
+      <contributor>
+        <ip>149.125.88.125</ip>
+      </contributor>
+      <comment>/* Classification */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17137">{{Talk header}}
+{{ArticleHistory|action1=GAN
+|action1date=16 Jan 2008
+|action1result=listed
+|action1oldid=184732405
+|topic=natsci
+|currentstatus=GA
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Pharmacology|class=GA|importance=High}}
+{{WikiProject Molecular and Cellular Biology|class=GA|importance=High}}
+{{WikiProject Cell Signaling|class=GA}}
+}}
+{{RxCOTWprev}}
+
+==We need a Pluto Talk==
+Agonists, inverse agonists, antagonists, functional selectivity.  There are too many variations in individual definitions of all of these.  I often hear inverse agonists being described as antagonists by knowledgable people in pharmacology,  because when they were educated, there was nothing other than the on / off dogma associated with the terms.  The problem in clarification extends too to binding sites of receptors.  There should be a difference in name between agonists which work at the same binding site of a receptor and those which do not.  I hereby motion that we raise this issue, whether it be here on wikipedia or in a conference to discuss this issue so that the confusion does not continue into the future.--[[User:Carlwfbird|Carlwfbird]] 05:16, 26 September 2006 (UTC)
+
+Does the non-competetive antagonist bind to a different site on the SAME RECEPTOR, or to a different receptor? [[User:Eddietoran|Eddietoran]] 01:34, 31 January 2007 (UTC)
+
+==Classification==
+
+Agonists:- Drug displays both affinity and efficacy for a receptor
+Antagonists:- Drug displays affinity but no efficacy for a receptor
+
+== Grammatical Note ==
+
+&quot;A drug which attenuates the effect of an agonist.&quot; is not a complete sentence.
+
+Suggestions:
+
+&quot;It can also be a drug which attenuates the effect of an agonist.&quot;
+
+&quot;It is a drug which attenuates the effect of an agonist.&quot;  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Pammalamma|Pammalamma]] ([[User talk:Pammalamma|talk]] • [[Special:Contributions/Pammalamma|contribs]]) 18:18, 20 October 2007 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+--Pam C., technical editor  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Pammalamma|Pammalamma]] ([[User talk:Pammalamma|talk]] • [[Special:Contributions/Pammalamma|contribs]]) 18:14, 20 October 2007 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==Reversible non-competitive antagonism==
+
+Is it just me or do these drugs sound like they [[allosteric modulation|allosterically]] inhibit the action of some receptors see: Surin ''et al'' Cyclothiazide selectively inhibits mGluR1 receptors interacting with a common allosteric site for non-competitive antagonists  ''Neuropharmacology'' Volume 52, Issue 3, March 2007, Pages 744-754 
+
+Don't want to say they are incase it would be factually incorrect to do so at this point[[User:140.203.12.241|140.203.12.241]] 16:14, 22 October 2007 (UTC)
+
+Also note: 
+
+Since activation of the maximum agonist response does not require all receptors to be occupied then low concentrations of non-competitive antagonist (may not effect the ability of the agonist to produce its response but may affect the concentration required to do so) ([[Receptor theory|receptor occupancy theory]] see point in [[efficacy]] or Stephensn RP 1965 A modificaion of receptor theory. Br J Pharmacol 11:379-393)
+
+==Pharmacology Collaboration of the Month==
+This article has been selected as the current [[WP:RxCOTW|Pharmacology Collaboration of the Month]]. [[User:Derek.cashman|Dr. Cash]] 21:26, 31 October 2007 (UTC)
+
+==Antibioics as antagonists: A special case? Do you think its relevant==
+introduced the subsection antibiotics as antagonists of pathogens. 
+
+The following text:
+
+===Antibiotics as antagonists: a special case===
+''Antibiotics act as antagonists which kill or inhibit the growth of [[pathogens]] that cause disease or illness. The [[Antimicrobial pharmacodynamics|pharmacodynamics]] of antibiotic action is different from the pharmacodyamics of other antagonists.&lt;ref name=nightingale&gt;C.H. Nightingale, T. Murakawa, P.G. Ambrose (2002) Antimicrobial Pharmacodynamics in Theory and Clinical Practice Informa Health Care ISBN 0824705610&lt;/ref&gt;&lt;ref name=&quot;pmid15031728&quot;&gt;{{cite journal |author=Drusano GL |title=Antimicrobial pharmacodynamics: critical interactions of 'bug and drug' |journal=Nat. Rev. Microbiol. |volume=2 |issue=4 |pages=289–300 |year=2004 |pmid=15031728 |doi=10.1038/nrmicro862}}&lt;/ref&gt; The overall outcome of antibiotic action rather then the affintiy and efficacy of these chemotherapeutic agents is assessed. Different parameters are used to assess the activity and potency of antibiotics, the [[Minimum inhibitory concentration|MIC]] or minimum inhibitory concentration of antibiotic required to completely inhibit visible growth of a micro-organism on agar or in broth. Also the [[Minimum Bactericidal Concentration|MBC]] or minimum bactericidal concentration the concentration of antibiotic needed to kill an micro-organism on agar or in broth. The activity of antibiotics may also be time-dependant and depend on the duration of antibiotic exposure. The β lactam antibiotics, the [[penicillins]] and [[cephalosporins]] are a classic example of this.&lt;ref name=&quot;pmid15031728&quot;/&gt; Other antibiotic classes such as the [[quinolones]] and [[aminoglycosides]] lack this time-dependant effect.&lt;ref name=&quot;pmid15031728&quot;/&gt; Antibiotic effects can also persist once antibiotic has been removed or antibiotic treatment has cessed. The phenomenon is refered to the post-antibiotic effect. It represents the time taken for the micro-organism to recover after exposure to anibiotic treatment has cessed.&lt;ref name=nightingale/&gt;&lt;ref name=&quot;pmid15031728&quot;/&gt;''
+
+===References===
+{{reflist}}
+
+===Discussion===
+while current definitions of antagonists rely on determination of their affinity and efficacy at receptors, antibiotics are treated differently. Activity of antibiotics is assessed by direct measurement of their antimicrobial activity. Though these chemotherapeutic agents possess affinity and efficacy for their molecular targets these parameters are often ignored when determining their pharmacolgical usefulness. Was just wondering if you agree with my point of view. If not this subsection would not belong here so your free to remove it. [[User:Lilypink|Lilypink]] ([[User talk:Lilypink|talk]]) 16:24, 18 November 2007 (UTC)
+
+:I'm disinclined to support this section in its current state for a few reasons. Only a fraction of antibiotics function as receptor antagonists in the classical sense. There are certainly some antibiotics that may serve as good examples of antagonists (though remember we're talking about specifically ''receptor'' antagonists on this page), or on a more generalized [[Antagonism (pharmacology)]] (redlinked) page linked from [[Antagonism]]. &amp;mdash; [[User:Scientizzle|Scien]]''[[User talk:Scientizzle|tizzle]]'' 21:39, 18 November 2007 (UTC)
+
+:A receptor for a drug in pharmacology may be an actual biochemical receptor or ion channel or enyzme. Originally, the term 'receptor' was applied generically to all drug targets because there was no clear sense of how binding gives rise to a biological effect. Some of these targets subsequently turned out to be enzymes or other molecules, and today the term 'receptor' is generally reserved for a molecule that acts as a biological signal transducer though I agree the title of the article is receptor antagonist. If the focus of the article is to remain on specifically only receptor antgonists then ok I see your point. there is also information included in this article about COX inhibition a membrane-bound enzyme as far as I can tell, information relating to aspirin which acts as a cox enzyme antagonist. So this article as it stands does contain information relating to non-receptor mediated antagonism. when I think about it, it seems more acceptable to talk about aspirin, but not so acceptable to talk about antibiotics. I think because their place as antagonists is glossed over when they teach you about these things. i wouldn't have necessary known that much about their pharmacology other then how they work when I started my PhD  in microbiology.
+
+:Why I thought they should appear...
+
+:Its because they are a special case that I really wanted to highlight this particular class of antagonists. We define antagonists by their affinity and efficacy. But we define antibiotics (which are antagonists) differently. Not by their affinity, or efficacy but by their antimicrobial activity. So I think they do merit discussion which I think you agree with. But the only objection seems to relating to this discussion is that it is beyond the scope of this article. i disagree 
+
+:I think that the scope of the article should continue to encompass this topic for 2 main reasons. All links to this page are under the term antagonist. the general term. I think receptor antagonist and antagonist to be the same. (see point above) as a pharmacologist you'd hopefully agree. the scope of this article also includes information relating to aspirin.
+
+:I think placing antibiotics in this article would benifit it providing it is made clear that the term receptor is explained as above. Or the new article on pharmacological antagonism is created and the information is repeated their and the scope of that article should be broader. 
+
+
+:Antibiotics target enzymes like the penicillin binding proteins (Cephalosporins) and (penicillins). The aminogylcocides target s30 subunit of ribosomes and Floroqinalones target the enzyme DNA gyrase. Alot of enzyme targets I agree. Was trying to reconcile Antibiotics and antagonists. I always wondered about it. why don't you have affinity and efficacy information or IC50s for antibiotics. The  answer is I find that people don't assess antibiotics the same way, they look instead at the ability of an antibiotic to kill or inhibit growth of a micro-organism. An overall antibiotic effect. what the end point of inhibition really is for these types of drugs. They do have affinity and efficacy for their target but there just not determined. 
+
+:I think an article like Antagonism( pharmacolgy) would contain alot of redundant information that would also appear in this article. I think this article covers more then just receptor antagonist. But  I don't know really. [[User:Lilypink|Lilypink]] ([[User talk:Lilypink|talk]]) 11:56, 19 November 2007 (UTC)[[User:Lilypink|Lilypink]] ([[User talk:Lilypink|talk]]) 13:51, 19 November 2007 (UTC)
+
+::I am neither a pharmacologist nor a physician, but I must say I have read a fair amount of medical literature and had never before seen antibiotics characterized as receptor antagonists. [[Enzyme inhibitor]]s, yes, of course; but not receptor antagonists in the &quot;classical&quot; sense as Scientizzle puts it. I'm also not convinced &quot;COX antagonist&quot; is anything more than a misnomer, when we take &quot;antagonist&quot; to be &quot;receptor antagonist&quot; :) [[User:Fvasconcellos|Fvasconcellos]]&lt;small&gt;&amp;nbsp;([[User talk:Fvasconcellos|t]]·[[Special:Contributions/Fvasconcellos|c]])&lt;/small&gt; 13:48, 19 November 2007 (UTC)
+
+:::Point taken, Its not there not not antagonists they are, enyme inhibitors can be described as antagonists. But your right alot of people may object to this. Its not widely accepted classification of antibiotics. [[User:Lilypink|Lilypink]] ([[User talk:Lilypink|talk]]) 14:06, 19 November 2007 (UTC)
+
+::::I think you bring up some good points, Lily. There are, indeed, some [[antibiotic]]s that are great examples of enzyme inhibitors and would be useful at [[Enzyme inhibitor]]. (I added the COX2 info here and that should probably go in the other article as well--it may be best to focus on ''only'' classical receptor-ligand interactions.) I think we need to evaluate some of the overlap between this article and [[Enzyme inhibitor]] to figure out where best to add data and determine if there are any appropriate subpages to be created.
+
+I would not advise including a section on antibiotics in this article, as overall, it's generally not related. Most [[antibiotics]] act by a variety of different mechanisms, usually directed at inhibiting the growth of bacteria (e.g. cell wall synthesis inhibitors, such as the [[beta-lactam antibiotics]], or [[aminoglycosides]], which interact at the ribosomal RNA A-site). Neither of these I would classify as a &quot;receptor antagonist&quot;, and these are some of the more common. The above text would be misleading to the article, as it seems to say that antibiotics are a special classification of receptor antagonists, when in fact, they are completely different. I think it's best to keep the two separate. [[User:Derek.cashman|Dr. Cash]] ([[User talk:Derek.cashman|talk]]) 19:10, 19 November 2007 (UTC)
+
+==GA review==
+Everything is referenced with seemingly reliable sources, the ones I cheched backed up the text in the article they were cited for. I can understand the text (I think - I changed the bits that were a little hard) and there are no spelling mistakes or other annoying things. It's a bit weak on images, but the one included is good.
+
+Possible problem: Isn't ref 10 supposed to be PMID 13383117, because the current one leads to an article that doesn't exist on the homepage for Br J Pharmacol.
+
+[[User:Narayanese|Narayanese]] ([[User talk:Narayanese|talk]]) 15:15, 16 January 2008 (UTC)
+:That was probably a review and reprint of a classic article. We can add &lt;tt&gt;&lt;nowiki&gt;{{PMC|1510558}}&lt;/nowiki&gt;&lt;/tt&gt; to note that the full text of the original article is available free of charge. [[User:Fvasconcellos|Fvasconcellos]]&lt;small&gt;&amp;nbsp;([[User talk:Fvasconcellos|t]]·[[Special:Contributions/Fvasconcellos|c]])&lt;/small&gt; 15:23, 16 January 2008 (UTC)
+::Ah, ok. Added that template. Another thing: what are those non-protein receptors mentioned at the start of Receptors section? [[User:Narayanese|Narayanese]] ([[User talk:Narayanese|talk]]) 16:18, 16 January 2008 (UTC)
+:::Fixed. All classical receptors are proteins. &amp;mdash; [[User:Scientizzle|Scien]]''[[User talk:Scientizzle|tizzle]]'' 16:26, 16 January 2008 (UTC)
+
+== Too Technical ==
+
+I'm a college grad with a basic science (mostly physics) and heavy math background. In general I haven't had much trouble understanding writings about biochemistry, esp. neurotransmitters and psychiatric drugs, but this article was nearly incomprehensible due to the complete reliance on jargon that only a biochemist would understand. This article could be made a lot more understandable by including descriptions of how receptor antagonists work in plain English.
+
+[[Special:Contributions/71.231.162.174|71.231.162.174]] ([[User talk:71.231.162.174|talk]]) 06:13, 22 May 2008 (UTC)
+
+Please state where you feel the article fails to properly explain the topic and I'll try and clarify some of the issues raised. Thanks [[User:Lilypink|Lilypink]] ([[User talk:Lilypink|talk]]) 14:52, 22 May 2008 (UTC)
+
+I'd also like to point out that this is an extremely technical subject and a lot of the terminology is required to avoid confusion. It'd be the equivalent of me asking for the set theory article to be re-written so that somebody without graduate level maths could understand it. [[User:Oni no Akuma|Oni no Akuma]] ([[User talk:Oni no Akuma|talk]]) 10:50, 6 January 2009 (UTC)
+
+== Efficacy reference is WRONG! ==
+
+This whole part is rubbish:
+
+&quot;By definition, antagonists display no [[efficacy]]&lt;ref name=stephanson/&gt; to activate the receptors they bind. Antagonists do not maintain the ability to activate a receptor. Once bound, however, antagonists inhibit the function of [[agonist]]s, [[inverse agonist]]s, and [[Agonist|partial agonists]].&quot;
+
+I deleted it, but just in case it comes back I advice to delete it.
+
+Antagonist ligands has efficacy just like agonist has. It just means teh strength of effect,and not stimulus per se.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/209.2.211.170|209.2.211.170]] ([[User talk:209.2.211.170|talk]]) 12:49, 23 March 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:I disagree with your deletion, as does the [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1510558/pdf/bripharmchem00140-0034.pdf source]. A silent antagonist has affinity but no efficacy when efficacy is understood to mean [[Intrinsic activity|activation of the receptor]] following occupancy. In the generalized model, the antagonist does not alter any endogeneous signaling of a receptor but it also prevents agonist activation. Antagonists do have ''effectiveness'', measured as an [[IC50]], but this is [[Potency (pharmacology)|potency]] and distinct from efficacy. &amp;mdash; [[User:Scientizzle|Scien]]''[[User talk:Scientizzle|tizzle]]'' 16:06, 23 March 2011 (UTC)
+
+== Needs a layman's explanation too ==
+
+I realise that much of this article will inevitably be technical. Nevertheless, it would be useful to have at least a few sentences in the lead that are understandable to a general audience. [[Special:Contributions/86.176.208.182|86.176.208.182]] ([[User talk:86.176.208.182|talk]]) 22:11, 10 January 2014 (UTC)</text>
+      <sha1>1xpzwbroheir8shf0mf957hjgmdbvnq</sha1>
+    </revision>
+  </page>
+</mediawiki>

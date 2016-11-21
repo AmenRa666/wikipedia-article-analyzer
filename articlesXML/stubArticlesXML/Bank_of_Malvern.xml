@@ -1,0 +1,107 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bank of Malvern</title>
+    <ns>0</ns>
+    <id>48136283</id>
+    <revision>
+      <id>744893766</id>
+      <parentid>741160607</parentid>
+      <timestamp>2016-10-18T02:49:51Z</timestamp>
+      <contributor>
+        <username>Valis55</username>
+        <id>9280344</id>
+      </contributor>
+      <comment>Added image</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2199">{{Infobox NRHP
+  | name = Bank of Malvern
+  | nrhp_type = 
+  | image = Bank_of_Malvern.jpg
+  | caption = 
+  | location= 212 S. Main St., [[Malvern, Arkansas]]
+  | lat_degrees = 34
+  | lat_minutes = 21
+  | lat_seconds = 48
+  | lat_direction = N
+  | long_degrees = 92
+  | long_minutes = 48
+  | long_seconds = 49
+  | long_direction = W
+  | coord_display = inline,title
+  | locmapin = Arkansas#USA
+  | built = {{Start date|1889}}
+  | architecture = Romanesque, Richardsonian Romanesque    
+  | added = March 13, 1987
+  | area = less than one acre
+  | governing_body = Private 
+  | refnum = 87000425&lt;ref name=&quot;nris&quot;&gt;{{NRISref|version=2010a}}&lt;/ref&gt;
+}}
+The '''Bank of Malvern''' is a historic commercial building at 212 South Main Street in [[Malvern, Arkansas]].  It is a single-story masonry structure, sharing party walls with neighboring buildings in downtown Malvern.  Its lower level is Romanesque in style, with rusticated stone forming an entrance arch on the left, and acting as a piers around the glass display window on the right.  Above this is a lighter brick construction, with bands of decorative terra cotta rising to a parapet.  The building was constructed in 1889, and its upper portion rebuilt in 1896 following a fire.  It is a relatively rare example of Romanesque architecture in the state.&lt;ref name=NRHP&gt;{{cite web|url=http://www.arkansaspreservation.com/National-Register-Listings/PDF/HS0017.nr.pdf|title=NRHP nomination for Bank of Malvern|publisher=Arkansas Preservation|accessdate=2015-10-09}}&lt;/ref&gt;
+
+The building was listed on the [[National Register of Historic Places]] in 1987.&lt;ref name=&quot;nris&quot;/&gt;
+
+==See also==
+*[[National Register of Historic Places listings in Hot Spring County, Arkansas]]
+
+==References==
+{{reflist}}
+
+{{National Register of Historic Places}}
+
+[[Category:Bank buildings on the National Register of Historic Places in Arkansas]]
+[[Category:Romanesque Revival architecture in Arkansas]]
+[[Category:Buildings and structures completed in 1889]]
+[[Category:Buildings and structures in Hot Spring County, Arkansas]]
+[[Category:National Register of Historic Places in Hot Spring County, Arkansas]]
+[[Category:Bank buildings in Arkansas]]
+
+
+{{Arkansas-NRHP-stub}}</text>
+      <sha1>ecjezyoagntu1aoxe0x16kbnxjer0k2</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,262 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Sesame Street research</title>
+    <ns>0</ns>
+    <id>29343131</id>
+    <revision>
+      <id>733336355</id>
+      <parentid>661931134</parentid>
+      <timestamp>2016-08-07T03:00:33Z</timestamp>
+      <contributor>
+        <username>TFA Protector Bot</username>
+        <id>18984730</id>
+      </contributor>
+      <minor/>
+      <comment>Protected &quot;[[Sesame Street research]]&quot;: Upcoming TFA ([[WP:BOT|bot protection]]) ([Move=Require administrator access] (expires 00:00, 26 August 2016 (UTC)))</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="33630">{{featured article}}
+{{DISPLAYTITLE:''Sesame Street'' research}}
+In 1969, the children's television show ''[[Sesame Street]]'' premiered on the [[Public Broadcasting Service]] (PBS) in the United States. Unlike earlier children's programming, the show's producers used research and over 1,000 studies and experiments to create the show and test its impact on its young viewers' learning.  By the end of the program's first season, the organization founded to oversee ''Sesame Street'' production, [[Sesame Workshop|Children's Television Workshop]] (CTW), had developed what came to be called &quot;the CTW model&quot;: a system of planning, production, and evaluation that combined the expertise of researchers and early childhood educators with that of the program's writers, producers, and directors.
+
+CTW conducted research in two ways: in-house [[Formative assessment|formative research]] that informed and improved production, and independent [[Summative assessment|summative evaluations]] conducted by the [[Educational Testing Service]] (ETS) during the show's first two seasons to measure the program's educational effectiveness. CTW researchers invented tools to measure young viewers' attention to the program. Based on these findings, the researchers compiled a body of data and the producers changed the show accordingly. The formative research on ''Sesame Street'' was the first time children's television viewing was studied scientifically.&lt;ref name=&quot;gikow-152&quot;/&gt;
+
+Summative research conducted over the years, including two landmark evaluations in 1970 and 1971, demonstrated that viewing the program had positive effects on young viewers' learning, school readiness, and social skills. Subsequent studies have replicated these findings, such as the effect of the show in countries outside of the US, several [[longitudinal studies]], the effects of war and natural disasters on young children, and studies about how the show affected viewers' cognition. As CTW researcher [[Gerald S. Lesser]] stated in 1974, early tests conducted on the show (both formative and summative) &quot;suggested that ''Sesame Street'' was making strides towards teaching what it had set out to teach&quot;.&lt;ref name=&quot;lesser-214&quot;/&gt;
+
+==Background and development==
+According to author Louise A. Gikow, Sesame Street's use of research to create individual episodes and to test its effect on its young viewers set it apart from other children's programming.&lt;ref name=&quot;gikow-152&quot;/&gt; Co-creator [[Joan Ganz Cooney]] called the idea of combining research with television production &quot;positively heretical&quot; because it had never been done before.&lt;ref name=&quot;cooney-xi&quot;/&gt; Before ''Sesame Street'', most children's television shows were locally produced, with hosts who, according to researchers [[Edward L. Palmer]] and [[Shalom M. Fisch]], &quot;represented the scope and vision of a single individual&quot;&lt;ref name=&quot;palmer-6&quot;/&gt; and were often condescending to their audience. Scriptwriters of these shows had no training in education or child development.&lt;ref name=&quot;palmer-7&quot;/&gt;{{#tag:ref|Cooney later called the state of children's programming a &quot;wasteland&quot; at the time the show was created, a reference to [[Federal Communications Commission]] (FCC) chairman [[Newton Minow|Newton Minow's]] 1961 speech, in which he called television a &quot;[[Wasteland Speech|vast wasteland]]&quot;.&lt;ref name=&quot;minow&quot;/&gt;|group=note}}
+
+The [[Carnegie Corporation]], one of ''Sesame Street's'' first financial backers, hired Cooney, a producer of [[educational television|educational]] talk shows and documentaries with little experience in education,&lt;ref name=&quot;allshow&quot;/&gt; during the summer of 1967 to visit experts in [[child development|childhood development]], education, and media across the US and Canada. She researched their ideas about the viewing habits of young children, and wrote a report on her findings&lt;ref name=&quot;davis-65&quot;/&gt;&lt;ref name=&quot;morrow&quot;/&gt; entitled &quot;Television for Preschool Education&quot;, which described out how television could be used as an aid in the education of preschoolers, especially those living in inner cities.&lt;ref name=&quot;lesser2627&quot;/&gt; Cooney's study became the basis for ''Sesame Street''; full funding was procured for its development and production and the creation of the [[Children's Television Workshop]] (CTW), the organization responsible for producing the new show. According to Gikow, the show's financial backers, which consisted of the US federal government, the [[Corporation for Public Broadcasting]] and the [[Ford Foundation]],&lt;ref name=&quot;davis-8&quot;/&gt; insisted on &quot;testing at critical stages to evaluate its ultimate success&quot;.&lt;ref name=&quot;gikow-152&quot;/&gt;
+
+During the summer of 1968, [[Gerald S. Lesser]], CTW's first advisory-board chairman, conducted five three-day [[curriculum]]-planning seminars in Boston and New York City&lt;ref name=&quot;lesser-43&quot;/&gt;&lt;ref group=note&gt;See Lesser, pp. 42–59, for Lesser's lengthy description of the seminars.&lt;/ref&gt; to select a curriculum for the new program. Seminar participants were television producers and child development experts.&lt;ref name=&quot;lesser2627&quot;/&gt; It was the first time a children's television show used a curriculum, which Palmer, who was responsible for conducting the show's [[Formative assessment|formative research]], and Fisch described as &quot;detailed or stated in terms of measurable outcomes&quot;.&lt;ref name=&quot;palmer&quot;/&gt; The program's creative staff was concerned that this goal would limit creativity, but one of the seminar results was to encourage the show's producers to use child-development concepts in the creative process.&lt;ref name=&quot;morrow-74&quot;/&gt; Some [[Muppet]] characters were created during the seminars to fill specific curriculum needs. For example, [[Oscar the Grouch]] was designed to teach children about their positive and negative emotions,&lt;ref name=&quot;unpaved-16&quot;/&gt; and [[Big Bird]] was created to provide children with opportunities to correct his &quot;bumbling&quot; mistakes. Lesser reported that [[Jim Henson]] had a &quot;particular gift for creating scenes that might teach&quot;.&lt;ref name=&quot;morrow-74&quot;/&gt;
+
+The show's research staff and producers conducted regularly-scheduled internal reviews and seminars to ensure that their curriculum goals were being met and to guide future production. As of 2001, ten seminars had been conducted specifically to address the [[literacy]] needs of preschool children.&lt;ref name=&quot;fisch-34&quot;/&gt;&lt;ref name=&quot;truglio-66&quot;/&gt; Curriculum seminars prior to ''Sesame Street's'' 33rd season in 2002 resulted in a change from the show's [[magazine]]-like format to a more narrative [[Format of Sesame Street|format]].&lt;ref name=&quot;timgoodman&quot;/&gt; There have been over 1,000 studies as of 2001 which examine the show's impact on children's learning and attention. Most of these studies were conducted by the CTW and remain unpublished.&lt;ref name=&quot;truglio-xvii&quot;/&gt; The most important studies that found negative effects of ''Sesame Street'' were conducted by educator Herbert A. Sprigle and psychologist Thomas D. Cook during its first two seasons. Both studies found that the show increased the educational gap between poor and middle-class children. Morrow reported that these studies had little impact on the public discussion about ''Sesame Street''.&lt;ref name=&quot;negative&quot;&gt;Morrow, pp. 146–147&lt;/ref&gt; Another criticism was made by journalist [[Kay Hymowitz]] in 1995, who reported that most of the positive research conducted on the show has been done by the CTW, and then sent to a sympathetic press. She charged that the studies conducted by the CTW &quot;hint at advocacy masquerading as social science&quot;.&lt;ref name=&quot;allshow&quot;/&gt;
+
+=={{anchor|&quot;The CTW model&quot;}}The &quot;CTW model&quot;==
+Shortly after beginning ''Sesame Street'', its creators developed the &quot;CTW model&quot;: a system of planning, production, and evaluation which only emerged after the show's first season.&lt;ref name=&quot;morrow-68&quot;/&gt;&lt;ref group=note&gt;See Gikow, 2009, p. 155, for a visual representation of the CTW model.&lt;/ref&gt; The CTW model involved the interaction between television producers and educators, the development of a curriculum for three- to five-year-old children, formative research to shape the program, and independent [[Summative assessment|summative research]] into what viewers learned.&lt;ref name=&quot;morrow-68&quot;/&gt;&lt;ref name=&quot;truglio-xvi&quot;/&gt; According to Cooney, &quot;Without research, there would be no ''Sesame Street.''&quot;&lt;ref name=&quot;cooney-xi&quot;/&gt;
+
+Cooney credited Palmer and his colleague at Harvard, Gerald S. Lesser, whom CTW hired to write the program's educational objectives, for bridging the gap between producers and researchers.&lt;ref name=&quot;cooney-xii&quot;/&gt; Cooney observed of the CTW model: &quot;From the beginning, we—the planners of the project—designed the show as an experimental research project with educational advisers, researchers, and television producers collaborating as equal partners&quot;.&lt;ref name=&quot;unpaved-9&quot;/&gt; She described the collaboration as an &quot;arranged marriage&quot;.&lt;ref name=&quot;cooney-xi&quot;/&gt;
+
+The show's staff worked to create a non-adversarial relationship between producers and researchers; each side contributed, as Fisch stated, &quot;its own unique perspective and expertise&quot;.&lt;ref name=&quot;fisch5253&quot;/&gt; Early in the planning process, production staff recognized that it was valuable to have access to researchers who could analyze children's reactions and help them improve production, and the show's writers and producers brought their instincts for and experience in children's television.&lt;ref name=&quot;fisch5253&quot;/&gt; Though initially skeptical about both the collaboration and the curriculum, the writers eventually came to see both as integral parts of the creative process.&lt;ref name=&quot;gikow-157&quot;/&gt;
+
+When educational experts and producers in other countries approached CTW for assistance in producing their own versions of ''Sesame Street'', which became known as [[International co-productions of Sesame Street|&quot;co-productions&quot;]], a variant of the CTW model was used. The need for preschool education in each country was assessed through research and interviews with television producers, researchers, and educational experts, similar to the process followed in the US.&lt;ref name=&quot;finch-53&quot;/&gt; The producers then convened a series of meetings with the experts, held in the individual countries, to create and develop a curriculum, the program's educational goals, its set, and its characters.&lt;ref name=&quot;therim&quot;/&gt; They held meetings, at the CTW offices in New York City and in the respective country, to train the co-production team in the CTW model.&lt;ref name=&quot;gikow-262&quot;/&gt; Each co-production conducted formative studies before production and if possible, summative studies to test the [[efficacy]] of its curriculum.&lt;ref name=&quot;cole&quot;/&gt;
+
+==Formative research==
+
+===Methods===
+Palmer and his team used concepts from the field of formative research, which consisted of in-house, laboratory-oriented research, to guide production and to determine whether the show held children's attention.&lt;ref name=&quot;fisch-40&quot;/&gt; Palmer, described by Cooney as &quot;a founder of CTW and founder of its research function&quot;,&lt;ref name=&quot;palmer-4&quot;/&gt; was one of the few late-1960s academics studying children's television and its effects on learning.&lt;ref name=&quot;gladwell-102&quot;/&gt; He was responsible for designing and executing CTW's formative research, and for working with ETS, which handled the Workshop's summative research.&lt;ref name=&quot;cooney-xii&quot;/&gt; Palmer's work was so crucial to ''Sesame Street'' that author [[Malcolm Gladwell]] asserted, &quot;Without Ed Palmer, the show would have never lasted through the first season&quot;.&lt;ref name=&quot;gladwell-102&quot;/&gt;{{#tag:ref|Cooney called Palmer, along with Lesser, &quot;two of the original architects of CTW research&quot;.&lt;ref name=&quot;cooney-xii&quot;/&gt;|group=note}}
+
+CTW's researchers were strongly influenced by [[behaviorism]], a popular movement in psychology during the late 1960s; therefore, many methods and tools used were primarily behavioral.&lt;ref name=&quot;fisch4849&quot;/&gt;&lt;ref name=&quot;morrow-81&quot;/&gt; Palmer developed &quot;the distractor&quot;,&lt;ref name=&quot;gladwell-102&quot;/&gt;&lt;ref name=&quot;palmer-15&quot;/&gt; which he used to test if the material shown on ''Sesame Street'' captured young viewers' attention. Two children at a time were brought into the laboratory and shown an episode on a television monitor and a slide show next to it. The slides would change every seven seconds; researchers recorded when the children's attention was diverted from the episode.&lt;ref name=&quot;palmer-14&quot;/&gt;&lt;ref name=&quot;distractor&quot;/&gt; They were able to assess almost every second of ''Sesame Street'' this way; if an episode captured children's interest 80–90 percent of the time, producers would air it. However, if it only worked 50 percent of the time they would change (or remove) content.&lt;ref name=&quot;gladwell-103&quot;/&gt;{{#tag:ref|For example, in 1992, the producers decided to address divorce, but when research found that the episodes produced &quot;unintended negative effects&quot;&lt;ref name=&quot;truglio-76&quot;/&gt; on the children who watched them, such as confusion, they chose to never air the episode, entitled &quot;[[Snuffy's Parents Get a Divorce]]&quot;, in spite of the expense.|group=note}}
+
+In research during later seasons of ''Sesame Street'', verbal measurements, in the form of letter-recognition tests, were introduced.&lt;ref name=&quot;morrow-81&quot;/&gt; These reinforced earlier results, providing more insight into children's knowledge, reactions, and responses than behavioral measures alone.&lt;ref name=&quot;fisch4849&quot;/&gt; The distractor method was modified by Workshop researchers Lewis Bernstein and Valeria Lovelace into an &quot;eyes-on-screen&quot; method, which collected simultaneous data from larger groups of children. Their method also tested for more &quot;natural&quot; distractions, such as those provided by other children in group-viewing situations; up to 15 children were tested at a time. Lovelace developed additional testing methods, described by Fisch as &quot;state-of-the-art research design&quot;.&lt;ref name=&quot;design&quot;/&gt; One innovation included the &quot;engagement measure&quot;, which recorded children's active responses to an episode, such as laughing or dancing to music.&lt;ref name=&quot;fisch4849&quot;/&gt;&lt;ref name=&quot;design&quot;/&gt;
+
+===Results===
+Palmer reported that by the fourth season of the show, the episodes rarely tested below 85 percent.&lt;ref name=&quot;gladwell-103&quot;/&gt; At least one segment, &quot;The Man from Alphabet&quot;, despite its expense, was eliminated because it tested poorly with children.&lt;ref name=&quot;morrow-92&quot;/&gt; The distractor provided new insight into the way children watch television, and was part of CTW's research on its programs' effectiveness for decades.&lt;ref name=&quot;morrow-79&quot;/&gt; It created a body of objective data, and marked the first time that children's television viewing was studied scientifically.&lt;ref name=&quot;morrow-81&quot;/&gt;
+
+CTW's early studies with the distractor found that children learned more when they watched the program carefully, or when they participated by singing or talking along. In re-tests four weeks later, it found that children retained most of what they learned.&lt;ref name=&quot;lesser-154&quot;/&gt; After the first three weeks, or 15 episodes, viewers and non-viewers were compared; few differences in learning were found. When both groups were tested after six weeks more differences began to appear, with viewers scoring higher than non-viewers.&lt;ref name=&quot;sixweeks&quot;/&gt; A two-season CTW study published in 1995 found a &quot;significant increase&quot;&lt;ref name=&quot;truglio-67&quot;/&gt; in difficulty in remembering the letter and number of the day. Based on the [[Intelligence|multiple-intelligence]] theory, producers began to cluster ''Sesame Street's'' short films, animations, and inserts around a single topic rather than sprinkling several topics throughout a single episode.&lt;ref name=&quot;design&quot;/&gt;
+
+==Summative research==
+
+===ETS studies===
+[[File:Educational Testing Service welcome sign.jpg|thumb|right|alt=Large wooden sign with &quot;Educational Testing Service&quot; in white letters, in the middle of a field overlooking several trees and a blue sky.|Sign at entrance to ETS headquarters; ETS conducted early summative studies on ''Sesame Street''.]]
+CTW solicited the [[Educational Testing Service]] (ETS) to conduct its summative research.&lt;ref name=&quot;mielke-85&quot;/&gt;{{#tag:ref|Sam Ball was ETS' principal investigator.&lt;ref name=&quot;mielke8485&quot;/&gt;|group=note}} CTW and ETS hired and trained coordinators, testers, and observers from local communities to conduct these studies.&lt;ref name=&quot;lesser-215&quot;/&gt; The most relevant tests of the show's effectiveness were comparisons between children who watched it regularly and those who did not. After the first season, however, ''Sesame Street'' was so widely watched that it was difficult to make this distinction; ETS began to have problems finding subjects for their non-viewing groups, which weakened the [[experimental design]]. It solved this problem by selecting [[scientific control|control-group]] households from areas that did not broadcast the show.&lt;ref name=&quot;mielke-86&quot;/&gt; Instead of using groups of viewers and non-viewers, later large-scale studies used statistical designs and methods for estimating cause-effect relationships.&lt;ref name=&quot;mielke8890&quot;/&gt;
+
+ETS, whose prestige enhanced the credibility of its findings,&lt;ref name=&quot;morrow-82&quot;/&gt; conducted two landmark summative evaluations in 1970 and 1971, demonstrating that ''Sesame Street'' had a significant educational impact on its viewers.&lt;ref name=&quot;mielke8890&quot;/&gt;&lt;ref name=&quot;palmer-fisch20&quot;/&gt; These studies illustrated the early educational effects of ''Sesame Street'', and have been cited in other studies of the effects of television on young children.&lt;ref name=&quot;mielke8890&quot;/&gt;{{#tag:ref|According to Palmer and his colleague Shalom M. Fisch, these studies were responsible for securing funding for the show over the next several years.&lt;ref name=&quot;palmer-fisch20&quot;/&gt;|group=note}} ETS reported that the children who watched the show most learned the most,&lt;ref name=&quot;lesser-218&quot;/&gt; and achieved better results in letter-recognition skills. Three-year-olds who watched regularly scored higher than five-year-olds who did not; children from low-income households who were regular viewers scored higher than children from higher-income households who watched the show less frequently. Similar results occurred in children from non-English-speaking homes. Although adult supervision was not required for children to learn using the material presented, children who watched and discussed the program with their parents gained more skills than those who did not.&lt;ref name=&quot;adult&quot;/&gt; Children viewing the show in an informal home setting learned as much as children who watched it at school under a teacher's supervision.&lt;ref name=&quot;mielke-87&quot;/&gt; Regular viewers adjusted better to the school environment than non-viewers. They also had a more positive attitude toward school and better peer relations than non-viewers.&lt;ref name=&quot;lesser-224&quot;/&gt;
+
+Despite CTW's concern that the show would widen the gap between well-to-do children and their less wealthy peers, there was no evidence that this occurred; gains made by disadvantaged children were as great as those by advantaged children.&lt;ref name=&quot;lesser-226&quot;/&gt; The show's positive general effects, as cited by ETS, occurred across all childhood demographics (gender, age, geographic location and [[socioeconomic status]]).&lt;ref name=&quot;mielke-87&quot;/&gt; Studies conducted by ETS seemed to suggest that the program had &quot;a significant impact on children's [[social behavior]]&quot;,&lt;ref name=&quot;mielke9193&quot;/&gt; although the evidence was not as strong as it was for cognitive effects; fewer studies exist of social behavior.&lt;ref name=&quot;mielke9193&quot;/&gt;
+
+===Later studies===
+CTW enlisted Palmer, in conjunction with [[Harvard University]], in 1979 to conduct a study in [[Jamaica]] regarding the effects of ''Sesame Street'' on children with no exposure to other children's television programs, in order to correct for the effects of multimedia exposure on children in the US. Palmer discovered that Jamaican children's interest dropped during segments with the Muppets, possibly due to language and cultural differences; musical segments were the most effective. The children's learning increased after exposure to the show, especially letter and number recognition.&lt;ref name=&quot;gikow-284&quot;/&gt;
+
+In 1995 a [[longitudinal study]] was conducted at the [[University of Kansas]], the first large-scale evaluation of ''Sesame Street's'' cognitive effects in over twenty years.&lt;ref name=&quot;wright&quot;/&gt; Its findings supported those of previous studies: early viewing of educational children's television appeared to contribute to children's school readiness. Children from disadvantaged backgrounds learned as much as advantaged children per hour of viewing, but they did not watch enough to gain the program's maximum benefit. In comparing the effects of watching ''Sesame Street'' with other programs, commercial entertainment and cartoons had a negative effect; watching ''Sesame Street'' daily did not increase children's viewing of other categories of television, nor make them less likely to participate in other educational activities.&lt;ref name=&quot;cartoons&quot;/&gt;
+
+Other studies have been conducted about the cognitive effects of ''Sesame Street''. In 1990, a two-year longitudinal study found that viewing the show was a &quot;significant predictor&quot;&lt;ref name=&quot;mielke8890&quot;/&gt; of improved vocabulary regardless of family size, parent education, child gender or parental attitudes towards television.&lt;ref name=&quot;mielke8890&quot;/&gt; Another study conducted in 1990 looked at the effect of ''Sesame Street'' home videos and discovered gains in vocabulary, letter, and printed- and spoken-word identification. The videos encouraged discussion with adults, which may have helped reinforce educational messages and content.&lt;ref name=&quot;mielke8890&quot;/&gt;
+
+In 1994, research was conducted for &quot;The Recontact Study&quot;, funded by the [[Markle Foundation]], which examined the effects of ''Sesame Street'' on adolescents who had watched the show as young children. The subjects had participated in previous studies as preschoolers.&lt;ref name=&quot;recontact&quot;/&gt; When the study's research subjects were [[Equating|statistically equated]] for parents' level of education, birth order, residence and gender, it found that adolescents who had watched ''Sesame Street'' as preschoolers were positively influenced by it. Compared with children who had not watched it regularly, they had higher grades in English, math, and science; read for pleasure more often; perceived themselves as more competent, and expressed lower levels of aggression. The effects were stronger in adolescent boys than in adolescent girls.&lt;ref name=&quot;huston-140&quot;/&gt;
+
+In early 2001, the Workshop conducted a summative study about the effects of war, natural disasters, and other events on young children. It demonstrated that little was being done to address the fears and concerns of victims of traumatic events. As a result, the Workshop developed a series of materials it believed would help children (and their families) cope with events such as the [[September 11 attacks|September 11 terrorist attacks]] and [[Hurricane Katrina]].&lt;ref name=&quot;gikow-280&quot;/&gt;
+
+''Sesame Street'' has been used to test the attention span of infants and toddlers. In 2004, children from three months to two years were shown ''Sesame Street'' clips and a group of computer-generated black and white patterns. Their attention spans, as determined by the duration of time they looked at the stimuli, significantly increased at six to twenty-four months, but only for the ''Sesame Street'' material.&lt;ref name=&quot;courage-682&quot;/&gt; A study conducted in 2006 found that infants' attention span increased more when they were presented with video clips than with still images of the same stimuli, supporting the idea that movement helps young infants gain more information from the world around them. The evidence showed that attention span depended both on age and the on the type of stimuli children viewed. The time they looked at stimuli decreased for all types of stimuli from fourteen to twenty-six weeks, but the time they looked at it increased depending on the stimuli. When older infants (age fourteen weeks to twelve months) looked at ''Sesame Street'' materials and human faces, their attention increased compared to other types of stimuli.&lt;ref name=&quot;courage-691to92&quot;/&gt;
+
+In 2010, researchers at the [[University of Michigan]] studied the effect of combining video clips of ''Sesame Street'' and related print materials, online activities, and teacher training and mentoring on learning. They demonstrated that all the subjects they tested at [[Head Start program]]s in [[Detroit]] scored the same as a middle-class control group in tests later given to both groups.&lt;ref name=&quot;linebarger-64&quot;/&gt;{{#tag:ref|This study was part of a series of studies commissioned by the [[U.S. Department of Education]] between 2005–2010 as part of its Ready to Learn initiatives supporting public television. These studies emphasized newer [[PBS]] educational shows such as ''[[Between the Lions]]'', ''[[Super Why!]]'', ''[[Martha Speaks (TV series)|Martha Speaks]]'', and the updated version of ''[[The Electric Company (2009 TV series)|The Electric Company]]'', and found similar results.&lt;ref name=&quot;linebarger-63&quot;/&gt;|group=note}}
+
+==Footnotes==
+{{reflist|group=note}}
+
+==Notes==
+{{Reflist|colwidth=30em|refs=
+
+&lt;ref name=&quot;adult&quot;&gt;Lesser, pp. 220–221&lt;/ref&gt;
+
+&lt;ref name=&quot;allshow&quot;&gt;{{cite news | last = Hymowitz | first = Kay S. | title = On Sesame Street, It's All Show | work = City Journal | date = Autumn 1995 | url = http://www.city-journal.org/html/5_4_on_sesame_street.html | accessdate = 2010-10-23}}&lt;/ref&gt;
+
+&lt;ref name=&quot;cartoons&quot;&gt;Wright ''et al.'' in Fisch &amp; Truglio, pp. 111–112&lt;/ref&gt;
+
+&lt;ref name=&quot;cole&quot;&gt;{{cite book | last = Cole | first = Charlotte F | author2 = Beth A. Richman |author3=Susan A. McCann Brown | editors = Shalom M. Fisch &amp; Rosemarie T. Truglio | title = &quot;G&quot; is for Growing: Thirty Years of Research on Children and Sesame Street | publisher = Lawrence Erlbaum Publishers | year = 2001 | location = Mahweh, New Jersey | pages = 156, 172 | isbn = 0-8058-3395-1 | chapter = The World of ''Sesame Street'' Research}}&lt;/ref&gt;
+
+&lt;ref name=&quot;cooney-xi&quot;&gt;Cooney in Fisch &amp; Truglio, p. xi&lt;/ref&gt;
+&lt;ref name=&quot;cooney-xii&quot;&gt;Cooney in Fisch &amp; Truglio, p. xii&lt;/ref&gt;
+
+&lt;ref name=&quot;courage-682&quot;&gt;Courage ''et al.,'' p. 682&lt;/ref&gt;
+&lt;ref name=&quot;courage-691to92&quot;&gt;Courage ''et al.,'' pp. 691–692&lt;/ref&gt;
+
+&lt;ref name=&quot;davis-8&quot;&gt;Davis, p. 8&lt;/ref&gt;
+&lt;ref name=&quot;davis-65&quot;&gt;Davis, p. 65&lt;/ref&gt;
+
+&lt;ref name=&quot;design&quot;&gt;Gikow, p. 160&lt;/ref&gt;
+
+&lt;ref name=&quot;distractor&quot;&gt;Gladwell, pp. 102–103&lt;/ref&gt;
+
+&lt;ref name=&quot;finch-53&quot;&gt;{{cite book | last = Finch | first = Christopher | title = Jim Henson: The Works: the Art, the Magic, the Imagination | publisher = Random House | year = 1993 | location = New York | page = 53 | isbn = 0-679-41203-4}}&lt;/ref&gt;
+
+&lt;ref name=&quot;fisch-34&quot;&gt;Fisch &amp; Schneider in Fisch &amp; Truglio, p. 34&lt;/ref&gt;
+&lt;ref name=&quot;fisch-40&quot;&gt;Fisch &amp; Bernstein in Fisch &amp; Truglio, p. 40&lt;/ref&gt;
+&lt;ref name=&quot;fisch4849&quot;&gt;Fisch &amp; Bernstein in Fisch &amp; Truglio, pp. 48–49&lt;/ref&gt;
+&lt;ref name=&quot;fisch5253&quot;&gt;Fisch &amp; Bernstein in Fisch &amp; Truglio, pp. 52–53&lt;/ref&gt;
+
+&lt;ref name=&quot;gikow-152&quot;&gt;Gikow, p. 152&lt;/ref&gt;
+&lt;ref name=&quot;gikow-157&quot;&gt;Gikow, p. 157&lt;/ref&gt;
+&lt;ref name=&quot;gikow-262&quot;&gt;Gikow, p. 262&lt;/ref&gt;
+
+&lt;ref name=&quot;gikow-280&quot;&gt;Gikow, p. 280&lt;/ref&gt;
+&lt;ref name=&quot;gikow-284&quot;&gt;Gikow, p. 284&lt;/ref&gt;
+
+&lt;ref name=&quot;gladwell-102&quot;&gt;Gladwell, p. 102&lt;/ref&gt;
+&lt;ref name=&quot;gladwell-103&quot;&gt;Gladwell, p. 103&lt;/ref&gt;
+
+&lt;ref name=&quot;huston-140&quot;&gt;Huston ''et al.'' in Fisch &amp; Truglio, p. 140&lt;/ref&gt;
+
+&lt;ref name=&quot;lesser2627&quot;&gt;Lesser &amp; Schneider in Fisch &amp; Truglio, pp. 26–27&lt;/ref&gt;
+&lt;ref name=&quot;lesser-43&quot;&gt;Lesser, p. 43&lt;/ref&gt;
+&lt;ref name=&quot;lesser-154&quot;&gt;Lesser, p. 154&lt;/ref&gt;
+&lt;ref name=&quot;lesser-214&quot;&gt;Lesser, p. 214&lt;/ref&gt;
+&lt;ref name=&quot;lesser-215&quot;&gt;Lesser, p. 215&lt;/ref&gt;
+&lt;ref name=&quot;lesser-218&quot;&gt;Lesser, p. 218&lt;/ref&gt;
+&lt;ref name=&quot;lesser-224&quot;&gt;Lesser, p. 224&lt;/ref&gt;
+&lt;ref name=&quot;lesser-226&quot;&gt;Lesser, p. 226&lt;/ref&gt;
+
+&lt;ref name=&quot;linebarger-63&quot;&gt;Linebarger, p. 63&lt;/ref&gt;
+&lt;ref name=&quot;linebarger-64&quot;&gt;Linebarger, p. 64&lt;/ref&gt;
+
+&lt;ref name=&quot;mielke8485&quot;&gt;Mielke in Fisch &amp; Truglio, pp. 84–85&lt;/ref&gt;
+&lt;ref name=&quot;mielke-85&quot;&gt;Mielke in Fisch &amp; Truglio, p. 85&lt;/ref&gt;
+&lt;ref name=&quot;mielke-86&quot;&gt;Mielke in Fisch &amp; Truglio, p. 86&lt;/ref&gt;
+&lt;ref name=&quot;mielke-87&quot;&gt;Mielke in Fisch &amp; Truglio, p. 87&lt;/ref&gt;
+&lt;ref name=&quot;mielke8890&quot;&gt;Mielke in Fisch &amp; Truglio, pp. 88–90&lt;/ref&gt;
+&lt;ref name=&quot;mielke9193&quot;&gt;Mielke in Fisch &amp; Truglio, p. 92&lt;/ref&gt;
+
+&lt;ref name=&quot;minow&quot;&gt;Minow, Newton N. (1961-05-09). [http://www.law.indiana.edu/fclj/pubs/v55/no3/Speech.pdf &quot;Television and the Public Interest&quot;. [transcript] (pdf). Indiana University: Mauer School of Law. Retrieved 2012-11-30&lt;/ref&gt;
+
+&lt;ref name=&quot;morrow&quot;&gt;Morrow, p. 47&lt;/ref&gt;
+&lt;ref name=&quot;morrow-68&quot;&gt;Morrow, p. 68&lt;/ref&gt;
+&lt;ref name=&quot;morrow-74&quot;&gt;Morrow, p. 74&lt;/ref&gt;
+&lt;ref name=&quot;morrow-79&quot;&gt;Morrow, p. 79&lt;/ref&gt;
+&lt;ref name=&quot;morrow-81&quot;&gt;Morrow, p. 81&lt;/ref&gt;
+&lt;ref name=&quot;morrow-82&quot;&gt;Morrow, p. 82&lt;/ref&gt;
+&lt;ref name=&quot;morrow-92&quot;&gt;Morrow, p. 92&lt;/ref&gt;
+
+&lt;ref name=&quot;negative&quot;&gt;Morrow, pp. 146–147&lt;/ref&gt;
+
+&lt;ref name=&quot;palmer&quot;&gt;Palmer &amp; Fisch in Fisch &amp; Truglio, p. 9&lt;/ref&gt;
+&lt;ref name=&quot;palmer-fisch20&quot;&gt;Palmer &amp; Fisch in Fisch &amp; Truglio, p. 20&lt;/ref&gt;
+&lt;ref name=&quot;palmer-4&quot;&gt;Palmer &amp; Fisch in Fisch &amp; Truglio, p. 4&lt;/ref&gt;
+&lt;ref name=&quot;palmer-6&quot;&gt;Palmer &amp; Fisch in Fisch &amp; Truglio, p. 6&lt;/ref&gt;
+&lt;ref name=&quot;palmer-7&quot;&gt;Palmer &amp; Fisch in Fisch &amp; Truglio, p. 7&lt;/ref&gt;
+&lt;ref name=&quot;palmer-14&quot;&gt;Palmer &amp; Fisch in Fisch &amp; Truglio, p. 14&lt;/ref&gt;
+&lt;ref name=&quot;palmer-15&quot;&gt;Palmer &amp; Fisch in Fisch &amp; Truglio, p. 15&lt;/ref&gt;
+
+&lt;ref name=&quot;recontact&quot;&gt;Huston ''et al.'' in Fisch &amp; Truglio, pp. 135–136&lt;/ref&gt;
+
+&lt;ref name=&quot;sixweeks&quot;&gt;Lesser, pp. 212–213&lt;/ref&gt;
+
+&lt;ref name=&quot;therim&quot;&gt;Gikow, p. 260&lt;/ref&gt;
+
+&lt;ref name=&quot;timgoodman&quot;&gt;{{cite news | last = Goodman | first = Tim | title = Word on the 'Street': Classic children's show to undergo structural changes this season | work = San Francisco Chronicle | date = 2002-02-04 | url = http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2002/02/04/DD9808.DTL | accessdate = 2009-07-05}}&lt;/ref&gt;
+
+&lt;ref name=&quot;truglio-xvi&quot;&gt;Truglio &amp; Fisch in Fisch &amp; Truglio, p. xvi&lt;/ref&gt;
+&lt;ref name=&quot;truglio-xvii&quot;&gt;Truglio &amp; Fisch in Fisch &amp; Truglio, p. xvii&lt;/ref&gt;
+
+&lt;ref name=&quot;truglio-66&quot;&gt;Truglio ''et al.'' in Fisch &amp; Truglio, p. 66&lt;/ref&gt;
+&lt;ref name=&quot;truglio-67&quot;&gt;Truglio ''et al.'' in Fisch &amp; Truglio, p. 67&lt;/ref&gt;
+&lt;ref name=&quot;truglio-76&quot;&gt;Truglio ''et al.'' in Fisch &amp; Truglio, p. 76&lt;/ref&gt;
+
+&lt;ref name=&quot;unpaved-9&quot;&gt;Borgenicht, p. 9&lt;/ref&gt;
+&lt;ref name=&quot;unpaved-16&quot;&gt;Borgenicht, p. 16&lt;/ref&gt;
+
+&lt;ref name=&quot;wright&quot;&gt;Wright ''et al.'' in Fisch &amp; Truglio, p. 100&lt;/ref&gt;
+}}
+
+==Works cited==
+* {{cite book |last=Borgenicht |first=David |year=1998 |title=Sesame Street Unpaved |location=New York |publisher=Hyperion |isbn=978-0-7868-6460-7}}
+* {{Cite journal | last = Courage | first = Mary L. | author2 = Greg D. Reynolds |author3=John E. Richards | title = Infants' Attention to Patterned Stimuli: Developmental Change from 3 to 12 Months of Age | journal = Child Development | publisher = Society for Research in Child Development | pages = 680–695 | volume = 77 | issue = 3 | date = May–June 2006 | doi = 10.1111/j.1467-8624.2006.00897.x | pmid = 16686795 | pmc = 1463994}}
+* {{cite book |last=Davis |first=Michael |year=2008 |title=Street Gang: The Complete History of Sesame Street |location=New York |publisher=Viking Press |isbn=978-0-670-01996-0}}
+* {{cite book | first = Shalom M. |last=Fisch |author2=Rosemarie T. Truglio (eds.) | title = &quot;G&quot; is for Growing: Thirty Years of Research on Children and Sesame Street | publisher = Lawrence Erlbaum Publishers | year = 2001 | location = Mahweh, New Jersey | isbn = 978-0-8058-3395-9}}
+** Cooney, Joan Ganz, &quot;Foreword&quot;, pp. xi–xiv.
+** Truglio, Rosemarie T. and Shalom M. Fisch, &quot;Introduction&quot;, pp. xv–xxi.
+** Palmer, Edward and Shalom M. Fisch, &quot;The Beginnings of ''Sesame Street'' Research&quot;, pp.&amp;nbsp;3–24.
+** Lesser, Gerald S. and Joel Schneider, &quot;Creation and Evolution of the Sesame Street Curriculum&quot;, pp.&amp;nbsp;25–38.
+** Fisch, Shalom M. and Lewis Bernstein, &quot;Formative Research Revealed: Methodological and Process Issues in Formative Research&quot;, pp.&amp;nbsp;39–60.
+** Truglio, Rosemarie T. ''et al.'', &quot;The Varied Role of Formative Research: Case Studies from 30 Years&quot;, pp.&amp;nbsp;61–82.
+** Mielke, Keith W., &quot;A Review of Research on the Educational and Social Impact of Sesame Street&quot;, pp.&amp;nbsp;83–97.
+** Wright, John C. ''et al.'', &quot;The Early Window Project: ''Sesame Street'' Prepares Children for School&quot;, pp.&amp;nbsp;97–114.
+** Huston, Aletha C. ''et al.'', &quot;''Sesame Street'' Viewers as Adolescents: The Recontact Study&quot;, pp.&amp;nbsp;131–146.
+* {{cite book |last=Gikow |first=Louise A. |year=2009 |title=Sesame Street: A Celebration—Forty Years of Life on the Street |location= New York |publisher=Black Dog &amp; Leventhal |isbn=978-1-57912-638-4}}
+* {{cite book |last=Gladwell |first=Malcolm |year=2000 |title=The Tipping Point: How Little Things Can Make a Big Difference |location=New York |publisher=Little, Brown &amp; Co. |isbn=978-0-316-31696-5}}
+* {{cite book |last=Lesser |first=Gerald S. |year=1975 |origyear=1974 |title=Children and Television: Lessons From Sesame Street |location=New York |publisher=Vintage Books |isbn=978-0-394-71448-6}}
+* {{Cite journal | last = Linebarger | first = Deborah L | title = Teaching with television: New evidence supports an old medium | journal = The Phi Delta Kappan | publisher = Phi Delta Kappa International | volume = 93 | issue = 3 | date = November 2011}}
+* {{cite book |last=Morrow |first=Robert W. |year=2006 |title=Sesame Street and the Reform of Children's Television |location=Baltimore |publisher=Johns Hopkins University Press |isbn=978-0-8018-8230-2}}
+
+{{Sesame Street}}
+
+[[Category:Early childhood education]]
+[[Category:Early childhood education in the United States]]
+[[Category:Sesame Street]]
+[[Category:Sesame Workshop]]
+[[Category:Research projects]]</text>
+      <sha1>da9po1h2qdja6t1uf0cuxjxxeqmd3iz</sha1>
+    </revision>
+  </page>
+</mediawiki>

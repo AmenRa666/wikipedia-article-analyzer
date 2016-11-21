@@ -1,0 +1,263 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Myrmecophyte</title>
+    <ns>0</ns>
+    <id>2349217</id>
+    <revision>
+      <id>746079862</id>
+      <parentid>746079795</parentid>
+      <timestamp>2016-10-25T04:20:04Z</timestamp>
+      <contributor>
+        <ip>75.164.145.192</ip>
+      </contributor>
+      <comment>/* Ants as defense */ wording</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19495">[[File:Pseudomyrmex ferruginea Ryan Somma.jpg|Acacia ants|right|thumb]]
+'''Myrmecophyte''' (mər′mek•ə‚fīt; literally &quot;ant-plant&quot;) is a [[plant]] that lives in a [[Mutualism (biology)|mutualistic]] association with a colony of [[ant]]s.  There are over 100 different genera of myrmecophytes.&lt;ref name=&quot;Speight-2008&quot;&gt;{{harvnb|Speight|Hunter|Watt|2008}}&lt;/ref&gt;  These plants possess structural [[adaptations]] that provide ants with food and/or shelter.  These specialized structures include [[#Domatia|domatia]], [[#Food bodies|food bodies]], and [[#Extrafloral nectaries|extrafloral nectaries]].&lt;ref name=&quot;Speight-2008&quot; /&gt;  In exchange for food and shelter, ants aid the myrmecophyte in [[pollination]], [[seed dispersal]], gathering of essential [[nutrients]], and/or defense.&lt;ref name=&quot;Speight-2008&quot; /&gt; Specifically, domatia adapted to ants may be called myrmecodomatia.&lt;ref name=&quot;Wilson-1971&quot;&gt;{{harvnb|Wilson|1971}}&lt;/ref&gt;
+
+== Mutualism ==
+Myrmecophytes share a [[Mutualism (biology)|mutualistic]] relationship with ants, benefiting both the plants and ants.  This association may be either facultative or obligate.&lt;ref name=&quot;Koptur-1991&quot;&gt;{{harvnb|Koptur|1991}}&lt;/ref&gt;
+
+=== Obligate mutualism ===
+In obligate mutualisms, both of the organisms involved are interdependent; they cannot  survive on their own. An example of this type of mutualism can be found in the ''[[Macaranga]]'' genus of plants. All species of this genus provide food for ants in various forms, but only the obligate species produce [[#Domatia|domatia]].&lt;ref name=&quot;Speight-2008&quot; /&gt;  Some of the most common species of myrmecophytic ''Macaranga'' interact with ants in the ''[[Crematogaster]]'' genus.  ''C. borneensis'' have been found to be completely dependent on its partner plant, not being able to survive without the provided nesting spaces and food bodies.  In laboratory tests, the worker ants did not survive away from the plants, and in their natural habitat they were never found anywhere else.&lt;ref name=&quot;Fiala-1991&quot;&gt;{{harvnb|Fiala|Maschwitz|Pong|1991}}&lt;/ref&gt;
+
+===Facultative mutualism===
+Facultative mutualism is a type of relationship where the survival of both parties (plant and ants, in this instance), is not dependent upon the interaction.  Both organisms can survive without the other species.  Facultative mutualisms most often occur in plants that have [[#Extrafloral nectaries|extrafloral nectaries]] but no other specialized structures for the ants.&lt;ref name=&quot;Koptur-1991&quot; /&gt;  These non-exclusive nectaries allow a variety of animal species to interact with the plant.&lt;ref name=&quot;Koptur-1991&quot; /&gt;  Facultative relationships can also develop between non-native plant and ant species, where [[co-evolution]] has not occurred.  For example, [[Old World]] [[legumes]] that were introduced to [[North America]] can be protected by ants that originated from a different region.&lt;ref name=&quot;Koptur-1991&quot; /&gt;
+
+==Structural adaptations of myrmecophytes==
+[[File:Myrmecodia tuberosa BotGardBln1105k.jpg|Tuber on ''Myrmecodia tuberosa''.|left|thumb]]
+
+===Domatia===
+
+[[Domatia]] are internal plant structures that appear to be specifically adapted for habitation by [[ant]]s.&lt;ref name=&quot;Janzen-1966&quot; /&gt;  These cavities are found primarily in the [[plant stem|stems]], [[leaves]], and [[spine (botany)|spines]] of plants.  Many different genera of plants offer domatia.  Plants of the ''[[Acacia]]'' genus have some of the most widely recognized forms of domatia and offer some of the best examples of ant-plant obligate mutualism.&lt;ref name=&quot;Janzen-1966&quot;&gt;{{harvnb|Janzen|1966}}&lt;/ref&gt;  Different species of ''Acacia'' provide a variety of resources needed for their codependent counterparts.  One of these resources is the need for shelter.  ''Acacia'' have enlarged [[thorn (botany)|thorns]] on their stems that are excavated by ants for use as housing structures.&lt;ref name=&quot;Janzen-1966&quot; /&gt;  Since the tree contains their nest, these aggressive ants react strongly to any disturbance of the tree, providing the myrmecophyte with defense from grazing [[herbivores]] and encroaching [[vine]]s.&lt;ref name=&quot;Janzen-1966&quot; /&gt;
+
+Domatia can also be found within the [[tubers]] of certain plants.&lt;ref name=&quot;Jebb-1991&quot;&gt;{{harvnb|Jebb|1991}}&lt;/ref&gt;  Tubers form when the [[hypocotyl]]s of a seedling swells to form a hollow, chambered structure that can become inhabited by ants.&lt;ref name=&quot;Jebb-1991&quot; /&gt;  The [[Rubiaceae]] family of plants contains the most commonly known tuberous myrmecophyte, ''[[Myrmecodia]]''&lt;!--, literally meaning &quot;ant-house&quot; --- can this be correct? Gk for house is Oikos which would give Myrmekekia, etc--&gt;.&lt;ref name=&quot;Jebb-1991&quot; /&gt;
+
+[[File:A-cornigera.jpg|Enlarged thorns and beltian bodies on ''Acacia''.|right|thumb]]
+
+===Food bodies===
+
+Some plants produce food bodies for use by other organisms.  These small [[epidermis (botany)|epidermal]] structures contain a variety of nutrients that are removed and consumed by foragers.&lt;ref name=&quot;RicoGray-1991&quot;&gt;{{harvnb|Rico-Gray|Oliveira|2007}}&lt;/ref&gt; Food bodies are identified by the main [[nutrient]] they contain and by the genus of plant producing them.&lt;ref name=&quot;RicoGray-1991&quot; /&gt;  [[Beltian bodies]] are found on the leaflet tips of ''[[Acacia]]'' plants and have relatively high [[protein]] content.&lt;ref&gt;{{cite journal|last=Heil|first=M |author2=B. Baumann |author3=R. Kruger |author4=K.E. Linsenmair|title=Main nutrient compounds in food bodies of Mexican Acacia ant-plants|journal=Chemoecology|date=March 2004|volume=14|issue=1|pages=45–52|doi=10.1007/s00049-003-0257-x}}&lt;/ref&gt;  Beccarian bodies are found on young leaves of the ''[[Macaranga]]'' genus and are especially rich in [[lipids]].  Lipids are also the main nutrient found in [[Pearl bodies]], found on the leaves and stems of ''Ochroma'' plants.  Most ant inhabitants of ''[[Cecropia]]'' plants harvest the last type of food body, as their primary food source.  Remarkably these [[Müllerian body|Müllerian bodies]], found on the stalk of the leaf, are primarily [[glycogen]].  Glycogen is the principal storage [[carbohydrate]] found in [[animal]]s and is extremely rare in plants.&lt;ref name=&quot;RicoGray-1991&quot; /&gt;
+
+{| class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto&quot; style=&quot;background:white&quot;
+|+ Nutrient content of various food bodies
+|-
+|width=&quot;175pt&quot;|&lt;center&gt;'''Food  Bodies'''
+|width=&quot;175pt&quot;|&lt;center&gt;'''Main Nutrient Contained'''&lt;/center&gt;
+|width=&quot;175pt&quot;|&lt;center&gt;'''Plant Genus'''&lt;/center&gt;
+|width=&quot;175pt&quot;|&lt;center&gt;'''Location on Plants'''&lt;/center&gt;
+|-
+|Beltian bodies ||align=left|Protein &amp;nbsp; ||align=left|''Acacia''&amp;nbsp;||align=left|Leaflet tips &amp;nbsp;
+|-
+|Beccarian bodies ||align=left|Lipids &amp;nbsp; ||align=left|''Macaranga''&amp;nbsp;||align=left|Young leaves &amp;nbsp;
+|-
+|[[Pearl bodies]] ||align=left|Lipids &amp;nbsp; ||align=left|''Ochroma''&amp;nbsp;||align=left|Leaves and stems &amp;nbsp;
+|-
+|Müllerian bodies ||align=left|Glycogen &amp;nbsp; ||align=left|''Cecropia''&amp;nbsp;||align=left|Petiole of the leaf &amp;nbsp; &lt;span style=&quot;font-size:87%&quot;&gt;
+|}
+
+[[File:Cherry petiole glands.JPG|Extrafloral nectaries on the petiole of a ''Prunus avium'' leaf.|left|thumb]]
+
+===Extrafloral nectaries===
+
+[[nectar#Extrafloral nectaries|Extrafloral nectaries]] are sugar-producing glands found outside the [[flower]] structures of plants.  They occur in many different plant species around the world and are most commonly associated with vegetative structures that normally do not have nectaries, such as [[leaf|leaves]], [[plant stem|stems]], and [[twig]]s.&lt;ref name=&quot;Koptur-1991&quot; /&gt;  These secreting structures are often non-exclusive in that [[nectar]] can be taken by a variety of animals; however, in some obligate myrmecophyte plants such as ''[[Acacia collinsii]]'', extrafloral nectar is modified to be attractive only to the ant partners in the symbiosis.&lt;ref name=&quot;Koptur-1991&quot; /&gt;&lt;ref&gt;{{cite journal|last=Heil|first=M.|author2=J. Rattke |author3=W. Boland |title=Postsecretory Hydrolysis of Nectar Sucrose and Specialization in Ant/Plant Mutualism|journal=Science|date=April 2005|volume=308|issue=5721|pages=560–563|doi=10.1126/science.1107536|pmid=15845855|jstor=3841308}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|last=Gonzalez-Teuber|first=Marcia|author2=M. Heil|title=The Role of Extrafloral Nectar Amino Acids for the Preferences of Facultative and Obligate Ant Mutualists|journal=Journal of Chemical Ecology|date=April 2009|volume=35|issue=4|pages=459–468|doi=10.1007/s10886-009-9618-4}}&lt;/ref&gt;    The nectar thus provided feeds ants, which in turn protect these myrmecophytes from herbivorous activity.   A species of [[deciduous tree]] that displays extrafloral nectaries, ''[[Catalpa speciosa]]'', shows a decreased loss of leaf tissue on branches protected by ants, and an increase in number of seeds produced.&lt;ref name=&quot;Koptur-1991&quot; /&gt;
+
+==Types of ant-plant interactions==
+
+=== Ants as pollinators ===
+Unlike their [[bee]] relatives, ants rarely [[pollinate]] plants. Various assumptions have been made as to why ants are poor pollinators, although none have been verified: a) ants do not fly limiting their transport of pollen far enough to effect [[cross-pollination]], b) ants do not systematically forage like bees do, and c) ants are not hairy, and clean themselves too frequently to allow pollen to be carried to other plants.&lt;ref name=&quot;Beattie-2002&quot;&gt;{{harvnb|Beattie|Hughes|2002}}&lt;/ref&gt;  In most cases of ant pollination, the ants are one of multiple pollinators; meaning that the plants are not completely dependent on ants for pollination. However the orchid ''[[Leporella fimbriata]]'' can only be pollinated by its winged male ant partner (''[[Myrmecia urens]]'').&lt;ref name=&quot;Peakall-1991&quot;&gt;{{harvnb|Peakall|Handel|Beattie|1991}}&lt;/ref&gt;
+
+[[File:Afzelia africana1.jpg|''Afzelia africana'' seeds bearing orange [[elaiosome]]s.|right|thumb]]
+
+===Ants and seed dispersal===
+{{Main|myrmecochory}}
+[[Myrmecochory]], literally translated as &quot;ant-dispersal,&quot; is the collection and dispersal of [[seeds]] by ants.  Ants disperse more than 30% of the spring-flowering [[herbaceous plants]] in eastern [[North America]].&lt;ref name=&quot;RicoGray-1991&quot; /&gt;  Both the plant and the ant benefit in this scenario.  The ants are provided with an [[elaiosome]], a detachable food body found on the surface of the seed.  Elaiosomes have diverse compositions, usually high in [[lipids]] and [[fatty acids]], but also containing [[amino acids]], [[sugars]], and [[protein]].&lt;ref name=&quot;RicoGray-1991&quot; /&gt;  The ants remove the elaiosome once the seed has been transported to the [[ant colony|colony]].  As a result, the seeds are safely placed in nutrient-rich substrate protected from [[predator]]s, benefiting the plant with optimum establishment conditions for its seed.&lt;ref name=&quot;RicoGray-1991&quot; /&gt;
+
+===Ants feeding plants===
+
+[[Myrmecotrophy]], meaning &quot;ant-fed,&quot; is the ability of plants to absorb [[nutrients]] from debris piles left by ant nests or, in the case of ''[[Nepenthes bicalcarata]]'', from ant egesta.&lt;ref name=Bazile&gt;{{cite journal | last1 = Bazile | first1 = V. | last2 = Moran | first2 = J.A. | last3 = Moguédec | first3 = G. Le | last4 = Marshall | first4 = D.J. | last5 = Gaume | first5 = L.  | year = 2012 | title = A carnivorous plant fed by its ant symbiont: a unique multi-faceted nutritional mutualism | url = | journal = PLoS ONE | volume = 7 | issue = 5| page = e36179 | doi = 10.1371/journal.pone.0036179 }}&lt;/ref&gt;  The tropical tree ''[[Cecropia]] peltata'' obtains 98% of its nitrogen from the waste deposited by its ant counterparts.&lt;ref name=&quot;Benzing-1991&quot;&gt;{{harvnb|Benzing|1991}}&lt;/ref&gt;
+
+A recent study by Chanam et al.&lt;ref&gt;Chanam, J., Sheshshayee, M.S., Kasinathan, S., Jagdeesh, A., Joshi, K.A., Borges, R.M., &quot;Nutritional benefits from domatia inhabitants in an ant–plant interaction: interlopers do pay the rent&quot; (Functional Ecology, 2014), {{DOI|10.1111/1365-2435.12251}}&lt;/ref&gt; showed that plants bearing domatia can be favoured even before the establishment of a specialised protection-based symbiosis, as nutritional benefits can provided by a motley set of domatia residents that could multiple species of ant (including protective, non-protective and even plant-damaging species such as ''Crematogaster dohrni'') as well as other invertebrates, including as arboreal [[earthworm]]s.
+Only some individuals of the myrmecophyte ''[[Humboldtia brunonis]]'' (found in the [[Western Ghats]] of [[India]]) bear domatia on some of their branches, while all individuals produce extrafloral nectar. Each domatium is formed by modified swollen and hollow internodes. These domatia have a self-opening slit that allows access to the domatium interior and are prone to interloping residents (including many species of non-protective ants and the arboreal earthworm ''Perionyx pullus'') in addition to the protective ants.
+
+Earlier studies established that domatia-bearing ''H. brunonis'' plants have greater fruit set, hence greater reproductive success, than ''H. brunonis'' plants without domatia. Plant tissues near domatia received 17% and 9% of their nitrogen from the ants (protective and non-protective) and the earthworm respectively. The absorbed nutrients also travelled to distant branches; hence, fruit set was not different between branches with and without domatia. This study demonstrated that non-protective interlopers in the domatia still contribute to the greater wellbeing of the plant by contributing to plant nutrition.
+
+[[File:WeaverAntsAgainstRedAnt.JPG|Ants collaborating to dismember an intruding ant.|left|thumb]]
+
+===Ants as defense===
+
+Since plants provide essential [[resources]] for ants, the need to protect the plant and those resources is extremely important.  Many myrmecophytes are defended from both [[herbivores]] and other competing plants by their ant symbionts.&lt;ref name=&quot;RicoGray-1991&quot; /&gt;  ''[[Acacia cornigera]]'', for example, is thoroughly guarded by its obligate ant partner, ''[[Pseudomyrmex ferruginea]]''.  A single colony of ''P. ferruginea'' may contain more than 30,000 ants, and can tend multiple ''Acacia'' trees.&lt;ref name=&quot;RicoGray-1991&quot; /&gt;  The soldier ants are extremely aggressive, patrolling the trees twenty-four hours a day.  Any disturbance to the tree alerts ants, who then recruit more workers from inside the horn [[#Domatia|domatia]].  These ants defend the ''Acacia'' by biting, violently stinging, and [[pruning]] any trespassers.  The ants keep the plant free from other insects and vertebrate herbivores, from invading fungi and also from other plants.&lt;ref name=&quot;RicoGray-1991&quot; /&gt;
+
+== See also ==
+* [[List of symbiotic relationships]]
+*''[[Nepenthes bicalcarata]]''
+
+==Notes==
+{{Reflist|colwidth=30em}}
+
+==References==
+{{refbegin|colwidth=30em}}
+* {{cite book | ref = harv
+ | last1 = Beattie | first1 = Andrew J.
+ | last2 = Hughes | first2 = Lesley
+ | chapter = Ant-plant interactions
+ | title = Plant-Animal Interactions | pages = 211–235
+ | editor1-last = Herrera | editor1-first = Carlos M.
+ | editor2-last = Pellmyr | editor2-first = Olle
+ | publisher = Blackwell Publishing | year = 2002 | location = Malden, MA
+}}
+* {{cite book | ref = harv
+ | last = Benzing | first = David H.
+ | chapter = Myrmecotrophy: origins, operation, and importance
+ | title = Ant-Plant Interactions | pages = 353–373
+ | editor1-last = Huxley | editor1-first = Camilla R.
+ | editor2-last = Cutler | editor2-first = David F.
+ | publisher = Oxford University Press | year = 1991 | location = New York, NY
+ | isbn = 0-19-854639-4
+}}
+* {{cite book | ref = harv
+ | last1 = Fiala | first1 = Brigitte
+ | last2 = Maschwitz | first2 = Ulrich
+ | last3 = Pong | first3 = Tho Yow
+ | chapter = The association between ''Macaranga'' trees and ants in South-east Asia
+ | title = Ant-Plant Interactions | pages = 263–270
+ | editor1-last = Huxley | editor1-first = Camilla R.
+ | editor2-last = Cutler | editor2-first = David F.
+ | publisher = Oxford University Press | year = 1991 | location = New York, NY
+ | isbn = 0-19-854639-4
+}}
+* {{cite journal | ref = harv
+ | last1 = Gonzalez-Teuber | first1 = M.
+ | last2 = Heil | first2 = M.
+ | title = The Role of Extrafloral Nectar Amino Acids for the Preferences of Facultative and Obligate Ant Mutualists
+ | journal = Journal of Chemical Ecology | volume = 35 | year = 2009 | pages = 459–468 | doi=10.1007/s10886-009-9618-4
+}}
+* {{cite journal | ref = harv
+ | last1 = Heil | first1 = M.
+ | last2 = Baumann | first2 = B.
+ | last3 = Kruger | first3 = R.
+ | last4 = Linsenmair | first4 = K.E.
+ | title = Main nutrient compounds in food bodies of Mexican Acacia ant-plants
+ | journal = Chemoecology | volume = 14 | year = 2004 | pages = 45–52 | doi=10.1007/s00049-003-0257-x
+}}
+* {{cite journal | ref = harv
+ | last1 = Heil | first1 = M.
+ | last2 = Rattke | first2 = J.
+ | last3 = Boland | first3 = W.
+ | title = Postsecretory hydrolysis of nectar sucrose and specialization in ant/plant mutualism
+ | journal = Science | volume = 308 | year = 2005 | pages = 560–563 | doi=10.1126/science.1107536 | pmid=15845855 | issue=5721
+}}
+* {{cite journal | ref = harv
+ | last = Janzen | first = D. H.
+ | title = Coevolution of mutualism between ants and acacias in Central America
+ | journal = Evolution | volume = 20 | year = 1966 | pages = 249–275 | doi=10.2307/2406628
+}}
+* {{cite journal | ref = harv
+ | last = Jebb | first = Matthew
+ | chapter = Cavity structure and function in the tuberous Rubiaceae
+ | title = Ant-Plant Interactions | pages = 374–389
+ | editor1-last = Huxley | editor1-first = Camilla R.
+ | editor2-last = Cutler | editor2-first = David F.
+ | publisher = Oxford University Press | year = 1991 | location = New York, NY
+ | isbn = 0-19-854639-4
+}}
+* {{cite book | ref = harv
+ | last = Koptur | first = Suzanne
+ | chapter = Extrafloral nectarines of herbs and trees: modeling the interaction with ants and parasitoids
+ | title = Ant-Plant Interactions | pages = 213–230
+ | editor1-last = Huxley | editor1-first = Camilla R.
+ | editor2-last = Cutler | editor2-first = David F.
+ | publisher = Oxford University Press | year = 1991 | location = New York, NY
+ | isbn = 0-19-854639-4
+}}
+* {{cite book | ref = harv
+ | last1 = Peakall | first1 = Rod
+ | last2 = Handel | first2 = Steven N.
+ | last3 = Beattie | first3 = Andrew J.
+ | chapter = The evidence for and importance of ant pollination
+ | title = Ant-Plant Interactions | pages = 421–429
+ | editor1-last = Huxley | editor1-first = Camilla R.
+ | editor2-last = Cutler | editor2-first = David F.
+ | publisher = Oxford University Press | year = 1991 | location = New York, NY
+ | isbn = 0-19-854639-4
+}}
+* {{cite book | ref = harv
+ | last1 = Rico-Gray | first1 = Victor
+ | last2 = Oliveira | first2 = Paulo S
+ | title = The Ecology and Evolution of Ant-Plant Interactions | pages = 42–51, 101–109
+ | publisher = University of Chicago Press | year = 2007 | location = Chicago, IL
+}}
+* {{cite book | ref = harv
+ | last1 = Speight | first1 = Martin R.
+ | last2 = Hunter | first2 = Mark D.
+ | last3 = Watt | first3 = Allan D.
+ | title = Ecology of Insects | pages = 212–216
+ | year = 2008 | edition = 2nd
+ | publisher = Wiley Blackwell Publications | location = West Sussex, UK
+}}
+* {{cite book | ref = harv
+ | last = Wilson | first = Edward O.
+ | title = The Insect Societies
+ | publisher = Belknap Press | year = 1971
+ | isbn = 978-0-674-45490-3
+}}
+{{refend}}
+
+== External links ==
+* [http://www.vimeo.com/24912785/ A video about ant plants]
+
+[[Category:Myrmecophytes| ]]
+[[Category:Ants]]
+[[Category:Mutualism (biology)]]
+[[Category:Botany]]
+[[Category:Plants]]
+[[Category:Agriculturally beneficial insects]]
+[[Category:Acacia]]</text>
+      <sha1>g7z7hknsp0h9onimgeo76uasd1ce9au</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,171 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>BLEU</title>
+    <ns>0</ns>
+    <id>3772276</id>
+    <revision>
+      <id>747824483</id>
+      <parentid>718862492</parentid>
+      <timestamp>2016-11-04T16:10:25Z</timestamp>
+      <contributor>
+        <username>Pintoch</username>
+        <id>16990030</id>
+      </contributor>
+      <minor/>
+      <comment>change |id={{citeseerx}} to |citeseerx=</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11908">{{about|the evaluation metric for machine translation||Bleu (disambiguation)}}
+__NOTOC__
+'''BLEU''' ('''bilingual evaluation understudy''') is an algorithm for evaluating the quality of text which has been [[machine translation|machine-translated]] from one [[natural language]] to another. Quality is considered to be the correspondence between a machine's output and that of a human: &quot;the closer a machine translation is to a professional human translation, the better it is&quot; &amp;ndash; this is the central idea behind BLEU.{{ref|Papineni2002a}}{{ref|Papineni2002b}} BLEU was one of the first [[Metric (mathematics)|metrics]] to achieve a high [[correlation]] with human judgements of quality,{{ref|Papineni2002b}}{{ref|Coughlin2003a}} and remains one of the most popular automated and inexpensive metrics.
+
+Scores are calculated for individual translated segments—generally sentences—by comparing them with a set of good quality reference translations. Those scores are then averaged over the whole [[text corpus|corpus]] to reach an estimate of the translation's overall quality. Intelligibility or grammatical correctness are not taken into account.
+
+BLEU is designed to approximate human judgement at a corpus level, and performs badly if used to evaluate the quality of individual sentences.
+
+BLEU’s output is always a number between 0 and 1. This value indicates how similar the candidate and reference texts are, with values closer to 1 representing more similar texts. However, few human translations will attain a score of 1. The candidate texts must be identical to a reference translation. For this reason, it is not necessary to attain a score of 1. Because there are more opportunities to match, adding additional reference translations will increase the BLEU score.{{ref|Papineni2002a}}
+
+==Algorithm==
+
+BLEU uses a modified form of [[Precision (information retrieval)|precision]] to compare a candidate translation against multiple reference translations. The metric modifies simple precision since machine translation systems have been known to generate more words than are in a reference text. This is illustrated in the following example from Papineni et al. (2002),
+
+{|class=wikitable
+|+ Example of poor machine translation output with high precision
+|-
+| Candidate || the || the || the || the || the || the || the  
+|-
+| Reference 1 || the || cat || is || on || the || mat
+|- 
+| Reference 2 || there || is || a || cat || on || the || mat
+|-
+|}
+
+Of the seven words in the candidate translation, all of them appear in the reference translations. Thus the candidate text is given a unigram precision of,
+
+:&lt;math&gt;P = \frac{m}{w_{t}} = \frac{7}{7} = 1&lt;/math&gt;
+
+where &lt;math&gt;~m&lt;/math&gt; is number of words from the candidate that are found in the reference, and &lt;math&gt;~w_{t}&lt;/math&gt; is the total number of words in the candidate. This is a perfect score, despite the fact that the candidate translation above retains little of the content of either of the references.
+
+The modification that BLEU makes is fairly straightforward. For each word in the candidate translation, the algorithm takes its maximum total count, &lt;math&gt;~m_{max}&lt;/math&gt;, in any of the reference translations. In the example above, the word &quot;the&quot; appears twice in reference 1, and once in reference 2. Thus &lt;math&gt;~m_{max} = 2&lt;/math&gt;.
+
+For the candidate translation, the count &lt;math&gt;m_{w}&lt;/math&gt; of each word is clipped to a maximum of &lt;math&gt;m_{max}&lt;/math&gt; for that word. In this case, &quot;the&quot; has &lt;math&gt;~m_{w} = 7&lt;/math&gt; and &lt;math&gt;~m_{max}=2&lt;/math&gt;, thus &lt;math&gt;~m_{w}&lt;/math&gt; is clipped to 2. &lt;math&gt;~m_{w}&lt;/math&gt; is then summed over all words in the candidate.
+This sum is then divided by the total number of words in the candidate translation. In the above example, the modified unigram precision score would be:
+
+:&lt;math&gt;P = \frac{2}{7}&lt;/math&gt;
+
+In practice, however, using individual words as the unit of comparison is not optimal.  Instead, BLEU computes the same modified precision metric using [[n-gram]]s.  The length which has the &quot;highest correlation with monolingual human judgements&quot;{{ref|Papineni2002c}} was found to be four. The unigram scores are found to account for the adequacy of the translation, how much information is retained. The longer &lt;math&gt;n&lt;/math&gt;-gram scores account for the fluency of the translation, or to what extent it reads like &quot;good English&quot;.
+
+Another problem with BLEU scores is that they tend to favor short translations, which can produce very high precision scores, even using modified precision. An example of a candidate translation for the same references as above might be:
+
+:the cat
+
+In this example, the modified unigram precision would be,
+
+:&lt;math&gt;P = \frac{1}{2} + \frac{1}{2} = \frac{2}{2}&lt;/math&gt;
+
+as the word 'the' and the word 'cat' appear once each in the candidate, and the total number of words is two. The modified bigram precision would be &lt;math&gt;1 / 1&lt;/math&gt; as the bigram, &quot;the cat&quot; appears once in the candidate. It has been pointed out that precision is usually twinned with [[Recall (information retrieval)|recall]] to overcome this problem {{ref|Papineni2002d}}, as the unigram recall of this example would be &lt;math&gt;3 / 6&lt;/math&gt; or &lt;math&gt;2 / 7&lt;/math&gt;. The problem being that as there are multiple reference translations, a bad translation could easily have an inflated recall, such as a translation which consisted of all the words in each of the references.{{ref|Papineni2002e}}
+
+To produce a score for the whole corpus the modified precision scores for the segments are combined using the [[geometric mean]] multiplied by a brevity penalty to prevent very short candidates from receiving too high a score. Let &lt;math&gt;r&lt;/math&gt; be the total length of the reference corpus, and &lt;math&gt;c&lt;/math&gt; the total length of the translation corpus. If &lt;math&gt;c \leq r&lt;/math&gt;, the brevity penalty applies,  defined to be &lt;math&gt;e^{(1-r/c)}&lt;/math&gt;. (In the case of multiple reference sentences, &lt;math&gt;r&lt;/math&gt; is taken to be the sum of the lengths of the sentences whose lengths are closest to the lengths of the candidate sentences. However, in the version of the metric used by [[NIST (metric)|NIST]] evaluations prior to 2009, the shortest reference sentence had been used instead.)
+
+iBLEU is an interactive version of BLEU that allows a user to visually examine the BLEU scores obtained by the candidate translations. It also allows comparing two different systems in a visual and interactive manner which is useful for system development.{{ref|Madnani2011}}
+
+==Performance==
+
+BLEU has frequently been reported as correlating well with human judgement,{{ref|Papineni2002f}}{{ref|Coughlin2003b}}{{ref|Doddington2002a}} and remains a benchmark for the assessment of any new evaluation metric. There are however a number of criticisms that have been voiced. It has been noted that although in principle capable of evaluating translations of any language, BLEU cannot in its present form deal with languages lacking word boundaries.{{ref|Denoual2005a}}
+
+It has been argued that although BLEU has significant advantages, there is no guarantee that an increase in BLEU score is an indicator of improved translation quality.{{ref|Callison2006a}}
+There is an inherent, systemic problem with any metric based on comparing with one or a few reference translations: in real life, sentences can be translated in many different ways, sometimes with no overlap. Therefore, the approach of comparing by how much any given translation result by a computer differs from just a few human translations is flawed. HyTER is another automated MT metric that compares to very many translations in a reference grammar defined by human translators;&lt;ref name=Dreyer|2012&gt;{{cite journal|last1=Dreyer|first1=Markus|title=HyTER: Meaning-Equivalent Semantics for Translation Evaluation|journal=Proc. 2012 NAACL: HLT|date=2012|pages=162–171|url=http://aclweb.org/anthology/N12-1017|accessdate=22 January 2015}}&lt;/ref&gt; the drawback is then that the human effort involved in correctly defining the combinatorially many ways to render the meaning of the translation in practice means HyTER also is only an approximation.
+
+==See also==
+* [[F1 Score|F-Measure]]
+* [[NIST (metric)]]
+* [[METEOR]]
+* [[ROUGE (metric)]]
+* [[Word error rate|Word Error Rate (WER)]]
+* [[Noun-Phrase Chunking]]
+* [[Translation Error Rate]]
+
+==Notes==
+{{Refbegin}}
+# {{note|Papineni2002a}} Papineni, K., et al. (2002)
+# {{note|Papineni2002c}} Papineni, K., et al. (2002)
+# {{note|Coughlin2003a}} Coughlin, D. (2003)
+# {{note|Papineni2002d}} Papineni, K., et al. (2002)
+# {{note|Papineni2002e}} Papineni, K., et al. (2002)
+# {{note|Papineni2002f}} Papineni, K., et al. (2002)
+# {{note|Papineni2002f}} Papineni, K., et al. (2002)
+# {{note|Coughlin2003b}} Coughlin, D. (2003)
+# {{note|Doddington2002a}} Doddington, G. (2002)
+# {{note|Denoual2005a}} Denoual, E. and Lepage, Y. (2005)
+# {{note|Callison2006a}} Callison-Burch, C., Osborne, M. and Koehn, P. (2006)
+# {{note|Lee2005a}} Lee, A. and Przybocki, M. (2005)
+# {{note|Callison2006b}} Callison-Burch, C., Osborne, M. and Koehn, P. (2006)
+# {{note|Och2004a}} Lin, C. and Och, F. (2004)
+# {{note|Callison2006c}} Callison-Burch, C., Osborne, M. and Koehn, P. (2006)
+# {{note|Madnani2011}} Madnani, N. (2011)
+{{Refend}}
+
+==References==
+{{Reflist}}
+{{refbegin}}
+* {{cite conference | last1 = Papineni | first1 = K. | last2 = Roukos | first2 = S. | last3 = Ward | first3 = T. | last4 = Zhu | first4 = W. J. | year = 2002 | title = BLEU: a method for automatic evaluation of machine translation | citeseerx = 10.1.1.19.9416 | conference = ACL-2002: 40th Annual meeting of the Association for Computational Linguistics | pages = 311–318 | url = http://aclweb.org/anthology/P/P02/P02-1040.pdf}}
+*Papineni,  K., Roukos, S., Ward, T., Henderson, J and Reeder, F. (2002). “[http://mt-archive.info/HLT-2002-Papineni.pdf Corpus-based Comprehensive and Diagnostic MT Evaluation: Initial Arabic, Chinese, French, and Spanish Results]” in Proceedings of Human Language Technology 2002, San Diego, pp.&amp;nbsp;132–137
+* Callison-Burch, C., Osborne, M. and Koehn, P. (2006) &quot;[http://www.cs.jhu.edu/~ccb/publications/re-evaluating-the-role-of-bleu-in-mt-research.pdf Re-evaluating the Role of BLEU in Machine Translation Research]&quot; in ''11th Conference of the European Chapter of the Association for Computational Linguistics: EACL 2006'' pp.&amp;nbsp;249–256
+* Doddington, G. (2002) &quot;[http://www.nist.gov/speech/tests/mt/doc/ngram-study.pdf Automatic evaluation of machine translation quality using n-gram cooccurrence statistics]&quot; in ''Proceedings of the Human Language Technology Conference (HLT), San Diego, CA'' pp.&amp;nbsp;128–132
+* Coughlin, D. (2003) &quot;[http://www.mt-archive.info/MTS-2003-Coughlin.pdf Correlating Automated and Human Assessments of Machine Translation Quality]&quot; in ''MT Summit IX, New Orleans, USA'' pp.&amp;nbsp;23–27
+* Denoual, E. and Lepage, Y. (2005) &quot;[http://www.mt-archive.info/IJCNLP-2005-Denoual.pdf BLEU in characters: towards automatic MT evaluation in languages without word delimiters]&quot; in ''Companion Volume to the Proceedings of the Second International Joint Conference on Natural Language Processing'' pp.&amp;nbsp;81–86
+* Lee, A. and Przybocki, M. (2005) NIST 2005 machine translation evaluation official results
+* Lin, C. and Och, F. (2004) &quot;[http://www.mt-archive.info/ACL-2004-Lin.pdf Automatic Evaluation of Machine Translation Quality Using Longest Common Subsequence and Skip-Bigram Statistics]&quot; in ''Proceedings of the 42nd Annual Meeting of the Association of Computational Linguistics''.
+* Madnani, N. (2011). &quot;[http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6061334&amp;tag=1 iBLEU: Interactively Scoring and Debugging Statistical Machine Translation Systems]&quot; in &quot;Proceedings of the Fifth IEEE International Conference on Semantic Computing (Demos), Palo Alto, CA&quot; pp.&amp;nbsp;213–214
+{{refend}}
+
+{{good article}}
+
+[[Category:Evaluation of machine translation]]</text>
+      <sha1>adahwllag7gin4riarl7r1o7ayunx8j</sha1>
+    </revision>
+  </page>
+</mediawiki>

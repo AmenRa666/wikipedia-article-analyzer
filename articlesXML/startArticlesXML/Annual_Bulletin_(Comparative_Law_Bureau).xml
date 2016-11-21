@@ -1,0 +1,144 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Annual Bulletin (Comparative Law Bureau)</title>
+    <ns>0</ns>
+    <id>22054380</id>
+    <revision>
+      <id>682504267</id>
+      <parentid>682181562</parentid>
+      <timestamp>2015-09-24T04:08:40Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Speedily moving category Academic journals associated with learned societies of the United States to [[:Category:Academic journals associated with learned and professional societies of the United States]] per [[WP:CFDS|CFDS]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8458">{{Infobox Journal
+| title        = {{nowrap|Annual Bulletin}} {{nowrap|(Comparative Law Bureau)}}
+| cover        =
+| editor       = William W. Smithers
+| discipline   = [[Comparative law]]
+| language     = [[English language|English]]
+| abbreviation =
+| publisher    = [[American Bar Association]], via International Print. Co.
+| country      = [[United States|U.S.]]
+| frequency    = Annual
+| history      = 1908–1914,&lt;br&gt;(1915–1928)&lt;!--April numbers of ABAJ--&gt;,&lt;br&gt;1933
+| openaccess   =
+| license      =
+| impact       =
+| impact-year  =
+| website      =
+| link1        =
+| link1-name   =
+| link2        =
+| link2-name   =
+| RSS          =
+| atom         =
+| JSTOR        = &lt;!--none--&gt;
+| OCLC         = 2038856
+| LCCN         = 08023300
+| CODEN        =
+&lt;!--ISSN: none, disabled to avoid [[Category:ISSN needed]]--&gt;
+| eISSN        =
+| boxwidth     = 22em&lt;!--same as Infobox Magazine--&gt;
+}}
+The '''''Annual Bulletin''''' of the '''Comparative Law Bureau&lt;!--redirect--&gt;''' of the [[American Bar Association]] (ABA) was a [[United States|U.S.]] specialty [[law journal]] (1908–1914, 1933). The first [[comparative law]] journal in the United States,&lt;ref name=Clark2005/&gt; it surveyed foreign legislation and legal literature. Circulated to all ABA members, it was absorbed in 1915 by the newly formed ''[[American Bar Association Journal]]''.
+
+==History==
+===Bureau===
+In 1905, a committee of the [[Pennsylvania]] State Bar Association considered the creation of a [[comparative law]] society and recommended to bring such large project to the [[American Bar Association]].&lt;ref name=Clark2005&gt;Clark 2005.&lt;/ref&gt; The ABA created such entity at its 1907 annual meeting, as a new section named the Comparative Law Bureau: the Bureau members would meet annually at the ABA's summer meeting and publish an annual bulletin.&lt;ref name=Clark2005/&gt;
+
+The Bureau's officers included: [[Simeon E. Baldwin]] (as director, 1907–1919; ABA co-founder and president, later Governor of Connecticut) and William Smithers (as secretary, also the chairman of the ''Bulletin'''s editorial staff).&lt;ref name=Clark2005/&gt; The Bureau's managers included: [[James Barr Ames]] (dean at Harvard), [[George Kirchwey]] (dean at Columbia), [[William Draper Lewis]]  (dean at Pennsylvania, later the founding director of the [[American Law Institute]]), and [[John Henry Wigmore]] (dean at Northwestern).&lt;ref name=Clark2005/&gt;
+
+The Bureau's aims were presented in the ''Bulletin'''s first issue: (1) to publish an annual ''Bulletin'' with foreign legislation and reviews of foreign legal literature; (2) to translate and publish foreign legislation as well as relevant expert opinions; (3) to hold an annual conference for discussing comparative law; (4) to improve means by which foreign laws can become available to U.S. lawyers; (5) to promote research in the areas of foreign law; (6) to establish a list of foreign correspondents; and (7) to gather information on foreign law, such as bibliographies, for the benefit of practicing lawyers, law teachers, and students.&lt;ref name=Clark2005/&gt;
+
+The Bureau met annually and published its ''Bulletin'' (separately, then within the ''Journal'') until financial difficulties in the 1930s due to the [[Great Depression]]. In 1933, after publishing an ultimate separate ''Bulletin'', the Bureau was merged with the ABA's International Law section, forming the ABA Section of International &amp; Comparative Law.&lt;ref name=Clark2005/&gt;
+
+===Bulletin===
+In July 1908, the ''Annual Bulletin'' (no [[ISSN]])&lt;ref&gt;The ''Bulletin'' is referenced under various titles. The main uniform title used in library catalogs (Library of Congress, OCLC/WorldCat) is &quot;Annual &lt;!--here lowercase b--&gt;bulletin (American Bar Association. Comparative Law Bureau)&quot;. Other titles found in citations include: &quot;Annual Bulletin - Comparative Law Bureau&quot;, &quot;Annual Bulletin of the Comparative Law Bureau&quot;, &quot;Annual Bulletin of the Comparative Law Bureau of the American Bar Association&quot;, etc., and sometimes &quot;Bulletin of the Comparative Law Bureau of the American Bar Association&quot;, etc.&lt;/ref&gt; was founded by the Bureau. The first [[comparative law]] journal in the United States,&lt;ref name=Clark2005/&gt; it provided a survey of foreign legislation and legal literature. Its first issue was a 200 or so page bulletin.&lt;ref name=Clark2005/&gt;
+
+The editor (chairman of the editorial staff) was Bureau secretary Smithers (from Philadelphia, where was also the ''Bulletin'''s printer).&lt;ref name=Clark2005/&gt; The editorial staff in 1908 included: [[Simeon E. Baldwin]] (Yale) for general [[jurisprudence]]; Ernest Lorenzen (George Washington) and [[Roscoe Pound]] (then at Northwestern) for [[Germany]]; Charles Wetherill for [[Great Britain]]; Masuji Miyakawa for [[Japan]]; Leo Rowe (University of Pennsylvania) for [[Latin America]]; William Hastings (University of Nebraska, dean in 1910) for [[Russia]]; Samuel Scott for [[Spain]]; and Gordon Sherman for [[Switzerland]].&lt;ref name=Clark2005/&gt; There were foreign correspondents from fourteen countries, including Gaston de Leval from [[Belgium]] and [[Eugen Huber]] (creator of the [[Swiss civil code of 1907]], still in force) from [[Switzerland]].&lt;ref name=Clark2005/&gt;
+
+The ''Bulletin'' was circulated to all ABA members and to other subscribers.&lt;ref name=Clark2005/&gt; Published by International Printing Co. (Philadelphia, PA), it ran from July 1, 1908 to July 1, 1914,&lt;ref name=LOC-AnnualBulletin&gt;LOC, &quot;Annual bulletin&quot;.&lt;/ref&gt; for volume 1 to 7.
+
+The separate ''Bulletin'' was discontinued for two reasons:&lt;ref name=Clark2005/&gt; in 1914, [[World War I]] disrupted cross-Atlantic connections; and in 1915, the ABA started publishing its own ''Journal'', into which the ''Bulletin'' was merged as an annual issue. (Though in 1933,&lt;ref name=LOC-Bulletin1933&gt;LOC, &quot;Bulletin for 1933&quot;.&lt;/ref&gt; there was an ultimate separate ''Bulletin'', 215 page long. And in 1964,&lt;ref&gt;[[WorldCat]]. [http://www.worldcat.org/oclc/22590456?tab=details &quot;Annual bulletin&quot; (1964 reprint), OCLC 22590456].&lt;/ref&gt; two backissues were reprinted.)
+
+===Journal===
+{{Main|American Bar Association Journal}}
+&lt;!-- (Only a paragraph summary of the main article.) --&gt;In 1915, the ''American Bar Association Journal'' ({{ISSN|0002-7596}}) was founded by the [[American Bar Association]] as a quarterly magazine (it became monthly in 1921). From 1915 to 1928, the ''Bulletin'' was merged into it:&lt;ref name=LOC-Bulletin1933/&gt;&lt;ref name=LOC-AnnualBulletin/&gt; the Comparative Law Bureau controlled the second issue each year,&lt;ref name=Clark2005/&gt; the April number. Bureau issues stopped in 1929, but comparative and foreign law articles still regularly appeared in the ''Journal'' (about five to ten per volume).&lt;ref name=Clark2005/&gt;
+
+==Notes==
+&lt;references/&gt;
+
+==References==
+Sources used for this article:
+* Clark, David S. (2005). [http://www.google.com/search?q=cache:law.wustl.edu/wugslr/issues/volume4_3/p583Clark.pdf &quot;Establishing Comparative Law in the United States: The First Fifty Years&quot;] (HTML from [http://law.wustl.edu/wugslr/issues/volume4_3/p583Clark.pdf the original PDF]), ''[[Washington University Global Studies Law Review]]'' ({{ISSN|1546-6981}}), vol. 4:583–593, October 28, 2005, esp. p. 584 &amp; 588–589 — With a short history of the ''Bulletin'' and early ''Journal''.
+* LOC (2009). &quot;Annual bulletin (American Bar Association. Comparative Law Bureau)&quot;, {{LCCN|08023300}} (also {{OCLC|2038856}}), [[Library of Congress]] Online Catalog, consulted in March 2009
+* LOC (2009). &quot;Bulletin for 1933&quot;, {{LCCN|36014329}} (also {{OCLC|1927988}}), [[Library of Congress]] Online Catalog, consulted in March 2009 — With a brief history of the ''Bulletin'' in Notes.
+
+==Further reading==
+;Annual Report of the American Bar Association
+* (For 1914 apparently not available online.)
+* {{Internet Archive|id=annualreportame52assogoog|name=For 1915}} — ''Bulletin'' merged into the new ''Journal''.
+* {{Internet Archive|id=annualreportame43assogoog|name=For 1916}}
+* (For 1933 apparently not available online.)
+[[Category:American law journals]]
+[[Category:Annual journals]]
+[[Category:Comparative law journals]]
+[[Category:Defunct journals]]
+[[Category:English-language journals]]
+[[Category:Publications disestablished in 1933]]
+[[Category:Publications established in 1908]]
+[[Category:American Bar Association]]
+[[Category:1908 establishments in the United States]]
+[[Category:Academic journals associated with learned and professional societies of the United States]]</text>
+      <sha1>8zzrehy8e6mdczyayh0gpe8lvrbz0pt</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,221 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Cataglyphis</title>
+    <ns>0</ns>
+    <id>12550164</id>
+    <revision>
+      <id>741760662</id>
+      <parentid>731954306</parentid>
+      <timestamp>2016-09-29T14:06:43Z</timestamp>
+      <contributor>
+        <username>Gy60356</username>
+        <id>2607529</id>
+      </contributor>
+      <comment>Added information of bio-inspired Cataglyphis rover.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13238">{{italic title}}{{Taxobox 
+| image = Cataglyphis bicolor casent0104612 profile 1.jpg
+| image_caption = ''[[Cataglyphis bicolor]]'' worker
+| name = ''Cataglyphis''
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Hymenoptera]]
+| familia = [[Ant|Formicidae]]
+| subfamilia = [[Formicinae]]
+| tribus = [[Formicini]]
+| genus = '''''Cataglyphis'''''
+| genus_authority = Förster, 1850
+| type_species = 
+| type_species_authority = 
+| diversity_link = #Species
+| diversity = 89 species
+| diversity_ref = &lt;ref name=&quot;AntCat&quot;&gt;{{AntCat|429342|''Cataglyphis''|2014|accessdate=17 August 2014}}&lt;/ref&gt;
+| synonyms =
+''Eomonocombus'' &lt;small&gt;Arnol'di, 1968&lt;/small&gt;&lt;br&gt;
+''Machaeromyrma'' &lt;small&gt;Forel, 1916&lt;/small&gt;&lt;br&gt;
+''Monocombus'' &lt;small&gt;Mayr, 1855&lt;/small&gt;&lt;br&gt;
+''Paraformica'' &lt;small&gt;Forel, 1915&lt;/small&gt;
+}}
+
+'''''Cataglyphis''''', or '''desert ants''',&lt;ref&gt;{{Cite journal | last1 = Steck | first1 = K. | last2 = Hansson | first2 = B. S. | last3 = Knaden | first3 = M. | title = Smells like home: Desert ants, ''Cataglyphis fortis'', use olfactory landmarks to pinpoint the nest | doi = 10.1186/1742-9994-6-5 | journal = Frontiers in Zoology | volume = 6 | pages = 5 | year = 2009 | pmid =  19250516| pmc =2651142 }}&lt;/ref&gt; is a [[genus]] of [[ant]] in the subfamily [[Formicinae]]. Its most famous species is ''C. bicolor'', the [[Sahara Desert ant]], which runs on hot sand to find insects that died of heat exhaustion, and can, like other several other ''Cataglyphis'' species, sustain body temperatures of up to 50&amp;nbsp;°C.&lt;ref name=&quot;ShiTsai2015&quot;&gt;{{cite journal|last1=Shi|first1=N. N.|last2=Tsai|first2=C.-C.|last3=Camino|first3=F.|last4=Bernard|first4=G. D.|last5=Yu|first5=N.|last6=Wehner|first6=R.|title=Keeping cool: Enhanced optical reflection and radiative heat dissipation in Saharan silver ants|journal=Science|volume=349|issue=6245|year=2015|pages=298–301|issn=0036-8075|doi=10.1126/science.aab3564}}&lt;/ref&gt; Cataglyphis is also the name of an autonomous rover&lt;ref&gt;{{Cite web|url=http://www2.statler.wvu.edu/~irl/page34.html|title=NASA_Callenge|website=www2.statler.wvu.edu|access-date=2016-09-29}}&lt;/ref&gt; that won the NASA Sample Return Robot Centennial Challenge&lt;ref&gt;{{Cite web|url=http://www.nasa.gov/directorates/spacetech/centennial_challenges/feature/2016_sample_return_robot_challenge_award.html|title=NASA Awards $750K in Sample Return Robot Challenge|last=Hall|first=Loura|date=2016-09-08|access-date=2016-09-29}}&lt;/ref&gt; inspired by the navigation approaches used by desert ants. 
+
+==Description==
+Species of this genus are behaviourally, [[morphology (biology)|morphologically]] and [[physiology|physiologically]] [[adaptation|adapted]] to dry and hot habitats.&lt;ref name=&quot;Petrov_1986&quot;/&gt;
+
+==Navigational behaviour==
+In the Sahara, ants are living where there are no bushes or clumps of grass, and where tracks are covered by wind-blown sand in seconds. The midday sun is so hot that even the permanent residents, sand lizards and insects and a few birds, have to take shelter. But this is when, for not much more than an hour, it's safe for ''Cataglyphis'' to come out of their underground nests and forage. According to Wehner, they can withstand higher temperatures than any other insects.{{citation needed|date=January 2015}} They pour out on to the sand and search for insects that have died of heat stress. Each ant dashes about in zigzag patterns, but as soon as one is lucky enough to find a tiny insect corpse, it has to get it back to the nest fast before it itself dies of the heat. It does not retrace the zig-zagging path of its outward journey; even if a scent-trail made this possible, such a route would be time-wasting. Instead, it runs in a straight line directly back to its nest-hole.&lt;ref name=&quot;Attenborough_1990&quot;/&gt;
+
+On its outward journey, it zig-zags right and left. Every time it changes direction, it lifts its head and wheels around to take a bearing on the sun. In addition, it has to remember how far it went on each straight run. When it’s time to head for home, it has to sum all this data and come out with the precise direction needed. Some outward journeys take an ant a quarter of an hour, with sun-sightings every few seconds.&lt;ref name=&quot;Attenborough_1990&quot;/&gt;
+
+In an experiment, individual ants were fitted with an apparatus, which blocked direct sight of the sun while giving a false impression of where the sun was, using a mirror. When these ants headed for home, they dashed off to a point in the desert displaced by just the amount that the mirror had shifted the sun's position.&lt;ref name=&quot;Attenborough_1990&quot;/&gt;
+
+==Distribution==
+At least five different species of ''Cataglyphis'' occur in the [[Sahara desert]], which may be considered the center of distribution for this genus.&lt;ref name=&quot;Bernard_1968&quot;/&gt; Some species reach into southern [[Russia]], southern [[Spain]],&lt;ref name=&quot;Mangan&amp;Webb_2012&quot;/&gt; the European part of [[Turkey]], the [[Aral Sea|Aral]]-[[Caspian Sea|Caspian]] area near [[Tijanchan]], [[Yugoslavia]] and [[Hungary]].&lt;ref name=&quot;Petrov_1986&quot;/&gt;
+
+==Parthenogenesis==
+Queen ants of the species ''C. cursor'' can produce female reproductive progeny (i.e. potential new queens or [[gyne]]s) by [[parthenogenesis]].&lt;ref name=&quot;pmid15576621&quot;&gt;{{cite journal |vauthors=Pearcy M, Aron S, Doums C, Keller L |title=Conditional use of sex and parthenogenesis for worker and queen production in ants |journal=Science |volume=306 |issue=5702 |pages=1780–3 |year=2004 |pmid=15576621 |doi=10.1126/science.1105453 |url=}}&lt;/ref&gt;&lt;ref name=&quot;pmid21307046&quot;&gt;{{cite journal |vauthors=Aron S, Timmermans I, Pearcy M |title=Ant queens adjust egg fertilization to benefit from both sexual and asexual reproduction |journal=Biol. Lett. |volume=7 |issue=4 |pages=571–3 |year=2011 |pmid=21307046 |pmc=3130223 |doi=10.1098/rsbl.2010.1189 |url=}}&lt;/ref&gt; Parthenogenesis, in this case, involves, a process (automictic [[thelytoky]]) by which two haploid products of [[meiosis]] fuse to form a diploid [[zygote]] that develops into a [[gyne]].  Queens can also produce female worker ants by sexual reproduction involving [[fertilisation]] of eggs.
+
+==Species==
+{{div col|2}}
+*''[[Cataglyphis abyssinica]]'' &lt;small&gt;(Forel, 1904)&lt;/small&gt;
+*''[[Cataglyphis acutinodis]]'' &lt;small&gt;Collingwood &amp; Agosti, 1996&lt;/small&gt;
+*''[[Cataglyphis adenensis]]'' &lt;small&gt;(Forel, 1904)&lt;/small&gt;
+*''[[Cataglyphis aenescens]]'' &lt;small&gt;(Nylander, 1849)&lt;/small&gt;
+*''[[Cataglyphis agostii]]'' &lt;small&gt;Sharaf, 2007&lt;/small&gt;
+*''[[Cataglyphis albicans]]'' &lt;small&gt;(Roger, 1859)&lt;/small&gt;
+*''[[Cataglyphis alibabae]]'' &lt;small&gt;Pisarski, 1965&lt;/small&gt;
+*''[[Cataglyphis altisquamis]]'' &lt;small&gt;(André, 1881)&lt;/small&gt;
+*''[[Cataglyphis arenaria]]'' &lt;small&gt;Finzi, 1940&lt;/small&gt;
+*''[[Cataglyphis argentata]]'' &lt;small&gt;(Radoszkowsky, 1876)&lt;/small&gt;
+*''[[Cataglyphis asiriensis]]'' &lt;small&gt;Collingwood, 1985&lt;/small&gt;
+*''[[Cataglyphis aurata]]'' &lt;small&gt;Menozzi, 1932&lt;/small&gt;
+*''[[Cataglyphis bellicosa]]'' &lt;small&gt;(Karavaiev, 1924)&lt;/small&gt;
+*''[[Cataglyphis bergiana]]'' &lt;small&gt;Arnol'di, 1964&lt;/small&gt;
+*''[[Cataglyphis bicolor]]'' &lt;small&gt;(Fabricius, 1793)&lt;/small&gt; — Sahara Desert ant
+*''[[Cataglyphis bicoloripes]]'' &lt;small&gt;Walker, 1871&lt;/small&gt;
+*''[[Cataglyphis bombycina]]'' &lt;small&gt;(Roger, 1859)&lt;/small&gt; — Saharan silver ant
+*''[[Cataglyphis bucharica]]'' &lt;small&gt;Emery, 1925&lt;/small&gt;
+*''[[Cataglyphis cana]]'' &lt;small&gt;Santschi, 1925&lt;/small&gt;
+*''[[Cataglyphis cinnamomea]]'' &lt;small&gt;(Karavaiev, 1910)&lt;/small&gt;
+*''[[Cataglyphis cugiai]]'' &lt;small&gt;Menozzi, 1939&lt;/small&gt;
+*''[[Cataglyphis cuneinodis]]'' &lt;small&gt;Arnol'di, 1964&lt;/small&gt;
+*''[[Cataglyphis cursor]]'' &lt;small&gt;(Fonscolombe, 1846)&lt;/small&gt;
+*''[[Cataglyphis diehlii]]'' &lt;small&gt;(Forel, 1902)&lt;/small&gt;
+*''[[Cataglyphis douwesi]]'' &lt;small&gt;De Haro &amp; Collingwood, 2000&lt;/small&gt;
+*''[[Cataglyphis elegantissima]]'' &lt;small&gt;Arnol'di, 1968&lt;/small&gt;
+*''[[Cataglyphis emeryi]]'' &lt;small&gt;(Karavaiev, 1911)&lt;/small&gt;
+*''[[Cataglyphis emmae]]'' &lt;small&gt;(Forel, 1909)&lt;/small&gt;
+*''[[Cataglyphis espadaleri]]'' &lt;small&gt;Cagniant, 2009&lt;/small&gt;
+*''[[Cataglyphis flavitibia]]'' &lt;small&gt;Chang &amp; He, 2002&lt;/small&gt;
+*''[[Cataglyphis flavobrunnea]]'' &lt;small&gt;Collingwood &amp; Agosti, 1996&lt;/small&gt;
+*''[[Cataglyphis floricola]]'' &lt;small&gt;Tinaut, 1993&lt;/small&gt;
+*''[[Cataglyphis foreli]]'' &lt;small&gt;(Ruzsky, 1903)&lt;/small&gt;
+*''[[Cataglyphis fortis]]'' &lt;small&gt;(Forel, 1902)&lt;/small&gt; — Sahara desert
+*''[[Cataglyphis fossilis]]'' &lt;small&gt;Cagniant, 2009&lt;/small&gt;
+*''[[Cataglyphis frigida]]'' &lt;small&gt;(André, 1881)&lt;/small&gt;
+*''[[Cataglyphis gadeai]]'' &lt;small&gt;De Haro &amp; Collingwood, 2003&lt;/small&gt;
+*''[[Cataglyphis gaetula]]'' &lt;small&gt;Santschi, 1929&lt;/small&gt;
+*''[[Cataglyphis glabilabia]]'' &lt;small&gt;Chang &amp; He, 2002&lt;/small&gt;
+*''[[Cataglyphis gracilens]]'' &lt;small&gt;Santschi, 1929&lt;/small&gt;
+*''[[Cataglyphis hannae]]'' &lt;small&gt;Agosti, 1994&lt;/small&gt; — [[Tunisia]]
+*''[[Cataglyphis harteni]]'' &lt;small&gt;Collingwood &amp; Agosti, 1996&lt;/small&gt;
+*''[[Cataglyphis helanensis]]'' &lt;small&gt;Chang &amp; He, 2002&lt;/small&gt;
+*''[[Cataglyphis holgerseni]]'' &lt;small&gt;Collingwood &amp; Agosti, 1996&lt;/small&gt;
+*''[[Cataglyphis humeya]]'' &lt;small&gt;Tinaut, 1991&lt;/small&gt;
+*''[[Cataglyphis iberica]]'' &lt;small&gt;(Emery, 1906)&lt;/small&gt;
+*''[[Cataglyphis indica]]'' &lt;small&gt;Pisarski, 1962&lt;/small&gt;
+*''[[Cataglyphis isis]]'' &lt;small&gt;(Forel, 1913)&lt;/small&gt;
+*''[[Cataglyphis italica]]'' &lt;small&gt;(Emery, 1906)&lt;/small&gt;
+*''[[Cataglyphis karakalensis]]'' &lt;small&gt;Arnol'di, 1964&lt;/small&gt;
+*''[[Cataglyphis kurdistanica]]'' &lt;small&gt;Pisarski, 1965&lt;/small&gt;
+*''[[Cataglyphis laevior]]'' &lt;small&gt;Santschi, 1929&lt;/small&gt;
+*''[[Cataglyphis laylae]]'' &lt;small&gt;Collingwood, 2011&lt;/small&gt;
+*''[[Cataglyphis livida]]'' &lt;small&gt;(André, 1881)&lt;/small&gt;
+*''[[Cataglyphis longipedem]]'' &lt;small&gt;(Eichwald, 1841)&lt;/small&gt;
+*''[[Cataglyphis lunatica]]'' &lt;small&gt;Baroni Urbani, 1969&lt;/small&gt;
+*''[[Cataglyphis machmal]]'' &lt;small&gt;Radchenko &amp; Arakelian, 1991&lt;/small&gt;
+*''[[Cataglyphis marroui]]'' &lt;small&gt;Cagniant, 2009&lt;/small&gt;
+*''[[Cataglyphis mauritanica]]'' &lt;small&gt;(Emery, 1906)&lt;/small&gt;
+*''[[Cataglyphis minima]]'' &lt;small&gt;Collingwood, 1985&lt;/small&gt;
+*''[[Cataglyphis nigra]]'' &lt;small&gt;(André, 1881)&lt;/small&gt;
+*''[[Cataglyphis nigripes]]'' &lt;small&gt;Arnol'di, 1964&lt;/small&gt;
+*''[[Cataglyphis nodus]]'' &lt;small&gt;(Brullé, 1833)&lt;/small&gt; — [[Dalmatia]]
+*''[[Cataglyphis oasium]]'' &lt;small&gt;Menozzi, 1932&lt;/small&gt;
+*''[[Cataglyphis opacior]]'' &lt;small&gt;Collingwood &amp; Agosti, 1996&lt;/small&gt;
+*''[[Cataglyphis otini]]'' &lt;small&gt;Santschi, 1929&lt;/small&gt;
+*''[[Cataglyphis oxiana]]'' &lt;small&gt;Arnol'di, 1964&lt;/small&gt;
+*''[[Cataglyphis pallida]]'' &lt;small&gt;Mayr, 1877&lt;/small&gt;
+*''[[Cataglyphis piligera]]'' &lt;small&gt;Arnol'di, 1964&lt;/small&gt;
+*''[[Cataglyphis piliscapa]]'' &lt;small&gt;(Forel, 1901)&lt;/small&gt;
+*''[[Cataglyphis pilisquamis]]'' &lt;small&gt;Santschi, 1929&lt;/small&gt;
+*''[[Cataglyphis pubescens]]'' &lt;small&gt;Radchenko &amp; Paknia, 2010&lt;/small&gt;
+*''[[Cataglyphis rosenhaueri]]'' &lt;small&gt;Santschi, 1925&lt;/small&gt;
+*''[[Cataglyphis rubra]]'' &lt;small&gt;(Forel, 1903)&lt;/small&gt;
+*''[[Cataglyphis sabulosa]]'' &lt;small&gt;Kugler, 1981&lt;/small&gt;
+*''[[Cataglyphis saharae]]'' &lt;small&gt;Santschi, 1929&lt;/small&gt;
+*''[[Cataglyphis savignyi]]'' &lt;small&gt;(Dufour, 1862)&lt;/small&gt; — Sahara desert
+*''[[Cataglyphis semitonsa]]'' &lt;small&gt;Santschi, 1929&lt;/small&gt;
+*''[[Cataglyphis setipes]]'' &lt;small&gt;(Forel, 1894)&lt;/small&gt;
+*''[[Cataglyphis shuaibensis]]'' &lt;small&gt;Collingwood &amp; Agosti, 1996&lt;/small&gt;
+*''[[Cataglyphis stigmata]]'' &lt;small&gt;Radchenko &amp; Paknia, 2010&lt;/small&gt;
+*''[[Cataglyphis takyrica]]'' &lt;small&gt;Dlussky, Soyunov &amp; Zabelin, 1990&lt;/small&gt;
+*''[[Cataglyphis theryi]]'' &lt;small&gt;Santschi, 1921&lt;/small&gt;
+*''[[Cataglyphis urens]]'' &lt;small&gt;Collingwood, 1985&lt;/small&gt;
+*''[[Cataglyphis vaucheri]]'' &lt;small&gt;(Emery, 1906)&lt;/small&gt;
+*''[[Cataglyphis velox]]'' &lt;small&gt;Santschi, 1929&lt;/small&gt;
+*''[[Cataglyphis viatica]]'' &lt;small&gt;(Fabricius, 1787)&lt;/small&gt;
+*''[[Cataglyphis viaticoides]]'' &lt;small&gt;(André, 1881)&lt;/small&gt;
+*''[[Cataglyphis zakharovi]]'' &lt;small&gt;Radchenko, 1997&lt;/small&gt;
+{{div col end}}
+
+==References==
+{{reflist|refs=
+
+&lt;ref name=&quot;Attenborough_1990&quot;&gt;{{cite book |last=Attenborough |first=David |authorlink=David Attenborough|date=1990 |title=The Trials Of Life |publisher=[[Little, Brown and Company]] |pages=120–121 |isbn=0-316-05751-7}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Bernard_1968&quot;&gt;Bernard, F. (1968): Les fourmis (Hymenoptera: Formicidae) d'Europe occidentale et septentrionale.&lt;/ref&gt;
+
+&lt;ref name=&quot;Mangan&amp;Webb_2012&quot;&gt;Mangan, M. &amp; Webb, B. (2012): Spontaneous formation of multiple routes in individual desert ants (''Cataglyphis velox'') ''Behavioral Ecology'' '''23''' (5): 944-954 [http://beheco.oxfordjournals.org/content/23/5/944.full Full HTML]&lt;/ref&gt;
+
+&lt;ref name=&quot;Petrov_1986&quot;&gt;Petrov, I.Z. (1986): Distribution of species of the genus ''Cataglyphis'' Foerster, 1850 (Formicidae, Hymenoptera) in Yugoslavia. ''Arh. biol. nauka'' '''38''': 11-12. [https://archive.org/download/ants_10311/10311.pdf PDF]&lt;/ref&gt;
+
+}}
+
+==Further reading==
+* Heusser, Daniel &amp; Wehner, Rüdiger (2002): The visual centring response in desert ants, ''Cataglyphis fortis''. ''The Journal of Experimental Biology'' '''205''': 585-590. [http://jeb.biologists.org/cgi/content/full/205/5/585 Full HTML] - [http://jeb.biologists.org/cgi/reprint/205/5/585.pdf PDF]
+
+==External links==
+*{{commonscat-inline|Cataglyphis |''Cataglyphis ''}}
+* YouTube: [http://www.youtube.com/watch?v=w9KDM4C1kVg Video of ''Cataglyphis'' catching prey in the Sahara desert]
+
+[[Category:Formicinae]]
+[[Category:Ant genera]]</text>
+      <sha1>2s008e5ti18b0fpdlt4pesqy8igodl5</sha1>
+    </revision>
+  </page>
+</mediawiki>

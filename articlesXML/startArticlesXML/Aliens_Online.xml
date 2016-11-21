@@ -1,0 +1,111 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Aliens Online</title>
+    <ns>0</ns>
+    <id>7614185</id>
+    <revision>
+      <id>712516114</id>
+      <parentid>711449684</parentid>
+      <timestamp>2016-03-29T15:23:59Z</timestamp>
+      <contributor>
+        <username>Cyberbot II</username>
+        <id>16283967</id>
+      </contributor>
+      <comment>Rescuing 1 sources. #IABot</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5252">{{lead too short|date=July 2015}}
+{{Infobox video game
+|image = 
+|caption = 
+|developer = [[Mythic Entertainment]]&lt;br&gt;[[Kesmai]]
+|publisher = [[GameStorm]]&lt;br&gt;Kesmai&lt;br&gt;[[Fox Interactive]]
+|producer = Matt Firor &lt;br&gt; Jason Bell &lt;br&gt; Nick Laiacona
+|director = Paul Provenzano
+|designer = Mark Jacobs
+|programmer = Rob Denton
+|artist = Bob Frizzell &lt;br&gt; Missy Castro
+|released = March 31, 1998
+|genre = [[First-person shooter]]
+|modes = [[Single player]], [[multiplayer]]
+|platforms= [[Microsoft Windows]]
+}}
+
+'''''Aliens Online''''' is a [[first-person shooter]] video game released in 1998 for [[Microsoft Windows]]. It is based on the science fiction horror film ''[[Aliens (film)|Aliens]]''.&lt;ref&gt;{{cite web|url=http://www.jamescamerononline.com/AliensMerch.htm |title=Aliens Merchandise |publisher=Jamescamerononline.com |date= |accessdate=2015-07-17}}&lt;/ref&gt;
+
+==Gameplay==
+Notable features of ''Aliens Online'' included asymmetric teams, teams consisting of more players than found in most [[first-person shooter]]s of its era, job/class specialization, and its [[role-playing video game|RPG]] elements. Players could fight on either the side of the United States Colonial Marines or on the side of the [[Xenomorph (Alien)|Aliens]]. Scenarios were played in one of six different types of terrain sets, with upwards of twenty to thirty players per side during each instance.
+
+*The Colonial Marine faction had the Medic, Scout, Soldier, and Heavy Weapons classes. More advanced weaponry and increased hit points became available as a character progressed in rank. Marines' equipment included the motion detector from the film ''[[Aliens (film)|Aliens]]'', which was their sole method to locate Aliens, but would not locate Aliens which were not moving.  In later versions of the game, the Marines could also drop proximity mines.
+*The Hive Alien faction had the Face Hugger, Drone, Queen, and Empress classes. Their capabilities included stealth, leaping, and radar of the entire map, representing the aliens' greater awareness and hive-like mentality. They attacked only at close range using tail strikes and with claws.  Each map allowed one alien player to fill the role as Queen or Empress, and that player could freely swap from drone to drone.  Players gained points for killing Marines and lost them by dying, except when playing as a face hugger, which loses no points for dying. Players had to score 1000 points before they could play as Queen and 5000 before playing as Empress.
+
+==Release==
+The software was free to download and was automatically updated. Joining [[GameStorm]] for $9.95 per month was required to play the game.&lt;ref name=gs/&gt; Online play was shut down in 2000 after the GameStorm network was sold to [[Electronic Arts]].&lt;ref&gt;{{cite web|author= |url=http://www.polygon.com/2014/10/3/6892091/history-of-alien-games-aliens |title=From Atari to Isolation: A video and written history of Alien games |publisher=Polygon |date= |accessdate=2015-07-17}}&lt;/ref&gt;
+
+==Reception==
+''Aliens Online'' was well received upon its release. Chris Gregson of [[GameSpot]] gave it a review score of 7.2/10, opining &quot;With so much to gain and absolutely nothing to lose, any self-respecting ''Aliens'' fan should give ''Aliens Online'' a try.&quot;&lt;ref name=gs&gt;{{cite web|last=Gregson |first=Chris |url=http://www.gamespot.com/reviews/aliens-online-review/1900-2537932/ |title=Aliens Online Review |publisher=GameSpot |date=1998-04-16 |accessdate=2015-07-17}}&lt;/ref&gt; Brooks Peck and Craig E. Engler from ''[[Science Fiction Weekly]]'' gave the beta version the perfect A score. Noting the game's bugs, they nevertheless opined &quot;it's clear that Kesmai has what it takes to satisfy both the ''Aliens'' fan and the hardcore gamer. This is one of those titles that cashes in on some of the Internet's promises of multiplayer action, and it's sure to be a hit with SF lovers.&quot;&lt;ref&gt;{{cite web|url=http://www.scifi.com/sfw/issue75/games.html |title=Science Fiction Game Reviews: Aliens Online |publisher=Web.archive.org |date=2009-03-04 |accessdate=2015-07-17 |deadurl=yes |archiveurl=https://web.archive.org/web/20090304020210/http://www.scifi.com/sfw/issue75/games.html |archivedate=March 4, 2009 }}&lt;/ref&gt;
+
+According to a retrospective by Stephen Kleckner of [[GamesBeat]], &quot;''Aliens Online'', unfortunately, was riddled with balancing issues and bad level design. (...) Ancient ’90s computing technology and Internet infrastructure and these issues worse, resulting in incredibly laggy connectivity.&quot;&lt;ref&gt;{{cite web|author=Stephen Kleckner |url=http://venturebeat.com/2014/10/06/games-of-the-alien-franchise-part-1-the-bad-the-canceled-and-the-weirdly-cool/ |title=Games of the Alien franchise, Part 1: The bad, the canceled, and the weirdly cool &amp;#124; GamesBeat  |publisher=Venturebeat.com |date=2014-10-06 |accessdate=2015-07-17}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{moby game|id=/aliens-online|name=''Aliens Online''}}
+
+{{alien}}
+
+[[Category:1998 video games]]
+[[Category:Alien (franchise) games]]
+[[Category:First-person shooters]]
+[[Category:Multiplayer and single-player video games]]
+[[Category:Multiplayer online games]]
+[[Category:Mythic Entertainment games]]
+[[Category:Video games based on films directed by James Cameron]]</text>
+      <sha1>h1xp5ksp868qld93h3qdmbafpsz7y03</sha1>
+    </revision>
+  </page>
+</mediawiki>

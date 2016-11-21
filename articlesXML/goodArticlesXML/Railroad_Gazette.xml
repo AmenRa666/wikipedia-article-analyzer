@@ -1,0 +1,132 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Railroad Gazette</title>
+    <ns>0</ns>
+    <id>46719550</id>
+    <revision>
+      <id>745115048</id>
+      <parentid>716385395</parentid>
+      <timestamp>2016-10-19T09:41:00Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12497">{{good article}}
+{{Use mdy dates|date=June 2015}}
+{{italic title}}
+[[File:Railroad Gazette cover 1904.png|thumb|The cover of ''Railroad Gazette'', June 17, 1904 to December 31, 1904]]
+
+'''''Railroad Gazette''''' was a [[trade journal]] first published in April 1856 that focused on railroad, transportation and engineering topics. Master [[mechanic]]s read and used the publication to share information about railway matters with one-another.&lt;ref name=&quot;Fisk&quot;/&gt; An article in the publication documented what was purported to be the first locomotive run in the United States on a railroad, which was stated as performed by the author of the article. It also reported about the Erie Railroad's Rochester Division's electrification and about the opening of the Thebes Bridge. ''Railroad Gazette'' editors included [[Arthur M. Wellington|Arthur Mellen Wellington]] and [[Matthias N. Forney|Matthias Nace Forney]], and [[Horace Cleveland]] was an article contributor.
+
+Another publication of the same name ''Railroad Gazette'' was established in 1843 in Rogersville, Tennessee.&lt;ref name=&quot;Foster&quot;/&gt; It focused exclusively upon &quot;internal improvement&quot;.&lt;ref name=&quot;Foster&quot;/&gt;
+
+==Overview==
+'''''Railroad Gazette''''' was a [[trade journal]]&lt;ref name=&quot;Camp&quot;/&gt;&lt;ref name=&quot;RG2&quot;/&gt; published in the United States that focused on railroad news, transportation and engineering.&lt;ref name=&quot;WorldCat2&quot;/&gt; The journal also published [[editorial]] content.&lt;ref name=&quot;Trachtenberg 1979 p. 111&quot;/&gt; It was established and first published in April 1856.&lt;ref name=&quot;RG1&quot;/&gt; Master train [[mechanic]]s were among the journal's readership, who used it to share in technological information about railway matters.&lt;ref name=&quot;Fisk&quot;/&gt; The publication served as a forum for readers to discuss railroad management and technology.&lt;ref name=&quot;Schwantes 2008&quot;/&gt;
+
+==Content==
+In February–June 1872, ''Railroad Gazette'' published a series of articles written by a person using the pen name &quot;Hindoo&quot;, and reader comments in response to the articles.&lt;ref name=&quot;Schwantes 2008&quot;/&gt; Hindoo was a British colonial official who was visiting the United States, who stated that the Indian railway system very rarely had problems with head-on and rear-end collisions, which were more frequent in the United States.&lt;ref name=&quot;Schwantes 2008&quot;/&gt; Hindoo proposed that this was due to the manner in which Indian train stations [[dispatching|dispatched]] trains using [[Electrical telegraph|telegraph]]s, in which a system was used whereby each train station acted as a &quot;blocking point.&quot;&lt;ref name=&quot;Schwantes 2008&quot;/&gt; This blocking point system was originally devised by the British railroad industry, and forbade trains from leaving a station until a telegraph was received from the next station stating that the line was clear, upon which a clearance card was issued to the train operator.&lt;ref name=&quot;Schwantes 2008&quot;/&gt; Hindoo felt that the U.S. system placed too much responsibility upon a single dispatcher, who would &quot;oversee all freight and passenger train movements on a division.&quot;&lt;ref name=&quot;Schwantes 2008&quot;/&gt; 
+
+Hindoo's articles provided a comparison of safety matters between Indian and American railway systems, comparisons of management systems and styles and comparisons in train dispatching methods.&lt;ref name=&quot;Schwantes 2008&quot;/&gt; A main contributor to the ongoing discussion was a reader using the pen name &quot;X&quot;, and several other readers also responded.&lt;ref name=&quot;Schwantes 2008&quot;/&gt; In a response, X stated that the U.S. system was less expensive and more efficient compared to British and Indian methods, and posited whether another system could be used that is both cost effective and safe.&lt;ref name=&quot;Schwantes 2008&quot;/&gt; Additional reader responses generally concurred with X's opinion, but did not provide solid suggestions about how to remedy such problems.&lt;ref name=&quot;Schwantes 2008&quot;/&gt; One respondent stated that some of the comparisons were faulty as being based upon U.S. railway lines that did not use telegraphic dispatching.&lt;ref name=&quot;Schwantes 2008&quot;/&gt; This discourse in ''Railroad Gazette'' during this time also covered various aspects of problems and flaws in the American railroad system, and potential reforms to remedy these problems.&lt;ref name=&quot;Schwantes 2008&quot;/&gt;
+
+An article published on April 18, 1884 in ''Railroad Gazette'', written by [[railroad engineer]] [[Horatio Allen]] and titled &quot;The First Railroad in America&quot;, states that the author (Allen) was the operator of the first locomotive run in the United States on a railroad.&lt;ref name=&quot;Allen&quot;/&gt; Allen stated that on August 9, 1829, he ran a locomotive named ''[[Stourbridge Lion]]'' in Pennsylvania &quot;three miles and back over rails of wood upon which bar iron 2 ¼ inches wide and 1 ½ inch thick was spiked down&quot;.&lt;ref name=&quot;Allen&quot;/&gt;
+
+''Railroad Gazette'' reported about the [[electrification]] of the [[Erie Railroad]]'s Rochester Division.&lt;ref name=&quot;The Diamond&quot;/&gt; It also reported about the [[Thebes Bridge]] at the time the bridge was opened in Illinois.&lt;ref name=&quot;seMissourian.com 2015&quot;/&gt;
+
+==Personnel==
+[[Arthur M. Wellington|Arthur Mellen Wellington]] was one of the editors of ''Railroad Gazette'' from 1884 to early 1887.&lt;ref name=&quot;Petroski&quot;/&gt; Wellington's work ''The Economic Theory of the Location of Railroads'' was first published in a series of ''Railroad Gazette'' articles in 1876.&lt;ref name=&quot;Petroski&quot;/&gt; A book of the same content was published in 1877 by ''Railroad Gazette''.&lt;ref name=&quot;Petroski&quot;/&gt;&lt;ref name=&quot;Wellington&quot;/&gt; [[Matthias N. Forney|Matthias Nace Forney]] was editor of the publication in the (circa) 1870s.&lt;ref name=&quot;Puffert&quot;/&gt;&lt;ref name=&quot;White 1985&quot;/&gt; In 1866, Forney patented a concept for urban [[elevated railway]]s which &quot;later became the de facto standard for elevated railway service&quot;.&lt;ref name=&quot;Cudahy 2002 p. 114&quot;/&gt; Articles written by the noted American [[landscape architect]] [[Horace Cleveland]] that focused upon tree planting efforts in the western United States were published in ''Railroad Gazette''.&lt;ref name=&quot;Cleveland History 1873&quot;/&gt;
+
+==Selected works==
+* {{cite web | url=https://books.google.com/books?id=PutQAAAAYAAJ&amp;pg=PA338 | title=Early Transportation in New York | publisher=''Railroad Gazette'', Volume 37, No. 14 | author=Armstrong, Henry E. | date=September 16, 1904}}
+* A list of accessible ''Railroad Gazette'' issues may be accessed at [http://catalog.hathitrust.org/Record/000677833 ''Railroad gazette''], published by the Hathi Trust Digital Library.
+
+==See also==
+{{portal|Trains|Literature}}
+* ''[[Railway Age]]''
+* [[List of American rail transport magazines]]
+
+==References==
+{{reflist|30em|refs=
+&lt;ref name=&quot;WorldCat2&quot;&gt;{{cite web | url=http://www.worldcat.org/title/railroad-gazette-a-journal-of-transportation-engineering-and-railroad-news/oclc/310961433?ht=edition&amp;referer=di | title=Railroad gazette : a journal of transportation, engineering, and railroad news | publisher=World Cat | accessdate=May 16, 2015}}&lt;/ref&gt;
+&lt;ref name=&quot;Camp&quot;&gt;{{cite book | url=https://books.google.com/books?id=11o44vsxtGwC&amp;pg=PA6 | title=Railroad Depots of West Central Ohio | publisher=Arcadia Publishing | author=Camp, Mark J. | year=2006 | pages=6 | isbn=0738540099}}&lt;/ref&gt;
+&lt;ref name=&quot;Petroski&quot;&gt;{{cite book | url=https://books.google.com/books?id=1J9qUcgoUvkC&amp;pg=PA196 | title=Engineers of Dreams | publisher=Knopf Doubleday Publishing Group | author=Petroski, Henry | year=2010 | pages=196&amp;ndash;197 | isbn=0307773132}}&lt;/ref&gt;
+&lt;ref name=&quot;Wellington&quot;&gt;{{cite book | url=https://books.google.com/books?id=tPIoAAAAYAAJ&amp;printsec=frontcover | title=The Economic Theory of the Location of Railways | publisher=''Railroad gazette'' | author=Wellington, Arthur Mellen}}&lt;/ref&gt;
+&lt;ref name=&quot;Puffert&quot;&gt;{{cite book | url=https://books.google.com/books?id=FzAqtQ2mPJQC&amp;pg=PA132 | title=Tracks Across Continents, Paths Through History | publisher=University of Chicago Press | author=Puffert, Douglas J. | year=2009 | pages=132 | isbn=0226685098}}&lt;/ref&gt;
+&lt;ref name=&quot;Fisk&quot;&gt;{{cite book | url=https://books.google.com/books?id=Tp3uTkhIpjcC&amp;pg=PA135 | title=Working Knowledge | publisher=Univ of North Carolina Press | author=Fisk, Catherine L. | year=2009 | pages=135 | isbn=0807899062}}&lt;/ref&gt;
+&lt;ref name=&quot;Foster&quot;&gt;{{cite book | url=https://books.google.com/books?id=0vQ9Ml-6C6oC&amp;pg=PA21 | title=Counties of Tennessee | publisher=Genealogical Publishing | author=Foster, Austin P. | year=2009 | pages=21 | isbn=080635061X}}&lt;/ref&gt;
+&lt;ref name=&quot;RG1&quot;&gt;{{cite book | url=https://archive.org/stream/railwayage37newy#page/n5/mode/2up | title=Railroad Gazette | publisher=Railroad Gazette | year=1904}}&lt;/ref&gt;
+&lt;ref name=&quot;Trachtenberg 1979 p. 111&quot;&gt;{{cite book | last=Trachtenberg | first=A. | title=Brooklyn Bridge: Fact and Symbol | publisher=University of Chicago Press | series=A Phoenix book | year=1979 | isbn=978-0-226-81115-4 | url=https://books.google.com/books?id=WnHlYj6ApiEC&amp;pg=PA111 | page=111}}&lt;/ref&gt;
+&lt;ref name=&quot;RG2&quot;&gt;{{cite web | url=https://archive.org/stream/railwayage37newy#page/n21/mode/2up | title=Railroad Gazette | publisher=Railroad Gazette | accessdate=May 16, 2015 | pages=1}}&lt;/ref&gt;
+&lt;ref name=&quot;Cudahy 2002 p. 114&quot;&gt;{{cite book | last=Cudahy | first=B.J. | title=How We Got to Coney Island: The Development of Mass Transportation in Brooklyn and Kings County | publisher=Fordham University Press | series=Fordham University Press Series | year=2002 | isbn=978-0-8232-2209-4 | url=https://books.google.com/books?id=l2iM4TOEiXcC&amp;pg=PA114 | page=114}}&lt;/ref&gt;
+&lt;ref name=&quot;Cleveland History 1873&quot;&gt;{{cite book | last=Cleveland | first=H.W.S. | last2=History | first2=Library of American Landscape | title=Landscape Architecture, as Applied to the Wants of the West: With an Essay on Forest Planting on the Great Plains | publisher=University of Massachusetts Press | series=American Society of Landscape Architects centennial reprint series | year=1873 | isbn=978-1-55849-330-8 | url=https://books.google.com/books?id=oL1rrMaab-cC&amp;pg=PR69}}&lt;/ref&gt;
+&lt;ref name=&quot;Allen&quot;&gt;{{cite web | url=http://genealogytrails.com/penn/wayne/news.html | title=The First Railroad in America | publisher=Daily Gazette and Bulletin (Williamsport, Pennsylvania) | date=April 18, 1884 | accessdate=May 16, 2015 | author=Allen, Horatio}}&lt;/ref&gt;
+&lt;ref name=&quot;The Diamond&quot;&gt;{{cite journal | url=http://www.erielackhs.org/index.php/prototype/44-structures/17-the-electrification-of-erie-railroads-rochester-division | title=The Electrification of Erie Railroad's Rochester Division | journal=The Diamond |publisher=Erie Lackawanna Historical Society | volume=20|number=2 | date=2006 | accessdate=May 16, 2015}}&lt;/ref&gt;
+&lt;ref name=&quot;seMissourian.com 2015&quot;&gt;{{cite web | title=Blog: Testing the Thebes Bridge | website=[[Southeast Missourian]] | date=January 17, 2011 | url=http://www.semissourian.com/blogs/pavementends/entry/39322/ | accessdate=May 16, 2015}}&lt;/ref&gt;
+&lt;ref name=&quot;White 1985&quot;&gt;{{cite book | last=White | first=J.H. | title=The American Railroad Passenger Car | publisher=Johns Hopkins University Press | series=The American Railroad Passenger Car | issue=pt. 2 | year=1985 | isbn=978-0-8018-2747-1 | url=https://books.google.com/books?id=bz0OBGxRjjcC&amp;pg=PA379 | page=379}}&lt;/ref&gt;
+&lt;ref name=&quot;Schwantes 2008&quot;&gt;{{cite book | last=Schwantes | first=B.S.M. | title=Fallible Guardian: The Social Construction of Railroad Telegraphy in 19th-century America | publisher=University of Delaware | year=2008 | isbn=978-0-549-92497-5 | url=https://books.google.com/books?id=II5DpIxQGQcC&amp;pg=PA185 | pages=185–190}} {{paywall}}&lt;/ref&gt;
+}}
+
+==Further reading==
+{{wikisource}}
+* {{cite book | url=https://books.google.com/books?id=c8mDJHl9L40C&amp;pg=PA35 | title=Railroads: Finance &amp; Organizations | publisher=Beard Books | author=Ripley, William Z. | year=2000 | pages=35 | isbn=1587980746}}
+* {{cite book | url=https://books.google.com/books?id=XSybNRCfYn0C&amp;pg=PA146 | title=The Labor History Reader | publisher=University of Illinois Press | author=Leab, Daniel J. | year=1985 | pages=146 | isbn=0252011988}}
+
+==External links==
+* {{cite web | url=http://www.worldcat.org/title/railroad-gazette/oclc/1820912?referer=di&amp;ht=edition | title=Railroad gazette | publisher=WorldCat}}
+* [http://bestfriendofcharleston.org/railroad-gazette/ Railroad Gazette]. Bestfriendofcharleston.org. – contains excerpts from the edition of April 11, 1874 of ''Railroad Gazette''
+
+[[Category:American rail transport magazines]]
+[[Category:Defunct magazines of the United States]]
+[[Category:Engineering magazines]]
+[[Category:Magazines established in 1856]]
+[[Category:Magazines with year of disestablishment missing]]</text>
+      <sha1>hlx0ki4xutbci0yd085ce7c34kze9de</sha1>
+    </revision>
+  </page>
+</mediawiki>

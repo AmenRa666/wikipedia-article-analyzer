@@ -1,0 +1,127 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Paxata</title>
+    <ns>0</ns>
+    <id>43160192</id>
+    <revision>
+      <id>736847004</id>
+      <parentid>736846864</parentid>
+      <timestamp>2016-08-30T06:40:46Z</timestamp>
+      <contributor>
+        <ip>79.235.136.131</ip>
+      </contributor>
+      <comment>Undid revision 736846864 by [[Special:Contributions/79.235.136.131|79.235.136.131]] ([[User talk:79.235.136.131|talk]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11982">{{Infobox company
+| name             = Paxata
+| logo             = File:Paxata logo.png
+| logo_caption     =
+| image            =
+| image_caption    =
+| trading_name     = &lt;!-- d/b/a/, doing business as - if different from legal name above --&gt;
+| native_name      = &lt;!-- Company's name in home country language --&gt;
+| native_name_lang = &lt;!-- Use ISO 639-1 code, e.g. &quot;fr&quot; for French. If there is more than one native name, in different languages, enter those names using {{lang}}, instead. --&gt;
+| type             = Private&lt;ref&gt;{{cite web|url=http://www.bloomberg.com/profiles/companies/0890282D:US-paxata|title=Paxata: Company Profile|publisher=Bloomberg L.P.|accessdate=September 28, 2014}}&lt;/ref&gt;
+| industry         = Enterprise analytics software
+| foundation       = January 2012
+| founder          =
+| location_city    = Redwood City, CA&lt;ref&gt;{{cite web|url=http://www.paxata.com/contact-us|title=Contact us|publisher=Paxata|accessdate=September 28, 2014}}&lt;/reF&gt;
+| locations        = &lt;!-- Number of locations, stores, offices, etc. --&gt;
+| area_served      = Worldwide
+| key_people       = {{unbulleted list|Prakash Nanduri (Co-Founder &amp; CEO)&lt;Ref name=&quot;primaryhdah&quot;/&gt;|Dave Brewster (Co-Founder &amp; CTO)&lt;Ref name=&quot;primaryhdah&quot;/&gt;|Chris Maddox (Co-Founder &amp; VP of Business Development)&lt;Ref name=&quot;primaryhdah&quot;/&gt;|Nenshad Bardoliwalla (Co-Founder &amp; Chief Product Officer)&lt;Ref name=&quot;primaryhdah&quot;&gt;{{cite web|url=http://www.paxata.com/paxata-leadership|title=Paxata Leadership|publisher=Paxata|accessdate=September 28, 2014}}&lt;/reF&gt;}}
+| products         = The Paxata suite of self-service data preparation software
+| services         =
+| revenue          =
+| owner            =
+| num_employees    =
+| homepage         = {{URL|http://www.paxata.com/}}
+}}
+'''Paxata''' is a privately owned software company headquartered in [[Redwood City, California]]. It develops self-service data preparation software that gets data ready for [[data analytics]] software. Paxata's software is intended for [[business analyst]]s, as opposed to technical staff. It is used to combine data from different sources, then check it for [[data quality]] issues, such as duplicates and outliers. Algorithms and [[machine learning]] automate certain aspects of data preparation and users work with the software through a user-interface similar to [[Microsoft Excel|Excel]] spreadsheets.
+
+The company was founded in January 2012 and operated in [[stealth mode]] until October 2013. It has received more than $10 million in venture funding. Analysts have praised Paxata for creating software that is user-friendly for non-technical business users, but caution that they are in a noisy marketplace.
+
+== History ==
+
+Paxata was founded in January 2012.&lt;ref name=&quot;one&quot;/&gt; It initially raised $2 million in venture capital.&lt;ref name=&quot;two&quot;&gt;{{cite news|work=Gigaom|title=With $10M from Accel, Paxata wants to make data prep a breeze|first=Derrick|last=Harris|date=October 28, 2013|accessdate=June 19, 2014|url=http://gigaom.com/2013/10/28/with-10m-from-accel-paxata-wants-to-make-data-prep-a-breeze/}}&lt;/ref&gt; The company came out of [[stealth mode]] in October 2013.&lt;ref name=&quot;one&quot;/&gt; Simultaneously with its public release, Paxata announced an $8 million funding round led by Accel Partners.&lt;ref name=&quot;one&quot;&gt;{{cite news|title=Paxata grabs $8M to help data scientists skip the dirty work|url=http://venturebeat.com/2013/10/28/paxata-grabs-8m-to-help-data-scientists-skip-the-dirty-work/|work=VentureBeat|date=October 28, 2013|first=Eric |last=Blattberg|accessdate=June 19, 2014}}&lt;/ref&gt;&lt;ref name=&quot;three&quot;&gt;{{cite news|date=October 28, 2013|title=Paxata Debuts Data Quality Tools at Strata|first=Alex|last=Woodie|url=http://www.datanami.com/2013/10/28/paxata_debuts_data_quality_tools_at_strata/|work=Datanami|accessdate=June 19, 2014}}&lt;/ref&gt; Adoption of the software grew quickly.&lt;ref name=&quot;one&quot;/&gt;&lt;ref name=&quot;ten&quot;&gt;{{cite news|title=Paxata: streamlining data analytics|first=Alan|last=McStravick|date=February 12, 2014|url=http://siliconangle.com/blog/2014/02/12/paxata-streamlining-data-analytics-bigdatasv/|work=SiliconAngle|publisher=The SiliconAngle Network|accessdate=June 19, 2014}}&lt;/ref&gt; In March 2014, [[In-Q-Tel]] acquired an interest in the startup.&lt;ref&gt;{{cite news|date=March 7, 2014|title=In-Q-Tel Invests in Data-Prep Platform Paxata|url=http://www.informationweek.com/government/big-data-analytics/in-q-tel-invests-in-data-prep-platform-paxata/d/d-id/1114169|newspaper=InformationWeek|publisher=UBM Tech|accessdate=June 19, 2014|first=Patience|last=Wait}}&lt;/ref&gt;
+It raised an additional $18 million in funding in September 2015.&lt;ref name=&quot;Harris 2015&quot;&gt;{{cite web | last=Harris | first=Derrick | title=This startup raised $18 million to make data analysis less of a chore | website=Fortune | date=September 9, 2015 | url=http://fortune.com/2015/09/09/paxata-funding-data-analysis/ | accessdate=October 13, 2015}}&lt;/ref&gt; It also began working with Cisco to jointly develop the Cisco Data Preparation suite of software and services.&lt;ref name=&quot;eWeek.com 2015&quot;&gt;{{cite web | title=Cisco Makes Move Into Data Preparation Space | website=eWeek.com | date=September 30, 2015 | url=http://www.eweek.com/networking/cisco-makes-move-into-data-preparation-space.html | accessdate=October 13, 2015}}&lt;/ref&gt;
+== Software ==
+
+Paxata refers to its suite of cloud-based data [[data quality|quality]], [[data integration|integration]], enrichment and governance products as &quot;Adaptive Data Preparation.&quot;&lt;ref name=&quot;three&quot;/&gt;&lt;ref&gt;{{cite news|title=Startup Paxata automates the dirty work of big data|first=Conner|last=Forrest|date=March 4, 2014|url=http://www.techrepublic.com/article/startup-paxata-automates-the-dirty-work-of-big-data/|work=TechRepublic|publisher=CBS Interactive|accessdate=June 26, 2014}}&lt;/ref&gt;&lt;ref name=&quot;seven&quot;/&gt;&lt;ref name=&quot;four&quot;&gt;{{cite news|first=Tony|last=Baer|publisher=Ovum|title=Paxata puts a business-user face on data preparation|date=October 28, 2013|accessdate=June 19, 2014|url=http://www.ovum.com/paxata-puts-a-business-user-face-on-data-preparation/}}&lt;/ref&gt; The software is intended for [[business analyst]]s, who need to combine data from a variety of sources, then check the data for duplicates, empty fields, outliers, trends and integrity issues before conducting analysis or visualization in a third-party software tool.&lt;ref name=&quot;four&quot;/&gt;&lt;ref&gt;{{cite news|title=On the Radar: Paxata|first=Tony|last=Baer|date=December 13, 2013|accessdate=June 13, 2014|url=http://www.ovum.com/research/on-the-radar-paxata/|publisher=Ovum}}&lt;/ref&gt; It uses algorithms and machine-learning to automate certain aspects of data preparation.&lt;ref name=&quot;four&quot;/&gt;&lt;ref name=&quot;thirteen&quot;/&gt; For example, it may automatically detect records belonging to the same person or address, even if the information is formatted differently in each record in different data sets.&lt;ref name=&quot;thirteen&quot;&gt;{{cite news|date=February 11, 2014|first=Michael|last=Fitzgerald|title=Is Your Company Running a Data Dump?|url=http://www.informationweek.com/software/information-management/is-your-company-running-a-data-dump/d/d-id/1113776|newspaper=InformationWeek|publisher=UBM Tech|accessdate=June 19, 2014}}&lt;/ref&gt;&lt;ref name=&quot;nine&quot;/&gt;
+
+The software has a spreadsheet-based user interface.&lt;ref name=&quot;four&quot;/&gt;&lt;ref name=&quot;nine&quot;&gt;{{cite news|title=Paxata Give Analysts Valuable Time Back for Analytics|date=January 29, 2014|url=http://tonycosentino.ventanaresearch.com/2014/01/29/paxata-give-analysts-valuable-time-back-for-analytics/|accessdate=June 19, 2014 |first=Tony|last=Cosentino|publisher=Ventana Research}}&lt;/ref&gt; Patterns and anomalies in the data are color-coded in the spreadsheet. Then users are provided with instructions on how to resolve data quality issues or to supplement the data with contextual information.&lt;ref name=&quot;seven&quot;&gt;{{cite news|title=Cool Vendors in Data Integration and Data|date=April 24, 2014|first1=Eric|last1=Thoo|first2=Ted|last2=Friedman|first3=Saul|last3=Judah|first4=Rita L.|last4=Sallam|first5=Roxane|last5=Edjlali|publisher=Gartner|url=https://www.gartner.com/doc/2719217/cool-vendors-data-integration-data|accessdate=June 19, 2014}}&lt;/ref&gt; Data sets and related quality issues can also be addressed in a collaborative environment through the &quot;Paxata Share&quot; feature.&lt;ref name=&quot;nine&quot;/&gt; It runs on [[Apache Spark]].&lt;ref name=&quot;Harris 2015&quot;/&gt;&lt;ref&gt;{{cite web | title=Paxata Applies Data Governance Controls to Big Data | website=IT Business Edge | date=April 23, 2015 | url=http://www.itbusinessedge.com/blogs/it-unmasked/paxata-applies-data-governance-controls-to-big-data.html | accessdate=August 20, 2015}}&lt;/ref&gt;
+
+According to analyst firm [[Ovum Ltd.|Ovum]], the software is made possible through advances in [[predictive analytics]], [[machine learning]] and the [[NoSQL]] data caching methodology.&lt;ref name=&quot;four&quot;/&gt; The software uses [[Semantics|semantic]] algorithms to understand the meaning of a data table's columns and pattern recognition algorithms to find potential duplicates in a data-set.&lt;ref name=&quot;four&quot;/&gt;&lt;ref name=&quot;two&quot;/&gt; It also uses indexing, text pattern recognition and other technologies traditionally found in social media and search software.&lt;ref name=&quot;six&quot;&gt;{{cite news|title=Automating the Pain Out of Big Data Transformation|first=Alex|last=Woodie|url=http://www.datanami.com/2014/01/24/automating_the_pain_out_of_big_data_transformation/|accessdate=June 19, 2014|date=January 24, 2014|work=Datanami}}&lt;/ref&gt;
+One of the software's users is dairy producer [[Dannon]], which uses the software so that business staff can create their own reports on merchandising, supply chain and product data, without the IT department.&lt;ref&gt;{{cite news|url=http://www.baselinemag.com/business-intelligence/dannon-speeds-up-data-preparation-and-analysis.html/|title=Dannon Speeds Up Data Preparation and Analysis|date=March 26, 2014|first=Eileen|last=Feretic|newspaper=Baseline|publisher=Bradbourne Publishing|accessdate=June 22, 2014 }}&lt;/ref&gt;
+
+[[File:Paxata-screenshot.png|thumb|center|700px|Paxata's spreadsheet-based user interface]]
+
+== Reception ==
+
+In its 2014 report &quot;Cool Vendors in Data Integration and Data Quality&quot;, [[Gartner]] praised Paxata for developing a &quot;business-user-friendly&quot; data quality product that does not use code.&lt;ref name=&quot;seven&quot;/&gt; Ventana Research said its spreadsheet-based user interface &quot;should resonate well with business analysts,&quot; who are resistant to move away from familiar Excel-like programs.&lt;ref name=&quot;nine&quot;/&gt; Gartner also said Paxata was recognized in the report due to its automated, algorithm-based features and how it tracks any changes made to the data.&lt;ref name=&quot;seven&quot;/&gt;
+
+Ventana Research said Paxata was in a &quot;noisy marketplace&quot;.&lt;ref name=&quot;nine&quot;/&gt; According to Gartner, while Paxata is an early entrant into the market, many startups and large corporations are making investments in developing similar competing products.&lt;ref name=&quot;seven&quot;/&gt; According to ''[[Gigaom]]'' and ''IT Business Edge'', one way Paxata differs is that it automatically merges multiple data-sets into a single table, so it can be easily imported into a visualization or analysis tool.&lt;ref name=&quot;two&quot;/&gt;&lt;ref name=&quot;five&quot;&gt;{{cite news|title=Paxata Rises to the Challenge of Big Data Preparation|first=Mike|last=Vizard|date=November 27, 2013|url=http://www.itbusinessedge.com/blogs/it-unmasked/paxata-rises-to-the-challenge-of-big-data-preparation.html|work=IT Business Edge|publisher=QuinStreet|accessdate=June 19, 2014}}
+&lt;/ref&gt;
+
+Gartner said Paxata will have a difficult time finding a compelling pricing model, when many data discovery tools that it supplements provide some similar features.&lt;ref name=&quot;seven&quot;/&gt; In contrast, Ventana said Paxata's pricing was &quot;a pretty small amount&quot; compared to the amount of time users can save.&lt;ref name=&quot;nine&quot;/&gt;
+
+== References ==
+
+{{reflist|2}}
+
+== External links ==
+
+* {{Official website|http://www.paxata.com/}}
+
+{{Good article}}
+
+[[Category:Companies based in Redwood City, California]]
+[[Category:Software companies based in California]]
+[[Category:Companies established in 2012]]</text>
+      <sha1>mq8vjn5c0kgthis7kh52yb3t3u6y7b7</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,227 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ramblin' Wreck from Georgia Tech</title>
+    <ns>0</ns>
+    <id>2291976</id>
+    <revision>
+      <id>745115468</id>
+      <parentid>743408635</parentid>
+      <timestamp>2016-10-19T09:45:14Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27845">{{about|the song|the automobile and mascot|Ramblin' Wreck}}
+{{Use mdy dates|date=May 2016}}
+{{Infobox song
+| Name           = Ramblin' Wreck from Georgia Tech
+| Cover          = Rambling_Wreck_Sheet_Music.jpg
+| Cover size     = 300
+| Caption        = Mike Greenblatt's 1911 arrangement
+| Type           = [[Fight song]]
+| Artist         = [[Georgia Institute of Technology|Georgia Tech]] students
+| Published      = 1908
+| Released       = 1919
+| Writer         = Billy Walthall&lt;ref name=&quot;archive&quot;&gt;{{cite web|url=http://www.library.gatech.edu/archives/finding-aids/view?docId=ead/UA318-ead/UA318-ead.xml|title=Inventory of the Georgia Tech Songs Collection, 1900-1953|publisher=Georgia Tech Archives and Records Management|accessdate=2011-05-15}}&lt;/ref&gt;&lt;ref name=&quot;music&quot;&gt;{{cite web|url=http://www.music.gatech.edu/alumni_friends/history|title=History|publisher=Georgia Tech School of Music|accessdate=2011-05-15}}&lt;/ref&gt;
+| Composer       = [[Frank Roman]], Michael A. Greenblatt, [[Charles Ives]]
+}}
+
+&quot;('''I'm a''') '''Ramblin' Wreck from Georgia Tech'''&quot; is the [[fight song]] of the [[Georgia Institute of Technology]], better known as Georgia Tech. The composition is based on &quot;Son of a Gambolier&quot;, composed by [[Charles Ives]] in 1895, the lyrics of which are based on an old English and Scottish [[drinking song]] of the same name.&lt;ref name=&quot;tradition&quot;&gt;{{cite web|title=Georgia Tech Traditions|work=RamblinWreck.com|publisher=Georgia Tech Athletic Association|accessdate=2007-02-12|url=http://ramblinwreck.cstv.com/trads/geot-trads.html}}&lt;/ref&gt; It first appeared in print in the 1908 [[Blueprint (yearbook)|Blueprint]], Georgia Tech's yearbook. The song was later sung by the [[Georgia Tech Glee Club]] on ''[[The Ed Sullivan Show]]'' in 1953, and by [[Richard Nixon]] and [[Nikita Khrushchev]] during the 1959 [[Kitchen Debate]].&lt;ref name=&quot;songs&quot;&gt;{{cite news|first=Pat|last=Edwards|url=http://nique.net/issues/2000-08-25/online%20exclusives/11|title=Fight Songs|work=[[The Technique]]|date=August 25, 2000|accessdate=2009-07-29}}{{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}&lt;/ref&gt;&lt;ref name=&quot;ens276&quot;&gt;[[#McM|McMath, p.276]]&lt;/ref&gt;&lt;ref name=&quot;dhwg106&quot;&gt;[[#Wall|Wallace, p.106]]&lt;/ref&gt;&lt;ref&gt;[http://deanofstudents.gatech.edu/studenthandbook/plugins/content/index.php?id=24 Georgia Tech - Official Student Handbook]&lt;/ref&gt;
+
+&quot;Ramblin' Wreck&quot; is played after every Georgia Tech score in a [[American football|football]] game, directly after a [[Field goal (football)|field goal]] or [[Safety (American football score)|safety]], and preceded by &quot;[[Up With the White and Gold]]&quot; after a [[touchdown]]. It is also frequently played during [[Time-out (sport)|timeouts]] at the team's [[basketball]] games.&lt;ref name=&quot;songs&quot;/&gt;&lt;ref&gt;{{cite news|first=Pat|last=Edwards|url=http://technique.library.gatech.edu/issues/fall1995/oct20/campus5-s.html|title=Ramlin's|work=[[The Technique]]|date=October 2, 1995|accessdate=2007-06-27}}&lt;/ref&gt;&lt;ref&gt;{{cite news|first=David|last=Rottmann|url=http://nique.net/issues/2002-09-06/entertainment/3|archiveurl=https://web.archive.org/web/20070929134301/http://www.nique.net/issues/2002-09-06/entertainment/3|archivedate=September 29, 2007|title=New NCAA Football raises bar|work=[[The Technique]]|date=September 6, 2002|accessdate=2007-06-14}}&lt;/ref&gt;
+
+The term &quot;Ramblin' Wreck&quot; has been used to refer to students and alumni of Georgia Tech much longer than the [[Ford Model A (1927-1931)|Model A]] now known as the [[Ramblin' Wreck]] has been in existence.&lt;ref name=&quot;survivalguide&quot;&gt;{{cite news|first=Jody|last=Shaw|url=http://technique.library.gatech.edu/pdfs/freshman_survival_guide-2002-08-23.pdf|format=PDF|title=Music tradition alive today|work=[[The Technique]]|page=2|date=August 23, 2002|accessdate=2007-04-30}}&lt;/ref&gt; The expression has its origins in the late 19th century and was used originally to refer to the makeshift motorized vehicles constructed by Georgia Tech engineers employed in projects in the jungles of South America. Other workers in the area began to refer to these vehicles and the men who drove them as &quot;Rambling Wrecks from Georgia Tech.&quot;&lt;ref name=&quot;survivalguide&quot;/&gt;
+
+==Lyrics==
+[[File:Ramblinwreck.jpg|thumb|right|300px|A nickname for students at [[Georgia Institute of Technology|Georgia Tech]] is &quot;[[Ramblin' Wreck]],&quot; after the vehicle and school mascot shown here.|alt=Six&amp;nbsp;women, wearing a uniform of a white skirt and a white and gold cropped top with the word &quot;Tech&quot; on the front, ride onto the football field on the running boards and rear seat of a white-and-gold-painted antique car.]]
+{{Listen|filename=Soundies - Ramblin Wreck from Georgia Tech.ogg|title=Ramblin' Wreck from Georgia Tech|description=A [[Soundies|soundie]] based on &quot;Ramblin' Wreck.&quot; Note the substitution of &quot;heck&quot; for &quot;hell.&quot;|format=[[Ogg]]}}
+&lt;blockquote&gt;&lt;poem&gt;
+I'm a [[Ramblin' Wreck]] from Georgia Tech, and a hell of an engineer&amp;mdash;
+A helluva, helluva, helluva, helluva, hell of an engineer.
+Like all the jolly good fellows, I drink my whiskey clear.
+I'm a Ramblin' Wreck from Georgia Tech and a hell of an engineer.
+
+Oh! If I had a daughter, sir, I'd dress her in White and Gold,
+And put her on the campus to cheer the brave and bold.
+But if I had a son, sir, I'll tell you what he'd do&amp;mdash;
+He would yell, '[[Clean, Old-Fashioned Hate|To hell with Georgia]]!' like his daddy used to do.
+
+Oh, I wish I had a barrel of rum and sugar three thousand pounds,
+A college bell to put it in and a clapper to stir it round.
+I'd drink to all the good fellows who come from far and near.
+I'm a ramblin', gamblin', hell of an engineer!
+&lt;/poem&gt;&lt;/blockquote&gt;
+
+==Previous adaptations==
+The earliest rendition of the song is &quot;Son of a Gambolier&quot; (also known as &quot;A Son of a Gambolier&quot; and &quot;The Son of a Gambolier&quot;), which is a lament to one's own poverty; a gambolier is &quot;a worthless individual given to carousing, gambling, and general moral depravity.&quot;&lt;ref name=&quot;noaa&quot;&gt;{{cite web|title = Coast Survey Song|accessdate=2007-02-06|url = http://www.history.noaa.gov/art/cssong.html|work=NOAA History|publisher=[[National Oceanic and Atmospheric Administration]]}}&lt;/ref&gt; The chorus goes:&lt;ref&gt;{{cite web|url=http://sniff.numachi.com/pages/tiSONGAMB;ttSONGAMB.html|archiveurl=https://web.archive.org/web/20080926113245/http://sniff.numachi.com/pages/tiSONGAMB;ttSONGAMB.html|archivedate=September 26, 2008|title=The Son of a Gambolier|publisher=Digital Tradition Mirror|accessdate=2007-06-11}}&lt;/ref&gt;
+&lt;blockquote&gt;&lt;poem&gt;Like every jolly fellow
+I takes my whiskey clear,
+For I'm a rambling rake of poverty
+And the son of a gambolier.&lt;/poem&gt;&lt;/blockquote&gt;
+
+The tune was first adapted as a school song by [[Dickinson College]] in southern [[Pennsylvania]] in the 1850s.&lt;ref name=&quot;noaa&quot;/&gt; Students at the college modified it to include a reference to their college bell by adding the following lyrics:&lt;ref name=&quot;noaa&quot;/&gt;
+&lt;blockquote&gt;&lt;poem&gt;I wish I had a barrel of rum,
+And sugar three hundred pounds,
+The college bell to mix it in,
+The clapper to stir it round&lt;/poem&gt;&lt;/blockquote&gt;
+
+In 1857, the [[Delta Kappa Epsilon]] Fraternity published a songbook that contained a heavily modified version of the song.&lt;ref&gt;{{cite web|url=http://www.dke.org/site/history/the_founding_to_the_present.php|archiveurl=http://www.dke.org/site/history/the_founding_to_the_present.php|archivedate=September 26, 2008|title=DKE History, Founding to the Present|publisher=Delta Kappa Epsilon|accessdate=2011-07-25}}{{dead link|date=November 2015}}&lt;/ref&gt; The adapted chorus used the following lyrics:&lt;ref&gt;{{cite web|url=http://www.horntip.com/mp3/1950s/1959--2000ca_the_songs_of_delta_kappa_epsilon_(CD)/01_the_son_of_a_DKE.htm|archiveurl=http://www.horntip.com/mp3/1950s/1959--2000ca_the_songs_of_delta_kappa_epsilon_(CD)/01_the_son_of_a_DKE.htm|archivedate=November 27, 2010|title=The Son of a DKE Lyrics|publisher=The Jack Horntip Collection|accessdate=2011-07-25}}&lt;/ref&gt;
+
+&lt;blockquote&gt;&lt;poem&gt;I'm a son of a, son of a, son of a, son of a, son of a DKE!
+I'm a son of a, son of a, son of a, son of a, son of a DKE!
+Like every college fellow, I like my whiskey free,
+For I'm a rambling rake of a college man,
+And the son of a DKE!&lt;/poem&gt;&lt;/blockquote&gt;
+
+The song was subsequently adapted by the [[Colorado School of Mines]] in the late 1870s&lt;ref name=&quot;noaa&quot;/&gt; and entitled &quot;The Mining Engineer.&quot;&lt;ref name=&quot;noaa&quot;/&gt;&lt;ref&gt;{{cite web|url=http://www.alumnifriends.mines.edu/fun_stuff/mining_engineer/default.htm|archiveurl=https://web.archive.org/web/20080213030322/http://www.alumnifriends.mines.edu/fun_stuff/mining_engineer/default.htm|archivedate=February 13, 2008|title=The Mining Engineer|publisher=Colorado School of Mines Alumni and Friends|accessdate=2009-07-29}}&lt;/ref&gt; This version is the closest adaptation to &quot;Ramblin' Wreck from Georgia Tech.&quot;&lt;ref name=&quot;helluva&quot;&gt;{{cite news|first=Andrew|last=Guyton|url=http://nique.net/issues/2007-06-08/focus/3|archiveurl=https://web.archive.org/web/20070929134725/http://nique.net/issues/2007-06-08/focus/3|archivedate=September 29, 2007|title=Ramblin' Wreck proves helluva song|work=[[The Technique]]|date=June 8, 2007|accessdate=2007-06-08}}&lt;/ref&gt;
+&lt;blockquote&gt;&lt;poem&gt;Like every honest fellow,
+I take my whisky clear,
+I'm a rambling wreck from [[Golden, Colorado|Golden]] Tech,
+a helluva engineer.&lt;/poem&gt;&lt;/blockquote&gt;
+
+The Mines version also includes:
+&lt;blockquote&gt;&lt;poem&gt;Oh, if I had a daughter
+I'd dress her up in green,
+And send her up to Boulder
+To coach the football team
+But if I had a son, sir,
+I'll tell you what he'd do&amp;mdash;
+He'd yell: 'TO HELL WITH [[University of Colorado at Boulder|BOULDER]]!'
+Like his daddy used to do.&lt;/poem&gt;&lt;/blockquote&gt;
+
+The song is also used by the [[South Dakota School of Mines and Technology]], entitled &quot;Ramblin' Wreck&quot; although on campus it is referred to simply as the &quot;School Song.&quot;  This version is almost identical to the first four lines of &quot;Ramblin' Wreck from Georgia Tech.&quot;{{Citation needed|date=August 2011}}
+&lt;blockquote&gt;&lt;poem&gt;
+I'm a rambling wreck from [[Rapid City, South Dakota|Rapid]] Tech, and a helluva engineer.
+a helluva, helluva, helluva, helluva, hell of an engineer.
+Like all my jolly good fellows, I drink my whiskey clear,
+I'm a rambling wreck from [[Rapid City, South Dakota|Rapid]] Tech, and a helluva engineer. Hey!&lt;/poem&gt;&lt;/blockquote&gt;
+
+In the early 1890s, [[Ohio State University]] adapted it and called it &quot;If I had a Daughter&quot;. At the time [[Ohio Wesleyan University]] was their archrival, hence the references to [[Delaware, Ohio]] and [[Methodists]]. One verse follows:&lt;ref name=&quot;noaa&quot;/&gt;&lt;ref&gt;{{cite web|title=Songs of The Ohio State University |url=http://www.sgsosu.net/osu/songs/daughter.html|work=Songs of The Ohio State University|publisher=Nick Metrowsky|accessdate=2011-05-15}}&lt;/ref&gt;
+&lt;blockquote&gt;&lt;poem&gt;If I had a daughter, I'd dress her up in green,
+I'd send her on the campus to coach the Freshman team;
+And if I had a son, I tell you what he'd do
+He would yell &quot;To Hell&quot; with Delaware&quot;
+And yell for O. S. U.&lt;/poem&gt;&lt;/blockquote&gt;
+
+In 1895, [[Rensselaer Polytechnic Institute]] adapted it and called it &quot;A Son of Old R.P.I.&quot; This version includes the lyrics:&lt;ref name=&quot;noaa&quot;/&gt;&lt;ref&gt;{{cite web|title=Rensselaer Songs|accessdate=2007-02-12|url=http://www.lib.rpi.edu/Archives/traditions/songs/songs.html|work=Institute Archives and Special Collections|publisher=Rensselaer Research Libraries}}&lt;/ref&gt;
+&lt;blockquote&gt;&lt;poem&gt;
+Like every honest fellow,
+I drink my whiskey clear,
+I'm a moral wreck from the Polytech
+And a hell of an engineer.&lt;/poem&gt;&lt;/blockquote&gt;
+
+The [[Clemson University]] Tiger Band's rude songbook, The Unhymnal&quot;, has a four-verse parody of the fight song which is distinctly un-politically correct which derides the Georgia Tech coach, football team and cheerleaders.&lt;ref&gt;''The Unhymnal - Unofficial songbook of the Clemson University bands'', various editions, 1974-1995, Clemson University, [[Clemson, South Carolina|Clemson]], [[South Carolina]].&lt;/ref&gt;
+
+In 1929 [[Norwegian University of Science and Technology]] adapted it and called it &quot;Nu klinger&quot;. 
+
+&lt;blockquote&gt;&lt;poem&gt;
+Studenter i den gamle stad, ta vare på byens ry!
+Husk på at jenter, øl og dram var kjempenes meny.
+Og faller I alle mann alle, skal det gjalle fra alle mot sky.
+La'kke byen få ro, men la den få merke det er en studenterby!
+Og øl og dram, og øl og dram, og øl og dram, og øl og dram.
+&lt;/blockquote&gt;&lt;/poem&gt;
+
+Two different sources are claimed to have been the origin for the song's music. The first is the marching tune &quot;[[The Bonnie Blue Flag]]&quot;, published in 1861 by [[Harry McCarthy]].&lt;ref&gt;{{cite web|first=Lois|last=Medevic|url=http://www.voicesacrosstime.org/come-all-ye/ti/2006/Song%20Activities/04MedvicBonnieandBattle.html|title=Song Activity: Bonnie Blue Flag and Battle Cry of Freedom|publisher=Voices Across Time|year=2002|accessdate=2009-02-09}}&lt;/ref&gt;&lt;ref name=&quot;thwi&quot;&gt;{{cite news|first=Scott|last=Lange|url=http://technique.library.gatech.edu/issues/winter1998/feb6/news1.html|title='To hell' with it: Diversity movement talks of change in Georgia Tech song|work=[[The Technique]]|date=February 6, 1998|accessdate=2007-05-20}}&lt;/ref&gt; The second, and more widely cited, is [[Charles Ives]]' composition of &quot;Son of a Gambolier&quot; in 1895.&lt;ref name=&quot;dhwg104&quot;&gt;[[#Wall|Wallace, p.104]]&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://hdl.handle.net/10079/fa/music.mss.0014.1|title=The Music of Charles Ives: IV. Works for Piano|work=A Descriptive Catalogue of The Music of Charles Ives|publisher=Irving S. Gilmore Music Library of Yale University|accessdate=2007-06-05}}&lt;/ref&gt;
+
+==Creation at Georgia Tech==
+[[File:What Causes Whitlock to Blush.png|thumb|right|300px|The first publication of &quot;Ramblin' Wreck&quot; was in the 1908 [[Blueprint (yearbook)|Blue Print]], entitled &quot;What Causes Whitlock to Blush&quot;. The words &quot;hell&quot; and &quot;helluva&quot; were too hot to print: at the bottom, it explains that &quot;Owing to the melting of the type, it has been impossible to print the parts of the above song represented by blank spaces&quot;.|alt=A white page with black text. &quot;What Causes Whitlock to Blush&quot; is written across the top.]]
+Georgia Tech's use of the song is said to have come from an early baseball game against rival [[University of Georgia|Georgia]].&lt;ref name=&quot;tradition&quot;/&gt;&lt;ref name=&quot;early&quot;&gt;{{cite magazine|first=H. D. |last=Cutter |url=http://gtalumni.org/Publications/magazine/spr98/history.html |title=An Early History of Georgia Tech |magazine=Georgia Tech Alumni Magazine Online |publisher=Georgia Tech Alumni Association |accessdate=2007-06-13 |deadurl=yes |archiveurl=https://web.archive.org/web/20070604175630/http://www.gtalumni.org/Publications/magazine/spr98/history.html |archivedate=June 4, 2007 }}&lt;/ref&gt;&lt;ref name=&quot;rwgt&quot;&gt;{{cite magazine|first=Preston |last=Stevens |url=http://gtalumni.org/Publications/magazine/win92/wreck.html |title=The Ramblin' Wreck from Georgia Tech |magazine=Georgia Tech Alumni Magazine Online |publisher=Georgia Tech Alumni Association |date=Winter 1992 |accessdate=2007-06-05 |deadurl=yes |archiveurl=https://web.archive.org/web/20060518055043/http://gtalumni.org/Publications/magazine/win92/wreck.html |archivedate=May 18, 2006 }}&lt;/ref&gt; Some sources credit Billy Walthall, a member of the school's first four-year graduating class, with the lyrics.&lt;ref name=&quot;archive&quot;/&gt;&lt;ref name=&quot;music&quot;/&gt; According to a 1954 article in [[Sports Illustrated]], &quot;Ramblin' Wreck&quot; was written around 1893 by a Tech football player on his way to an Auburn game.&lt;ref name=&quot;archive&quot;/&gt;
+{{quote|The &quot;Rambling Wreck&quot; had its beginning during the first year or two after Tech opened. Some of the frills were afterward added. We had no football team during the early days, but football was played on the campus. A round rubber ball was used and it was strictly football-no holding the ball and running with it.
+
+We had a good baseball team and I remember on one occasion almost the whole school went over to Athens to play Georgia. Duke Black of Rome pitched and we brought home the bacon. This was the beginning of the Rambling Wreck.&lt;ref name=&quot;early&quot;/&gt;|author=H. D. Cutter, ME 1892}}
+
+In 1905, Georgia Tech adopted the tune as its official fight song, though it had already been the unofficial fight song for several years.&lt;ref name=&quot;tradition&quot;/&gt;&lt;ref name=&quot;noaa&quot;/&gt; It was published for the first time in the school's first yearbook, the 1908 [[Blueprint (yearbook)|Blueprint]].&lt;ref name=&quot;tradition&quot;/&gt;&lt;ref name=&quot;songs&quot;/&gt;&lt;ref name=&quot;dhwg105&quot;&gt;[[#Wall|Wallace, p.105]]&lt;/ref&gt; Entitled &quot;What causes Whitlock to Blush&quot;,&lt;ref name=&quot;thwi&quot;/&gt; words such as &quot;hell&quot; and &quot;helluva&quot; were censored as &quot;certain words [are] too hot to print&quot;.&lt;ref name=&quot;rwgt&quot;/&gt;&lt;ref name=&quot;bp1908&quot;&gt;{{Cite journal|url=http://smartech.gatech.edu/handle/1853/12285|title=What causes Whitlock to Blush|work=[[Blueprint (yearbook)|The Blueprint]]|page=138|year=1908}}&lt;/ref&gt;
+
+After Michael A. Greenblatt, Tech's first [[bandmaster]], heard the [[Georgia Tech Yellow Jacket Marching Band|Georgia Tech band]] playing the song to the tune of Charles Ives's &quot;A Son of a Gambolier&quot;,&lt;ref name=&quot;tradition&quot;/&gt; he wrote a modern musical version.&lt;ref name=&quot;music&quot;/&gt; In 1911, Frank Roman succeeded Greenblatt as bandmaster; Roman embellished the song with trumpet flourishes and publicized it.&lt;ref name=&quot;tradition&quot;/&gt;&lt;ref name=&quot;songs&quot;/&gt; Roman copyrighted the song in 1919.&lt;ref name=&quot;archive&quot;/&gt;&lt;ref name=&quot;music&quot;/&gt;&lt;ref name=&quot;dhwg106&quot;/&gt;&lt;ref&gt;{{cite book|first=James J|last=Fuld|title=The Book of World-Famous Music: Classical, Popular and Folk|accessdate=2007-05-30
+|url=https://books.google.com/books?id=EVninY59ul0C&amp;pg=PA516&amp;lpg=PA516&amp;dq=frank+roman+ramblin+wreck&amp;source=web&amp;ots=XCkSoutzqK&amp;sig=KVM8F1vWAED1SdtB-jZHYe_NdP4#PPA516,M1 | page=516 | isbn=978-0-486-41475-1 | year=2000 | publisher=Courier Dover Publications}}&lt;/ref&gt;
+
+==Rise to fame==
+[[File:1920 Radio Dance.png|thumb|right|300px|[[Arthur Murray]]'s 1920 Radio Dance, as portrayed in the 1920 [[Blueprint (yearbook)|Blueprint]]; &quot;Ramblin' Wreck&quot; was one of the songs played that night.|alt=There are four separate scenes portrayed, on in each corner, all in black and white. In the top-left picture, there are many people with brass musical instruments standing in front of a brick building. On the bottom-right corner of that scene, there is a large drum. In the top-right picture, there are many dancing men and women in suits and dresses, and the viewer appears to be slightly above them. In the bottom-left picture, a woman and a hat and a jacket is standing. There is a man and some children behind her. In the bottom-right picture, many people wearing headphones are surrounding some electronic equipment sitting on a table.]]
+In 1920, dance instructor [[Arthur Murray]] organized the world's first &quot;radio dance&quot; while he attended Tech. A band on campus played &quot;Ramblin' Wreck&quot; and other songs, which were broadcast to a group of about 150&amp;nbsp;dancers (mostly Tech students) on the roof of the [[Capital City Club]] in downtown Atlanta.&lt;ref name=&quot;dhwg155&quot;&gt;[[#Wall|Wallace, p.155]]&lt;/ref&gt; Murray also opened the first Arthur Murray Dance Studio while in Atlanta. It was located at the [[Georgian Terrace Hotel]].&lt;ref&gt;{{cite news|url=http://gtalumni.org/StayInformed/techtopics/sum91/deaths.html|title=Arthur Murray Taught the World to Dance|work=Tech Topics|publisher=Georgia Tech Alumni Association|date=Summer 1991|accessdate=2007-06-11 |archiveurl = https://web.archive.org/web/20040117040600/http://gtalumni.org/StayInformed/techtopics/sum91/deaths.html |archivedate = January 17, 2004}}&lt;/ref&gt; In 1925, the Columbia Gramophone Company began selling a recording of Tech songs (including &quot;Ramblin' Wreck&quot;); Tech was one of the first colleges in the [[Southern United States]] to have its songs recorded.&lt;ref name=&quot;archive&quot;/&gt;&lt;ref name=&quot;music&quot;/&gt; The song became immensely popular and was known nationally because of its extensive radio play.&lt;ref name=&quot;tradition&quot;/&gt; In 1947, the song was performed by The Gordonaires in a [[Soundie]] entitled &quot;Let's Sing A College Song&quot;.&lt;ref&gt;{{cite web|url=http://www.troynovant.com/Franson-3/Gordonaires/Rambling-Wreck.html|title=Rambling Wreck from Georgia Tech|publisher=Troynovant|accessdate=2011-05-15}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://archive.org/details/soundie_13|title=Soundie - Rambling Wreck from Georgia Tech|publisher=[[Internet Archive]]|accessdate=2011-05-15}}&lt;/ref&gt;
+
+On October 11, 1953, the [[Georgia Tech Glee Club]] sang &quot;Ramblin' Wreck&quot; on [[Ed Sullivan]]'s &quot;Toast of the Town&quot; program (later known as [[The Ed Sullivan Show]]) on [[CBS]].&lt;ref name=&quot;ens276&quot;/&gt; The performance reached a television audience of approximately 30&amp;nbsp;million viewers.&lt;ref name=&quot;singing&quot;&gt;{{cite news|url=http://gtalumni.org/news/ttopics/spr06/article1.html|title=Century of Singing|work=Tech Topics|publisher=Georgia Tech Alumni Association|date=Spring 2006|accessdate=2007-06-07 |archiveurl = https://web.archive.org/web/20071031160606/http://gtalumni.org/news/ttopics/spr06/article1.html |archivedate = October 31, 2007}}&lt;/ref&gt; Because only 28&amp;nbsp;seats were available on the train to the show, Glee Club members auditioned for the available spots. The group prepared three songs&amp;mdash;&quot;Ramblin' Wreck,&quot; [[There is Nothing Like a Dame|There's Nothin' Like a Dame]], and the [[Georgia Tech traditions#Alma Mater|alma mater]].&lt;ref name=&quot;singing&quot;/&gt; Sullivan made them sing &quot;heck&quot; and &quot;heckuva&quot; instead of &quot;hell&quot; and &quot;helluva,&quot; and would not let them sing &quot;dames.&quot; According to ''[[The Technique]]'', &quot;The club sang 'Dames' at rehearsal and brought down the house, only to have Sullivan give it the axe.&quot;&lt;ref name=&quot;singing&quot;/&gt;
+
+Then-[[Vice President of the United States|Vice President]] [[Richard Nixon]] and [[Premier of the Soviet Union|Soviet premier]] [[Nikita Khrushchev]] sang the song together when they met in [[Moscow]] in 1959 to reduce the tension between them during the [[Kitchen Debate]].&lt;ref name=&quot;tradition&quot;/&gt;&lt;ref name=&quot;songs&quot;/&gt;&lt;ref&gt;{{cite news|url=http://gtalumni.org/Publications/techtopics/sum91/fighting.html |title=Who's No. 1? Fighting Words About Battle Hymns |work=Tech Topics |publisher=Georgia Tech Alumni Association |date=Summer 1991 |accessdate=2007-05-20 |deadurl=yes |archiveurl=https://web.archive.org/web/20060522102352/http://gtalumni.org/Publications/techtopics/sum91/fighting.html |archivedate=May 22, 2006 }}&lt;/ref&gt;&lt;ref&gt;{{cite book|title=The Insider's Guide to the Colleges, 2005|publisher=Yale Daily News|accessdate=2007-06-13|
+url=https://books.google.com/books?id=HiS0BrWXz9QC&amp;pg=PA268&amp;lpg=PA268&amp;dq=ramblin+wreck+from+georgia+tech+richard+nixon&amp;source=web&amp;ots=oS7NwetVwY&amp;sig=eJM2_Xvd8ncIpsWf_HOfazJbnSw|page=268 | isbn=978-0-312-32384-4}}&lt;/ref&gt; As the story goes, Nixon did not know any Russian songs, but Khrushchev knew that one American song as it had been sung on the Ed Sullivan show.&lt;ref name=&quot;songs&quot;/&gt;
+
+&quot;Ramblin' Wreck&quot; has had many other notable moments in history, including being the first school song played in [[space]].&lt;ref name=&quot;archive&quot;/&gt; [[Gregory Peck]] sang the song while strumming a [[mandolin]] in the movie ''[[The Man in the Gray Flannel Suit]]''. [[John Wayne]] whistled it in ''[[The High and the Mighty (film)|The High and the Mighty]]''.  Tim Holt's character sings a few bars of it in the movie ''[[His Kind of Woman]]''. Gordon Jones sings a few stanzas several times in the movie ''[[My Sister Eileen#1942 film|My Sister Eileen]]''.  There are numerous stories of commanding officers in [[Higgins boat]]s crossing the [[English Channel]] on the morning of [[D-Day]] leading their men in the song to calm their nerves.&lt;ref name=&quot;archive&quot;/&gt;
+
+==Modern history==
+[[File:GTMarchingBandPregameGT.jpg|thumb|right|The [[Georgia Tech Yellow Jacket Marching Band]] at [[Bobby Dodd Stadium]].|alt=There is a large football stadium with yellow bleachers and green grass, seen at night. The band is on the field facing the viewer, wearing white uniforms, holding instruments, and arranged to form an interlocking GT. Many people are in the stands.]]
+The Edwin H. Morris &amp; Company obtained a [[copyright]] to Roman's version in 1931; that company was later acquired by [[Paul McCartney]]'s [[holding company]], [[MPL Communications]] in 1976.&lt;ref&gt;{{cite web|url=http://songwritershalloffame.org/ceremony/entry/C3106/5052|title=Abe Olman Publisher Award: Buddy Morris|publisher=Songwriters Hall of Fame|accessdate=2007-06-10}}&lt;/ref&gt; The copyright to that version expired in 1952, so Greenblatt wrote a new arrangement and applied for a new copyright. In 1953, Greenblatt sold the copyright for the new version to Georgia Tech for one [[United States dollar|dollar]].&lt;ref name=&quot;tradition&quot;/&gt; There was some controversy when MPL Communications acquired the old copyright; a law firm commissioned by Georgia Tech in 1984, Newton, Hopkins &amp; Ormsby, concluded that while there were copyrighted versions of the song, the version used by the school was not copyrighted and falls in the [[public domain]].&lt;ref name=&quot;archive&quot;/&gt;&lt;ref name=&quot;tradition&quot;/&gt;
+
+Over the years, a few variations of the song have been created at Georgia Tech. In 1998, a 19-member &quot;Diversity Task Force&quot; proposed that changes be made to the fight song because it discriminated against women.&lt;ref name=&quot;thwi&quot;/&gt; The proposal was widely and strongly opposed by students and alumni,&lt;ref&gt;{{cite news|first=Steve|last=Faris|url=http://technique.library.gatech.edu/issues/winter1998/feb13/eds3.html|title=Alum pronounces verdict on fight song changes|work=[[The Technique]]|date=February 13, 1998|accessdate=2007-05-20}}&lt;/ref&gt;&lt;ref&gt;{{cite news|first=Josh|last=Daws|url=http://technique.library.gatech.edu/issues/winter1998/feb27/eds5.html|title=Apology to the Diversity Task Force|work=[[The Technique]]|date=February 27, 1998|accessdate=2007-05-20}}&lt;/ref&gt;&lt;ref&gt;{{cite news|first=Anthony|last=Godfrey|url=http://technique.library.gatech.edu/issues/winter1998/feb27/eds7.html|title=Does Task Force represent students?|work=[[The Technique]]|date=February 27, 1998|accessdate=2007-05-20}}&lt;/ref&gt;&lt;ref&gt;{{cite news|first=Arthur|last=Ebbs|url=http://technique.library.gatech.edu/issues/winter1998/feb13/eds4.html|title=Revised &quot;Ramblin' Wreck&quot; versions|work=[[The Technique]]|date=February 13, 1998|accessdate=2007-06-05}}&lt;/ref&gt; and it was dropped.&lt;ref&gt;{{cite news|first=Mindy|last=Wiggins|url=http://technique.library.gatech.edu/issues/winter1998/feb13/news2.html|title=Ray: changing song low on list of priorities|work=[[The Technique]]|date=February 13, 1998|accessdate=2007-05-20}}&lt;/ref&gt; A different request to change the word cheer to join with respect to alumni daughters surfaced in 2015.&lt;ref&gt;http://www.ledger-enquirer.com/news/local/news-columns-blogs/richard-hyatt/article39656085.html&lt;/ref&gt; At the conclusion of the song there is a call of &quot;Go Jackets!&quot; responded to with &quot;Bust their ass!&quot; Following three of these calls and responses, the song was ended with a call of &quot;Go Jackets! Fight! Win!&quot; Recently, however, the student body has yelled &quot;Fight! Win! Drink! Get Naked!&quot;&lt;ref name=&quot;helluva&quot;/&gt;
+{{clear}}
+
+==References==
+{{reflist|30em}}
+
+== Works cited ==
+*{{cite book|first=Robert C.|last=McMath|author2=Ronald H. Bayor |author3=James E. Brittain |author4=Lawrence Foster |author5=August W. Giebelhaus |author6=Germaine M. Reed |authorlink=Bob McMath|title=Engineering the New South: Georgia Tech 1885–1985|publisher=[[University of Georgia Press]]|location=Athens, GA | isbn = 0-8203-0784-X | year = 1985|ref=McM}}
+*{{cite book|first=Robert|last=Wallace|title=Dress Her in WHITE and GOLD: A biography of Georgia Tech|publisher=[[Georgia Tech Foundation]]|year=1969|ref=Wall}}
+
+==External links==
+*[http://ramblinwreck.cstv.com/trads/geot-trads.html Official Georgia Tech Athletics page on song (with audio file)]
+
+{{Georgia Tech Navbox}}
+{{Georgia Tech Yellow Jackets football navbox}}
+{{Georgia Tech Yellow Jackets men's basketball navbox}}
+{{ACC fight songs}}
+
+{{good article}}
+
+[[Category:Atlantic Coast Conference fight songs]]
+[[Category:Drinking songs]]
+[[Category:Georgia Tech Yellow Jackets]]</text>
+      <sha1>snewkiymv45rfbw127jw39t56acigw3</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,365 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Charles Darwin</title>
+    <ns>1</ns>
+    <id>6126</id>
+    <revision>
+      <id>750477027</id>
+      <parentid>750470670</parentid>
+      <timestamp>2016-11-20T00:03:12Z</timestamp>
+      <contributor>
+        <username>Lowercase sigmabot III</username>
+        <id>17518500</id>
+      </contributor>
+      <minor/>
+      <comment>Archiving 1 discussion(s) to [[Talk:Charles Darwin/Archive 15]]) (bot</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="60508">{{Skip to talk}}
+{{Talk header}}
+{{Vital article|level=3|topic=People|class=FA}}
+{{Round in circles|search=yes}}
+{{British English|date=September 2010}}
+{{article history
+|action1=FAC
+|action1date=18:06, 6 May 2005
+|action1link=Wikipedia:Featured article candidates/Charles Darwin/archive 1
+|action1result=not promoted
+|action1oldid=13347851
+
+|action2=FAC
+|action2date=19:25, 24 November 2005
+|action2link=Wikipedia:Featured article candidates/Charles Darwin/Archive 2
+|action2result=not promoted
+|action2oldid=29153642
+
+|action3=GAN
+|action3date=10:51, 7 July 2006
+|action3link=
+|action3result=listed
+|action3oldid=62534444
+
+|action4=WPR
+|action4date=04:55, 13 December 2006
+|action4link=Wikipedia:WikiProject Biography/Peer review/Charles Darwin
+|action4result=
+|action4oldid=93980401
+
+|action5=FAC
+|action5date=04:55, 19 December 2006
+|action5link=Wikipedia:Featured article candidates/Charles Darwin
+|action5result=promoted
+|action5oldid=95248579
+
+|currentstatus=FA
+|maindate=April 19, 2007
+|otddate=2004-06-18
+|otdoldid=5183737
+|otd2date=2009-02-12
+|otd2oldid=270171073
+|topic=natsci
+}}
+{{WikiProjectBannerShell|1={{WikiProject History of Science|class=FA|importance=Top}}
+{{WikiProject Evolutionary biology|class=FA|importance=Top}}
+{{WikiProject Biography|living=no|class=FA|s&amp;a-priority=Top|core=yes|s&amp;a-work-group=yes|listas=Darwin, Charles|old-peer-review=yes}}
+{{WikiProject England|class=FA|importance=high}}
+{{WikiProject London|class=FA|importance=mid}}
+{{WikiProject Shropshire|class=FA|importance=high}}
+{{WikiProject Arthropods|class=FA|importance=low}}
+{{WikiProject Atheism|class=FA|importance=high}}
+{{WikiProject Geology|class=FA|importance=mid}}
+{{WikiProject Environment|class=FA|importance=high}}
+{{WikiProject Skepticism|class=FA|importance=high}}
+{{WikiProject Plants|class=FA|importance=top|botanist=yes}}
+{{dashboard.wikiedu.org assignment | course = Wikipedia:Wiki_Ed/University_of_Oklahoma/History_of_Science_Since_the_17th_Century_(Fall_2016) | reviewers = [[User:Danim14|Danim14]] }}
+}}
+
+{{PortalArticleBannerShell|collapsed=yes|1=
+
+
+{{Article-portal|picture=File:Abyssal Brachiopod 00148.jpg|class=FA|boxurl=Portal:Paleontology/Science, culture, and economics articles|portalbox=Science, culture, and economics|portalname=Paleontology|location=Portal:Paleontology/Science, culture, and economics articles/5}}
+
+{{Article-portal|picture=File:Asaphiscus Wheeleri 3.jpg|class=FA|boxurl=Portal:Cambrian/Science, culture, and economics articles|portalbox=Science, culture, and economics|portalname=Cambrian|location=Portal:Cambrian/Science, culture, and economics articles/3}}
+
+
+}}
+
+{{Caution|'''Important notice''': Some common points of argument are addressed at Wikipedia's '''[[Talk:Evolution|Evolution FAQ]]''', which represents the [[WP:CON|consensus]] of editors here.  Please remember that this page is only for discussing Wikipedia's ''encyclopedia article'' about Charles Darwin.  If you are interested in discussing or debating evolution itself, you may want to visit [http://groups.google.com/group/talk.origins talk.origins].}}
+{{WP1.0|v0.5=pass|class=FA|importance=top|category=Natsci|VA=yes|WPCD=people}}
+
+{{User:MiszaBot/config
+| algo=old(30d)
+| archive=Talk:Charles Darwin/Archive %(counter)d
+| counter=15
+| maxarchivesize=100K
+| archiveheader={{Automatic archive navigator}}
+| minthreadsleft=4
+| minthreadstoarchive=1
+}}
+
+{{Archive box|search=yes|
+* [[/Lincoln]] - Should Darwin and Lincoln sharing a date of birth be included?
+* [[/Archive_1]] - up to July 2005
+* [[/Archive_2]] - from August 2005 to October 2006, ''141KB''
+* [[/Archive_3]] - Nov '06 to Dec '06  ''90kb''
+* [[/Archive_4]] - Dec '06 to Jan '07  ''119kb''
+* [[/Archive_5]] - Jan '07 to July '08 ''
+* [[/Archive_6]] - August '08 to May '09 ''
+* [[/Archive_7]] - May '09 to 19 July '09 '', including role of women
+* [[/Archive_8]] - 19 July '09 to Oct '09 ''
+* [[/Archive 9]] - 16 Sept '09 to 9 November '09
+* [[/Archive 10]] - 9 November '09 to 4 February '10
+* [[/Archive 11]] - 4 February '10 to 13 August '10, including &quot;who established&quot;
+* [[/Archive 12]] - 13 August '10 to 11 May '11
+}}
+
+{{User:HBC Archive Indexerbot/OptIn
+|target=Talk:Charles Darwin/Archive index
+|mask=Talk:Charles Darwin/Archive &lt;#&gt;
+|leading_zeros=0
+|indexhere=yes}}
+
+__TOC__
+
+==Janet Browne as a reliable source about Charles Darwin==
+
+Example = &quot;Voyaging&quot;: she tries to list the pall-bearers at Darwin's funeral and manager to leave one out, Rev. Cannon [[Frederic Farrar]]!
+(page 497)
+
+[[Special:Contributions/2.30.190.52|2.30.190.52]] ([[User talk:2.30.190.52|talk]]) 11:20, 20 May 2016 (UTC)
+::Rather detailed for this article, we can review the point if you give a citation for Farrar. . . [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 01:45, 26 May 2016 (UTC)
+:::The citation of ''Voyaging'' is incorrect. It's on p.497 of ''The Power of Place'' where Browne lists the pall-bearers. She gives the Duke of Argyll, the Duke of Devonshire, the Earl of Derby, J. Russell Lowell (the America. ambassador), William Spottiswoode, Hooker, Huxley, Wallace and Lubbock.  In the biography of Farrar, written by his son, he is quoted as having written &quot;I was asked to be one of the pall-bearers&quot; ([https://archive.org/stream/lifefredericwil00farrgoog#page/n135/mode/1up p.109]).  But it is absurd to consider a relatively minor blemish like this as an indication that Browne is not generally reliable
+:::[[User:David_J_Wilson|David&amp;nbsp;Wilson]]&amp;nbsp;&lt;small&gt;([[User talk:David_J_Wilson|talk]]&amp;nbsp;·&amp;nbsp;[[Special:Contributions/David_J_Wilson|cont]])&lt;/small&gt; 14:34, 26 May 2016 (UTC)
+::::Thanks, I've noticed that the [[Frederic Farrar]] article cites &quot;The Funeral of Mr Darwin&quot;, ''[[The Times]]'', 27 April 1882. ([[:s:The Times/1882/News/Funeral of Charles Darwin|Wikisource]]) so that's well supported, and the correct list appears at [[Darwin from Insectivorous Plants to Worms#Funeral]] so no problem there. . . [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 16:48, 26 May 2016 (UTC)
+
+::::{{ping|David J Wilson}} 1. You say that missing the name of one pallbearer doesn’t, by itself, show that Janet Browne is unreliable.  Fair enough.  But you would have to agree, wouldn’t you, that there is plenty of other evidence that does calling her reliability into question?
+::::2. Wouldn’t you agree that she claims in ''Power of Place'' that Darwin took out and kept out all references to “human ancestry” when writing OTOOS?  Wouldn’t you also agree that she claims that Darwin was “completely silent on the subject of human origins”?  Didn't Darwin, in fact, drop a number of hints about human origins and human ancestry in OTOOS?
+::::3. Isn't it also true that Browne claims that Darwin took out and kept out all references to a Creator?  But hadn't Darwin, in fact, referred to “the Creator” numerous times in OTOOS?
+::::4. David, I want to put to you that there is an abundance of clear and compelling evidence that Janet Browne is not a reliable source with respect to Darwin’s discussions of humans in OTOOS and consequently the citation to p.60 of her book should be removed from reference #128. (Just to be clear, I am not looking for the text in the article to be modified here, just the ''one'' citation removed.)  I would very much appreciate your reply with respect to the questions posed here.  Thank you. . [[User:Stan Giesbrecht|Stan Giesbrecht]] ([[User talk:Stan Giesbrecht|talk]]) 20:03, 29 May 2016 (UTC)
+
+:::::I have no intention of being drawn into what I suspect would be and endless back and forth on this matter.  I will therefore limit myself to fairly direct answers to your questions and resist the temptation to provide more lengthy explanations.  I will probably ignore any followup questions.
+::::::1. No. Since I've seen no such evidence, I don't feel at all compelled to admit that there is any, let alone an &quot;abundance&quot; of it.
+::::::2a. No, I haven't seen her make any such claim in ''The Power of Place'', either on p.60, which is where I presume you think she does so, nor anywhere else.
+::::::&amp;nbsp;&amp;nbsp;b. Yes, she certainly makes that statement.
+::::::&amp;nbsp;&amp;nbsp;c. My views on this question are sufficiently complex that a simple yes or no answer would be misleading, and I have no intention of indulging in the lengthy pontification that would be necessary to explain them.
+::::::3a.  Same answer as to question 2a.
+::::::&amp;nbsp;&amp;nbsp;b.  Yes.  More specifically, the first edition of ''On the Origin of Species''—which is what Browne was referring to on p.60 of ''The Power of Place''—contains seven occurrences of &quot;Creator&quot; and two of &quot;God&quot;—one of the latter being in the text proper, and the other being in a quotation from Francis Bacon's ''The Advancement of Learning'' on the page preceding the title page.
+::::::4. In my opinion you have provided no evidence that Browne is unreliable, so removing citations to her book cannot be justified on those grounds. On the other hand, the passage on p.60 ''is'' somewhat ambiguous and can be easily misinterpreted, especially by anybody who can't  be bothered to read the rest of the chapter where it appears.   Thus, it should of course only be cited to support statements when the support it provides is unequivocal (which I haven't checked for the citation in question).&lt;br&gt;
+:::::[[User:David_J_Wilson|David&amp;nbsp;Wilson]]&amp;nbsp;&lt;small&gt;([[User talk:David_J_Wilson|talk]]&amp;nbsp;·&amp;nbsp;[[Special:Contributions/David_J_Wilson|cont]])&lt;/small&gt; 05:56, 31 May 2016 (UTC)
+
+:::::::Thank you for your responses.  Maybe I’m too pedantic, but the ambiguities and misinterpretations do bug the snot out of me at times.  What else can I say?  Take Care. . [[User:Stan Giesbrecht|Stan Giesbrecht]] ([[User talk:Stan Giesbrecht|talk]]) 09:24, 31 May 2016 (UTC)
+
+'''SEPERATE CONVERSATION: reply to original post by 2.30.190.52'''
+
+:1. Thanks for the info. I’ve moved this to a new section, rather than a subsection of the discussion on properly reporting Darwin’s belief that humans have diverged into distinct subspecies.
+:2. In terms of Browne, I’m more worried about her claim in Power of Place (page 60) that Darwin only referred to humans ''one time'' in OTOOS:
+:{{quote frame|The only words he allowed himself—and these out of a sense of duty that he must somewhere refer to human beings—were gnomic in their brevity. “Light will be thrown on the origin of man and his history,” he declared in the conclusion.}}
+:3. This is completely false: Darwin referred to humans multiple times in his most famous publication, including comments about sexual selection applying humans and homologous bone patterns between humans and other mammals. She is clearly trying to distort reality by deliberately writing something as nonsensical as this, as I mentioned in [[Talk:Charles_Darwin#Source_must_be_reliable]]. . [[User:Stan Giesbrecht|Stan Giesbrecht]] ([[User talk:Stan Giesbrecht|talk]]) 21:24, 20 May 2016 (UTC)
+
+::False argument on your part: Browne has just stated &quot;he did refer to humans in several places as examples of biological details.&quot; You seem to have a distorted view of sources. . . [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 01:45, 26 May 2016 (UTC)
+
+:::1. Seriously?  You want to defend Browne on this one?  It’s there in black and white: Browne claims that the ''only words'' Darwin used to refer to humans in OTOOS was the line about light being thrown.  If she wanted to report the truth, she would have worded things much differently.
+:::2. Browne is a loon who shoots 5 directions at once.  Do I need to remind you that she also claimed that, “With profound deliberation … He avoided talking about the origin of human beings. … he had long ago drained his manuscripts of any reference to … human ancestry. He had no intention of reintroducing them now. In this book, '''he was &lt;u&gt;completely silent&lt;/u&gt; on the subject of human origins”.'''  What part of [[WP:BULLSHIT]] do you not understand? . [[User:Stan Giesbrecht|Stan Giesbrecht]] ([[User talk:Stan Giesbrecht|talk]]) 04:10, 26 May 2016 (UTC)
+
+::::Browne is a very reputable historian, unfortunately you're not reading what she says as a whole. Your insults simply undermine the case you're trying to make, please desist. . [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 13:14, 26 May 2016 (UTC)
+
+:::::1. No reputable historian would write things that are so overtly false.  Please take off your rose-coloured glasses.  By “reading what she says as a whole” you mean to [[WP:CHERRY]] pick the true parts of what she writes and ignore the [[WP:BULLSHIT]].  Only then will we be able to see how “accurate” she is.
+:::::2. It is your denial that undermines ''your'' case.  She says that Darwin was “completely silent on the subject of human origins” in OTOOS, yet you agree that OTOOS implied common descent for humans.  It doesn’t line up. . [[User:Stan Giesbrecht|Stan Giesbrecht]] ([[User talk:Stan Giesbrecht|talk]]) 14:28, 26 May 2016 (UTC)
+
+::::::Stan, your Bullshit is complete bollocks. Her wording works as a whole, of course if you don't like it see also van Wye, Larson, Costa, Desmon &amp; Moore as cited. All make the point in various ways, that Darwin's book did not explicitly go into human origins beyond that specific sentence, though shared descent was implicit in parts of the book. While our wording can no doubt be improved, you were giving undue weight to your unsupported if rather convoluted claim that &quot;it’s not the discussion that didn’t happen, because it actually did, it’s the conclusion about human origins that wasn’t explicit.&quot; If you're claiming that there was explicit discussion of human origins, provide the source and a quote to support your argument. Thanks, . [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 17:01, 26 May 2016 (UTC)
+
+:::::::1. Sure Dave, keep claiming that the sky is green and grass is blue.  Browne’s claims on pages 60-61 are completely nonsensical.  They make no sense whether taken individually or &quot;as a whole&quot; and you know it.
+:::::::2. All you do is go after one line I posted on the talk page.  Even though I most certainly do not want to post it to the article, you claim that I need to “provide the source and a quote to support [my] argument”.
+:::::::3. It’s amazing how you always manage to accuse me of what you need to listen to, just like when you [https://en.wikipedia.org/w/index.php?title=Talk:Charles_Darwin&amp;diff=722177141&amp;oldid=722125867 accused me] of claiming that origin = derivation, when I stated exactly the opposite.  In this case, it is ''you'' who needs to provide a source and a quote, rather than these vague claims that all these sources support what is really just your own synthesis ([[WP:PROVEIT]]). . [[User:Stan Giesbrecht|Stan Giesbrecht]] ([[User talk:Stan Giesbrecht|talk]]) 18:45, 26 May 2016 (UTC)
+{{od}} Stan, this largely seems to arise from your unusual reading of what Browne's written: other editors seem to find it understandable, and her books are well recommended by reliable sources, including van Wyhe. Clearly both myself and David J. Wilson disagree with your argument that a minor error invalidates Browne. &lt;br&gt;To take another example, do the blatant errors of p. 62 – &quot;his father sent him off to Christ's College, Cambridge University to earn a theology degree ....  Even though he completed the training necessary to be a minister,&quot; and p. 66 – &quot;if a young man, Alfred Russell Wallace, had not brought the same idea to the Royal Society in 1858. Wallace, equally nervous, had written to Darwin asking for advice, and they presented their findings jointly to the Royal Society in 1858.&quot; invalidate {{cite book|author1=John P. Jackson|author2=Nadine M. Weidman|title=Race, Racism, and Science: Social Impact and Interaction|url=http://books.google.com/books?id=G-crlAYsZ-MC&amp;pg=PA67|year=2004|publisher=Rutgers University Press|isbn=978-0-8135-3736-8}}? . . [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 18:38, 30 May 2016 (UTC) (note: for discussion of usage of this source, see [[Talk:The Descent of Man, and Selection in Relation to Sex#Examples in the Article]] and [https://en.wikipedia.org/w/index.php?title=Talk:The_Descent_of_Man,_and_Selection_in_Relation_to_Sex&amp;diff=722884973&amp;oldid=720816385 my comment]. [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 06:53, 31 May 2016 (UTC))
+
+:1. Dave, you know very well that I never made the argument that ''a minor'' error will invalidate an entire work, as I said in my post to David Wilson.  Clearly ''all of us'' disagree with ''the'' “argument that a minor error invalidates Browne”.
+:2. My opposition to Browne’s citation in reference #128 isn’t just based my own reading of what Browne wrote, but also yours and David’s.  In our earlier discussions, both [https://en.wikipedia.org/w/index.php?title=Talk:Charles_Darwin&amp;diff=700451117&amp;oldid=700427750 David] and [https://en.wikipedia.org/w/index.php?title=Talk:Charles_Darwin&amp;diff=700462667&amp;oldid=700451117 you] emphatically claimed that what Browne wrote on p.60 was that Darwin had only alluded to human origins once in OTOOS.  Yet, as Huxley and Kettlewell show us, Darwin had, in fact, alluded to human origins multiple times.  And we all (now) know that Darwin wrote that the homologies between humans and other mammals “at once explain themselves” on his theory of descent with modification.  This is definitely at least an allusion to human origins.  Thus, we can see that the Browne's passage about this exact point has been, to say the very least, seriously misinterpreted.
+:3. As David stated above: {{tq|the passage on p.60 ''is'' somewhat ambiguous and can be easily misinterpreted}} and that {{tq|it should of course only be cited to support statements when the support it provides is unequivocal}}.  As we have seen, the support it provides on this particular subject is far from unequivocal.  It is ambiguous and has been seriously misinterpreted by people experts on Darwin.  It is clear, therefore, that it should not be used to source the point in the article about human origins in OTOOS, when John van Whye is far less ambiguous on this particular topic and far less prone to misinterpretation.
+:4. Finally, it’s not the end of the world but, while the old section title (‎&quot;Janet Browne is not a reliable source about Charles Darwin&quot;) was not neutral , the new one you chose (&quot;Janet Browne as a reliable source about Charles Darwin&quot;) certainly isn’t neutral either. . [[User:Stan Giesbrecht|Stan Giesbrecht]] ([[User talk:Stan Giesbrecht|talk]]) 09:31, 31 May 2016 (UTC)
+
+::@ Stan, as David J Wilson notes above, you're misrepresenting what Browne wrote, but you've now jumped to remove her p. 60 as a cite on the basis of his remark that a passage on that page is  &quot;somewhat ambiguous and can be easily misinterpreted, especially by anybody who can't  be bothered to read the rest of the chapter where it appears.&quot; A published source is needed if you want to assert that it &quot;has been seriously misinterpreted by people experts on Darwin&quot;.&lt;br&gt;Your claim that the homologies passage &quot;is definitely at least an allusion to human origins&quot; is unsupported, and it's just as valid to put that under Browne's description that Darwin &quot;was completely silent on the subject of human origins, although he did refer in several places to mankind as an example of biological details.&quot; Thus, van Wyhe includes it among example of biological details supporting &quot;Darwin's theory of genealogical evolution&quot;, but does not describe it as being on the subject of human origins, and later states &quot;Darwin refrained from discussing the derivation of any particular species, including man, in the Origin except for his famous sentence&quot;. &lt;br&gt;The general statement made by Huxley &amp; Kettlewell doesn't clarify what the &quot;hints&quot; are, and as van Wyhe says, &quot;many people who read the book could think only about what this genealogical view of life meant for human beings&quot;. So, Browne remains a valid source, but given the misinterpretation you seem fixated on, I'm content to cite Costa instead, supporting the text more specifically than van Wyhe, while keeping a cite to him as a useful online source. [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 17:09, 31 May 2016 (UTC)
+
+:::{{anchor|SRG_JB_proof}}1. Dave, I know you are bitter and offended that I called Janet Browne a loon who writes a hodge-podge of mutually contradictory claims (I hope you can forgive me some day) but, in fact, the reason her citation to page 60 is gone is because a number of editors here, who are well read and very knowledgeable about Darwin, misinterpreted it.  That is the proof needed for its removal.  I already provided a couple of diffs above, but will provide some direct quotes (with my added boldface) for you.
+:::2. You [https://en.wikipedia.org/w/index.php?title=Charles_Darwin&amp;diff=700223759&amp;oldid=700174537 posted] the claim that Darwin's “only allusion to human origins” was the light-will-be-thrown statement, citing Browne, 2002, p.60.  I disputed this claim which lead to a vigorous pushback from multiple editors.  [https://en.wikipedia.org/w/index.php?title=Talk:Charles_Darwin&amp;diff=700451117&amp;oldid=700427750 Here] David Wilson wrote:
+:::{{talkquote|
+::::The claim I was referring to in the second paragraph of my above comments was the edit summary of {{diff2|700276672|Charles Darwin|this edit}} where you wrote:
+:::::&quot;saying that sexual selection applies to humans is an allusion to human origins&quot;.
+::::While this edit summary does not say that the suposed allusion to human origins was ''clear'', it neverthelesss appears to me to be the only justification you have offered for your edit, which removed the assertion that Darwin's statement, &quot;light will be thrown on the origin of man and his history&quot;, is the only such allusion in ''On the Origin of Species''.   Since '''that assertion is properly supported by an accurate citation to an unequivocally reliable source (viz. Browne's ''The Power of Place''),''' your edit would only be justified if the statement that sexual selection applies to humans constituted a ''clear and unequivocal'' allusion to human origins, which, in my opinion it does not, for the reasons I have given above.   Since the claim made by the assertion is not at all exceptional (as Yopienso points out in his comments above), '''the burden of demonstrating its verifiability is quite properly met by the citation to Browne''',}}
+
+:::You immediately [https://en.wikipedia.org/w/index.php?title=Talk:Charles_Darwin&amp;diff=700462667&amp;oldid=700451117 backed] David up:
+:::{{talkquote|
+::::'''Clarification re Browne p. 60''', she writes “In this book, he was completely silent on the subject of human origins, although he did refer in several places to mankind as an example of biological details. The only words he allowed himself .... were gnomic in their brevity. 'Light will be thrown on the origin of man'.&quot; '''There's that sentence''', picked out by multiple sources.  '''Stan Giesbrecht is claiming that there are other allusions to the topic''' but, so far, has failed to produce a secondary source supporting that claim.}}
+
+:::3. In fact, Darwin discussed homologies in the Morphology section as well as in the conclusion.  The reality that this alludes to human origins is strongly supported by [[WP:COMMONSENSE]] (whether or not it fits under Browne’s description as you suggest).  A simple and straight forward reading of OTOOS contradicts your earlier reading of Browne, but if that isn’t good enough, here are a couple of secondary sources.
+:::4. While Huxley and Kettlewell might not have specified which passages they think are “hints about man’s animal ancestry”, they ''do specify'' that it was “a number of hints”, thus contradicting your earlier conclusion that Browne stated there was only one.
+:::5. Costa writes (p.199) that Darwin’s reference to sexual selection applying to humans was one of the “references to human origins in the ''Origin''”.  Even though he goes on to say that it isn’t a reference “to human origins per se”, it clearly contradicts your claim of only one such allusion.  It’s so ironic that the citation you added just now makes the exact point I made earlier (for which you so robustly attacked me), contradicting your prior understanding of Browne.
+:::6. Dave, I hope you can see that ''you'' have provided the proof for why Browne is not an appropriate citation for this exact topic. . [[User:Stan Giesbrecht|Stan Giesbrecht]] ([[User talk:Stan Giesbrecht|talk]]) 03:53, 2 June 2016 (UTC)
+
+::::Stan, at last you've provided a couple of sources as requested. Scholars can express differing views on nuances, while still being reliable sources, and Browne fully meets the [[WP:SOURCES]] policy as well as being a well regarded scholar. Costa covers the point that explaining human races isn’t a reference “to human origins per se”, but it's implicit. Which our current wording, as edited by you, covers pretty well. . 10:54, 17 June 2016 (UTC) &lt;small&gt; added timesstamp, but inadvertently omitted  name: [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 17:11, 19 June 2016 (UTC)&lt;/small&gt;
+
+:::::1. You forgot to sign your name, Dave Souza (just so people know who I’m talking to)
+:::::2. The current wording actually doesn’t have the clarity it could and should.  We all agree that ''OTOOS implied that humans have animal ancestry, but didn’t say so explicitly''.  I know you think that this is equivalent to saying there was “no explicit discussion” of human origins, but your wording here is vague, and given the misunderstandings on this very topic, quite unfortunate.  We should strive for clarity; there is no upside to your choice of words and the downside is a risk of misinterpretation.
+:::::3. It is sad that you won’t openly acknowledge any mistakes you have ever made.  Although you tacitly acknowledge that you misinterpreted Browne, it would be so much better if you would have the courage and grace to say so explicitly.
+:::::{{anchor|SRG_JB_redflag}}4. It is also sad that you still deny all concerns about Browne’s reliability, especially given that your link to [[WP:SOURCES]] explicitly mentions “a reputation for fact-checking and accuracy”.  The convoluted mess of contradictory claims on pp.60-61 is certainly a red flag and the fact that you were seriously misled by that very passage is further proof of a red flag.  While most of the statements that she writes will be accurate and her books can be used to source non-controversial facts, these red flags mean that she is certainly not a reliable source to prove any contentious claim.
+:::::5. Most troubling of all, Dave, is your opening line, “{{tq|at last you've provided a couple of sources as requested}}”; for two reasons.  First, I long ago provided passages from the most reliable source of all, ''OTOOS'' itself, which you should have taken seriously instead of simply ignoring on the claim that Wikipedia prohibits the use of primary sources.  Second, it shows a major violation of the [[WP:BURDEN]] of proof, as the onus rests on the party adding or defending a disputed claim to show that it is properly verified and not on the person challenging the claim to show that it is not. --[[User:Stan Giesbrecht|Stan Giesbrecht]] ([[User talk:Stan Giesbrecht|talk]]) 16:07, 18 June 2016 (UTC)
+
+::::::1. A tilde too many so inadvertently omitted name, fixed now. 2–5 You continue to be wrong about Browne, if you want to argue a point is controversial you need good secondary sources. Please desist from using [[VDARE]] as you've [https://en.wikipedia.org/w/index.php?title=The_Descent_of_Man,_and_Selection_in_Relation_to_Sex&amp;diff=725912443&amp;oldid=725712739 tried again] at DoM, that's clearly not a reliable source on the topic.. . . [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 17:11, 19 June 2016 (UTC)
+
+:::::::Dave, you claim that with respect to paragraphs 2 to 5 of my previous post, I “{{tq|continue to be wrong about Browne}}”.  Specifically in paragraph 3, I claim that you misinterpreted Janet Browne, so for clarification, would you please answer the following 2 questions: 
+:::::::Question 1: Did you misinterpret Browne in your [https://en.wikipedia.org/w/index.php?title=Charles_Darwin&amp;diff=700223759&amp;oldid=700174537 17 Jan 2016 post] when you cited Browne for the claim: “His only allusion to human origins was the understatement that &quot;light will be thrown on the origin of man and his history&quot;”?
+:::::::Question 2: Did you misrepresent Browne in your [https://en.wikipedia.org/w/index.php?title=Talk:Charles_Darwin&amp;diff=700462667&amp;oldid=700451117 18 Jan 2016 discussion post,] which included the “Clarification re Browne p. 60” comment?
+:::::::Thanks. --[[User:Stan Giesbrecht|Stan Giesbrecht]] ([[User talk:Stan Giesbrecht|talk]]) 18:03, 20 June 2016 (UTC)
+
+::::::::Hi Stan, it's not clear what your problem is. Browne, is a well regarded historian and fully a reliable source in Wikipedia terms. Of course, it's always good to take account of multiple good secondary sources. . . [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 20:00, 20 June 2016 (UTC)
+
+:::::::::Dave, you say that “{{tq|it’s not clear what [my] problem is.}}”  It's clear that one problem here is that you entirely ignored my questions.  I earlier stated that you misinterpreted Janet Browne, to which you replied that I was wrong about that.  I want you to ''confirm or retract your denial of misinterpreting Browne.''  Please answer me this: '''Did you misinterpret Browne?''' --[[User:Stan Giesbrecht|Stan Giesbrecht]] ([[User talk:Stan Giesbrecht|talk]]) 03:27, 21 June 2016 (UTC)
+
+It seems that one editor doesn't like Browne.  Why does that editor not take this to [[WP:RSN]] then?  [[User:Dbrodbeck|Dbrodbeck]] ([[User talk:Dbrodbeck|talk]]) 12:20, 21 June 2016 (UTC)
+
+:{{anchor|SRG_ack_mistakes}}1. Dbrodbeck, I would be happy to support you if you take this to RSN.  As you know, the citation to the convoluted mess of pp.60-61 is already taken down and Browne is fine to use as a source for non-controversial facts, but it would still be good to have a general caution about using Browne for contentious claims.
+:2. As you also know, Dave Souza posted in January, with the claim that Darwin only ever made one allusion to human origins in OTOOS, citing Browne’s p.60.  David Wilson has commented on this source, saying, “{{tq|the passage on p.60 ''is'' somewhat ambiguous and can be easily misinterpreted}}”, and I believe that Mr. Souza has in fact misinterpreted that passage.  Yet when I put that to him earlier, he said I was wrong, '''thus denying that he misinterpreted Browne.'''  I am highly skeptical of this and want him to ''explicitly confirm or unequivocally withdraw his denial of misinterpreting Browne. ''  Yet, he refuses to do so, claiming he doesn’t know what I’m asking.
+:3. Mr. Souza has made other posts to Wikipedia that have not been accurate.  Yet, I have never seen him acknowledge any error.  Not once!  Dbrodbeck, please explain to me how you think we can properly build an accurate and reliable encyclopedia if Mr. Souza continues to refuse to answer such a simple question as I put to him above. --[[User:Stan Giesbrecht|Stan Giesbrecht]] ([[User talk:Stan Giesbrecht|talk]]) 17:07, 21 June 2016 (UTC)
+
+::Hectoring editors will not help your mission. How about acknowledging that as a [[WP:SPA|single purpose account]], your quoting of rules is not based on experience. And by the way '''did you misinterpret [[WP:CENSORSHIP]]?''' Sorry to be a little pointy there, but I want to illustrate that no one cares about battles and no one will bother following a &quot;discussion&quot; which is actually an old fashioned [[flamewar]]. If there is something to say, it should be said in a matter-of-fact way, and always with an aim of supporting an actionable proposal regarding text in the article. Any such proposal is lost here. [[User:Johnuniq|Johnuniq]] ([[User talk:Johnuniq|talk]]) 23:57, 21 June 2016 (UTC)
+
+:::1. Amazing, Johnuniq, you state that “{{tq|Hectoring editors will not help your mission}}” and then in the very next sentence you hector me for both citing Wikipedia’s rules and also for focusing on one topic, which, by the way, evidence has clearly shown needed (and still needs) improvement.
+:::2. This conversation started as a discussion about the reliability of a particular source.  These conversations are extremely important for Wikipedia and absolutely appropriate for the talk page here.  It was determined that a particular citation was not proper and was taken down, which led to some confusion as to why.  After I explained in greater detail, there was a claim made which seem inconsistent with the evidence so I asked for a clarification.  My initial question wasn't understood, so I simplified the question the second time around; I wasn't hectoring anybody.
+:::3. I know I’ve been a little bit blunt sometimes, but I don’t see any flamewars here; Wikipedia has seen a lot worse in terms of personal insults.  I have always endeavoured to improve this and other articles, and you know very well that I have corrected and helped correct a significant number of substantial inaccuracies here.  Even though a lot of people are uncomfortable with everything Darwin said, many editors actually do care about this and do want a candid article, warts and all. --[[User:Stan Giesbrecht|Stan Giesbrecht]] ([[User talk:Stan Giesbrecht|talk]]) 06:44, 22 June 2016 (UTC)
+
+::::In fact, it would be very gentlemanly of Dave to respond to the question. No guarantee that would get the bee out of Stan's bonnet, but it could mitigate his sense of outrage, which would be good all round. [[User:Yopienso|YoPienso]] ([[User talk:Yopienso|talk]]) 20:11, 22 June 2016 (UTC)
+:::::Since you put it so nicely, I may add that I've '''not''' been simply reverting Stan's contributions as they've included points of value, but have been concerned about apparent pov pushing in the attempts to use [[VDARE]] and, for example, in the edit summary [https://en.wikipedia.org/w/index.php?title=On_the_Origin_of_Species&amp;diff=724512325&amp;oldid=724505569 ''remove totally synthesized left-wing propaganda''] which clearly fails to [[WP:AGF|assume good faith]]. &lt;br&gt; Stan, you may be uncomfortable with some things Darwin said, but that's all the more reason to find good secondary sources which show the context of the times, rather than simply providing quotes which to modern readers have unwarranted implications of racism. See the sources in [[On the Origin of Species#Choice of title]]. While the wording has been improved over earlier versions, Browne remains a good source for mainstream scholarship on Darwin; we take into account other views, but must avoid giving [[WP:WEIGHT|undue weight]] to less scholarly comments. . . [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 00:33, 23 June 2016 (UTC)
+
+::::::1. For the record, Dave, it's bad form to pretend to answer a question just to avoid the heat (your comment to YoPienso: “{{tq|Since you put it so nicely}}” and your [https://en.wikipedia.org/w/index.php?title=Talk:Charles_Darwin&amp;curid=6126&amp;diff=726568488&amp;oldid=726534657 edit] summary: “{{tq|comment as requested }}”).  You still haven't explicitly confirmed or unequivocally withdrawn your denial of misinterpreting Browne.  Please answer the question asked.
+::::::2. Speaking of uncomfortable with things Darwin said, your [https://en.wikipedia.org/w/index.php?title=On_the_Origin_of_Species&amp;curid=29932&amp;diff=726560030&amp;oldid=726556895 recent edit] at the OTOOS page, cited Geoffrey Hodgson, who [http://books.google.com/books?id=SoenvKgNLSUC&amp;pg=PA17 finds] Darwin's belief that &quot;some human races are closer than others to apes&quot; as being &quot;highly regrettable&quot;.  In the preceding paragraph, he falsely claims that “the ''Origin of Species'' does not refer explicitly to human races at all.”  Yet your own edit, citing Desmond &amp; Moore, shows that OTOOS definitely does, and there are also other references to “races of man” in the book.  
+::::::3. There isn't much room to assume good faith when a posted claim is clearly synthesized propaganda, but you are correct that I should not have presumed &quot;left-wing&quot; in my edit summary.
+::::::4. It is really sad that you maliciously edit-war to take down a proper secondary source with ''accurate'' information, because of your misguided moral convictions, while at the same time posting false information citing a source with inaccurate claims, and discussing it on a thread about you doing exactly the same thing with another source.  The truth is stranger than fiction! --[[User:Stan Giesbrecht|Stan Giesbrecht]] ([[User talk:Stan Giesbrecht|talk]]) 15:36, 23 June 2016 (UTC)
+::::::::On point 2., [[Geoffrey Hodgson]] is a respected academic and is cited for the meaning of &quot;favoured races&quot;, not for the point about the tiny minority of three instances in the book when &quot;races of man&quot; is used, far outnumbered by the instances where &quot;race&quot; is used in the sense of &quot;variety&quot;. I've [https://en.wikipedia.org/w/index.php?title=On_the_Origin_of_Species&amp;diff=726710495&amp;oldid=726678991 added another source] on this point, and raised the point at [[Talk:On the Origin of Species#Meaning of favoured races: sources]]. Stan, your repeated removal of this wording looks rather [[WP:POINT]]y, and ls heading towards edit warring. Please desist. . . [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 22:21, 23 June 2016 (UTC)
+::::::*[[User:Stan Giesbrecht|Stan Giesbrecht]] its time to move on to other things.  There is a growing implicit consensus here that you may lack [[WP:COMPETENCE]] to edit on Darwinian topics.  Please, either carefully reconsider your behavior here and modify it or move on to other topics. --[[User:I am One of Many|I am One of Many]] ([[User talk:I am One of Many|talk]]) 15:44, 23 June 2016 (UTC)
+::::::::Agree that it's time for Stan to move on, but not because he's incompetent. He and Dave have collaborated a little and made a little improvement, but they've now lapsed into fruitless carping and evasion. Sad. [[User:Yopienso|YoPienso]] ([[User talk:Yopienso|talk]]) 17:52, 23 June 2016 (UTC)
+:::::::::Ok, I've tried answering the points, but tend to feel this is a waste of time better spent on article improvement. [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 20:57, 23 June 2016 (UTC)
+===Reply to Stan re &quot;following 2 questions&quot;===
+This needs some context, I've been focussing on reviewing sources rather than getting into a detailed argument but, as requested, here are the main points. 
+In [https://en.wikipedia.org/w/index.php?title=Talk:Charles_Darwin&amp;diff=prev&amp;oldid=726200149 this comment] Stan disputed [https://en.wikipedia.org/w/index.php?title=Talk:Charles_Darwin&amp;diff=726045322&amp;oldid=725977179 my comment] that was still wrong about Browne, as [https://en.wikipedia.org/w/index.php?title=Talk:Charles_Darwin&amp;diff=723042925&amp;oldid=722989383%20earlier%20point discussed earlier]. To clarify, Stan [https://en.wikipedia.org/w/index.php?title=Talk:Charles_Darwin&amp;diff=722722213&amp;oldid=722612535 raised assertions] about Browne's reliability, [phttps://en.wikipedia.org/w/index.php?title=Talk:Charles_Darwin&amp;diff=prev&amp;oldid=722967615 in reply] David J Wilson presciently said he had &quot;no intention of being drawn into what I suspect would be and endless back and forth on this matter&quot;, but refuted some of the assertions. Regarding &quot;2. Wouldn’t you agree that she claims in ''Power of Place'' that Darwin took out and kept out all references to “human ancestry” when writing OTOOS?&quot;, David had not seen her make any such claim, and &quot;3. Isn't it also true that Browne claims that Darwin took out and kept out all references to a Creator?&quot; is clearly false as Brown discusses Darwin's references to a Creator. That's why I think Stan continues to be wrong about Browne. In response, he claims I &quot;misinterpreted Janet Browne, so for clarification, would you please answer the following 2 questions&quot; which I'll respond to below. . [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 20:57, 23 June 2016 (UTC)   
+:Question 1: Did you misinterpret Browne in your [https://en.wikipedia.org/w/index.php?title=Charles_Darwin&amp;diff=700223759&amp;oldid=700174537 17 Jan 2016 post] when you cited Browne for the claim: “His only allusion to human origins was the understatement that &quot;light will be thrown on the origin of man and his history&quot;”?
+::As my edit summary said, ''cite Browne, see also Costa'', and my edit continued the sentence to the point that CD had suggested that sexual selection could explain human races. While I think it's a reasonable paraphrase, we've since reached agreement on the more nuanced &quot;He avoided explicit discussion of human origins&quot;, so I don't see a problem there. . [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 20:57, 23 June 2016 (UTC)
+:Question 2: Did you misrepresent Browne in your [https://en.wikipedia.org/w/index.php?title=Talk:Charles_Darwin&amp;diff=700462667&amp;oldid=700451117 18 Jan 2016 discussion post,] which included the “Clarification re Browne p. 60” comment?
+::My 18 Jan 2016 comment quotes Browne, with ellipsis committing words I thought less directly relevant, and noted &quot;Stan Giesbrecht is claiming that there are other allusions to the topic but, so far, has failed to produce a secondary source supporting that claim.&quot; Since then we've found other sources supporting the view that other words in the book imply or hint at human origins, so we've amended the wording as shown above. [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 20:57, 23 June 2016 (UTC)
+Hope that provides the requested clarification. . . [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 20:57, 23 June 2016 (UTC)
+
+:1. In response to my criticism of Browne, Dave wrote, “{{tq|&quot;3. Isn't it also true that Browne claims that Darwin took out and kept out all references to a Creator?&quot; is clearly false as Brown discusses Darwin's references to a Creator. That's why I think Stan continues to be wrong about Browne.}}”  But this argument is [[Non sequitur (logic)| non sequitur]].  While it’s true that she wrote “When he needed to, he spoke cautiously of the Creator, aware that his book might otherwise be labelled atheistic”, this does not prove that she didn’t make false claims elsewhere.  Here is what else Browne wrote on [https://books.google.com/books?id=kCPyDMqSmt4C&amp;pg=PA60#v=onepage&amp;q&amp;f=false page 60] (emphasis added):
+:{{quote frame| 1= '''With profound deliberation''', however, '''he did not include the two difficulties that would have occurred to everybody'''. He avoided talking about the origin of human beings and he avoided God. He remembered the bitter furore over Vestiges. He remembered the years he had spent worrying about divine intervention. No matter how seriously and cautiously he might treat evolutionary questions himself, '''he knew that anything he said was bound to ignite furious controversy, and anticipating just such a response, &lt;u&gt;he had long ago drained his manuscripts of any reference to a Creator&lt;/u&gt; or human ancestry. &lt;u&gt;He had no intention of reintroducing them now&lt;/u&gt;.'''}}
+:2. I maintain that any reasonable person would interpret this as saying that Darwin took out and kept out all references to a Creator.  However, even if Browne was only strongly insinuating that Darwin kept out all such references, the passage is still clearly misleading and her claim that Darwin “had no intention of reintroducing” any reference to a Creator is simply false because he clearly did have such an intention.  This intention is evidenced by his seven uses of the “Creator” in OTOOS as well as Browne’s claim that he wanted such references so that his book wouldn’t “be labelled atheistic”.  So either way, the passage is not only grossly misleading, but also explicitly inaccurate.
+:3. I grew up in a religious community and went to a religious school that taught [[Young Earth creationism| YEC]], which I questioned as an adolescent and young adult.  One thing I noticed was that YEC propaganda, like [[Answers In Genesis]], would blend of fact and fiction together.  When I would identify some false claim, a YEC supporter would dismiss and ignore my concern by pointing to an accurate claim, yet in the next breath, turn around and rely on the false claim.  I have come to realize that Darwin hagiography literature often employs the same tactic: the fact that Browne correctly states that Darwin referenced a Creator in OTOOS does not take away from the fact that she also denies this at another location.
+:4. Wikipedia’s reputation for accuracy and reliability requires that posted material is [[WP:V| verified]] by a clear unambiguous passage, something that Browne’s page 60 most definitely is not.  In the same way, the TalkOrigin passage [http://www.talkorigins.org/indexcc/CA/CA005_2.html &quot;CA005.2&quot;], presently cited by [[On the Origin of Species]], is either false or so ambiguous that either way its use would seriously undermine Wikipedia’s reputation for reliable sourcing, as discussed at [[Talk:On_the_Origin_of_Species#Reliable_sources_on_usage_of_.22race.22| Talk:On the Origin of Species#Reliable sources on usage of &quot;race&quot;]]. --[[User:Stan Giesbrecht|Stan Giesbrecht]] ([[User talk:Stan Giesbrecht|talk]]) 00:21, 25 July 2016 (UTC)
+
+:::&quot;2. I maintain that any reasonable person would interpret this as saying that Darwin took out and kept out all references to a Creator.&quot;
+::No.  Rather than insisting that their own erroneous paraphrase of two brief phrases plucked out of context was the only reasonable interpretation, reasonable people would ''read the preceding part of the chapter'' to try to understand what Browne was actually saying.   Since I ''have'' read the whole two volumes of Browne's biography, including the chapter in question (although all, admittedly, some years ago) I can assure you that your paraphrase ''is'' erroneous.
+::There is no doubt that Browne's use of the word &quot;manuscripts&quot; in the passage you keep quoting does ''not'' refer to drafts of ''On the Origin of Species'' but to the nearly 30 odd years worth of accumulated notebooks and possibly correspondence (I'm not sure about the latter) from which he was preparing those drafts.  The words &quot;drained  ... of any reference to a Creator or human ancestry&quot; simply mean that those references to a Creator or human ancestry which apparently did occur in the earlier of those manuscripts do not do so in the later ones.  There is no implication that anything was ever &quot;taken out of&quot; any manuscript, let alone of ''On the Origin of Species''.  Also, the antecedent of the pronoun &quot;them&quot; which occurs in the final sentence of your above quotation is clearly the &quot;reference[s] to a Creator or human ancestry&quot; which had been &quot;drained&quot; from the manuscripts—i.e. those ''specific'' references that occurred in the earlier of the manuscripts being referred to.   Since I have no reason to believe that the few desultory such references that did eventually make their way into ''On the Origin of Species'' constituted a &quot;reintroduction&quot; of ''those specific ones'' that had (apparently) occurred in the earlier of the manuscripts he was working from, I see no obvious falsehood in the statement that &quot;[Darwin] had no intention of reintroducing them now.&quot;&lt;br&gt;
+::[[User:David_J_Wilson|David&amp;nbsp;Wilson]]&amp;nbsp;&lt;small&gt;([[User talk:David_J_Wilson|talk]]&amp;nbsp;·&amp;nbsp;[[Special:Contributions/David_J_Wilson|cont]])&lt;/small&gt; 06:02, 25 July 2016 (UTC)
+
+::For context, {{cite book|ref=harv|author=Janet Browne|title=Charles Darwin|url=http://books.google.com/books?id=WyQoO3KDglUC&amp;pg=PA60|year=2003|publisher=Pimlico|isbn=978-0-7126-6837-8|p=60}} has the paragraph which any reasonable person would read as a whole, though Stan seems to treat parts of it as separate &quot;claims&quot; made &quot;elsewhere&quot;. . . . [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 22:01, 25 July 2016 (UTC)
+
+:::1. David, for evidence that Darwin “reintroduced” specific references to “the Creator” in OTOOS, compare with his early sketches of 1842 and 1844.  Check out these quotes and footnotes&lt;sup&gt;('''emphasis &lt;u&gt;added&lt;/u&gt;''')&lt;/sup&gt; published in [http://darwin-online.org.uk/content/frameset?pageseq=1&amp;itemID=F1556&amp;viewtype=text ''The Foundations Of The Origin Of Species''], 1909, edited by Francis Darwin (CD’s son):
+{{cot|“laws impressed on matter by the Creator”}}
+{{quote frame|1='''It accords with what we know of the &lt;u&gt;law impressed on matter by the Creator&lt;/u&gt;,''' that the creation and extinction of forms, like the birth and death of individuals should be the effect of secondary [laws] means&lt;sup&gt;3&lt;/sup&gt;.  &lt;br&gt;-- Footnote: &lt;sup&gt;3&lt;/sup&gt; See the ''Origin'', Ed. i. p. 488, vi. p. 668.| 2= Essay of 1842, [http://darwin-online.org.uk/content/frameset?pageseq=85&amp;itemID=F1556&amp;viewtype=side page 51]}}
+{{quote frame|1='''It accords with what we know of the &lt;u&gt;laws impressed by the Creator&lt;/u&gt;&lt;sup&gt;3&lt;/sup&gt; &lt;u&gt;on matter&lt;/u&gt;''' that the production and extinction of forms should, like the birth and death of individuals, be the result of secondary means.  &lt;br&gt;-- Footnote: &lt;sup&gt;3&lt;/sup&gt; See the last paragraph on p. 488 of the ''Origin'', Ed. i., vi. p. 668.| 2= Essay of 1844, [http://darwin-online.org.uk/content/frameset?pageseq=287&amp;itemID=F1556&amp;viewtype=side page 253-254]}}
+{{quote frame|1=To my mind '''it accords better with what we know of the &lt;u&gt;laws impressed on matter by the Creator&lt;/u&gt;,''' that the production and extinction of the past and present inhabitants of the world should have been due to secondary causes, like those determining the birth and death of the individual.| 2= OTOOS, 1859, [http://darwin-online.org.uk/content/frameset?pageseq=506&amp;itemID=F373&amp;viewtype=side page 488]}}
+{{cob}}
+{{cot|the Natural System “reveals the plan of the Creator”}}
+{{quote frame|1=Hence many naturalists have said that '''the natural system reveals the &lt;u&gt;plan of the Creator&lt;/u&gt;:''' but without it be specified whether order in time or place, or '''what''' else '''is meant by the &lt;u&gt;plan of the Creator&lt;/u&gt;,''' such expressions appear to me to leave the question exactly where it was.|2= Essay of 1844, [http://darwin-online.org.uk/content/frameset?pageseq=236&amp;itemID=F1556&amp;viewtype=side page 202]}}
+{{quote frame|1=But many naturalists think that something more is meant by '''the Natural System'''; they believe that it '''reveals the &lt;u&gt;plan of the Creator&lt;/u&gt;; ''' but unless it be specified whether order in time or space, or '''what''' else '''is meant by the &lt;u&gt;plan of the Creator&lt;/u&gt;, ''' it seems to me that nothing is thus added to our knowledge.|2= OTOOS, 1859, [http://darwin-online.org.uk/content/frameset?pageseq=431&amp;itemID=F373&amp;viewtype=side page 413]}}
+{{cob}}
+:::2. You say, “{{tq|reasonable people would ''read the preceding part of the chapter'' to try to understand what Browne was actually saying.}}”  This is what [[apologetics]] do, but as editors of Wikipedia, we are forbidden from [[WP:SYN| drawing inferences]] that are not [[WP:V| directly supported]] by the source.  Your assessment of what Browne meant by ''draining the manuscripts'' might well be correct but that is not enough to source a claim on Wikipedia ([[WP:NOTTRUTH]]).  Browne’s passage is extremely convoluted and the fact that she could have written it in a clear and unambiguous fashion, but deliberately chose not to, is a huge red flag for us.
+:::3. In the same way, at [[On the Origin of Species]], the TalkOrigins passage [http://www.talkorigins.org/indexcc/CA/CA005_2.html “CA005.2”] is being cited for a claim that it simply does not support.  Accurate sourcing is the bedrock foundation of Wikipedia and citing vague, ambiguous, and/or false passages critically undermines this very foundation. --[[User:Stan Giesbrecht|Stan Giesbrecht]] ([[User talk:Stan Giesbrecht|talk]]) 04:32, 7 August 2016 (UTC)
+::::The fact that Stan continues quibbling with no evident relationship to article improvement is a huge red flag. . . [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 17:32, 7 August 2016 (UTC)
+::::I will concede that of the 12 occurrences of references to &quot;the Creator&quot; which occurred in the essay of 1842 and the 13 that occurred in that of 1844 (some of which, including those quoted in your first example, are essentially the same) you have managed to identify ''one''—the second of those you have quoted above—that did find its way into ''On the Origin of Species''.
+:::: In my opinion, your first example does ''not'' qualify as a similar &quot;reintroduction&quot; into ''On the Origin of Species'', because the meaning of the passage you quote from it is somewhat different from those you quote from the two essays.  In the two essays, Darwin makes an absolute statement of the form &quot;X accords with Y&quot;, where X is &quot;the creation [or production] and extinction of forms&quot; and Y is &quot;what we know of the law impressed on matter by the Creator&quot;.
+::::In ''On the Origin of Species'', on the other hand, Darwin merely says that &quot;X accords ''better'' with Y than Z does&quot;, where Z is &quot;the view that each species has been independently created&quot;—as reportedly held by some &quot;authors of the highest eminence&quot;.  That is quite clearly a different statement from the one made in the essays.
+::::[[User:David_J_Wilson|David&amp;nbsp;Wilson]]&amp;nbsp;&lt;small&gt;([[User talk:David_J_Wilson|talk]]&amp;nbsp;·&amp;nbsp;[[Special:Contributions/David_J_Wilson|cont]])&lt;/small&gt; 11:29, 8 August 2016 (UTC)
+
+:::::1. ''David,'' it’s certainly true that saying “X accords with Y” is not identically the same as saying “X accords better with Y than Z does”, but the phrase “what we know of the laws impressed on matter by the Creator” is itself a reference to a Creator that Darwin uses in both earlier works and in OTOOS.  I really don’t see how this doesn’t qualify as a “reintroduction” here, especially given that Francis Darwin explicitly links them to OTOOS in his footnotes.&lt;sup&gt;(presuming it was the listed editor who did the footnotes)&lt;/sup&gt;
+:::::2. But, lets bracket the ''“laws impressed on matter by the Creator”'' reference, because I am very curious how you rationalize the other reference here with your 25 July post where you stated that you “{{tq|see no obvious falsehood in the statement that &quot;[Darwin] had no intention of reintroducing them now.&quot;}}”  You said this was because you had “{{tq|no reason to believe that the few desultory such references that did eventually make their way into ''On the Origin of Species'' constituted a &quot;reintroduction&quot; of ''those specific ones'' that had (apparently) occurred in the earlier of the manuscripts he was working from}}”.
+:::::3. So, now that you concede that the ''Natural System “reveals the plan of the Creator”'' reference “did find its way into” OTOOS from an earlier work, does this change things?  Do you now acknowledge an obvious falsehood in Browne’s statement that &quot;[Darwin] had no intention of reintroducing them now&quot;?  If you say that the falsehood is not obvious, would you accept a ''likely'' falsehood?  Or a ''possible'' falsehood?  What conclusions follow from these two posts of yours? Thanks. --[[User:Stan Giesbrecht|Stan Giesbrecht]] ([[User talk:Stan Giesbrecht|talk]]) 23:52, 11 August 2016 (UTC)
+
+== correct citation ==
+
+footnote 87 comes from notebook D -- not E.  &lt;!-- Template:Unsigned IP --&gt;&lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/75.39.133.12|75.39.133.12]] ([[User talk:75.39.133.12|talk]]) 19:41, 22 August 2016 (UTC)&lt;/small&gt; &lt;!--Autosigned by SineBot--&gt;
+
+{{fixed}}
+:Good catch. Thank you for letting us know.
+:[[User:David_J_Wilson|David&amp;nbsp;Wilson]]&amp;nbsp;&lt;small&gt;([[User talk:David_J_Wilson|talk]]&amp;nbsp;·&amp;nbsp;[[Special:Contributions/David_J_Wilson|cont]])&lt;/small&gt; 00:24, 23 August 2016 (UTC)
+
+== Charles Darwin: Parson v Cleric ==
+
+FYI: &quot;[[Cleric]]&quot; is the preferable term as it can always be correctly used to refer to any ordained person in the Church of England whether that person is in parish ministry as the parish priest or a curate or in non-parish ministry such as a hospital chaplain, academic etc. &quot;[[Parson]]&quot;, however, only ever correctly refers to a parish priest such as an incumbent rector or vicar. [[User:Afterwriting|Afterwriting]] ([[User talk:Afterwriting|talk]]) 22:44, 8 October 2016 (UTC)
+[moved from  [[User talk:dave souza]] 09:46, 9 October 2016 (UTC)]
+:Thanks, the more specific term is appropriate. In your edit summary you wrote &quot;''A &quot;parson&quot;, by definition, is a parish priest. We do not seem to know if that was ever Darwin's intention.''&quot; Browne pp. 89–90 quotes CD's autobiography [finished 1876], that in 1827 he &quot;liked the thought of being a country clergyman&quot;,[http://darwin-online.org.uk/content/frameset?pageseq=59&amp;itemID=F1497&amp;viewtype=text] which is at least rather more precise than &quot;cleric&quot;. Desmond &amp; Moore p. 48 make the point that the benefice to a country parish could readily be bought by Dr. Robert Darwin for his son, and depict CD as thinking that being &quot;a country parson would suit him to a tee&quot;.  CD was attracted by the idea of becoming a [[parson-naturalist]], and in his letter [http://www.darwinproject.ac.uk/DCP-LETT-166 to Caroline Darwin, 25–6 April] [1832] he wrote &quot;Although I like this knocking about.—I find I steadily have a distant prospect of a very quiet parsonage, &amp; I can see it even through a grove of Palms.&quot;  In 1873 his daughter Henrietta [http://darwin-online.org.uk/content/frameset?pageseq=1&amp;itemID=CUL-DAR262.23.11&amp;viewtype=text noted] &quot;After giving up medicine as a profession my F[ather]. thought of taking to be a parson - or rather it was thought of for him&quot;. So, it was clearly Darwin's intention; have made the text &quot;Anglican country [[parson]]&quot;, citing Desmond &amp; Moore. . [[User:Dave souza|dave souza]], [[User talk:Dave souza|talk]] 10:33, 9 October 2016 (UTC)
+
+=== Family Tree ===
+
+ALL of the grandchildren have now been accounted for, but two graves of the spouses of grandchildren: Gwendoline, and Ruth are currently 'missing': '''[[Jacques Raverat]]''' (husband of Gwen Raverat, nee Darwin) and also  '''[[William Rees-Thomas]]''' (husband of Ruth Rees – Thomas, nee Darwin). Jacques Raverat is more than likely to be the most difficult to find in France! Any help in finding them is to be much appreciated?
+
+'Darwinian Gravedigger'  &lt;!-- Template:Unsigned IP --&gt;&lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2.30.188.29|2.30.188.29]] ([[User talk:2.30.188.29#top|talk]]) 13:33, 10 October 2016 (UTC)&lt;/small&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:3|one external link|3 external links}} on [[Charles Darwin]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=750470668 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20100605110511/http://www.darwinproject.ac.uk:80/correspondence-volume-14 to http://www.darwinproject.ac.uk/correspondence-volume-14
+*Added archive https://web.archive.org/web/20101007064257/http://www.darwinproject.ac.uk/darwin-and-the-church-article to http://www.darwinproject.ac.uk/darwin-and-the-church-article
+*Added archive https://web.archive.org/web/20070930014528/http://darwin-online.org.uk/content/frameset?itemID=F937.1&amp;viewtype=text&amp;pageseq=245 to http://darwin-online.org.uk/content/frameset?itemID=F937.1&amp;viewtype=text&amp;pageseq=245
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:InternetArchiveBot|'''&lt;span style=&quot;color:darkgrey;font-family:monospace&quot;&gt;InternetArchiveBot&lt;/span&gt;''']] &lt;span style=&quot;color:green;font-family:Rockwell&quot;&gt;([[User talk:InternetArchiveBot|Report bug]])&lt;/span&gt; 23:11, 19 November 2016 (UTC)</text>
+      <sha1>kvamx06g7buqn9t4pyooa0tgd8rbg8b</sha1>
+    </revision>
+  </page>
+</mediawiki>

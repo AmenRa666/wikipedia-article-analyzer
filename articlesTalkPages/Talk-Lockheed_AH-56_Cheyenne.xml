@@ -1,0 +1,173 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Lockheed AH-56 Cheyenne</title>
+    <ns>1</ns>
+    <id>5590843</id>
+    <revision>
+      <id>481957438</id>
+      <parentid>481948842</parentid>
+      <timestamp>2012-03-15T01:59:20Z</timestamp>
+      <contributor>
+        <username>Born2flie</username>
+        <id>1720520</id>
+      </contributor>
+      <comment>/* AAFSS program review */ comment</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13091">{{Talk header|noarchive=yes}}
+{{ArticleHistory
+|action1=WPR
+|action1date=17:21, 23 January 2009 (UTC)
+|action1link=Wikipedia:WikiProject Military history/Peer review/AH-56 Cheyenne
+|action1result=reviewed
+|action1oldid=264874662
+
+|action2=WAR
+|action2date=19:40, 21 October 2009
+|action2link=Wikipedia:WikiProject Military history/Assessment/AH-56 Cheyenne
+|action2result=approved
+|action2oldid=321233096
+
+|action3=WAR
+|action3date=01:47, 14 November 2009 (UTC)
+|action3link=Wikipedia:WikiProject Aviation/Assessment/AH-56 Cheyenne
+|action3result=approved
+|action3oldid=324310401
+
+|action4=GAN
+|action4date=03:21, 31 December 2011 (UTC)
+|action4link=Talk:Lockheed AH-56 Cheyenne/GA1
+|action4result=listed
+|action4oldid=468706978
+
+|currentstatus=GA
+|topic=war
+}}
+{{WikiProjectBannerShell|
+{{WPMILHIST|class=A |A-Class=pass |Aviation= yes |US= yes |Cold-War= yes |portal1-name= United States Air Force |portal1-link=Vehicle Spotlight/8 |old-peer-review=yes }}
+{{WikiProject Aviation|class=A |A-Class=pass |b1=yes |b2=yes| b3=yes |b4=yes |b5=yes |Rotorcraft=yes}}
+}}
+{{Archive box|search = yes | 
+*[[/2008 draft talk|Archive of talk for November 2008 draft]]
+*[[/Archive 1|Archive 1]]}}
+
+== Prototypes later use ==
+
+OK, there were 8 prototypes left after cancellation of the program.  I guess these just stored.  Seems like they would try using them for flight test research or weapons fitting, something.  Judging by what I've been able to find, any later use was minor or didn't happen.  Is this correct?  Thanks. -[[User:Fnlayson|Fnlayson]] 15:17, 21 October 2007 (UTC)
+
+:Four prototypes have survived to be displays. One at Fort Campbell, KY, one at Fort Polk, LA, and two at the Army Aviation Museum at Fort Rucker, AL. I believe the rest were gunnery targets, I'm not sure what location. --[[User:Born2flie|Born2flie]] 00:30, 22 October 2007 (UTC)
+:* Thanks.  I need to go see to one and other helos at Fort Rucker.  There might be some good pictures to take there. -[[User:Fnlayson|Fnlayson]] 00:46, 22 October 2007 (UTC)
+
+:I would say that the Fort Polk aircraft is in the best shape, as it was recently restored in the 1990s. The Fort Rucker aircraft on display is in terrible shape and the one in storage is in a better condition but badly in need of a repaint. The Fort Campbell aircraft, the last I saw it, needs a lot of work. Pretty good, though, to have four displays of the aircraft that never made it into the inventory! --[[User:Born2flie|Born2flie]] 02:00, 22 October 2007 (UTC)
+:* OK.  Fort Campbell is the next closer one to me.  I can't think of another aircraft where 10 prototypes were built of the same variant.  Maybe I haven't paid a lot of attention to that. -[[User:Fnlayson|Fnlayson]] 02:13, 22 October 2007 (UTC)
+
+Each of the 10 prototypes was built for a particular task 
+
+1000, No serial Number, never flew, was simply a static test article, Aberdeen Proving Grounds as of 1982
+
+1001, Ser 66-8826, Ground test vehicle, never flew, Used for various ground, engine and rotor tests, Used for ballistic survivability testing at Rock Island Arsenal, Was in state of dissasembly at Aberdeen proving grounds as of 1982
+
+1002, Ser 66-8827, Flight Development Vehicle, Initial Flying qualities and areodynamics, 1st to fly, Fort Polk Display
+
+1003, Ser 66-8828  Flight Development Vehicle, Envelope Expansion, Crashed, Killing Dave Beil
+
+1004, Ser 66-8829  Weapons Integration Vehicle, Scrapped
+
+1005, Ser 66-8830  Avionics Vehicle, 1st to have the full avionics (IHAS) Fort Rucker, Storage
+
+1006, Ser 66-8831  Weapons Test Vehicle, Used in the Cheyenne / Cobra Flyoff at Hunter Ligget
+Fort Campbell Display
+
+1007, Ser 66-8832  Missle and night Vision Vehicle, Fastest recorded flight of all prototypes 240 knots, Fort Rucker Display
+
+1008, Ser 66-8833  Avionics Labrotory, never flew, Aberdeen Proving Grounds as of 1982
+
+1009, Ser 66-8834  Flight Development Vehicle, replaced 1003 as the envelope expansion vehicle and was fitted with an F-104 Ejection seat in the front cockpit after the loss of 1003, scrapped
+
+1010, Ser 66-8835  Complete Systems Vehicle, Destroyed in Ames wind tunnel  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/74.166.21.69|74.166.21.69]] ([[User talk:74.166.21.69|talk]]) 08:38, 5 January 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+: Thanks.  This matches what the Landis &amp; Jenkins AH-56 book says on a page in the back.  The book gives more details. -[[User:Fnlayson|Fnlayson]] ([[User talk:Fnlayson|talk]]) 15:53, 2 January 2009 (UTC)
+
+Hum, AH-56 numbers 1 and 8 never flew.  Should this be mentioned in the article like in the infobox or somewhere? -[[User:Fnlayson|Fnlayson]] ([[User talk:Fnlayson|talk]]) 16:29, 3 January 2009 (UTC)
+: Make that number 0 (test article), 1 and 8 did not fly.  So 8 were flight airframes. Will try to mention this in the text in a summary manner. -[[User:Fnlayson|fnlayson]] ([[User talk:Fnlayson|talk]]) 19:48, 3 February 2011 (UTC)
+
+==Extra sources==
+Here's a source that may or may not be worthy, but at least interesting reading.
+
+*[http://www.flightglobal.com/pdfarchive/view/1965/1965%20-%201806.html Flight Global Archive - AAFSS]
+*[http://books.google.com/books?id=Be6XiVviR-QC&amp;pg=PA118&amp;lpg=PA118&amp;dq=aafss+requirements&amp;source=bl&amp;ots=vlm7fy_kur&amp;sig=pe4azE0ed-WXfWLvwfihAoWy6Oo&amp;hl=en#v=onepage&amp;q&amp;f=false History of Army Aviation]
+::This source really had nothing to say about AAFSS other than to say that development would be too long to influence Vietnam, a conclusion better spelled out in other references. --[[User:Born2flie|Born2flie]] ([[User talk:Born2flie|talk]]) 00:59, 15 March 2012 (UTC)
+*[http://www.rotaryforum.com/forum/showthread.php?p=465050#post465050 History Channel shows] predecessors not mentioned in the article: scale model with rigid rotor, [[Lockheed CL-475]] with control gyro, and the [[Lockheed XH-51]]. This article seems to focus too much on the army side of the program, and too little on the Lockheed side. I am not sure how to incorporate sources from the two articles into this one &lt;small&gt;(I know youtube is not a source)&lt;/small&gt;. [[User:TGCP|TGCP]] ([[User talk:TGCP|talk]]) 21:46, 12 March 2012 (UTC)
+
+:: The CL-475 and XH-51 mainly served as tech demonstrators for the Lockheed's rigid-rotor design.  The rotor design did not scale up easily for the AH-56 though.  I'll try to add mentions with a cite in the &quot;AAFSS competition&quot; section.  That seems to be the most fitting place at the moment. -[[User:Fnlayson|Fnlayson]] ([[User talk:Fnlayson|talk]]) 21:59, 12 March 2012 (UTC)
+:::Neither are related to AH-56 development directly, Lockheed merely used the concept it was developing as the basis of its design for the contract bid. It is a common theme with rotorcraft manufacturers. The AH-56 story doesn't start at all until the Army puts out the request to industry for their concepts to meet a requirement. CL-475 and XH-51 are not in that picture and to include them is to suggest that Lockheed was working in that direction. As far as Lockheed's side of the story goes, they shut down their rotorcraft division after the Model 286 (civilian version of the XH-51) failed to sell and the loss of the AH-56 contract. There simply isn't a lot of documentation for their side. It is like asking Cessna about the CH-1, &quot;The CH-what?&quot; --[[User:Born2flie|Born2flie]] ([[User talk:Born2flie|talk]]) 00:33, 15 March 2012 (UTC)
+
+==AAFSS program review==
+:&quot;The Army convened a special task force under General Marks in January 1972, to reevaluate the requirements for an attack helicopter. The purpose of the Marks Board was to develop an &quot;updated and defensible&quot; material needs document.[4] The task force conducted flight evaluations of the AH-56, along with two industry alternatives for comparison: the Bell 309 King Cobra and Sikorsky S-67 Blackhawk. Analysis of the three helicopters determined that the Bell and Sikorsky helicopters could not fulfill the Army's requirements.[4][8][37]&quot;
+
+{{od}}Can we actually confirm that the Army flight evaluated the Cheyenne, King Cobra and Blackhawk together? I don't have the Landis and Jenkins ref. I never thought the Blackhawk was part of this program &quot;officially&quot; because Lockheed had won out against Sikorsky S-66 for the development contract. So I've thought the KC and B were more or less independent efforts by the two helicopter vendors. --[[User:The Founders Intent|&lt;font color=&quot;green&quot;&gt;'''''T&lt;small&gt;HE&lt;/small&gt; F&lt;small&gt;OUNDERS&lt;/small&gt; I&lt;small&gt;NTENT &lt;/small&gt;'''''&lt;/font&gt;]]&lt;sup&gt;[[User talk:The Founders Intent|''PRAISE'']]&lt;/sup&gt;  15:46, 12 September 2011 (UTC)
+
+* I can check, but believe the Bell and Sikorsky were evaluated separately in '72.  The Cheyene went through various testing and evals up until the program was totally canceled later that year. That wording was not meant to imply/suggest they are all tested together at the same time and place. :( -[[User:Fnlayson|Fnlayson]] ([[User talk:Fnlayson|talk]]) 16:02, 12 September 2011 (UTC)
+
+::I think I remember reading in my sources that there was an evaluation of all three type. I'll check later today. - [[User:BilCat|BilCat]] ([[User talk:BilCat|talk]]) 16:28, 12 September 2011 (UTC)
+
+::: Thanks.  I'll also have wait until later to check when I go home.  The link to the Army Attack Helicopter Program document(ref. 4) is not working for me now.  Here's the relevant text from page 9 of that document. 
+::: &lt;blockquote&gt;  On 14 January 1972, the Army established a special task force to conduct a reevaluation of its attack helicopter requirements and to prepare an updated and defensible Materiel Need (MN) document. In the generation of this MN, the Task Force considered field tests, combat experience and computer simulations that have been conducted over the past several years as well as actual flight evaluations of the CHEYENNE and two company-funded prototypes (Bell KING COBRA and Sikorsky BLACKHAWK). The requirements identified for an Advanced Attack Helicopter which could be available in the late 1970's ...&lt;/blockquote&gt;
+::: Maybe that'll explain things a bit better. -[[User:Fnlayson|Fnlayson]] ([[User talk:Fnlayson|talk]]) 16:34, 12 September 2011 (UTC)
+
+::::I'm thinking more along the lines of OFFICIAL participation, because there's no arguing they built these helicopters in response to the existence of AAFSS. Of course S-66 and S-67 are closely related. --[[User:The Founders Intent|&lt;font color=&quot;green&quot;&gt;'''''T&lt;small&gt;HE&lt;/small&gt; F&lt;small&gt;OUNDERS&lt;/small&gt; I&lt;small&gt;NTENT &lt;/small&gt;'''''&lt;/font&gt;]]&lt;sup&gt;[[User talk:The Founders Intent|''PRAISE'']]&lt;/sup&gt;  16:42, 12 September 2011 (UTC)
+
+:::::I'm not sure how closely related the S-66 and S-67 were. The S-67 was basically an S-61 with wings and a tandem cockpit, and used the S-61's dynamic components. It wasn't just a built version of the S-66, though it incorporated many features. - [[User:BilCat|BilCat]] ([[User talk:BilCat|talk]]) 17:37, 12 September 2011 (UTC)
+
+:::::- It might depend on what you mean by 'official' here.  But everything I've read says Bell and Sikorsky developed their prototypes on their own with company funds in the hopes of getting orders. -[[User:Fnlayson|Fnlayson]] ([[User talk:Fnlayson|talk]]) 17:40, 12 September 2011 (UTC)
+
+::::::Official means an offerer in the AAFSS acquisition. I think the basic difference bet/ the S-66 and S-67 was the pivoting tail rotor. --[[User:The Founders Intent|&lt;font color=&quot;green&quot;&gt;'''''T&lt;small&gt;HE&lt;/small&gt; F&lt;small&gt;OUNDERS&lt;/small&gt; I&lt;small&gt;NTENT &lt;/small&gt;'''''&lt;/font&gt;]]&lt;sup&gt;[[User talk:The Founders Intent|''PRAISE'']]&lt;/sup&gt;  18:00, 12 September 2011 (UTC)
+
+:::::::The reference clearly states the three aircraft were flown in a common evaluation. The S-67 and KINGCOBRA were both flown ca 1972 for the Army's evaluation to determine their ability to meet the AAFSS requirements and possibly to determine whether any of the aircraft could meet the soon to be released AAH requirements. We know anecdotally that they did not meet the requirements, and we can only infer which features were shortcomings in comparison to AAH requirements. 
+:::::::Re: S-67 specifically. WP article says that it was started November 1969, well after AAFSS award, possibly to capitalize on Bell's success with the Cobra as an interim solution, to show the Army that Sikorsky could do it cheaper, better, and probably to solicit international sales (it was marketed to Egypt and Iran). When it crashed in 1974, they were unable (unwilling?) to recreate the aircraft because it was constructed as a one-off without any jigging developed for the airframe. While the cockpit and wing layout seems to be configured similarly to the S-66, the S-67 differed in powertrain. For instance, the S-66 is depicted as a single-engine, four-bladed main rotor design, while the S-61 and S-67 are twin-engined and five-bladed. Designs change, but the AAFSS competition was design-only, so I don't believe that the S-66 evolved into the S-67 with Army influence through an acquisition program. --[[User:Born2flie|Born2flie]] ([[User talk:Born2flie|talk]]) 01:59, 15 March 2012 (UTC)</text>
+      <sha1>dla0ufn7b03zucs9jdl6wk521yk108k</sha1>
+    </revision>
+  </page>
+</mediawiki>

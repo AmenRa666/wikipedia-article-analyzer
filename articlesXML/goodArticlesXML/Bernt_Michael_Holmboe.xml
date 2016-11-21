@@ -1,0 +1,143 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bernt Michael Holmboe</title>
+    <ns>0</ns>
+    <id>20142485</id>
+    <revision>
+      <id>747135141</id>
+      <parentid>728934422</parentid>
+      <timestamp>2016-10-31T17:14:49Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 1 sources and tagging 1 as dead. #IABot (v1.2.6)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13038">{{Infobox scientist
+| name = Bernt Michael Holmboe
+| image = HolmboeBM2.jpg
+| image_size = 200px
+| caption = Bernt Michael Holmboe
+| birth_date = {{birth date|1795|3|23|df=y}}
+| birth_place = [[Vang, Oppland|Vang]], [[Norway]]
+| death_date = {{death date and age|1850|3|28|1795|3|23|df=y}}
+| death_place = [[Oslo|Christiania]], Norway
+| residence =
+| nationality = [[Norway|Norwegian]]
+| field = [[Mathematics]]
+| work_institutions = [[Oslo katedralskole|Christiania Cathedral School]] (1818-1826)&lt;br&gt;[[University of Oslo|Royal Frederick University]] (1826-1850)
+| alma_mater = Royal Frederick University&lt;br&gt;&lt;small&gt;(partly autodidact)&lt;/small&gt;
+| doctoral_advisor =
+| doctoral_students =
+| known_for  = Tutor of [[Niels Henrik Abel]]&lt;br&gt;Influential textbooks
+| religion =
+| footnotes=
+}}
+
+'''Bernt Michael Holmboe''' (23 March 1795 &amp;ndash; 28 March 1850&lt;ref name=uio&gt;{{cite web|url=http://www.math.uio.no/~bentb/Oslomat/Oslomat.html#bholmb |title=Matematikklærerne ved Universitetet i Oslo|last=Birkeland|first=Bent|publisher=University of Oslo|language=Norwegian|accessdate=13 October 2010 |archiveurl = https://web.archive.org/web/20080412100512/http://www.math.uio.no/~bentb/Oslomat/Oslomat.html#bholmb |archivedate = 12 April 2008}}&lt;/ref&gt;) was a [[Norway|Norwegian]] [[mathematician]]. He was home-tutored from an early age, and was not enrolled in school until 1810. Following a short period at the [[University of Oslo|Royal Frederick University]], which included a stint as assistant to [[Christopher Hansteen]], Holmboe was hired as a mathematics teacher at the [[Oslo katedralskole|Christiania Cathedral School]] in 1818, where he met the future renowned mathematician [[Niels Henrik Abel]]. Holmboe's lasting impact on [[mathematics]] worldwide has been said to be his tutoring of Abel, both in school and privately. The two became friends and remained so until Abel's early death. Holmboe moved to the Royal Frederick University in 1826, where he worked until his own death in 1850.&lt;!-- In 1844, he was elected a member of the [[Royal Swedish Academy of Sciences]].--&gt;
+
+Holmboe's significant impact on mathematics in the fledgling Norway was his textbook in two volumes for secondary schools. It was widely used, but faced competition from Christopher Hansteen's alternative offering, sparking what may have been Norway's first debate about school textbooks.&lt;ref name=snl&gt;{{cite encyclopedia |year=2007 |title=Holmboe, Bernt Michael |encyclopedia=[[Store norske leksikon]] |publisher=Kunnskapsforlaget |url=http://snl.no/Bernt_Michael_Holmboe |accessdate=9 November 2008|language=Norwegian}}&lt;/ref&gt;
+
+==Early life and career==
+Bernt Michael Holmboe was born in [[Vang, Oppland|Vang]]&lt;ref name=uio/&gt; in 1795, the son of [[vicar]] Jens Holmboe (1746&amp;ndash;1823) and his wife Cathrine Holst (1763&amp;ndash;1823). He grew up in [[Eidsberg]] with his nine siblings, and was the elder brother of noted philologist [[Christopher Andreas Holmboe]]. Holmboe was homeschooled from an early age, but was sent to the [[Oslo Cathedral School|Christiania Cathedral School]] in 1810 to complete his secondary education. There he undertook extracurricular studies in [[mathematics]]. He enrolled as a student at the [[University of Oslo|Royal Frederick University]] in 1814, a [[Norway in 1814|turbulent year]] in Norwegian history. Norway had been a province of [[Denmark]] since 1397, but had come under [[Sweden|Swedish]] control in the January 1814 [[Treaty of Kiel]]. Following Norway's declaration of independence in the [[Norwegian Constitution|Constitution of 17 May]], Sweden responded by waging a [[Swedish campaign against Norway (1814)|military campaign against Norway]] during the summer of 1814. Holmboe was a spokesperson for the student group opposed to the presence of Swedish troops in the country.&lt;ref name=bio&gt;{{cite news|first=Arild |last=Stubhaug |title=Den inspirerende læreren |work=[[Forskning.no]] |date=25 May 2004 |accessdate=20 February 2009 |url=http://www.forskning.no/Artikler/2004/mai/1084540184.71/artikkel_print |language=Norwegian |deadurl=yes |archiveurl=https://web.archive.org/web/20070929115955/http://www.forskning.no/Artikler/2004/mai/1084540184.71/artikkel_print |archivedate=29 September 2007 |df= }}&lt;/ref&gt; Any outspokenness from the student community was highly visible at the time, as the university had only seventeen students as of 1813, its year of establishment.&lt;ref&gt;{{cite web|first=|last=|title=Historikk for UiO|publisher=University of Oslo|date=15 June 2004|accessdate=13 October 2010|url=http://www.uio.no/om_uio/historikk.html |language=Norwegian |archiveurl = https://web.archive.org/web/20080803231750/http://www.uio.no/om_uio/historikk.html |archivedate = 3 August 2008}}&lt;/ref&gt;
+
+As well as his private studies, Holmboe attended lectures given by [[Søren Rasmusen]]. In 1815 he was appointed to the position of scientific assistant under [[Christopher Hansteen]], a lecturer at the university, and delivered some lectures himself. In early 1818, Holmboe became a mathematics teacher at the Christiania Cathedral School, a position that had become vacant in 1817. The school principal, [[Jacob Rosted]], had invited Holmboe's brother, Christopher Andreas, who had also studied mathematics, to take up the position, but he had decided instead to concentrate on philology; Christopher went on to research the [[Sanskrit language]] among others. In his teaching, Holmboe drew inspiration from [[Joseph-Louis Lagrange]].&lt;ref name=bio/&gt;
+
+===Niels Henrik Abel===
+{{Main article|Niels Henrik Abel}}
+At the Christiania Cathedral School, Holmboe met [[Niels Henrik Abel]], then a pupil there.&lt;ref name=bio/&gt; Holmboe quickly discovered Abel's talent, and proclaimed him as a &quot;splendid genius&quot; in his [[report card]].&lt;ref group=&quot;quote&quot;&gt;Quote: {{Lang|no|''&quot;Et udmerket mathematisk Genie.&quot;''}} In English: &quot;A splendid mathematical genius.&quot; (remark written by Holmboe)&lt;/ref&gt;&lt;ref&gt;{{cite news|first=Arild|last=Stubhaug|title=Niels Henrik Abel(1802&amp;ndash;1829)|work=Forskning.no|date=17 March 2005|accessdate=9 November 2008|url=http://www.forskning.no/artikler/2005/mars/1110963976.92|language=Norwegian}}&lt;/ref&gt; The school's primary focus was on [[Classics|classical education]] and [[Latin]], and so Holmboe tutored Abel privately. His personal support for Abel has been called &quot;[Holmboe's] most important contribution to mathematics&quot;.&lt;ref group=&quot;quote&quot;&gt;Quote: {{Lang|no|''&quot;... måten Holmboe støttet og hjalp Abel på, må sies å være hans viktigste bidrag til matematikken.&quot;''}} In English: &quot;... the way Holmboe supported and helped Abel should be considered his most important contribution to mathematics.&quot; (statement of the article writer)&lt;/ref&gt;&lt;ref name=bio/&gt;
+
+Holmboe and Abel became close friends. Two of Holmboe's younger brothers studied with Abel, and the three were also on friendly terms. Abel was invited to the Holmboe family residence in Eidsberg on several occasions, including to celebrate Christmas.&lt;ref name=bio/&gt;
+
+Abel died from [[tuberculosis]] in 1829, at the age of twenty-six.&lt;ref name=abel&gt;{{cite news |first=Håkon|last=Fenstad|title=Store framskritt i kort liv|work=Apollon|date=1 January 1996|accessdate=9 November 2008 |url=http://www.apollon.uio.no/vis/art/1996/1/abel|language=Norwegian }}&lt;/ref&gt; Ten years after Abel's death Holmboe edited and published his complete works in two volumes&amp;mdash;''Oeuvres complètes de N.H. Abel'' ('Complete Works of N.H. Abel').&lt;ref name=bio/&gt; He was the first to do so.&lt;ref name=snl/&gt;
+
+==Later life and career==
+Holmboe published his first textbook in mathematics in 1825. The 274-page book was named ''Lærebog i Mathematiken. Første Deel'' (''Textbook in Mathematics. Part One''). In 1827 he followed with the second volume, ''Lærebog i Mathematiken. Anden Deel'' (''Textbook in Mathematics. Part Two''), consisting of a further 155 pages. He used his own teaching experience as the background for his writing; mainly abstract, the purpose of the books was to instill [[logical]] thinking. For instance, in the field [[geometry]], it enticed readers to envisage a figure instead of putting it to paper. The books became widely used, and were reprinted in four and five volumes respectively.&lt;ref name=bio/&gt;
+
+In 1826, Holmboe was appointed a lecturer at the Royal Frederick University.&lt;ref name=bio/&gt; Some claimed that he owed his appointment to Abel's absence, as the latter was travelling around in Europe at that time.&lt;ref name=abel/&gt; Holmboe also taught mathematics at a military college, from 1826 until his death, and was promoted to professor at the Royal Frederick University in 1834. His later publications include ''Stereometrie'' (''Stereometry'') (1833), ''Plan- og sfærisk Trigonometrie'' (''Plan and Spherical Trigonometry'') (1834), and ''Lærebog i den høiere Mathematik'' (''Textbook of Advanced Mathematics'') (1849). Holmboe was an influence on other mathematicians as well as Abel, including [[Ole Jacob Broch]] (born 1818).&lt;ref name=bio/&gt;
+
+At the university, Holmboe again met Christopher Hansteen, who had become a professor there in 1816. In 1835, Hansteen published his own mathematics textbook for secondary schools. A reaction to Holmboe's books and method of teaching, it was more practically oriented. Holmboe wrote a review of the book for the newspaper ''[[Morgenbladet]]'', in which he advised schools not to use it. A public debate followed, with contributions from other mathematicians. It has been claimed that this was the first debate on the subject of school textbooks in Norway.&lt;ref name=bio/&gt; Hansteen's textbook was not reprinted.&lt;ref name=bio/&gt;
+
+Holmboe also became involved in the field of [[insurance]]. From 1832 to 1848 he was a member of ''Tilsynskomiteen for private forsørgelses- og understøttelsesselskaper'', the country's first public committee for the supervision of insurance companies. On the other side of the table, from 1847 Holmboe was a member of the [[board of directors]] of the insurance company [[Gjensidige]], founded by his former student Ole Jacob Broch.&lt;ref name=bio/&gt;
+
+==Legacy==
+A Bernt Michael Holmboe Memorial Prize for teachers of mathematics was established in 2005, and is awarded annually. The prize money, [[Norwegian krone|NOK]] 50,000, is taken from the Abel Found, which also cover the [[Abel Prize]].&lt;ref&gt;{{cite news|first=Arild|last=Stubhaug|title=Abelfondets profil|work=Forskning.no|date=17 March 2005|accessdate=9 November 2008|url=http://www.forskning.no/artikler/2005/mars/1110973907.5 |language=Norwegian}}&lt;/ref&gt;&lt;ref&gt;[http://www.abelprisen.no/en/abelprisen/aktivitetsprofil.html The Abel Prize web site], ''The Abel Fund: Activity Profile''&lt;/ref&gt; The prize is administered by the board of the [[Norwegian Mathematical Society]]. The current board chairman is Tom Lindstrøm, professor at the University of Oslo.&lt;ref&gt;{{cite web|url=http://holmboeprisen.no/dokumenter/styre.html|title=Board of directors|publisher=Bernt Michael Holmboe Memorial Prize official site|language=Norwegian|accessdate=9 November 2008}}&lt;/ref&gt;
+
+A street at [[Majorstuen]] in Oslo, ''Holmboes gate'', has been named after Bernt Michael Holmboe. Before 1879 it was named ''Hansteens gate'', after Christopher Hansteen.&lt;ref name=oby&gt;{{cite encyclopedia|year=2000|title=Holmboes gate|encyclopedia=Oslo byleksikon|edition=4|editor=Tvedt, Knut Are|publisher=Kunnskapsforlaget|location=Oslo|page=195|isbn=82-573-0815-3}}&lt;/ref&gt;
+
+==Marriage and children==
+Holmboe married twice.&lt;ref name=bio/&gt; His first wife, Nikoline Antonie Finkenhagen, born 1804 in [[Toten]], died in 1839 after five years of marriage. They had three daughters, two of whom (Fredrikke and Nikoline, Jr.) reached adulthood, and one stillborn son. He married his second wife, Ingeborg Thorp in 1842. She was born in 1812 in [[Voss]]. This marriage produced two sons, Christopher and Jens, and two daughters, Cathrine and Olava. Only Jens and Cathrine reached adulthood.&lt;ref name=genealogy&gt;[http://holmboe.slekt.no/data/0001/236.htm Genealogical entry for Bernt Michael Holmboe]{{dead link|date=October 2016 |bot=InternetArchiveBot |fix-attempted=yes }} &amp;ndash; published by ''Fogd Jens Holmboes legat''. Retrieved on 9 November 2008. {{no icon}}&lt;/ref&gt;
+
+Bernt Michael Holmboe died in 1850,&lt;ref name=uio/&gt; and his second wife outlived him by thirty-three years.&lt;ref name=genealogy/&gt;
+
+==References and notes==
+;Notes
+&lt;references group=&quot;quote&quot; /&gt;
+
+;References
+{{Reflist}}
+
+==Further reading==
+* {{cite book | author = Livio, Mario | authorlink = Mario Livio | title = The Equation That Couldn't be Solved | year = 2005 | publisher = Simon &amp; Schuster | location = New York| isbn = 0-7432-5821-5}}. See particularly Chapter 4.
+
+{{good article}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Holmboe, Bernt Michael}}
+[[Category:1795 births]]
+[[Category:1850 deaths]]
+[[Category:Norwegian mathematicians]]
+[[Category:University of Oslo faculty]]
+[[Category:Members of the Royal Swedish Academy of Sciences]]
+[[Category:People from Østfold]]
+[[Category:People educated at Oslo Cathedral School]]
+[[Category:Niels Henrik Abel]]</text>
+      <sha1>aahxlwjbjaj87xtg0sfgs5f4wa5qpkk</sha1>
+    </revision>
+  </page>
+</mediawiki>

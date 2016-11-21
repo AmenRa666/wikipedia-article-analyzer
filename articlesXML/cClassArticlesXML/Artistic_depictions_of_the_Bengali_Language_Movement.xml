@@ -1,0 +1,104 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Artistic depictions of the Bengali Language Movement</title>
+    <ns>0</ns>
+    <id>11924532</id>
+    <revision>
+      <id>647877733</id>
+      <parentid>646589344</parentid>
+      <timestamp>2015-02-19T14:00:28Z</timestamp>
+      <contributor>
+        <username>SamuelTheGhost</username>
+        <id>5414875</id>
+      </contributor>
+      <minor/>
+      <comment>/* Poems */ link</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1906">{{main|Bengali Language Movement}}
+[[Image:Shaheed minar Roehl.jpg|thumb|right|[[Shaheed Minar, Dhaka|Shaheed Minar]], or the Martyr's monument, located near [[Dhaka Medical College]], commemorates the struggle for Bengali language]]
+[[Image:Statue 21 February 02.jpg|right|thumb|[[Moder Gorob]], a commemorative sculpture at [[Bangla Academy]]]]
+The [[Bengali Language Movement]] was a political effort in [[East Pakistan]] (now [[Bangladesh]]) that advocated the adoption of [[Bengali language|Bengali]] as an official language. The movement faced violent opposition by the government before finally succeeding. Numerous songs, poems, novels and plays were written to commemorate the movement, as well as films and memoirs.
+
+==Songs==
+*''[[Amar Bhaier Rokte Rangano]]'' (My Brothers Blood Spattered) by [[Abdul Gaffar Choudhury]]
+*''Ora Amar Mukher Kotha'' (They are my Words) by [[Abdul Latif (songwriter)|Abdul Latif]]
+*''Ekushey February'' (21 February) by [[Kabir Suman]]
+
+==Poems==
+*''Kadte Ashini Fashir Dabi Niye Ashechi'' (I have not come to mourn but to appeal for hanging) by [[Mahbub Ul Alam Choudhury]]
+*''Bornomala, Amar Dukhini Bornomala'' by [[Shamsur Rahman (poet)|Shamsur Rahman]]
+*''February 1969'' by [[Shamsur Rahman (poet)|Shamsur Rahman]]
+*''Amake ki malyo debe dao'' by [[Nirmalendu Goon]]
+*''Chithi'' by [[Abu Zafar Obaidullah]]
+*''Shobhyotar Monibondhe'' by [[Syed Shamsul Haque]]
+
+==Novels==
+*''Ekushey February'' by [[Zahir Raihan]]
+*''Artonaad'' by [[Shawkat Osman]]
+*''Nirontor Ghontadhoni'' by [[Selina Hossain]]
+
+==Films==
+*''[[Jibon Theke Neya]]'' (Taken from Life) directed by [[Zahir Raihan]]
+
+==Stage play==
+*''Kobor'' (Grave) by [[Munier Chowdhury]]
+
+==See also==
+* [[Artistic depictions of Bangladesh Liberation War]]
+
+{{Language Movement}}
+
+[[Category:History of Bangladesh]]
+[[Category:Bengali Language Movement]]
+[[Category:Bengali language]]
+
+
+{{Bangladesh-stub}}</text>
+      <sha1>lr6nbqvbybtj84spj88mtnmznfkkdb7</sha1>
+    </revision>
+  </page>
+</mediawiki>

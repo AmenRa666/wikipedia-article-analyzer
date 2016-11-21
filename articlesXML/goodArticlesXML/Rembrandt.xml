@@ -1,0 +1,459 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rembrandt</title>
+    <ns>0</ns>
+    <id>4254144</id>
+    <revision>
+      <id>750170022</id>
+      <parentid>749797662</parentid>
+      <timestamp>2016-11-18T04:27:08Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>1 archive template merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="70349">{{about|the Dutch artist}}
+{{Use dmy dates|date=October 2011}}
+{{Infobox artist
+| name          = Rembrandt van Rijn
+| image         = Rembrandt van Rijn - Self-Portrait - Google Art Project.jpg
+| caption       = ''[[Self-Portrait with Beret and Turned-Up Collar]]'' (1659), [[National Gallery of Art]], Washington,&amp;nbsp;D.C.
+| birth_name    = Rembrant Harmenszoon van Rijn
+| birth_date    = {{birth date|df=yes|1606|7|15}}&lt;ref name=&quot;BY&quot;&gt;Or possibly 1607 as on 10 June 1634 he himself claimed to be 26 years old. See [http://www.codart.nl/news/82/ Is the Rembrandt Year being celebrated one year too soon? One year too late?] and {{nl}} J. de Jong, [http://www.nd.nl/artikelen/2006/februari/03/rembrandts-geboortejaar-een-jaar-te-vroeg-gevierd Rembrandts geboortejaar een jaar te vroeg gevierd] for sources concerning Rembrandts birth year, especially supporting 1607.  However most sources continue to use 1606.&lt;/ref&gt;
+| birth_place   = [[Leiden]], [[Dutch Republic]] (now the [[Netherlands]])
+| death_date    = {{death date and age|df=yes|1669|10|4|1606|7|15}}
+| death_place   = [[Amsterdam]], Dutch Republic (now the Netherlands)
+| nationality   = Dutch
+| field         = Painting, [[Printmaking]]
+| training      =
+| movement      = [[Dutch Golden Age painting|Dutch Golden Age]]&lt;br /&gt;[[Baroque]]
+| works         = ''[[The Anatomy Lesson of Dr. Nicolaes Tulp]]'', 1632&lt;br /&gt;''[[Belshazzar's Feast (Rembrandt)|Belshazzar's Feast]]'', 1635&lt;br /&gt;''[[The Night Watch]]'',  1642&lt;br /&gt;''[[Bathsheba at Her Bath (Rembrandt)|Bathsheba at Her Bath]]'', 1654&lt;br /&gt;''[[Syndics of the Drapers' Guild]]'', 1662
+| patrons       =
+| awards        = }}
+
+'''Rembrandt Harmenszoon van Rijn''' ({{IPAc-en|ˈ|r|ɛ|m|b|r|æ|n|t|,_|-|b|r|ɑː|n|t}};&lt;ref&gt;[http://dictionary.reference.com/browse/rembrandt &quot;Rembrandt&quot;]. ''[[Random House Webster's Unabridged Dictionary]]''.&lt;/ref&gt; {{IPA-nl|ˈrɛmbrɑnt ˈɦɑrmə(n)soːn vɑn ˈrɛin|lang|Rembrandtvanrijn.ogg}}; 15&amp;nbsp;July 1606&lt;ref name=&quot;BY&quot;/&gt;&amp;nbsp;– 4&amp;nbsp;October 1669) was a [[Dutch people|Dutch]] [[draughtsman]], [[painter]] and [[printmaker]]. He is generally considered one of the greatest painters and printmakers in [[European art]] and the most important in [[Dutch art]] history.&lt;ref name=&quot;Gombrich, p. 420&quot;&gt;Gombrich, p. 420.&lt;/ref&gt; Unlike most [[Dutch Masters]] of the 17th century, Rembrandt's works depict a wide range of style and subject matter, from portraits, self-portraits, to landscapes, allegorical scenes, biblical and mythological themes as well as animal studies. His contributions to art came in a period of great wealth and cultural achievement that historians call the [[Dutch Golden Age]] when [[Dutch Golden Age painting]], although in many ways antithetical to the [[Baroque]] style that dominated Europe, was extremely prolific and innovative, and gave rise to important new genres in painting.
+
+Having achieved youthful success as a [[portrait painting|portrait]] painter, Rembrandt's later years were marked by personal tragedy and financial hardships. Yet his etchings and paintings were popular throughout his lifetime, his reputation as an artist remained high,&lt;ref&gt;Gombrich, p. 427.&lt;/ref&gt; and for twenty years he taught many important Dutch painters.&lt;ref name=Clark_203&gt;{{Harvnb|Clark|1969|pp=203}}&lt;/ref&gt; Rembrandt's greatest creative triumphs are exemplified most notably in his portraits of his contemporaries, self-portraits and illustrations of scenes from the Bible. [[Self-portraits by Rembrandt|His self-portraits]] form a unique and intimate biography, in which the artist surveyed himself without vanity and with the utmost sincerity.&lt;ref name=&quot;Gombrich, p. 420&quot;&gt;Gombrich, p. 420.&lt;/ref&gt; His reputation as the greatest [[etcher]] in the history of the medium was established in his lifetime, and never questioned since. Few of [[List of paintings by Rembrandt|his paintings]] left the [[Dutch Republic]] whilst he lived, but his [[old master prints|prints]] were circulated throughout Europe, and his wider reputation was initially based on them alone.
+
+In his paintings and prints he exhibited knowledge of classical [[iconography]], which he molded to fit the requirements of his own experience; thus, the depiction of a biblical scene was informed by Rembrandt's knowledge of the specific text, his assimilation of classical composition, and his observations of [[Amsterdam]]'s [[Jewish Amsterdam|Jewish population]].&lt;ref name=Clark_203_204&gt;{{Harvnb|Clark|1969|pp=203–204}}&lt;/ref&gt; Because of his [[empathy]] for the human condition, he has been called &quot;one of the great prophets of civilization.&quot;&lt;ref name=Clark_205&gt;{{Harvnb|Clark|1969|pp=205}}&lt;/ref&gt;
+
+==Life==
+[[File:Rembrandt - Rembrandt and Saskia in the Scene of the Prodigal Son - Google Art Project.jpg|thumb|''[[The Prodigal Son in the Tavern]]'', a self-portrait with Saskia, c. 1635]]
+
+Rembrandt&lt;ref&gt;This version of his first name, &quot;Rembrandt&quot; with a &quot;d,&quot; first appeared in his signatures in 1633. Until then, he had signed with a combination of initials or monograms. In late 1632, he began signing solely with his first name, &quot;Rembrant.&quot; He added the &quot;d&quot; in the following year and stuck to this spelling for the rest of his life. Although we can only speculate, this change must have had a meaning for Rembrandt, which is generally interpreted as his wanting to be known by his first name like the great figures of the Italian Renaissance: Leonardo, Raphael etc., (who did not sign with their first names, if at all). [http://www.rembrandt-signature-file.com/ Rembrandt-signature-file.com]&lt;/ref&gt; Harmenszoon van Rijn was born on 15&amp;nbsp;July 1606 in [[Leiden]],&lt;ref name=&quot;BY&quot;/&gt; in the [[Dutch Republic]], now the [[Netherlands]]. He was the ninth child born to Harmen Gerritszoon van Rijn and Neeltgen Willemsdochter van Zuijtbrouck.&lt;ref&gt;Bull, et al., p. 28.&lt;/ref&gt; His family was quite well-to-do; his father was a [[miller]] and his mother was a baker's daughter. Religion is a central theme in Rembrandt's paintings and the religiously fraught period in which he lived makes his faith a matter of interest. His mother was Roman Catholic, and his father belonged to the [[Dutch Reformed Church]]. While his work reveals deep Christian faith, there is no evidence that Rembrandt formally belonged to any church, although he had five of his children christened in Dutch Reformed churches in Amsterdam: four in the Oude Kerk (Old Church) and one, Titus, in the Zuiderkerk (Southern Church).&lt;ref&gt;{{cite web|url=http://stadsarchief.amsterdam.nl/archieven/archiefbank/indexen/doopregisters/zoek/query.nl.pl?i1=1&amp;v1=rembr*&amp;a1=r*ijn&amp;i2=1&amp;x=19&amp;z=b |title=Doopregisters, Zoek |language=nl |publisher=Stadsarchief.amsterdam.nl |date=2014-04-03 |accessdate=2014-04-07}}&lt;/ref&gt;
+
+As a boy he attended [[Latin]] school and was enrolled at the [[University of Leiden]], although according to a contemporary he had a greater inclination towards painting; he was soon apprenticed to a Leiden history painter, [[Jacob van Swanenburgh]], with whom he spent three years.&lt;ref name=Houbraken&gt;{{link language|nl|Middle Dutch}} [http://www.dbnl.org/tekst/houb005groo01_01/houb005groo01_01_0129.htm Rembrandt biography] in ''De groote schouburgh der Nederlantsche konstschilders en schilderessen'' (1718) by [[Arnold Houbraken]], courtesy of the [[Digital library for Dutch literature]]&lt;/ref&gt; After a brief but important apprenticeship of six months with the painter [[Pieter Lastman]] in Amsterdam, Rembrandt stayed a few months with [[Jacob Pynas]] and then started his own workshop, though Simon van Leeuwen claimed that [[Joris van Schooten]] taught Rembrandt in Leiden.&lt;ref name=Houbraken/&gt;&lt;ref&gt;[https://books.google.com/books?id=le9GAAAAcAAJ&amp;pg=PA189 Joris van Schooten as teacher of Rembrandt and Lievens] in Simon van Leeuwen's ''Korte besgryving van het Lugdunum Batavorum nu Leyden'', Leiden, 1672&lt;/ref&gt; Rembrandt opened a studio in Leiden in 1624 or 1625, which he shared with friend and colleague [[Jan Lievens]]. In 1627, Rembrandt began to accept students, among them [[Gerrit Dou]] in 1628.&lt;ref&gt;Slive has a comprehensive biography, p.55 ff.&lt;/ref&gt;
+
+In 1629, Rembrandt was discovered by the statesman [[Constantijn Huygens]] (father of the Dutch mathematician and physicist [[Christiaan Huygens]]), who procured for Rembrandt important commissions from the court of The Hague. As a result of this connection, Prince [[Frederik Hendrik]] continued to purchase paintings from Rembrandt until 1646.&lt;ref&gt;Slive, pp. 60, 65&lt;/ref&gt;
+
+At the end of 1631 Rembrandt moved to Amsterdam, then rapidly expanding as the new business capital of the Netherlands, and began to practice as a professional portraitist for the first time, with great success. He initially stayed with an art dealer, [[Hendrick van Uylenburgh]], and in 1634, married Hendrick's cousin, [[Saskia van Uylenburgh]].&lt;ref&gt;Slive, pp. 60–61&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://familysearch.org/pal:/MM9.3.1/TH-1971-31164-16374-68?cc=2037985&amp;wc=M994-WQZ:3938509 |title=Netherlands, Noord-Holland Province, Church Records, 1553-1909 Image Netherlands, Noord-Holland Province, Church Records, 1553-1909; pal:/MM9.3.1/TH-1971-31164-16374-68 — |publisher=Familysearch.org |date= |accessdate=2014-04-07}}&lt;/ref&gt; Saskia came from a good family: her father had been a lawyer and the ''burgemeester'' (mayor) of [[Leeuwarden]]. When Saskia, as the youngest daughter, became an orphan, she lived with an older sister in [[Het Bildt]]. Rembrandt and Saskia were married in the local church of [[St. Annaparochie|St.&amp;nbsp;Annaparochie]] without the presence of Rembrandt's relatives.&lt;ref&gt;[http://stadsarchief.amsterdam.nl/english/amsterdam_treasures/famous/rembrandt_and_saskia/index.en.html Registration of the banns of Rembrandt and Saskia], kept at the Amsterdam City Archives&lt;/ref&gt; In the same year, Rembrandt became a [[Burgess (title)|burgess]] of Amsterdam and a member of the local guild of painters. He also acquired a number of students, among them [[Ferdinand Bol]] and [[Govert Flinck]].&lt;ref name=Bull-28&gt;Bull, et al., p. 28&lt;/ref&gt;
+[[File:Rembrandt van Rijn - Saskia van Uylenburgh, the Wife of the Artist - Google Art Project.jpg|thumb|left|Portrait of [[Saskia van Uylenburgh]], ca. 1635]]
+
+In 1635 Rembrandt and Saskia moved into their own house, renting in fashionable Nieuwe Doelenstraat. In 1639 they moved to a prominent newly built house (now the [[Rembrandt House Museum]]) in the upscale 'Breestraat' (eng.: 'Broadway'), today known as [[Jodenbreestraat]] (Jodenbreestraat 4,1011 NK Amsterdam-now) in what was becoming the Jewish quarter; then a young upcoming neighborhood. The [[mortgage loan|mortgage]] to finance the 13,000 [[guilder]] purchase would be a primary cause for later financial difficulties.&lt;ref name=Bull-28/&gt; Rembrandt should easily have been able to pay the house off with his large income, but it appears his spending always kept pace with his income, and he may have made some unsuccessful investments.&lt;ref&gt;Clark, 1978, pp. 26–7, 76, 102&lt;/ref&gt; It was there that Rembrandt frequently sought his Jewish neighbors to model for his [[Old Testament]] scenes.&lt;ref&gt;Adams, p. 660&lt;/ref&gt; Although they were by now affluent, the couple suffered several personal setbacks; their son Rumbartus died two months after his birth in 1635 and their daughter Cornelia died at just three weeks of age in 1638. In 1640, they had a second daughter, also named Cornelia, who died after living barely over a month. Only their fourth child, [[Titus van Rijn|Titus]], who was born in 1641, survived into adulthood. Saskia died in 1642 soon after Titus's birth, probably from [[tuberculosis]]. Rembrandt's drawings of her on her sick and death bed are among his most moving works.&lt;ref name=Slive-71&gt;Slive, p. 71&lt;/ref&gt;
+
+During Saskia's illness, [[Geertje Dircx]] was hired as Titus' caretaker and nurse and also became Rembrandt's lover. She would later charge Rembrandt with [[breach of promise]] (a euphemism for seduction under [breached] promise to marry) and was awarded alimony of 200 guilders a year.&lt;ref name=Bull-28/&gt; Rembrandt worked to have her committed for twelve years to an asylum or poorhouse (called a &quot;bridewell&quot;) at [[Gouda, South Holland|Gouda]], after learning she had pawned jewelry that had once belonged to Saskia and that he had given to her.&lt;ref&gt;Driessen, p. 151-157&lt;/ref&gt;
+
+In the late 1640s Rembrandt began a relationship with the much younger [[Hendrickje Stoffels]], who had initially been his maid. In 1654 they had a daughter, Cornelia, bringing Hendrickje a summons from the [[Dutch Reformed Church|Reformed Church]] to answer the charge &quot;that she had committed the acts of a whore with Rembrandt the painter&quot;. She admitted this and was banned from receiving communion. Rembrandt was not summoned to appear for the Church council because he was not a member of the Reformed Church.&lt;ref&gt;Slive, p.82&lt;/ref&gt; The two were considered legally wed under common law, but Rembrandt had not married Hendrickje.  Had he remarried he would have lost access to a trust set up for Titus in Saskia's will.&lt;ref name=Slive-71/&gt;
+
+[[File:Rembrandt van Rijn - Rembrandts zoon Titus in monniksdracht (Rijksmuseum Amsterdam).jpg|thumb|right|Rembrandt's son [[Titus as a Monk|Titus, as a monk]], 1660]]
+
+Rembrandt lived beyond his means, buying art (including bidding up his own work), prints (often used in his paintings) and rarities, which probably caused a court arrangement to avoid his bankruptcy in 1656, by selling most of his paintings and large collection of antiquities. The sale list survives and gives us a good insight into Rembrandt's collections, which, apart from [[Old Master]] paintings and drawings, included busts of the Roman Emperors, suits of Japanese armor among many objects from Asia, and collections of natural history and minerals.  But the prices realized in the sales in 1657 and 1658 were disappointing.&lt;ref&gt;Slive, p. 84&lt;/ref&gt; Rembrandt was forced to sell his house and his printing-press and move to more modest accommodation on the Rozengracht in 1660.&lt;ref&gt;Schwartz, p. 12. The house sale was in 1658, but was agreed with two years for Rembrandt to vacate.&lt;/ref&gt; The authorities and his creditors were generally accommodating to him, except for the Amsterdam [[painters' guild]], which introduced a new rule that no one in Rembrandt's circumstances could trade as a painter. To get around this, Hendrickje and Titus set up a business as art dealers in 1660, with Rembrandt as an employee.&lt;ref&gt;Clark, 1974 p. 105&lt;/ref&gt;
+
+In 1661 Rembrandt (or rather the new business) was contracted to complete work for the newly built city hall, but only after Govert Flinck, the artist previously commissioned, died without beginning to paint. The resulting work, ''[[The Conspiracy of Claudius Civilis]]'', was rejected and returned to the painter; the surviving fragment is only a fraction of the whole work.&lt;ref&gt;Clark 1974, pp. 60–61&lt;/ref&gt; It was around this time that Rembrandt took on his last apprentice, [[Aert de Gelder]]. In 1662 he was still fulfilling major commissions for portraits and other works.&lt;ref&gt;Bull, et al., page 29.&lt;/ref&gt; When [[Cosimo III de' Medici, Grand Duke of Tuscany|Cosimo&amp;nbsp;III de' Medici, Grand Duke of Tuscany]] came to Amsterdam in 1667, he visited Rembrandt at his house.&lt;ref&gt;Clark 1978, p. 34&lt;/ref&gt;
+
+[[File:Rembrandt Memorial Marker Westerkerk Amsterdam.jpg|150jpx|left|thumb|Rembrandt Memorial Marker Westerkerk Amsterdam]]
+Rembrandt outlived both Hendrickje, who died in 1663, and Titus, who died in 1668, leaving a baby daughter. He died within a year of his son, on 4&amp;nbsp;October 1669 in Amsterdam, and was buried as a poor man.&lt;ref&gt;Slive, p. 83&lt;/ref&gt;&lt;ref&gt;[http://stadsarchief.amsterdam.nl/english/amsterdam_treasures/death/rembrandt/index.en.html Burial register of the Westerkerk with record of Rembrandt's burial], kept at the Amsterdam City Archives&lt;/ref&gt; in an unknown grave in the ''[[Westerkerk]]''. It was in a numbered 'kerkgraf' (grave owned by the church) somewhere under a tombstone in the church. After twenty years, his remains were taken away and destroyed, as was customary with the remains of poor people at the time.
+
+==Works==
+{{see also|List of paintings by Rembrandt|List of etchings by Rembrandt|List of drawings by Rembrandt}}
+[[File:Rembrandt Christ in the Storm on the Lake of Galilee.jpg|thumb|left|''[[The Storm on the Sea of Galilee]]'', 1633. The painting is still missing after the [[Isabella Stewart Gardner Museum theft|robbery from the Isabella Stewart Gardner Museum]] in 1990.]]
+
+In a letter to Huygens, Rembrandt offered the only surviving explanation of what he sought to achieve through his art: ''the greatest and most natural movement'', translated from ''de meeste en de natuurlijkste beweegelijkheid''. The word &quot;beweegelijkheid&quot; is also argued to mean &quot;emotion&quot; or &quot;motive.&quot; Whether this refers to objectives, material or otherwise, is open to interpretation; either way, critics have drawn particular attention to the way Rembrandt seamlessly melded the earthly and spiritual.&lt;ref&gt;Hughes, p. 6&lt;/ref&gt;
+
+Earlier 20th century connoisseurs claimed Rembrandt had produced over 600 paintings, nearly 400 [[etching]]s and 2,000 drawings.&lt;ref name=&quot;Rembrandtart&quot;&gt;[http://www.westernciv.com/courses/2004/noeuart.shtml ''Art of Northern Europe'', Institute for the Study of Western Civilization.] {{webarchive |url=https://web.archive.org/web/20070929010501/http://www.westernciv.com/courses/2004/noeuart.shtml |date=29 September 2007 }}&lt;/ref&gt; More recent scholarship, from the 1960s to the present day (led by the [[Rembrandt Research Project]]), often controversially, has winnowed his oeuvre to nearer 300 paintings.&lt;ref&gt;Useful totals of the figures from various different oeuvre catalogues, often divided into classes along the lines of: &quot;very likely authentic&quot;, &quot;possibly authentic&quot; and &quot;unlikely to be authentic&quot; are given at [http://staff.science.uva.nl/~fjseins/RembrandtCatalogue/ the Online Rembrandt catalogue]&lt;/ref&gt; His [[old master print|prints]], traditionally all called [[etching]]s, although many are produced in whole or part by [[engraving]] and sometimes [[drypoint]], have a much more stable total of slightly under&amp;nbsp;300.&lt;ref&gt;Two hundred years ago Bartsch listed&amp;nbsp;375. More recent catalogues have added three (two in unique impressions) and excluded enough to reach totals as follows: Schwartz, p. 6, 289; Münz 1952, 279; Boon 1963, 287 [http://www.printcouncil.org/search.html Print Council of America]{{dead link|date=April 2014}} – but Schwartz's total quoted does not tally with the book.&lt;/ref&gt; It is likely Rembrandt made many more drawings in his lifetime than 2,000, but those extant are more rare than presumed.&lt;ref&gt;It is not possible to give a total, as a new wave of scholarship on Rembrandt drawings is still in progress&amp;nbsp;— analysis of the Berlin collection for an exhibition in 2006/7 has produced a probable drop from 130 sheets there to about 60. [http://www.codart.nl/exhibitions/details/911/ Codart.nl] The British Museum is due to publish a new catalogue after a similar exercise.&lt;/ref&gt; Two experts claim that the number of drawings whose autograph status can be regarded as effectively &quot;certain&quot; is no higher than about&amp;nbsp;75, although this is disputed. The list was to be unveiled at a scholarly meeting in February&amp;nbsp;2010.&lt;ref&gt;{{cite web|url=http://www.garyschwartzarthistorian.nl/schwartzlist/?id=148 |title=Schwartzlist 301 – Blog entry by the Rembrandt scholar Gary Schwartz |publisher=Garyschwartzarthistorian.nl |date= |accessdate=2012-02-17}}&lt;/ref&gt;
+[[File:Rembrandt van Rijn - A Polish nobleman.jpg|thumb|right|''[[A Polish Nobleman]]'', 1637]]
+
+At one time about ninety paintings were counted as Rembrandt self-portraits, but it is now known that he had his students copy his own self-portraits as part of their training. Modern scholarship has reduced the autograph count to over forty paintings, as well as a few drawings and thirty-one etchings, which include many of the most remarkable images of the group.&lt;ref&gt;White and Buvelot 1999, p. 10.&lt;/ref&gt; Some show him posing in quasi-historical fancy dress, or pulling faces at himself. His oil paintings trace the progress from an uncertain young man, through the dapper and very successful portrait-painter of the 1630s, to the troubled but massively powerful portraits of his old age. Together they give a remarkably clear picture of the man, his appearance and his psychological make-up, as revealed by his richly weathered face.&lt;ref&gt;While the popular interpretation is that these paintings represent a personal and introspective journey, it is possible that they were painted to satisfy a market for self-portraits by prominent artists. Van de Wetering, p. 290.&lt;/ref&gt;
+
+In his portraits and self-portraits, he angles the sitter's face in such a way that the ridge of the nose nearly always forms the line of demarcation between brightly illuminated and shadowy areas. A Rembrandt face is a face partially eclipsed; and the nose, bright and obvious, thrusting into the riddle of halftones, serves to focus the viewer's attention upon, and to dramatize, the division between a flood of light—an overwhelming clarity—and a brooding duskiness.&lt;ref&gt;Taylor, Michael (2007).[http://www.artbook.com/1933045442.html Rembrandt's Nose: Of Flesh &amp; Spirit in the Master's Portraits] p. 21, D.A.P./Distributed Art Publishers, Inc., New York ISBN 9781933045443'&lt;/ref&gt;
+
+In a number of biblical works, including ''The Raising of the Cross'', ''Joseph Telling His Dreams'' and ''[[The Stoning of Saint Stephen]]'', Rembrandt painted himself as a character in the crowd. Durham suggests that this was because the Bible was for Rembrandt &quot;a kind of diary, an account of moments in his own life.&quot;&lt;ref&gt;Durham, p. 60.&lt;/ref&gt;
+
+Among the more prominent characteristics of Rembrandt's work are his use of [[chiaroscuro]], the theatrical employment of light and shadow derived from [[Caravaggio]], or, more likely, from the Dutch [[Utrecht Caravaggism|Caravaggisti]], but adapted for very personal means.&lt;ref&gt;Bull, et al., pp. 11–13.&lt;/ref&gt; Also notable are his dramatic and lively presentation of subjects, devoid of the rigid formality that his contemporaries often displayed, and a deeply felt compassion for mankind, irrespective of wealth and age. His immediate family—his wife Saskia, his son Titus and his common-law wife Hendrickje—often figured prominently in his paintings, many of which had [[mythology|mythical]], biblical or historical themes.
+
+===Periods, themes and styles===
+[[File:Rembrandt Harmensz. van Rijn - The Abduction of Europa - Google Art Project.jpg|thumb|left|[[The Abduction of Europa (Rembrandt)|''The Abduction of Europa'']], 1632. Oil on panel. The work has been described as  &quot;...a shining example of the 'golden age' of [[Baroque]] painting.&quot;&lt;ref&gt;Clough, p. 23&lt;/ref&gt;]]
+Throughout his career Rembrandt took as his primary subjects the themes of portraiture, landscape and narrative painting. For the last, he was especially praised by his contemporaries, who extolled him as a masterly interpreter of biblical stories for his skill in representing emotions and attention to detail.&lt;ref&gt;van der Wetering, p. 268.&lt;/ref&gt; Stylistically, his paintings progressed from the early &quot;smooth&quot; manner, characterized by fine technique in the portrayal of illusionistic form, to the late &quot;rough&quot; treatment of richly variegated paint surfaces, which allowed for an illusionism of form suggested by the tactile quality of the paint itself.&lt;ref&gt;van de Wetering, pp. 160, 190.&lt;/ref&gt;
+
+A parallel development may be seen in Rembrandt's skill as a printmaker. In the etchings of his maturity, particularly from the late 1640s onward, the freedom and breadth of his drawings and paintings found expression in the print medium as well. The works encompass a wide range of subject matter and technique, sometimes leaving large areas of white paper to suggest space, at other times employing complex webs of line to produce rich dark tones.&lt;ref&gt;Ackley, p. 14.&lt;/ref&gt;
+
+It was during Rembrandt's Leiden period (1625–1631) that Lastman's influence was most prominent. It is also likely that at this time Lievens had a strong impact on his work as well.&lt;ref name=Wetering-284&gt;van de Wetering, p. 284.&lt;/ref&gt; Paintings were rather small, but rich in details (for example, in costumes and jewelry). Religious and [[allegory|allegorical]] themes were favored, as were [[tronie]]s.&lt;ref name=Wetering-284/&gt; In 1626 Rembrandt produced his first etchings, the wide dissemination of which would largely account for his international fame.&lt;ref name=Wetering-284/&gt; In 1629 he completed ''[[Judas Repentant, Returning the Pieces of Silver]]'' and ''[[Artist in his studio|The Artist in His Studio]]'', works that evidence his interest in the handling of light and variety of paint application, and constitute the first major progress in his development as a painter.&lt;ref&gt;van de Wetering, page 285.&lt;/ref&gt;
+[[File:Rembrandt, Portret van Haesje v.Cleyburg 1634 2.jpg|thumb|upright|A typical portrait from 1634, when Rembrandt was enjoying great commercial success]]
+During his early years in Amsterdam (1632–1636), Rembrandt began to paint dramatic biblical and mythological scenes in high contrast and of large format (''[[The Blinding of Samson]]'', 1636, ''[[Belshazzar's Feast (Rembrandt)|Belshazzar's Feast]]'', c.&amp;nbsp;1635 ''[[Danaë (Rembrandt)|Danaë]]'', 1636), seeking to emulate the baroque style of [[Rubens]].&lt;ref&gt;van de Wetering, p. 287.&lt;/ref&gt; With the occasional help of assistants in Uylenburgh's workshop, he painted numerous portrait commissions both small ([[Jacob de Gheyn III (painting)|''Jacob de Gheyn&amp;nbsp;III'']]) and large (''Portrait of the Shipbuilder Jan Rijcksen and his Wife'', 1633, ''[[Anatomy Lesson of Dr. Nicolaes Tulp]]'', 1632).&lt;ref&gt;van de Wetering, p. 286.&lt;/ref&gt;
+
+By the late 1630s Rembrandt had produced a few paintings and many etchings of [[landscape painting|landscapes]]. Often these landscapes highlighted natural drama, featuring uprooted trees and ominous skies (''Cottages before a Stormy Sky'', c.&amp;nbsp;1641; ''The Three Trees'', 1643). From 1640 his work became less exuberant and more sober in tone, possibly reflecting personal tragedy. Biblical scenes were now derived more often from the [[New Testament]] than the [[Old Testament]], as had been the case before. In 1642 he painted ''[[The Night Watch]]'', the most substantial of the important group portrait commissions which he received in this period, and through which he sought to find solutions to compositional and narrative problems that had been attempted in previous works.&lt;ref&gt;van de Wetering, p. 288.&lt;/ref&gt;
+
+In the decade following the ''Night Watch'', Rembrandt's paintings varied greatly in size, subject, and style. The previous tendency to create dramatic effects primarily by strong contrasts of light and shadow gave way to the use of frontal lighting and larger and more saturated areas of color. Simultaneously, figures came to be placed parallel to the picture plane. These changes can be seen as a move toward a classical mode of composition and, considering the more expressive use of brushwork as well, may indicate a familiarity with Venetian art (''Susanna and the Elders'', 1637–47).&lt;ref&gt;van de Wetering, pp. 163–5.&lt;/ref&gt;
+At the same time, there was a marked decrease in painted works in favor of etchings and drawings of landscapes.&lt;ref&gt;van de Wetering, p. 289.&lt;/ref&gt; In these graphic works natural drama eventually made way for quiet Dutch rural scenes.
+[[File:Rembrandt - Zelfportret - Google Art Project.jpg|thumb|left|upright|''Self Portrait'', 1658, [[Frick Collection]], a masterpiece of the final style, &quot;the calmest and grandest of all his portraits&quot;&lt;ref&gt;Clark 1978, p. 28&lt;/ref&gt;]]
+In the 1650s, Rembrandt's style changed again. Colors became richer and brush strokes more pronounced. With these changes, Rembrandt distanced himself from earlier work and current fashion, which increasingly inclined toward fine, detailed works. His use of light becomes more jagged and harsh, and shine becomes almost nonexistent. His singular approach to paint application may have been suggested in part by familiarity with the work of [[Titian]], and could be seen in the context of the then current discussion of 'finish' and surface quality of paintings. Contemporary accounts sometimes remark disapprovingly of the coarseness of Rembrandt's brushwork, and the artist himself was said to have dissuaded visitors from looking too closely at his paintings.&lt;ref&gt;van de Wetering, pp. 155–165.&lt;/ref&gt; The tactile manipulation of paint may hearken to medieval procedures, when mimetic effects of rendering informed a painting's surface. The end result is a richly varied handling of paint, deeply layered and often apparently haphazard, which suggests form and space in both an illusory and highly individual manner.&lt;ref&gt;van de Wetering, pp. 157–8, 190.&lt;/ref&gt;
+
+In later years biblical themes were still depicted often, but emphasis shifted from dramatic group scenes to intimate portrait-like figures (''James the Apostle'', 1661). In his last years, Rembrandt painted his most deeply reflective self-portraits (from 1652 to 1669 he painted fifteen), and several moving images of both men and women (''[[The Jewish Bride]]'', c.&amp;nbsp;1666)—in love, in life, and before God.&lt;ref&gt;&quot;In Rembrandt's (late) great portraits we feel face to face with real people, we sense their warmth, their need for sympathy and also their loneliness and suffering. Those keen and steady eyes that we know so well from Rembrandt's self-portraits must have been able to look straight into the human heart.&quot; Gombrich, p. 423.&lt;/ref&gt;&lt;ref&gt;&quot;It (''The Jewish Bride'') is a picture of grown-up love, a marvelous amalgam of richness, tenderness, and trust... the heads which, in their truth, have a spiritual glow that painters influenced by the classical tradition could never achieve.&quot; Clark, p. 206.&lt;/ref&gt;
+
+===Etchings===
+[[File:Rembrandt - The windmill - Google Art Project.jpg|thumb|The Windmill, [[etching]]]]
+
+Rembrandt produced [[etching]]s for most of his career, from 1626 to 1660, when he was forced to sell his printing-press and practically abandoned etching. Only the troubled year of 1649 produced no dated work.&lt;ref&gt;Schwartz, 1994, pp. 8–12&lt;/ref&gt; He took easily to etching and, though he also learned to use a [[burin]] and partly [[engraving|engraved]] many plates, the freedom of etching technique was fundamental to his work. He was very closely involved in the whole process of printmaking, and must have printed at least early examples of his etchings himself. At first he used a style based on drawing, but soon moved to one based on painting, using a mass of lines and numerous bitings with the acid to achieve different strengths of line. Towards the end of the 1630s, he reacted against this manner and moved to a simpler style, with fewer bitings.&lt;ref&gt;White 1969, pp. 5–6&lt;/ref&gt; He worked on the so-called ''[[Hundred Guilder Print]]'' in stages throughout the 1640s, and it was the &quot;critical work in the middle of his career&quot;, from which his final etching style began to emerge.&lt;ref&gt;White 1969, p. 6&lt;/ref&gt;
+Although the print only survives in two [[state (printmaking)|states]], the first very rare, evidence of much reworking can be seen underneath the final print and many drawings survive for elements of it.&lt;ref&gt;White 1969, pp. 6, 9–10&lt;/ref&gt;
+
+[[File:Die landschaft mit den drei baeumen.jpg|thumb|left|The three trees, 1643, etching]]
+
+In the mature works of the 1650s, Rembrandt was more ready to improvise on the plate and large prints typically survive in several states, up to eleven, often radically changed. He now uses [[hatching]] to create his dark areas, which often take up much of the plate. He also experimented with the effects of printing on different kinds of paper, including Japanese paper, which he used frequently, and on [[vellum]]. He began to use &quot;surface tone,&quot; leaving a thin film of ink on parts of the plate instead of wiping it completely clean to print each impression. He made more use of [[drypoint]], exploiting, especially in landscapes, the rich fuzzy burr that this technique gives to the first few impressions.&lt;ref&gt;White, 1969 pp. 6–7&lt;/ref&gt;
+
+His prints have similar subjects to his paintings, although the twenty-seven self-portraits are relatively more common, and portraits of other people less so. There are forty-six landscapes, mostly small, which largely set the course for the graphic treatment of landscape until the end of the 19th century. One third of his etchings are of religious subjects, many treated with a homely simplicity, whilst others are his most monumental prints. A few erotic, or just obscene, compositions have no equivalent in his paintings.&lt;ref&gt;See Strauss, where the works are divided by subject, following [[Adam Bartsch|Bartsch]].&lt;/ref&gt; He owned, until forced to sell it, a magnificent collection of prints by other artists, and many borrowings and influences in his work can be traced to artists as diverse as [[Andrea Mantegna|Mantegna]], [[Raphael]], [[Hercules Seghers]], and [[Giovanni Benedetto Castiglione]].
+
+===''The Night Watch''===
+{{main|The Night Watch}}
+[[File:The Nightwatch by Rembrandt.jpg|thumb|300px|''[[The Night Watch]]'' or ''The Militia Company of Captain Frans Banning Cocq'', 1642. Oil on canvas; on display at the [[Rijksmuseum Amsterdam|Rijksmuseum]], Amsterdam]]
+
+Rembrandt painted the large painting ''The Militia Company of Captain Frans Banning Cocq'' between 1640 and 1642. This picture was called ''De Nachtwacht'' by the Dutch and ''The Night Watch'' by Sir [[Joshua Reynolds]] because by the 18th century the picture was so dimmed and defaced that it was almost indistinguishable, and it looked quite like a night scene. After it was cleaned, it was discovered to represent broad day—a party of [[musketeer]]s stepping from a gloomy courtyard into the blinding sunlight.
+
+The piece was commissioned for the new hall of the ''Kloveniersdoelen'', the musketeer branch of the civic militia. Rembrandt departed from convention, which ordered that such genre pieces should be stately and formal, rather a line-up than an action scene. Instead he showed the militia readying themselves to embark on a mission (what kind of mission, an ordinary patrol or some special event, is a matter of debate).
+
+Contrary to what is often said, the work was hailed as a success from the beginning. Parts of the canvas were cut off (approximately 20% from the left hand side was removed) to make the painting fit its new position when it was moved to [[Royal Palace of Amsterdam|Amsterdam town hall]] in 1715; the Rijksmuseum has a smaller copy of what is thought to be the full original composition; the four figures in the front are at the centre of the canvas. The painting is now in the [[Rijksmuseum Amsterdam|Rijksmuseum]], Amsterdam.&lt;ref&gt;From October 2007, the main galleries were closed for renovations, planned to be finished in 2010{{update after|2010|12|31}}, but the Rembrandts are being shown in a nearby adjacent part of the building according to the [https://www.rijksmuseum.nl/en Rijksmuseum website].&lt;/ref&gt;
+
+==Expert assessments==
+{{see also|Rembrandt catalog raisonné, 1968}}
+[[File:Rembrandt - De Poolse ruiter, c.1655 (Frick Collection).jpg|thumb|left|''[[The Polish Rider]]'' – Possibly a [[Lisowczycy|Lisowczyk]] on horseback.]]
+In 1968 the Rembrandt Research Project began under the sponsorship of the Netherlands Organization for the Advancement of Scientific Research; it was initially expected to last a highly optimistic ten years. Art historians teamed up with experts from other fields to reassess the authenticity of works attributed to Rembrandt, using all methods available, including state-of-the-art technical diagnostics, and to compile a complete new [[catalogue raisonné]] of his paintings. As a result of their findings, many paintings that were previously attributed to Rembrandt have been removed from their list, although others have been added back.&lt;ref&gt;{{cite web|title=The Rembrandt Research Project: Past, Present, Future|url=http://www.paintyourlife.com/blog/wp-content/uploads/2014/08/Preface.pdf|accessdate=11 August 2014}}&lt;/ref&gt; Many of those removed are now thought to be the work of his students.
+
+One example of activity is ''[[The Polish Rider]]'', in New York's [[Frick Collection]]. Rembrandt's authorship had been questioned by at least one scholar, Alfred von Wurzbach, at the beginning of the twentieth century, but for many decades later most scholars, including the foremost authority writing in English, [[Julius S. Held]], agreed that it was indeed by the master. In the 1980s, however, Dr.&amp;nbsp;Josua Bruyn of the Foundation Rembrandt Research Project cautiously and tentatively attributed the painting to one of Rembrandt's closest and most talented pupils, [[Willem Drost]], about whom little is known. But Bruyn's remained a minority opinion, the suggestion of Drost's authorship is now generally rejected, and the Frick itself never changed its own attribution, the label still reading &quot;Rembrandt&quot; and not &quot;attributed to&quot; or &quot;school of&quot;. More recent opinion has shifted even more decisively in favor of the Frick, with [[Simon Schama]] (in his 1999 book ''Rembrandt's Eyes'') and the Rembrandt Project scholar Ernst van de Wetering (Melbourne Symposium, 1997) both arguing for attribution to the master. Those few scholars who still question Rembrandt's authorship feel that the execution is uneven, and favour different attributions for different parts of the work.&lt;ref&gt;See &quot;Further Battles for the 'Lisowczyk' (Polish Rider) by Rembrandt&quot; Zdzislaw Zygulski, Jr., ''Artibus et Historiae'', Vol. 21, No. 41 (2000), pp. 197–205. Also New York Times [http://query.nytimes.com/gst/fullpage.html?res=9D06EEDE103EF937A15753C1A961958260 story]. There is a book on the subject:''Responses to Rembrandt; Who painted the Polish Rider?'' by Anthony Bailey (New York, 1993)&lt;/ref&gt;
+
+[[File:Mann mit dem Goldhelm.jpg|thumb|''[[The Man with the Golden Helmet]]'', [[Gemäldegalerie, Berlin]], once one of the most famous &quot;Rembrandt&quot; portraits, is no longer attributed to the master.&lt;ref&gt;{{cite news |url=http://www.nytimes.com/1985/12/01/arts/art-view-in-search-of-the-real-thing.html |title=Art View; In Search of the Real Thing|author=John Russell|date= December 1, 1985|work=New York Times }}&lt;/ref&gt;]]
+
+A similar issue was raised by Simon Schama in his book ''Rembrandt's Eyes'' concerning the verification of titles associated with the subject matter depicted in Rembrandt's works. For example, the exact subject being portrayed in ''[[Aristotle with a Bust of Homer]]'' (recently retitled by curators at the Metropolitan Museum) has been directly challenged by Schama applying the scholarship of Paul Crenshaw.&lt;ref&gt;Schama, Simon (1999). ''Rembrandt's Eyes''. Knopf, p. 720.&lt;/ref&gt; Schama presents a substantial argument that it was the famous ancient Greek painter [[Apelles]] who is depicted in contemplation by Rembrandt and not Aristotle.&lt;ref&gt;Schama, pp 582-591.&lt;/ref&gt;
+
+Another painting, ''Pilate Washing His Hands'', is also of questionable attribution. Critical opinion of this picture has varied since 1905, when Wilhelm von Bode described it as &quot;a somewhat abnormal work&quot; by Rembrandt. Scholars have since dated the painting to the 1660s and assigned it to an anonymous pupil, possibly Aert de Gelder. The composition bears superficial resemblance to mature works by Rembrandt but lacks the master's command of illumination and modeling.&lt;ref&gt;{{cite web|url=http://www.outpost-art.org/pilate-washing-his-hands-p-37320.html |title=Rembrandt Pilate Washing His Hands Oil Painting Reproduction |publisher=Outpost Art |accessdate=1 January 2015}}&lt;/ref&gt;
+
+The attribution and re-attribution work is ongoing. In 2005 four oil paintings previously attributed to Rembrandt's students were reclassified as the work of Rembrandt himself: ''Study of an Old Man in Profile'' and ''Study of an Old Man with a Beard'' from a US private collection, ''Study of a Weeping Woman'', owned by the [[Detroit Institute of Arts]], and ''Portrait of an Elderly Woman in a White Bonnet'', painted in 1640.&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/entertainment/arts/4276034.stm |title=Entertainment &amp;#124; Lost Rembrandt works discovered |publisher=BBC News  |date=23 September 2005 |accessdate=7 October 2009}}&lt;/ref&gt;The ''Old Man Sitting in a Chair'' is a further example: in 2014, Professor [[Ernst van de Wetering]] offered his view to [[The Guardian]]&lt;ref&gt;{{Citation
+ | last1 = Brown | first1 = Mark
+ | title = Rembrandt expert urges National Gallery to rethink demoted painting
+ | newspaper = The Guardian
+ | date = 23 May 2014
+ | url = http://www.theguardian.com/artanddesign/2014/may/23/rembrandt-expert-national-gallery-painting-old-man-armchair
+ | access-date = December 21, 2015}}
+&lt;/ref&gt; that the demotion of the 1652 painting ''Old Man Sitting in a Chair'' &quot;was a vast mistake...it is a most important painting. The painting needs to be seen in terms of Rembrandt’s experimentation”. This was highlighted much earlier by [[Nigel Konstam]] who studied Rembrandt throughout his career.
+
+Rembrandt's own studio practice is a major factor in the difficulty of attribution, since, like many masters before him, he encouraged his students to copy his paintings, sometimes finishing or retouching them to be sold as originals, and sometimes selling them as authorized copies. Additionally, his style proved easy enough for his most talented students to emulate. Further complicating matters is the uneven quality of some of Rembrandt's own work, and his frequent stylistic evolutions and experiments.&lt;ref&gt;&quot;...Rembrandt was not always the perfectly consistent, logical Dutchman he was originally anticipated to be.&quot; Ackley, p. 13.&lt;/ref&gt; As well, there were later imitations of his work, and restorations which so seriously damaged the original works that they are no longer recognizable.&lt;ref&gt;van de Wetering, p. x.&lt;/ref&gt; It is highly likely that there will never be universal agreement as to what does and what does not constitute a genuine Rembrandt.
+
+==Painting materials==
+Technical investigation of Rembrandt's paintings in the possession of the [[Gemäldegalerie Alte Meister]]&lt;ref&gt;Kühn, Hermann. ‘Untersuchungen zu den Pigmenten und Malgründen Rembrandts, durchgeführt an den Gemälden der Staatlichen Kunstsammlungen Dresden’(Examination of pigments and grounds used by Rembrandt, analysis carried out on paintings in the Staatlichen Kunstsammlungen Dresden), Maltechnik/Restauro, issue 4 (1977): 223-233&lt;/ref&gt; and in the [[Gemäldegalerie Alte Meister (Kassel)]]&lt;ref&gt;Kühn, Hermann. ‘Untersuchungen zu den Pigmenten und Malgründen Rembrandts, durchgeführt an den Gemälden der Staatlichen Kunstsammlungen Kassel’ (Examination of pigments and grounds used by Rembrandt, analysis carried out on paintings in the Staatlichen Kunstsammlungen Kassel), Maltechnik/Restauro, volume 82 (1976): 25-33&lt;/ref&gt; has been conducted by Hermann Kühn in 1977. The pigment analyses of some thirty paintings have shown that Rembrandt's palette consisted of the following pigments: [[lead white]], various [[ochres]], Vandyke brown, [[bone black]], [[charcoal black]], [[lamp black]], [[vermilion]], [[madder lake]], [[azurite]], [[ultramarine]], [[yellow lake]] and [[lead-tin-yellow]]. One painting ([http://skd-online-collection.skd.museum/de/contents/showSearch?id=376271 Saskia van Uylenburgh as Flora])&lt;ref&gt;[http://colourlex.com/project/rembrandt-saskia-van-uylenburgh-as-flora/ Rembrandt, Saskia as Flora], ColourLex&lt;/ref&gt; reportedly contains [[gamboge]]. Rembrandt very rarely used pure blue or green colors, the most pronounced exception being [[Belshazzar's Feast (Rembrandt)|Belshazzar's Feast]]&lt;ref&gt;Bomford, D.  et al., Art in the making: Rembrandt, New edition, Yale University Press, 2006&lt;/ref&gt;&lt;ref&gt;[http://colourlex.com/belshazzars-feast-pigment-analysis/ Rembrandt, Belshazzar's Feast, Pigment analysis] at ColourLex&lt;/ref&gt; in the [[National Gallery in London]]. The book by Bomford (above reference) describes more recent technical investigations and pigment analyses of Rembrandt's paintings predominantly in the National Gallery in London. The best source for technical information on Rembrandt's paintings on the web is the Rembrandt Database containing all works of Rembrandt with detailed investigative reports, infrared and radiography images and other scientific details.&lt;ref&gt;{{cite web|url=http://www.rembrandtdatabase.org/Rembrandt/|title=The Rembrandt Database|publisher=}}&lt;/ref&gt;
+
+==Name and signature==
+[[File:Rembrandt, bue squartato, 1655, 02.JPG|thumb|left|upright|''[[Slaughtered Ox]]'', (1655), [[Musée du Louvre]], Paris]]
+
+&quot;'''Rembrandt'''&quot; is a modification of the spelling of the artist's first name that he introduced in 1633. Roughly speaking, his earliest signatures (ca. 1625) consisted of an initial&amp;nbsp;&quot;'''R'''&quot;, or the monogram &quot;'''RH'''&quot; (for Rembrant Harmenszoon; i.e.&amp;nbsp;&quot;Rembrant, the son of Harmen&quot;), and starting in 1629, &quot;'''RHL'''&quot; (the &quot;L&quot; stood, presumably, for Leiden). In 1632, he used this monogram early in the year, then added his family name to it, &quot;'''RHL-van Rijn'''&quot;, but replaced this form in that same year and began using his first name alone with its original spelling, &quot;'''Rembrant'''&quot;. In 1633 he added&amp;nbsp;a&amp;nbsp;&quot;d&quot;, and maintained this form consistently from then on, proving that this minor change had a meaning for him (whatever it might have been). This change is purely visual; it does not change the way his name is pronounced. Curiously enough, despite the large number of paintings and etchings signed with this modified first name, most of their documents that mentioned him during his lifetime retained the original &quot;Rembrant&quot; spelling. (Note: the rough chronology of signature forms above applies to the paintings, and to a lesser degree to the etchings; from 1632, presumably, there is only one etching signed &quot;RHL-v. Rijn,&quot; the large-format &quot;Raising of Lazarus,&quot;&amp;nbsp;B&amp;nbsp;73).&lt;ref&gt;[http://www.rembrandt-signature-file.com/remp_texte/remp050.pdf Chronology of his signatures (pdf)] with examples. Source: www.rembrandt-signature-file.com&lt;/ref&gt; His practice of signing his work with his first name, later followed by [[Vincent van Gogh]], was probably inspired by [[Raphael]], [[Leonardo da Vinci]] and [[Michelangelo]] who, then as now, were referred to by their first names alone.&lt;ref&gt;Slive, p. 60&lt;/ref&gt;
+
+==Workshop==
+[[File:Rembrandt - Saskia van Uylenburgh in Arcadian Costume - WGA19164.jpg|thumb|''Saskia as Flora'', 1635]]
+Rembrandt ran a large workshop and had many pupils. The [[list of Rembrandt pupils]] from his period in Leiden as well as his time in Amsterdam is quite long, mostly because his influence on painters around him was so great that it is difficult to tell whether someone worked for him in his studio or just copied his style for patrons eager to acquire a Rembrandt. A partial list should include&lt;ref&gt;[http://www.rkd.nl/rkddb/dispatcher.aspx?action=search&amp;database=ChoiceArtists&amp;search=priref=66219 Rembrandt pupils (under ''Leraar van'')] in the [[RKD]]&lt;/ref&gt; [[Ferdinand Bol]],
+[[Adriaen Brouwer]],
+[[Gerrit Dou]],
+[[Willem Drost]],
+[[Heiman Dullaart]],
+[[Gerbrand van den Eeckhout]],
+[[Carel Fabritius]],
+[[Govert Flinck]],
+[[Hendrick Fromantiou]],
+[[Aert de Gelder]],
+[[Samuel Dirksz van Hoogstraten]],
+[[Abraham Janssens]],
+[[Godfrey Kneller]],
+[[Philip de Koninck]],
+[[Jacob Levecq]],
+[[Nicolaes Maes]],
+[[Jürgen Ovens]],
+[[Christopher Paudiß]],
+[[Willem de Poorter]],
+[[Jan Victors]], and
+[[Willem van der Vliet]].
+
+==Museum collections==
+[[File:Rembrandts house, Amsterdam.jpg|thumb|190px|left|[[Rembrandt House Museum]]]]
+The most notable collections of Rembrandt's work are at Amsterdam's [[Rijksmuseum Amsterdam|Rijksmuseum]], including ''[[The Night Watch]]'' and ''[[The Jewish Bride]]'', the [[Mauritshuis]] in [[The Hague]], the [[Hermitage Museum]] in [[Saint Petersburg|St. Petersburg]], the [[National Gallery]] in London, [[Gemäldegalerie, Berlin|Gemäldegalerie]] in Berlin, [[Gemäldegalerie Alte Meister]] in Dresden, [[The Louvre]], [[Nationalmuseum, Stockholm]], and [[Schloss Wilhelmshöhe]] in Kassel. The [[Royal Castle, Warsaw|Royal Castle]] in [[Warsaw]] displays two paintings by Rembrandt from [[Palais Lanckoroński#Lanckoroński Collection|Lanckoroński collection]] in a separate, dedicated room of [[Renaissance architecture|Renaissance]] Courtier Lodgings.&lt;ref name=zamek/&gt;
+
+Notable collections of Rembrandt's paintings in the USA are in the [[Metropolitan Museum of Art]] and [[Frick Collection]] in New York City, and the [[National Gallery of Art]] in Washington, D.C.&lt;ref&gt;Clark 1974, pp. 147–50. See the catalogue in Further reading for the location of all accepted Rembrandts&lt;/ref&gt;
+
+The [[Rembrandt House Museum]] in central Amsterdam in the house he bought at the height of his success has furnishings that are mostly not original, but period pieces comparable to those Rembrandt might have had, and paintings reflecting Rembrandt's use of the house for art dealing. His printmaking studio has been set up with a printing press, where replica prints are printed.  The museum has a few Rembrandt paintings, many loaned, but an important collection of his prints, a good selection of which are on rotating display. All major [[print room]]s have large collections of Rembrandt prints, although as some exist in only a single impression, no collection is complete. The degree to which these collections are displayed to the public, or can easily be viewed by them in the print room, varies greatly.
+
+==Selected works==
+[[File:Rembrandt Girl in a Picture Frame.jpg|thumb|upright|''The Girl in a Picture Frame'', 1641, [[Royal Castle, Warsaw]]]]
+* ''[[The Stoning of Saint Stephen]]'' (1625) –&lt;small&gt; [[Museum of Fine Arts of Lyon|Musée des Beaux-Arts]], [[Lyon]] &lt;/small&gt;
+* ''[[Andromeda Chained to the Rocks]]'' (1630) –&lt;small&gt; [[Mauritshuis]], [[The Hague]] &lt;/small&gt;
+* ''[[Jacob de Gheyn III]]'' (1632) –&lt;small&gt; [[Dulwich Picture Gallery]], London &lt;/small&gt;
+* ''[[Philosopher in Meditation]]'' (1632) –&lt;small&gt; [[The Louvre]], Paris &lt;/small&gt;
+* ''[[The Anatomy Lesson of Dr. Nicolaes Tulp]]'' (1632) –&lt;small&gt; [[Mauritshuis]], The Hague &lt;/small&gt;
+* ''[[Artemisia (Rembrandt)|Artemisia]]'' (1634) –&lt;small&gt; Oil on canvas, 142 × 152&amp;nbsp;cm, [[Museo del Prado]], Madrid&lt;/small&gt;
+* ''[[The Descent from the Cross (Rembrandt, 1634)|Descent from the Cross]]'' (1634) –&lt;small&gt; Oil on canvas, 158 × 117&amp;nbsp;cm, looted from the [[Landgrave]] of [[Landgraviate of Hesse-Kassel|Hesse-Kassel]] (or Hesse-Cassel), Germany in 1806, currently [[Hermitage Museum]], St. Petersburg &lt;/small&gt;
+* ''[[Belshazzar's Feast (Rembrandt)|Belshazzar's Feast]]'' (1635) – &lt;small&gt;[[National Gallery]], London &lt;/small&gt;
+* ''[[The Prodigal Son in the Tavern]]'' (c. 1635) –&lt;small&gt; Oil on canvas, 161 × 131&amp;nbsp;cm [[Gemäldegalerie Alte Meister]], [[Dresden]] &lt;/small&gt;
+* ''[[Danaë (Rembrandt painting)|Danaë]]'' (1636–1643) –&lt;small&gt; [[Hermitage Museum]], St. Petersburg &lt;/small&gt;
+* ''[[The Night Watch]]'', formally ''The Militia Company of Captain Frans Banning Cocq'' (1642) – &lt;small&gt; [[Rijksmuseum]], Amsterdam &lt;/small&gt;
+* ''Christ Healing the Sick'' ([[etching]] c.&amp;nbsp;1643, also known as the ''[[Hundred Guilder Print]]'')&lt;small&gt;, nicknamed for the huge sum paid for it &lt;/small&gt;
+* ''[[Boaz and Ruth (paintings)|Boaz and Ruth]]'' (1643) aka ''The Old Rabbi''  ''Old Man'' – &lt;small&gt;[[Woburn Abbey]]/[[Gemaldegalerie, Berlin]]&lt;/small&gt;
+
+[[File:Rembrandt Harmensz. van Rijn 049.jpg|thumb|upright|''The evangelist Matthew and the angel'', 1661]]
+* ''[[The Mill (Rembrandt)|The Mill]]'' (1645/48) –&lt;small&gt; [[National Gallery of Art]], Washington,&amp;nbsp;D.C. &lt;/small&gt;
+* ''[[Old Man with a Gold Chain]]'' (&quot;''Old Man with a Black Hat and Gorget''&quot;) (c. 1631) &lt;small&gt; [[Art Institute of Chicago]] &lt;/Small&gt;
+* ''[[Susanna and the Elders (Rembrandt)|Susanna and the Elders]]'' (1647) –&lt;small&gt; Oil on panel, 76 × 91&amp;nbsp;cm, [[Gemäldegalerie, Berlin]]&lt;/small&gt;
+* ''[[Aristotle Contemplating a Bust of Homer]]'' (1653) –&lt;small&gt; [[Metropolitan Museum of Art]], New York&lt;/small&gt;
+* ''[[Bathsheba at Her Bath (Rembrandt)|Bathsheba at Her Bath]]'' (1654) –&lt;small&gt; The Louvre, Paris&lt;/small&gt;
+* ''Christ Presented to the People (Ecce Homo)'' (1655) –&lt;small&gt; Drypoint, [[Birmingham Museum of Art]] &lt;/small&gt;
+* ''Selfportrait'' (1658) –&lt;small&gt; [[Frick Collection]], New York &lt;/small&gt;
+* ''The Three Crosses'' (1660) Etching, fourth state
+* ''[[Ahasuerus and Haman at the Feast of Esther]]'' (1660) –&lt;small&gt; [[Pushkin Museum]], Moscow &lt;/small&gt;
+* ''[[The Conspiracy of Claudius Civilis]]'' (1661) –&lt;small&gt; [[Nationalmuseum]], [[Stockholm]] ([[Gaius Julius Civilis|Claudius Civilis]] led a Dutch revolt against the [[Ancient Rome|Romans]]) (most of the cut up painting is lost, only the central part still exists) &lt;/small&gt;
+* ''[[Portrait of Dirck van Os]]'' (1662) -&lt;small&gt; [[Joslyn Art Museum]], [[Omaha, Nebraska]] &lt;/small&gt;
+* ''[[Syndics of the Drapers' Guild]]'' (Dutch ''De Staalmeesters'', 1662) –&lt;small&gt; Rijksmuseum, Amsterdam &lt;/small&gt;
+* ''[[The Jewish Bride]]'' (1665) –&lt;small&gt; Rijksmuseum, Amsterdam &lt;/small&gt;
+* &quot;The Entombment Sketch&quot; (c. 1639 and reworked c. 1654) oil on oak panel &lt;small&gt; [[Hunterian Museum and Art Gallery]], Glasgow &lt;/small&gt;
+* ''Saul and David'' (ca. 1660-1665) –&lt;small&gt; [[Mauritshuis]], The Hague &lt;/small&gt;
+
+==Exhibitions==
+* Feb 12, 2015 - May 17, 2015: ''Late Rembrandt'', The Rijksmuseum, Amsterdam.&lt;ref&gt;{{cite web|title=Late Rembrandt.|url=http://mutualart.com/Exhibitions/Late-Rembrandt/64A7294EDF9D2D6F}} {{cite web|title=MutualArt.com|url=http://www.mutualart.com}}&lt;/ref&gt;
+* Oct 15, 2014 - Jan 18, 2015: ''Rembrandt: The Late Works'', The National Gallery, London.&lt;ref&gt;{{cite web|title=Rembrandt: The Late Works.|url=http://www.mutualart.com/Exhibitions/Rembrandt--The-Late-Works/E7F46145AD9CC881}} {{cite web|title=MutualArt.com|url=http://www.mutualart.com}}&lt;/ref&gt;
+* Oct 19, 2014 - Jan 4, 2015: ''Rembrandt, Rubens, Gainsborough and the Golden Age of Painting in Europe'', Jule Collins Smith Museum of Art.&lt;ref&gt;{{cite web|title=Rembrandt, Rubens, Gainsborough and the Golden Age of Painting in Europe.|url=http://www.mutualart.com/Exhibitions/Rembrandt--Rubens--Gainsborough-and-the-/088DD8543A6DF305}} Retrieved Jan. 11th, 2015. {{cite web|title=MutualArt.com|url=http://www.mutualart.com}}&lt;/ref&gt;
+* May 19, 2014 - Jun 27, 2014: ''From Rembrandt to Rosenquist: Works on Paper from the NAC's Permanent Collection'', National Arts Club.&lt;ref&gt;{{cite web|title=From Rembrandt to Rosenquist: Works on Paper from the NAC's Permanent Collection.|url=http://www.mutualart.com/Exhibitions/From-Rembrandt-to-Rosenquist--Works-on-P/C68FD89DD0131A49}} Retrieved Jan. 11th, 2015. {{cite web|title=MutualArt.com|url=http://www.mutualart.com}}&lt;/ref&gt;
+* Sep 16, 2013 - Nov 14, 2013: ''Rembrandt: The Consummate Etcher'', Syracuse University Art Galleries.&lt;ref&gt;{{cite web|title=Rembrandt: The Consummate Etcher.|url=http://www.mutualart.com/Exhibitions/Rembrandt--The-Consummate-Etcher/80423471A2CC62FC}} Retrieved Jan. 13th, 2015. {{cite web|title=MutualArt.com|url=http://www.mutualart.com}}&lt;/ref&gt;
+* Apr 21, 2011 - Jul 18, 2011: ''Rembrandt and the Face of Jesus'', Musée du Louvre.&lt;ref&gt;{{cite web|title=Rembrandt and the Face of Jesus.|url=http://www.mutualart.com/Exhibitions/Rembrandt-and-the-Face-of-Jesus-/34EBCEDD3805A5E5}} Retrieved Jan. 13th, 2015. {{cite web|title=MutualArt.com|url=http://www.mutualart.com}}&lt;/ref&gt;
+
+==Gallery==
+
+===Self-portraits===
+{{main|Self-portraits by Rembrandt}}
+
+&lt;gallery widths=&quot;170px&quot; heights=&quot;170px&quot; perrow=&quot;4&quot;&gt;&lt;center&gt; 
+Image:Self-portrait_(1628-1629),_by_Rembrandt.jpg|''A young Rembrandt'', c.&amp;nbsp;1628, when he was 22. Partly an exercise in [[chiaroscuro]]. [[Rijksmuseum]]
+
+Image:Rembrandt van Rijn 184.jpg|''Self-portrait'', c.&amp;nbsp;1629; [[Germanisches Nationalmuseum]], Nuremberg
+
+File:Rembrandt Harmensz. van Rijn - Selfportrait - Google Art Project.jpg|''Self-portrait'', 1630, [[Nationalmuseum]], [[Stockholm]]
+
+File:Rembrandt - Self-Portrait with Velvet Beret - Google Art Project.jpg|''Self-Portrait with Velvet Beret and Furred Mantle'' 1634
+File:Rembrandt1640.png|''Self-portrait'', 1640, at 34 years old. [[National Gallery London|National Gallery]], London
+Image:Rembrandt Harmenszoon van Rijn - Large Self-Portrait - Google Art Project.jpg|''[[Self-Portrait (Rembrandt, Vienna)|Self-Portrait]]'', oil on canvas, 1652. [[Kunsthistorisches Museum]], Vienna
+Image:Rembrandt Harmensz. van Rijn 132.jpg|''Self-portrait'', Vienna c.&amp;nbsp;1655, oil on walnut, cut down in size. Kunsthistorisches Museum, Vienna
+File:Rembrant Self-Portrait, 1660.jpg|''[[Self-portraits by Rembrandt|Self-Portrait]]'', 1660
+File:Rembrandt van rijn-self portrait.jpg|''[[Self-Portrait with Two Circles]]'', 1660. [[Kenwood House]], London
+File:Rembrandt Harmensz. van Rijn 142.jpg|''Self-Portrait as Zeuxis'', c. 1662. One of 2 painted self-portraits in which Rembrandt is turned to the left.&lt;ref name=&quot;W1&quot;&gt;White, 200&lt;/ref&gt; [[Wallraf-Richartz Museum]], Cologne
+File:Rembrandt Harmensz. van Rijn 134.jpg|''Self-portrait'', 1669.
+Image:Rembrandt Harmensz. van Rijn 135.jpg|''Self-portrait'', dated 1669, the year he died. National Gallery, London
+&lt;/gallery&gt;
+
+===Other works===
+&lt;gallery widths=&quot;170px&quot; heights=&quot;170px&quot; perrow=&quot;4&quot;&gt;&lt;center&gt; 
+File:Rembrandt-Lapidation-Saint-Étienne-MBA-Lyon.jpg|''[[The Stoning of Saint Stephen]]'', 1625, The first painting by Rembrandt, painted at the age of 19.&lt;ref&gt;{{cite book |title=Rembrandt |first=Emmanuel |last=Starcky |publisher=Hazan |year=1990 |page=45 |isbn=2-85025-212-3}}&lt;/ref&gt; It is currently kept in the [[Musée des Beaux-Arts de Lyon]].
+Image:Rembrandt Buste van oude man met bontmuts. 1630.jpg|''Bust of an old man with a fur hat'', the artist's father, 1630
+File:Rembrandt Harmensz. van Rijn - Jeremia treurend over de verwoesting van Jeruzalem - Google Art Project.jpg|''Jeremiah Lamenting the Destruction of Jerusalem,'' c.&amp;nbsp;1630
+Image:Rembrandt - The Philosopher in Meditation.jpg|''The [[Philosopher in Meditation]]'', 1632
+
+Image:Rembrandt Harmensz. van Rijn 007.jpg|''[[Anatomy Lesson of Dr. Nicolaes Tulp]]'', 1632
+Image:Rembrandt Abraham en Isaac, 1634.jpg|''Abraham and Isaac'', 1634
+Image:Rembrandt Harmensz. van Rijn 041.jpg|''The Blinding of Samson'', 1636, which Rembrandt gave to Huyghens
+File:Carel Fabritius - Saskia van Uylenburgh, vrouw van de schilder Rembrandt..JPG|''Saskia in red hat'', 1635
+
+File:Rembrandt Harmensz. van Rijn 151.jpg|''Susanna'', 1636
+File:Rembrandt - Belshazzar's Feast - WGA19123.jpg|''[[Belshazzar's Feast (Rembrandt)|Belshassar's Feast]]'', 1636-8
+Image:Rembrandt De aartsengel verlaat Tobias en zijn gezin. 1637.jpg|''The Archangel leaving [[Tobias, son of Tobit|Tobias]]'', 1637
+File:Rembrandt Krajobraz z miłosiernym Samarytaninem.jpg|''The Landscape with Good Samaritan'', 1638
+
+File:Rembrandt - Susanna and the Elders - WGA19104.jpg|''[[Susanna and the Elders (Rembrandt)|Susanna and the Elders]]'', 1647
+File:Rembrandt van Rijn - The Mill - Google Art Project.jpg|''[[The Mill (Rembrandt)|The Mill]]'', 1648
+File:Rembrandt Harmenszoon van Rijn - An Old Man in Red.JPG|''An Old Man in Red'', 1652-1654
+File:Rembrandt Harmensz. van Rijn 013.jpg|''[[Aristotle with a Bust of Homer]]'', 1653, Metropolitan Museum of Art in New York
+
+File:Rembrandt Harmensz. van Rijn - &quot;The Kitchen Maid&quot; - Google Art Project.jpg|''[[The Kitchen Maid (Rembrandt)|Young Girl at the Window]]'', 1654
+File:JanSix.jpg|''Portrait of the later mayor Jan Six'', a wealthy friend of Rembrandt, 1654
+Image:Rembrandt Harmensz. van Rijn 016.jpg|''[[Bathsheba at Her Bath (Rembrandt)|Bathsheba at Her Bath]]'', modeled after Hendrickje, 1654
+File:A Woman Bathing in a Stream by Rembrandt.jpg|''Woman Bathing in a Stream'', 1655
+
+File:Rembrandt - Portrait of Hendrickje Stoffels - Google Art Project.jpg|''Woman in a Doorway'', 1657-1658
+File:Rembrandt Harmensz. van Rijn - Portret van een paar als oudtestamentische figuren, genaamd 'Het Joodse bruidje' - Google Art Project.jpg|''[[The Jewish Bride]]'', 1658, Rijksmuseum in Amsterdam.
+File:Rembrandt Harmensz van Rijn - Ahasuerus, Haman and Esther - Google Art Project.jpg|''[[Ahasuerus and Haman at the Feast of Esther]]'', 1660
+Image: Rembrandt Harmensz. van Rijn (Dutch - St. Bartholomew) - Google Art Project.jpg|''Saint Bartholomew'', 1661, [[J. Paul Getty Museum]]
+File:Netherlands-4183 - The Syndics, Rembrandt.jpg|''The [[Syndics of the Drapers' Guild]]'', 1662
+File:Rembrandt Harmensz. van Rijn - The Conspiracy of the Batavians under Claudius Civilis - Google Art Project.jpg|''[[The Conspiracy of Claudius Civilis]]'' (cut-down), 1661–62
+Image:Rembrandt Harmensz. van Rijn 062.jpg|''[[Jacob Blessing the Sons of Joseph]]'', 1656
+File:Rembrandt Harmensz van Rijn - Return of the Prodigal Son - Google Art Project.jpg|''[[The Return of the Prodigal Son (Rembrandt)|The Return of the Prodigal Son]]'', detail, c.&amp;nbsp;1669
+&lt;/gallery&gt;
+
+====Drawings and etchings====
+&lt;gallery widths=&quot;130px&quot; heights=&quot;154px&quot; perrow=&quot;4&quot;&gt;&lt;center&gt; 
+File:B320 Rembrandt.jpg|''Self-portrait in a cap, with eyes wide open'', [[etching]] and [[burin]], 1630
+File:Rembrandt van Rijn - Zelfportret.jpg|''Self-portrait,'' pen and brush and ink on paper, c. 1628-1629
+Image:Rembrandtselfportraitweb.jpg|Role-playing in ''Self-portrait as an oriental Potentate with a [[Kris]]'', etching, 1634
+File:Rembrandt Harmensz. van Rijn - Christ with the Sick around Him, Receiving Little Children (The 'Hundred Guilder Print') - Google Art Project.jpg|''The [[Hundred Guilder Print]]'', c.&amp;nbsp;1647–1649,
+Image:Rembrandt Susanna Zeichnung.jpg|''Suzannah and the Elders'', drawing, 1634
+File:Self-portrait with Saskia.jpg|''Self-portrait with Saskia'', etching, 1636
+Image:Self portrait leaning on si 373x470.jpg|''Self-portrait leaning on a Sill'', etching, 1639
+File:Rembrandt Harmensz. van Rijn - Christ Crucified Between the Two Thieves (&quot;The Three Crosses&quot;) - Google Art Project.jpg|[[Rembrandt's The Three Crosses|''The Three Crosses]]'', [[etching]] by Rembrandt, 1653, [[State (printmaking)|State]]&amp;nbsp;III of&amp;nbsp;V
+Image:Jesus und Ehebrecherin.jpg|''Christ and the woman taken in adultery'', drawing
+Image:Virgin and child with cat.jpg|''[[Virgin and Child with a Cat]]'', 1654. Original copper etching plate above, example of the print below
+File:Rembrandt Harmenszoon van Rijn - An Elephant, 1637 - Google Art Project.jpg|''An elephant'' 1637
+Image:Rembrandt Christus aan het volk getoond.jpg|''Christ presented to the People'', [[drypoint]], 1655, State&amp;nbsp;I of&amp;nbsp;VIII
+&lt;/gallery&gt;
+
+==See also==
+* [[List of paintings by Rembrandt]] 
+* [[List of etchings by Rembrandt]]  
+* [[List of drawings by Rembrandt]] 
+* [[Self-portraits by Rembrandt]]
+* [[List of Rembrandt pupils]]
+* [[Dutch Golden Age painting]]
+* [[Flemish Baroque painting]]
+* [[Early Netherlandish painting]]
+* [[Dutch and Flemish Renaissance painting]]
+* [[Naturalism (art)]]
+* [[Rembrandt Research Project]]
+* [[Isabella Stewart Gardner Museum theft]]
+
+==Notes==
+{{Reflist|colwidth=20em|refs=
+&lt;ref name=zamek&gt;{{cite web|title=The Lanckoroński Collection - Rembrandt's Paintings |url=http://www.zamek-krolewski.pl/en/your-visit/permanent-exhibitions/the-lanckoronski-collection-rembrandts-paintings.-gallery-of-paintings,-sculpture-and-the-decorative-arts |work=www.zamek-krolewski.pl |accessdate=20 May 2014 |quote=The works of art which Karolina Lanckorońska gave to the Royal Castle in 1994 was one of the most invaluable gift’s made in the museum’s history.}}&lt;/ref&gt;
+}}
+
+==References==
+{{refbegin|30em}}
+* Ackley, Clifford, et al., ''Rembrandt's Journey'', Museum of Fine Arts, Boston, 2004. ISBN 0-87846-677-0
+* {{cite book|author=Adams, Laurie Schneider|year=1999|title=Art Across Time. Volume II|publisher=McGraw-Hill College, New York, NY|id=}}
+* Bull, Duncan, et al., ''Rembrandt-Caravaggio'', Rijksmuseum, 2006.
+* {{cite book|last=Clark|first=Kenneth|title=Civilisation: a personal view|year=1969|publisher=Harper &amp; Row|location=New York|isbn=
+9780060108014|ref=harv}}
+* [[Kenneth Clark|Clark, Kenneth]], ''An Introduction to Rembrandt'', 1978, London, John Murray/Readers Union, 1978
+* {{cite book|author=Clough, Shepard B.|year=1975|title=European History in a World Perspective|publisher=D.C. Heath and Company, Los Lexington, MA|isbn=0-669-85555-3}}
+* Driessen, Christoph, ''Rembrandts vrouwen'', Bert Bakker, Amsterdam, 2012. ISBN 9789035136908
+* {{cite book|author=Durham, John I.|year=2004|title=Biblical Rembrandt: Human Painter In A Landscape Of Faith|publisher=Mercer University Press|isbn=0-86554-886-2}}
+* [[Ernst Gombrich|Gombrich, E.H.]], ''The Story of Art'', Phaidon, 1995. ISBN 0-7148-3355-X
+* {{Citation
+ | surname1 = Hughes
+ | given1 = Robert
+ | year = 2006
+ | journal=The New York Review of Books
+ | title = The God of Realism
+ | publisher=Rea S. Hederman
+ | issue = 6
+ | volume = 53
+}}
+* ''The Complete Etchings of Rembrandt Reproduced in Original Size'', Gary Schwartz (editor). New York: Dover, 1988. ISBN 0-486-28181-7
+* Slive, Seymour, Dutch Painting, 1600–1800, Yale UP, 1995, ISBN 0-300-07451-4
+* [[Ernst van de Wetering|van de Wetering, Ernst]], ''Rembrandt: The Painter at Work'', Amsterdam University Press, 2000. ISBN 0-520-22668-2
+* ''Rembrandt by himself'' (Christopher White&amp;nbsp;— Editor, Quentin Buvelot&amp;nbsp;— Editor) National Gallery Co Ltd [1999]
+* Roberto Manescalchi, ''Rembrandt: la madre ritrovata'', M.C.M.(La storia delle cose), dicembre, 2004.
+* Christopher White, ''The Late Etchings of Rembrandt'', 1969, British Museum/Lund Humphries, London
+* Bomford, D.  et al., Art in the making: Rembrandt, New edition, Yale University Press, 2006
+{{refend}}
+
+==Further reading==
+{{refbegin}}
+* [[Catalogue raisonné]]: Stichting Foundation Rembrandt Research Project:
+** ''A Corpus of Rembrandt Paintings&amp;nbsp;— Volume I'', which deals with works from Rembrandt’s early years in Leiden (1629–1631), 1982
+** ''A Corpus of Rembrandt Paintings&amp;nbsp;— Volume II: 1631–1634''. Bruyn, J., Haak, B. (et al.), Band 2, 1986, ISBN 978-90-247-3339-2
+** ''A Corpus of Rembrandt Paintings&amp;nbsp;— Volume III, 1635–1642''. Bruyn, J., Haak, B., Levie, S.H., [[Pieter J.J. van Thiel|van Thiel, P.J.J.]], van de Wetering, E. (Ed. Hrsg.), Band 3, 1990, ISBN 978-90-247-3781-9
+** ''A Corpus of Rembrandt Paintings&amp;nbsp;— Volume IV''. [[Ernst van de Wetering]], Karin Groen et al. Springer, Dordrecht, the Netherlands (NL). ISBN 1-4020-3280-3. p.&amp;nbsp;692. (Self-Portraits)
+* ''Rembrandt. Images and metaphors'', [[Christian Tümpel|Christian and Astrid Tümpel]] (editors), Haus Books London 2006 ISBN 978-1-904950-92-9
+* Van De Wetering, Ernst (2004) (2nd paperback printing in 2016). ''The Painter At Work''. University of California Press, Berkeley and Los Angeles. University of California Press, London, England. By arrangement with Amsterdam University Press. ISBN O-520-22668-2.
+* {{cite book|title=Stealing Rembrandts: The Untold Stories of Notorious Art Heists|author1=Anthony M. Amore|author2=Tom Mashberg|isbn=978-0230339903|year=2012}}
+{{refend}}
+
+==External links==
+{{Commons category|Rembrandt}}
+* [http://www.pubhist.com/person/1/rembrandt Works and literature on Rembrandt]
+* [http://www.getty.edu/art/gettyguide/artMakerDetails?maker=473 A biography of the artist Rembrandt Harmensz. van Rijn from the J. Paul Getty Museum]
+* [http://www.nationalgallery.org.uk/artists/rembrandt A biography of the artist Rembrandt Harmensz. van Rijn from the National Gallery]
+* [http://www.nga.gov/exhibitions/2005/rembrandt/flash/index.shtm Rembrandt's Late Religious Portraits at the National Gallery of Art, Washington]
+* [http://www.rembrandthuis.nl/ Rembrandt's house in Amsterdam] Site has good images of many of his etchings
+* [http://staff.science.uva.nl/~fjseins/RembrandtCatalogue/ Web Catalogue of Rembrandt's Paintings] Over 600 paintings, including former and disputed attributions, divided into categories.
+* [http://www.canal-educatif.fr/en/videos/art/9/ArtSleuth-5-rembrandt/prodigal-son-ermitage.html Rembrandt, a documentary about his life and works, and an interview with Gary Schwartz.]
+* [https://garyschwartzarthistorian.wordpress.com/2015/09/19/341-the-transparent-connoisseur-3-the-30-million-pound-question/ Gary Schwartz The transparent connoisseur 3: the 30 million pound question]
+* [http://www.artistarchive.com/Artworks/AllArtworks.aspx?Ind=3316&amp;CID=1 artistarchive.com] over 300 Rembrandt prints with dimensions and reference numbers, many with images.
+* [http://www.rembrandt-signature-file.com/ The Rembrandt Signature Files]. Information about Rembrandt's name and signatures.
+* [http://stadsarchief.amsterdam.nl/presentaties/uitgelicht/rembrandt_prive/introductie/index.nl.html Rembrandt Privé] Documents regarding Rembrandt's life, kept at the Amsterdam City Archives (in Dutch)
+* [http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/94303/rec/1 Prints &amp; People: A Social History of Printed Pictures] exhibition catalog from the Metropolitan Museum of Art -available as PDF- which contains material on Rembrandt prints
+* 112 {{YourPaintings|-rembrandt-van-rijn}}
+* [http://www.rembrandtdatabase.org/ The Rembrandt Database]. Site with research data on the paintings, including the full contents of the first volumes of ''A Corpus of Rembrandt Paintings'' by the Rembrandt Research Project.
+* {{Gutenberg author | id=Rembrandt+Harmenszoon+van+Rijn}}
+* {{Internet Archive author}}
+* [http://colourlex.com/paintings/paintings-painter/dutch-painters/ Dutch painters] at ColourLex. Contains illustrated pigment analyses of several paintings by Rembrandt.
+
+{{Rembrandt}}
+
+{{good article}}
+{{Authority control}}
+
+[[Category:Rembrandt| ]]
+[[Category:Artists from Amsterdam]]
+[[Category:Dutch printmakers]] 
+[[Category:Dutch engravers]]
+[[Category:Dutch etchers]]
+[[Category:Dutch Christians]]
+[[Category:Dutch Golden Age painters]]
+[[Category:Dutch male painters]]
+[[Category:Dutch Golden Age printmakers]]
+[[Category:Dutch portrait painters]]
+[[Category:Dutch draughtsmen]]
+[[Category:Dutch art collectors]]
+[[Category:Leiden University alumni]]
+[[Category:Members of the Amsterdam Guild of Saint Luke]]
+[[Category:Artists from Leiden]]
+[[Category:1606 births]]
+[[Category:1669 deaths]]</text>
+      <sha1>r5xce5t9g265dau227tsb09l4iud4hj</sha1>
+    </revision>
+  </page>
+</mediawiki>

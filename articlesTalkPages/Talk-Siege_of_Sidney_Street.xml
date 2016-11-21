@@ -1,0 +1,110 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Siege of Sidney Street</title>
+    <ns>1</ns>
+    <id>7403796</id>
+    <revision>
+      <id>738752762</id>
+      <parentid>736860137</parentid>
+      <timestamp>2016-09-10T21:25:45Z</timestamp>
+      <contributor>
+        <username>Jyg</username>
+        <id>16701291</id>
+      </contributor>
+      <comment>/* Contradiction in whether they were anarchists */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3374">{{ArticleHistory
+|currentstatus=FA
+
+|maindate= 30 August 2016
+
+|dykdate=16 April 2004
+|dykentry=...that [[Winston Churchill]] personally oversaw the '''[[Sidney Street Siege]]'''?
+
+|action1=FAC
+|action1date=2016-03-04
+|action1link=Wikipedia:Featured article candidates/Siege of Sidney Street/archive1
+|action1result=promoted
+|action1oldid=707572221
+}}
+
+{{Old peer review|archive = 1}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Law Enforcement|class=FA}}
+{{WikiProject Latvia|class=FA|importance=low}}
+{{WikiProject London|class=FA|importance=low}}
+}}
+
+{{User:MiszaBot/config
+|archiveheader = {{aan}}
+|maxarchivesize = 100K
+|counter = 1
+|minthreadsleft = 4
+|minthreadstoarchive = 1
+|algo = old(30d)
+|archive = Talk:Siege of Sidney Street/Archive %(counter)d
+}}
+{{Archives |search=yes |bot=MiszaBot I |age=1 |units=month |index=/Archive index }}
+{{User:HBC Archive Indexerbot/OptIn 
+|target=/Archive index |mask=/Archive &lt;#&gt; |leading_zeros=0 |indexhere=yes 
+}}
+
+==Recent IP edits==
+An IP has recently made edits to the lead which I have reverted, although they have tried to force them back in again. [https://en.wikipedia.org/w/index.php?title=Siege_of_Sidney_Street&amp;diff=prev&amp;oldid=707571497 This] was the most recent edit, which introduces numerous factual and grammatical errors. IP, you claim in your edit summary that the current version &quot;really isn't well written&quot;. Could you please explain to exactly which bits you refer, as this version has now been through a [[Wikipedia:Peer review/Siege of Sidney Street/archive1|recent|Peer Review]] and is currently [[Wikipedia:Featured article candidates/Siege of Sidney Street/archive1|at FAC]] and the current version is one that meets the approval of all who have visited. - [[User:SchroCat|SchroCat]] ([[User talk:SchroCat|talk]]) 09:06, 1 March 2016 (UTC)
+
+== Are we trying to say they're Jews, or not? ==
+
+There are many names involved in this article, many of whom appear distinctly non-jewish. This, of course, is no guarantee, but the article goes through all of this jewish demography without explicitly applying it to the perpetrators. Why? Is there actual evidence, other than associations of neighborhood or country of origin?  Were all Latvian immigrants to the UK in that period Jews? I think either the connection ought to be directly and outrightly made or the background demography should be removed.  Comments? [[User:Jyg|Jyg]] ([[User talk:Jyg|talk]]) 02:57, 30 August 2016 (UTC)
+
+== Contradiction in whether they were anarchists ==
+There is a jarring contradiction within the section entitled &quot;Latvian emigre gang&quot;. It states in the first paragraph that &quot;the small group of Latvians ... were not anarchists&quot;. Then in the second paragraph, &quot;The probable leader of the group was George Gardstein ..., who probably was an anarchist&quot;. Perhaps the solution is to write that the group were not ALL anarchists, but I would not make that edit without knowing the evidence for each claim. [[User:Jmchutchinson|Jmchutchinson]] ([[User talk:Jmchutchinson|talk]]) 07:40, 30 August 2016 (UTC)
+:Not ''that'' jarring: the group weren't, but one member was. Anyhow, I've tweaked accordingly. – [[User:SchroCat|Gavin]] ([[User talk:SchroCat|talk]]) 09:17, 30 August 2016 (UTC)
+:Just because you didn't fall off your chair doesn't mean he didn't. ;) [[User:Jyg|Jyg]] ([[User talk:Jyg|talk]]) 21:25, 10 September 2016 (UTC)</text>
+      <sha1>68vgthzpa0ogh8m4h2s3vc7jhnre0y8</sha1>
+    </revision>
+  </page>
+</mediawiki>

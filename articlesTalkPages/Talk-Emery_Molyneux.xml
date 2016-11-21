@@ -1,0 +1,230 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Emery Molyneux</title>
+    <ns>1</ns>
+    <id>15459680</id>
+    <revision>
+      <id>655283936</id>
+      <parentid>520039078</parentid>
+      <timestamp>2015-04-07T02:21:23Z</timestamp>
+      <contributor>
+        <username>SporkBot</username>
+        <id>12406635</id>
+      </contributor>
+      <minor/>
+      <comment>Remove template per [[Wikipedia:Templates for discussion/Log/2015 March 16|TFD outcome]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="33161">{{ArticleHistory
+|action1        = GAN
+|action1date    = 09:53, 22 March 2008
+|action1link    = Talk:Emery Molyneux/Archive: GA review
+|action1result  = Listed
+|action1oldid   = 199951363
+
+|action2        = FAC
+|action2date    = 00:34, 18 April 2008
+|action2link    = Wikipedia:Featured article candidates/Emery Molyneux
+|action2result  = Promoted
+|action2oldid   = 206134335
+
+|dykdate       = 2008-02-09
+|topic         = geography
+|maindate      = 15 January 2010
+|currentstatus = FA
+|four=yes
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=no|class=FA|s&amp;a-priority=Mid|s&amp;a-work-group=yes|listas=Molyneux, Emery}}
+{{WikiProject Geography|class=FA|importance=High}}
+{{Maths rating|class=FA|importance=Mid|field=mathematician|historical=yes}}
+{{WikiProject England|class=FA|importance=Mid}}
+{{WikiProject Maps|class=FA|importance=high}}
+}}
+{{archive box|&lt;center&gt;[[/Archive: GA review|Good article review]]&lt;/center&gt;}}
+
+== Translation of non-English terms ==
+
+Help would be much appreciated in translating the following book titles, passages and terms appearing in the article that are not in English:
+
+===Dutch===
+*&quot;Tractaet Ofte Hendelinge van het gebruijck der Hemelscher ende Aertscher Globe. Gheaccommodeert naer die Bollen, die eerst ghesneden zijn in Enghelandt door Io. Hondium, Anno 1693 [sic: 1593] ende nu gants door den selven vernieut, met alle de nieuwe ontdeckinghen van Landen, tot den daghe van heden geschiet, ende daerenboven van voorgaende fauten verbetert. In't Latijn beschreven, door Robertum Hues, Mathematicum, nu in Nederduijtsch overgheset, ende met diveersche nieuwe verclaringhe ende figueren vermeerdert en verciert. Door I. Hondium&quot;.
+*&quot;Tractaet ofte handelinge van het gebruyck der hemelscher ende aertscher globe. ... Michiel Colijn, boeck-vercooper, woonende op't water, in't Huys-boeck, by de Oude Brugghe&quot;.
+
+:* Treatise or instructions for the use of the globe of the sky and the earth globe.  Tailored for the globes which were first made in England by J. Hondius, in the year 1693, and have now been complete revised by him, with all new discoveries of countries up to the present day, and furthermore with previous errors corrected.  Described in Latin by Robert Hues, mathematician, and now translated into Dutch, and enhanced and ornamented with several new explanations and figures, by J. Hondius.
+:* Treatise or instructions for the use of the globe of the sky and the earth globe. ... Michiel Colijn, book seller, who lives at the water's edge, in Huys-boeck, near the old bridge.
+: [[User:Paul Koning|Paul Koning]] ([[User talk:Paul Koning|talk]]) 15:41, 11 February 2008 (UTC)
+
+===French===
+*&quot;Traicté des globes, et de leur usage, traduit per Haurion. ... Chez Abraham Pacard, ruë sainct Iacques, au sacrifice d'Abraham&quot;.
+**In English: &quot;''Globes' [[treatise]] and their use''&quot; you may add the {{OCLC|37802904}}. [[User:SalomonCeb|SalomonCeb]] ([[User talk:SalomonCeb|talk]]) 08:43, 11 February 2008 (UTC)
+:In English: &quot;A Treatise on Globes and their use, translated by Haurion&quot; (and the Publisher's name and address). [[User:Dickeybird|Dickie]] ([[User talk:Dickeybird|talk]]) 12:55, 11 February 2008 (UTC)
+
+===Italian===
+*&quot;Primo Volume delle Navigationi et Viaggi nel qual si contiene la descrittione dell'Africa: e del Paese del Prete Ianni, con varii viaggi, dal Mar Rosso à Calicut, et infin all'Isole Molucche... et la Navigatione attorno il Mondo&quot;.
+::&quot;''First volume of navigation and travels which include the description of Africa: and of the Prete Ianni's country, with several travels, from Red Sea to Kozhikode and finally to Maluku Islands... and the navigation around the World.''&quot; [[User:SalomonCeb|SalomonCeb]] ([[User talk:SalomonCeb|talk]]) 08:53, 11 February 2008 (UTC)
+:::The old name Calicut would be a more appropriate translation than [[Kozhikode]], and &quot;the Moluccas&quot; would be the normal English name for what are now called the [[Maluku Islands]] - arguably the equivalent English traveller would have called them the Spice Islands for added exoticism, although that's an ambiguous name (see the article). Oh, and Prete would get translated, probably as &quot;Father&quot;. [[User:FlagSteward|FlagSteward]] ([[User talk:FlagSteward|talk]]) 23:44, 12 February 2008 (UTC)
+::::Yes, I was wondering whether to use the old names. I think I will do so as it looks more authentic. Thanks for the suggestions and additional information about &quot;Prete&quot;. Don't suppose you have any idea what &quot;Father Ianni's country&quot; is? &amp;mdash; Cheers, [[User:Jacklee|&lt;span style=&quot;color:#ce2029&quot;&gt;Jack&lt;/span&gt;&lt;span style=&quot;color:#800000&quot;&gt;'''Lee'''&lt;/span&gt;]] &lt;sup&gt;&amp;ndash;[[User talk:Jacklee|talk]]&amp;ndash;&lt;/span&gt;&lt;/sup&gt; 01:31, 13 February 2008 (UTC)
+:::::Scrub that about Father - a bit more research reveals that it is the Italian equivalent of [[Prester John]], a legendary figure who supposedly ruled a Christian kingdom somewhere in the Middle East, which came to be identified with Ethiopia. So leave it as &quot;the lands of Prester John&quot; or some such. [[User:FlagSteward|FlagSteward]] ([[User talk:FlagSteward|talk]]) 23:09, 13 February 2008 (UTC)
+::::Now that's intriguing. Will update the article. &amp;mdash; Cheers, [[User:Jacklee|&lt;span style=&quot;color:#ce2029&quot;&gt;Jack&lt;/span&gt;&lt;span style=&quot;color:#800000&quot;&gt;'''Lee'''&lt;/span&gt;]] &lt;sup&gt;&amp;ndash;[[User talk:Jacklee|talk]]&amp;ndash;&lt;/span&gt;&lt;/sup&gt; 23:37, 13 February 2008 (UTC)
+:Hi, thanks very much for your help with translating the French and Italian book titles. By the way, I forgot to ask this: how would you translate &quot;Gli Heredi di Lucantonio Giunti Venetia&quot;? This is the imprint (publication) information of the Italian book. &amp;mdash; Cheers, [[User:Jacklee|&lt;span style=&quot;color:#ce2029&quot;&gt;Jack&lt;/span&gt;&lt;span style=&quot;color:#800000&quot;&gt;'''Lee'''&lt;/span&gt;]] &lt;sup&gt;&amp;ndash;[[User talk:Jacklee|talk]]&amp;ndash;&lt;/span&gt;&lt;/sup&gt; 14:48, 11 February 2008 (UTC)
+::It should be: &quot;''The Heirs of Lucantonio Giunti (in) [[Veneto]]''&quot;, ([[Lucantonio Giunti]] was a publisher in Venice in the XVIth Century). [[User:SalomonCeb|SalomonCeb]] ([[User talk:SalomonCeb|talk]]) 15:48, 11 February 2008 (UTC)
+
+===Latin===
+*&quot;Thomas Cavendish 18 Dec. 1587 hæc terra sub nostris oculis primum obtulit sub latitud 47 cujus seu &lt;s&gt;odnodum&lt;/s&gt; &lt;u&gt;admodum&lt;/u&gt; salubris Incolæ maturi ex parte proceri sunt gigantes et vasti magnitudinis&quot;.
+::This contains a few spelling mistakes: ''odnodum'' might be ''admodum'', ''maturi'' probably is ''maiori'' and ''latitud'' is an abbreviation for ''latitudine'', but probably more needs to be checked, because as it stands it would translate as ''Thomas Cavendish presented (?) this land to our eyes first on 18 December 1587, at 47 degrees lat., whose or rather healthy (?) inhabitants are mostly tall giants and of huge size''--[[Special:Contributions/194.126.21.5|194.126.21.5]] ([[User talk:194.126.21.5|talk]]) 18:40, 28 February 2008 (UTC)
+:::Thanks. Will check the spelling in the source. &amp;mdash; Cheers, [[User:Jacklee|&lt;span
+style=&quot;color:#ce2029&quot;&gt;Jack&lt;/span&gt;&lt;span style=&quot;color:#800000&quot;&gt;'''Lee'''&lt;/span&gt;]] &lt;sup&gt;&amp;ndash;[[User talk:Jacklee|talk]]&amp;ndash;&lt;/span&gt;&lt;/sup&gt; 19:57, 28 February 2008 (UTC)
+:::Have checked the source. You are right, ''odnodum'' should be ''admodum'', but ''maturi'' is correct. Would appreciate your help in adjusting the English translation. &amp;mdash; Cheers, [[User:Jacklee|&lt;span style=&quot;color:#ce2029&quot;&gt;Jack&lt;/span&gt;&lt;span style=&quot;color:#800000&quot;&gt;'''Lee'''&lt;/span&gt;]] &lt;sup&gt;&amp;ndash;[[User talk:Jacklee|talk]]&amp;ndash;&lt;/span&gt;&lt;/sup&gt; 00:47, 3 March 2008 (UTC)
+::::Are there other mistakes? &quot;Haec terra&quot; seems like it should be &quot;hanc terram&quot;. [[User:Adam Bishop|Adam Bishop]] ([[User talk:Adam Bishop|talk]]) 09:04, 3 March 2008 (UTC)
+*&quot;Emerius Mulleneux Angl.' / sumptibus Gulielmi— / Sandersoni Londinē: / sis descripsit&quot; &amp;ndash; &quot;Emerius Mulleneux&quot; is Emery Molyneux, &quot;Angl.&quot; probably refers to the fact that he is English, &quot;Gulielmi&amp;mdash; Sandersoni&quot; is the name of Molyneux's patron William Sanderson who was a Londoner (&quot;Londinē:/sis&quot;), but what do &quot;sumpibus&quot; and &quot;descripsit&quot; mean?
+:''sumptibus'' means ''at the expense of'' (= ''published by''); ''descripsit'' means ''described'' or ''wrote''--[[Special:Contributions/84.190.34.50|84.190.34.50]] ([[User talk:84.190.34.50|talk]]) 07:14, 19 February 2008 (UTC)
+*&quot;Iodocus Hon: / dius Flan. Sc.&quot; &amp;ndash; &quot;Iodocus Hondius&quot; is [[Jodocus Hondius]] and &quot;Flan.&quot; probably refers to the fact that he was from [[Flanders]]. Any idea what &quot;Sc.&quot; is? Hondius was a cartographer and engraver.
+*&quot;Theatrum orbis terrarum, opus nunc denuó ab ipso auctore recognitum mustisqué locis castigatum, &amp; quamplurimis nouis, tabilis atqué commentarijs auctum&quot;.
+:&quot;Theater of the globe, a work now collected anew by the same author and corrected in many places, and enlarged with many new tables and commentaries.&quot; Assuming that &quot;mustisque&quot; is &quot;multisque&quot; and &quot;novis&quot; refers to the tables and commentaries (otherwise, with the comma it looks like the less elegant &quot;new things&quot;). I'm not sure what &quot;theatrum&quot; means in this case but it's probably a style of book. [[User:Adam Bishop|Adam Bishop]] ([[User talk:Adam Bishop|talk]]) 09:04, 3 March 2008 (UTC)
+*&quot;Tractatus de globis et eorum usu: accommodatus iis qui Londini editi sunt anno 1593, sumptibus Gulielmi Sandersoni civis Londinensis, conscriptus à Roberto Hues&quot;.
+:*Treatise on globes and their use: adapted to those which have been published in London in the year 1593, by publisher G. Sanderson, a resident of London, written by Robert Hues&quot; [[User:Paul Koning|Paul Koning]] ([[User talk:Paul Koning|talk]]) 20:12, 11 February 2008 (UTC)
+::*Thanks very much. Forgot to ask: what does &quot;In ædibus&quot; mean? &amp;mdash; Cheers, [[User:Jacklee|&lt;span style=&quot;color:#ce2029&quot;&gt;Jack&lt;/span&gt;&lt;span style=&quot;color:#800000&quot;&gt;'''Lee'''&lt;/span&gt;]] &lt;sup&gt;&amp;ndash;[[User talk:Jacklee|talk]]&amp;ndash;&lt;/span&gt;&lt;/sup&gt; 23:06, 11 February 2008 (UTC)
+:::It literally means ''in the house (of)'' = ''published by''.--[[Special:Contributions/84.190.34.50|84.190.34.50]] ([[User talk:84.190.34.50|talk]]) 07:14, 19 February 2008 (UTC)
+*&quot;Tractatus de globis coelesti et terrestri ac eorum usu, conscriptus a Roberto Hues, denuo auctior &amp; emendatior editus&quot;.
+:Treatise on sky and earth globes and their use, written by Robert Hues, second enlarged and corrected edition --[[Special:Contributions/84.190.34.50|84.190.34.50]] ([[User talk:84.190.34.50|talk]]) 07:14, 19 February 2008 (UTC)
+::Thanks very much! I've updated the article. If you are able to help translate the other Latin phrases and book titles, that would be great. &amp;mdash; Cheers, [[User:Jacklee|&lt;span style=&quot;color:#ce2029&quot;&gt;Jack&lt;/span&gt;&lt;span style=&quot;color:#800000&quot;&gt;'''Lee'''&lt;/span&gt;]] &lt;sup&gt;&amp;ndash;[[User talk:Jacklee|talk]]&amp;ndash;&lt;/span&gt;&lt;/sup&gt; 17:33, 19 February 2008 (UTC)
+*&quot;Tractatvs de globis, coelesti et terrestri eorvmqve vsv. Primum conscriptus &amp; editus a Roberto Hues. Anglo semelque atque iterum a Iudoco Hondio excusus, &amp; nunc elegantibus iconibus &amp; figuris locupletatus: ac de novo recognitus multisque observationibus oportunè illustratus as passim auctus opera ac studio Iohannis Isacii Pontani... Excudebat H. Hondius&quot;.
+::''Treatise on sky and earth globes and their use. First written and published by Robert Hues, Englishman, and in the first and second editions drawn by Jude Hond (?), and now enlarged by elegant pictures and drawings, and again revised and fittingly illustrated by mani observations, and throughout enlarged by the work and effort of John Isaac Pontanus ... Prints by H. Hond'' (the Latin should read ''coelestis'' and ''terrestris'' and ''ac''). --[[Special:Contributions/194.126.21.5|194.126.21.5]] ([[User talk:194.126.21.5|talk]]) 18:40, 28 February 2008 (UTC)
+:::Thanks very much &amp;ndash; I've updated the article. It would be great if you could also help with the remaining untranslated book titles and phrases above and below. &amp;mdash; Cheers, [[User:Jacklee|&lt;span style=&quot;color:#ce2029&quot;&gt;Jack&lt;/span&gt;&lt;span style=&quot;color:#800000&quot;&gt;'''Lee'''&lt;/span&gt;]] &lt;sup&gt;&amp;ndash;[[User talk:Jacklee|talk]]&amp;ndash;&lt;/span&gt;&lt;/sup&gt; 19:57, 28 February 2008 (UTC)
+*&quot;Tractatvs de globis, coelesti et terrestri, ac eorvm vsv. ... Francofvrti ad Moenvm: Typis &amp; sumptibus VVechelianorum, apud Danielem &amp; Dauidem Aubrios &amp; Clementem Schleichium&quot;.
+:Same as above, published in Frankfurt-am-Main, with a bunch of names. By the Wechelians, at the printing house of Daniel and David Aubrios and Clement Schleich, I guess. [[User:Adam Bishop|Adam Bishop]] ([[User talk:Adam Bishop|talk]]) 09:04, 3 March 2008 (UTC)
+*&quot;Tractatus de globis coelesti et terrestri eorumque usu ac de novo recognitus multisq[ue] observationibus opportunè illustratus ac passim auctus, opera et studio Johannis Isacii Pontani...; adjicitur Breviarium totius orbis terrarum Petri Bertii... Excudebat W.H., impensis Ed. Forrest&quot;.
+:&quot;Treatise on sky and earth globes and their use, collected anew and suitably illustrated with many observations, and enlarged throughout, by the effort and devotion of John Isaac Pontanus...a brief account of the whole globe is added by Peter Bertius...printed by W.H., at the expense of Edward Forrest.&quot; [[User:Adam Bishop|Adam Bishop]] ([[User talk:Adam Bishop|talk]]) 09:04, 3 March 2008 (UTC)
+
+===Spanish===
+*&quot;Islas estas descubrio Pedro Sarmiento de Gamboa por la corona de Castilla y Leon desde el año 1568 llamolas Islas de Jesus aurque vulgarmente las llaman Islas de Salomon&quot;. Is &quot;These islands claimed by Pedro Sarmiento de Gamboa for the crown of Castile and León from the year 1568 are the Jesus Islands, commonly called the Solomon Islands&quot; an accurate translation?
+
+&amp;mdash; Cheers, [[User:Jacklee|&lt;span style=&quot;color:#ce2029&quot;&gt;Jack&lt;/span&gt;&lt;span style=&quot;color:#800000&quot;&gt;'''Lee'''&lt;/span&gt;]] &lt;sup&gt;&amp;ndash;[[User talk:Jacklee|talk]]&amp;ndash;&lt;/span&gt;&lt;/sup&gt; 04:07, 11 February 2008 (UTC)
+
+: In this context, it seems like ''descubrio'' takes both the meanings of &quot;discovered&quot; and &quot;claimed&quot;. You might want to split it into a few sentences since it sounds a bit awkward. (Are you sure it says ''aurque'' and not ''aunque''? ''Aunque'' would make sense in context...) Personally, I'd translate it like: &quot;Pedro Sarmiento de Gamboa discovered these islands and claimed them for the crown of Castile and Leon. From 1568 onward, the islands were named the Islas de Jesus, though they are more commonly known as the Solomon Islands.&quot; Your translation, though, is sound. It ''is'' accurate, just maybe a bit confusing. Cheers --&lt;font color=&quot;#006600&quot;&gt;[[User:Mukkakukaku|'''M'''û'''ĸĸ'''â'''ĸ'''û'''ĸ'''â'''ĸ'''û]]&lt;/font&gt; 07:46, 11 February 2008 (UTC)
+
+Thanks very much for this. I checked the source, and it does say ''aunque'' rather than ''aurque'', so I've corrected the error and updated the translation as suggested by you. &amp;mdash; Cheers, [[User:Jacklee|&lt;span style=&quot;color:#ce2029&quot;&gt;Jack&lt;/span&gt;&lt;span style=&quot;color:#800000&quot;&gt;'''Lee'''&lt;/span&gt;]] &lt;sup&gt;&amp;ndash;[[User talk:Jacklee|talk]]&amp;ndash;&lt;/span&gt;&lt;/sup&gt; 14:46, 11 February 2008 (UTC)
+
+== Disambig ==
+
+Guiana needs a disambig. [[User:Randomblue|Randomblue]] ([[User talk:Randomblue|talk]]) 18:33, 18 February 2008 (UTC)
+
+:Don't think we can, unfortunately. I think Raleigh was using the term &quot;Guiana&quot; in the sense of the group of three countries on the northeast coast of South America, that is, [[Guyana]], [[Suriname]] and [[French Guiana]]. There's no article about the three countries as a whole, though, only the disambiguation page. &amp;mdash; Cheers, [[User:Jacklee|&lt;span style=&quot;color:#ce2029&quot;&gt;Jack&lt;/span&gt;&lt;span style=&quot;color:#800000&quot;&gt;'''Lee'''&lt;/span&gt;]] &lt;sup&gt;&amp;ndash;[[User talk:Jacklee|talk]]&amp;ndash;&lt;/span&gt;&lt;/sup&gt; 22:53, 18 February 2008 (UTC)
+
+== equivalence of currency ==
+
+What is 1000 pounds in today's pounds (I guess a fortune)? (Sanderson readily agreed to bear the manufacturing costs, and financed initial production of the globes with a capital investment of £1,000.) [[User:Randomblue|Randomblue]] ([[User talk:Randomblue|talk]]) 18:40, 18 February 2008 (UTC)
+
+==Presentation of the globes==
+
+Well, it wasn't just a good-faith edit but one that I had looked up. &quot;Molyneux had made his name in July 1591, when he presented a manuscript terrestrial globe to the queen at Greenwich&quot;. This is from the catalogue of the Greenwich exhibition, notes by Emily Winterburn and Kristen Lippencot. But actually it doesn't matter, because Molyneux was presenting the queen with his globe(s), whichever way you look at it (I hardly think he wasn't party to it). The more crucial point is that you have restored a passive construction, which means there are several in a row again. It reads a bit saggily there, in my opinion. [[User:Qp10qp|qp10qp]] ([[User talk:Qp10qp|talk]]) 23:00, 30 March 2008 (UTC)
+
+:We have a conflict of sources here. Wallis states that the globes were published in late 1592 or some time between January and March 1593, and that Sanderson presented them to Elizabeth I at his home in Newington Butts. This is what I stated in the article. However, I did mention in footnote 30 that the ''Oxford Dictionary of National Biography'' says that Molyneux's globes were presented to the Queen in July 1592 at Greenwich. According to the Greenwich exhibition catalogue, it was Molyneux who presented the globes, and that this took place in July 1591, an entire year earlier. Does the catalogue provide a reference for the fact you mentioned? If not, perhaps what the catalogue states can be added to footnote 30. What's the title of the catalogue? &amp;mdash; Cheers, [[User:Jacklee|&lt;span style=&quot;color:#ce2029&quot;&gt;Jack&lt;/span&gt;&lt;span style=&quot;color:#800000&quot;&gt;'''Lee'''&lt;/span&gt;]] &lt;sup&gt;&amp;ndash;[[User talk:Jacklee|talk]]&amp;ndash;&lt;/span&gt;&lt;/sup&gt; 23:09, 30 March 2008 (UTC)
+
+::The reference is ''Elizabeth: The Exhibition at the National Maritime Museum'', edited by Susan Doran, Chatto &amp; Windus in association with The National Maritime Museum, 2003, p 134. There are different notes and essays scattered through it: Emily Winterburn is curator of astronomy at the Royal Observatory and Kristen Lippencot is deputy director of the National Maritime Museum. I wouldn't worry too much about a discrepancy of one year, in itself, because dating often wavers by a year at this moment in history, owing to the transition between [[Old Style and New Style dates| old and new styles]]. The references (for the whole six-paragraph entry), are to Clifton, ''Globe Making'', pp 46–47; Crinò and Wallis, ''Molyneux Globes'', pp 11–18; and Lippencot, ''Power and Politics'', p 138. The information is directly linked to Ubaldini's comments, saying that he was an eyewitness, and so if you can date those, then that might nail it (when he says &quot;he gave her the globe ...&quot;, who does Ubaldini mean by &quot;he&quot;?). Elsewhere in the catalogue (127–28) it says that Elizabeth had ''two'' £1000 globes dedicated to her in 1592: is there some distinction here between the &quot;manuscript terrestrial globe&quot; and the finished globes, I wonder? It is made clear that the first ''printed'' globes were made in 1592. [[User:Qp10qp|qp10qp]] ([[User talk:Qp10qp|talk]]) 23:48, 30 March 2008 (UTC)
+
+:I checked the source which I cited for the Ubaldini quote, and it is the National Maritime Museum's website for the Elizabeth exhibition. It follows what the exhibition catalogue states by claiming that it was Molyneux who presented the globes to the Queen at Greenwich in 1591. So, either Elizabeth I was presented with two sets of globes, one by Sanderson at his home in Newington Butts and the other by Molyneux at Greenwich, or one of the sources is wrong. The 1987 Crinò and Wallis article (Crinò, Anna Maria &amp; Wallis, Helen (1987), &quot;New researches on the Molyneux globes&quot;, ''Der Globusfreund'' '''35''': 11–20) is one that I haven't been able to get hold of. Don't suppose you have access to it? Perhaps since the 1987 article and the exhibition catalogue are more recent than Wallis's 1950s articles, we should assume they are more accurate. We could present the facts as they are stated in the exhibition catalogue in the main text, and consign Wallis's views to the footnotes. &amp;mdash; Cheers, [[User:Jacklee|&lt;span style=&quot;color:#ce2029&quot;&gt;Jack&lt;/span&gt;&lt;span style=&quot;color:#800000&quot;&gt;'''Lee'''&lt;/span&gt;]] &lt;sup&gt;&amp;ndash;[[User talk:Jacklee|talk]]&amp;ndash;&lt;/span&gt;&lt;/sup&gt; 14:34, 31 March 2008 (UTC)
+
+::I haven't access to scholarly articles, but if you know a Wikipedian who has, they may be able to email it to you. It might also also worth asking on the FAC page. One thing I did find last night was that these globes were a long time in development and had been publicly commented on years before 1591. Therefore I wonder if the queen was presented first with a &quot;manuscript&quot; version or versions and later by Sanderson with the manufactured versions. This strikes me as possible, since the catalogue mentions the 1591 and the 1592 dates separately (manuscript and printed). This sort of difficulty is typical of sixteenth-century history, in my opinion; and the narrower the topic, the further it can be thrown out by new research or alternative sources. One way round it is simply to add a note on conflict between sources. [[User:Qp10qp|qp10qp]] ([[User talk:Qp10qp|talk]]) 19:10, 31 March 2008 (UTC)
+
+:''Der Globusfreund'' is available at the British Library; I might try and look it up when I'm down in London at the end of April. Your theory about the Queen having been presented with both manuscript and printed globes seems quite plausible, and this might even explain the quotation from ''The Gull's Horn-book'' (1609) (in the &quot;[[Emery Molyneux#Culture|Culture]]&quot; section) which I found puzzling: &quot;What an excellent workman, therefore, were he that could cast the globe of it into a new mould. And not to make it look like Molyneux his globe, with a round face sleeked and washed over with white of eggs, but have it in plano as it was at first, with all the ancient circles, lines, parallels and figures.&quot; Perhaps what Thomas Dekker was referring to was two different types of globes: the former completed by being varnished with egg whites, the latter uncompleted and thus &quot;in plano as it was at first&quot; (whatever this means). Unfortunately we don't have any reference for this theory so I agree that we'll have to note the conflict of opinion in the footnotes until something more definitive shows up. &amp;mdash; Cheers, [[User:Jacklee|&lt;span style=&quot;color:#ce2029&quot;&gt;Jack&lt;/span&gt;&lt;span style=&quot;color:#800000&quot;&gt;'''Lee'''&lt;/span&gt;]] &lt;sup&gt;&amp;ndash;[[User talk:Jacklee|talk]]&amp;ndash;&lt;/span&gt;&lt;/sup&gt; 22:59, 31 March 2008 (UTC)
+
+:Re-reading the ''Oxford Dictionary of National Biography'', I note it states:
+::Ubaldini's letters to the duke of Milan detail Molyneux's progress on their construction: the first pair were presented to Queen Elizabeth at Greenwich in July 1592; another terrestrial globe was presented with entertainments at Sanderson's house in Lambeth.
+:It therefore appears that two pairs of globes were presented to Elizabeth I. I've updated the article to state that according to the National Maritime Museum's exhibition catalogue, a manuscript version was given in July 1591 (I've noted in a footnote that the ODNB says the date is July 1592), and following Wallis's article William Sanderson presented a pair of printed globes to the Queen when these were published. The statement at pp. 127–128 of the exhibition catalogue that Elizabeth had two £1,000 globes dedicated to her in 1592 is a little puzzling, though. It's not the fact that two globes were dedicated to her – I think this must mean the terrestrial and celestial globes – but that they cost £1,000. This is the sum that Sanderson paid to have the globes manufactured, but I've always assumed that the money was used to manufacture a number of globes, not just the two for the Queen. Hopefully the point will become clearer when I manage to read the Crinò and Wallis article. &amp;mdash; Cheers, [[User:Jacklee|&lt;span style=&quot;color:#ce2029&quot;&gt;Jack&lt;/span&gt;&lt;span style=&quot;color:#800000&quot;&gt;'''Lee'''&lt;/span&gt;]] &lt;sup&gt;&amp;ndash;[[User talk:Jacklee|talk]]&amp;ndash;&lt;/span&gt;&lt;/sup&gt; 00:37, 4 April 2008 (UTC)
+
+:I agree with you; I think that is probably just loose writing—£1000 was an enormous sum of money at that time and must surely have been the cost of the manufacture of all the globes.
+
+:The article now smartly accommodates the conflict in the sources. It strikes me that whenever I have come across complications like this—we did at [[William Scrots]] and [[Robert Peake the Elder]],  for example—it usually emerges that more than one very similar incident or object led to the confusion. Historians often gloss over these awkwardnesses, but we have to ungloss them. [[User:Qp10qp|qp10qp]] ([[User talk:Qp10qp|talk]]) 01:56, 4 April 2008 (UTC)
+
+== Royal arms on the globe? ==
+
+Hi, [[User:Qp10qp|Qp10qp]], at &quot;[[Wikipedia:Featured article candidates/Emery Molyneux]]&quot; you mentioned that the National Maritime Museum exhibition catalogue:
+
+{{quote|... points out and shows that the royal arms were emblazoned across North America on the Temple terrestrial globe. Is this worth mentioning, given that Sanderson had funded Davis's search for the Northwest Passage and Raleigh's Virginia adventures? It would place the globe in the context of the new mercantile imperialism. ... The reference for this is to an essay in the same catalogue by Sian Flynn and David Spence, &quot;Imperial Ambition and Elizabeth's Adventurers&quot;, pp 121–131 (specific pages, 127–28). There is also a full-page illustration of the royal arms on North America (present-day Canada, in fact) on page 135. [[User:Qp10qp|qp10qp]] ([[User talk:Qp10qp|talk]]) 00:20, 31 March 2008 (UTC)}}
+
+I had a look at the articles I consulted when compiling the Wikipedia article. One of Helen Wallis's articles, &quot;Globes in England up to 1660&quot; (1962), stated that ''William Sanderson'''s arms were on the terrestrial globe (a photograph shows that it is a shield, with a terrestrial globe affixed to a blazing sun above, and the motto &quot;Opera Mundi&quot; below), but I wasn't able to find any reference to the royal arms being on the globe. Does the catalogue say anything more about why the royal arms were on the globe, and how this relates to mercantile imperialism? &amp;mdash; Cheers, [[User:Jacklee|&lt;span style=&quot;color:#ce2029&quot;&gt;Jack&lt;/span&gt;&lt;span style=&quot;color:#800000&quot;&gt;'''Lee'''&lt;/span&gt;]] &lt;sup&gt;&amp;ndash;[[User talk:Jacklee|talk]]&amp;ndash;&lt;/span&gt;&lt;/sup&gt; 22:22, 7 April 2008 (UTC)
+
+:No, it just says &quot;The globes, with the royal arms emblazoned across North America on the terrestrial globe, were first presented to Elizabeth at Greenwich&quot; (p. 128). Earlier (p. 127) it says &quot;Elizabeth's reaction to English 'imperial' achievements, such as Drake's circumnavigation, can be perceived when she received a pair of impressive globes . . .&quot; and then it goes on about Frobisher and Cavendish. I can confirm that the royal arms are definitely on the globe (present-day Canada) because there is a full-page photograph of that part of the terrestrial globe in the book. Sanderson's arms may be round the other side, I don't know. [[User:Qp10qp|qp10qp]] ([[User talk:Qp10qp|talk]]) 23:40, 7 April 2008 (UTC)
+
+Thanks for that. I've updated the &quot;[[Emery Molyneux#Publication|Publication]]&quot; section of the article with the information. I also found a very nice portrait of Elizabeth I with a globe! &amp;mdash; Cheers, [[User:Jacklee|&lt;span style=&quot;color:#ce2029&quot;&gt;Jack&lt;/span&gt;&lt;span style=&quot;color:#800000&quot;&gt;'''Lee'''&lt;/span&gt;]] &lt;sup&gt;&amp;ndash;[[User talk:Jacklee|talk]]&amp;ndash;&lt;/span&gt;&lt;/sup&gt; 01:16, 8 April 2008 (UTC)
+
+==Pronunciation of this name==
+I am wondering about the pronunciations given for this man's name.  I have already corrected one thing in the IPA Emery part that is pretty much impossible, but would like to help fix the rest too if necessary.  Generally, in my experience, Molyneux is generally pronounced in British English something like Molly new.  The current IPA version given suggests that it is pronounced something more like Mahler know. If you can let me know what the correct pronunciation is, then I would be happy to do the IPA. Also the non-IPA version links to the IPA key, which isn't very helpful! [[User:Slp1|Slp1]] ([[User talk:Slp1|talk]]) 02:49, 16 April 2008 (UTC)
+
+==Copyedit==
+
+Jack, since a request for a thorough copyedit is outstanding at FAC, I have carried one out, and I will shortly ask Tony to have another look. This is not to criticise your prose, which I think is very good, but just to try and wring that full support out of Tony. Please check my edits carefully, because it is quite possible that in changing wordings, etc. I have infringed the precise boundaries of the information. Please change anything back, where necessary.
+
+Perhaps you could help with one or two difficulties that I had:
+
+*I sense that there is a detail missing about the flour casting. I cannot see from the text how this process made the globes immune to humidity, flour paste being intrinsically soluble.
+
+*&quot;he produced in Amsterdam a Dutch translation of Hues' ''Tractatus de Globis''&quot;. I cannot quite work out what this means. Did he translate it, commission a translation, publish a translation ...?
+
+*''In 1889, Sir Clements Markham, an English explorer, author and geographer, pointed out that a Latin legend on the terrestrial globe, placed off the Patagonian coast, states: &quot;Thomas Caundish 18 Dec. 1587 hæc terra sub nostris oculis primum obtulit sub latitud 47 cujus seu admodum salubris Incolæ maturi ex parte proceri sunt gigantes et vasti magnitudinis&quot;.[20] However, Helen Wallis, former Map Curator of the British Library, observed in 1951 that this was unlikely, because Molyneux incorrectly plotted Cavendish's course in the East Indian Archipelago.''
+
+:Two points here: the Latin needs a translation (if one is not available, a paraphrase would do—in fact one doesn't even need to give the Latin there, just an idea of what it says). (And it almost seems as if Markham suddenly noticed this legend, but it was there for anyone to see all along.) The way this is worded, it appears as if Wallis is saying that it is likely that Markham is wrong in pointing out that the legend says this, whereas I think you mean she is suggesting that what the legend itself says is unlikely (but I'm not totally sure). Whether she is criticising Markham's theory or the content of the legend should be made clear. The other thing is that whether Molyneux was on the voyage himself or not is not necessarily anything to do with the course in the East Indian Archipelago, for two reasons: he may have been in one of Cavendish's ships that returned before Cavendish went through the Straits of Magellan; and if Cavendish himself was helping Molyneux with the mapping, he had been to the East Indian Archipelago and seen it with his own oculi, so either way the mistake cannot depend on whether its source had actually been there.
+
+*Is it necessary to have the large blockquote in both Latin and English? Would it perhaps be better to place the Latin in the footnote?
+
+I don't really understand why one or two of the reviewers felt there was a serious need for copyediting. My guess, though, is that the very dense, lengthy notes, and the presence of tags at unpunctuated points in sentences, might make access to the information feel knotty. In future I would suggest short-note form, no lengthy captions, abbreviated titles for the long-name books, a separate page containing full book details ([[List of works by Joseph Priestley]] is an excellent example of how to write out details of old books in scholarly detail, in my opinion), and footnote tags placed only after punctuation points (the minuscule loss of exactitude here will not be a problem for anyone wishing to check specific citations). I appreciate your very precise, thorough way of providing information, but I am trying to think of ways to avoid anything that might put off reviewers or readers.
+
+I must say that in copyediting, I found the long notes very difficult to edit round, and I briefly downloaded wik.ed, which colours notes in, to help me get a sense of the rhythm of the prose. Of course, this is just an editor's rather than a reader's issue, but again, it might put reviewers off from getting stuck in. [[User:Qp10qp|qp10qp]] ([[User talk:Qp10qp|talk]]) 22:36, 16 April 2008 (UTC)
+== Rutter/ruttier ==
+
+In this article, I see the navigation diaries referred to as &quot;ruttiers&quot;. All of my experience and research has shown this spelling - rutters.
+
+Comments?
+
+Sources for the spelling in the article?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/68.7.215.46|68.7.215.46]] ([[User talk:68.7.215.46|talk]]) 22:46, 18 January 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:I followed the usage given in the ''[[Oxford English Dictionary]]''. As indicated in the footnote, the ''Dictionary'' spells the word ''ruttier'' and, perhaps unusually, does not even state ''rutter'' as a variant spelling. Perhaps if you have some published examples of the word being spelled ''rutter'', we can submit those to the OED so they can update their entries. — Cheers, [[User:Jacklee|&lt;span style=&quot;color:#ce2029&quot;&gt;Jack&lt;/span&gt;&lt;span style=&quot;color:#800000&quot;&gt;'''Lee'''&lt;/span&gt;]] &lt;sup&gt;&amp;ndash;[[User talk:Jacklee|talk]]&amp;ndash;&lt;/sup&gt; 07:04, 19 January 2010 (UTC)</text>
+      <sha1>ath41rcs98u8n3i2esg2io1wcljlrlk</sha1>
+    </revision>
+  </page>
+</mediawiki>

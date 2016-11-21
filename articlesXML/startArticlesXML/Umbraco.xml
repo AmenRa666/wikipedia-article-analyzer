@@ -1,0 +1,139 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Umbraco</title>
+    <ns>0</ns>
+    <id>26040628</id>
+    <revision>
+      <id>747260148</id>
+      <parentid>739158050</parentid>
+      <timestamp>2016-11-01T11:16:48Z</timestamp>
+      <contributor>
+        <ip>81.149.88.66</ip>
+      </contributor>
+      <comment>Change the stable release version.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12961">{{Infobox software
+| name = 
+| author                 = Niels Hartvig and Umbraco Core Team
+| released               = {{start-date|2000}}
+| latest release version = 7.5.4
+| latest release date    = {{release date|2016|10|20}}&lt;ref&gt;{{cite web|url=https://our.umbraco.org/contribute/releases/|title=All releases|work=Our Umbraco}}&lt;/ref&gt;
+| status                 = Active
+| programming language   = [[C Sharp (programming language)|C#]]
+| operating system       = [[ASP.NET]], [[Microsoft Windows]], [[Microsoft SQL Server|SQL Server]], [[SQL Server Compact|SQL CE]], [[SQL Azure]], [[MySQL]]
+| genre                  = [[Content management framework]], [[Web framework]], [[Content management system]], [[Community]] and [[Blog software]]
+| license                = 4.5 and later: [[MIT License]] Prior 4.5: [[MIT License]] (framework) &amp; Umbraco License (Backend UI)&lt;ref&gt;{{cite web|url=http://umbraco.com/products/license|title=Umbraco — License |accessdate=2011-12-19 |publisher=Umbraco I/S}}&lt;/ref&gt;
+| alexa                  =
+| website                = {{url|http://umbraco.com}}
+}}
+'''Umbraco''' is an [[open source]] [[content management system]] (CMS) platform for publishing content on the [[World Wide Web]] and [[intranet]]s.   It is written in [[C Sharp (programming language)|C#]] and deployed on Microsoft based infrastructure. Since version 4.5, the whole system has been available under an [[MIT License]].&lt;ref name=&quot;license&quot;&gt;{{cite web |url=http://umbraco.com/products/license |title=Umbraco License |accessdate=2015-07-07 |publisher=Umbraco I/S }}&lt;/ref&gt;
+
+Umbraco was developed by Niels Hartvig in 2000 and released as open source software in 2004.&lt;ref name=&quot;history&quot;&gt;{{cite web|url=http://umbraco.com/about-us.aspx|title=About Umbraco|accessdate=2010-02-07 |publisher=Umbraco I/S}}&lt;/ref&gt; In 2009, CMS Wire described it as one of the leading .NET-based open source CMS systems.&lt;ref&gt;{{cite web|url=http://www.cmswire.com/cms/web-cms/open-source-cms-market-lights-beyond-lamp-005849.php|title=Open Source CMS Market: Lights Beyond LAMP|accessdate=2010-02-07 |publisher=CMSwire|author=Ric Shreeves}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.cmswire.com/cms/web-cms/quick-take-review-umbraco-web-content-management-system-004296.php|title=Quick Take Review: Umbraco Web Content Management System|accessdate=2010-02-07|publisher=CMSwire|author=Barb Mosher}}&lt;/ref&gt; In 2010, with 1000 downloads a day,&lt;ref name=&quot;cw-nw&quot;&gt;{{cite web|url=http://www.idg.no/computerworld/article158932.ece|title=Fra garasjebedrift til suksess-CMS (From the garage company to success-CMS)|accessdate=2010-02-17|publisher=[[Computerworld]] (Norway)|author=Leif Martin Kirknes|language=no}}&lt;/ref&gt; Umbraco was in the top five most popular downloads via the Microsoft Web Platform Installer, two places below its main rival [[DotNetNuke]],&lt;ref name=&quot;webpi&quot;&gt;{{cite web|url=http://www.microsoft.com/web/gallery/|title=Microsoft /Web|accessdate=2010-02-07 |publisher=Microsoft}}&lt;/ref&gt; and was the 12th most downloaded application from Codeplex, six places below DotNetNuke and 13 places higher than [[mojoPortal]].&lt;ref name=&quot;codeplex&quot;&gt;{{cite web|url=http://www.codeplex.com/site/search?SortBy=DownloadCount|title=Codeplex projects by downloads|accessdate=2010-02-07 |publisher=Microsoft}}&lt;/ref&gt;
+
+== Technology ==
+Umbraco is primarily written in [[C Sharp (programming language)|C#]], stores data in a relational database (commonly [[Microsoft SQL Server]]) and works on [[Internet Information Services|Microsoft IIS]]. Umbraco's front-end is built upon Microsoft's [[.NET Framework]], using [[ASP.NET]]. 
+
+Umbraco uses standard ASP.NET features such as [[ASP.NET#Template engine|ASP.NET &quot;master pages&quot;]] to facilitate the creation of reusable page layouts, and supports both [[ASP.NET Razor|Razor]] and [[XSLT]]. [[XSLT]] has been used for scripting, and in the past there was much debate as to which yielded better performance, since [[XML]] has been used for database storage and for the cache file (umbraco.config) &lt;ref&gt;{{cite web|url=http://our.umbraco.org/wiki/reference/xslt/45-xml-schema|title=XML Schema|website=our.umbraco.org|accessdate=25 January 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://our.umbraco.org/wiki/reference/api-cheatsheet/publishing-and-republishing|title=Publishing and republishing|accessdate=25 January 2015}}&lt;/ref&gt;
+
+=== Database tier ===
+In 2008, a data abstraction layer for Umbraco was built, making it possible to support databases other than SQL Server.  In version 4.0 of Umbraco, support for [[MySQL]], SQL Server and [[Embedded database#VistaDB|VistaDB]] come as standard.&lt;ref name=&quot;dal&quot;&gt;{{cite web|archiveurl=https://web.archive.org/web/20100916030050/http://umbraco.org/umbraco-4---get-excited/one-cms-any-database|url=http://umbraco.org/umbraco-4---get-excited/one-cms-any-database|archivedate=September 16, 2010|title=One CMS any DB|accessdate=2010-02-07 |author=Umbraco I/S|publisher=Umbraco I/S}}&lt;/ref&gt;
+
+With Umbraco 4.6, released in 2010, VistaDB support was removed, and replaced with support for SQL Server Express and SQL Server Compact Edition, due to licensing issues with VistaDB's parent company.&lt;ref name=&quot;licensing-vistadb&quot;&gt;{{cite web|url=http://umbraco.com/follow-us/blog-archive/2010/10/1/introducing-juno.aspx|title=Introducing JUNO|author=Umbraco I/S|publisher=Umbraco I/S}}&lt;/ref&gt;
+
+As of Umbraco 6, support for MySQL has waned, as the development team has spent more time supporting Microsoft's SQL Server products.&lt;ref&gt;{{cite web|last=Reilink|first=Jan|title=Umbraco doesn’t like users with MySQL databases|url=http://www.saotn.org/umbraco-doesnt-like-mysql/|work=Sysadmins of the north|accessdate=12 July 2013}}&lt;/ref&gt; MySQL 5.6.5 or newer is required to support Umbraco 6.1 or newer.
+
+Umbraco 7 featured a completely revamped back-end administration UI, with the use of [[AngularJS]] for a [[single-page application]] experience. It has also been announced that they will implement AngularJS 2.0.&lt;ref&gt;{{cite web|title=Umbraco and Angular 2.0|url=http://umbraco.com/follow-us/blog-archive/2014/11/4/umbraco-and-angular-20|work=Per Ploug|accessdate=25 January 2015}}&lt;/ref&gt;
+
+=== Deployment ===
+The standard release of Umbraco is typically deployed on IIS in an environment which supports Full Trust.  While a Full Trust environment is mandatory to install and operate the standard release, the codebase has been branched and modified to produce a version of the framework and backend UI which supports Medium Trust.&lt;ref name=&quot;mediumtrust&quot;&gt;{{cite web |url=http://our.umbraco.org/wiki/install-and-setup/medium-trust-with-umbraco-40x |title=Medium Trust with Umbraco 4.0.x |accessdate=2010-02-07 |author=Benjamin Howarth |publisher=Umbraco I/S}}&lt;/ref&gt;{{Self-published inline|date=February 2010}}
+
+Research has also been undertaken on running an Umbraco website on [[Mono (software)|Mono]] on Linux.&lt;ref name=&quot;mono&quot;&gt;{{cite web|url=http://kevinfitzgerald.net/articles/umbraco-and-mono.htm|title=Umbraco and Mono: Can it be done?|accessdate=2010-02-07 |author=Kevin M. Fitzgerald}}&lt;/ref&gt;&lt;ref name=&quot;version2&quot;&gt;{{cite web|url=http://www.version2.dk/artikel/13460-dansk-open-source-cms-har-faaet-bbc-og-fox-paa-kundelisten|title=Dansk open source-CMS har fået BBC og Fox på kundelisten (Danish open source CMS has the BBC and Fox on its customer list)|publisher=Version2|author=Jesper Kildebogaard|date=12 Jan 2010|language=da}}&lt;/ref&gt;
+
+Umbraco can be deployed on a single physical server running the database and web tier, and this deployment model can be appropriate for small low-cost sites.  Umbraco sites which serve content under higher load can also be deployed on a [[load balancing (computing)|load balanced]] cluster.  Load balanced Umbraco installations can use software or hardware load balancers, and load balanced network files can be shared using a [[Storage area network|SAN]], [[Network-attached storage|NAS]] or a [[cluster file system]] or using a file replication service between nodes in the cluster.&lt;ref name=&quot;loadbalance&quot;&gt;{{cite web|url=http://our.umbraco.org/wiki/install-and-setup/installing-umbraco-for-load-balanced-environments|title=Installing Umbraco for load balanced environments|accessdate=2010-02-07 |author=Shannon Deminick|publisher=Umbraco I/S}}&lt;/ref&gt;{{Self-published inline|date=February 2010}}
+
+=== Releases ===
+Version 4.1 Beta II was released on 16 February 2010 which refactors a number of key components of the framework,&lt;ref name=&quot;cw-nw&quot;/&gt; including the UI tree control to improve performance and the user experience and parts of the data access layer to reduce the number of database calls.
+
+Version 5 (codenamed &quot;Jupiter&quot;) is a rewrite of the framework, built using [[ASP.NET MVC]],&lt;ref name=&quot;5.0 roadmap&quot;&gt;{{cite web |url=http://our.umbraco.org/wiki/about/roadmap/umbraco-50 |title=Umbraco 5.0 |accessdate=2011-08-10 |publisher=Umbraco }}&lt;/ref&gt; published in January 2012. Problems (performance and code complexity) inherent in the architecture of the new Version 5 data access layer &lt;ref name=&quot;Umbraco 5 Performance Issues&quot;&gt;{{cite web |url=http://our.umbraco.org/forum/core/umbraco-5-general-discussion/28565-Umbraco-5-Performance-issues?p=13 |title=Umbraco 5 Performance Issues |accessdate=2012-06-29 |publisher=Umbraco }}&lt;/ref&gt; led to Version 5 being dropped in June 2012 despite having been released on a commercial licence,&lt;ref name=&quot;5.0 RIP&quot;&gt;{{cite web |url=http://umbraco.com/follow-us/blog-archive/2012/6/13/v5-rip.aspx |title=v5 RIP |accessdate=2012-06-13 |publisher=Umbraco }}&lt;/ref&gt; and development efforts refocused on integrating selected Version 5 [[Front and back ends|front end]] enhancements into Version 4.
+
+Version 6 was released on 31 January 2013, and was focused on additional support for MVC 4 and a new streamlined API.&lt;ref name=&quot;6.0 release&quot;&gt;{{cite web|title=Umbraco 6.0.0 released|url=http://umbraco.com/follow-us/blog-archive/2013/1/31/umbraco-600-released.aspx|website=Umbraco|accessdate=19 June 2014}}&lt;/ref&gt;
+
+Version 7 was released 21 November 2013. It is updated concurrently with version 6, but provides a redesign of the back-office user interface.&lt;ref name=&quot;7.0 release&quot;&gt;{{cite web|title=Umbraco 7|url=http://umbraco.com/follow-us/blog-archive/2013/11/21/umbraco-7.aspx|website=Umbraco}}&lt;/ref&gt;
+
+== Community ==
+The Umbraco corporation employs a staff of 9&lt;ref&gt;{{cite web|url=http://umbraco.com/about-us/team|title=Umbraco - Team|work=umbraco.com}}&lt;/ref&gt; and is supported by a core development team of 15&lt;ref  name=&quot;cw-nw&quot;/&gt; volunteers who work on the open source core platform.  Umbraco's community site, &quot;Our Umbraco&quot;, has more than 55,000 registered users and developers.{{Citation needed|date=February 2010}} Since 2005, an annual developer conference has taken place in [[Copenhagen]], except in 2007, when it was held in [[London]]. In 2009, the conference had 170 attendees{{Citation needed|date=February 2010}} and subsequently took place in [[Copenhagen]] in June 2010&lt;ref&gt;{{cite web|url=http://www.geckonewmedia.com/blog/2010/06/24/codegarden-10-keynote/|archiveurl=http://www.geckonewmedia.com/blog/2010/06/24/codegarden-10-keynote/|archivedate=June 24, 2010|title=Codegarden 10 Keynote|website=geckonewmedia.com}}&lt;/ref&gt; and June 2011, then growing to 350 attendees for June 2012 and 2013.{{fact|date=January 2015}}
+
+== Reception ==
+In August 2009, Umbraco was included in a list of 10 CMS systems recommended by the Danish ''Version2'' magazine. Among these were three systems initially developed in Denmark: [[Sitecore]], [[TYPO3]], and Umbraco.&lt;ref&gt;{{da icon}} Jesper Stein Sandal (18 Aug 2009) [http://www.version2.dk/artikel/11815-her-er-10-cmser-du-ikke-maa-gaa-glip-af Her er 10 CMS'er, du ikke må gå glip af], Version2&lt;/ref&gt;
+
+== See also ==
+{{Portal|Free software}}
+
+* [[List of content management systems]]
+
+== References ==
+{{reflist|35em}}
+
+== Further reading ==
+* {{da icon}} Nicolai Devantier (21 Sep 2009) ''[http://www.computerworld.dk/art/53109?cid=4&amp;q=umbraco&amp;sm=search&amp;a=cid&amp;i=4&amp;o=2&amp;pos=3 ABBA og gratis kode er nøglen til succes]'' (interview with Niels Hartvig), [[Computerworld]] Denmark
+* {{da icon}} Tania Andersen (2 Feb 2009) ''[http://www.version2.dk/artikel/9799-dansk-succes-cms-faar-redigering-fra-forsiden Dansk succes-CMS får redigering fra forsiden]'', Version2
+* {{da icon}} Tania Andersen (25 Jan 2010) ''[http://www.version2.dk/artikel/13632-microsoft-vaelger-dansk-open-source-cms-til-millioner-af-udviklere Microsoft vælger dansk open source-CMS til millioner af udviklere]'', Version2
+* {{da icon}} Tania Andersen (10 Jun 2008) ''[http://www.version2.dk/artikel/7554-microsoft-vaelger-open-source-til-udviklersite Microsoft vælger open source til udviklersite]'', Version2
+
+== External links ==
+*{{Official website|http://umbraco.com}}
+*[http://our.umbraco.org/contribute/releases Umbraco releases]
+*[https://github.com/umbraco/Umbraco-CMS Umbraco respository on GitHub]
+*[http://our.umbraco.org Our Umbraco - the community site for Umbraco]
+
+{{Application frameworks}}
+
+[[Category:Free content management systems]]</text>
+      <sha1>qrwqim1ipbynsm4mmd4z85akcl07254</sha1>
+    </revision>
+  </page>
+</mediawiki>

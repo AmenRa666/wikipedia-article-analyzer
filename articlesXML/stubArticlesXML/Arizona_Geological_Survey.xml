@@ -1,0 +1,151 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Arizona Geological Survey</title>
+    <ns>0</ns>
+    <id>8276189</id>
+    <revision>
+      <id>623615446</id>
+      <parentid>623610672</parentid>
+      <timestamp>2014-08-31T19:50:38Z</timestamp>
+      <contributor>
+        <username>Fmichael.conway</username>
+        <id>17165768</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5036">{{unreferenced|date=July 2012}}
+{{Infobox organization
+| name                = Arizona Geological Survey
+| image               = AZGS logo.png
+| image_border        = 
+| size                = 
+| alt                 = 
+| caption             = 
+| map                 = 
+| map_size            = 
+| map_alt             = 
+| map_caption         = 
+| map2                = 
+| abbreviation        = 
+| motto               = 
+| mission             = 
+| predecessor         = 
+| successor           = 
+| formation           = &lt;!-- {{Start date and age|YYYY|MM|DD}} --&gt;
+| founded             = 1883
+| founder             = Arizona legislature
+| extinction          = 
+| type                = non-profit
+| status              = 
+| purpose             = investigate and describe Arizona's [[geology]] and to educate and inform the public regarding its geologic setting
+| professional_title  = &lt;!-- for professional associations --&gt;
+| headquarters        = 
+| location            = 
+| coords              = &lt;!-- {{Coord|LAT|LONG|type:landmark|display=inline,title}} --&gt;
+| region_served       = 
+| services            = 
+| membership          = 
+| member              = 
+| language            = 
+| general             = 
+| leader_title        = 
+| leader_name         = 
+| leader_title2       = 
+| leader_name2        = 
+| leader_title3       = 
+| leader_name3        = 
+| leader_title4       = 
+| leader_name4        = 
+| board_of_directors  = 
+| key_people          = 
+| main_organ          = 
+| parent_organization = &lt;!-- or | parent_organisation = --&gt;
+| subsidiaries        = 
+| affiliations        = 
+| secessions          = 
+| budget              = 
+| num_staff           = 
+| num_volunteers      = 
+| slogan              = 
+| website             = &lt;!-- {{URL|example.org}} --&gt;
+| remarks             = 
+| footnotes           = 
+| former name         = 
+}}
+
+The '''Arizona Geological Survey''' (AZGS) was established by the [[Arizona Legislature]] to investigate and describe Arizona's [[geology]][1] and to educate and inform the public regarding its geologic setting. Each year since 1915, AZGS has released geologic maps, formal reports, and other geology-related publications. In [[Tucson]], the Survey maintains a geological library comprising more than 15,000 volumes and approximately 100 linear feet of mine files that include newspaper clippings, maps, mine schematics and mine reports; it also maintains a small core repository of donated [[rock core]]. In addition, AZGS archives well cuttings of more than 1,000 oil and gas wells on behalf of the [[Arizona Oil and Gas Conservation Commission]]. The AZGS Phoenix branch maintains tens-of-thousands of mine maps and reports acquired in 2011 when the [[Arizona Department of Mines and Mineral Resources]] merged with AZGS. The Survey main office is located in the State Office complex in downtown Tucson (416 W. Congress, Ste #100, Tucson, AZ 85701).
+
+==History==
+The Arizona Geological Survey is the latest in a line of academic departments and state agencies serving the people of the [[Arizona Territory]] and now the [[State of Arizona]]. In 1883, then [[Frederick Augustus Tritle|Territorial Governor Tritle]], requested federal assistance in establishing a geologic survey for the [[Arizona Territory]]. The [[U.S. Congress]] responded in 1888 by creating the post of Territorial Geologist of Arizona. The unpaid position of Territorial Geologist first went to John F. Blandy, who served until the mid-1890s. Upon gaining statehood in 1912, the position of Territorial Geologist was abolished.
+
+From 1893 until 1915, the role of geologic mapping and reporting was handed off to the [[University of Arizona]] Bureau of Mines. In 1915, the Arizona Bureau of Mines was established at the University of Arizona with Charles Willis as its first director. See our online yearbook for Arizona's former directors of state and territorial geologic agencies.
+
+[[World War II]] was a fertile time for the Arizona Bureau of Mines. The hunt for strategic metals from large volume, low-grade deposits involved Bureau geologists in research and design of ore concentrating facilities at five major low-grade copper deposits. Following World War II, renewed emphasis on geologic mapping led to the publication of county geologic maps between 1957 and 1960.
+
+Territorial and State Geologic Agencies of Arizona from 1888–2007
+* 1988–Present: Arizona Geological Survey
+* 1977–1988: Arizona Bureau of Geology and Mineral Technology
+* 1915–1977: Arizona Bureau of Mines
+* 1893–1915: The University of Arizona Bureau of Mines
+* 1888–1912: Office of the Territorial Geologist
+
+==References==
+[1]Cobb, J., 2008, Association of American State Geologists Centennial History:1908–2008. American State Geologists, 539 p. 
+
+==External links==
+* [http://www.azgs.az.gov/ AZGS website]
+* [http://arizonageology.blogspot.com/ AZ State Geologist's weblog]
+
+[[Category:State agencies of Arizona]]
+[[Category:Geological surveys]]
+[[Category:Government agencies established in 1988]]
+
+{{Geology-stub}}</text>
+      <sha1>fxpig3plpy5pgrbjso5zu7olxk7le6f</sha1>
+    </revision>
+  </page>
+</mediawiki>

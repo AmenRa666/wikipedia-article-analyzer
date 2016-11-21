@@ -1,0 +1,120 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>BillyBoy*</title>
+    <ns>0</ns>
+    <id>47992596</id>
+    <revision>
+      <id>725854497</id>
+      <parentid>725844024</parentid>
+      <timestamp>2016-06-18T08:51:11Z</timestamp>
+      <contributor>
+        <username>Sladen</username>
+        <id>82982</id>
+      </contributor>
+      <comment>rv alteration of cite quote=</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16846">{{Infobox person
+| name          = BillyBoy*
+| birth_date    = {{Birth date and age|1960|03|10|df=1}}&lt;ref name=&quot;axe-1986&quot;/&gt;&lt;ref name=&quot;mdvaniiism-extract-two&quot;/&gt;
+| birth_place   = Vienna
+| occupation    = Artist, [[socialite]],&lt;ref name=&quot;glamour-nl-2011&quot;&gt;{{cite magazine|url=http://www.glamour.nl/fashion/nieuws/artikel/christie-s-veilt-yves-saint-laurent-s-mondriaan-jurk|title=Christie's Veilt Yves Saint Laurent’s 'Mondriaan' Jurk|date=1 November 2011|magazine=[[Glamour (magazine)|Glamour]]|language=nl|quote=couture-collectie van Parijse socialite Billyboy* geveild.}}&lt;/ref&gt; [[costume jewellery]] and [[fashion designer]]
+| years_active  = c.1974—
+| citizenship   = Switzerland
+| spouse        = [[Jean Pierre Lestrade]] (&quot;Lala&quot;, 2012–)&lt;ref name=&quot;rts-union&quot;&gt;{{cite news|url=http://www.estrepublicain.fr/actualite/2012/05/27/d-amour-et-d-art|title=D’amour et d’art|work=L'Est Républicain|date=27 May 2012|accessdate=20 October 2015|quote=6 février 2012 : l’union de BillyBoy* et Lala est célébrée à l’hôtel de ville de Délémont.}}&lt;/ref&gt;
+| organization  = Surreal Couture, [[Mdvanii]], Surreal Bijoux, Foundation Tanagra
+| residence     = [[Delémont]]&lt;ref&gt;*{{cite web|url=http://www.rts.ch/play/tv/couleurs-locales/video/ju-rencontre-a-delemont-avec-billyboy-et-lala-un-couple-dartistes-pour-le-moins-hors-norme?id=3664799|title=JU: rencontre à Delémont avec BillyBoy et Lala, un couple d'artistes pour le moins hors norme|language=fr|date=&lt;!--18:55 --&gt;20 December 2011|work=[[Radio Télévision Suisse]]|accessdate=20 October 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.estrepublicain.fr/actualite/2012/05/27/haute-couture-et-poupees|title=Haute couture et poupées|date=27 May 2012|accessdate=20 October 2015|first=Gwenola|last=Guidé|work=L'Est Républicain|quote=A l’été 2011, le couple s’est installé à Délémont}}&lt;/ref&gt;&lt;ref name=&quot;estrepublicain-2012-damour&quot;&gt;{{cite news|url=http://www.estrepublicain.fr/actualite/2012/05/27/d-amour-et-d-art|title=D’amour et d’art|work=L'Est Républicain|date=27 May 2012|accessdate=20 October 2015|quote=1997 : le couple s’installe en Suisse. Eté 2011 : le couple s’installe à Délémont, capitale du Jura Suisse}}&lt;/ref&gt;&lt;ref name=&quot;kingsqueer&quot;&gt;{{cite web|url=http://kingsqueer-art-collection.tumblr.com/artists|title=Nom de l'artiste : Jean-Luc Verna|work=King's Queer Art Collection|accessdate=30 October 2015|quote=En 1993 Lala et BillyBoy* s'installent à [[Trouville-sur-Mer|Trouville]] où ils poursuivent leurs activités. … Depuis 1997, Jean Pierre Lestrade/Lala et BillyBoy* sont installés en Suisse}}&lt;/ref&gt;
+| notable_works = ''Barbie: Her Life and Times''&lt;ref name=&quot;cross-2013&quot;/&gt;
+}}
+'''BillyBoy*''' (born 10 March 1960)&lt;ref name=&quot;axe-1986&quot;&gt;{{cite magazine|url=http://www.dollswelove.com/MagazineArticles/Billy_Boy_and_Barbie.pdf|title=Billy Boy and Barbie|first=John|last=Axe|date=1986|work=[[Doll Reader]]|pages=176–182|quote=French-based … designer Billy Boy … he was born in 1960 and that the name on this document is Billy Boy.}}&lt;/ref&gt;&lt;ref name=&quot;mdvaniiism-extract-two&quot;&gt;{{cite web|url=http://mdvaniiism.blogspot.co.uk/2011/11/font-face-font-family-cambria-font-face.html|title=Introduction: Excerpt Number Two from &quot;My American Family - In One Era, Out the Other&quot; by BillyBoy*|work=Mdvaniiism blog|date=24 November 2011|quote=I was manufactured and came out on the market in the year 1960 on March the 10th.|first=Billy|last=Boy|format=Pre-publication biography extract}}&lt;/ref&gt; is an artist, [[socialite]] and [[fashion designer]] who was a muse of [[Andy Warhol]].&lt;ref name=&quot;glamour-nl-2011&quot;/&gt;&lt;ref name=&quot;rts-union&quot;/&gt;&lt;ref name=&quot;cross-2013&quot;/&gt;&lt;ref name=&quot;bbc-moore&quot;/&gt; Born in Vienna, he was adopted by a Russian couple and moved to [[New York City]] when he was four.
+
+In 1979 BillyBoy* began to design and manufacture [[costume jewellery]] under the label ''Surreal {{lang|fr|Bijoux}}'' in Paris.&lt;ref name=&quot;white-1989&quot;&gt;{{cite journal|url=https://books.google.co.uk/books?id=KNlUAAAAMAAJ&amp;pg=PA94 |page=94 |journal= Architectural Digest |volume=46 |publisher= Conde Nast|year=1989 |title= Billy Boy in Paris - The Jewelry Designer's Crush on Schiaparelli‒and Barbie |first=Edmund |last=White |authorlink= Edmund White |quote= Billy Boy, who owns Surreal Bijoux, for which be designs charming, eccentric pieces of custome jewelry, has been in Paris since 1979, though he was born in Austria and grew up in New York.  He first become famous for his jewelry in New York, thanks to a highly successful show at [[Henri Bendel|Bendel]]'s.}}&lt;/ref&gt;
+A [[bracelet]] made by BillyBoy* and owned by [[Elizabeth Taylor]] was sold at auction in 2011 for $6,875.&lt;ref&gt;{{cite web|url=http://www.christies.com/LotFinder/lot_details.aspx?intObjectID=5502846|title=A Rare Bracelet with Skulls, by Billy Boy|work=Christie's website|date=15 December 2011|location=New York, Rockefeller Plaza|quote=Price Realized $6,875 … gilt-metal bracelet designed as a band of skulls with [[rhinestone]] eyes, … Signed Billy Boy Surreal Bijoux}}&lt;/ref&gt;
+
+BillyBoy* had a collection of over 11,000 Barbie dolls and 3,000 [[Ken (doll)|Ken dolls]], and in 1987 authored the book ''Barbie: Her Life and Times''.&lt;ref name=&quot;cross-2013&quot;&gt;{{cite book|url=https://books.google.co.uk/books?id=AVBS79mK7bUC&amp;pg=PA337|title=One Hundred People who Changed 20th-century America|first=Mary|last=Cross|page=337|quote=Billy Boy, a jewelry designer who also wrote a book about ''Barbie: Her Life and Times'', describing her history and his collection of more than 11,000 Barbies and 3,000 Ken dolls.|isbn=9781610690850|publisher=ABC-CLIO|year=2013|chapter=Ruth Handler and the Barbie Doll}}&lt;/ref&gt;  During 1984–1990 [[Mattel]] sponsored two tours called ''{{lang|fr|Le nouveau théâtre de la mode}}'' (New Theatre of Fashion) curated by BillyBoy*.  Like the original 1945-''{{lang|fr|[[Théâtre de la Mode]]}}'' the exhibitions consisted of hundreds of dolls—in this case Barbie dolls—wearing miniature outfits made by [[Yves Saint Laurent (designer)|Yves Saint Laurent]] and other prominent fashion designers.&lt;ref&gt;{{cite book|url=https://books.google.co.uk/books?id=EtJGAQAAIAAJ&amp;pg=PA70|title=Andy Warhol's party book|author1-first=Andy|author1-last=Warhol|author2-first=Pat|author2-last=Hackett|page=70|quote=BillyBoy*: BarbieBoy. BillyBoy* has the world's largest collection of Barbie dolls.  Mattel sponsored a tour of America and Europe for a show Billy created}}&lt;/ref&gt;&lt;ref name=&quot;haxaire-2010&quot;/&gt; The exhibition toured France on board a [[TGV]]-train entitled ''{{lang|fr|Le Train magique des jouets Mattel.}}''.&lt;ref name=&quot;haxaire-2010&quot;&gt;{{cite web|url=http://awomansparis.com/2010/12/22/fashion-doll-haute-couture-barbie/|title=Haute-Couture Barbie (A French story)|work=A Woman's Paris in Style|date=22 December 2010|first=Laurence|last=Haxaire|quote=Between 1984 and 1990, BillyBoy* organized with MattelFrance the exhibition of the “New Theater of Fashion” featuring his collection of vintage Barbie dolls … dressed by French, British, Italian and American couturiers and designers. … toured the main cities of France in a &quot;Train à Grande Vitesse,&quot; a high-speed train baptized &quot;Le Train magique des jouets Mattel.&quot;}}&lt;/ref&gt;  BillyBoy* designed two Barbie dolls for Mattel working as a designer and consultant, &quot;{{lang|fr|Le Nouveau Théâtre de la mode}}&quot; in 1984 and &quot;Feelin' Groovy&quot; in 1986.&lt;ref&gt;{{cite book|url=https://books.google.de/books?id=x80YGsu6jvgC&amp;pg=PA86&amp;|page=86|title=200 Years of Dolls: Identification and Price Guide|first=Dawn|last=Herlocher|publisher=Krause Publications|year=2005|isbn=9780896891678|accessdate=30 October 2012}}&lt;/ref&gt;&lt;ref name=&quot;bogart-1990&quot;/&gt;  After finishing working with Mattel, BillyBoy* formed the &quot;BillyBoy* Toys&quot; company,&lt;ref name=&quot;bogart-1990&quot;/&gt; and in 1989 BillyBoy* and his partner released the [[Mdvanii]] fashion doll.
+
+Warhol's last work ''Barbie, Portrait of BillyBoy*'' was a painting of BillyBoy* depicted as a [[Barbie Doll]] and was presented to BillyBoy* in New York on 10 February 1986.&lt;ref name=&quot;bbc-moore&quot;&gt;{{cite news|url=http://www.bbc.co.uk/news/magazine-34407991|work=BBC News Online|title=Why Warhol painted Barbie|first=Hannah|last=Moore|quote=Andy Warhol made his name creating images of iconic American names and brands … The last of these works, painted in the year before he died, was a portrait of his muse, a 23-year-old jewellery designer called BillyBoy* - in the form of a Barbie doll.}}&lt;/ref&gt;&lt;ref name=&quot;bogart-1990&quot;/&gt;&lt;ref name=&quot;capella-2015&quot;&gt;{{cite news|url=http://www.ilsole24ore.com/art/cultura/2015-10-19/barbie-regina-cultura-pop-095655.shtml|newspaper=[[Il Sole 24 Ore]]|title=Barbie, regina della cultura pop|first=Massimiliano|last=Capella|date=19 October 2015|accessdate=3 November 2015|language=it|quote=Andy Warhol che presenterà a New York, il 10 febbraio 1986, il celeberrimo ritratto di BillyBoy* as Barbie. …il doppio ritratto di Barbie, il primo con fondo blu molto brillante, ispirato alla giacca Surreal Couture BillyBoy*, donato allo stesso BillyBoy*, il secondo con fondo rosso-arancio, acquisito da Mattel.}}&lt;/ref&gt; The painting was gifted to BillyBoy* and hung in his living room.&lt;ref name=&quot;bogart-1990&quot;&gt;{{cite news|url=http://www.nytimes.com/1990/03/14/garden/a-doll-for-the-90-s-beautiful-but-no-bimbo.html|title=A Doll for the 90's: Beautiful but No Bimbo|first=Anne|last=Bogart|newspaper=New York Times|date=14 March 1990|quote=after a rift with Mattel, Barbie's manufacturer, where he was a consultant and designer, BillyBoy quit, citing disillusionment with the corporate toy world. He soon formed the BillyBoy* Toys company with his partner, Jean-Pierre Lestrade.  … A 1987 special BillyBoy-signed Barbie doll edition, ''Feelin' Groovy Barbie Glamour a Go-Go Gift Set,'' now sells for about five times its original market price of $29.99,  … Though an Andy Warhol portrait of Barbie, a gift from the artist, looms large in BillyBoy's living room,}}&lt;/ref&gt;  In 2014 the painting sold at the auction house [[Christie's]] for £722,500 ($1,161,780).&lt;ref name=&quot;christies&quot;&gt;{{cite web|url=http://www.christies.com/lotfinder/paintings/andy-warhol-barbie-portrait-of-billyboy-5834402-details.aspx|title=Andy Warhol (1928-1987) Barbie, Portrait of BillyBoy*|quote=Price Realized £722,500 ($1,161,780) … Sale Information … 17 October 2014|accessdate=1 October 2015}}&lt;/ref&gt;&lt;ref name=&quot;neuendorf-2015&quot;&gt;{{cite news|url=https://news.artnet.com/art-world/andy-warhol-barbie-doll-383987|title=Limited Edition Andy Warhol Barbie Hits the Shelves|work=Art News|date=3 December 2015|first=Henri|last=Neuendorf|accessdate=11 December 2015|quote=1986 painting ''Barbie, Billy Boy'' depicts Barbie … against a light blue background. Warhol later made a second version of the piece, titled ''Barbie'', with a red background. The blue version sold at auction at Christie's, London in October 2014 for £722,500 ($1,161,780).}}&lt;/ref&gt;  A second version of Warhol's painting, this time with an orange-red background instead of blue, was created for and purchased by Mattel.&lt;ref name=&quot;capella-2015&quot;/&gt;&lt;ref name=&quot;neuendorf-2015&quot;/&gt;
+
+In 1978 or 1979 BillyBoy* moved to Paris,&lt;ref name=&quot;white-1989&quot;/&gt; where later his shop would be at 6&amp;nbsp;[[Rue de la Paix, Paris]].&lt;ref name=&quot;buck-1989&quot;&gt;{{cite news|url=http://articles.chicagotribune.com/1989-09-27/entertainment/8901170552_1_double-breasted-suits-marshall-field-taupe|title=If You Can`t Make The Scene In Boss Or Abboud, Try A Coolie Suit|date=27 September 1989|first=Genevieve|last=Buck|work=Chicago Tribune|quote=write him, not us: BillyBoy Toys; c/o Surreal Productions; 6, rue de la Paix; 75002 Paris.}}&lt;/ref&gt;  In 1993 BillyBoy* and his partner Jean Pierre Lestrade (&quot;Lala&quot;) moved to [[Trouville-sur-Mer]] in France,&lt;ref name=&quot;kingsqueer&quot;/&gt; then in 1997 to Switzerland,&lt;ref name=&quot;estrepublicain-2012-damour&quot;/&gt;&lt;ref name=&quot;kingsqueer&quot;/&gt; and finally in 2011 to [[Delémont]],&lt;ref name=&quot;estrepublicain-2012-damour&quot;/&gt; the capital of the [[Canton of Jura]]&lt;ref name=&quot;estrepublicain-2012-damour&quot;/&gt; and near Basel.  On 6 February 2012 BillyBoy* and Jean Pierre Lestrade married at the L’Hôtel de Ville in Délémont.&lt;ref name=&quot;rts-union&quot;/&gt;
+
+On 13 February 1998 BillyBoy* and Lestrade founded the ''{{lang|fr|Fondation Tanagra}}'' non-profit in [[Yverdon-les-Bains]], Switzerland.&lt;ref&gt;{{cite web|url=http://www.rc2.vd.ch/registres/hrcintapp-pub/rdfisFile?id=1326252300000055031012|title=Statuts de la Fondation Tanagra|publisher=Departement de l'Interieur|location=Vaud|language=fr|date=7 December 2010|accessdate=4 November 2015|page=5}}&lt;/ref&gt;  In 2012 the website of the Foundation was updated to reflect the creation of a future museum in Delémont.&lt;ref&gt;{{cite news|url=http://www.rfj.ch/rfj/Actualites/Regionale/20121108-Une-vitrine-flambant-neuve-pour-BillyBoy-et-Lala.html|title=Une vitrine flambant neuve pour BillyBoy* et Lala|date=8 August 2012|accessdate=3 November 2015|author=I.Q.U.|work=Radio fréquence Jura|language=fr|quote=Les deux artistes ont également remis à neuf le site de la Fondation Tanagra dans la perspective de la création future d’un musée à Delémont.}}&lt;/ref&gt;
+
+He was a close friend of the designer [[Alexander McQueen]].&lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/femail/article-2935658/Did-McQueen-help-drive-woman-death-Isabella-Blow-turned-Alexander-McQueen-fashion-legend-reward-terrible-betrayal.html|title=Did McQueen help drive the woman who made him to her death? Isabella Blow turned Alexander McQueen into a fashion legend. Her reward? A terrible betrayal|first=Andrew|last=Wilson|date=1 February 2015|accessdate=3 November 2015|quote=his friend BillyBoy}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/femail/article-2937294/McQueen-s-plan-kill-catwalk-tortured-fashion-genius-plotted-greatest-shock-all.html|work=Daily Mail|title=McQueen's plan to kill himself on the catwalk: How tortured fashion genius plotted greatest shock of all|first=Andrew|last=Wilson|date=3 February 2015|accessdate=3 November 2015|quote=His close friend known as BillyBoy}}&lt;/ref&gt;
+
+==Works==
+{{refbegin}}
+* {{cite book|url=https://books.google.co.uk/books?isbn=0517671751|title=Barbie: Her Life and Times|isbn=0517671751|year=1988|publisher=Outlet Book Company|author=BillyBoy*|authorlink=BillyBoy*}}
+*{{cite book|author=BillyBoy*|title=Bleuette: La Petite Fille Modele|format=Collection Billyboy|date=1993|isbn=2869412045|publisher=Maeght Editeur|language=fr}}
+* {{cite book|title=Mdvanii; ceci n'est pas une poupée|author1=BillyBoy*|author1-link=BillyBoy*|author2-first=Jean-Pierre|author2-last=Lestrade|editor-first=William|editor-last=Ewing|isbn=978-2884740173|language=fr|publisher=Infolio|date=10 August 2007}}
+* {{cite book|url=https://books.google.co.uk/books?id=Z_bloAEACAAJ|title=Frocking Life: Searching for Elsa Schiaparelli|isbn=9780847843862|date=17 March 2015|publisher=Rizzoli International|author1=BillyBoy*|author1-link=BillyBoy*|pages=1–472|first2=Jean|last2=Druesedow|format=Biography of [[Elsa Schiaparelli]]}}
+{{refend}}
+
+==References==
+{{reflist|2}}
+
+==Further reading==
+{{refbegin}}
+* {{cite magazine|url=https://books.google.co.uk/books?id=S8EBAAAAMBAJ&amp;pg=PA38|pages=38–40|title=Tell Them Billy Boy is Here|work=[[New York (magazine)]]|volume=18|number=5|issn=0028-7369|publisher=New York Media|date=4 February 1985|first=Jessie|last=Kornbluth}}
+* {{cite news|url=http://articles.chicagotribune.com/1985-06-05/entertainment/8502050225_1_barbie-billy-boy-chanel|title=Billy Boy Just Bonkers Over Barbie|work=[[Chicago Tribune]]|date=5 June 1985|first=Genevieve|last=Buck}}
+* {{cite magazine|url=http://www.people.com/people/archive/article/0,,20092349,00.html|title=Billy Boy Is Amusing Paree with Barbies, Baubles and His Own Bizarre Persona|date=2 December 1985|volume=24|number=23|work=[[People (magazine)]]|first=Michelle|last=Green}}
+* {{cite news|url=http://articles.latimes.com/1986-02-14/news/vw-8099_1_barbie|title=Designer Billy Boy, Barbie Make a Tour of the U.S.|date=14 February 1986|work=[[LA Times]]|first=Noah|last=James}}
+* {{cite book|title=Popular Culture: An Introductory Text|editor1-first=Kevin|editor1-last=Lausé|editor2-first=Nachbar|editor2-last=John G.|isbn=9780879725723|publisher=Popular Press|year=1992|chapter=Seen Through Rose-Tinted Glasses: The Barbie Doll in American Society|first=Marilyn|last=Ferris Motz|chapter-url=https://books.google.co.uk/books?id=BEkB2J-Wb4sC&amp;pg=PA211|page=213}}
+* {{cite web|url=http://www.fondationtanagra.com/en/article/draw-me-a-barbie/|title=Please, Draw Me A Barbie Doll|work=Fondation Tanagra|first=Jean Pierre L.|last=Lestrade|year=2001}}
+{{refend}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:BillyBoy}}
+[[Category:1960 births]]
+[[Category:Living people]]
+[[Category:American jewelry designers]]
+[[Category:American fashion designers]]
+[[Category:American contemporary artists]]
+[[Category:American pop artists]]</text>
+      <sha1>ld4hpq2e0ds02uetvpnzl48cfiqc5fs</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,190 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:The Exodus</title>
+    <ns>1</ns>
+    <id>2894228</id>
+    <revision>
+      <id>750251080</id>
+      <parentid>750202020</parentid>
+      <timestamp>2016-11-18T16:49:32Z</timestamp>
+      <contributor>
+        <username>Ckruschke</username>
+        <id>7896724</id>
+      </contributor>
+      <comment>/* Historicity */ reply</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19270">{{WikiProjectBannerShell|1=
+{{WikiProject Ancient Near East|class=B|listas=Exodus}}
+{{WikiProject Judaism|class=B|importance=High}}
+{{WikiProject Jewish history|class=B|importance=high}}
+{{WPMILHIST
+|class=b
+&lt;!-- B-Class checklist --&gt;
+&lt;!-- 1. It is suitably referenced, and all major points are appropriately cited. --&gt;
+|B-Class-1= yes
+&lt;!-- 2. It reasonably covers the topic, and does not contain major omissions or inaccuracies. --&gt;
+|B-Class-2= yes
+&lt;!-- 3. It has a defined structure, including a lead section and one or more sections of content. --&gt;
+|B-Class-3= yes
+&lt;!-- 4. It is free from major grammatical errors. --&gt;
+|B-Class-4= yes
+&lt;!-- 5. It contains appropriate supporting materials, such as an infobox, images, or diagrams. --&gt;
+|B-Class-5= yes
+|importance=
+|attention=
+|collaboration-candidate=
+|past-collaboration=
+|peer-review= 
+|old-peer-review=
+&lt;!-- Task force tags --&gt;
+|Ancient-Near-East-task-force=yes
+|Classical-task-force=
+|Weaponry-task-force=
+}}
+{{WikiProject Christianity|bible=yes|class=B}}
+{{WikiProject Mythology|class=|importance=}}
+{{WikiProject Ancient Egypt|class=|importance=}}
+}}
+{{archive box |auto=yes |search=yes |bot=MiszaBot I |age=2 |units=months |index=/Archive index}}
+{{User:MiszaBot/config
+|archiveheader = {{aan}}
+|maxarchivesize = 100K
+|counter = 12
+|minthreadsleft = 4
+|algo = old(60d)
+|archive = Talk:The Exodus/Archive %(counter)d
+}}
+{{User:HBC Archive Indexerbot/OptIn
+|target=Talk:The Exodus/Archive index |mask=Talk:The Exodus/Archive &lt;#&gt;
+|leading_zeros=0 |indexhere=yes
+}}
+
+== Dating section ==
+I think the dating section is a mess - propose to split into 4 subsections: 
+*traditional (Jewish, Jewish-adjusted and Samaritan versions of the dating)
+*Early Exodus (scholar putting the event to 15-16th century BCE)
+*Late Exodus (scholar opinions putting the event to around 13-14th century BCE)
+*No basis (scholar opinions claiming that the event is a myth).
+This would make the dating a much more clear issue.[[User:Greyshark09|'''''GreyShark''''']] ([[User talk:Greyshark09|''dibra'']]) 10:42, 28 January 2016 (UTC)
+:What you term the &quot;Jewish&quot; date is more normally called the Masoretic; what you term the &quot;Jewish-adjusted&quot; date is more properly termed the Seder Olam dating; and the Samaritan dating is a variant of the Masoretic, though neither is likely the original. None of these are scholarly and none have any followers outside quite extreme Christian and Jewish religious factions. The Seder Olam calendar, in particular, is ridiculous from the point of view of known history, compressing the entire Pwersian Empire into 52 years.
+:No modern scholars put the exodus in the 15th/16th centuries, nor in the 13th/14th; the consensus is that there was no exodus. Our article reflects this. [[User:PiCo|PiCo]] ([[User talk:PiCo|talk]]) 05:50, 16 February 2016 (UTC)
+::To deny a theory you need to describe a theory. You are mainly busy with historical revisionism, which has nothing to do with the article. There is no consensus that there was no exodus; maybe there are opinions that there was no exodus in the 13th century, but the occasion of Exodus is a deal of controversy, and there are various theories in this regard. You are not improving Wikipedia by removing notable academic sources discussing those issues, basically violating Wikipedia's pillars. You may get banned for this.[[User:Greyshark09|'''''GreyShark''''']] ([[User talk:Greyshark09|''dibra'']]) 20:56, 16 February 2016 (UTC)
+:::Sorry, but the consensus remains, Kitchen and Hoffmeier dissent from the consensus by arguing that the Exodus was &quot;not impossible&quot;. To this day there is no external corroboration of the Exodus story from the Bible. A very shorthand introduction to this problem written by an Evangelical historian: [http://www.patheos.com/blogs/peterenns/2013/01/3-things-i-would-like-to-see-evangelical-leaders-stop-saying-about-biblical-scholarship/]. [[User:Tgeorgescu|Tgeorgescu]] ([[User talk:Tgeorgescu|talk]]) 21:03, 16 February 2016 (UTC)
+:::An YouTube documentary is available at [https://www.youtube.com/watch?v=qalTJzk4kO0]. This documentary is in several ways outdated (e.g. Documentary Hypothesis is not widely hold as valid, there is no evidence of David and Solomon's United Monarchy, etc.), but displays statements made by major scholars. [[User:Tgeorgescu|Tgeorgescu]] ([[User talk:Tgeorgescu|talk]]) 21:13, 16 February 2016 (UTC)
+:::From the documentary, 0:23:00-0:24:00 (Bietak speaking) dates the possibility of Exodus between 1275-1208 BC. So that's when it could have taken place, if it took place at all. From 0:24:00-0:25:00 Dever says there is no evidence found for a mass migration corresponding to the Exodus. I do not claim this is the only possibility, but only that this is the consensus view. [[User:Tgeorgescu|Tgeorgescu]] ([[User talk:Tgeorgescu|talk]]) 21:28, 16 February 2016 (UTC)
+::::So few opinions is unfortunate for a TV show. At least three would do better, especially that entire books and multiple articles have been compiled on 1540, 1512, 1491, 1446, 1312, 1290 as potential exodus dates. Where are those theories in the article? Some of those are refuted for sure, but refuted theories deleted by PiCo implies historical revisionism promoted by radicals. This is a very bad non-encyclopedic practice; certainly also non-academic (but Wikipedia is not pretending to be academic of course).[[User:Greyshark09|'''''GreyShark''''']] ([[User talk:Greyshark09|''dibra'']]) 21:44, 16 February 2016 (UTC)
+:::::Well, you could mention some reliable sources to that extent, but they have to be recent (i.e. not outdated) and written by top scholars (full professors at reputable universities). [[User:Tgeorgescu|Tgeorgescu]] ([[User talk:Tgeorgescu|talk]]) 21:51, 16 February 2016 (UTC)
+*{{ping|PiCo}} Masoretic means traditional.[[User:Greyshark09|'''''GreyShark''''']] ([[User talk:Greyshark09|''dibra'']]) 10:39, 22 February 2016 (UTC)
+:@[[User:Greyshark09|'''''GreyShark''''']] - does it really matter? &quot;Masoretic&quot; means the text of the Hebrew bible curated by the masoretes (or whatever alternative spelling you might like). The Masoretic calendar, which is what you're talking about here, is the internal calendar of that text. It dates events from the Creation, the Year Zero, to a point around December 164 BCE, when the temple was restored after having been defiled by the pagan Greek king of Syria - the span is exactly 4,000 years. The Samaritan calendar is a slightly different and only goes to the end of the Book of Joshua, because that's the last book in the Samaritan bible. The Greek Jewish bible has yet another version of the calendar. None are likely to be the original version. Nor would I call any of them the traditional Jewish calendar - that's the one contained in the Sefer Olam Rabbah, which differs yet again.  I think you know all this already. I think you know all this already. None of them are actual calendars in our sense - all of them are primarily religious, and can't be used for dating real history.[[User:PiCo|PiCo]] ([[User talk:PiCo|talk]]) 11:44, 22 February 2016 (UTC)
+::Masoretic, coming from Canaanite / Hebrew / Samaritan word Masorti = traditional. When i said traditional Jewish or traditional Samaritan it is exactly what Masorti stands for. Just to clarify.[[User:Greyshark09|'''''GreyShark''''']] ([[User talk:Greyshark09|''dibra'']]) 16:32, 22 February 2016 (UTC)
+:::The offer still holds: find full professors who advocate such dating in reasonably recent publications (but not merely in order to dismiss such dates as [[WP:FRINGE|fringe]]). [[User:Tgeorgescu|Tgeorgescu]] ([[User talk:Tgeorgescu|talk]]) 21:39, 22 February 2016 (UTC)
+:::What [[User:Tgeorgescu|Tgeorgescu]] says.[[User:PiCo|PiCo]] ([[User talk:PiCo|talk]]) 23:04, 22 February 2016 (UTC)
+::::There is some information at [[The Exodus#Date]], mentioning 1446 BCE and why it is not credible. [[User:Tgeorgescu|Tgeorgescu]] ([[User talk:Tgeorgescu|talk]]) 23:55, 24 February 2016 (UTC)
+:::::Yes, but the whole paragraph in the lead is referring to 13th century BCE exodus theory (correct me if i'm wrong). To my view readers should know that &quot;the historic and archaeological evidence points out that there was no exodus&quot;... in the 13th century (Late Exodus). This is clearly said by all archaeologists in [https://www.youtube.com/watch?v=O5RfScpEcZ8 The Bible Unearthed]. Nothing about Early Exodus dates.[[User:Greyshark09|'''''GreyShark''''']] ([[User talk:Greyshark09|''dibra'']]) 19:47, 25 February 2016 (UTC)
+*'''Comment''' - {{ping|PiCo}} considering your remark on my talk page concerning Hill et.al., do you agree to add information about the Early and Late Exodus dates?[[User:Greyshark09|'''''GreyShark''''']] ([[User talk:Greyshark09|''dibra'']]) 19:56, 25 February 2016 (UTC)
+::I'll reply in the section at the bottom of this page - it's confusing having two conversations on the same topic.[[User:PiCo|PiCo]] ([[User talk:PiCo|talk]]) 02:23, 28 February 2016 (UTC)
+*'''Comment''' - Prof. Larry Geraty makes a fair summary of various dates at [https://www.youtube.com/watch?v=6MM2ao1euTU Dates for the Exodus I Have Known lecture] during the UCSD EXODUS CONFERENCE in 2013. That is a fair basis for the article section: conventional Early Date, conventional Late Date and Other theories (very early date, Thera theories, very late exoduses, etc).[[User:Greyshark09|'''''GreyShark''''']] ([[User talk:Greyshark09|''dibra'']]) 22:34, 12 March 2016 (UTC)
+::With the mention that the date from Seder Olam is completely [[WP:FRINGE/PS]] as far as historians are concerned, although it may have a religious significance for certain true believers. It's not the only instance of fringe dating of the Exodus from that video. [[User:Tgeorgescu|Tgeorgescu]] ([[User talk:Tgeorgescu|talk]]) 01:41, 13 March 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:1|one external link|1 external links}} on [[The Exodus]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=712960660 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Corrected formatting/usage for http://www.arts.ualberta.ca/JHS/Articles/article_43.pdf
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=true}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II&lt;/sup&gt;]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner&lt;/span&gt;]]:Online&lt;/sub&gt;&lt;/small&gt; 02:09, 1 April 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:2|one external link|2 external links}} on [[The Exodus]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=713323626 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive http://web.archive.org/web/20081201084552/http://bible.thelineberrys.com:80/EXO/EXO12.HTM to http://bible.thelineberrys.com/EXO/EXO12.HTM
+*Added archive http://web.archive.org/web/20080905180916/http://bible.thelineberrys.com/NUM/NUM1.HTM to http://bible.thelineberrys.com/NUM/NUM1.HTM
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=true}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II&lt;/sup&gt;]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner&lt;/span&gt;]]:Online&lt;/sub&gt;&lt;/small&gt; 09:35, 3 April 2016 (UTC)
+
+== Historicity ==
+We don't need to extensively discuss the historicity, but the lead is ''just'' vague enough to dismiss any attempt at it. &quot;The historicity of the exodus continues to attract popular attention, but most histories of ancient Israel no longer consider information about it recoverable or even relevant to the story of Israel's emergence.&quot; Now it pretty much says 'No that doesn't matter, shut up though'. Then the final unattributed quote of that section makes it even more enigmatic. If we're going to have a lead section about historicity, it really shouldn't be this mystical when archeologists have literally given up on it. [[User:Prinsgezinde|Bataaf van Oranje (Prinsgezinde)]] ([[User talk:Prinsgezinde|talk]]) 10:19, 24 May 2016 (UTC)
+
+Kitchen's and Hoffmeier's religiously biased arguments amount to nothing but speculation (possibly.....possibly). To finish the summarizing section with this quoatation seems extremely biased. A similarly biased quotation on the other side would be Michael Sherman's quote in the lead of the rationalwiki article on Evidence for the Exodus:
+
+&quot;We are told that these people spent 40 years wandering around in the desert — they escaped, as slaves from Egypt, and so forth. There is not a shred of archaeological or historical evidence, outside of the Bible, that this is even true! That it ever even happened! You would think that if a people spent 40 years wandering around in the desert they'd leave some archaeological evidence? There's absolutely none. There's no evidence that somebody named Moses even existed.&quot;
+
+I believe this article would greatly benefit from a more neutral, evidence-based review of the historicity of the Exodus [[User:Greenman262|Greenman262]] ([[User talk:Greenman262|talk]]) 15:01, 17 October 2016 (UTC)
+
+:Comparing the current lead with the crude and clearly biased statements from RationalWiki does not necessitate finding a middle road. The last sentence in the lede is referenced and attributed and is not really even a debatable statement - the Exodus &quot;narrative&quot; is often referenced by many people groups.  Also the historicity section already says there is essentially &quot;no evidence&quot; for the Exodus and that Kitchen and Hoffmeier and their theories are ignored by the rest of the scientific community. So I guess I'm struggling to understand your point.
+:That being said, if you have specific suggestions on improving the page, please feel free to express them. As you are new to Wikipedia, you may not be aware that statements placed in Talk to the effect of &quot;this page is terrible&quot; are generally ignored unless the editor also poses some solutions to the problems he/she sees.
+:Yours - [[User:Ckruschke|Ckruschke]] ([[User talk:Ckruschke|talk]]) 16:14, 26 October 2016 (UTC)Ckruschke
+
+::I;m not familiar with wp policy. My original point was that the section as currently presented is biased (albeit far less so than the rationalwiki counterexample). Their arguments as presented here are merely speculation and essentially 'absence of evidence does not imply absence of evidence'. The summary of the historicity section should in my view be based on historical evidence. 
+:: [[User:Greenman262|Greenman262]] ([[User talk:Greenman262|talk]]) 15:36, 17 November 2016 (UTC)
+
+:::But there is no historical evidence. There are only religious texts written after the alleged events occurred. And even historical evidence rarely trumps physical evidence - after all, they say &quot;History is written by the victors&quot;. That's not quite true as historical evidence can, for instance, include diaries, shopping lists, etc.  But I digress. Whoever told you that absence of evidence does not imply absence of evidence was misleading you:
+{{quote|If someone were to assert that there is an elephant on the quad, then the failure to observe an elephant there would be good reason to think that there is no elephant there. But if someone were to assert that there is a flea on the quad, then one's failure to observe it there would not constitute good evidence that there is no flea on the quad. The salient difference between these two cases is that in the one, but not the other, we should expect to see some evidence of the entity if in fact it existed. Moreover, the justification conferred in such cases will be proportional to the ratio between the amount of evidence that we do have and the amount that we should expect to have if the entity existed. If the ratio is small, then little justification is conferred on the belief that the entity does not exist.
+
+[For example] in the absence of evidence rendering the existence of some entity probable, we are justified in believing that it does not exist, provided that (1) it is not something that might leave no traces and (2) we have comprehensively surveyed the area where the evidence would be found if the entity existed...&lt;ref name=&quot;Moreland2003&quot;&gt;{{cite book |first=J.P. |last=Moreland |first2=W.L. |last2=Craig |year=2003 |title=Philosophical Foundations for a Christian Worldview |publisher=InterVarsity Press |isbn=9780830826940 |lccn=2002154307 |url=https://books.google.com/books?id=mPEN_EDiZuQC&amp;pg=PA156 |pages=155–156}}&lt;/ref&gt;|[[J.P. Moreland]] and [[William Lane Craig|W.L. Craig]]|''Philosophical Foundations for a Christian Worldview''}}
+
+:::You are also asking us to delete the positive evidence, eg &quot;The culture of the earliest Israelite settlements is Canaanite, their cult-objects are those of the Canaanite god El, the pottery remains are in the Canaanite tradition, and the alphabet used is early Canaanite.&quot; [[User:Doug Weller|&lt;span style=&quot;color:#070&quot;&gt;Doug Weller&lt;/span&gt;]] [[User talk:Doug Weller|talk]] 16:18, 17 November 2016 (UTC)
+{{ref talk}}
+
+::::What I'm asking is to move or delete the baseless conjecture and make the section reflect the evidence (historical, physcial) or in this case, complete lack thereof. I agree with you with respect to the salient differences between different instances of 'absence of evidence is not evidence of absence'. My view is that Kitchen's and Hoffmeier's conjecture attempts to give credence to treating this as an instance of a search for a 'flea' rather than an 'elephant' which seems disingenuous. It is true that not every grain of sand in the Sinai desert has been turned over but the substantial amount of excavation which has been performed has not yielded one iota of positive evidence.  :::: [[User:Greenman262|Greenman262]] ([[User talk:Greenman262|talk]]) 08:46, 18 November 2016 (UTC)
+
+:::::[[User:Greenman262|Greenman262]] - What would that be? [[User:Doug Weller|&lt;span style=&quot;color:#070&quot;&gt;Doug Weller&lt;/span&gt;]] and I have already stated that the statements in the text that you have specifically stated that you took issue with were fair and corroborated by legitimate references. So which &quot;baseless conjecture&quot; would you like to move or remove that you have not already cited? Not trying to be difficult, but Wikipedia isn't meant to mirror everyone's specific POV - its meant to reflect the consensus POV. [[User:Ckruschke|Ckruschke]] ([[User talk:Ckruschke|talk]]) 16:49, 18 November 2016 (UTC)Ckruschke</text>
+      <sha1>8ptoz8tvzaf8ouf1kby2qnma5m823ue</sha1>
+    </revision>
+  </page>
+</mediawiki>

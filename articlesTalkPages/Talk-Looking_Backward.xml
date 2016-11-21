@@ -1,0 +1,111 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Looking Backward</title>
+    <ns>1</ns>
+    <id>7269488</id>
+    <revision>
+      <id>582439931</id>
+      <parentid>501816056</parentid>
+      <timestamp>2013-11-19T22:31:55Z</timestamp>
+      <contributor>
+        <username>Thmazing</username>
+        <id>3242687</id>
+      </contributor>
+      <comment>/* Research */ new section</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4013">{{WikiProjectBannerShell|1=
+{{WikiProject Novels|class=Start|importance=High|19thC-task-force=yes}}
+{{WikiProject Philosophy|class=start}}
+{{WikiProject United States|class=Start|importance=Low|Boston=yes|Boston-importance=low|MA=yes|MA-importance=low}}
+}}
+
+== Strikes ==
+
+&quot;During the Great Strikes of 1877, Eugene V. Debs&quot; How can he be influenced by the book which was published in 1888? [[Special:Contributions/84.129.141.54|84.129.141.54]] ([[User talk:84.129.141.54|talk]]) 21:43, 13 December 2009 (UTC)
+
+== Love story ==
+
+The summary makesno mention of the device used:  a love story. 09:50, 2 March 2007 (UTC)
+
+== Cut material ==
+
+The most recent edit cut out the following;
+&quot;It was written in reaction to the disillusionment with an increasingly competitive and industrial society. ''Looking Backward'' sold more than 1 million copies. His work known as &quot;nationalism&quot; &lt;!-- Bellamy's version of &quot;nationalism&quot; is not mentioned in [[Nationalism]] --&gt; inspired the formation of more than 160 Nationalist clubs to propagate his ideas.  + '''''Looking Backward: 2000-1887''''' is a [[utopia]]n novel by [[Edward Bellamy]], a lawyer and writer from [[western Massachusetts]], and was first published in [[1888 in literature|1888]]. According to [[Erich Fromm]], ''Looking Backward'' is &quot;one of the most remarkable books ever published in America.&quot;&lt;ref name = &quot;qlfjpt&quot;&gt;Edward Bellamy, Looking Backward 2000-1887, with a foreword by Erich Fromm, Signet 1960. ISBN 0-451-52412-8&lt;/ref&gt; &quot;
+
+i THINK THIS SHOULD LARGELY OR WHOLLY BE RE-INSTATED.  Comments?
+[[User:Kdammers|Kdammers]] ([[User talk:Kdammers|talk]]) 04:24, 4 August 2008 (UTC)
+
+:&quot;It was written in reaction to the disillusionment with an increasingly competitive and industrial society.&quot; 
+::This is an unsupported and unreferenced claim. 
+
+:&quot;''Looking Backward'' sold more than 1 million copies. His work known as &quot;nationalism&quot; &lt;!-- Bellamy's version of &quot;nationalism&quot; is not mentioned in [[Nationalism]] --&gt; inspired the formation of more than 160 Nationalist clubs to propagate his ideas.&quot;
+::This is now covered with additional detail, referenced, and with an explanation of what 'Nationalism' is, in the second paragraph.--[[User:Editor2020|Editor2020]] ([[User talk:Editor2020|talk]]) 15:25, 4 August 2008 (UTC)
+
+There is a considerable distortion in the difference between &quot;several&quot; and &quot;more than 160&quot; Bellamy Clubs. The intro to the 2000 Signet edition notes 'more than 162 Bellamy Clubs in the States alone'; I've restored that number as a better approximation to reality than 'several'. Removing it did not add 'additional detail'. [[User:Twang|Twang]] ([[User talk:Twang|talk]]) 17:39, 5 January 2011 (UTC)
+
+==Last Paragraph of synopsis==
+I tried fixing it, but I'm seriously considering deleting the whole thing.  It reads more like original research (or at least unsourced analysis) than a synopsis.  I'll wait a bit and see if any others can argue for keeping it (though it still needs some revision).[[User:Rabidwolfe|Rabidwolfe]] ([[User talk:Rabidwolfe|talk]]) 06:14, 2 August 2009 (UTC)
+
+== Credits ==
+
+The previous description of the compensation for labor stated that workers in the system were paid according to their production and compared the system to the Soviet Union. This is dead wrong. Salaries are equal in Bellamy's system. The difference in compensation is in the number of hours worked. Those with more difficult or unpleasant jobs work less hours. In any event, the compensation is the same. 
+
+[[User:RED DAVE|RED DAVE]] ([[User talk:RED DAVE|talk]]) 18:23, 30 September 2010 (UTC)
+
+==NOT a science fiction work==
+
+The guy just falls asleep and wakes up in the future. 
+
+[[Special:Contributions/208.87.248.162|208.87.248.162]] ([[User talk:208.87.248.162|talk]]) 01:52, 12 July 2012 (UTC)
+
+== Research ==
+
+Bellamy's research deserves attention, for instance his visiting of Mormon communities in Utah and visiting with [[Lorenzo Snow]]. [[User:Thmazing|Thmazing]] ([[User talk:Thmazing|talk]]) 22:31, 19 November 2013 (UTC)</text>
+      <sha1>lqk425w47mvw9xhk25yqzgstxj5qy79</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,121 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Guilty All the Same</title>
+    <ns>1</ns>
+    <id>42131506</id>
+    <revision>
+      <id>744396110</id>
+      <parentid>672994195</parentid>
+      <timestamp>2016-10-14T23:14:45Z</timestamp>
+      <contributor>
+        <username>DannyMusicEditor</username>
+        <id>20060119</id>
+      </contributor>
+      <comment>not enough coverage for a b-class</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11428">{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Rock music|class=C|importance=mid}}
+{{WikiProject Metal|class=C}}
+{{WikiProject Songs|class=C}}
+{{WikiProject Linkin Park|class=C|importance=high}}
+}}
+
+== genre ==
+
+The song isn't really a nu-metal song from a musical standpoint. It's got more of a punk rock/alt metal sound than anything else.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/50.80.226.157|50.80.226.157]] ([[User talk:50.80.226.157|talk]]) 14:31, 25 March 2014 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+The given references hardly call the song a nu-metal song at all. In the 'Characteristics' section, the only references that called the song nu-metal is [[OnSMASH|freeonsmash.com]], of which I don't believe is a reliable site anyway. I believe the song should be classed as Hard rock as the following links suggest:
+*[http://loudwire.com/linkin-park-new-single-guilty-all-the-same-featuring-rakim/ Loudwire]
+*[http://www.mtv.com/news/articles/1723619/linkin-park-new-single-rakim.jhtml MTV]
+*[http://www.sputnikmusic.com/news/30368/A-Linkin-Park-Surprise/ Sputnikmusic]
+{{#if:|{{#ifexpr:({{#time:U|{{{3}}}}} - {{#time:U|now}}) &gt; 0|{{hilite/core| [[User:SilentDan297|&lt;font color=&quot;red&quot;&gt;SilentDan297&lt;/font&gt;]] [[User talk:SilentDan297|&lt;font color=&quot;red&quot;&gt;talk&lt;/font&gt;]] |{{#ifeq: black ||yellow| black }}}}| [[User:SilentDan297|&lt;font color=&quot;red&quot;&gt;SilentDan297&lt;/font&gt;]] [[User talk:SilentDan297|&lt;font color=&quot;red&quot;&gt;talk&lt;/font&gt;]] }}|{{hilite/core| [[User:SilentDan297|&lt;font color=&quot;red&quot;&gt;SilentDan297&lt;/font&gt;]] [[User talk:SilentDan297|&lt;font color=&quot;red&quot;&gt;talk&lt;/font&gt;]] | black }}}} 10:52, 30 March 2014 (UTC)
+
+: Yep, OnSMASH is not reliable. I too believe it does not have a nu-metal sound, but those three sources seemingly do not support the insertion of hard rock, as the words &quot;hard rock&quot; are not mentioned in any of them. Not sure if it is reliable, but the MetalHammer source says, &quot;shows some slightly heavier flourishes compared to their more recent material, as well as a couple of nods to their nu metal heyday.&quot; '''[[User:STATicVapor|STATic]] &lt;small&gt;[[User talk:STATicVapor|&lt;span style=&quot;vertical-align:super;&quot;&gt;message me!&lt;/span&gt;]]&lt;/small&gt;''' 16:04, 30 March 2014 (UTC)
+
+::{{ping|STATicVapor}} [[Metalhammer]] is a reliable source and publishes its own magazines, but I don't believe that this quote alone is good enough to state that it is a nu-metal song, its merely saying that its heavier compared to their recent material. If not replace the genre I think it should be removed and leave it as a rap metal song as that appears to be the only referenced genre. {{#if:|{{#ifexpr:({{#time:U|{{{3}}}}} - {{#time:U|now}}) &gt; 0|{{hilite/core| [[User:SilentDan297|&lt;font color=&quot;red&quot;&gt;SilentDan297&lt;/font&gt;]] [[User talk:SilentDan297|&lt;font color=&quot;red&quot;&gt;talk&lt;/font&gt;]] |{{#ifeq: black ||yellow| black }}}}| [[User:SilentDan297|&lt;font color=&quot;red&quot;&gt;SilentDan297&lt;/font&gt;]] [[User talk:SilentDan297|&lt;font color=&quot;red&quot;&gt;talk&lt;/font&gt;]] }}|{{hilite/core| [[User:SilentDan297|&lt;font color=&quot;red&quot;&gt;SilentDan297&lt;/font&gt;]] [[User talk:SilentDan297|&lt;font color=&quot;red&quot;&gt;talk&lt;/font&gt;]] | black }}}} 08:45, 31 March 2014 (UTC)
+
+:::I find it strong enough to support nu metal. This source [http://mindequalsblown.net/2014/03/10/single-review-linkin-parks-guilty-all-the-same/] also mentions nu metal. Concerning that site's reliability, see this: [https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Albums/Archive_45#Mind_Equals_Blown_as_reliable_source].
+
+:::But if nu metal must be removed, rap metal shouldn't be left as the only genre, since only about 1 minute of this 6 minute song actually has rapping in it. If we were to replace nu metal, how about replacing it with heavy metal or alternative metal? I would support one of those. [[User:Kokoro20|Kokoro20]] ([[User talk:Kokoro20|talk]]) 14:34, 31 March 2014 (UTC)
+::::Alternative metal should be fair enough. --[[User:Gbuvn|Gbuvn]] ([[User talk:Gbuvn|talk]]) 14:58, 31 March 2014 (UTC)
+:::::HEAVY METAL? This song? Oh my God..... --[[User:Zack Tartufo|Zack Tartufo]] ([[User talk:Zack Tartufo|talk]]) 17:32, 31 March 2014 (UTC)
+:::::: We would need a source for alt metal if we were going to list it. Multiple sources have called it rap metal, so either way I do not think that should be removed. '''[[User:STATicVapor|STATic]] &lt;small&gt;[[User talk:STATicVapor|&lt;span style=&quot;vertical-align:super;&quot;&gt;message me!&lt;/span&gt;]]&lt;/small&gt;''' 00:46, 1 April 2014 (UTC)
+::::::: In that case, I would just stick with nu metal and rap metal as the listed genres then, at least until a source for alternative metal can be found (if anyone even calls it that).  [[User:Kokoro20|Kokoro20]] ([[User talk:Kokoro20|talk]]) 02:58, 1 April 2014 (UTC)
+
+I have found these supporting the songs sound as Hard Rock:
+*http://www.metalinjection.net/av/what-does-linkin-park-sound-like-nowadays - &quot;Before you start, I agree… Linkin Park isn't metal, but it's certainly hard rock, at least I think it is.&quot;
+*http://www.vh1.in/music/current/linkin-park-go-heavy-on-new-single-guilty-all-the-same - &quot;And it's finally paying off: In a surprise move, LP just unveiled a brand-new single, a raucous, hard rock assault called &quot;Guilty All The Same.&quot;&quot;
+
+Im not sure if Metal Injection is a reliable source, although [[VH1]] certainly is.{{#if:|{{#ifexpr:({{#time:U|{{{3}}}}} - {{#time:U|now}}) &gt; 0|{{hilite/core| [[User:SilentDan297|&lt;font color=&quot;red&quot;&gt;SilentDan297&lt;/font&gt;]] [[User talk:SilentDan297|&lt;font color=&quot;red&quot;&gt;talk&lt;/font&gt;]] |{{#ifeq: black ||yellow| black }}}}| [[User:SilentDan297|&lt;font color=&quot;red&quot;&gt;SilentDan297&lt;/font&gt;]] [[User talk:SilentDan297|&lt;font color=&quot;red&quot;&gt;talk&lt;/font&gt;]] }}|{{hilite/core| [[User:SilentDan297|&lt;font color=&quot;red&quot;&gt;SilentDan297&lt;/font&gt;]] [[User talk:SilentDan297|&lt;font color=&quot;red&quot;&gt;talk&lt;/font&gt;]] | black }}}} 14:06, 12 April 2014 (UTC)
+
+: The VH1 source was a good find, I would support the removal of nu metal, with hard rock replacing it. '''[[User:STATicVapor|STATic]] &lt;small&gt;[[User talk:STATicVapor|&lt;span style=&quot;vertical-align:super;&quot;&gt;message me!&lt;/span&gt;]]&lt;/small&gt;''' 16:28, 12 April 2014 (UTC)
+
+== Really?! ==
+
+T--[[Special:Contributions/72.251.108.194|72.251.108.194]] ([[User talk:72.251.108.194|talk]]) 10:06, 2 May 2014 (UTC)   This song is too heavy to be Hard Rock people.   --[[Special:Contributions/72.251.108.194|72.251.108.194]] ([[User talk:72.251.108.194|talk]]) 10:06, 2 May 2014 (UTC)
+:Do you have a source to back this up? {{#if:|{{#ifexpr:({{#time:U|{{{3}}}}} - {{#time:U|now}}) &gt; 0|{{hilite/core| [[User:SilentDan297|&lt;font color=&quot;red&quot;&gt;SilentDan297&lt;/font&gt;]] [[User talk:SilentDan297|&lt;font color=&quot;red&quot;&gt;talk&lt;/font&gt;]] |{{#ifeq: black ||yellow| black }}}}| [[User:SilentDan297|&lt;font color=&quot;red&quot;&gt;SilentDan297&lt;/font&gt;]] [[User talk:SilentDan297|&lt;font color=&quot;red&quot;&gt;talk&lt;/font&gt;]] }}|{{hilite/core| [[User:SilentDan297|&lt;font color=&quot;red&quot;&gt;SilentDan297&lt;/font&gt;]] [[User talk:SilentDan297|&lt;font color=&quot;red&quot;&gt;talk&lt;/font&gt;]] | black }}}} 22:08, 2 May 2014 (UTC)
+
+
+--[[Special:Contributions/72.251.108.239|72.251.108.239]] ([[User talk:72.251.108.239|talk]]) 10:24, 19 May 2014 (UTC)   I have ears, I don't need a source.--[[Special:Contributions/72.251.108.239|72.251.108.239]] ([[User talk:72.251.108.239|talk]]) 10:24, 19 May 2014 (UTC)
+
+: Yes you do need a source per [[WP:V]], editors that refuse to abide that are frequently blocked. '''[[User:STATicVapor|STATic]] &lt;small&gt;[[User talk:STATicVapor|&lt;span style=&quot;vertical-align:super;&quot;&gt;message me!&lt;/span&gt;]]&lt;/small&gt;''' 13:57, 19 May 2014 (UTC)
+
+== &quot;Radio Edit&quot; ==
+
+It is not proper for the term &quot;radio edit&quot; on one version for the song. It needs to be changed. [[User:Skylar3214|Skylar3214]] 11:54, 6 July 2014
+:What do you mean? Why is it &quot;not proper&quot;? [[User:Sergecross73|&lt;span style=&quot;color:green&quot;&gt;Sergecross73&lt;/span&gt;]] [[User talk:Sergecross73|&lt;span style=&quot;color:teal&quot;&gt;msg me&lt;/span&gt;]] 13:32, 7 July 2014 (UTC)
+::It's unnecessary to call it &quot;radio edit&quot;, if it's actually called &quot;Guilty All the Same (Radio Edit)&quot; for one thing. There's a lot of downloads of 'em listed on, say, YouTube, Soundcloud, etc. I still say it needs to be changed. Next time, I really need a question that I can easily answer instead of a hard one, Serge. [[User:Skylar3214|Skylar3214]] 2:44, 7 July 2014
+:::You didn't really leave us with a proper suggestion, you're supposed to use the &quot;change X to Y&quot; format but you didn't state what you wanted to be changed so there is no need to blame [[User:Sergecross73]] for simply asking you to expand on what you where suggesting to us which was vague to begin with. Also please elaborate what you mean because what you've asked us to do is to change the status of a radio edit to a radio edit... which doesn't make sense to anyone. {{#if:|{{#ifexpr:({{#time:U|{{{3}}}}} - {{#time:U|now}}) &gt; 0|{{hilite/core| [[User:SilentDan297|&lt;font color=&quot;red&quot;&gt;SilentDan297&lt;/font&gt;]] [[User talk:SilentDan297|&lt;font color=&quot;red&quot;&gt;talk&lt;/font&gt;]] |{{#ifeq: black ||yellow| black }}}}| [[User:SilentDan297|&lt;font color=&quot;red&quot;&gt;SilentDan297&lt;/font&gt;]] [[User talk:SilentDan297|&lt;font color=&quot;red&quot;&gt;talk&lt;/font&gt;]] }}|{{hilite/core| [[User:SilentDan297|&lt;font color=&quot;red&quot;&gt;SilentDan297&lt;/font&gt;]] [[User talk:SilentDan297|&lt;font color=&quot;red&quot;&gt;talk&lt;/font&gt;]] | black }}}} 22:56, 7 July 2014 (UTC)
+::::{{u|Skylar3214}} - If you're referring to Youtube accounts [https://www.google.com/search?q=youtube+linkin+park+guilty+all+the+same+radio+edit&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-US:official&amp;client=firefox-a&amp;channel=sb like the first 2 that come up in this search], then that doesn't mean anything. Those are unofficial Youtube accounts who have no more authority over Linkin Park's titling than me or you. [[User:Sergecross73|&lt;span style=&quot;color:green&quot;&gt;Sergecross73&lt;/span&gt;]] [[User talk:Sergecross73|&lt;span style=&quot;color:teal&quot;&gt;msg me&lt;/span&gt;]] 23:38, 7 July 2014 (UTC)
+::::{{u|SilentDan297}}, this user has been talking about this on my talk page too, and while its taken me a while to decipher it, I believe what he's proposing is that &quot;radio edit&quot; should be capitalized as &quot;Radio Edit&quot;. It seems editors oppose this because 1) it's not part of the title and 2) its not how its typically shown anywhere on Wikipedia. He still hasn't really given a good reason for this exception to the rule... [[User:Sergecross73|&lt;span style=&quot;color:green&quot;&gt;Sergecross73&lt;/span&gt;]] [[User talk:Sergecross73|&lt;span style=&quot;color:teal&quot;&gt;msg me&lt;/span&gt;]] 23:38, 7 July 2014 (UTC)
+:::::Ok then, well to me he has no argument considering he's not referencing any reliable sources or policies that would have us changing this, he just seems to have a different way of organising which isn't to Wikipedia standards. I agree with you on both points that he has not referenced anything reliable and has also failed to give us a reason for this exception to this rule, he just appears stubborn. {{#if:|{{#ifexpr:({{#time:U|{{{3}}}}} - {{#time:U|now}}) &gt; 0|{{hilite/core| [[User:SilentDan297|&lt;font color=&quot;red&quot;&gt;SilentDan297&lt;/font&gt;]] [[User talk:SilentDan297|&lt;font color=&quot;red&quot;&gt;talk&lt;/font&gt;]] |{{#ifeq: black ||yellow| black }}}}| [[User:SilentDan297|&lt;font color=&quot;red&quot;&gt;SilentDan297&lt;/font&gt;]] [[User talk:SilentDan297|&lt;font color=&quot;red&quot;&gt;talk&lt;/font&gt;]] }}|{{hilite/core| [[User:SilentDan297|&lt;font color=&quot;red&quot;&gt;SilentDan297&lt;/font&gt;]] [[User talk:SilentDan297|&lt;font color=&quot;red&quot;&gt;talk&lt;/font&gt;]] | black }}}} 23:56, 7 July 2014 (UTC)
+Whatever. [[User:Skylar3214|Skylar3214]] 6:36, 8 July 2014</text>
+      <sha1>0h5rc4156w4nzpaty7v3gwb7m6hm141</sha1>
+    </revision>
+  </page>
+</mediawiki>

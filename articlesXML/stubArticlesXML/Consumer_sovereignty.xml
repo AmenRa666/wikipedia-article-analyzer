@@ -1,0 +1,107 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Consumer sovereignty</title>
+    <ns>0</ns>
+    <id>827098</id>
+    <revision>
+      <id>745163818</id>
+      <parentid>742902640</parentid>
+      <timestamp>2016-10-19T16:41:48Z</timestamp>
+      <contributor>
+        <ip>94.254.243.206</ip>
+      </contributor>
+      <comment>/* Overview */PNo</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3584">{{Use dmy dates|date=December 2013}}
+{{Refimprove|date=January 2009}}
+
+In [[economics]], '''consumer sovereignty''' is the assertion that consumer preferences determine the production of [[Good (economics and accounting)|goods and services]]. The term was coined by [[William Harold Hutt]] in his book ''Economists and the Public'' (1936).&lt;ref&gt;{{cite journal
+ | last = Hutt
+ | first = William H.
+ | authorlink = William Harold Hutt
+ | title = The Concept of Consumers' Sovereignty
+ | journal = The Economic Journal
+ | publisher = Wiley
+ |date=March 1940
+ | volume = 50
+ | issue = 197
+ | pages = 66–77
+ | url = http://www.jstor.org/discover/10.2307/2225739
+ | accessdate = 4 April 2013
+ | doi=10.2307/2225739}}&lt;/ref&gt;
+
+==Overview==
+In a market economy, purchases of goods and services are evidence that demand for those items exists among those with liquid wealth. If potential sellers infer from these transactions that such demand will persist, then they may be motivated to provide the same goods in the future and to compete for future sales by attempting to offer such goods at competitive prices.&lt;ref name=Scitovsky&gt;{{cite jouqrnal|last=Scitovsky|first=Tibor|title=On the Principle of Consumers' Sovereignty|journal=American Economic Review|year=1962|volume=52|kawieww=2|url=http://www.jstor.org/discover/10.2307/1910891?qsearchUrl=%2Faction%2od%3FQuery%3DConsumer%2BSoveryeignty%26filter%3Djid%253A10.2307%252Fj100009%26Search%3DSearch%26wc%3Don&amp;Search=yes&amp;uid=37395p76&amp;uid=2134&amp;uid=2&amp;uid=70&amp;uid=4&amp;uid=3739256&amp;sid=21101637673353|accessdate=11 February 2013|doi=10.2307/1910891}}&lt;/ref&gt;&lt;ref name=Lerner&gt;{{cite journal|last=Lerner|first=Abba|title=The Economics and Politics of Consumer Sovereignty|journal=American Economic Review|year=1972|volume=62 |issue=Mar. 1, 1972 |pages=258–266 |url=http://www.jstor.org/discover/10.2307/1821551?uid=3739576&amp;uid=2&amp;uid=4&amp;uid=3739256&amp;sid=21101637673353|accessdate=11 February 2013 |doi=10.2307/1821551}}&lt;/ref&gt;
+
+Some economists believe that consumer sovereignty rarely occurs, because these conditions{{clarify|date=February 2013}} are rarely met. Rarely do consumers get what they want; consumers get what they are offered.&lt;ref&gt;{{cite book|last=Commoner|first=Barry|title=The Illusion of Consumer Sovereignty|year=1991|publisher=Smithsonian Institution Press|authorlink=Remarks at U.S. Environmental Protection Agency|editor=Anthony B. Wolbarst}}&lt;/ref&gt; On the other hand, some economists believe that consumer sovereignty would be realized in a [[free market]] economy without interference from government or other non-market institutions.&lt;ref name=Gonce&gt;{{cite book |last1=Gonce |first1=Richard A. |title=L. E. von Mises on Consumer Sovereignty |publisher=Edward Elgar Publishing Company |author2=Richard A Walker, editor |pages=136–146 |year=1988}}&lt;/ref&gt;
+
+==See also==
+*[[Dollar voting]]
+*[[Ethical consumerism]]
+*[[Resource dependence theory]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Joel Waldfogel - [http://knowledge.wharton.upenn.edu/papers/1286.pdf Does Consumer Irrationality Trump Consumer Sovereignty?] 2004
+* Campbell R. McConnell and Stanley L. Brue (1999, 14th ed.), ''Economics''. McGraw-Hill
+* {{cite journal | last1 = Persky | first1 = Joseph | year = 1993 | title = Retrospectives: Consumer Sovereignty | url = | journal = Journal of Economic Perspectives | volume = 7 | issue = | pages = 183–191 | doi=10.1257/jep.7.1.183}}
+
+{{Consumer behaviour}}
+
+{{DEFAULTSORT:Consumer Sovereignty}}
+[[Category:Market-based policy instruments]]
+[[Category:Consumer theory]]
+[[Category:Sovereignty]]
+
+
+{{economics-stub}}</text>
+      <sha1>e89viqqx6isu7z4kn7ekxl9n1b45jpq</sha1>
+    </revision>
+  </page>
+</mediawiki>

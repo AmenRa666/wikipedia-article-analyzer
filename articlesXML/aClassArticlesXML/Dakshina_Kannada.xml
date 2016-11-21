@@ -1,0 +1,723 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dakshina Kannada</title>
+    <ns>0</ns>
+    <id>883452</id>
+    <revision>
+      <id>750270636</id>
+      <parentid>750095984</parentid>
+      <timestamp>2016-11-18T19:12:13Z</timestamp>
+      <contributor>
+        <ip>42.109.165.242</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="72171">{{Use dmy dates|date=August 2015}}
+{{Use Indian English|date=August 2015}}
+{{Infobox settlement
+| name                    = Dakshina Kannada
+| native_name             = ದಕ್ಷಿಣ ಕನ್ನಡ
+| other_name              = 
+| settlement_type         = District
+| image_skyline           = Tannirubhavi beach 02.JPG
+| image_caption           = [[Tannirbhavi Beach]], [[Mangalore]]
+| image_map               = Karnataka-districts-Dakshina Kannada.png
+| map_alt                 = Dakshina Kannada District
+| map_caption             = Location of Dakshina Kannada in Karnataka, India
+| latd                    = 12.87
+| latm                    = 
+| lats                    = 
+| latNS                   = N
+| longd                   = 74.88
+| longm                   = 
+| longs                   = 
+| longEW                  = E
+| coordinates_display     = inline,title
+| subdivision_type        = Country
+| subdivision_name        = {{flag|India}}
+| subdivision_type1       = [[States and territories of India|State]]
+| subdivision_type2       = [[Region]]
+| subdivision_name1       = [[Karnataka]]
+| subdivision_name2       = [[Kanara|Coastal Karnataka]]
+| established_title       = &lt;!-- Established --&gt;
+| established_date        = 
+| founder                 = 
+| named_for               = 
+| seat_type               = Headquarters
+| seat                    = [[Mangalore|Mangalore City]]
+| parts_type              = [[Taluka]]s
+| parts                   = [[Mangalore]], [[Sullia]], [[Puttur, Karnataka|Puttur]], [[Belthangady]], [[Bantwal]]
+| government_type         = 
+| governing_body          = 
+| unit_pref               = Metric
+| area_footnotes          = 
+| area_total_km2          = 4559
+| elevation_footnotes     = 
+| elevation_m             = 
+| population_total        = 2,083,625&lt;ref name=&quot;census-data&quot;&gt;{{cite web| url = http://www.census2011.co.in/census/district/252-dakshina-kannada.html | title = Dakshina Kannada District : Census 2011 data | accessdate =31 January 2015
+| publisher = Census 2011}}&lt;/ref&gt;
+| population_footnotes    = 
+| population_density_km2  = 457
+| population_rank         = 
+| population_demonym      = 
+| demographics_type1      = Languages
+| demographics1_title1    = Official
+| timezone1               = [[Indian Standard Time|IST]]
+| utc_offset1             = +5:30
+| postal_code_type        = [[Postal Index Number|PIN]]
+| postal_code             = 5750xx(Mangalore), 574xxx
+| area_code               = + 91 (082xx)
+| area_code_type          = Telephone code
+| registration_plate      = KA 19, KA 21, KA 62
+| website                 = {{URL|http://www.dk.nic.in/}}
+| footnotes               = 
+| demographics1_info1     = [[Kannada language|Kannada]]
+| demographics1_title2    = Regional
+| demographics1_info2     = [[Tulu language|Tulu]], [[Konkani]], [[Beary language|Beary Bhashe]], [[Are Bhashe dialect|Are Bhashe]]
+|blank_name_sec1        = [[National Highway (India)|National Highways]]
+|blank_info_sec1        = [[File:NH66-IN.png|National Highway 66 - India]] [[National Highway 17 (India)(old numbering)|National Highway 66]]&lt;br&gt;
+[[File:NH75-IN.png|National Highway 66 - India]] [[National Highway 48 (India)(old numbering)|National Highway 75]]&lt;br&gt;
+[[File:NH50-IN.png|National Highway 50 - India]] [[National Highway 13 (India)(old numbering)|National Highway 50]]&lt;br&gt;
+[[File:NH234-IN.png|National Highway 234 - India]] [[National Highway 234 (India)(old numbering)|National Highway 234]]
+|blank1_name_sec2        = Airport
+|blank1_info_sec2        = [[Mangalore Airport (India)|Mangalore International Airport]]
+|blank2_name_sec2        = Seaport
+|blank2_info_sec2        = [[Panambur|New Mangalore Port]]
+}}
+'''Dakshina Kannada''' is a coastal [[Districts of Karnataka|district]] in the [[states and territories of India|state]] of [[Karnataka]] in [[India]]. Sheltered by the [[Western Ghats]] on the east
+and surrounded by the [[Arabian Sea]] on the west, Dakshina Kannada receives abundant rainfall during the [[monsoon]].&lt;ref&gt;{{cite web| url = http://nriforumkarnataka.org/districts-profile/Dakshina%20Kannada%20District%20Profile_29-05-2012_final.pdf | title = Dakshina Kannada - the afforest conurbation | accessdate =23 May 2015
+| publisher = Ernst &amp; Young
+|date=June 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web| url = http://dcmsme.gov.in/dips/Dakshina%20Kannada%20%20DIst-final.pdf | title = Brief Industrial Profile of Dakshina Kannada District | accessdate =31 January 2015
+| publisher = Government of India - Ministry of MSME}}&lt;/ref&gt; It is bordered by [[Udupi district|Udupi District]] to the north, [[Chikkamagaluru district]] to the northeast, [[Hassan district|Hassan District]] to the east, [[Kodagu]] to the southeast, and [[Kasaragod district|Kasaragod District]] in [[Kerala]] to the south.&lt;ref name=&quot;coastal-kar&quot;&gt;{{cite web| url = http://shodhganga.inflibnet.ac.in:8080/jspui/bitstream/10603/25483/10/10_chapter_03.pdf | title = Chapter 3 - Profile of the study Area - Coastal Karnataka | accessdate =23 May 2015
+| publisher = Shodhganga}}&lt;/ref&gt; The district has 2 agroclimatic divisions namely
+# [[Coastal plain|Coastal region]] - consists of [[Mangalore taluk|Mangalore]] and [[Bantwal taluk|Bantwal]] taluks
+# [[Western Ghats|Malnad region]] - consists of [[Puttur taluk|Puttur]], [[Belthangady taluk|Belthangady]] and [[Sullia taluk|Sullia]] taluks.&lt;ref name=&quot;agri1&quot;&gt;{{cite web| url =http://agricoop.nic.in/Agriculture%20contingency%20Plan/KTK/KAR13-DAKSHINA%20KANNADA%2031.03.2011.pdf | title = Agriculture Contingency Plan for District: DAKSHINA KANNADA| accessdate = 31 January 2015| publisher=Agricoop}}&lt;/ref&gt;
+&lt;br&gt;The district has 2 revenue subdivisions - [[Mangalore]] (consists of [[Mangalore]], [[Bantwal]], [[Moodabidri]], [[Mulki, India|Mulki]] and [[Vitla]]) and [[Puttur, Karnataka|Puttur]] (consists of [[Puttur, Karnataka|Puttur]], [[Belthangady]], [[Sullia]] and [[Kadaba]]).&lt;ref name=&quot;factsheet&quot;&gt;{{cite web| url =https://nrhm-mis.nic.in/DLHS4/State%20and%20District%20Factsheets/Karnataka/District%20Factsheets/Dakshina%20Kannada.pdf | title = District Fact Sheet - Dakshina Kannada (2012 - 2013)| accessdate = 23 July 2016| publisher=International Institue for Population Sciences}}&lt;/ref&gt; [[Mangalore]] city is the district headquarters of Dakshina Kannada.&lt;ref name=&quot;dist-profile-first&quot;&gt;{{cite web| url = http://pppinindia.com/pdf/karnataka/District%20Profiles/Dakshin%20Kannada.pdf | title = Dakshina Kannada District Profile | accessdate =22 February 2015
+| publisher = Government of Karnataka}}&lt;/ref&gt;
+[[File:Dk-dist-map.png|300px|border|right|Map showing the taluks of Dakshina Kannada District]]
+The district is divided into five [[taluka]]s namely [[Mangalore]], [[Bantwal]], [[Puttur, Karnataka|Puttur]], [[Sullia]], and [[Belthangady]].&lt;ref&gt;{{cite web| url = http://www.mapsofindia.com/maps/karnataka/tehsil/dakshin-kannada.html | title = Dakshina Kannada Tehsil Map | accessdate =31 January 2015
+| publisher = Maps Of India}}&lt;/ref&gt; It used to include 4 northern talukas, [[Udupi]], [[Kundapur]], [[Karkala]] and [[Byndoor]], but these were separated in August 1997 to form [[Udupi district]].&lt;ref name=&quot;dk-1997&quot;&gt;{{cite web
+|url=http://shodhganga.inflibnet.ac.in:8080/jspui/bitstream/10603/11142/13/13_chapter%203.pdf
+|title=Chapter III - Profile of Karnataka state
+|accessdate=25 May 2015
+|publisher=Shodhganga
+}}&lt;/ref&gt; Dakshina Kannada, [[Udupi district|Udupi]] and [[Kasaragod district|Kasaragod]] are often called [[Tulu Nadu]], as [[Tulu language|Tulu]] is the majority language in the region.&lt;ref name=&quot;tulu-lang&quot;&gt;{{cite web| url = http://journal.oraltradition.org/files/articles/11i/15_rai.pdf | title = Epics in the Oral Genre System of Tulunadu | accessdate =23 May 2015 |author=B A Viveka Rai
+| publisher = Oral Tradition}}&lt;/ref&gt; The [[Alupas]] ruled this region between the 8th and 14th century CE as a feudatory of all the major [[Kannada]] empires of those times and it is for this reason that the [[Tulu language|Tulu]] speaking districts are a part of [[Karnataka]].&lt;ref name=&quot;sk&quot;&gt;{{cite book|last=Bhat|first=N. Shyam|title=South Kanara, 1799–1860: a study in colonial administration and regional response|publisher=Mittal Publications|year=1998|isbn=978-81-7099-586-9}}&lt;/ref&gt;
+
+Important towns in Dakshina Kannada include [[Mangalore]], [[Bantwal]], [[Vittal]], [[Puttur, Karnataka|Puttur]], [[Sullia]], [[Surathkal]], [[Moodabidri]], [[Uppinangadi|Uppinangady]], [[Venur]], [[Mulki, India|Mulki]], [[Dharmasthala]], [[Ujire]], [[Belthangady]] and [[Subramanya, Karnataka|Subramanya]].&lt;ref name=&quot;handbook-ka&quot;&gt;{{cite web
+|url=https://www.karnataka.gov.in/gazetteer/HandbookKarnataka2010/Chapter%20IX%20Administration.pdf
+|title=A Handbook of Karnataka - Chapter IX - Administration
+|accessdate=25 May 2015
+|publisher=Government of Karnataka}}&lt;/ref&gt; The district is known for pristine beaches, red clay roof tiles ([[Mangalore tiles]]), cashew nut and its products, banking, education, healthcare and exotic cuisine.&lt;ref name=&quot;progress-sk&quot;&gt;{{cite web
+|url=http://www.new1.dli.ernet.in/data1/upload/insa/INSA_1/20005af6_260.pdf
+|title=A brief history of scientific technology, research and educational progress of South Kanara
+|accessdate=20 May 2015
+|publisher=Indian Journal of History of Science
+|author=M N Madhyastha
+|author2=M Abdul Rahman
+|author3=K M Kaveriappa}}&lt;/ref&gt;
+
+According to 2011 Indian Census, the district ranks second in per capita income,&lt;ref name=&quot;percapita&quot;&gt;{{cite web
+|url=http://www.newindianexpress.com/cities/bengaluru/Karnataka-Slips-to-Sixth-Spot-in-Per-Capita-Income/2016/03/21/article3338164.ece
+|title=Karnataka slips to 6th spot in Per Capita Income
+|accessdate=23 July 2016
+|author=The New Indian Express
+}}&lt;/ref&gt; second in HDI,&lt;ref name=&quot;dkhdi&quot;&gt;{{cite web
+|url=http://www.newindianexpress.com/states/karnataka/HDI-Bengaluru-Urban-DK-Udupi-Top-List/2015/10/20/article3089112.ece
+|title=HDI: Bengaluru Urban, DK, Udupi top list
+|accessdate=23 July 2016
+|author=The New Indian Express
+}}&lt;/ref&gt; first in literacy &lt;ref name=&quot;dkliteracy&quot;&gt;{{cite web
+|url=http://www.daijiworld.com/news/news_disp.asp?n_id=174610
+|title=It’s official: State’s population is 6.10 cr, Dakshina Kannada most literate district
+|accessdate=23 July 2016
+|author=Daijiworld
+}}&lt;/ref&gt; and third in sex ratio among all districts in [[Karnataka]].&lt;ref name=&quot;dkratio&quot;&gt;{{cite web
+|url=http://www.daijiworld.com/news/news_disp.asp?n_id=98618
+|title=Bangalore has Lowest Sex Ratio, DK Highest Literacy Rate in State
+|accessdate=23 July 2016
+|author=Daijiworld
+}}&lt;/ref&gt;
+
+== History ==
+Before 1860, Dakshina Kannada was part of a district called [[Kanara]], which was under a single administration in the [[Madras Presidency]].&lt;ref name=&quot;inscriptions&quot;&gt;{{cite web
+|url=https://indianhistorybooks.files.wordpress.com/2013/05/inscriptions-of-madras-presidency-vol-2.pdf
+|title=Inscriptions of the Madras Presidency
+|accessdate=25 May 2015
+|author=V Rangacharya
+}}&lt;/ref&gt; In 1860, the British split the area into South Kanara and North Kanara, the former being retained in the Madras Presidency, while the latter was made a part of [[Bombay Province]] in 1862.&lt;ref&gt;{{cite web |url=http://dsal.uchicago.edu/reference/gazetteer/pager.html?objectid=DS405.1.I34_V14_363.gif |title= Imperial Gazetteer of India, South Kanara|accessdate= 4 September 2009 |publisher=dsal.uchicago.edu}}&lt;/ref&gt; [[Kundapur Taluk|Kundapur taluk]] was earlier included in North Kanara, but was re-included in South Kanara later.&lt;ref name=&quot;coondapur&quot;&gt;{{cite web
+|url=http://dspace.wbpublibnet.gov.in:8080/jspui/bitstream/10689/11125/3/Chapter%201_1%20-%2045p.pdf
+|title=Imperial Gazetteer of India - Volume XI
+|accessdate=20 May 2015
+|publisher=Imperial Gazetteer of India
+}}&lt;/ref&gt; During the Reorganisation of States in 1956, [[Kasaragod district|Kasaragod]] was split and transferred to the newly created [[Kerala]] state and Dakshina Kannada was transferred to [[Mysore State|Mysore state]] (present day [[Karnataka]]).&lt;ref name=&quot;sorg1956&quot;&gt;{{cite web
+|url=http://www.commonlii.org/in/legis/num_act/sra1956250/
+|title=States Reorganization Act 1956
+|accessdate=1 July 2008
+|publisher=Commonwealth Legal Information Institute
+|archiveurl=http://web.archive.org/web/20080516123014/http://www.commonlii.org/in/legis/num_act/sra1956250/ &lt;!--Added by H3llBot--&gt;
+|archivedate=16 May 2008}}&lt;/ref&gt;
+
+[[South Canara]] was a district under the British empire which included the present Dakshina Kannada, Udupi, Kasaragod districts and [[Aminidivi]] islands.&lt;ref name=&quot;inscriptions&quot;&gt;{{cite web
+|url=https://indianhistorybooks.files.wordpress.com/2013/05/inscriptions-of-madras-presidency-vol-2.pdf
+|title=Inscriptions of the Madras Presidency
+|accessdate=25 May 2015
+|author=V Rangacharya
+}}&lt;/ref&gt;&lt;ref name=&quot;aminidivi&quot;&gt;{{cite web
+|url=http://lakshadweep.nic.in/documents/Districtmapnew.pdf
+|title=Template for district gazetteer - Lakshadweep
+|accessdate=25 May 2015
+|publisher=National Informatics Centre, Lakshadweep
+}}&lt;/ref&gt; [[Kanara|Canara]] district was bifurcated in 1859 to form North Canara and South Canara.&lt;ref name=&quot;basel-mission&quot;&gt;{{cite web
+|url=http://shodhganga.inflibnet.ac.in:8080/jspui/bitstream/10603/30037/13/13_chapter%206.pdf
+|title=The Basel Mission in South Canara
+|accessdate=20 May 2015
+|author=Fedrick Sunil Kumar N I
+|publisher=Department of History, University of Calicut, 2006
+}}&lt;/ref&gt; Dakshina Kannada became a district of [[Mysore State]] in 1956 which later was renamed [[Karnataka]] in 1973. [[Kasaragod district|Kasaragod]] became a district of Kerala during the Re-organization of States and Aminidivi islands later became a part of [[Lakshadweep]].&lt;ref name=&quot;kasaragod&quot;&gt;{{cite web
+|url=http://www.cds.ac.in/krpcds/publication/downloads/69.pdf
+|title=Forest-Agriculture Linkage and its Implications on Forest Management: A study of Delampady panchayat, Kasaragod district, Kerala
+|accessdate=20 May 2015
+|author=Amruth M
+|publisher=Kerala Research Programme on Local Level Development Centre for Development Studies
+}}&lt;/ref&gt; The Udupi district was formed from the northern taluks of Dakshina Kannada in 1997.&lt;ref&gt;Patsy Lozupone, Bruce M. Beehler, Sidney Dillon Ripley.(2004).[https://books.google.com/books?client=safari&amp;cd=1&amp;num=100&amp;id=-jdHAAAAYAAJ&amp;dq=South+Canara+coordinates&amp;q=South+Kanara+ ''Ornithological gazetteer of the Indian subcontinent'', p. 82].Center for Applied Biodiversity Science, Conservation International. ISBN 1-881173-85-2.&lt;/ref&gt; Later, the [[Karnataka]] Government, for the purpose of administration, split the greater Dakshina Kannada district into Udupi and present day Dakshina Kannada districts on 15 August 1997.&lt;ref name=&quot;dk-1997&quot;&gt;{{cite web
+|url=http://shodhganga.inflibnet.ac.in:8080/jspui/bitstream/10603/11142/13/13_chapter%203.pdf
+|title=Chapter III - Profile of Karnataka state
+|accessdate=25 May 2015
+|publisher=Shodhganga
+}}&lt;/ref&gt; Three taluks of the former district namely [[Udupi taluk|Udupi]], [[Karkala taluk|Karkala]] and [[Kundapura taluk|Kundapura]] formed the new [[Udupi district]].&lt;ref&gt;{{cite web |url=https://books.google.com/books?isbn=8170995868 |title= South Kanara, 1799-1860: A Study in Colonial Administration and Regional Response|accessdate= 31 January 2015 |publisher=N. Shyam Bhat}}&lt;/ref&gt;
+
+==Demographics==
+
+{{bar box
+|title=Religions in Dakshina Kannada
+|titlebar=#Fcd116
+|left1=Religion
+|right1=Percent
+|float=right
+|bars=
+{{bar percent|[[Hindus]]|orange|67.18}}
+{{bar percent|[[Muslims]]|green|24.02}}
+{{bar percent|[[Christians]]|blue|8.20}}
+{{bar percent|Others|brown|0.6}}
+|caption=&lt;br&gt;&lt;small&gt;'''source:''' http://www.census2011.co.in/data/religion/district/252-dakshina-kannada.html&lt;/small&gt;
+}}
+According to the [[2011 census of India|2011 census]] Dakshina Kannada has a [[Demographics of India|population]] of 2,089,649,&lt;ref name=districtcensus&gt;{{cite web | url = http://www.census2011.co.in/census/district/252-dakshina-kannada.html | title = District Census 2011 | accessdate = 2011-09-30 | year = 2011 | publisher = Census2011.co.in}}&lt;/ref&gt; roughly equal to the nation of [[Republic of Macedonia|Macedonia]]&lt;ref name=&quot;cia&quot;&gt;{{cite web | author = US Directorate of Intelligence | title = Country Comparison - Population | url = https://www.cia.gov/library/publications/the-world-factbook/rankorder/2119rank.html | accessdate = 2011-10-01}}&lt;/ref&gt; or the US state of [[New Mexico]].&lt;ref&gt;{{cite web|url=http://2010.census.gov/2010census/data/apportionment-pop-text.php |title=2010 Resident Population Data |publisher=U. S. Census Bureau |accessdate=2011-09-30 |quote=New Mexico - 2,059,179 |deadurl=yes |archiveurl=https://web.archive.org/web/20131019160532/http://2010.census.gov/2010census/data/apportionment-pop-text.php |archivedate=19 October 2013 }}&lt;/ref&gt; This gives it a ranking of 220th in India (out of a total of [[Districts of India|640]]).&lt;ref name=districtcensus/&gt; The district has a population density of {{convert|457|PD/sqkm|PD/sqmi}}.&lt;ref name=&quot;census2011&quot;&gt;{{cite web| url = http://www.census2011.co.in/census/district/252-dakshina-kannada.html | title = Dakshina Kannada District : Census 2011 data | accessdate =31 January 2015| publisher = Census 2011}}&lt;/ref&gt; Its [[Family planning in India|population growth rate]] over the decade 2001-2011 was 9.8%.&lt;ref name=districtcensus/&gt; Dakshina Kannada	has a [[sex ratio]] of 1018	[[Women in India|females]] for every 1000 males&lt;ref name=districtcensus/&gt; and a [[Literacy in India|literacy rate]] of 88.62%. The literacy rate of Mangalore city is 94%.&lt;ref name=districtcensus/&gt;
+
+[[Tuluvas]], distributed among the [[Billava]], [[Mogaveera]], [[Bunt (community)|Bunt]], Koraga, Kulala, and [[Devadiga]] communities, are the largest ethnic group in the district.&lt;ref&gt;{{cite web |url=http://dsal.uchicago.edu/reference/gazetteer/pager.html?objectid=DS405.1.I34_V14_365.gif |title= Imperial Gazetteer of India, South Kanara|accessdate= 4 September 2009 |publisher=dsal.uchicago.edu}}&lt;/ref&gt; The [[Konkani people|Konkani]] people, Brahmins, [[Holeya]]s, [[Vokkaliga]]s, the hill-tribes ([[Koraga people|Koragas]]), [[Muslims]], [[Mangalorean Catholics]] and [[Kodagu Gowda|Arebhashe Gowdas]] comprise rest of the population.&lt;ref&gt;{{cite web |url=http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/article1874840.ece |title= Mangaluru: It has come a long way|accessdate= 23 May 2015 |publisher=The Hindu |date=18 July 2007}}&lt;/ref&gt; The Brahmins belong chiefly to the [[Chitpavan]], [[Shivalli Brahmins|Shivalli]], [[Saraswat Brahmin|Saraswat]], [[Havyaka Brahmin|Havyaka]], and [[Kota Brahmin|Kota]] sub-sections.&lt;ref name=&quot;shodh-culture&quot;&gt;{{cite web| url = http://shodhganga.inflibnet.ac.in:8080/jspui/bitstream/10603/18567/15/15_chapter%203.pdf| title = Chapter-3 Village: Land, Culture and Ecology| accessdate = 21 June 2015| publisher= Shodhganga}}&lt;/ref&gt; The major languages spoken in Dakshina Kannada are [[Tulu language|Tulu]], [[Konkani]], [[Kannada]], [[Beary language|Beary Bhashe]] and [[Are Bhashe dialect|Are Bhashe]].&lt;ref name=&quot;pilgrimage&quot;&gt;{{cite web| url = http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf| title = Pilgrimage to Temples in Dakshina Kannada| accessdate = 22 February 2015| author= Tamarapu Sampath Kumaran}}&lt;/ref&gt;
+
+== Geography ==
+[[File:Western Ghats view near Kukke.jpg|thumb|right|[[Western Ghats]] near [[Kukke Subramanya]]]]
+[[File:Surathkal Lighthouse1.jpg|thumb|left|[[Lighthouse]] alongside [[Surathkal]] Beach]]
+The district geography consists of seashore in the west and [[Western Ghats]] in the east. The [[soil]] is mostly [[laterite|lateritic]] type, characterised by high [[iron]] and [[aluminium]] content.&lt;ref name=&quot;dk-soil&quot;&gt;{{cite web| url = http://cgwb.gov.in/District_Profile/karnataka/DAKSHINA_KANNADA.pdf | title = Ground Water Information Booklet - Dakshina Kannada | accessdate =25 May 2015| publisher = Government of India - Ministry of Water Resources|date=November 2009}}&lt;/ref&gt; The major rivers are [[Netravathi]], [[Kumaradhara]], [[Phalguni river|Gurupura (Phalguni)]], [[Shambhavi]], Nandini or [[Pavanje]] and Payaswini which all join the [[Arabian sea]].&lt;ref name=&quot;dist-profile-next&quot;&gt;{{cite web| url = http://pppinindia.com/pdf/karnataka/District%20Profiles/Dakshin%20Kannada.pdf | title = Dakshina Kannada District Profile | accessdate =22 February 2015| publisher = Government of Karnataka}}&lt;/ref&gt; At [[Uppinangadi]], the Netravathi and Kumaradhara rivers rise during the monsoon and meet, this event is called &quot;Sangam&quot;, which in Sanskrit means confluence.&lt;ref name=&quot;sangama&quot;&gt;{{cite web| url = http://www.deccanherald.com/content/14551/kumaradhara-nethravathi-rivers-merge-uppinangady.html | title = Kumaradhara, Nethravathi rivers merge at Uppinangady | accessdate =20 May 2015 | date=19 July 2009| publisher = Deccan Herald}}&lt;/ref&gt; Near Mangalore, an [[estuary]] is formed by the union of the rivers Netravathi and the Gurupura which merge into the Arabian Sea.&lt;ref name=&quot;estuary&quot;&gt;{{cite web| url = http://mbai.org.in/uploads/manuscripts/Article-7696218637.pdf | title = Ecological observations on the phytoplankton of Nethravati - Gurupura estuary, south west coast of India | accessdate =25 May 2015 | date=30 January 2009| publisher = Marine Biological Association of India|author=M S Shruthi|author2=M Rajashekhar}}&lt;/ref&gt;
+
+The [[topography]] of the district is plain up to {{convert|30|km|mi|2|abbr=on}} inside the coast and changes to undulating hilly [[terrain]] sharply towards the east in the Western Ghats.&lt;ref&gt;{{cite book | title = Mausam: quarterly journal of meteorology, hydrology &amp; geophysics, Volume 56, Issue 1 | publisher = [[India Meteorological Department]] | year = 2005 | page = 76}}&lt;/ref&gt; [[Teak]], [[bamboo]] and rosewood trees are found in the hilly areas towards the east.&lt;ref name=&quot;trees-dk&quot;&gt;{{cite web| url = http://www.arvindguptatoys.com/arvindgupta/santapau.pdf | title = Common Trees | accessdate =25 May 2015 |author = H Santapau}}&lt;/ref&gt; The [[Geological Survey of India]] has identified this district as a moderately earthquake-prone region and categorised it in the Seismic III Zone.&lt;ref&gt;{{cite map
+|publisher=[[Geological Survey of India]] |url=http://gcmd.nasa.gov/records/GCMD_GSI_BHUJ_SEISMIC_ZONES_MAP.html|title=Seismic zoning map of India|accessdate=20 July 2008}}&lt;/ref&gt; In rural Dakshina Kannada, houses are in the midst of a farm field or [[plantation]]s of [[coconut]] or [[arecanut]], separated by a few hundred metres.&lt;ref name=&quot;forest-dk&quot;&gt;{{cite web| url = http://parisara.kar.nic.in/PDF/Forest.pdf | title = Forest - State of the Environment Report - 2003 (Page 189) | accessdate =20 May 2015
+| publisher = Parisara}}&lt;/ref&gt;
+
+{{wide image|Mangalore_panaroma_0187_pan.jpg|1100px|Mangalore skyline from Kadri}}
+
+== Education and research == 
+[[File:NITK mangalore.jpg|thumb|right|[[NITK Surathkal]]]]
+[[File:St. Aloysius College.jpg|thumb|right|[[St. Aloysius College (Mangalore)|St Aloysius College]]]]
+In Dakshina Kannada, primary and secondary education have reached every section of the society.&lt;ref name=&quot;educare&quot;&gt;{{cite web
+|url=http://www.educareonline.in/kardist/dakshinakannada.html
+|title=Educare Online - Colleges in Dakshina Kannada
+|accessdate=7 February 2016
+|publisher=Educare Online
+}}&lt;/ref&gt;&lt;ref name=&quot;edu-dk&quot;&gt;{{cite web
+|url=http://www.thehindu.com/news/cities/Mangalore/dakshina-kannada-pips-udupi-to-top-in-pu-performance/article5992466.ece
+|title=Dakshina Kannada pips Udupi to top in PU performance
+|accessdate=23 May 2015
+|date=9 May 2014
+|publisher=The Hindu
+}}&lt;/ref&gt; A host of educational institutes offering courses in [[Medicine]], [[Engineering]], [[Pharmacy]], [[Nursing]], Hotel and Catering, Law and Management are located in this district.&lt;ref name=&quot;progress-sk&quot;&gt;{{cite web
+|url=http://www.new1.dli.ernet.in/data1/upload/insa/INSA_1/20005af6_260.pdf
+|title=A brief history of scientific technology, research and educational progress of South Kanara
+|accessdate=20 May 2015
+|publisher=Indian Journal of History of Science
+|author=M N Madhyastha
+|author2=M Abdul Rahman
+|author3=K M Kaveriappa}}&lt;/ref&gt; Dakshina Kannada is home to the National Institute of Technology Karnataka (NITK) Surathkal, one of India's top Engineering colleges.&lt;ref name=&quot;nitk&quot;&gt;{{cite web
+|url=http://timesofindia.indiatimes.com/tech/slideshow/techcolleges/Indias-10-top-engineering-colleges/itslideshowviewall/12003525.cms
+|title=India's 10 top Engineering colleges
+|accessdate=25 May 2015
+|publisher=Times of India
+|date=23 Feb 2012}}&lt;/ref&gt; The [[College of Fisheries]] is located at Yekkur near [[Kankanady]].&lt;ref&gt;{{cite news| url = http://www.kvafsu.kar.nic.in/College%20of%20Fisheries.htm | date = 31 August 2006| title = College of Fisheries, Mangaluru | accessdate = 7 September 2009| publisher=Karnataka Veterinary Animal and Fishereies University}}&lt;/ref&gt;&lt;ref&gt;{{cite news| url = http://www.cofmangalore.org/ | title = College of Fisheries, Mangalore | accessdate = 20 May 2015| publisher=Karnataka Veterinary Animal and Fishereies University}}&lt;/ref&gt; [[Mangalore University]] is a public university in [[Konaje]] near [[Mangalore]]. It has jurisdiction over the districts of Dakshina Kannada, [[Udupi district|Udupi]] and [[Kodagu district|Kodagu]].&lt;ref&gt;{{cite web |url= http://www.hindu.com/2004/09/08/stories/2004090811840300.htm |title=The Hindu : Karnataka / Mangalore News : Mangalore University all set to celebrate jubilee  |work=hindu.com  |accessdate=31 December 2011}}&lt;/ref&gt; The district is home to research institutes such as the Directorate of Cashew Research at [[Puttur, Karnataka|Puttur]].&lt;ref&gt;{{cite web |url= http://www.cashew.res.in/ |title=ICAR: Directorate of Cashew Research, Puttur, Karnataka |work=DCR  |accessdate=20 May 2015}}&lt;/ref&gt; The Central Plantation Crops Research Institute is situated at [[Vitla]] in the [[Bantwal]] taluk.&lt;ref&gt;{{cite web |url= http://www.cpcri.gov.in/ |title=ICAR: Central Plantation Crops Research Institute |work=ICAR  |accessdate=20 May 2015}}&lt;/ref&gt;
+
+The various Engineering colleges in the district include [[St. Joseph Engineering College]], [[KVG College of Engineering]], [[Mangalore Institute of Technology &amp; Engineering]], [[Canara Engineering College]], [[P A College of Engineering]], [[Srinivas Group of College|Srinivas Institute of Technology]], Srinivas School of Engineering, Vivekananda College of Engineering &amp; Technology, Shree Devi Institute of Technology, Alvas Institute of Engineering &amp; Technology, Karavali Institute of Technology, Sahyadri College of Engineering &amp; Management, M.V.Shetty Institute of Technology, [[SDM College, Ujire|SDM Institute of Technology]], [[Bearys Institute of Technology]] and Prasanna College of Engineering &amp; Technology.&lt;ref&gt;{{cite web |url= http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/colleges-around-mangalore-join-hands-for-campus-placements/article2911958.ece |title=The Hindu : Karnataka / Mangalore News : Colleges around Mangalore join hands for Campus Placements  |work=hindu.com  |accessdate=14 May 2015 | publisher=The Hindu}}&lt;/ref&gt;
+
+The various Medical colleges in the district include [[A J Institute of Medical Science]], [[Father Muller Medical College]], [[KS Hegde Medical Academy]], [[Kasturba Medical College]], [[Srinivas Institute of Medical Sciences and Research Centre]], Yenepoya Medical College &amp; Research Institute and KVG Medical College. [[Manipal College of Dental Sciences Mangalore]], A B Shetty Memorial Institute of Dental Sciences, A J Institute of Dental Sciences, Yenepoya Dental College &amp; Research Institute and Srinivas Institute of Dental Sciences are some of the Dental colleges.&lt;ref&gt;{{cite web |url= http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/dakshina-kannada-to-get-five-hospitals/article1807665.ece |title=Dakshina Kannada to get five hospitals  |work=hindu.com  |accessdate=23 May 2015 | publisher=The Hindu}}&lt;/ref&gt;
+
+== Cultures, traditions and rituals ==
+[[File:yakshagana1.jpg|thumb|right|Yakshagana stage]]
+
+Even today, most people of the district follow the traditions, customs and rituals.&lt;ref&gt;{{cite web |url=http://shodhganga.inflibnet.ac.in:8080/jspui/bitstream/10603/18567/15/15_chapter%203.pdf |title= Chapter Three - Village:Land Culture and Ecology |accessdate= 20 May 2015 |publisher=Shodhganga}}&lt;/ref&gt; The district has many temples of Hindu gods and goddesses, which are ancient and have deep spiritualism attached to them.&lt;ref name=&quot;pilgrimage&quot;&gt;{{cite web| url = http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf| title = Pilgrimage to Temples in Dakshina Kannada| accessdate = 22 February 2015| author= Tamarapu Sampath Kumaran}}&lt;/ref&gt; The people of Dakshina Kannada worship the serpent god ([[Murukan|Subramanya]]).&lt;ref name=&quot;shiva&quot;&gt;{{cite web |url=http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/hundreds-of-devotees-throng-shiva-temples-in-dakshina-kannada/article361754.ece |title= Hundreds of devotes throng Shiva temples in Dakshina Kannada|accessdate= 25 May 2015 |date=24 February 2009|publisher=The Hindu}}&lt;/ref&gt;  According to legend, the district was reclaimed by [[Parashurama]] from the sea.&lt;ref&gt;{{cite web |url=http://www.icicihfc.com/property_pdfs/manglore-report.pdf |title= History of Mangalore|accessdate= 20 May 2015 |publisher=ICICI}}&lt;/ref&gt; ''[[Nagaradhane]]'' or ''Snake worship'' is practiced according to the popular belief of the ''[[Nāga|Naga Devatha]]'' to go underground and guard the species on the top.&lt;ref&gt;{{cite web |url=http://mangalorean.com/news.php?newstype=broadcast&amp;broadcastid=50662 |title= Nagarapanchami Naadige Doddadu |accessdate= 28 January 2008 |publisher=Mangalorean.Com}}&lt;/ref&gt; Rituals such as [[Bhuta Kola]] are performed to satisfy the spirits.&lt;ref name=&quot;pilgrimage&quot;&gt;{{cite web| url = http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf| title = Pilgrimage to Temples in Dakshina Kannada| accessdate = 22 February 2015| author= Tamarapu Sampath Kumaran}}&lt;/ref&gt; [[Kambla]], a form of buffalo race on muddy track in the paddy field, is organised in the 16 sites across the district.&lt;ref&gt;A Panorama of Indian Culture: Professor A. Sreedhara Menon Felicitation Volume - K. K. Kusuman - Mittal Publications, 1990 - p.127-128&quot;[https://books.google.com/books?id=z4JqgSUSXDsC&amp;pg=PA128&amp;dq=deities+propitiated+through+cock-sacrifice&amp;hl=en&amp;sa=X&amp;ei=kYDTT4PiL4rc9ATF96XhAw&amp;ved=0CDUQ6AEwAA#v=onepage&amp;q=cock&amp;f=false]&quot;&lt;/ref&gt; [[cockfighting|Cock fight]] (Kori Katta in Tulu) is another past time of the rural agrarian people.&lt;ref&gt;{{cite news|url=http://www.hindu.com/mp/2006/12/09/stories/2006120901650100.htm |title=Colours of the season |accessdate=9 July 2008 |date=9 December 2006 |publisher=''[[The Hindu]]'' |deadurl=unfit |archiveurl=http://www.webcitation.org/67GsuDUce |archivedate=28 April 2012 }}&lt;/ref&gt;
+
+[[Yakshagana]] is the popular folk art of this district.&lt;ref name=&quot;yaksha1&quot;&gt;{{cite news |url=http://www.thehindu.com/news/national/karnataka/yakshagana-sapthaha-to-begin-at-ujire-from-monday/article7216447.ece |title= Yakshagana sapthaha to begin at Ujire from Monday |accessdate=25 May 2015 |date=17 May 2015 |publisher=''[[The Hindu]]''}}&lt;/ref&gt; The [[Yakshagana]] is a night-long dance and drama performance practiced in Tulu Nadu with great fanfare.&lt;ref&gt;{{cite web
+|url = http://www.szcc.tn.nic.in/07_folktheatre/karnataka/Yakshagana/yakshagana.html
+|title =  Yakshagana
+|accessdate = 7 December 2007
+|publisher = SZCC, Tamil Nadu. |archiveurl = http://web.archive.org/web/20070817224137/http://www.szcc.tn.nic.in/07_folktheatre/karnataka/Yakshagana/yakshagana.html &lt;!-- Bot retrieved archive --&gt; |archivedate = 17 August 2007}}&lt;/ref&gt;&lt;ref&gt;{{cite book
+  | last = Plunkett
+  | first = Richard
+  | title = South India
+  | publisher = Lonely Planet
+  | year = 2001
+  | location =
+  | page = 53
+  | url = https://books.google.com/books?id=JmL9KqczbRYC&amp;pg=PA53&amp;lpg=PA53&amp;dq=yakshagana+unique#PPA53,M1
+  | doi =
+  | isbn = 1-86450-161-8}}&lt;/ref&gt; [[Hulivesha|Pilivesha]] (Tiger dance) is a unique form of folk dance in the region fascinating the young and the old alike, which is performed during [[Mysore Dasara|Dasara]] and [[Krishna Janmashtami]].&lt;ref&gt;{{cite news
+|url = http://articles.timesofindia.indiatimes.com/2001-10-26/bangalore/27235282_1_tigers-pai-skin
+|date = 26 October 2001
+|title = Human `tigers' face threat to health
+|accessdate = 7 December 2007
+|publisher = Times of India
+|first1=Stanley G
+|last1=Pinto}}&lt;/ref&gt; Karadi Vesha (Bear Dance) is another popular dance performed during [[Mysore Dasara|Dasara]].&lt;ref name=&quot;DAIJI&quot;&gt;{{cite web|url=http://www.daijiworld.com/chan/exclusive_arch.asp?ex_id=726 |title=What's in a Name? |accessdate=4 March 2008 |author=Stephen D'Souza |publisher=daijiworld.com |deadurl=yes |archiveurl=http://www.webcitation.org/65ESWCvkF |archivedate=5 February 2012 }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://dspace.iimk.ac.in/bitstream/2259/598/1/530-542.pdf |title= Tourism potentialities of Dakshina Kannada - A study with reference to Mangalore |accessdate= 22 February 2015}}&lt;/ref&gt; The people of Dakshina Kannada also celebrate traditional Hindu festivals like Yugadi ([[Ugadi]]), [[Krishna Janmashtami]], [[Ganesha Chaturthi]], [[Navaratri]] ([[Navratri|Dasara]]), [[Deepavali]], Ati Hunime etc.&lt;ref name=&quot;pilgrimage&quot;&gt;{{cite web| url = http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf| title = Pilgrimage to Temples in Dakshina Kannada| accessdate = 22 February 2015| author= Tamarapu Sampath Kumaran}}&lt;/ref&gt;
+
+== Transport ==
+[[File:Mangalore Airport airside.jpg|thumb|left|[[Jet Airways]] at the [[Mangalore International Airport (India)|Mangalore Airport]]]]
+In Dakshina Kannada bus services are run by private players and the state-run [[Karnataka State Road Transport Corporation|KSRTC]].&lt;ref&gt;{{cite web |url=http://timesofindia.indiatimes.com/city/bangalore/Wheels-of-change-turn-Karnataka-State-Road-Transport-Corporation-into-a-winner/articleshow/15085055.cms|title= Wheels of change turn Karnataka State Transport Corporation into winner|accessdate= 1 May 2014 |publisher=timesofindia}}&lt;/ref&gt; The district had public limited  (public listed) companies running transport business even before the independence of India in 1947.&lt;ref&gt;{{cite web |url=http://www.canarasprings.in/?page_id=296|title= The Beginning|accessdate= 1 May 2014 |publisher=canarasprings.in}}&lt;/ref&gt;
+
+The district has four national highways connecting parts of Karnataka and India. [[National Highway 17 (India)(old numbering)|NH-17 (now NH-66)]] connects the district with [[Udupi]], [[Karwar]], [[Mumbai]], [[Goa]] and [[Kochi]]. [[National Highway 13 (India)(old numbering)|NH-13 (now NH-52)]] connects [[Sholapur]] in [[Maharashtra]] with Dakshina Kannada. [[National Highway 48 (India)(old numbering)|NH-48 (now NH-75)]] connects the district with Bengaluru, [[Kunigal]], Hassan and [[Sakleshpura]].&lt;ref&gt;{{cite web
+ |url=http://www.nhai.org/Doc/project-offer/Highways.pdf 
+ |title=NH wise Details of NH in respect of Stretches entrusted to NHAI 
+ |format=PDF 
+ |accessdate=4 July 2008 
+ |publisher=[[National Highways Authority of India]] (NHAI) 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20090225142615/http://www.nhai.org/Doc/project-offer/Highways.pdf 
+ |archivedate=25 February 2009 
+}}&lt;/ref&gt; Recently the state highway connecting Mangalore to [[Mudigere]] was declared as National Highway-234. The [[National Highway 234 (India)(old numbering)|NH-234]] connects Mangalore to [[Viluppuram]] in [[Tamil Nadu]] via [[Charmadi]], [[Mudigere]], [[Belur]], [[Halebeedu]], [[Chintamani, Karnataka|Chintamani]] and [[Vellore]]. Major ghat sections in Dakshina Kannada include [[Shiradi|Shiradi Ghat]] ([[Nelliyadi|Nelyadi]] to [[Sakleshpura]]), Charmadi Ghat ([[Charmadi]] to [[Kottigehara]]), Sampaje Ghat ([[Sampaje]] to [[Madikeri]]) and [[Bisle]] Ghat (Subramanya to [[Sakleshpura]], popularly known as [[Green Route]] by [[Backpacking (wilderness)|trekkers]]).&lt;ref&gt;{{cite web |url=http://www.thehindu.com/news/cities/Mangalore/shiradi-ghat-may-get-a-fourlane-concrete-road/article6593904.ece|title= Shiradi Ghat may get a four-lane concrete road|accessdate= 30 September 2015 |publisher=The Hindu |date=13 November 2014}}&lt;/ref&gt; [[State Highway 88 (Karnataka)|State Highway 88 (SH-88)]] connects Dakshina Kannada to Mysore. It starts at [[Mani, Karnataka|Mani]] and passes through the towns of [[Puttur, Karnataka|Puttur]], [[Sullia]], [[Madikeri]], [[Kushalnagar]] and [[Hunsur]].&lt;ref name=&quot;pwdsh&quot;&gt;{{Cite web|url=http://www.kpwd.gov.in/roads.asp#dsh|title=Details Of State Highways|work=[[Karnataka PWD]] |accessdate=2012-08-19}}&lt;/ref&gt; It ends at [[Mysore]] spanning a total length of {{convert|220|km|mi}}.&lt;ref name=&quot;krdclmbrd&quot;&gt;{{cite web |url=http://krdcl.in/html/District_Details/Mysore/Mysore_details.html |title=WIDENING &amp; IMPROVEMENTS TO MYSORE BANTWAL ROAD (SH 88)|work=KRDCL |accessdate=2012-08-19}}&lt;/ref&gt;
+
+&lt;br&gt;
+{| border=1 align=center style=&quot;border-collapse:collapse&quot;
+|+ '''Highways passing through Dakshina Kannada'''
+! style=&quot;background:#7AC5CD; width:10%&quot; |
+Highway
+! style=&quot;background:#7AC5CD; width:12%;&quot; |
+Starting Point
+! style=&quot;background:#7AC5CD; width:15%;&quot; |
+Ending Point
+|-
+| align=&quot;center&quot; style=&quot;height:50px&quot; | '''[[National Highway 17 (India)(old numbering)|National Highway 66 (previously NH 17)]]'''
+| align=&quot;center&quot; style=&quot;height:50px&quot; |[[Panvel|Panvel, Maharashtra]]
+| align=&quot;center&quot; style=&quot;height:50px&quot; | [[Edapally|Edapally, Kerala]]
+|-
+| align=&quot;center&quot; style=&quot;background:lemonchiffon;height:50px&quot; | '''[[National Highway 48 (India)(old numbering)|National Highway 75 (previously NH 48)]]'''
+| align=&quot;center&quot; style=&quot;background:lemonchiffon;height:50px&quot; |[[Mangaluru]]
+| align=&quot;center&quot; style=&quot;background:lemonchiffon;height:50px&quot; | [[Bengaluru]]
+|-
+| align=&quot;center&quot; style=&quot;height:50px&quot; | '''[[National Highway 13 (India)(old numbering)|National Highway 52 (previously NH 13)]]'''
+| align=&quot;center&quot; style=&quot;height:50px&quot; |[[Mangaluru]]
+| align=&quot;center&quot; style=&quot;height:50px&quot; | [[Sholapur|Sholapur, Maharashtra]]
+|-
+| align=&quot;center&quot; style=&quot;background:lemonchiffon;height:50px&quot; | '''[[National Highway 234 (India)(old numbering)|National Highway 234]]'''
+| align=&quot;center&quot; style=&quot;background:lemonchiffon;height:50px&quot; |[[Mangaluru]]
+| align=&quot;center&quot; style=&quot;background:lemonchiffon;height:50px&quot; | [[Viluppuram|Viluppuram, Tamil Nadu]]
+|-
+| align=&quot;center&quot; style=&quot;height:50px&quot; | '''[[State Highway 88 (Karnataka)|State Highway 88]]'''
+| align=&quot;center&quot; style=&quot;height:50px&quot; |[[Mani, Karnataka|Mani]]
+| align=&quot;center&quot; style=&quot;height:50px&quot; | [[Mysuru]]
+|}
+&lt;br&gt;
+In 1907, the [[Southern Railway zone|Southern Railway]] connected Mangalore with [[Kozhikode|Calicut (Kozhikode)]] along the coastline.&lt;ref&gt;{{cite web |url=http://www.thehindu.com/todays-paper/tp-national/railways-cross-a-milestone/article748488.ece |title=Railways cross a milestone |accessdate= 13 June 2015 |date=12 April 2010 |publisher=The Hindu}}&lt;/ref&gt; This railway line helped connect the district with other places of the Madras presidency during the [[Colonial India|colonial rule]].&lt;ref&gt;{{cite web |url=http://shodhganga.inflibnet.ac.in/bitstream/10603/12705/10/10_chapter%202.pdf|title= Chapter II: Origin and Development of Southern Railway |accessdate= 20 May 2015 |publisher=Shodhganga}}&lt;/ref&gt; The [[Konkan Railway]] (1998) connects Dakshina Kannada with [[Maharashtra]], [[Goa]], [[Gujarat]], [[Delhi]], [[Rajasthan]] and [[Kerala]] by train.&lt;ref name=&quot;konkan-rail&quot;&gt;{{cite web|url= http://www.unep.org/Transport/lowcarbon/Pdf's/ImpactAssessment.pdf|title=A case study of Konkan Railways |accessdate=25 May 2015|publisher=UNEP - IIM Ahmedabad}}&lt;/ref&gt; There are direct trains from Mangalore to Mumbai, [[Thane]], [[Chennai]], Goa and [[Trivandrum]].&lt;ref&gt;{{cite web|url= http://www.thehindu.com/news/cities/Chennai/article2387166.ece
+|title=Southern Railway to operate special trains|date= 23 August 2011
+|accessdate=15 December 2011
+|publisher=[[The Hindu]]}}&lt;/ref&gt; Train services operate daily to Bangalore via Hassan and [[Kukke Subramanya]] after the conversion from [[metre gauge]] to [[broad gauge]] track.&lt;ref&gt;{{cite news| url=http://www.hindu.com/2007/11/24/stories/2007112461660400.htm| date = 24 November 2007|title = Bangalore-Mangalore train service from December 8| accessdate =2 October 2008| publisher =''[[The Hindu]]''}}&lt;/ref&gt;
+
+The Dakshina Kannada district has a [[seaport]] at [[Panambur]]. The seaport managed by New Mangalore Port Trust handles cargo, timber, petroleum and coffee exports.&lt;ref&gt;{{cite web| url = http://www.newmangalore-port.com/default.asp?channelid=2759&amp;city=PORT | title=New Mangalore Port Trust (NMPT) |publisher=[[New Mangalore Port]] | accessdate=13 October 2006}}&lt;/ref&gt; It is one of the [[Ports in India|major seaports]] of India.&lt;ref name=&quot;indian-seaports&quot;&gt;{{cite web| url = http://shodhganga.inflibnet.ac.in/bitstream/10603/3984/8/08_chapter%201.pdf | title=Chapter 1 - Economic development through ports |publisher=Shodhganga | accessdate=25 May 2015}}&lt;/ref&gt;
+
+The district is connected by air through the [[Mangalore International Airport (India)|Mangalore Airport]] at [[Bajpe]]. Airlines such as [[Jet Airways]], [[Air India]] and [[SpiceJet]] offer daily flights to national and international destinations near the [[Persian Gulf]].&lt;ref&gt;{{cite web |url=http://www.aai.aero/allAirports/mangalore_generalinfo.jsp|title= Airports Authority of India|accessdate= 31 January 2015 |publisher=Airports Authority of India}}&lt;/ref&gt;
+
+== Historic sites ==
+The following are the historic places to visit in Dakshina Kannada:&lt;ref name=&quot;dist-profile&quot;&gt;{{cite web| url = http://pppinindia.com/pdf/karnataka/District%20Profiles/Dakshin%20Kannada.pdf | title = Dakshina Kannada District Profile | accessdate =22 February 2015
+| publisher = Government of Karnataka}}&lt;/ref&gt;&lt;ref&gt;http://mangalore.adseva.in/dakshina-kannada-tourism&lt;/ref&gt;
+[[File:Dharmasthala Temple.jpg|thumb|right|Sri Manjunatha Temple at [[Dharmasthala]]]]
+[[File:Kukke Subramanya Swami.jpg|thumb|right|[[Kukke Subramanya]] Temple]]
+[[File:Milagres Hampankatta.jpg|thumb|right|[[Milagres Church (Mangalore)|Milagres Church]]]]
+[[File:Masjid Thaqwa.jpg|thumb|right|Masjid Thaqwa Pumpwell at [[Mangaluru]]]]
+* [[Mangaladevi Temple]] : Mangalore was named after the Hindu deity Mangaladevi.&lt;ref name=&quot;pilgrimage&quot;&gt;{{cite web| url = http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf| title = Pilgrimage to Temples in Dakshina Kannada| accessdate = 22 February 2015| author= Tamarapu Sampath Kumaran}}&lt;/ref&gt;
+* [[Venur]] : Monolithic [[Venur#Bahubali Statue|Bahubali statue]].&lt;ref name=&quot;pilgrimage&quot;&gt;{{cite web| url = http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf| title = Pilgrimage to Temples in Dakshina Kannada| accessdate = 22 February 2015| author= Tamarapu Sampath Kumaran}}&lt;/ref&gt;
+* [[Kadri, Mangalore|Kadri]] : Temple of [[Kadri Manjunath Temple|Lord Sri Manjunatha]].&lt;ref name=&quot;pilgrimage&quot;&gt;{{cite web| url = http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf| title = Pilgrimage to Temples in Dakshina Kannada| accessdate = 22 February 2015| author= Tamarapu Sampath Kumaran}}&lt;/ref&gt;
+* [http://www.amrutheshwaratemple.in Shree Amrutheshwara Temple], Vamanjoor: Temple of [[Lord Shiva]].
+* [[Moodabidri]] : Site of the ancient Jain temples and the [[Bhattaraka]] seat.&lt;ref name=&quot;pilgrimage&quot;&gt;{{cite web| url = http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf| title = Pilgrimage to Temples in Dakshina Kannada| accessdate = 22 February 2015| author= Tamarapu Sampath Kumaran}}&lt;/ref&gt;
+* [[Krishnapura matha]] : One of the matha (monastery) belonging to [[ashta matha]] of Udupi.
+* [[Dharmasthala]] : Temple of Lord [[Dharmasthala Temple|Sri Manjunatheshwara]] is located here.&lt;ref name=&quot;pilgrimage&quot;&gt;{{cite web| url = http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf| title = Pilgrimage to Temples in Dakshina Kannada| accessdate = 22 February 2015| author= Tamarapu Sampath Kumaran}}&lt;/ref&gt;
+* [[Kateel]] : Temple of Goddess Sri Durga Parameshwari.&lt;ref name=&quot;pilgrimage&quot;&gt;{{cite web| url = http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf| title = Pilgrimage to Temples in Dakshina Kannada| accessdate = 22 February 2015| author= Tamarapu Sampath Kumaran}}&lt;/ref&gt;
+* [[Kudroli]] : Gokarnanatheshwars Temple.&lt;ref name=&quot;pilgrimage&quot;&gt;{{cite web| url = http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf| title = Pilgrimage to Temples in Dakshina Kannada| accessdate = 22 February 2015| author= Tamarapu Sampath Kumaran}}&lt;/ref&gt;
+* [[Mundkur]] : Sri Durga Parameshwari Temple.&lt;ref name=&quot;pilgrimage&quot;&gt;{{cite web| url = http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf| title = Pilgrimage to Temples in Dakshina Kannada| accessdate = 22 February 2015| author= Tamarapu Sampath Kumaran}}&lt;/ref&gt;
+* Karinjeshwara Temple : Temple of Lord Shiva Parvati on a huge rock.&lt;ref name=&quot;pilgrimage&quot;&gt;{{cite web| url = http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf| title = Pilgrimage to Temples in Dakshina Kannada| accessdate = 22 February 2015| author= Tamarapu Sampath Kumaran}}&lt;/ref&gt;
+* [[Ullal]] : Known for the Ullal beach and Someshwara beach.&lt;ref name=&quot;tourism-pot&quot;&gt;{{cite web |url=http://dspace.iimk.ac.in/bitstream/2259/598/1/530-542.pdf |title= Tourism potentialities of Dakshina Kannada - A study with reference to Mangalore |accessdate= 22 February 2015}}&lt;/ref&gt;
+* [[Kukke Subramanya]] : Temple of the serpent Lord Subramanya is located here.&lt;ref name=&quot;pilgrimage&quot;&gt;{{cite web| url = http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf| title = Pilgrimage to Temples in Dakshina Kannada| accessdate = 22 February 2015| author= Tamarapu Sampath Kumaran}}&lt;/ref&gt;
+* [[Mulki, India|Mulki]] : Durgaparameshwari Temple.&lt;ref name=&quot;pilgrimage&quot;&gt;{{cite web| url = http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf| title = Pilgrimage to Temples in Dakshina Kannada| accessdate = 22 February 2015| author= Tamarapu Sampath Kumaran}}&lt;/ref&gt;
+* [[St Aloysius Chapel]], Mangalore.&lt;ref name=&quot;tourism-pot&quot;&gt;{{cite web |url=http://dspace.iimk.ac.in/bitstream/2259/598/1/530-542.pdf |title= Tourism potentialities of Dakshina Kannada - A study with reference to Mangalore |accessdate= 22 February 2015}}&lt;/ref&gt;
+* [[Milagres Church (Mangalore)|Milagres Church]], Mangalore&lt;ref name=&quot;tourism-pot&quot;&gt;{{cite web |url=http://dspace.iimk.ac.in/bitstream/2259/598/1/530-542.pdf |title= Tourism potentialities of Dakshina Kannada - A study with reference to Mangalore |accessdate= 22 February 2015}}&lt;/ref&gt;
+* Sayyed Madani Mosque and Dargah, [[Ullal]].&lt;ref name=&quot;tourism-pot&quot;&gt;{{cite web |url=http://dspace.iimk.ac.in/bitstream/2259/598/1/530-542.pdf |title= Tourism potentialities of Dakshina Kannada - A study with reference to Mangalore |accessdate= 22 February 2015}}&lt;/ref&gt;
+* [[Sultan Battery (Mangalore)|Sultan Battery]], Mangalore&lt;ref name=&quot;tourism-pot&quot;&gt;{{cite web |url=http://dspace.iimk.ac.in/bitstream/2259/598/1/530-542.pdf |title= Tourism potentialities of Dakshina Kannada - A study with reference to Mangalore |accessdate= 22 February 2015}}&lt;/ref&gt;
+* [[Puttur, Karnataka|Puttur]] : Temple of Lord Sri Mahalingeshwara is located here.&lt;ref name=&quot;pilgrimage&quot;&gt;{{cite web| url = http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf| title = Pilgrimage to Temples in Dakshina Kannada| accessdate = 22 February 2015| author= Tamarapu Sampath Kumaran}}&lt;/ref&gt;
+* [[Vittal]] : Temple of the Panchalingeshwara temple is located here.
+* [[Uppinangadi]] : Sahasralingeshwara temple.&lt;ref name=&quot;pilgrimage&quot;&gt;{{cite web| url = http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf| title = Pilgrimage to Temples in Dakshina Kannada| accessdate = 22 February 2015| author= Tamarapu Sampath Kumaran}}&lt;/ref&gt;
+* Kepu, Ananthadi, Balnadu : Known for goddess Ullalthi temple and its unique heritage.&lt;ref name=&quot;tourism-pot&quot;&gt;{{cite web |url=http://dspace.iimk.ac.in/bitstream/2259/598/1/530-542.pdf |title= Tourism potentialities of Dakshina Kannada - A study with reference to Mangalore |accessdate= 22 February 2015}}&lt;/ref&gt;
+* Somanatheswar Temple : Someshwara, [[Ullal]].&lt;ref name=&quot;pilgrimage&quot;&gt;{{cite web| url = http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf| title = Pilgrimage to Temples in Dakshina Kannada| accessdate = 22 February 2015| author= Tamarapu Sampath Kumaran}}&lt;/ref&gt;
+* Summer Sand Beach Resort at [[Ullal]].&lt;ref name=&quot;tourism-pot&quot;&gt;{{cite web |url=http://dspace.iimk.ac.in/bitstream/2259/598/1/530-542.pdf |title= Tourism potentialities of Dakshina Kannada - A study with reference to Mangalore |accessdate= 22 February 2015}}&lt;/ref&gt;
+* [[Pilikula Nisargadhama]] : Pilikula, Moodushedde, Mangalore.&lt;ref name=&quot;pilikula&quot;&gt;{{cite web |url=http://www.thehindu.com/news/cities/Mangalore/new-arrivals-at-pilikula-botanical-museum/article7128558.ece |title= New arrivals at Pilikula Botanical Museum|accessdate= 23 May 2015|date= 22 April 2015|publisher=The Hindu}}&lt;/ref&gt;
+* [[Kudupu]] temple : Kudupu,Mangalore.&lt;ref name=&quot;tourism-pot&quot;&gt;{{cite web |url=http://dspace.iimk.ac.in/bitstream/2259/598/1/530-542.pdf |title= Tourism potentialities of Dakshina Kannada - A study with reference to Mangalore |accessdate= 22 February 2015}}&lt;/ref&gt;
+*Kumbladi Balasubrahmanya.&lt;ref name=&quot;tourism-pot&quot;&gt;{{cite web |url=http://dspace.iimk.ac.in/bitstream/2259/598/1/530-542.pdf |title= Tourism potentialities of Dakshina Kannada - A study with reference to Mangalore |accessdate= 22 February 2015}}&lt;/ref&gt;
+* Charvaka Kapileshwara Devasthaana.&lt;ref name=&quot;tourism-pot&quot;&gt;{{cite web |url=http://dspace.iimk.ac.in/bitstream/2259/598/1/530-542.pdf |title= Tourism potentialities of Dakshina Kannada - A study with reference to Mangalore |accessdate= 22 February 2015}}&lt;/ref&gt;
+* Shri Kshetra Daipila.&lt;ref name=&quot;tourism-pot&quot;&gt;{{cite web |url=http://dspace.iimk.ac.in/bitstream/2259/598/1/530-542.pdf |title= Tourism potentialities of Dakshina Kannada - A study with reference to Mangalore |accessdate= 22 February 2015}}&lt;/ref&gt;
+* Masjidu Thaqwa Pumpwell Mangaluru.&lt;ref&gt;http://www.daijiworld.com/news/news_disp.asp?n_id=43286&amp;n_tit=Mangalore%3A+Newly+Constructed+%27Takwa+Masjid%27+Inaugurated+at+Pumpwell Masjid Thaqwa Pumpwell Mangaluru&lt;/ref&gt;
+* Bellye Palli (Big Masjid) Bunder Mangaluru.&lt;ref name=&quot;tourism-pot&quot;&gt;{{cite web |url=http://dspace.iimk.ac.in/bitstream/2259/598/1/530-542.pdf |title= Tourism potentialities of Dakshina Kannada - A study with reference to Mangalore |accessdate= 22 February 2015}}&lt;/ref&gt;
+
+==Climate==
+Dakshina Kannada features a [[Tropical monsoon climate|Tropical Monsoon climate (Am)]] according to the [[Köppen climate classification]].&lt;ref name= CDO-M2&gt;{{cite web| url = http://en.climate-data.org/location/24095/ | title = Climate Table of Moodabidri, Karnataka, India | accessdate =31 January 2015
+| publisher = Climate-Data.org}}&lt;/ref&gt; The average annual rainfall in Dakshina Kannada is {{convert|4030|mm|in|0}}.&lt;ref name=&quot;dist-profile&quot;&gt;{{cite web| url = http://pppinindia.com/pdf/karnataka/District%20Profiles/Dakshin%20Kannada.pdf | title = Dakshina Kannada District Profile | accessdate =22 February 2015
+| publisher = Government of Karnataka}}&lt;/ref&gt; The rainfall varies from {{convert|3796.9|mm|in|0}} at the [[Mangalore]] coast, {{convert|4530|mm|in|0}} at [[Moodabidri]] and {{convert|4329|mm|in|0}} at [[Puttur, Karnataka|Puttur]] near the [[Western Ghats]].&lt;ref name= CDO&gt;{{cite web| url = http://en.climate-data.org/location/24087/ | title = Climate Table of Puttur, Karnataka, India | accessdate =31 January 2015
+| publisher = Climate-Data.org}}&lt;/ref&gt; The average humidity is 75% and peaks in July at 89%.&lt;ref name= &quot;Weather-And-Climate&quot;&gt;{{cite web
+| url = http://www.weather-and-climate.com/average-monthly-Humidity-perc,Mangalore,India
+| title = Average humidity over the year for Mangalore,India
+| accessdate = 11 December 2014
+| publisher = Weather-And-Climate}}&lt;/ref&gt;
+{{Weather box
+| location           = Mangalore, India
+| metric first       = yes
+| single line        = y
+| Jan record high C = 36.3
+| Feb record high C = 37.8
+| Mar record high C = 38.1
+| Apr record high C = 36.6
+| May record high C = 36.7
+| Jun record high C = 34.4
+| Jul record high C = 35.5
+| Aug record high C = 32.2
+| Sep record high C = 34.6
+| Oct record high C = 35.0
+| Nov record high C = 35.6
+| Dec record high C = 35.6
+
+| Jan high C = 32.8
+| Feb high C = 33.0
+| Mar high C = 33.5
+| Apr high C = 34.0
+| May high C = 33.3
+| Jun high C = 29.7
+| Jul high C = 28.2
+| Aug high C = 28.4
+| Sep high C = 29.5
+| Oct high C = 30.9
+| Nov high C = 32.3
+| Dec high C = 32.8
+| year high C = 31.5
+
+| Jan low C = 20.8
+| Feb low C = 21.8
+| Mar low C = 23.6
+| Apr low C = 25.0
+| May low C = 25.1
+| Jun low C = 23.4
+| Jul low C = 22.9
+| Aug low C = 23.0
+| Sep low C = 23.1
+| Oct low C = 23.1
+| Nov low C = 22.4
+| Dec low C = 21.2
+| year low C = 22.9
+
+| Jan record low C = 16.1
+| Feb record low C = 17.3
+| Mar record low C = 18.8
+| Apr record low C = 19.7
+| May record low C = 20.4
+| Jun record low C = 20.5
+| Jul record low C = 19.8
+| Aug record low C = 19.4
+| Sep record low C = 20.2
+| Oct record low C = 19.1
+| Nov record low C = 15.9
+| Dec record low C = 16.1
+| Jan rain mm = 1.1
+| Feb rain mm = 0.2
+| Mar rain mm = 2.9
+| Apr rain mm = 24.4
+| May rain mm = 183.2
+| Jun rain mm = 1027.2
+| Jul rain mm = 1200.4
+| Aug rain mm = 787.3
+| Sep rain mm = 292.1
+| Oct rain mm = 190.8
+| Nov rain mm = 70.9
+| Dec rain mm = 16.4
+| year rain mm = 3796.9
+
+| Jan rain days = 0.2
+| Feb rain days = 0
+| Mar rain days = 0.3
+| Apr rain days = 1.6
+| May rain days = 7
+| Jun rain days = 23.5
+| Jul rain days = 27.4
+| Aug rain days = 24.9
+| Sep rain days = 13.7
+| Oct rain days = 9.1
+| Nov rain days = 3.6
+| Dec rain days = 0.6
+
+| Jan sun = 313
+| Feb sun = 296
+| Mar sun = 299
+| Apr sun = 292
+| May sun = 276
+| Jun sun = 119
+| Jul sun = 94
+| Aug sun = 133
+| Sep sun = 178
+| Oct sun = 226
+| Nov sun = 271
+| Dec sun = 292
+
+| Jan humidity = 62
+| Feb humidity = 66
+| Mar humidity = 68
+| Apr humidity = 71
+| May humidity = 71
+| Jun humidity = 87
+| Jul humidity = 89
+| Aug humidity = 88
+| Sep humidity = 85
+| Oct humidity = 79
+| Nov humidity = 73
+| Dec humidity = 65
+
+| source 1 = India Meteorological Department – Monthly mean maximum &amp; minimum temperature and total rainfall&lt;ref name= IMD-Temp&gt;{{cite web| url = http://www.imd.gov.in/ims/pdf/climateimp.pdf#42 | title = IMD – Monthly mean maximum &amp; minimum temperature and total rainfall based upon 1901 – 2000 data | accessdate =24 December 2014
+| publisher = India Meteorological Department}}&lt;/ref&gt;
+| source 2 = Weather-And-Climate (Humidity and Sunshine hours)&lt;ref name= Weather-And-Climate &gt;{{cite web
+| url = http://www.weather-and-climate.com/average-monthly-Humidity-perc,Mangalore,India
+| title = Average humidity over the year for Mangalore,India
+| accessdate = 11 December 2014
+| publisher = Weather-And-Climate}}&lt;/ref&gt;&lt;ref&gt;{{Cite web |url=http://www.weather-and-climate.com/average-monthly-hours-Sunshine,Mangalore,India |title=Average monthly hours of sunshine over the year for Mangalore,India|publisher=Weather-And-Climate |accessdate=January 30, 2015 }}&lt;/ref&gt; 
+}}
+
+&lt;br&gt;
+{{Weather box
+|location = [[Puttur, Karnataka|Puttur, India]]
+|metric first = yes
+|single line = yes
+
+|Jan high C = 31.3
+|Feb high C = 31.8
+|Mar high C = 32.7
+|Apr high C = 33.1
+|May high C = 32.4
+|Jun high C = 29.3
+|Jul high C = 28.0
+|Aug high C = 28.2
+|Sep high C = 28.8
+|Oct high C = 29.9
+|Nov high C = 30.8
+|Dec high C = 31.2
+|year high C =
+
+|Jan low C = 20.8
+|Feb low C = 22.0
+|Mar low C = 23.6
+|Apr low C = 25.2
+|May low C = 25.2
+|Jun low C = 23.5
+|Jul low C = 23.0
+|Aug low C = 23.1
+|Sep low C = 23.0
+|Oct low C = 23.2
+|Nov low C = 22.4
+|Dec low C = 21.0
+|year low C =
+
+|Jan rain mm = 0
+|Feb rain mm = 1
+|Mar rain mm = 6
+|Apr rain mm = 63
+|May rain mm = 208
+|Jun rain mm = 938
+|Jul rain mm = 1489
+|Aug rain mm = 858
+|Sep rain mm = 386
+|Oct rain mm = 277
+|Nov rain mm = 81
+|Dec rain mm = 22
+|year rain mm =
+
+|source  = Climate-Data.org - Climate Table of Puttur, Karnataka, India&lt;ref name= CDO&gt;{{cite web| url = http://en.climate-data.org/location/24087/ | title = Climate Table of Puttur, Karnataka, India | accessdate =31 January 2015
+| publisher = Climate-Data.org}}&lt;/ref&gt;
+
+}}
+
+== Agriculture ==
+[[File:Rice-paddy-cult-mangalore-thulunad-india.jpg|thumb|left|[[Paddy field|Paddy]] cultivation in Dakshina Kannada]]
+[[File:Arecanuttrees.jpg|thumb|right|[[Arecanut]] plantation of rural Dakshina Kannada]]
+[[Agriculture]] which was once a major occupation of the people of Dakshina Kannada, has now taken a back seat because of the influx of money from natives settled in other cities, states and countries.&lt;ref name=&quot;agri1&quot;&gt;{{cite web| url =http://agricoop.nic.in/Agriculture%20contingency%20Plan/KTK/KAR13-DAKSHINA%20KANNADA%2031.03.2011.pdf | title = Agriculture Contingency Plan for District: DAKSHINA KANNADA| accessdate = 31 January 2015| publisher=Agricoop}}&lt;/ref&gt; Significant number of people from this district work in the [[Persian Gulf|Gulf]] ([[Middle East]]) countries and other states of India.&lt;ref name=&quot;dk-gulf&quot;&gt;{{cite web| url =http://provglo.org/sites/default/files/ProGlo_Research_Report_6_Kalyanaraman_and_Koskimaki_Dakshina_Kannada_in_the_Gulf_0.pdf | title = Dakshina Kannada in the Gulf - Research Report No. 6| accessdate = 23 May 2015| publisher=ProGlo|author=Jananie Kalyanaraman|author2=Leah Koskimaki|date=January 2013}}&lt;/ref&gt; [[Farm]]s and fields are being converted into residential plots and commercial (shopping) complexes.&lt;ref name=&quot;paddy-imp&quot;&gt;{{cite web| url =http://timesofindia.indiatimes.com/city/mangaluru/Agriculture-festival-to-look-at-revival-of-paddy-farming-in-Dakshina-Kannada/articleshow/45920992.cms | title = Agricultute festival to look at revival of paddy farming in Dakshina Kannada| accessdate = 25 May 2015| publisher=Times of India}}&lt;/ref&gt; [[Horticulture]] though has made some strides, and measures have been taken to improve the fruit plantation sector.&lt;ref name=&quot;fruits-dk&quot;&gt;{{cite web| url =http://www.thehindu.com/news/cities/Mangalore/clusters-formed-in-dakshina-kannada-to-promote-fruit-plantation-crops/article4030427.ece | title = Clusters formed in Dakshina Kannada to promote fruit plantation crops| accessdate = 25 May 2015| publisher=The Hindu}}&lt;/ref&gt; The main crops of Dakshina Kannada are [[rice|Paddy]], [[Coconut]], [[Arecanut]], [[Black Pepper]], [[Cashew]] and [[Cocoa bean|Cocoa]]. [[Rubber]], [[Banana]] and [[Vanilla]] crops are also cultivated in the Sullia taluk.&lt;ref name=&quot;agri2&quot;&gt;{{cite web| url =http://www.isca.in/IJSS/Archive/v2i1/5.ISCA-IRJSS-2012-078.pdf | title = Contemporary Agriculture Issues from Dakshina Kannada: A Field View| accessdate = 23 May 2015| publisher=International Research Journal of Social Sciences|author=Shannikodi Ashwini|date=January 2013}}&lt;/ref&gt; Rice is generally cultivated three seasons in a year, Karthika or Yenel (May–October), Suggi (October to January) and Kolake (January to April).&lt;ref&gt;{{cite news| url = http://dsal.uchicago.edu/reference/gazetteer/pager.html?objectid=DS405.1.I34_V14_368 | title = South Kanara| accessdate = 4 September 2006| publisher=Digital South Asia Library (DSAL)}}&lt;/ref&gt; [[Urad (bean)|Urad]] or Black gram is grown in some areas during the season of Suggi.&lt;ref&gt;{{cite web| url =http://shodhganga.inflibnet.ac.in:8080/jspui/bitstream/10603/25483/10/10_chapter_03.pdf | title = Chapter 3 - Profile of the study area: Coastal Karnataka | accessdate = 22 February 2015}}&lt;/ref&gt; The [[Karnataka Milk Federation]] has a milk processing plant at [[Kulshekar]] in [[Mangalore]]. This plant processes milk procured from the [[cattle]] owned by farmers of the district.&lt;ref name=&quot;agri1&quot;&gt;{{cite web| url =http://agricoop.nic.in/Agriculture%20contingency%20Plan/KTK/KAR13-DAKSHINA%20KANNADA%2031.03.2011.pdf | title = Agriculture Contingency Plan for District: DAKSHINA KANNADA| accessdate = 31 January 2015| publisher=Agricoop}}&lt;/ref&gt;
+
+== Cuisine ==
+{{Main article|Mangalorean cuisine}}
+
+[[File:Sweet2008.jpg|thumb|right|Malpuri, a sweet from Dakshina Kannada]]
+Some of the well known dishes in this district include [[Kori Rotti]] (dry rice flakes dipped in chicken gravy), Bangude Pulimunchi (spicy sour silver-grey mackerels), Beeja-Manoli Upkari, [[Neer dosa]], Boothai Gasi, Kadubu, Malpuri and [[Patrode]].&lt;ref&gt;{{cite news
+|url=http://www.thehindu.com/thehindu/mp/2005/10/15/stories/2005101503560400.htm |title=Go for the Mangalore diet |accessdate= 5 May 2015 |publisher=''[[The Hindu]]''}}&lt;/ref&gt; In [[Coastal Karnataka]],  the Mangalorean Fish Curry is a popular dish.&lt;ref&gt;{{cite news
+|url=http://www.thehindu.com/todays-paper/tp-features/tp-metroplus/mangalore-fish-curry/article2498790.ece |title=Mangalore Fish Curry |accessdate=25 May 2015 |publisher=''[[The Hindu]]''}}&lt;/ref&gt; The Konkani community's specialities include Daali thoy, Bibbe-upkari (cashew based), Val val, Avnas ambe sasam, Kadgi chakko, Paagila podi, and Chane gashi.&lt;ref name=&quot;konkani-recipe&quot;&gt;{{cite news
+|url=http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/konkani-recipes-delight-visitors-at-festival/article4129152.ece |title=Konkani recipes delight visitors at festival |accessdate= 25 May 2015 |publisher=''[[The Hindu]]''}}&lt;/ref&gt; [[Mangalore bajji]], also known as Golibaje is a popular snack made from [[maida flour|maida]], [[curd]], [[rice flour]], chopped [[onion]], [[coriander]] leaves, [[coconut]], [[jeera]], green [[chile pepper|chillies]], and [[salt]].&lt;ref&gt;{{cite news
+|url=http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/dosas-at-indra-bhavan-have-retained-the-taste/article3298872.ece |title=Dosas at Indra Bhavan have retained the taste |accessdate= 25 May 2015|date=10 April 2012 |publisher=''[[The Hindu]]''}}&lt;/ref&gt; Vegetarian cuisine in Mangalore, also known as [[Udupi cuisine]], is known and liked throughout the state and the coastal region.&lt;ref name=&quot;udupi-cuisine&quot;&gt;{{cite web |url=http://in.rediff.com/election/2004/may/05udupi.htm |title = In Udupi,food is the greatest binder |accessdate= 2009-09-23 |publisher= www.in.rediff.com}}&lt;/ref&gt; Being a coastal district, fish forms the staple diet of most people.&lt;ref&gt;{{cite news
+ |url=http://www.hindu.com/mp/2007/08/11/stories/2007081150880400.htm 
+ |title=Typically home 
+ |accessdate=2015-05-05 
+ |date=2007-08-11 
+ |publisher=''[[The Hindu]]'' 
+ |deadurl=yes 
+ |archiveurl=http://www.webcitation.org/65EU5GBXd 
+ |archivedate=5 February 2012 
+}}&lt;/ref&gt; Mangalorean Catholics' Sanna-Dukra Maas (&quot;Sanna&quot; means [[Idli]] fluffed with toddy or yeast and &quot;Dukra Maas&quot; means [[Pork]]), Pork Bafat, [[Sorpotel]] and the [[Mutton]] [[Biryani]] of the Muslims are well-known dishes.&lt;ref name=&quot;catholic-recipe&quot;&gt;{{cite news
+|url=http://news.nationalpost.com/appetizer/dukra-maas-a-savory-mangalorean-catholic-sunday-ritual |title=Dukra maas: a savory Mangalorean Catholic Sunday ritual|accessdate= 25 May 2015 |publisher=National Post}}&lt;/ref&gt;&lt;ref name=&quot;biryani&quot;&gt;{{cite news
+|url=http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/ramadan-flavours-fill-mangalore-streets/article4907745.ece |title=Ramadan flavors fill Mangalore streets |accessdate= 25 May 2015 |publisher=''[[The Hindu]]''}}&lt;/ref&gt; Pickles such as happala, sandige and puli munchi are unique to Mangalore.&lt;ref name=&quot;DAJ&quot;&gt;{{cite web|url=http://www.daijiworld.com/chan/exclusive_arch.asp?ex_id=726 |title=What's in a Name? |accessdate=2008-03-04 |author=Stephen D'Souza |publisher=Daijiworld Media Pvt Ltd. Mangalore |deadurl=yes |archiveurl=http://www.webcitation.org/65ESWCvkF |archivedate=5 February 2012 }}&lt;/ref&gt;
+
+== Commerce and industry ==
+
+[[File:Mangaluru tiles Home.jpg|thumb|Traditional house in Puttur]]
+[[File:Two men in a boat.jpg|thumb|Fishermen at Sasihitlu, DK]]
+The district along with Udupi district is known as &quot;The Cradle of Indian banking&quot;.&lt;ref name=&quot;GK-Today&quot;&gt;{{cite web
+|url=http://www.gktoday.in/brief-history-of-banking-in-india-2/
+|title=Brief history of banking in India
+|accessdate=10 January 2015
+|publisher=GK Today
+}}&lt;/ref&gt; Major nationalised banks of India such as [[Canara Bank]], [[Corporation Bank]], [[Syndicate Bank]], [[Vijaya Bank]] and private sector [[Karnataka Bank]] evolved from these two districts.&lt;ref name=&quot;Avishkar&quot;&gt;{{cite web
+|url=http://su.digitaluniversity.ac/downloads/9%20_1.pdf
+|title=The Evolution of Banking in India 
+|accessdate=31 January 2015
+|publisher=Avishkar – Solapur University Research Journal, Volume 2, 2012
+
+}}&lt;/ref&gt;
+
+[[File:Mangalore tiled roof 20071228.jpg|thumb|200px|right|Houses with [[Mangalore Tiles]]]]
+Red clay tile ([[Mangalore Tiles]]), [[Cashew]] processing factories and [[Beedi]] industry once flourished in this district.&lt;ref name=&quot;beedi&quot;&gt;{{cite web
+|url=http://www.cghr.org/wordpress/wp-content/uploads/Jha-Estimates-of-the-economic-contributions-of-the-bidi-manufacturing-industry-in-India.pdf
+|title=Estimates of the economic contributions of the bidi manufacturing industry in India
+|accessdate=25 May 2015
+|date=29 March 2014
+}}&lt;/ref&gt; Service sector is booming with the setting up of professional education institutes and information technology related services (IT &amp; ITES).&lt;ref name=&quot;industries-dk&quot;&gt;{{cite web
+|url=http://apjor.com/files/1376587434.pdf
+|title=Status of Small Scale industries in Udupi and Dakshina Kannada Districts of Karnataka State
+|accessdate=23 May 2015
+|date=August 2013
+|author=Bharath V
+|author2=Umesh Maiya
+|publisher=Asia Pacific Journal of Research
+}}&lt;/ref&gt;
+
+Dakshina Kannada district has a per capita income of Rs.2,18,580 which is second only to Bengaluru Urban district.&lt;ref&gt;{{Cite web|url=http://www.thehindu.com/news/cities/bangalore/bengaluru-urban-tops-state-in-per-capita-income-kalaburagi-last/article8376124.ece|title=Bengaluru Urban tops State in per capita income, Kalaburagi last|last=|first=|date=|website=|publisher=|access-date=}}&lt;/ref&gt; Despite ranking 8th in the list of most populous districts in Karnataka, the district is the second largest contributor to the state's GSDP, with a contribution of 5.8% &lt;ref&gt;{{Cite news|url=http://www.thehindu.com/news/cities/bangalore/bengaluru-urban-tops-state-in-per-capita-income-kalaburagi-last/article8376124.ece|title=Bengaluru Urban tops State in per capita income, Kalaburagi last|last=|first=|date=|work=|access-date=|via=}}&lt;/ref&gt; In other words, despite a low population share of 3.4%, the district's share in state GSDP stands at 5.8%.
+
+As the district is on the shore of the Arabian sea, [[fishing]] is one of the major occupation of many people.&lt;ref name=&quot;fishing-occup&quot;&gt;{{cite web
+|url=http://www.thehindubusinessline.com/news/states/8-rise-in-fish-catch-in-udupi-dakshina-kannada/article4791726.ece
+|title=8% rise in fish catch in Udupi, Dakshina Kannada
+|accessdate=25 May 2015
+|date=7 June 2013
+|publisher=The Hindu - Business Line
+}}&lt;/ref&gt; The major fishing places are Bunder (Old harbour), [[Panambur]], [[Surathkal]], [[Kotekar]] and Sasihitlu.&lt;ref name=&quot;fishing-dk&quot;&gt;{{cite web
+|url=http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf
+|title=Environmental movement and the media in Dakshina Kannada
+|accessdate=23 May 2015
+|date=June 2013
+|author=Shrinidhi Adiga
+|author2=D S Poornananda
+|publisher=Global Media Journal – Indian Edition, Sponsored by the University of Calcutta
+}}&lt;/ref&gt;
+
+The major industries in Dakshina Kannada concentrated around Mangalore are [[Mangalore Chemical and Fertilizers]] Ltd. (MCF), [[Kudremukh Iron Ore Company Ltd]]. (KIOCL),&lt;ref name=&quot;kiocl&quot;&gt;{{cite web| url = http://timesofindia.indiatimes.com/city/mangaluru/KIOCL-Mangalore-plant-may-get-iron-ore-from-Iran/articleshow/39633468.cms| date = 4 August 2014| title = KIOCL Mangalore plant may get iron ore from Iran| accessdate = 25 May 2015| publisher= Times of India}}&lt;/ref&gt; The Canara Workshops Limited (manufacturers of Canara Springs) [[Mangalore Refinery and Petrochemicals]] Ltd. (MRPL), [[BASF]], TOTAL GAZ, Bharati Shipyard Limited(BSL) etc.&lt;ref&gt;{{cite web| url = http://www.mrpl.co.in/| date = 31 January 2015| title =  Mangalore Refinery and Petrochemicals Limited| accessdate = 31 January 2015| publisher= MRPL}}&lt;/ref&gt; There is a chocolate manufacturing plant at Puttur run by [[CAMPCO]].&lt;ref&gt;{{cite web| url = http://www.campco.org/index.php/chocolate| date = 31 January 2015| title =  The CAMPCO Ltd.| accessdate = 31 January 2015| publisher= [[Campco]]| location=Puttur, Karnataka, India}}&lt;/ref&gt;
+
+Major information technology and outsourcing companies have started locating their facilities in Mangalore namely [[Infosys]], Lasersoft infosystems Ltd., [[Mphasis]] BPO, etc.&lt;ref&gt;{{cite news| url = http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/infosys-begins-work-on-its-second-campus-near-mangalore/article3071028.ece| date = 5 September 2006| title = Infosys begins work on its second campus near Mangalore| accessdate = 25 May 2015| publisher= [[The Hindu]]}}&lt;/ref&gt; The Karnataka government has planned to develop IT parks across the state including Mangalore.&lt;ref&gt;{{cite news| url = http://www.business-standard.com/article/economy-policy/karnataka-govt-to-develop-it-parks-in-belgaum-mysore-mangalore-113070800862_1.html| date = 8 July 2013| title = Karnataka government to develop IT parks at Belgaum, Mysore and Mangalore| accessdate = 25 May 2015| publisher= Business Standard}}&lt;/ref&gt; Two such parks are under construction, one Export Promotion Industrial Park (EPIP) at Ganjimutt and a second IT SEZ near [[Mangalore University]], while a third IT SEZ is being proposed at Ganjimutt.&lt;ref&gt;{{cite news|url=http://www.hindu.com/2006/08/31/stories/2006083118290300.htm |date=31 August 2006 |title=Two more plans for EPIP cleared |accessdate=29 September 2006 |publisher=[[The Hindu]] |location=Chennai, India |deadurl=yes |archiveurl=http://www.webcitation.org/66BGiDD1H |archivedate=15 March 2012 }}&lt;/ref&gt; The Oil and Natural Gas Corporation (ONGC) plans to set up a multiproduct [[Special Economic Zone|SEZ]] (Special Economic Zone) with an investment of over Rs. 35,000 crore.&lt;ref&gt;{{cite news| url = http://www.hindu.com/2006/09/20/stories/2006092006341700.htm| date = 19 September 2006| title = ONGC's huge outlay for Mangalore SEZ| accessdate = 29 September 2006| publisher= [[The Hindu]]| location=Chennai, India}}&lt;/ref&gt; Another IT SEZ of 2 million square feet (180,000&amp;nbsp;m&lt;sup&gt;2&lt;/sup&gt;) is under construction at [[Thumbe]] by the BA group.&lt;ref&gt;{{cite web| url = http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf| date = June 2013| title = Environmental movement and the media in Dakshina Kannada| accessdate = 22 February 2015| publisher= Global Media Journal – Indian Edition/ISSN 2249-5835 Vol.4 No. 1 - Sponsored by the University of Calcutta}}&lt;/ref&gt; This will include a business centre, convention centre, mall and helipad facility.&lt;ref&gt;{{cite web| url = http://www.caluniv.ac.in/global-mdia-journal/ARTICLES_JUNE_2013/ARTICLE-%204-Poornananda.pdf| title = Bank finance for Agribusiness:A case study in Dakshina Kannada district| accessdate = 22 February 2015| publisher= Dr. G.V. Joshi}}&lt;/ref&gt;
+
+== See also ==
+* [[Mangalore]]
+* [[Bantwal]]
+* [[Belthangady]]
+* [[Puttur, Karnataka|Puttur]]
+* [[Sullia]]
+* [[Moodabidri]]
+* [[Dharmasthala]]
+* [[Udupi]]
+* [[Manipal]]
+* [[List of educational institutions in Mangalore]]
+* [[Mangalorean cuisine]]
+
+== References ==
+{{Reflist|3}}
+
+== External links ==
+{{Commons category|Dakshina Kannada district}}
+{{wiktionary|Dakshina Kannada}}
+* [http://www.dk.nic.in Official web site]
+* [http://www.onefivenine.com/india/villag/Dakshin-Kannad] List of places in Dakshin-Kannad
+* [http://www.kar.nic.in/zpdk DK Zilla Parishad]
+
+{{Geographic location
+|Centre    = Dakshina Kannada district
+|North     = 
+|Northeast = [[Chikmagalur district]]
+|East      = [[Hassan district]]
+|Southeast = [[Kodagu district]]
+|South     = [[Kasaragod district]], [[Kerala]]
+|Southwest = 
+|West      = ''[[Laccadive Sea]]''
+|Northwest = [[Udupi district]]
+}}
+{{Districts of Karnataka}}
+{{Karnataka topics}}
+
+[[Category:Districts of Karnataka]]
+[[Category:Dakshina Kannada district| ]]
+[[Category:Districts of India]]
+[[Category:Tulu Nadu]]</text>
+      <sha1>2xdn79gj44tqi33g9w4863r4ohrlu03</sha1>
+    </revision>
+  </page>
+</mediawiki>

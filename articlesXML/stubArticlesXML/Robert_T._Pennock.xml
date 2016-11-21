@@ -1,0 +1,128 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Robert T. Pennock</title>
+    <ns>0</ns>
+    <id>2711333</id>
+    <revision>
+      <id>749945601</id>
+      <parentid>730371764</parentid>
+      <timestamp>2016-11-17T00:47:10Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>1 archive template merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8851">{{Infobox scientist
+| name              = Robert T. Pennock
+| image             = &lt;!--(filename only)--&gt;
+| image_size        = 
+| alt               = 
+| caption           = 
+| birth_date        = 
+| birth_place       = 
+| death_date        = 
+| death_place       = 
+| residence         = [[East Lansing, Michigan]] 
+| citizenship       = [[United States|American]]
+| nationality       = American
+| fields            = [[Philosophy of science]], [[evolution]], criticisms of [[creationism]]
+| workplaces        = 
+| alma_mater        = 
+| doctoral_advisor  = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students  = 
+| known_for         = Witness at [[Kitzmiller v. Dover Area School District|Kitzmiller v. Dover]] 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = Outstanding Service Award ([[American Institute of Biological Sciences]])
+* Friend of Darwin Award ([[National Center for Science Education]])
+* Templeton Science &amp; Religion Course Award and [[Templeton Prize]] for Exemplary Paper in Theology and the Natural Sciences ([[John Templeton Foundation]])
+* Election to the [[American Association for the Advancement of Science]]
+* Lifetime member of the National Research Council of the [[United States National Academy of Sciences]]
+| signature         = &lt;!--(filename only)--&gt;
+| signature_alt     = 
+| footnotes         = 
+}}
+
+'''Robert T. Pennock''' is a [[philosopher]] working on the [[Avida]] [[digital organism]] project at [[Michigan State University]] where he has been full professor since 2000.  Pennock was a witness in the [[Kitzmiller v. Dover Area School District]] trial,&lt;ref&gt;{{cite news | title = Witness bashes intelligent design; A philosopher of science said the controversial idea rejects science. | url = http://pqasb.pqarchiver.com/ydr/access/971500121.html?dids=971500121:971500121&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Sep+29%2C+2005&amp;author=LAURI+LEBO&amp;pub=York+Daily+Record&amp;desc=Witness+bashes+intelligent+design%3B+A+philosopher+of+science+said+the+controversial+idea+rejects+science.&amp;pqatl=google | last = Lebo | first = L | work = [[York Daily Record]] | date = 2005-09-29 }}&lt;/ref&gt; testifying on behalf of the plaintiffs,&lt;ref&gt;{{cite news | title = No method to intelligent design, witness says | url = http://www.msnbc.msn.com/id/9516769/ | publisher = [[MSNBC]] | date = 2005-11-28 | accessdate = 2010-08-03 }}&lt;/ref&gt; and described how [[intelligent design]] is an updated form of [[creationism]] and not [[science]],&lt;ref&gt;{{cite web | url = http://www.talkorigins.org/faqs/dover/day3am.html | title = Kitzmiller v. Dover Area School District; Trial transcript: Day 3 (September 28), AM Session, Part 1 | publisher = [[Talk.origins]] | accessdate = 2010-08-03 | date = 2005-09-28 }}&lt;/ref&gt; pointing out that the arguments were essentially the same as traditional creationist arguments with adjustments to the message to eliminate explicit mention of God and the Bible as well as adopting a [[postmodern philosophy|postmodern deconstructionist]] language.  Pennock also laid out the philosophical history of methodological and philosophical [[naturalism (philosophy)|naturalism]] as they underpin to science, and explained that if intelligent design were truly embraced it would return [[Western civilization]] to a pre-[[Age of Enlightenment|Enlightenment]] state.&lt;ref&gt;{{cite book |author=Slack  G |title=The Battle Over the Meaning of Everything: Evolution, Intelligent Design, and a School Board in Dover, PA |publisher=Jossey-Bass |location=San Francisco |year=2008 |pages= [https://books.google.com/books?id=1kpx8HrQ08cC&amp;pg=PA111#v=onepage&amp;q&amp;f=false 110–123] |isbn=0-470-37931-6 |oclc= |doi= |accessdate=}}&lt;/ref&gt;
+
+==Education and career==
+Pennock received his [[Ph.D.]] in the history and philosophy of science from the [[University of Pittsburgh]], where he graduated summa cum laude.  In 1997, he co-directed a [[National Science Foundation]] Chautauqua Workshop on the &quot;Ethical Implications of the [[Human Genome Project]].&quot; Pennock has served as president of the [[University of Texas at Austin]] Chapter of [[Sigma Xi]]&lt;ref&gt;{{webarchive |url=https://web.archive.org/web/20020609182933/site=http://www.utexas.edu/research/sigmaxi |date=June 9, 2002 |title=The University of Texas at Austin Chapter of Sigma Xi, The Scientific Research Society }}&lt;/ref&gt; and is a member of the [[American Philosophical Association]], the [[National Center for Science Education]] and the [[American Association for the Advancement of Science]].
+
+===Writing and speaking===
+He has written and edited books and articles critical of [[intelligent design]], using the term ''[[naturalism (philosophy)|methodological naturalism]]'' to emphasise that the [[scientific method]] inherently explains observable events in nature only by natural causes, without assuming the existence or non-existence of the supernatural, and is not based on dogmatic [[metaphysical naturalism]] as claimed by [[creationism|creationists]].  He has also been a featured speaker at religious, freethinking, and atheist gatherings.&lt;ref&gt;[http://www.michiganatheists.org/newslet/032203.html]&lt;/ref&gt;
+
+===''Kitzmiller v. Dover Area School District===
+Pennock testified as an expert witness at the [[Kitzmiller v. Dover Area School District]] was [[wikisource:Kitzmiller v. Dover Area School District 4: whether ID is science#4. Whether ID is Science|cited in the concluding memorandum]] by Judge [[John E. Jones III]] as evidence that &quot;Methodological naturalism is a “ground rule” of science today which requires scientists to seek explanations in the world around us based upon what we can observe, test, replicate, and verify&quot; contributing to the conclusion &quot;that ID is an interesting [[theology|theological]] argument, but that it is not science&quot;.
+
+==Awards==
+In 2009 Pennock received the [[American Institute of Biological Sciences]]'s Outstanding Service Award, given &quot;in recognition of an individual's (or organization's) noteworthy service to the biological sciences&quot;.&lt;ref&gt;{{cite web | url = http://www.eurekalert.org/pub_releases/2009-05/aiob-aho051509.php | title = AIBS honors outstanding contributions to biology | date = 2009-05-15 | accessdate = 2010-08-03 | publisher = [[American Institute of Biological Sciences]] }}&lt;/ref&gt;  Pennock has also received the &quot;Friend of Darwin Award&quot; from the [[National Center for Science Education]].&lt;ref&gt;{{cite web | url = http://ncse.com/about/friend-of-darwin | title = Friend of Darwin Awards | accessdate = 2010-08-03 | publisher = [[National Center for Science Education]]}}&lt;/ref&gt;  His book on creationism, ''Tower of Babel'', was nominated for a [[Pulitzer Prize]], [[National Book Award]] and PEN Award, and was a finalist for the ForeWord Book-of-the-Year.&lt;ref name = LBC&gt;{{cite web | url = http://www.lymanbriggs.msu.edu/faculty/bios/user.cfm?UserID=27 | title = People at LBC: Robert Pennock, Ph.D. | publisher = [[Lyman Briggs College]] | accessdate = 2010-08-03 }}&lt;/ref&gt;  Pennock has also won several awards for his essays and teaching, including the Michael R. Bennett Prize, the [[Templeton Prize]] for Exemplary Paper in Theology and the Natural Sciences, Apple for the Teacher Award, and a Templeton Science &amp; Religion Course Award.&lt;ref name = LBC/&gt;  In 2006 Pennock was elected to the [[American Association for the Advancement of Science]] for &quot;voicing the philosophical deficits in the pro-intelligent design argument and defending against its inclusion in science teaching&quot;&lt;ref&gt;{{cite web | url = http://www.newsroom.msu.edu/site/indexer/2919/content.htm | publisher = [[Michigan State University]] | title = ‘U’ professors take seats among the 2006 American Association for the Advancement of Science Fellows | date = 2006-11-27 | accessdate = 2010-08-03 }}&lt;/ref&gt; and in 2008 was designated a lifetime member of the National Research Council of the [[United States National Academy of Sciences]].&lt;ref&gt;{{cite web | url = https://www.msu.edu/~pennock5/research/vita.html | title = Robert T. Pennock: Curriculum Vitae | accessdate = 2010-08-03 | publisher = [[Michigan State University]] | date = 2008-08-11 }}&lt;/ref&gt;
+
+==Books==
+*''Tower of Babel: The Evidence Against the New Creationism'' ISBN 0-262-16180-X, ISBN 0-262-66165-9
+*''Intelligent Design Creationism and Its Critics: Philosophical, Theological, and Scientific Perspectives'' (editor) ISBN 0-262-16204-0, ISBN 0-262-66124-1
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://www.msu.edu/~pennock5 Home page] at MSU
+* [http://www.freethoughtassociation.org/minutes/2005/May25-2005.htm Built on Sand: The Collapsing Creationist Tower], Lecture by Robert Pennock to the Freethought Association
+
+{{DEFAULTSORT:Pennock, Robert T.}}
+[[Category:20th-century philosophers]]
+[[Category:Michigan State University faculty]]
+[[Category:Living people]]</text>
+      <sha1>aifra5dod9k46ioyax6pi3fpqpsicx7</sha1>
+    </revision>
+  </page>
+</mediawiki>

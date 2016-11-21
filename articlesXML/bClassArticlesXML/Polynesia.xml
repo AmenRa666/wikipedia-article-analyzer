@@ -1,0 +1,468 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Polynesia</title>
+    <ns>0</ns>
+    <id>20611385</id>
+    <revision>
+      <id>749761545</id>
+      <parentid>749761093</parentid>
+      <timestamp>2016-11-16T01:31:08Z</timestamp>
+      <contributor>
+        <username>Wtmitchell</username>
+        <id>136745</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/190.154.10.198|190.154.10.198]] ([[User talk:190.154.10.198|talk]]) ([[WP:HG|HG]]) (3.1.21)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="53293">{{About|the wider region in the Pacific|the French collectivity|French Polynesia|the genus of moth|Polynesia (moth)}}
+{{other uses|Polynesian (disambiguation)}}
+{{pp-move-indef}}
+[[File:Pacific Culture Areas.jpg|thumb|300px|The three major cultural areas in the [[Pacific Ocean]]: [[Melanesia]], [[Micronesia]], and Polynesia. Polynesia is the largest and generally defined as the islands within the [[Polynesian triangle]].]]
+[[File:Map OC-Polynesia.PNG||thumb|300px|Geographic definition of Polynesia]]
+
+'''Polynesia''' (&lt;small&gt;[[British English|UK]]:&lt;/small&gt; {{IPAc-en|ˌ|p|ɒ|l|ɨ|ˈ|n|i|z|i|ə}}; &lt;small&gt;[[American English|US]]:&lt;/small&gt;  {{IPAc-en|ˌ|p|ɑː|l|ə|ˈ|n|i|ʒ|ə}}, from {{lang-gr|πολύς}} &quot;poly&quot; ''many'' + {{lang-gr|νῆσος}} &quot;nēsos&quot; ''island'') is a [[subregion]] of [[Oceania]], made up of over 1,000 [[island]]s scattered over the central and southern [[Pacific Ocean]]. The indigenous people who inhabit the islands of Polynesia are termed [[Polynesians]] and they share many similar traits including [[Polynesian languages|language family]], [[Polynesian culture|culture]], and beliefs.&lt;ref name=trh/&gt; Historically, they were experienced sailors and [[Polynesian navigation|used stars to navigate]] during the night.
+
+The term &quot;Polynesia&quot; was first used in 1756 by French writer [[Charles de Brosses]], and originally applied to all the [[Pacific islands|islands of the Pacific]]. In 1831, [[Jules Dumont d'Urville]] proposed a restriction on its use during a lecture to the Geographical Society of Paris. Historically, these islands have also been referred to as the '''South Sea Islands'''.&lt;ref&gt;Russell, Michael (1849) ''Polynesia: A History of the South Sea Islands, Including New Zealand''.&lt;/ref&gt;
+
+{{TOC limit|3}}
+
+==Geography==
+
+===Geology===
+Polynesia is characterized by a small amount of land spread over a very large portion of the mid and southern [[Pacific Ocean]]. Most Polynesian islands and archipelagos, including the [[Hawaiian Islands]] and [[Samoan Islands|Samoa]], are composed of volcanic islands built by [[hotspot (geology)|hotspots]]. [[New Zealand]], [[Norfolk Island]], and [[Ouvéa]], the Polynesian outlier near [[New Caledonia]], are the unsubmerged portions of the largely sunken continent of [[Zealandia (continent)|Zealandia]]. Zealandia is believed to have mostly sunk by 23 million years ago and resurfaced geologically recently due to a change in the movements of the [[Pacific Plate]] in relation to the [[Indo-Australian plate]], which served to uplift the New Zealand portion. At first, the Pacific plate was subducted under the Australian plate. The [[Alpine Fault]] that traverses the South Island is currently a [[transform fault]] while the convergent plate boundary from the North Island northwards is a subduction zone called the [[Kermadec-Tonga Subduction Zone]]. The volcanism associated with this [[subduction zone]] is the origin of the [[Kermadec Islands|Kermadec]] and [[Tonga]]n island archipelagos.
+
+Out of about {{convert|117000|or|118000|sqmi|km2|order=flip}} of land, over {{convert|103000|sqmi|km2|order=flip|abbr=on}} are within [[New Zealand]]; the Hawaiian archipelago comprises about half the remainder. The Zealandia continent has approximately {{convert|1400000|sqmi|km2|order=flip|abbr=on}} of continental shelf. The oldest rocks in the region are found in New Zealand and are believed to be about 510 million years old. The oldest Polynesian rocks outside of Zealandia are to be found in the Hawaiian Emperor Seamount Chain, and are 80 million years old.
+
+===Geographic area===
+Polynesia is generally defined as the islands within the [[Polynesian Triangle]], although there are some islands that are inhabited by [[Polynesian people]] situated outside the Polynesian Triangle. Geographically, the Polynesian Triangle is drawn by connecting the points of [[Hawaii]], [[New Zealand]] and [[Easter Island]]. The other main island groups located within the Polynesian Triangle are [[Samoa]], [[Tonga]], the [[Cook Islands]], [[Tuvalu]], [[Tokelau]], [[Niue]], [[Wallis and Futuna]] and [[French Polynesia]].
+
+There are also small Polynesian settlements in [[Papua New Guinea]], the [[Solomon Islands]], the [[Caroline Islands]], and in [[Vanuatu]]. An island group with strong Polynesian cultural traits outside of this great triangle is [[Rotuma]], situated north of [[Fiji]]. The people of Rotuma have many common Polynesian traits but speak a non-[[Polynesian language]]. Some of the [[Lau Islands]] to the southeast of Fiji have strong historic and cultural links with Tonga.
+
+However, in essence, Polynesia is a cultural term referring to one of the three parts of [[Oceania]] (the others being [[Micronesia]] and [[Melanesia]]).
+
+===Island groups===
+[[File:Mokoliʻi Insel.jpg|thumb|left|Mokoliʻi Isle near [[Oahu]], [[Hawaii]]]]
+[[File:Moorea baie cook.JPG|thumb|[[Moorea#Physical description|Cook's Bay]] on [[Moorea]], [[French Polynesia]]]]
+The following are the islands and island groups, either nations or overseas territories of former colonial powers, that are of native Polynesian culture or where archaeological evidence indicates Polynesian settlement in the past.&lt;ref&gt;Islands that were uninhabited at contact but which have archaeological evidence of Polynesian settlement include Norfolk Island, Pitcairn, New Zealand's [[Kermadec Islands]] and some small islands near Hawaii.&lt;/ref&gt; Some islands of Polynesian origin are outside the general triangle that geographically defines the region.
+
+====Main Polynesia====
+
+{| class=&quot;wikitable sortable&quot;  style=&quot;font-size:85%; width:75%;&quot;
+|-
+! Country or dependency !! Notes 
+|-
+| style=&quot;line-height:95%&quot; | {{flag|American Samoa}}
+| style=&quot;line-height:95%&quot; | [[Unincorporated territories of the United States|Unincorporated]] and unorganized territory of the US; administered by the [[Office of Insular Affairs]], [[US Department of the Interior]].
+|-
+| style=&quot;line-height:95%&quot; | {{flag|Cook Islands}}
+| style=&quot;line-height:95%&quot; | Self-governing state in [[associated state|free association]] with [[New Zealand]]
+|-
+| style=&quot;line-height:95%&quot; | {{flag|Easter Island}}
+| style=&quot;line-height:95%&quot; | Called ''Rapa Nui'' in the [[Rapa Nui language]], politically part of [[Chile]]
+|-
+| style=&quot;line-height:95%&quot; | {{flag|French Polynesia}}
+| style=&quot;line-height:95%&quot; | ''Overseas country'', a [[Overseas collectivity|collectivity]] of [[France]]
+|-
+| style=&quot;line-height:95%&quot; | {{flag|Hawaii}}
+| style=&quot;line-height:95%&quot; | A [[U.S. state|state]] of the United States
+|-
+| style=&quot;line-height:95%&quot; | {{flag|New Zealand}}
+| style=&quot;line-height:95%&quot; | Independent nation
+|-
+| style=&quot;line-height:95%&quot; | {{flag|Niue}}
+| style=&quot;line-height:95%&quot; | Self-governing state in [[associated state|free association]] with New Zealand
+|-
+| style=&quot;line-height:95%&quot; | {{flag|Norfolk Island}}
+| style=&quot;line-height:95%&quot; | An [[Australian External Territories|Australian External Territory]]
+|-
+| style=&quot;line-height:95%&quot; | {{flag|Pitcairn Islands}}
+| style=&quot;line-height:95%&quot; | A [[British Overseas Territories|British Overseas Territory]]
+|-
+| style=&quot;line-height:95%&quot; | {{flag|Samoa}}
+| style=&quot;line-height:95%&quot; | Independent nation
+|-
+| style=&quot;line-height:95%&quot; | {{flag|Tokelau}}
+| style=&quot;line-height:95%&quot; | Overseas dependency of New Zealand
+|-
+| style=&quot;line-height:95%&quot; | {{flag|Tonga}}
+| style=&quot;line-height:95%&quot; | Independent nation
+|-
+| style=&quot;line-height:95%&quot; | {{flag|Tuvalu}}
+| style=&quot;line-height:95%&quot; | Independent nation
+|-
+| style=&quot;line-height:95%&quot; | {{flag|Wallis and Futuna}}
+| style=&quot;line-height:95%&quot; | [[overseas collectivity|Collectivity]] of France
+|-
+| style=&quot;line-height:95%&quot; | [[Rotuma]]
+| style=&quot;line-height:95%&quot; | [[Fiji]]an [[Local government in Fiji|dependency]]
+|}
+
+The [[Phoenix Islands]] and [[Line Islands]], most of which are part of [[Kiribati]], are geographically Polynesian islands, but they had no permanent settlements until European colonization.
+
+====Polynesian outliers====
+
+=====In Melanesia=====
+* [[Anuta]] (in the [[Solomon Islands]])
+* [[Bellona Island]] (in the Solomon Islands)
+* [[Emae]] (in Vanuatu)
+* [[Fiji]]
+* [[Mele, Vanuatu|Mele]] (in [[Vanuatu]])
+* [[Nuguria]] (in [[Papua New Guinea]])
+* [[Nukumanu]] (in Papua New Guinea)
+* [[Ontong Java]] (in the Solomon Islands)
+* [[Pileni]] (in the Solomon Islands)
+* [[Rennell Island|Rennell]] (in the Solomon Islands)
+* [[Sikaiana]] (in the Solomon Islands)
+* [[Takuu]] (in Papua New Guinea)
+* [[Tikopia]] (in the Solomon Islands)
+* The [[United States Minor Outlying Islands]]
+
+=====In Micronesia=====
+* [[Kapingamarangi]] (in the [[Federated States of Micronesia]])
+* [[Nukuoro]] (in the Federated States of Micronesia)
+
+=====Subantarctic Islands=====
+* [[Auckland Islands]] (the most southerly known evidence of Polynesian settlement)&lt;ref&gt;O'Connor, Tom (September–October 2004) &quot;Polynesians in the Southern Ocean: Occupation of the Auckland Islands in Prehistory&quot;. ''New Zealand Geographic'' 69: 6–8&lt;/ref&gt;&lt;ref&gt;Anderson, Atholl J. and O'Regan, Gerard R. (2000) &quot;To the Final Shore: Prehistoric Colonisation of the Subantarctic Islands in South Polynesia&quot;, pp. 440–454 in ''Australian Archaeologist: Collected Papers in Honour of Jim Allen'' Canberra: Australian National University.&lt;/ref&gt;&lt;ref&gt;Anderson, Atholl J. and O'Regan, Gerard R. (1999) &quot;The Polynesian Archaeology of the Subantarctic Islands: An Initial Report on Enderby Island&quot;. Southern Margins Project Report. Dunedin: Ngai Tahu Development Report&lt;/ref&gt;&lt;ref&gt;{{cite journal|author=Anderson, Atholl |title=Subpolar Settlement in South Polynesia|journal= Antiquity |year=2005|doi=10.1017/S0003598X00114930|doi-broken-date=2016-06-03|url=http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=9508440|volume =79 |issue =306 |pages= 791–800}}&lt;/ref&gt;
+
+==History of the Polynesian people==
+
+===Origins and expansion===
+[[File:Polynesian Migration.svg|thumb|The Polynesian spread of colonization in the Pacific]]
+[[File:AhuTongariki.jpg|thumb|[[Moai]] at Ahu Tongariki on [[Rapa Nui]]]]
+The Polynesian people are considered to be by linguistic, archaeological and human genetic ancestry a subset of the sea-migrating [[Austronesian peoples|Austronesian people]] and tracing [[Polynesian languages]] places their [[Prehistory|prehistoric]] origins in the [[Malay Archipelago]], and ultimately, in [[Geography of Taiwan|Taiwan]].
+
+Between about 3000 and 1000 BC speakers of [[Austronesian languages]] began spreading from Taiwan into [[Island Southeast Asia]].&lt;ref name=&quot;matrilineality2003&quot;&gt;{{Cite journal|last=Hage |first=P. |last2=Marck |first2=J. |year=2003 |title=Matrilineality and Melanesian Origin of Polynesian Y Chromosomes |journal=Current Anthropology |volume=44 |issue=S5 |pages= S121|doi=10.1086/379272 }}&lt;/ref&gt;&lt;ref name=&quot;Kayser, M. 2006&quot;&gt;{{Cite journal
+ | doi = 10.1093/molbev/msl093|pmid=16923821|url=http://static1.squarespace.com/static/53ca9138e4b09ce5b336e6a8/t/53d3ba34e4b0dc5a2065db41/1406384692136/KayserStonekingMBE2006.pdf
+| title = Melanesian and Asian Origins of Polynesians: MtDNA and Y Chromosome Gradients Across the Pacific
+| journal = Molecular Biology and Evolution
+| volume = 23
+| issue = 11
+| pages = 2234–44
+| year = 2006
+| last1 = Kayser | first1 = M.
+|last2=Brauer
+|first2=S
+|last3=Cordaux
+|first3=R
+|last4=Casto
+|first4=A
+|last5=Lao
+|first5=O
+|last6=Zhivotovsky
+|first6=L. A.
+|last7=Moyse-Faurie
+|first7=C
+|last8=Rutledge
+|first8=R. B.
+|last9=Schiefenhoevel
+|first9=W
+|last10=Gil
+|first10=D
+|last11=Lin
+|first11=A. A.
+|last12=Underhill
+|first12=P. A.
+|last13=Oefner
+|first13=P. J.
+|last14=Trent
+|first14=R. J.
+|last15=Stoneking
+|first15=M
+}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal | doi = 10.1073/pnas.97.15.8225| title = Polynesian origins: Insights from the Y chromosome| journal = Proceedings of the National Academy of Sciences| volume = 97| issue = 15| page = 8225| year = 2000| last1 = Su | first1 = B.| last2 = Jin | first2 = L.| last3 = Underhill | first3 = P.| last4 = Martinson | first4 = J.| last5 = Saha | first5 = N.| last6 = McGarvey | first6 = S. T.| last7 = Shriver | first7 = M. D.| last8 = Chu | first8 = J.| last9 = Oefner | first9 = P.| last10 = Chakraborty | first10 = R.| last11 = Deka | first11 = R.}}&lt;/ref&gt;
+
+There are three theories regarding the spread of humans across the Pacific to Polynesia. These are outlined well by Kayser ''et al.'' (2000)&lt;ref&gt;{{Cite journal | doi = 10.1016/S0960-9822(00)00734-X| pmid = 11069104| title = Melanesian origin of Polynesian Y chromosomes| journal = Current Biology| volume = 10| issue = 20| pages = 1237–46| year = 2000| last1 = Kayser | first1 = M. | last2 = Brauer | first2 = S. | last3 = Weiss | first3 = G. | last4 = Underhill | first4 = P. | last5 = Roewer | first5 = L. | last6 = Schiefenhövel | first6 = W. | last7 = Stoneking | first7 = M. }}&lt;/ref&gt; and are as follows:
+* Express Train model: A recent (c. 3000–1000 BC) expansion out of Taiwan, via the [[Philippines]] and eastern [[Indonesia]] and from the northwest (&quot;[[Bird's Head]]&quot;) of [[New Guinea]], on to [[Island Melanesia]] by roughly 1400 BC, reaching western Polynesian islands right about 900 BC. This theory is supported by the majority of current genetic, [[Austronesian Languages|linguistic]], and archaeological data.
+* Entangled Bank model: Emphasizes the long history of Austronesian speakers' cultural and genetic interactions with indigenous Island Southeast Asians and Melanesians along the way to becoming the first Polynesians.
+* Slow Boat model: Similar to the express-train model but with a longer hiatus in Melanesia along with admixture, both genetically, culturally and linguistically with the local population. This is supported by the Y-chromosome data of Kayser ''et al.'' (2000), which shows that all three [[haplotype]]s of Polynesian Y chromosomes can be traced back to Melanesia.&lt;ref name=&quot;Kayser, M. 2006&quot;/&gt;
+
+In the archaeological record there are well-defined traces of this expansion which allow the path it took to be followed and dated with some certainty. It is thought that by roughly 1400 BC,&lt;ref&gt;{{Cite book |last=Kirch |first=P. V. |year=2000 |title=On the road of the wings: an archaeological history of the Paciﬁc Islands before European contact |location=London |publisher=University of California Press |pages= |isbn=0520234618}} Quoted in Kayser, M.; ''et al''. (2006).&lt;/ref&gt;  &quot;[[Lapita]] Peoples&quot;, so-named after their pottery tradition, appeared in the [[Bismarck Archipelago]] of northwest [[Melanesia]]. This culture is seen as having adapted and evolved through time and space since its emergence &quot;Out of [[Taiwan]]&quot;. They had given up rice production, for instance, after encountering and adapting to breadfruit in the Bird's Head area of New Guinea. In the end, the most eastern site for Lapita archaeological remains recovered so far is at [[Mulifanua]] on [[Upolu]]. The Mulifanua site, where 4,288 pottery shards have been found and studied, has a &quot;true&quot; age of c. 1000 BC based on C14 dating.&lt;ref name=&quot;test&quot;&gt;{{Cite journal |url=http://www.jps.auckland.ac.nz/document/Volume_98_1989/Volume_98,_No._3/New_information_for_the_Ferry_Berth_site,_Mulifanua,_Western_Samoa,_by_H._M._Leach,_p_319-330/p1?page=0&amp;action=searchresult&amp;target= |title=New Information for the Ferry Berth Site, Mulifanua, Western Samoa |first=Roger C. |last=Green |first2=Helen M. |last2=Leach |journal=Journal of the Polynesian Society |volume=98 |year=1989 |issue=3 |accessdate=1 November 2009 }}&lt;/ref&gt; A 2010 study places the beginning of the human archaeological sequences of Polynesia in [[Tonga]] at 900 B.C.&lt;ref name=&quot;burley128&quot;&gt;{{Cite journal|first=David V. |last=Burley |first2=Andrew |last2=Barton |first3=William R. |last3=Dickinson |first4=Sean P.|last4=Connaughton |first5= Karine |last5=Taché  |year=2010 |title= Nukuleka as a Founder Colony for West Polynesian Settlement: New Insights from Recent Excavations |journal= Journal of Pacific Archaeology |volume=1 |issue=2 |pages=128–144 }}&lt;/ref&gt;
+
+Within a mere three or four centuries between about 1300 and 900 BC, the Lapita [[archaeological culture]] spread 6,000&amp;nbsp;km further to the east from the Bismarck Archipelago, until it reached as far as [[Fiji]], Tonga, and Samoa which were first populated around 3,000 years ago as mentioned previously.&lt;ref name=&quot;Belwood1&quot;&gt;{{cite book |last1= Bellwood|first1= Peter |title=The Polynesians – Prehistory of an Island People |year= 1987 |publisher=Thames and Hudson |pages=45–65|isbn=0500274509}}&lt;/ref&gt;  A cultural divide began to develop between Fiji to the west, and the distinctive Polynesian language and culture emerging on Tonga and Samoa to the east. Where there was once faint evidence of uniquely shared developments in Fijian and Polynesian speech, most of this is now called &quot;borrowing&quot; and is thought to have occurred in those and later years more than as a result of continuing unity of their earliest dialects on those far-flung lands. Contacts were mediated especially through the eastern [[Lau Islands]] of Fiji and this is where most Fijian-Polynesian linguistic interaction occurred.{{citation needed|date=September 2013}}
+[[File:F 2 070 182 Uk Uni grinding stone 1957 Myer's plantation, Samoa.jpg|thumb|right|Grinding stones discovered from [[archaeology in Samoa]]]]
+Tiny populations seem to have been involved at first.&lt;ref name=&quot;burley128&quot;/&gt;
+
+===Culture===
+The Polynesians were [[Matrilineality|matrilineal]] and [[Matrilocal residence|matrilocal]] societies upon arrival to Fiji, Tonga and Samoa, after having been through at least some time in the Bismarck Archipelago. The modern Polynesians still show the human genetic results of a Melanesian culture which allowed indigenous men, but not women, to &quot;marry in&quot; – useful evidence for matrilocality.&lt;ref name=&quot;matrilineality2003&quot;/&gt;&lt;ref name=&quot;Kayser, M. 2006&quot;/&gt;&lt;ref name=&quot;autogenerated365&quot;&gt;{{Cite journal|last=Hage |first=P. |year=1998 |title=Was Proto Oceanic Society matrilineal?|jstor=20706828 |journal=Journal of the Polynesian Society |volume=107 |issue=4 |pages=365–379}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal|last=Marck |first=J. |year=2008 |title=Proto Oceanic Society was matrilineal |journal=Journal of the Polynesian Society |volume=117 |issue=4 |pages=345–382 |jstor=20707458}}&lt;/ref&gt;
+
+Although matrilocality and matrilineality receded at some early time Polynesians, and most other Austronesian speakers in the Pacific Islands, were/are still highly &quot;matricentric&quot; in their traditional jurisprudence.&lt;ref name=&quot;autogenerated365&quot;/&gt; The Lapita pottery for which the general archaeological complex of the earliest &quot;Oceanic&quot; Austronesian speakers in the Pacific Islands are named also went away in Western Polynesia and language, social life and [[material culture]] were very distinctly &quot;Polynesian&quot; by the time [[Eastern Polynesia]] began to be settled after a &quot;pause&quot; of 1000 years or perhaps well more in Western Polynesia.
+
+The dating of the settlement of Eastern Polynesia including [[Hawai'i]], [[Easter Island]], and [[New Zealand]] is not agreed upon in every instance. Most recently a 2010 study using [[meta-analysis]] of the most reliable [[radiocarbon dating|radiocarbon dates]] available suggested that the colonization of Eastern Polynesia (including Hawaii and New Zealand) proceeded in two short episodes: in the [[Society Islands]] from 1025–1120 AD and further afield from 1190–1290 AD,&lt;ref&gt;{{Cite journal | last1 = Wilmshurst | first1 = J. M. | last2 = Hunt | first2 = T. L. | last3 = Lipo | first3 = C. P. | last4 = Anderson | first4 = A. J. | title = High-precision radiocarbon dating shows recent and rapid initial human colonization of East Polynesia | doi = 10.1073/pnas.1015876108 | journal = Proceedings of the National Academy of Sciences | volume = 108 | issue = 5 | page = 1815 | year = 2010 | pmid =  | pmc = | bibcode = 2011PNAS..108.1815W }}&lt;/ref&gt; with Easter Island being settled around 1200.&lt;ref name=&quot;huntlipo2006&quot;&gt;{{Cite journal 
+| last1 = Hunt | first1 = T. L. 
+| last2 = Lipo | first2 = C. P. 
+| title = Late Colonization of Easter Island 
+| doi = 10.1126/science.1121879 
+| journal = Science 
+| volume = 311 
+| issue = 5767 
+| pages = 1603–1606 
+| year = 2006 
+| pmid = 16527931 
+| pmc = 
+| bibcode = 2006Sci...311.1603H 
+}}&lt;/ref&gt;&lt;ref name=&quot;huntlipo2011&quot;&gt;{{Cite book
+| publisher = Free Press
+| isbn = 1-4391-5031-1
+| last1 = Hunt
+| first1 = Terry
+| last2 = Lipo
+| first2 = Carl
+| title = The Statues that Walked: Unraveling the Mystery of Easter Island
+| year = 2011
+}}&lt;/ref&gt; Other archeological models developed in recent decades, which are challenged by that recent set of radiocarbon dating interpretations, have pointed to dates of between 300 and 500 AD, or alternatively 800 AD (as supported by [[Jared Diamond]]) for the settlement of Easter Island, and similarly, a date of 500 AD has been suggested for Hawaii. Linguistically, there is a very distinct &quot;East Polynesian&quot; subgroup with many shared innovations not seen in other Polynesian languages. The Marquesas dialects are perhaps the source of the oldest Hawaiian speech which is overlaid by Tahitian variety speech, as Hawaiian oral histories would suggest. The earliest varieties of New Zealand Maori speech may have had multiple sources from around central Eastern Polynesia as Maori oral histories would suggest.{{citation needed|date=September 2013}}
+
+===Political history of Polynesia===
+
+====Tonga 16th century–present====
+After a bloody civil war, political power in Tonga eventually fell under the [[Tu'i Kanokupolu]] dynasty in the 16th century.
+
+In 1845 the ambitious young warrior, strategist, and orator [[George Tupou I|Tāufaʻāhau]] united Tonga into a more Western-style kingdom. He held the chiefly title of Tuʻi Kanokupolu, but had been baptised with the name Jiaoji (&quot;George&quot;) in 1831. In 1875, with the help of the missionary [[Shirley Waldemar Baker]], he declared Tonga a constitutional monarchy, formally adopted the western royal style, emancipated the &quot;serfs&quot;, enshrined a code of law, land tenure, and freedom of the press, and limited the power of the chiefs.
+
+Tonga became a British-protected state under a Treaty of Friendship on 18 May 1900, when European settlers and rival Tongan chiefs tried to oust the second king. Within the British Empire, which posted no higher permanent representative on Tonga than a British Consul (1901–1970), Tonga formed part of the [[British Western Pacific Territories]] (under a colonial High Commissioner, residing on Fiji) from 1901 until 1952. Despite being under the protectorate, Tonga retained its monarchy without interruption.
+
+On June 4, 1970 the [[Kingdom of Tonga]] received independence from the British protectorate.
+
+====Samoa Malietoa–present====
+Samoa remained under Malietoa chieftains until its East-West division by [[Tripartite Convention (1899)]] subsequent annexation by the [[German Empire]] and the United States. The German-controlled Western portion of Samoa (the consisting of the bulk of Samoan territory) was occupied by New Zealand in WWI, and administered by it under a Class C [[League of Nations Mandate]] until receiving independence on January 1, 1962. The new Independent State of Samoa was not a monarchy, though the Malietoa title-holder remained very influential. It officially ended, however with the death of Malietoa Tanumafili II on May 11, 2007.
+
+====Tahiti====
+{{Main|Pomare Dynasty}}
+
+====Hawaii====
+[[File:Two natives with outrigger canoes at shoreline, Honolulu, Hawaii.jpg|thumb|Polynesians with [[Outrigger canoe]]s at [[Waikiki beach]], [[Oahu]] Island, early 20th century]]{{Main|Kingdom of Hawaii}}
+
+====New Zealand Maori====
+On October 28, 1835 members of the [[Ngāpuhi]] and surrounding [[iwi]] issued a &quot;declaration of independence&quot;, as a &quot;confederation of tribes&quot; to resist potential French colonization efforts and to prevent the ships and cargo of Maori merchants from being seized at foreign ports. They received recognition from the British monarch in 1836. (See [[United Tribes of New Zealand]], [[Declaration of the Independence of New Zealand|New Zealand Declaration of Independence]], [[James Busby]].)
+
+Using the [[Treaty of Waitangi]] and [[Terra nullius|right of discovery]] as a basis, the [[United Kingdom]] annexed New Zealand as a part of [[New South Wales]] in 1840.
+
+In response to the actions of the colonial government, Maori looked to form monarchy inclusive of all Maori tribes in order to reduce vulnerability to the British divide-and-conquer strategy. [[Pōtatau Te Wherowhero]] high priest and chief of the [[Ngāti Mahuta]] tribe  of the [[Waikato]] iwi was crowned as the Maori king in 1858. The king's territory consisted primarily of the lands in the center of the North Island, and the iwi constituted from the most powerful non-signatories of the Treaty of Waitangi, with Te Wherowhero also never having signed it.&lt;ref&gt;{{cite web|title=The Treaty of Waitangi|url=http://www.history-nz.org/colonisation2.html|work=The colonisation of New Zealand|accessdate=20 September 2011}}&lt;/ref&gt;  (See [[Kingitanga]].)
+
+All tribes were incorporated into rule under the colonial government by the late 19th century. Although Maori were given the privilege of being legally enfranchised subjects of the British Empire under the Treaty, Maori culture and language were actively suppressed by the colonial government and by economic and social pressures from the [[Pakeha]] society until efforts were made to preserve indigenous culture starting in the late 1950s and culminating in the [[Waitangi Tribunal]]'s interpretation of language and culture being included in the treasures set to be preserved under the Treaty of Waitangi. Moving from a low point of 15,000 speakers in the 1970s, there are now over 157,000 people who have some proficiency in the standard [[Māori language]] according to the 2006 census&lt;ref&gt;[http://www.socialreport.msd.govt.nz/cultural-identity/maori-language-speakers.html &quot;Māori language speakers&quot;], msd.govt.nz&lt;/ref&gt; in New Zealand, due in large part to government recognition and promotion of the language.
+
+Maori are very much integrated into New Zealand society, and many are of mixed Maori and European, Asian, or Pacific Islander heritage. The New Zealand Defence forces are over half Maori, and the New Zealand Special Forces are ⅔ Maori. Furthermore, [[Jerry Mateparae]], a former [[Governor-General of New Zealand]], was the ''ex officio'' Commander-in-Chief of the [[New Zealand Armed Forces]].
+
+====Fiji====
+{{See also|History of Fiji|Seru Epenisa Cakobau|Fiji during the time of Cakobau}}
+The Lau islands were subject to periods of Tongan rulership and then Fijian control until their eventual conquest by Seru Epenisa Cakobau of the Kingdom of Fiji by 1871. In around 1855 a Tongan prince, [[Enele Ma'afu]], proclaimed the Lau islands as his kingdom, and took the title [[Tui Lau]].
+
+Fiji itself had been ruled by numerous divided chieftains until Cakobau unified the landmass. The Lapita culture, the ancestors of the Polynesians, existed in Fiji from 3500 BCE until they were displaced by the Melanesians about a thousand years later. (Interestingly, Samoans and subsequent Polynesian cultures adopted Melanesian face painting methods.)
+
+In 1873, Cakobau ceded a Fiji heavily indebted to foreign creditors to the United Kingdom. It became independent on 10 October 1970 and a republic on 28 September 1987.
+
+====Cook Islands====
+{{See also|History of the Cook Islands|Kingdom of Rarotonga}}
+
+====Tuvalu====
+{{Main|History of Tuvalu}}
+[[File:Canoe carving on Nanumea.jpg|thumb|upright|Canoe carving on [[Nanumea]] atoll, Tuvalu]]
+The [[reef]] islands and [[atolls]] of [[Tuvalu]] are identified as being part of West Polynesia. During pre-European-contact times there was frequent canoe voyaging between the islands as [[Polynesian navigation]] skills are recognised to have allowed deliberate journeys on double-hull sailing canoes or [[outrigger canoe]]s.&lt;ref name=&quot;Belwood10&quot;&gt;{{cite book |last1= Bellwood|first1= Peter|authorlink1= |title=The Polynesians – Prehistory of an Island People |url= |accessdate=  |year= 1987 |publisher=Thames and Hudson |location= |language= |isbn=|oclc= |doi= |id= |page= |pages=39–44|chapter= |chapterurl= |quote= |ref= |bibcode= }}&lt;/ref&gt; Eight of the nine islands of Tuvalu were inhabited; thus the name, Tuvalu, means &quot;eight standing together&quot; in [[Tuvaluan language|Tuvaluan]]. The pattern of settlement that is believed to have occurred is that the Polynesians spread out from the Samoa and [[Tonga]] into the Tuvaluan atolls, with Tuvalu providing a stepping stone to migration into the [[Polynesian outliers|Polynesian Outlier communities]] in [[Melanesia]] and [[Micronesia]].&lt;ref name=&quot;Belwood2&quot;&gt;{{cite book |last1= Bellwood|first1= Peter|title=The Polynesians – Prehistory of an Island People|year= 1987 |publisher=Thames and Hudson  |pages=29, 54|isbn=0500274509}}&lt;/ref&gt;&lt;ref name=&quot;Bayard&quot;&gt;{{cite book |last1=Bayard|first1=D.T.|title=The Cultural Relationships of the Polynesian Outiers |year= 1976 |publisher=Otago University, Studies in Prehistoric Anthropology, Vol. 9}}&lt;/ref&gt;&lt;ref name=&quot;Kirch&quot;&gt;{{cite journal|last1=Kirch|first1=P.V. |title=The Polynesian Outiers|year= 1984 |volume=95 |issue=4|journal= Journal of Pacific History|pages=224–238|doi=10.1080/00223348408572496}}&lt;/ref&gt;
+
+The stories as to the ancestors of the Tuvaluans vary from island to island. On [[Niutao]],&lt;ref name=&quot;PAS&quot;&gt;{{cite book |author=Sogivalu, Pulekau A.|title=A Brief History of Niutao|year=1992 |publisher= Institute of Pacific Studies, University of the South Pacific|isbn=982-02-0058-X}}&lt;/ref&gt; [[Funafuti]] and [[Vaitupu]] the founding ancestor is described as being from [[Samoa]];&lt;ref name=&quot;Genesis 1983&quot;&gt;{{cite book | author= O’Brien, Talakatoa |  title=Tuvalu: A History, Chapter 1, Genesis| year= 1983 | publisher= Institute of Pacific Studies, University of the South Pacific and Government of Tuvalu  }}&lt;/ref&gt;&lt;ref name=&quot;Kennedy&quot;&gt;{{cite journal|author=Kennedy, Donald G. |url=http://www.jps.auckland.ac.nz/document/Volume_38_1929/Field_notes_on_the_culture_of_Vaitupu%2C_Ellice_Islands%2C_by_Donald_Gilbert_Kennedy%2C_p_1-99/p1?action=null |title=Field Notes on the Culture of Vaitupu, Ellice Islands|journal=Journal of the Polynesian Society|volume=38|year= 1929|pages= 2–5}}&lt;/ref&gt; whereas on [[Nanumea]] the founding ancestor is described as being from [[Tonga]].&lt;ref name=&quot;Genesis 1983&quot;/&gt;
+
+The extent of influence of the [[Tuʻi Tonga]] line of Tongan kings, which originated in the 10th century is understood to have extended to some of the islands of Tuvalu in the 11th to mid-13th century.&lt;ref name=&quot;Kennedy&quot;/&gt; The oral history of [[Niutao]] recalls that in the 15th century Tongan warriors were defeated in a battle on the reef of Niutao, Tongan warriors also invaded Niutao later in the 15th century and again were repelled. A third and fourth Tongan invasion of Niutao occurred in the late 16th century, again with the Tongans being defeated.&lt;ref name=&quot;PAS&quot;/&gt;
+
+Fishing was the primary source of protein, with the [[cuisine of Tuvalu]] reflecting the food that could be grown on low-lying atolls. Navigation between the islands of Tuvalu was carried out using outrigger canoes. The population levels of the low-lying islands of Tuvalu had to be managed because of the effects of periodic droughts and the risk of severe famine if the gardens were poisoned by the salt from the storm-surge of a [[tropical cyclone]].
+
+===Polynesian links to the Americas===
+{{See also|Pre-Columbian trans-oceanic contact#Possible Polynesian trans-oceanic contact}}
+The [[Ipomoea batatas|sweet potato]], called ''kūmara'' in [[Māori language|Māori]] and ''kumar'' in [[Quechua languages|Quechua]], is native to the Americas and was widespread in Polynesia when Europeans first reached the Pacific. Remains of the plant in the Cook Islands have been radiocarbon-dated to 1000, and current thinking is that it was brought to central Polynesia c. 700 and spread across Polynesia from there, possibly by Polynesians who had traveled to South America and back.&lt;ref&gt;{{Cite book |last=Van Tilburg |first=Jo Anne |year=1994 |title=Easter Island: Archaeology, Ecology and Culture |location=Washington, DC |publisher=Smithsonian Institution Press}}&lt;/ref&gt;
+
+[[Thor Heyerdahl]] proposed in the mid-20th century that the Polynesians had migrated from the northwest coast of Canada by large whale-hunting dugouts, and from South America on [[balsa]]-log boats.&lt;ref name=&quot;Sharp_1963_122128&quot;&gt;Sharp, Andrew (1963). ''Ancient Voyagers in Polynesia'', Longman Paul Ltd. pp. 122–128.&lt;/ref&gt;&lt;ref name=&quot;Finney_1963_5&quot;&gt;Finney, Ben R. (1976) &quot;New, Non-Armchair Research&quot;. In Ben R. Finney , ''Pacific Navigation and Voyaging'', The Polynesian Society Inc. p. 5.&lt;/ref&gt; Many anthropologists have criticised Heyerdahl's theory, including [[Wade Davis (anthropologist)|Wade Davis]] in his book ''The Wayfinders''. Davis says that Heyerdahl &quot;ignored the overwhelming body of linguistic, ethnographic, and ethnobotanical evidence, augmented today by genetic  and archaeological data, indicating that he was patently wrong.&quot;&lt;ref&gt;Davis, Wade (2010) ''The Wayfinders: Why Ancient Wisdom Matters in the Modern World'', Crawley: University of Western Australia Publishing, p. 46.&lt;/ref&gt;
+
+==Cultures of Polynesia==&lt;!-- This section is linked from [[French Polynesia]] --&gt;
+{{Main|Polynesian culture}}
+[[File:Paul Gauguin 056.jpg|Painting of ''Tahitian Women on the Beach'' by [[Paul Gauguin]]—[[Musée d'Orsay]]|thumb]]
+
+Polynesia divides into two distinct cultural groups, East Polynesia and West Polynesia. The culture of West Polynesia is conditioned to high populations. It has strong institutions of marriage and well-developed judicial, monetary and trading traditions. It comprises the groups of [[Tonga]], [[Niue]], [[Samoa]] and extended to the atolls of [[Tuvalu]] to the north. The pattern of settlement that is believed to have occurred is that the Polynesians spread out from the Samoan Islands into the Tuvaluan atolls, with [[Tuvalu]] providing a stepping stone to migration into the [[Polynesian outliers|Polynesian Outlier communities]] in [[Melanesia]] and [[Micronesia]].&lt;ref name=&quot;Belwood2&quot; /&gt;&lt;ref name=&quot;Bayard&quot; /&gt;&lt;ref name=&quot;Kirch&quot; /&gt;
+
+Eastern Polynesian cultures are highly adapted to smaller islands and atolls, principally the [[Cook Islands]], [[Tahiti]], the [[Tuamotus]], the [[Marquesas]], [[Hawaii]], [[Rapa Nui]] and smaller central-pacific groups. The large islands of [[New Zealand]] were first settled by Eastern Polynesians who adapted their culture to a non-tropical environment.
+
+Unlike in [[Melanesia]], leaders were chosen in Polynesia based on their hereditary bloodline. Samoa however, had another system of government that combines elements of heredity and real-world skills to choose leaders. This system is called [[Fa'amatai]]. According to Ben R. Finney and Eric M. Jones, &quot;On Tahiti, for example, the 35,000 Polynesians living there at the time of European discovery were divided between high-status persons with full access to food and other resources, and low-status persons with limited access.&quot;&lt;ref name=&quot;polynesia&quot;/&gt;
+[[File:TahuhuNgatiAwa.jpg|thumb|left|upright|[[Wood carving|Carving]] from the ridgepole of a [[Māori people|Māori]] house, ca 1840]]
+
+Religion, farming, fishing, weather prediction, out-rigger canoe (similar to modern [[catamaran]]s) construction and [[navigation]] were highly developed skills because the population of an entire island depended on them. Trading of both luxuries and mundane items was important to all groups. Periodic droughts and subsequent famines often led to war.&lt;ref name=&quot;polynesia&quot;&gt;Finney, Ben R. and Jones, Eric M. (1986). &quot;''[https://books.google.com/books?id=iKnaLbRtQasC&amp;pg=PA176 Interstellar Migration and the Human Experience]''&quot;. [[University of California Press]]. p.176. ISBN 0-520-05898-4&lt;/ref&gt; Many low-lying islands could suffer severe famine if their gardens were poisoned by the salt from the storm-surge of a [[tropical cyclone]]. In these cases fishing, the primary source of protein, would not ease loss of [[food energy]]. Navigators, in particular, were highly respected and each island maintained a house of navigation with a canoe-building area.
+
+Settlements by the Polynesians were of two categories: the hamlet and the village. Size of the island inhabited determined whether or a not a hamlet would be built. The larger [[volcanic]] islands usually had hamlets because of the many zones that could be divided across the island. Food and resources were more plentiful and so these settlements of four to five houses (usually with gardens) were established so that there would be no overlap between the zones. Villages, on the other hand, were built on the coasts of smaller islands and consisted of thirty or more houses—in the case of atolls, on only one of the group so that food cultivation was on the others. Usually these villages were fortified with walls and palisades made of stone and wood.&lt;ref&gt;Encyclopædia Britannica, 1995&lt;/ref&gt;
+
+However, New Zealand demonstrates the opposite: large volcanic islands with fortified villages.
+
+As well as being great navigators these people [[Polynesian art|were artists and artisans]] of great skill. Simple objects, such as fish-hooks would be manufactured to exacting standards for different catches and decorated even when the decoration was not part of the function. Stone and wooden weapons were considered to be more powerful the better they were made and decorated. In some island groups weaving was a strong part of the culture and gifting woven articles an ingrained practice. Dwellings were imbued with character by the skill of their building. Body decoration and jewellery is of international standard to this day.
+
+The religious attributes of Polynesians were common over the whole Pacific region. While there are some differences in their spoken languages they largely have the same explanation for the creation of the earth and sky, for the gods that rule aspects of life and for the religious practices of everyday life. People travelled thousands of miles to celebrations that they all owned communally.
+
+Beginning in the 1820s large numbers of missionaries worked in the islands, converting many groups to Christianity. Polynesia, argues Ian Breward,  is now &quot;one of the most strongly Christian regions in the world....Christianity was rapidly and successfully incorporated into Polynesian culture.  War and slavery disappeared.&quot;&lt;ref&gt;Ian Breward in {{cite book|last1=Farhadian|first1=Charles E.|last2=Hefner|first2=Robert W.|title=Introducing World Christianity|url=https://books.google.com/books?id=6qjCRE85QjYC&amp;pg=PA228|year=2012|publisher=John Wiley &amp; Sons|pages=218–29}}; quote at p 228&lt;/ref&gt;
+
+==Polynesian languages==
+{{main|Polynesian languages}}
+Polynesian languages are all members of the family of [[Oceanic languages]], a sub-branch of the [[Austronesian languages|Austronesian]] language family. Polynesian languages show a considerable degree of similarity. The [[vowels]] are generally the same—a, e, i, o, and u, pronounced as in [[Italian language|Italian]], [[Spanish language|Spanish]], and [[German language|German]]—and the consonants are always followed by a vowel. The languages of various island groups show changes in [[consonant]]s. ''R'' and ''v'' are used in central and eastern Polynesia whereas ''l'' and ''v'' are used in western Polynesia. The [[glottal stop]] is increasingly represented by an inverted comma  or [[‘okina]]. In the [[Society Islands]], the original [[Proto-Polynesian language|Proto-Polynesian]] *''k'' and *''ng'' have merged as glottal stop; so the name for the ancestral homeland, deriving from Proto-Nuclear Polynesian ''*sawaiki'',&lt;ref name=&quot;pollexSawaiki&quot;&gt;{{cite web|url=http://pollex.org.nz/entry/sawaiki/ |title=Polynesian Lexicon Project Online |publisher=Pollex.org.nz }}&lt;/ref&gt; becomes Havai'i. In New Zealand, where the original *''w'' is used instead of ''v'', the ancient home is [[Hawaiki]]. In the Cook Islands, where the glottal stop replaces the original *''s'' (with a likely intermediate stage of *''h''), it is ‘Avaiki. In the Hawaiian islands, where the glottal stop replaces the original ''k'', the largest island of the group is named Hawai‘i. In Samoa, where the original ''s'' is used instead of ''h'', ''v'' replaces ''w'', and the glottal stop replaces the original ''k'', the largest island is called [[Savai'i]].&lt;ref name=trh&gt;{{cite book
+|url=http://www.nzetc.org/tm/scholarly/tei-BucViki-t1-body-d1-d7.html
+|work=NZ Electronic Text Centre, Victoria University, NZ Licence CC-BY-SA 3.0
+|title=Vikings of the Sunrise
+|first=Te Rangi (Sir Peter Henry Buck)
+|last=Hiroa
+|page=67
+|year=1964|edition=reprint
+|publisher=Whitcombe and Tombs Ltd
+|isbn=
+|accessdate=2 March 2010
+}}&lt;/ref&gt;
+
+==Economy==
+With the exception of New Zealand, the majority of independent Polynesian islands derive much of their income from foreign aid and remittances from those who live in other countries. Some encourage their young people to go where they can earn good money to remit to their stay-at-home relatives. Many Polynesian locations, such as [[Easter Island]], supplement this with tourism income. Some have more unusual sources of income, such as [[Tuvalu]] which marketed its '[[.tv]]' internet top-level domain name or the Cooks that relied on [[Postage stamp|stamp]] sales.
+
+[[File:Tuilaepa Sailele Malielegaoi.jpg|thumb|right|[[Tuilaepa Sailele Malielegaoi]], [[Prime Minister of Samoa]], who initiated the [[Polynesian Leaders Group]] in late 2011.]]
+
+==Inter-Polynesian cooperation==
+After several years of discussing a potential regional grouping, three sovereign states (Samoa, Tonga and Tuvalu) and five self-governing but non-sovereign territories formally launched, in November 2011, the [[Polynesian Leaders Group]], intended to cooperate on a variety of issues including culture and language, education, responses to climate change, and trade and investment. It does not, however, constitute a political or monetary union.&lt;ref&gt;[http://pacific.scoop.co.nz/2011/09/nz-may-be-invited-to-join-proposed-polynesian-triangle-ginger-group/ &quot;NZ may be invited to join proposed ‘Polynesian Triangle’ ginger group&quot;], Pacific Scoop, 19 September 2011&lt;/ref&gt;&lt;ref&gt;[http://www.rnzi.com/pages/news.php?op=read&amp;id=64516 &quot;New Polynesian Leaders Group formed in Samoa&quot;], Radio New Zealand International, 18 November 2011&lt;/ref&gt;&lt;ref&gt;[http://www.samoanews.com/viewstory.php?storyid=32376 &quot;American Samoa joins Polynesian Leaders Group, MOU signed&quot;], ''Savali'', 19 November 2011&lt;/ref&gt;
+
+==Polynesian navigation==
+{{Main|Polynesian navigation}}
+
+Polynesia comprised islands diffused throughout a triangular area with sides of four thousand miles. The area from the Hawaiian Islands in the north, to Easter Island in the east and to New Zealand in the south were all settled by Polynesians.
+
+[[Navigator]]s traveled to small inhabited islands using only their own senses and knowledge passed by [[oral tradition]] from navigator to apprentice. In order to locate directions at various times of day and year, navigators in Eastern Polynesia memorized important facts: the motion of specific [[star]]s, and where they would rise on the [[horizon]] of the ocean; [[weather]]; times of travel; wildlife species (which congregate at particular positions); directions of swells on the ocean, and how the crew would feel their motion; colors of the sea and sky, especially how clouds would cluster at the locations of some islands; and angles for approaching harbors.
+
+[[File:Priests traveling across kealakekua bay for first contact rituals.jpg|thumb|right|Polynesian (Hawaiian) navigators sailing multi-hulled [[canoe]], ca 1781]]
+[[File:Va'a canoe, Matavai village, Savaii, Samoa MS.JPG|thumb|right|A common fishing canoe ''va'a'' with outrigger in [[Savai'i]] island, [[Samoa]], 2009]]
+These [[wayfinding]] techniques, along with [[outrigger]] [[canoe]] construction methods, were kept as [[guild]] secrets. Generally each island maintained a guild of navigators who had very high status; in times of famine or difficulty these navigators could trade for aid or evacuate people to neighboring islands. On his first voyage of Pacific exploration Cook had the services of a Polynesian navigator, [[Tupaia (navigator)|Tupaia]], who drew a hand-drawn Chart of the islands within {{convert|2000|mi|km|abbr=on|order=flip}} radius (to the north and west) of his home island of [[Ra'iatea]]. Tupaia had knowledge of 130 islands and named 74 on his Chart.&lt;ref name=&quot;Druett2&quot;&gt;{{cite book |last1= Druett |first1= Joan|title=Tupaia – The Remarkable Story of Captain Cook’s Polynesian Navigator |year= 1987 |publisher=Random House, New Zealand|pages=226–227|isbn=0313387486}}&lt;/ref&gt; Tupaia had navigated from Ra'iatea in short voyages to 13 islands. He had not visited western Polynesia, as since his grandfather’s time the extent of voyaging by Raiateans has diminished to the islands of eastern Polynesia.  His grandfather and father had passed to Tupaia the knowledge as to the location of the major islands of western Polynesia and the navigation information necessary to voyage to [[Fiji]], [[Samoa]] and [[Tonga]].&lt;ref name=&quot;Druett1&quot;&gt;{{cite book |last1= Druett |first1= Joan|title=Tupaia – The Remarkable Story of Captain Cook’s Polynesian Navigator |year= 1987 |publisher=Random House, New Zealand |pages=218–233|isbn=0313387486}}&lt;/ref&gt; As the Admiralty orders directed Cook to search for the [[Terra Australis|“Great Southern Continent”]], Cook ignored Tupaia’s Chart and his skills as a navigator. To this day, original traditional methods of Polynesian Navigation are still taught in the [[Polynesian outlier]] of [[Duff Islands|Taumako Island]] in the [[Islands of the Solomon Islands|Solomon Islands]].
+
+From a single chicken bone recovered from the archaeological site of El Arenal-1, on the [[Arauco Peninsula]], Chile, a 2007 research report looking at radiocarbon dating and an ancient DNA sequence indicate that Polynesian navigators may have reached the Americas at least 100 years before Columbus (who arrived 1492 AD), introducing chickens to South America.&lt;ref&gt;{{Cite news |url=http://www.nytimes.com/2007/06/05/science/05chic.html |title=First Chickens in Americas Were Brought From Polynesia |first=John Noble |last=Wilford |newspaper=The New York Times |date=June 5, 2007 }}&lt;/ref&gt;&lt;ref&gt;{{Cite journal 
+| last1 = Storey | first1 = A. A. 
+| last2 = Ramirez | first2 = J. M. 
+| last3 = Quiroz | first3 = D. 
+| last4 = Burley | first4 = D. V. 
+| last5 = Addison | first5 = D. J. 
+| last6 = Walter | first6 = R. 
+| last7 = Anderson | first7 = A. J. 
+| last8 = Hunt | first8 = T. L. 
+| last9 = Athens | first9 = J. S. 
+| last10 = Huynen 
+| doi = 10.1073/pnas.0703993104 | first10 = L. 
+| last11 = Matisoo-Smith | first11 = E. A. 
+| title = Radiocarbon and DNA evidence for a pre-Columbian introduction of Polynesian chickens to Chile 
+| journal = Proceedings of the National Academy of Sciences 
+| volume = 104 
+| issue = 25 
+| pages = 10335–10339 
+| year = 2007 
+| pmid = 17556540 
+| pmc =1965514 
+}}&lt;/ref&gt; A later report looking at the same specimens concluded:
+
+&lt;blockquote&gt;
+A published, apparently pre-Columbian, Chilean specimen and six pre-European Polynesian specimens also cluster with the same European/Indian subcontinental/Southeast Asian sequences, providing no support for a Polynesian introduction of chickens to South America. In contrast, sequences from two archaeological sites on Easter Island group with an uncommon haplogroup from Indonesia, Japan, and China and may represent a genetic signature of an early Polynesian dispersal. Modeling of the potential marine carbon contribution to the Chilean archaeological specimen casts further doubt on claims for pre-Columbian chickens, and definitive proof will require further analyses of ancient DNA sequences and radiocarbon and stable isotope data from archaeological excavations within both Chile and Polynesia.&lt;ref&gt;{{Cite journal 
+| last1 = Gongora | first1 = J. 
+| last2 = Rawlence | first2 = N. J. 
+| last3 = Mobegi | first3 = V. A. 
+| last4 = Jianlin | first4 = H. 
+| last5 = Alcalde | first5 = J. A. 
+| last6 = Matus | first6 = J. T. 
+| last7 = Hanotte | first7 = O. 
+| last8 = Moran | first8 = C. 
+| last9 = Austin | first9 = J. J. 
+| doi = 10.1073/pnas.0801991105 
+| last10 = Ulm | first10 = S. 
+| last11 = Anderson | first11 = A. J. 
+| last12 = Larson | first12 = G. 
+| last13 = Cooper | first13 = A. 
+| title = Indo-European and Asian origins for Chilean and Pacific chickens revealed by mtDNA 
+| journal = Proceedings of the National Academy of Sciences 
+| volume = 105 
+| issue = 30 
+| pages = 10308–10313 
+| year = 2008 
+| pmid = 18663216 
+| pmc =2492461 
+}}&lt;/ref&gt;
+&lt;/blockquote&gt;
+Knowledge of the traditional Polynesian methods of navigation were largely lost after contact with and colonization by Europeans. This left the problem of accounting for the presence of the Polynesians in such isolated and scattered parts of the Pacific. By the late 19th century to the early 20th century a more generous view of Polynesian navigation had come into favor, perhaps creating a romantic picture of their canoes, seamanship and navigational expertise.
+
+In the mid to late 1960s, scholars began testing sailing and paddling experiments related to Polynesian navigation: [[David Henry Lewis|David Lewis]] sailed his catamaran from Tahiti to New Zealand using [[stellar navigation]] without instruments and [[Ben Finney]] built a 40-foot replica of a Hawaiian double canoe &quot;Nalehia&quot; and tested it in Hawaii.&lt;ref&gt;Lewis, David. [http://www.jps.auckland.ac.nz/document/?wid=4479 &quot;A Return Voyage Between Puluwat and Saipan Using Micronesian Navigational Techniques&quot;]. In Ben R. Finney (1976), ''Pacific Navigation and Voyaging'', The Polynesian Society Inc.&lt;/ref&gt; Meanwhile, Micronesian ethnographic research in the Caroline Islands revealed that traditional stellar navigational methods were still in every day use. Recent re-creations of Polynesian voyaging have used methods based largely on Micronesian methods and the teachings of a Micronesian navigator, [[Mau Piailug]].
+
+It is probable that the Polynesian navigators employed a whole range of techniques including use of the stars, the movement of ocean currents and wave patterns, the air and sea interference patterns caused by islands and [[atoll]]s, the flight of birds, the winds and the weather. Scientists think that long-distance Polynesian voyaging followed the seasonal paths of [[bird migration|birds]]. There are some references in their oral traditions to the flight of birds and some say that there were range marks onshore pointing to distant islands in line with these [[flyway]]s. One theory is that they would have taken a [[frigatebird]] with them. These birds refuse to land on the water as their feathers will become waterlogged making it impossible to fly. When the voyagers thought they were close to land they may have released the bird, which would either fly towards land or else return to the canoe. It is likely that the Polynesians also used wave and swell formations to navigate. It is thought that the Polynesian navigators may have measured the time it took to sail between islands in &quot;canoe-days’’ or a similar type of expression.
+
+Also, people of the Marshall Islands used special devices called [[Marshall Islands stick chart|stick charts]], showing the places and directions of swells and wave-breaks, with tiny seashells affixed to them to mark the positions of islands along the way. Materials for these maps were readily available on beaches, and their making was simple; however, their effective use needed years and years of study.&lt;ref&gt;{{cite journal|url=http://www.ethnomath.org/resources/bryan1938.pdf|title=Marshall Islands Stick Chart|last=Bryan|first=E.H.|year=1938|journal=Paradise of the Pacific|volume=50|pages=12–13|issue=7}}&lt;/ref&gt;
+
+==See also==
+{{Portal|Geography|Oceania|&lt;!-- Polynesia --&gt;}}
+&lt;!-- {{Wikipedia-Books}} --&gt;
+&lt;!-- {{main|Outline of Polynesia|Index of Polynesia-related articles}} --&gt;
+&lt;!-- * [[Bibliography of Polynesia]] --&gt;
+* [[List of Polynesians]]
+* [[Polynesian mythology]]
+* [[Polynesian Society]]
+* [[Polynesian Voyaging Society]]
+* [[Moana (2016 film)|Moana]]
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* {{cite book | author=Gatty, Harold | title=Finding Your Ways Without Map or Compass | publisher=Dover Publications, Inc | year=1999 | isbn=0-486-40613-X}}
+
+==External links==
+{{Wiktionary}}
+{{Commons_and_category|Polynesia}}
+* [http://www.jeanhervedaude.com/Ile%20de%20Paques%20histoire%20par%20les%20timbres.htm History of Easter Island illustrated by stamps]
+* [http://www.abc.net.au/gnt/history/Transcripts/s1066068.htm Interview with David Lewis]
+* [http://www.tritonfilms.com/lewisreview.htm Lewis commenting on ''Spirits of the Voyage'']
+* [http://www.maori.info/ Useful introduction to Maori society, including canoe voyages]
+* [http://www.smh.com.au/articles/2002/11/15/1037080913844.html Obituary: David Henry Lewis—including how he came to rediscover Pacific Ocean navigation methods]
+{{Polynesia}}
+{{Countries and territories of Oceania}}
+{{Culture of Oceania|state=autocollapse}}
+{{Regions of the world}}
+
+{{Authority control}}
+
+[[Category:Polynesia| ]]
+[[Category:Islands of Oceania]]
+[[Category:Regions of Oceania]]</text>
+      <sha1>ql6pwklredu5bdcsdivoyl9br997285</sha1>
+    </revision>
+  </page>
+</mediawiki>

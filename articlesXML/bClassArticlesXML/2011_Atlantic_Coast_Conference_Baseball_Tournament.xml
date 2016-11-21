@@ -1,0 +1,537 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>2011 Atlantic Coast Conference Baseball Tournament</title>
+    <ns>0</ns>
+    <id>31864382</id>
+    <revision>
+      <id>630819273</id>
+      <parentid>600157359</parentid>
+      <timestamp>2014-10-23T17:47:06Z</timestamp>
+      <contributor>
+        <username>Muboshgu</username>
+        <id>602857</id>
+      </contributor>
+      <comment>/* Division A */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14081">{{Infobox NCAA Baseball Conference Tournament |
+| Year=2011
+| Conference=Atlantic Coast Conference
+| ShortConference=ACC
+| Division=
+| Image=2011_ACC_Baseball_Championship_Logo.PNG
+| ImageSize=175px
+| Caption=2011 ACC baseball tournament logo
+| Teams=8
+| Format=2 division [[Round-robin tournament|round robin]] and &lt;br&gt;[[Final (competition)|championship game]]
+| Ballpark= Durham Bulls Athletic Park
+| City= Durham, NC
+| 1stRoundBallpark=
+| 1stRoundCity=
+| QuarterBallpark=
+| QuarterCity=
+| SemiBallpark=
+| SemiCity=
+| FinalBallpark=
+| FinalCity=
+| Champions= [[Virginia Cavaliers baseball|Virginia Cavaliers]]
+| TitleCount=3rd
+| Coach=[[Brian O'Connor (baseball coach)|Brian O'Connor]]
+| CoachCount=2nd
+| MVP=Steven Proscia
+| MVPTeam=Virginia Cavaliers
+| Attendance=
+| Television=[[Regional sports network|RSN]]
+}}
+{{2011 Atlantic Coast Conference baseball standings}}
+
+The '''2011 Atlantic Coast Conference Baseball Tournament''' was held at the [[Durham Bulls Athletic Park]] in [[Durham, NC]] from May 25 through May 29. All of the games were shown live on [[Fox Sports South]] with select games being shown on [[Fox Sports Florida]], [[Comcast SportsNet Mid-Atlantic|Comcast Mid-Atlantic]], [[Sun Sports]], and [[New England Sports Network]]. Top seeded [[Virginia Cavaliers baseball|Virginia]] won the tournament and earned the [[Atlantic Coast Conference]]'s automatic bid to the [[2011 NCAA Division I Baseball Tournament]]. It was Virginia's third ACC tournament win and second in three years.
+
+2011 was the fifth year in which the conference used a [[round-robin tournament]] format, with the team with the best record in each group at the end of the three-game round robin advancing to a one-game championship.
+
+==Seeding==
+
+{| 
+|
+{| class=&quot;wikitable&quot;
+|-
+| colspan=&quot;6&quot; align=&quot;center&quot;| '''Atlantic Division'''
+|- 
+! Team
+! W
+! L
+! Pct
+! GB
+! Seed
+|- bgcolor=&quot;#ccffcc&quot;
+| Florida State
+| 19
+| 11
+| .633
+| &lt;center&gt;–
+| &lt;center&gt;'''2'''
+|- bgcolor=&quot;#ccffcc&quot;
+| Clemson
+| 17
+| 13
+| .567
+| &lt;center&gt;2
+| &lt;center&gt;'''6'''
+|- bgcolor=&quot;#ccffcc&quot;
+| NC State
+| 15
+| 15
+| .500
+| &lt;center&gt;4
+| &lt;center&gt;'''7'''
+|- bgcolor=&quot;#ccffcc&quot;
+| Wake Forest
+| 15
+| 15
+| .500
+| &lt;center&gt;4
+| &lt;center&gt;'''8'''
+|-
+| Boston College
+| 7
+| 22
+| .241
+| &lt;center&gt;12
+| 
+|-
+| Maryland
+| 5
+| 25
+| .167
+| &lt;center&gt;14
+| 
+|}
+|
+{| class=&quot;wikitable&quot;
+|-
+| colspan=&quot;6&quot; align=&quot;center&quot;| '''Coastal Division'''
+|-
+! Team
+! W
+! L
+! Pct
+! GB
+! Seed
+|- bgcolor=&quot;#ccffcc&quot;
+| Virginia
+| 22
+| 8
+| .733
+| &lt;center&gt;–
+| &lt;center&gt;'''1'''
+|- bgcolor=&quot;#ccffcc&quot;
+| Georgia Tech
+| 22
+| 8
+| .733
+| &lt;center&gt;–
+| &lt;center&gt;'''3'''
+|- bgcolor=&quot;#ccffcc&quot;
+| North Carolina
+| 20
+| 10
+| .667
+| &lt;center&gt;2
+| &lt;center&gt;'''4'''
+|- bgcolor=&quot;#ccffcc&quot;
+| Miami
+| 19
+| 10
+| .655
+| &lt;center&gt;3
+| &lt;center&gt;'''5'''
+|- 
+| Virginia Tech
+| 11
+| 19
+| .367
+| &lt;center&gt;11
+| 
+|-
+| Duke
+| 7
+| 23
+| .233
+| &lt;center&gt;15
+| 
+|}
+|}
+
+==Tournament==
+{{ACCRR
+| team-1-abbrev= UVA
+| team-1= Virginia (22–8)
+| team-2-abbrev= FSU
+| team-2= Florida State (19–11)
+| team-3-abbrev= GT
+| team-3= Georgia Tech (22–8)
+| team-4-abbrev= UNC
+| team-4= North Carolina (20–10)
+| team-5-abbrev= MIA
+| team-5= Miami (19–10)
+| team-6-abbrev= CLEM
+| team-6= Clemson (17–13)
+| team-7-abbrev= NCSU
+| team-7= NC State (15–15)
+| team-8-abbrev= WF
+| team-8= Wake Forest (15–15)
+|color-1=ccffcc |1v4= '''W''' 3–2 |1v5= '''W''' 6–4 |1v8= '''W''' 13–1&lt;sup&gt;‡&lt;/sup&gt; |1total= 3–0
+|color-4= |4v1= '''L''' 2–3|4v5= '''L''' 5–7 |4v8= '''W''' 9–0 |4total= 1–2
+|color-5= |5v1= '''L''' 4–6 |5v4= '''W''' 7–5 |5v8= '''W''' 4–2 |5total= 2–1
+|color-8= |8v1= '''L''' 1–13&lt;sup&gt;‡&lt;/sup&gt; |8v4= '''L''' 0–9 |8v5= '''L''' 2–4 |8total= 0–3
+|color-2=ccffcc |2v3= '''W''' 4–2 |2v6= '''W''' 6–3 |2v7= '''L''' 0–7 |2total= 2–1
+|color-3= |3v2= '''L''' 2–4 |3v6= '''L''' 0–9 |3v7= '''W''' 6–5 |3total= 1–2
+|color-6= |6v2= '''L''' 3–6 |6v3= '''W''' 9–0 |6v7= '''W''' 6–3 |6total= 2–1
+|color-7= |7v2= '''W''' 7–0 |7v3= '''L''' 5–6 |7v6= '''L''' 3–6 |7total= 1–2
+| Finals-team1='''#1 Virginia'''
+| Finals-score1= 7
+| Finals-team2=#2 Florida State
+| Finals-score2= 2
+}}
+
+'''Notes'''&lt;br&gt;
+'''†''' - Denotes extra innings&lt;br&gt;
+'''‡''' - Denotes game shortened due to mercy rule&lt;br&gt;
+
+==Results==
+{{Col-begin}}
+{{Col-1-of-2}}
+===Division A===
+{{linescore|Compact=no
+| Date = Wednesday, May 25
+| Time = 3:00 pm
+| Location = 
+| Other = 
+| Road = #8 Wake Forest | RoadAbr = WAKE
+| R1 =0 | R2 = 1 | R3 =  0 | R4 = 0 | R5 = 0 | R6 = 0 | R7 = 0 | R8 = – | R9 = – | RR = 1 | RH = 2 | RE = 2
+| Home = '''#1 Virginia''' | HomeAbr = UVA
+| H1 = 1 | H2 = 3 | H3 = 2 | H4 = 0 | H5 = 3 | H6 = 4 | H7 = X | H8 = – | H9 = – | HR = 13 | HH = 15 | HE = 1
+| WP = Tyler Wilson | LP = Brian Holmes | SV = 
+| HomeHR = Steven Proscia, Keith Weman, David Coleman, Reed Gragnani | RoadHR = [[Mac Williamson]]
+| Attendance = 1,472
+| Notes = Game ended in the top of the seventh inning due to the [[Mercy rule]].
+| BoxURL = http://grfx.cstv.com/photos/schools/acc/sports/m-basebl/auto_pdf/ACC11-2.pdf
+}}
+
+{{linescore|Compact=no
+| Date = Thursday, May 26
+| Time = 11:00 am
+| Location = 
+| Other = 
+| Road = '''#5 Miami''' | RoadAbr = MIA
+| R1 = 0 | R2 = 0 | R3 =  0 | R4 = 0 | R5 = 0 | R6 = 4 | R7 = 2 | R8 = 0 | R9 = 1 | RR = 7 | RH = 14 | RE = 1
+| Home = #4 North Carolina | HomeAbr = UNC
+| H1 = 3 | H2 = 0 | H3 = 0 | H4 = 0 | H5 = 2 | H6 = 0 | H7 = 0 | H8 = 0 | H9 = 0 | HR = 5 | HH = 9 | HE = 2
+| WP =AJ Salcines | LP =RC Orlan  | SV =Daniel Miranda
+| HomeHR =  | RoadHR = 
+| Attendance = 3,259
+| Notes = 
+| BoxURL = http://grfx.cstv.com/photos/schools/acc/sports/m-basebl/auto_pdf/ACC11-4.pdf
+}}
+
+{{linescore|Compact=no
+| Date = Friday, May 27
+| Time = 11:00 am
+| Location = 
+| Other = 
+| Road = '''#1 Virginia''' | RoadAbr = UVA
+| R1 = 0 | R2 = 0 | R3 =  1 | R4 = 0 | R5 = 0 | R6 = 2 | R7 = 3 | R8 = 0 | R9 = 0 | RR = 6 | RH = 15 | RE = 2
+| Home = #5 Miami | HomeAbr = MIA
+| H1 = 2 | H2 = 0 | H3 = 0 | H4 = 0 | H5 = 0 | H6 = 1 | H7 = 0 | H8 = 1 | H9 = 0 | HR = 4 | HH = 9 | HE = 3
+| WP = Justin Thompson | LP = Travis Miller | SV = [[Branden Kline]]
+| HomeHR = Rony Rodriguez | RoadHR = 
+| Attendance = 4,419
+| Notes = Game was suspended in the bottom of the second for 7 hours due to a rain delay.
+| BoxURL = http://grfx.cstv.com/photos/schools/acc/sports/m-basebl/auto_pdf/ACC11-7.pdf
+}}
+
+{{linescore|Compact=no
+| Date = Saturday, May 28
+| Time = 12:10 am
+| Location = 
+| Other = 
+| Road = '''#4 North Carolina''' | RoadAbr = UNC
+| R1 = 1 | R2 = 0 | R3 =  0 | R4 = 2 | R5 = 2 | R6 = 0 | R7 = 3 | R8 = 0 | R9 = 1 | RR = 9 | RH = 10 | RE = 0
+| Home = #8 Wake Forest | HomeAbr = WAKE
+| H1 = 0 | H2 = 0 | H3 = 0 | H4 = 0 | H5 = 0 | H6 = 0 | H7 = 0 | H8 = 0 | H9 = 0 | HR = 0 | HH = 2 | HE = 2
+| WP = Patrick Johnson | LP = [[Tim Cooney (baseball)|Tim Cooney]] | SV = 
+| HomeHR =  | RoadHR = [[Levi Michael]], Jesse Wierzbicki, Greg Holt
+| Attendance = 2,473
+| Notes = Game was suspended during the top of the 7 due to rain and was not resumed until Sunday afternoon, after the Clemson/NC State game
+| BoxURL = 
+}}
+
+{{linescore|Compact=no
+| Date = Saturday, May 28
+| Time = 6:00 pm
+| Location = 
+| Other = 
+| Road = #8 Wake Forest | RoadAbr = WAKE
+| R1 = 0 | R2 = 0 | R3 =  0 | R4 = 0 | R5 = 0 | R6 = 1 | R7 = 1 | R8 = 0 | R9 = 0 | RR = 2 | RH = 6 | RE = 0
+| Home = '''#5 Miami''' | HomeAbr = MIA
+| H1 = 2 | H2 = 1 | H3 = 1 | H4 = 0 | H5 = 0 | H6 = 0 | H7 = 0 | H8 = 0 | H9 = X | HR = 4 | HH = 10 | HE = 0
+| WP = E.J. Encinosa | LP = Austin Stadler | SV = Daniel Miranda
+| HomeHR = Rony Rodriguez | RoadHR = 
+| Attendance = 2,982
+| Notes = 
+| BoxURL = http://grfx.cstv.com/photos/schools/acc/sports/m-basebl/auto_pdf/ACC11-11.pdf
+}}
+
+{{linescore|Compact=no
+| Date = Saturday, May 28
+| Time = 9:22 pm
+| Location = 
+| Other = 
+| Road = #4 North Carolina | RoadAbr = UNC
+| R1 = 0 | R2 = 0 | R3 =  1 | R4 = 0 | R5 = 0 | R6 = 1 | R7 = 0 | R8 = 0 | R9 = 0 | RR = 2 | RH = 8 | RE = 0
+| Home = '''#1 Virginia''' | HomeAbr = UVA
+| H1 = 0 | H2 = 0 | H3 = 1 | H4 = 0 | H5 = 1 | H6 = 0 | H7 = 1 | H8 = 0 | H9 = X | HR = 3 | HH = 7 | HE = 0
+| WP =  Whit Mayberry | LP = Chris Munnelly | SV = [[Branden Kline]]
+| HomeHR =  | RoadHR = 
+| Attendance = 5,258
+| Notes = 
+| BoxURL = http://grfx.cstv.com/photos/schools/acc/sports/m-basebl/auto_pdf/ACC11-12.pdf
+}}
+
+{{Col-2-of-2}}
+
+===Division B===
+{{linescore|Compact=no
+| Date = Wednesday, May 25
+| Time = 11:00 am
+| Location = 
+| Other = 
+| Road = '''#6 Clemson''' | RoadAbr = CLEM
+| R1 = 0 | R2 = 0 | R3 =  0 | R4 = 3 | R5 = 0 | R6 = 0 | R7 = 1 | R8 = 0 | R9 = 5 | RR = 9 | RH = 13 | RE = 0
+| Home = #3 Georgia Tech | HomeAbr = GT
+| H1 = 0 | H2 = 0 | H3 = 0 | H4 = 0 | H5 = 0 | H6 = 0 | H7 = 0 | H8 = 0 | H9 = 0 | HR = 0 | HH = 6 | HE = 2
+| WP = [[Dominic Leone]] | LP = Mark Pope | SV = David Haselden
+| HomeHR =  | RoadHR = Chris Epps
+| Attendance = 1,571
+| Notes = 
+| BoxURL = http://grfx.cstv.com/photos/schools/acc/sports/m-basebl/auto_pdf/ACC11-1.pdf
+}}
+
+{{linescore|Compact=no
+| Date = Wednesday, May 25
+| Time = 7:00 pm
+| Location = 
+| Other = 
+| Road = '''#7 NC State''' | RoadAbr = NCSU
+| R1 = 0 | R2 = 0 | R3 =  1 | R4 = 0 | R5 = 3 | R6 = 0 | R7 = 2 | R8 = 1 | R9 = 0 | RR = 7 | RH = 10 | RE = 0
+| Home = #2 Florida State | HomeAbr = FSU
+| H1 = 0 | H2 = 0 | H3 = 0 | H4 = 0 | H5 = 0 | H6 = 0 | H7 = 0 | H8 = 0 | H9 = 0 | HR = 0 | HH = 4 | HE = 2
+| WP = [[Cory Mazzoni]] | LP = Robert Benincasa | SV = 
+| HomeHR =  | RoadHR = Matt Bergquist
+| Attendance = 3,947
+| Notes = 
+| BoxURL = http://grfx.cstv.com/photos/schools/acc/sports/m-basebl/auto_pdf/ACC11-3.pdf
+}}
+
+{{linescore|Compact=no
+| Date = Thursday, May 26
+| Time = 3:00 pm
+| Location = 
+| Other = 
+| Road = '''#2 Florida State''' | RoadAbr = FSU
+| R1 = 1 | R2 = 0 | R3 =  0 | R4 = 1 | R5 = 0 | R6 = 2 | R7 = 2 | R8 = 0 | R9 = 0 | RR = 6 | RH = 13 | RE = 0
+| Home = #6 Clemson | HomeAbr = CLEM
+| H1 = 1 | H2 = 0 | H3 = 0 | H4 = 0 | H5 = 0 | H6 = 2 | H7 = 0 | H8 = 0 | H9 = 0 | HR = 3 | HH = 10 | HE = 0
+| WP = [[Sean Gilmartin]] | LP = Justin Sarratt | SV = Daniel Bennett
+| HomeHR =  | RoadHR = [[James Ramsey (baseball)|James Ramsey]]
+| Attendance = 2,416
+| Notes = 
+| BoxURL = http://grfx.cstv.com/photos/schools/acc/sports/m-basebl/auto_pdf/ACC11-5.pdf
+}}
+
+{{linescore|Compact=no
+| Date = Thursday, May 26
+| Time = 7:00 pm
+| Location = 
+| Other = 
+| Road = '''#3 Georgia Tech''' | RoadAbr = GT
+| R1 = 1 | R2 = 0 | R3 =  0 | R4 = 0 | R5 = 0 | R6 = 3 | R7 = 0 | R8 = 1 | R9 = 0 | R10 = 0 | R11 = 0 | R12 = 0 | R13 = 0 | R14 = 0 | R15 = 1 |RR = 6 | RH = 15 | RE = 2
+| Home = #7 NC State | HomeAbr = NCSU
+| H1 = 1 | H2 = 0 | H3 = 0 | H4 = 0 | H5 = 0 | H6 = 1 | H7 = 3 | H8 = 0 | H9 = 0 | H10 = 0 | H11 = 0 | H12 = 0 | H13 = 0 | H14 = 0 | H15 = 0 |HR = 5 | HH = 9 | HE = 0
+| WP = Matt Grimes | LP = Ethan Ogburn | SV = 
+| HomeHR =  | RoadHR = [[Matt Skole]]
+| Attendance = 3,098
+| Notes = Longest game in ACC Tournament history. (Surpassed in [[2013 ACC Baseball Tournament|2013]])
+| BoxURL = http://grfx.cstv.com/photos/schools/acc/sports/m-basebl/auto_pdf/ACC11-6.pdf
+}}
+
+{{linescore|Compact=no
+| Date = Saturday, May 29
+| Time = 9:00 am
+| Location = 
+| Other = 
+| Road = #3 Georgia Tech | RoadAbr = GT
+| R1 = 0 | R2 = 0 | R3 =  0 | R4 = 0 | R5 = 0 | R6 = 0 | R7 = 2 | R8 = 0 | R9 = 0 | RR = 2 | RH = 7 | RE = 2
+| Home = '''#2 Florida State''' | HomeAbr = FSU
+| H1 = 0 | H2 = 0 | H3 = 3 | H4 = 1 | H5 = 0 | H6 = 0 | H7 = 0 | H8 = 0 | H9 = X | HR = 4 | HH = 7 | HE = 2
+| WP = Mike McGee | LP = Buck Farmer | SV = Daniel Bennett
+| HomeHR =  | RoadHR = 
+| Attendance = 2,196
+| Notes = Game was rescheduled from Friday afternoon to Saturday morning because of weather.
+| BoxURL = http://grfx.cstv.com/photos/schools/acc/sports/m-basebl/auto_pdf/ACC11-8.pdf
+}}
+
+{{linescore|Compact=no
+| Date = Saturday, May 29
+| Time = 3:00 pm
+| Location = 
+| Other = 
+| Road = '''#6 Clemson''' | RoadAbr = CLEM
+| R1 = 0 | R2 = 0 | R3 =  0 | R4 = 1 | R5 = 0 | R6 = 3 | R7 = 1 | R8 = 1 | R9 = 0 | RR = 6 | RH = 8 | RE = 1
+| Home = #7 NC State | HomeAbr = NCSU
+| H1 = 0 | H2 = 2 | H3 = 0 | H4 = 1 | H5 = 0 | H6 = 0 | H7 = 0 | H8 = 0 | H9 = 0 | HR = 3 | HH = 8 | HE = 0
+| WP = Matt Campbell | LP = Nick Rice | SV = Scott Weismann
+| HomeHR =  | RoadHR = [[Brad Miller (baseball)|Brad Miller]], Richie Shaffer, Chris Epps
+| Attendance = 4,255
+| Notes = 
+| BoxURL = http://grfx.cstv.com/photos/schools/acc/sports/m-basebl/auto_pdf/ACC11-10.pdf
+}}
+{{Col-end}}
+
+===Championship Final===
+{{linescore|Compact=no
+| Date = Sunday, May 29
+| Time = 1:00 pm
+| Location = 
+| Other = 
+| Road = #2 Florida State | RoadAbr = FSU
+| R1 = 1 | R2 = 0 | R3 =  0 | R4 = 0 | R5 = 0 | R6 = 0 | R7 = 0 | R8 = 1 | R9 = 0 | RR = 2 | RH = 8 | RE = 0
+| Home = '''#1 Virginia''' | HomeAbr = UVA
+| H1 = 2 | H2 = 0 | H3 = 0 | H4 = 0 | H5 = 0 | H6 = 3 | H7 = 2 | H8 = 0 | H9 = X | HR = 7 | HH = 6 | HE = 2
+| WP = [[Danny Hultzen]] | LP = Hunter Scantling | SV = 
+| HomeHR = [[Chris Taylor (baseball)|Chris Taylor]], John Hicks, Steven Proscia | RoadHR = Justin Gonzalez
+| Attendance = 5,834
+| Notes = 
+| BoxURL = http://grfx.cstv.com/photos/schools/acc/sports/m-basebl/auto_pdf/ACC11-13.pdf
+}}
+
+==All-Tournament Team==
+{| class=&quot;wikitable&quot;
+|-
+! Position
+! Player
+! School
+|-
+| C
+| Rafael Lopez 
+| Florida State
+|-
+| 1B
+| Jesse Wierzbicki
+| North Carolina
+|-
+| 2B
+| Zeke DeVoss
+| Miami
+|-
+| 3B
+| Steven Proscia
+| Virginia
+|-
+| SS
+| [[Chris Taylor (baseball)|Chris Taylor]]
+| Virginia
+|-
+| OF
+| Kenny Swab
+| Virginia
+|-
+| OF
+| [[James Ramsey (baseball)|James Ramsey]]
+| Florida State
+|-
+| OF
+| Chris Epps
+| Clemson
+|-
+| DH/UT
+| Mike McGee
+| Florida State
+|-
+| P
+| [[Cory Mazzoni]]
+| NC State
+|-
+| P
+| Patrick Johnson
+| North Carolina
+|-
+| '''MVP'''
+|'''Steven Proscia'''
+|'''Virginia'''
+|}
+
+==See also==
+{{Portal|ACC}}
+*[[College World Series]]
+*[[NCAA Division I Baseball Championship]]
+
+==References==
+{{reflist}}
+
+==External links==
+
+{{ACC Baseball Tournament}}
+{{2011 NCAA Division I baseball tournament navbox}}
+
+[[Category:2011 Atlantic Coast Conference baseball season|Tournament]]
+[[Category:Atlantic Coast Conference Baseball Tournament]]
+[[Category:College sports in North Carolina]]
+[[Category:Sports in Durham, North Carolina]]</text>
+      <sha1>lzw67qf8fxgg4avbvf04i6kv4jq0v0h</sha1>
+    </revision>
+  </page>
+</mediawiki>

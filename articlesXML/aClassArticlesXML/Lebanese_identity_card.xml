@@ -1,0 +1,249 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lebanese identity card</title>
+    <ns>0</ns>
+    <id>35648102</id>
+    <revision>
+      <id>734518904</id>
+      <parentid>725718509</parentid>
+      <timestamp>2016-08-14T21:53:53Z</timestamp>
+      <contributor>
+        <username>JoeSakr1980</username>
+        <id>26481387</id>
+      </contributor>
+      <comment>/* Document Requirements */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20773">{{Infobox Identity document
+| document_name       = The Republic of Lebanon Identity Card 
+بطاقة هوية الجمهورية اللبنانية
+Carte d'identité de la Republique Libanaise
+| image               =
+| image_caption       = A Template of the Lebanese Identity Card
+| date_first_issued   = 1996 (Latest Modern Design)
+| using_jurisdiction  = {{flag|Lebanon}}
+|valid_jurisdictions =  {{flag|Lebanon}} &lt;br /&gt;{{flag|Syria}}&lt;br /&gt;{{flag|Jordan}}
+|document_type = Compulsory [[identity document]]
+| purpose             = Identification
+| eligibility         = [[Lebanese nationality law|Lebanese citizenship]]
+}}
+
+The '''Lebanese identity card''' ([[Arabic language|Arabic]]: بطاقة الهوية (''bițāqat al-hawiya''); [[French language|French]]: ''Carte nationale d'identité'') is a compulsory [[Identity document]] issued to [[Lebanese nationality law|citizens]] of the Republic of Lebanon by the police on behalf of the Lebanese [[Ministry of Interior]] or in Lebanese embassies/[[consulate]]s (abroad) free of charge. It is proof of identity, citizenship and residence of the Lebanese citizens. 
+
+The Lebanese identity card may be used to verify identity and nationality having the same effect as a valid [[Lebanese passport]], and may also be used as a travel document within [[Syria]] and [[Jordan]] in lieu of a [[Lebanese passport]]. In domestic non-electronic identification the driving licence has remained in a leading position. A driving licence is valid for almost every situation where non-electronic personal identification is needed even though they are not officially recognized as such.
+
+==Legal status==
+The Republic of Lebanon's Identity Card is the main form of identification on the territory of the Republic of Lebanon. All Lebanese are obliged by law to carry their identity cards with them at all times and are subject to fines should they not. According to the Lebanese [[obligation of identification]], it is compulsory for all [[Lebanese nationality law|Lebanese citizens]] habitually resident in the Republic of Lebanon, aged 15 or older, to possess either an identity card or a [[Lebanese passport|passport]] noting that the earlier offers no benefits compared to the passport with the exception of being easier to carry in a wallet or a handbag. It enables bearers to log in to certain services on the Internet, local computers or add a digital signatures into LibreOffice ODF documents or create [[DigiDoc]] formatted containers that also allows encryption during content transfer. While police officers and some other officials have a right to demand to see one of these documents, the law does not state that one is obliged to submit the document at that very moment.
+
+==Use within the Republic of Lebanon==
+In domestic non-electronic identification the driving licence has remained in a leading position, since most of the population have to have a licence anyway, and a driving licence is valid for almost every situation where non-electronic personal identification is needed.
+
+The Lebanese Identity Card, which uniquely identifies the individual based on biometric features, can be used by the individual for the verification and authentication of identity in the following situations:
+
+# '''Health Delivery:''' The Personal Identification Number (PIN) and biometrics/personal information is cross-checked with the existing data in the National Identification System.
+# '''Passport Acquisition:''' Any time a Lebanese Identity Card holder applies for a passport, their Personal Identification Number (PIN) is captured on the passport and their personal information cross-checked with the existing data in the National Identification System. A Lebanese Identity Card holder may not be able to acquire a passport if they do not possess a Lebanese Identity Card. This is because only people who qualify to hold [[Lebanese Passport]]s will be issued with one since the individual’s nationality can be properly checked from the National Identification System.
+# '''Acquisition of Driver’s License:''' The Personal Identification Number (PIN) is one of the required information the Driver and Vehicle Licensing Authority (DVLA) demands as soon as the Lebanese Identity Card is issued to applicants. The PIN is captured on a Lebanese Identity Card holder's driver’s license and vehicle registration documents. The personal information is also verified from the NIA to determine  a persons true identity for license acquisition and establish the true identities of vehicle owners. A time will come when a person may not be able to make new registration or renewal at the DVLA without their Lebanese Identity Card.
+# '''Shipping and Clearing of Goods from the port:''' All goods a Lebanese Identity Card holder exports out of the Republic of Lebanon or imports into the Republic of Lebanon is directly linked to their Personal Identification Number (PIN) to eliminate fraud and theft in the shipping and clearing of goods at the ports and harbours of the Republic of Lebanon.
+# '''Receipt of Banking Services:''' A Lebanese Identity Card holder can use the Lebanese Identity Card as identity verification document when opening bank account, withdrawing money from the bank or receiving money transfers in the Republic of Lebanon. It is easier for a Lebanese Identity Card holder to also take loan from the bank whether you work in an identifiable institution or not. This is because their identity can be easily verified and the banks are confident that they can be traced in the event of loan default based on their PIN or biometric information stored on the Lebanese Identity Card.
+# '''Credit Information:''' The use of the Lebanese Identity Card can enable the banks in the Republic of Lebanon to easily establish persons credit-worthiness from the Credit Referencing Agencies any time they apply for a loan. This may lead drastically to the reduction in bank rates on loans since the banks can establish whether they are already servicing a loan from another bank which will result in a reduction in the incidents of bad debts.
+# '''Registration of Business:''' Business registration is linked to a Lebanese Identity Card holder's Personal Identification Numbers (PIN) to help identify them as the true owner of their business. The Registrar General’s Department make it a requirement for all business owners to provide their PIN on the Lebanese Identity Card during business registration. This eliminates business registration fraud through the exposure of false identities and prevents multiple registrations of businesses for fraudulent purposes.
+# '''Education:''' The PIN of a Lebanese Identity Card holder's child is captured during enrollment into primary school and the number is used for admission into every school level until the child completes tertiary education. This helps in tracking the progress of a Lebanese Identity Card holder's child in the educational sector for necessary policy interventions. Students who qualify for student’s loan are able to use the Lebanese Identity Card to establish their identities to eliminate fraud. Data from the NIA database enables the Ministry of Education to plan effectively for the provision of targeted educational infrastructure and other resources for their community.
+# '''Job Search:''' The Lebanese Identity Card is used to establish a persons identity during job search. This boosters their chances of getting the job as employers will be sure they are dealing with the rightful owner of the certificates a person provides in support of their qualifications.
+# '''Disaster Management:''' Identification of true victims of disasters is often problematic because there are infiltrators who take advantage of the absence of credible identification system to benefit at the expense of the affected ones. Data on a persons Lebanese Identity Card is used to establish whether they live in an area affected by a disaster to enable them to receive relief items.
+# '''Access to Social Services:''' The Lebanese Identity Card authenticates a persons entitlement to government services. Services such as LEAP payments and free national health insurance schemes registration for persons below 18 years or above 70 years is made dependent on the presentation of the Lebanese Identity Card.
+# '''Travelling:''' The Lebanese Identity Card is used to validate a persons identity at airports, borders, police check posts and while booking tickets. However, the Lebanese Identity Card can only be used in neighboring countries [[Syria]] and [[Jordan]].
+# '''E-Commerce &amp; Payment Industry:'''The Lebanese Identity Card is used in a multiplicity of situations – to register for offline services such as a loan or an insurance plan, while buying a car. There have been  past issues raised about Know Your Customer norms for Cash Cards like Bank Audi e-Cards and ATM Cards. The Lebanese Identity Card is likely to be made mandatory for the validation of all payments.
+# '''Pension Claims:''' As identity theft occurs when someone uses a persons personal information, such as Social Security number without their permission to commit fraud by claiming their benefits or that of a relation. The Lebanese Identity Card identifies a Lebanese Identity Card holder as the rightful and only person authorized to receive their pension benefits. In the event of the Lebanese Identity Card holder's death, only their children or spouse will benefit from their pension claim.
+# '''Hire Purchase:''' The Lebanese Identity Card is used in establishing a persons identity when making hire purchase arrangements as it contains their digital picture and biometric information that conclusively establishes their identity in addition to their personal and residential information.
+# '''Insurance Claims:''' As a person needs to prove their identity in the event of any disaster for which they have to make insurance claims. The Lebanese Identity Card provides them with the necessary information they need to conclusively establish their identity.
+# '''Remittances from Abroad:''' As identity theft happens in many different ways: a thief obtains credit card receipts or bank statements from your wallet or trash; personal information is inadvertently provided over the phone or Internet; or other confidential information. Before a person even realizes their personal information has been compromised, their credit and goods is claimed by fraudulent persons. The use of the Lebanese Identity Card and PIN in claiming goods and monies sent from abroad has been designed to prevent unauthorized persons from claiming what is due to the Lebanese Identity Card holder.
+
+== Use as a travel document ==
+Lebanese citizens who possess a Lebanese Identity Card have been able to use it as an international travel document, in lieu of a Lebanese passport, for travel to the following countries and territories:
+*{{flag|Syria}}
+*{{flag|Jordan}}
+
+==Issuing procedure==
+In order to be issued an identity card, one needs to fill in a form, which should be taken to the Identity Documents and Passport Regime Units within the District Police Stations. The forms could be obtained at all District Police Stations. When applying the name, gender, date and place of birth, digital image, ten fingerprints, palmprints, and an electronic signature in a [[JPEG2000]] format are taken. First-time appliers must also provide a valid birth certificate. It is possible for a person to apply for a renewal of the ID card via a representative with a notary signed permit, provided there are no significant changes in his or hers appearance. There are, however limitations. If you apply via a representative, you must receive the new ID yourself. Vice versa, if you applied yourself, then an authorized representative may receive your ID. This does not apply to applying for passports, as fingerprints must be taken.
+
+The Lebanese Identity card is issued free of charge for all the Lebanese citizens however a monetary tax is paid for the issuing of the identity card; the price depends on the selected type of issuing which is basically the time needed for the card to be issued (the prices are listed in District Police Stations). The standard time for issuing a Lebanese identity card is 5 working days. The Ministry of Interior has provided an e-service and an smart app that allows you to check whether your ID card is ready.&lt;ref&gt;https://www.dawlati.gov.lb/&lt;/ref&gt;
+
+===Document Requirements===
+* Lebanese Passport ({{lang-ar|جواز   سفرلبناني }}) ({{lang-fr|Passeport libanais }}) (Only applicable if applying through one of the Lebanese embassies/consulates abroad)
+* Individual and Family status records ([[Arabic language|Arabic]]: ''اخراج القيد الفردي و العائلي'') ({{lang-fr| actes d'état individuels et familiaux}}) whose date of issuance does not exceed 3 months
+* Criminal Record Status ([[Arabic language|Arabic]]: ''ورقة ان لا حكم عليه'') ({{lang-fr|état de casier judiciaire}}) 
+* 2 Recent Photos (Size: 4.3 x 3.5&amp;nbsp;cm)
+* 5 Official Stamps ([[Arabic language|Arabic]]: ''طوابع رسمية'') ({{lang-fr| timbres officiels}}) (Costing 1,000 Lebanese Pounds each)
+
+==Current version==
+The current version is in [[ISO/IEC 7810#ID-1|ID1 format]] and [[biometric]]. All 10 [[Genetic fingerprint|fingerprint]]s and [[palmprints]] of the holder are taken, which is stored in paper files and which can only be accessed by a [[judge]] in closely defined circumstances. A central [[database]] duplicates the information on the card, but strict laws limit access to the information and prevent it being linked to other databases or records.
+
+Older ID cards, written in Arabic characters only, are still valid and of equal value, provided that less than 15 years have passed since the issue date. Military staff, as well as personnel of the police, fire brigade, coast guard, and intelligent services, carry special IDs until retiring or exiting their services.
+
+==Physical appearance==
+The current ID card is an [[ISO/IEC 7810|ID-1]] (credit card size) plastic card with an embedded [[Radio-frequency identification|RFID]] chip to store bearer's name, gender, date and place of birth, and a digital image of their face, ten fingerprints, palmprints, an electronic signature in a [[JPEG2000]] format, and a 2.86 megabyte optical stripe.
+
+All the information that are stated in the [[Lebanese passport]] are included in the Lebanese Identity Card and are given in [[Arabic Language|Arabic]], [[French language|French]], and [[English language|English]].
+
+===Front side===
+The front side features the [[Cedrus libani|Lebanese Cedar]] and the words &quot;الجمهورية اللبنانية&quot; / REPUBLIQUE LIBANAISE / REPUBLIC OF LEBANON&quot; &quot;بطاقة الهوية / CARTE D'IDENTITE / IDENTITY CARD&quot; across the top, and the following information below:
+*Photograph of the holder (digital image printed on page)
+*Card number (12 [[alphanumeric]] digits)
+*Birthname (only if differing from current surname)
+*Given name(s)
+*Sex
+*Surname
+*Father's First Name
+*Mother's First Name
+*Place of birth (Only the city/town of birth, no country)
+*Date of birth (dd.mm.yyyy)
+*Height (in metres)
+*Authority
+*Date of expiry (dd/mm/yy)
+*Signature of holder
+
+;Visible Images:
+# '' Lebanese Flag ''
+# '' Lebanese's Cedar to the right left corner ''
+# '' Republic of Lebanon’s Coat of Arms to the right top corner ''
+# '' Ghost portrait of cardholder ''
+# '' Main portrait of image of cardholder ''
+# '' Map of the Republic of Lebanon ''
+
+===Rear side===
+It contains the following information:
+
+*Colour of eyes
+*Maritial Status
+*Date of issue (dd/mm/yy)
+*Hometown and District
+*[[Machine-readable passport|Machine-readable zone]]
+
+===Machine-readable zone===
+The format of the first row is:
+{| class=&quot;wikitable&quot;
+! positions !! chars !! meaning
+|-
+| 1 || alpha || I
+|-
+| 2 || alpha || Type, at discretion of states (D in that case)
+|-
+| 3–5 || alpha || LBN // issuing country ([[ISO 3166-1 alpha-3]] code with modifications)
+|-
+| 6–31 || alpha || Card holder's last name followed by '&lt;' symbols to fill any unused space
+|-
+| 31-33 || alpha+num || Digits 5-7 of ID card number, department of issuance. 
+|-
+| 34-36 || num || Office of issuance
+|-
+| 31-36 || alpha || On some cards 31-36 will instead be filled with &lt;&lt;&lt;&lt;&lt; 
+|}
+
+The format of the second row is:
+{| class=&quot;wikitable&quot;
+! positions !! chars !! meaning
+|-
+| 1-12 || num || ID card number.  Digits 1-2 are year of issuance, 3-4 are month of issuance and 5-7 are department of issuance
+|-
+| 13 || num || Check digit over digits 1–12
+|-
+| 14–27 || alpha || First name followed by given names separated by two filler characters
+|-
+| 28-33 || num || Birth date (DDMMYY)
+|-
+| 34 || num || Check digit over digits 28-33
+|-
+| 35 || alpha || Gender (M or F) 
+|-
+| 36 || num || Check digit over digits 1-36 in first row combined with digits 1-35 in second row
+|}
+
+To check digit calculations: First, convert any non-numeric characters into numbers.  Letters are assigned values alphabetically from 10 to 35 (A=10, Z=35), &lt; is 0.  Second, multiply each number by a weighting value.  This is a repeating pattern of 7,3,1.  For example, the first number is multiplied by 7, the second number by 3, the third by 1, the fourth by 7, the fifth by 3, etc.  Now, sum the products to obtain a single number.  Finally, divide the number by 10 and the remainder is your check digit (this is known as a modulo 10 calculation).
+
+==Chip==
+The Republic of Lebanon ID cards contain an [[ISO/IEC 18000-3|ISO 18000-3]] and [[ISO/IEC 14443|ISO 14443]] compatible 13.56&amp;nbsp;MHz [[Radio-frequency identification|RFID]] chip that uses the [[ISO/IEC 7816|ISO 7816]] protocols. The chip stores the bearer's name, gender, date and place of birth, a digital image of their face, ten fingerprints, palmprints, and electronic signature in a [[JPEG2000]] format. In addition, the new ID card can be used for online authentication (e.g. for age verification or for e-government applications). An [[electronic signature]], provided by a private company, can also be stored on the chip.
+
+The document number, the photo and the fingerprints can supposedly be read only by Law enforcement in the Republic of Lebanon and law enforcement agencies and some other authorities
+
+All ID card agencies have been supplied with reading devices that have been certified by the Lebanese Federal Office for Information Security. Agency staff can use these modules to display  all of the personal data stored on the chip, including the digital passport photo and, where applicable, the stored fingerprints.
+
+To use the online authentication function, the holder needs a six-digit [[decimal]] [[Personal identification number|PIN]]. If the holder types in the wrong PIN, he has to type in the twelve-digit decimal access code given on the ID card to prove he/she really possesses the ID card. If the wrong PIN is used three times, a [[Personal unblocking code|PUK]] must be used to unlock the chip.
+
+The data on the chip are protected by [[Basic Access Control]] and [[Extended Access Control]].
+
+==Fines==
+All Lebanese citizens habitually resident in the Republic of Lebanon and aged 15 or above are obliged by the Lebanese law to apply for a Lebanese Identity Card, whilst it is optional for those under 15 or those who are residing abroad.
+
+Persons over the age of 15, and who do not have a valid ID, can pay a fine from 300,000 up to 500,000 [[Lebanese Pounds (currency)|Lebanese Pounds]]. Failure to show a valid ID to a police officer in a public place can result in a fine of 20,000 Lebanese Pounds.
+
+==Removal of Religion==
+Even though non-religion is not recognized by the Republic of Lebanon, on May 8, 2009,  Minister of Interior, Ziad Baroud on behalf of the Lebanese [[Ministry of Interior]] announced that the mandatory inclusion of religion on identity cards was contrary to law for the protection of personal data. The State Council of the Republic of Lebanon decided that the mandatory indication of religious affiliation on identity cards is not legal, and also opposed to the optional reference to religion following the signature of the bearer at the buttom left corner of the Lebanese Identity Card. 
+
+==See also==
+{{Portal|Lebanon|International relations}}
+*[[Constitution of Lebanon]]
+*[[Driving licence in Lebanon]]
+*[[Foreign relations of Lebanon]]
+*[[History of Lebanon]]
+*[[Lebanese diaspora]]
+*[[Lebanese passport]]
+*[[Politics of Lebanon]]
+*[[Vehicle registration plates of Lebanon]]
+*[[Visa policy of Lebanon]]
+*[[Visa requirements for Lebanese citizens]]
+
+==References==
+{{reflist}}
+
+{{identity cards|state=uncollapsed}}
+{{Lebanon topics}}
+
+[[Category:National identity cards by country|Lebanon]]
+[[Category:Government of Lebanon]]</text>
+      <sha1>leuj98r9ttlr1t045tu4hsniymslbl0</sha1>
+    </revision>
+  </page>
+</mediawiki>

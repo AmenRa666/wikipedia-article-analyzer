@@ -1,0 +1,116 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Hurricane Earl (1998)</title>
+    <ns>1</ns>
+    <id>3897169</id>
+    <revision>
+      <id>440425290</id>
+      <parentid>360932491</parentid>
+      <timestamp>2011-07-20T04:24:50Z</timestamp>
+      <contributor>
+        <username>Darren23</username>
+        <id>5935017</id>
+      </contributor>
+      <minor/>
+      <comment>add task force using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6841">{{ArticleHistory
+| action1       = GAN
+| action1date   = 18:52, 10 June 2009
+| action1link   = Talk:Hurricane Earl (1998)/GA1
+| action1result = listed
+| action1oldid  = 295628411
+
+| currentstatus = GA
+| topic         = natsci
+}}
+{{hurricane|class=A|importance=Low|merge=yes|storms-task-force=yes|atl-task-force=yes}}
+{{WPFlorida|class=A|importance=low}}
+
+== Merge? ==
+There's not a whole lot of information here, and the storm didn't do all that much. Merge it? [[User:Hurricanehink|Hurricanehink]] 16:13, 31 January 2006 (UTC)
+
+:I agree, the storm wasn't that notable and a lot of the info is menial. Not to mention, the article is not terribly well written. -- &lt;font size=&quot;2&quot; face=&quot;Helvetica&quot; color=&quot;gold&quot;&gt;[[List of Atlantic hurricane seasons|§]]&lt;/font&gt;&lt;font size=&quot;2&quot; face=&quot;Helvetica&quot;&gt;[[User talk: E. Brown|Hurricane]]&lt;/font&gt;&lt;font size=&quot;2&quot; face=&quot;Helvetica&quot; color=&quot;FF0000&quot;&gt;[[User:E. Brown|ERIC]]&lt;/font&gt;&lt;font size=&quot;2&quot; face=&quot;Helvetica&quot;&gt;[[Wikipedia:WikiProject Tropical cyclones|§]] &lt;small&gt;''[[Special:Contributions/E. Brown|archive]]''&lt;/small&gt;&lt;/font&gt; 22:41, 31 January 2006 (UTC)
+
+::This storm makes other non-notable storms look notable by comparison.  $15 million in damages?  That's got to be comparable to Arlene or Tammy. &amp;mdash;&amp;nbsp;[[User:Jdorje|jdorje]]&amp;nbsp;&lt;small&gt;([[User_talk:jdorje|talk]])&lt;/small&gt; 17:57, 9 February 2006 (UTC)
+
+:::Ouch, ownage. Shall I fetch the axe? -- &lt;font size=&quot;2&quot; face=&quot;Helvetica&quot; color=&quot;gold&quot;&gt;[[List of Atlantic hurricane seasons|§]]&lt;/font&gt;&lt;font size=&quot;2&quot; face=&quot;Helvetica&quot;&gt;[[User talk: E. Brown|Hurricane]]&lt;/font&gt;&lt;font size=&quot;2&quot; face=&quot;Helvetica&quot; color=&quot;#000000&quot;&gt;[[Special:Emailuser/E._Brown|E]]&lt;/font&gt;&lt;font size=&quot;2&quot; face=&quot;Helvetica&quot; color=&quot;FF0000&quot;&gt;[[User:E. Brown|RIC]]&lt;/font&gt;&lt;font size=&quot;2&quot; face=&quot;Helvetica&quot;&gt;[[Wikipedia:WikiProject Tropical cyclones|§]]&lt;sup&gt;&lt;small&gt;[http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=E.+Brown&amp;amp;dbname=enwiki_p Damages]&lt;/small&gt;&lt;/sup&gt;&lt;small&gt;''[[Special:Contributions/E. Brown|archive]]''&lt;/small&gt;&lt;/font&gt; 19:51, 10 February 2006 (UTC)
+
+::::Yea, why not? [[User:Hurricanehink|Hurricanehink]] 19:56, 10 February 2006 (UTC)
+
+Well, it's surprisingly well-written (although Airforce isn't a word).  If you merge it just make sure the merge is complete. &amp;mdash;&amp;nbsp;[[User:Jdorje|jdorje]]&amp;nbsp;&lt;small&gt;([[User_talk:jdorje|talk]])&lt;/small&gt; 20:55, 10 February 2006 (UTC)
+
+:Probably because it's a near copy of the NHC report. -- &lt;font size=&quot;2&quot; face=&quot;Helvetica&quot; color=&quot;gold&quot;&gt;[[List of Atlantic hurricane seasons|§]]&lt;/font&gt;&lt;font size=&quot;2&quot; face=&quot;Helvetica&quot;&gt;[[User talk: E. Brown|Hurricane]]&lt;/font&gt;&lt;font size=&quot;2&quot; face=&quot;Helvetica&quot; color=&quot;#000000&quot;&gt;[[Special:Emailuser/E._Brown|E]]&lt;/font&gt;&lt;font size=&quot;2&quot; face=&quot;Helvetica&quot; color=&quot;FF0000&quot;&gt;[[User:E. Brown|RIC]]&lt;/font&gt;&lt;font size=&quot;2&quot; face=&quot;Helvetica&quot;&gt;[[Wikipedia:WikiProject Tropical cyclones|§]]&lt;sup&gt;&lt;small&gt;[http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=E.+Brown&amp;amp;dbname=enwiki_p Damages]&lt;/small&gt;&lt;/sup&gt;&lt;small&gt;''[[Special:Contributions/E. Brown|archive]]''&lt;/small&gt;&lt;/font&gt; 16:48, 13 February 2006 (UTC)
+
+::Nothing wrong with that...probably we should start off all our articles as copies of the NHC reports, then expand them with more modern information. &amp;mdash;&amp;nbsp;[[User:Jdorje|jdorje]]&amp;nbsp;&lt;small&gt;([[User_talk:jdorje|talk]])&lt;/small&gt; 17:43, 13 February 2006 (UTC)
+
+:::Copies should be avoided. That's what Wikisource is for. [[User:Hurricanehink|Hurricanehink]] 21:44, 13 February 2006 (UTC)
+
+==Todo/Merge?==
+Fix the numerous typos/grammar errors and prove why this needs an article. While there is a good amount of information here, it simply hides the fact that the storm wasn't that notable. Given the brevity of the section in the storm summary, much of the ''important'' information here could easily be put there. Because of that, I propose this be re-merged. [[User:Hurricanehink|Hurricanehink]] 00:22, 16 March 2006 (UTC)
+
+:I second that. Make sure the important info here is moved to the main article, I don't want anything lost in translation here. -- &lt;font size=&quot;2&quot; face=&quot;Helvetica&quot; color=&quot;gold&quot;&gt;[[List of Atlantic hurricane seasons|§]]&lt;/font&gt;&lt;font size=&quot;2&quot; face=&quot;Helvetica&quot;&gt;[[User talk: E. Brown|Hurricane]]&lt;/font&gt;&lt;font size=&quot;2&quot; face=&quot;Helvetica&quot; color=&quot;#000000&quot;&gt;[[Special:Emailuser/E._Brown|E]]&lt;/font&gt;&lt;font size=&quot;2&quot; face=&quot;Helvetica&quot; color=&quot;FF0000&quot;&gt;[[User:E. Brown|RIC]]&lt;/font&gt;&lt;font size=&quot;2&quot; face=&quot;Helvetica&quot;&gt;[[Wikipedia:WikiProject Tropical cyclones|§]]&lt;sup&gt;&lt;small&gt;[http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=E.+Brown&amp;amp;dbname=enwiki_p Damages]&lt;/small&gt;&lt;/sup&gt;&lt;small&gt;''[[Special:Contributions/E. Brown|archive]]''&lt;/small&gt;&lt;/font&gt; 02:02, 17 March 2006 (UTC)
+
+Well, it doesn't appear that it was ever merged (unless it was unmerged?). It seems that there's enough in the impact section to warrant an article, imo, although it could just be a copy of the TCR. I cleaned up a lot of the severe grammar problems in the article, as well. [[User:Bob rulz|bob rulz]] 17:38, 22 August 2006 (UTC)
+
+''25-Aug-2006'':  '''Don't merge'''.  Separate articles allow for expanding with interesting detail, perhaps by someone from the hurricane region.  Wikipedia is too sophomoric, too juvenile, ''imo'' about complex subjects, such as turtles killed in [[Tampa Bay]] area by [[Hurricane Earl]].  From obsession about [[Hurricane Katrina]], it seemed as though Katrina stopped and moved into the Superdome, when in reality, Katrina didn't even go to New Orleans: more damage was over 40 miles eastward.  However, New Orleans drug dealers evacuated to Houston, learned major-league drug-dealing, and took the Houston-drug tactics back to NOLA: ''that's the kind of complex connection I mean''. ''Comprende?'' -[[User:Wikid77|Wikid77]] 03:53, 26 August 2006 (UTC)
+
+==Disaster Areas map==
+There is one thing that this article does right; it has a map of counties declared disaster areas. I like this idea, and I think that these maps should be used for other tropical cyclone articles, as well. I think it's a useful map. [[User:Bob rulz|bob rulz]] 17:40, 22 August 2006 (UTC)
+
+:Agreed, though there comes a problem when the disaster areas are in more than one state. They only do the map state by state, so it would be useless to have all of the maps for a storm like Floyd. [[User:Hurricanehink|Hurricanehink]] (&lt;small&gt;[[User_talk:Hurricanehink|talk]]&lt;/small&gt;) 18:44, 22 August 2006 (UTC)
+
+::Hmm...well, somebody could create one on their own, possibly? [[User:Bob rulz|bob rulz]] 23:00, 22 August 2006 (UTC)
+
+:::I dunno. Maybe this should be brought up on the Wikiproject page and see if anyone would want to take a stab at the multi-state. [[User:Hurricanehink|Hurricanehink]] (&lt;small&gt;[[User_talk:Hurricanehink|talk]]&lt;/small&gt;) 01:01, 23 August 2006 (UTC)
+
+::::Yeah, I agree. I'm going to bring it up there. [[User:Bob rulz|bob rulz]] 01:27, 23 August 2006 (UTC)
+{{Talk:Hurricane Earl (1998)/GA1}}</text>
+      <sha1>jn0cscja3fjp9t6mp22dcr9rr4qxf9i</sha1>
+    </revision>
+  </page>
+</mediawiki>

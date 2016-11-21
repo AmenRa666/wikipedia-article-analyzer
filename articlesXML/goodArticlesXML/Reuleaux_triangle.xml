@@ -1,0 +1,534 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Reuleaux triangle</title>
+    <ns>0</ns>
+    <id>580252</id>
+    <revision>
+      <id>746132843</id>
+      <parentid>732090696</parentid>
+      <timestamp>2016-10-25T12:50:59Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* Other measures */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="53464">{{good article}}
+[[File:ReuleauxTriangle.svg|thumb|The Reuleaux triangle is a constant width curve based on an equilateral triangle. All points on a side are equidistant from the opposite vertex.]]
+[[File:Manhole cover for reclaimed water SFWD.JPG|thumb|Water valve cover in [[San Francisco]] shaped like a Reuleaux triangle.]]
+A '''Reuleaux triangle''' {{IPA-fr|ʁœlo|}} is a shape formed from the intersection of three [[circle|circular disks]], each having its center on the boundary of the other two. It is a [[curve of constant width]], the simplest and best known such curve other than the circle itself.&lt;ref&gt;{{harvtxt|Gardner|2014}} calls it the simplest, while {{harvtxt|Gruber|1983|page=59}} calls it &quot;the most notorious&quot;.&lt;/ref&gt; Constant width means that the separation of every two parallel [[supporting line]]s is the same, independent of their orientation. Because all its diameters are the same, the Reuleaux triangle is one answer to the question &quot;Other than a circle, what shape can a [[manhole cover]] be made so that it cannot fall down through the hole?&quot;&lt;ref&gt;{{citation
+ | last = Klee | first = Victor | authorlink = Victor Klee
+ | doi = 10.2307/3026963
+ | issue = 2
+ | journal = The Two-Year College Mathematics Journal
+ | pages = 14–27
+ | title = Shapes of the future
+ | volume = 2
+ | year = 1971}}.&lt;/ref&gt;
+
+Reuleaux triangles have also been called '''spherical triangles''', but that term more properly refers to triangles on the curved surface of a [[sphere]].
+They are named after [[Franz Reuleaux]],&lt;ref name=&quot;icons&quot;&gt;{{citation|title=Icons of Mathematics: An Exploration of Twenty Key Images|volume=45|series=Dolciani Mathematical Expositions|first1=Claudi|last1=Alsina|first2=Roger B.|last2=Nelsen|publisher=Mathematical Association of America|year=2011|isbn=978-0-88385-352-8|page=155|url=https://books.google.com/books?id=4DavMl7-aFgC&amp;pg=PA155}}.&lt;/ref&gt; a 19th-century German engineer who pioneered the study of machines for translating one type of motion into another, and who used Reuleaux triangles in his designs.&lt;ref&gt;{{citation|title=The Machines of Leonardo Da Vinci and Franz Reuleaux: Kinematics of Machines from the Renaissance to the 20th Century|volume=2|series=History of Mechanism and Machine Science|first=F. C.|last=Moon|publisher=Springer|year=2007|isbn=978-1-4020-5598-0}}.&lt;/ref&gt; However, these shapes were known before his time, for instance by the designers of [[Gothic architecture|Gothic]] church windows, by [[Leonardo da Vinci]], who used it for a [[map projection]], and by [[Leonhard Euler]] in his study of constant-width shapes. Other applications of the Reuleaux triangle include giving the shape to [[guitar pick]]s, [[pencil]]s, and [[drill bit]]s for drilling square holes, as well as in graphic design in the shapes of some signs and corporate logos.
+
+Among constant-width shapes with a given width, the Reuleaux triangle has the minimum area and the sharpest possible angle (120°) at its corners. By several numerical measures it is the farthest from being [[central symmetry|centrally symmetric]]. It provides the largest constant-width shape avoiding the points of an [[integer lattice]], and is closely related to the shape of the quadrilateral maximizing the ratio of perimeter to diameter. It can perform a complete rotation within a square while at all times touching all four sides of the square, and has the smallest possible area of shapes with this property. However, although it covers most of the square in this rotation process, it fails to cover a small fraction of the square's area, near its corners. Because of this property of rotating within a square, the Reuleaux triangle is also sometimes known as the '''Reuleaux rotor'''.&lt;ref name=&quot;howround&quot; /&gt;
+
+The Reuleaux triangle is the first of a sequence of '''Reuleaux polygons''', curves of constant width formed from [[regular polygon]]s with an odd number of sides. Some of these curves have been used as the shapes of coins. The Reuleaux triangle can also be generalized into three dimensions in multiple ways: the [[Reuleaux tetrahedron]] (the intersection of four spheres whose centers lie on a regular tetrahedron) does not have constant width, but can be modified by rounding its edges to form the [[Meissner body|Meissner tetrahedron]], which does. Alternatively, the [[surface of revolution]] of the Reuleaux triangle also has constant width.
+
+== Construction ==
+[[File:Construction triangle Reuleaux.svg|thumb|left|upright=0.75|To construct a Reuleaux triangle]]
+The Reuleaux triangle may be constructed either directly from three [[circles]], or by rounding the sides of an [[equilateral triangle]].&lt;ref name=&quot;hann&quot;&gt;{{citation|title=Structure and Form in Design: Critical Ideas for Creative Practice|first=Michael|last=Hann|publisher=A&amp;C Black|year=2014|isbn=978-1-4725-8431-1|page=34|url=https://books.google.com/books?id=-CX-AgAAQBAJ&amp;pg=PA34}}.&lt;/ref&gt;
+
+The three-circle construction may be performed with a [[Compass (drafting)|compass]] alone, not even needing a straightedge. By the [[Mohr–Mascheroni theorem]]
+the same is true more generally of any [[compass-and-straightedge construction]],&lt;ref&gt;{{citation
+ | last = Hungerbühler | first = Norbert
+ | doi = 10.2307/2974536
+ | issue = 8
+ | journal = [[American Mathematical Monthly]]
+ | mr = 1299166
+ | pages = 784–787
+ | title = A short elementary proof of the Mohr-Mascheroni theorem
+ | volume = 101
+ | year = 1994}}.&lt;/ref&gt; but the construction for the Reuleaux triangle is particularly simple.
+The first step is to mark two arbitrary points of the plane (which will eventually become vertices of the triangle), and use the compass to draw a circle centered at one of the marked points, through the other marked point. Next, one draws a second circle, of the same radius, centered at the other marked point and passing through the first marked point.
+Finally, one draws a third circle, again of the same radius, with its center at one of the two crossing points of the two previous circles, passing through both marked points.&lt;ref&gt;This construction is briefly described by {{harvtxt|Maor|Jost|2014}} and may be seen, for instance, in the video [https://www.youtube.com/watch?v=OdY9Y-6DsgU Fun with Reuleaux triangles] by Alex Franke, August 21, 2011.&lt;/ref&gt; The central region in the resulting arrangement of three circles will be a Reuleaux triangle.&lt;ref name=&quot;hann&quot; /&gt;
+
+Alternatively, a Reuleaux triangle may be constructed from an equilateral triangle ''T'' by drawing three arcs of circles, each centered at one vertex of ''T'' and connecting the other two vertices.&lt;ref name=&quot;gardner&quot; /&gt;
+Or, equivalently, it may be constructed as the intersection of three disks centered at the vertices of ''T'', with radius equal to the side length of ''T''.&lt;ref name=&quot;onup&quot; /&gt;
+
+== Mathematical properties ==
+[[File:Reuleaux supporting lines.svg|thumb|upright=1.2|Parallel [[supporting line]]s of a Reuleaux triangle]]
+The most basic property of the Reuleaux triangle is that it has constant width, meaning that for every pair of parallel [[supporting line]]s (two lines of the same slope that both touch the shape without crossing through it) the two lines have the same [[Euclidean distance]] from each other, regardless of the orientation of these lines.&lt;ref name=&quot;gardner&quot; /&gt; In any pair of parallel supporting lines, one of the two lines will necessarily touch the triangle at one of its vertices. The other supporting line may touch the triangle at any point on the opposite arc, and their distance (the width of the Reuleaux triangle) equals the radius of this arc.&lt;ref name=&quot;mj14&quot;&gt;{{citation|title=Beautiful Geometry|first1=Eli|last1=Maor|first2=Eugen|last2=Jost|publisher=Princeton University Press|year=2014|isbn=978-1-4008-4833-1|contribution=46 The Reuleaux Triangle|pages=154–156|url=https://books.google.com/books?id=0fOKAQAAQBAJ&amp;pg=PA154}}.&lt;/ref&gt;
+
+The first mathematician to discover the existence of curves of constant width, and to observe that the Reuleaux triangle has constant width, may have been [[Leonhard Euler]].&lt;ref name=&quot;howround&quot;&gt;{{citation|title=How Round Is Your Circle?: Where Engineering and Mathematics Meet|first1=John|last1=Bryant|first2=Chris|last2=Sangwin|publisher=Princeton University Press|year=2011|isbn=978-0-691-14992-9|page=190|url=https://books.google.com/books?id=2lXgO3xKcxAC&amp;pg=PA190}}.&lt;/ref&gt; In a paper that he presented in 1771 and published in 1781 entitled ''De curvis triangularibus'', Euler studied [[Curve|curvilinear]] triangles as well as the curves of constant width, which he called orbiforms.&lt;ref name=&quot;reich&quot;&gt;{{citation|contribution=Euler's contribution to differential geometry and its reception|first=Karin|last=Reich|title=Leonhard Euler: Life, Work and Legacy|series=Studies in the History and Philosophy of Mathematics|volume=5|year=2007|pages=479–502|doi=10.1016/S0928-2017(07)80026-0|editor1-first=Robert E.|editor1-last=Bradley|editor2-first=Ed|editor2-last=Sandifer|publisher=Elsevier}}. See in particular section 1.4, &quot;Orbiforms, 1781&quot;, [https://books.google.com/books?id=75vJL_Y-PvsC&amp;pg=PA484 pp. 484–485].&lt;/ref&gt;&lt;ref&gt;{{citation|first=Leonhard|last=Euler|authorlink=Leonhard Euler|title=De curvis triangularibus|url=http://eulerarchive.maa.org/pages/E513.html|journal=Acta Academiae Scientarum Imperialis Petropolitinae|volume=1778|year=1781|pages=3–30|language=Latin}}. See in particular p.&amp;nbsp;7 for the definition of orbiforms.&lt;/ref&gt;
+
+=== Extremal measures ===
+By many different measures, the Reuleaux triangle is one of the most extreme curves of constant width.
+
+By the [[Blaschke–Lebesgue theorem]], the Reuleaux triangle has the smallest possible area of any curve of given constant width. This area is
+:&lt;math&gt;\frac{1}{2}(\pi - \sqrt3)s^2 \approx 0.70477s^2,&lt;/math&gt;
+where ''s'' is the constant width. One method for deriving this area formula is to partition the Reuleaux triangle into an inner equilateral triangle and three curvilinear regions between this inner triangle and the arcs forming the Reuleaux triangle, and then add the areas of these four sets. At the other extreme, the curve of constant width that has the maximum possible area is a [[Disk (mathematics)|circular disk]], which has area &lt;math&gt;\pi s^2 / 4\approx 0.78540s^2&lt;/math&gt;.&lt;ref name=&quot;gruber&quot;&gt;{{citation|title=Convexity and its Applications|first=Peter M.|last=Gruber|publisher=Birkhäuser|year=1983|isbn=978-3-7643-1384-5|page=67}}&lt;/ref&gt;
+
+The angles made by each pair of arcs at the corners of a Reuleaux triangle are all equal to 120°. This is the sharpest possible angle at any [[vertex (geometry)|vertex]] of any curve of constant width.&lt;ref name=&quot;gardner&quot; /&gt; Additionally, among the curves of constant width, the Reuleaux triangle is the one with both the largest and the smallest inscribed equilateral triangles.&lt;ref&gt;{{harvtxt|Gruber|1983|page=76}}&lt;/ref&gt; The largest equilateral triangle inscribed in a Reuleaux triangle is the one connecting its three corners, and the smallest one is the one connecting the three [[midpoint]]s of its sides. The subset of the Reuleaux triangle consisting of points belonging to three or more diameters is the interior of the larger of these two triangles; it has a larger area than the set of three-diameter points of any other curve of constant width.&lt;ref&gt;{{citation
+ | last = Makeev | first = V. V.
+ | doi = 10.1023/A:1021287302603
+ | issue = Geom. i Topol. 5
+ | journal = Zap. Nauchn. Sem. S.-Peterburg. Otdel. Mat. Inst. Steklov. (POMI)
+ | mr = 1809823
+ | pages = 152–155, 329
+ | title = An extremal property of the Reuleaux triangle
+ | volume = 267
+ | year = 2000}}.&lt;/ref&gt;
+
+[[File:Symmetry measure of Reuleaux triangle.svg|thumb|Centrally symmetric shapes inside and outside a Reuleaux triangle, used to measure its asymmetry]]
+Although the Reuleaux triangle has sixfold [[dihedral symmetry]], the same as an [[equilateral triangle]], it does not have [[central symmetry]].
+The Reuleaux triangle is the least symmetric curve of constant width according to two different measures of central asymmetry, the Kovner–Besicovitch measure (ratio of area to the largest [[central symmetry|centrally symmetric]] shape enclosed by the curve) and the Estermann measure (ratio of area to the smallest centrally symmetric shape enclosing the curve). For the Reuleaux triangle, the two centrally symmetric shapes that determine the measures of asymmetry are both [[hexagon]]al, although the inner one has curved sides.&lt;ref name=&quot;finch&quot;&gt;{{citation|contribution-url=http://www.people.fas.harvard.edu/~sfinch/csolve/rx.pdf|contribution=8.10 Reuleaux Triangle Constants|first=Steven R.|last=Finch|pages=513–514|title=Mathematical Constants|series=Encyclopedia of Mathematics and its Applications|publisher=Cambridge University Press|year=2003|isbn=978-0-521-81805-6}}.&lt;/ref&gt; The Reuleaux triangle has diameters that split its area more unevenly than any other curve of constant width. That is, the maximum ratio of areas on either side of a diameter, another measure of asymmetry, is bigger for the Reuleaux triangle than for other curves of constant width.&lt;ref&gt;{{citation
+ | last1 = Groemer | first1 = H.
+ | last2 = Wallen | first2 = L. J.
+ | issue = 2
+ | journal = Beiträge zur Algebra und Geometrie
+ | mr = 1865537
+ | pages = 517–521
+ | title = A measure of asymmetry for domains of constant width
+ | volume = 42
+ | year = 2001}}.&lt;/ref&gt;
+
+Among all shapes of constant width that avoid all points of an [[integer lattice]], the one with the largest width is a Reuleaux triangle. It has one of its axes of symmetry parallel to the coordinate axes on a half-integer line. Its width, approximately 1.545, is the root of a degree-6 polynomial with integer coefficients.&lt;ref name=&quot;finch&quot; /&gt;&lt;ref&gt;{{harvtxt|Gruber|1983|page=78}}&lt;/ref&gt;&lt;ref&gt;{{citation
+ | last = Sallee | first = G. T.
+ | journal = [[Pacific Journal of Mathematics]]
+ | mr = 0240724
+ | pages = 669–674
+ | title = The maximal set of constant width in a lattice
+ | url = http://projecteuclid.org/euclid.pjm/1102983320
+ | volume = 28
+ | year = 1969
+ | doi=10.2140/pjm.1969.28.669}}.&lt;/ref&gt;
+
+Just as it is possible for a circle to be surrounded by six congruent circles that touch it, it is also possible to arrange seven congruent Reuleaux triangles so that they all make contact with a central Reuleaux triangle of the same size. This is the maximum number possible for any curve of constant width.&lt;ref&gt;{{citation
+ | last = Fejes Tóth | first = L. | authorlink = László Fejes Tóth
+ | journal = Studia Scientiarum Mathematicarum Hungarica
+ | mr = 0221388
+ | pages = 363–367
+ | title = On the number of equal discs that can touch another of the same kind
+ | volume = 2
+ | year = 1967}}; {{citation
+ | last = Schopp | first = J.
+ | journal = Studia Scientiarum Mathematicarum Hungarica
+ | language = German
+ | mr = 0285983
+ | pages = 475–478
+ | title = Über die Newtonsche Zahl einer Scheibe konstanter Breite
+ | volume = 5
+ | year = 1970}}.&lt;/ref&gt;
+
+[[File:Reuleaux kite.svg|thumb|An [[equidiagonal quadrilateral|equidiagonal]] [[kite (geometry)|kite]] that maximizes the ratio of perimeter to diameter, inscribed in a Reuleaux triangle]]
+Among all [[quadrilateral]]s, the shape that has the greatest ratio of its [[perimeter]] to its [[diameter]] is an [[equidiagonal quadrilateral|equidiagonal]] [[kite (geometry)|kite]] that can be inscribed into a Reuleaux triangle.&lt;ref name=&quot;kite&quot;&gt;{{citation |first=D.G. |last=Ball |title=A generalisation of π |journal=[[The Mathematical Gazette]] |volume=57 |issue=402 |year=1973 |pages=298–303 |doi=10.2307/3616052}}; {{citation |first1=David |last1= Griffiths |first2=David |last2=Culpin |title=Pi-optimal polygons |journal=[[The Mathematical Gazette]] |volume=59 |issue=409 |year=1975 |pages=165–175 |doi=10.2307/3617699}}.&lt;/ref&gt;
+
+=== Other measures ===
+By [[Barbier's theorem]] all curves of the same constant width including the Reuleaux triangle have equal [[perimeter]]s. In particular this perimeter equals the perimeter of the circle with the same width, which is &lt;math&gt;\pi s&lt;/math&gt;.&lt;ref&gt;{{citation
+ | last = Lay | first = Steven R.
+ | at = Theorem 11.11, pp. 81–82
+ | isbn = 978-0-486-45803-8
+ | publisher = Dover
+ | title = Convex Sets and Their Applications
+ | url = https://books.google.com/books?id=U9eOPjmaH90C&amp;pg=PA81
+ | year = 2007}}.&lt;/ref&gt;&lt;ref&gt;{{citation
+ | last = Barbier | first = E.
+ | journal = [[Journal de Mathématiques Pures et Appliquées]] | series = 2&lt;sup&gt;e&lt;/sup&gt; série
+ | language = French
+ | pages = 273–286
+ | title = Note sur le problème de l'aiguille et le jeu du joint couvert
+ | url = http://portail.mathdoc.fr/JMPA/PDF/JMPA_1860_2_5_A18_0.pdf
+ | volume = 5
+ | year = 1860}}. See in particular pp. 283–285.&lt;/ref&gt;&lt;ref name=&quot;gardner&quot;&gt;{{citation|title=Knots and Borromean Rings, Rep-Tiles, and Eight Queens|volume=4|series=The New Martin Gardner Mathematical Library|first=Martin|last=Gardner|authorlink=Martin Gardner|publisher=Cambridge University Press|year=2014|isbn=978-0-521-75613-6|contribution=Chapter 18: Curves of Constant Width|pages=223–245}}.&lt;/ref&gt;
+
+The radii of the largest [[inscribed circle]] of a Reuleaux triangle with width ''s'', and of the [[circumscribed circle]] of the same triangle, are
+:&lt;math&gt;\displaystyle\left(1-\frac{1}{\sqrt 3}\right)s\approx 0.42265s&lt;/math&gt; and &lt;math&gt;\displaystyle\frac{s}{\sqrt 3}\approx 0.57735s&lt;/math&gt;
+respectively; the sum of these radii equals the width of the Reuleaux triangle. More generally, for every curve of constant width, the largest inscribed circle and the smallest circumscribed circle are concentric, and their radii sum to the constant width of the curve.&lt;ref&gt;{{harvtxt|Lay|2007}}, Theorem 11.8, [https://books.google.com/books?id=U9eOPjmaH90C&amp;pg=PA80 pp.&amp;nbsp;80–81].&lt;/ref&gt;
+
+{{unsolved|mathematics|How densely can Reuleaux triangles be packed in the plane?}}
+The optimal [[packing density]] of the Reuleaux triangle in the plane remains unproven, but is conjectured to be
+:&lt;math&gt;\frac{2(\pi-\sqrt 3)}{\sqrt{15}+\sqrt{7}-\sqrt{12}} \approx 0.922888, &lt;/math&gt;
+which is the density of one possible [[double lattice]] packing for these shapes. The best proven upper bound on the packing density is approximately 0.947275.&lt;ref&gt;{{citation
+ | last1 = Blind | first1 = G.
+ | last2 = Blind | first2 = R.
+ | issue = 2-4
+ | journal = Studia Scientiarum Mathematicarum Hungarica
+ | language = German
+ | mr = 787951
+ | pages = 465–469
+ | title = Eine Abschätzung für die Dichte der dichtesten Packung mit Reuleaux-Dreiecken
+ | volume = 18
+ | year = 1983}}. See also {{citation
+ | last1 = Blind | first1 = G.
+ | last2 = Blind | first2 = R.
+ | doi = 10.1007/BF03323256
+ | issue = 1-2
+ | journal = [[Results in Mathematics]]
+ | language = German
+ | mr = 880190
+ | pages = 1–7
+ | title = Reguläre Packungen mit Reuleaux-Dreiecken
+ | volume = 11
+ | year = 1987}}.&lt;/ref&gt; It has also been conjectured, but not proven, that the Reuleaux triangles have the highest packing density of any curve of constant width.&lt;ref&gt;{{citation|arxiv=1504.06733|title=On Curves and Surfaces of Constant Width|year=2015|first=Howard L.|last=Resnikoff}}.&lt;/ref&gt;
+
+=== Rotation within a square ===
+[[File:Rotation of Reuleaux triangle.gif|thumb|Rotation of a Reuleaux triangle within a square, showing also the curve traced by the center of the triangle]]
+Any curve of constant width can form a rotor within a [[square]], a shape that can perform a complete rotation while staying within the square and at all times touching all four sides of the square. However, the Reuleaux triangle is the rotor with the minimum possible area.&lt;ref name=&quot;gardner&quot; /&gt; As it rotates, its axis does not stay fixed at a single point, but instead follows a curve formed by the pieces of four [[ellipse]]s.&lt;ref&gt;{{citation
+ | last1 = Gleiftner | first1 = Winfried
+ | last2 = Zeitler | first2 = Herbert
+ | date = May 2000
+ | doi = 10.1007/bf03322004
+ | issue = 3-4
+ | journal = [[Results in Mathematics]]
+ | pages = 335–344
+ | title = The Reuleaux triangle and its center of mass
+ | volume = 37}}.&lt;/ref&gt; Because of its 120° angles, the rotating Reuleaux triangle cannot reach some points near the sharper angles at the square's vertices, but rather covers a shape with slightly rounded corners, also formed by elliptical arcs.&lt;ref name=&quot;gardner&quot; /&gt;
+
+{{multiple image|align=center|image1=Reuleaux triangle rotation center.svg|alt1=Reuleaux triangle in a square, with ellipse governing the path of motion of the triangle center|caption1=One of the four ellipses followed by the center of a rotating Reuleaux triangle in a square|image2=Reuleaux triangle rotation corners.svg|alt2=Reuleaux triangle in a square, with ellipse bounding the region swept by the triangle|caption2=Ellipse separating one of the corners (lower left) of a square from the region swept by a rotating Reuleaux triangle}}
+
+At any point during this rotation, two of the corners of the Reuleaux triangle touch two adjacent sides of the square, while the third corner of the triangle traces out a curve near the opposite vertex of the square. The shape traced out by the rotating Reuleaux triangle covers approximately 98.77% of the area of the square.&lt;ref&gt;{{citation|authorlink=Clifford A. Pickover|last=Pickover|first=Clifford A.|title=The Math Book: From Pythagoras to the 57th Dimension, 250 Milestones in the History of Mathematics|publisher=Sterling Publishing Company|year=2009|isbn= 978-1-4027-5796-9|pages=266|contribution=Reuleaux Triangle|url=https://books.google.com/books?id=JrslMKTgSZwC&amp;pg=PA266}}.&lt;/ref&gt;
+
+=== As a counterexample ===
+Reuleaux's original motivation for studying the Reuleaux triangle was as a counterexample, showing that three single-point contacts may not be enough to fix a planar object into a single position.&lt;ref&gt;{{harvtxt|Moon|2007}}, [https://books.google.com/books?id=lw7lN8JibZsC&amp;pg=PA239 p.&amp;nbsp;239].&lt;/ref&gt;
+
+The existence of Reuleaux polygons shows that diameter measurements alone cannot verify that an object has a circular cross-section.&lt;ref&gt;{{citation
+ | last1 = Granovsky | first1 = V. A.
+ | last2 = Siraya | first2 = T. N.
+ | editor1-last = Pavese | editor1-first = F.
+ | editor2-last = Bär | editor2-first = M.
+ | editor3-last = Filtz | editor3-first = J.-R.
+ | editor4-last = Forbes | editor4-first = A. B.
+ | editor5-last = Pendrill | editor5-first = L.
+ | editor6-last = Shirono | editor6-first = K.
+ | contribution = Metrological traceability and quality of industrial tests measurements
+ | pages = 194–201
+ | publisher = World Scientific
+ | title = Advanced Mathematical and Computational Tools in Metrology and Testing IX}}. See in particular [https://books.google.com/books?id=2dwn4M7IEWUC&amp;pg=PA200 p.&amp;nbsp;200].&lt;/ref&gt; Overlooking this fact may have played a role in the [[Space Shuttle Challenger disaster]], as the roundness of sections of the rocket in that launch was tested only by measuring different diameters, and off-round shapes may cause unusually high stresses that could have been one of the factors causing the disaster.&lt;ref name=&quot;gardner&quot; /&gt;
+
+In connection with the [[inscribed square problem]], {{harvtxt|Eggleston|1958}} observed that the Reuleaux triangle provides an example of a constant-width shape in which no regular polygon with more than four sides can be inscribed, except the regular hexagon, and he described a small modification to this shape that preserves its constant width but also prevents regular hexagons from being inscribed in it. He generalized this result to three dimensions using a cylinder with the same shape as its [[Cross section (geometry)|cross section]].&lt;ref&gt;{{citation
+ | last = Eggleston | first = H. G.
+ | doi = 10.2307/2308878
+ | journal = [[American Mathematical Monthly]]
+ | mr = 0097768
+ | pages = 76–80
+ | title = Figures inscribed in convex sets
+ | volume = 65
+ | year = 1958}}.&lt;/ref&gt;
+
+== Applications ==
+
+=== Reaching into corners ===
+Several types of machinery take the shape of the Reuleaux triangle, based on its property of being able to rotate within a square.
+
+The [[Watts Brothers Tool Works]] square [[drill bit]] has the shape of a Reuleaux triangle, modified with concavities to form cutting surfaces. When mounted in a special chuck which allows for the bit not having a fixed centre of rotation, it can drill a hole that is nearly square.&lt;ref name=&quot;watts&quot;&gt;{{citation
+|publisher=[[Watts Brothers Tool Works]]
+|title=How to drill square hexagon octagon pentagon holes
+|location=Wilmerding, Pennsylvania
+|year=1950–1951}} (27 page brochure).&lt;/ref&gt; Although patented by Henry Watts in 1914, similar drills invented by others were used earlier.&lt;ref name=&quot;gardner&quot; /&gt; Other Reuleaux polygons are used to drill pentagonal, hexagonal, and octagonal holes.&lt;ref name=&quot;gardner&quot; /&gt;&lt;ref name=&quot;watts&quot; /&gt;
+
+[[Panasonic]]'s RULO [[robotic vacuum cleaner]] has its shape based on the Reuleaux triangle in order to ease cleaning up dust in the corners of rooms.&lt;ref&gt;{{citation|last1=Mochizuki|first1=Takashi|title=Panasonic Rolls Out Triangular Robot Vacuum|url=http://blogs.wsj.com/japanrealtime/2015/01/22/panasonic-rolls-out-triangular-robot-vacuum/|department=Japan Real Time|newspaper=[[Wall Street Journal]]|date=January 22, 2015}}.&lt;/ref&gt;&lt;ref&gt;{{citation|url=http://www.gizmag.com/panasonic-rulo/36378/|title=Panasonic enters the robo-vac game, with the triangular Rulo|first=Ben|last=Coxworth|date=March 3, 2015|magazine=Gizmag}}.&lt;/ref&gt;
+
+=== Rolling cylinders ===
+[[File:Reuleaux triangle 54.JPG|thumb|upright=1.25|Comparison of a cylindrical and Reuleaux triangle roller]]
+Another class of applications of the Reuleaux triangle involves cylindrical objects with a Reuleaux triangle cross section.  Several pencils are manufactured in this shape, rather than the more traditional round or hexagonal barrels.&lt;ref name=&quot;pencil&quot;&gt;{{citation|url=http://www.pencilrevolution.com/2006/04/review-of-staedtler-noris-ergosoft-hb/|title=Review of Staedtler Noris Ergosoft HB|work=Pencil Revolution|date=April 26, 2006|accessdate=2015-05-22|first=Johnny|last=Gamber}}.&lt;/ref&gt;  They are usually promoted as being more comfortable or encouraging proper grip, as well as being less likely to roll off tables (since the center of gravity moves up and down more than a rolling hexagon).
+
+A Reuleaux triangle (along with all other [[curve of constant width|curves of constant width]]) can roll but makes a poor wheel because it does not roll about a fixed center of rotation. An object on top of rollers that have Reuleaux triangle cross-sections would roll smoothly and flatly, but an axle attached to Reuleaux triangle wheels would bounce up and down three times per revolution.&lt;ref name=&quot;gardner&quot; /&gt;&lt;ref&gt;{{citation
+ | last1 = Masferrer León | first1 = Claudia
+ | last2 = von Wuthenau Mayer | first2 = Sebastián
+ | date = December 2005
+ | doi = 10.1007/bf02985852
+ | issue = 4
+ | journal = [[The Mathematical Intelligencer]]
+ | pages = 7–13
+ | title = Reinventing the wheel: Non-circular wheels
+ | volume = 27}}.&lt;/ref&gt; This concept was used in a science fiction short story by [[Poul Anderson]] titled &quot;Three-Cornered Wheel&quot;.&lt;ref name=&quot;mj14&quot; /&gt; A bicycle with floating axles and a frame supported by the rim of its Reuleaux triangle shaped wheel was built and demonstrated in 2009 by Chinese inventor Guan Baihua, who was inspired by pencils with the same shape.&lt;ref&gt;{{citation|first=Tyra|last=Dempster|url=http://in.reuters.com/article/2009/06/17/us-china-bicycle-idINTRE55G1GB20090617|publisher=Reuters|title=Chinese man reinvents the wheel|date=June 17, 2009}}.&lt;/ref&gt;
+
+=== Mechanism design ===
+[[File:Luch2 greifer.gif|thumb|Reuleaux triangle based film advance mechanism in the Soviet Luch-2 8&amp;nbsp;mm film projector]]
+Another class of applications of the Reuleaux triangle involves using it as a part of a [[Linkage (mechanical)|mechanical linkage]] that can convert [[rotation around a fixed axis]]
+into [[reciprocating motion]].&lt;ref name=&quot;onup&quot;&gt;{{citation|title=Old and New Unsolved Problems in Plane Geometry and Number Theory|volume=11|series=Dolciani mathematical expositions|first1=Victor|last1=Klee|author1-link=Victor Klee|first2=S.|last2=Wagon|author2-link=Stan Wagon|publisher=Cambridge University Press|year=1991|isbn=978-0-88385-315-3|page=21|url=https://books.google.com/books?id=tRdoIhHh3moC&amp;pg=PA21}}.&lt;/ref&gt; These mechanisms were studied by Franz Reuleaux. With the assistance of the Gustav Voigt company, Reuleaux built approximately 800 models of mechanisms, several of which involved the Reuleaux triangle.&lt;ref name=&quot;cornell&quot; /&gt; Reuleaux used these models in his pioneering scientific investigations of their motion.&lt;ref&gt;{{citation|title=Mathematics and the Aesthetic: New Approaches to an Ancient Affinity|series=CMS Books in Mathematics|first1=Nathalie|last1=Sinclair|author1-link=Nathalie Sinclair|first2=William|last2=Higginson|publisher=Springer|year=2007|isbn=978-0-387-38145-9|page=81|url=https://books.google.com/books?id=GJBKLnkYyi0C&amp;pg=PA81}}.&lt;/ref&gt; Although most of the Reuleaux–Voigt models have been lost, 219 of them have been collected at [[Cornell University]], including nine based on the Reuleaux triangle.&lt;ref name=&quot;cornell&quot;&gt;{{citation|title=The Reuleaux Collection of Kinematic Mechanisms at Cornell University|first=Francis C.|last=Moon|date=July 1999|publisher=Cornell University Library|url=http://kmoddl.library.cornell.edu/facets/moon61899.htm}}.&lt;/ref&gt;&lt;ref name=&quot;moon241&quot; /&gt; However, the use of Reuleaux triangles in mechanism design predates the work of Reuleaux; for instance, some [[steam engine]]s from as early as 1830 had a [[cam]] in the shape of a Reuleaux triangle.&lt;ref&gt;{{harvtxt|Moon|2007|page=240}}&lt;/ref&gt;&lt;ref name=&quot;mathtrek&quot;&gt;{{citation|first=Ivars|last=Peterson|authorlink=Ivars Peterson|title=Rolling with Reuleaux|date=October 19, 1996|work=MathTrek|url=https://www.sciencenews.org/article/rolling-reuleaux|publisher=[[ScienceNews]]}}. Reprinted in {{citation|title=Mathematical Treks: From Surreal Numbers to Magic Circles|series=MAA spectrum|first=Ivars|last=Peterson|authorlink=Ivars Peterson|publisher=[[Mathematical Association of America]]|year=2002|isbn=978-0-88385-537-9|pages=141–144|url=https://books.google.com/books?id=4gWSAraVhtAC&amp;pg=PA141}}.&lt;/ref&gt;
+
+One application of this principle arises in a [[film projector]]. In this application, it is necessary to advance the film in a jerky, stepwise motion, in which each frame of film stops for a fraction of a second in front of the projector lens, and then much more quickly the film is moved to the next frame. This can be done using a mechanism in which the rotation of a Reuleaux triangle within a square is used to create a motion pattern for an actuator that pulls the film quickly to each new frame and then pauses the film's motion while the frame is projected.&lt;ref&gt;{{harvtxt|Lay|2007}}, [https://books.google.com/books?id=U9eOPjmaH90C&amp;pg=PA83 p.&amp;nbsp;83].&lt;/ref&gt;
+
+The rotor of the [[Wankel engine]] is shaped as a curvilinear triangle that is often cited as an example of a Reuleaux triangle.&lt;ref name=&quot;gardner&quot; /&gt;&lt;ref name=&quot;mathtrek&quot; /&gt; However, its curved sides are somewhat flatter than those of a Reuleaux triangle and so it does not have constant width.&lt;ref&gt;{{harvtxt|Gruber|1983|page=80}}. For a detailed calculation of the curvature of a circular arc approximating the optimal Wankel rotor shape, see {{citation
+ | last1 = Badr | first1 = O.
+ | last2 = Naik | first2 = S.
+ | last3 = O'Callaghan | first3 = P. W.
+ | last4 = Probert | first4 = S. D.
+ | doi = 10.1016/0306-2619(91)90063-4
+ | issue = 1
+ | journal = Applied Energy
+ | pages = 59–76
+ | title = Rotary Wankel engines as expansion devices in steam Rankine-cycle engines
+ | volume = 39
+ | year = 1991}}.&lt;/ref&gt;
+
+=== Architecture ===
+[[File:Reuleaux triangle shaped window of Onze-Lieve-Vrouwekerk, Bruges.jpg|thumb|Reuleaux triangle shaped window of the [[Church of Our Lady, Bruges]] in Belgium]]
+[[File:KölnTriangle (Flight over Cologne).jpg|thumb|The [[Kölntriangle]] building has a Reuleaux triangle cross-section]]
+In [[Gothic architecture]], beginning in the late 13th century or early 14th century,&lt;ref name=&quot;mcwte&quot;&gt;{{citation|url=https://books.google.com/books?id=SY7aHx8KwK0C&amp;pg=PA63|pages=63–64|title=Medieval Church Window Tracery in England|first=Stephen|last=Hart|publisher=Boydell &amp; Brewer Ltd|year=2010|isbn=978-1-84383-533-2}}.&lt;/ref&gt; the Reuleaux triangle became one of several curvilinear forms frequently used for windows, window [[tracery]], and other architectural decorations.&lt;ref name=&quot;icons&quot; /&gt; For instance, in [[English Gothic architecture]], this shape was associated with the decorated period, both in its geometric style of 1250–1290 and continuing into its curvilinear style of 1290–1350.&lt;ref name=&quot;mcwte&quot; /&gt; In this context, the shape is more frequently called a spherical triangle,&lt;ref name=&quot;mcwte&quot; /&gt;&lt;ref&gt;{{citation|title= A glossary of terms used in Grecian, Roman, Italian, and Gothic architecture|volume=1|first=John Henry|last=Parker|edition=5th|year=1850|page=202|url=https://books.google.com/books?id=uXtZAAAAYAAJ&amp;pg=PA202|location=London|publisher=David Rogue}}.&lt;/ref&gt;&lt;ref&gt;{{citation|title=Practical plane geometry|first=E. S.|last=Burchett|year=1876|at=Caption to Plate LV, Fig. 6|url=https://books.google.com/books?id=oDcDAAAAQAAJ&amp;pg=RA1-PA94|location=London and Glasgow|publisher=William Collins, Sons, and Co.}}.&lt;/ref&gt; but the more usual mathematical meaning of a [[spherical triangle]] is a triangle on the surface of a [[sphere]] (a shape also commonly used in architecture as a [[pendentive]]). In its use in Gothic church architecture, the three-cornered shape of the Reuleaux triangle may be seen both as a symbol of the [[Trinity]],&lt;ref&gt;{{citation|title=The Symbolism of Churches and Church Ornaments: A Translation of the First Book of the Rationale Divinorum Officiorum|first=Guillaume|last=Durand|edition=3rd|publisher=Gibbings|year=1906|url=https://books.google.com/books?id=vRknpENyAlQC&amp;pg=PR88|page=lxxxviii}}.&lt;/ref&gt; and as &quot;an act of opposition to the form of the circle&quot;.&lt;ref&gt;{{citation|title=Gothic Architecture|volume=19|series=Pelican history of art|first1=Paul|last1=Frankl|first2=Paul|last2=Crossley|publisher=Yale University Press|year=2000|isbn=978-0-300-08799-4|page=146|url=https://books.google.com/books?id=LBZ6781vvOwC&amp;pg=PA146}}.&lt;/ref&gt;
+
+The Reuleaux triangle has also been used in other styles of architecture. For instance, [[Leonardo da Vinci]] sketched this shape as the plan for a fortification.&lt;ref name=&quot;moon241&quot;&gt;{{harvtxt|Moon|2007|page=241}}.&lt;/ref&gt; A modern high-rise building, the [[Kölntriangle]] in [[Cologne]], [[Germany]], was built with a Reuleaux triangle cross-section. Together with the circular shape of its core, this gives varied depths to the rooms of the building.&lt;ref&gt;[http://www.koelntriangle.de/architecture/impressionen/tower/ Architecture], [[Kölntriangle]], retrieved 2015-05-23.&lt;/ref&gt;
+
+=== Mapmaking ===
+Another early application of the Reuleaux triangle, by [[Leonardo da Vinci]] circa 1514 (or possibly by one of his followers at his direction), was a [[world map]] in which the spherical surface of the earth was divided into eight octants, each flattened into the shape of a Reuleaux triangle.&lt;ref name=&quot;snyder&quot;&gt;{{citation|title=Flattening the Earth: Two Thousand Years of Map Projections|first=John P.|last=Snyder|publisher=University of Chicago Press|year=1997|isbn=978-0-226-76747-5|page=40|url=https://books.google.com/books?id=0UzjTJ4w9yEC&amp;pg=PA40}}.&lt;/ref&gt;&lt;ref&gt;{{citation
+ | last = Keuning | first = Johannes
+ | date = January 1955
+ | doi = 10.1080/03085695508592085
+ | issue = 1
+ | journal = [[Imago Mundi]]
+ | jstor = 1150090
+ | pages = 1–24
+ | title = The history of geographical map projections until 1600
+ | volume = 12}}.&lt;/ref&gt;&lt;ref name=&quot;dee&quot;&gt;{{citation
+ | last = Bower | first = David I.
+ | date = February 2012
+ | doi = 10.1179/1743277411y.0000000015
+ | issue = 1
+ | journal = [[The Cartographic Journal]]
+ | pages = 55–61
+ | title = The unusual projection for one of John Dee's maps of 1580
+ | url = http://dibower.co.uk/data/documents/Dee-projn-paper.pdf
+ | volume = 49}}.&lt;/ref&gt;
+[[File:Leonardo da Vinci’s Mappamundi.jpg|thumb|center|upright=2|[[Leonardo da Vinci]]'s world map in eight Reuleaux-triangle quadrants]]
+
+Similar maps also based on the Reuleaux triangle were published by [[Oronce Finé]] in 1551 and by [[John Dee]] in 1580.&lt;ref name=&quot;dee&quot; /&gt;
+
+=== Other objects ===
+[[File:V-Pick Psychos.JPG|thumb|left|upright=1.25|Three Reuleaux triangle shaped [[guitar pick]]s]]
+Many [[guitar pick]]s employ the Reuleaux triangle, as its shape combines a sharp point to provide strong articulation, with a wide tip to produce a warm timbre. Because all three points of the shape are usable, it is easier to orient and wears less quickly compared to a pick with a single tip.&lt;ref name=&quot;picks&quot;&gt;{{citation|last=Hoover|first=Will|date=November 1995|title= Picks!: The Colorful Saga of Vintage Celluloid Guitar Plectrums|pages=32–33|publisher=Backbeat Books|isbn=978-0-87930-377-8}}.&lt;/ref&gt;
+
+[[File:Smithsonian Submillimeter Array.jpg|thumb|The [[Submillimeter Array]], with seven of its eight antennae arranged on an approximate Reuleaux triangle]]
+Following a suggestion of {{harvtxt|Keto|1997}},&lt;ref name=&quot;keto&quot;&gt;{{citation
+ | last = Keto | first = Eric
+ | bibcode = 1997ApJ...475..843K
+ | doi = 10.1086/303545
+ | issue = 2
+ | journal = [[The Astrophysical Journal]]
+ | pages = 843–852
+ | title = The shapes of cross-correlation interferometers
+ | volume = 475
+ | year = 1997}}.&lt;/ref&gt; the antennae of the [[Submillimeter Array]], a radio-wave astronomical observatory on [[Mauna Kea]] in [[Hawaii]], are arranged on four nested Reuleaux triangles.&lt;ref name=&quot;blundell&quot;&gt;{{citation
+ | last = Blundell | first = Raymond
+ | contribution = The submillimeter array
+ | contribution-url = https://www.cfa.harvard.edu/sma/general/IEEE.pdf
+ | doi = 10.1109/mwsym.2007.380132
+ | title = Proc. 2007 IEEE/MTT-S International Microwave Symposium
+ | year = 2007}}.&lt;/ref&gt;&lt;ref name=&quot;hml04&quot;&gt;{{citation
+ | last1 = Ho | first1 = Paul T. P.
+ | last2 = Moran | first2 = James M.
+ | last3 = Lo | first3 = Kwok Yung
+ | bibcode = 2004ApJ...616L...1H
+ | doi = 10.1086/423245
+ | issue = 1
+ | journal = [[The Astrophysical Journal]]
+ | pages = L1–L6
+ | title = The submillimeter array
+ | volume = 616
+ | year = 2004}}.&lt;/ref&gt; Placing the antennae on a curve of constant width causes the observatory to have the same spatial resolution in all directions, and provides a circular observation beam. As the most asymmetric curve of constant width, the Reuleaux triangle leads to the most uniform coverage of the plane for the [[Fourier transform]] of the signal from the array.&lt;ref name=&quot;keto&quot;/&gt;&lt;ref name=&quot;hml04&quot;/&gt; The antennae may be moved from one Reuleaux triangle to another for different observations, according to the desired angular resolution of each observation.&lt;ref name=&quot;blundell&quot;/&gt;&lt;ref name=&quot;hml04&quot;/&gt; The precise placement of the antennae on these Reuleaux triangles was optimized using a [[neural network]]. In some places the constructed observatory departs from the preferred Reuleaux triangle shape because that shape was not possible within the given site.&lt;ref name=&quot;hml04&quot;/&gt;
+
+=== Signs and logos ===
+The shield shapes used for many signs and corporate logos feature rounded triangles, some of which are more specifically Reuleaux triangles.
+
+The corporate logo of [[Petrofina]] (Fina), a Belgian oil company with major operations in Europe, North America and Africa, used a Reuleaux triangle with the Fina name from 1950 until Petrofina's merger with [[Total S.A.]] in 2000.&lt;ref&gt;{{citation|title=Interesting Stuff: Curves of Constant Width|first=Sam|last=Gwillian|url=http://newportcityradio.org/culture/interesting-stuff-curves-of-constant-width/all-pages|publisher=Newport City Radio|date=May 16, 2015}}.&lt;/ref&gt;&lt;ref&gt;{{citation|title=Fina Logo History: from Petrofina to Fina|url=http://www.total.com/en/about-total/group-presentation/group-history/fina-logo-history-922651.html|work=Total: Group Presentation|publisher=Total S.A.|accessdate=31 October 2015|archiveurl=https://web.archive.org/web/20121226182719/http://www.total.com/en/about-total/group-presentation/group-history/fina-logo-history-922651.html|archivedate=December 26, 2012}}.&lt;/ref&gt;
+Another corporate logo framed in the Reuleaux triangle, the south-pointing [[compass]] of [[Bavaria Brewery (Netherlands)|Bavaria Brewery]], was part of a makeover by design company Total Identity that won the SAN 2010 Advertiser of the Year award.&lt;ref&gt;[https://totalidentity.com/global-bavaria Global: Bavaria, Fundamental Rebranding Operation at Bavaria], Total Identity, retrieved 2015-06-27.&lt;/ref&gt;
+The Reuleaux triangle is also used in the logo of [[Colorado School of Mines]].&lt;ref name=&quot;csm&quot;&gt;{{citation|title=M-blems: Explaining the logo|url=http://magazine.mines.edu/BackIssues/PDF_Archives/vol_92_num_2.pdf|page=29|first=Roland B.|last=Fisher|volume=92|issue=2|date=Spring 2002|journal=Mines: the magazine of Colorado School of Mines}}.&lt;/ref&gt;
+
+=== In nature ===
+[[File:Reuleaux foam.svg|thumb|upright=0.75|The Reuleaux triangle as the central bubble in a mathematical model of a four-bubble planar soap bubble cluster]]
+According to [[Plateau's laws]], the circular arcs in two-dimensional [[soap bubble]] clusters meet at 120° angles, the same angle found at the corners of a Reuleaux triangle. Based on this fact, it is possible to construct clusters in which some of the bubbles take the form of a Reuleaux triangle.&lt;ref name=&quot;foam&quot;&gt;{{citation
+ | last1 = Modes | first1 = Carl D.
+ | last2 = Kamien | first2 = Randall D.
+ | arxiv = 0810.5724
+ | doi = 10.1039/c3sm51585k
+ | issue = 46
+ | journal = [[Soft Matter (journal)|Soft Matter]]
+ | pages = 11078–11084
+ | publisher = Royal Society of Chemistry
+ | title = Spherical foams in flat space
+ | volume = 9
+ | year = 2013}}.&lt;/ref&gt;
+
+The shape was first isolated in crystal form in 2014 as Reuleaux triangle disks.&lt;ref&gt;{{citation |first1=C. H. B. |last1= Ng |first2=W. Y. |last2=Fan |title=Reuleaux triangle disks: New shape on the block |journal=[[Journal of the American Chemical Society]] |volume=136 |issue=37 |year=2014 |pages=12840–12843 |doi=10.1021/ja506625y}}.&lt;/ref&gt; Basic [[bismuth nitrate]] disks with the Reuleaux triangle shape were formed from the [[hydrolysis]] and [[precipitation]] of bismuth nitrate in an ethanol–water system in the presence of 2,3-bis(2-pyridyl)pyrazine.
+
+== Generalizations ==
+Triangular curves of constant width with smooth rather than sharp corners may be obtained as the locus of points at a fixed distance from the Reuleaux triangle.&lt;ref&gt;{{citation
+ | last1 = Banchoff | first1 = Thomas
+ | last2 = Giblin | first2 = Peter
+ | doi = 10.2307/2974900
+ | issue = 5
+ | journal = [[American Mathematical Monthly]]
+ | mr = 1272938
+ | pages = 403–416
+ | title = On the geometry of piecewise circular curves
+ | volume = 101
+ | year = 1994}}.&lt;/ref&gt; Other generalizations of the Reuleaux triangle include surfaces in three dimensions, curves of constant width with more than three sides, and the Yanmouti sets which provide extreme examples of an inequality between width, diameter, and inradius.
+
+=== Three-dimensional version === &lt;!-- This section is linked from [[Sphere]] --&gt;
+[[File:Reuleaux-tetrahedron-intersection.png|thumb|left|Four spheres intersect to form a Reuleaux tetrahedron.]]
+The intersection of four spheres of radius ''s'' centered at the vertices of a regular [[tetrahedron]] with side length ''s'' is called the [[Reuleaux tetrahedron]], but is not a [[surface of constant width]].&lt;ref name=weber&gt;{{citation
+  | last = Weber | first = Christof
+  | year = 2009
+  | url = http://www.swisseduc.ch/mathematik/geometrie/gleichdick/docs/meissner_en.pdf
+  | title = What does this solid have to do with a ball?}} Weber also has [http://www.swisseduc.ch/mathematik/material/gleichdick/index.html films of both types of Meissner body rotating].&lt;/ref&gt;  It can, however, be made into a surface of constant width, called [[Reuleaux tetrahedron#Meissner bodies|Meissner's tetrahedron]], by replacing its edge arcs by curved surfaces,  the surfaces of rotation of a circular arc. Alternatively, the [[surface of revolution]] of a Reuleaux triangle through one of its symmetry axes forms a surface of constant width, with minimum volume among all known surfaces of revolution of given constant width.&lt;ref name=&quot;ccg&quot;&gt;{{citation
+  | last1 = Campi | first1 = Stefano
+  | last2 = Colesanti | first2 = Andrea
+  | last3 = Gronchi | first3 = Paolo
+  | contribution = Minimum problems for volumes of convex bodies
+  | title = Partial Differential Equations and Applications: Collected Papers in Honor of Carlo Pucci
+  | publisher = Lecture Notes in Pure and Applied Mathematics, no. 177, Marcel Dekker
+  | year = 1996
+  | pages = 43–55}}.&lt;/ref&gt;
+
+=== Reuleaux polygons ===
+[[File:Reuleaux polygons.svg|thumb|Reuleaux polygons]]
+The Reuleaux triangle can be generalized to [[regular polygon]]s with an odd number of sides, yielding a '''Reuleaux polygon'''. These are the only shapes of constant width whose boundaries are formed by finitely many circular arcs of equal length.&lt;ref&gt;{{citation
+ | last = Firey | first = W. J.
+ | journal = [[Pacific Journal of Mathematics]]
+ | mr = 0113176
+ | pages = 823–829
+ | title = Isoperimetric ratios of Reuleaux polygons
+ | url = http://projecteuclid.org/euclid.pjm/1103038230
+ | volume = 10
+ | year = 1960
+ | doi=10.2140/pjm.1960.10.823}}.&lt;/ref&gt;
+
+The constant width of these shapes allows their use as coins that can be used in coin-operated machines. For instance, the [[United Kingdom]] has made [[twenty pence (British coin)|20-pence]] and [[fifty pence (British coin)|50-pence]] coins in the shape of a Reuleaux heptagon.&lt;ref name=&quot;gardner&quot; /&gt; The [[Canada|Canadian]] [[Loonie]] dollar coin uses another Reuleaux polygon with 11 sides.&lt;ref&gt;{{citation|title=Single Digits: In Praise of Small Numbers|first=Marc|last=Chamberland|publisher=Princeton University Press|year=2015|isbn=9781400865697|pages=104–105|url=https://books.google.com/books?id=n9iqBwAAQBAJ&amp;pg=PA104}}.&lt;!-- This source also claims that the [[Susan B. Anthony dollar]] is a Reuleaux 11-gon, but this appears to be false. The Anthony dollar is instead a circular coin with a (flat-sided) 11-gon inscribed within its face. --&gt;&lt;/ref&gt;
+
+Similar methods can be used to enclose an arbitrary [[simple polygon]] within a curve of constant width, whose width equals the diameter of the given polygon. The resulting shape consists of circular arcs (at most as many as sides of the polygon), can be constructed algorithmically in [[linear time]], and can be drawn with compass and straightedge.&lt;ref&gt;{{citation
+ | last1 = Chandru | first1 = V.
+ | last2 = Venkataraman | first2 = R.
+ | contribution = Circular hulls and orbiforms of simple polygons
+ | contribution-url = http://dl.acm.org/citation.cfm?id=127787.127863
+ | isbn = 0-89791-376-0
+ | location = Philadelphia, PA, USA
+ | pages = 433–440
+ | publisher = Society for Industrial and Applied Mathematics
+ | title = Proceedings of the Second Annual ACM-SIAM Symposium on Discrete Algorithms (SODA '91)
+ | year = 1991}}.&lt;/ref&gt; Although the regular-polygon based Reuleaux polygons all have an odd number of circular-arc sides, it is possible to construct constant-width shapes based on irregular polygons that have an even number of sides.&lt;ref&gt;{{citation
+ | last = Peterson | first = Bruce B.
+ | journal = Illinois Journal of Mathematics
+ | mr = 0320885
+ | pages = 411–420
+ | title = Intersection properties of curves of constant width
+ | url = http://projecteuclid.org/euclid.ijm/1256051608
+ | volume = 17
+ | year = 1973}}.&lt;/ref&gt;
+
+=== Yanmouti sets ===
+The Yanmouti sets are defined as the [[convex hull]]s of an equilateral triangle together with three circular arcs, centered at the triangle vertices and spanning the same angle as the triangle, with equal radii that are at most equal to the side length of the triangle. Thus, when the radius is small enough, these sets degenerate to the equilateral triangle itself, but when the radius is as large as possible they equal the corresponding Reuleaux triangle. Every shape with width ''w'', diameter ''d'', and inradius ''r'' (the radius of the largest possible circle contained in the shape) obeys the inequality
+:&lt;math&gt;w - r \le \frac{d}{\sqrt 3},&lt;/math&gt;
+and this inequality becomes an equality for the Yanmouti sets, showing that it cannot be improved.&lt;ref&gt;{{citation
+ | last = Hernández Cifre | first = M. A.
+ | doi = 10.2307/2695582
+ | issue = 10
+ | journal = [[American Mathematical Monthly]]
+ | mr = 1806918
+ | pages = 893–900
+ | title = Is there a planar convex set with given width, diameter, and inradius?
+ | volume = 107
+ | year = 2000}}.&lt;/ref&gt;
+
+== Related figures ==
+[[File:Triquetra-Vesica.svg|thumb|[[Triquetra]] interlaced to form a [[trefoil knot]]]]
+In the classical presentation of a three-set [[Venn diagram]] as three overlapping circles, the central region (representing elements belonging to all three sets) takes the shape of a Reuleaux triangle.&lt;ref name=&quot;icons&quot; /&gt; The same three circles form one of the standard drawings of the [[Borromean rings]], three mutually linked rings that cannot, however, be realized as geometric circles.&lt;ref&gt;{{citation
+ | last1 = Lindström | first1 = Bernt
+ | last2 = Zetterström | first2 = Hans-Olov
+ | doi = 10.2307/2323803
+ | issue = 4
+ | journal = [[American Mathematical Monthly]]
+ | jstor = 2323803
+ | pages = 340–341
+ | title = Borromean circles are impossible
+ | volume = 98
+ | year = 1991}}.&lt;/ref&gt; Parts of these same circles are used to form the [[triquetra]], a figure of three overlapping [[semicircle]]s (each two of which form a [[vesica piscis]] symbol) that again has a Reuleaux triangle at its center;&lt;ref&gt;{{mathworld|id=Triquetra|title=Triquetra}}&lt;/ref&gt; just as the three circles of the Venn diagram may be interlaced to form the Borromean rings, the three circular arcs of the triquetra may be interlaced to form a [[trefoil knot]].&lt;ref&gt;{{citation
+ | last1 = Hoy | first1 = Jessica
+ | last2 = Millett | first2 = Kenneth C.
+ | journal = Journal of Mathematics and the Arts
+ | title = A mathematical analysis of knotting and linking in Leonardo da Vinci's cartelle of the Accademia Vinciana
+ | url = http://www.math.ucsb.edu/~millett/Papers/Millett2014Leonardov5.pdf
+ | year = 2014}}.&lt;/ref&gt;
+
+Relatives of the Reuleaux triangle arise in the problem of finding the minimum perimeter shape that encloses a fixed amount of area and includes three specified points in the plane. For a wide range of choices of the area parameter, the optimal solution to this problem will be a curved triangle whose three sides are circular arcs with equal radii. In particular, when the three points are equidistant from each other and the area is that of the Reuleaux triangle, the Reuleaux triangle is the optimal enclosure.&lt;ref&gt;{{citation|title=What Is Mathematics? An Elementary Approach to Ideas and Methods|first1=Richard|last1=Courant|author1-link=Richard Courant|first2=Herbert|last2=Robbins|author2-link=Herbert Robbins|edition=2nd|publisher=Oxford University Press|year=1996|isbn=978-0-19-975487-8|pages=378–379|url=https://books.google.com/books?id=UfdossHPlkgC&amp;pg=PA378}}.&lt;/ref&gt;
+
+[[Circular triangle]]s are triangles with circular-arc edges, including the Reuleaux triangle as well as other shapes.
+The [[Deltoid curve]] is another type of curvilinear triangle, but one in which the curves replacing each side of an equilateral triangle are concave rather than convex. It is not composed of circular arcs, but may be formed by rolling one circle within another of three times the radius.&lt;ref&gt;{{citation | first=E. H.|last=Lockwood| title=A Book of Curves | publisher=Cambridge University Press | year=1961| chapter=Chapter 8: The Deltoid }}&lt;/ref&gt; Other planar shapes with three curved sides include the [[arbelos]], which is formed from three [[semicircle]]s with collinear endpoints,&lt;ref&gt;{{citation
+ | last = Mackay | first = J. S.
+ | date = February 1884
+ | doi = 10.1017/s0013091500037196
+ | journal = Proceedings of the Edinburgh Mathematical Society
+ | page = 2
+ | title = The shoemaker's knife
+ | volume = 3}}.&lt;/ref&gt; and the [[Bézier triangle]].&lt;ref&gt;{{citation
+ | last = Bruijns | first = J.
+ | contribution = Quadratic Bezier triangles as drawing primitives
+ | doi = 10.1145/285305.285307
+ | isbn = 1-58113-097-X
+ | location = New York, NY, USA
+ | pages = 15–24
+ | publisher = ACM
+ | title = Proceedings of the ACM SIGGRAPH/EUROGRAPHICS Workshop on Graphics Hardware (HWWS '98)
+ | year = 1998}}.&lt;/ref&gt;
+
+The Reuleaux triangle may also be interpreted as the [[conformal map|conformal image]] of a [[spherical triangle]] with 120° angles.&lt;ref name=&quot;foam&quot; /&gt; This spherical triangle is one of the [[Schwarz triangle]]s (with parameters 3/2, 3/2, 3/2), triangles bounded by great-circle arcs on the surface of a sphere that can tile the sphere by reflection.&lt;ref&gt;{{citation|title=Spherical Models|first=Magnus J.|last=Wenninger|authorlink=Magnus Wenninger|year=2014|publisher=Dover|isbn=978-0-486-14365-1|page=134|url=https://books.google.com/books?id=0cfAAwAAQBAJ&amp;pg=PA134}}.&lt;/ref&gt;
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+{{Commons category|Reuleaux triangles}}
+*[http://www.cut-the-knot.org/do_you_know/cwidth.shtml Shapes of constant width] at [[cut-the-knot]]
+*{{citation|title=Shapes and Solids of Constant Width|url=http://www.numberphile.com/videos/shapes_constant.html|work=Numberphile|publisher=[[Brady Haran]]|last=Mould|first= Steve}}
+*{{mathworld|id=ReuleauxTriangle|title=Reuleaux Triangle}}
+
+[[Category:Polygons]]
+[[Category:Curves]]
+[[Category:Triangles]]</text>
+      <sha1>52xdokn25pj3j77nhlkg4oxj85ftmc3</sha1>
+    </revision>
+  </page>
+</mediawiki>

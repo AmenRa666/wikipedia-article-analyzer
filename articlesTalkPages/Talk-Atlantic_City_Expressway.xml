@@ -1,0 +1,114 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Atlantic City Expressway</title>
+    <ns>1</ns>
+    <id>6066185</id>
+    <revision>
+      <id>604551672</id>
+      <parentid>510216616</parentid>
+      <timestamp>2014-04-17T05:44:29Z</timestamp>
+      <contributor>
+        <username>BattyBot</username>
+        <id>15996738</id>
+      </contributor>
+      <minor/>
+      <comment>Added {{[[Template:WPBS|WikiProjectBannerShell]]}}, [[WP:AWB/GF#Talk page general fixes|talk page general fixes]] &amp; other cleanup per [[WP:TPL]] using [[Project:AWB|AWB]] (10069)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4526">{{Article history|action1=GAN
+|action1date=13:40, 8 October 2008
+|action1link=Talk:Atlantic City Expressway/GA1
+|action1result=listed
+|action1oldid=243810773
+|currentstatus=GA
+|topic=Engtech
+}}
+{{WikiProjectBannerShell|1=
+{{U.S. Roads WikiProject|state=NJ|class=GA|importance=High|needs-jctint=no|needs-kml=no|needs-map=no|NJSCR-SA=July 2011}}
+{{WikiProject New Jersey|class=GA|importance=High}}
+{{WikiProject Philadelphia|class=GA|importance=High}}
+}}
+==Shunpiking==
+OK, I see an edit war amongst us.  Why is there anything going on about this shunpiking?  It really isn't all that encyclopedic and seems more like a promotion of the other roads.  However, I've noticed a majority of the toll road articles have their own articles relating to &quot;shunpiking&quot;.  Why the issue now? [[Philadelphia Eagles|Eagles]][[User:EaglesFanInTampa|Fan]][[User talk:EaglesFanInTampa|In]][[Special:Contributions/EaglesFanInTampa|Tampa]] [[User talk:EaglesFanInTampa#Your signature|(formerly Jimbo)]] 15:38, 1 February 2007 (UTC)
+
+{{Talk:Atlantic City Expressway/GA1}}
+
+==USRD GA audit==
+This article has failed the USRD GA audit and will be sent to [[WP:GAR]] if the issues are not resolved within one week. Please see [[WT:USRD]] for more details, and please ask me if you have any questions as to why this article failed.
+:{{done}}. [[User:Dough4872|Dough4872]] ([[User talk:Dough4872|talk]]) 21:29, 7 April 2009 (UTC)
+
+== Updates needed for current article standards ==
+
+In looking at the references, there are some issues that should be resolved in the near-term.
+*FN 1 should have a PDF format indication. More information, if possible (like work, author, etc), would be nice.
+*FN 2 would be nicer with more information added to the citation, like FN 1.
+*FN 3 should have a location for the station. If the article is attributed to an author/reporter, add that too.
+*FN 5 is a [[WP:SPS]] and should be replaced. Ditto FN 9.
+*There's [[WP:OVERLINK]]ing galore. The first time a publisher/source is mentioned is enough for linking; the remainder should be delinked.
+*Press releases (if I missed some) should ideally be cited using {{tl|cite press release}} instead of {{tl|cite web}}.
+*The dates should be consistent, and I personally recommend switching them over to &quot;Month DD, YYYY&quot; format.
+*FN 21 needs a location since the paper name doesn't include the city of origin.
+*FN 26 probably should be using {{tl|cite map}}.
+
+I'd recommend merging the first and last rows of the exit list into the second and second-to-last rows, and then converting it all over to the templates. The toll plazas should have mileages listed. (If converted to the templates, there will be a blank cell to fill anyways.) The {{tl|jcttop}} template doesn't link the word &quot;Exit&quot;. If the first and last rows are retained, the don't contain full sentences, so the periods need to be removed.
+
+Last item, but the infobox should get a caption for the map. I haven't looked over the prose, but I did notice those items after I made some fixes to the photos and a few references. &lt;span style=&quot;background:#006B54; padding:2px;&quot; &gt;'''[[User:Imzadi1979|&lt;font color=&quot;white&quot;&gt;Imzadi&amp;nbsp;1979&lt;/font&gt;]]&amp;nbsp;[[User talk:Imzadi1979|&lt;font color=&quot;white&quot;&gt;&lt;big&gt;→&lt;/big&gt;&lt;/font&gt;]]'''&lt;/span&gt;  03:12, 14 December 2011 (UTC)
+
+:I cleaned up some of the footnote issues. There are still two SPSs in use. If they are not replaced in a timely fashion, this article can be delisted as a Good Article. &lt;span style=&quot;background:#006B54; padding:2px;&quot; &gt;'''[[User:Imzadi1979|&lt;font color=&quot;white&quot;&gt;Imzadi&amp;nbsp;1979&lt;/font&gt;]]&amp;nbsp;[[User talk:Imzadi1979|&lt;font color=&quot;white&quot;&gt;&lt;big&gt;→&lt;/big&gt;&lt;/font&gt;]]'''&lt;/span&gt;  11:43, 1 April 2012 (UTC)
+:The SPSs have been removed. &lt;span style=&quot;background:#604007; padding:2px&quot;&gt;'''[[User:Dough4872|&lt;font color=&quot;#EEBB80&quot;&gt;Dough&lt;/font&gt;]][[User talk:Dough4872|&lt;font color=&quot;#EEBB80&quot;&gt;48&lt;/font&gt;]][[Special:Contributions/Dough4872|&lt;font color=&quot;#EEBB80&quot;&gt;72&lt;/font&gt;]]'''&lt;/span&gt; 15:39, 1 April 2012 (UTC)
+
+== Conflicting Costs  ==
+
+The Introduction states that the expressway cost 39 million to build, but the body of the article states 48 million.
+
+At least one of those figures must be wrong.
+
+[[Special:Contributions/74.60.162.144|74.60.162.144]] ([[User talk:74.60.162.144|talk]]) 00:42, 20 April 2012 (UTC)
+:Fixed. &lt;span style=&quot;background:#604007; padding:2px&quot;&gt;'''[[User:Dough4872|&lt;font color=&quot;#EEBB80&quot;&gt;Dough&lt;/font&gt;]][[User talk:Dough4872|&lt;font color=&quot;#EEBB80&quot;&gt;48&lt;/font&gt;]][[Special:Contributions/Dough4872|&lt;font color=&quot;#EEBB80&quot;&gt;72&lt;/font&gt;]]'''&lt;/span&gt; 15:37, 20 August 2012 (UTC)</text>
+      <sha1>0zk6e1zb5zxnfvddttorumfevefxi1q</sha1>
+    </revision>
+  </page>
+</mediawiki>

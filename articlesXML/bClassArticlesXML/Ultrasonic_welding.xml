@@ -1,0 +1,161 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ultrasonic welding</title>
+    <ns>0</ns>
+    <id>710115</id>
+    <revision>
+      <id>747447295</id>
+      <parentid>728636473</parentid>
+      <timestamp>2016-11-02T12:43:52Z</timestamp>
+      <contributor>
+        <ip>193.99.246.4</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18696">[[Image:Ultrasonic Welding.JPG|thumb|Ultrasonic welding of thin metallic foils. The [[sonotrode]] is rotated along the weld seam.]]
+'''Ultrasonic welding''' is an [[Industry|industrial]] technique whereby high-frequency [[Ultrasound|ultrasonic]] [[Acoustics|acoustic]] [[vibration]]s are locally applied to workpieces being held together under pressure to create a solid-state [[Welding|weld]].  It is commonly used for [[plastics]], and especially for joining dissimilar [[Materials science|materials]]. In ultrasonic welding, there are no connective bolts, nails, soldering materials, or adhesives necessary to bind the materials together.
+
+== History ==
+Practical application of ultrasonic welding for rigid plastics was completed in the 1960s.  At this point only hard plastics could be welded.  The patent for the ultrasonic method for welding rigid thermoplastic parts was awarded to Robert Soloff and Seymour Linsley in 1965.&lt;ref name=&quot;cuot&quot;&gt;Close up on technology: Top 50 Update Who Was First In Hot Runners, Ultrasonic Welding, &amp; PET?, Plastics Technology&lt;/ref&gt;  Soloff, the founder of Sonics &amp; Materials Inc., was a lab manager at Branson Instruments where thin plastic films were welded into bags and tubes using ultrasonic probes.  He unintentionally moved the probe close to a plastic tape dispenser and the halves of the dispenser welded together.  He realized that the probe did not need to be manually moved around the part but that the ultrasonic energy could travel through and around rigid plastics and weld an entire joint.&lt;ref name=&quot;cuot&quot; /&gt; He went on to develop the first ultrasonic press.  The first application of this new technology was in the toy industry.&lt;ref name=&quot;am&quot;&gt;Welding Still Ensures High-Strength Joints, Assembly Magazine&lt;/ref&gt;
+
+The first car made entirely out of plastic was assembled using ultrasonic welding in 1969.&lt;ref name=&quot;am&quot; /&gt; Even though plastic cars did not catch on, ultrasonic welding did.  The automotive industry has used it regularly since the 1980s.&lt;ref name=&quot;am&quot; /&gt; It is now used for a multitude of applications.
+
+==Process==
+For joining complex injection molded [[thermoplastic]] parts, ultrasonic welding equipment can be easily customized to fit the exact specifications of the parts being welded. The parts are sandwiched between a fixed shaped nest ([[anvil]]) and a [[sonotrode]] (horn) connected to a transducer, and a ~20 [[Kilohertz|kHz]] low-amplitude acoustic vibration is emitted. (Note: Common frequencies used in ultrasonic welding of thermoplastics are 15&amp;nbsp;kHz, 20&amp;nbsp;kHz, 30&amp;nbsp;kHz, 35&amp;nbsp;kHz, 40&amp;nbsp;kHz and 70&amp;nbsp;kHz). When welding plastics, the interface of the two parts is specially designed to concentrate the melting process. One of the materials usually has a spiked energy director which contacts the second plastic part. The ultrasonic energy melts the point contact between the parts, creating a joint. This process is a good automated alternative to [[glue]], [[screws]] or [[snap-fit]] designs.  It is typically used with small parts (e.g. cell phones, consumer electronics, disposable medical tools, toys, etc.) but it can be used on parts as large as a small automotive instrument cluster. Ultrasonics can also be used to weld metals, but are typically limited to small welds of thin, malleable metals, e.g. aluminum, copper, nickel.  Ultrasonics would not be used in welding the chassis of an automobile or in welding pieces of a [[bicycle]] together, due to the power levels required.
+
+Ultrasonic welding of thermoplastics causes local melting of the plastic due to absorption of vibrational energy along the joint to be welded. In metals, welding occurs due to high-pressure dispersion of surface oxides and local motion of the materials. Although there is heating, it is not enough to melt the base materials.
+
+Ultrasonic welding can be used for both hard and soft plastics, such as [[semicrystalline]] plastics, and metals.  Ultrasonic welding machines also have much more power now.  The understanding of ultrasonic welding has increased with research and testing.  The invention of more sophisticated and inexpensive equipment and increased demand for plastic and electronic components has led to a growing knowledge of the fundamental process.&lt;ref name=&quot;am&quot;/&gt; However, many aspects of ultrasonic welding still require more study, such as relating weld quality to process parameters.&lt;ref&gt;Ahmed, p. 241.&lt;/ref&gt;  Ultrasonic welding continues to be a rapidly developing field.
+
+Scientists from the Institute of Materials Science and Engineering (WKK) of University of Kaiserslautern, with the support from the German Research Foundation ([[Deutsche Forschungsgemeinschaft]]), have succeeded in proving that using ultrasonic welding processes can lead to highly durable bonds between light metals and [[Carbon-fiber-reinforced polymer]] (CFRP) sheets.&lt;ref name=&quot;Innovative Bonding Techniques&quot;&gt;https://www.researchgate.net/publication/229914096_Ultrasonic_spot_welding_of_aluminum_sheet_carbon_fiber_reinforced_polymer_-_Joints&lt;/ref&gt;
+
+The benefits of ultrasonic welding are that it is much faster than conventional adhesives or solvents.  The drying time is very quick, and the pieces do not need to remain in a jig for long periods of time waiting for the joint to dry or cure.  The welding can easily be automated, making clean and precise joints; the site of the weld is very clean and rarely requires any touch-up work. The low thermal impact on the materials involved enables a greater number of materials to be welded together.
+
+== Components ==
+All ultrasonic welding systems are composed of the same basic elements:
+* A press to put the two parts to be assembled under pressure
+* A nest or anvil where the parts are placed and allowing the high frequency vibration to be directed to the interfaces
+* An ultrasonic stack composed of a converter or [[piezoelectric]] [[transducer]], an optional booster and a sonotrode (US: Horn). All three elements of the stack are specifically tuned to resonate at the same exact ultrasonic frequency (Typically 20, 30, 35 or 40&amp;nbsp;kHz)
+** Converter: Converts the electrical signal into a mechanical vibration
+** Booster: Modifies the amplitude of the vibration. It is also used in standard systems to clamp the stack in the press.
+** Sonotrode: Applies the mechanical vibration to the parts to be welded. 
+* An electronic ultrasonic generator (US: Power supply) delivering a high power AC signal with frequency matching the [[resonance]] frequency of the stack.
+* A controller controlling the movement of the press and the delivery of the ultrasonic energy.
+
+==Applications==
+
+The applications of ultrasonic welding are extensive and are found in many industries including electrical and computer, automotive and aerospace, medical, and packaging.  Whether two items can be ultrasonically welded is determined by their thickness.  If they are too thick this process will not join them.  This is the main obstacle in the welding of metals.  However, wires, microcircuit connections, sheet metal, foils, ribbons and meshes are often joined using ultrasonic welding.  Ultrasonic welding is a very popular technique for bonding [[thermoplastic]]s.  It is fast and easily automated with weld times often below one second and there is no ventilation system required to remove heat or exhaust.  This type of welding is often used to build assemblies that are too small, too complex, or too delicate for more common welding techniques.
+
+===Computer and electrical industries===
+
+In the electrical and computer industry ultrasonic welding is often used to join wired connections and to create connections in small, delicate circuits.  Junctions of wire harnesses are often joined using ultrasonic welding.&lt;ref name=&quot;ahmed260&quot;&gt;Ahmed, p. 260.&lt;/ref&gt; Wire harnesses are large groupings of wires used to distribute electrical signals and power.  [[Electric motor]]s, [[field coil]]s, [[transformer]]s and [[capacitor]]s may also be assembled with ultrasonic welding.&lt;ref&gt;American Welding Society, Jefferson’s Welding Encyclopedia, p. 571.&lt;/ref&gt; It is also often preferred in the assembly of storage media such as flash drives and computer disks because of the high volumes required.  Ultrasonic welding of computer disks has been found to have cycle times of less than 300&amp;nbsp;ms.&lt;ref&gt;Grewell, p. 169.&lt;/ref&gt;
+
+One of the areas in which ultrasonic welding is most used and where new research and experimentation is centered is microcircuits.&lt;ref name=&quot;ahmed260&quot;/&gt; This process is ideal for microcircuits since it creates reliable bonds without introducing impurities or thermal distortion into components.  Semiconductor devices, [[transistor]]s and [[diode]]s are often connected by thin aluminum and gold wires using ultrasonic welding.&lt;ref name=&quot;American Welding Society p. 570&quot;&gt;American Welding Society, Jefferson’s Welding Encyclopedia, p. 570.&lt;/ref&gt; It is also used for bonding wiring and ribbons as well as entire chips to microcircuits.  An example of where microcircuits are used is in medical sensors used to monitor the human heart in bypass patients. 
+ 
+One difference between ultrasonic welding and traditional welding is the ability of ultrasonic welding to join dissimilar materials.  The assembly of battery components is a good example of where this ability is utilized.  When creating battery and [[fuel cell]] components, thin gauge copper, nickel and aluminum connections, foil layers and metal meshes are often ultrasonically welded together.&lt;ref name=&quot;ahmed260&quot;/&gt; Multiple layers of foil or mesh can often be applied in a single weld eliminating steps and costs.
+
+===Aerospace and automotive industries===
+
+For automobiles, ultrasonic welding tends to be used to assemble large plastic and electrical components such as instrument panels, door panels, lamps, air ducts, steering wheels, upholstery and engine components.&lt;ref name=&quot;pdl&quot;&gt;Plastics Design Library, Handbook of Plastics Joining: A Practical Guide, p. 56.&lt;/ref&gt; As plastics have continued to replace other materials in the design and manufacture of automobiles, the assembly and joining of plastic components has increasingly become a critical issue.  Some of the advantages for ultrasonic welding are low cycle times, [[automation]], low capital costs, and flexibility.&lt;ref&gt;Grewell, p. 141.&lt;/ref&gt; Also, ultrasonic welding does not damage surface finish, which is a crucial consideration for many car manufacturers, because the high-frequency vibrations prevent marks from being generated.&lt;ref name=&quot;pdl&quot;/&gt;
+
+Ultrasonic welding is generally utilized in the aerospace industry when joining thin sheet gauge metals and other lightweight materials.  [[Aluminum]] is a difficult metal to weld using traditional techniques because of its high thermal conductivity.  However, it is one of the easier materials to weld using ultrasonic welding because it is a softer metal and thus a solid-state weld is simple to achieve.&lt;ref&gt;Ahmed, p. 251.&lt;/ref&gt; Since aluminum is so widely used in the aerospace industry, it follows that ultrasonic welding is an important manufacturing process.  Also, with the advent of new [[composite material]]s, ultrasonic welding is becoming even more prevalent.  It has been used in the bonding of the popular composite material [[carbon fiber]].  Numerous studies have been done to find the optimum parameters that will produce quality welds for this material.&lt;ref&gt;Harras&lt;/ref&gt;
+
+===Medical industry===
+
+In the medical industry ultrasonic welding is often used because it does not introduce contaminants or degradation into the weld and the machines can be specialized for use in [[clean room]]s.&lt;ref&gt;Plastics Design Library, Handbook of Plastics Joining: A Practical Guide, p. 54.&lt;/ref&gt; The process can also be highly automated, provides strict control over dimensional tolerances and does not interfere with the biocompatibility of parts.  Therefore, it increases part quality and decreases production costs. Items such as arterial filters, anesthesia filters, blood filters, IV catheters, dialysis tubes, [[pipette]]s, cardiometry reservoirs, blood/gas filters, face masks and IV spike/filters can all be made using ultrasonic welding.&lt;ref&gt;The Welding Institute, Ultrasonic Welding Technique&lt;/ref&gt;  Another important application in the medical industry for ultrasonic welding is textiles.  Items like hospital gowns, sterile garments, masks, [[transdermal patch]]es and textiles for clean rooms can be sealed and sewn using ultrasonic welding.&lt;ref&gt;Plastics Design Library, Handbook of Plastics Joining: A Practical Guide, p. 57.&lt;/ref&gt; This prevents contamination and dust production and reduces the risk of infection.
+
+===Packaging industry===
+
+[[Image:The Green Lighter 1 ies.jpg|thumb|Butane lighter]]
+
+Packaging is an application where ultrasonic welding is often used. Many common items are either created or packaged using ultrasonic welding. Sealing containers, tubes and [[blister pack]]s are common applications.
+
+Ultrasonic welding is also applied in the packaging of dangerous materials such as explosives, fireworks and other reactive chemicals. These items tend to require [[hermetic seal]]ing but cannot be subjected to high temperatures.&lt;ref name=&quot;American Welding Society p. 570&quot;/&gt; One example is a butane lighter.  This container weld must be able to withstand high pressure and stress and must be airtight to contain the butane.&lt;ref name=&quot;grewell171&quot;&gt;Grewell, p. 171.&lt;/ref&gt; Another example is the packaging of ammunition and propellants. These packages must be able to withstand high pressure and stress to protect the consumer from the contents. When sealing hazardous materials, safety is a primary concern.
+
+The food industry finds ultrasonic welding preferable to traditional joining techniques because it is fast, sanitary and can produce hermetic seals.  Milk and juice containers are examples of products often sealed using ultrasonic welding.  The paper parts to be sealed are coated with plastic, generally [[polypropylene]] or [[polyethylene]], and then welded together to create an airtight seal.&lt;ref name=&quot;grewell171&quot;/&gt; The main obstacle to overcome in this process is the setting of the parameters.  For example, if over-welding occurs then the concentration of plastic in the weld zone may be too low and cause the seal to break.  If it is under-welded the seal is incomplete.&lt;ref name=&quot;grewell171&quot;/&gt; Variations in the thicknesses of materials can cause variations in weld quality. Some other food items sealed using ultrasonic welding include candy bar wrappers, frozen food packages and beverage containers.
+
+==Safety==
+Ultrasonic welding machines, like most industrial equipment, pose the risk of some hazards.  These include exposure to high heat levels and voltages. This equipment should be operated using the safety guidelines provided by the manufacturer to avoid injury.  For instance, operators must never place hands or arms near the welding tip when the machine is activated.&lt;ref name=&quot;aws750&quot;&gt;American Welding Society, Welding Handbook: Welding Science and Technology, p. 750.&lt;/ref&gt;  Also, operators should be provided with hearing protection and safety glasses.  Operators should be informed of the OSHA regulations for the ultrasonic welding equipment and these regulations should be enforced.&lt;ref&gt;American Welding Society, Jefferson’s Welding Encyclopedia, p. 572.&lt;/ref&gt;
+
+Ultrasonic welding machines require routine maintenance and inspection.  Panel doors, housing covers and protective guards may need to be removed for maintenance.&lt;ref name=&quot;aws750&quot;/&gt; This should be done when the power to the equipment is off and only by the trained professional servicing the machine.
+
+Since this is an ultrasonic process it would seem that sound would not be an issue.  However, sub-harmonic vibrations, which can create annoying audible noise, may be caused in larger parts near the machine due to the ultrasonic welding frequency.&lt;ref name=&quot;ahmed266&quot;/&gt; This noise can be damped by clamping these large parts at one or more locations.  Also, high-powered welders with frequencies of 15&amp;nbsp;kHz and 20&amp;nbsp;kHz typically emit a potentially damaging high-pitched squeal in the range of human hearing.  Shielding this radiating sound can be done using an acoustic enclosure.&lt;ref name=&quot;ahmed266&quot;&gt;Ahmed, p. 266.&lt;/ref&gt;  There are hearing and safety concerns with ultrasonic welding that are important to consider, but generally they are comparable to those of other welding techniques.
+
+==See also==
+*[[Thermosonic bonding]]
+
+== References ==
+
+===Notes===
+{{reflist|2}}
+
+===Bibliography===
+* Assembly Magazine (2007).  [http://www.assemblymag.com/Articles/Article_Rotation/BNP_GUID_9-5-2006_A_10000000000000211653 ''Welding Still Ensures High-Strength Joints, Ultrasonic Welding'']  Retrieved on 2008-03-13.
+* American Welding Society (1997).  ''Jefferson’s Welding Encyclodpedia''.  USA: American Welding Society.  ISBN 0-87171-506-6.
+* American Welding Society (2001).  ''Welding Handbook: Welding Science and Technology''.  USA: American Welding Society.  ISBN 0-87171-657-7. 
+* Ahmed, Nasir (Ed.), (2005).  ''New Developments in Advanced Welding''.  Boca Raton, Florida: CRC Press LLC.  ISBN 0-8493-3469-1.
+* Grewell, David A.; Benatar, Avraham; &amp; Park, Joon B. (Eds), (2003).  ''Plastics and Composites Welding Handbook''.  Cincinnati, Ohio: Hanser Gardner Publications, Inc. ISBN 1-56990-313-1.
+* Harras, B.; Cole, K. C.; &amp; Vu-Khanh, T. (1996) [http://jrp.sagepub.com/cgi/content/abstract/15/2/174 ''Optimization of the Ultrasonic Welding of PEEK-Carbon Composites.''] Retrieved on 2008-02-24.
+* Plastics Design Library (1997). ''Handbook of Plastics Joining: A Practical Guide''. Norwich, New York: Plastics Design Library. ISBN 1-884207-17-0.
+* Plastics Technology (2008). [http://www.ptonline.com/articles/200512cu1.html ''Close Up on Technology: Top 50 Update - Who Was First In Hot Runners, Ultrasonic Welding &amp; PET?''] Retrieved on 2008-03-13.
+* The Welding Institute. [http://www.amcraftrfwelding.com/ultrasonic-welding-technique/ ''Ultrasonic Welding Technique.'']
+
+== Further reading ==
+*Tres, Paul A., &quot;Designing Plastic Parts for Assembly&quot;, 6th ed., 2006, ISBN 978-1-5699-0401-5
+* Crawford, Lance, [http://www.plasticsdecorating.com/stories/021113/port-sealing.shtml &quot;Port Sealing: An Effective Heat Sealing Solution&quot;.] Plastic Decorating Magazine. January/February 2013 Edition. {{ISSN|1536-9870}}. (Topeka, KS: Peterson Publications, Inc.). Section: Assembly: pages 36–39, covers Crawford's article.
+
+{{Commons|Welding}}
+{{Metalworking navbox|weldopen}}
+
+{{DEFAULTSORT:Ultrasonic Welding}}
+[[Category:Ultrasound]]
+[[Category:Welding]]
+[[Category:Packaging machinery]]
+[[Category:Plastic welding]]</text>
+      <sha1>4mxjp8nx8lgu3jotr4u3b0bwcedteu1</sha1>
+    </revision>
+  </page>
+</mediawiki>

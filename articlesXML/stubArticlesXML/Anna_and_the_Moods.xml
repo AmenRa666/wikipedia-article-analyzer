@@ -1,0 +1,128 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Anna and the Moods</title>
+    <ns>0</ns>
+    <id>7756010</id>
+    <revision>
+      <id>736293723</id>
+      <parentid>609789316</parentid>
+      <timestamp>2016-08-26T14:02:04Z</timestamp>
+      <contributor>
+        <username>Robsinden</username>
+        <id>1412854</id>
+      </contributor>
+      <comment>/* External links */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2957">{{Infobox film
+| name           = Anna and the Moods
+| image          = AnnaPoster en.jpg
+| caption        = 
+| director       = Gunnar Karlsson
+| producer       = Hilmar Sigurðsson&lt;br&gt;Arnar Thorisson
+| writer         = 
+| screenplay     = [[Sjón]]
+| story          = Sjón
+| narrator       = [[Terry Jones]]
+| starring       = [[Björk]]&lt;br&gt;[[Damon Albarn]]&lt;br&gt;Sjón
+| music          = [[Julian Nott]]
+| cinematography = 
+| editing        = 
+| studio         = [[CAOZ|CAOZ Studio]]
+| distributor    = 
+| released       = {{Film date|2007|2|9|df=y}}
+| runtime        = 27 minutes
+| country        = Iceland
+| language       = [[Icelandic language|Icelandic]]/English
+| budget         = 
+| gross          = 
+}}
+
+'''''Anna and the Moods''''' is a 2007 [[Computer animation|computer animated]] film by the [[Iceland]]ic digital design and animation company [[CAOZ]] in [[Reykjavík]]. The plot centers on a girl named Anna Young who contracts a horrible illness that makes her incredibly moody.
+
+The film was written by [[Academy Award]] nominated writer [[Sjón]] on a commission by the [[Brodsky Quartet]], which performs the music composed by [[Julian Nott]] in the film. It was released in Iceland on February 9, 2007 in both [[Icelandic language|Icelandic]] and English. ''Anna and the Moods'' won the [[Edda Award for Best Short Film]].
+
+== Plot ==
+Anna Young has always been the perfect daughter. One day, Anna's attitude dramatically changes, leaving her parents worried. Unable to figure out what has happened to their daughter, Anna's parents take her to Dr. Artmann's clinic for unruly children. At the clinic Anna is exposed to a variety of obstacles in a complex [[labyrinth]]. The only way out of the maze for Anna is to complete the tasks in the right way. Anna, however, decides to create mischief to escape. This leads Dr. Artmann to come to a shocking conclusion about Anna, the cure of which is a nasty surprise for her parents.&lt;ref&gt;{{cite web |url=http://www.annaandthemoods.com/ |title=Anna and the Moods |work=Web |publisher=CAOZ Ltd |accessdate=February 28, 2013}}&lt;/ref&gt;
+
+== Cast ==
+
+* [[Terry Jones]], narrator
+* [[Björk]] as Anna Young
+* [[Damon Albarn]] as Mr. Young
+* Thorunn Larusdottir as Mrs. Young
+* [[Sjón]] as Dr. Artmann
+* Jón Páll Eyjólfsson as Granny, Anna's Uncle, Hunter, Michael, MUM figure
+* Hreidar Smárason as Little Brother
+* Martin Regal as Normal Boy
+* Ámundi Sigurdsson as Healthy Boy
+* Einar Örn Benediktsson as Peter the Goth
+* Stefán Karl Stefánsson, special ad lib and extras
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Official website|http://www.annaandthemoods.com/}}
+*{{IMDb title|0952641}}
+
+{{CAOZ}}
+
+{{DEFAULTSORT:Anna And The Moods}}
+[[Category:2007 films]]
+[[Category:Icelandic films]]
+[[Category:CAOZ films]]
+[[Category:Icelandic short films]]
+[[Category:2007 computer-animated films]]
+[[Category:Computer-animated short films]]
+
+
+{{short-animation-film-stub}}
+{{Iceland-film-stub}}</text>
+      <sha1>sh1z01hjbcw959x0pwcjuqi8q1k9bzg</sha1>
+    </revision>
+  </page>
+</mediawiki>

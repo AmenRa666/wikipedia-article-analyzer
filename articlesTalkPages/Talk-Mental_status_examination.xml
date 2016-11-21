@@ -1,0 +1,141 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Mental status examination</title>
+    <ns>1</ns>
+    <id>13770904</id>
+    <revision>
+      <id>690735941</id>
+      <parentid>678941512</parentid>
+      <timestamp>2015-11-15T09:27:26Z</timestamp>
+      <contributor>
+        <username>BattyBot</username>
+        <id>15996738</id>
+      </contributor>
+      <minor/>
+      <comment>Added {{[[Template:WPBS|WikiProjectBannerShell]]}}, [[WP:AWB/GF#Talk page general fixes|talk page general fixes]] &amp; other cleanup per [[WP:TPL]] using [[Project:AWB|AWB]] (11749)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11530">{{Article history
+|action1=GAN
+|action1date=01:30, 31 July 2008
+|action1link=Talk:Mental status examination/GA1
+|action1result=listed
+|action1oldid=228879461
+|currentstatus=GA
+|topic=Socsci
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Autism|class=GA|importance=Mid}}
+{{WikiProject Psychology|class=GA|importance=Low}}
+{{WikiProject Medicine|class=GA|importance=Mid|psychiatry=yes|psychiatry-imp=high}}
+}}{{Reliable sources for medical articles}}
+
+==Untitled==
+The &quot;Within the profession&quot; part of the article does not maintain a NPOV and should be revised.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/67.11.11.100|67.11.11.100]] ([[User talk:67.11.11.100|talk]]) 07:38, 12 February 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+I would suggest removing the entire &quot;Controversies&quot; section as unsubstantiated unless someone can come up woth supporting evidence --[[User:Anonymaus|Anonymaus]] ([[User talk:Anonymaus|talk]]) 03:05, 19 June 2008 (UTC)
+
+== Categories ==
+
+&quot;Some schemes look at ego psychology and defence mechanisms while others are less broad&quot; -- evidence? --[[User:Anonymaus|Anonymaus]] ([[User talk:Anonymaus|talk]]) 03:18, 19 June 2008 (UTC)
+
+The list of categories is essentially OK, although I think &quot;Rapport&quot; could be added. I'm not sure &quot;category&quot; is th best word, as these arent really categories of anything; &quot;MSE Headings&quot; or &quot;Domains of assessment&quot; might be better.  --[[User:Anonymaus|Anonymaus]] ([[User talk:Anonymaus|talk]]) 03:24, 19 June 2008 (UTC)
+
+== Formatting ==
+
+I notice this is up for GAC. I may pick it up later for a formal review (if I have the time). In the meantime, could I suggest it is brought up to [[Wikipedia:Good article criteria|WIAGA]] standards - the main issue being formatting - why the boldface? Some citations also look a bit clumsy - bare URLs or URLs without a description. Ideally, {{tl|cite web}} should be used for those. [[User:Jfdwolff|JFW]]&amp;nbsp;|&amp;nbsp;[[User_talk:Jfdwolff|&lt;small&gt;T@lk&lt;/small&gt;]] 09:01, 25 June 2008 (UTC)
+
+{{Talk:Mental status examination/GA1}}
+
+==Neuropsychiatric evaluation==
+A complete mental status examination should include some parts of the neuropsychiatric evaluation. I have included those tests which are relevant to central nervous system functioning (see &quot;edit this page&quot;). If desired this portion can be further developed[[Special:Contributions/66.251.199.141|66.251.199.141]] ([[User talk:66.251.199.141|talk]]) &lt;email removed&gt;
+
+:Thanks much!  Feel free to add more if you have more to contribute, it's much appreciated.  I've removed your email address so spambots don't find it and send you mountains of spam.  [[user:delldot|&lt;font color=&quot;#990066&quot;&gt;delldot&lt;/font&gt;]] &lt;small&gt;[[user talk:delldot|&lt;font color=&quot;DarkRed&quot;&gt;talk&lt;/font&gt;]]&lt;/small&gt; 15:17, 25 July 2008 (UTC)
+Questio. I read your encouraging note to exxpand the &quot;neuropsych&quot; section . Then when i returned to this section I found it deleted. How should I proceed?
+
+:Hm, that's frustrating.  Hopefully the person who removed it will see this and respond.  If they don't within a few days, I recommend looking through the article history and figuring out who removed it using the &quot;last&quot; buttons (you only have to look at revisions dated later than your post). I can help with this if you like.  Hopefully the person will have left an [[Help:edit summary|edit summary]] explaining what was wrong--maybe a lack of references to reliable sources?  (It's also possible it was removed in response to one of the comments above, e.g. for lacking citations).  Either way, your next step would be to follow the link to their talk page and politely ask them why it was removed and offer to fix it (if you want to, that is).  Hopefully they'll explain.  
+
+:If you don't get a response in a reasonable time, I'd suggest the change you'd like to put back in, here on the talk page. If you don't get a response, you're fine to add it back in.  If you do, you can work out whatever the problem is with whoever objects by discussing it here.  Make sure you have an inline citation to a [[WP:RS|reliable source]].  
+
+:My last piece of advice would be to [[WP:WCA|create an account]].  That way there's a chance that folks will remember who you are, (66.251.199... is just not that catchy) and it'll be easier to communicate with you (and, unfortunately, you get less respect as an IP).  And there's other perks, such as a [[Help:watchlist|watchlist]]. Don't hesitate to leave me a [http://en.wikipedia.org/w/wiki.phtml?title=User_talk:delldot&amp;action=edit&amp;section=new &lt;font color=&quot;blue&quot;&gt;message&lt;/font&gt;] on [[user talk:delldot|my talk page]] if you need anything.  [[user:delldot|&lt;font color=&quot;#990066&quot;&gt;delldot&lt;/font&gt;]] &lt;small&gt;[[user talk:delldot|&lt;font color=&quot;DarkRed&quot;&gt;talk&lt;/font&gt;]]&lt;/small&gt; 14:04, 29 July 2008 (UTC)
+
+::I can see what happened - neuropsych exam is not normally done, or considered as part of a MSE though. Cheers, [[User:Casliber|Casliber]] ([[User talk:Casliber|talk]] '''·''' [[Special:Contributions/Casliber|contribs]]) 20:38, 29 July 2008 (UTC)
+
+::: Hello 66.251.199.141. It was I who deleted your contribution and I apologise for doing so without a clear explanation. I guess I was a bit cranky because I'm in the middle of trying to nurse the article through a peer review process, but hey, it's not ''my'' article, it's ''our'' article. I am not aware of any MSE system where &quot;neuropsychiatric&quot; is a standard heading: I believe it would be regarded more as the neurological part of a physical examination - see [[psychiatric assessment]], in any case I propose we keep your content but I will move it to the &quot;cognition&quot; section where it might belong in the standard MSE structure, and I will make some changes to make it conform more closely to [[WP:MEDMOS]]: medical articles should not be written for a medical audience in the style of a medical textbook. I have also corrected what I believe to be errors: &quot;She/he should also be able to touch a fixed point, close the eyes and again touch the same point&quot; is I believe a cerebellar not a parietal lobe sign. &quot;Frontal lobe&quot; is more accurate than &quot;prefrontal lobe&quot; (you could talk of the prefrontal part , or dorsolateral prefrontal part, of the frontal lobe but that might be too detailed for this article). Pressured speech does not imply cerebellar dusfunction; &quot;ataxic dysarthria&quot; would be more accurate, and dysarthria is already covered under the &quot;speech&quot; heading. &quot;The patient should be able to execute a movement on command&quot; is not specifically extrapyramidal, more frontal if anything. &quot;There should be no pill-rolling behavior. If there is pathology here the face is mask-like and without expression.&quot; This is already touched on under the &quot;appearance&quot; and &quot;behaviour&quot; sections of the MSE. I've also added some [[wikilinks]]. Finally: it would be helpful (but not essential) to use the &lt;nowiki&gt;{{cite book |title= |last= |first= |authorlink= |coauthors= |year= |publisher= |location= |isbn= |pages= }}&lt;/nowiki&gt; template for your references, so it fits with the style of the other references, see [[WP:CIT]]. Regards, [[User:Anonymaus|Anonymaus]] ([[User talk:Anonymaus|talk]]) 21:00, 1 August 2008 (UTC)
+
+::Note - this editor (66.251.199.141) has been blocked for hoaxing and adding unverifiable material. [[User:TimVickers|Tim Vickers]] ([[User talk:TimVickers|talk]]) 21:57, 14 October 2008 (UTC)
+
+The statement &quot;A cerebellar disorder may be present if the person cannot stand with arms extended, feet touching and eyes closed without swaying (Romberg's sign)&quot; is not correct; Romberg's sign is a test of proprioception, not cerebellar function. This is a common misconception.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Catherinam|Catherinam]] ([[User talk:Catherinam|talk]] • [[Special:Contributions/Catherinam|contribs]]) 02:04, 10 September 2012 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Picture? ==
+
+Why do we have a picture of ''The Scream'' here?  That's really high school.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:68Kustom|68Kustom]] ([[User talk:68Kustom|talk]] • [[Special:Contributions/68Kustom|contribs]]) 01:28, 1 July 2009 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+: Actually, why the heck are all those paintings used to describe mental state?  Ridiculous.  [[User:68Kustom|68Kustom]] ([[User talk:68Kustom|talk]]) 01:36, 1 July 2009 (UTC)
+
+:::Having illustrations is a criterion for a wikipedia article being rated as a &quot;good article&quot;: see [[WP:GA]] (the GA reviewer more or less insisted that I put images in - see above). I guess it also makes the article as a whole easier to look at. If you want to find something relevant but less &quot;&quot;high school&quot; than The Scream, then you're welcome to put it in. Regards, --[[User:Anonymaus|Anonymaus]] ([[User talk:Anonymaus|talk]]) 23:10, 7 July 2009 (UTC)
+
+== Interesting question... ==
+
+&quot;It is a structured way of observing and describing a patient's current state of mind, under the domains of appearance, attitude, behavior, mood and affect, speech, thought process, thought content, perception, cognition, insight and judgement.&quot;
+
+Did anybody bother to actually answer the simple question: 
+
+Does a structured way of observing and describing a patient's current state of mind, under the domains of appearance, attitude, behavior, mood and affect, speech, thought process, thought content, perception, cognition, insight and judgement exist? 
+
+Noting that this question can be obtained from the quoted phrase from the wikipedia page by replacing the 'It is' at the start with a 'does' and changing the full stop (or period if you're American) at the end into a question mark, then stopping and wondering what the question means!
+
+If you apply a few standard methods from various parts of the mathematical literature at suitably mathematical parts of this question, and there are so many ways that this can be done that it doesn't make sense to bother working one out, you'll quickly come to the natural conclusion that the answer is NO!
+
+Now how on earth can a large number of people in high places in the psychiatric system share the delusion that the answer could possibly be YES, and that the 'structured thingamagic' they're taught actually do what they think it does (given the impossibility of it actually doing so)... and somehow not be aware of this despite the fact that their 'sacred textbooks' spend a good deal of time talking about the problem of delusional people often being unaware of their delusions... how on earth have the people in charge of ensuring that the mental health system works managed to fail to notice this??  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:John Allsup|John Allsup]] ([[User talk:John Allsup|talk]] • [[Special:Contributions/John Allsup|contribs]]) 14:52, 27 October 2009 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Mental status exams versus Mental state exams ==
+
+I got an email from forensic psychologist [[Karen Franklin]] saying they were two different things, that mental status exams were &quot;just routine exams like check-ups in medical practice&quot; while mental state exams were more &quot;exams focusing on questions like insanity.&quot; FYI.--[[User:Tomwsulcer|Tomwsulcer]] ([[User talk:Tomwsulcer|talk]]) 15:28, 1 September 2015 (UTC)</text>
+      <sha1>7w8f0ebk645dheegerb0nmivib07kul</sha1>
+    </revision>
+  </page>
+</mediawiki>

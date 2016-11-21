@@ -1,0 +1,147 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Ordinances of 1311</title>
+    <ns>1</ns>
+    <id>12150080</id>
+    <revision>
+      <id>744031962</id>
+      <parentid>572967248</parentid>
+      <timestamp>2016-10-12T18:14:25Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <comment>Adding/updating {{OnThisDay}} for 2016-10-11.  Errors? [[User:AnomieBOT/shutoff/OnThisDayTagger]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7788">{{WikiProjectBannerShell|1=
+{{WikiProject Middle Ages|class=FA|importance=Mid}}
+{{WikiProject Politics|class=FA|importance=low}}
+{{WikiProject Law|class=FA|importance=low}}
+}}
+
+{{ArticleHistory
+|action1=PR
+|action1date=21:15, 13 July 2007
+|action1link=Wikipedia:Peer review/Ordinances of 1311/archive1
+|action1result=reviewed
+|action1oldid=144452333
+
+|action2=GAN
+|action2date=22:31, 15 July 2007
+|action2result=listed
+|action2oldid=144876522
+
+|action3=FAC
+|action3date=04:55, 3 September 2007
+|action3link=Wikipedia:Featured article candidates/New Ordinances of 1311
+|action3result=promoted
+|action3oldid=155020697
+
+|maindate=25 November 2007
+|topic=History
+|currentstatus=FA
+}}
+{{OnThisDay|date1=2016-10-11|oldid1=743899424}}
+
+=='The Problem was threefold'==
+
+Only two reasons appear to have been supplied...  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:CharlieRCD|CharlieRCD]] ([[User talk:CharlieRCD|talk]] • [[Special:Contributions/CharlieRCD|contribs]]) 13:17, 4 November 2008 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+ 
+==GA Passed==
+
+I've reviewed this article and I found it to be rather close to GA status in its coverage of the topic, its prose, and its scholarly citations. Two things: the lead section needs a rework. It is much too long and too specific and doesn't quite explain the notability of the subject. What is important to mention in the lead, I think, is that the Ordinances was one of the first attempts to change the King's powers and that, unlike the Magna Carta, included specific administrative reforms (Royal household's use of purveyances,etc.). Second, is this unsourced sentence NPOV?: &quot;In the preamble, concern is voiced with the evil councillors of the king, the precariousness of the military situation abroad, and the danger of rebellion at home over the oppressive prises&quot;. I'd like to see it rephrased to make it clear that those were the opinions of the Ordainers or a citation for less subjective version of the sentence,etc. That's about all.--[[User:Meowist|Meowist]] 18:47, 13 July 2007 (UTC)
+
+:Thanks for the review. I've tried to put the Ordinances in a historic context in the lead, and I've changed the sentence that could look POV. It's not sourced because it's simply the preamble to the full text that's referenced in the note to the last sentence. [[User:Lampman|Lampman]] 20:41, 15 July 2007 (UTC)
+
+I made a slight rewording of the lead. I'm passing it now. --[[User:Meowist|Meowist]] 22:33, 15 July 2007 (UTC)
+
+== Copy edit ==
+
+I tried a little copy editing of the beginning to try to clarify for myself who was doing what in the article. I probably used the wrong words and made mistakes. Feel free to change or revert. Sincerely,  [[User:Mattisse|Mattisse]] 23:20, 10 August 2007 (UTC)
+
+&lt;div class=&quot;boilerplate&quot; style=&quot;background-color: #efe; margin: 2em 0 0 0; padding: 0 10px 0 10px; border: 1px dotted #aaa;&quot;&gt;&lt;!-- Template:polltop --&gt;
+:''The following discussion is an archived discussion of the {{{type|proposal}}}. &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/font&gt; Subsequent comments should be made in a new section on the talk page. No further edits should be made to this section. ''
+
+{{{result|The result of the {{{type|proposal}}} was}}} '''Move'''. —[[User:wknight94|Wknight94]] ([[User talk:wknight94|talk]]) 01:01, 8 September 2007 (UTC)
+==Requested move==
+[[New Ordinances of 1311]] → [[Ordinances of 1311]] — they are widely known in English history as the Ordinances of 1311 —[[User:Ewlyahoocom|Ewlyahoocom]] 17:33, 31 August 2007 (UTC)
+
+===Survey===
+:''Feel free to state your position on the renaming proposal by beginning a new line in this section with'' &lt;code&gt;&lt;nowiki&gt;*'''Support'''&lt;/nowiki&gt;&lt;/code&gt; ''or'' &lt;code&gt;&lt;nowiki&gt;*'''Oppose'''&lt;/nowiki&gt;&lt;/code&gt;'', then sign your comment with'' &lt;code&gt;&lt;nowiki&gt;~~~~&lt;/nowiki&gt;&lt;/code&gt;''. Since [[Wikipedia:Polling is not a substitute for discussion|polling is not a substitute for discussion]], please explain your reasons, taking into account [[Wikipedia:Naming conventions|Wikipedia's naming conventions]].''
+
+*
+
+===Discussion===
+:''Any additional comments:''
+I originally moved this page from [[Ordinances of 1311]] to [[New Ordinances of 1311]] because the bolded term used in the lede was '''New Ordinances of 1311''' and has been that way since the page was created. Nowhere in the article is the term &quot;Ordinances of 1311&quot; used except for the title of one of the references. I don't care one way or the other, but I thought they should match. [[User:Ewlyahoocom|Ewlyahoocom]] 17:43, 31 August 2007 (UTC)
+
+From [[User_talk:Ewlyahoocom#New_Ordinances_of_1311]]: ''
+
+Why the name change? I can't see any discussion of it at the article talk page. --[[User:Dweller|Dweller]] 21:11, 30 August 2007 (UTC)
+:That's how it's called in the article, so why not have the article itself share that name? [[User:Ewlyahoocom|Ewlyahoocom]] 21:14, 30 August 2007 (UTC)
+::Interesting. The article seems to call them by both names. I'll ask my favourite historian for some input. --[[User:Dweller|Dweller]] 21:21, 30 August 2007 (UTC)
+:::Please see this thread... [[User_talk:Clio_the_Muse#Ordinances]]. Can I suggest you move the article back over the redirect and then open a consensus debate at the article talk page if you still wish to move it to the &quot;New&quot; nomenclature? It's usual to debate any potentially contentious major edits before undertaking them. Thanks --[[User:Dweller|Dweller]] 09:56, 31 August 2007 (UTC)''
+From [[User_talk:Clio_the_Muse#Ordinances]]: ''
+
+I noticed that they're up at [[WP:FAC]]. Then I noticed... well, see this thread. [[User_talk:Ewlyahoocom#New_Ordinances_of_1311]]. Cheers, --[[User:Dweller|Dweller]] 21:23, 30 August 2007 (UTC)
+
+:Dweller, they are widely known in English history as the Ordinances of 1311, a term arising from the Ordainers who compiled the provisions.  They may have been new (well, not entirely), but I personally know of no historian who qualifies the baronial charter in this fashion.  Therefore, the use of the word 'New' in this context would seem to me to be a quite unecessary- how shall I put it?-neologism!  [[User:Clio the Muse|Clio the Muse]] 22:31, 30 August 2007 (UTC)
+
+::Thanks... that's what I thought. --[[User:Dweller|Dweller]] 09:55, 31 August 2007 (UTC)''
+
+Are there ''Old Ordinances of 1311'' or ''Original Ordinances of 1311''? In other words, are you distinguishing these ordinances from another set of ordinances of 1311 with which they could be confused? --[[User:Mattisse|Mattisse]] 17:45, 31 August 2007 (UTC)
+:''The above discussion is preserved as an archive of the {{{type|proposal}}}.  &lt;span style=&quot;color:red&quot;&gt;'''Please do not modify it.'''&lt;/span&gt; Subsequent comments should be made in a new section on this talk page. No further edits should be made to this section.&lt;/div&gt;&lt;!-- Template:pollbottom --&gt;
+
+== Gaveston whitewash? ==
+
+Seems very odd that the article mentions the problems of Gaveston as favourite, without even a reference to allegations that Edward and Gaveston were lovers. --[[User:Dweller|Dweller]] ([[User talk:Dweller|talk]]) 13:23, 25 November 2007 (UTC)
+:It's mentioned in the notes. It's peripheral to the main subject of the article though. [[User:Lampman|Lampman]] ([[User talk:Lampman|talk]]) 16:17, 25 November 2007 (UTC)
+::Article contains &quot;Gaveston was a Gascon of relatively humble origins, with whom the king had developed a particularly close relationship.&quot; a rather banal euphemism. Arguably, the allegations nature of that close relationship inflamed the situation more. It's definitely pertinent to the subject. Probably more pertinent than Gaveston's humble origins. --[[User:Dweller|Dweller]] ([[User talk:Dweller|talk]]) 16:30, 25 November 2007 (UTC)</text>
+      <sha1>8vsqjacx40lnie548t1gqzqbsn2skll</sha1>
+    </revision>
+  </page>
+</mediawiki>

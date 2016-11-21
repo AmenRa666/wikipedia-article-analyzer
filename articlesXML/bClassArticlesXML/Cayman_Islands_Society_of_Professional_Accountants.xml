@@ -1,0 +1,181 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Cayman Islands Society of Professional Accountants</title>
+    <ns>0</ns>
+    <id>32287762</id>
+    <revision>
+      <id>672991339</id>
+      <parentid>666652695</parentid>
+      <timestamp>2015-07-25T08:27:02Z</timestamp>
+      <contributor>
+        <username>Tim!</username>
+        <id>203786</id>
+      </contributor>
+      <comment>added [[Category:1970 establishments in the Cayman Islands]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6553">{{EngvarB|date=September 2013}}
+{{Use dmy dates|date=September 2013}}
+{{Infobox accounting_body
+|name_in_local_language= &lt;!--Give name in other languages. Page name will be added as English name automatically  --&gt;
+|abbreviation          = CISPA
+|image                 = logo_cispa.gif
+|size                  = 75
+|image_border          =
+|alt                   = &lt;!-- alt text; see [[WP:ALT]] --&gt;
+|image_caption         =
+|motto                 =
+|predecessor           =
+|formation             = 1970
+|legal_status          =
+|objective             = Education and licensing of professional accountants
+|headquarters          = {{flag|Cayman Islands}}
+|coords                =
+|region_served         = Cayman Islands
+|membership_num        =
+|students_num          = &lt;!-- No of students --&gt;
+|members_designations  = &lt;!--give the various designations awarded to the members like ACA, FCA, etc.. --&gt;
+|language              = English
+|highest_officer_title = President
+|highest_officer_name  = Baron Jacob
+|second_officer_title  = &lt;!-- position of the second ranking officer like Vice-President, Deputy Chairman etc.. --&gt;
+|second_officer_name   = &lt;!-- name of the above person --&gt;
+|third_officer_title   = &lt;!-- position of the third ranking officer like Secretary, CEO etc.. --&gt;
+|third_officer_name    = &lt;!-- name of the above person --&gt;
+|fourth_officer_title  = &lt;!-- position of the fourth ranking officer like Treasurer, CFO etc.. --&gt;
+|fourth_officer_name   = &lt;!-- name of the above person --&gt;
+|administering_organ   = &lt;!-- Council, General Body, board of directors, etc --&gt;
+|IFAC_membership_date  = &lt;!-- Date when the body became a IFAC member if it is one --&gt;
+|additional_data_name1 = &lt;!-- Optional data1 name --&gt;
+|additional_data1      = &lt;!-- Optional data1 --&gt;
+|additional_data_name2 = &lt;!-- Optional data2 name --&gt;
+|additional_data2      = &lt;!-- Optional data2 --&gt;
+|additional_data_name3 = &lt;!-- Optional data3 name --&gt;
+|additional_data3      = &lt;!-- Optional data2 --&gt;
+|num_staff             =
+|website               = {{url|www.cispa.ky/}}
+|remarks               =
+|former name           = &lt;!-- former name if any --&gt;
+}}
+The '''Cayman Islands Society of Professional Accountants (CISPA)''' is a professional association of accountants in the [[Cayman Islands]], a [[British Overseas Territory]] in the [[Caribbean]]. CISPA is responsible for licensing accounting practitioners, supports education of accountants and participates in decisions about the financial industry in the [[offshore financial centre]].&lt;ref&gt;{{cite web
+ |url=http://www.caymanfinances.com/Industry-News/cayman-net-news.html
+ |title=New body signs licence certificates for practicing public accountants
+ |date=2 January 2007
+ |work=Cayman Finance
+ |accessdate=2 July 2011}}&lt;/ref&gt;
+
+==Authority==
+
+CISPA was founded as a professional association in 1970.&lt;ref&gt;{{cite web
+ |url=http://www.cispa.ky/content.aspx?contentid=2
+ |title=About CISPA
+ |publisher=CISPA
+ |accessdate=3 July 2011}}&lt;/ref&gt;
+By 2007 the society had grown to 1000 members.
+The passage of the Public Accountants Law and its associated regulations in 2007 gave increased regulatory responsibilities to CISPA.
+Under the new law, CISPA became responsible for regulating the profession in the Caymans, including members and other accountants.&lt;ref name=Compass20070403/&gt;
+CISPA has been an associate of the [[International Federation of Accountants]] (IFAC) since 2008.&lt;ref&gt;{{cite web
+ |url=http://web.ifac.org/about/member-bodies
+ |title=Member Bodies and Associates
+ |publisher=IFAC
+ |accessdate=2 July 2011}}&lt;/ref&gt;
+As of 2008 the [[Institute of Chartered Accountants of the Caribbean]] (ICAC) was continuing membership discussions with CISPA from the previous year.&lt;ref&gt;{{cite web
+ |url=http://www.icac.org.jm/pdf/ICAC_2008_Annual_Report.pdf
+ |title=Annual Report 2008
+ |publisher=ICAC
+ |accessdate=16 July 2011}}&lt;/ref&gt;
+
+==Education==
+
+CISPA works with the [[University College of the Cayman Islands]] (UCCI) in defining the college's accounting program, and as of September 2007 to offer [[Certified Public Accountant]] (CPA), [[Certified General Accountant]] (CGA) and [[Association of Chartered Certified Accountants]] (ACCA) review classes.&lt;ref name=Compass20070403/&gt;
+Reviewing the first year of UCCI's [[Certified Accounting Technician]] program, CISPA considered that it had been successful, although some changes could be made to better prepare students for their first work experience.&lt;ref&gt;{{cite web
+ |url=http://www.caycompass.com/cgi-bin/CFPnews.cgi?ID=1023500
+ |title=UCCI accounting building bridges
+ |work=Caymanian Compass
+ |author=Basia Pioro
+ |date=12 July 2007
+ |accessdate=2 July 2011}}&lt;/ref&gt;
+
+==Financial industry participation==
+
+Accounting is an essential activity in the Cayman Islands: in 2006 it was estimated the banking sector contributes about 25&amp;nbsp;percent of the Cayman Islands GDP.&lt;ref&gt;{{cite web
+ |url=http://www.caymanfinances.com/Archive-Industry-News/impact-study-on-the-banking-industry-in-the-cayman-islands.html
+ |title=Impact study on the banking industry in the Cayman Islands
+ |date=24 July 2006
+ |work=Cayman Finance
+ |accessdate=2 July 2011}}&lt;/ref&gt;
+CISPA is a member of the Cayman Islands Financial Services Association (CIFSA), formed in November 2003.&lt;ref&gt;{{cite web
+ |url=http://www.caycompass.com/cgi-bin/CFPnews.cgi?ID=1015761
+ |title=Cayman gets high praise
+ |work=Caymanian Compass
+ |date=22 August 2006
+ |accessdate=2 July 2011}}&lt;/ref&gt;
+In 2005 the [[Cayman Islands Monetary Authority]] (CIMA) requested that a working group be formed to review the recommendations of CIMA's Policy and Research Division, which had been examining regulation of the mutual funds industry.
+CISPA was invited to participate, as were the Cayman Islands Fund Administrators Association, the Cayman Islands Law Society and the Cayman Islands Bar Association.&lt;ref&gt;{{cite web
+ |url=http://goliath.ecnext.com/coms2/gi_0199-4904376/The-Evolution-of-the-Cayman.html
+ |title=The Evolution of the Cayman Islands Fund Industry.
+ |work=Mondaq Business Briefing
+ |date=28 October 2005
+ |accessdate=2 July 2011}}&lt;/ref&gt;
+
+==References==
+{{reflist |refs=
+&lt;ref name=Compass20070403&gt;{{cite web
+ |url=http://www.caycompass.com/cgi-bin/CFPnews.cgi?ID=1021180
+ |work=Caymanian Compass
+ |title=Accountants usher in new era
+ |date=3 April 2007
+ |accessdate=2 July 2011}}&lt;/ref&gt;
+}}
+{{IFAC Members}}
+[[Category:Professional accounting bodies|Cayman Islands]]
+[[Category:Organizations established in 1970]]
+[[Category:Organisations based in the Cayman Islands]]
+[[Category:1970 establishments in the Cayman Islands]]</text>
+      <sha1>0g19fyqbtuhju8sbh4ua3789r179fua</sha1>
+    </revision>
+  </page>
+</mediawiki>

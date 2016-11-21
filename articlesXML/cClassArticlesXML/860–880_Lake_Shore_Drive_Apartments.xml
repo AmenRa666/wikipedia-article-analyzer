@@ -1,0 +1,144 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>860–880 Lake Shore Drive Apartments</title>
+    <ns>0</ns>
+    <id>2513501</id>
+    <revision>
+      <id>743341354</id>
+      <parentid>743329195</parentid>
+      <timestamp>2016-10-09T05:31:56Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Residential buildings on the National Register of Historic Places in Chicago, Illinois to [[:Category:Residential buildings on the National Register of Historic Places in Chicago]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories fo...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9774">{{Infobox NRHP | name =Buildings at 860–880 Lake Shore Drive
+| nrhp_type =
+ | designated_other1_name= Chicago Landmark
+ | designated_other1_date= June 10, 1996
+ | designated_other1_abbr= CL
+ | designated_other1_link= Chicago Landmark
+ | designated_other1_color= #aaccff
+| image =860-880 Lake Shore Drive.jpg
+| caption =860–880 Lake Shore Drive
+| location =860–880 N. [[Lake Shore Drive]] [[Chicago, Illinois]]
+| lat_degrees = 41 | lat_minutes = 53 | lat_seconds = 55 | lat_direction = N
+| long_degrees = 87 | long_minutes = 37 | long_seconds = 7 | long_direction = W
+  | coord_display = inline,title
+  | locmapin = United States Chicago Central
+| built = {{Start date|1949}}
+| architect= [[Ludwig Mies Van der Rohe]]
+| architecture =Moderne
+  | added = August 28, 1980
+  | area = {{convert|1.2|acre}}
+  | governing_body = Private 
+  | refnum = 80001344&lt;ref name=&quot;nris&quot;&gt;{{NRISref|version=2010a}}&lt;/ref&gt;
+}}
+
+'''860–880 Lake Shore Drive''' is a twin pair of glass-and-steel apartment towers on N. [[Lake Shore Drive]] along [[Lake Michigan]] in the [[Near North Side, Chicago#Streeterville|Streeterville]] [[Neighborhoods of Chicago|neighborhood of Chicago]], [[Illinois]]. Construction began in 1949 and the project was completed in 1951. The towers were added to the [[National Register of Historic Places]] on August 28, 1980, and were designated as [[Chicago Landmark]]s on June 10, 1996.&lt;ref&gt;{{cite web|url=http://www.ci.chi.il.us/Landmarks/numbers/860880LSD.html|title=860–880 Lake Shore Drive|publisher=City of Chicago Department of Planning and Development, Landmarks Division|year=2003|accessdate=2007-05-14| archiveurl= https://web.archive.org/web/20070503170038/http://www.ci.chi.il.us/Landmarks/numbers/860880LSD.html| archivedate= 3 May 2007 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; The 26 floor, 254&amp;nbsp;ft (82 m) tall towers were designed by the architect [[Ludwig Mies van der Rohe]], and dubbed the &quot;Glass House&quot; apartments. Construction was by the Chicago [[real estate developer]] [[Herbert Greenwald]], and the Sumner S. Sollitt Company.&lt;ref&gt;http://www.emporis.com/application/?nav=building&amp;lng=3&amp;id=860lakeshoredrive-chicago-il-usa&lt;/ref&gt; The design principles, first expressed in the 1921 Friedrichstrasse Skyscraper competition in [[Berlin]] and built thirty years later in 860–880 Lake Shore Drive, were copied extensively and are now considered characteristic of the modern [[International Style (architecture)|International Style]] as well as essential for the development of modern [[High-tech architecture]].
+
+The towers were not entirely admired at the time they were built, yet they went on to be the prototype for steel and glass skyscrapers worldwide. Initially, it was difficult to acquire [[financing]] for the project, turned down by lenders like [[Baird &amp; Warner]], who considered the design scheme to be too extreme.&lt;ref&gt;Handley, John. “Looking Forward-Is Chicago shifting into a modern mode?” Chicago Tribune 2 June 2002: Real Estate 1.&lt;/ref&gt; 860–880 Lake Shore Drive Apartments embody a Modernistic tone with their verticality, grids of steel and glass [[curtain wall (architecture)|curtain wall]]s (a hallmark of Mies’ skyscrapers), and complete lack of [[Ornament (architecture)|ornamentation]]. Tenants had to accept the neutral gray curtains that were uniform throughout the buildings;no other curtains or blinds were permitted lest they mar the external appearance.&lt;ref name=nytimes&gt;{{cite news|url=http://www.nytimes.com/learning/general/onthisday/bday/0327.html|title=
+Mies van der Rohe Dies at 83; Leader of Modern Architecture|author=ALDEN WHITMAN|date=August 19, 1969|accessdate=July 9, 2014|publisher=[[New York Times]]}}&lt;/ref&gt; Since Mies was a master of [[minimalist]] composition, his principle was “[[Less is more (architecture)|less is more]]” as it is demonstrated in his self-proclaimed “skin and bones” [[architecture]].&lt;ref&gt;“Mies and the Mastodon.” ''New Republic'' 6 August 2001: 25–30.&lt;/ref&gt;
+
+==Controversy==
+[[Image:860 Lake Shore Drive Mullions.JPG|thumb|left|Looking up at [[mullions]]]]
+This building, like many of his Chicago high-rise structures, causes controversy in the pure minimalist community due to its [[mullions]].{{Citation needed|date=January 2011}} Mies is hailed as the father of &quot;[[Less is more (architecture)|less is more]]&quot;; however, 860–880 Lake Shore Drive is covered in non-functional [[I-beam]] mullions. Mies explains how the mullions do not violate his less is more philosophy in a 1960 interview: &quot;To me structure is something like logic. It is the best way to do things and express them&quot;.&lt;ref&gt;Puente, Moises. &quot;Conversations With Mies&quot; p31. New York, Princeton Architectural Press, 2008.&lt;/ref&gt; The mullions on his buildings reflect the inner structure and therefore give truth to the aesthetic of the building. The idea of truth in architecture aligns with the aesthetic and principles of the [[International style (architecture)|international style]] as taught at the [[Bauhaus]].
+
+==Renovations==
+[[Krueck and Sexton Architects]] of Chicago were commissioned to [[renovate]] the historical towers. Teaming up with them were the preservation architects, [[Harboe Architects]] along with forensic and structural analysis firm, [[Wiss, Janney, Elstner Associates, Inc.]] This team was directed to fix prior [[renovations]] done to the buildings.  The preceding [[renovations]] took away from the historical accuracy of the towers. [[Architects]] were assigned to restore the distorted lighting scheme with original [[translucent]] glass, replace the deteriorating [[travertine]] [[plaza]], which connects the two towers, and exchange for stones with more historical precision.&lt;ref&gt;{{cite web|url=http://www.aia.org/aiarchitect/thisweek08/0307/0307b_lakeshore.cfm|title=Moderisms's siren song, restored|publisher=AIArchitect|year=2008|accessdate=2008-03-27}}&lt;/ref&gt;
+
+==Recognition==
+[[File:Streeterville portion of Lake Shore Drive.jpg|thumb|right|The apartments as seen from [[Lake Shore Drive]]]]
+* The buildings were finished in 1951 and were featured in a 1957 article in [[Life Magazine]] on Mies.
+* In 1996 they became the first buildings designed by Mies van der Rohe to receive [[Chicago Landmark]] Status.
+* The glass towers have been on the National Register of Historic Places since 1980.&lt;ref name = nris/&gt;
+* In June 2005, the [[United States Postal Service]] included the towers in the commemorative stamp program, Masterworks of Modern Architecture, wherein they were listed as one of the “12 outstanding examples of modern buildings”.&lt;ref&gt;{{cite web|url=http://www.usps.com/communications/news/stamps/2004/sr04_076.htm|title=The 2008 Commemorative Stamp Program|publisher=USPS|year=2004|accessdate=2008-03-27| archiveurl= https://web.archive.org/web/20080325102515/http://www.usps.com/communications/news/stamps/2004/sr04_076.htm| archivedate= 25 March 2008 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+==Figures and statistics==
+* The twin towers are 26 stories high.
+* The buildings are 46 feet apart.
+* The steel skeletal frames rest on a 21-foot grid and are uniform in their design.
+* The building was originally designed for 860 to contain 90 three bedroom apartments and 880 to hold 158 one bedroom apartments. Many of the units have been combined to enlarge living spaces.&lt;ref&gt;{{cite web|url=http://www.architectureweek.com/2006/0503/culture_1-2.html|title=Mies on Lake Shore Drive|publisher=ArchitectureWeekdate|year=2004|accessdate=2008-03-27| archiveurl= https://web.archive.org/web/20080304121919/http://www.architectureweek.com/2006/0503/culture_1-2.html| archivedate= 4 March 2008 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+==Zoned schools==
+Residents are zoned to [[Chicago Public Schools]].&lt;ref&gt;&quot;[http://schoollocator.cps.k12.il.us/viewer.htm Geographic Information Systems].&quot; Chicago Public Schools. Retrieved on September 17, 2009.&lt;/ref&gt; Residents are zoned to Ogden School and [[Wells Community Academy High School]].&lt;ref&gt;&quot;[http://www.cps.edu/SiteCollectionDocuments/Zone%20maps/Elem_Near_North_West_Central.pdf Near North/West/Central Elementary Schools].&quot; Chicago Public Schools. Retrieved on September 17, 2009.&lt;/ref&gt;&lt;ref&gt;&quot;[http://www.cps.edu/SiteCollectionDocuments/Zone%20maps/HS_West_Central_South.pdf West/Central/South High Schools].&quot; Chicago Public Schools. Retrieved on September 17, 2009.&lt;/ref&gt;
+
+==Notes==
+{{Reflist|2}}
+
+==External links==
+* [http://www.cityofchicago.org/Landmarks/numbers/860880LSD.html Chicago Landmarks]
+* [http://www.emporis.com/en/wm/bu/?id=116852  Emporis]
+* [http://www.aplust.net/permalink.php?atajo=ludwig_mies_van_der_rohe_lake_shore_drive_apartments_chicago Article and photos by a+t architecture publishers]
+* [http://www.miessociety.org/legacy/projects/860-880-lake-shore-apartments/ IIT Mies Society page on 860–880 Lake Shore Drive]
+* [http://www.860880lakeshoredrive.com/ 860–880 Lake Shore Drive website (Official site of 860-880 Owner/Tenants and Trust)]
+
+{{Chicago Landmark apartments}}
+{{Chicago skyscrapers}}
+{{Chicago Landmark skyscrapers}}
+{{Ludwig Mies van der Rohe}}
+{{Registered Historic Places}}
+
+{{DEFAULTSORT:860-880 Lake Shore Drive Apartments}}
+[[Category:Ludwig Mies van der Rohe buildings|Lake Shore Drive Apartments]]
+[[Category:Apartment buildings in Chicago]]
+[[Category:Housing cooperatives in the United States]]
+[[Category:Residential buildings completed in 1951]]
+[[Category:Residential buildings on the National Register of Historic Places in Chicago]]
+[[Category:Landmarks in Chicago]]
+[[Category:Skyscrapers in Chicago]]
+[[Category:Skyscrapers between 50 and 99 meters]]
+[[Category:Twin towers]]
+[[Category:1940s architecture in the United States]]
+[[Category:International style architecture in the United States]]
+[[Category:Modernist architecture in Illinois]]</text>
+      <sha1>hl1i273hpzro6bcejbu7gq7nsrhn4f8</sha1>
+    </revision>
+  </page>
+</mediawiki>

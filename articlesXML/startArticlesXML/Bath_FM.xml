@@ -1,0 +1,114 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bath FM</title>
+    <ns>0</ns>
+    <id>974975</id>
+    <revision>
+      <id>746582811</id>
+      <parentid>737639653</parentid>
+      <timestamp>2016-10-28T08:17:11Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Rescuing 3 sources and tagging 0 as dead. #IABot (v1.2.6)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5624">{{Use dmy dates|date=August 2012}}
+{{Use British English|date=August 2012}}
+{{Radio station|
+name=107.9 Bath FM |
+airdate= 15 November 1999 – 24 March 2010|
+frequency=107.9 MHz |
+share     = 2.4%|
+share as of = December 2009|
+share source = &lt;ref name=rajardec08/&gt;|
+area= [[Bath, Somerset|Bath]] |
+slogan= Keep it local |
+format = [[Classic Hits]] |
+owner = [[South West Radio Ltd]]
+}}
+
+'''Bath FM''' was a local [[Independent Local Radio|independent radio station]] based at the former [[Weston (Bath) railway station|Weston railway station]] in [[Bath, Somerset|Bath]], [[England]]. The station was launched in November 1999 and closed on 24 March 2010.&lt;ref&gt;{{cite web|url=http://bathfm.net/ |title=Archived copy |accessdate=2010-04-21 |deadurl=yes |archiveurl=https://web.archive.org/web/20100111161731/http://bathfm.net:80/ |archivedate=11 January 2010 |df=dmy }}&lt;/ref&gt;
+
+The station broadcast to an area with a population of 104,000. In September 2008, [[RAJAR]] figures gave the station a weekly audience reach of 14% and an audience share of 2.7%&lt;ref name=rajarsep08&gt;{{cite web | url= http://www.rajar.co.uk/docs/2008_09/2008_Q3_Quarterly_Summary_Figures.pdf | format= PDF | work= QUARTERLY SUMMARY OF RADIO LISTENING | title= Survey Period Ending 14th September 2008 | publisher= RAJAR/Ipsos MORI/RSMB | accessdate= 5 November 2008}}&lt;/ref&gt;
+In December 2008, after the acquisition by South West Radio Ltd, listening figures increased to an audience reach of 15% and an audience share of 3.4%.&lt;ref name=rajardec08&gt;{{cite web | url= http://www.rajar.co.uk/docs/2008_12/2008_Q4_Quarterly_Summary_Figures.pdf | format= PDF | work= QUARTERLY SUMMARY OF RADIO LISTENING | title= Survey Period Ending 14th December 2008 | publisher= RAJAR/Ipsos MORI/RSMB | accessdate= 29 January 2009}}&lt;/ref&gt;
+
+==Ownership==
+Bath FM, initially an independent station, was launched in November 1999 as an alternative to [[GWR FM Bath]], which also served the city. In February 2006, Bath FM was taken over by The Local Radio Company (TLRC). In June 2008, TLRC sold Bath FM, along with nearby stations [[Brunel FM]] and [[3TR FM]], to [[Laser Broadcasting]]. On 28 October 2008, Laser Broadcasting were placed into administration.&lt;ref&gt;{{cite news | url= http://www.gazetteandherald.co.uk/news/headlines/3796838.Wiltshire_radio_station_s_owner_goes_into_administration/ | publisher= Gazette &amp; Herald | title= Wiltshire radio station's owner goes into administration | date= 28 October 2008 | accessdate= 5 November 2008}}&lt;/ref&gt;
+
+On 29 October 2008, it was announced that Bath FM had been sold to [[South West Radio Ltd]]. Bath FM was sold alongside Brunel FM, 3TR FM, and two Quaywest stations, following the collapse of previous owner Laser Broadcasting.&lt;ref&gt;{{cite news | url= http://radiotoday.co.uk/news.php?extend.3999.2 | title= Five Laser stations sold | publisher= Radio Today | date= 29 October 2008 | accessdate= 5 November 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite news | url= http://www.thisisbath.co.uk/news/Bath-FM-bought-city-resident/article-434890-detail/article.html | title= Bath FM bought by former city resident | publisher= [[Bath Chronicle]] | date= 29 October 2008 | accessdate= 5 November 2008}}&lt;/ref&gt;
+
+South West Radio LTD went into administration on 4 August 2009. The assets and contracts were acquired without liability by YMC ltd who ran the stations as a group.
+
+On 24 March 2010, the five stations were closed by administrators after multiple refusals on the part of regulator OFCOM to transfer the licenses, following a number of financial issues at the stations following TLRC's sale.&lt;ref&gt;{{cite news|url= http://www.guardian.co.uk/media/2010/mar/25/bath-brunel-radio-stations-close|title= Bath FM and Brunel FM among five radio stations to close|first= John|last= Plunkett|publisher= Guardian Media Group|work= The Guardian|date= 25 March 2010|accessdate= 6 April 2010| archiveurl= https://web.archive.org/web/20100403232717/http://www.guardian.co.uk/media/2010/mar/25/bath-brunel-radio-stations-close| archivedate= 3 April 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+==Technical==
+[[File:Weston (Bath) station in September 2007.jpg|thumb|right|Bath FM offices]]
+
+Bath FM's signal was broadcast from a transmitter based at [[Bathampton Down]], next to the [[University of Bath]].
+
+In November 2007, Bath FM moved their studios to Swindon, {{convert|35|mi|km}} away from their broadcast area, after [[Ofcom]] agreed to a request from The Local Radio Company to co-locate Bath FM with Brunel FM.&lt;ref&gt;{{cite news|title=Bath FM moves to Swindon |url=http://www.radiotoday.co.uk/news.php?extend.2499 |publisher=Radio Today |date=28 September 2007 |accessdate=5 November 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20120213134851/http://www.radiotoday.co.uk/news.php?extend.2499 |archivedate=13 February 2012 |df=dmy }}&lt;/ref&gt;
+On 9 September 2008, under Laser Broadcasting, Bath FM moved back into Station House and once again broadcast from the city until its closure. All broadcasting equipment and specialist wiring has now been removed from the premises, a former railway station.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20070930023607/http://www.ofcom.org.uk/radio/ifi/rbl/car/ccr/bathfm/bathfm.pdf Ofcom comment on TLRC takeover]
+* [http://www.mediauk.com/radio/rajar/18/bath-fm Media UK archive of Bath FM news]
+
+{{coord|51.3835|N|2.3864|W|type:city_region:GB|display=title}}
+
+{{DEFAULTSORT:Bath Fm}}
+[[Category:Radio stations established in 1999]]
+[[Category:Radio stations disestablished in 2010]]
+[[Category:Media in Bath, Somerset]]
+[[Category:Radio stations in Somerset]]</text>
+      <sha1>lqrm715z2jnkj5rarco3rrll9k85gn5</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,130 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Indre Wijdefjorden National Park</title>
+    <ns>0</ns>
+    <id>26722200</id>
+    <revision>
+      <id>678927826</id>
+      <parentid>656700332</parentid>
+      <timestamp>2015-09-01T13:42:30Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor/>
+      <comment>/* Bibliography */[[User:Monkbot/Task 7: CS1 et al. repair|Task 7c]]: repair/replace et al. in cs1 author/editor parameters;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17150">{{good article}}
+{{Infobox Protected area
+| name            = Indre Wijdefjorden National Park
+| iucn_category   = II
+| photo           = Indre Wijdefjorden National Park logo.svg
+| photo_width     = 180
+| map             = Indre Wijdefjorden National Park locator map.svg
+| location        = [[Spitsbergen]], [[Svalbard]], [[Norway]]
+| nearest_city    = [[Longyearbyen]]
+| coords          = {{coord|79|N|16|E|region:NO|display=inline,title}}
+| area            = {{convert|1127|km2|abbr=on}}, of which&lt;br /&gt;{{convert|745|km2|abbr=on}} is land&lt;br /&gt;{{convert|382|km2|abbr=on}} is water
+| established     = 9 September 2005
+| visitation_num  = 
+| visitation_year = 
+| governing_body  = [[Norwegian Directorate for Nature Management]]
+}}
+
+'''Indre Wijdefjorden National Park''' ({{lang-no|Indre Wijdefjorden nasjonalpark}}) is located in a steep [[fjord]] landscape in northern [[Spitsbergen]] in [[Svalbard]], [[Norway]]. It covers the inner part of [[Wijdefjorden]]—the longest fjord on Svalbard. The [[national park]] was established on 9 September 2005 and covers {{convert|1127|km2|abbr=on}}, of which {{convert|745|km2|abbr=on}} is on land and {{convert|382|km2|abbr=on}} is sea. The marine environment changes vastly from the mouth of the fjord, through a still, cold, water basin, becoming deeper before reaching the glacier [[Mittag-Lefflerbreen]] at the inner-most sections of the fjord.
+
+On both sides of Wijdefjorden there is High Arctic [[steppe]] [[vegetation]], dominated by grasses and extremely dry, [[base (chemistry)|basic]] earth. There are some areas dominated by exposure of mineral earth. The area around the fjord has a vegetation which is unique and not preserved in other areas of Svalbard. Along with vegetation found on nesting cliffs, it is the most exclusive flora in Svalbard. There are several exclusive species in the national park, including {{lang|no|''Stepperøykvein''}}, ''[[Puccinellia svalbardensis]]'', ''[[Gentianella tenella]]'' and ''[[Kobresia simpliciuscula]]''. Of the larger fjords on Svalbard, Wijdefjorden is the least affected by humans, although a trapping station has been built at [[Austfjordnes]].
+
+==Geography==
+[[File:Indre Wijdefjorden National Park map.svg|thumb|left|Map of the national park]]
+Indre Wijdefjorden National Park covers {{convert|1127|km2|abbr=on}}, of which {{convert|745|km2|abbr=on}} is on land and {{convert|382|km2|abbr=on}} is sea, making it the smallest national park in Svalbard. It is located in the steep fjord landscape on both sides of the inner (&quot;Indre&quot;) parts of Wijdefjorden (&quot;The Wide Fjord&quot;) on Spitsbergen.&lt;ref&gt;{{cite web |url=http://www.dirnat.no/nasjonalparker/indre_wijdefjorden/ |title=Særpreget planteliv rundt Svalbards lengste fjord |publisher=[[Norwegian Directorate for Nature Management]] |language=Norwegian |accessdate=4 March 2012 |archivedate=4 March 2012 |archiveurl=http://www.webcitation.org/65uECg2Fg |deadurl=no}}&lt;/ref&gt; At {{convert|108|km}} length, Wijdefjorden is the longest fjord on Svalbard. It is located on the northern coast of Spitsbergen, between [[Andrée Land (Svalbard)|Andrée Land]] to the west, [[Dickson Land]] to the south and [[Ny-Friesland]] to the east.&lt;ref&gt;{{cite web |url=http://miljo.npolar.no/placenames/pages/detaile.asp?placeNameID=016295A |title=Wijdefjorden |publisher=[[Norwegian Polar Institute]] |accessdate=4 March 2012 |archivedate=4 March 2012 |archiveurl=http://www.webcitation.org/65uEGFhjR |deadurl=no}}&lt;/ref&gt; The inner parts of Wijdefjorden split into two, with the eastern, {{convert|32|km|adj=on}} long part known as [[Austfjorden (Svalbard)|Austfjorden]] (&quot;The East Fjord&quot;),&lt;ref&gt;{{cite web |url=http://miljo.npolar.no/placenames/pages/detaile.asp?placeNameID=2491E |title=Austfjorden |publisher=[[Norwegian Polar Institute]] |accessdate=4 March 2012 |archivedate=4 March 2012 |archiveurl=http://www.webcitation.org/65uEMSnCm |deadurl=no}}&lt;/ref&gt; and the shorter as [[Vestfjorden (Svalbard)|Vestfjorden]] (&quot;The West Fjord&quot;).&lt;ref&gt;{{cite web |url=http://miljo.npolar.no/placenames/pages/detaile.asp?placeNameID=615798M |title=Vestfjorden |publisher=[[Norwegian Polar Institute]] |accessdate=4 March 2012 |archivedate=4 March 2012 |archiveurl=http://www.webcitation.org/65uEQRSTQ |deadurl=no}}&lt;/ref&gt; At the end of Austfjorden is the glacier Mittag-Lefflerbreen.&lt;ref&gt;{{cite web |url=http://miljo.npolar.no/placenames/pages/detaile.asp?placeNameID=49257I |title=Mittag-Lefflerbreen |publisher=[[Norwegian Polar Institute]] |accessdate=4 March 2012 |archivedate=4 March 2012 |archiveurl=http://www.webcitation.org/65uET7dXZ |deadurl=no}}&lt;/ref&gt;
+
+The inner parts of the fjord receive some of the lowest [[precipitation (meteorology)|precipitation]] of the archipelago. Combined with the exposed basic earth, this results in Europe's only High Arctic steppe. The only other area with this landscape is the north of the [[Canadian Arctic Archipelago]]. The rock bed on each side of the fjord is different. On the west side there are [[Devonian]] deposits, while there is [[bedrock]] on the east side, resulting in different vegetation on each side.&lt;ref name=a129&gt;Aasheim (2008): 129&lt;/ref&gt; The fjord has a unique shape; it has a wide mouth (thus the name), but at Elvetangen there is a shallow section which is {{convert|50|m}} deep. This reduces the circulation in the inner parts of the fjord, which have a cold-water basin {{convert|250|m}} deep.&lt;ref name=a130&gt;Aasheim (2008): 130&lt;/ref&gt;
+
+Average July temperatures range from {{convert|4|to|6|C|F|0}}, and in January temperatures are normally between {{convert|−12|and|−16|C|F|0}}.&lt;ref&gt;{{cite web |url=http://retro.met.no/observasjoner/svalbard/normaler_for_kommune_2111.html?kommuner |title=Temperaturnormaler for Spitsbergen i perioden 1961 – 1990 |publisher=[[Norwegian Meteorological Institute]] |accessdate=4 March 2012 |archivedate=4 March 2012 |archiveurl=http://www.webcitation.org/65uEVSo44 |deadurl=no |language=Norwegian}}&lt;/ref&gt; The Arctic climate results in [[permafrost]], which can be up to {{convert|100|m}} deep.&lt;ref&gt;Aasheim (2008): 19&lt;/ref&gt; The [[North Atlantic Current]] moderates Svalbard's temperatures, particularly during winter, giving it up to {{convert|20|C-change|0}} higher winter temperature than similar latitudes in continental Russia and Canada, keeping the surrounding waters open and navigable most of the year. The shelter of the mountains gives the inland fjord areas less temperature difference than the coast.&lt;ref&gt;Torkilsen (1984): 98–99&lt;/ref&gt;
+
+==History==
+The area around Wijdefjorden was first used by Russian, and later Norwegian, trappers. The cabin at [[Krosspynten]] was erected in 1910, and two years later the cabin at [[Purpurdalen]] was built. Trappers considered the area to have few polar bears but much fox; they could also supplement the catch with [[common eider]]. In 1928, a season of trapping gave about 50 Arctic foxes.&lt;ref name=a130 /&gt; In 1932, the area's special vegetation was protected, which was assimilated into the national park when it was created.&lt;ref name=a129 /&gt; Since the 1980s, trapping has again been taken up, and the Governor of Svalbard has one cabin at Austfjordnes that can be rented for a season of trapping.&lt;ref name=a130 /&gt; Of the larger fjords on Svalbard, Wijdefjorden is the least affected by humans.&lt;ref&gt;{{cite web |url=http://www.dirnat.no/content/1420/Historie |title=Menneskelig aktivitet |publisher=[[Norwegian Directorate for Nature Management]] |accessdate=4 March 2012 |archivedate=4 March 2012 |archiveurl=http://www.webcitation.org/65uFJNH6C |deadurl=no |language=Norwegian}}&lt;/ref&gt;
+
+During the considerations prior to the establishment of the national park, there was a conflict with the mining industry. Svalbard Minerals had found [[baryte]] within the national park borders, and [[Arktikugol]] holds two mining claim areas just south of the national park.&lt;ref&gt;{{cite news |url=http://www.aftenposten.no/nyheter/iriks/article1043869.ece |title=Stepper blir nasjonalpark |work=[[Aftenposten]] |last=Rapp |first=Ole Magnus |date=23 May 2005 |language=Norwegian  |accessdate=4 March 2012 |archivedate=4 March 2012 |archiveurl=http://www.webcitation.org/65uFLddg7 |deadurl=no}}&lt;/ref&gt; The national park was established on 9 September 2005. It completed a several-year-long plan to increase the amount of protected areas of Svalbard from 55% to 65%, which had two years earlier resulted in [[Nordenskiöld Land National Park]], [[Sassen – Bünsow Land National Park]] and [[Nordre Isfjorden National Park]].&lt;ref&gt;{{cite web |url=http://www.regjeringen.no/nn/dokumentarkiv/Regjeringa-Bondevik-II/md/Nyheter-og-pressemeldinger/2005/fullforer_na_vern_av_villmarksnaturen.html?id=256260 |title=Fullfører nå vern av villmarksnaturen på Svalbard |last=Hareide |first=Knut Arild |authorlink=Knut Arild Hareide |publisher=[[Government.no]] |date=9 September 2005 |accessdate=4 March 2012 |archivedate=4 March 2012 |archiveurl=http://www.webcitation.org/65uFQFLxR |deadurl=no |language=Norwegian}}&lt;/ref&gt;
+
+==Management==
+The establishment of the national park and the protection is based on the ''[[Svalbard Environmental Protection Act]]'', which takes its mandate from the requirements in the [[Svalbard Treaty]] to protect the environment of the archipelago.&lt;ref name=a47&gt;Aasheim (2008): 47&lt;/ref&gt; The overall responsibility for protection lies with the [[Norwegian Ministry of the Environment]], which has delegated management to the [[Norwegian Directorate for Nature Management]] and the [[Governor of Svalbard]]. The latter performs all day-to-day practical management, including registration and inspection. In aspects related to [[cultural heritage]], the Governor reports to the [[Norwegian Directorate for Cultural Heritage]], and in issues relating to pollution, to the [[Norwegian Pollution Control Authority]]. While it has no authority, the [[Norwegian Polar Institute]] performs monitoring, mapping and research.&lt;ref&gt;{{cite web |url=http://www.dirnat.no/attachment.ap?id=1043 |title=Protected Areas in Svalbard |publisher=[[Norwegian Directorate for Nature Management]]  |accessdate=4 March 2012 |archivedate=4 March 2012 |archiveurl=http://www.webcitation.org/65uFT8vgO |deadurl=no |language=Norwegian |page=34}}&lt;/ref&gt;
+
+Traditionally, the mining industry in Svalbard has had more rights to operations within protected areas than in mainland Norway, where all such activities would be completely banned. Indre Wijdefjorden has the most strict regulations, with a total ban on construction of buildings and facilities, laying of cables and roads, earthwork, drainage, drilling, blasting, and excavation of petroleum, gas and minerals.&lt;ref&gt;Aasheim (2008): 53&lt;/ref&gt; It is the authorities' goal that Svalbard is to be one of the best-managed wilderness areas in the world.&lt;ref&gt;Aasheim (2008): 57&lt;/ref&gt; Svalbard, and thus the national park, is on Norway's tentative list for nomination as a [[UNESCO World Heritage Site]].&lt;ref&gt;{{cite web |url=http://whc.unesco.org/en/tentativelists/5161/ |title=Svalbard |publisher=[[UNESCO]]  |accessdate=4 March 2012 |archivedate=4 March 2012 |archiveurl=http://www.webcitation.org/65uFXItsc |deadurl=no}}&lt;/ref&gt;
+
+==Nature==
+The vegetation on both sides of the fjord is High Arctic steppe, which is characterized by grasses. It is caused by extremely low precipitation, basic earth with salt deposits in the surface, and large areas of exposed mineral earth.&lt;ref&gt;{{cite web |url=http://www.dirnat.no/content.ap?thisId=1780 |title=Høyarktiske steppeområder |publisher=[[Norwegian Directorate for Nature Management]]  |accessdate=4 March 2012 |archivedate=4 March 2012 |archiveurl=http://www.webcitation.org/65uFcFjBr |deadurl=no |language=Norwegian}}&lt;/ref&gt; The area around the fjord has a unique vegetation, which has not preserved in other areas of Svalbard. Along with vegetation found on [[nesting cliff]]s, it is the most exclusive flora in Svalbard. There are several unique species in the national park, including {{lang|no|''Stepperøykvein''}}, which is featured in the national park's logo and for which Svalbard is the only known location in Europe, ''[[Puccinellia svalbardensis]]'', ''[[Gentianella tenella]]'' and ''[[Kobresia simpliciuscula]]''.&lt;ref&gt;{{cite web |url=http://www.dirnat.no/content.ap?thisId=1781 |title=Unik vegetasjon og sjelden flora |publisher=[[Norwegian Directorate for Nature Management]]  |accessdate=4 March 2012 |archivedate=4 March 2012 |archiveurl=http://www.webcitation.org/65uFfLwlN |deadurl=no |language=Norwegian}}&lt;/ref&gt; There is breeding ground for [[pink-footed goose]] within the park,&lt;ref name=a130 /&gt; although [[Svalbard ptarmigan]] can also be found.&lt;ref&gt;Aasheim (2008): 40&lt;/ref&gt; Animals that can be found in the park include [[polar bear]], [[Svalbard reindeer]] and [[Arctic fox]].&lt;ref name=a27 /&gt;
+
+Both fauna and flora are affected by the cold temperatures and the extreme light conditions. Activity is at a stand-still during the [[polar night]], which  lasts for many months. During the summer, months of [[midnight sun]] help accelerate the natural processes.&lt;ref name=a27&gt;Aasheim (2008): 27&lt;/ref&gt; The nature in the area is especially susceptible to [[global warming]]. Models show that the winter temperatures will increase more than the summer temperatures, resulting in more precipitation. Because the vegetation requires little rain and much wind, this may result in major changes.&lt;ref name=a129 /&gt;
+
+==Recreation==
+Entrance to national park is available by boat in Wijdefjorden from the north, or over land from [[Billefjorden]] and [[Dicksonfjorden]] from the south. During winter, the area is accessible from [[Longyearbyen]], either by [[snowmobile]] or by ski. There are several older trapper cabins in the park, and some of these are lent to residents of Longyearbyen.&lt;ref&gt;Aasheim (2008): 131&lt;/ref&gt; Except for [[Einsteinvatnet]], a lake with [[Arctic char]], there are few destinations within the park, although the park can be used as a basis for other destinations. This includes trips to [[Perriertoppen]], Svalbard's second-highest peak, and the glacier [[Åsgårdsfonna]]. Because of the shape of the park, there is little good hiking within the park, except for walking along the beaches on either side of the fjord. It is possible to see the entire national park from Mittag-Lefflerbreen, which can be hiked to from [[Pyramiden]].&lt;ref&gt;Aasheim (2008): 132&lt;/ref&gt;
+
+The [[freedom to roam]] is strong in Norwegian culture and law, and also applies to Svalbard. However, there more restrictions on the archipelago.&lt;ref&gt;Aasheim (2008): 75&lt;/ref&gt; The freedom includes the right to tent, but this must be done at least {{convert|100|m}} from any [[cultural monument]]s. As far as possible, tenting must occur on vegetation-free land. Tenting for more than one week at a site requires a permit from the Governor. Beaches have large amounts of driftwood from [[Siberia]], which can be used for campfires with the same location restrictions as tenting.&lt;ref&gt;Aasheim (2008): 81&lt;/ref&gt;
+
+As in all Norwegian national parks, motorized land transport is banned. However, on Svalbard this does not include snowmobiles. On the other hand, cycling is banned.&lt;ref&gt;Aasheim (2008): 82&lt;/ref&gt; The Governor can, however, enforce temporary bans on snowmobiles or even all travel within the national park.&lt;ref name=a47 /&gt; Use of helicopters and aircraft for sight-seeing are also prohibited.&lt;ref&gt;Aasheim (2008): 83&lt;/ref&gt; Polar bears are protected, but anyone outside of settlements is required to carry a [[rifle]] to kill polar bears in [[self-defense]], as a last resort, should they attack.&lt;ref&gt;Aasheim (2008): 77&lt;/ref&gt; Most flora and fauna are protected; the right to gather established with the freedom to roam does not apply in national parks, although there are some exceptions. Hunting is permitted after explicit permit from the Governor, and locals have more access to hunting rights than tourists.&lt;ref&gt;Aasheim (2008): 83&lt;/ref&gt; Fishing is not permitted, although dispensations can be given.&lt;ref&gt;Aasheim (2008): 84&lt;/ref&gt;
+
+All tourists traveling to Svalbard must pay a [[tourist tax]] of 150 [[Norwegian krone]], which is entirely used for conservation. The tax is included in all ship and air tickets to the archipelago, which residents can get refunded.&lt;ref&gt;Aasheim (2008): 56&lt;/ref&gt; Everyone roaming outside of the settlements must report to the Governor.&lt;ref&gt;Aasheim (2008): 80&lt;/ref&gt; This includes the requirement to sign a special insurance policy to cover any [[search and rescue]] costs the Governor would incur, should it be necessary.&lt;ref&gt;Aasheim (2008): 81&lt;/ref&gt;
+
+==References==
+{{reflist|2}}
+
+===Bibliography===
+* {{cite book |title=Norges nasjonalparker: Svalbard |last=Aasheim |first=Stein P. |year=2008 |publisher=Gyldendal |location=Oslo |language=Norwegian |isbn=978-82-05-37128-6}}
+* {{cite book |title=Svalbard: vårt nordligste Norge |author=Torkildsen, Torbjørn|year=1984 |publisher=Forlaget Det Beste |location=Oslo |language=Norwegian |isbn=82-7010-167-2|display-authors=etal}}
+
+{{Svalbard}}
+{{National Parks of Norway}}
+
+[[Category:National parks of Svalbard]]
+[[Category:Protected areas established in 2005]]
+[[Category:2005 establishments in Norway]]</text>
+      <sha1>i6jfr55y2x44cen1e9o4waakahtv8rx</sha1>
+    </revision>
+  </page>
+</mediawiki>

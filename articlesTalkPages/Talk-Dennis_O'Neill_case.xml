@@ -1,0 +1,80 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Dennis O'Neill case</title>
+    <ns>1</ns>
+    <id>20555712</id>
+    <revision>
+      <id>649841235</id>
+      <parentid>556555252</parentid>
+      <timestamp>2015-03-04T14:13:57Z</timestamp>
+      <contributor>
+        <username>OccultZone</username>
+        <id>19583588</id>
+      </contributor>
+      <comment>- [[:Category:Automatically_assessed_biography_articles|auto]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1667">{{WikiProject Biography
+|living=no
+|class=B
+|listas=Oneill, Dennis
+}}
+{{WikiProject Adoption, fostering, orphan care and displacement|class=B|importance=Low}}
+
+== Murder on appeal? ==
+
+Numerous sources, e.g.
+http://www.guardian.co.uk/society/2003/jan/27/childrensservices.childprotection
+state that the sentence was revised after appeal to 10 years for murder.
+
+Is there a particular reason why this article does not include that? [[Special:Contributions/86.139.52.15|86.139.52.15]] ([[User talk:86.139.52.15|talk]]) 19:52, 21 May 2013 (UTC)
+:Wikipedia articles do not spring into life fully formed. Information is added as it's discovered. If you find something additional then add it. -- [[User:Necrothesp|Necrothesp]] ([[User talk:Necrothesp|talk]]) 21:36, 21 May 2013 (UTC)
+::Incidentally, apart from that ''Guardian'' article, I can find no evidence that Gough's sentence was changed on appeal. ''The Times'' doesn't seem to mention it, although it reported the original case extensively. -- [[User:Necrothesp|Necrothesp]] ([[User talk:Necrothesp|talk]]) 14:06, 22 May 2013 (UTC)
+:::Thank you for your prompt reply and the update. It was ''exactly'' because no Google link (that I could find) showed that ''The Times'' had reported a change of sentence that I was curious and posted first. If you are reasonably sure that the ''Times'' archive has no report of a change of sentence, I suggest that we leave the article as it is. (Why the ''Guardian'' might have had their facts wrong in 2003 is not something ''this'' article needs to worry about). [[Special:Contributions/31.68.141.246|31.68.141.246]] ([[User talk:31.68.141.246|talk]]) 09:07, 24 May 2013 (UTC)</text>
+      <sha1>9hudzvo9xj9p5hk2r1u59mdhvjxb4a5</sha1>
+    </revision>
+  </page>
+</mediawiki>

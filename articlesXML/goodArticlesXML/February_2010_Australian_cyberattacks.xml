@@ -1,0 +1,130 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>February 2010 Australian cyberattacks</title>
+    <ns>0</ns>
+    <id>26192952</id>
+    <revision>
+      <id>748926103</id>
+      <parentid>714552968</parentid>
+      <timestamp>2016-11-11T06:18:25Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* Background */clean up; http&amp;rarr;https for [[Google Books]] and other Google services using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16937">{{EngvarB|date=March 2013}}
+{{Use dmy dates|date=March 2013}}
+{{good article}}
+{{Infobox civil conflict
+ | conflict = Operation Titstorm
+ | date = February 2010
+ | partof =
+ | image = [[File:Operation titstorm.jpg|300px]]
+ | caption = A flyer for Operation Titstorm
+ | place = Internet and Australia
+ | methods = [[spam (electronic)|spam]], [[street protest]]s, [[denial-of-service attack]]s
+ | side1 = [[Anonymous (group)|Anonymous]]
+ | side2 = [[Government of Australia]]
+}}
+The '''February 2010 Australian cyberattacks'''  were a series of [[denial-of-service attack]]s conducted by the [[Anonymous (group)|Anonymous]] online community against the [[Australian government]] in response to proposed [[Internet censorship in Australia|web censorship]] regulations. '''Operation Titstorm''' was the name given to the [[cyber attack]]s by the perpetrators. They resulted in lapses of access to government websites on 10 and 11 February 2010. This was accompanied by emails, faxes, and phone calls harassing government offices. The actual size of the attack and number of perpetrators involved is unknown but it was estimated that the number of systems involved ranged from the hundreds to the thousands. The amount of traffic caused disruption on multiple government websites.
+
+Australian Telecommunications Minister [[Stephen Conroy]] proposed the regulations that would mainly filter sites with [[Internet pornography|pornographic content]]. Various groups advocating uncensored access to the Internet, along with companies like [[Google]] and [[Yahoo!]], object to the proposed filter. A spokesperson for Conroy said that the actions were not a legitimate form of protest and called it irresponsible. The attacks also drew criticism from other filter protest groups. The initial stage was followed by small in-person protests on 20 February that were called &quot;'''Project Freeweb'''&quot;.
+
+==Background==
+[[File:StephenConroy.jpg|thumb|left|upright|[[Stephen Conroy]]]]
+The attack began as a protest responding to a plan by Australian Telecommunications Minister [[Stephen Conroy]] that would require [[internet service provider]]s to block Australian users from accessing illegal and what the government deemed as &quot;unwanted&quot; content.&lt;ref name=&quot;Grant Gross 2010-02-13&quot;&gt;{{cite news |url=http://www.pcworld.com/article/189023/australian_parliament_web_site_attacked.html |title=Australian Parliament Web Site Attacked |last=Gross|first=Grant |date=10 February 2010 |agency=IDG News|work=[[PC World]]|accessdate=13 February 2010}}&lt;/ref&gt; Websites to be blocked feature pornography showing rape, [[bestiality]], [[child sex abuse]], small-breasted women (who may appear under the legal age), and [[female ejaculation]]. [[Cartoon pornography|Drawn depictions of such acts]] are included in the proposal.&lt;ref name=&quot;Register 2010-02-13&quot;&gt;{{cite news |url=http://www.theregister.co.uk/2010/02/11/oz_anti_censorship_ddos_latest/|title=Aussie anti-censor attacks strafe gov websites|last=Leyden|first=John|date=11 February 2010|work=[[The Register]]|accessdate=12 February 2010}}&lt;/ref&gt; The proposed filter also includes gambling sites along with others showing drug use.&lt;ref name=&quot;AFP 2010-02-11&quot;&gt;{{cite news |url=https://www.google.com/hostednews/afp/article/ALeqM5jnujRPFE6kMQ8Ns22WpjgTun-PHQ|title=Australia cyber attacks could last 'months': hackers|date=11 February 2010|agency=[[Agence France-Presse]]|accessdate=13 February 2010}}&lt;/ref&gt; A leaked version of the proposed blacklist (also referred to as the &quot;refused classification&quot; or &quot;RC&quot; list) also showed sites that did not include adult content. The name &quot;Operation Titstorm&quot; was in reference to the material that would be censored.&lt;ref name=&quot;Time 2010-06-16&quot;&gt;{{cite news|last=Kamenev|first=Marina|title=First, China. Next: the Great Firewall of... Australia?|url=http://www.time.com/time/world/article/0,8599,1995615,00.html|accessdate=3 August 2010 |work=Time|date=16 June 2010}}&lt;/ref&gt;
+
+[[Google]] has questioned the proposal, saying the prohibitions would be too broad.&lt;ref name=&quot;Grant Gross 2010-02-13&quot;/&gt;&lt;ref name=&quot;Time 2010-06-16&quot;/&gt; It is strongly opposed by [[freedom of speech|free speech]] groups. A poll conducted by McNair Ingenuity Research for the ''[[Hungry Beast]]'' television program found that 80% of their 1,000 respondents were in favour of the concept of the plan.&lt;ref name=&quot;Herald Sun 2010-02-10&quot;&gt;{{cite news|url=http://www.heraldsun.com.au/news/hackers-protesting-against-a-proposed-internet-filter-that-targets-pornography-shut-down-federal-government-website/story-e6frf7jo-1225828766740|title=Hackers protesting against a proposed internet filter that targets pornography shut down Federal Government website|date=10 February 2010|work=[[Herald Sun]]|accessdate=13 February 2010}}&lt;/ref&gt; The survey also found that 91% were concerned about the government's intent to keep the list of filtered websites a secret.&lt;ref&gt;{{cite news|url=http://digihub.smh.com.au/node/1553|title=Why Conroy loves porn|date=19 February 2010|work=[[The Sydney Morning Herald]]|accessdate=19 February 2010}}&lt;/ref&gt;
+
+The [[Department of Defence (Australia)|Department of Defence]]'s Cyber Security Operations Centre discovered the attack was coming on 5 February.&lt;ref name=&quot;IBT 2010-02-10&quot;&gt;{{cite news|url=http://www.ibtimes.com/articles/7219/20100210/hackers-attack-au-websites-protest-censorship.htm|title=Hackers attack AU websites to protest censorship|date=10 February 2010|work=International Business Times|accessdate=13 February 2010}}&lt;/ref&gt; A statement released by Anonymous to the press two days before the attack said, &quot;No government should have the right to refuse its citizens access to information solely because they perceive it to be 'unwanted'.&quot; It went on to read, &quot;The Australian Government will learn that one does not mess with our porn. No one messes with our access to perfectly legal (or illegal) content for any reason&quot;.&lt;ref name=&quot;NZ Herald 2010-02-11&quot;/&gt;&lt;ref name=&quot;Wired 2010-02-10&quot;/&gt; Anonymous had previously garnered media attention with protests against [[Church of Scientology]] ([[Project Chanology]]) and the Iranian government.&lt;ref name=&quot;BBC 2010-02-12&quot;&gt;{{cite news|url=http://news.bbc.co.uk/2/hi/technology/8513073.stm|title=Cyber attacks against Australia 'will continue'|last=Kleinman|first=Zoe|date=12 February 2010|publisher=BBC News|accessdate=13 February 2010}}&lt;/ref&gt; In September 2009, Prime Minister [[Kevin Rudd]]'s website was hacked in a similar protest to proposed web censorship reforms.&lt;ref name=&quot;Herald Sun 2010-02-10&quot;/&gt;
+
+==Attacks==
+Flyers distributed to recruit participants said the attack was to begin at 8&amp;nbsp;pm&amp;nbsp;AEST on 10 February.&lt;ref name=&quot;Wired 2010-02-10&quot;/&gt; On that day, government websites were targeted by [[denial-of-service attack]]s. The Communications Department said the hackers had not infiltrated government security, but had instead swamped government computer servers.&lt;ref name=&quot;Herald Sun 2010-02-10&quot;/&gt; Sites were left unavailable for sporadic periods throughout the attack. At one point, the Australian Parliament's website was offline for about two days due to the high volume of requests.&lt;ref&gt;{{cite news | title = Australia cyber attacks could last 'months': hackers | work = The Sydney Morning Herald | date = 11 February 2010 | url = http://news.smh.com.au/breaking-news-technology/australia-cyber-attacks-could-last-months-hackers-20100211-nuzc.html |accessdate=11 February 2010}}&lt;/ref&gt; Rudd's government site was also inaccessible for some time. As a primary target, the Communications Department also received a large amount of traffic. Government offices were also flooded with [[e-mail spam]], [[junk fax]]es, and [[prank phone call]]s.&lt;ref name=&quot;Register 2010-02-13&quot;/&gt; The Prime Minister's homepage was vandalized with pornographic images.&lt;ref name=&quot;NZ Herald 2010-02-11&quot;&gt;{{cite news|url=http://www.nzherald.co.nz/compute/news/article.cfm?c_id=1501832&amp;objectid=10625493|title=Operation Titstorm – Hackers declare war on Aussie|last=Marks|first=Kathy|date=11 February 2010|work=[[The New Zealand Herald]]|accessdate=13 February 2010}}&lt;/ref&gt; The flyer released before the attack called for the faxes to focus on cartoon pornography, female ejaculation, and small-breasted pornography.&lt;ref&gt;{{cite news|last=Ragan|first=Steve|title=Anonymous issues ultimatum to Australian government|url=http://www.thetechherald.com/article.php/201006/5218/Anonymous-issues-ultimatum-to-Australian-government|accessdate=1 March 2011 |publisher=The Tech Herald.com|date=10 February 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last=Moses |first=Asher |title=Operation Titstorm hackers strike Australia|url=http://www.stuff.co.nz/world/3312167/Operation-Titstorm-hackers-strike-Australia |work=The Sydney Morning Herald|date=2010-02-10 |deadurl=no |accessdate=4 November 2013}}&lt;/ref&gt;
+
+Reports of the actual size of the attack have varied. One cyber security expert described the attacks as &quot;the equivalent of parking a truck across the driveway of a shopping centre&quot;.&lt;ref&gt;{{cite news|url=http://www.independent.co.uk/news/world/australasia/operation-titstorm-hackers-declare-cyber-war-on-australia-1895838.html|title=&quot;Operation Titstorm&quot; hackers declare cyber war on Australia|last=Marks|first=Kathy|date=11 February 2010|work=[[The Independent]]|accessdate=13 February 2010}}&lt;/ref&gt; A firm marketing security technology said that the peak of the attack was a relatively low 16.84 [[megabit]]s per second.&lt;ref name=&quot;Register 2010-02-13&quot;/&gt; One writer described the 7.5 million requests per second that initially brought down the Parliament website as &quot;massive&quot;.&lt;ref name=&quot;Grant Gross 2010-02-13&quot;/&gt; The site usually only receives a few hundred per second.&lt;ref name=&quot;Wired 2010-02-10&quot;&gt;{{cite news |url=http://www.wired.com/threatlevel/2010/02/anonymous-unfurls-operation-titstorm/|title=Anonymous Unfurls ‘Operation Titstorm’ |last=Kravets |first=David |date=10 February 2010|work=[[Wired (magazine)|Wired]]|accessdate=13 February 2010}}&lt;/ref&gt; It appears that [[botnet]]s made up of compromised computers were not used.&lt;ref name=&quot;Register 2010-02-13&quot;/&gt; Estimates of the number of attacking systems involved have ranged from hundreds to thousands.&lt;ref name=&quot;AFP 2010-02-11&quot;/&gt;&lt;ref name=&quot;BBC 2010-02-12&quot;/&gt;
+
+==Response==
+A spokeswoman for Conroy said such attacks were not a legitimate political protest. According to her, they were &quot;totally irresponsible and potentially deny services to the Australian public&quot;.&lt;ref name=&quot;The Age 2010-02-11&quot;&gt;{{cite news|url=http://www.theage.com.au/national/hacker-raid-condemned-20100210-nsgy.html|title=Hacker raid condemned|date=11 February 2010|work=[[The Age]]|accessdate=13 February 2010}}&lt;/ref&gt; [[SAGE-AU|The Systems Administrators Guild of Australia]] said that it &quot;condemned DDoS attacks as the wrong way to express disagreement with the proposed law&quot;.&lt;ref name=&quot;SC Magazine 2010-02-15&quot;/&gt; Anti-censorship groups criticised the attacks, saying they hurt their cause.&lt;ref name=&quot;BBC 2010-02-12&quot;/&gt;&lt;ref name=&quot;The Age 2010-02-11&quot;/&gt; A purported spokesperson for the attackers recommended that the wider Australian public protest the filter by signing the petition of [[Electronic Frontiers Australia]].&lt;ref&gt;{{cite news|url=http://www.zdnet.com.au/news/security/soa/Anonymous-says-Titstorm-beats-a-petition/0,130061744,339301021,00.htm|title=Anonymous says Titstorm beats a petition|last=LeMay|first=Renai|date=12 February 2010|publisher=[[Ziff Davis]]|accessdate=13 February 2010}}&lt;/ref&gt; 
+
+Anonymous coordinated a second phase with small protests outside the [[Parliament House, Canberra|Parliament House in Canberra]] and in major cities throughout Australia on 20 February. Additional demonstrations were held at some of the country's [[List of diplomatic missions of Australia|embassies]] overseas.&lt;ref name=&quot;SC Magazine 2010-02-15&quot;&gt;{{cite news|url=http://www.scmagazineuk.com/australia-prepares-for-week-of-protest-against-web-filters-after-the-anonymous-group-hit-key-websites-last-week/article/163785/|title=Australia prepares for week of protest against web filters after the Anonymous group hit key websites last week|last=Raywood|first=Dan|date=15 February 2010|work=SC Magazine|publisher=[[Haymarket Group]]|accessdate=19 February 2010}}&lt;/ref&gt; The organizers called the follow-up protests &quot;Project Freeweb&quot; to differentiate them from the criticised cyber attacks.&lt;ref&gt;{{cite news|url=http://www.zdnet.com.au/news/security/soa/Anonymous-Titstorm-moves-to-offline-protest-/0,130061744,339301090,00.htm|title=Anonymous' Titstorm moves to offline protest|last=LeMay|first=Renai|date=15 February 2010|publisher=[[Ziff Davis]]|accessdate=15 February 2010}}&lt;/ref&gt;
+
+Several supporters of the attack later said on a messageboard that taking down websites was not enough to convince the government to back down on the web filtering policy and called for violence. Others disagreed with such actions and proposed launching an additional attack on a popular government site. A spokesman for Electronic Frontiers Australia said he believed there was no real intention or capacity to follow through with any of the violent threats.&lt;ref&gt;{{cite news|last=Moses|first=Asher|title=Conroy's net gag sparks assassination and bomb plot chatter |url=http://www.brisbanetimes.com.au/technology/technology-news/conroys-net-gag-sparks-assassination-and-bomb-plot-chatter-20100325-qyv2.html|accessdate=3 March 2010 |newspaper=Brisbane Times|date=25 March 2010}}&lt;/ref&gt;
+
+The attack also resulted in criticism of Australia's terrorism laws from the ''The University of New South Wales Law Journal''.&lt;ref&gt;{{cite journal|last=Hardy|first=Keiran|title=Operation Titstorm: hacktivism or cyber-terrorism?|journal=The University of New South Wales Law Journal|volume=33|issue=2|pages=474–502|location=Australia|issn=0313-0096}}&lt;/ref&gt; One writer wrote that the provisions leave &quot;no place for legitimate acts of online protest, or at least sets the penalty far too high for relatively minor cyber-vandalism&quot;.&lt;ref&gt;{{cite journal|last=Vaile|first=David|title=Forward|journal=The University of New South Wales Law Journal|volume=33|issue=2|pages=428|location=Australia|issn=0313-0096|quote=Keiran Hardy assesses Operation Titstorm’ – an online protest against Australia's proposed internet filter – as an act of terrorism, arguing that the embarrassing (for the federal police) but essentially harmless offensive, is caught by Commonwealth terrorism provisions, so widely drafted are these offences borne in the often scrutiny-free territory of the 'war on terror'.11 This is problematic, he argues, because it leaves no place for legitimate acts of online protest, or at least sets the penalty far too high for relatively minor cybervandalism.}}&lt;/ref&gt;
+
+An Australian teenager was charged with four counts of inciting other hackers to impair electronic communications and two of unauthorised access to restricted data for his role in the attack. He was ordered to pay a bond instead of being convicted after pleading guilty and showing good behaviour.&lt;ref&gt;{{cite news|last=Ross|first=Norrie|title=Steve Slayo avoids jail term after inciting hack attack on Federal Government|url=http://www.heraldsun.com.au/news/national/steve-slayo-avoids-jail-term-after-inciting-hack-attack-on-federal-government/story-e6frf7l6-1225967134603|accessdate=1 March 2011 |newspaper=Herald Sun|date=7 December 2010}}&lt;/ref&gt;
+
+In July 2010, Conroy delayed implementing the plan pending a 12-month review into how refused classification content was rated. The proposal is not expected to go forward due to the opposition from [[Coalition (Australia)|The Coalition]] and the [[Australian Greens|Greens]]. Internet service providers [[Telstra]] and [[Optus]] have both agreed to voluntarily block some content.&lt;ref&gt;{{cite news|last=Foo|first=Fran|title=ISP filter could be buried|url=http://www.theaustralian.com.au/australian-it/government/isp-filter-plan-could-be-buried/story-fn4htb9o-1225915395171|accessdate=1 March 2011 |newspaper=[[The Australian]]|date=7 September 2010}}&lt;/ref&gt;
+
+==See also==
+*[[Internet censorship in Australia]]
+*[[Operation Payback]]
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+{{refbegin}}
+*{{Cite web |title=Distributed Denial of Service Attacks Against Independent Media and Human Rights Sites |url=http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/2010_DDoS_Attacks_Human_Rights_and_Media.pdf |date=December 2010 |author1=Ethan Zuckerman |author2=Hal Roberts |author3=Ryan McGrady |author4=Jillian York |author5=John Palfrey |publisher=The Berkman Center for Internet &amp; Society at Harvard University |deadurl=yes |archiveurl=http://www.webcitation.org/5ws9RPpXi |archivedate=2011-03-02 |accessdate=4 November 2013}}
+{{refend}}
+
+{{Hacking in the 2010s}}
+{{Anonymous and the Internet}}
+
+[[Category:Censorship in Australia]]
+[[Category:Internet culture]]
+[[Category:Denial-of-service attacks]]
+[[Category:Cyberwarfare]]
+[[Category:Anonymous (group)]]
+[[Category:2010 in Australia]]
+[[Category:Internet events]]</text>
+      <sha1>q83svo5yridbb9uizpqjfue1ml4d9wa</sha1>
+    </revision>
+  </page>
+</mediawiki>

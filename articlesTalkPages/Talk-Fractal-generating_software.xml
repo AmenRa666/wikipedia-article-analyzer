@@ -1,0 +1,100 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Fractal-generating software</title>
+    <ns>1</ns>
+    <id>19789848</id>
+    <revision>
+      <id>726428283</id>
+      <parentid>645610293</parentid>
+      <timestamp>2016-06-22T03:24:56Z</timestamp>
+      <contributor>
+        <username>BU RoBOT</username>
+        <id>25993922</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */[[WP:AUTOASSESS|Auto-assessment]] of article class. Editors are encouraged to manually assess articles. See [[User:BU_RoBOT/autoassess]] for more info.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5762">{{Old AfD multi| date = 11 October 2008 (UTC) | result = '''keep''' | page = Fractal generating software }}
+
+{{WikiProjectBannerShell|1=
+{{WikiProject Computer graphics|class=Stub|auto=yes}}
+{{WikiProject Computing|class=stub|auto=inherit |importance= }}
+{{WikiProject Computer science|class=stub|auto=inherit |importance= }}
+{{Maths rating|class=Stub|priority=Low|field=general}}}}
+
+
+==Untitled==
+Please do not reduce this article to a stub. It has useful information that is easily checked. In its restored form it embodies basic knowledge of fractal software that is shared by all people who use such software. An article on soap does not require a citation in support of the statement that many people use soap to wash. 
+
+If people have a concern about the article they can raise it here and allow a discussion to take place.[[User:Soler97|Soler97]] ([[User talk:Soler97|talk]]) 20:31, 17 October 2008 (UTC)
+:Even in the list form it's still a stub - in fact, technically it's ''more'' stubby in that form, since stubs are usually classified as such on the basis of their text ignoring any templates or lists. I agree, though, it makes more sense keeping the list of examples separate. The features, however, are another matter, and may well be better served by a paragraph. [[User:Grutness|Grutness]]...''&lt;small&gt;&lt;font color=&quot;#008822&quot;&gt;[[User_talk:Grutness|wha?]]&lt;/font&gt;&lt;/small&gt;'' 22:27, 17 October 2008 (UTC)
+
+Thanks for your reply. I agree that the article is not great, but that is no reason to make it worse. In its original form it was written in paragraphs but got reduced to points. I don't like articles written in point form and I had the impression that wikipedia discourages the practice, but this is how it ended up. You're welcome to redraft the features list as a paragraph but it will probably be reverted to list form.[[User:Soler97|Soler97]] ([[User talk:Soler97|talk]]) 20:51, 18 October 2008 (UTC)
+
+:I've had a go - hopefully it'll be acceptable to whoever keeps reverting it. I've added a bit of info from my partner (she works as a fractal artist and mathematician). [[User:Grutness|Grutness]]...''&lt;small&gt;&lt;font color=&quot;#008822&quot;&gt;[[User_talk:Grutness|wha?]]&lt;/font&gt;&lt;/small&gt;'' 00:22, 19 October 2008 (UTC)
+
+It looks OK to me. Let's see how it goes. [[User:Soler97|Soler97]] ([[User talk:Soler97|talk]]) 05:31, 19 October 2008 (UTC)
+
+Seems to me the best way to treat features would be a table, but that would make an article with little prose even less readable.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/68.188.164.248|68.188.164.248]] ([[User talk:68.188.164.248|talk]]) 17:02, 7 June 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== External links ==
+
+We need to agree which external links this page should contain. 71.42.88.198 has added external links on various occasions going back to January 2009. Various editors, myself included, have removed them on the grounds that Wikipedia is not designed to be a repository for external links. Rather than start an edit war, let's talk about it. My view is that the list of Fractal Generating Software should only contain links to other pages on Wikipedia (or be placeholders to pages that could be written in due course). The External Links section should probably be deleted, as there is no need for it. [[Special:Contributions/81.174.151.142|81.174.151.142]] ([[User talk:81.174.151.142|talk]]) 15:40, 8 April 2010 (UTC)
+
+{{tn|edit request}} 
+Hi, I have written this [http://code.google.com/p/dynamicfractalviewer/] here based on solely  academic interest, and it is the only one available which can dynamically generate escape time fractals based on mathematical expressions passed to it.. It has all the other features of coloring, color blending too, and open sourced, free. written in .NET and/or mono. Can you guys please evaluate and take a look and decide if  it is appropriate to be added here? In specificity [http://commons.wikimedia.org/wiki/File:ElephantsZone_z_2_z_3_c.jpg] and [http://commons.wikimedia.org/wiki/File:NonIntegerMultibrot_-_Breaking_of_Space.jpg] these type of rendering is never before seen, as there *is not a single one 2 dimensional fractal viewer* capable of doing it.
+Thank you folks.
+
+:Section removed; discuss possible reinstatement below. Cheers, &lt;small&gt;&lt;span style=&quot;border:1px solid;background:#00008B&quot;&gt;[[User:Chzz|'''&lt;span style=&quot;background:#00008B;color:white&quot;&gt;&amp;nbsp;Chzz&amp;nbsp;&lt;/span&gt;''']][[User talk:Chzz|&lt;span style=&quot;color:#00008B;background-color:yellow;&quot;&gt;&amp;nbsp;►&amp;nbsp;&lt;/span&gt;]]&lt;/span&gt;&lt;/small&gt; 22:47, 20 November 2011 (UTC)
+
+The section was put back, under the new heading of &quot;List of notable fractal-generating softwares&quot;. This began in August 2013, and several editors were beginning to add links to it again. Nobody had come back here to argue the case for doing this; there were comments in the page source warning against adding links unnecessarily, which were ignored. I've removed the section again. If anyone thinks [[User:Ekabhishek]] was right to start rebuilding the section, please explain why. [[User:JROakley|JROakley]] ([[User talk:JROakley|talk]]) 10:17, 16 October 2013 (UTC)
+
+Suggestion for another fractal generating application to be included here.  Does not seem to have a Wikipedia page.  http://www.fractalsciencekit.com/  [[User:Ronelling|Ronelling]] ([[User talk:Ronelling|talk]]) 14:46, 3 February 2015 (UTC)ronelling  This particular application, ChaosPro, can use the parameter files of some of the applications listed in the article like FractInt and UltraFractal. http://www.chaospro.de/ [[User:Ronelling|Ronelling]] ([[User talk:Ronelling|talk]]) 15:07, 4 February 2015 (UTC)ronelling</text>
+      <sha1>r7sq9q111yuwjh91kx57bej5sbddkqw</sha1>
+    </revision>
+  </page>
+</mediawiki>

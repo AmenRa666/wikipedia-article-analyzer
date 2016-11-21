@@ -1,0 +1,856 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Boston College Eagles football</title>
+    <ns>0</ns>
+    <id>7956873</id>
+    <revision>
+      <id>750583639</id>
+      <parentid>750334198</parentid>
+      <timestamp>2016-11-20T17:40:36Z</timestamp>
+      <contributor>
+        <ip>74.78.133.32</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="86325">{{Infobox NCAA football school
+| TeamName         = Boston College Eagles football
+| CurrentSeason    = 2016 Boston College Eagles football team
+| Image            = Boston College Eagles wordmark.png
+| ImageSize        = 250px 
+| FirstYear        = {{Start date and age|1893}}
+| HeadCoachDisplay = [[Steve Addazio]]
+| HeadCoachLink    = 
+| HeadCoachYear    = 4th
+| HCWins           = 21
+| HCLosses         = 26
+| HCTies           = 
+| Stadium          = Alumni Stadium
+| StadCapacity     = 44,500
+| StadSurface      = FieldTurf
+| Location         = [[Chestnut Hill, Massachusetts]]
+| ConferenceDisplay= ACC
+| ConferenceLink   = Atlantic Coast Conference
+| ConfDivision     = [[Coastal Division|Atlantic]]
+| PastAffiliations = [[Big East Conference (1979–2013)|Big East]]
+| ATWins           = 631
+| ATLosses         = 453
+| ATTies           = 36
+| ATPercentage     = .582
+| BowlWins         = 13
+| BowlLosses       = 11
+| BowlTies         = 
+| NatlTitles       = 1 (1940)
+| ConfTitles       = 1 (2004 [[Big East Conference (1979–2013)|Big East]])
+| DivTitles        = 3 (2005, 2007, 2008 [[Atlantic Coast Conference|ACC]] Atlantic)
+| Heisman Awards   = 1 ([[Doug Flutie]])
+| AllAmericans     = 12
+| uniform          =
+| FightSong        = [[For Boston]]
+| MascotDisplay    = [[Baldwin the Eagle]]
+| MarchingBand     = [[Boston College Marching Band|&quot;Screaming Eagles&quot; Marching Band]]
+| PagFreeLabel     = Rivals
+| PagFreeValue     = [[Boston College – Syracuse Rivalry|Syracuse Orange]]&lt;br /&gt;[[Boston College–Virginia Tech rivalry|Virginia Tech Hokies]]&lt;br /&gt;[[O'Rourke–McFadden Trophy|Clemson Tigers]]&lt;br /&gt;[[Holy War (Boston College vs. Notre Dame)|Notre Dame Fighting Irish]]&lt;br /&gt;[[Miami Hurricanes football|Miami Hurricanes]]&lt;br /&gt;[[Boston College–UMass football rivalry|UMass Minutemen]]
+| WebsiteName      = BCeagles.com
+| WebsiteURL       = http://bceagles.cstv.com/
+}}
+
+The '''Boston College Eagles football''' team represents [[Boston College]] in the sport of [[American football]]. The Eagles compete in the [[NCAA Division I#Division I-Bowl Subdivision|Football Bowl Subdivision]] (FBS) of the [[National Collegiate Athletic Association]] (NCAA) and the [[ACC Atlantic Division|Atlantic Division]] of the [[Atlantic Coast Conference]] (ACC). Begun in 1892, Boston College's football team was one of six &quot;Major College&quot; football programs in [[New England]] as designated by NCAA classifications, starting in 1938.&lt;ref&gt;The NCAA classified Brown, Dartmouth, Harvard and Yale as NCAA University Division (Major College) in 1937. Boston College and Holy Cross were added in 1938.&lt;/ref&gt; By 1981, and for the remainder of the twentieth century, BC was New England's sole Division I-A program.&lt;ref&gt;In 1980, the [[Ivy League]] schools were reclassified as Division I-AA. Holy Cross followed suit in 1981.&lt;/ref&gt; It has amassed a 624–444–37 record and is 99–54 since the turn of the 21st century.
+
+[[Steve Addazio]] is currently the team's head coach. Boston College is one of only two [[Catholic Church|Catholic]] universities that field a team in the Football Bowl Subdivision, the other being [[Notre Dame Fighting Irish football|Notre Dame]]. The Eagles' home games are played at [[Alumni Stadium]] on the Boston College campus in [[Chestnut Hill, Massachusetts]]. In addition to success on the gridiron, Boston College football teams are consistently ranked among the nation's best for academic achievement&lt;ref&gt;{{cite web|url=http://bceagles.cstv.com/genrel/081307aac.html|title=Duke, BC Lead Academic Honor Roll|accessdate=2008-02-18|publisher=Boston College Athletics}}&lt;/ref&gt; and graduation.&lt;ref&gt;{{cite web|url=http://bceagles.cstv.com/genrel/100307aaa.html|title=Eagles Among Nation's Elite in Graduation Success Rate: Football rated third-best in the country; 16 BC teams receive 100% GSR score|accessdate=2008-02-18|publisher=Boston College Athletics}}&lt;/ref&gt; In 2005, 2006 and 2007, the football team's [[Academic Progress Rate]] was the highest of any school that finished the season ranked in the [[AP Poll|AP]] or [[Coaches' Poll|ESPN/''USA Today'' Coaches']] polls.
+
+==History==
+
+===Early history (1893–1950)===
+[[File:Boston Eagles footb 1893.gif|left|thumb|300px|Boston College football team, 1893.]]
+In 1892, Boston College President Edward Ignatius Devitt, [[Society of Jesus|S.J.]], grudgingly agreed to the requests of two undergraduates, [[Joseph F. O'Connell]] of the class of 1893 and [[Joseph Drum]] of the class of 1894, to start a [[varsity team|varsity]] football team. Drum would become the first head [[coach (sport)|coach]], albeit an unpaid position and O'Connell was [[captain (sports)|captain]]. On October 26, 1893, BC played its first official game against the St. John's Literary Institute of Cambridge followed by its first intercollegiate game against [[Massachusetts Institute of Technology|MIT]]. BC won the first game 4–0, but lost 6–0 to MIT. Some of the original team's alumni had particularly significant careers: captain [[Joseph Drum]] became the first BC graduate to be elected to the [[U.S. House of Representatives]],  [[Joseph F. O'Connell]] was elected to the [[U.S. House of Representatives]], and running back James Carlin became president of the [[College of the Holy Cross]].[[File:BCfootballbanquet1929.jpg|left|thumb|Eastern Champions, 1928]]
+
+[[File:Boston College National Championship 1940.jpg|thumb|right|200px|1940 banner]]
+The 1940 season can arguably be called the greatest year in the history of Boston College football. BC's undefeated (11-0) and untied team, captured the 1941 [[Sugar Bowl]] championship and earned the nickname &quot;Team of Destiny&quot;.&lt;ref name=&quot;teamofdestiny&quot;&gt;{{cite web|url=http://bceagles.cstv.com/genrel/071000aac.html|title=1940 Football 'Team of Destiny' - National Champions |accessdate=2008-02-18|publisher=Boston College Athletics}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.bc.edu/bc_org/avp/ulib/Burns/1940team.html|title=1940 Team of Destiny|date=Fall 2001|accessdate=2008-02-18|publisher=John J. Burns Library |archiveurl = https://web.archive.org/web/20080611135404/http://www.bc.edu/bc_org/avp/ulib/Burns/1940team.html &lt;!-- Bot retrieved archive --&gt; |archivedate = 2008-06-11}}&lt;/ref&gt; Five members of that storied team have been inducted into the National Football Foundation's College Football Hall of Fame: end Eugene Goodreault (50); guard George Kerr (47); center Chet Gladchuk, Sr. (45); fullback [[Mike Holovak]] (12); and halfback Charles O'Rourke (13). It included a 19–18 victory over [[Georgetown University|Georgetown]] before 41,700 fans at sold-out Fenway Park, that was called one of the greatest games ever by famed sportswriter [[Grantland Rice]].&lt;ref&gt;{{cite web |url=http://www.hoyafootball.com/history/quirk.htm |title=Georgetown Football History and Tradition |first=Rory |last=Quirk}}&lt;/ref&gt; Going into the game, the Hoyas had twenty-two consecutive victories spanning three seasons. BC trailed until the third quarter, when a 43-yard touchdown pass from [[Charlie O'Rourke]] to Monk Maznicki put the Eagles ahead. With just seconds remaining, BC had the ball on their own nine, fourth down and 18 to go. Georgetown set up to return the Eagles' punt. Instead of punting, O'Rourke scrambled in his own end zone for 45 seconds then took a safety. BC used the free kick to boot the ball far downfield and dashed the Hoyas' three-season unbeaten record. Legendary Coach [[Frank Leahy]], who would go on to cement his legendary status during an eleven-year stint as head coach at [[Notre Dame Fighting Irish football|Notre Dame]], took his undefeated Eagles on to the Sugar Bowl in [[New Orleans]] where they beat [[University of Tennessee|Tennessee]]. A banner on BC's campus commemorating the team uses the phrase &quot;national champions&quot;, but Boston College was not awarded a national championship by any of the national polls at the time of the 1940 season. Although BC's claim to a title is not recognized by the NCAA or college football historians in general, one website, the [[College Football Data Warehouse]], claims that selectors named Cliff Morgan and Ray Bryne rated BC #1 in 1940.&lt;ref&gt;{{cite web|url=http://www.cfbdatawarehouse.com/data/div_ia/acc/boston_college/all_national_champs.php |title=cfbdatawarehouse|accessdate=February 18, 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20080724120304/http://www.cfbdatawarehouse.com/data/div_ia/acc/boston_college/all_national_champs.php |archivedate=July 24, 2008 }}&lt;/ref&gt; This web site states that BC's historic 1940 run resulted in a split championship with the University of Minnesota, but it's not clear whether the selectors awarded BC a title at the time of the 1940 season, or if they did so retroactively.&lt;ref&gt;{{cite web|url=http://www.cfbdatawarehouse.com/data/national_championships/nchamps_year.php |title=Recognized National Championships by Year |publisher=Cfbdatawarehouse.com |date= |accessdate=2016-03-19}}&lt;/ref&gt; The NCAA lists only Minnesota as the national champion in 1940, and does not credit BC with any national championships in football.&lt;ref&gt;NCAA list of recognized national champions http://www.ncaa.com/history/football/fbs&lt;/ref&gt;
+
+===Mike Holovak era (1951–1959)===
+[[Mike Holovak]] was named head coach of BC in 1951.&lt;ref&gt;{{cite web|author= |url=http://www.bceagles.com/sports/m-footbl/spec-rel/012808aaa.html |title=Boston College Athletics - Legendary Football Player and Coach Mike Holovak Dies |publisher=Bceagles.com |date=2008-01-28 |accessdate=2016-03-19}}&lt;/ref&gt; During his tenure as head coach, the Eagles compiled a 49–29–3 record. Holovak won Coach of the Year honors in 1954 from New England football writers. Those efforts were good enough to earn him a new four-year contract on November 22, 1955, but even after four more winning seasons - he was fired on December 3, 1959, after a year in which Eagle fans had subjected him to constant verbal abuse.&lt;ref&gt;{{cite web|url=http://www.boston.com/bostonglobe/obituaries/articles/2008/01/28/mike_holovak_88_star_back_for_bc_became_second_winningest_coach_of_patriots/ |title=Mike Holovak, 88; star back for BC became second-winningest coach of Patriots - The Boston Globe |publisher=Boston.com |date=2008-01-28 |accessdate=2016-03-19}}&lt;/ref&gt;
+
+===Ernie Hefferle era (1960–1961)===
+[[Ernie Hefferle]], an assistant coach for the [[National Football League|NFL]]'s [[Washington Redskins]], was hired as head coach of the Eagles following Holovak's firing. Hefferle's Eagles compiled a record of 7–12–1 in two seasons.&lt;ref&gt;{{cite web|url=http://www.sports-reference.com/cfb/coaches/ernest-hefferle-1.html |title=Ernest Hefferle Coaching Record &amp;#124; College Football at |publisher=Sports-reference.com |date= |accessdate=2016-03-19}}&lt;/ref&gt; However, mounting pressure to win from the alumni and administration led to Hefferle's resignation after the 1961 season.&lt;ref&gt;https://news.google.com/newspapers?nid=1454&amp;dat=19611221&amp;id=rDZhAAAAIBAJ&amp;sjid=TXQNAAAAIBAJ&amp;pg=5217,4171831&lt;/ref&gt;
+
+===Jim Miller era (1962–1967)===
+BC hired [[Jim Miller (American football coach)|Jim Miller]] away from [[Detroit Titans football|Detroit]] as its head coach in January 1962.&lt;ref&gt;https://news.google.com/newspapers?nid=1356&amp;dat=19620123&amp;id=vnZPAAAAIBAJ&amp;sjid=FwUEAAAAIBAJ&amp;pg=5297,4226915&lt;/ref&gt; Under Miller, the Eagles compiled a record of 34–24 that included four winning seasons in those six years.&lt;ref&gt;{{cite web|url=http://www.sports-reference.com/cfb/coaches/jim-miller-1.html |title=Jim Miller Coaching Record &amp;#124; College Football at |publisher=Sports-reference.com |date= |accessdate=2016-03-19}}&lt;/ref&gt; Miller resigned after the 1967 season.&lt;ref&gt;{{cite web|url=http://newspapers.bc.edu/cgi-bin/bostonsh?a=d&amp;d=bcheights19671215.2.18 |title=The Heights 15 December 1967 – Boston College |publisher=Newspapers.bc.edu |date=1967-12-15 |accessdate=2016-03-19}}&lt;/ref&gt;
+
+===Joe Yukica era (1968–1977)===
+[[New Hampshire Wildcats football|New Hampshire]] head coach [[Joe Yukica]] was hired to replace Miller at BC.&lt;ref&gt;{{cite web|url=http://newspapers.bc.edu/cgi-bin/bostonsh?a=d&amp;d=bcheights19680112.2.55 |title=The Heights 12 January 1968 – Boston College |publisher=Newspapers.bc.edu |date=1968-01-12 |accessdate=2016-03-19}}&lt;/ref&gt; Yukica's Eagles compiled a 68–37 record, which included eight winning seasons.&lt;ref&gt;{{cite web|url=http://www.sports-reference.com/cfb/coaches/joseph-yukica-1.html |title=Joseph Yukica Coaching Record &amp;#124; College Football at |publisher=Sports-reference.com |date= |accessdate=2016-03-19}}&lt;/ref&gt; Yukica left BC after the 1977 season to accept the head football coach position at [[Dartmouth Big Green football|Dartmouth]].&lt;ref&gt;{{cite web|author= D. Keith Mano |url=http://www.people.com/people/archive/article/0,,20092780,00.html |title=Hell No, He Won't Go! Dartmouth's Joe Yukica Fights for His Right to Coach Football |publisher=People.com |date= |accessdate=2016-03-19}}&lt;/ref&gt;
+
+===Ed Chlebek era (1978–1980)===
+The Eagles hired [[Ed Chlebek]] away from [[Eastern Michigan Eagles football|Eastern Michigan]] to lead its football program in January 1978.&lt;ref&gt;{{cite web|url=http://newspapers.bc.edu/cgi-bin/bostonsh?a=d&amp;d=bcheights19780123.2.20 |title=The Heights 23 January 1978 – Boston College |publisher=Newspapers.bc.edu |date=1978-01-23 |accessdate=2016-03-19}}&lt;/ref&gt; Despite a dismal 0–11 record in Chlebek's first season, BC rebounded to compile a 5–6 record in 1979 and a 7–4 record in 1980,&lt;ref name=&quot;sports-reference.com&quot;&gt;{{cite web|url=http://www.sports-reference.com/cfb/coaches/ed-chlebek-1.html |title=Ed Chlebek Coaching Record &amp;#124; College Football at |publisher=Sports-reference.com |date= |accessdate=2016-03-19}}&lt;/ref&gt; leading to a job offer from [[Kent State Golden Flashes football|Kent State]] to Chlebek, which he accepted.&lt;ref&gt;https://news.google.com/newspapers?nid=1928&amp;dat=19801220&amp;id=BgYgAAAAIBAJ&amp;sjid=oWQFAAAAIBAJ&amp;pg=2919,4672842&lt;/ref&gt; Chlebek's final record at BC is 12–21.&lt;ref name=&quot;sports-reference.com&quot;/&gt;
+
+===Jack Bicknell era (1981–1990)===
+[[Jack Bicknell]] was hired as BC's head coach after previously serving as head coach at [[Maine Black Bears football|Maine]].&lt;ref&gt;http://grfx.cstv.com/photos/schools/bc/sports/m-footbl/auto_pdf/bc-fb-mg-09-7.pdf&lt;/ref&gt; The best player for the Eagles during this time period was quarterback [[Doug Flutie]], who played for Boston College from 1981 to 1984. Flutie won the [[Heisman Trophy]] in his senior year. He gained national attention on November 23, 1984, when he led the Eagles to victory in a high-scoring, back-and-forth game against incumbent national champion [[University of Miami|Miami Hurricanes]] (led by star QB [[Bernie Kosar]]). The game was nationally televised on [[CBS]] the day after [[Thanksgiving (United States)|Thanksgiving]], and had a huge audience. Miami staged a dramatic drive to take the lead, 45–41, in the closing minute of the game. Boston College then took possession at their own 22-yard line with 28 seconds to go. After two passes moved the ball another 30 yards, only six seconds remained on the clock. On the last play of the game, Flutie rolled out right away from the defense and threw a [[Hail Mary pass]] that was caught in the end zone by senior wideout [[Gerard Phelan]], giving BC an insanely miraculous 47–45 win.&lt;ref&gt;{{cite web|url=http://www.yankeemagazine.com/article/not-categorized/doug-flutie |title=Doug Flutie Hail Mary Pass &amp;#124; The Miracle in Miami |publisher=Yankeemagazine.com |date=2015-11-18 |accessdate=2016-03-19}}&lt;/ref&gt; A persistent [[urban legend]] holds that this play essentially clinched the Heisman Trophy, the award given to the best player in college football that year, for Flutie; in fact, the Heisman voting was already complete by the day of the game. It has been called &quot;the greatest moment in college football.&quot;&lt;ref name=&quot;greatest&quot;&gt;[http://www.usatoday.com/sports/college/football/2002-11-19-memorable-moments_x.htm &quot;College football's best of the last 20 years.&quot;] ''[[USA Today]]''. November 19, 2002.&lt;/ref&gt; In November 2008, Doug Flutie was honored by Boston College with a statue of his famous &quot;[[Hail Mary pass|Hail Mary]]&quot; pass to [[Gerard Phelan]] to beat [[Miami Hurricanes football|Miami]].&lt;ref&gt;[http://www.ncaa.org/wps/ncaa?ContentID=40940  BC unveils life-sized tribute to Flutie] {{webarchive |url=https://web.archive.org/web/20081208201757/http://www.ncaa.org/wps/ncaa?ContentID=40940 |date=December 8, 2008 }}, November 13, 2008.&lt;/ref&gt;
+
+Bicknell's final record at BC is 59–55–1.&lt;ref&gt;{{cite web|url=http://www.sports-reference.com/cfb/coaches/jack-bicknell-1.html |title=Jack Bicknell Coaching Record &amp;#124; College Football at |publisher=Sports-reference.com |date= |accessdate=2016-03-19}}&lt;/ref&gt; He was fired after the 1990 season.
+
+===Tom Coughlin era (1991–1993)===
+[[File:Tom Coughlin.jpg|thumb|125 px|Coach Coughlin]]
+[[Tom Coughlin]], wide receivers coach for the [[National Football League|NFL]]'s [[New York Giants]], was hired as BC's head coach after Bicknell was fired.&lt;ref&gt;{{cite web|url=http://newspapers.bc.edu/cgi-bin/bostonsh?a=d&amp;d=bcheights19910219.2.44 |title=The Heights 19 February 1991 – Boston College |publisher=Newspapers.bc.edu |date=1991-02-19 |accessdate=2016-03-19}}&lt;/ref&gt; Coughlin's Eagles compiled a record of 21–13–1.&lt;ref&gt;{{cite web|url=http://www.sports-reference.com/cfb/coaches/tom-coughlin-1.html |title=Tom Coughlin Coaching Record &amp;#124; College Football at |publisher=Sports-reference.com |date= |accessdate=2016-03-19}}&lt;/ref&gt; The highlight of Coughlin's tenure was a 41-39 Eagles victory over top-ranked [[Notre Dame Fighting Irish football|Notre Dame]] in 1993,&lt;ref&gt;{{cite web|author=Associated Press |url=http://articles.latimes.com/1993-11-21/sports/sp-59268_1_notre-dame |title=Boston College Kicks Notre Dame Off Top : College football: Gordon, who had failed on two game-winning chances earlier in his career, beats No. 1 Irish, 41-39, on game's last play. - latimes |publisher=Articles.latimes.com |date=1993-11-21 |accessdate=2016-03-19}}&lt;/ref&gt; the first time the Eagles had ever defeated the powerhouse Irish and the first and only time in program history that&lt;ref&gt;https://081f1d29e26926d6f8a1-0c54b4af7b377989c9561792d719c8a2.ssl.cf2.rackcdn.com/2014FBMediaGuide/index.html#?page=174&lt;/ref&gt; the Eagles had defeated a #1 team. Coughlin, who left BC for the [[National Football League|NFL]]'s [[Jacksonville Jaguars]],&lt;ref&gt;https://news.google.com/newspapers?nid=1696&amp;dat=19940222&amp;id=uAobAAAAIBAJ&amp;sjid=LEgEAAAAIBAJ&amp;pg=4335,2784111&lt;/ref&gt; would go on to become head coach of the New York Giants, winning two Super Bowls.
+
+===Dan Henning era (1994–1996)===
+BC hired [[Dan Henning]], formerly offensive coordinator for the [[National Football League|NFL]]'s [[Detroit Lions]], as its head coach in March 1994.&lt;ref&gt;http://articles.chicagotribune.com/1994-03-03/sports/9403030287_1_dan-henning-receivers-virginia-tech&lt;/ref&gt; Henning's tenure is remembered for a scandal that occurred during the 1996 season. On October 26, 1996, the Eagles were routed 45-17 by [[Syracuse Orange football|Syracuse]].  Following the game, head coach [[Dan Henning]] got word that several players may have bet against their own team in that game.  No one came forward.  After the Eagles lost a close game to [[Pittsburgh Panthers football|Pittsburgh]] a week later, an irate Henning demanded that anyone involved in gambling come forward.  He also notified school officials of his suspicions.  The resulting inquiry resulted in the suspension of 13 players for the final three games of the season, and eight of them never played another down for the Eagles again.&lt;ref name=ESPNgambling&gt;{{cite web|author=Jeff Merron|url=http://sports.espn.go.com/espn/page2/story?page=merron/060207|title=Biggest Sports Gambling Scandals|publisher=ESPN.com|date=June 2, 2007|accessdate=January 14, 2009|archiveurl=https://web.archive.org/web/20090330035814/http://sports.espn.go.com/espn/page2/story?page=merron/060207|archivedate=March 30, 2009}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |url=http://www.reviewjournal.com/lvrj_home/1997/Jul-25-Fri-1997/sports/5778474.html |title=Boston College continues to sort out mess from gambling scandal |date=July 25, 1997}}&lt;/ref&gt; As a result of the scandal and a mediocre 16–19–1 record as coach, Henning resigned at the end of the 1996 season.&lt;ref&gt;{{Cite news |url=http://articles.nydailynews.com/1996-11-26/sports/18021741_1_boston-college-bc-athletic-director-gambling-scandal |title=BC's Henning Resigns |date=November 26, 1996 |first=Dick |last=Weiss |location=New York |work=Daily News}}&lt;/ref&gt;
+
+===Tom O'Brien era (1997–2006)===
+In December 1996, BC hired a 1971 [[United States Naval Academy|Navy]] graduate and the former [[University of Virginia|Virginia]] offensive coordinator [[Tom O'Brien (football coach)|Tom O'Brien]].&lt;ref&gt;http://www.nytimes.com/1996/12/14/sports/bc-hires-coach.html&lt;/ref&gt; O'Brien arrived at [[Boston College|The Heights]] with plans to revive the program after the team had been tarnished in the wake of the scandal. With good recruiting skills and a strong coaching staff around him, notably offensive coordinator Dana Bible and defensive coordinator [[Frank Spaziani]], O'Brien turned the program into a consistent top-25 team. The team was also helped by increased exposure on the national stage due to the move to the ACC and, later, improved facilities in the form of the [[Yawkey Center]].&lt;ref&gt;http://www.boston.com/sports/colleges/football/articles/2003/10/13/bc_accepts_an_invitation_to_join_the_acc/&lt;/ref&gt;
+
+Following two mediocre seasons in 1997 (4-7) and 1998 (4-7),&lt;ref name=&quot;ReferenceA&quot;&gt;http://www.sports-reference.com/cfb/coaches/tom-obrien-1.html&lt;/ref&gt; O'Brien's vision of a re-built football program began to take shape. In 1999, the Eagles finished the regular season 8–3 including a 31–29 win at [[Notre Dame Stadium]] on November 20. BC had earned itself its first bowl berth since being ensnarled in the 1996 gambling scandal. Despite the excitement of its first postseason game in five years, Boston College laid an egg at the [[Insight.com Bowl]] in [[Tucson, Arizona]], getting squashed by the [[University of Colorado at Boulder|University of Colorado]], 62–28. In 2000 BC finished the regular season at 6–5 with just enough wins to be bowl-eligible and found themselves in [[Honolulu]] for the [[Aloha Bowl]] where they downed [[Arizona State]] 31–17, giving O'Brien his first bowl victory as head coach.&lt;ref name=&quot;ReferenceA&quot;/&gt;
+
+The year 2001 saw Boston College end a 21-game losing streak to ranked opponents when, in the [[Music City Bowl]], the Eagles beat No. 16 [[University of Georgia|Georgia]] 20–16 to finish at 8–5.&lt;ref&gt;http://www.musiccitybowl.com/content/boston-college-20-georgia-16-stats&lt;/ref&gt; But the most memorable moment of the year came in another thrilling game against then-No. 1 Miami at Alumni Stadium. Trailing 12–7 BC stood at the Hurricanes 9-yard-line, poised to win with just over 20 seconds left in the contest, but an interception thrown by Eagles [[quarterback]] [[Brian St. Pierre]] cost the game. St. Pierre threw too low for receiver Ryan Read, and the pass ricocheted off a Miami defender's leg and fell into the hands of [[defensive back]] [[Ed Reed]], who returned it 80 yards for a touchdown—preserving a win for the Hurricanes and keeping its hopes alive for a national championship, which they would eventually win. Despite the heartbreaking loss, the season had several highs including [[running back]] [[William Green (football player)|William Green]] rushing for 1,559 yards and being the top RB taken in the 2002 [[NFL Draft]]; eight wins for the first time since 1993; and finishing the season ranked (No. 21) for the first time since 1994.
+
+Over the next few years the team posted respectable win-loss records and continued to win bowl games. In 2002, BC went 9–4 and won the [[Motor City Bowl]], in 2003 they were 8–5 with a victory in the [[Fight Hunger Bowl|San Francisco Bowl]] and finished 9–3 in 2004 with a win in the [[Continental Tire Bowl]].&lt;ref name=&quot;ReferenceA&quot;/&gt; The year 2004 would be the Eagles final campaign in the Big East, and it finished the season in a four-way tie atop the league after losing the home finale to Syracuse (thus costing the Eagles a coveted berth in a [[Bowl Championship Series|BCS]] bowl) — a year in which they closed the season ranked No. 21 in both major polls.
+
+On December 6, 2006, O'Brien decided to leave the Eagles and replace [[Chuck Amato]] as head coach at [[NC State Wolfpack football|NC State]].&lt;ref&gt;{{cite web|url=http://www.accessnorthga.com/detail-pf.php?n%3D99205 |title=Archived copy |accessdate=2014-08-26 |deadurl=yes |archiveurl=https://web.archive.org/web/20140827100250/http://www.accessnorthga.com/detail-pf.php?n=99205 |archivedate=2014-08-27 |df= }}&lt;/ref&gt;
+
+===Jeff Jagodzinski era (2007–2008)===
+O'Brien was replaced by then [[Green Bay Packers]] offensive coordinator [[Jeff Jagodzinski]].&lt;ref&gt;http://usatoday30.usatoday.com/sports/college/football/acc/2006-12-19-bc-jagodzinski_x.htm&lt;/ref&gt;
+
+In Jagodzinski's first year, the Eagles were picked to finish 2nd in the Atlantic in the ACC Preseason Poll. The Eagles raced out to a 7–0 start behind the arm of [[Matt Ryan (American football)|Matt Ryan]] and a stout, senior-laden defense. The Eagles climbed to #2 in the [[BCS rankings|BCS Standings]] before squaring off against #8 [[Virginia Tech Hokies football|Virginia Tech]] on a rainy night at [[Lane Stadium]]. The Eagles struggled on offense all night and trailed the [[Virginia Tech Hokies football|Hokies]] 10–0 late in the 4th quarter. In a miraculous comeback, [[Matt Ryan (American football)|Ryan]] threw two touchdown passes in the final 2:11 of game to give BC the victory. Ryan's second touchdown pass, a 24-yard tear-drop pass to a wide open [[Andre Callender]] in the back of the end-zone, caused [[ESPN]]'s [[Chris Fowler]] to exclaim &quot;[[Lane Stadium]] goes silent!&quot; The come-back win vaulted Ryan into the [[Heisman Trophy|Heisman]] discussion. BC clinched the ACC Atlantic Division with yet another dramatic win, this time over rival [[Clemson Tigers football|Clemson]]. [[Matt Ryan (American football)|Matt Ryan]] was once again the hero, finding a wide-open [[Rich Gunnell]] for a 43-yard TD pass with 1:46 to go to give the Eagles the 20–17 lead. [[Clemson Tigers football|Clemson]]'s 54-yard FG attempt to tie the game fell short, clinching the victory for [[Boston College Eagles|Boston College]]. The Eagles eventually lost the [[ACC Championship Game]] to the [[Virginia Tech Hokies football|Hokies]]. BC played in the [[Champs Sports Bowl]] against the [[Michigan State Spartans football|Michigan State Spartans]], winning 24–21. 2007 marked the second time in Eagle history that the team won 11 games, the other being the undefeated 1940 season. [[Matt Ryan (American football)|Matt Ryan]] won the [[Manning Award]] and the [[Johnny Unitas Golden Arm Award]], becoming BC's first major award recipient since [[Mike Ruth]] won the [[Outland Trophy]] in 1985. [[Matt Ryan (American football)|Ryan]] finished 7th in the Heisman race, garnering 9 first place votes. [[Jamie Silva]] was a Consensus All-American, BC's first since [[William Green (American football)|William Green]] in 2001.
+
+The 2008 season saw the Eagles return to the [[ACC Championship Game]], this time behind a defense that ranked 5th in Total Defense. The Eagles fell once again to the [[Virginia Tech Hokies football|Hokies]]. In both 2007 and 2008, the Eagles had defeated the [[Virginia Tech Hokies football|Hokies]] in the regular season meeting only to lose in the [[ACC Championship Game]].
+
+Following the 2008 season, Jagodzinski was fired for interviewing with the [[New York Jets]].&lt;ref&gt;http://sports.espn.go.com/ncf/news/story?id=3816644&lt;/ref&gt;
+
+===Frank Spaziani era (2009–2012)===
+[[File:Frank Spaziani 2012 02.jpg|thumb|150 px|Coach Spaziani]]
+[[Frank Spaziani]], promoted from defensive coordinator of the Eagles, was hired as BC's head coach in January 2009.&lt;ref&gt;http://sports.espn.go.com/ncf/news/story?id=3829897&lt;/ref&gt; Prior to the 2009 season, star LB and reigning ACC Defensive Player of the Year [[Mark Herzlich]] was diagnosed with [[Ewing sarcoma|Ewing's Sarcoma]], a rare form of bone cancer.&lt;ref name=&quot;nydailynews.com&quot;&gt;http://www.nydailynews.com/sports/football/giants/giants-re-sign-lb-herzlich-article-1.1714614&lt;/ref&gt; Herzlich was forced to miss the entirety of the 2009 season.&lt;ref name=&quot;nydailynews.com&quot;/&gt; Herzlich became an inspirational figure as he battled his way back, earning the [[Disney's Wide World of Sports Spirit Award]], an award presented annually to college football's most inspirational player or team.&lt;ref name=&quot;nydailynews.com&quot;/&gt; Boston College created a chapter of [[Uplifting Athletes]] to benefit [[Ewing sarcoma|Ewing's Sarcoma]] research. The chapter participates in an annual &quot;Lift for Life&quot; (where players compete in various physical challenges) to raise money. On October 3, 2009, Herzlich publicly announced on [[College Gameday (football)|College Gameday]] that he was cancer-free. Herzlich completed the comeback when he took the field once again on September 4, 2010, against [[Weber State University|Weber State]].&lt;ref name=&quot;nydailynews.com&quot;/&gt;
+
+It was announced on December 1, 2009, that the Boston College football team, along with 29 other athletic programs on campus, would officially switch its athletic outfitter from [[Reebok]] to [[Under Armour]].&lt;ref&gt;http://www.bceagles.com/genrel/120109aaa.html&lt;/ref&gt; On July 1, 2010, BC became the tenth [[Football Bowl Subdivision]] team to wear uniforms from the Baltimore-based outfitter, joining [[Auburn Tigers football|Auburn]], [[Hawaii Warriors football|Hawaii]], [[Maryland Terrapins football|Maryland]], [[North Texas Mean Green football|North Texas]], [[South Carolina Gamecocks football|South Carolina]], [[South Florida Bulls football|South Florida]], [[Texas Tech Red Raiders football|Texas Tech]] and [[Utah Utes football|Utah]].&lt;ref&gt;Favat, Brian (December 1, 2009). [http://www.bcinterruption.com/2009/12/1/1180865/bc-announces-deal-with-under &quot;BC Announces Deal With Under Armour&quot;]. BC Interruption&lt;/ref&gt;
+
+In 2011, the Eagles finished 4–8 and failed to qualify for a bowl for the first time in 12 years. Following the 2011 season, junior LB [[Luke Kuechly]] won the [[Butkus Award]],&lt;ref&gt;A.J Black (December 4, 2011) [http://www.bcinterruption.com/2011/12/4/2610659/boston-college-linebacker-luke-kuechly-wins-butkus-award &quot;Boston College Linebacker Luke Kuechly Wins Butkus Award&quot;] BC Interruption.&lt;/ref&gt; the [[Lombardi Award]], the [[Lott Trophy]], and the [[Bronko Nagurski Trophy]]. Kuechly is the first Eagle to win these awards. Offensive Coordinator [[Doug Martin (American football coach)|Doug Martin]] was brought in by head coach Frank Spaziani prior to the beginning of the 2012 season, but upon finishing 2-10 Spaziani was fired.&lt;ref&gt;http://espn.go.com/boston/ncf/story/_/id/8675043/frank-spaziani-boston-college-eagles-coach-4-seasons&lt;/ref&gt;
+
+===Steve Addazio era (2013–present)===
+Spaziani was replaced by [[Steve Addazio]], formerly head coach at [[Temple Owls football|Temple]].&lt;ref&gt;http://espn.go.com/boston/college-football/story/_/id/8710282/boston-college-hires-temple-steve-addazio-next-coach&lt;/ref&gt;
+In 2013, Coach Addazio led the Eagles to an impressive turnaround season, finishing the regular season bowl-eligible with a 7–5 record.&lt;ref&gt;http://www.sports-reference.com/cfb/coaches/steve-addazio-1.html&lt;/ref&gt; Senior running-back Andre Williams became only the 16th player in NCAA history to run for over 2,000 yards, winning the [[Doak Walker Award]] and finishing 4th in the [[Heisman Trophy]] voting.&lt;ref name=&quot;soaringtoglory.com&quot;&gt;http://soaringtoglory.com/2013/12/14/2013-heisman-trophy-voting-andre-williams-finishes-fourth/&lt;/ref&gt; He was named a unanimous [[2013 College Football All-America Team|All-American]]. In addition, he was a unanimous first team All-ACC selection and a finalist for the [[Walter Camp Award]]. Williams set multiple school records, breaking nearly every single-season rushing record and many career-rushing records but also included the single-game rushing record at 339 yards against [[NC State Wolfpack football|NC State]] as well as tying the single-game scoring record at 5 rushing TD's in a game against [[Army Black Knights football|Army]].&lt;ref name=&quot;soaringtoglory.com&quot;/&gt; The Eagles played the [[Arizona Wildcats football|Arizona Wildcats]] in the [[2013 Independence Bowl]], losing by a score of 42–19 to finish the season at 7–6 (4–4 ACC).&lt;ref name=&quot;scores.espn.go.com&quot;&gt;http://scores.espn.go.com/ncf/recap?gameId=333650103&lt;/ref&gt; Andre Williams finished with 2,177 yards rushed on the season, good for 5th most all-time in the NCAA.&lt;ref name=&quot;scores.espn.go.com&quot;/&gt;
+
+In his second year, Addazio led the Eagles to a consecutive 7–5 regular season, their second bowl-eligible season in as many years. With many key players having graduated, including Heisman finalist Andre Williams, quarterback [[Chase Rettig]], wide receiver Alex Amidon, and linebacker [[Kevin Pierre-Louis]], Addazio helped replace some lost production with graduate transfer quarterback [[Tyler Murphy]], who was recruited by Addazio at [[Florida Gators football|Florida]], as well as converting backup quarterback Josh Bordner to the wide receiver position. The running back core went from a single back (Williams) to a group of five threats: sophomores Myles Willis and Tyler Rouse, true freshman Jonathan Hilliman and Sherm Allston, as well as Tyler Murphy himself, who was more dangerous with his legs than his arm during the season. Murphy finished the season leading all quarterbacks in the league with 1,184 yards rushing, breaking the school record for most rushing yards by a quarterback, previously held by Doug Flutie. The season was highlighted by a historic upset victory over 9th ranked [[USC Trojans football|USC]], in which Murphy rushed for 191 yards in the 37–31 victory. The Eagles nearly managed another two upsets against [[Clemson Tigers football|Clemson]] and [[Florida State Seminoles|Florida State]], but came up just short in both games. Boston College played [[Penn State Nittany Lions|Penn State]] in the [[2014 Pinstripe Bowl]], losing in overtime 31–30 to finish the season 7–6 (4–4 ACC).
+
+==Conference affiliations==
+*1892–1972: [[NCAA Division I-A independent schools|Independent]]
+*1973–1977: [[NCAA Division I-A independent schools|Division I Independent]]
+*1978–1990: [[NCAA Division I-A independent schools|Division I-A Independent]]
+*1991–2004: [[Big East Conference (1979–2013)|Big East Conference]]
+*2005–present: [[Atlantic Coast Conference]]
+
+==Alumni Stadium==
+{{main article|Alumni Stadium}}
+Since 1957, [[Alumni Stadium]] has been the home of the Eagles. Located on [[Boston College|BC]]'s Lower Campus, the stadium has a capacity of 44,500.
+
+In 2005, the Yawkey Athletics Center was constructed at the north end-zone side of the stadium. The Yawkey Center houses the football offices and weight room. A replica of [[Doug Flutie]]'s 1984 [[Heisman Trophy]] is on display in the BC football museum on the first floor of the Center.
+
+==Rivalries==
+
+===Holy Cross===
+[[File:BCalumnifield.jpg|right|thumb|300px|Alumni Field, precursor to Alumni Stadium, ca. 1920]]
+In 1896, Boston College and Holy Cross began what was to become one of the most storied rivalries in college football. For much of the early to mid 20th century, BC and The Cross drew some of [[New England]]'s largest sports crowds. In 1913, BC began playing home games at [[Alumni Stadium|Alumni Field]].
+
+To accommodate larger crowds, the Holy Cross game was routinely held at larger venues off campus, with the 1916 matchup taking place at the newly constructed [[Fenway Park]]. A record 54,000 attended the 1922 game at [[Braves Field]], home of the [[Boston Braves (baseball)|Boston Braves]] baseball team. On November 28, 1942, BC lost in a huge upset to the [[Holy Cross Crusaders]] by a score of 55–12. This led to the BC players not attending their scheduled victory celebration at the [[Cocoanut Grove fire|Cocoanut Grove]] nightclub, which burned down that night and killed 492 people. By the late 1970s the Holy Cross game had become more of a tradition than a rivalry, as Holy Cross football had long since ceased being a major power. By 1980, the game was no longer part of the student ticket package, and was mostly attended by alumni. In 1986 Holy Cross changed the direction of its football program, joining the Division 1-AA [[Patriot League]], and terminated the series. BC had won 17 of the last 20 games.  With Holy Cross' reinstitution of full athletic scholarships, the series will be resurrected in 2018 after an over three-decade hiatus.
+
+===Syracuse===
+{{main article|Boston College–Syracuse football rivalry}}
+With the exception of [[Holy Cross Crusaders football|Holy Cross]], no team has played Boston College more than the [[Syracuse Orange football|Syracuse Orange]]. The teams first played in 1924 and started playing an annual game in 1961. In 2004, the Eagles last year in the [[Big East Conference (1979–2013)|Big East]], the Orange pulled off a surprising upset that kept the Eagles from going to their first [[Bowl Championship Series|BCS]] game. BC's departure from the [[Big East Conference (1979–2013)|Big East]] put the future of the rivalry in doubt. However, the Eagles and the [[Syracuse Orange football|Orange]] agreed to play an annual out-of-conference game through 2021. In 2010, the Eagles won the first meeting between the schools since 2004 by a score of 16–7. In September 2011, the [[Atlantic Coast Conference|ACC]] announced that they had accepted bids by [[Syracuse Orange football|Syracuse]] and [[Pittsburgh Panthers football|Pitt]] to become the 13th and 14th members of the [[Atlantic Coast Conference|ACC]].&lt;ref&gt;{{cite web |url=http://espn.go.com/college-sports/story/_/id/6988468/acc-accepts-pittsburgh-panthers-syracuse-orange-14-team-league |title=ACC Adding Big East's Syracuse, Pitt |date=September 19, 2011 |first=Heather |last=Dinich |publisher=ESPN.com}}&lt;/ref&gt; [[Syracuse Orange football|Syracuse]]'s admission into the ACC in 2013 reignited this storied rivalry. In both school's final regular season game, Boston College had a chance to return the favor from 2004, and prevent the 5-6 Orange from becoming bowl-eligible. Despite the Eagles taking a 31-27 lead with nearly 2 minutes and no time-outs remaining, Syracuse managed to score a touchdown with 6 seconds left, sealing the win and their 6th of the season, becoming the 11th ACC bowl-eligible team of the year. The Eagles returned the favor the following year, winning a 28–7 contest in Chestnut Hill on senior day.
+
+[[Syracuse Orange football|Syracuse]] currently leads the all-time series 29–19.
+
+===Notre Dame===
+
+====The Holy War====
+{{main article|Holy War (Boston College vs. Notre Dame)}}
+{{see also|Frank Leahy Memorial Bowl|Ireland Trophy|Notre Dame Fighting Irish football rivalries#Boston College}}
+In recent years, [[Notre Dame Fighting Irish football|Notre Dame]] has become one of BC's football rivals. Today, ND is the only other [[Catholic Church in the United States|Catholic]] [[university]] playing [[National Collegiate Athletic Association|NCAA]] [[Division I FBS]] football. The match up was dubbed the &quot;[[Holy War (Boston College vs. Notre Dame)|Holy War]]&quot; in 1975, and has acquired a number of other nicknames over the years. The two teams battle for the [[Frank Leahy Memorial Bowl]] and the [[Ireland Trophy]]. [[Notre Dame Fighting Irish football|Notre Dame]] currently leads the all-time series 13–9.
+
+The Eagles and the [[Notre Dame Fighting Irish football|Fighting Irish]] have met once in the postseason; [[Notre Dame Fighting Irish football|Notre Dame]] defeated [[Boston College]] in the 1983 [[Liberty Bowl]] by a score of 19–18.
+
+The schools are scheduled to meet in 2015, playing a neutral site game at [[Fenway Park]], part of Notre Dame's ongoing Shamrock Series.&lt;ref&gt;{{cite web|url=http://www.csnchicago.com/notre-dame/brian-kelly-sees-payoff-notre-dames-shamrock-series |title=Archived copy |accessdate=2014-10-04 |deadurl=yes |archiveurl=https://web.archive.org/web/20141025180522/http://www.csnchicago.com/notre-dame/brian-kelly-sees-payoff-notre-dames-shamrock-series |archivedate=2014-10-25 |df= }}&lt;/ref&gt; The teams are scheduled to meet five times over the next ten years; every other year from 2015–2019, and every third year from 2019–2025. Boston College will host in 2017 and 2025, and Notre Dame will host in 2019 and 2022, as well as hosting the neutral site game at Fenway Park in 2015.&lt;ref&gt;http://www.bceagles.com/sports/m-footbl/spec-rel/102114aac.html&lt;/ref&gt;
+
+====Memorable moments in the BC-ND rivalry====
+{{see also|Holy War (Boston College vs. Notre Dame)#Notable moments}}
+The series produced one of the top moments in college football history&lt;ref name=&quot;greatest&quot; /&gt; when in 1993, David Gordon kicked a wobbly 41-yard field goal as time expired to beat top-ranked and undefeated Notre Dame 41–39, ending Irish hopes for a national championship. [[Notre Dame Fighting Irish football|Notre Dame]] would not be ranked #1 again until late in the 2012 season. During the 2002 matchup in [[Notre Dame, Indiana]], Notre Dame came into the game undefeated at 8–0, wearing their celebrated green jerseys (which since 1981 had only been worn against archrival USC or in bowl games). BC won 14–7, putting an end – again – to Notre Dame's dreams of an undefeated season. The series was played annually from 1992 to 2004 and from 2007 to present.
+
+*'''1992''' – The beginning of the current &quot;Holy War&quot;. In a move he would later regret, ND coach [[Lou Holtz]] called a successful fake punt with a 37–0 lead on the first series of the third quarter on the way to a 54–7 Irish blowout of the 9th-ranked Eagles. While the game was a blowout in Notre Dame's favor, [[halftime]] brought the filming of the game scenes used in the film ''[[Rudy (film)|Rudy]]''. Watch closely on the sideline and you can see Boston College paraphernalia.
+*'''1993''' – A week after Notre Dame's &quot;[[1993 Florida State vs. Notre Dame football game|Game of the Century]]&quot; win over then #1-ranked [[1993 Florida State Seminoles football team|Florida State]], BC dominated for three quarters then fell behind after ND scored three touchdowns in 11 minutes. In the end, BC won on a last second field goal to knock the Irish out of the #1 ranking, a 41–39 loss that would keep ND from winning the national championship.
+*'''1998''' – Deke Cooper's tackle on Mike Cloud at the one-yard line completed a dramatic goal line stand in the game's closing moments and preserved a 31–26 victory for Notre Dame in Chestnut Hill. Despite a first and goal from the four-yard line, Boston College was unable to score in four plays.
+*'''2002''' – BC's 14–7 win in Notre Dame, Indiana over the green-jerseyed and previously 8–0 Irish is the first loss for then head coach [[Tyrone Willingham]].
+*'''2007''' – BC's 27–14 win not only marked the first 7–0 record for the Eagles since 1942, but also marked the first time either team won five consecutive games in the match up between these teams.
+*'''2008''' – BC's 17–0 win was the first time that either team was able to shut out its opponent. BC joins [[Michigan Wolverines football|Michigan]] and [[USC Trojans football|USC]] in the ranks of teams that have shut out the Irish under coach [[Charlie Weis]].
+*'''2012''' – ND's 21-6 win was the first time the Eagles failed to beat a Notre Dame team ranked in the top 5 of the BCS rankings. Notre Dame was ranked 4th in the nation that week and finished the season ranked #1 and unbeaten at 12-0. (They lost to #2 Alabama in the BCS National Championship)
+*'''2015''' – ND's 19-16 win occurred at [[Fenway Park]], where the Fighting Irish (No. 4 CFP, No. 5 AP) spent most of its time on the BC side of the field, overcoming five turnovers (three of the turnovers were inside the BC 5) to beat the Eagles.
+
+===Virginia Tech===
+{{main article|Boston College–Virginia Tech football rivalry}}
+BC and [[Virginia Tech Hokies football|Virginia Tech]] first played in 1993 and have played every year since, except for 2004. Now both in the ACC, two schools are cross-division rivals, meaning they play each other every year despite not being in the same division.
+
+The schools played each other twice in one season in both 2007 and 2008; in both years, the Eagles won the regular season meeting while [[Virginia Tech Hokies football|Hokies]] won the rematch in the [[ACC Championship Game]].
+
+[[Virginia Tech Hokies football|Virginia Tech]] is famed for its seeming invincibility in Thursday night games at [[Lane Stadium]]. Since 1994, the [[Virginia Tech Hokies football|Hokies]] are 11–3 at home on Thursday nights. The Eagles delivered 2 of those 3 losses and until 2009 were the only team to beat [[Virginia Tech Hokies football|Virginia Tech]] at [[Lane Stadium]] on a Thursday night.&lt;ref&gt;{{ Cite news|url=http://www.washingtontimes.com/weblogs/d1scourse/2008/Oct/29/virginia-techs-thursday-night-magic |title=Virginia Tech's Thursday Night Magic |date=October 29, 2008 |first=Patrick |last=Stevens |newspaper=The Washington Times |deadurl=yes |archiveurl=https://web.archive.org/web/20081202114721/http://washingtontimes.com:80/weblogs/d1scourse/2008/Oct/29/virginia-techs-thursday-night-magic/ |archivedate=2008-12-02 |df= }}&lt;/ref&gt;
+
+The 2007 Thursday night meeting between the Eagles and Hokies was undoubtedly the most exciting game of the rivalry. [[Matt Ryan (American football)|Matt Ryan]] led the #2 Eagles to an improbable comeback, scoring 2 TDs in the final 2:11 of the game to give BC a 14–10 victory over the #8 [[Virginia Tech Hokies football|Virginia Tech]].
+
+In 2013, the Eagles ended a five-game losing streak to the Hokies, pulling off a 34-27 upset at Alumni Stadium on the heels of [[Andre Williams]].
+
+Most recently, the Eagles traveled to Blacksburg and gained their second victory over the Hokies in as many years in a 33–31 tight contest, thanks to the efforts of transfer-QB [[Tyler Murphy]].
+
+[[Virginia Tech Hokies football|Virginia Tech]] currently leads the all-time series 15–8.
+
+===Clemson===
+{{main article|O'Rourke–McFadden Trophy}}
+The Eagles and [[Clemson Tigers football|Clemson Tigers]] first played each other in the [[1940 Cotton Bowl Classic|Cotton Bowl]] at the end of the 1939 season, a game won by the [[Clemson Tigers football|Tigers]]. The schools played 11 more times until 1960. When BC joined the [[Atlantic Coast Conference|ACC]] in 2005, the games between the Eagles and the [[Clemson Tigers football|Tigers]] were especially memorable. Both the 2005 and 2006 games went to overtime and the 2007 game featured late-game heroics from [[Matt Ryan (American football)|Matt Ryan]] in a division-clinching victory.
+
+Starting in 2008, the Boston College Gridiron Club created the [[O'Rourke-McFadden Trophy]] to honor the friendly rivalry between the Eagles and the [[Clemson Tigers football|Tigers]].&lt;ref&gt;{{Cite news |url=http://www.bceagles.com/sports/m-footbl/spec-rel/102908aac.html |title=BC Football and Clemson Begin New Tradition |date=October 29, 2008 |publisher=BCEagles.com}}&lt;/ref&gt; The trophy is named after BC's [[Charlie O'Rourke]] and [[Clemson Tigers football|Clemson]]'s [[Banks McFadden]], star players of their respective teams when the Eagles and [[Clemson Tigers football|Tigers]] first played in the [[1940 Cotton Bowl Classic|1940 Cotton Bowl]]. The MVP of the game receives a replica leather helmet. [[Montel Harris]] was named the MVP of the 2010 meeting.
+
+Most recently in 2014, the #24 ranked Tigers staved off a BC upset bid in Chestnut Hill, winning a tight 17–13 contest. The Eagles had a chance to take the lead with four straight passes to the end zone, but failed on all attempts, two of which were dropped by wide open receivers. The win was the fourth in a row for Clemson.
+
+Clemson currently leads the all-time series 13–9–2.
+
+===UMass===
+BC and [[UMass Minutemen football|UMass]] are in-state rivals. The first game played between the two schools took place in 1899 and was played at a neutral location. Boston College won 18–0.&lt;ref name=&quot;mcubed.net&quot;&gt;http://www.mcubed.net/ncaaf/series/umass/bc.shtml&lt;/ref&gt; At the time, UMass was known as Massachusetts Agricultural College. The relative proximity between the schools encouraged them to schedule additional matches in the subsequent years.
+
+BC and UMass met again in [[Amherst, Massachusetts]] in 1901, 1902, and 1912, with UMass winning all three contests before the series was halted.&lt;ref name=&quot;mcubed.net&quot;/&gt; The two universities did not meet again on the football field until 1966, when they began a seventeen-year series in which the teams would play each other in the last week of UMass' football season. UMass was in a lower division than BC during the entirety of the rivalry. As such, Boston College dominated the stretch, winning fifteen of the seventeen games, routinely blowing out the overmatched Minutemen.
+
+After 22 years, the rivalry was renewed as UMass traveled to [[Chestnut Hill, Massachusetts]] to play Boston College once again. UMass was yet again outmatched, losing 29–7. The universities agreed to play two more times over the next seven years, and Boston College won both games easily.
+
+In April 2011, UMass announced plans to join the [[Mid-American Conference]] and move up to the [[NCAA]] [[NCAA Division 1-A#Football Bowl Subdivision|Football Bowl Subdivision]], the highest level of college football in the country. Boston College had been a member of this division for decades, and there was much speculation that the two schools may cultivate a renewal of the rivalry. This was confirmed when it was reported in September, 2011, that they had agreed to play a three-game biannual series beginning in 2014.&lt;ref&gt;http://www.gazettenet.com/2011/09/26/jesse-julmiste-sets-umass-record-for-kickoff-returns&lt;/ref&gt; Two of the games will be played at BC's [[Alumni Stadium]] and the other will be held at [[Gillette Stadium]].
+
+Most recently, the two teams met in September 2016, with BC winning 26-7.
+
+==Championships==
+
+===National championships===
+Boston College claims one national championship (1940) on the basis of selections by Cliff Morgan and Ray Byrne; the AP Poll voted BC No. 5 in 1940. (The Coaches Poll did not come into existence until 1950.)
+
+{| border=&quot;0&quot; style=&quot;width:80%;&quot;
+|-
+| valign=&quot;top&quot; |
+{| cellpadding=&quot;1&quot; style=&quot;width:80%;&quot; class=&quot;wikitable&quot;
+|-
+! style=&quot;background:#73000A; color:white&quot; | Year
+! style=&quot;background:#73000A; color:white&quot; | Coach
+! style=&quot;background:#73000A; color:white&quot; | Selector
+! style=&quot;background:#73000A; color:white&quot; | Overall Record
+! style=&quot;background:#73000A; color:white&quot; | Bowl
+|- style=&quot;text-align:center;&quot;
+| [[1940 Boston College Eagles football team|1940]] || [[Frank Leahy]] || Various Selectors || 11–0 || [[1941 Sugar Bowl|Won Sugar]]
+|- class=&quot;sortbottom&quot; style=&quot;background:#CBB677&quot;
+||
+||
+||
+||'''Total National Championships'''
+||'''1'''
+|}
+|}
+
+===Divisional championships===
+{{See also|Atlantic Coast Conference#Divisions}}
+
+Divisional play began in the Atlantic Coast Conference at the start of the 2005 football season following BC's inclusion in the conference. BC earned a share of the ACC Atlantic Division title in 2005 and in 2008. Florida State represented the division in the inaugural ACC Championship Game by virtue of the head-to-head tiebreaker in 2005, while BC represented the Atlantic in 2008.
+
+{| border=&quot;0&quot; style=&quot;width:80%;&quot;
+|-
+| valign=&quot;top&quot; |
+{| cellpadding=&quot;1&quot; style=&quot;width:80%;&quot; class=&quot;wikitable&quot;
+|-
+! style=&quot;background:#73000A; color:white&quot; | Year
+! style=&quot;background:#73000A; color:white&quot; | Division
+! style=&quot;background:#73000A; color:white&quot; | Overall Record
+! style=&quot;background:#73000A; color:white&quot; | Conference Record
+
+|- style=&quot;text-align:center;&quot;
+| 2005 † (shared with Florida State) || ACC Atlantic || 9–3 || 5–3
+|- style=&quot;text-align:center;&quot;
+| 2007 || ACC Atlantic || 11-3 || 6-2
+|- style=&quot;text-align:center;&quot;
+| 2008 † (shared with Florida State) || ACC Atlantic || 9–5 || 5–3
+|- style=&quot;text-align:center;&quot;
+| colspan=4; | &lt;small&gt;† Denotes co-champions&lt;/small&gt;
+|- style=&quot;text-align:center;&quot; class=&quot;sortbottom&quot;
+! colspan=&quot;2;&quot; style=&quot;background:#CBB677&quot;| Total Division titles
+! colspan=&quot;2;&quot; style=&quot;background:#CBB677&quot;| '''3'''
+|}
+|}
+
+===Conference championship games===
+{{See also|ACC Championship Game}}
+Boston College has appeared in the ACC Championship Game as the winner of the Atlantic Division twice. BC has come up short in both games at the hands of the Virginia Tech Hokies, 30-16 in 2007 and 30-12 the following season.
+
+{| border=&quot;0&quot; style=&quot;width:80%;&quot;
+|-
+| valign=&quot;top&quot; |
+{| cellpadding=&quot;1&quot; style=&quot;width:80%;&quot; class=&quot;wikitable&quot;
+|-
+! style=&quot;background:#73000A; color:white&quot; | Year
+! style=&quot;background:#73000A; color:white&quot; | Division Championship
+! style=&quot;background:#73000A; color:white&quot; | ACC CG Result
+! style=&quot;background:#73000A; color:white&quot; | Opponent
+! style=&quot;background:#73000A; color:white&quot; | PF
+! style=&quot;background:#73000A; color:white&quot; | PA
+|- style=&quot;text-align:center;&quot;
+| [[2007 ACC Championship Game|2007]] || ACC Atlantic || L || [[Virginia Tech Hokies football|Virginia Tech]] || 16 || 30
+|- style=&quot;text-align:center;&quot;
+| [[2008 ACC Championship Game|2008]]  || ACC Atlantic || L || [[Virginia Tech Hokies football|Virginia Tech]] || 12 || 30
+|- class=&quot;sortbottom&quot;  style=&quot;background:#CBB677&quot;
+|| Totals
+|| 2
+|| 0-2
+||
+|| 28
+|| 60
+|}
+|}
+
+==Bowl games==
+'''Boston College''' has been to 24 bowl games, currently holding a 13–11 record. The Eagles posted an 8-game bowl winning streak from 2000 to 2007 and went to 12 consecutive bowl games from 1999 to 2010. BC's 8-game bowl win streak was the nation's longest active streak before it was snapped in 2008.&lt;ref&gt;{{Cite news |url=http://espn.go.com/ncf/recap?gameId=283660238 |title=Hahnfeldt's late FG edges BC to deliver Vandy first bowl win in 53 years |date=December 31, 2008 |publisher=ESPN.com}}&lt;/ref&gt; The 12-year streak was tied with [[Oklahoma Sooners football|Oklahoma]] for the 6th longest active streak in country.&lt;ref&gt;{{Cite news |url=http://www.thebcobserver.com/2011/11/15/boston-college-footballs-bowl-streak-snapped/ |title=Boston College Football's Bowl Streak Snapped |date=November 15, 2011 |first=Steven |last=Cardiello |publisher= BC Observer}}&lt;/ref&gt;
+
+{| class=&quot;wikitable sortable&quot; style=&quot;text-align:center&quot;
+|-
+! style=&quot;background:#73000A; color:white;&quot; |  Season
+! style=&quot;background:#73000A; color:white;&quot; |  Coach
+! style=&quot;background:#73000A; color:white;&quot; |  Bowl
+! style=&quot;background:#73000A; color:white;&quot; |  Game Date
+! style=&quot;background:#73000A; color:white;&quot; |  Opponent
+! style=&quot;background:#73000A; color:white;&quot; |  Result
+|- 
+|1939|| [[Frank Leahy]] || [[1940 Cotton Bowl Classic]] || January 1, 1940 || [[Clemson Tigers football|Clemson Tigers]] || L 6–3
+|-
+|1940|| [[Frank Leahy]] || [[1941 Sugar Bowl]] || January 1, 1941 || [[Tennessee Volunteers football|Tennessee Volunteers]] || '''W''' 19–13
+|-
+|1942|| [[Denny Myers]] || [[1943 Orange Bowl]] || January 1, 1943 || [[Alabama Crimson Tide football|Alabama Crimson Tide]] || L 37–21
+|-
+|1982|| [[Jack Bicknell]] || [[1982 Tangerine Bowl]] || December 18, 1982 || [[Auburn Tigers football|Auburn Tigers]] || L 33–26
+|-
+|1983|| [[Jack Bicknell]] || [[1983 Liberty Bowl]] || December 29, 1983 || [[Notre Dame Fighting Irish football|Clemson Tigers]] || L 19–18
+|-
+|1984|| [[Jack Bicknell]] || [[1985 Cotton Bowl Classic]] || January 1, 1985 || [[Houston Cougars football|Houston Cougars]] || '''W''' 45–28
+|-
+|1986|| [[Jack Bicknell]] || [[1986 Hall of Fame Bowl]] || December 23, 1986 || [[Georgia Bulldogs football|Georgia Bulldogs]] || '''W''' 27–24
+|-
+|1992|| [[Tom Coughlin]] || [[1993 Hall of Fame Bowl]] || January 1, 1993 || [[Tennessee Volunteers football|Tennessee Volunteers]] || L 38–23
+|-
+|1993 || [[Tom Coughlin]] || [[1994 Carquest Bowl]] || January 1, 1994 || [[Virginia Cavaliers football|Virginia Cavaliers]] || '''W''' 31–13
+|-
+|1994|| [[Dan Henning]] || [[1994 Aloha Bowl]] || December 25, 1994|| [[Kansas State Wildcats football|Kansas State Wildcats]] || '''W''' 12–7
+|-
+|1999|| [[Tom O'Brien (American football)|Tom O'Brien]] || [[1999 Insight.com Bowl]] || December 31, 1999 || [[Colorado Buffaloes football|Colorado Buffaloes]] || L 62–28
+|-
+|2000|| [[Tom O'Brien (American football)|Tom O'Brien]] || [[2000 Aloha Bowl]] || December 25, 2000 || [[Arizona State Sun Devils football|Arizona State Sun Devils]] || '''W''' 31–17
+|-
+|2001|| [[Tom O'Brien (American football)|Tom O'Brien]] || [[2001 Music City Bowl]] || December 28, 2001 || [[Georgia Bulldogs football|Georgia Bulldogs]] || '''W''' 20–16
+|-
+|2002|| [[Tom O'Brien (American football)|Tom O'Brien]] || [[2002 Motor City Bowl]] || 	December 26, 2002 || [[Toledo Rockets football|Toledo Rockets]] || '''W''' 51–25
+|-
+|2003|| [[Tom O'Brien (American football)|Tom O'Brien]] || [[2003 San Francisco Bowl]] || December 31, 2003 || [[Colorado State Rams football|Colorado State Rams]] || '''W''' 35-21
+|-
+|2004|| [[Tom O'Brien (American football)|Tom O'Brien]] || [[2004 Continental Tire Bowl]] || December 30, 2004 || [[North Carolina Tar Heels football|North Carolina Tar Heels]] || '''W''' 37-24
+|-
+|2005|| [[Tom O'Brien (American football)|Tom O'Brien]] || [[2005 MPC Computers Bowl]] || December 28, 2005 || [[Boise State Broncos football|Boise State Broncos]] || '''W''' 27–21
+|-
+|2006|| [[Frank Spaziani]] || [[2006 Meineke Car Care Bowl]] || December 30, 2006 || [[Navy Midshipmen football|Navy Midshipmen]] || '''W''' 25–24
+|-
+|2007|| [[Jeff Jagodzinski]] || [[2007 Champs Sports Bowl]] || December 28, 2007 || [[Michigan State Spartans football|Michigan State Spartans]] || '''W''' 24–21
+|-
+|2008|| [[Jeff Jagodzinski]] || [[2008 Music City Bowl]] || December 31, 2008 || [[Vanderbilt Commodores football|Vanderbilt Commodores]] || L 16–14
+|-
+|2009|| [[Frank Spaziani]] || [[2009 Emerald Bowl]] || December 26, 2009 || [[USC Trojans football|USC Trojans]] || L 24–13
+|-
+|2010|| [[Frank Spaziani]] || [[2011 Kraft Fight Hunger Bowl (January)|2011 Kraft Fight Hunger Bowl]] || January 9, 2011 || [[Nevada Wolfpack football|Nevada Wolfpack]] || L 20–13
+|-
+|2013|| [[Steve Addazio]] || [[2013 AdvoCare V100 Bowl]] || December 31, 2013 || [[Arizona Wildcats football|Arizona Wildcats]] || L 42–19
+|-
+|2014|| [[Steve Addazio]] || [[2014 Pinstripe Bowl]] || December 27, 2014 || [[Penn State Nittany Lions football|Penn State Nittany Lions]] || L 31–30
+|- style=&quot;background: #CBB677; color: #73000A; text-align=center&quot;
+! colspan=2 style=&quot;background: #CBB677; color: #73000A; text-align=center&quot; | Total
+! colspan=3 style=&quot;background: #CBB677; color: #73000A; text-align=center&quot; | 24 Bowl Games
+| 13-11
+|}
+
+==Recent seasons==
+
+===2007===
+{{main article|2007 Boston College Eagles football team}}
+
+The 2007 season saw a new coach in [[Jeff Jagodzinski]] and an appearance in the [[2007 ACC Championship Game]].
+
+===2008===
+{{main article|2008 Boston College Eagles football team}}
+
+The 2008 season saw the Eagles matched up once again with the [[Virginia Tech Hokies football|Virginia Tech Hokies]] in the [[ACC Championship Game]]. The Eagles fell short again and accepted a bid to the [[Music City Bowl]] to face SEC foe [[Vanderbilt Commodores football|Vanderbilt]]. The Eagles fell to the [[Vanderbilt Commodores football|Commodores]], snapping its 8-game bowl win-streak (at the time the longest active streak in the nation). Senior QB [[Chris Crane]] was injured in the second quarter of the game against [[Wake Forest Demon Deacons football|Wake Forest]]; redshirt freshman [[Dominique Davis]] guided the Eagles to wins against [[Wake Forest Demon Deacons football|Wake Forest]] and [[Maryland Terrapins football|Maryland]] to secure BC's second ACC Atlantic Division title.
+
+===2009===
+{{main article|2009 Boston College Eagles football team}}
+
+[[Boston College]] was without star LB [[Mark Herzlich]] for the entire 2009 season while Herzlich battled [[Ewing sarcoma|Ewing's Sarcoma]]. Following Herzlich's announcement that he was cancer-free on [[College Gameday (football)|College Gameday]],&lt;ref&gt;{{Cite video |url=https://www.youtube.com/watch?v=O_mqLG8Ellk |title=Mark Herzlich announces that he is cancer free}}&lt;/ref&gt; the Eagles beat the [[Florida State Seminoles football|Florida State Seminoles]] in dramatic fashion. The Eagles finished the season 8–5, 2nd place in the ACC Atlantic Division. Sophomore RB [[Montel Harris]] broke the school's single-game rushing record for yards and TDs in BC's win over [[NC State Wolfpack|NC State]]; Harris rushed for 264 yards and 5 TDs.&lt;ref&gt;{{Cite news |url=http://sports.espn.go.com/ncf/news/story?id=4571021 |title=Harris sets two single-game BC records |date=October 17, 2009 |publisher=ESPN.com}}&lt;/ref&gt;
+
+===2010===
+{{main article|2010 Boston College Eagles football team}}
+
+After the early season struggles of [[Dave Shinskie]], the Eagles turned to freshman QB [[Chase Rettig]]. Rettig's first start was on the road against #16 [[Florida State Seminoles football|Florida State]], a game the Eagles lost 19–24. The Eagles went on to win their final 5 games to finish the regular season 7–5. Montel Harris injured his knee in the win against Virginia and missed the rest of the season.&lt;ref&gt;{{Cite news |url=http://bcblog.weei.com/sports/boston/general/boston-college/2010/11/20/montel-harris-has-mri-on-left-knee-fate-determined-sunday/ |title=Montel Harris has MRI on Left Knee, Fate Determined Sunday |date=November 20, 2010 |first=Mike |last=Petraglia |publisher=WEEI.com}}&lt;/ref&gt; The Eagles played [[Nevada Wolf Pack football|Nevada]] in the Kraft Fight Hunger Bowl, losing 13–20. After the season, Offensive Coordinator Gary Tranquill was let go and Kevin Rogers was hired. Sophomore LB [[Luke Kuechly]] was a finalist for the [[Butkus Award]] and was a unanimous All-American. The Eagles' win over the [[Clemson Tigers football|Clemson Tigers]] marked the Eagles first win since the creation of the [[O'Rourke-McFadden Trophy]] (created in 2008). Prior to the season, star WR Colin Larmond Jr. suffered a knee injury that forced him to miss the entire 2010 season.&lt;ref&gt;{{Cite news |url=http://sports.espn.go.com/boston/ncf/news/story?id=5489775 |title=Colin Larmond Jr. out for season |date=August 23, 2010 |first=Heather |last=Dinich |publisher=ESPN.com}}&lt;/ref&gt;
+
+===2011===
+{{main article|2011 Boston College Eagles football team}}
+
+The Boston College 2011 season was a frustrating one. The Eagles went 4–8 and failed to become bowl-eligible for the first time in 12 years. Preseason ACC Player of the Year [[Montel Harris]], after breaking the school's career rushing record, was sidelined with a knee injury.  New offensive coordinator [[Kevin Rogers (American football)|Kevin Rogers]] left the team following the loss to UCF for health reasons; Tight Ends Coach Dave Brock was promoted to interim OC and Quarterbacks Coach. Graduate Assistant Ben Johnson was promoted interim Tight Ends Coach.&lt;ref name=&quot;boston.com&quot;&gt;{{Cite news |url=http://articles.boston.com/2011-09-12/sports/30146007_1_kevin-rogers-bc-offense-offensive-coordinator |title=BC's Rogers takes leave of absence |date=September 12, 2011 |first=Mark |last=Blaudschun |publisher=The Boston Globe}}&lt;/ref&gt; Despite the team's struggles, junior LB [[Luke Kuechly]] was the recipient of the 2011 [[Butkus Award]], the 2011 [[Lombardi Award]], the 2011 [[Lott Trophy]], and the 2011 [[Bronko Nagurski Trophy]].&lt;ref&gt;{{cite web |url=http://espn.go.com/boston/ncf/story/_/id/7328999/boston-college-eagles-luke-kuechly-wins-lombardi-award |title=Luke Kuechly Wins Lombardi Award |date=December 8, 2011 |publisher=ESPNBoston.com}}&lt;/ref&gt; Kuechly would go on to be drafted #9 overall to the Carolina Panthers. The season featured a win on the road against the [[Miami Hurricanes football|Miami Hurricanes]]; the only other Eagle win at Miami was Doug Flutie's [[Hail Flutie|Miracle in Miami]]. Following the win over Miami, Athletic Director Gene DeFilippo announced that [[Frank Spaziani]] would return as coach for the 2012 season. DeFilippo declared that [[Frank Spaziani|Spaziani]] &quot;is the best coach that we've had in the 15 years that I've (DeFilippo) been here.&quot;&lt;ref&gt;{{cite news |url=http://www.bostonherald.com/blogs/sports/oncampus/?p=400 |title=Boston College AD Gene DeFilippo Offers Strong Support for Football Coach Frank Spaziani |date=November 25, 2011 |publisher=The Boston Herald}}&lt;/ref&gt;
+
+===2012===
+{{main article|2012 Boston College Eagles football team}}
+Despite a 3,000+ yard performance by Junior QB Chase Rettig and a breakout record-setting season for Junior WR Alex Amidon, the 2012 team struggled mightily as they went 2-10. On November 25, 2012, it was announced by [[Athletic director|Athletic Director]] Brad Bates that head coach Frank Spaziani was relieved of duties as head coach of the Eagles.&lt;ref&gt;{{cite news |title=AD Brad Bates Lowers Boom on Boston College Football Coach Frank Spaziani|first=Julian|last=Benbow|url=http://www.boston.com/sports/colleges/football/2012/11/25/brad-bates-lowers-boom-boston-college-football-coach-frank-spaziani/09ulIqCoIfdEgqfRwGml8M/story.html|newspaper=[[The Boston Globe]]|date=November 25, 2012|accessdate=November 25, 2012}}&lt;/ref&gt;  Temple Coach [[Steve Addazio]] was named his replacement on December 4, 2012.&lt;ref&gt;{{cite web|title=Steve Addazio Named Football Coach|url=http://www.bceagles.com/sports/m-footbl/spec-rel/120412aaa.html|work=bceagles.com|accessdate=December 4, 2012}}&lt;/ref&gt;
+
+===2013===
+{{main article|2013 Boston College Eagles football team}}
+With a new coach and a new mentality, the Eagles turned around from the previous season's lackluster 2–10 performance by going 7–5 and becoming bowl eligible for the first time since 2010. Senior running back [[Andre Williams (American football)|Andre Williams]] finished 4th in the [[Heisman trophy]] voting after becoming the 16th player in NCAA history to rush for over 2,000 yards in a season and was named the 2013 [[Doak Walker Award]] winner. In addition, Williams was also a [[Walter Camp Award]] finalist and a unanimous [[2013 College Football All-America Team|All-American]] as well as a unanimous first team All-[[Atlantic Coast Conference|ACC]] selection. During the season, Williams broke multiple school records for rushing, notably the single season record (2,177 yards), the single game record (339 yard), single game scoring record (5 TD's) and consecutive games with 250+ yards (3 games). Williams and the Eagles faced the [[2013 Arizona Wildcats football team|Arizona Wildcats]] in the [[2013 AdvoCare V100 Bowl|2013 AdvoCare V100 Independence Bowl]] but came up short by a score of 42–19 to finish the season 7–6 (4–4 ACC). Williams rushed for 2,177 yards on the season, good for 5th most all-time in the NCAA.
+
+===2014===
+{{main article|2014 Boston College Eagles football team}}
+In his second year, Addazio led the Eagles to a consecutive 7–5 regular season, their second bowl-eligible season in as many years. With many key players having graduated, including Heisman finalist Andre Williams, quarterback [[Chase Rettig]], wide receiver Alex Amidon, and linebacker [[Kevin Pierre-Louis]], Addazio helped replace some lost production with graduate transfer quarterback [[Tyler Murphy]], who was recruited by Addazio at [[Florida Gators football|Florida]], as well as converting backup quarterback Josh Bordner to the wide receiver position. The running back core went from a single back (Williams) to a group of five threats: sophomores Myles Willis and Tyler Rouse, true freshman Jonathan Hilliman and Sherm Allston, as well as Tyler Murphy himself, who was more dangerous with his legs than his arm during the season. Murphy finished the season leading all quarterbacks in the league with 1,184 yards rushing, breaking the school record for most rushing yards by a quarterback, previously held by Doug Flutie. The season was highlighted by a historic upset victory over 9th ranked [[USC Trojans football|USC]], in which Murphy rushed for 191 yards in the 37–31 victory. The Eagles nearly managed another two upsets against [[Clemson Tigers football|Clemson]] and [[Florida State Seminoles|Florida State]], but came up just short in both games. Boston College played [[Penn State Nittany Lions|Penn State]] in the [[2014 Pinstripe Bowl]], losing in overtime 31–30 to finish the season 7–6 (4–4 ACC).
+
+==Year-by-year results==
+{{Main article|List of Boston College Eagles football seasons}}
+
+==Coaches==
+
+===Current coaching staff===
+{| class=&quot;wikitable&quot; style=&quot;font-size:90%;&quot;
+|-
+! Name !! Position !! Season at&lt;br /&gt;Boston College 
+|-
+| [[Steve Addazio]] || [[Head coach]] ||align=center| 4th
+|-
+| [[Scot Loeffler]] || [[Offensive Coordinator]] ||align=center| 1st
+|-
+| [[Jim Reid]] ||[[Defensive Coordinator]] ||align=center| 1st
+|-
+| Ben Albert || [[Defensive line coach|Defensive Line]] ||align=center| 3rd
+|-
+| Justin Frye || [[Offensive line coach|Offensive Line]] ||align=center| 3rd
+|-
+| Al Washington||  Outside Linebackers ||align=center| 4th
+|-
+| [[Anthony Campanile]] || [[Defensive backs coach|Defensive Backs]] ||align=center| 1st
+|-
+| Todd Fitch || Wide Receivers ||align=center| 1st
+|-
+| Frank Leonard || [[Tight ends coach|Tight Ends]] ||align=center| 3rd
+|-
+| Brian White || [[Running backs coach|Running Backs]] ||align=center| 2nd
+|-
+| Frank Piraino || [[Strength and conditioning coach|Strength &amp; Conditioning]] ||align=center| 3rd 
+|}
+
+===Head coaches===
+{| border=&quot;1&quot; cellpadding=&quot;7&quot; cellspacing=&quot;0&quot;
+|-
+! style=&quot;background:#e5e5e5;&quot;| Years !! style=&quot;background:#e5e5e5;&quot;| Head Coach !! style=&quot;background:#e5e5e5;&quot;| Record !! style=&quot;background:#e5e5e5;&quot;| Winning Pct
+|-
+| 1893 || [[Joseph Drum]] || 3–3–0 || .500
+|-
+| 1894 || [[William Nagle (American football)|William Nagle]] || 1–6–0 || .143
+|-
+| 1895 || [[Joseph Lawless]] || 2–4–2 || .250
+|-
+| 1896 || [[Frank Carney (American football)|Frank Carney]] || 5–3–0 || .625 
+|-
+| 1897–1899, 1901 || [[John Dunlop (American football)|John Dunlop]] || 15–17–2 || .441
+|-
+| 1902 || [[Arthur White (American football)|Arthur White]] || 0–7–1 || .000
+|-
+| 1908 || [[Joe Reilly]] &amp; [[Joe Kenney]] || 2–4–2 || .250
+|-
+| 1909 || [[Thomas H. Maguire]]&lt;ref&gt;{{cite news|title=Dr. Maguire Chosen|work=The Boston Daily Globe|date=September 28, 1909}}&lt;/ref&gt; || 3–4–1 || .375
+|-
+| 1910 || [[James Hart (American football)|James Hart]] || 0–4–2 || .000
+|-
+| 1911 || [[Joseph Courtney (American football)|Joseph Courtney]] || 0–7–0 || .000
+|-
+| 1912–1913 || [[William Joy (American football)|William Joy]] || 6–7–2 || .400
+|-
+| 1914–1915 || [[Stephen Mahoney]] || 8–8–0 || .500
+|-
+| 1916–1917 || [[Charles Brickley]] || 12–4–0 || .750
+|-
+| 1918 || [[Frank Morrissey]] || 5–2–0 || .714
+|-
+| 1919–1926 || [[Frank Cavanaugh (American football)|Frank Cavanaugh]] || 48–14–5 || .716
+|-
+| 1927 || [[D. Leo Daley]] || 4–4–0 || .500
+|-
+| 1928–1934 || [[Joe McKenney]] || 44–18–3 || .677 
+|-
+| 1935 || [[Dinny McNamara]] / [[Harry Downes]] || 3–1–0 / 3–2–0 || .667
+|-
+| 1936–1938 || [[Gil Dobie]] || 16–6–5 || .593
+|-
+| 1939–1940 || [[Frank Leahy]] || 20–2–0 || .909
+|-
+| 1941–1942 || [[Denny Myers]] || 35–27–4 || .530
+|-
+| 1943–1945 || [[Moody Sarno]] || 11–7–1 || .579
+|-
+| 1946–1950 || [[Denny Myers]] || 35–27–4 || .530
+|-
+| 1951–1959 || [[Mike Holovak]] || 49–29–3 || .605
+|-
+| 1960–1961 || [[Ernie Hefferle]] || 7–12–1 || .350
+|-
+| 1962–1967 || [[Jim Miller (American football coach)|Jim Miller]] || 34–24–0 || .586
+|-
+| 1968–1977 || [[Joe Yukica]] || 68–37–0 || .648
+|-
+| 1978–1980 || [[Ed Chlebek]] || 12–21–0 || .364
+|-
+| 1981–1990 || [[Jack Bicknell]] || 59–55–1 || .513
+|-
+| 1991–1993 || [[Tom Coughlin]] || 21–13–1 || .600
+|-
+| 1994–1996 || [[Dan Henning]] || 16–19–1 || .444
+|-
+| 1997–2006 || [[Tom O'Brien (American football)|Tom O'Brien]] || 75–45–0 || .625
+|-
+| 2006 || [[Frank Spaziani]] (interim) || 1–0 || 1.000
+|-
+| 2007–2008 || [[Jeff Jagodzinski]] || 20–8–0 || .714
+|-
+| 2009–2012 || [[Frank Spaziani]] || 21–29–0 || .420
+|-
+| 2013–present || [[Steve Addazio]] || 17-21-0 || .474
+|}
+
+===Defensive coordinators===
+*2016-Present: Jim Reid
+*2013–2016: [[Don Brown (American football coach)|Don Brown]]
+*2009–2012: [[Bill McGovern (American football)|Bill McGovern]]
+*1999–2009: [[Frank Spaziani]]
+*1997–1998: [[Tim Rose (football coach)|Tim Rose]]
+*1996: [[Phil Elmassian]]
+*1995: Bill McGovern
+*1994: [[Jim Reid (American football)|Jim Reid]]
+*1991–1994: [[Steve Szabo]]
+*1981–1990: None
+*1980: [[Dave Brazil (American football)|Dave Brazil]]
+*1969–1972: [[John Petercuskie]]
+
+===Offensive coordinators===
+*2015–present: Todd Fitch
+*2013–2014: [[Ryan Day (American football)|Ryan Day]]&lt;ref&gt;Favat, Brian (December 5, 2012). [http://www.bcinterruption.com/boston-college-football-coaching-search-frank-spaziani/2012/12/5/3733680/boston-college-football-steve-addazio-ryan-day-offensive-coordinator &quot;Ryan Day To Be Named Boston College Offensive Coordinator&quot;], BC Interruption. Retrieved December 15, 2012.&lt;/ref&gt;
+*2012: Doug Martin
+*2011: [[Dave Brock (American football)|Dave Brock]] (interim)
+*2011: [[Kevin Rogers (American football)|Kevin Rogers]]
+*2009–2011: [[Gary Tranquill]]
+*2007–2008: [[Steve Logan (football)|Steve Logan]]
+*1999–2006: [[Dana Bible]]
+*1997–1998: [[Jeff Jagodzinski]]
+*1996: none
+*1994–1995: [[Dirk Koetter]]
+*1991–1993: [[Gary Crowton]]
+*1990: [[Dick Curl]]
+*1984–1989: [[Sam Timer]]
+*1981–1983: [[Tom Coughlin]]
+
+===Assistant head coaches===
+*[[Jack Heaphy]]: 1926
+*[[Joe McKenney]]: 1927
+*[[Dinny McNamara]]: 1933
+*[[Edward McKeever]]: 1939–1940
+*[[Jerry Petercuskie]]: 1997–2006
+*[[Jack Bicknell, Jr.]]: 2007–2008
+
+==Awards and honors==
+
+===Individual award winners===
+{{col-begin}}
+{{col-2}}
+*'''[[Heisman Trophy]]'''
+:[[Doug Flutie]] – [[1984 NCAA Division I-A football season|1984]]
+*'''[[Maxwell Award]]'''
+:[[Doug Flutie]] – 1984
+*'''[[Walter Camp Award]]'''
+:[[Doug Flutie]] – 1984
+*'''[[Davey O'Brien Award]]'''
+:[[Doug Flutie]] – 1984
+*'''[[Outland Trophy]]'''
+:[[Mike Ruth]] – [[1985 NCAA Division I-A football season|1985]]
+*'''[[Johnny Unitas Golden Arm Award]]'''
+:[[Matt Ryan (American football)|Matt Ryan]] – [[2007 NCAA Division I FBS football season|2007]]
+*'''[[Manning Award]]'''
+:[[Matt Ryan (American football)|Matt Ryan]] – 2007
+{{col-2}}
+*'''[[Disney's Wide World of Sports Spirit Award]]'''
+:[[Mark Herzlich]] – 2009
+*'''[[Butkus Award]]'''
+:[[Luke Kuechly]] – 2011
+*'''[[Lombardi Award]]'''
+:[[Luke Kuechly]] – 2011
+*'''[[Lott Trophy]]'''
+:[[Luke Kuechly]] – 2011
+*'''[[Bronko Nagurski Trophy]]'''
+:[[Luke Kuechly]] – 2011
+*'''[[Doak Walker Award]]'''
+:[[Andre Williams (American football)|Andre Williams]] – 2013
+{{col-end}}
+
+===Consensus All-Americans===
+Boston College has had 12 consensus All-Americans.
+
+*[[Luke Urban]] – 1920
+*[[Gene Goodreault]] – 1940
+*[[Mike Holovak]] – 1942
+*[[Doug Flutie]] – 1984
+*[[Tony Thurman]] – 1984
+*[[Mike Ruth]] – 1985
+*[[Pete Mitchell (American football)|Pete Mitchell]] – 1994
+*[[Mike Cloud]] – 1998
+*[[William Green (American football)|William Green]] – 2001
+*[[Jamie Silva]] – 2007
+*[[Luke Kuechly]] – 2010, 2011
+*[[Andre Williams (American football)|Andre Williams]] – 2013
+
+Doug Flutie ('84), Luke Kuechly ('10), and Andre Williams ('13) were all unanimous selections.
+
+===Retired numbers===
+[[Doug Flutie]] and [[Mike Ruth]] are the only two players to have their numbers retired.
+
+{| class=&quot;wikitable&quot; style=&quot;text-align:center&quot;
+|-
+| colspan=&quot;4&quot; style= &quot;background: #73000A; color: white&quot; | '''Boston College Eagles retired numbers'''
+|-
+!  style=&quot;width:40px; background:#cbb677; color:#73000a;&quot;| No.
+!  style=&quot;width:150px; background:#cbb677; color:#73000a;&quot;| Player
+!  style=&quot;width:40px; background:#cbb677; color:#73000a;&quot;| Pos.
+!  style=&quot;width:60px; background:#cbb677; color:#73000a;&quot;| Career
+|-
+| '''22''' || [[Doug Flutie]] || [[Quarterback|QB]] ||  1981-84
+|-
+| '''68''' || [[Mike Ruth]] || [[Lineman (American football)|L]] || 1982-85
+|}
+
+====Retired jerseys====
+The Eagles have retired eight jerseys:&lt;ref&gt;[http://www.bceagles.com/genrel/071000aak.html &quot;Retired jerseys and numbers&quot; at Boston College website], retrieved 6 March 2013&lt;/ref&gt;
+
+*[[Art Donovan]] (1946–49)
+*[[William J. Flynn (American football)|Bill Flynn]] (1936–38)
+*[[Mike Holovak]] (1940–42)
+*[[Charlie O'Rourke]] (1938–40)
+*[[Tony Thurman]] (1981–85)
+*[[Luke Urban]] (1916–17, 1919–20)
+*[[Luke Kuechly]] (2009-11)
+*[[Matt Ryan]] (2004-07)
+
+===College Football Hall of Fame===
+Six former BC Players and three former Coaches have been inducted into the [[College Football Hall of Fame]]. Five players from the 1940 &quot;Team of Destiny&quot;, as well as the Coach, are among the inductees. (Year Inducted)
+
+{{Columns-list|2|
+*[[Gil Dobie]] – Coach (1951)
+*[[Frank Cavanaugh (American football)|Frank Cavanaugh]] – Coach (1954)
+*[[Frank Leahy]] – Coach (1970)
+*[[Charlie O'Rourke]] – QB (1972)
+*[[Chet Gladchuk]] – C (1975)
+*[[Gene Goodreault]] – E (1982)
+*[[George Kerr (American football, born 1919)|George Kerr]] – G (1984)
+*[[Mike Holovak]] – FB (1985)
+*[[Doug Flutie]] – QB (2007)
+}}
+
+===Conference honors===
+{{col-begin}}
+{{col-2}}
+*'''[[Big East Conference football awards#Offensive Player of the Year|Big East Offensive Player of the Year]]'''
+:[[Glenn Foley]] – 1993
+*'''[[Big East Conference football awards#Defensive Player of the Year|Big East Defensive Player of the Year]]'''
+:[[Mathias Kiwanuka]] – 2004
+*'''[[Big East Conference football awards#Rookie of the Year|Big East Rookie of the Year]]'''
+:[[Brian Toal]] – 2004
+*'''[[Atlantic Coast Conference football honors#Player of the Year|ACC Player of the Year]]'''
+:[[Matt Ryan (American football)|Matt Ryan]] – 2007
+*'''[[Atlantic Coast Conference football honors#Offensive Player of the Year|ACC Offensive Player of the Year]]'''
+:[[Matt Ryan (American football)|Matt Ryan]] – 2007
+{{col-2}}
+*'''[[Atlantic Coast Conference football honors#Defensive Player of the Year|ACC Defensive Player of the Year]]'''
+:[[Mark Herzlich]] – 2008
+:[[Luke Kuechly]] – 2011
+*'''[[Atlantic Coast Conference football honors#Defensive Rookie of the Year|ACC Defensive Rookie of the Year]]'''
+:[[Luke Kuechly]] – 2009
+*'''[[Jacobs Blocking Trophy|ACC Jacobs Blocking Trophy]]'''
+:[[Josh Beekman]] – 2006
+*'''Brian Piccolo Award'''
+:[[Mark Herzlich]] – 2010
+{{col-end}}
+
+==Eagles in the NFL==
+As of December 2011, the Eagles have 20 former players on NFL rosters. Among the more notable: [[Matt Ryan (American football)|Matt Ryan]] '07 ([[Atlanta Falcons|Falcons]]), [[Matt Hasselbeck]] '98 ([[Indianapolis Colts|Colts]]), [[Dan Koppen]] '03 ([[Denver Broncos|Broncos]]), [[Mathias Kiwanuka]] '06 ([[New York Giants|Giants]]), [[Mark Herzlich]] '11 ([[New York Giants|Giants]]), [[B.J. Raji]] '09 ([[Green Bay Packers|Packers]]), [[Nate Freese]] '13 ([[Detroit Lions]]).
+
+Since 2000, the Eagles have had 22 players selected in the [[National Football League Draft|NFL Draft]]. Of those picks, 8 were first round selections. BC had consecutive top 10 picks in 2008 and 2009; [[Matt Ryan (American football)|Matt Ryan]] was selected 3rd overall by the [[Atlanta Falcons]] in [[2008 NFL Draft|2008]] and [[B.J. Raji]] was selected 9th overall by the [[Green Bay Packers]] in [[2009 NFL Draft|2009]]. [[Luke Kuechly]] is the most recent Eagle to be drafted, selected by the [[Carolina Panthers]] with the 9th overall pick in the [[2012 NFL Draft]].
+
+===&quot;O-Line U&quot;===
+The Eagles have a reputation of producing high-quality NFL Offensive Linemen, earning the school the nickname &quot;O-Line U&quot;.&lt;ref&gt;{{cite web |url=http://nfldraft.rivals.com/content.asp?CID=531435 |title=Boston College rules the trenches |date=April 10, 2006 |first=Steve |last=Megargee |publisher=Rivals.com}}&lt;/ref&gt; Notable alums of O-Line U include [[Tom Nalen]] '93 (5x [[Pro Bowl]] Selection, 2x [[Super Bowl]] Champion), [[Ron Stone (American football)|Ron Stone]] '92 (3x [[Pro Bowl]] Selection, 2x [[Super Bowl]] Champion), [[Damien Woody]] '98 (1x [[Pro Bowl]] Selection, 2x [[Super Bowl]] Champion), [[Dan Koppen]] '02 (1x [[Pro Bowl]] Selection, 2x [[Super Bowl]] Champion), and [[Chris Snee]] '03 (3x [[Pro Bowl]] Selection, 2x [[Super Bowl]] Champion).
+
+The university's football program has long produced notable draft picks as well, seemingly year after year.  Offensive linemen have admitted to taking pride in continuing the tradition for younger players after a player has been drafted.
+
+*1980: OT [[Karl Swanke]] (Round 6, Pick 143) Played 84 Games&lt;ref&gt;http://www.pro-football-reference.com/play-index/draft-finder.cgi?request=1&amp;year_min=1980&amp;year_max=2013&amp;type=&amp;round_min=1&amp;round_max=30&amp;slot_min=1&amp;slot_max=500&amp;league_id=&amp;team_id=&amp;pos=OLN&amp;college_id=bostoncol&amp;conference=any&amp;show=all&lt;/ref&gt;
+*1983: OT [[Gary Kowalski (American football)|Gary Kowalski]] (Round 6, Pick 144) Played 58 Games
+*1985: OG [[Mark MacDonald (American football)|Mark MacDonald]] (Round 5, Pick 115) Played 44 Games
+*1987: OG [[Steve Trapilo]] (Round 4, Pick 96) Played 57 Games
+*1988: C [[Dave Widell]] (Round 4, Pick 94) Played 156 Games
+*1989: OT [[Joe Wolf]] (Round 1, Pick 17) Played 94 Games and OG [[Doug Widell]] (Round 2, Pick 41) Played 134 Games
+*1993: OG [[Ron Stone (American football)|Ron Stone]] (Round 4, Pick 96) Played 174 Games
+*1994: C [[Tom Nalen]] (Round 7, Pick 218) Played 194 Games
+*1996: OG [[Pete Kendall]] (Round 1, Pick 21) Played 189 Games
+*1999: C [[Damien Woody]] (Round 1, Pick 17) Played 173 Games and OG [[Doug Brzezinski]] (Round 3, Pick 64) Played 73 Games
+*2001: OG [[Paul Zukauskas]] (Round 7, Pick 203) Played 43 Games
+*2002: OT [[Marc Colombo]] (Round 1, Pick 29) Played 111 Games
+*2003: C [[Dan Koppen]] (Round 5, Pick 164) Played 136 Games
+*2004: OG [[Chris Snee]] (Round 2, Pick 34) Played 138 Games
+*2006: OT [[Jeremy Trueblood]] (Round 2, Pick 59) Played 101 Games
+*2008: OT [[Gosder Cherilus]] (Round 1, Pick 17) Played 75 Games
+*2010: C [[Matt Tennant]] (Round 5, Pick 158)
+*2011: OT [[Anthony Castonzo]] (Round 1, Pick 22)
+*2015: OG [[Ian Silberman]] (Round 6, Pick 190) and C [[Andy Gallik]] (Round 6, Pick 208)
+
+==Notable players==
+{{Inc-sport}}
+{{see also|Category:Boston College Eagles football players}}
+{{Columns-list|3|
+* [[Josh Beekman]]
+* [[Will Blackmon]]
+* [[John Bosa]]
+* [[Paul Boudreau]]
+* [[Stephen Boyd (American football)|Stephen Boyd]]
+* [[Ron Brace]]
+* [[Tim Bulman]]
+* [[Anthony Castonzo]]
+* [[Gosder Cherilus]]
+* [[Mark Chmura]]
+* [[Mike Cloud]]
+* [[Marc Colombo]]
+* [[Bill Cronin (fullback)|Bill Cronin]]
+* [[Bill Cronin (tight end)|Bill Cronin]]
+* [[Jack Cronin (American football)|Jack Cronin]]
+* [[Anthony DiCosmo]]
+* [[Art Donovan]]
+* [[Jo-Lonn Dunbar]]
+* [[Kasim Edebali]]
+* [[Darren Flutie]]
+* [[Doug Flutie]]
+* [[Glenn Foley]]
+* [[Nate Freese]]
+* [[Robert Francois]]
+* [[Antonio Garay]]
+* [[William Green (football)|William Green]]
+* [[Gary Gulman]]
+* [[Matt Hasselbeck]]
+* [[Tim Hasselbeck]]
+* [[Mark Herzlich]]
+* [[Chris Hovan]]
+* [[Al Louis-Jean]]
+* [[Pete Kendall]]
+* [[Luke Kuechly]]
+* [[Mathias Kiwanuka]]
+* [[Dan Koppen]]
+* [[Mike Mamula]]
+* [[Mike Mayock]]
+* [[Pete Mitchell (American football)|Pete Mitchell]]
+* [[Tom Nalen]]
+* [[Joe Nash]]
+* [[Okechukwu Okoroha]]
+* [[Gerard Phelan]]
+* [[Kevin Pierre-Louis]]
+* [[Quinton Porter]]
+* [[B.J. Raji]]
+* [[Alex Riley]]
+* [[Bill Romanowski]]
+* [[Mike Ruth]]
+* [[Matt Ryan (American football)|Matt Ryan]]
+* [[Sean Ryan (American football)|Sean Ryan]]
+* [[Jamie Silva]]
+* [[Fred Smerlas]]
+* [[Chris Snee]]
+* [[Brian St. Pierre]]
+* [[Karl Swanke]]
+* [[Matt Tennant]]
+* [[Jeremy Trueblood]]
+* [[Tom Waddle]]
+* [[Lenny Walls]]
+* [[Andre Williams (American football)|Andre Williams]]
+* [[Damien Woody]]
+* [[Paul Zukauskas]]
+}}
+
+==Future non-conference opponents==
+Announced schedules as of January 19, 2016
+{| class=&quot;wikitable&quot;
+|-  style=&quot;background:#73000A; color:white; text-align:center;&quot;
+| '''2016''' || '''2017''' || '''2018''' || '''2019''' || '''2020''' || '''2021''' || '''2022''' || '''2023''' || '''2024''' || '''2025'''
+|- align=center
+| at [[UMass Minutemen football|UMass]] || vs [[Notre Dame Fighting Irish football|Notre Dame]] || vs [[UMass Minutemen football|UMass]] || at [[Notre Dame Fighting Irish football|Notre Dame]] ||vs [[Holy Cross Crusaders football|Holy Cross]] || at [[UMass Minutemen football|UMass]] || at [[Notre Dame Fighting Irish football|Notre Dame]] ||at [[Ohio State Buckeyes football|Ohio State]] || vs [[Ohio State Buckeyes football|Ohio State]] || vs [[Notre Dame Fighting Irish football|Notre Dame]]
+|- align=center
+| vs [[Buffalo Bulls football|Buffalo]] || vs [[Richmond Spiders football|Richmond]] || vs [[Holy Cross Crusaders football|Holy Cross]] || vs [[Richmond Spiders football|Richmond]] || vs [[Ohio Bobcats football|Ohio]] || || vs [[UConn Huskies football|UConn]] || at [[UConn Huskies football|UConn]] || ||
+|- align=center
+| vs [[UConn Huskies football|UConn]] || at [[Northern Illinois Huskies football|Northern Illinois]] || at [[Purdue Boilermakers football|Purdue]]||  || vs [[Purdue Boilermakers football|Purdue]]|| || || || ||
+|- align=center
+| vs [[Wagner Seahawks football|Wagner]] || at [[UConn Huskies football|UConn]] ||  || || || || || || ||
+|}
+&lt;ref name=&quot;nonconfopp&quot;&gt;{{cite web| title=Boston College Eagles Football Schedules and Future Schedules|publisher=fbschedules.com| url=http://www.fbschedules.com/ncaa/acc/boston-college-eagles.php|accessdate=2015-11-08}}&lt;/ref&gt; M
+
+==See also==
+* Thomas F. Scanlan Memorial Trophy
+* [[Lambert-Meadowlands Trophy]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{Official website}}
+
+{{Boston College Eagles football navbox}}
+{{Boston College}}
+{{Atlantic Coast Conference football navbox}}
+
+[[Category:Boston College Eagles football|*]]
+[[Category:Sports clubs established in 1892]]
+[[Category:1892 establishments in Massachusetts]]</text>
+      <sha1>eurdod0td5f8c9zlxd9wmua6rgaxp8l</sha1>
+    </revision>
+  </page>
+</mediawiki>

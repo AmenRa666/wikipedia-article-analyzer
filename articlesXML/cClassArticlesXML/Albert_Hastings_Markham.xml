@@ -1,0 +1,231 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Albert Hastings Markham</title>
+    <ns>0</ns>
+    <id>15960175</id>
+    <revision>
+      <id>746622593</id>
+      <parentid>740903256</parentid>
+      <timestamp>2016-10-28T14:17:14Z</timestamp>
+      <contributor>
+        <username>Mndata</username>
+        <id>22190807</id>
+      </contributor>
+      <comment>/* Naval career */Removed links</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="21525">{{other people||Markham (disambiguation){{!}}Markham}}
+
+{{Use dmy dates|date=April 2012}}
+{{Infobox military person
+| name                = Albert Hastings Markham
+| image               = Albert Hastings Markham.jpg
+| caption             = Albert Hastings Markham in 1876
+| birth_date          = 11 November 1841
+| birth_place         = [[Bagnères-de-Bigorre]], [[France]]
+| death_date          = 28 October 1918 (aged 76)
+| death_place         = [[London]], England
+| placeofburial       =
+| placeofburial_label =
+| nickname            =
+| allegiance          = {{navy|UK}}
+| branch              =
+| serviceyears        = 1856–1906
+| rank                = [[Lieutenant]] (1862)&lt;br/&gt;Commander (1872)&lt;br/&gt;Captain (1876)&lt;br/&gt;Rear Admiral (1891)&lt;br/&gt;Vice Admiral (1897)&lt;br/&gt;Admiral (1903)
+| unit                = &lt;nowiki /&gt;
+*[[HMS Camilla (1847)|HMS ''Camilla'']]
+*[[HMS Niger (1846)|HMS ''Niger'']]
+*[[HMS Retribution (1844)|HMS ''Retribution'']]
+*{{HMS|Imperieuse|1852|6}}
+*{{HMS|Coromandel|1856|6}}
+*{{HMS|Centaur|1845|6}}
+*[[HMS Victoria (1859)|HMS ''Victoria'']]
+*[[HMS Blanche (1867)|HMS ''Blanche'']]
+*{{HMS|Sultan|1870|6}}
+*[[HMS Alert (1856)|HMS ''Alert'']]
+
+| commands = &lt;nowiki /&gt;
+*{{HMS|Rosario|1860|6}}
+*{{HMS|Triumph|1870|6}}
+*[[HMS Vernon (shore establishment)|HMS ''Vernon'' (Torpedo School)]]
+*Commodore of the Training Squadron
+*Second-in-command of the [[Mediterranean Fleet]]
+*Commander-in-Chief at the [[Commander-in-Chief, The Nore|Nore]]
+
+| battles   = [[Nukapu Expedition]]
+| awards    = ADC&lt;br/&gt;KCB (1903)&lt;ref name=DNB&gt;[[Oxford Dictionary of National Biography]] (Markham, Sir Albert Hastings (1841–1918), naval officer and Arctic explorer), by R N Rudmose Brown, revised by Roger T Stearn&lt;/ref&gt;
+| relations = '''Father:''' Captain John Markham&lt;br/&gt;'''Mother:''' Marianne Markham (née Wood)&lt;ref name=DNB/&gt;&lt;br/&gt;'''Wife:''' Theodora Markham (née Gervers)&lt;br/&gt;'''Cousin:''' [[Clements Markham|Sir Clements Robert Markham KCB FRS]]
+| laterwork = Arctic Exploration&lt;br/&gt;Council of the [[Royal Geographical Society]]&lt;br/&gt;Author
+}}
+
+[[Admiral (Royal Navy)|Admiral]] '''Sir Albert Hastings Markham''', [[Order of the Bath|KCB]] (11 November 1841 – 28 October 1918) was a British [[List of polar explorers|explorer]], author, and officer in the [[Royal Navy]]. In 1903 he was made Knight Commander in the [[Order of the Bath]]. He died in [[London]], England at the age of 76. He is also remembered for designing the [[Flag of New Zealand|flag]] of [[New Zealand]].
+
+==Family and background==
+Albert Markham was the fifth son of Captain John Markham, who had retired from the navy because of ill health with the rank of lieutenant. John Markham's grandfather, [[William Markham (archbishop)|William Markham]], had been Archbishop of York.{{citation needed|date=November 2014}} Albert was born in [[Bagnères-de-Bigorre]] in the Hautes-Pyrénées department of [[France]], where the family lived before moving to a farm on Guernsey. At age thirteen Albert was sent to London to live with his aunt, the wife of his uncle [[David Frederick Markham|David Markham]] ([[Dean and Canons of Windsor|Canon of Windsor]] from 1827 to 1853), at 4 [[Onslow Square]]. Neighbours included the explorer Vice-Admiral [[Robert FitzRoy]] and novelist [[William Makepeace Thackeray|William Thackeray]].
+
+He was educated at home and at [[Eastman's Royal Naval Academy]].&lt;ref&gt;{{ODNBweb|id= 34879|title =Markham, Sir Albert Hastings}}&lt;/ref&gt; Markham's father was short of money for his education and had for some time tried to find a naval officer willing to sponsor Albert for admission to the navy. He only succeeded in doing so after Albert had passed the normal entry age of fourteen, but by good luck the admiralty at that time had decided to experiment with accepting older cadets.  His aunt's son [[Clements Markham]], who was eleven years older than Albert, had also joined the navy before leaving to become a geographer and explorer. He became a lifelong friend to his cousin Albert and exerted a considerable influence on his career.&lt;ref&gt;Hough p.23–24&lt;/ref&gt;
+
+When away from Clements and his wife Ninna, who for much of his life he regarded as his only family, Albert was often moody, irritable and defensive. He had a strong sense of duty as a naval officer, which compelled him to serve with a strict adherence to rules and established practices, and strong religious convictions. He did not smoke, allowing that a gentleman might have an occasional cigar, but believing that cigarettes were for effeminate weaklings and that a black pipe ruined mind and body. He did not drink and disapproved of those who did. He found it difficult to socialise with other officers. He disliked the peacetime navy, with its endless social engagements, partying and ritual displays.&lt;ref&gt;Hough p.27–28&lt;/ref&gt;
+
+Markham's family emigrated to the United States and John Markham bought a farm at [[La Crosse County, Wisconsin|La Crosse]] in Wisconsin. Albert visited them twice and he was unimpressed.  He found the trains slow, the hotels disreputable, and travelling companions murderous.  He was impressed by the wild grandeur and wildlife of the [[Mississippi Valley]] and was invited to hunt with General Mackenzie in Indian territory. Throughout his life he enjoyed hunting all manner of beasts. The only killing at which he showed disgust was the drawn-out deaths of whales, which he saw on Arctic voyages.&lt;ref&gt;Hough p. 29-30&lt;/ref&gt;
+
+He married Theodora Gervers in 1894, with whom he had one daughter.
+
+==Naval career==
+[[File:Flag of New Zealand.svg|thumb|left|The flag of New Zealand as designed by Markham in 1869.]]
+
+Markham had no great conviction for a naval career, but accepted the constraints it placed upon him in return for the opportunities it presented to further his other interests. He followed the advice he had been given to join and stick with the navy, although he suffered from seasickness and disliked the customary cruelty of service punishments. However, his austere upbringing had better suited him to the rigours of navy life than had his cousin's.&lt;ref&gt;Hough p.25&lt;/ref&gt;
+
+Markham joined the [[Royal Navy]] in 1856 at the age of 15 and spent the first eight years of his career on the [[China Station]], travelling out in HMS ''Camilla'' and later serving on  [[HMS Niger (1846)|''Niger'']], HMS ''Retribution'', {{HMS|Imperieuse|1852|2}}, HMS ''Coromandel'' and HMS ''Centaur''.&lt;ref name=NMM/&gt;
+
+His brother John was also in Hong Kong, where he was suffering food poisoning from arsenic added to flour by local Chinese. Chinese pirates were the chief preoccupation of the navy as they would regularly make raids on the harbour.  On one occasion aged fifteen Markham led a party of six boys and two marines against a pirate junk. The pirates abandoned ship and those captured were taken ashore and eventually beheaded.  On another occasion he commanded a [[lorcha (boat)|lorcha]] armed with a  12-pounder howitzer against a pirate ship holding two British captives. After a three-hour fight he boarded the ship with five men while heavily outnumbered and took eleven prisoners. The British prisoners were found to have been crucified, so the pirates were executed. He became acquainted with a British Consulate official who encouraged an interest in ornithology and shooting snipe.&lt;ref&gt;Hough p.25–26&lt;/ref&gt;
+
+In 1862, Markham received a promotion to lieutenant.  In 1864, he returned to Britain where he took naval exams and stayed with Clements and his wife Minna, at what was to be his only permanent home in England for 30 years. In November he was appointed to the last three-decker constructed for the Royal Navy, [[HMS Victoria (1859)|''Victoria'']], in the [[Mediterranean Sea|Mediterranean]]. Life sailing in the Levant was considerably less dangerous, and normally only required the arrival of a British ship to settle a dispute. There was plenty of time for leave and Markham visited Turkey, Egypt, the Holy Land, Greece and the Aegean islands. Appointment to the fleet patrolling the eastern end of the Mediterranean was considered by many as less desirable than the western patrol which visited France and Italy, but the historical sites in the east suited Markham's interests. He kept a journal describing the places he visited, as he did throughout his life. One of his greatest delights was to meet Minna and Clements ashore and to accompany them on archaeological  expedition in the region.&lt;ref&gt;Hough p.26–27&lt;/ref&gt;
+
+In 1868, Markham was appointed first lieutenant of [[HMS Blanche (1867)|''Blanche'']] on the [[Australia Station]] where he helped suppress &quot;[[blackbirding]]&quot;, the illegal trading of slaves between Queensland and the South Sea Islands.  This included time spent as an acting commander in [[HMS Rosario (1860)|''Rosario'']].&lt;ref&gt;{{cite web|url=http://www.nmm.ac.uk/collections/archive/catalogue/record.cfm?ID=MRK|title=Biography of Albert Hastings Markham at the National Maritime Museum|accessdate=2009-11-18}}&lt;/ref&gt; The issue was not straightforward, because the Queensland government was ambivalent towards the trade, which provided workers for its plantations. Some of the native workers were pleased to be travelling to Queensland, while others hated all white men. A bishop and three others were murdered in one incident, and Markham led a party to [[Nukapu Expedition|Nukapu to exact revenge]], destroying a local village. Markham's actions were fuelled by his righteous indignation at an attack upon churchmen and he was criticised in parliament and the press for overreacting. The admiralty, however, approved of his decisive actions. Markham himself found the work more worthwhile than the Mediterranean posting, although it meant he no longer saw Clements and Minna.&lt;ref&gt;Hough p.28–29&lt;/ref&gt;
+
+In 1869 he submitted a design to [[George Bowen]], the [[Governor of New Zealand]] for a national ensign for the fledgeling nation.  His proposal, incorporating the [[Southern Cross]], was approved and remains in use to this day.&lt;ref&gt;{{cite web |url=http://www.museums.norfolk.gov.uk/polar/markham.htm |title=''Rear-Admiral Sir Albert Hastings Markham'', Norfolk Museums and Archeology Service |accessdate=2008-11-18 |deadurl=yes |archiveurl=https://web.archive.org/web/20080602123145/http://www.museums.norfolk.gov.uk/polar/markham.htm |archivedate=2008-06-02}}&lt;/ref&gt;
+
+On 29 November 1872&lt;ref&gt;{{LondonGazette |issue=23924 |date=29 November 1872 |startpage=36 }}&lt;/ref&gt; he was promoted to [[commander]] and spent the next six years engaged in Arctic Exploration. As a reward for his efforts in the [[British Arctic Expedition]] of 1876, he was promoted to [[Captain (naval)|captain]].&lt;ref&gt;{{LondonGazette |issue=24379 |date=7 November 1876 |startpage=1 }}&lt;/ref&gt; From 1879 to 1882 he was the captain of {{HMS|Triumph|1870|2}},&lt;ref name=NMM/&gt; the flagship of the [[Pacific Station]].  In 1883 he was appointed as captain of [[HMS Vernon (shore establishment)|HMS ''Vernon'']], a naval torpedo school in [[Portsmouth]]. From 1886 to 1889 he acted as commodore of the training squadron, and on 14 May 1888 he was appointed naval aide-de-camp to Queen Victoria.&lt;ref&gt;{{LondonGazette |issue=25820 |date=25 May 1888 |startpage=8 }}&lt;/ref&gt; On 1 August 1891, he was promoted to the rank of [[rear-admiral]].&lt;ref&gt;{{LondonGazette |issue=26190 |date=7 August 1891 |startpage=14 }}&lt;/ref&gt;
+&lt;ref&gt;[http://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATLN=6&amp;CATID=482839&amp;SearchInit=4&amp;CATREF=ADM+196%2F37 Catalogue details for ADM 196/37], [[The National Archives]], these records include [http://www.nationalarchives.gov.uk/documentsonline/details-result.asp?Edoc_Id=7894125&amp;queryType=1&amp;resultcount=16 Markham's service record] (fee required to view pdf of original record). Retrieved 2008-12-22.&lt;/ref&gt;
+
+===Sinking of HMS ''Victoria''===
+{{Main article|HMS Victoria (1887)}}
+Markham was appointed second in command of the Mediterranean fleet on 20 March 1892, commanding the second division. For part of the year the fleet would operate combined, and for part the first division under [[Vice-Admiral]] [[George Tryon|Sir George Tryon]] visited the eastern Mediterranean, while the second patrolled the west.
+
+On 22 June 1893, the whole fleet was operating together for the annual exercises off the Syrian coast. The two divisions were proceeding in parallel columns headed towards the shore, which meant that shortly they must turn. Tryon issued orders for a turn through 180 degrees, which was to be done by the two columns turning towards each other. The two columns were only three cables apart, but the minimum safe spacing for such a turn was generally considered to be four cables. Markham was faced with a dilemma, what to do when given an order which appeared impossible to carry out safely. He hesitated acknowledging the order (sent by flag signals), but eventually acknowledged it when Tryon queried his delay. Tryon's flagship [[HMS Victoria (1887)|''Victoria'']] executed an extreme tight turn, while Markham executed a slower standard turn. The effect was that ''Victoria'' turned slightly faster, and Markham's ship, [[HMS Camperdown (1885)|''Camperdown'']], rammed her towards the bow. ''Victoria'' sank within 15 minutes, taking with her 358 men including Tryon.
+
+The surviving crew of ''Victoria'' were court-martialled for the loss of their ship and were exonerated. Markham was not tried so no verdict was passed upon his actions. The ''Victoria'' verdict noted that it was difficult to condemn an officer for obeying an explicit command, but regrettable that Markham had accepted the order without query.  Markham attempted to obtain his own court martial to clear his name, but was persuaded by the new commander of the Mediterranean fleet and chairman of ''Victoria''{{'}}s court martial, Admiral [[Sir Michael Culme-Seymour, 3rd Baronet|Michael Culme-Seymour]], that it was not in his best interest to persist in this attempt.&lt;ref name=NMM/&gt;&lt;ref&gt;Hough&lt;/ref&gt;
+
+Markham completed his tour of the Mediterranean before a period on half pay without a command.  He was promoted to Vice-Admiral on 23 August 1897.&lt;ref&gt;{{LondonGazette |issue=26885 |date=24 August 1897 |startpage=2 }}&lt;/ref&gt;
+
+On 1 November 1901, he was made [[Commander-in-Chief, The Nore]], making him responsible for the defense of the port of [[London]] and of merchant ships along the East coast of Britain. He hoisted his flag on board the [[battleship]] [[HMS Edinburgh (1882)|''HMS Edinburgh'']] on the same day.&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence |day_of_week=Saturday |date=2 November 1901 |page_number=13 |issue=36602| }}&lt;/ref&gt;  He was promoted to the rank of admiral on 21 January 1903.&lt;ref&gt;{{LondonGazette |issue=27518 |date=23 January 1903 |startpage=2 }}&lt;/ref&gt; Having been made a Knight Commander of the Order of the Bath on 9 November 1903,&lt;ref&gt;{{LondonGazette |issue=27613 |date=6 November 1903 |startpage=1 }}&lt;/ref&gt; he retired upon reaching the age limit on 11 November 1906.&lt;ref&gt;{{LondonGazette |issue=27967 |date=13 November 1906 |startpage=1 }}&lt;/ref&gt; At the outbreak of the [[First World War]] he offered his services to the Admiralty, but his services were declined.  Instead, he worked for the next four years as treasurer for the Mine Sweepers' Fund.  He had just finished some fund work on 23 October 1918 when he fell ill, and died on 28 October.&lt;ref&gt;{{cite book |title=Life of Sir Albert Hastings Markham |last=Markham |page=252 }}&lt;/ref&gt;
+
+==Exploration==
+In 1873, Markham shipped as the [[Second Mate#The Age of Sail|second mate]]&lt;ref name=DNB/&gt; in the whaler ''Arctic'' through [[Davis Strait]]s and Baffin Bay. While performing his share of whaling duties, which he would later write about, he also kept detailed notes on the ice conditions and wrote a report suggesting the route for use with steam vessels.
+
+[[File:HMS Alert.jpg|thumb|left|HMS ''Alert'' in pack ice during the Arctic Expedition of 1876]]For the [[British Arctic Expedition]] of 1875–76 he was appointed second-in-command of [[HMS Alert (1856)|HMS ''Alert'']] under Captain [[George Nares|Nares]]. Despite suffering from [[scurvy]] and being poorly clothed, he led a sledge-party to reach the highest latitude ever attained at the time (83°20′26″ N), a record that stood for 20 years.&lt;ref name=NMM&gt;{{cite web|url=http://www.nmm.ac.uk/collections/archive/catalogue/record.cfm?ID=MRK|title=Biography of Albert Markham at the National Maritime Museum|accessdate=2008-11-19}}&lt;/ref&gt; They did, however, fail to realize their ultimate goal of reaching the [[North Pole]].
+
+In 1879, he accompanied [[Sir Henry Gore-Booth, 5th Baronet|Sir Henry Gore Booth]] aboard the ''Isbjörn'' to [[Novaya Zemlya]], a remote island in northern Russia. In 1886, he went alone to report on the ice conditions of [[Hudson Strait]] and [[Hudson Bay]], a report which garnered thanks from both Houses of the [[Parliament of Canada|Canadian Parliament]].  The ship which took him to Hudson Bay was his old ship ''Alert'' from the British Arctic Expedition of 1875-76, by then on loan to the Canadian Marine Service of the Department of Marine and Fisheries.
+
+He served for many years on the Council of the [[Royal Geographical Society]] along with his cousin [[Clements Markham|Sir Clements Markham]], whose biography he would later write. He remained an avid supporter of both [[Arctic]] and [[Antarctic]] exploration and delighted in the successes of young explorers.
+
+==Writings==
+Markham wrote numerous books and articles about his exploration as well as two [[biography|biographies]]. While stationed in the [[Pacific Ocean|Pacific]] from 1879 to 1882 he compiled a list of [[Pacific gull]]s which was published in 1882 by the [[ornithology|ornithologist]] [[Howard Saunders]] and republished in 1883 by [[Osbert Salvin]]. Salvin named a bird, [[Markham's storm petrel]], after him in honor of his contributions to science.
+
+* ''The New Hebrides and Santa Cruz Groups, South-West Pacific'' (1871) [[File:No-nb bldsa f1c006.jpg|thumb|Sir Albert Markham and Lady Dora Markham]]
+* ''The New Hebrides and Santa Cruz Groups'' (1872)
+* ''The Cruise of the 'Rosario' Amongst the New Hebrides and Santa Cruz Islands'' (1873)
+* ''A Whaling Cruise to Baffin's Bay and the Gulf of Boothia'' (1874)
+* ''On Sledge Travelling'' (1876)
+* ''Our Life in the Arctic Regions'' (1877)
+* ''Northward Ho!'' (1879) 
+* ''The Arctic Campaign of 1879 in the Barents Sea'' (1880)
+* ''A Visit to the Galapagos Islands in 1880'' (1880)
+* ''The Great Frozen Sea'' (1880)
+* ''A Polar Reconnaissance: Being the Voyage of the 'Isbjörn' to Novaya Zemlya in 1879'' (1881)
+* ''Hudson's Bay and Hudson's Strait as a Navigable Channel'' (1888)
+* ''Life of Sir John Franklin and the North-west Passage'' (1891)
+* ''The Life of Sir Clements R. Markham, K.C.B., F.R.S'' (1917)
+
+==Birds discovered by Markham==
+*[[Waved albatross]]&lt;ref name=Markham254&gt;{{cite book |title=Life of Sir Albert Hastings Markham |last=Markham |page=254 }}&lt;/ref&gt;
+*[[Markham's storm petrel]]&lt;ref name=Markham254/&gt;
+
+==Posthumous homage==
+[[File:Captain Markham's most northerly encampment.jpg|thumb|right|''Captain Markham's most northerly encampment'', by Admiral [[Richard Brydges Beechey]]]]Location of geographical features named after Sir Albert Hastings Markham:
+*[[Markgama|Markgama Island]] ({{lang-ru|Остров Маркгама}})
+* Cape Alberta Markgama ({{lang-ru|Мыс Маркгама}}), the Northwestern cape of [[Hooker Island]]
+*[[Zichy Land|Markham Channel]]
+*[[Markham Ice Shelf]]
+*[[Mount Albert Markham]] in Antarctica
+
+==See also==
+*[[Arctic exploration]]
+*[[History of Antarctica]]
+*[[List of polar explorers]]
+*[[List of explorers]]
+*{{UK National Archives ID}}
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{wikisource author}}
+*{{cite book |title=The Geographical Journal, Vol. 52, No. 6. (December, 1918) |publisher=Royal Geographical Society |year=1918 }}
+*{{cite book |title=The Geographical Journal, Vol. 53, No. 1. (January, 1919) |author=L. B. |publisher=Royal Geographical Society |year=1919 }}
+*{{cite book |title=The Life of Sir Albert Hastings Markham |last=Markham, F. E., |author2=Markham, M. A. |year=1927 |publisher=Cambridge University Press }}
+*{{cite web |title=Sir Albert Hastings Markham |url=http://www.1911encyclopedia.org/Sir_Albert_Hastings_Markham |accessdate=25 February 2008 | archiveurl= https://web.archive.org/web/20080407072944/http://www.1911encyclopedia.org/Sir_Albert_Hastings_Markham| archivedate= 7 April 2008 &lt;!--DASHBot--&gt;| deadurl= no}}
+*{{cite book |title=Admirals in Collision |author=Richard Hough |year=1959 |publisher=Hamish Hamilton |location=London}}
+*{{cite EB1922|wstitle=Markham, Sir Albert Hastings}}
+
+==External links==
+* {{Gutenberg author | id=Markham,+Albert+Hastings | name=Albert Hastings Markham}}
+* {{Internet Archive author |sname=Albert Hastings Markham}}
+
+{{s-start}}
+{{s-mil}}
+{{succession box | title=[[Commander-in-Chief, The Nore]] | years=1901&amp;ndash;1903 | before=[[William Kennedy (Royal Navy officer)|Sir William Kennedy]] | after=[[Hugo Pearson|Sir Hugo Pearson]]}}
+{{s-end}}
+
+{{Royal Navy Arctic exploration}}
+{{Polar exploration|state=collapsed}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Markham, Albert Hastings}}
+[[Category:English explorers]]
+[[Category:1841 births]]
+[[Category:1918 deaths]]
+[[Category:Royal Navy admirals]]
+[[Category:Knights Commander of the Order of the Bath]]
+[[Category:Royal Navy personnel of the Second Opium War]]
+[[Category:Explorers of the Arctic]]
+[[Category:People educated at Eastman's Royal Naval Academy]]</text>
+      <sha1>h8v2n6ekswvxbvm0sym9piyyrfiew6x</sha1>
+    </revision>
+  </page>
+</mediawiki>

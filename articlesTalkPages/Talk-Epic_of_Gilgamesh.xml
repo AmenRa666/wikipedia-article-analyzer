@@ -1,0 +1,416 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Epic of Gilgamesh</title>
+    <ns>1</ns>
+    <id>623038</id>
+    <revision>
+      <id>737599041</id>
+      <parentid>732256757</parentid>
+      <timestamp>2016-09-03T21:52:43Z</timestamp>
+      <contributor>
+        <username>Woodroar</username>
+        <id>935793</id>
+      </contributor>
+      <comment>https://en.wikipedia.org/w/index.php?title=Epic_of_Gilgamesh&amp;diff=next&amp;oldid=20853578 was the first edit to introduce a regional variety of English (American)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="57353">{{course assignment | course = User:ProfGray/Religions of the Hebrew Bible | term = Spring 2015 }} {{Talk header}}
+{{Vital article|level=3|topic=Art|class=B}}
+{{American English}}
+{{Article history
+|aciddate=June 25 2006
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Iraq|class=B|importance=top}}
+{{WikiProject Assyria|class=B|importance=high}}
+{{WikiProject Ancient Near East|class=B|importance=high}}
+{{WikiProject Mythology|class=B|importance=high}}
+{{WikiProject Poetry|class=B|importance=high}}
+{{WikiProject Western Asia|class=B|importance=mid}}
+}}
+{{WP1.0|class=B|category=category|WPCD=yes}}
+
+{{archives}}
+
+== Non-Translated version of the Epic of Gilgamesh? ==
+
+Is there a version anywhere that is written in Babylonian or PIE and not English? [[User:Aaronfranke|Aaronfranke]] ([[User talk:Aaronfranke|talk]]) 18:44, 9 April 2016 (UTC)
+
+== Old-Babylonian section makes little sense ==
+
+The section explaining the differences between the standard and Old-Babylonian versions needs better formatting, and an explanation to what each number represents: a tablet number? a version number? what versions would those be? a simple enumeration of differences? [[User:Elideb|Elideb]] ([[User talk:Elideb|talk]]) 18:37, 5 January 2010 (UTC)
+
+I agree. Key differences are either absent or not highlighted particularly well and the section needs a short explanatory introduction. There also seems to be confusion in the &quot;History&quot; section about the differences between the Sumerian, Old-Babylonian, and &quot;Standard&quot; versions. 
+--[[User:Sineaste|Sineaste]] ([[User talk:Sineaste|talk]]) 04:11, 28 June 2010 (UTC)
+
+I have edited the whole section and changed it considerably. It now includes the list of tablets from which the Old Babylonian version has been reconstructed instead of the confusing system of tablets, which made little sense, given that only two tablets have any numbering on them.
+[[User:Elideb|Elideb]] ([[User talk:Elideb|talk]]) 01:03, 11 November 2012 (UTC)
+
+== Why is Gilgamesh not &quot;mythological&quot;? ==
+
+Why is Gilgamesh not &quot;mythological&quot;?  Detailed explanation and definition, please. [[User:Til Eulenspiegel|Til Eulenspiegel]] ([[User talk:Til Eulenspiegel|talk]]) 14:52, 15 September 2010 (UTC)
+
+:I have asked several times in my edit summaries for a clear explanation to be provided here, but all I get is edit warring and accusations.  If it is so obvious to you all, then you should be able to make me see it, too.  So why is Gilgamesh not &quot;mythological&quot;, please? [[User:Til Eulenspiegel|Til Eulenspiegel]] ([[User talk:Til Eulenspiegel|talk]]) 14:55, 15 September 2010 (UTC)
+
+
+::Let's put it the other way around. Why do you want to add 'mythological'? We could call him a probably historical hero-king who is a character in Sumerian mythology, which is what his article says. In other words, there may be myths about him, but we should make sure our readers understand he is probably a real historical character. [[User:Dougweller|Dougweller]] ([[User talk:Dougweller|talk]]) 15:08, 15 September 2010 (UTC)
+
+:::The word &quot;mythological&quot; was already there.  And I still don't understand why it repeatedly removed as if it was incorrect, because as far as I can tell, it IS correct, and nobody has yet explained why it isn't. [[User:Til Eulenspiegel|Til Eulenspiegel]] ([[User talk:Til Eulenspiegel|talk]]) 15:11, 15 September 2010 (UTC)
+
+::::From [[Gilgamesh]]: &quot;It is generally accepted that Gilgamesh was a historical figure, since inscriptions have been found which confirm the historical existence of other figures associated with him: such as the kings Enmebaragesi and Aga of Kish.&quot;
+::::If you start disrupting articles completely unrelated to your favourite topic (Young Earth creationism) just [[WP:POINT|to make a point]], you are not going to push your position here much longer.
+::::The terms &quot;myth&quot; and &quot;mythological&quot; don't have precisely the same connotations, and moreover the connotations of either term depend on the context. But you know that already, from long and tedious discussions at  [[Talk:Genesis creation narrative]] in which you [[WP:COMPETENCE|did not]], or [[WP:IDHT|pretended not to]], listen. [[User:Hans Adler|Hans]] [[User talk:Hans Adler|Adler]] 15:18, 15 September 2010 (UTC) 
+
+Under the &quot;influence on later literature tab I would like to see the influence of the epic on J.R.R. Tokens lord of the rings by the means of it influencing the opera Der Ring des Nibelungen because to me there is a interesting nexus between this ancient primitive yet in many ways extremely sophisticated motifs and parabolic themes live even today in our best literature
+:::::Hans, it still isn't clear to me.  Could you explain it more clearly please, so that I too can understand why Gilgamesh is not mythological?  Thanks! [[User:Til Eulenspiegel|Til Eulenspiegel]] ([[User talk:Til Eulenspiegel|talk]]) 15:21, 15 September 2010 (UTC)
+
+::::::Again, why do you think he is mythological? Why do you think it is correct? It's your turn to answer questions, not just keep saying you don't understand.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Dougweller|Dougweller]] ([[User talk:Dougweller|talk]] • [[Special:Contributions/Dougweller|contribs]]) 15:45, 15 September 2010 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:::::::Well, when I check reliable sources, they all agree Gilgamesh is mythological.  But only when I check English WIKIPEDIA, have I ever seen anyone object to saying Gilgamesh is mythological. So once again, Wikipedia editors' reality seems uniquely skewed from actual bonafide scholarship. [[User:Til Eulenspiegel|Til Eulenspiegel]] ([[User talk:Til Eulenspiegel|talk]]) 16:02, 15 September 2010 (UTC)
+
+::::::::Concrete sources please, so we can check their quality and whether they are aware of the fact that Gilgamesh most likely was a historical personality or predate that knowledge. [[User:Hans Adler|Hans]] [[User talk:Hans Adler|Adler]] 16:11, 15 September 2010 (UTC)
+::::::::Oh, and please don't come with sources that say the Gilgamesh epic is a flood myth. It is, but as you have been told numerous times (in the similar case of a creation myth), that does not imply that it didn't happen in one form or another. [[User:Hans Adler|Hans]] [[User talk:Hans Adler|Adler]] 16:14, 15 September 2010 (UTC)
+
+:::::::::Well Hans, first of all, the knowledge that Enmebaragesi is historical and archaeologically attested, and by extension that Gilgamesh may well be historical, goes back more than a century.  Didn't you know that?  So what other new &quot;knowledge&quot; or revelation is there to predate?  [[User:Til Eulenspiegel|Til Eulenspiegel]] ([[User talk:Til Eulenspiegel|talk]]) 16:17, 15 September 2010 (UTC)
+
+::::::::::No offence meant, but do you really expect me to know that all the sources that you are taking seriously are less than a hundred years old? I would have thought otherwise.
+::::::::::But I don't want to avoid your question: No, I wasn't aware how long this has been known. Would you please answer mine now? [[User:Hans Adler|Hans]] [[User talk:Hans Adler|Adler]] 16:20, 15 September 2010 (UTC)
+
+:::Try reading up on some of the literature in the article's reference section.  They all use the term &quot;mythological&quot; to refer to Gilgamesh and the epic. [[User:Til Eulenspiegel|Til Eulenspiegel]] ([[User talk:Til Eulenspiegel|talk]]) 16:24, 15 September 2010 (UTC)
+
+{{outdent}}The Evolution of the Gilgamesh Epic by Jeffrey H. Tigay 
+The Sumerian tales, the earliest known literary embodiment of Gilgamesh's adventures, are separated from his lifetime by several centuries. According to the Sumerian King List,46 Gilgamesh was the fifth king of the first dynasty of Uruk, which historians place in the Second Early Dynastic Period of Sumer (ca. 2700-250GV7 His name is of a type which is characteristic of this approximate period.48 Although Gilgamesh's existence is not confirmed directly by any contemporary inscriptions of his own which mention him, the likelihood that there was a king of this name has been enhanced by the discovery of inscriptions of contemporaneous rulers of Kish and Ur with whom Gilgamesh is associated in epic and historical tradition49; their existence, at least, is confirmed. Nonliterary texts indicate that by the Fara Period (ca. twenty-sixth or twenty-fifth century), Gilgamesh was regarded as a god50 and that offerings were made to him in Early Dynastic Lagash {before the middle of the twenty-fourth century)...
+pp. 52-57). That Gilgamesh was deified within a century or two of his lifetime may not be surprising if this is viewed as an antecedent of the later deification of kings in Mesopotamia. The kings of Ur III regarded Gilgamesh as something like their personal god, and this is the very relationship in which deified kings seem to have stood toward their realms (Jacobsen, ZA 52:138; ANEH, p. 61). Kings were sometimes accorded this status in their own lifetimes (ANEH, p. 61), and conceivably this was the case with the historical Gilgamcsh (cf. Jacobsen. Treasures, p. 209).
+
+See also [http://books.google.co.uk/books?id=0Ok5WbdWi3QC&amp;pg=PA41&amp;dq=historical+gilgamesh+king+mythological&amp;hl=en&amp;ei=ifWQTMfCLY3Isway4-20AQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=5&amp;ved=0CEAQ6AEwBA#v=onepage&amp;q=historical%20gilgamesh%20king%20mythological&amp;f=false] and in particular, [http://books.google.co.uk/books?id=n2FpRCam224C&amp;pg=PA573&amp;dq=historical+gilgamesh+king+mythological&amp;hl=en&amp;ei=ifWQTMfCLY3Isway4-20AQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=4&amp;ved=0CDsQ6AEwAw#v=onepage&amp;q&amp;f=false]. 
+
+The lead without 'mythological' is correct, so long as the article makes it clear that the stories about him in the Epic are basically mythological. [[User:Dougweller|Dougweller]] ([[User talk:Dougweller|talk]]) 16:37, 15 September 2010 (UTC)
+
+:From the same source (Tigay), page 4: &quot;The epic '''portrays Gilgamesh and his adventures in legendary and mythological colors.''' It describes him as two-thirds divine and irresistible in battle.&quot;  
+:Gilgamesh may or may not have been historical; he is yet to be archaeologically confirmed, and all we do know about his life, if it was real, is solidly in the category of &quot;mythology&quot;. And I still don't have any clear answer to my question. Why is Gilgamesh not &quot;mythological&quot;, and WHO exactly says he isn't? (Aside from Wikipedia know-it-alls) [[User:Til Eulenspiegel|Til Eulenspiegel]] ([[User talk:Til Eulenspiegel|talk]]) 16:50, 15 September 2010 (UTC) 
+
+The ''epic'' of Gilgamesh is primarily a text. It is, of course a mythological text. But any given text cannot ever be a myth, it can only reflect one or several myths, because myths and texts are two separate concepts. 
+In the same way, the Iliad is not &quot;a myth&quot; even though it is, of course, an important source for Greek mythology. 
+
+All these political discussions on the term &quot;myth&quot; are mostly due to a complete lack of understanding of the concept of mythology in your average internet user. The reason is that it is not part of modern general education but an expert field. The fact that Gilgamesh may have been a historical king is not any more relevant to this discussion that the fact that Alexander of Troy may have been a historical king. 
+
+Til Eulenspiegel in particular has a spectacular history of making a fool of himself over consistent and stubborn failure to appreciate the terminological niceties involved. His edits are purely motivated by a desire to lend credibility to his personal brand of biblical literalism. It isn't possible to have a constructive discussion on such a basis.  --[[User:Dbachmann|dab]] &lt;small&gt;[[User_talk:Dbachmann|(𒁳)]]&lt;/small&gt; 16:46, 15 September 2010 (UTC)
+
+:If it is so easy and obvious for you to see why Gilgamesh is not a mythological character, I just thought you could explain it so that even a fool like me could understand it the same way you do - without all the extraneous and emotional invective.  So: why is Gilgamesh not a mythological character???  Any clear answer will be much appreciated! [[User:Til Eulenspiegel|Til Eulenspiegel]] ([[User talk:Til Eulenspiegel|talk]]) 16:54, 15 September 2010 (UTC)
+
+
+::How many times do I have to ask you to answer my questions? We don't know what you mean by 'mythological character' or why you think Gilgamesh is one. You shouldn't expect more answers while you aren't answering. [[User:Dougweller|Dougweller]] ([[User talk:Dougweller|talk]]) 21:03, 15 September 2010 (UTC)
+
+:::Why I think he is or isn't a mythological character may be marginally relevant - but I think it's far more relevant that all the reliable sources published by experts agree he is one.  And I STILL haven't got any coherent explanation as to why a group of wikipedians can overrule all the expert sources. [[User:Til Eulenspiegel|Til Eulenspiegel]] ([[User talk:Til Eulenspiegel|talk]]) 21:08, 15 September 2010 (UTC)
+
+::::If &quot;all the reliable sources published by experts agree he is one&quot; – that he ''is'' one, not that he plays the role of one in the Gilgamesh Epic – then I don't understand why you haven't even produced a ''single'' literal quotation from a reliable source that supports your contention. If we were out for the kind of [[WP:POINT]] violation that you are currently engaging in, then we could accept your argument as valid. And then, since no doubt the occasional scholar will have mentioned that the Jewish god appears also appears as mythologically coloured both in the creation and flood myths of Genesis, we could amend the articles accordingly and lean back, waiting for your protest. (&quot;The Genesis creation narrative, found in the first two chapters of the Book of Genesis in the Bible, describes a supernatural beginning of the earth and life, and culminates in the creation of humanity in the image of a mythological god.&quot;) But that's not how Wikipedia works, and we would be blocked for such a stunt. Correctly. [[User:Hans Adler|Hans]] [[User talk:Hans Adler|Adler]] 21:58, 15 September 2010 (UTC)
+
+:::::I really wish you could keep this on topic.  Arguing about whether or not I am perceived by you to be a &quot;Creationist&quot; or whatever, is never going to solve the question about what reliable sources say on the character of Gilgamesh.  I didn't think there was any debate in any reliable source about the fact that all the information we have on Gilgamesh is 100% mythological.  Also, that his historicity (which I was given to understand is a separate question) is yet to be authenticated. But now I am being told quite authoritatively by the authoritarian types here, that this is wrong, that he is not at all mythological, because he was certainly historical - not because any source says so, mind you, but because the most authoritarian editors say so.  So all I am trying to find out is: What new revelation or reliable source am I missing, that quashes the long-established notion (or so I thought) that he is a mythological character? If the answer is logical and not emotional, it should be the same regardless of how you feel about who is asking the question, and it should be comprehensible enough for anyone to follow. [[User:Til Eulenspiegel|Til Eulenspiegel]] ([[User talk:Til Eulenspiegel|talk]]) 22:08, 15 September 2010 (UTC)
+
+::::::Of course there is no debate about whether Gilgamesh &quot;is 100% mythological&quot;. The question doesn't make much sense. If I update [[universe]] with the &quot;information&quot; that the universe wears a yellow dress, I will have to do better than ''claim'' that all reliable sources agree that this is a fact and demand evidence to the contrary. If it makes no sense or I can't prove it, it stays out of the article, whether others can prove it's false or not.
+::::::We don't know with absolute certainty if there was a historical Gilgamesh (what ''do'' we know with absolute certainty?), but it's very likely. That's more than enough reason not to write an article so as to imply that the character of Gilgamesh in the Gilgamesh epic has no foundation in reality. [[User:Hans Adler|Hans]] [[User talk:Hans Adler|Adler]] 22:47, 15 September 2010 (UTC)
+
+:::What? So according to you, the term &quot;mythological&quot; implies that it has no foundation in reality? 
+:::You said something before about it depending on context.  So I guess in the context of &quot;Gilgamesh is mythological&quot;, it would imply having no foundation in reality.  But in the context of what you mentioned above, &quot;Genesis creation narrative is mythological&quot; it is inarguably so, and nobody disagreees, because it doesn't imply any such thing.  Since you seem to like drawing parallels and comparisons between totally different topics,  could you please kindly explain the basic distinction between these two very different standards a bit more clearly? Thanks, I am learning new things about wikipedia every day from this! [[User:Til Eulenspiegel|Til Eulenspiegel]] ([[User talk:Til Eulenspiegel|talk]]) 22:56, 15 September 2010 (UTC)
+
+::::Why did it have to take so long to get to this point? It has been totally transparent from the beginning what you were up to. For the purpose of this argument let's assume that the term &quot;mythological&quot; means &quot;not historical&quot;. It certainly has that connotation in most contexts. Consider:
+::::# [[Gilgamesh]] is mythological.
+::::# The [[Genesis creation narrative]] is mythological.
+::::# The [[Genesis creation narrative]] is a [[creation myth]].
+::::1 is what you claimed here. 3 was the consensus at [[Talk:Genesis creation narrative]], which you didn't like. 2 is your strawman. 2 is correct, and in certain hypothetical contexts we would be able to say 2 in Wikipedia. However, [[Genesis creation narrative]] is an article about religion and fiction, thus not about scientific reality, thus it would be off-topic to mention that simple fact there. And in articles about other topics [[Genesis creation narrative]] is off-topic, so we can again not mention 2. It's like the statement that Uncle Scrooge is not a real duck/person. True, but off-topic everywhere in Wikipedia. 3 is a correct, reliably sourced statement about the literary genre of the text in question. [[User:Hans Adler|Hans]] [[User talk:Hans Adler|Adler]] 23:13, 15 September 2010 (UTC)
+
+:::OK, thanks for making that point crystal clear.  But the real point of relevance to -this- article is still &quot;1&quot;.  And 100% of the sources I've read on the subject of Gilgamesh agree with &quot;1&quot; - whereas I have seen 0% that disagree with &quot;1&quot;.  And yet, by the entire convoluted line of reasoning presented above, it transpires that &quot;1&quot; is decreed wrong and misleading, all because Gilgamesh MAY have been historical.  Go figure. [[User:Til Eulenspiegel|Til Eulenspiegel]] ([[User talk:Til Eulenspiegel|talk]]) 23:18, 15 September 2010 (UTC)
+
+::::You have yet to provide a single source that supports your contention. Consider:
+::::# The epic portrays Gilgamesh and his adventures in legendary and mythological colors.
+::::# Gilgamesh is a mythological character.
+::::You seem to start with 1 (which I have no doubt is true), and try to deduce 2 from it. Let's look at a similar case:
+::::# The movie portrays Genghis Khan and his conquests in legendary and mythological colors.
+::::# Genghis Khan is a mythological character.
+::::It's easy to imagine a movie for which 1 is true. But to the limited extent that 2 makes sense, it is mostly false. If you want to argue for 2 based only on 1, you will have to do a bit more work. [[User:Hans Adler|Hans]] [[User talk:Hans Adler|Adler]] 00:30, 16 September 2010 (UTC)
+
+:::::Okay, I see you are fond of the hermeneutical approach to logic (though constantly drawing metaphors is not without its logical pitfalls).  So to use your example, there is plenty of historical material for Genghis Khan.  There is zilch for Gilgamesh.  The analogy might seem a tad flawed on that account, mightn't it?  As for demanding sources that say Gilgamesh is mythological, that is entertaining; you did not seem aware of how long ago the Enmebaragesi inscription was found, yet you make bold assertions and challenge me to refute them, apparently not having read any of the books on Gilgamesh in our references section, which would answer your question abundantly.  A simpler and quicker way might be just to type something like &quot;Gilgamesh +mythological&quot; into the internet book search bar, and see if that turns up where anyone may have ever said anything in print about Gilgamesh being either mythological or not mythological.  Or you can play games and say I haven't given you any page numbers, and therefore Gilgamesh is clearly NOT mythological. [[User:Til Eulenspiegel|Til Eulenspiegel]] ([[User talk:Til Eulenspiegel|talk]]) 01:23, 16 September 2010 (UTC)
+
+::::::I am not &quot;constantly drawing metaphers&quot;, I am pointing out the logical flaws in your arguments. I don't know how to do it better than by applying your arguments to similar situations in which they lead to nonsense. The quality of your arguments is among the worst I have ever seen, and I have seen a lot on Wikipedia. Do you really think that a mathematician who is trying to protect an article against a YEC POV pusher is obliged to read an entire book cited in this article, on the off-chance that it's a book whose author got the facts wrong or expressed themselves badly? I ''did'' search for &quot;Gilgamesh mythological&quot; with Google Books, and found only one source that would remotely support your contention: An entry &quot;Gilgamesh, mythological hero of Mesopotamia&quot; in a 1954 book called ''A History of Medicine''. Does this sound like the kind of source that will be sufficient to overturn a consensus?
+::::::Note that finds such as the following don't help your case at all because they merely look at two aspects of Gilgamesh, and don't imply that one of them is the only one: &quot;[...] So much for the historical aspect of Gilgamesh. His mythological character is more easily established. In this regard he is the personification of the sun. [...]&quot; ''Such'' sources can be found on many historical characters, not necessarily with &quot;mythological&quot;, but with other descriptions that are absurd to apply to them outside a specific context.
+::::::&quot;Play games&quot; is a good description for the practice of demanding a specific formulation in an article, proposing a source for this that is obviously insufficient, and then demanding that one of the other editors, none of whom thinks the formulation is appropriate, find better sources. [[User:Hans Adler|Hans]] [[User talk:Hans Adler|Adler]] 07:26, 16 September 2010 (UTC)
+
+::::From the beginning, this whole conversation has seemed to be less about whether experts say Gilgamesh is a mythological character, and more about your perception that I am a &quot;Creationist&quot; and therefore anything I do is to be resisted tooth-and-nail.  One gets the feeling that if I were the one arguing Gilgamesh is NOT mythological, then you would be fighting equally hard to say he IS mythological - solely to &quot;protect the article from the Creationist POV&quot; (whatever that would be).  For my part though, I set all these idle considerations aside when editing wikipedia, and concentrate on what actual on-topic sources say.  [[User:Til Eulenspiegel|Til Eulenspiegel]] ([[User talk:Til Eulenspiegel|talk]]) 11:05, 16 September 2010 (UTC)
+
+:::::Stop the nonsense about my perception that you are creationist. If you are not a creationist, then you are obviously playing one on Wikipedia. For all intents and purposes here that's equivalent. No, I am not opposing you here ''just'' because you are transparently using this question in an attempt to get the description of your favourite topic as a creation myth removed. That would be a very poor reason indeed if your edit was correct. I am opposing you here because it is severely misleading to introduce Gilgamesh as &quot;mythological&quot;. This suggests very strongly that he is not a historical person. This will appear to confirm readers' prejudice, but it is very likely false. Whatever you mean by a &quot;mythological&quot; person, if you apply this to a historical person outside specific contexts in which it is clear what is meant and that they are historical, then you are misleading.
+:::::Which is precisely why all reliable sources qualified to speak about the matter are not doing this. Which latter is precisely why you keep insisting that they all say it, instead of quoting a specific one. [[User:Hans Adler|Hans]] [[User talk:Hans Adler|Adler]] 11:22, 16 September 2010 (UTC)
+
+::::::You are obviously quite knowledgeable on the subject of Gilgamesh, and have read a good many sources all denying the pernicious error that he is in any way 'mythological', so I think I will bow out to your pre-eminent expertise at this point, and let en. wikipedia take its own amusing course.  Thank you for participating in this illuminating discussion! [[User:Til Eulenspiegel|Til Eulenspiegel]] ([[User talk:Til Eulenspiegel|talk]]) 12:15, 16 September 2010 (UTC)
+
+:::::::Illuminating indeed. I shan't forget this discussion. [[User:Dougweller|Dougweller]] ([[User talk:Dougweller|talk]]) 13:28, 16 September 2010 (UTC)
+
+The problem is not whether or not Gilgamesh is &quot;mythological&quot;. The problem is the childish prancing around the term &quot;myth&quot; that takes place on Wikipedia. This is strictly an issue of on-wiki politics and social dynamics, and not an issue in the real world, hence it should not be honoured in article space. 
+
+People interested in the actual question can read [http://books.google.com/books?id=eCZRK_61adMC&amp;pg=PR33&amp;dq=Gilgamesh+mythological&amp;hl=en&amp;ei=xoCTTOeIDcHvOaCY1IkM&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=2&amp;ved=0CCkQ6AEwAQ#v=onepage&amp;q=%22certainly%20fiction%22&amp;f=false this] for an idea of how this is presented by people who know what they are talking about. The trick is to ''grasp'' what is being said, as opposed to just ripping convenient soundbites obtained by googling &quot;myth&quot; from out of a coherent scholarly argument. --[[User:Dbachmann|dab]] &lt;small&gt;[[User_talk:Dbachmann|(𒁳)]]&lt;/small&gt; 14:52, 17 September 2010 (UTC)
+:Good catch there; that was actually pretty interesting.  To use Til's argument, Jesus is a mythological figure, because the things he did were of mythological proportions.  [[WP:POINT|Let's insert that over at the Jesus article, and see what happens]].  Anyways, Dbachmann's link there is very compelling... from an outside (of this dispute) view, the article looks good as it is right now. [[User:The Blade of the Northern Lights|The Blade of the Northern Lights]]  ([[User talk:The Blade of the Northern Lights|&lt;font face=&quot;MS Mincho&quot; color=&quot;black&quot;&gt;話して下さい&lt;/font&gt;]]) 17:30, 18 September 2010 (UTC)
+
+'Good link dab. Since George is THE acknowledged scholarly authority on Gilgamesh it kind of makes nonsense out of the claim that &quot;all&quot; the experts agree that Gilgamesh is &quot;mythological&quot;. I think a partial explaination for this unfounded belief is that books on mesopotamian or ANE mythology can't resist including Gilgamesh, even though the key characteristics of myth (focused on the actions of the gods and/or aetiological) are lacking. As George goes on to point out, the epic certainly contains mythical episodes (the tale of the serpent, the flood), but the story is too humanistic for myth to be the defining genre category.--[[User:Sineaste|Sineaste]] ([[User talk:Sineaste|talk]]) 05:59, 19 October 2010 (UTC)
+
+== Parallels with the biblical flood story ==
+
+The recent addition of a biblical parallels section is quite misleading when it comes to comparing the two flood stories. The original quotations that were formerly in the &quot;Influence on later literature&quot; section have been enclosed by references to a tiny minority view that reverses and undercuts their meaning in the new context.
+
+Firstly, the suggestion that the Mesopotamian flood story was copied from Genesis is absurd. I have yet to access the book cited here, but would be extremely surprised if it is being quoted accurately. Genesis is dated by most scholars to the 6th or 5th centuries BCE. The flood story in Gilgamesh is commonly believed to have been incorporated into the epic around 1300 - 1000 BCE. However, scholars generally agree that the source of this flood story is the epic of Atrahasis (c. 1700 BCE). Moreover, there are clear indications that the Genesis flood story originated in Mesopotamia: the ark comes to rest on the Ararat mountains in Northern Mesopotamia, flooding is typical of Mesopotamia - not Canaan, and greater societies generally influence lesser ones (not the other way around). 
+
+Furthermore, it is not sufficient to say that there were many flood stories in the ancient world  - the implication being that the similarities between Gilgamesh and Genesis are irrelevant. There is a very close literary relationship between the two flood narratives. This is the whole point of the three quotations previously cited. None of the other ancient flood stories provide such close, detailed parallels to Genesis. The fact that the date of the writing or final redaction of Genesis almost certainly occurs at the time of the Babylonian exile provides a sufficient explanation of these parallels: Genesis has borrowed the literary template for the flood story from Babylonian literature. Naturally, the story changes slightly to reflect the theology of the editor. Monotheism replaces polytheism, the covenant motif is introduced, and the flood is sent because of &quot;wickedness&quot; and &quot;violence&quot;. 
+
+This case of borrowing and polemical retelling of Mesopotamian stories is reinforced by other elements in Genesis. As already noted there are similarities between the story of the garden of Eden and the civilizing of Enkidu in Gilgamesh. The Sumerian, Assyrian, and Babylonian lists of pre and postdiluvian kings who live to exaggerated ages are paralleled by Genesis patriarchal lists. The tower of Babel is usually interpreted as either a literary cipher for a Babylonian ziggurat (possibly the enormous one constructed during the reign of Nebuchadnezzar II in the 6th century BCE), or as a reformulation of the similar Sumerian story of Enmerkar and the Lord of Aratta (which concerns the building of a ziggurat in Uruk and a desire to unify the languages of surrounding regions).
+--[[User:Sineaste|Sineaste]] ([[User talk:Sineaste|talk]]) 02:33, 20 December 2010 (UTC)
+
+== Ziusudra and Eridu Genesis ==
+
+Why [[Ziusudra]] and [[Eridu Genesis]] are not mentioned in the article?--[[Special:Contributions/98.196.232.128|98.196.232.128]] ([[User talk:98.196.232.128|talk]]) 02:00, 16 March 2012 (UTC)
+
+:Those flood and creation myths are largely integrated into the epic, so I would agree these are relevant to mention. I will add them.[[User:Wiki-proofer-and-tagger|Wiki-proofer-and-tagger]] ([[User talk:Wiki-proofer-and-tagger|talk]]) 03:46, 3 June 2014 (UTC)
+
+==He Who Sees the 'Unknown'==
+
+It takes very little translation, or modern understanding of looking up words in a dictionary,... or resorting to one's ''lexicon'', to understand that '''''He Who saw the Deep''''' &amp;mdash; is a fairly meaningless representation of the 'translation', or words inplied by the original statement made in the original Words/Language.&lt;br&gt;(I happen to be ''extremely biased'' since I have translated portions, from photos taken of sections of the Epic of Gilgamesh, from some books (3 places in the 12 Chapters-(Over about 1.5 Years-2005-2007, or so-Parpola (glossary-and line-by-line Index) and Kovacs line-per-line translation))). Annddd.... I am also biased since I believe the Epic of Gilgamesh, '''is'''......the ''only'' piece of ''valid'' [[existential]] literature of the human existence, save for some few selected books, )(probably not mentioned on the Wikipedia Existential Article Page)( ---  Here's what I assume:&lt;br&gt;&lt;br&gt;'''He Who Sees the Unknown'''--(the translation-(Statement!) says it all)&lt;br&gt;&lt;br&gt;(or '''''She Who.....'''''), (a sincere comment from an original reader of the text)...(I'm planning on rereading, the (Wikipedia)-Epic of Gilgamesh article here. (I just reread Kovacs (Maureen Kovacs), 12(11) chapter summaries at the beginning of each Tablet)-(Tabl-12, theoretically is appended to the original 11)[[User:Mmcannis|Mmcannis]] ([[User talk:Mmcannis|talk]]) 02:07, 19 April 2012 (UTC)
+
+This comment seems more targeted to editors and translators of the ''actual'' Epic of Gilgamesh. Wikipedia simply reflects that which is the common translation (a figurative speech), used by the sources linked (mostly Andrew George). If you have a request for the article, please, do, but this is not the place for general commentary regarding the translations of the original Akkadian text. [[User:Elideb|Elideb]] ([[User talk:Elideb|talk]]) 13:09, 1 December 2012 (UTC)
+
+== Date of First Discovery ==
+The &lt;b&gt;History&lt;/b&gt; section says, &quot;The Epic of Gilgamesh was discovered by [[Hormuzd Rassam]] in 1853 and is now widely known.&quot; Then the &lt;b&gt;Versions of the epic&lt;/b&gt; section says, &quot;The standard version was discovered by [[Austen Henry Layard]] in the library of Ashurbanipal in Nineveh in 1849.&quot; These two statements cannot be simultaneously true, as written, and will need to be edited or clarified by someone with knowledge of the topic.&lt;br&gt;&lt;br&gt;
+
+The editor wishing to do this might like to note that the article on Hormuzd Rassam cites him as the discoverer of the epic but the page on Layard never even mentions Giilgamesh but has Layard discovering the Library of Ashurbanipal. In common with rather too many Wikipedia articles, neither of these claims has an inline citation so it is extremely difficult if not impossible to know which source the editor is quoting. '''&lt;font face=&quot;times new roman&quot;&gt;[[User:Cottonshirt|&lt;span style=&quot;background:DarkRed;color:#fff;padding:0 4px&quot;&gt;Cottonshirt&lt;/span&gt;]][[User talk:Cottonshirt|&lt;span style=&quot;background:Crimson;padding:0 4px;color:#fff;&quot;&gt;τ&lt;/span&gt;]]&lt;/font&gt;''' 09:58, 13 May 2012 (UTC)
+
+== Request for quotations linking Adam and Eve with the Gilgamesh epic ==
+
+Joseph Blenkinsopp, in the footnoted work, writes:
+..for over a century now specialists in the ancient Near East and the Hebrew Scriptures have noted a preoccupation in both texts [the Garden of Eden story and Gilgamesh] with certain fundamental themes (p.87)
+...the parallels between Gilgamesh and Genesis 2-3 are close enough to permit the suggestion that the author of the Genesis story was familiar with, and had reflected on, Gilgamesh... (p.87) Blenkinsopp suggests that the wide translation and distribution of the Gilgamesh Epic in the ancient world provides a reasonable explaination of how this many have occurred.
+See pages 94-97 for detailed parallels.
+
+Gmirkin in the other referenced work writes:
+The parallels between Enkidu and Adam, the courtesan and Eve, have long been noted. (p.103) See the same page for suggested parallels. 
+
+Both of these quotations can be verified easily online via Google Books. For additional evidence see:
+JD Forest (2007) in 'Gilgamesh and the world of Assyria', Ancient Near Eastern Studies, Supplement 21 (also available via Google Books):
+
+...the story of Adam is based on that of Enkidu [my translation from the French] (p.100). He goes on to list the parallels:
+
+* both are formed from the earth
+* Enkidu lives on the steppe (edin) just as Adam lives in the Garden of Eden
+* Enkidu lives with the animals like Adam
+* he eats grass just as Adam enjoys a vegetarian diet
+* he frequents the water hole just as Adam lives at the source of the rivers
+* Enkidu lacks a human companion like Adam
+* Enkidu encounters a prostitute as Adam is introduced to Eve
+* The prostitute presents her charms leading to a sexual consumation, while Eve presents a desireable fruit and invites Adam to consume it
+* the encounter makes both wise, but there are consequences: Adam becomes subject to death and Enkidu looses some of his former strength
+* in the same way that Enkidu is rejected by the animals and must leave the steppe, Adam is expelled from the garden
+* Finally, the prostitute clothes herself and Enkidu just as Adam and Eve cover their nakedness after the temptation.
+
+I will now remove the request for quotations from the Relationship to the Bible section.
+--[[User:Sineaste|Sineaste]] ([[User talk:Sineaste|talk]]) 03:55, 30 May 2012 (UTC)
+
+:I see these quotations and reference have been added, although I'm not so sure about the structure, why is there an &quot;other parallels&quot; section? Yes, I appreciate the importance of the flood narrative, but shouldn't all biblical parallels just be in the same section?[[User:Wiki-proofer-and-tagger|Wiki-proofer-and-tagger]] ([[User talk:Wiki-proofer-and-tagger|talk]]) 01:26, 3 June 2014 (UTC)
+
+:: I think we can still use &quot;Other parallels&quot;, but as a sub-section rather than it's own section.  I also added other sub-section titles and restrucutred them to parallel their where they occur in the Epic (Enkidu/Shamhat first, Siduri/advice second, Utnapishtim/flood narrative third).[[User:Wiki-proofer-and-tagger|Wiki-proofer-and-tagger]] ([[User talk:Wiki-proofer-and-tagger|talk]]) 02:51, 3 June 2014 (UTC)
+
+== The Siduri controversy ==
+
+It is somewhat disingenuous to reference that famous Carpe Diem quote and then not refer to the original person who is recorded (the OB Sippar tablet) to have said it.  I have tried to be as accurate as possible and mentioned both Siduri and Utnapishtim.
+
+Just how popular is this Carpe Diem quote from the Epic of Gilgamesh?  I typed &quot;Epic of Gilgamesh Quotes&quot; into Google and the vast majority of the results included at least one translation or another of it.  Next I tried &quot;Epic of Gilgamesh&quot; with &quot;Fill your belly&quot; and received over 5,000 hits. Clearly this quote is relatively popular and worthy of accurate mention with full citation to both Siduri (for the OB version) and Utnapishtim (for the Akkadian version) on Wikipedia.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.174.27.181|76.174.27.181]] ([[User talk:76.174.27.181|talk]]) 02:48, 22 December 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:Please stop trying to use Wikipedia to promote your religious beliefs. [[User:Dougweller|Dougweller]] ([[User talk:Dougweller|talk]]) 11:02, 22 December 2012 (UTC)
+
+Hi Doug, I respect your position, but I think the problem is more fundamental that someone’s beliefs.  The most recognized quote from the epic of Gilgamesh is solely being attributed to Utnapistim.  While almost all Sumerian scholars will agree that, originally, this quote is recorded on the Sippar tablet by Siduri.  Please correct me if I am wrong, but that just doesn’t seem right.  A quote should at least MENTION the first person who said it, right?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.174.27.181|76.174.27.181]] ([[User talk:76.174.27.181|talk]]) 12:46, 22 December 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:You may be right, but we need sources that meet our criteria at [[WP:RS]]. [[User:Dougweller|Dougweller]] ([[User talk:Dougweller|talk]]) 14:21, 22 December 2012 (UTC)
+
+:Thank you for clarifying that it was 'attributed to' rather than recorded by Siduri, I think that is slightly more plausible [[User:Til Eulenspiegel|Til Eulenspiegel]] /[[User talk:Til Eulenspiegel|talk]]/ 19:30, 22 December 2012 (UTC)
+
+Yes, my apologies Eulenspiegel, we actually have, as I am sure you are already aware, no idea who actually recorded these texts, how many authors there were or exactly how different the OB version (which is incomplete) was from the later complete &quot;standard&quot; Akkadian version.  You seem to be very informed on these matters and I was wondering if you happen to know of any scholarly analysis of why Siduri's role was so diminished in the Akkadian version?  My extremely simple and preliminary hypothesis is that Siduri being young, female and lower class (wine maker), and Utnapishtim being old, male and high class (wise man/high priest/immortal etc) may have played a role, and may suggest possible cultural differences between Sumerian culture and Akkadian culture, although this could be a bit of a stretch... I wonder, do you know if anyone may have examined these types of questions in more detail, and if so, where I can find the source?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/166.137.208.35|166.137.208.35]] ([[User talk:166.137.208.35|talk]]) 21:29, 22 December 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Date written ==
+
+Shouldn't the date of the original text be featured prominently in the opening paragraph? I believe it's ~2200BCE  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/72.229.138.234|72.229.138.234]] ([[User talk:72.229.138.234|talk]]) 15:16, 1 February 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:Those were Sumerian poems that did not form a singular epic, but dates for all texts are included in the current version.[[User:Wiki-proofer-and-tagger|Wiki-proofer-and-tagger]] ([[User talk:Wiki-proofer-and-tagger|talk]]) 04:33, 3 June 2014 (UTC)
+
+== Humbaba ==
+
+In the section entitled Tablet Five, the ogre was initially called Huwawa, then all other references to him in the page call him Humbaba. I corrected the spelling there, to remain consistent. The differences between the name's come from the different translations, Huwawa being the Sumerian spelling, and Humbaba being the Assyrian spelling. [[User:Celestial Reader|Celestial Reader]] ([[User talk:Celestial Reader|talk]]) 12:24, 8 February 2013 (UTC)
+
+== Punting Poles -- Tablet 10 ==
+
+From Section 10: &quot;Urshanabi instructs Gilgamesh to cut down 120 trees, and fashion them into punting poles...&quot;
+
+What are punting poles?  Perhaps an explanation could be included or some other wording? Thanks. [[User:Risssa|Risssa]] ([[User talk:Risssa|talk]]) 03:27, 23 January 2014 (UTC)
+
+Unfortunately, nobody knows what those punting poles were exactly. We only know they somehow helped Urshanabi navigate through deadly waters by planting/placing them in the water. Scholars hardly aggree on the correct translation and the explanation of how they are used is not too specific, since important fragments of the relevant tablets are missing. Thus, we'll have to wait for new discoveries to improve the wording, or simply accept we will never know what to make of that text exactly. [[User:Elideb|Elideb]] ([[User talk:Elideb|talk]]) 11:07, 5 May 2014 (UTC)
+
+According to Webster's dictionary, a punt (noun) was a &quot;long narrow flat-bottomed boat propelled with a pole&quot; in shallow water.  Hence a &quot;punting pole&quot; was ... [[User:Greensburger|Greensburger]] ([[User talk:Greensburger|talk]]) 03:24, 22 June 2014 (UTC)
+
+== Enkidu's death ==
+
+From Tablet 7: &quot;For 12 days, Enkidu's condition worsens.&quot;  What is his condition?  I realize he has been cursed but how?  [[User:Risssa|Risssa]] ([[User talk:Risssa|talk]]) 04:03, 23 January 2014 (UTC)
+
+:As stated, he has been cursed by the god(s); for disresepcting Ishtar (he throws the Bull's leg at her).[[User:Wiki-proofer-and-tagger|Wiki-proofer-and-tagger]] ([[User talk:Wiki-proofer-and-tagger|talk]]) 21:59, 2 June 2014 (UTC)
+
+== Important but expensive source ==
+
+The Primeval Flood Catastrophe
+Origins and Early Development in Mesopotamian Traditions
+Y. S. Chen
+Oxford Oriental Monographs
+352 pages | 16 black-and-white plates | 234x156mm
+978-0-19-967620-0 | Hardback | 12 December 2013 [http://ukcatalogue.oup.com/product/9780199676200.do]
+Discusses all major aspects of Mesopotamian Flood traditions in depth
+
+Offers a systematic treatment of the historical development of the Flood traditions, and makes important new observations on the origins and development of the traditions
+
+Provides analysis based on an extensive and systematic documentation and analysis of Sumerian and Babylonian flood terms in their literary contexts
+
+Unravels the complex historical relationship between the Flood traditions and major literary and historiographical traditions in Mesopotamia
+
+Sheds new light on our understanding of each individual source (e.g., the Babylonian Gilgamesh epic) involved
+
+Explores the socio-political circumstances in which the Flood traditions emerged and evolved
+
+[[User:Dougweller|Dougweller]] ([[User talk:Dougweller|talk]]) 12:02, 6 April 2014 (UTC)
+
+:Sounds like a great reference, we should probably add it to the flood section, or does Wikipedia have a policy that prevents usage of expensive references?[[User:Wiki-proofer-and-tagger|Wiki-proofer-and-tagger]] ([[User talk:Wiki-proofer-and-tagger|talk]]) 04:30, 3 June 2014 (UTC)
+
+== What was the original ending of the Epic of Gilgamesh? ==
+
+Isn't that ultimately the question that drew us all to the Epic in the first place? The Epic is our first recorded literature, it records the concepts our ancient ancestors found important, philosophies and adventures they held dear. Told around camp fires from generation to generation before the invention of writing. What were those first ideas, those first concepts? Ultimately, we can only extrapolate from what surviving texts we have. However, careful analysis of the earliest surviving Old Babylonian texts by Professor Abusch has been used to reconstruct a prior version of the Epic of Gilgamesh in which Gilgamesh actually takes Siduri's advice and returns home to Uruk (Abusch, T. Gilgamesh's Request and Siduri's Denial. Part I: The Meaning of the Dialogue and Its Implications for the History of the Epic).  This reconstruction, if accurate, would represent a fundamentally different message from later versions where Gilgamesh ignores Siduri's advice and continues to Utnapishtim and the flood narrative. 
+
+I seek the advice of my fellow editors. Should we consider highlighting more prominently on Wikipedia's &quot;Epic of Gilgamesh&quot; webpage Professor Abusch analysis where he proposes that the original ending of Epic of Gilgamesh ended with Gilgamesh accepting Siduri's advice and returning home to Uruk?[[User:Wiki-proofer-and-tagger|Wiki-proofer-and-tagger]] ([[User talk:Wiki-proofer-and-tagger|talk]]) 23:24, 31 May 2014 (UTC)
+
+: I propose the following associated Prof. Abusch reference and sentence &quot;Analysis of the Old Babylonian text has been used to reconstruct possible earlier forms of the Epic of Gilgamesh&quot; be added to the second sentence of the history section. Please let me know if my fellow editors consider this modification acceptable and appropriate.[[User:Wiki-proofer-and-tagger|Wiki-proofer-and-tagger]] ([[User talk:Wiki-proofer-and-tagger|talk]]) 17:05, 2 June 2014 (UTC)
+
+== Including an external link to the complete Andrew George translation? ==
+
+If there is consensus, as appears to be, that Andrew George's Epic of Gilgamesh translation is the most comprehensive and accurate translation available, then I propose we include an external link for readers who want to read this &quot;gold standard&quot; version.[[User:Wiki-proofer-and-tagger|Wiki-proofer-and-tagger]] ([[User talk:Wiki-proofer-and-tagger|talk]]) 23:27, 2 June 2014 (UTC)
+:I added this descriptor to the link to Andrew George's translation: &quot;Considered to be one of the most accurate and comprehensive translations of the Epic of Gilgamesh&quot;. I don't want to knock the other EOG translations, I have read and enjoyed many of them, but I think it is critical that we, as Wikipedia editors, help avoid some of the confusion surrounding which of the plethora of translations to read for those specifically interested in comprehensive analysis and accuracy by a leading and incredibly well-respected EOG scholar.[[User:Wiki-proofer-and-tagger|Wiki-proofer-and-tagger]] ([[User talk:Wiki-proofer-and-tagger|talk]]) 23:45, 2 June 2014 (UTC)
+
+== Combine all &quot;influence&quot; sections? ==
+While not essential, we could consider restructuring the last 3 sections (influence on bible, influence on Homer and influence on contemporary culture) under a single section called &quot;Influence of Epic&quot;. Each of the original sections would then be a subsection, and this large third section would provide a balance to the first two large sections.[[User:Wiki-proofer-and-tagger|Wiki-proofer-and-tagger]] ([[User talk:Wiki-proofer-and-tagger|talk]]) 04:24, 3 June 2014 (UTC)
+:Completed the restructuring.[[User:Wiki-proofer-and-tagger|Wiki-proofer-and-tagger]] ([[User talk:Wiki-proofer-and-tagger|talk]]) 04:46, 3 June 2014 (UTC)
+
+== Constructing an open source Creative Commons Wikimedia Image for the Epic of Gilgamesh Wikipedia article. ==
+
+I propose we consider incorporating key visual elements of this Wikipedia article into an open source Creative Commons Wikimedia Image that can be used to effectively convey multiple key concepts from the article in the shortest period of time possible. This open source media editing concept, if successful, could be applied to other Wikipedia articles. Specifically, I propose that this image include important elements from the article, such as: 1) a famous clay cuneiform tablet (what the Epic was written on and why it has mostly survived to this day), 2) highlighted transcription and translation of this ancient writing into English/other languages, and 3) the specific linking of the most popular quote into one candidate images that we as a community can judge and modify as we see fit to best represent the goals of the Wikipedia article. Goals such as the desire of any encyclopedic source to quickly convey information on a subject using the most effective method available. 
+
+Best,
+Jim
+
+/ Update 1. 6-22-2014
+I propose we consider moving the popular Jacobsen 1949 translation to a note in the legend and replacing it with Andrew George's translation, which he has very kindly offered to highlight on the Sippar tablet and transcribed cuneiform. I love Jacobsen's translation (some of the most beautiful poetry ever written in my opinion), but highlighted cuneiform will significantly improve this collaborative image and help meet the mission of this project to visually deliver mutliple important concepts to the reader in the most effective method possible. Sometimes we must sacrifice for the common good.
+
+/Update 2. 6-23-2014
+Instructions for other editors who wish to participate in this collaborative project:
+1. Get source file from http://sidurisadvice.com/sippar.pptx
+2. Modify as you see fit in PowerPoint
+3. Edit, crop and save as high quality JPEG
+4. Upload to Wikimedia commons
+4.1 Go to https://commons.wikimedia.org
+4.2 Create account
+4.3 Upload image and edit description/tags
+4.4 Copy [[file]] info
+4.5 Paste onto this talk page subsection for community analysis and discussion prior to incoporating into the main article.
+5. Give yourself a pat on the back, you have just helped Wikipedia become slightly more effective as an efficient and easy to understand source of information. If this approach works with this Wikipedia article, it might work with others too.[[User:Wiki-proofer-and-tagger|Wiki-proofer-and-tagger]] ([[User talk:Wiki-proofer-and-tagger|talk]]) 18:24, 23 June 2014 (UTC)
+
+* CURRENT VERSION UNDER DISCUSSION *
+Version 1.1 is below:
+[deleted as there are copyvio issues[[User:Wiki-proofer-and-tagger|Wiki-proofer-and-tagger]] ([[User talk:Wiki-proofer-and-tagger|talk]]) 17:34, 22 June 2014 (UTC)
+
+:I've replaced this with an earlier version. Please don't use images to promote websites or organisations.  Additionally, if there is any impact from this campaign to have the tablet exhibited then that should be shown by using sources that meet [[WP:RS]] -- or to put it a better way, any such campaign should not be sourced to sidurisadvice.com but to reliable sources discussing the campaign. [[User:Dougweller|Dougweller]] ([[User talk:Dougweller|talk]]) 10:01, 29 June 2014 (UTC)
+===Editor using several accounts===
+Note that Wikiproofer and Gilgamesh-for-the-world are the same editor, now called [[User:Jim-Siduri]] - this was a misunderstanding, not an attempt to deceive so far as I can tell. [[User:Dougweller|Dougweller]] ([[User talk:Dougweller|talk]]) 12:53, 5 July 2014 (UTC)
+
+== Translation of Siduri's advice into other languages ==
+This is quite off-topic for this page, but just for the record, the &quot;translations&quot; above (current location: [[Siduri]] talk page) are all woefully wrong. [[User:Future Perfect at Sunrise|Fut.Perf.]] [[User talk:Future Perfect at Sunrise|☼]] 07:11, 24 June 2014 (UTC)
+:My apologies Future Perfect if this Wikipedia translation/collaborative image project is in any way off-topic.  I was under the impression that the talk pages should be used for discussing ways to improve the Wikipedia article in question.  As the proposed translations (once confirmed) will be used as source information for Creative Commons images for Wikipedia &quot;Epic of Gilgamesh&quot; and &quot;Siduri&quot; pages (in multiple languages) this would seem, at least to me, to be more on-topic than off, in my opinion. Although I am somewhat new to Wikipedia so I could well be wrong.  In respect for your position I will move Siduri's advice translations to the [[Siduri]] talk page.  Also, I fear this was not clear enough the first time and perhaps resulted in the impression that these was the &quot;final&quot; translations. You are of course right that these translations have mistakes and errors, as they were generated with Google Translate from the English (Thorkild Jacobsen 1949) translation of Siduri's advice.  I didn't think they would be &quot;woefully wrong&quot;, but as I personally do not speak the native languages in question, they may well be.  They should have been considered rough first drafts that native speakers for each language would be able, if willing, to help make more accurate. The whole point of this multi-language translation project is, as a community, to get the most accurate translation, in every language and then integrate this into the relevant Wikipedia page to help make Wikipedia a more effective medium for information in every country.  Is this not in the spirit of Wikipedia?[[User:Gilgamesh-for-the-World|Gilgamesh-for-the-World]] ([[User talk:Gilgamesh-for-the-World|talk]]) 16:07, 24 June 2014 (UTC)
+:: Based on your concerning feedback Future Perfect, I have added the following warning:
+&quot;PLEASE NOTE THAT THESE TRANSLATIONS WERE CREATED WITH GOOGLE TRANSLATE AND NEED TO BE CHECKED.&quot;[[User:Gilgamesh-for-the-World|Gilgamesh-for-the-World]] ([[User talk:Gilgamesh-for-the-World|talk]]) 16:33, 24 June 2014 (UTC)
+
+* FYI. Blocks have been placed on the user account(s) that proposed these translations (or whatever). [[User:ProfGray|ProfGray]] ([[User talk:ProfGray|talk]]) 22:33, 10 February 2015 (UTC)
+
+
+== Suggested Edit==
+Hi, I'm a student at Miami University in a class about the Hebrew Bible. This article does not mention anything about the fig leaves covering the man and woman. According to Coogan's textbook ''The Old Testament'', I found an interesting sentence that would be useful.[[User:AL2015|AL2015]] ([[User talk:AL2015|talk]]) 17:49, 11 February 2015 (UTC)
+
+== Later Influence ==
+
+The assertion in the corresponding section of the article which I've tagged as needing of citation is problematic not only because it is absolute, but also because it appears universal. A casual reader may understand it to apply to all of the topics/subtitles below it. --[[Special:Contributions/78.134.128.5|78.134.128.5]] ([[User talk:78.134.128.5|talk]]) 21:53, 20 April 2015 (UTC)
+
+== &quot;Alewife&quot; ==
+
+At the beginning of the section &quot;tablet 10&quot; the word &quot;alewife&quot; is found. When I was reading, it was confusing whether this is a type of wife (like kept woman / concubine) or whether it is a typo. I found the meaning later and there is a page on Wikipedia called [[Alewife (trade)]]. So please link the word to the page. Also, maybe in 2-3 words tell what alewife means. But surely please link it so that people do not misunderstand. I tried to do it myself but the page is locked.
+
+Done. Thank you for noticing this. [[User:Dimadick|Dimadick]] ([[User talk:Dimadick|talk]]) 16:19, 1 October 2015 (UTC)
+
+== Semi-protected edit request on 30 October 2015 ==
+
+{{edit semi-protected|Epic of Gilgamesh|answered=yes}}
+&lt;!-- Begin request --&gt;
+
+&lt;!-- End request --&gt;
+[[Special:Contributions/66.230.116.7|66.230.116.7]] ([[User talk:66.230.116.7|talk]]) 00:00, 31 October 2015 (UTC)
+Dates
+
+I have noticed that the time period of the dates are not correct. It is not BC &amp; AD, it is now known as BCE and CE(Before Common Era and Common Era)
+:[[File:Red information icon with gradient background.svg|20px|link=]] '''Not done:'''&lt;!-- Template:ESp --&gt; per [[WP:ERA|Wikipedia Manual of Style]], both BC and BCE are acceptable.  [[User:Cannolis|Cannolis]] ([[User talk:Cannolis|talk]]) 00:31, 31 October 2015 (UTC)
+
+== Tablet 5-New Fragment(s) found. Update necessary ==
+
+
+As of last year 20 new lines of tablet 5 were discovered, which have important implications in the narrative, tone and perhaps moral of the poem, especially with respect to Humbaba. Thus I propose it be updated.
+&lt;ref&gt;http://eprints.soas.ac.uk/18512/1/jcunestud.66.0069_w-footer.pdf&lt;/ref&gt;
+[[User:Bodha2|Bodha2]] ([[User talk:Bodha2|talk]]) 07:46, 20 April 2016 (UTC)</text>
+      <sha1>9vy4isxm1jzx2vmee8gcrezh5io55a0</sha1>
+    </revision>
+  </page>
+</mediawiki>

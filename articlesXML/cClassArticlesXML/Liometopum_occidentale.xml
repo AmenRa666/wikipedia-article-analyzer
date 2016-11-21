@@ -1,0 +1,136 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Liometopum occidentale</title>
+    <ns>0</ns>
+    <id>40887751</id>
+    <revision>
+      <id>639213170</id>
+      <parentid>621558851</parentid>
+      <timestamp>2014-12-22T17:39:59Z</timestamp>
+      <contributor>
+        <username>SporkBot</username>
+        <id>12406635</id>
+      </contributor>
+      <minor/>
+      <comment>Repair [[:Category:Pages using duplicate arguments in template calls|duplicate template args]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8505">{{italic title}}{{Taxobox
+| name = ''Liometopum occidentale''
+| image = Liometopum occidentale casent0005328 profile 1.jpg
+| image_caption = ''L. occidentale'' worker from the United States
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Hymenoptera]]
+| familia = [[Ant|Formicidae]]
+| subfamilia = [[Dolichoderinae]]
+| tribus = [[Tapinomini]]
+| genus = ''[[Liometopum]]''
+| species = '''''L. occidentale'''''
+| binomial = ''Liometopum occidentale''
+| binomial_authority = [[Carlo Emery|Emery]], 1895
+}}
+
+'''''Liometopum occidentale''''' is a [[species]] of [[ant]]s in the [[subfamily]] [[Dolichoderinae]]. ''Liometopum occidentale'' is often mistaken for [[carpenter ant]]s (''Camponotus'' spp.) by homeowners and pest management professionals. This mistaken identity is due to [[Morphology (biology)|morphological]] and behavioral characteristics they share with carpenter ants; namely polymorphic workers, a smooth convex thoracic profile, and the tendency to excavate wood. Consequently, their importance as structural pests may be greatly under reported, especially in [[California]], [[Oregon]], and [[Washington (state)|Washington]], [[United States]].&lt;ref name=&quot;HRK_2013_1&quot;/&gt;
+
+==Taxonomy==
+''Liometopum occidentale'' was originally described as ''[[Liometopum microcephalum]]'' var. ''occidentale'' by [[Carlo Emery|Emery]] (1895). [[William Morton Wheeler|Wheeler]] (1905) relocated it to a variety of ''[[Liometopum apiculatum]]''.&lt;ref name=&quot;Wheeler_1905_324&quot;/&gt; It was finally elevated to the species level by Wheeler (1917) and remained there in a recent taxonomic review by Del Toro et al. (2009).&lt;ref name=&quot;DelToro&amp;Pacheco&amp;Mackay_2009_339-337&quot;/&gt;&lt;ref name=&quot;HRK_2013_2&quot;/&gt;
+
+==Habitat==
+''Liometopum occidentale'' is found from sea level to over 1840 m in coastal regions from southern [[Washington (state)|Washington]] to northern [[Mexico]].&lt;ref name=&quot;HRK_2013_2&quot;/&gt;&lt;ref name=&quot;DelToro&amp;Pacheco&amp;Mackay_2009_334&quot;/&gt; The range of elevation of this species also appears to depend on latitude with ants collected from locations in [[Oregon]] as low as 7 m and up to 1700 m in [[California]]. They are the most common and dominant ant in [[oak]] and [[pine]] forests of southwestern U.S. They prefer to nest in the crevices of oaks, [[alder]]s, [[elm]]s, [[Populus sect. Aigeiros|cottonwoods]], and [[creosote bush|creosote]], in soil, underneath bark of dead trees.&lt;ref name=&quot;HRK_2013_2&quot;/&gt;
+
+==Colonies==
+After finding no aggression between workers collected from significant distances apart and no territorial boundary, Wang et al. (2010) speculated that ''L. occidentale'' colonies are large and polydomous. Since they never found brood or [[ant queen|queens]], it is uncertain whether there are multiple queens within a nest, or whether each queen has some localized &quot;sphere of exclusivity.&quot; and it just seems unlikely that there could be just one queen that produces enough eggs to establish a colony that is one kilometer wide, they also speculated that ''L. occidentale'' are [[polygyne]]. Colonies have been estimated to contain between 40,000 and 60,000&lt;ref name=&quot;DelToro&amp;Pacheco&amp;Mackay_2009_336&quot;/&gt; workers. Colony foundation of this species has not been studied as well as it has with the other two North American species.&lt;ref name=&quot;HRK_2013_3&quot;/&gt;
+
+==Nests==
+''Liometopum occidentale'' typically nest in soil, crevices of trees, and under the bark of dead trees.&lt;ref name=&quot;DelToro&amp;Pacheco&amp;Mackay_2009_336&quot;/&gt; However, were never found by Wang et al. (2010) leading to the speculation nests must lie deep under large boulders or among roots of large trees. To better understand the structure of their nests, more nests need to be excavated.&lt;ref name=&quot;HRK_2013_3&quot;/&gt;
+
+==Feeding==
+''Liometopum occidentale'' are opportunistic omnivores and can often be found tending hemipterans and carrying prey insects back to the nest. They readily attend hemipterans and are found in [[citrus]] groves, but their role in disrupting biological control has not been determined. Their feeding preferences need to be studied to enable the development of an effective bait for pest control purposes.&lt;ref name=&quot;HRK_2013_4&quot;/&gt;
+
+==Foraging activity==
+''Liometopum occidentale'' form massive foraging trails that extend 60 m or more from the nest, and can even be observed on hot days with temperatures between 24 and 38&amp;nbsp;°C. Ramos-Elorduy &amp; Levieux, (1992) observed ''L. occidentale'' traveling mostly underground in very shallow galleries (1–2&amp;nbsp;cm deep), or in [[leaf litter]], however, we have also observed massive above ground trails. According to Ramos-Elorduy &amp; Levieux (1992), ''L. occidentale'' in natural environments forage an areas as large as 2,000 m2, but they only utilize between 486 and 1198 m&lt;sup&gt;2&lt;/sup&gt; (740 m&lt;sup&gt;2&lt;/sup&gt; average) of this area at any one time. This means that they are only using between 33 and 68% of this area, more than twice that of ''[[Liometopum apiculatum|L. apiculatum]]''.&lt;ref name=&quot;HRK_2013_4&quot;/&gt;
+
+==Reproduction==
+[[Nuptial flight]] of ''L. occidentale'' reproductives have been observed throughout May.&lt;ref name=&quot;DelToro&amp;Pacheco&amp;Mackay_2009_336&quot;/&gt; The annual productivity for a colony (40,000 to 60,000 workers) of this species is 2 to 2.8&amp;nbsp;kg of brood per year for 4–8 years. Workers housed without a queen will also lay unfertilized eggs that are eaten or develop into males.&lt;ref name=&quot;HRK_2013_6&quot;/&gt;
+
+==References==
+{{Reflist|2|refs=
+&lt;ref name=&quot;DelToro&amp;Pacheco&amp;Mackay_2009_334&quot;&gt;{{harvnb|Del Toro|Pacheco|Mackay|2009|p=334}}&lt;/ref&gt;
+&lt;ref name=&quot;DelToro&amp;Pacheco&amp;Mackay_2009_336&quot;&gt;{{harvnb|Del Toro|Pacheco|Mackay|2009|p=336}}&lt;/ref&gt;
+&lt;ref name=&quot;DelToro&amp;Pacheco&amp;Mackay_2009_339-337&quot;&gt;{{harvnb|Del Toro|Pacheco|Mackay|2009|pp=339–337}}&lt;/ref&gt;
+
+&lt;ref name=&quot;HRK_2013_1&quot;&gt;{{harvnb|Hoey-Chamberlain|Rust|Klotz|2013|p=1}}&lt;/ref&gt;
+&lt;ref name=&quot;HRK_2013_2&quot;&gt;{{harvnb|Hoey-Chamberlain|Rust|Klotz|2013|p=2}}&lt;/ref&gt;
+&lt;ref name=&quot;HRK_2013_3&quot;&gt;{{harvnb|Hoey-Chamberlain|Rust|Klotz|2013|p=3}}&lt;/ref&gt;
+&lt;ref name=&quot;HRK_2013_4&quot;&gt;{{harvnb|Hoey-Chamberlain|Rust|Klotz|2013|p=4}}&lt;/ref&gt;
+&lt;ref name=&quot;HRK_2013_6&quot;&gt;{{harvnb|Hoey-Chamberlain|Rust|Klotz|2013|p=6}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Wheeler_1905_324&quot;&gt;{{harvnb|Wheeler|1905|p=324}}&lt;/ref&gt;
+
+}}
+{{refbegin}}
+*[[Carlo Emery|Emery, C.]] (1895) Beiträge zur kenntniss der Nordamerikanischen Ameisenfauna. ''Zoologische Jahrbücher Abteilung für Systematik Ökologie und Geographie der Tiere'' '''8''':257–360.
+*{{citation | last1 = Del Toro| first1 =I.| last2 =Pacheco| first2 =J.A.| last3 =Mackay| first3 =W.P. | year = 2009 |title = Revision of the Ant Genus Liometopum (Hymenoptera: Formicidae).| journal = Sociobiology| volume = 53 | pages = 299–369}}
+*{{citation | last1 = Hoey-Chamberlain | first1 = R | last2 = Rust | first2 = MK |last3=Klotz| first3=JH | title = A Review of the Biology, Ecology and Behavior of Velvety Tree Ants of North America | journal = Sociobiology | volume = 60|issue=1 | pages = 1–10 | year = 2013 |doi=10.13102/sociobiology.v60i1.1-10|url=http://periodicos.uefs.br/ojs/index.php/sociobiology/article/view/27}}
+*Ramos-Elorduy, J. &amp; Levieux, J. (1992). Détérrmination des Caractéristiques Spatiales des Aires de Prospection de Plusieurs Societes de Fourmis Mexicanes Liometopum apiculatum Mayr et L. occidentale Wheeler (Hym. Formicidae, Dolichoderinae) a L’aide de Radio-isotopes. Bull. ''Soc. Zool. Fr.'' '''117''': 21-30.
+*Wang, T.B., Patel, A., Vu, F. &amp; Nonacs, P. (2010). Natural history observations on the velvety tree ants (''Liometopum occidentale'') unicoloniality and mating flights. ''Sociobiology'' '''55''': 787–794.
+*[[William Morton Wheeler|Wheeler, W. M.]] (1905) The North American ants of the genus ''Liometopum''. ''Bulletin of the American Museum of Natural History'' '''21''':321–333.
+*Wheeler, W. M. (1917) The mountain ants of western North America. ''Proceedings of the American Academy of Arts &amp; Sciences'' '''52''':457–569.
+*{{OA-attribution| {{citation | last1 = Hoey-Chamberlain | first1 = R | last2 = Rust | first2 = MK |last3=Klotz| first3=JH | title = A Review of the Biology, Ecology and Behavior of Velvety Tree Ants of North America | journal = Sociobiology | volume = 60|issue=1 | pages = 1–10 | year = 2013 |doi=10.13102/sociobiology.v60i1.1-10|url=http://periodicos.uefs.br/ojs/index.php/sociobiology/article/view/27 }} }}
+{{refend}}
+
+==External links==
+*{{commonscat-inline|Liometopum occidentale|''Liometopum occidentale''}}
+
+[[Category:Dolichoderinae]]
+[[Category:Insects described in 1895]]
+[[Category:Hymenoptera of North America]]</text>
+      <sha1>ny6rxru0kurp1p6a0zhimaqeofs8b2r</sha1>
+    </revision>
+  </page>
+</mediawiki>

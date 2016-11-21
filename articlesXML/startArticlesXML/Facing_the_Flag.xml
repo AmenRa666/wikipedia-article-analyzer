@@ -1,0 +1,169 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Facing the Flag</title>
+    <ns>0</ns>
+    <id>5598680</id>
+    <revision>
+      <id>748236897</id>
+      <parentid>722014050</parentid>
+      <timestamp>2016-11-07T04:10:26Z</timestamp>
+      <contributor>
+        <username>Ser Amantio di Nicolao</username>
+        <id>753665</id>
+      </contributor>
+      <comment>/* External links */fix template using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15588">{{plot|date=September 2009}}
+{{Infobox book| &lt;!-- See [[Wikipedia:WikiProject Novels]] or [[Wikipedia:WikiProject Books]] --&gt;
+| name          = Facing the Flag
+| title_orig    = Face au drapeau
+| translator    = [[Frances Cashel Hoey|Cashel Hoey]]
+| image         = HetzelFaceAuDrapeau.jpg
+| image_size = 200px
+| caption =
+| author        = [[Jules Verne]]
+| illustrator   = [[Léon Benett]]
+| cover_artist  =
+| country       = France
+| language      = French
+| series        = [[Voyages Extraordinaires|The Extraordinary Voyages]] #42
+| genre         = [[Adventure novel]]
+| publisher     = [[Pierre-Jules Hetzel]]
+| release_date  = 1896
+| english_release_date = 1897
+| media_type    = Print ([[Hardcover|Hardback]])
+| pages         =
+| preceded_by   = [[Propeller Island]]
+| followed_by   = [[Clovis Dardentor]]
+}}
+
+'''''Facing the Flag''''' or '''''For the Flag''''' ({{lang-fr|Face au drapeau}}) is an 1896 [[patriotic]] [[novel]] by [[Jules Verne]].  The book is part of the [[Voyages Extraordinaires]] (''Extraordinary Voyages'') series.
+
+Like ''[[The Begum's Millions]]'', which Verne published in 1879, it has the theme of France and the entire world  threatened by a super-weapon (what would now be called a [[weapon of mass destruction]]) with the threat finally overcome through the force of French patriotism.
+
+It can be considered one of the first books dealing with problems which were to become paramount half a century after its publication in World War II and the [[Cold War]]: brilliant scientists discovering new weapons of great destructive power, whose full utilization might literally destroy the world; the competition between [[superpower]]s to obtain overwhelming stockpiles of such weapons; and, efforts of other nations to join the [[nuclear weapon|nuclear]] club.
+
+==Plot summary==
+Thomas Roch, a brilliant French [[inventor]], has designed the Fulgurator, a weapon so powerful that &quot;the state which acquired it would become absolute master of earth and ocean.&quot; However, unable to sell his unproven idea to France or any other government, Roch begins to lose his sanity, becoming bitter, megalomaniacal and paranoid. The United States Government reacts by tucking him away at a luxurious asylum in [[New Bern, North Carolina]], where he is visited by one &quot;Count d'Artigas&quot;—actually Ker Karraje, a notorious [[pirate]] of  [[Malagasy people|Malagasy]] origin. His heterogeneous crew is drawn from &quot;escaped convicts, military and naval deserters, and the scum of Europe.&quot;
+
+Karraje and his crew lead double lives. Karraje goes around openly, under the alias of &quot;Count d'Artigas&quot;, a pleasure loving, slightly eccentric but eminently respectable member of nobility. He is a regular visitor to the ports of the East Coast aboard his [[schooner]] ''Ebba''. To outward appearances, ''Ebba'' has no other means of propulsion than its sails, but in fact it is pulled by an underwater tug. By this means, Karraje and his crew can pull up to becalmed sailing vessels without raising suspicion and board them without warning. They then rob and massacre the crews, scuttling the ships, adding to the statistics of &quot;unexplained disappearances&quot;.
+
+Karraje hears of Roch and his invention, takes them both seriously, and decides to gain possession of them. Actually, his aim is rather modest. He has no intention to seize mastery over the world, but just to make his hide-out impregnable. He and his men successfully kidnap Roch from his American asylum, and then bring him to their hide-out—the desolate island of Back Cup in the [[Bermudas]]. Here a wide cavern, accessible only by submerged submarine, has been made into a well-equipped pirate base. It has its own electrical [[power plant]], and is completely unknown to the rest of the world.
+
+During the kidnapping, however, Karraje orders his men to also take along Gaydon, Roch's attendant for the past fifteen months. The reader knows (and, as is later shown, Karraje is also aware) that Gaydon is actually Simon Hart, a French engineer and explosives expert. Hart had decided &quot;to perform the menial and exacting duties of an insane man's attendant&quot; in the hope of learning Roch's secret and, thereby, saving it for France, actuated by &quot;a spirit of the purest and noblest patriotism.&quot;
+
+Hart is kept imprisoned at the pirate base, though in quite comfortable conditions. He can only watch in dismay as the pirate chief easily manages what four governments in succession have failed to do: win Roch over. Roch is given &quot;many rolls of dollar bills and banknotes, and handfuls of English, French, American and German gold coins&quot; with which to fill his pockets. Further, Roch is formally informed that the entire secret cavern and all in it are henceforward his property, and egged on to &quot;defend his property&quot; against the world which has wronged him so badly. Soon, the inventor is busy constructing his fearsome weapon, happily unaware that he is nothing but a glorified prisoner in the pirate's hands.
+
+The paranoid Roch does, however, keep to himself the secret of the detonator or &quot;Deflagrator&quot;, a liquid without which the explosive is merely an inert powder. By holding fast to that last secret, Roch unwittingly preserves the life of his ex-keeper Gaydon/Simon Hart. Karraje suspects, wrongly, that Hart knows much more of Roch's secrets than he is willing to let on. It serves the purposes of the pirate chief, a completely ruthless killer, to let Hart live. The pirate engineer Serko, Hart's &quot;colleague,&quot; hopes to win him over in prolonged friendly conversations. Hart's reticence is misunderstood as proof that he has something to hide.
+
+The pirates underestimate Hart, giving him a practically free run of their hide-out, since the only way out is via submarine. But after carefully studying the currents, Hart succeeds in secretly sending out a message in a metal keg, giving the full details of Karraje's operations and his impeding acquisition of the Fulgurator.
+
+The message gets through to the British authorities at their nearby naval base in [[Bermuda]], and the British Navy sends a submarine, {{HMS|Sword}}, to find Hart. The submarine's crew makes contact with Hart, and take him and Roch on board, but the ''Sword'' is discovered, attacked and sunk by the pirates in a direct underwater submarine vs. submarine battle. The unconscious Hart and Roch are extracted from the sunken British sub by pirate divers, leaving the entire British crew to perish. Hart manages to convince the pirates that he had been kidnapped by the British sailors and had nothing to do with their &quot;visit.&quot; He resumes his role as a tolerated prisoner with a free run of the pirate base.
+
+Meanwhile, Roch's weapon is completed and becomes operational. A hastily gathered international naval task force approaches the island, consisting of five warships dispatched by the world's five largest powers.
+
+The weapon, operated personally by Roch himself, works fully as advertised. Roch has no compunction in using it on British or American ships, and the first cruiser to approach the island is easily destroyed with only a handful of its crew surviving. Undaunted, the next ship approaches the shore, and the moment comes towards which the entire book was leading and from which its title was drawn: &quot;A flag unfurls to the breeze. It is the [[Flag of France|Tricolour]], whose blue, white and red sections stand out luminously against the sky. Ah! What is this? Thomas Roch is fascinated at the sight of his national emblem. Slowly he lowers his arm as the flag flutters up to the mast-head. Then he draws back and covers his eyes with his hand. Heavens above! All sentiment of patriotism is not then dead in his ulcerated heart, seeing that it beats at the sight of his country's flag!&quot;
+
+Having at the moment of truth, rediscovered his patriotism, Roch refuses to fire on his country's ship. He struggles with the pirates who try to seize his phial and the Deflagrator. During the struggle Roch resorts to blowing up himself, his weapon, and the pirates along with the entire island. The single survivor of the cataclysm is Simon Hart, whose unconscious body with the diary at his side is found by the landing French sailors.
+
+Hart is eventually revived, to be amply rewarded for his dedication to his country. He proudly bears witness to Thomas Roch's last-minute change of heart and self-sacrifice. French patriotism is the moral and material victor.
+
+==Response==
+Following publication of the book, Verne was sued by the chemist [[Eugène Turpin]], inventor of the explosive [[Picric acid|Melinite]], who recognized himself in the character of Roch and was not amused. Turpin had tried to sell his invention to the French government, which in 1885  refused it, though later purchasing it (it was extensively used in the First World War); but Turpin had never gone mad, nor did he ever offer his invention to any but the Government of France, so he had some justified grievance. Verne was successfully defended by [[Raymond Poincaré]], later president of France. A letter to Verne's brother Paul seems to suggest, however, that after all Turpin was indeed the model for Roch. The character of Roch and his revolutionary powerful explosive might also have been inspired by the real-life [[Alfred Nobel]] who invented  [[dynamite]] and later reportedly regretted having introduced such a destructive force into the world.&lt;ref name=Butcher&gt;{{cite web|last=Butcher|first=William|title=A Chronology of Jules Verne|url=http://jv.gilead.org.il/butcher/chron.html|work=Jules Verne Collection|publisher=Zvi Har’El|accessdate=24 August 2012}}&lt;/ref&gt;&lt;ref name=FAQ&gt;{{cite web|last=Pérez|first=Ariel|title=Jules Verne FAQ|url=http://jv.gilead.org.il/FAQ/#C9|work=Jules Verne Collection|publisher=Zvi Har’El|accessdate=24 August 2012 |author2=Garmt de Vries |author3=Jean-Michel Margot}}&lt;/ref&gt;
+
+==Politics==
+The book was written and published when France was in the throes of the [[Dreyfus Affair]], Frenchmen were deeply divided over whether or not the Jewish officer [[Alfred Dreyfus]] was guilty of treason and espionage on behalf of the hated Germany (and over more fundamental issues bound up with the Dreyfus case). Verne is known to have initially supported the right-wing anti-Dreyfusards.
+
+The question whether or not Verne was an [[anti-semite]] is hotly debated; while Walter A. McDougall finds &quot;no overt evidence of anti-Semitism on Verne's part,&quot;&lt;ref name=McDougall&gt;{{cite journal|last=McDougall|first=Walter|title=Journey to the Center of Jules Verne… and Us|journal=Watch on the West: A Newsletter of FPRI's Center for the Study of America and the West|date=September 2001|volume=2|issue=4|url=http://www.fpri.org/ww/0204.200109.mcdougall.vernes.html|accessdate=24 August 2012}}&lt;/ref&gt; Brian Taves and Jean-Michel Margot note that his ''[[Off on a Comet]]'' contains &quot;unflattering [[Shylock]]-style stereotypes.&quot;&lt;ref name=Taves&gt;{{cite journal|last=Taves|first=Brian|author2=Jean-Michel Margot|title=Books in Review: An Ordinary Treatment of the ''Voyages Extraordinaires''|journal=Science-Fiction Studies|date=November 1997|volume=XXIV|issue=73|url=http://jv.gilead.org.il/taves/taves73.html|accessdate=24 August 2012}}&lt;/ref&gt; Be that as it may, Verne certainly was a nationalist caught up in the mindset of [[revanchism]], to whom the idea of a French army officer, Jewish or not, spying for Germany would be the greatest of anathemas; and initially Verne, like most French people, believed Dreyfus to be guilty. However, in 1899 Verne came to support a judicial review of the Dreyfus case.&lt;ref name=Butcher /&gt;
+
+While Roch cannot be said to represent Dreyfus in any concrete way, the theme of an apparent traitor, who in the end proves to be a self-sacrificing patriot, may be connected to the change of heart which Verne (and many readers) underwent about Dreyfus.
+
+==Criticisms==
+&quot;(...) In the terrible explosion which destroyed the island of Back Cup, Ker Karraje and his pirates have disappeared - and with them Thomas Roch and the secret of his invention&quot; is how Verne ends his book. However, knowledge of Twentieth Century history and how it was effected by the discovery of [[Weapons of Mass Destruction]] could lead to doubt if that would be quite the end.
+
+Under the conditions described, an accelerated arms race would have been virtually certain to break out between the various late 19th Century powers, each seeking to rediscover Roch's weapon for itself. Britain would presumably assert its sovereignty over Backcup to thoroughly comb the ruins for possible clues; the French would grill Hart for anything he might have picked up and search for any papers Roch may have left behind; the Americans would locate Karraje's suppliers and thoroughly examine their records; and as for the other powers, knowing that such a weapon is possible would be enough of a clue to try their utmost to duplicate it. One may well speculate that in the universe of Verne's book, the First World War would break out much sooner than 1914 and might be far more destructive.
+
+==Legacy==
+
+[[Film historian]] Thomas C. Renzi considers Roch the [[archetype]] of the &quot;[[mad scientist]],&quot; the [[thriller fiction]] [[stock character]] of a monomaniac whose warped genius endangers the world. If so, much of 20th-century [[thriller fiction]], including such films as ''[[Thunderball (film)|Thunderball]]'' and ''[[Barbarella (film)|Barbarella]]'', may be considered direct descendants of ''Facing the Flag''.&lt;ref name=Evans&gt;{{cite journal|last=Evans|first=Arthur B.|title=An Exercise in Creative Genealogy|journal=Science Fiction Studies|date=November 1999|volume=26|issue=79|url=http://www.depauw.edu/sfs/birs/bir79.htm|accessdate=24 August 2012}}&lt;/ref&gt;
+
+In 1958, Czech director [[Karel Zeman]] used the novel as the basis for his 1958 film ''[[Vynález zkázy]]'' (a.k.a. ''The Deadly Invention'' and ''The Fabulous World of Jules Verne''). The film, which made considerable use of the [[steel engraving]]s in the original editions of Verne's novels, won the Grand Prix at the International Film Festival at [[Expo 58]] in Brussels.&lt;ref name=SME&gt;{{cite journal|last=Pišťanek|first=Peter|title=Karel Zeman Génius animovaného filmu|journal=[[SME (newspaper)|SME]]|date=2009-09-17|url=http://kultura.sme.sk/c/5019919/karel-zeman-genius-animovaneho-filmu.html|accessdate=1 February 2012}}&lt;/ref&gt;
+
+And, to a lesser extent, this novel also inspired the climactic scene, at [[Vulcania]], in the 1954 [[Walt Disney]] film &quot;[[20,000 Leagues Under The Sea]]&quot; (adapted from Verne's better known novel of the same name).
+
+== References ==
+{{reflist}}
+
+==External links==
+{{wikisourcelang|fr|Face au drapeau}}
+{{Commons category|Facing the Flag}}
+*{{wikisource-inline|Facing the Flag|''Facing the Flag''}}
+{{Gutenberg|no=11556|name=Facing the Flag}}
+* [http://jv.gilead.org.il/zydorczak/face00.htm Original French text]
+*[http://ufdc.ufl.edu/UF00085976 ''For the Flag''] English text version with full page cover and page images from the [[University of Florida Baldwin Library|Baldwin Library of Historical Children's Literature]] and the [[University of Florida Digital Collections]]
+* {{librivox book | title=Facing the Flag | author=Jules Verne}}
+
+&lt;!-- Templates --&gt;
+{{Verne}}
+{{Pirates}}
+&lt;!-- Categorii --&gt;
+
+{{Authority control}}
+
+{{DEFAULTSORT:Facing The Flag}}
+[[Category:1896 novels]]
+[[Category:1890s science fiction novels]]
+[[Category:French science fiction novels]]
+[[Category:Novels by Jules Verne]]
+[[Category:Military fiction]]
+[[Category:Pirate books]]
+[[Category:Novels set in North Carolina]]
+[[Category:Suicide in fiction]]</text>
+      <sha1>gdcx7v3g1o0tgode04l55mxfxs77gvg</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,91 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Buccal object rule</title>
+    <ns>0</ns>
+    <id>38410724</id>
+    <revision>
+      <id>660122136</id>
+      <parentid>660119896</parentid>
+      <timestamp>2015-04-30T20:53:10Z</timestamp>
+      <contributor>
+        <username>Hlhalsaf</username>
+        <id>25020608</id>
+      </contributor>
+      <comment>/* Clark's Rule */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4126">{{Orphan|date=August 2013}}
+
+[[File:BuccalObjectRule.jpg|450px|thumb|right|The initial radiograph (''left'') indicated that a metal foreign object was embedded somewhere in or near the teeth, but upon clinical examination, it could not be found anywhere in the gum tissue.  Upon taking another radiograph (''right'') exposed at a very severe [[Commonly used terms of relationship and comparison in dentistry|distal]] angulation, however, the metal fragment appeared to move a great deal to superimpose on the [[Commonly used terms of relationship and comparison in dentistry|facial aspect]] of the premolar, indicating that the fragment was way more [[Commonly used terms of relationship and comparison in dentistry|buccal]] than initially suspected.  With the use of this second film, it was determined that the metal fragment was indeed embedded in the cheek.]]
+The '''buccal object rule''' is a method used to determine the relative position of two objects in the [[oral cavity]] using projectional dental radiography.
+
+==Clark's Rule==
+In 1909, Clark described a radiographic procedure for localizing impacted teeth to determining their relative antero-posterior position.&lt;ref&gt;Clark CA. &lt;u&gt;A method of ascertaining the relative position of unerupted teeth by means of film radiographs&lt;/u&gt;. ''Royal Society of Medicine Transactions'' 1909;3:87-90&lt;/ref&gt;  If the two teeth (or, by extension, any two objects, such as a tooth and a foreign object) are located in front of one another relative to the x-ray beam, they will appear superimposed on one another on a dental radiograph, but it will be impossible to know which one is in front of the other.  To determine which is in front and which is behind, Clark proposed his '''[https://www.youtube.com/embed/AzjvFPlZtZg SLOB rule]''', as a complicated set of three radiographs, but which can be simplified as follows using just two:
+
+:Expose another film while angle of the x-ray beam has been changed.  If an object moves in the '''''same''''' direction as the source of the x-ray beam, it is '''''[[Commonly used terms of relationship and comparison in dentistry|lingual]]''''' to the other object.  If the object moves in the '''''opposite''''' direction of the source, it is '''''[[Commonly used terms of relationship and comparison in dentistry|buccal]]''''' to the other object.
+
+:'''S'''ame '''L'''ingual; '''O'''pposite '''B'''uccal
+
+==SLOB rule in Dentistry Video Tutorial==
+
+https://www.youtube.com/embed/AzjvFPlZtZg
+
+==Buccal Object Rule==
+[[File:BuccalObjectRule2.jpg|thumb|right|350px|Diagrammatic representation of the buccal object rule being employed.  In the first radiograph (''left''), the objects appear on the film in almost the same relationship that they share in reality.  But by shifting the x-ray collimator (radiation source) to one side and tilting it towards the objects (''right''), the objects appear on the film in a distorted relationship.  The object closer to the x-ray collimator (generally the ''buccal object'') will appear to reposition itself on the film at a greater distance than the object farther from the collimator (generally the ''lingual object'') and it will appear to shift on the film in the direction of the beam.]]
+In 1952, Richards amended this rule using only 2 radiographs,&lt;ref&gt;Richards AG. &lt;u&gt;Roentgenographic localization of the mandibular canal&lt;/u&gt;. ''Journal of Oral Surgery'' 1952;10:325-329&lt;/ref&gt;&lt;ref&gt;Richards AG. &lt;u&gt;The buccal object rule&lt;/u&gt;. ''Journal of the Tennessee State Dental Association'' 1953;33:263-268&lt;/ref&gt; asserting that the object positioned more buccally will move more relative to the object positioned more palatally or lingually.
+
+As a generalization, but not specifically stated as part of Richards' buccal object rule, the ''more buccal'' an object is (i.e. the closer it is to the x-ray source) the ''more it will move'' in the second radiograph when repositioning the x-ray source.
+
+At the [[University of Alabama School of Dentistry]], this rule is referred to as the '''BAMA rule''': &lt;u&gt;b&lt;/u&gt;uccal &lt;u&gt;a&lt;/u&gt;lways &lt;u&gt;m&lt;/u&gt;oves &lt;u&gt;a&lt;/u&gt;way.
+
+==References==
+{{reflist}}
+
+[[Category:Dentistry]]</text>
+      <sha1>7f957daknzcu02we26ued2sq1us5rg1</sha1>
+    </revision>
+  </page>
+</mediawiki>

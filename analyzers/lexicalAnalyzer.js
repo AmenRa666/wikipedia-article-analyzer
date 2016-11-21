@@ -6,6 +6,7 @@ nlp.plugin(require('nlp-syllables'))
 var Lemmer = require('lemmer')
 var WordNet = require("node-wordnet")
 var wordnet = new WordNet({cache:true})
+var time = require('node-tictoc')
 
 // LOGIC
 var lexicalFeatures = {
@@ -80,9 +81,17 @@ var characterCount = 0
 var wordCount = 0
 var syllableCount = 0
 var sentenceCount = 0
+var lemmatizedVerbs = []
+var lemmatizedNouns = []
 
 const countDifferentWords = (cb) => {
-  lexicalFeatures.differentWordCount = _.uniq(words).length
+  var difWords = words.map((word) => {
+    if (word == undefined) {
+      return 'undef'
+    }
+    return word.toLowerCase()
+  })
+  lexicalFeatures.differentWordCount = _.uniq(difWords).length
   cb(null, 'Count Different Words')
 }
 
@@ -130,7 +139,12 @@ const countDifferentNouns = (cb) => {
 
 
 
-
+  difNouns = difNouns.map((word) => {
+    if (word == undefined) {
+      return 'undef'
+    }
+    return word.toLowerCase()
+  })
   lexicalFeatures.differentNounCount = _.uniq(difNouns).length
   cb(null, 'Count Different Nouns')
 }
@@ -152,7 +166,7 @@ const getDifferentNounsDifferentWordsRatio = (cb) => {
 
 const countVerbs = (cb) => {
   lexicalFeatures.verbCount = verbs.length
-    cb(null, 'Count Verbs')
+  cb(null, 'Count Verbs')
 }
 
 const getVerbsPerSentence = (cb) => {
@@ -166,6 +180,12 @@ const getVerbsRate = (cb) => {
 }
 
 const countDifferentVerbs = (cb) => {
+  difVerbs = difVerbs.map((word) => {
+    if (word == undefined) {
+      return 'undef'
+    }
+    return word.toLowerCase()
+  })
   lexicalFeatures.differentVerbCount = _.uniq(difVerbs).length
   cb(null, 'Count Different Verbs')
 }
@@ -201,7 +221,13 @@ const getPronounsRate = (cb) => {
 }
 
 const countDifferentPronouns = (cb) => {
-  lexicalFeatures.differentPronounCount = _.uniq(pronouns).length
+  var difPronouns = pronouns.map((word) => {
+    if (word == undefined) {
+      return 'undef'
+    }
+    return word.toLowerCase()
+  })
+  lexicalFeatures.differentPronounCount = _.uniq(difPronouns).length
   cb(null, 'Count Different Pronouns')
 }
 
@@ -236,7 +262,13 @@ const getAdjectiveRate = (cb) => {
 }
 
 const countDifferentAdjectives = (cb) => {
-  lexicalFeatures.differentAdjectiveCount = _.uniq(adjectives).length
+  var difAdjectives = adjectives.map((word) => {
+    if (word == undefined) {
+      return 'undef'
+    }
+    return word.toLowerCase()
+  })
+  lexicalFeatures.differentAdjectiveCount = _.uniq(difAdjectives).length
   cb(null, 'Count Different Adjectives')
 }
 
@@ -271,7 +303,13 @@ const getAdverbsRate = (cb) => {
 }
 
 const countDifferentAdverbs = (cb) => {
-  lexicalFeatures.differentAdverbCount = _.uniq(adverbs).length
+  var difAdverbs = adverbs.map((word) => {
+    if (word == undefined) {
+      return 'undef'
+    }
+    return word.toLowerCase()
+  })
+  lexicalFeatures.differentAdverbCount = _.uniq(difAdverbs).length
   cb(null, 'Count Different Adverbs')
 }
 
@@ -306,7 +344,13 @@ const getCoordinatingConjunctionsRate = (cb) => {
 }
 
 const countDifferentCoordinatingConjunctions = (cb) => {
-  lexicalFeatures.differentCoordinatingConjunctionCount = _.uniq(coordinatingConjunctions).length
+  var difCoordinatingConjunction = coordinatingConjunctions.map((word) => {
+    if (word == undefined) {
+      return 'undef'
+    }
+    return word.toLowerCase()
+  })
+  lexicalFeatures.differentCoordinatingConjunctionCount = _.uniq(difCoordinatingConjunction).length
   cb(null, 'Count Different Coordinating Conjunctions')
 }
 
@@ -341,7 +385,13 @@ const getSubordinatingPrepositionsAndConjunctionsRate = (cb) => {
 }
 
 const countDifferentSubordinatingPrepositionsAndConjunctions = (cb) => {
-  lexicalFeatures.differentSubordinatingPrepositionAndConjunctionCount = _.uniq(subordinatingPrepositionsAndConjunctions).length
+  var diffSubordinatingPrepositionAndConjunction = subordinatingPrepositionsAndConjunctions.map((word) => {
+    if (word == undefined) {
+      return 'undef'
+    }
+    return word.toLowerCase()
+  })
+  lexicalFeatures.differentSubordinatingPrepositionAndConjunctionCount = _.uniq(diffSubordinatingPrepositionAndConjunction).length
   cb(null, 'Count Different Subordinating Prepositions And Conjunctions')
 }
 
@@ -371,7 +421,7 @@ const getCharactersPerWord = (cb) => {
 }
 
 const lemmatizeVerb = (verb, cb) => {
-  wordnet.validForms(verb, (results) => {
+  wordnet.validFormsAsync(verb).then((results) => {
     if (results.length > 0) {
       for (var i = 0; i < results.length; i++) {
         if (results[i].slice(-1) === 'v') {
@@ -380,12 +430,25 @@ const lemmatizeVerb = (verb, cb) => {
         }
       }
     }
-    cb(null, lemmatizedVerbs)
+    cb(null, 'Lemmatize verb')
   })
+
+
+  // wordnet.validForms(verb, (results) => {
+  //   if (results.length > 0) {
+  //     for (var i = 0; i < results.length; i++) {
+  //       if (results[i].slice(-1) === 'v') {
+  //         lemmatizedVerbs.push(results[i].substring(0, results[i].length - 2))
+  //         break
+  //       }
+  //     }
+  //   }
+  //   cb(null, lemmatizedVerbs)
+  // })
 }
 
 const lemmatizeNoun = (noun, cb) => {
-  wordnet.validForms(noun, (results) => {
+  wordnet.validFormsAsync(noun).then((results) => {
     if (results.length > 0) {
       for (var i = 0; i < results.length; i++) {
         if (results[i].slice(-1) === 'n') {
@@ -396,14 +459,27 @@ const lemmatizeNoun = (noun, cb) => {
     }
     cb(null, 'Lemmatize noun')
   })
+
+  // wordnet.validForms(noun, (results) => {
+  //   if (results.length > 0) {
+  //     for (var i = 0; i < results.length; i++) {
+  //       if (results[i].slice(-1) === 'n') {
+  //         lemmatizedNouns.push(results[i].substring(0, results[i].length - 2))
+  //         break
+  //       }
+  //     }
+  //   }
+  //   cb(null, 'Lemmatize noun')
+  // })
 }
 
-const lemmatizeVerbs = (verbs, cb) => {
-  verbs = verbs.map((verb) => {
+const lemmatizeVerbs = (_verbs, cb) => {
+  _verbs = _verbs.map((verb) => {
     return verb.toLowerCase()
   })
+  _verbs = _.uniq(_verbs)
   async.each(
-    verbs,
+    _verbs,
     lemmatizeVerb,
     (err, res) => {
       if (err) throw err
@@ -414,12 +490,13 @@ const lemmatizeVerbs = (verbs, cb) => {
   )
 }
 
-const lemmatizeNouns = (nouns, cb) => {
-  nouns = nouns.map((noun) => {
+const lemmatizeNouns = (_nouns, cb) => {
+  _nouns = _nouns.map((noun) => {
     return noun.toLowerCase()
   })
+  _nouns = _.uniq(_nouns)
   async.each(
-    nouns,
+    _nouns,
     lemmatizeNoun,
     (err, res) => {
       if (err) throw err
@@ -431,12 +508,25 @@ const lemmatizeNouns = (nouns, cb) => {
 }
 
 const lemmatize = (cb) => {
+  for (var i = 0; i < difNouns.length; i++) {
+    if (/[~`!#$%\^&*+=\-\[\]\\';,/{}|\\":<>\?]/g.test(difNouns[i])) {
+      difNouns.splice(i, 1)
+      i--
+    }
+  }
+  for (var i = 0; i < difVerbs.length; i++) {
+    if (/[~`!#$%\^&*+=\-\[\]\\';,/{}|\\":<>\?]/g.test(difVerbs[i])) {
+      difVerbs.splice(i, 1)
+      i--
+    }
+  }
   async.parallel([
     async.apply(lemmatizeVerbs, difVerbs),
     async.apply(lemmatizeNouns, difNouns)
     ], (err, res) => {
-      difVerbs = _.uniq(difVerbs)
-      difNouns = _.uniq(difNouns)
+      difVerbs = _.uniq(lemmatizedVerbs)
+      difNouns = _.uniq(lemmatizedNouns)
+      cb(null, 'Lemmatize')
     }
   )
 }
@@ -459,6 +549,8 @@ const analyze = (pos, _words, _characterCount, _wordCount, _syllableCount, _sent
   adverbs = []
   coordinatingConjunctions = []
   subordinatingPrepositionsAndConjunctions = []
+  lemmatizedVerbs = []
+  lemmatizedNouns = []
 
   lexicalFeatures.differentWordCount = 0
   lexicalFeatures.differentWordsPerSentence = 0
@@ -522,7 +614,7 @@ const analyze = (pos, _words, _characterCount, _wordCount, _syllableCount, _sent
 
   verbs = pos.modalAuxiliaries.concat(pos.pastTenseVerbs, pos.notThirdPersonSingularPresentTenseVerbs, pos.thirdPersonSingularPresentTenseVerbs)
 
-  difVerbs = _uniq(pos.modalAuxiliaries.concat(pos.pastTenseVerbs, pos.notThirdPersonSingularPresentTenseVerbs, pos.thirdPersonSingularPresentTenseVerbs, pos.presentParticipleAndGerundVerbs,
+  difVerbs = _.uniq(pos.modalAuxiliaries.concat(pos.pastTenseVerbs, pos.notThirdPersonSingularPresentTenseVerbs, pos.thirdPersonSingularPresentTenseVerbs, pos.presentParticipleAndGerundVerbs,
   pos.pastParticipleVerbs))
 
   // All type of pronouns together
@@ -731,20 +823,11 @@ const analyze = (pos, _words, _characterCount, _wordCount, _syllableCount, _sent
             }
           ], cb)
         },
-
-      ], cb
-
+      ], cb )
     }
-
-
-
-
   ], (err, result) => {
     cb(lexicalFeatures)
   })
-
-
-
 
 }
 

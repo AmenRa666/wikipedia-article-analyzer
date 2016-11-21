@@ -1,0 +1,217 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ford Consul</title>
+    <ns>0</ns>
+    <id>859371</id>
+    <revision>
+      <id>735763853</id>
+      <parentid>733097613</parentid>
+      <timestamp>2016-08-22T23:17:28Z</timestamp>
+      <contributor>
+        <username>GTHO</username>
+        <id>3613546</id>
+      </contributor>
+      <comment>Mk &gt; Mark</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16794">{{Infobox automobile
+| name         = Ford Consul
+| image        = File:Ford Consul 204E 1956 front.jpg
+| caption      = 1956 Ford Consul Mark II Saloon (204E)
+| manufacturer = [[Ford of Britain|Ford UK]]
+| production   = 1951–1962; 1972–1975
+| predecessor  = [[Ford Pilot]]
+| successor    = [[Ford Cortina]]
+| class        = 
+| height       = 
+| weight       = 
+}}
+
+The '''Ford Consul''' is a [[automobile|car]] that was manufactured by [[Ford of Britain|Ford UK]] from 1951 to 1962. The name was later revived for a model produced by Ford in both Britain and Germany from 1972 to 1975.
+
+Between 1951 and 1962 the Consul was the four-cylinder base model of the three-model [[Ford Zephyr]] range, comprising Consul, Zephyr and Zephyr Zodiac. In 1962 the line was restyled, and the Consul was replaced by the Zephyr 4, the mid-range Zephyr model becoming the Zephyr 6 and the top of the range Zephyr Zodiac just being called the Zodiac. At this point Consul became a range of smaller cars in its own right, initially the [[Ford Consul Classic|Consul Classic]] and [[Ford Consul Capri|Consul Capri]], shortly joined by the even smaller [[Ford Cortina|Consul Cortina]]. The Consul Classic was only made for two years (August 1961 - March 1963), before being replaced by the [[Ford Corsair|Consul Corsair]]. The Consul Capri was made from October 1961 until August 1964.
+
+The Consul Classic, the Consul Capri and the Consul Corsair (made from 1963 until 1970) were relatively short-lived, but the [[Ford Cortina]], after losing (along with the Corsair) the &quot;Consul&quot; tag in 1964, went on to become a best-seller. The Consul name was again used by Ford from 1972 to 1975 on a replacement for the Zephyr range, now sharing a body with the more luxurious [[Ford Granada (Europe)|Ford Granada]] Mark I. The Capri name by now had also been reintroduced, in 1969.
+{{TOC_left}}
+{{Clear}}
+
+==Ford Consul EOTA (1951–1956)==
+{{Infobox automobile
+| name         = Ford Consul (EOTA)
+| image        = Ford Consul MkI convertible front.jpg
+| production   = 1951–1956&lt;br&gt;227,732 produced.&lt;ref name=AZ1945-70&gt;{{cite book |last=Sedgwick |first=M. |title=A-Z of Cars 1945-1970|year=1986 |publisher=Bay View Books |location=Devon, UK |isbn=1-870979-39-7}}&lt;/ref&gt;
+| successor    = 
+| body_style   = 4-door [[sedan (car)|saloon]], estate car, convertible.
+| engine       = 1.5 L   [[Straight-4]]
+| width        = {{convert|64|in|mm|0|abbr=on}}&lt;ref name=BritishCars&gt;{{cite book |last=Culshaw |first= |authorlink= |author2=Horrobin |title=Complete Catalogue of British Cars |year=1974 |publisher=Macmillan |location=London |isbn=0-333-16689-2}}&lt;/ref&gt;
+| wheelbase    = {{convert|100|in|mm|0|abbr=on}}&lt;ref name=BritishCars/&gt;
+| length       = {{convert|164|in|mm|0|abbr=on}}&lt;ref name=BritishCars/&gt;
+| height        = {{convert|61|in|mm|abbr=on}}&lt;ref name=PracticalMotorist196004&gt;{{cite journal| authorlink = | title = Second Hand car guide supplement| journal = Practical Motorist| volume =  6 Nbr 68| pages = between pages 768 &amp; 769 |date = April 1960}}&lt;/ref&gt;''(convertible)''
+}}
+The Consul was first shown at the 1950 London Motor Show and was the start of Ford of Britain's successful attack on the family saloon car market and replaced the larger-engined [[Ford Pilot|V-8 Pilot]] which had only been made in small numbers. It was given the Ford code of EOTA. Most cars were 4-door saloons with body design by George Walker of the parent United States Ford company, but a few estate cars were made by the coachbuilder [[Abbott Coachbuilders|Abbott]]. From 1953 a convertible conversion by [[Carbodies]] became available. The body was reinforced by welding in a large X-frame to the floor pan. Unlike the more expensive Zephyr, the hood (convertible top) had to be put up and down manually.
+
+It was also the first car they built with up-to-date technology. The new 1508&amp;nbsp;cc {{convert|47|bhp|abbr=on}} &lt;ref name=Motor1953/&gt; engine had overhead valves, and hydraulic clutch operation was used, which in 1950 was an unusual feature.&lt;ref name=&quot;Autocar1950&quot;&gt;{{cite journal | authorlink = Unsigned |title =Ford Consul Saloon (road test)| journal =[[Autocar]]| volume = | pages =  | date = October 20, 1950 &quot;One of the unusual features of the new Fords is the hydraulic operation, through the pedal, of the clutch withdrawal.   There is a fluid reservoir, accessible under the bonnet, common to the clutch and brake master cylinders.&quot;}}&lt;/ref&gt;   However, a three-speed gearbox, with synchromesh only on second and top, was retained. The Consul was also the first British production car to use the now-common [[MacPherson strut]] independent front [[suspension (vehicle)|suspension]],&lt;ref name=&quot;Autocar195010&quot;&gt;{{cite journal | authorlink = Unsigned |title =Ford Consul Saloon (road test)| journal =[[Autocar]]| volume = | pages =  | date = October 20, 1950 &quot;The behaviour of the suspension is observed with particular interest in view of its unusual character, coil springs being used but without the usual double wishbone assembly....while each front wheel and brake assembly is attached to a tubular king-pin forming the cylinder of a direct-acting hydraulic damper.&quot;}}&lt;/ref&gt; and was the first British Ford with modern [[unibody]] construction.
+
+There was a bench front seat trimmed in PVC, and the handbrake was operated by an umbrella-style  pull lever under the facia (dash). The windscreen wipers used the antiquated vacuum system:  however, they were now operated from a vacuum pump linked to the camshaft-driven fuel pump rather than to the induction manifold as on Ford's earlier applications of this arrangement. Clearly keen to keep things positive, a 1950 road test by the British [[Autocar]] Magazine, reported that the wipers were &quot;free from the disadvantage of early suction driven wipers that dried up at wide throttle opening   ... and spare[d] the battery&quot;.&lt;ref name=&quot;Autocar195020&quot;&gt;{{cite journal | authorlink = Unsigned |title =Ford Consul Saloon (road test)| journal =[[Autocar]]| volume = | pages =  | date = October 20, 1950}}&lt;/ref&gt;   The initial dashboard was a flat, symmetrical panel with interchangeable instrument cluster and glovebox but, from September 1952, a redesigned asymmetrical dashboard was fitted, and the instruments, consisting of speedometer, ammeter and fuel gauge, were positioned in a housing above the steering column, and there was a full-width parcel shelf on which an optional radio could be placed.
+
+A car tested by [[The Motor (magazine)|The Motor magazine]] in 1953 had a top speed of {{convert|72|mph|km/h|abbr=on}} and could accelerate from 0-{{convert|60|mph|km/h|abbr=on}} in 28 seconds. A fuel consumption of {{convert|26|mpgimp|L/100 km mpgus}} was recorded. The test car cost £732 including taxes.&lt;ref name=Motor1953&gt;{{cite journal | authorlink = Unsigned |title = The Ford Consul Road Test| journal =[[The Motor (magazine)|The Motor]]| volume = | pages = | date = March 25, 1953}}&lt;/ref&gt;
+
+&lt;gallery&gt;
+File:Ford_Consul_MkI_head.jpg|Ford Consul Convertible (EOTA)
+File:Ford_Consul_MkI_rear.jpg|Ford EOTA Consul
+File:Ford_Consul_MkI_tail.jpg|1952 Consul
+File:Ford_Consul_MkI_convertible_rear.jpg|[[Carbodies]] Convertible
+File:Ford_Consul_MkI_convertible_rearo.jpg|Top down Consul
+File:Ford_Consul_MkI_inside.jpg|Inside the Consul
+File:Ford Consul reg ZW 2202.jpg|Ford Consul - contemporary photograph
+File:Ford Consul reg Mar 1954 1508 cc.JPG|Ford Consul 4-door saloon from the front (1954)
+&lt;/gallery&gt;
+{{clear}}
+
+==Ford Consul Mark II (1956–1962)==
+{{Infobox automobile
+| name         = Ford Consul Mark II
+| image        = File:Ford Consul ca 1962.jpg
+| caption      = Ford Consul Mark II Saloon (circa 1962)
+| production   = 1956–1962&lt;br&gt;371,585 fixed roof and 9398 convertibles produced&lt;ref name=AZ1945-70/&gt;
+| successor    = 
+| body_style   = 4-door saloon&lt;br&gt; 4-door estate&lt;br&gt;2-door [[coupé utility]] (Australia only)&lt;br&gt;2-door convertible.
+| engine       = 1.7 L  [[Straight-4]]
+| width        = {{convert|69|in|mm|0|abbr=on}}&lt;ref name=BritishCars/&gt;
+| wheelbase    = {{convert|104|in|mm|0|abbr=on}}&lt;ref name=BritishCars/&gt;
+| length       = {{convert|172|in|mm|0|abbr=on}}&lt;ref name=BritishCars/&gt;
+| height       = {{convert|60|in|mm|0|abbr=on}}&lt;ref name=Motor1956/&gt;
+| weight       = {{convert|2700|lb|kg|0|abbr=on}}&lt;ref&gt;{{cite web |url=http://www.automobile-catalog.com/make/ford_gb/consul_mk_ii/consul_mk_ii_estate/1959.html |title=1959 Ford (U.K.) Consul Mk II Estate specifications }}&lt;/ref&gt;
+}}
+
+In 1956 a new Consul appeared with the Ford code of 204E. The car was still the four-cylinder sub-model of the Zephyr range, with which it shared the same basic body shell. Compared with the original it had a longer wheelbase, larger 1703&amp;nbsp;cc, {{convert|59|bhp|abbr=on}} engine and a complete restyle, borrowing cues from the 1956 models of America's Thunderbird and Fairlane. One thing not updated was the windscreen wipers, which were still vacuum-operated. The roof profile was lowered in 1959 on the Mk2 version, which also had redesigned rear lights and much of the external bright work in stainless steel.  Front disc brakes with vacuum servo appeared as an option in 1960 and were made standard in 1961 (4-wheel drum brakes only, in Australia). The name became the Consul 375 in mid-1961.
+
+The convertible version made by Carbodies continued. A De Luxe version with contrasting roof colour and higher equipment specification was added in 1957. The Australian market had factory-built versions of the [[coupé utility]] (pick up) and estate car (station wagon), as well as a locally engineered version of the saloon. They were also imported by Ford of Canada as a companion to the Falcon.
+
+A Consul Mark II tested by the British magazine ''[[The Motor (magazine)|The Motor]]'' in 1956 had a top speed of {{convert|79.3|mph|km/h|abbr=on}} and could accelerate from 0-{{convert|60|mph|km/h|abbr=on}} in 23.2 seconds. A fuel consumption of {{convert|22.1|mpgimp|L/100 km mpgus}} was recorded. The test car cost £781 including taxes.&lt;ref name=Motor1956&gt;{{cite journal | authorlink = Unsigned |title = The Ford Consul Mk II Saloon| journal =[[The Motor (magazine)|The Motor]]| volume = | pages = | date = May 23, 1956}}&lt;/ref&gt; It was a 1960 Ford Consul Mark II that was the taxi that American singer [[Eddie Cochran]] died in, and not, as many have stated, a London Hackney Cab.
+
+&lt;gallery&gt;
+File:Ford Consul f.JPG|Mark II Consul
+File:Ford_Consul_204E_1956_front.jpg|Early Consul Mark II
+File:Ford_Consul_204E_1960_front.jpg|Lowline Consul
+&lt;/gallery&gt;
+&lt;gallery&gt;
+File:Ford_Consul_204E_1956_side.jpg|Highline Consul
+File:Ford_Consul_204E_1960_rear.jpg|Later Consul Mark II
+File:Ford_Consul_204E_1961_375_rear.jpg|Ford Consul 375
+&lt;/gallery&gt;
+&lt;gallery&gt;
+File:Ford_Consul_204E_Convertible_front.jpg|[[Carbodies]] Consul
+File:Ford_Consul_204E_Convertible_tail.jpg|Convertible Consul
+File:1959 Ford Consul Farnham.jpg|Consul Mark II Farnham Estate
+&lt;/gallery&gt;
+
+{{clear}}
+
+==Ford Consul (Granada Mark I based) (1972–1975) ==
+{{Infobox automobile
+| name         = Ford Consul (Granada Mark I based)
+| image        = 70s Consul (10362664283).jpg
+| caption      = Ford Consul 4-door Saloon (1972-75)
+| production   = 1972–1975 
+| assembly = [[Cologne]], [[Germany]] &lt;ref name=History&gt;[http://www.damage.fi/slas/consulgranadahistory.html Consul Granada History] Retrieved on 19 May 2014&lt;/ref&gt;&lt;br&gt; [[Dagenham]], [[United Kingdom]] &lt;ref name=History/&gt;
+| related      = [[Ford Granada (Europe)|Ford Granada Mark II]]
+| body_style   = 2-door [[saloon (car)|saloon]] &lt;ref name=History/&gt; &lt;br&gt; 4-door [[saloon (car)|saloon]]  &lt;ref name=History/&gt; &lt;br&gt; 2-door [[coupé]] &lt;ref name=History/&gt;  &lt;br&gt; 5-door [[station wagon|estate]] &lt;ref name=History/&gt;
+| engine       = {{ubl | 1663&amp;nbsp;cc [[Ford Essex V4 engine|Essex V4]] | 1699&amp;nbsp;L [[Ford Taunus V4 engine|Taunus V4]]&lt;ref name=Observers&gt;''Ford (D) - Consul 1700'', Observers Book of Automoibles, Seventeenth Edition, 1972, page 77&lt;/ref&gt; | 1993&amp;nbsp;cc [[Ford Pinto engine|Pinto]] [[Inline-four engine|I4]]&lt;ref name=Observers/&gt; | 1996&amp;nbsp;cc [[Ford Essex V4 engine|Essex V4]]&lt;ref name=History/&gt; | 2294&amp;nbsp;cc [[Ford Cologne V6 engine|Cologne V6]]&lt;ref name=Observers/&gt; | 2495&amp;nbsp;cc [[Ford Essex V6 engine (UK)|Essex V6]]&lt;ref name=History/&gt; | 2994&amp;nbsp;cc [[Ford Essex V6 engine (UK)|Essex V6]]&lt;ref name=History/&gt; }}
+| width        = {{convert|70|in|mm|0|abbr=on}}
+| wheelbase    = {{convert|107|in|mm|0|abbr=on}}
+| length       = {{convert|180|in|mm|0|abbr=on}}
+|height= {{convert|54|in|mm|0|abbr=on}}
+|transmission=4-speed [[manual transmission|manual]]&lt;br&gt; automatic optional
+}}
+
+{{main|Ford Granada (Europe)}}
+The Ford Consul name was revived in April 1972 for the lower priced, lower specification variants of the newly introduced [[Ford Granada (Europe)|Ford Granada]].&lt;ref name=granadaguild&gt;[http://www.ford-granadaguild.org.uk/gu4_granhist.php Granada Mk1 &amp; Mk2 History, www.ford-granadaguild.org.uk] Retrieved on 18 May 2014&lt;/ref&gt; Developed jointly by Ford Britain and Ford of Germany,&lt;ref name=Observers/&gt; the cars were built in [[Cologne]] in [[West Germany]] and in [[Dagenham]] in the [[United Kingdom]].&lt;ref name=History/&gt; Consul models can be identified by a two panel cross-mesh grille as opposed to the horizontal chrome bar grille of the Granadas.&lt;ref name=granadaguild/&gt;
+
+Consul, Consul L and Consul GT models were offered &lt;ref name=History/&gt; and were available in 2-door [[saloon (car)|saloon]], 4-door [[saloon (car)|saloon]], 2-door [[coupé]] and 5-door [[station wagon|estate]] bodystyles.&lt;ref name=History/&gt; Unlike the previous Zephyr Estate, the Consul Estate was produced by Ford rather than by an outside contractor.
+
+The 1663&amp;nbsp;cc [[Ford Essex V4 engine|Essex V4]] and 1996&amp;nbsp;cc [[Ford Essex V4 engine|Essex V4]] with 77 and 92 Hp respectively and a 2495&amp;nbsp;cc [[Ford Essex V6 engine (UK)|Essex V6]] with {{convert|118|hp|kW|0|abbr=on}} were the power units offered in the UK. In addition, the Consul GT was powered by the 2994&amp;nbsp;cc [[Ford Essex V6 engine (UK)|Essex V6]] engine providing {{convert|138|hp|kW|0|abbr=on}}. Because it was less well equipped than the similarly powered Granada, it was approximately {{convert|1|long cwt|abbr=on|lk=in}} lighter and correspondingly quicker.&lt;ref name=DailyMailMotorShowReviewOct1972re1973&gt;{{cite journal|journal =Daily Mail |volume = | title = Motor Show Review 1972 on 1973 Cars | publisher=Associated Newspapers Group Ltd |location= London |pages = Page 22 (Ford Consul GT)| date = October 1972}}&lt;/ref&gt; This version has gained cult status due to its regular appearance in the original series of television show [[The Sweeney]]. In late 1974 the Essex V4 was replaced by the 2.0 litre Pinto engine.
+
+In Germany the Consul was offered with a choice of German built Ford engines, starting with the 1699&amp;nbsp;cc [[Ford Taunus V4 engine]] familiar to drivers of the Ford Taunus 17M.&lt;ref name=AutoMotoruSport1974&gt;{{cite journal| authorlink = | title = Test VW 412 LS...zum Vergleich .... Ford Consul 1700| journal = [[Auto, Motor und Sport|Auto Motor u. Sport]]| volume = Heft 3 1974| pages = Seite 40–48 |date = 2 February 1974}}&lt;/ref&gt; The 2.0 litre [[Inline-four engine|straight-four]]&lt;ref name=Observers/&gt; and a 2.3 litre [[Ford Cologne V6 engine|V6]] were also available.&lt;ref name=Observers/&gt;
+
+The Consul name was discontinued in late 1975 after the [[Court of Appeal of England and Wales|UK Court of Appeal]] ruled that [[Granada plc|Granada Group]] could not prevent Ford registering the name Granada as a trademark.&lt;ref&gt;{{cite journal|title=Granada Group Ltd v Ford Motor Company Ltd [1973] RPC 49 797}}&lt;/ref&gt; The Granada name was then applied to all models.
+
+&lt;gallery widths=&quot;200px&quot; heights=&quot;150px&quot;&gt;
+Ford Consul (1973) I.jpg|Ford Consul 2-door Saloon (1972–75)
+Ford Consul GT 2.3 V6 yellow r.jpg|Ford Consul GT 4-door Saloon (1972-1975)
+Ford Consul L 1.jpg| Ford Consul L Coupe (1972–75)
+Ford Consul.jpg| Ford Consul Estate (1972–75)
+
+&lt;/gallery&gt;
+
+{{clear}}
+
+==See also==
+* [[Ford Consul Capri]] for the Ford Consul Capri
+* [[Ford Consul Classic]] for the Ford Consul Classic
+* [[Ford Corsair]] for the Ford Consul Corsair
+* [[Ford Cortina]] for the Ford Consul Cortina
+
+==References==
+{{Reflist|colwidth=30em}}
+
+*A-Z of cars 1945–1970. Sedgwick and Gillies. Bayview books. 1986. ISBN 1-870979-39-7.
+*Ford Consul, Zephyr and Zodiac. Graham Robson. Crowood Press. 2007. ISBN 978-1-86126-943-0
+*{{cite web |url=http://www.automobile-catalog.com/make/ford_gb/consul_mk_ii/consul_mk_ii_estate/1959.html |title=1959 Ford (U.K.) Consul Mk II Estate specifications }}
+
+==External links==
+*[http://www.fivestars.co.uk/ The Ford Mk1 Consul, Zephyr and Zodiac Owners Club]
+
+{{Early European Ford vehicles}}
+{{FordEurope}}
+{{Ford Motor Company vehicles}}
+
+[[Category:Ford of Europe vehicles|Consul]]
+[[Category:Cars introduced in 1951]]</text>
+      <sha1>kjtzkdf0bijkf39disvqx3s92ohuc38</sha1>
+    </revision>
+  </page>
+</mediawiki>

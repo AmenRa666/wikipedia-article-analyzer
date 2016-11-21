@@ -1,0 +1,225 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Loose Special</title>
+    <ns>0</ns>
+    <id>33784858</id>
+    <revision>
+      <id>668333820</id>
+      <parentid>512764455</parentid>
+      <timestamp>2015-06-23T18:58:53Z</timestamp>
+      <contributor>
+        <username>BD2412</username>
+        <id>196446</id>
+      </contributor>
+      <minor/>
+      <comment>Consensus at [[Template talk:Aviation lists#RfC: Should this navbox be removed from non-mentioned articles?]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5056">&lt;!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. --&gt;
+{|{{Infobox Aircraft Begin
+ | name=Loose Special
+ | image=
+ | caption=
+}}{{Infobox Aircraft Type
+ | type=[[Racing aircraft]]
+ | national origin=[[United States|America]]
+ | manufacturer=
+ | designer=Chet Loose&lt;ref&gt;{{cite web|title=Loose Special|url=http://siris-thesauri.si.edu/ipac20/ipac.jsp?session=13215780L388C.3493&amp;profile=planes&amp;uri=link=3100020~!43271~!3100001~!3100002&amp;aspect=subtab13&amp;menu=search&amp;ri=1&amp;source=~!sithesauri&amp;term=Loose+%28Chet%29+Siem+%28Warren%29+Special+NX64573&amp;index=DOAAMB#focus|accessdate=17 November 2011}}&lt;/ref&gt;
+ | first flight=
+ | introduced=1933
+ | retired=
+ | status=
+ | primary user=
+ | more users= &lt;!--Limited to three in total; separate using &lt;br /&gt; --&gt;
+ | produced= &lt;!--years in production--&gt;
+ | number built=1
+ | program cost= &lt;!--Total program cost--&gt;
+ | unit cost= &lt;!--Incremental or flyaway cost for military or retail price for commercial aircraft--&gt;
+ | developed from= 
+ | variants with their own articles=
+}}
+|}
+
+The '''Loose Special''', also called the '''Townsend A-1 Special''', the '''Loose-Siem Special''' and the '''Townsend Special''' is a small [[Air racing|air racer]] developed for the [[Thompson Trophy]] races.&lt;ref&gt;{{cite web|title=Clarance Ace Bragunier|url=http://www.dmairfield.org/people/bragunier_ac/index.html|accessdate=17 November 2011}}&lt;/ref&gt;
+
+&lt;!-- ==Development== --&gt;
+
+==Design==
+The Loose Special is a small single seat racer with [[conventional landing gear]] and a [[flying wires|cable-braced]] [[mid-wing]].&lt;ref&gt;{{cite journal|magazine=Skyways|date=October 2001}}&lt;/ref&gt; The engine was replaced with a {{convert|85|hp|kW|0|abbr=on}} Continental to compete in the [[Formula One Air Racing|Formula One air races]].&lt;ref&gt;{{cite journal|magazine=Flying Magazine|date=December 1947}}&lt;/ref&gt;
+
+==Operational history==
+The Loose Special participated in 1933, 1935 and 1938 air races.&lt;ref&gt;{{cite web|title=Thompson Faq|url=http://www.flyingacesclub.com/thompson.pdf|accessdate=17 mber 2011}}&lt;/ref&gt; In the 1948 Goodyear Formula One Air Races pilot [[Earl Ortman]] placed fourth at a speed of {{convert|127.339|mph|km/h|0|abbr=on}}.&lt;ref&gt;{{cite web|title=Earl Ortman|url=http://goldenageofaviation.org/ortman.htm|accessdate=17 November 2011}}&lt;/ref&gt;
+&lt;!-- ==Variants== --&gt;
+&lt;!-- ==Units using this aircraft/Operators (choose)== --&gt;
+
+==Specifications (Loose Siem Special) ==
+{{Aircraft specs
+|ref=Skyways, Flying&lt;!-- for giving the reference for the data --&gt;
+|prime units?=kts&lt;!-- imp or kts first for US aircraft, and UK aircraft pre-metrification, met(ric) first for all others. You MUST choose a format, or no specifications will show --&gt;
+&lt;!--
+        General characteristics
+--&gt;
+|genhide=
+
+|crew=1
+|capacity=
+|length m=
+|length ft=13
+|length in=
+|length note=
+|span m=
+|span ft=19
+|span in=
+|span note=
+|height m=
+|height ft=
+|height in=
+|height note=
+|wing area sqm=
+|wing area sqft=
+|wing area note=
+|aspect ratio=&lt;!-- give where relevant eg sailplanes  --&gt;
+|airfoil=
+|empty weight kg=
+|empty weight lb=530
+|empty weight note=
+|gross weight kg=
+|gross weight lb=800
+|gross weight note=
+|max takeoff weight kg=
+|max takeoff weight lb=
+|max takeoff weight note=
+|fuel capacity=
+|more general=
+&lt;!--
+        Powerplant
+--&gt;
+|eng1 number=1
+|eng1 name=
+|eng1 type=
+|eng1 kw=&lt;!-- prop engines --&gt;
+|eng1 hp=&lt;!-- prop engines --&gt;
+
+|prop blade number=2&lt;!-- propeller aircraft --&gt;
+|prop name=McCaulley
+|prop dia m=&lt;!-- propeller aircraft --&gt;
+|prop dia ft=&lt;!-- propeller aircraft --&gt;
+|prop dia in=&lt;!-- propeller aircraft --&gt;
+|prop note=
+
+&lt;!--
+        Performance
+--&gt;
+|perfhide=
+
+|max speed kmh=
+|max speed mph=154
+|max speed kts=
+|max speed note=
+|cruise speed kmh=
+|cruise speed mph=
+|cruise speed kts=
+|cruise speed note=
+|stall speed kmh=&lt;!-- aerobatic --&gt;
+|stall speed mph=80&lt;!-- aerobatic --&gt;
+|stall speed kts=
+|stall speed note=
+|never exceed speed kmh=
+|never exceed speed mph=
+|never exceed speed kts=
+|never exceed speed note=
+|range km=
+|range miles=
+|range nmi=
+|range note=
+|ferry range km=
+|ferry range miles=
+|ferry range nmi=
+|ferry range note=
+|endurance=3 hr&lt;!-- if range unknown --&gt;
+|ceiling m=
+|ceiling ft=
+|ceiling note=
+|g limits=&lt;!-- aerobatic --&gt;
+|roll rate=&lt;!-- aerobatic --&gt;
+|glide ratio=&lt;!-- sailplanes --&gt;
+|climb rate ms=
+|climb rate ftmin=2000
+|climb rate note=
+|time to altitude=
+|sink rate ms=&lt;!-- sailplanes --&gt;
+|sink rate ftmin=&lt;!-- sailplanes --&gt;
+|sink rate note=
+|lift to drag=
+|wing loading kg/m2
+|wing loading lb/sqft=11
+|wing loading note=
+|power/mass=
+|thrust/weight=
+|more performance=
+|avionics=
+}}
+
+&lt;!-- ==See also== --&gt;
+{{aircontent
+&lt;!-- include as many lines are appropriate. additional lines/entries with carriage return. --&gt;
+|see also=
+|related=&lt;!-- related developments --&gt;
+|similar aircraft=&lt;!-- similar or comparable aircraft --&gt;
+|lists=&lt;!-- related lists --&gt;
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.aerofiles.com/loose-siem.jpg Image of the Loose Special]
+
+[[Category:Racing aircraft]]</text>
+      <sha1>71u2kxzvn59502jt4qdpm92rwhvrgyc</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,146 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Accurate News and Information Act</title>
+    <ns>0</ns>
+    <id>24695089</id>
+    <revision>
+      <id>644149062</id>
+      <parentid>635720177</parentid>
+      <timestamp>2015-01-25T20:28:02Z</timestamp>
+      <contributor>
+        <username>Arctic.gnome</username>
+        <id>244607</id>
+      </contributor>
+      <minor/>
+      <comment>clean up using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16497">{{italic title}}
+[[File:Accurate News and Information Act clean2.png|thumb|right|alt=A scanned sheet of paper including the text of the first page of the Accurate News and Information Act|The ''Accurate News and Information Act'', including a note about the Lieutenant-Governor's [[reservation and disallowance|reservation]]]]
+
+The '''''Accurate News and Information Act''''' was a statute passed by the [[Legislative Assembly of Alberta]], [[Canada]], in 1937, at the instigation of [[William Aberhart]]'s [[Social Credit Party of Alberta|Social Credit]] government. It would have required newspapers to print &quot;clarifications&quot; of stories that a committee of Social Credit legislators deemed inaccurate, and to reveal their sources on demand.
+
+The act was a result of the stormy relationship between Aberhart and the press, which dated to before the [[Alberta general election, 1935|1935 election]], in which the Social Credit League was elected to government. Virtually all of Alberta's newspapers—especially the ''[[Calgary Herald]]''—were critical of Social Credit, as were a number of publications from elsewhere in Canada. Even the American media had greeted Aberhart's election with derision.
+
+Though the act won easy passage through the Social Credit-dominated legislature, [[Lieutenant-Governor of Alberta]] [[John C. Bowen]] [[disallowance and reservation|reserved]] [[royal assent]] until the [[Supreme Court of Canada]] evaluated the act's legality. In 1938's ''[[Reference re Alberta Statutes]]'', the court found that it was unconstitutional, and it never became law.
+
+==Aberhart and the press==
+
+===Before the 1935 election===
+
+[[William Aberhart]]'s [[Social Credit Party of Alberta|Social Credit League]], running candidates for the first time, won a large majority in the [[Alberta general election, 1935|1935 Alberta election]] on the strength of promises to use a new economic theory called [[Social Credit|social credit]] to end [[Great Depression in Canada|depression]] conditions in the province. It did so against the almost uniform opposition of the news media. Some of the province's major newspapers were loyal to one of the traditional parties: the ''[[Edmonton Bulletin]]'', for example, had supported the [[Alberta Liberal Party|Liberals]] since its inception.&lt;ref&gt;Barr 33&lt;/ref&gt;
+
+Aberhart initially laid out his economic agenda in only vague terms, and by early 1935 his opponents, including Premier [[Richard Gavin Reid]] of the [[United Farmers of Alberta]], were trying to force him to commit to a specific plan. The ''[[Calgary Herald]]'' took up this call, going so far as to offer Aberhart a full page to lay out his approach in detail. Aberhart refused, on the grounds that he considered the ''Herald'''s coverage of him to be unfair.&lt;ref&gt;Elliott 172&lt;/ref&gt; He frequently attacked the newspaper in speeches around the province,&lt;ref&gt;Elliott 174&lt;/ref&gt; and on April 28 suggested that his followers boycott it and other unfriendly newspapers. The boycott was successful to the extent that it drove at least one newspaper out of business.&lt;ref name=&quot;Elliott 182&quot;&gt;Elliott 182&lt;/ref&gt; The ''Herald'' responded to the boycott by asking &quot;Is everyone opposed to the political opinions and plans of Mr. Aberhart to be boycotted?  He has invoked a most dangerous precedent and has given the people of this province a foretaste of the Hitlerism which will prevail if he ever secures control of the provincial administration.&quot;&lt;ref name=&quot;Elliott 182&quot;/&gt;
+
+Shortly before the election, the ''Herald'' began to run cartoons by [[Stewart Cameron]], a virulently anti-Aberhart cartoonist. The day before the election, it ran one featuring a car, labelled &quot;the people&quot;, travelling along &quot;Aberhart Highway No. 1&quot; and arriving at a railway crossing. A train, labelled &quot;common sense&quot;, was approaching from around the bend, along tracks labelled &quot;fundamental facts&quot;. Aberhart leans out the &quot;S.C. Signal Tower&quot; advising the car &quot;All's clear. Don't stop, look or listen.&quot;&lt;ref&gt;Elliott 197&lt;/ref&gt;
+
+Though the ''Herald'' was the most strident in its opposition to Aberhart and Social Credit, the ''Bulletin'', the ''[[Edmonton Journal]]'', the ''[[Medicine Hat News]]'', the ''[[Lethbridge Herald]]'', and many smaller papers all, in the words of [[Athabasca University]] historian Alvin Finkel, &quot;attacked Social Credit viciously as a chimera which, if placed in power, would wreck Alberta's chances for economic recovery.&quot;&lt;ref&gt;Finkel 36&lt;/ref&gt; Of the province's major papers, only the ''Calgary Albertan'' provided even lukewarm support.&lt;ref&gt;Byrne 101&lt;/ref&gt;
+
+So frustrated were the Social Crediters&lt;!-- In this context, &quot;Crediter&quot; is the correct spelling. --&gt; with the newspapers' hostility that in 1934 they founded their own, the ''Alberta Social Credit Chronicle'', to spread their views.&lt;ref&gt;Elliott 147–148&lt;/ref&gt; The ''Chronicle'', in addition to acting as Aberhart's mouthpiece, carried guest editorials by such figures as British [[fascism|fascist]] leader [[Oswald Mosley]] and [[anti-semitism|anti-semitic]] priest [[Charles Coughlin]].&lt;ref&gt;Brennan 23&lt;/ref&gt;
+
+===Post-election===
+
+Media reaction to Social Credit's 1935 victory, in which it won 56 of 63 seats in the [[Legislative Assembly of Alberta]], was almost uniformly negative. The ''Herald'' opined that &quot;the people of Alberta have made a most unfortunate decision and may soon see the folly of it.&quot;&lt;ref&gt;Brennan 24–25&lt;/ref&gt; Even the ''Albertan'' expressed its wish that social credit be first tried in &quot;Scotland, or Ethiopia or anywhere but Alberta.&quot;&lt;ref&gt;Elliott 203&lt;/ref&gt; Reaction across Canada was also negative; the ''[[St. Catharines Standard]]'' called the results &quot;a nightmare that passeth all understanding&quot; and the ''[[Montreal Star]]'' accused Albertans of voting for &quot;an untried man and a policy whose workings he ostentatiously refused to explain before polling day.&quot;&lt;ref name=&quot;Elliott 202&quot;&gt;Elliott 202&lt;/ref&gt; American newspapers were less restrained: the ''[[Chicago Tribune]]'' asked &quot;Greetings to the Canadians. Who's loony now?&quot; and the ''[[Boston Herald]]'''s headline screamed &quot;Alberta goes crazy&quot;.&lt;ref name=&quot;Elliott 202&quot;/&gt;
+
+The relationship did not improve once Aberhart took office. In January 1935, H. Napier Moore wrote two articles for ''[[Maclean's]]'' casting doubt on Aberhart's honesty and his ability to follow through on his election promises. The American ''[[Collier's Weekly]]'' ran a profile that mocked Aberhart's appearance, taking note of his &quot;vast colorless face&quot; and his &quot;narrow, left slanted mouth with soft, extra-heavy, bloodless lips which don't quite meet and through which he breathes wetly.&quot;&lt;ref&gt;Elliott 230–231&lt;/ref&gt; Finkel, finding fault with both sides of the Aberhart-press feud, states
+&lt;blockquote&gt;The major newspapers of the province opposed virtually everything the government did.  Virtually every reform instituted was made to sound more draconian than it actually was. The conservative views of the owners and editors often interfered with the objective presentation of news reports, although perhaps not to the extent that the government claimed. In many cases, the papers simply concentrated on the very real chaos and confusion in government ranks and required few embellishments to make the government look bad.&lt;ref name=&quot;Finkel 62&quot;&gt;Finkel 62&lt;/ref&gt;&lt;/blockquote&gt;
+The ''Herald'' lured Stewart Cameron away from working on [[Walt Disney|Disney]]'s ''[[Snow White and the Seven Dwarfs (1937 film)|Snow White and the Seven Dwarfs]]'' to make him its first ever staff cartoonist; Cameron devoted himself full-time to the ridicule of Aberhart.&lt;ref&gt;Elliott 240&lt;/ref&gt; Though Social Credit staffer turned journalistic historian John Barr argues that the media's unswerving hostility to Aberhart may have benefited him politically by allowing him to &quot;depict the press as a mere tool of Eastern financial and commercial interests&quot;, by January 1936 Aberhart was telling the listeners of his weekly gospel radio show that he was &quot;glad there will be no newspapers in heaven.&quot;&lt;ref&gt;Elliott 230&lt;/ref&gt;
+
+To help combat the negative press, Aberhart resolved to gain control of the ''Albertan'', the one paper of note to show him any support. He formed a company that acquired an option to purchase it, and used his radio program to promote the purchase of shares by Social Credit supporters. The other newspapers criticized him for using what was nominally a [[gospel]] program to promote stock sales.&lt;ref&gt;Elliott 232&lt;/ref&gt; The plan came to naught, as most Social Credit supporters were too poor to buy newspaper stock, and the only interested buyers were beneficiaries of government patronage, chiefly liquor interests.&lt;ref&gt;Elliott 247&lt;/ref&gt; Even so, the ''Albertan'' became the official organ of Social Credit, an editorial decision that doubled its circulation.&lt;ref name=&quot;Finkel 62&quot;/&gt;
+
+Aberhart reacted bitterly to the media's hostility. In a September 20, 1937, radio broadcast, he said of the press &quot;these creatures with mental hydrophobia will be taken in hand and their biting and barking will cease.&quot;&lt;ref&gt;Barr 108&lt;/ref&gt; Four days later, a special session of the [[Legislative Assembly of Alberta]] opened, with the ''Accurate News and Information Act'' figuring prominently on its [[order paper]].&lt;ref&gt;Barr 108–109&lt;/ref&gt;
+
+==Statute==
+
+The [[1937 Social Credit backbenchers' revolt]] had forced Aberhart to abdicate a portion of his power to the newly created [[Social Credit Board]], which consisted of five Social Credit backbenchers charged with supervising a commission of experts. While the initial plan was to have this commission headed by [[C. H. Douglas]], social credit's British founder, Douglas did not like Aberhart and did not view his approach to social credit as consistent with its true form. He refused to come. Instead, he sent two subordinates, L. D. Byrne and G. F. Powell. These surrogates were charged with recommending legislation to implement social credit in Alberta. Their first round of proposals, which included measures imposing government control on banks and prohibiting any person from challenging the constitutionality of any Alberta law in court without receiving the approval of the [[Lieutenant-Governor in Council]], was [[disallowance and reservation|disallowed]] by the federal government. The second round included the ''Accurate News and Information Act''.&lt;ref&gt;Elliott 272–273&lt;/ref&gt;
+
+The act empowered the chair of the Social Credit Board to require a newspaper to reveal the names and addresses of its sources, as well as the names and addresses of any writers, including of unsigned pieces. Non-compliance would result in fines of up to $1,000 per day, and prohibitions on the publishing of the offending newspaper, of stories by offending writers, or of information emanating from offending sources. The act also required newspapers to print, at the instruction of the chair of the Social Credit Board, any statement &quot;which has for its object the correction or amplification of any statement relating to any policy or activity of the Government of the Province.&quot;&lt;ref name=&quot;Elliott 272&quot;&gt;Elliott 272&lt;/ref&gt;
+
+The act was attacked by opposition politicians as evidence of the government's supposed fascism, and alienated even the ''Albertan''.&lt;ref name=&quot;Elliott 273&quot;&gt;Elliott 273&lt;/ref&gt; The international press was also cutting: one British paper referred to Aberhart as &quot;a little Hitler&quot;.&lt;ref name=&quot;Barr 109&quot;&gt;Barr 109&lt;/ref&gt; Later commentators have been no more favourable: Finkel calls the act evidence of the &quot;increasingly authoritarian nature of the Aberhart regime&quot;,&lt;ref name=&quot;Finkel 62&quot;/&gt; and even Barr, generally sympathetic to Social Credit, calls it &quot;a harsh blow to free speech&quot;.&lt;ref name=&quot;Barr 109&quot;/&gt;
+
+[[Lieutenant-Governor of Alberta|Lieutenant-Governor]] [[John C. Bowen]], mindful of the federal government's disallowance of the Social Credit Board's earlier legislation, [[disallowance and reservation|reserved]] [[royal assent]] of the act and its companions until their legality could be tested at the [[Supreme Court of Canada]]. This was the first use of the power of reservation in Alberta history,&lt;ref name=&quot;Elliott 273&quot;/&gt; and in the summer of 1938 Aberhart's government announced the elimination of Bowen's [[Government House (Alberta)|official residence]], his government car, and his secretarial staff. Aberhart biographers David Elliott and Iris Miller and [[Ernest Manning]] biographer [[Brian Brennan (author)|Brian Brennan]] attribute this move to revenge for Bowen's reservation of assent.&lt;ref name=&quot;Elliott 278&quot;&gt;Elliott 278&lt;/ref&gt;&lt;ref&gt;Brennan 54&lt;/ref&gt;
+
+==Aftermath==
+
+Bowen put a stop to the ''Accurate News and Information Act'', at least temporarily, but Aberhart's fight against the press continued: on March 25, 1938, a resolution of the Social Credit-dominated legislature ordered that Don Brown, a reporter for the ''Edmonton Journal'', be jailed &quot;during the pleasure of the assembly&quot; for allegedly misquoting Social Credit backbencher [[John Lyle Robinson]] on the inclusion of [[chiropractors]] in the ''Workman's Compensation Act''. Brown was never actually jailed; the next day, in response to negative publicity from across Canada, the legislature passed another resolution, ordering &quot;the release of Mr. Don C. Brown from custody.&quot;  In Barr's view, &quot;the government was made to look less ominous than silly.&quot;&lt;ref&gt;Barr 112–113&lt;/ref&gt;
+
+Around the same time, the Supreme Court ruled on the ''[[Reference re Alberta Statutes]]''. It found that the ''Accurate News and Information Act'', along with the others submitted to it for evaluation, was ''[[ultra vires]]'' (beyond the powers of) the Alberta government.&lt;ref&gt;Barr 112&lt;/ref&gt; In the case of the ''Accurate News and Information Act'', the court found that the [[Canadian constitution]] included an &quot;[[implied bill of rights]]&quot; that protected freedom of speech as being critical to a parliamentary democracy.&lt;ref&gt;Morton 481–482&lt;/ref&gt;
+
+For its leadership in the fight against the act, the [[Pulitzer Prize]] committee awarded the ''Edmonton Journal'' a bronze plaque, the first time it honoured a non-American newspaper.&lt;ref&gt;Byrne 125&lt;/ref&gt; Ninety-five other newspapers, including the ''Calgary Albertan'', ''Edmonton Bulletin'', ''Calgary Herald'', ''Lethbridge Herald'', and ''Medicine Hat News'', were presented with engraved certificates.&lt;ref&gt;{{cite web |url=http://www.albertasource.ca/lawcases/constitutional/premierconstitution/premierconstitution_significance.htm |title=The Premier vs. the Constitution—Significance |work=Alberta Online Encyclopedia |publisher=Heritage Community Foundation |accessdate=2009-10-14}}&lt;/ref&gt;
+
+==Notes==
+{{reflist|25em}}
+
+==References==
+*{{cite book|last=Barr|first=John J.|title=The Dynasty: The Rise and Fall of Social Credit in Alberta|publisher=McClelland and Stewart Limited|year=1974|location=Toronto|isbn=0-7710-1015-X}}
+*{{cite book |last=Brennan |first=Brian |authorlink=Brian Brennan (author) |title=The Good Steward: The Ernest C. Manning Story |year=2008 |publisher=Fifth House Ltd |location=Calgary |isbn=978-1-897252-16-1}}
+*{{cite book |last=Byrne |first=T. C. |authorlink=Tim Byrne |title=Alberta's Revolutionary Leaders |year=1991 |publisher=Detselig Enterprises |location=Calgary |isbn=1-55059-024-3}}
+*{{cite book|last=Elliott|first=David R. |last2=Miller |first2=Iris |title=Bible Bill: A Biography of William Aberhart|year=1987|publisher=Reidmore Books |location=Edmonton |isbn=0-919091-44-X}}
+*{{cite book |last=Finkel |first=Alvin |title=The Social Credit Phenomenon in Alberta |year=1989 |publisher=[[University of Toronto Press]] |location=Toronto |isbn=0-8020-6731-X}}
+*{{cite book |last=Morton |first=Frederick Lee |edition=3 |title=Law, politics, and the judicial process in Canada |publisher=[[University of Calgary Press]] |year=2002 |isbn=1-55238-046-7 |location=Calgary}}
+
+== External links ==
+{{spoken Wikipedia|Accurate News and Information Act.ogg|2012-03-14}}
+* {{Wikisource-inline|Accurate News and Information Act}}
+* [http://www.albertasource.ca/lawcases/audio/law_1_9.m3u The Premier vs. the Constitution], a radio drama based on the act and subsequent litigation
+
+{{featured article}}
+
+[[Category:1937 in Canadian law]]
+[[Category:1937 in politics]]
+[[Category:1938 in Canadian law]]
+[[Category:Journalism standards]]
+[[Category:Alberta provincial legislation]]
+[[Category:Freedom of expression law]]
+[[Category:Legal history of Canada]]
+[[Category:Media bias controversies]]
+[[Category:Politics of Alberta]]
+[[Category:1937 in Alberta]]
+[[Category:1938 in Alberta]]</text>
+      <sha1>trl86rv1ihog5maqhl6t6lwu50sz45m</sha1>
+    </revision>
+  </page>
+</mediawiki>

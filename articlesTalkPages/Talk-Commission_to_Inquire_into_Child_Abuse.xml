@@ -1,0 +1,172 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Commission to Inquire into Child Abuse</title>
+    <ns>1</ns>
+    <id>14970643</id>
+    <revision>
+      <id>613787940</id>
+      <parentid>514899735</parentid>
+      <timestamp>2014-06-21T08:38:22Z</timestamp>
+      <contributor>
+        <username>Magioladitis</username>
+        <id>1862829</id>
+      </contributor>
+      <minor/>
+      <comment>talk page genfixes to aid tagging bots using [[Project:AWB|AWB]] (10258)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18166">{{Hiberno-English|date=November 2010}}
+{{ITN talk|23 May|2009}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Ireland|class=B|importance=Mid|image-needed=no |listas= }}
+{{WikiProject Catholicism|class=B|importance=Low}}
+{{WikiProject Adoption, fostering, orphan care and displacement|class=B|importance=Low}}
+{{WikiProject Politics|class=B|importance=low}}
+{{WikiProject Law|class=B|importance=Low}}
+}}
+
+==Links / Articles needed==
+
+I made some links.&lt;br&gt;- We have an article for [[Mary Laffoy]]. We don't seem to have one for Justice '''Sean Ryan''', Judge of the High Court (per http://www.childabusecommission.com/rpt/preface.php ). [[Sean Ryan]] is a disamb page; he is apparently not included there.&lt;br&gt;- I linked the &quot;types of abuse ... included in the Commission's mandate&quot;, however, &quot;[[Neglect]]&quot; is a disamb page. We also have [[Abuse]] and [[Child abuse]], which are also disamb-type pages or very general.&lt;br&gt;-- [[Special:Contributions/201.37.230.43|201.37.230.43]] ([[User talk:201.37.230.43|talk]]) 16:37, 21 May 2009 (UTC)
+
+
+==Mention of Catholic Church in our article==
+
+The coverage of this that I'm seeing in the general press seems to emphasize that this is a &quot;[[Catholic Church]]&quot; issue. Our article hardly mentions the Catholic Church. How should we handle this for NPOV and complete coverage of the facts? -- [[Special:Contributions/201.37.230.43|201.37.230.43]] ([[User talk:201.37.230.43|talk]]) 16:41, 21 May 2009 (UTC)
+
+:I was wondering whether to add a new section (or a sub-section of the report section), with a table listing the main schools that were investigated and the Catholic orders responsible.  In addition to mentioning the general catholic angle, this is where the relative volume of Christian Brothers schools could be mentioned, and other statistical stuff.  If you'd like to get involved, it might help if you [[Wikipedia:Why create an account?|create an account]] here: that will mean you have a permanent name and a talk page where I can reach you. - [[User:Pointillist|Pointillist]] ([[User talk:Pointillist|talk]]) 16:51, 21 May 2009 (UTC)
+
+::That sounds like a good idea. You may be able to get extra info from [[Abuse by priests in Roman Catholic orders]]. [[User:Superfopp|&lt;i&gt;~Asarlaí&lt;/i&gt;]] 01:10, 26 May 2009 (UTC)
+
+==Problem with phrasing and quote==
+
+Lead formerly said &quot;The Commission's report said testimony had demonstrated beyond a doubt that the entire system treated children more like prison inmates and slaves than people&quot;.
+
+This distinction between &quot;prison inmates and slaves&quot; versus &quot;people&quot; bothered me, so I checked the cite to see if this was perhaps a quote.
+
+It is - the original BBC source cited ( http://news.bbc.co.uk/2/hi/europe/8059826.stm ) says, &quot;The commission said overwhelming, consistent testimony from still-traumatized men and women, now in their 50s to 80s, had demonstrated beyond a doubt that the entire system treated children more like prison inmates and slaves than people ''with legal rights and human potential''.&quot; (my italics)
+
+This makes much better sense to me, so I added this, however our sentence is awfully close to the BBC original.
+
+'''If the Commission report actually says something like this, let's quote and cite that, rather than BBC. Otherwise, we need to either reword this, or quote (and cite) BBC directly.'''
+
+Thanks. -- [[Special:Contributions/201.37.230.43|201.37.230.43]] ([[User talk:201.37.230.43|talk]]) 00:03, 23 May 2009 (UTC)
+
+== Timing ==
+The timing of the problems is somewhat unclear. Is the abuse substanially ongoing? Had it largely died out by the time the commission was set up? Etc [[User:Nil Einne|Nil Einne]] ([[User talk:Nil Einne|talk]]) 07:44, 23 May 2009 (UTC)
+:This is quote from the official web site: &quot;''The period covered by the Investigation Committee Inquiry, ‘the relevant period’, is from 1936 to the present. However, the complaints come mostly from a period during which large scale institutionalisation was the norm, which was, in effect, the period between the Cussen Report (1936) and the Kennedy report (1970)''&quot;. [[User:Peter Clarke|&lt;font color=&quot;Blue&quot;&gt;'''Peter'''&lt;/font&gt;&lt;font color=&quot;Green&quot;&gt;'''Clarke'''&lt;/font&gt;]] 14:27, 25 May 2009 (UTC)
+
+::[[Cussen Report]] (1936), [[Kennedy report]] (1970). Hmm, redlinks. Do we want to create stubs or redirects for these? -- [[Special:Contributions/201.37.230.43|201.37.230.43]] ([[User talk:201.37.230.43|talk]]) 15:27, 28 May 2009 (UTC)
+
+==The title==
+Why the [[Catholic Church]] is not mentionated in the title, or in the first paragraph of the article? Why is not mentioned that there was Catholic Church institutions and Catholic priests and Catholic nuns. BTW - Shame on you catholics! &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:El Otro|El Otro]] ([[User talk:El Otro|talk]] • [[Special:Contributions/El Otro|contribs]]) 10:39, 23 May 2009&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+* The commission's remit covered all institutions, whoever ran them.  I've put a new 2nd para in that makes it clear the allegations (and therefore investigations) overwhelmingly related to Catholic Church institutions. - [[User:Pointillist|Pointillist]] ([[User talk:Pointillist|talk]]) 11:15, 23 May 2009 (UTC)
+:: Uh, I'm fairly sure the majority of Catholics had no say in this and would be appalled by this. They're probably embarrassed right now too, but there's no reason to insult them. As [[Father Ted]] said, there's a no higher degree of paedophilia in the clergy than in the general population. You'd get no closer the mark blaming Christianity in general or people as a whole. [[Special:Contributions/92.5.140.104|92.5.140.104]] ([[User talk:92.5.140.104|talk]]) 18:48, 23 May 2009 (UTC)
+:::I know I should resist the urge to reply to this OT discussion but I can't... According to the report the problem, which included abuse of all sorts was endemic across educational institutions and abusers were protected or transferred. In other words, the problem was far wider ranging then just a few bad apples. This doesn't of course mean all Catholics are to blame but it's easy to see why many people would say the Catholic Church as an institution and the leaders involved should be ashamed. The same of course with the institutions of state involved  [[User:Nil Einne|Nil Einne]] ([[User talk:Nil Einne|talk]]) 20:46, 23 May 2009 (UTC)
+* Edits to this specific article probably need to be academically opportunistic, i.e. contributors can do preparatory [[WP:OR|original research]] but can't use the results until confirmed by reliable, reputable sources. For example the repeated pattern of abusive behaviour was almost certainly linked to:&lt;br/&gt;
+::(i) a feeling of superiority (two thirds of the confidential committee's complainants said their parent/s were unskilled manual labourers);&lt;br/&gt;
+::(ii) abusers' immature needs for sexual release (e.g. the mid 20th-Century Christian Brothers had a policy of recruiting 12-to-14-year-old males, keeping them in an environment that avoided all female contact and then putting them into a position where they were expected to physically discipline young people—a scenario that modern psychology would call a tad risky);&lt;br/&gt;
+::(iii) remote locations that were hard to supervise; and&lt;br/&gt;
+::(iv) the state's awareness that industrial schools were cheaper than any alternative approach.
+:Reliable sources will probably say all that pretty soon, and then we can add their statements to the article. - [[User:Pointillist|Pointillist]] ([[User talk:Pointillist|talk]]) 23:13, 23 May 2009 (UTC)
+
+Where did this title come from? If this phrase can't be cited, it needs to be changed to something less Vague... perhaps suffix it with 'in Catholic Institutions' or something. On second reading, it seems to already have a name. the 'Ryan Commission'. Can someone provide a reason to not move this immediately to that? [[User:Yeago|Yeago]] ([[User talk:Yeago|talk]]) 09:37, 24 May 2009 (UTC)
+
+:'''&quot;The Commission to Inquire into Child Abuse&quot; is apparently the official name of this and ostensibly the most neutral term''' - see official website at http://www.childabusecommission.ie/index.html , http://www.childabusecommission.ie/about/index.html . -- [[Special:Contributions/201.37.230.43|201.37.230.43]] ([[User talk:201.37.230.43|talk]]) 15:07, 26 May 2009 (UTC)
+
+==adding WikiProject Catholicism==
+
+At this point I'm going to go ahead and add the template for WikiProject Catholicism to this page. It seems to me that this is appropriate.&lt;br&gt;Their mission is stated to be &quot;improving Wikipedia's coverage of topics related to the Catholic Church&quot;.&lt;br&gt;If anyone feels that discussion of this is necessary, let's discuss.&lt;br&gt;-- [[Special:Contributions/201.37.230.43|201.37.230.43]] ([[User talk:201.37.230.43|talk]]) 14:13, 23 May 2009 (UTC)
+:Well it does relate to the Catholic Church... --&lt;font face=&quot;serif&quot;&gt;[[User: Candlewicke|&lt;span style=&quot;color:red&quot;&gt;can&lt;/span&gt;]][[User:Candlewicke/List of signatories|&lt;span style=&quot;color:black&quot;&gt;dle&lt;/span&gt;]][[WP:ITN/C|&amp;bull;]][[User talk:Candlewicke|&lt;span style=&quot;color:green&quot;&gt;wicke&lt;/span&gt;]]&lt;/font&gt; 18:18, 23 May 2009 (UTC)
+
+== Proceedings from here on ==
+
+I was wondering, is there any word on what will happen from here on? The Commission's conclusions cannot directly be used for criminal proceedings, but surely there must be some organization interested in seeking further action, legal or otherwise (by &quot;otherwise&quot; I mostly mean campaigns or acts of lobbying). Does it end here or is it likely to continue in some way? I think it's a good idea to include any such plans in a section of its own. &lt;tt&gt;—msikma ([[User:Msikma|user]], [[User_talk:Msikma|talk]])&lt;/tt&gt; 10:16, 24 May 2009 (UTC)
+:There are movements on the compensation question.  Unfortunately I don't have time to draft content, but here are some references I found in the [[Irish Independent]] that might be useful. - [[User:Pointillist|Pointillist]] ([[User talk:Pointillist|talk]]) 23:00, 27 May 2009 (UTC)
+:*[http://www.independent.ie/national-news/brothers-to-hand-over-millions-for-the-abused-1751740.html Brothers to hand over millions for the abused]
+:*[http://www.independent.ie/opinion/analysis/angry-laity-wont-pay-for-the-religious-who-preyed-1750511.html Angry laity won't pay for the religious who preyed]
+:*[http://www.independent.ie/national-news/pope-poised-to-step-in-as-abuse-fund-rift-deepens-1750595.html Pope poised to step in as abuse fund rift deepens]
+:*[http://www.independent.ie/opinion/columnists/ian-odoherty/why-were-the-vast-majority-of-the-citizens-of-this-state-prepared-to-allow-the-catholic-church-to-work-as-a-huge-paedophile-ring-1747600.html 'Why were the vast majority of the citizens of this state prepared to allow the Catholic Church to work as a huge paedophile ring?']
+
+::I keep seeing things to the effect that the matter is being discussed in the Vatican (often in connection with the name of Cardinal [[Seán Brady]]), and that statements may be forthcoming.
+::Archbishop [[Diarmuid Martin]] has also stated that another report on abuse in the Archdiocese of Dublin will be released soon. -- [[Special:Contributions/201.37.230.43|201.37.230.43]] ([[User talk:201.37.230.43|talk]]) 00:27, 28 May 2009 (UTC)
+
+:::Today in ''Irish Times'': &quot;President calls for Ryan report prosecutions&quot; - http://www.irishtimes.com/newspaper/breaking/2009/0528/breaking11.htm - &quot;President Mary McAleese has said she believes there should be criminal prosecutions as a result of the Ryan report into institutionalised child abuse.&quot; - [[Mary McAleese]] -- [[Special:Contributions/201.37.230.43|201.37.230.43]] ([[User talk:201.37.230.43|talk]]) 14:00, 28 May 2009 (UTC)
+
+==Which religious organizations?==
+
+Our section &quot;Compensation deal&quot; says:&lt;blockquote&gt;&quot;Religious organisations involved have openly refused to reopen compensation negotiation proceedings.&lt;ref name=&quot;Orders say 'No' to new abuse deal&quot;&gt;{{cite web|url=http://www.rte.ie/news/2009/0525/abuse.html|title=Orders say 'No' to new abuse deal|date=2009-05-25|accessdate=2009-05-25|publisher=[[Radio Telefís Éireann|RTÉ]]}}&lt;/ref&gt;&quot;&lt;/blockquote&gt;I think that we need to add some very specific lists of religious orders and organizations to the article, as there are many which are not involved in this matter in any way, some which have been found culpable, presumably others which have been investigated and found not culpable or only minimally culpable, etc. Additionally, and in the context of compensation, some have specifically acted to block compensation, while presumably there are others which have not.&lt;br&gt;My interest here is NPOV and fairness - let us name the specific names, and by doing so also avoid implication of guilt against the blameless.&lt;br&gt;I've taken a quick look at the actual report online and have not found this information obvious there. I don't plan to read the report in detail. Is there anyone who's familiar with the report (specifically the breakdown of religious orders and organizations) who could add this? (With cites, obviously.)&lt;br&gt;Thanks. -- [[Special:Contributions/201.37.230.43|201.37.230.43]] ([[User talk:201.37.230.43|talk]]) 00:53, 28 May 2009 (UTC)
+
+
+==WikiProjectPolitics==
+
+I am [[WP:BOLD|boldly]] adding the template of WikiProjectPolitics to this page. Discussion is welcome. -- [[Special:Contributions/201.37.230.43|201.37.230.43]] ([[User talk:201.37.230.43|talk]]) 15:15, 28 May 2009 (UTC)
+
+
+==WikiProject Law==
+
+Added template of WikiProject Law. Seems appropriate to me. Discussion? -- [[Special:Contributions/201.37.230.43|201.37.230.43]] ([[User talk:201.37.230.43|talk]]) 12:52, 1 June 2009 (UTC)
+
+==Major Errors==
+
+There are major errors and distortions in the current text of the article which need amending. More on this later. [[user:Xandar|'''''&lt;font color=&quot;003366&quot;&gt;Xan&lt;/font&gt;''''']][[User talk:Xandar#top|'''''&lt;font color=&quot;00A86B&quot;&gt;dar&lt;/font&gt;''''']] 23:31, 12 June 2009 (UTC)
+:Can you be more specific please? Given that this article is essentially a summary of a public report and the main reactions to it, there's no reason why it can't be 100% accurate and scrupulously referenced. - [[User:Pointillist|Pointillist]] ([[User talk:Pointillist|talk]]) 17:53, 15 June 2009 (UTC)
+Okay. I'll summarise some of my concerns. I got caught up in other business after starting this section.
+#The lead sentence &quot;''The Commission's report said testimony had demonstrated beyond a doubt that the entire system treated children more like prison inmates and slaves than people with legal rights and human potential, that church officials encouraged ritual beatings and consistently shielded their orders' paedophiles from arrest amid a &quot;culture of self-serving secrecy&quot;''&quot; Contains statements that do not appear as conclusions of the report, and seem to be based on someone's redaction of an already inaccurate BBc web page.
+#The sentence &quot;''Those abused were, amongst other things, stripped, beaten and raped by nuns, subjected to naked beatings in public, forced into oral sex''&quot; is emotively written, and misleading. This does not come from the conclusions of the report as implied, but is based on a newspaper article, listing some of the most extreme allegations made by unnamed individuals. This is an extreme of the extreme selection, and contains falsehoods such as &quot;raped by nuns&quot;. This does not give a balance as to the number, distribution and balance of allegations in the report - or separate allegations from proven facts. Even outlandish allegations such as &quot;tied to a cross and raped&quot; are reported as proven facts. The entire paragraph is hysterical in tone, and designed to be, not a summary of the article, as it should be, but an emotive, unrepresentative and misleading view of the report, with the intention of presenting a POV.
+#The final paragraph of the lead is again selectively chosen opinion from journalists - selectively chosen to present a POV, and with little reference to the actual contents of the report.
+#The body of the article contains an account of the summary report conclusions, concentrating on the negative aspects. The article gives the false impression that all religious were sexual abusers and condoned sexual and other abuse. The actual numbers involved, ratio of allegations to pupils and differences between the institutions, is not covered at all. Nor is the involvement of institutions like the ISPCC.
+[[user:Xandar|'''''&lt;font color=&quot;003366&quot;&gt;Xan&lt;/font&gt;''''']][[User talk:Xandar#top|'''''&lt;font color=&quot;00A86B&quot;&gt;dar&lt;/font&gt;''''']]  23:50, 21 June 2009 (UTC)
+:Thanks for your reply.  From what I remember—I did most of the early work on this article up to 11:26 on 21st May ([http://en.wikipedia.org/w/index.php?title=Commission_to_Inquire_into_Child_Abuse&amp;oldid=291372855#cite_note-BBC_8059826-0 this version])—the BBC words were an accurate précis of different parts of the report.  I'll try to find the exact references next weekend.  I entirely agree that the lead should be a summary of the article, the current version is too long and the fourth para relies too much on press reports of unchallenged claims to the Confidential committee.  It would probably help to separate the two committees into different sections: that would give context for some Investigation ctee (Vol.2) statistics and a representative selection of the Confidential ctee allegations.  The article would also benefit from more explanation of the late 1990s background to the commission and coverage of Mary Laffoy's 2003 resignation. - [[User:Pointillist|Pointillist]] ([[User talk:Pointillist|talk]]) 21:58, 22 June 2009 (UTC)
+
+::You both make good points. I have added Laffoy's resignation date and am working on a background section.[[User:Red Hurley|Red Hurley]] ([[User talk:Red Hurley|talk]]) 16:15, 28 July 2009 (UTC)
+
+==Background section==
+I've added parts on the historical aspects that may need trimming, down to Judge Laffoy's resignation, and also more on the 2002 CORI deal. Largely cited from the report and from Bruce Arnold's book ''The Irish Gulag''; NB Arnold always spells Laffoy as Lafoy, which is irritating.[[User:Red Hurley|Red Hurley]] ([[User talk:Red Hurley|talk]]) 14:19, 20 August 2009 (UTC)</text>
+      <sha1>qm4b9g1nn9rqwuz9441d1gor8ztu8fc</sha1>
+    </revision>
+  </page>
+</mediawiki>

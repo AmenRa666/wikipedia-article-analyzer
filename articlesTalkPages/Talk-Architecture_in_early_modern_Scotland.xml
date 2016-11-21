@@ -1,0 +1,132 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Architecture in early modern Scotland</title>
+    <ns>1</ns>
+    <id>37868762</id>
+    <revision>
+      <id>558979666</id>
+      <parentid>558979369</parentid>
+      <timestamp>2013-06-08T23:56:53Z</timestamp>
+      <contributor>
+        <username>Eric Corbett</username>
+        <id>19034339</id>
+      </contributor>
+      <comment>we don't need the transcluded reviews here, they're linked from the article history</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9508">{{ArticleHistory
+|action1=GAN
+|action1link=/GA1
+|action1date=25 March 2013
+|action1result=failed
+
+|action2=GAN
+|action2link=/GA2
+|action2date=23:54, 8 June 2013 (UTC)
+|action2result=listed
+|action2oldid=558977907
+
+|currentstatus=GA
+|topic=Art and architecture
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Scotland|class=GA|importance=mid|auto=yes|attention=}}
+{{WikiProject History|class=GA|importance=}}
+{{WikiProject Architecture|class=GA|importance=mid}}
+}}
+
+==Suggestions==
+
+There are some problems of expression: 
+:* The terminology that is usually used for art and architecture articles uses &quot;'''of'''  Country&quot;, not &quot;'''in''' Country&quot;.  
+::The article should be move to [[Architecture of early modern Scotland]].
+:::See my comment on the review page.--&lt;span style=&quot;font-family:Black Chancery;text:grey 0.3em 0.3em 0.1em;&quot;&gt;'''[[User:Sabrebd|&lt;span style=&quot;color:blue;&quot;&gt;SabreBD&lt;/span&gt;]]''' ([[User talk:Sabrebd|talk&lt;/span&gt;]]) 14:01, 8 March 2013 (UTC)
+:* Think hard about what every sentence means, and every descriptive word means.  This is particularly necessary in the introduction and in the leading statements of every section and new paragraph. 
+::e.g. &quot;Architecture in early modern Scotland encompass all human building within the borders of the kingdom of Scotland...&quot;
+:::There are two mistakes here (aside from the fact that &quot;of&quot; would be better than &quot;in&quot;) 
+:::It needs to start with the word &quot;The&quot;.  &quot;The architecture of modern Scotland...... 
+:::Get the verb correct. &quot;encompasses&quot; not &quot;encompass&quot;.
+::::Fixed one of these. The other depends on the move.--&lt;span style=&quot;font-family:Black Chancery;text:grey 0.3em 0.3em 0.1em;&quot;&gt;'''[[User:Sabrebd|&lt;span style=&quot;color:blue;&quot;&gt;SabreBD&lt;/span&gt;]]''' ([[User talk:Sabrebd|talk&lt;/span&gt;]]) 14:01, 8 March 2013 (UTC)
+:* Don't use superfluous words. Don't say &quot;human building&quot; when it is clearly apparent that you are not writing about termite mounds or beaver lodges.
+:{{Done}}--&lt;span style=&quot;font-family:Black Chancery;text:grey 0.3em 0.3em 0.1em;&quot;&gt;'''[[User:Sabrebd|&lt;span style=&quot;color:blue;&quot;&gt;SabreBD&lt;/span&gt;]]''' ([[User talk:Sabrebd|talk&lt;/span&gt;]]) 14:01, 8 March 2013 (UTC)
+:* &quot;It&quot; roughly corresponds to the early modern era in Europe.  What is it?   You must state &quot;The time frame roughly corresponds..... &quot; because the subject of your last sentence is &quot;architecture&quot;, not &quot;time&quot;
+:{{Done}}--&lt;span style=&quot;font-family:Black Chancery;text:grey 0.3em 0.3em 0.1em;&quot;&gt;'''[[User:Sabrebd|&lt;span style=&quot;color:blue;&quot;&gt;SabreBD&lt;/span&gt;]]''' ([[User talk:Sabrebd|talk&lt;/span&gt;]]) 14:01, 8 March 2013 (UTC)
+:*It needs a copy-edit just to sort out places where &quot;of&quot; has been written instead of &quot;on&quot; and small problems of this sort, including typos. , 
+::&quot;which included Renaissance features, with those of Scottish castles&quot;. Things don't get &quot;included with&quot; in this sense. They get &quot;combined with...&quot;
+:{{Done}}--&lt;span style=&quot;font-family:Black Chancery;text:grey 0.3em 0.3em 0.1em;&quot;&gt;'''[[User:Sabrebd|&lt;span style=&quot;color:blue;&quot;&gt;SabreBD&lt;/span&gt;]]''' ([[User talk:Sabrebd|talk&lt;/span&gt;]]) 14:01, 8 March 2013 (UTC)
+:*Sentence structure. The first sentence in the section on Vernacular architecture is not a sentence.
+:{{Done}}--&lt;span style=&quot;font-family:Black Chancery;text:grey 0.3em 0.3em 0.1em;&quot;&gt;'''[[User:Sabrebd|&lt;span style=&quot;color:blue;&quot;&gt;SabreBD&lt;/span&gt;]]''' ([[User talk:Sabrebd|talk&lt;/span&gt;]]) 14:01, 8 March 2013 (UTC)
+::&quot;In rural areas there was extensive use of turf to fill in the walls, sometimes on a stone base, but they were not long lasting and had to be rebuilt .....&quot;  But what were not long lasting?  Because of the form of the sentence it seems as if the stone bases were not long lasting.
+:{{Done}} --&lt;span style=&quot;font-family:Black Chancery;text:grey 0.3em 0.3em 0.1em;&quot;&gt;'''[[User:Sabrebd|&lt;span style=&quot;color:blue;&quot;&gt;SabreBD&lt;/span&gt;]]''' ([[User talk:Sabrebd|talk&lt;/span&gt;]]) 14:01, 8 March 2013 (UTC)
+:*''Different regions used broom, heather, straw, turfs or reeds for roofing.''   OK.  One of these things is not like the others... Four of them fit into a group and the other does not. What is the generic name for the four? It needs to be stated ''here'' not just mentioned in the next paragraph as if the reader is familiar with the term.
+:{{Done}}--&lt;span style=&quot;font-family:Black Chancery;text:grey 0.3em 0.3em 0.1em;&quot;&gt;'''[[User:Sabrebd|&lt;span style=&quot;color:blue;&quot;&gt;SabreBD&lt;/span&gt;]]''' ([[User talk:Sabrebd|talk&lt;/span&gt;]]) 14:01, 8 March 2013 (UTC)
+:*New paragraph for urban structures.
+:{{Done}}--&lt;span style=&quot;font-family:Black Chancery;text:grey 0.3em 0.3em 0.1em;&quot;&gt;'''[[User:Sabrebd|&lt;span style=&quot;color:blue;&quot;&gt;SabreBD&lt;/span&gt;]]''' ([[User talk:Sabrebd|talk&lt;/span&gt;]]) 14:01, 8 March 2013 (UTC)
+:*Renaissance. I am not familiar with the Scottish monarchy, prior to Mary Queen of Scots, so you need to state a date in the first sentence in this section, and then date each successive important change/paragraph. 
+::Jas V is a new parag. 
+:{{Done}} There is no real set date for the whole Scottish renaissance so have added regnal years, so period should be clearer.--&lt;span style=&quot;font-family:Black Chancery;text:grey 0.3em 0.3em 0.1em;&quot;&gt;'''[[User:Sabrebd|&lt;span style=&quot;color:blue;&quot;&gt;SabreBD&lt;/span&gt;]]''' ([[User talk:Sabrebd|talk&lt;/span&gt;]]) 22:37, 8 March 2013 (UTC)
+:*&quot;Calvinists rejected ornamentation in places of worship, with no need for elaborate buildings divided up by ritual, resulting in the widespread destruction of Medieval church furnishings, ornaments and decoration.&quot;  The verb &quot;resulting&quot; is dependent on the noun &quot;Calvinists&quot; right at the beginning of this sentence. You can't say &quot;Calvinists resulting in....&quot;  Try a new sentence starting &quot;This resulted in..... &quot;
+:{{Done}}--&lt;span style=&quot;font-family:Black Chancery;text:grey 0.3em 0.3em 0.1em;&quot;&gt;'''[[User:Sabrebd|&lt;span style=&quot;color:blue;&quot;&gt;SabreBD&lt;/span&gt;]]''' ([[User talk:Sabrebd|talk&lt;/span&gt;]]) 22:37, 8 March 2013 (UTC)
+:*&quot;Scots baronial&quot; as the name of a style needs two capitals &quot;Scots Baronial&quot;. 
+:{{Done}}--&lt;span style=&quot;font-family:Black Chancery;text:grey 0.3em 0.3em 0.1em;&quot;&gt;'''[[User:Sabrebd|&lt;span style=&quot;color:blue;&quot;&gt;SabreBD&lt;/span&gt;]]''' ([[User talk:Sabrebd|talk&lt;/span&gt;]]) 22:37, 8 March 2013 (UTC)
+:*&quot;has been located in origin to the period of the 1560s&quot;.  This is very clumsy expression! 
+:{{Done}}--&lt;span style=&quot;font-family:Black Chancery;text:grey 0.3em 0.3em 0.1em;&quot;&gt;'''[[User:Sabrebd|&lt;span style=&quot;color:blue;&quot;&gt;SabreBD&lt;/span&gt;]]''' ([[User talk:Sabrebd|talk&lt;/span&gt;]]) 22:37, 8 March 2013 (UTC)
+:*''These abandoned defensible curtain walls for a fortified refuge, designed to outlast a raid, rather than a sustained siege.&quot;  Curtain walls are an architectural feature. &quot;Fortified refuge&quot; is an entire building which may or may not have &quot;curtain walls&quot;.    The sentence needs to be restructured. Try &quot;'These abandoned defensible curtain walls, being fortified refuges that were designed to outlast a raid, rather than a sustained siege.&quot; 
+:{{Done}}--&lt;span style=&quot;font-family:Black Chancery;text:grey 0.3em 0.3em 0.1em;&quot;&gt;'''[[User:Sabrebd|&lt;span style=&quot;color:blue;&quot;&gt;SabreBD&lt;/span&gt;]]''' ([[User talk:Sabrebd|talk&lt;/span&gt;]]) 22:37, 8 March 2013 (UTC)
+Can I suggest that the whole article is worked through, with an aim to sorting out these small problems of expression?  
+[[User:Amandajm|Amandajm]] ([[User talk:Amandajm|talk]]) 09:48, 6 March 2013 (UTC)
+
+==Recent changes==
+I have deliberately left this for 48 hours in the hope that frustrations might lessen, but since this the article is now sitting at the top of the GA review art and architecture list time is a factor. Thank you Amandajm for your recent edits and improvements to the article, which I much appreciate. However, these edits created a few minor problems that might come up at a GA Review, largely minor matters of style, formatting and  [[WP:PARAGRAPH|layout]], occasions when changes have moved beyond what the sources say and one issue about the style established in the article that I would like to keep. The changes are very minor and carried out with considerable reluctance, but nevertheless, I think necessary. Thanks again.--&lt;span style=&quot;font-family:Black Chancery;text:grey 0.3em 0.3em 0.1em;&quot;&gt;'''[[User:Sabrebd|&lt;span style=&quot;color:blue;&quot;&gt;SabreBD&lt;/span&gt;]]''' ([[User talk:Sabrebd|talk&lt;/span&gt;]]) 10:23, 27 March 2013 (UTC)
+
+:It doesn't really matter how many times this article gets reviewed.  You may get it past the review process, with a reviewer who doesn't really know much about architecture. But you cannot ''kid yourself'' that it is a &quot;Good Article&quot; until you have taken seriously the &quot;Good Article&quot; advice that you received from a person who has real expertise in the field. You decide whether you want a '''real'' Good Article or whether you are simply after a GA button in the corner.  
+:The simplest points in the advice, summarised, are: 1.  Make more of your pictures and their captions.  2. Choose the '''good photos of good examples''' to illustrate the text.  3. Write a little more about Scottish Baronial, as it is a style of ''great importance'' and you have plenty of info available.  4. Sum up by indicating what was to follow. 
+:Let me add to this: 5. You mention [[Colen Campbell]] and [[James Gibbs]] as two achitects whose work had enormous impact, not just on Scotland but elsewhere.  But you don't mention ''a single building'' that they designed.  You could mention two or three for each, and for Adam!   Failing to mention a single building by the greatest names you have named is a '''serious omission'''. 
+:[[User:Amandajm|Amandajm]] ([[User talk:Amandajm|talk]]) 01:06, 3 April 2013 (UTC)</text>
+      <sha1>5xid3n5ntptqf102lxxxljt0sp5wa5g</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,96 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:DNA laddering</title>
+    <ns>1</ns>
+    <id>9501450</id>
+    <revision>
+      <id>748026551</id>
+      <parentid>744884995</parentid>
+      <timestamp>2016-11-05T22:19:39Z</timestamp>
+      <contributor>
+        <username>Pji2013</username>
+        <id>29349215</id>
+      </contributor>
+      <comment>Update [[Wikipedia:Wiki_Ed/SUNY_Plattsburgh/Cell_Biology_with_Lab,_Bio_401_(Fall_2016)|Cell Biology with Lab, Bio 401]] assignment details</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4590">{{WikiProjectBannerShell|1=
+{{WikiProject Genetics|class=Stub|importance=|imageneeded=|imagedetails=|unref=}}
+{{WikiProject Medicine|class=Stub|importance=Low}}
+{{WikiProject Molecular and Cellular Biology|class=stub|importance=mid}}
+{{dashboard.wikiedu.org assignment | course = Wikipedia:Wiki_Ed/SUNY_Plattsburgh/Cell_Biology_with_Lab,_Bio_401_(Fall_2016) | assignments = [[User:Pji2013|Pji2013]] | reviewers = [[User:Pji2013|Pji2013]] }}
+}}
+
+==Merging==
+Yes, they should be merged.  When I created ''DNA Laddering'', there was an existing ''DNA Ladder'' but it was a redirect to [[DNA electrophoresis]].  I changed it to a redirect to here.  Somebody undid that redirect and started adding adding the information there.
+
+I don't really care at which place the info lives.  But there can't be any significant difference between them.
+[[User:David.Throop|David.Throop]] 00:07, 6 November 2007 (UTC)
+
+I disagree: the use of DNA ladders is common in all areas of molecular biology, but DNA laddering is largely specific only to research into apoptosis. It would not make sense: the names happen to be similar, but that is where the identity stops. It's probably better to put DNA ladders in with [[gel electrophoresis]]: having separate articles is unnecessary. [[User:Apollo Crua|Apollo Crua]] 12:48, 14 November 2007 (UTC)
+
+I too think these two articles should NOT be merged. DNA Ladder is a molecular biology and/or biochemistry reagent whereas DNA Laddering is a phenomenon observed when cells undergo apoptosis (and in some specific experiments). --Kayvee 21:58, 18 November 2007 (UTC)
+
+:OK, I'm convinced&amp;mdash;there's good reason not to merge.  Instead, each article should at least briefly mention the other and explain the difference.[[User:David.Throop|David.Throop]] ([[User talk:David.Throop|talk]]) 13:17, 19 November 2007 (UTC)
+
+Do not merge as they are different subjects as mentioned above.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/143.53.145.153|143.53.145.153]] ([[User talk:143.53.145.153|talk]]) 11:29, 31 January 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+I also think they should be kept separate. Laddering (re: apoptosis) seems to be the result on a gel of a natural phenomenon, namely cleavage of the dna of an apoptotic cell into small fragments whereas a ladder is totally artificial- it's just a solution of several DNA strands of known length to be used as a standard in order to approximate lengths of unknown fragments run in a different lane. I'm not familiar with apoptosis that well, but I am familiar with laddering that occurs when DNA is digested in the lab for too long (among other reasons) resulting in loads of small DNA fragments of varying lengths. Perhaps that should be mentioned in the laddering page. Regardless of why it occurs, laddering is definitely a distinct phenomenon. [[User:Alberrosidus|Alberrosidus]] ([[User talk:Alberrosidus|talk]]) 21:34, 31 January 2008 (UTC)
+
+
+Do not merge. DNA ladders and DNA laddering are two different things. A DNA ladder is a tool in molecular biology. And DNA laddering is a phenomena seen during apoptosis. Saying that the articles on the two subjects should be merged would be the same as saying vegetables and vegetarian are the same thing.
+--[[User:Perneseblue|Perneseblue]] ([[User talk:Perneseblue|talk]]) 23:44, 7 February 2008 (UTC)
+
+Given that there seems to be consensus that these two articles should not be merged (though the jury is still out on gel phosphoresis), is it appropriate to take off the merge tag now? [[User:Somewildthingsgo|Somewildthingsgo]] ([[User talk:Somewildthingsgo|talk]]) 10:30, 20 March 2008 (UTC)
+:Alright I take it it's only still there because no one's been watching this page that often. I'm going to remove it. [[User:Somewildthingsgo|Somewildthingsgo]] ([[User talk:Somewildthingsgo|talk]]) 19:11, 29 March 2008 (UTC)
+
+==Category==
+Suggest that DNA Laddering be removed from the lab technique category as it is not a technique but rather the result of one. [[User:Alberrosidus|Alberrosidus]] ([[User talk:Alberrosidus|talk]]) 21:37, 31 January 2008 (UTC)
+:Well, the assay used to create the laddering is known to me as the &quot;DNA ladder&quot; assay, but there is already another article by this name. So although the laddering is technically only a result of a technique, I think the category should be kept, as the article is not only about the result, but also about the technique itself. -- [[User:Shinryuu|Shinryuu]] ([[User talk:Shinryuu|talk]]) 11:29, 10 August 2010 (UTC)</text>
+      <sha1>3284si8ue04mgrwjbooejrzpnz3l59h</sha1>
+    </revision>
+  </page>
+</mediawiki>

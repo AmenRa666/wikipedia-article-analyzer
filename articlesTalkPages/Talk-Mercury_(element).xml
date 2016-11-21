@@ -1,0 +1,180 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Mercury (element)</title>
+    <ns>1</ns>
+    <id>146041</id>
+    <revision>
+      <id>739124530</id>
+      <parentid>729509080</parentid>
+      <timestamp>2016-09-12T22:28:01Z</timestamp>
+      <contributor>
+        <ip>40.133.182.125</ip>
+      </contributor>
+      <comment>/* Toxicity of Mercury */ new section</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9346">{{Talk header}}
+{{ArticleHistory
+|action1=GAN
+|action1date=00:51, 8 April 2006
+|action1result=listed
+|action1oldid=47488997
+
+|action2=GAR
+|action2date=20:00, 28 July 2009 (UTC)
+|action2result=keep
+|action2oldid=304737637
+|action2link=Talk:Mercury (element)/GA1
+
+|action3=GTC
+|action3date=20:48, 28 May 2012 (UTC)
+|action3link=Wikipedia:Featured topic candidates/Group 12 elements/archive1
+|action3result=promoted
+|action3oldid=494430546
+|ftname=Group 12 elements
+
+|currentstatus=GA
+|topic=Natsci
+}}
+{{Vital article|level=4|topic=Science|class=GA|subpage=Physics}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Elements|class=GA|importance=Top}}
+{{WP1.0|class=GA|v0.5=pass|category=Natsci|WPCD=yes}}
+{{WikiProject Alternative Medicine|class=GA|importance=Mid}}
+{{WikiProject Occupational Safety and Health|class=GA|importance=mid}}
+}}
+{{onlinesource|author=Deborah Knight |year=2007 |monthday=February |url=http://www.dec.state.ny.us/website/dpae/cons/2007/0207mercury.html |title=Get the Mercury Out |org=New York State Conservationist |section=}}
+
+== Density of Mercury ==
+
+If you could please include the density of mercury in kg/m^3. It would be much appreciated. It's 13594 kg/m^3. Thank you  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Mharuza|Mharuza]] ([[User talk:Mharuza|talk]] • [[Special:Contributions/Mharuza|contribs]]) 16:25, 26 October 2013 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+:The infobox already gives it in g·cm&lt;sup&gt;−3&lt;/sup&gt;, and I don't think it's that hard to convert (it's just a decimal point shift, after all) that we ought to give it kg·m&lt;sup&gt;−3&lt;/sup&gt; as well. [[User:Double sharp|Double sharp]] ([[User talk:Double sharp|talk]]) 06:24, 20 April 2014 (UTC)
+
+== Edit request, 29 November 2013 ==
+{{edit semi-protected|&lt;!-- Page to be edited --&gt;|answered=yes}}
+&lt;!-- Begin request --&gt;
+In fourth line of Physical properties section, please correct 'electronic configuration' to 'electron configuration' (i.e. configuration of electrons) - the use of the adjective 'electronic' here is a hypercorrection, and is simply poor grammar masquerading as good, we need the two nouns juxtaposed.  Thanks!
+&lt;!-- End request --&gt;
+[[User:Connymenzel|Connymenzel]] ([[User talk:Connymenzel|talk]]) 15:46, 29 November 2013 (UTC)
+
+:[[File:Yes check.svg|20px|link=|alt=]] '''Done'''&lt;!-- Template:ESp --&gt;. Thanks. --[[User:Stfg|Stfg]] ([[User talk:Stfg|talk]]) 22:17, 29 November 2013 (UTC)
+
+== mmHg ==
+
+Hi guys,
+
+I believe it is of essence that something about the pressure unit mmHg and its similarities is talked about in here. or at least linked to, for reference.
+
+thanks.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/212.150.66.161|212.150.66.161]] ([[User talk:212.150.66.161|talk]]) 06:46, 5 January 2014 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Semi-protected edit request on 3 February 2015 ==
+
+{{edit semi-protected|Mercury (element)|answered=yes}}
+&lt;!-- Begin request --&gt;
+Please add an external link
+
+* [http://www.impmc.jussieu.fr/%7Eayrinhac/documents/Hg_data.pdf Thermodynamical data on liquid mercury.]
+
+&lt;!-- End request --&gt;
+[[User:Airyn|Airyn]] ([[User talk:Airyn|talk]]) 08:43, 3 February 2015 (UTC)
+
+[[File:Yes check.svg|20px|link=]] '''Done'''&lt;!-- Template:ESp --&gt; &lt;span style=&quot;color: blue&quot;&gt;--&lt;/span&gt; [[User:Orduin|&lt;span style=&quot;color: green &quot;&gt;Orduin&lt;/span&gt;]] &lt;sup&gt;&lt;span style=&quot;font-size:80%&quot;&gt;[[User talk:Orduin|&lt;span style=&quot;color: indigo&quot;&gt;'''Discuss'''&lt;/span&gt;]]&lt;/span&gt;&lt;/sup&gt; 00:01, 4 February 2015 (UTC)
+
+== Wording improvement ==
+I believe this sentence is malformed:
+
+&quot;Another mercury compound, merbromin (Mercurochrome), is a topical antiseptic used for minor cuts and scrapes is still in use in some countries.&quot;
+
+It either needs punctuation or text changed to make it structurally sound.  Something like:
+
+&quot;Another mercury compound, merbromin (Mercurochrome), a topical antiseptic used for minor cuts and scrapes, is still in use in some countries.&quot;
+
+or
+
+&quot;Another mercury compound, merbromin (Mercurochrome), is a topical antiseptic used for minor cuts and scrapes (that|and) is still in use in some countries.&quot;[[Special:Contributions/63.99.29.18|63.99.29.18]] ([[User talk:63.99.29.18|talk]]) 14:46, 12 August 2015 (UTC)  absmiths
+:[[User:Vsmith|Vsmith]], [[User:Stone|Stone]], and I all conspired to fix it. [[User:DMacks|DMacks]] ([[User talk:DMacks|talk]]) 20:16, 12 August 2015 (UTC)
+
+== Releases in the environment ==
+
+
+the following statement is not supported by the reference to which are liked. if any thing the reference  &quot;Pacyna E G; Pacyna J M; Steenhuisen F; Wilson S (2006). &quot;Global anthropogenic mercury emission inventory for 2000&quot;. Atmos Environ 40 (22): 4048.&quot; clearly statements the Opposite &quot;The largest emissions of Hg to the global atmosphere occur from combustion of fossil fuels&quot; and last i looked volcanoes don't burn fossil fuels per say.     
+
+&quot;Natural sources, such as volcanoes, are responsible for approximately half of atmospheric mercury emissions&quot;.
+
+please write 
+
+thanks 
+
+Paul.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Taylorsierra|Taylorsierra]] ([[User talk:Taylorsierra|talk]] • [[Special:Contributions/Taylorsierra|contribs]]) 14:28, 3 September 2015 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:1|one external link|1 external links}} on [[Mercury (element)]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=713080973 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Corrected formatting/usage for http://www.indiana.edu/~poynter/sas/lb/syphilis.html
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II&lt;/sup&gt;]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner&lt;/span&gt;]]:Online&lt;/sub&gt;&lt;/small&gt; 20:49, 1 April 2016 (UTC)
+
+==&quot;Mercury&quot;==
+The usage and primary topic of &quot;[[Mercury]]&quot; is under discussion, see [[Talk:Mercury (planet)]] -- [[Special:Contributions/70.51.45.100|70.51.45.100]] ([[User talk:70.51.45.100|talk]]) 05:03, 8 April 2016 (UTC)
+
+== Edit request, 1st of May 2016, Idrija (now Slovenia) ==
+
+
+At the end od History chapter, as three main historic mercury mines are mentioned, the Idrija one is equipped with brackets (now Slovenia). I think the word &quot;now&quot; should be omitted, as Slovenia is a normal and permanent country, as Spain and Italy are. The Italian mine was not in Italy, say e.g. in mediaeval period, formally speaking, but in another country.  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/78.153.52.248|78.153.52.248]] ([[User talk:78.153.52.248|talk]]) 10:29, 1 May 2016 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Toxicity of Mercury ==
+
+This article is rubbish. I challenge the writers who claim elemental mercury's &quot;high toxicity&quot; to support this. In the referenced Wiki article, Mercury poisoning, it is stated that the toxic effect of elemental (metallic) mercury is due to droplets of metal blocking the circulatory system (after being INJECTED!). Give me a break! Apparently the authors have zero understanding of the difference between Hg°, Hg(+1) and Hg(+2), and need to be kept away from keyboards and sharp instruments. I don't question the well established SLIGHT toxicity of mercury vapor inhalation (both chronic and acute) but I DO question the concentrations at which these effects have been demonstrated. Everything, including water, is toxic at a sufficiently high enough dose. I also question the claim that mercury is adsorbed through the skin in sufficient quantities to cause toxicity (at least, for those not swimming in it on a daily basis). My contention is that mercury (metallic or elemental) is only SLIGHTLY toxic, and while I agree that it should only be used with proper protective equipment and with adequate ventilation, it is no different (in this respect) from most metals - their vapors shouldn't be inhaled, and contact with them should be limited. This article FAILS to point out that bacteria (including some in the human gut) can transform the metal to methy and ethyl mercury, which ARE highly toxic. The metal was used for decades as a weight when pumping people's stomachs, and those reservoirs occasionally broke leading to NO toxic effects for the patient. For ingested mercury to be toxic, I expect exposure would have to exist for very long time periods. I await authoritative references...[[Special:Contributions/40.133.182.125|40.133.182.125]] ([[User talk:40.133.182.125|talk]]) 22:28, 12 September 2016 (UTC)</text>
+      <sha1>0qazc0a1w10n1ybgjnax02tkgzcbteh</sha1>
+    </revision>
+  </page>
+</mediawiki>

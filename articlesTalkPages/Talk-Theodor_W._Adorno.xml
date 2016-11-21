@@ -1,0 +1,625 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Theodor W. Adorno</title>
+    <ns>1</ns>
+    <id>617283</id>
+    <revision>
+      <id>676925804</id>
+      <parentid>673044555</parentid>
+      <timestamp>2015-08-20T00:54:31Z</timestamp>
+      <contributor>
+        <username>CurryTime7-24</username>
+        <id>17521759</id>
+      </contributor>
+      <comment>/* Impartiality, please! */ new section</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="86174">{{Vital article|level=4|topic=People|class=B}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Psychology|class=start|importance=}}
+{{WikiProject Biography|living=no|class=B|s&amp;a-priority=High|s&amp;a-work-group=yes|listas=Adorno, Theodor}}
+{{WikiProject Sociology|class=B|importance=High}}
+{{WikiProject Philosophy|class=B|importance=Mid|aesthetics=yes|philosopher=yes|continental=yes|social=yes}}
+{{WikiProject Germany|class=B|importance=High}}
+{{WikiProject Composers|class=B}}
+}}
+{{ArticleHistory
+|action1=FAC
+|action1date=2005-05-25, 18:06:33
+|action1link=Wikipedia:Featured article candidates/Theodor Adorno/archive1
+|action1result=not promoted
+|action1oldid=14285154
+|currentstatus=FFAC}}
+
+==German translation==
+*&lt;s&gt;Before anyone does any more edits&lt;/s&gt; - I've just (as good as) finished translating the German wiki which is now ready to be merged with English version. A couple of quotations are still untranslated, as I haven't had time to check the English editions, but that can still be done later. I'll leave it here to look at, while I figure out how to incorporate all new content. [[User:Pteron|Pteron]] 06:12, 25 Apr 2004 (UTC)
+
+*OK, I've amalgamated the two. Be patient with the German quotations, I'll fix that as soon as possible (or anyone else who can find the passages in their books) [[User:Pteron|Pteron]] 07:07, 25 Apr 2004 (UTC)
+
+==W.==
+Thanks. In the future you might want to use &lt;nowiki&gt;{{msg:inuse}}&lt;/nowiki&gt;. I've moved the article back to ''Theodor Adorno'' in line with the naming convention ([[Wikipedia:Naming conventions (common names)|use common names]]). [[User:Q9|Q9]] 17:13, 25 Apr 2004 (UTC)
+
+
+:Hmm, I'm not so sure if &quot;Theodor Adorno&quot; or &quot;Theodor W. Adorno&quot; is more common. Google (German language version, I don't know if that has to say anything) finds 26.000 pages for &quot;Theodor Adorno&quot; and 42.000 for &quot;Theodor W. Adorno&quot;. Maybe the massive renaming wasn't so cute. -- [[User:Tillwe|till we *)]] 17:54, 25 Apr 2004 (UTC)
+
+:I didn't know about &lt;nowiki&gt;{{msg:inuse}}&lt;/nowiki&gt; - thanks, good to know for future use... Hope you're happy with the way I merged your text with the German article. Most of it is still intact - single sentences shifted around and three sections basically kept. Mind you I tend to agree with Tillwe - Theodor W. Adorno tends to be more commonly used. But let's avoid silly edit wars, and see what others say. FYI, the German google searches English pages, too, so that makes no difference. [[User:Pteron|Pteron]] 19:37, 25 Apr 2004 (UTC)
+
+==German==
+OK, full disclosure on my translation from German version:
+* I NPOVed what I considered to be horribly written tautologies in the German [[:de:Theodor W. Adorno#Kritische Würdigung|==Kritische Würdigung ==]] section. Much of the current English version of this part is actually my own, and not a translation, although I don't exceed the content covered in the German version.
+* I extracted the information from the two paragraph quote from Adorno's biography in the German version of [[:de:Theodor W. Adorno#Letzter Akt (1967-69)|==Letzter Akt==]]. I mentioned the biographer and included what seems to be his research as an indirect quotation.
+* I turned what I considered an irrelevant direct quote about the importance of Adorno's adolescent Kant readings into an indirect one.
+* I left out the Adorno quotation in the first section. If I can find it in English, I may still add it.
+
+The rest should be fairly true to the pretty good German version (with the exceptions of the quotations that still need to be translated). Of course I merged it with the English version, but a pure translation is still included in the &quot;talk page&quot; history, if anyone wants to check its accuracy... [[User:Pteron|Pteron]] 19:55, 25 Apr 2004 (UTC)
+
+:Pteron, I'm happy with what you did (and if I wasn't, this is GNUFDL). In English (this is the English Wikipedia), you'll get more Google results for ''Theodor Adorno'' [http://www.google.co.uk/search?as_q=&amp;num=10&amp;hl=en&amp;ie=ISO-8859-1&amp;oe=ISO-8859-1&amp;btnG=Google+Search&amp;as_epq=theodor+adorno&amp;as_oq=&amp;as_eq=&amp;lr=lang_en&amp;as_ft=i&amp;as_filetype=&amp;as_qdr=all&amp;as_occt=any&amp;as_dt=i&amp;as_sitesearch=&amp;safe=images] than for ''Theodor W. Adorno'' [http://www.google.co.uk/search?as_q=&amp;num=10&amp;hl=en&amp;ie=ISO-8859-1&amp;oe=ISO-8859-1&amp;btnG=Google+Search&amp;as_epq=theodor+w.+adorno&amp;as_oq=&amp;as_eq=&amp;lr=lang_en&amp;as_ft=i&amp;as_filetype=&amp;as_qdr=all&amp;as_occt=any&amp;as_dt=i&amp;as_sitesearch=&amp;safe=images]. Saying this, I moved the article based on the English literature I have. I'm cool if you want to move it back. [[User:Q9|Q9]] 08:53, 26 Apr 2004 (UTC)
+
+==Notes==
+
+I have read these notes and you all seem very intelligent and using this site very well, i'm sorry i can't really add anything interesting or smart as yet as i'm still studying and is the main reason i'mposting this,i really hope no one minds...if so i'm really sorry, but i need help and this seems like the best place to seek it.
+
+I am a media student about to do my exams, I am currently trying to revise and need to know extensivly about the structure of the mass media, news worthiness,news values,hegemony within the news indusrty,along with bias and the epistemological problem being what constitues as news?.This wikipedia although is helpful it still seems very vauge on the facts and information on these subjects. This is not the only article i have read ,i have tried to find out about these terms and theories on wikipedia, focusing mainly on Adorno, Horkhiemer, Habermass and Gramsci, and linking their theories to the mass media and culture industry, but they all seem to either give an in depth bio on these theorists lives, rather than concepts which i can relate to the news industry or relate these terms on other theories and subjects. Even worse,some simply give a basic deffinitions of the words i have searched for. I have to have in depth knowlegde on these topics and know how they relate to the mass media by Monday the 18th of June. 
+
+Are there any Academics or people out there who has a deep understanding of these concepts and could help please, i have tried so hard to make sense of these theories and really starting to panic. Wikipedia is a great source but at the moment it's all too general with very little relation from one article to the next.
+I would much appriciate if anyone could help me here. Thank you x
+DeeDee x (Sweetxxchicx02@msn.com) 
+
+
+Notes made by Edward G. Nilges (spinoza1111@yahoo.com)
+
+First of all I hope I am using this site as intended. I have read the dictionary entry and it is generally excellent, far better than many enyclopedias. But I am using this page to comment as I think I have been implicitly invited to do. My apologies if I am in any way farting in church, rushing in where angels fear to tread, or engaged in taurine gestures in a China shop. If I have erred, simply delete these comments!
+
+(1) I believe Adorno's Mom's name was Cavelli-Adorno and not &quot;Calvelli-Adorno&quot;: cf. Rolf Wiggershaus, The Frankfurt School
+
+(2) The paragraph beginning with &quot;despite a certain TIMELINESS of Adorno's work&quot; obviously means to say &quot;despite a dated, Sixties feel to Adorno's work&quot;. It says the reverse of what it means. But what it obviously MEANS is wrong, because in an era of political polling and &quot;spin&quot; (which is what Adorno would call &quot;the conquest of the thing represented by its representation&quot;), Adorno grows daily more timely as shown by the fact that, given the fact that his works aren't what you'd call easy to understand or a laugh a minute, they still sell.
+
+(3) The Theory section is I fear just wrong on the relation of Adorno to quantitative research.
+
+It is a common error to believe that in critiquing quantitative work, Adorno wanted to completely replace it by &quot;theory&quot;. Instead he believed (sensibly enough, in my view) that the structure of quantitative work including sociological questionaires had to be structured on the front end by a theoretical framework and checked on the back end by narrative acquisition.
+
+For example, Adorno developed the QUANTITATIVE F-scale to measure &quot;authoritarian tendencies&quot;. Had he been opposed *tout court* to quantification at all, he would not have done so. However, he did &quot;theorize&quot; that it was a good idea, given the operation of a dialectic in which and &quot;advanced&quot; state, Germany, descended into barbarism, to assume that Fascism as a word has a referent wider than National Socialism and could appear even in an even more advanced nation, by a sharpening dialectic...in which the greater overall &quot;levels&quot; of enlightenment and individual produce over time their dialectical antibodies in the form of their sharpened reverse.
+
+Theory generates a prediction, not &quot;just like&quot; physics but in a way similar on a broader topos. This is that the intellectual &quot;virus&quot; of Fascism, like the real virus of Aids, might exist in multiple national versions united in a Wittgensteinian family relationship, or even that a newer manifestation (by incorporating the historical memory of the first manifestation) might be worse.
+
+Because the whole is untrue, we can never be certain (any more than the Aids researcher) that the conquest of Naziism is an end to Fascism. 
+
+Anti-theory, the delusion that all sociology should be like Jack Webb in Dragnet, and report &quot;just the facts&quot; is restricted to a language already in use, a political artifact, which simply might not have names for actual phenomena, including Fascism outside of an American party labeled &quot;Fascist&quot;. One is reminded of the post-Sixties discourse rule, in which it is impolite to call someone or a political party Fascist unless they are a marginal &quot;white power&quot; group that welcomes and uses the title.
+
+But the problem in sociology, which I think Adorno as a profound realist knew, is that nameless social phenomena can still exist as the sum total of real events, always (because the whole is the untrue) a tentative &quot;totality&quot; but one which still must be named if we are to have a chance of dealing with real events (such as the Oklahoma City bombing).
+
+Theorizing in sociology becomes a tentative venture, almost like musical rehearsal, in which the tonality of the texts produced is a partial guide to their truth-value. For example, is &quot;Islamo-fascism&quot; a good way of describing Islamic Fundamentalism? Does it really (in acknowledging unlike Naziism a Supreme Being) exist in enough of a family relationship with some sort of reference case (probably Germano-Fascism, Naziism itself) to be &quot;felicitous&quot;?
+
+But after all this tonal, and atonal &quot;theory&quot;, Adorno DID acquire data, just like any ordinary schmoe sociologist, with a questionaire whose results would be a number.
+
+The very idea that Adorno and his colleagues wanted to at all completely replace quantitative research by a bunch of guys sitting around &quot;theorizing&quot; is a ruptured duck and a canard.
+
+And, I fear that it is deliberately spread to misrepresent Continental philosophy in order to accomplish the reverse end, which is to forestall theorizing and report only quantitative results, leaving some other sociologist to take the risky step of actually interpreting the data...possibly concluding that life even in advanced &quot;democratic&quot; societies might suck, precisely due to the lack of an ability to operate outside of a received, indeed theoretical framework which provides ready-made (in our case, neoliberal) answers to all social pathologies.
+ 
+I apologize if I have taken up too much space but I think reflecting this last point will improve your article. Adorno had in fact a classical appreciation of the role of empirical research in relation to theory, in which the two are necessary complements.
+
+: I think these comments are quite helpful, and I'd encourage the author to return and work on the article itself.  [[Wikipedia:Be bold|Be bold]] and make some changes!  It can certainly use improvement. -- [[User:Rbellin|Rbellin]] 19:54, 28 Oct 2004 (UTC)
+
+Comments from Ed Nilges:
+
+OK, thanks for your remark.
+
+I am a newbie although I've read the guidelines, so feel free to correct my work. I have boldly extended the Theory section.
+
+One question. I can provide specific references but I don't know if the articles are to be footnoted like academic papers.
+
+I would say that this concept (of an open encyclopedia) would simultaneously give Adorno a fit and enthrall him, perhaps in a dialectical fashion. It appears to me that you have quality control. Thanks for building this truly wonderful new approach to learning.
+
+: Thank ''you'' for contributing!  Citations are more than welcome in whatever form you prefer -- the discussion of standard formatting at [[Wikipedia:Cite sources]] has reached no consensus, so it's best just to add the citations and let others reformat them later.  In my view, citation is the most important improvement that can be made to a lot of Wikipedia articles, which tend otherwise toward &quot;[[Wikipedia:Avoid weasel words|weasel words]]&quot; -- that is, the creation of fictional people and groups (&quot;some say,&quot; &quot;many readers feel&quot;) as straw-men or ventriloquists' dummies.  (As an aside, there has been discussion of this question at [[Wikipedia talk:WikiProject Philosophy]] which contributors might be interested in reading.)  So that hypothetical student who's frustrated with reading Adorno is less useful, in the article, than Lazarsfeld, whose opinion of Adorno can be cited and verified (that was an ''excellent'' addition).  Ed Nilges, thanks for contributing, and I hope you'll stick around. -- [[User:Rbellin|Rbellin]] 15:39, 29 Oct 2004 (UTC)
+
+I definitely will. This is world-historical: the People as Denis Diderot (or something).
+
+I have started adding references but am posting from a limited time station in Hong Kong, will continue later.
+
+I will read and see if I can contribute on other topics restricted to modern and contemporary philosophy and compiler development (I am the author of &lt;shamelessPlug&gt;Build Your Own .Net Language and Compiler&lt;/shamelessPlug&gt;, Apress, 2004).
+
+
+OK, I have added some references in a free form style such that readers can go to Amazon, or City Lights Bookstore in San Francisco (which has the best selection of Adorno's works in the world, in my experience) or the publick libarry. Consider this proposed change complete.
+
+:Maybe a bit too free form? I didn't revert it, but there a parts I don't think really belong in the Adorno article. Maybe someone with more knowledge about Adorno can have a look at the recent changes? -- [[User:Tillwe|''till we'' &lt;small&gt;&amp;#9788;&lt;/small&gt;&amp;#9789;]] | [[User_talk:tillwe|Talk]] 18:47, 30 Oct 2004 (UTC)
+
+
+Notes from Ed Nilges
+
+Feel absolutely free to cut back, have another set of eyeballs revise or revert. I did try to keep within the encyclopedia genre and not inject opinion.
+
+But factually, part of &quot;Adorno&quot; is the reaction to him and considering the reaction illuminates the phenomenon. Today, &quot;Adorno&quot; is part of a constellation in his own sense of ideas which include the empirical rejection of &quot;theory&quot; which in my experience (as a philosophy major circa 1971) was part of a political phenomenon.
+
+The original article foregrounded the traditional Marxist's rejection of Adorno's uncompromising critique which I think is lost on the reader for whom a Marxism uninformed by critical theory is a dead letter as a factual matter. Far more influential is the neoconservative reaction that started with Popper and Leo Strauss and I started my revision against this background for this reason.
+
+But this embroils what should be &quot;neutral&quot; in contemporary controversies. It makes for a livelier tone IMO but may be offputting for readers who want &quot;facts&quot;.
+
+Bottom line, is I take Adorno and critical theory very seriously and for this reason cannot avoid making what seemed to Lazarsfeld Adorno's own error...the injection of opinion disguised as &quot;theory&quot;.
+
+In general, the problem in writing an encyclopedia article on a philosophical topic, one I see causing exchanges at the Kant site, is that philosophical answers, like dangerous viruses, turn back unpredictably into living questions.
+
+Ed Nilges 2-12-2005
+
+Excellent reorganization. Thanks.
+
+NOTES BY EDWARD G. NILGES (SPINOZA1111) 19 Sep 2013
+
+I make these notes from Grantham Hospital in Hong Kong where I am receiving palliative hospice care for Stage IV Prostate cancer.
+
+The contrast between the Amazing Graciousness of these notes and modern Wikipedia is striking where modern Wikipedia consists of little more than vicious rants by convenience store clerks and self-hating homosexuals. Today's cockroaches were unleashed on Wikipedia deliberately by Jimmy Wales so that he could avoid property rights claims such as those of Larry Sanger, who invented the wiki.
+
+It's a clear and understandable article and I wrote most of it, so as soon a the convenience store clerks and self-hating homosexuals get around to it, this article will be destroyed. 
+
+Edward G. Nilges  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/120.88.228.44|120.88.228.44]] ([[User talk:120.88.228.44|talk]]) 03:35, 19 September 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==Music==
+
+I have a colleague who would like to track down some recordings of Adorno's own compositions for her PhD research. Anybody know where they might be found? [[User_talk:Adambisset|Adam Bisset]]
+
+:Maybe asking at the Frankfurt based ''Institut für Sozialforschung'' ([[:de:Institut für Sozialforschung]])? -- [[User:Tillwe|''till we'' &lt;small&gt;&amp;#9788;&lt;/small&gt;&amp;#9789;]] | [[User_talk:tillwe|Talk]] 16:43, 13 Feb 2005 (UTC)
+
+:I own three of these recordings and will give the references sometime in the near future.  [[User:Jjshapiro|Jeremy J. Shapiro]] 22:02, 8 September 2005 (UTC)
+
+::A disc featuring a few of Adorno's works for string quartet along with a couple of related pieces by Eisler, performed by the Leipzig String Quartet, is available from CPO Records in Germany (and you can get it through, e.g., Amazon). [[User:RobinJ|RobinJ]] 08:16, 17 December 2005 (UTC)
+
+As a teenager I read Jonathan Cott's book of conversations with Stockhausen. In it Stockhausen tells of his annoyance with Adorno at the Darmstadt summer schools in the 1950s. He says he got up in one of Adorno's lectures and accused Adorno of &quot;trying to find a chicken in an abstract painting&quot;. I flag this not to ridicule Adrono, but because, if correct, it represents an intriguing conflict between two very important figures in the history of 20th century music.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/83.4.175.240|83.4.175.240]] ([[User talk:83.4.175.240|talk]]) 22:06, 6 May 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Bold Edits ==
+
+The summary of Adorno's views, I feel, does not capture the range of influence and the areas of debate and discussion fully, before jumping in I'd like to post to talk and see which editors are working on this page and try and get the discussion process started here first. [[User:Stirling Newberry|Stirling Newberry]] 17:06, 13 Feb 2005 (UTC)
+
+==Making some changes==
+
+I am making the following changes:
+
+*I have edited the section on Adorno translation into English.  Since I was involved in early translations of Frankfurt School stuff, and know others involved in early translations of Adorno, I can say that the previous statement, that they are hard to read because they were done in a rush, is false.  The problem had to do with literalness, which is also a weakness in my own early translations of Marcuse and Habermas.  There just wasn't a context or tradition for this stuff to be in English, so all of us early translators, most of whom also had studied in Germany with these authors, had a tendency to stick too closely to the German original.
+
+[[User:Spinoza1111|Spinoza1111]] 09:58, 2 October 2005 (UTC)OK, correction graciously accepted. Thanks for your early work with which I had to start.
+
+*I'm taking out the stuff about Islamofascism, even though it's interesting and I don't disagree with it, simply because it's somebody's interesting intellectual creativity rather than belonging in an encyclopedia article about Adorno.
+
+*I also rewrote, simplified, and added to the paragraph that brought in a joke to describe Adorno's pedantry.  Again, fine for a journal article, not for an encyclopedia article.  [[User:Jjshapiro|Jeremy J. Shapiro]]
+:I've just noticed the article mentions &quot;a German pedant&quot; twice. The qualities of a pedant of such persuasion (''who when asked to write about camels locks himself in his study for eight years and writes &quot;The Idea of the Camel as Derived from the Pure Theory of the Ego&quot;'') are not necessarily a part of common knowledge. I've been trying to find words to replace the witty explanation, but that may require locking myself in a study for eight years. Maybe we can restore it in some form? [[User:Conf|Conf]] 11:38, 9 September 2005 (UTC)
+
+[[User:Spinoza1111|Spinoza1111]]Don't see why not. I found the joke in a lecture by Richard Rorty, the American philosopher: cf. http://www.personal.kent.edu/~oazeri/introduction.html. I've tried it out on Germans and they think it adequate as a characterisation of a &quot;German&quot; way of dealing with things.
+
+Here is the joke well-told from the link above:
+
+A frenchman, an englishman, and a german each undertook a study of  the camel.
+
+The frenchman went to the local zoo, spent half an hour there, questioned the guard, threw bread to the camel, poked it with the point of his umbrella, and, returning home, wrote an article for his paper full of sharp and witty observations.
+
+The englishman, taking his tea basket and a good deal of camping equipment, went to set up camp in the Takli Makan Desert, returning after a sojourn of two or three years withn a fat volume, full of raw, disorganized, and inconclusive facts which, nevertheless, had real documentary value.
+
+As for the german, filled with disdain for the Frenchman’s frivolity and the englishman’s lack of general ideas, he locked himself in his room, and there drafted a several-volume work entitled:  The Idea of the Camel Derived from the Trancendental Concept of the Ego.
+
+I return to the original poster.
+
+:Why this need to label Adorno a pedant?  Most of the Wikipedia articles I've seen about different intellectuals and thinkers don't get into the issue of whether their subjects are pedants.  I'm not convinced Adorno was a pedant to the point that bears discussion in the article.  Smacks of a bit of anti-intellectualism? [[User:Jjshapiro|Jeremy J. Shapiro]] 14:12, 9 September 2005 (UTC)
+
+::The word &quot;pedant&quot; appears in two sentences:
+::*''Adorno, however, rather than being arrogant, seems to have been a bit of a depressive sort, and Rolf Wiggershaus tells an anecdote which doesn't fit the image formed of an arrogant, German pedant:....
+::*''While some people respond to Adorno's style '' [by saying that it (to be fixed)] ''was that of a disconnected German pedant, Adorno's constant engagement with jazz....astrology...denazification in Germany, television, sex education....paint the picture of an engaged and concerned intellectual.
+::Both statements actually refute a perception of Adorno being a pedant. The point is however not Adorno, but rather the debate. If there indeed is a tendency among some people (possibly motivated by anti-intellectualism) to perceive Adorno as a pedant, no need to bring Germans into this; if the perception is of a ''German'' pedant, that allegedly being a pedant overly serious and hard-working, with an interest in &quot;ego&quot; and related philosophical tradition, the humorous sentence had possibly served a useful function of defining what some people mean by saying &quot;German pedant&quot;. [[User:Conf|Conf]] 17:12, 9 September 2005 (UTC)
+
+[[User:Spinoza1111|Spinoza1111]] 13:02, 3 October 2005 (UTC)Of course, Adorno was anything but a pedant. At the same time, he refused consistently to fit a predefined role including that of the grateful emigre who adopts the mores of the new country, and as a result was mischaracterised as a pedant, a Mitteleuropische token of a type. What's interesting to me is the self-reflexivity of his social research, in which the tokenization of a person who it seemed desired to be taken on his own original terms, as sui generis, is predicted from within the Adorno machine.
+
+It's something more than participant observer since it raises the possibility that the only sociology worth its name would be confessional as in Rousseau or St. Augustine, and would, unlike the &quot;hard&quot; and mathematical sciences, execute a return trip to a common origin in philosophy.
+
+Of course, worthwhile American social research (which IMO is narrative and not mathridden) is participant observer as seen in Barbara Ehrenreich and even in films such as Sullivan's Travels by Preston Sturges. As to opinion research, you should IMO get a load of the code behind it. It is in my experience full of bugs as if the developers were told that the point was to give the opinion research a bogus authority and not to worry about the math, only to download some crap SPSS &quot;model&quot; at such an nth-hand remove that there was no traceable relationship between the numbers and &quot;reality&quot;.
+
+I return to the points made by the original poster.
+
+::I appreciate your wanting to discuss &quot;German pedant&quot; in this context.  It just seems to me that once we get into debates about whether people are pedants or not, we get into all kinds of distracting issues, such as gossip, highly subjective and unprovable evaluations and judgements, personal feelings and resentments, and armchair psychoanalyzing.  How can one &quot;prove&quot; that someone is a pedant?  And should we mention that he had affairs?  And is he more or less of a pedant than Derrida or whoever?  And did he publish a certain book to advance his career?  And are Germans more pedantic than Americans, and if so in what ways?  And are German Jews pedantic in the same way as German non-Jews? There's no end to it.  Seems to me that if there are debates about and critiques of thinkers, it should be focused on their ideas, and not on these other, ultimately subjective issues, especially in the space of an encyclopedia article that can only devote so much space to the details of their lives.  [[User:Jjshapiro|Jeremy J. Shapiro]] 17:58, 9 September 2005 (UTC)
+
+[[User:Spinoza1111|Spinoza1111]] 13:02, 3 October 2005 (UTC)Ironically, Jeremy, &quot;armchair&quot; psychoanalysis is the only type of psychoanalysis there is! Do I detect a little too much git up and go, whose complement is the Puritan, who prematurely dismisses the very idea that one, like Adorno, might produce anything of value while sitting on what was, in Adorno's case, a rather broad behind?
+
+Indeed, the mathematical impulse in social research, while productive (as Adorno knew well) is also a resentment against the idea that some people may be productive sitting on their butts, a creation of the idea of the intelligentsia which unavoidably sends the message to more active chaps that their own thoughts are of less value. 
+
+How much, exactly, of American social science praxis can be explained by the guilt of people for whom reading and thinking represent &quot;leisure&quot; while trudging rough neighborhoods asking silly questions of exhausted single mothers, standing in front of IBM card sorters (circa 1970) or lugging an expensive desktop computer home in the rain seem like more worthwhile forms of research?
+
+I speak as the dogsbody computer programmer who at university repaired a Fortran compiler to the gratitude of sociology majors who were being bullyragged, circa 1970, by professors who forced them to &quot;do&quot; regressions without teaching statistical theory in any comprehensible way.
+
+Just asking, of course. I now return to I think Jeremy. 
+
+:::(Actually it's my response to Jeremy's post from before! [[User:Conf|Conf]] 22:52, 3 October 2005 (UTC))
+
+:::That's all very well! However, what I want discuss in this place is a possible difficulty of understanding two sentences in the article due to a small edit change. The state of things is this: the expression &quot;a German pedant&quot; exists in the article, the non-trivial (for me) explanation of what it means in this context does not exist in the article.
+:::What is more, now it looks like the people whose expression of their problems with Adorno's work is summarized as calling him &quot;a German pedant&quot; resorted to a lowly chauvinistic remark (&quot;German&quot; becomes literal, and not eight years of work on pure ego), which is not the intended meaning.
+:::While a humorous style may be not appropriate, the statement that the expression &quot;German pedant&quot; is intended to characterize somebody who ''when asked to write about camels locks himself in his study for eight years and writes &quot;The Idea of the Camel as Derived from the Pure Theory of the Ego&quot;'' is possibly relevant.
+:::I'm going to [[Wikipedia:Be bold in updating pages|Be bold]] and throw away the word &quot;German&quot; from the first occurence, and elaborate on ''ego'' at the second, I hope this will be OK. [[User:Conf|Conf]] 21:47, 9 September 2005 (UTC)
+:::ME AGAIN: By &quot;persuasion&quot; I meant simply &quot;kind&quot;. &quot;A pedant of such kind&quot;. Religions have nothing to do with it. Sorry for any confusion. [[User:Conf|Conf]] 00:34, 10 September 2005 (UTC)
+
+[[User:Spinoza1111|Spinoza1111]] 11:47, 30 September 2005 (UTC): I am the person who released the phrase &quot;German pedant&quot;. Of course, I wasn't calling Teddie any such thing, instead deconstructing an image which still carries some authority and detracts from Adorno's reputation.
+
+Most biographies of Adorno describe him not as a pedant but as a person who was THOUGHT of as a typical, OK, MittelEuropische intellectual. See not only my reference to Rolf Wiggershaus but also to Lorenz Jager's ADORNO: A Political Biography.
+
+The problem seems to have been that &quot;the idea of Adorno as derived from ze pure zeory of ze Ego&quot; was at variance with Adorno's self-perception and, we now know (or some of us believe) what he was, which was not a token of any type at all, but an original and creative figure in a prophetic tradition.
+
+The problem seems to have been that more Americanized emigres had become in America &quot;more Catholic than the Pope&quot; and as such failed to comprehend Adorno. In reaction to Fascism, they oversubscribed to American pragmatism and the American rejection of theory. Adorno seemed a throwback to the prewar (pre WWI) *privatdozent*.
+
+I am in fact working on the &quot;constellation&quot; consisting of Adorno and the emigre computer scientist Dijsktra, because both experienced emigration without fully subscribing to the mores of the new country.
+
+&quot;German&quot; seems to be a hot button. But in my view, one cannot understand Adorno without contextualizing him in the culture from which he emerged which was destroyed in 1933, and in this culture, you could be &quot;German&quot; without being a member of any one Volk. We would give the *Sturmbateilung Arbeiter* the final victory if we returned to a Volksiche definition of &quot;German&quot;.
+
+In Weimar, the idea of citizenship was morphing rapidly into the contemporary European Union theory in which a Turkish person can be fully German: in which a Nigerian can be a Briton, period.
+
+Whereas in America, &quot;German&quot; still means &quot;ethnically German&quot; because its primary referent, in America, is &quot;person of full or at least half German ancestry&quot;. Being &quot;German&quot; in this way is completely different from being &quot;German&quot; in the Euro sense. For one thing, most &quot;German Americans&quot; came to America before WWII, which seems as far as I can tell to have radically changed the &quot;German&quot; language: locutions such as &quot;meine Lieber Kamerade&quot; have it seems fallen into complete disuse because of their Nazi and military flavor.
+
+It's rather comparable to the way in which San Francisco seems to preserve &quot;traditional Chinese&quot; script and attitudes in an emigrant time-warp. In some ways, despite the fact he was born in America, my own father was more German than the Kaiser.
+
+Adorno can't be understood without his three-dimensional ability to think in terms of actual historical time and its ability to fool us through reversals. Prior to 1933, &quot;German&quot; was inclusive of contributions of Jews including Heine and Mahler but after 1945, a mutuality of shame and sorrow caused German Jews to transfer their allegiance to Israel and the United States not only culturally but politically.
+
+&quot;German&quot; is still dynamite. Austria's constitution forbids any thought of *anschluss* and many people in the Eastern zone questioned the haste with which East Germany reunified with the capitalist West.
+
+Adorno was no German pedant but as far as I know, he wanted to be culturally German; he returned to West Germany from the US, after all, and not under economic compulsion. He &quot;wanted&quot; a return to Wilhelmine Germany pre-1914 or an alternative virtual history in which the Weimar Republic survived, but was too smart not to know that we can't always get what we want; his whole theory of &quot;damaged life&quot; is a ruined cathedral like the one at Dresden.
+
+Adorno was (in a way that reminds me of Dijsktra) at his most &quot;German&quot; when he thought he was being universal, notably in his essay On Jazz, his nadir, for in that essay, Adorno confused American popular music with African American music in the matter of the truly off the boat and out to lunch. I myself as an emigre find that China gets stranger and more unknown the more I learn: to me, as a &quot;German-American&quot; with the usual mongrelized blood, one should not write about a foreign culture until you have spent far more time than Adorno had spent in America when he wrote &quot;On Jazz&quot;.
+
+&quot;On Jazz&quot; wasn't pedantic but it was German, or French, in a false and premature universalization. But to me this was a minor flaw, equivalent to the way in which Dijkstra rather innocently assumed that in the (almost completely unrelated area) of administrative computing, companies are interested in mathematical correctness.
+
+I will now look at the changes but they sound bang on. Oh yes, I cannot recall the source of my ponderous joke about the Camel but will endeavor to track it down. Forgive the time I took in replying. My Vaio was in the shop.
+
+[[User:Spinoza1111|Spinoza1111]] 11:57, 30 September 2005 (UTC)I have looked over the changes and the article looks great to me. I exercised iron self-control and did not add a section entitled &quot;Adorno Rescued from His Devotees&quot;.
+
+:Ponderous I find the joke to be not. Armed with a source reference, it may fight it's way back to the article, who knows! 
+:I'm also unconsoled not having learnt about the rescue. 
+
+[[User:Spinoza1111|Spinoza1111]] 11:37, 3 October 2005 (UTC)We take you to the Frankfurt Hamburger Institut fur der Sozial undt der Sexy Forschung. A crowd of Rhine madchens of the 1960s is dancing around Teddie while building a fire under him. Various trolls are fleeing the scene while der Polizei have fallen into a prose.
+
+Enter Adornoman like Austin Powers in the manner of a time warp. &quot;Stay your retrograde handen meine damen undt herren&quot;. He hauls the ponderous and now faint Adorno into a false Redemption because imaged. 
+
+We return now to the original poster.
+
+:It is somewhat surprising when cultural differences arise in the intellectual discourse which could be considered quite abstract, isn't it... It must have been even stranger with Adorno being in fact an expatriate not only from Germany, but also from an alternative history (there is an article on [[Privatdozent]]s, by the way, though not really related).
+:Let me just point out one thing that brings us back to the difficulty of understanding what kind of thinking of Adorno actually gets refuted under the umbrella expression &quot;German pedant&quot;. You have written: ''&quot;On Jazz&quot; wasn't pedantic but it was German, or French, in a false and premature universalization''; having a habit of &quot;a false and premature universalization&quot; is then another way the word German may be understood in the context of &quot;German pedantry&quot;. Contrary to what was intedned, probably? Or at least something more than was intended? (God forbid somebody calls Adorno a French pedant.) [[User:Conf|Conf]] 21:03, 1 October 2005 (UTC)
+
+[[User:Spinoza1111|Spinoza1111]] 09:57, 2 October 2005 (UTC)To describe thought as German may be a mistake, but style is so describable. At the same time, I defer to the knowledge of the more German-literate posters because I bear to &quot;German&quot; the relationship a San Francisco Chinese bears to China.
+
+On Jazz should show us that we cannot speak without research about foreign cultural artifacts. What Adorno MEANT by &quot;jazz&quot; was what the word meant when I was a kid in the 1950s. It was a catch-all for &quot;not classical&quot; and since white people did not listen to blues before the 1960s, many people meant by &quot;jazz&quot; in 1945 Tommy Dorsey and the Tin Pan Alley song that Adorno deconstructs &quot;especially for you&quot;.
+
+It was only in the 1990s that musicologists associated the name of Robert Johnson with the blues and his music isn't &quot;the music of slaves&quot;, and his music engages in real formal experimentation. Adorno was to my knowledge completely unaware of how in the 1930s, American Jim Crow had created two separate markets for music, &quot;white&quot; music and &quot;race&quot; music.
+
+In turn, Americans don't perceive of themselves as what they probably are, which is an Afro-Carib society and not &quot;European&quot;.
+
+However, Adorno's misreadings are nonetheless useful, for early on he prophesied the way in which (for example) Bruce Springsteen's music is misused. It's well known in Bruce's case that he's politically quite liberal, which didn't prevent Born in the USA from becoming a neocon and military anthem.
+
+Adorno also teaches us to avoid thinking this process inevitable. There are in Beethoven any number of marches (such as the march in the Ninth that ends wie ein Held sum ziegen) which could have been expropriated as Nazi anthems and were not because (perhaps) at some level the highest art develops a crust of antibodies which repel misuse. Perhaps if Teddie had lived he would have written a book about how to develop art that Fascists will reject.
+
+Hmm, consider for example the way in which American filmmakers always make Fascism rather attractive while Bertolucci makes it anything but (whether the image of Italian fascism in his 1900, or the Fascism of Manchuokuo in The Last Emperor). Adorno speaks to this from the grave: media manipulates independent of the best intentions of its creators: there is a direct line from Coppola's Godfather to his Fascist Gardens of Stone while an American film such as They Shoot Horses has its air supply cut off, in the case of Fonda's picture by an organized anti-Jane conspiracy.
+
+Which is to say that a social art like the movies is social all the way down to the bare metal, or celluloid.
+
+::Once this flu-like something eases on my thinking a bit, I will try to put the Rorty's anecdote in some form back in place of its current replacement. (The information who does the metaphor come from will be an interesting detail, and it happens to be quite a well known name.)
+::Regarding the Adornoman and the False Redemption, it seems to be much worse than I could ever expect, certainly too gruesome for general public.
+::The problem of abuse of the other's art is indeed fascinating. Even more then this idea of fascism which changes its form with cultural progress, evading definition (as I understand from somewhere on this talk page). My personal favorite passage of the article is ''...would project their own fear of loss of control on to society as a whole''.
+::However, I can see how this (inspiring anyhow) particular film-related example may be challenged by giving a (possibly naive) counter example of Apocalypse Now (Kurtz is the bad guy, after all). And Bertolucci feels exploitative somehow (The Dreamers, though I didn't care to watch).
+::Also, in my young European ignorance, I'm surprised to hear about anti-Jane conspiracy... Wasn't (isn't) it rather open hostility? [[User:Conf|Conf]] 00:02, 4 October 2005 (UTC)
+
+[[User:Spinoza1111|Spinoza1111]] 11:40, 10 October 2005 (UTC)No, Kurtz (of Apocalypse Now) is not the bad guy. He was a straight-ahead gung-ho soldier who passed drop school at the age of 38 and exited a career track to join Airborne because, in the film, he was fed up with the careerism of the military. Assigned to a morally ambiguous counterintel operation he did his job, and eliminated criminals who happened to be agents of other parts of Kurtz' own government; it is an open secret that a complex bureaucratic entity such as the US government can contain factions and contradictions between these factions can exist, as they did in Imperial Japan before WWII.
+
+Kurtz in other words stayed constant to ideals that in Vietnam were being undercut by chickenhawks and is an illustration of Adorno's question: can one be a good man in a bad society?
+
+However, as American product, the anti-Fascist film Apocalypse Now was appropriated by American Fascists starting with the popularity of the scene in which Bobbie Duvall &quot;loves da smell of napalm in the morning&quot;.
+
+Many men parroted Duvall in the late Seventies, an era of anxiety about masculinity which today has issued in the horror of Iraq, as if Coppola intended his throwaway comment to be the centerpiece of the scene and NOT an illustration of the type of man who is successful in a bad society. The whole point of the scene was the beauty of the school and village, with its teachers in bao-dais, before we get to it: Coppola's intention was to have us look at what we did.
+
+It is a comment on we Americans that most of us didn't get the point. If you're not American, you may understand.
+
+:Quite a French over-universalization, eh? I think I'll just note that I wouldn't be so optimistic about non-Americans (whatever criteria for being an American).
+
+:Thinking about various possible explanations or rationalizations of the Duvall character (a caricature of a perfect soldier? a man pursuing his dreams--surfing--against all odds? a total freak in command?), I'm starting to believe movies like Apocalypse Now, which can be understood in numerous contradictory ways, may be just marketing masterpieces; being whatever anybody wants and, in essence, nothing.
+
+:'''Back to the original point:''' I've finally got around to following the link you given [http://www.personal.kent.edu/~oazeri/introduction.html] only to find out the anecdote about researching camels does not, by all signs, come from Rorty! It is cited in a short introductory speech to Rorty's lecture, and referred to as ''a philosopher’s anecdote I had read''. I'm afraid this presents little ground for putting it back in the article, unfortunately.  I would happily restore the former wording, but it is just me. [[User:Conf|Conf]] 13:35, 12 October 2005 (UTC)
+
+[[User:Spinoza1111|Spinoza1111]] 07:50, 18 October 2005 (UTC)It may appear in Samuel Beckett's writings, I will continue researching this. The problem on de Web is a data smog of improper jokes about The Englishman, the Frenchman, and the German.
+
+If you want, search Beckett's writings online if available for a variant that runs &quot;the Englishman would write The Camel, the Frenchman would write The Camel and Love, while the German would write The Absolute Camel&quot;.
+
+This may have only been a boulevardier's sally in the postwar haze of Paris and as such may have no father.
+
+I removed a comment from the external links section. It read &quot;(seems to be a broken link)&quot;, and was written in regards to the Stanford link. The link no longer appears broken. [[User:ACinfo|ACinfo]] 01:31, 13 April 2006 (UTC)
+
+== Max and Ted, and Brown ==
+
+Does anyone have a handy cite for the use of Adorno and Horkheimer in Brown vs. Board of Education? My memory is somewhat dim, so I'm not sure if they were directly involved in drafting the amicus, or were merely cited.  But in either case, I think some mention of this would be very interesting, especially for American WP readers (but not only so).  Before I write something, I'd like to get the facts straight in my own mind. [[User:Lulu of the Lotus-Eaters|Lulu of the Lotus-Eaters]] 19:18, 2005 September 9 (UTC)
+
+[[User:Spinoza1111|Spinoza1111]] 11:54, 30 September 2005 (UTC): a fascinating possibility, but I'm afraid you may be thinking of the Swedish social theorist Gunnar Myrdal. His book An American Dilemma is cited in Brown but neither Adorno nor Horkheimer is cited, as amicus or anything else.
+
+In the amicus submitted by in Brown:
+
+ EDWIN J. LUKAS, ARNOLD FORSTER, ARTHUR GARFIELD HAYS, FRANK E. KARELSEN, of the New York Bar, LEONARD HAAS, of the Georgia Bar,
+ SABURO KIDO, of the California Bar,
+ WALDO B. WETMORE, of the Kansas Bar,
+ Attorneys for Amici Curiae.
+ THEODORE LESKES, SOL RABKIN, of the New York Bar, of Counsel.
+ November 15, 1952
+
+There is the paragraph:
+
+&quot;Educators and social scientists have long proclaimed that these and other social evils necessarily flow from racially  segregated education. Segregation in Public Schools--A Violation of &quot;Equal Protection of the Laws&quot;, 56 Yale L. J. 1059, 1061 (1947). See also Long, Some Psychogenic Hazards of Segregated Education of Negroes, 4 J. of Negro Ed. 336, 343 (1935); Long, The Intelligence [**28] of Colored Elementary Pupils in Washington, D. C., 3 J. of Negro Ed. 205-222 (1934); Gallagher, American Caste and the Negro College, 109, 184, 321-2 (1938); Bond, Education of the Negro in the American Social Order, 385 (1934); President's Commission on Higher Education, 2 Higher Education for American Democracy 35 (1947); Heinrich, The Psychology of a Suppressed People, 52, 57-61 [*18] (1937); Myrdal, An American Dilemma, 54-5, 97-101, 577-8, 758; Frenkel-Brunswik, A Study of Prejudice in Children, 1 Human Relations 295, 305 (1948); Goodman, Race Awareness in Young Children (1952); Adorno, Frenkel-Brunswik, Levinson and Sanford, The Authoritarian Personality, Ch. IV, V (1950).&quot;
+
+[[Special:Contributions/99.50.81.219|99.50.81.219]] ([[User talk:99.50.81.219|talk]]) 18:29, 12 January 2015 (UTC)
+
+==A puff piece for the worst existentialist degenerate of the 20th centrury==
+This article is a disgrace to Wikipedia, like way to many others on &quot;critical theory&quot;. The contents of this article clearly have been contaminated by one of Adorno's personal underlings-- not to name any names here. [http://en.wikipedia.org/wiki/Jeremy_J._Shapiro] [[User:Cognition|Cognition]] 21:52, 10 December 2005 (UTC)
+
+:Since User:Cognition has given no content to her/his complaint about this article, it is impossible to know how to respond to it, especially since Adorno was not only not an existentialist but post-war Germany's most prominent critic of existentialism, and the main source for labeling people such as Adorno being &quot;degenerate&quot; was Nazism.  In any case, this kind of empty complaining doesn't contribute to work toward improving the article; specific criticisms would.  By the way, if you review the history of this article, you will see that I have had very little to do with its content  and have made only minor and trivial contributions to it. Also, although I studied with Adorno, I didn't have any relationship with him that could normally be described as &quot;personal underling&quot;, since I was not one of his assistants or employees -- just attended some of his lectures and seminars -- and have criticized him in some of my own published work.  [[User:Jjshapiro|Jeremy J. Shapiro]] 00:23, 11 December 2005 (UTC)
+
+::The fact that he claimed to be a &quot;critic&quot; of existentialism means nothing. Nietzsche, for instance, commonly attacked Romanticism but is today seen by many as part of the intellectual current of Romanticism in Germany. Adorno, in arguing for the entertainment industry to be perverted into a giant psychological warfare factory with the evil goal of schizophrenic oblivion, using propaganda &quot;Top Forty&quot; pop songs to brainwash entire generations, to trigger mental breakdown on a mass scale, clearly falls within the existentialist tradition that in fact gave birth to Nazism itself. It's good to see, User:Jjshapiro, that you do not buy into the bleak ideology of this scoundrel completely, but I can perhaps supply you with some further reading on the subject that will open your eyes to the truth about these matters, if you're willing to open your mind and turn away from Beast-man insanity. [[User:Cognition|Cognition]] 17:43, 11 December 2005 (UTC)
+
+:::Confusion?  I think that User:Cognition may be confusing Adorno with someone else.  Adorno is the main thinker in the 20th century who CRITIQUED and attacked the role of the mass media and of popular music in contributing to Fascist and proto-fascist mentality as well as being a critic of existentialism and Nazism.  I have never read a single scholarly source that claims Adorno as an existentialist either directly or by even the most indirect implication.  Also, although Heidegger can be argued to have been a Nazi sympathizer, one would be hard put to demonstrate that existentialism gave birth to Nazism and I've never seen a scholarly source that supports this, although the element of decisionism (a la Carl Schmitt) in both could be linked to what Adorno and Horkheimer described as the replacement of objective reason by subjective reason.  In any case they're too contemporary for either to be considered the cause of the other.  The best thing to look at on this, that I know, is Marcuse's essay on &quot;The Struggle against Liberalism in the Totalitarian Worldview&quot; in his Negations. I must say that, despite the anti-Wikipedian personal attack, and my considerable appreciation for being supported by rational Wikipedian colleagues, I got a kind of kick out of being called an insane Beast-man. Sounds kind of cool, at least in the calmer circles in which I travel. [[User:Jjshapiro|Jeremy J. Shapiro]] 22:00, 11 December 2005 (UTC)
+::::I sense that you are quite confused about the subject. I recommend Steven P. Meyer and Jeffrey Steinberg's article &quot;The Congress for Cultural Freedom: Making the Postwar World Safe for Fascist 'Kulturkampf'&quot; [http://www.committeerepubliccanada.ca/spip/article.php3?id_article=62], which highlights the roots of Adorno and his cothinkers of the Frankfurt School in Nazism and existentialism. Also see [http://www.larouchepub.com/lar/2003/3011strauss_fraud.html The Essential Fraud of Leo Strauss] [[User:Cognition|Cognition]] 02:27, 12 December 2005 (UTC)
+
+::::Thanks for the reference, I just read it, and the part on Adorno is mainly wrong.  For one thing, there's nothing in the article about existentialism or about equating Adorno or the Frankfurt School with either Nazism or existentialism, so it is illegitimate to claim that reference for your assertions about this. For another, most of the stuff in it about Adorno is wrong.  For example, what it says about his ideas about popular music are the opposite of what he thought.  His main thrust was the critique of popular music, not advocating its use.  The things he said about popular music were what he was attributing to the culture industry, not what he was advocating.  Second, the quotation in there about schizophrenia is not what he advocated, it's his critique of Stravinsky, whom he was criticizing.  In other words, this quotation was taken out of context to mean the opposite of what he says in the book.  Third, as you will see if you read anything by the Frankfurt School, the whole point of its championing of modernism in the arts was not an attack on classical culture but rather to preserve the truth value of classical culture in a society in which culture had become a commodity, which was why it had to become dissonant, atonal, etc..  That is why Adorno wrote essays championing the music of Bach and Beethoven and the work of Hoelderlin, why Marcuse tried to bring back some of the philosophy of ancient Greece in One-Dimensional Man, and so on.  I don't know if you have read the work of Adorno and Marcuse, but if you do, you will discover that most of what this article says is either a distortion of what they wrote or its exact opposite.  Fifth, Adorno didn't team up with Stravinsky to compose music scores, he teamed up with Hans Eisler to write a book about film music.  He was a prominent critic of Stravinsky, not a collaborator, as the article says incorrectly at several points. I could go on and on, but basically the article is largely patent nonsense about Adorno.  One can disagree with the actual things that Adorno said and intended, but this article misrepresents both what he said (wrote) and what he intended and is completely at odds with all modern scholarship about Adorno and the Frankfurt School. [[User:Jjshapiro|Jeremy J. Shapiro]] 03:23, 12 December 2005 (UTC) 
+
+::::: By existentialism, I refer to that dastardly worldview, the outlook of an Immanuel Kant, or a Friedrich Nietzsche, or Karl Jaspers and Hannah Arendt, or official Nazi philosopher Martin Heidegger and his follower Jean-Paul Sartre, that ''we don't know anything'' -- we can only have opinions. Adorno is a leading figure in recent years for this sick trend. We are sadly in a world where fools use verbal gymnastics to deny what we know is true and moral. I can think of no better word to describe these fiends other than ''evil''. Sadly this way of thinking has become standard at our degenerated American universities today. Plato and all subsequent great philosophers have realized the relationship between man and the divine. Socrates fought against the sophists of his day, who were all rhetoric but failed to grasp the true power of human reason, and luckily today we have Lyndon LaRouche, similarly a philosopher who stands outside the corrupt academies, and one who has also suffered from official sanction by those who stand against truth, but still raises basic moral questions about the horrid exploitation that our world system is built upon. Existentialism, the denial of a transcendent meaning to life, is the basic motivating factor behind the evil deeds of Synarchist International, which as you may be aware installed the fascist dictatorships during the 1920's and 1930's. Hitler himself was a monster straight from the pages of that Satanic madman, acclaimed existentialist Friedrich Nietzsche. Please read this interview: http://www.freedomdomain.com/Templemount/larouche_10_9.html As for the rest of your comments, I can only assume that your personal allegiance to Theodor Adorno is leading you to misrepresent his beliefs. It is common for thinkers of this sort to pretend they mean one thing when they say another -- take Aldous Huxley, for instance, whose novel ''Brave New World'' is a blueprint for a terrorized society where perverted sex and drugs are used to control the masses, but is described by Huxley's devotees as advocating just the opposite. I am not surprised by this response, given your place deep within the self-perpetuating university system and your history working under Adorno. [[User:Cognition|Cognition]] 03:53, 13 December 2005 (UTC)
+
+::::I would be very interested if you could provide one passage from Kant that shows him to argue that we can't know anything and can only have opinions, since  I along with all Kant interpreters I have read, have only known him to assert the opposite, that his philosophy provides a basis for rational knowledge (and moral action) and was motivated by the attempt to overcome scepticism.  I don't mean a reference to something by Lyndon Larouche or any articles by conspiracy theorists, or any moral pontificating, but rather an actual passage from Kant, with page reference. I would be equally interested if you could provide one passage from Adorno's writing (again, not from other people's comments but from Adorno's writing), with page reference, that shows him to advocate the use of popular music for any purpose whatsover, or that shows him to have collaborated on film music with Stravinsky -- not your ad hominem making up theories or condemnations of me, but actual evidence -- or to have advocated the use or propagation of music to spread schizophrenia.  People who work on Wikipedia have a responsibility to truth, facts, and evidence, not to subjective intepretation or access to invisible higher sources of truth.  For an article about Adorno, the material has to ultimately justify itself in terms of actual, available evidence about Adorno, not in individuals' sujective or personal feelings or vendettas.  I think it's fine for your own personal life conduct that you feel knowledgeable enough, competent  enough, and morally superior enough to divide all thought and thinkers from all of history into the absolutely good and the absolutely evil.  But to collaborate on an article here, one has to climb off one's high horse and use knowledge and evidence down here on an equal footing with others, where we have to abandon uncritical adherence to particular ideologies and points of view in order to arrive at articles that are accurate, responsible, and from a neutral point of view. I personally will not respond to any further of your comments unless they are based on passages of texts from these thinkers, with page references.  [[User:Jjshapiro|Jeremy J. Shapiro]] 07:28, 13 December 2005 (UTC)
+
+:::::I think it's funny that you're asking me for page references when you haven't been able to provide the same when arguing your points. I'm at least posting links to respected publications, while you're simply standing on your soapbox and shouting, grandstanding, flashing your credentials in the hopes that people will buy into your act. And, by the way, I don't think that all thinkers from all of history can be divided into the absolutely good and the absolutely evil -- this is a straw-man you're making of my arguments, and a very dishonest tactic to use to try to discredit me. [[User:Cognition|Cognition]] 18:01, 13 December 2005 (UTC)
+
+::::::Since this discussion is not directly related to the article, I'll reply on your talk page rather than here, since I don't think that we should wear thin the patience or attention of other editors. [[User:Jjshapiro|Jeremy J. Shapiro]] 20:47, 13 December 2005 (UTC)
+
+::: Please remember that [[Wikipedia:Talk page|Talk pages]] are for discussion directly related to improving the article, not for editorializing nor for airing idiosyncratic personal opinions on the article's topic.  This kind of comment does not help anyone to improve the article, and in fact it looks more like trolling for an argument than good-faith discussion of the article. -- [[User:Rbellin|Rbellin]]|[[User talk:Rbellin|Talk]] 18:27, 11 December 2005 (UTC)
+
+::I wouldn't worry too much about Cognition, Jeremy.  Lots of topics attract weirdly rabid critics (who usually know little about the topic).  We are all very honored to have someone of your knowledge contributing to this article, and to others connected with critical theory (whether your contributions are large or small for a given article). [[User:Lulu of the Lotus-Eaters|Lulu of the Lotus-Eaters]] 04:12, 11 December 2005 (UTC)
+
+:Cognition, please [[Wikipedia:No personal attacks|Comment on content, not on the contributor.]] [[User:Hyacinth|Hyacinth]] 07:56, 11 December 2005 (UTC)
+
+Some context: Cognition is an advocate of [[Lyndon LaRouche]], who wrote some criticism of Frankfurt School Marxism that we decided wasn't notable or relevent back when it was Herschel doing it, and doing it to [[Frankfurt School]]. [[User:Snowspinner|Phil Sandifer]] 00:19, 12 December 2005 (UTC)
+
+== Culture Industry not really a focus for Adorno ==
+
+''Adorno focused on culture and the culture industry as a key arena''
+
+Well, actually he did not. But many students and teachers tend to focus on his very few writings on that topic, also in this article. That is a shame, since he wrote extensively about literature, art, and music, and his thoughts on these are far more interesting. So how about more on his aesthetic theory?
+
+:Well, the &quot;culture industry&quot; is indeed mentioned in his Aestetic Theory, and the idea of such a threat to true art and/or art perception is indeed at the very basic of his aestetics... Rather than saying that he didn't write much about this, I would say that he took it for granted.
+
+== Start of emigre section ==
+
+The first sentences under the emigre to America section are important biographical statements, however the way in which they are worded is a little awkward. Anybody agree, disagree, suggestions for alternate wordings?
+
+==good==
+i think that it is good, except that it is very very long. it might take a long time to load on slower computers, perhaps making it a bit smaller? just a thought [[User:Zack3rdbb|Zack3rdbb]] 03:15, 30 March 2006 (UTC)
+
+== request for advice ==
+
+I would be very grateful if someone could recommend an exceptionally lucid essay on the notion of the &quot;labor of the negative&quot; accessible to a general audience.  Thanks, [[User:Slrubenstein|Slrubenstein]]   |  [[User talk:Slrubenstein|Talk]] 13:06, 6 May 2006 (UTC)
+
+== Music/musicology in this Article ==
+
+There is rather a lack of discussion regarding Adorno's musicological output. There should certainly be something about &lt;i&gt;The Philosophy of Modern Music&lt;/i&gt;. Also important are the Berg book and the Mahler book, neither of which get a mention. It would also be useful to put in a bit about the Wagner essay on any section on the Second World War. I can draft a bit over the summer unless there's someone out there rather more qualified. [[User:Jacob Bard-Rosenberg|Jacob Bard-Rosenberg]]
+
+I second that. T.W.A. is a very interesting stroke of luck:
+*a good piano player (pro level)
+*a serious composer (Berg did certainly not teach any weak wannabe)
+*a professional sociologist
+*a professional philosopher
+So he was able to look at music from the perspective of an insider,
+as well as from the position of philosophy and sociology.
+He is one of the few writers who understand that the composer
+lives inside of a social process (and economic process) which
+will definitely influence his work. This is in contrast to romantic
+perception where the composer is driven from unclear sources, like
+&quot;intuition&quot; etc.
+Unfortunately Suhrkamp has collected the musical writing:
+*Musikalische Schriften I-VI
+*Die musikalischen Monographien
+but you have to find out yourself that 
+*Dissonanzen 
+*Philosophie der neuen Musik 
+contain perhaps the most important package of &quot;work to do&quot; for any
+composer in our time. The &quot;Einleitung in die Musiksoziologie&quot; (Introduction
+into Sociology of Music, in Dissonanzen) is full of spot on observation
+and has even entertaining, hilarious moments (which become bitter
+if you think more about it).
+
+In Dissonanzen (as you might think) the more recent and critical
+observations lead to nothing more that the impossibility of composing
+further. This result is the reason for quiting composition, and
+not the Auschwitz-Trauma.
+
+T.W.A. was a very sensitive person, which is especially true for
+matters of music (which is perhaps also a bad thing, because
+it stopped his music writing too early).
+His death is certainly a proove of this over-sensitivity.
+His seismographic ability makes his work pointing very far
+into the future, so his writing about music is still on spot
+and poses the right questions today.
+
+So we can say that the most important part of his work
+is missing here! m.c.
+
+[[User:202.82.33.202|202.82.33.202]] 09:38, 4 January 2007 (UTC)Kindly note that &quot;over-sensitivity&quot; as a concept would be classed by Adorno with other distorted concepts, such as &quot;overqualified&quot; which project the deficiencies of society on the individual.
+
+The second paragraph of the musicology reads like a muddy-ish seminar paper, especially the last sentence: &quot;This and other works written during his sojourn in California was whether American Fundamentalist authoritarianism could be spoken of as having a relationship to Continental Fascism without sounding a false note in terms of the partial totality of a &quot;theory&quot; that American authoritarians MIGHT bring about a different but equally or more pernicious form of Fascism in the US.&quot;  More accessible to general educated audience please, more grammatical, and lose the caps.  I'd fix it up myself, but my lack of expertise risks distorting the point, which may be a good one. 
+--Jon Newman
+
+== Integral Freedom ==
+
+I was wondering if anyone else, perhaps someone who is more familiar with Adorno that I, thought that it would be worthwhile putting a section on Adorno's concept of integral freedom, to me this concept is central to understanding how Adorno relates to marxism and why he is so critical of the culture industries 
+
+[[User:Doc House|Doc House]] 03:11, 19 December 2006 (UTC)
+
+==FA nomination==
+I noticed at the top of the page that this was once nominated for FA status, but failed to make it. I wanted to see the nomination page, but it's a redlink, and it's not listed in the Archive. Where can I find it? [[User:Chubbles1212|Chubbles]] 07:28, 27 March 2007 (UTC)
+:Never mind, I figured it out. [[User:Chubbles1212|Chubbles]] 07:34, 27 March 2007 (UTC)
+
+== Critique ==
+
+I find it a little ridiculous to give so much attention to positivist critique, as positivism seemed an abandoned ship already in Adorno's day. The sort of discussion referred her belongs to entry level college courses; not to serious late 20th century philosophy.
+
+One thing that should be mentioned here, is poststructuralist critique - even if it mostly aimed at Habermas. This still ongoing debate is crucial for the current rennaissance of Adorno.
+==Adorno's responses to his critics==
+Shouldn't the section titled &quot;Adorno's responses to his critics&quot; include at least one of Adorno's responses to his critics?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/98.150.235.107|98.150.235.107]] ([[User talk:98.150.235.107|talk]]) 06:43, 15 January 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+Or perhaps it should just be deleted, since it is short and adds nothing.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/98.150.235.107|98.150.235.107]] ([[User talk:98.150.235.107|talk]]) 06:48, 15 January 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Adorno and Frankfurt on mimesis? ==
+
+Hello all,
+
+I'm wondering if anyone better versed in Adorno's writings than I am could suggest where to find a succinct outline of his use of 'mimesis'? He is often mentioned in current discussions of the subject, but seldom with references. Might the subject warrant a sub-section in the article?
+
+Thanks, [[User:DionysosProteus|DionysosProteus]] 15:38, 13 August 2007 (UTC)
+
+: Though my suggestion is nearly 3 years too late and though this is by no means an &quot;outline&quot; (but still very succinct considering the difficulty of the ''Aesthetic Theory''), Fredric Jameson's ''Late Marxism: Adorno or the Persistence of the Dialectic'' comments at length on Adorno's rhetorical use of mimesis and it's role as the dialectical pre-Enlightenment counterpart to Enlightenment rationalization/reification/Taylorization, which are therefore as mimetic as mimesis is reificatory: in a word mimesis is abstraction. But of course there's a lot more here to be sorted out and not all of it unproblematical, especially if you're one of the literary types.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Fergus Mixolydian|Fergus Mixolydian]] ([[User talk:Fergus Mixolydian|talk]] • [[Special:Contributions/Fergus Mixolydian|contribs]]) 17:49, 31 March 2010 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+Wow, that was a pregnant pause. Thanks. [[User:DionysosProteus|DionysosProteus]] ([[User talk:DionysosProteus|talk]]) 00:21, 10 April 2010 (UTC)
+
+== Referenes in popular culture ==
+
+I removed this section from the article, and I bring it here for discussion:
+
+:In the Disney film, [[Halloweentown II: Kalabar's Revenge]], the young witch Marnie utters a spell containing the phrase &quot;Theodor Adorno in the head-o,&quot; which results in flowers sprouting on top of a troll's head.
+
+:The German writer [[Thea Dorn]] chose her pseudonym in a sort of homage to Adorno.
+
+:The Argentinian writer Julio Cortázar had a cat named Theodor W. Adorno.
+
+The Disney film bit is just so trivial it hardly deserves comment.  The other two are interesting, but really offer nothing in the way of a greater understanding of Adorno, his writings, or his contributions to 20th century philosophy.  The article is not the least bit damaged by the loss of these three bits of detritus. ---&lt;font face=&quot;Celtic&quot;&gt;[[User:RepublicanJacobite|&lt;span style=&quot;color:#009900&quot;&gt;RepublicanJacobite&lt;/span&gt;]]&lt;sub&gt;''[[User talk:RepublicanJacobite|&lt;span style=&quot;color:#006600&quot;&gt;The'FortyFive'&lt;/span&gt;]]''&lt;/sub&gt;&lt;/font&gt; 03:46, 1 December 2007 (UTC)
+
+*Enjoy popular culture much? [[User:Lexo|Lexo]] ([[User talk:Lexo|talk]]) 10:04, 20 May 2008 (UTC)
+
+As a lover of popular culture, I think repulican is absolutely right [[User:Johncmullen1960|Johncmullen1960]] ([[User talk:Johncmullen1960|talk]]) 12:43, 8 June 2008 (UTC)
+
+== Was Adorno a vegetarian? ==
+
+Somebody sent me the following alleged quote from Adorno: &quot;Auschwitz begins wherever someone looks at a slaughterhouse and thinks they´re only animals.&quot; Did he really write that? Was he vegetarian (or vegan)? -- [[User:Gabi S.|Gabi S.]] ([[User talk:Gabi S.|talk]]) 20:14, 20 February 2008 (UTC)
+
+Adorno did write it, in &quot;Minima Moralia&quot;. However, I do not think it is a defence (or promotion) of vegetarianism, as much as a part of a broader poing of how human beings are able to rationalize their 'evil' (for the lack of a better term) acts. --[[User:Bora Nesic|Bora Nesic]] ([[User talk:Bora Nesic|talk]]) 01:37, 30 June 2008 (UTC)
+
+I agree with Bora Nesic.  Indeed, logically speaking, based on his ideas, Adorno should have been a vegetarian or vegan.  However, I have never encountered any indication that he was, and I'm sure that I would have heard if he had been, and that it would be common knowledge.  He does have wonderful passages on the suffering inflicted on animals by humans dominating and controlling them.  [[User:Jjshapiro|Jjshapiro]] ([[User talk:Jjshapiro|talk]]) 04:52, 30 June 2008 (UTC)
+
+
+I read the passus some days ago and the sentence mentioned above is just a brief summary of it.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/92.193.47.214|92.193.47.214]] ([[User talk:92.193.47.214|talk]]) 22:58, 21 April 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+I would be very interested in reading this passages. Can you pls post where I can find them (which book/page?) [[User:Jubru|Jubru]] ([[User talk:Jubru|talk]]) 12:41, 7 June 2010 (UTC)
+
+== Adorno and homosexuality ==
+
+Why no mention of Adorno's notoriously problematic theoretical relation between homosexuality and Fascism?  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/67.160.175.113|67.160.175.113]] ([[User talk:67.160.175.113|talk]]) 03:12, 8 June 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Jargon/Readability ==
+
+''To a considerable extent it was students of Adorno who interpreted a theory of revolt, thus executing a 'praxis' from 'Critical Theory'. It is said that Adorno asked for the help of police to remove the students that had occupied the Frankfurt Institute in fear of vandalism. Therefore Adorno in particular became a target of student action. He sharply criticised the anti-intellectual trend in the 60's Left, which he called a &quot;pseudo-activity&quot; attempting to overcome the separation of theory and praxis but getting caught up in its own publicity; he argued instead for 'open thinking': 'beyond all specialised and particular content, thinking is actually and above all the force of resistance'''
+
+This bit is so jargon heavy, cuturally-dependent, and euphemistic as to be unreadable unless you're well steeped in the language of modern leftist philosophy. It's very difficult to read this and not recall Orwell's simile to the &quot;cuttlefish spurting out ink&quot;...
+
+I've no idea what the truth of this is, but I *think* it means: &quot;At such-and-such a year, Adorno's students occupied university buildings, [insert whatever their stated motives were here]. Adorno, concerned about potential vandalism, lobbied police to have them removed. The students [did X, Y, and Z, not the vague &quot;target of student action&quot;]. Adorno responded by sharply criticized what he saw as an anti-intellectual trend in the 1960s radicalism as 'pseudo-activity,' and instead argued for [whatever open thinking actually means---&quot;thinking itself as a truer form of resistance?&quot; I don't know what it is, but that's what it sounds like to the layperson].&quot;
+
+Again, this isn't about the content, just it's presentation---most people aren't philosophy majors or inside radical groups where they can hear &quot;praxis&quot; and not think about Star Trek 6, and it's important they have access to this information too. I'd do it myself, but I'm lazy and only heard about Adorno early today.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Jamescape777|Jamescape777]] ([[User talk:Jamescape777|talk]] • [[Special:Contributions/Jamescape777|contribs]]) 20:34, 28 November 2009 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Musicology Section Completely Missing ==
+
+There's not a single mention on his works either on Beethoven or Sonata Form, this could fill a whole article on itself. I dont know enough about this to write anything, but if anyone would like to do it I'll be the first to call you the honoric title &quot;Dialectical&quot;. --[[Special:Contributions/130.241.66.89|130.241.66.89]] ([[User talk:130.241.66.89|talk]]) 11:25, 11 October 2010 (UTC)
+
+== need some support while translating ==
+
+I am translating this article into Hebrew, and would appreciate some clarifications, mainly in the theory section. For a start, I am not sure what &quot;argument&quot; stands for in &quot;The argument, which is complex and dialectic, dominates his ''[[Aesthetic Theory]]'', ''Philosophy of New Music'' and many other works&quot;. [[User:Ofrahod|Ofrahod]] ([[User talk:Ofrahod|talk]]) 08:45, 14 January 2011 (UTC)
+
+== Cultural Marxist ==
+
+As a member of the Frankfurt School, Horkheimer is clearly a [[Cultural Marxist]]. Although saying his work encompassed critical theory may make his position clear to academics, pointing out that he was a Cultural Marxist in the introduction would make things clearer for non-academic readers. Any thoughts?[[User:Bobbythemazarin|Bobbythemazarin]] ([[User talk:Bobbythemazarin|talk]]) 06:29, 5 August 2011 (UTC)
+
+:&quot;Cultural Marxism&quot; is clearly a loaded term, as [[2011 Norway attacks|recent events in Norway]] make pretty clear. Its use in non-academic discourse is, it seems, confined to the political right and is used chiefly as a smear; use of the term has also been characterized as a conspiracy theory by the SPLC (you can find all this on the article linked to above).  As a term it is imprecise, non-neutral, and almost wholly lacking in descriptive clout; I think that, if anything, it would actually make things far ''less'' clear to non-academic readers, since it itself is such a muddy, skewed term.  [[User:Sindinero|Sindinero]] ([[User talk:Sindinero|talk]]) 11:47, 5 August 2011 (UTC)
+
+::The SPLC is neither neutral or objectice, but an organisation on the extreme left of the political spectrum and what you say about the term &quot;Cultural Marxism&quot; could also be said about &quot;conspiracy theory&quot; which is mainly used by the authoritarian left as a smear to discredit opponents. [[Special:Contributions/91.49.195.227|91.49.195.227]] ([[User talk:91.49.195.227|talk]]) 17:50, 25 July 2015 (UTC)
+
+== Still needs references ==
+
+Although the article has been ''substantially'' improved over the last couple days (props to [[User:Francetourdetour]]), it could still use references. I don't doubt the accuracy of the new content in the biography section (I think it's excellent), but I think there are areas where additional footnotes would beef up the article. Currently, it is for the most part quotations that are referenced, and I think more facts and statements, especially those that might seem to be analyses or claims, need to be footnoted. For this reason, I've reinstated the [[Template:refimprove|refimprove template]].  [[User:Sindinero|Sindinero]] ([[User talk:Sindinero|talk]]) 08:25, 28 November 2011 (UTC)
+
+I've been working on the biography thus far, so I can't speak for other parts of the article that need references. But if you can identify points in the bio section that you think require references, I'd be pleased to provide them.[[User:Francetourdetour|Francetourdetour]] ([[User talk:Francetourdetour|talk]]) 23:46, 28 November 2011 (UTC)francetourdetour
+
+== Reference style ==
+
+I went ahead and made all the references (but one) into short footnotes, using the [[Template:Sfn|sfn template]], for a better oversight. There didn't seem to be one single standard of citation for this article, so I'm hoping the change isn't intrusive. Any objections? &lt;br&gt;
+[[User:Sindinero|Sindinero]] ([[User talk:Sindinero|talk]]) 13:47, 28 November 2011 (UTC)
+:I think it looks great.  [[User:Colinclarksmith|Colinclarksmith]] ([[User talk:Colinclarksmith|talk]]) 16:38, 28 November 2011 (UTC)
+
+:| Agreed. Thanks.[[User:Francetourdetour|Francetourdetour]] ([[User talk:Francetourdetour|talk]]) 23:47, 28 November 2011 (UTC)francetourdetour
+
+*The bigger problem is that almost no one will actually read the article. Mr. Adorno would be better served by a more normal length article that tells an average person why he is important. [[User:BigJim707|BigJim707]] ([[User talk:BigJim707|talk]]) 08:13, 21 December 2011 (UTC)
+
+*I will refrain from taking a stance on the bulk of the article - I like a thorough Wiki article, but I understand that it is easy to go overboard.  One big problem that I do think needs to be addressed is the bibliography section, which is way too bulky and information-heavy.  In most cases, each English translation title listed in the chart is quite hard to find, which is bad for an article in English.  Maybe we should make a separate Works of Adorno article that goes into that kind of depth and keep the list of his works a little simpler in the main article.  Thoughts?  If no one is against it, I might get to work doing just that within a few days.  [[User:Colinclarksmith|Colinclarksmith]] ([[User talk:Colinclarksmith|talk]]) 15:45, 21 December 2011 (UTC)
+
+::I'm confused why &quot;almost no one will actually read the article&quot;.  It's not that unusually long; other biographies can run long too.  The navigable table of contents is there to give a meaningful overview, and a good lead can summarize what's interesting and important about Adorno without challenging anyone's facilities overmuch.  I'd tend to err on the side of too much information; we can always pare it down later if need be.  Personally, I find this kind of extensive biographical information (which, to be fair, wouldn't take more than 10-15 minutes to read) extremely helpful.  And finally, deciding why Adorno's important to the &quot;average reader&quot; is a contentious issue; better to let the complexities and different facets of his life and work speak for themselves, and the reader make up her own mind.
+
+::On the bibliography section, agree with the above.  We should probably have his major works prominently displayed, with a link to the complete bibliography. [[User:Sindinero|Sindinero]] ([[User talk:Sindinero|talk]]) 21:17, 21 December 2011 (UTC)
+
+::::::As for article length, I tend to agree with Sindinero, and I have to say that I really like how the article has shaped up these last few months.  If other editors want to push for its streamlining, however, I won't put up a big fuss.  Just remember that Adorno's thought is about as complex as anything outside of the hard sciences can get, and thus requires a lot of space.  As for the bibliography, I can make a project out of that (i.e., moving the current chart to its own article and limiting the listing in the article to a concise list) sometime soon, unless anyone objects.  [[User:Colinclarksmith|Colinclarksmith]] ([[User talk:Colinclarksmith|talk]]) 23:10, 21 December 2011 (UTC)
+
+:::::::Okay, done.  [[User:Colinclarksmith|Colinclarksmith]] ([[User talk:Colinclarksmith|talk]]) 21:25, 30 December 2011 (UTC)
+
+* I've done the revisions to this article over the last two months or so, so perhaps I can address some of these concerns. The charge that a normal person would not have the patience (?) or interest (?) to read through the biography raises, I think, a non-issue: The biography is no longer than that of many other prominent figures and the point of these articles is, I think, simply to write the most accurate and complete account one can, regardless of blind projections about readerly interest. And I agree with Sindinero here: I too appreciate extensive and readable articles (isn't that the point?). As far as the bibliography chart is concerned, I simply lifted it from the Heidegger article, where the box is featured, not on a separate page, but at the bottom of the main article. That being said, I have no objection to the way it has been changed - thanks Colinclarksmith. And on the question of streamlining - as the biography writer, I'd be radically opposed to this, of course. I am not sure why it should be pared down - in fact, once I have the time I'd like to significantly extend and revise the &quot;theory&quot; section because it is, at present, largely mistaken or woefully undeveloped. The substance of that revision will surely be cause for much contentious, theoretical disputes - but we're not there yet. Thanks for all the comments and work that's been done on this article - I think it is a much better article than it was a few months ago.[[User:Francetourdetour|Francetourdetour]] ([[User talk:Francetourdetour|talk]]) 23:51, 22 January 2012 (UTC)francetourdetour
+
+**I agree with this, and look forward to the revisions you'll make to the theory section.  While I don't have the time or resources to help with this article as much as I'd like to right now, I can suggest a couple sources (although it's likely you're already familiar with them) - Hohendahl's book ''Prismatic Thought'' is a good intellectual-history representation of Adorno, and while I haven't read it, I've heard really strong praise about Simon Jarvis' Adorno book; the full references for both are already in the article, in the &quot;Further reading&quot; section.  Keep up the excellent work! [[User:Sindinero|Sindinero]] ([[User talk:Sindinero|talk]]) 09:10, 23 January 2012 (UTC)
+
+== Recent Revisions ==
+
+In January 2012 I made significant additions and revisions to this entry - practically rewriting the introduction and biography. Since then I have noticed several welcome changes to the entry, but it seems someone has recently tried tweaking the introduction with the following result:
+
+He is widely regarded as one of the 20th century's foremost thinkers on aesthetics and philosophy, as well as one of its preeminent essayists.“in the field of Cultural Studies have repeatedly cast Adorno in the role of the father [...] he has given life to the critical analysis of mass culture”(Apostolidis: p. 56) ( As a critic of both fascism and what he called the culture industry, his writings—such as Dialectic of Enlightenment (1947), Minima Moralia (1951) and Negative Dialectics (1966)—strongly influenced the European New Left.
+
+I am not sure who is responsible - I am a researcher quite unskilled in such matters - but it's clear to me that &quot;in the field of ... 56)(&quot; has no place in the entry. Or at least not where it now sits. So I am taking it out. Does that sound OK?  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Francetourdetour|Francetourdetour]] ([[User talk:Francetourdetour|talk]] • [[Special:Contributions/Francetourdetour|contribs]]) 19:48, 11 March 2013 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==The Beatles==
+
+The Beatles aren't mentioned on Theodor Adorno's page, his main claim to fame?[[Special:Contributions/184.147.234.152|184.147.234.152]] ([[User talk:184.147.234.152|talk]]) 04:42, 9 February 2014 (UTC)
+
+== Impartiality, please! ==
+
+Whoever wrote the section focusing on Adorno's musicological work clearly has difficulties remaining objective. That Adorno's work in that field has seen a &quot;steady decline since his death&quot; is news to me considering that new editions and translations of his seminal works in that field are regularly issued. Nor does he lack attention, be it of the positive or negative sort. Norman Lebrecht is one of the many people to go on record writing in praise of Adorno's work. Honestly, it comes off as being the work of a resentful jazz fan or classical reactionary. 
+
+In fact, Adorno's arguments more than stand the test of time if we accept that what he means by jazz was merely the pop music of his day. I think we ca all agree that &quot;jazz&quot; as Adorno understood it (Paul Whiteman, Louis Armstrong, Bing Crosby, Glenn Miller, etc.) is nothing like the truly searching and complex art-form it would become under the likes of Miles Davis, Albert Ayler, Anthony Braxton, Cecil Taylor, Kaoru Abe, etc. What would he have said had he been given a chance to hear them?
+
+Certainly his work remains controversial. But the fact that it remains so is hardly a sign of &quot;decline.&quot; [[User:CurryTime7-24|CurryTime7-24]] ([[User talk:CurryTime7-24|talk]]) 00:54, 20 August 2015 (UTC)</text>
+      <sha1>gb866zg4q6e9tox7pxmhy3egfvbcw09</sha1>
+    </revision>
+  </page>
+</mediawiki>

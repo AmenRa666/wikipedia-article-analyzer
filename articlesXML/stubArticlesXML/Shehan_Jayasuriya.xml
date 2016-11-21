@@ -1,0 +1,221 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Shehan Jayasuriya</title>
+    <ns>0</ns>
+    <id>24594144</id>
+    <revision>
+      <id>749860785</id>
+      <parentid>749474526</parentid>
+      <timestamp>2016-11-16T15:23:58Z</timestamp>
+      <contributor>
+        <username>Gihan Jayaweera</username>
+        <id>19186823</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6714">{{use dmy dates|date=June 2015}}
+{{Infobox cricketer
+|                name = Shehan Jayasuriya
+|               Father Name = Sanath Jayasuriya 
+|               image = 
+|             country = Sri Lanka
+|            fullname = Dampalage Shehan Naveendra Fonseka Gunawardene Jayasuriya
+|          birth_date = {{birth date and age|1991|9|12|df=yes}}
+|         birth_place = [[Colombo]], [[Sri Lanka]]
+|            heightft = 
+|          heightinch = 
+|             heightm = 
+|             batting = left handed 
+|             bowling = Right-arm offbreak   
+|                role = All-rounder
+|     hidedeliveries = 
+|      international = yes
+|       lasttestdate =
+|       lasttestyear = 
+|    lasttestagainst = 
+|       odidebutdate = 1 November
+|       odidebutyear = 2015
+|    odidebutagainst = West Indies
+|             odicap = 167
+|        lastodidate = 16 November
+|        lastodiyear = 2016
+|     lastodiagainst = West Indies
+|           odishirt = 31
+|       T20Idebutdate = 1 August 
+|       T20Idebutyear = 2015
+|    T20Idebutagainst = Pakistan
+|             T20Icap = 57
+|        lastT20Idate = 17 March
+|        lastT20Iyear = 2016
+|     lastT20Iagainst = Afghanistan
+|               club1 = [[Chittagong Kings]]
+|               year1 = 
+|               club2 = [[Kandurata Maroons]]
+|               year2 = 
+|               club3 = [[Moors Sports Club]]
+|               year3 = 
+|               club4 = [[Sri Lanka Police Sports Club (cricket)|Police Sports Club]]
+|               year4 = 
+|               club5 = Sri Lanka Under-19s
+|               year5 = 
+|               club6 = Sri Lanka Under-23s
+|               year6 = 
+|             columns = 4
+|             column1 = [[One Day International cricket|ODI]]
+|            matches1 = 5
+|               runs1 = 42
+|            bat avg1 = 21.00
+|           100s/50s1 = -/-
+|          top score1 = 31
+|         deliveries1 = 72
+|            wickets1 = 1
+|           bowl avg1 = 69.00
+|            fivefor1 = 0
+|             tenfor1 = 0
+|       best bowling1 = 1/15
+|  catches/stumpings1 = 1/–
+|             column2 = [[Twenty20 International cricket|T20I]]
+|            matches2 = 10
+|               runs2 = 156
+|            bat avg2 = 17.33
+|           100s/50s2 = -/-
+|          top score2 = 40
+|         deliveries2 = 95
+|            wickets2 = 3
+|           bowl avg2 = 45.66
+|            fivefor2 = 0
+|             tenfor2 = 0
+|       best bowling2 = 1/37
+|  catches/stumpings2 = 2/–
+|             column3 = [[First-class cricket|FC]]
+|            matches3 = 38
+|               runs3 = 2,475
+|            bat avg3 = 39.91
+|           100s/50s3 = 4/17
+|          top score3 = 195
+|         deliveries3 = 3,691
+|            wickets3 = 85
+|           bowl avg3 = 26.72
+|            fivefor3 = 6
+|             tenfor3 = n/a
+|       best bowling3 = 6/72
+|  catches/stumpings3 = 24/-
+|             column4 = [[List A cricket|LA]]
+|            matches4 = 54
+|               runs4 = 1,636
+|            bat avg4 = 32.72
+|           100s/50s4 = 3/11
+|          top score4 = 114
+|         deliveries4 = 1,890
+|            wickets4 = 44
+|           bowl avg4 = 31.13
+|            fivefor4 = 1
+|             tenfor4 = 0
+|       best bowling4 = 5/52
+|  catches/stumpings4 = 20/-
+|             column5 = [[Twenty20 cricket|T20]]
+|            matches5 = 26
+|               runs5 = 401
+|            bat avg5 = 19.09
+|           100s/50s5 = -/2
+|          top score5 = 51
+|         deliveries5 = 309
+|            wickets5 = 21
+|           bowl avg5 = 17.00
+|            fivefor5 = 1
+|             tenfor5 = 0
+|       best bowling5 = 5/15
+|  catches/stumpings5 = 11/-
+|                date = 16 November 
+|                year = 2016
+|              source = http://www.espncricinfo.com/ci/content/player/437316.html ESPNcricinfo
+}}
+
+'''Dampalage Shehan Naveendra Fonseka Gunawardene Jayasuriya''', or commonly '''Shehan Jayasuriya''' (born 12 September 1991), is a professional [[Sri Lanka]]n [[cricket]]er, who plays for limited over formats. He is a left-handed batsman and right-arm off-break bowler who plays for [[Moors Sports Club]]. He was born in [[Colombo]].
+
+==Domestic career==
+Jayasuriya made his debut against [[Moratuwa Sports Club]], against whom he scored a half century in the only innings in which he batted. He followed this up in his next match with another half century, in a convincing victory.
+
+==International career==
+He made his [[Twenty20 International]] debut for Sri Lanka [[Pakistani cricket team in Sri Lanka in 2015|against Pakistan]] on 1 August 2015.&lt;ref name=&quot;T20I&quot;&gt;{{cite web |title=Pakistan tour of Sri Lanka, 2nd T20I: Sri Lanka v Pakistan at Colombo (RPS), Aug 1, 2015 |url=http://www.espncricinfo.com/ci/engine/match/860281.html |work=ESPNcricinfo |publisher=ESPN Sports Media |date=1 August 2015 |accessdate=1 August 2015 }}&lt;/ref&gt; He scored 40 runs off 32 balls including 3 fours and 2 sixes on his debut and took his first international wicket by bowling [[Shahid Afridi]] out. However, the match ended with a defeat for Sri Lanka. He made his [[One Day International]] debut for Sri Lanka [[West Indian cricket team in Sri Lanka in 2015–16|against the West Indies]] on 1 November 2015, he got out for nought in his first innings, bowled by [[Sunil Narine]]. &lt;ref name=&quot;ODI&quot;&gt;{{cite web |title=West Indies tour of Sri Lanka, 1st ODI: Sri Lanka v West Indies at Colombo (RPS), Nov 1, 2015 |url=http://www.espncricinfo.com/ci/engine/match/915777.html |work=ESPNcricinfo |publisher=ESPN Sports Media |date=1 November 2015 |accessdate=1 November 2015 }}&lt;/ref&gt;
+
+{{MedalTableTop||100px}}
+{{MedalSport|Men's [[Cricket]]}}
+{{MedalCountry |{{SRI}} }}
+{{MedalCompetition|[[Asian Games]]}}
+{{MedalGold|[[2014 Asian Games|2014 Incheon]]|[[Cricket at the 2014 Asian Games|Team]]}}
+{{MedalBottom}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Sri Lanka Squad 2016 ICC World Twenty20}}
+
+{{DEFAULTSORT:Jayasuriya, Shehan}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:Sri Lankan cricketers]]
+[[Category:Sri Lanka One Day International cricketers]]
+[[Category:Sri Lanka Twenty20 International cricketers]]
+[[Category:Police Sports Club cricketers]]
+[[Category:Sportspeople from Colombo]]
+[[Category:Saracens Sports Club cricketers]]
+[[Category:Moors Sports Club cricketers]]
+[[Category:Ruhuna cricketers]]
+[[Category:Wayamba United cricketers]]
+[[Category:Chittagong Vikings cricketers]]
+[[Category:Asian Games medalists in cricket]]
+[[Category:Cricketers at the 2014 Asian Games]]
+[[Category:Colombo Commandos cricketers]]
+[[Category:Prime Bank Cricket Club cricketers]]
+[[Category:Asian Games gold medalists for Sri Lanka]]
+[[Category:Sylhet Super Stars cricketers]]
+{{SriLanka-cricket-bio-1990s-stub}}</text>
+      <sha1>kxv7ji27zxz847yugxlmfvt9pl9hcmy</sha1>
+    </revision>
+  </page>
+</mediawiki>

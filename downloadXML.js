@@ -5,6 +5,7 @@ var async = require('async')
 var qs = require('querystring')
 var mkdirp = require('mkdirp')
 var _ = require('underscore')
+var sanitize = require("sanitize-filename");
 
 
 // LOGIC
@@ -22,7 +23,7 @@ const writeFile = (title, contents, cb) => {
       return cb(err);
     }
     title = title.replace(/\//g, '\u2215') // REPLACE SLASH
-    fs.writeFile(folder + paths[pathIndex] + title + '.xml', contents, () => {
+    fs.writeFile(folder + paths[pathIndex] + sanitize(title) + '.xml', contents, () => {
       console.log(index +' SAVED: '+ title);
       index++
       cb(null, 'Article Downloaded')

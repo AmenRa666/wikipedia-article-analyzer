@@ -1,0 +1,232 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Paramotor Inc FX series</title>
+    <ns>0</ns>
+    <id>35349198</id>
+    <revision>
+      <id>668360350</id>
+      <parentid>655355782</parentid>
+      <timestamp>2015-06-23T21:32:15Z</timestamp>
+      <contributor>
+        <username>BD2412</username>
+        <id>196446</id>
+      </contributor>
+      <minor/>
+      <comment>Consensus at [[Template talk:Aviation lists#RfC: Should this navbox be removed from non-mentioned articles?]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6124">&lt;!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. --&gt;
+{|{{Infobox Aircraft Begin
+ | name=FX series
+ | image=
+ | caption=
+}}{{Infobox Aircraft Type
+ | type=[[Paramotor]]
+ | national origin=[[United States]]
+ | manufacturer=[[Paramotor Inc]]
+ | designer=
+ | first flight=
+ | introduced=
+ | retired=
+ | status=Production completed
+ | primary user=
+ | more users= &lt;!--Limited to three in total; separate using &lt;br /&gt; --&gt;
+ | produced= &lt;!--years in production--&gt;
+ | number built=
+ | program cost= &lt;!--Total program cost--&gt;
+ | unit cost= [[US$]]9,995 (FX2 model, 2003)
+ | developed from= 
+ | variants with their own articles=
+}}
+|}
+The '''Paramotor Inc FX series''' is a family of [[United States|American]] [[paramotor]]s that was designed and produced by [[Paramotor Inc]] of [[Weldon Spring, Missouri]] for [[powered paragliding]].&lt;ref name=&quot;Cliche&quot;&gt;Cliche, Andre: ''Ultralight Aircraft Shopper's Guide'' 8th Edition, page D-25. Cybair Limited Publishing, 2001. ISBN 0-9680628-1-4&lt;/ref&gt;&lt;ref name=&quot;KitplanesFeb2000&quot;&gt;Downey, Julia: ''2000 Trike and 'Chute Directory'', Kitplanes, Volume 17, Number 2, February 2000, page 51. Kitplanes Acquisition Company. ISSN 0891-1851&lt;/ref&gt;&lt;ref name=&quot;WDLA04&quot;&gt;Bertrand, Noel; Rene Coulon; et al: ''World Directory of Leisure Aviation 2003-04'', page 71. Pagefast Ltd, Lancaster UK, 2003. ISSN 1368-485X&lt;/ref&gt;&lt;ref name=&quot;Aerocrafter&quot;&gt;Purdy, Don: ''AeroCrafter - Homebuilt Aircraft Sourcebook, Fifth Edition'', page 338. BAI Communications, 15 July 1998. ISBN 0-9636409-4-1&lt;/ref&gt;
+
+==Design and development==
+The company started as an importer of the French [[Adventure F series]] of paramotors and also sold the Japanese [[Daiichi Kosho Beat]]. It then introduced its own designs, the FX series in the mid-1990s. The company currently produces Military Specification paramotors.
+
+The FX series was designed to comply with the US [[FAR 103 Ultralight Vehicles]] rules. All models feature a [[paraglider]]-style [[high-wing]], single-place or two-seats-in-[[tandem]] accommodation and a single engine in [[pusher configuration]]. As is the case with all paramotors, takeoff and landing are accomplished on foot.&lt;ref name=&quot;Cliche&quot; /&gt;&lt;ref name=&quot;KitplanesFeb2000&quot; /&gt;
+
+All models were delivered from the factory with a hand throttle. Options available included a reserve parachute and electric starting. The line was noted for its unusually long three year warranty.&lt;ref name=&quot;Cliche&quot; /&gt;&lt;ref name=&quot;KitplanesFeb2000&quot; /&gt;
+&lt;!-- ==Operational history== --&gt;
+
+==Variants==
+;FX1
+:Initial model powered by a {{convert|18|hp|kW|0|abbr=on}} [[Solo 210]] [[two-stroke]] engine. Empty weight is {{convert|35|lb|kg|0|abbr=on}}.&lt;ref name=&quot;Cliche&quot; /&gt;
+;FX2
+:More powerful model with a {{convert|22|hp|kW|0|abbr=on}} [[Zenoah G-25]] two-stroke engine. Empty weight is {{convert|85|lb|kg|0|abbr=on}}.&lt;ref name=&quot;Cliche&quot; /&gt;&lt;ref name=&quot;Aerocrafter&quot;/&gt;
+;FX3
+:Model with a {{convert|22|hp|kW|0|abbr=on}} [[Zenoah G-25]] two-stroke engine.&lt;ref name=&quot;WDLA04&quot; /&gt;
+;FX4
+:Model with a {{convert|22|hp|kW|0|abbr=on}} [[Zenoah G-25]] two-stroke engine.&lt;ref name=&quot;WDLA04&quot; /&gt;
+;FX5
+:Model with a {{convert|27.5|hp|kW|0|abbr=on}} [[Zanzottera MZ 34]] two-stroke engine.&lt;ref name=&quot;WDLA04&quot; /&gt;
+
+==Aircraft on display==
+*[[Cradle of Aviation Museum]] - FX1&lt;ref name=&quot;COA&quot;&gt;{{cite web|url = http://www.cradleofaviation.org/exhibits/atrium/index.html|title = Visitor's Atrium|accessdate = 6 April 2012|last = [[Cradle of Aviation Museum]]|date = 2001|archiveurl = https://web.archive.org/web/20110212013217/http://www.cradleofaviation.org/exhibits/atrium/index.html |archivedate = 21 November 2010}}&lt;/ref&gt;
+
+==Specifications (FX1) ==
+{{Aircraft specs
+|ref=Cliche&lt;ref name=&quot;Cliche&quot; /&gt;
+|prime units?=imp&lt;!-- imp or kts first for US aircraft, and UK aircraft pre-metrification, met(ric) first for all others. You MUST choose a format, or no specifications will show --&gt;
+&lt;!--
+        General characteristics
+--&gt;
+|genhide=
+
+|crew=one
+|capacity=
+|length m=
+|length ft=1
+|length in=6
+|length note=(motor unit only)
+|span m=
+|span ft=
+|span in=
+|span note=
+|height m=
+|height ft=2
+|height in=0
+|height note=(motor unit only)
+|wing area sqm=
+|wing area sqft=300
+|wing area note=
+|aspect ratio=
+|airfoil=
+|empty weight kg=
+|empty weight lb=35
+|empty weight note=
+|gross weight kg=
+|gross weight lb=185
+|gross weight note=
+|fuel capacity={{convert|1.25|u.s.gal}}
+|more general=
+&lt;!--
+        Powerplant
+--&gt;
+|eng1 number=1
+|eng1 name=[[Solo 210]]
+|eng1 type=single cylinder, [[two-stroke]], air-cooled [[aircraft engine]]
+|eng1 kw=&lt;!-- prop engines --&gt;
+|eng1 hp=18&lt;!-- prop engines --&gt;
+
+|prop blade number=&lt;!-- propeller aircraft --&gt;
+|prop name=
+|prop dia m=&lt;!-- propeller aircraft --&gt;
+|prop dia ft=&lt;!-- propeller aircraft --&gt;
+|prop dia in=&lt;!-- propeller aircraft --&gt;
+|prop note=
+
+&lt;!--
+        Performance
+--&gt;
+|perfhide=
+
+|max speed kmh=
+|max speed mph=
+|max speed kts=
+|max speed note=
+|cruise speed kmh=
+|cruise speed mph=25
+|cruise speed kts=
+|cruise speed note=
+|stall speed kmh=
+|stall speed mph=
+|stall speed kts=
+|stall speed note=
+|never exceed speed kmh=
+|never exceed speed mph=
+|never exceed speed kts=
+|never exceed speed note=
+|range km=
+|range miles=
+|range nmi=
+|range note=
+|endurance=1:30
+|ceiling m=
+|ceiling ft=10000
+|ceiling note=
+|g limits=
+|roll rate=&lt;!-- aerobatic --&gt;
+|glide ratio=&lt;!-- sailplanes --&gt;
+|climb rate ms=
+|climb rate ftmin=
+|climb rate note=
+|time to altitude=
+|sink rate ms=
+|sink rate ftmin=
+|sink rate note=
+|lift to drag=
+|wing loading kg/m2=
+|wing loading lb/sqft=
+|wing loading note=
+|power/mass=
+|thrust/weight=
+|more performance=
+|avionics=
+}}
+
+&lt;!-- ==See also== --&gt;
+{{aircontent
+&lt;!-- include as many lines are appropriate. additional lines/entries with carriage return. --&gt;
+|see also=
+|related=&lt;!-- related developments --&gt;
+|similar aircraft=&lt;!-- similar or comparable aircraft --&gt;
+|lists=&lt;!-- related lists --&gt;
+}}
+
+==References==
+{{reflist}}
+
+&lt;!-- ==External links== --&gt;
+{{Paramotor Inc aircraft}}
+
+[[Category:United States ultralight aircraft 1990–1999]]
+[[Category:Single-engine aircraft]]
+[[Category:Paramotors]]</text>
+      <sha1>ev0vclaxep5v6v7yqfsd3lbgp51zaex</sha1>
+    </revision>
+  </page>
+</mediawiki>

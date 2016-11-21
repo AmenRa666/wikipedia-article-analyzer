@@ -1,0 +1,499 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Black Sabbath (film)</title>
+    <ns>0</ns>
+    <id>1004972</id>
+    <revision>
+      <id>748847325</id>
+      <parentid>747539712</parentid>
+      <timestamp>2016-11-10T19:04:16Z</timestamp>
+      <contributor>
+        <ip>2602:306:CE9A:4320:ACA2:1D25:C9A0:F5D6</ip>
+      </contributor>
+      <comment>/* Influence and aftermath */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="39989">{{About|the horror film|other uses|Black Sabbath (disambiguation)}}
+{{good article}}
+{{Infobox film
+| name           = Black Sabbath
+| image          = Black-sabbath-film-poster.jpg
+| alt            = 
+| caption        = Italian release poster
+| film name      = 
+| director       = [[Mario Bava]]
+| producer       = {{plainlist|
+*Salvatore Billitteri
+*Paolo Mercuri&lt;ref name=&quot;bs-arrow-2&quot;&gt;{{Cite AV media notes
+| title       =Credits
+| year        = 2013
+| page        = 2
+| type        =booklet
+| publisher   = [[Arrow Films]]
+| id          = FCD778
+}}&lt;/ref&gt;}}
+| writer         = {{plainlist|
+*Mario Bava
+*[[Alberto Bevilacqua]]
+*[[Marcello Fondato]]}}
+| starring       = {{plainlist|
+*[[Boris Karloff]]
+*[[Mark Damon]]
+*[[Michèle Mercier]]
+*[[Susy Andersen]]
+*[[Lydia Alfonsi]]
+*[[Glauco Onorato]]
+*Jacqueline Pierreux}}
+| music          = Roberto Nicolosi
+| cinematography = {{plainlist|
+*[[Ubaldo Terzano]]
+*Mario Bava }}
+| editing        = [[Mario Serandrei]]
+| studio         = {{plainlist|
+*Emmepi Cinematografica 
+*Galatea Film
+*Societé Cinématographique Lyre&lt;ref&gt;{{cite web|url=http://ftvdb.bfi.org.uk/sift/title/55232?view=credit|publisher=BFI Film &amp; Television Database|accessdate=March 29, 2014|title=Credits|location=London|archiveurl=https://web.archive.org/web/20140221154426/http://ftvdb.bfi.org.uk/sift/title/55232?view=credit|archivedate=February 21, 2014}}&lt;/ref&gt;}}
+| distributor    = [[Warner Bros.]] {{small|(Italy)}}&lt;ref name=&quot;Curti79&quot; /&gt;
+| released       = {{Film date|1963|08|17|Italy|1965|11|17|France}}&lt;ref name=&quot;Curti79&quot; /&gt;
+| runtime        = 93 minutes&lt;ref name=&quot;Curti79&quot; /&gt;
+| country        = {{plainlist|*Italy
+*France&lt;ref&gt;{{cite web|url=http://www.cineressources.net/recherche_t_r.php?type=FOR&amp;pk=42596&amp;rech_type=E&amp;textfield=I+Tre+volti+della+paura&amp;rech_mode=contient&amp;pageF=1&amp;pageP=1|publisher=Bifi.fr|title= I Tre volti della paura|accessdate=March 29, 2014|language=French}}&lt;/ref&gt;}}
+| language       = 
+| budget         = 
+| gross          = ₤103.5 million
+}}
+
+'''''Black Sabbath''''' ({{lang-it|I tre volti della paura|lit=The Three Faces of Fear}}) is a 1963 [[horror film]] directed by [[Mario Bava]]. The film is centered on three separate tales that have an introduction and conclusion from [[Boris Karloff]]. The film stars an international cast in three short stories. The first, titled &quot;The Telephone&quot;, involves Suzy ([[Michèle Mercier]]) who continually receives threatening telephone calls from an unseen stalker. The second is &quot;The Wurdulak&quot;, where a man named Gorca (Karloff) returns to his family after claiming to have slain a Wurdulak, an undead creature who attacks those that it had once loved. The third story, &quot;The Drop of Water&quot;, features Jacqueline Pierreux as Helen Corey who steals a ring from a corpse that is being prepared for burial and finds herself haunted by the ring's original owner after arriving home.
+
+''Black Sabbath'' follows the 1960s trend of Italian film productions, being a low budget horror anthology film with an international cast. The film is credited to various authors but is predominantly based on several uncredited sources. Several changes were made to the script even after the film had gone into production. [[American International Pictures]] suggested changes to Mario Bava during filming to make the film acceptable for the American target audience. The company created their own English language dub of the film that removed scenes involving violence and re-edited certain scenes. This version greatly changed the plot of &quot;The Telephone&quot;, giving it a supernatural story element and removing any reference to lesbianism or prostitution.
+
+A follow-up to ''Black Sabbath'' titled ''Scarlet Friday'' was originally going to be directed by Bava and star Boris Karloff. This project was never developed. Plans for a remake were announced in 2004 with [[Jonathan Hensleigh]] attached to write the script. ''Black Sabbath'' has received favorable reviews from critics. In the early 2010s, ''[[Time Out (magazine)|Time Out]]'' magazine conducted a poll with several authors, directors, actors, and critics who have worked within the horror genre to vote for their top horror films. ''Black Sabbath'' placed at number 73.
+
+== Plot ==
+:''Note: This plot summary refers to the original Italian version of the film''
+
+=== &quot;The Telephone&quot; ===
+[[File:I tre volti della paura, il telefono.JPG|thumb|[[Michèle Mercier]] as Rosy in ''Black Sabbath''|left]]
+Rosy ([[Michèle Mercier]]), a French call-girl, returns to her basement apartment at night. She receives a series of strange phone calls. The caller eventually identifies himself as Frank, her former pimp who has recently escaped from prison. Rosy is terrified; it was her testimony that sent Frank to prison. Rosy phones Mary ([[Lydia Alfonsi]]) for solace. The women have been estranged, but Rosy is certain that only Mary can help her. Mary agrees to come over that night. Seconds later, Frank calls again, promising that no matter what Rosy does he will have his revenge. Rosy doesn't realize that Mary is impersonating Frank on the telephone. Mary arrives at Rosy's apartment and attempts to calm Rosy's nerves.  Mary provides Rosy with a large knife for protection before she goes to sleep.
+
+As Rosy sleeps, Mary writes a confession explaining that she made the calls to force a reunion, knowing that Rosy would call on her for help. While she is writing, an intruder enters the apartment. The intruder is Frank, who strangles Mary. The sound of their struggle awakens Rosy, and Frank realizes he murdered the wrong woman. Frank approaches Rosy's bed, but she seizes her knife and stabs Frank. Rosy drops the knife and breaks down in hysteria.
+
+=== &quot;The Wurdalak&quot; ===
+In 19th Century Russia, Vladimir Durfe ([[Mark Damon]]) is a young nobleman who finds a beheaded corpse with a knife plunged into its heart. He takes the blade, and finds shelter in a small cottage. Durfe is approached by Giorgio ([[Glauco Onorato]]) who explains that the knife belongs to his father, who has not been seen for five days. Giorgio offers a room to Durfe and introduces him to the rest of the family: his wife (Rika Dialina), their young son Ivan, Giorgio's younger brother Pietro (Massimo Righi), and sister Sdenka ([[Susy Andersen]]). They all await the return of Gorca, who has gone to fight the [[Wurdulac|wurdalak]], a living cadaver who feeds on human blood, especially of close friends and family members. At midnight, Gorca ([[Boris Karloff]]) returns to the cottage with a sour demeanor and unkempt appearance. After the family goes to sleep, Ivan and Pietro are attacked by Gorca who flees the cottage with Ivan. Giorgio chases after Gorca but only returns with Ivan's corpse. Giorgio plans to stake and behead Ivan to prevent him from reviving as a Wurdalak, but is prevented from doing so by his wife. The two agree to give their son a burial.
+
+That same night, their child appears outside and begs to be invited in. Giorgio is stabbed by his wife while she attempts to let in her son. On opening the door, she is greeted by Gorca who bites her. Vladimir and Sdenka flee from their home and hide in the ruins of a cathedral. As Vladimir sleeps, Sdenka walks outside and finds Gorca and his family surrounding her. Vladimir awakens and searches for Sdenka, finding her lying motionless in her bed at home. Sdenka awakens and upon receiving Vladimir's embrace, she bites into his neck.
+
+=== &quot;The Drop of Water&quot; ===
+In 1910s, London, Nurse Helen Chester (Jacqueline Pierreux) is called to a large house to prepare the corpse of an elderly medium for her burial. As she dresses the body, she notices a sapphire ring on its finger. Chester steals it, accidentally tipping over a glass of water which drips on the floor; she is then assailed by a fly. Chester takes her ring home to her flat and witnesses strange events. The fly returns and continues to pester her, and the lights in her apartment go out as the sound of the dripping water is heard from various locations. Chester finds the woman's corpse lying in her bed. It rises and floats toward her. Chester begs for forgiveness, but ultimately strangles herself. The next morning, the concierge (Harriet White Medin) discovers Chester's body and calls the police. The pathologist arrives to examine the body and only finds a small bruise on her left finger where her ring once was. As the doctor announces this observation, the concierge appears distressed and hears the dripping of water.
+
+== Production ==
+
+===Development===
+In 1958, [[American International Pictures]] founders [[James H. Nicholson]] and [[Samuel Z. Arkoff]] hired European talent agent Flavio Lucisano to look for Italian commercial films for them after the large success of the Italian feature ''[[Hercules (1958 film)|Hercules]]'' (1958).&lt;ref name=&quot;bs-arrow-15&quot;&gt;{{Cite AV media notes
+| title       = The Two Faces of Black Sabbath
+| year        = 2013
+| page        = 15
+| author      = Lucas, Tim
+| authorlink  = Tim Lucas
+| type        = booklet
+| publisher   = Arrow Films
+| id          = FCD778
+}}&lt;/ref&gt; In February 1963, American International Pictures made a deal with the Italian film production company Galatea that they would contribute to a minimum of nine co-productions in the next eight years.&lt;ref name=&quot;Heffernan140&quot;&gt;Heffernan, 2004. p. 140&lt;/ref&gt; ''Black Sabbath'' follows many production trends of Italian films of the era.&lt;ref name=&quot;Heffernan141&quot;&gt;Heffernan, 2004. p. 141&lt;/ref&gt; These co-productions were influenced by the lack of large film stars in Italy.&lt;ref name=&quot;Heffernan140&quot; /&gt; To avoid high costs or larger stars, producers created anthology films involving three or four short narratives whose combined running time was that of a regular [[feature film]], as in ''[[Yesterday, Today and Tomorrow]]'' (1963).&lt;ref name=&quot;Heffernan140&quot; /&gt; A second trend was to match an up-and-coming actor or a much older actor with a European [[Ingenue (stock character)|ingenue]] actress, as in ''[[Spy in Your Eye]]'' which paired [[Pier Angeli]] and [[Dana Andrews]].&lt;ref name=&quot;Heffernan140&quot; /&gt;&lt;ref name=&quot;Heffernan141&quot; /&gt; The third trend was the move towards making [[Western (genre)|Westerns]] and [[horror films]] which were less expensive to produce than the previous [[sword and sandal]] films.&lt;ref name=&quot;Heffernan141&quot; /&gt;
+
+===Pre-production===
+American International Pictures secured the rights to have American actors [[Mark Damon]] and [[Boris Karloff]] while the French co-production company Societé Cinématographique Lyre secured [[Michele Mercier]] and Jacqueline Pierreux (the latter is credited under the pseudonym Jacqueline Soussard).&lt;ref name=&quot;Heffernan141&quot; /&gt;&lt;ref name=&quot;tcm-release&quot; /&gt; Mercier had previously worked with director Mario Bava on his film ''[[The Wonders of Aladdin]]'' (1961).&lt;ref&gt;{{cite web|url=http://www.allmovie.com/movie/le-meraviglie-di-aladino-v55195/cast-crew|publisher=[[AllMovie]]|title=Le Meraviglie Di Aladino (1961) - Cast &amp; Crew|accessdate=March 29, 2014|archiveurl=https://web.archive.org/web/20140421183706/http://www.allmovie.com/movie/le-meraviglie-di-aladino-v55195/cast-crew|archivedate=April 21, 2014}}&lt;/ref&gt; Italian production company Galatea had [[Susy Andersen]] cast while retaining [[Mario Bava]] who had directed their production of ''[[Black Sunday (1960 film)|Black Sunday]]''.&lt;ref name=&quot;Heffernan141&quot; /&gt;
+
+Bava is credited as writing the film's script along with [[Alberto Bevilacqua]] and [[Marcello Fondato]].&lt;ref name=&quot;bs-arrow-2&quot; /&gt; The film's opening credits credit the stories as &quot;The Drop of Water&quot; by Ivan Chekov, &quot;The Telephone&quot; by F.G. Snyder and &quot;Sem'ya vurdalaka&quot; by Aleksei Tolstoy.&lt;ref name=&quot;bs-arrow-2&quot; /&gt;&lt;ref name=&quot;alanJones5&quot;&gt;{{cite AV media
+ | people = Jones, Alan
+ | year = 2013
+ | title = Introduction by Alan Jones
+ | trans_title =
+ | medium = DVD (Disc 2)
+ | time = 0:02:37
+ | publisher = Arrow Films
+ | id = FCD778
+}}&lt;/ref&gt; Bava later took credit for the original story of &quot;The Drop of Water&quot;, but Italian critic Antonio Bruscini traced its origins to a story titled &quot;''Dalle tre alle tre e mezzo''&quot; (&quot;Between Three and Three-thirty&quot;) that was included in a 1960 anthology book titled ''Storie di fantasmi'' (''Ghost Stories'').&lt;ref name=&quot;alanJones5&quot; /&gt;&lt;ref name=&quot;LucasCommentary13&quot;&gt;{{cite AV media
+ | people = Lucas, Tim
+ | year = 2013
+ | title = Commentary by Tim Lucas
+ | trans_title =
+ | medium = DVD (Disc 2)
+ | time = 1:06:00
+ | publisher = Arrow Films
+ | id = FCD778
+}}&lt;/ref&gt;&lt;ref name=&quot;Curti78&quot;&gt;Curti, 2015. p. 78&lt;/ref&gt; British historian Julian Granger identified the author of the story as [[Franco Lucentini]].&lt;ref name=&quot;LucasCommentary13&quot; /&gt; &quot;The Wurdulak&quot; is loosely based on ''[[The Family of the Vourdalak]]'' by [[Aleksey Konstantinovich Tolstoy]].&lt;ref name=&quot;LucasCommentary7&quot;&gt;{{cite AV media
+ | people = Lucas, Tim
+ | year = 2013
+ | title = Commentary by Tim Lucas
+ | trans_title =
+ | medium = DVD (Disc 2)
+ | time = 0:26:10
+ | publisher = Arrow Films
+ | id = FCD778
+}}&lt;/ref&gt; The story of &quot;The Wurdulak&quot; was found in the 1960 anthology ''I vampiri tra noi''.&lt;ref name=&quot;Curti81&quot;&gt;Curti, 2015. p. 81&lt;/ref&gt; Other parts of the story were inspired by the [[Guy de Maupassant]] story &quot;Fear&quot; and [[Bram Stoker]]'s ''[[Dracula]]''.&lt;ref name=&quot;LucasCommentary8&quot;&gt;{{cite AV media
+ | people = Lucas, Tim
+ | year = 2013
+ | title = Commentary by Tim Lucas
+ | trans_title =
+ | medium = DVD (Disc 2)
+ | time = 0:26:35
+ | publisher = Arrow Films
+ | id = FCD778
+}}&lt;/ref&gt;
+
+Bevilacqua stated that Bava wanted to create a stories about how terror can strike mankind in different time periods and asked his screenwriters to get him stories from books.&lt;ref name=&quot;LucasCommentary5&quot; /&gt;&lt;ref name=&quot;LucasCommentary14&quot;&gt;{{cite AV media
+ | people = Lucas, Tim
+ | year = 2013
+ | title = Commentary by Tim Lucas
+ | trans_title =
+ | medium = DVD (Disc 2)
+ | time = 1:18:45
+ | publisher = Arrow Films
+ | id = FCD778
+}}&lt;/ref&gt; After Bevilacqua finished his draft the screenplay, [[Marcello Fondato]] was brought in to work on it.&lt;ref name=&quot;LucasCommentary14&quot; /&gt; 
+Bevilacqua claimed that he was recalled for later rewrites, but that most of his added material was cut from the final film.&lt;ref name=&quot;LucasCommentary15&quot;&gt;{{cite AV media
+ | people = Lucas, Tim
+ | year = 2013
+ | title = Commentary by Tim Lucas
+ | trans_title =
+ | medium = DVD (Disc 2)
+ | time = 1:21:30
+ | publisher = Arrow Films
+ | id = FCD778
+}}&lt;/ref&gt;  American International Pictures approved of Bava's thematic idea but encouraged him to look for [[public domain]] titles.&lt;ref name=&quot;LucasCommentary6&quot; /&gt;
+
+It was decided early in production that Boris Karloff would not only star in one of the tales, but also act as the film's host; he had recently hosted his own anthology television series, ''[[Thriller (U.S. TV series)|Thriller]]''.&lt;ref name=&quot;bs-arrow-20&quot;&gt;{{Cite AV media notes
+| title       = The Two Faces of Black Sabbath
+| year        = 2013
+| page        = 20
+| type        =booklet
+| publisher   = Arrow Films
+| id          = FCD778
+| author      = Lucas, Tim
+}}&lt;/ref&gt; Karloff was under contract with American International Pictures, and had just completed filming ''[[The Raven (1963 film)|The Raven]]'' for them.&lt;ref name=&quot;alanJones2&quot;&gt;{{cite AV media
+ | people = Jones, Alan
+ | year = 2013
+ | title = Introduction by Alan Jones
+ | trans_title =
+ | medium = DVD (Disc 2)
+ | time = 00:01:39
+ | publisher = Arrow Films
+ | id = FCD778
+}}&lt;/ref&gt; The film's cinematographer is credited as [[Ubaldo Terzano]], but Bava shot several scenes himself without credit.&lt;ref name=&quot;bs-arrow-2&quot; /&gt;
+
+===Production===
+''Black Sabbath'' was made at the end of production of ''[[The Girl Who Knew Too Much (1963 film)|The Girl Who Knew Too Much]]'' during an eight-week period between February and March 1963.&lt;ref name=&quot;Smith26&quot;&gt;Smith, 2009. p 25&lt;/ref&gt;&lt;ref name=&quot;LucasCommentary1&quot;&gt;{{cite AV media
+ | people = Lucas, Tim
+ | year = 2013
+ | title = Commentary by Tim Lucas
+ | trans_title =
+ | medium = DVD (Disc 2)
+ | time = 00:02:15
+ | publisher = Arrow Films
+ | id = FCD778
+}}&lt;/ref&gt; American International Production's involvement with the film allowed Salvatore Billitteri of the Titra Sound Corporation to be on set to supervise the film for dubbing on its English-language release.&lt;ref name=&quot;Heffernan141&quot; /&gt; As the film was going to be dubbed in different languages, actors could no longer phonetically pronounce their dialogue as it had to be done rhythmically to match various languages.&lt;ref name=&quot;Heffernan141&quot; /&gt; Billitteri was also on set to give suggestions to Bava on how to make his film more appropriate for American audiences which led to decreasing the amount of violence in the film.&lt;ref name=&quot;bs-arrow-21&quot;&gt;{{Cite AV media notes
+| title       = The Two Faces of Black Sabbath
+| year        = 2013
+| page        = 21
+| type        =booklet
+| publisher   = Arrow Films
+| id          = FCD778
+| author      = Lucas, Tim
+}}&lt;/ref&gt; The film was first conceived under the title ''The Fear''.&lt;ref name=&quot;LucasCommentary5&quot;&gt;{{cite AV media
+ | people = Lucas, Tim
+ | year = 2013
+ | title = Commentary by Tim Lucas
+ | trans_title =
+ | medium = DVD (Disc 2)
+ | time = 00:02:10
+ | publisher = Arrow Films
+ | id = FCD778
+}}&lt;/ref&gt;
+
+Bava wanted to include a contemporary story which led to the development of &quot;The Telephone&quot;.&lt;ref name=&quot;LucasCommentary6&quot;&gt;{{cite AV media
+ | people = Lucas, Tim
+ | year = 2013
+ | title = Commentary by Tim Lucas
+ | trans_title =
+ | medium = DVD (Disc 2)
+ | time = 00:10:30
+ | publisher = Arrow Films
+ | id = FCD778
+}}&lt;/ref&gt; &quot;The Telephone&quot; has been described as &quot;one of Bava's first attempts at a [[giallo film|''giallo'' film]]&lt;ref name=&quot;allmovie-review&quot;&gt;{{cite web|url=http://www.allmovie.com/movie/black-sabbath-v5932/review|publisher=AllMovie|author=Legare, Patrick|accessdate=March 29, 2014|title=Black Sabbath (1963) - Review}}&lt;/ref&gt;&lt;ref name=&quot;LucasCommentary2&quot;&gt;{{cite AV media
+ | people = Lucas, Tim
+ | year = 2013
+ | title = Commentary by Tim Lucas
+ | trans_title =
+ | medium = DVD (Disc 2)
+ | time = 00:03:10
+ | publisher = Arrow Films
+ | id = FCD778
+}}&lt;/ref&gt; The ''giallo'' film is a style of Italian film that involves a murder mystery that emphasized stylish visuals, flamboyant music and violence.&lt;ref&gt;{{cite web|url=http://www.allmovie.com/subgenre/giallo-d935|publisher=AllMovie|title=Giallo|accessdate=March 29, 2014}}&lt;/ref&gt;&lt;ref name=&quot;LucasCommentary3&quot;&gt;{{cite AV media
+ | people = Lucas, Tim
+ | year = 2013
+ | title = Commentary by Tim Lucas
+ | trans_title =
+ | medium = DVD (Disc 2)
+ | time = 00:06:10
+ | publisher = Arrow Films
+ | id = FCD778
+}}&lt;/ref&gt; &quot;The Telephone&quot; was Bava first color film that attempted to emulate the visual style of the covers that appeared on ''giallo'' digests.&lt;ref name=&quot;LucasCommentary3&quot; /&gt; Some of the set pieces for &quot;The Telephone&quot; were taken from the black-and-white ''giallo'' film ''The Girl Who Knew Too Much'' (1962).&lt;ref name=&quot;LucasCommentary2&quot;/&gt;
+
+&quot;The Wurdulak&quot; was the last of the short films to be shot, with shooting commencing on either February 25 or 27.&lt;ref name=&quot;LucasCommentary9&quot;&gt;{{cite AV media
+ | people = Lucas, Tim
+ | year = 2013
+ | title = Commentary by Tim Lucas
+ | trans_title =
+ | medium = DVD (Disc 2)
+ | time = 00:26:37
+ | publisher = Arrow Films
+ | id = FCD778
+}}&lt;/ref&gt; While filming, Karloff contracted [[pneumonia]] which led to him having to rely on oxygen tanks after production ended.&lt;ref name=&quot;LucasCommentary10&quot;&gt;{{cite AV media
+ | people = Lucas, Tim
+ | year = 2013
+ | title = Commentary by Tim Lucas
+ | trans_title =
+ | medium = DVD (Disc 2)
+ | time = 00:46:15
+ | publisher = Arrow Films
+ | id = FCD778
+}}&lt;/ref&gt; Bava was initially going to end the film on a shot of Jacqueline Pierreux's dead character.&lt;ref name=&quot;bs-arrow-20&quot;/&gt; On the last day of filming, Billitteri suggested to not end the film on such a bleak image and told Bava to change it.&lt;ref name=&quot;bs-arrow-20&quot;/&gt; Bava changed the ending to Boris Karloff's character of Gorka on horseback who cautions the audience to watch out for vampires. The camera than pans back revealing he is on a stuffed horse revealing the studio set and simulated effects.&lt;ref name=&quot;bs-arrow-20&quot;/&gt;
+
+===Post-production===
+[[File:Comparison between American and Italian version of Black Sabbath.jpg|thumbnail|right|Two screenshots of the same scene from &quot;The Wurdulak&quot;. The top image is from the Italian version supervised by Mario Bava. The second is from American International's print.]]
+By the 1960s, Italian horror films such as ''Black Sabbath'' were more violent, sexualized and downbeat than the horror films created in America.&lt;ref name=&quot;Heffernan142&quot; /&gt; [[American International Pictures]] focused on a youth-oriented audience whereas horror in Europe was intended for adults.&lt;ref name=&quot;Heffernan142&quot;&gt;Heffernan, 2004. p. 142&lt;/ref&gt;&lt;ref name=&quot;bs-arrow-16&quot;&gt;{{Cite AV media notes
+| title       = The Two Faces of Black Sabbath
+| year        = 2013
+| page        = 16
+| type        =booklet
+| publisher   = Arrow Films
+| id          = FCD778
+| author      = Lucas, Tim
+}}&lt;/ref&gt; This lead to the American edit removing plot elements of prostitution and lesbianism and making the most altered of Bava's films on its English language version.&lt;ref name=&quot;bs-arrow-16&quot; /&gt;&lt;ref name=&quot;alanJones3&quot;&gt;{{cite AV media
+ | people = Jones, Alan
+ | year = 2013
+ | title = Introduction by Alan Jones
+ | trans_title =
+ | medium = DVD (Disc 2)
+ | time = 00:01:58
+ | publisher = Arrow Films
+ | id = FCD778
+}}&lt;/ref&gt; American International Pictures made changes to all three stories and intro segments in the English-language version of the film. The company re-arranged the order of the stories to start with &quot;The Drop of Water&quot;, followed by &quot;The Telephone&quot; and then &quot;The Wurdalak&quot;.&lt;ref name=&quot;bs-arrow-16&quot; /&gt; Changes were then made to the plots, the most extensively edited being &quot;The Telephone&quot;.&lt;ref name=&quot;bs-arrow-16&quot; /&gt; In &quot;The Telephone&quot; any suggestion of a lesbian relationship between Rosy and Mary and references to prostitution were removed.&lt;ref name=&quot;bs-arrow-16&quot; /&gt; The character of Frank is also no longer a pimp but a ghost who leaves behind enchanted notes that magically write themselves as soon as the envelope they are contained in is opened.&lt;ref name=&quot;bs-arrow-16&quot; /&gt;&lt;ref name=&quot;bs-arrow-19&quot;&gt;{{Cite AV media notes
+| title       = The Two Faces of Black Sabbath
+| year        = 2013
+| page        = 19
+| type        =booklet
+| publisher   = Arrow Films
+| id          = FCD778
+| author      = Lucas, Tim
+}}&lt;/ref&gt; A new character is introduced named &quot;The Colonel&quot; who is Suzy's neighbor in the film.&lt;ref name=&quot;bs-arrow-19&quot; /&gt; &quot;The Wurdalak&quot; features alternative cuts of certain scenes and has violence trimmed from the Italian version.&lt;ref name=&quot;bs-arrow-20&quot;/&gt; &quot;The Drop of Water&quot; features the least amount of changes from the Italian version.&lt;ref name=&quot;bs-arrow-20&quot; /&gt; American International Pictures reshot the introduction by Boris Karloff in Los Angeles. It is unknown who directed these scenes.&lt;ref name=&quot;bs-arrow-21&quot;/&gt;
+
+American International Pictures completely changed the Roberto Nicolosi's soundtrack from the original film with a soundtrack from [[Les Baxter]].&lt;ref name=&quot;bs-arrow-20&quot;/&gt;&lt;ref name=&quot;bs-arrow-22&quot;&gt;{{Cite AV media notes
+| title       = The Two Faces of Black Sabbath
+| year        = 2013
+| page        = 22
+| type        =booklet
+| publisher   = Arrow Films
+| id          = FCD778
+| author      = Lucas, Tim
+}}&lt;/ref&gt; [[Kim Newman]] described Baxter's score as &quot;inappropriate&quot; with &quot;each shock is accompanied by overdone 'scary music'&quot;.&lt;ref name=&quot;mfb-2&quot; /&gt; Both the Italian and English language films have a different look. Bava supervised the Italian language version at Technicolor Roma under his own supervision while American International Pictures shipped their version to Pathé Color for processing.&lt;ref name=&quot;bs-arrow-22&quot; /&gt; Mario Bava biographer [[Tim Lucas]] described the English language print as looking &quot;warmer, but less nuanced, with flatter tonalities&quot; and that it &quot;doesn't look bad&quot; but that the Italian version &quot;looks more vibrant, more flamboyantly nightmarish&quot;.&lt;ref name=&quot;bs-arrow-22&quot; /&gt;
+
+==Release==
+The film opened in Italy in August 17, 1963 under the title ''I tre volti della paura'' which translates to ''The Three Faces of Fear''.&lt;ref name=&quot;Curti79&quot;&gt;Curti, 2015. p. 79&lt;/ref&gt;&lt;ref name=&quot;tcm-release&quot;&gt;{{cite web|url=http://www.tcm.com/tcmdb/title/68928/Black-Sabbath/notes.html|publisher=[[Turner Classic Movies]]|title=Notes|accessdate=March 29, 2014|archiveurl=https://web.archive.org/web/20140517125839/http://www.tcm.com/tcmdb/title/68928/Black-Sabbath/notes.html|archivedate=May 17, 2014}}&lt;/ref&gt;&lt;ref name=&quot;alanJones4&quot;&gt;{{cite AV media
+ | people = Jones, Alan
+ | year = 2013
+ | title = Introduction by Alan Jones
+ | trans_title =
+ | medium = DVD (Disc 2)
+ | time = 00:02:30
+ | publisher = Arrow Films
+ | id = FCD778
+}}&lt;/ref&gt; ''Black Sabbath'' grossed ₤103.5 million [[Italian lira]] on its initial theatrical release in Italy.&lt;ref name=&quot;Curti79&quot; /&gt; [[American International Pictures]] released the English version of ''Black Sabbath'' in May 6, 1964 as a double bill with Bava's ''[[The Girl Who Knew Too Much (1963 film)|The Girl Who Knew Too Much]]'' then titled ''The Evil Eye''.&lt;ref name=&quot;Curti79&quot; /&gt;&lt;ref name=&quot;Heffernan151&quot;&gt;Heffernan, 2004. p. 151&lt;/ref&gt; The English title of ''Black Sabbath'' was chosen to connect it with Bava's previous film ''[[Black Sunday (1960 film)|Black Sunday]]''.&lt;ref name=&quot;alanJones4&quot; /&gt; The film opened in Paris in November 1965 under the title ''Les trois visages de la peur''.&lt;ref name=&quot;tcm-release&quot; /&gt;
+
+In 2004, ''[[Variety (magazine)|Variety]]'' announced that [[Valhalla Motion Pictures]] and Kismet Entertainment Group were collaborating to produce a remake ''Black Sabbath''.&lt;ref name=&quot;variety-remake&quot;&gt;{{cite web|url=http://variety.com/2004/film/news/hurd-allen-to-remake-bava-thrills-1117903719/|work=[[Variety (magazine)|Variety]]|title=Hurd, Allen to remake Bava thrills|author=McNary, Dave|accessdate=March 29, 2014|date=April 22, 2004}}&lt;/ref&gt; [[Jonathan Hensleigh]] was attached to contribute to the script development of the film.&lt;ref name=&quot;variety-remake&quot; /&gt;
+
+===Home video===
+[[Image Entertainment]] released the film in both the English and Italian versions on DVD on August 1, 2000.&lt;ref&gt;{{cite web|url=http://www.allmovie.com/movie/black-sabbath-v5932/releases|title=Black Sabbath (1963) - Releases|publisher=AllMovie|accessdate=March 29, 2014}}&lt;/ref&gt; [[Kino International (company)|Kino]] released the film on Blu-ray and DVD on July 16, 2013.&lt;ref name=&quot;kino-film&quot;&gt;{{cite web|url=http://www.kinolorber.com/news.php?news_id=195|publisher=[[Kino International (company)|Kino]]|title=Kino Classics Releases Mario Bava's Black Sabbath and Kidnapped on Blu-ray and DVD|accessdate=March 29, 2014|date=July 3, 2013|location=New York|archiveurl=https://web.archive.org/web/20140329215222/http://www.kinolorber.com/news.php?news_id=195|archivedate=March 29, 2014}}&lt;/ref&gt; Kino's edition of the film was mastered in high definition from the 35mm [[Negative (photography)|negative]] with the Italian language dub and original soundtrack.&lt;ref name=&quot;kino-film&quot; /&gt; [[Arrow Films]] released ''Black Sabbath'' on DVD and Blu-ray in 2013.&lt;ref name=&quot;twitch-bs&quot;&gt;{{cite web|author=O'Neill, Phelim|work=[[The Guardian]]|accessdate=November 6, 2014|title=This week's new DVD &amp; Blu-ray|url=http://www.theguardian.com/film/2013/may/11/this-weeks-new-dvd-blu-ray|date=May 11, 2013}}&lt;/ref&gt; Arrow's transfer of the Italian version was from an original 35mm [[internegative]] print transferred in Italy that had additional grading and restoration done in London.&lt;ref name=&quot;bs-arrow-att&quot;&gt;{{Cite AV media notes
+| title       = About the Transfers
+| year        = 2013
+| page        = 
+| type        = booklet
+| publisher   = Arrow Films
+| id          = FCD778
+}}&lt;/ref&gt; Arrow's version of the American version of ''Black Sabbath'' was made from an 35mm [[interpositive]] in California.&lt;ref name= &quot;bs-arrow-att&quot; /&gt; Arrow noted the high definition master they received from Italy was very difficult to restore as the master had issues with the image, sound and color quality and had the stories in the wrong order.&lt;ref&gt;{{cite web|url=http://www.homecinemachoice.com/news/article/restoring-films-for-blu-ray/15969|work=Home Cinema Choice|accessdate=October 2, 2014|author=Beek, Anton van|date=July 9, 2013|title=Restoring films for Blu-ray}}&lt;/ref&gt;
+
+== Reception ==
+In a contemporary review of the American International Picture's edit, ''[[The Globe and Mail]]'' stated that &quot;The Drop of Water&quot; and &quot;The Telephone&quot; were &quot;a good deal more sophisticated than usual horror fare&quot; while &quot;The Wurdulak&quot; &quot;bears no trace of [Bava's] manner of directing&quot; and that the acting was &quot;rudimentary&quot;.&lt;ref&gt;{{cite journal |last=Morriss |first=Frank |date=Jun 11, 1964 |title=Touch of Humor in Karloff Horror |journal=The Globe and Mail |location=Toronto, Ont. |page=11}}&lt;/ref&gt; ''[[The Boston Globe]]'' gave the film a negative review, referring to the ''Black Sabbath'' as &quot;three short films botched together&quot;.&lt;ref&gt;{{cite journal |date=May 21, 1964 |title=Black Sabbath: 3-in-1 Horror Bill Is Bowl of Gruel |journal=[[The Boston Globe]]|page=40}}&lt;/ref&gt;  The ''[[Monthly Film Bulletin]]'' stated that &quot;the eeriest thing about the picture is its decor (especially the heavy, dusty interiors of [The Drop of Water]&quot; while noting the &quot;acting is very unstylish and made worse by dubbing&quot;.&lt;ref name=&quot;mfb&quot;&gt;{{cite journal|journal=[[Monthly Film Bulletin]]|volume=31|issue=360|pages=179–180|year=1964|title=Black Sabbath &quot;(I Tre Volti della Paura)&quot;|location=London|issn=0027-0407}}&lt;/ref&gt; The review stated that Bava could &quot;do better than this with less obvious material&quot; and that he seemed &quot;determined to spell everything out with a sudden zoom shots and shock cuts.&quot;&lt;ref name=&quot;mfb&quot; /&gt;
+
+Reviewing the English-language version of the film, ''[[Time Out (magazine)|Time Out]]'' praised the film stating that &quot;pictorially it's amazing, and even the script and dubbing are way above average.&quot;&lt;ref name=&quot;timeout-review&quot;&gt;{{cite web|url=http://www.timeout.com/london/film/black-sabbath|work=[[Time Out (magazine)|Time Out]]|title=Black Sabbath|accessdate=March 29, 2014|author=DP}}&lt;/ref&gt; ''[[Time Out (magazine)|Time Out]]'' compared the film to anthology horror films made by the British production company [[Amicus]] noting that &quot;If only Amicus...had taken heed they might have got some ideas as to what can be done with the format.&quot;&lt;ref name=&quot;timeout-review&quot; /&gt;
+''[[Entertainment Weekly]]'' awarded the film an A- rating referring to it as &quot;excellent&quot; and that the stories were &quot;composed of three tales of expertly building suspense&quot;&lt;ref&gt;{{cite web|url=http://www.ew.com/ew/article/0,,20716419,00.html|work=[[Entertainment Weekly]]|title=Black Sabbath|date=July 10, 2013|accessdate=March 29, 2014|archiveurl=https://web.archive.org/web/20150126183144/http://www.ew.com/ew/article/0,,20716419,00.html|archivedate=January 26, 2015}}&lt;/ref&gt; [[Kim Newman]] wrote in a retrospective review of the English dub, that &quot;The Drop of Water&quot; is the best of the three stories, and was described as &quot;Bava's most simply frightening work.&quot;&lt;ref name=&quot;mfb-2&quot; /&gt; &quot;The Telephone&quot; was dismissed as being &quot;less satisfying&quot;, specifying that it potentially American International Pictures attempt at re-writing the story that caused the stories problems.&lt;ref name=&quot;mfb-2&quot; /&gt; Newman declared that &quot;The Wurdalak&quot; was a &quot;little masterpiece&quot; praising Karloff's performance and that the themes of the story looked torwards the themes in ''[[Night of the Living Dead]]'' and ''[[It's Alive (1974 film)|It's Alive]]''.&lt;ref name=&quot;mfb-2&quot;&gt;{{cite journal|journal=Monthly Film Bulletin|volume=53|issue=624|pages=24–25|year=1986|title=Black Sabbath|location=London|issn=0027-0407|last=Newman|first=Kim|authorlink=Kim Newman}}&lt;/ref&gt;
+
+In contemporary reviews of the Italian-language version, ''[[The Dissolve]]'' gave the film three and a half stars out of five, stating &quot;There are small twists in all three stories, but for the most part, the segments suggest where they’re headed early&quot; and that the dialogue in the film is &quot;sparse, and doesn't shy away from any exploitable elements, from scantily clad women to bloody wounds and warped-faced ghouls. But even more terrifying is the movie’s atmosphere of doom [...] ''Black Sabbath'' is fraught with fatalism.&quot;&lt;ref&gt;{{cite web|url=http://thedissolve.com/reviews/55-black-sabbath-kidnapped/|publisher=[[The Dissolve]]|title=Black Sabbath / Kidnapped|date=July 16, 2013|accessdate=March 29, 2014|author=Murray, Noel|archiveurl=https://web.archive.org/web/20141106141440/http://thedissolve.com/reviews/55-black-sabbath-kidnapped/|archivedate=November 6, 2014}}&lt;/ref&gt; ''[[Total Film]]'' awarded the film four stars out of five, referring to it as a &quot;wonderful horror anthology&quot;.&lt;ref&gt;{{cite web|url=http://www.totalfilm.com/reviews/blu-ray/black-sabbath|work=[[Total Film]]|accessdate=March 29, 2014|author=Glasby, Matt|date=May 7, 2013|title=Reviews|archiveurl=https://web.archive.org/web/20141107104347/http://www.totalfilm.com/reviews/blu-ray/black-sabbath|archivedate=November 7, 2014}}&lt;/ref&gt; Online film database [[AllMovie]] praised &quot;The Wurdulak&quot; stating that Karloff's &quot;ghostly visage provides several unforgettable scares&quot; and that &quot;The Drop of Water&quot; is short but &quot;remains scary and suspenseful throughout&quot;&lt;ref name=&quot;allmovie-review&quot; /&gt; AllMovie described &quot;The Telephone&quot; as &quot;only an average tale that follows through to a predictable twist&quot;&lt;ref name=&quot;allmovie-review&quot; /&gt; In the early 2010s, ''[[Time Out (magazine)|Time Out]]'' conducted a poll with several authors, directors, actors and critics who have worked within the horror genre to vote for their top horror films.&lt;ref&gt;{{cite web|url=http://www.timeout.com/london/film/best-horror-films|work=Time Out|accessdate=April 13, 2014|title=The 100 best horror films}}&lt;/ref&gt; ''Black Sabbath'' placed at number 73 on their top list.&lt;ref&gt;{{cite web|url=http://www.timeout.com/london/film/best-horror-films-list#tab_panel_3|work=Time Out|accessdate=April 13, 2014|title=The 100 best horror films: the list|author=NF}}&lt;/ref&gt;
+
+==Influence and aftermath==
+[[File:Sabs.jpg|thumbnail|left|English rock band Black Sabbath (pictured) took their group's name from the film's English title.]]
+Boris Karloff enjoyed working with Bava on ''Black Sabbath'' and he praised his work to both [[Christopher Lee]] and [[Vincent Price]] who would later go on to work with Bava in ''[[The Whip and the Body]]'' and ''[[Dr. Goldfoot and the Girl Bombs]]'' respectively.&lt;ref name=&quot;LucasCommentary11&quot;&gt;{{cite AV media
+ | people = Lucas, Tim
+ | year = 2013
+ | title = Commentary by Tim Lucas
+ | trans_title =
+ | medium = DVD (Disc 2)
+ | time = 00:53:58
+ | publisher = Arrow Films
+ | id = FCD778
+}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.allmovie.com/movie/spie-vengono-dal-semifreddo-v89922|publisher=AllMovie|accessdate=April 10, 2014|title=Spie Vengono dal Semifreddo|author=Erickson, Hal|authorlink=Hal Erickson (author)}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.allmovie.com/movie/the-whip-and-the-body-v132556|publisher=AllMovie|accessdate=April 10, 2014|title=The Whip and the Body|author=Binion, Cavett}}&lt;/ref&gt; Plans were initially going to be made to involve Bava and Karloff working together on a film titled ''Scarlet Friday'' based on &quot;[[The Dunwich Horror]]&quot;.&lt;ref name=&quot;LucasCommentary12&quot; /&gt; The project was later taken away from Bava and was released as ''[[The Dunwich Horror (film)|The Dunwich Horror]]'' directed by [[Daniel Haller]] without Karloff involved.&lt;ref name=&quot;LucasCommentary12&quot;&gt;{{cite AV media
+ | people = Lucas, Tim
+ | year = 2013
+ | title = Commentary by Tim Lucas
+ | trans_title =
+ | medium = DVD (Disc 2)
+ | time = 00:54:05
+ | publisher = Arrow Films
+ | id = FCD778
+}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.allmovie.com/movie/the-dunwich-horror-v14967/cast-crew|publisher=AllMovie|accessdate=April 10, 2014|title=The Dunwich Horror}}&lt;/ref&gt;
+
+The English rock band [[Black Sabbath]] appropriated their name from the film.&lt;ref&gt;Hughes, p.81&lt;/ref&gt; Originally known as Earth, the group wanted to change their name as another group had the same name.&lt;ref name=&quot;Froese30&quot; /&gt; The group saw a local cinema playing ''Black Sabbath'' and marveled that people paid money to be frightened.&lt;ref name=&quot;Froese30&quot;&gt;Froese, 2012. p. 30&lt;/ref&gt;
+
+Directors [[Roger Avary]] and [[Quentin Tarantino]] were influenced by ''Black Sabbath'''s story structure for their original script for ''[[Pulp Fiction]]'' (1994).&lt;ref name=&quot;Bailey32&quot;&gt;Bailey, 2012. p.32&lt;/ref&gt; The film was originally going to be three short films with each one being directed by Avary, Tarantino and another unknown director.&lt;ref name=&quot;Bailey32&quot; /&gt;&lt;ref name=&quot;Bailey33&quot;&gt;Bailey, 2012. p.33&lt;/ref&gt; Tarantino originally described this idea by stating that &quot;what Mario Bava did with the horror film in ''Black Sabbath'', I was gonna do with the crime film.&quot;&lt;ref&gt;Smith, 2013. p.71&lt;/ref&gt;
+
+==See also==
+* [[Boris Karloff filmography]]
+* [[List of French films of 1963]]
+* [[List of horror films of 1963]]
+* [[List of Italian films of 1963]]
+* [[Vampire film]]
+
+== References ==
+
+===Footnotes===
+{{reflist|30em}}
+
+===Sources===
+{{Refbegin}}
+* {{cite book
+ |last=Curti
+ |first=Roberto
+ |title=Italian Gothic Horror Films, 1957-1969
+ |publisher=McFarland
+ |isbn=1476619891
+ |year=2015
+}}
+*{{cite book
+ | last= Heffernan
+ | first= Kevin
+ | title= Ghouls, Gimmicks, and Gold: Horror Films and the American Movie Business, 1953–1968
+ |publisher= [[Duke University Press]]
+ |year= 2004
+ |isbn= 0822385554
+}}
+*{{cite book
+ | last= Smith
+ | first= Gary A.
+ | title= The American International Pictures video guide
+ |publisher= [[McFarland &amp; Co.]]
+ |year= 2009
+ |isbn= 0786433094
+}}
+*{{cite book
+| last1                 = Froese
+| first1                = Brian
+| year                  = 2012
+| chapter               = 3: &quot;Is It the End, My Friend?&quot; Black Sabbath's Apocalypse of Horror
+| editor1-last          = Irwin
+| editor1-first         = William
+| title                 = Black Sabbath and Philosophy: Mastering Reality
+| url                   = http://books.google.ca/books?id=OwdQrI2317cC&amp;pg=PA20
+| isbn                  = 111849380X
+| accessdate            = April 7, 2014
+| publisher             = John Wiley &amp; Sons
+}}
+*{{cite book
+| last1                 = Smith
+| first1                = Gavin
+| year                  = 2013
+| chapter               = When You Know You're In Good Hands
+| editor1-last          = Peary
+| editor1-first         = Gerald
+| title                 = Quentin Tarantino: Interviews, Revised and Updated
+| url                   = http://books.google.ca/books?id=RRmcAQAAQBAJ&amp;
+| publisher             = University Press of Mississippi
+| isbn                  = 1617038741
+| accessdate            = April 7, 2014
+}}
+*{{cite book
+| last1                 = Bailey
+| first1                = Jason
+| year                  = 2013
+| title                 = Pulp Fiction: The Complete Story of Quentin Tarantino's Masterpiece
+| url                   = http://books.google.ca/books?id=YSkQAgAAQBAJ
+| publisher             = Voyageur Press
+| isbn                  = 0760344795
+| accessdate            = April 7, 2014
+}}
+*{{cite book|last=Hughes|first=Howard|title=Cinema Italiano - The Complete Guide From Classics To Cult|publisher=I.B.Tauris|year=2011|isbn=978-1-84885-608-0 |location=London - New York}}
+{{Refend}}
+
+== External links ==
+* {{IMDb title|0057603|Black Sabbath}}
+* [http://www.fangoria.com/new/shadowvision-black-sabbath/ Shadowvision: “BLACK SABBATH”]
+* {{rotten-tomatoes|id=black_sabbath|title=Black Sabbath}}
+* [http://www.archiviolastampa.it/component/option,com_lastampa/task,search/mod,libera/action,viewer/Itemid,3/page,4/articleid,0093_01_1963_0200_0004_24827394/ Review of ''Black Sabbath''] in [[La Stampa]]
+{{Mario Bava}}
+
+[[Category:1963 films]]
+[[Category:Italian films]]
+[[Category:Italian horror films]]
+[[Category:Italian-language films]]
+[[Category:Horror anthology films]]
+[[Category:1963 horror films]]
+[[Category:Supernatural horror films]]
+[[Category:Films directed by Mario Bava]]
+[[Category:American International Pictures films]]
+[[Category:Gothic horror films]]</text>
+      <sha1>jryya314f43zqk20m7ah4ukiavoz7s1</sha1>
+    </revision>
+  </page>
+</mediawiki>

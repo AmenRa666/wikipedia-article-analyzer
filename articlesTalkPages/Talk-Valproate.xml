@@ -1,0 +1,239 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Valproate</title>
+    <ns>1</ns>
+    <id>195189</id>
+    <revision>
+      <id>733632596</id>
+      <parentid>733632578</parentid>
+      <timestamp>2016-08-09T03:19:13Z</timestamp>
+      <contributor>
+        <username>Doc James</username>
+        <id>3810835</id>
+      </contributor>
+      <comment>/* Kudos */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25581">{{Skip to talk}}
+{{Talk header&lt;!-- |search=yes --&gt;|disclaimer=yes|bottom=yes}}
+{{Reliable sources for medical articles|small=Yes}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Pharmacology|class=B|importance=high}}
+{{WikiProject Medicine |class=B |importance=High|neurology=Yes |neurology-imp=High|translation=yes|translation-imp=high}}
+{{WikiProject Epilepsy|class=B|importance=High}}
+{{WikiProject Autism|class=B|importance=Low}}
+{{dashboard.wikiedu.org assignment | course = Wikipedia:Wiki_Ed/University_of_California,_San_Francisco/Words_as_Power_-_Expanding_WikiProject_Pharmacology_(Fall_2015) | assignments = [[User:Laurelcarmichael25|Laurelcarmichael25]] }}
+}}
+
+== Orfiril ==
+
+I added a comment about Orfiril being a Valproic acid product (and forwarded the 'Orfiril' page to this), but I'm not sure whether it's a Sodium valproate, Divalproex Sodium or maybe something else so I just put it as a note in there. If someone knows what sort of Valproic acid it is, I think it should be put in the same paragraph as the description of it.
+njh
+
+[[Orfiril]] is (and redirects now to) [[Sodium valproate]]. [[User:Colin|Colin]]°[[User talk:Colin|&lt;sup&gt;Talk&lt;/sup&gt;]] 08:11, 22 May 2006 (UTC)
+
+== Depakote? ==
+
+Shouldn't Depakote be added as a fomulation that contains valproic acid?
+
+From wikipedia itself:
+
+Valproate semisodium
+From Wikipedia, the free encyclopedia
+(Redirected from Depakote)
+Jump to: navigation, search
+Valproate semisodium (INN) or divalproex sodium (USAN) consists of a compound of sodium valproate and valproic acid in a 1:1 molar relationship in an enteric coated form.
+&lt;small&gt;—The preceding [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:Jaerik|Jaerik]] ([[User talk:Jaerik|talk]] • [[Special:Contributions/Jaerik|contribs]]) 00:10, 22 May 2006 UTC.&lt;/small&gt;&lt;!-- [Template:Unsigned] --&gt;
+
+[[Depakote]] is (and redirects to) [[valproate semisodium]], which has separate licencing, indications, pricing and capsule-formulation than either [[sodium valproate]] or [[valproic acid]]. To add Depakote to this article would only add to the confusion by the manufacturers having similar names for similar products. This article does mention the related drugs so the reader can discover the relationship between them. [[User:Colin|Colin]]°[[User talk:Colin|&lt;sup&gt;Talk&lt;/sup&gt;]] 08:11, 22 May 2006 (UTC)
+
+:Surely the active component is the valpro- bit, whether it is as a hydrogenated acid (excuse my clumsiness of terminology), or a sodium salt is immaterial for all its important stuff (i.e. how it works). Sure molecular weight, solubility and licensing will vary, but it is the &quot;valpro-&quot; which acts as the anticonvulsant and has all the associated pregnancy risks ? I'm minded therefore to formally propose mergers with suitable merge-tags (of course article can specify nuiance of licensing &amp; brand names). Likewise we have just single artilces of [[Beclometasone dipropionate]], [[Cromoglicate]]. [[User:Davidruben|David Ruben]] &lt;sup&gt; [[User talk:Davidruben|Talk]] &lt;/sup&gt; 14:52, 18 May 2008 (UTC)
+::Sorry for being a year too late, but yes, all valproates are comparable. The solubility is the main difference between the acid, sodium salt and divalproex, but doesn't really matter that much since nowadays, most of the peroral galenics are enteric-coated at least, if not extended-release; therefore the main site of absorption is the gut, where the pH is sufficiently high (about 7 - 8) for the VPA to be dissociated to valproate anion, which is highly water-soluble. Also, pharmacodynamics and side-effects (maybe with the exception of better gastrointestinal tolerability of some XR-formulations) of valproates are alike, since systematically, it's the same no matter whether administered as VPA, Na-VPA or Na-DiVPA. Hope this would be helpful in any way, cheers --[[Special:Contributions/84.163.113.105|84.163.113.105]] ([[User talk:84.163.113.105|talk]]) 18:23, 7 June 2009 (UTC)
+
+== Formulations ==
+
+Surely the brand names listed under formulations needs a bit of expansion? How can you tell if it's not just one formulation made in different places with different names for different markets? &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/217.155.82.154|217.155.82.154]] ([[User talk:217.155.82.154|talk]]) 11:05, April 11, 2007‎ (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt;
+
+== IQ study... ==
+heres the link if someone wants to put the proper tag in
+http://www.medpagetoday.com/Pediatrics/GeneralPediatrics/tb/5386
+
+Do companies delete web pages because they still using 1980's 10MB drives? 
+https://web.archive.org/web/20070526011514/http://www.medpagetoday.com/Pediatrics/GeneralPediatrics/tb/5386
+Moms who take it can make less smart babies
+
+and the info
+
+Primary source: American Academy of Neurology 2007 Annual Meeting
+
+Source reference:
+Meador KJ et al. &quot;Cognitive Outcomes at 2 Years Old in Children of Women with Epilepsy Differ as Function of In Utero Antiepileptic Drug.&quot; Abstract S45.003, presented May 3. &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/74.98.9.225|74.98.9.225]] ([[User talk:74.98.9.225|talk]]) 22:33, May 13, 2007‎ (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt;
+
+
+Well hello: explain '''me''' - I am on Depakote for acute medical reasons, my mother was on Depakote for serious reasons when I was born moreover, and my IQ is 160-170. Guess what? No dysgenic offal here! Cephalization perfect; fissuration and gyrification more than superb, baby. Cognitive deficits my rear end - I have a doctorate in an area of cosmological science that pop idol twit Stephen Hawking cannot approach understanding the beginnings of which...
+
+Perhaps simplistic generalities aren't helpful. Genomic science is rendering old-style medicinal science fossilized as it relies on linear homogenization of differentia, we know now, are infinitely incomparable... One person can take something, rendering them an idiot; the next person, affects neither way (e.g. Adderall): occulted genetic polymorphisms and &quot;shadow DNA&quot; transcriptional micro-mutations of environmentally-modulated '''individuality''' in concrete, enfleshed human beings not empty fungible quantities of abstraction...human beings AS NON-IDENTICAL EXISTENTS (Leibniz law holds!), only way to go here... Things are just not reducible to Procrustean crowd generalizations... Nice try in pathologizing the unoffending Wiki-landers, the nescient blindfolded idiotic stereotyping again, Wikipedia, oh so &quot;encyclopedic&quot; - I am quickly losing my patience with the dearth of human brain-power hereabouts...
+
+Any one who wants to tell me &quot;YOU ARE COGNITIVELY INFERIOR IN ALL PROBABILITY&quot; because of my Depakote therapy, have sword in hand.  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2602:304:B34B:A940:F051:AB0F:3A76:DE48|2602:304:B34B:A940:F051:AB0F:3A76:DE48]] ([[User talk:2602:304:B34B:A940:F051:AB0F:3A76:DE48|talk]]) 07:16, 19 June 2015 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Ammonium toxicity? ==
+The article states: &quot;Valproic acid also causes hyperammonemia.&quot;
+The article on [[Lithium pharmacology]] states: &quot;An increasing number of scientists have come to the conclusion that the excitatory neurotransmitter glutamate is the key factor in understanding how lithium works&quot; (citation needed), but without specifying in what way: does it potentiate it or antagonize it?
+Given that one of the main actions of glutamine is to reduce ammonia in the blood and brain, is there a significant connection here? The two are often prescribed together. If antagonism is the effect, would glutamine supplementation be appropriate when taking these two drugs together?
+[[User:Carusus|Carusus]] 10:31, 24 September 2007 (UTC)
+::Hyperammonaemia is a side effect of valproate medication, caused by its interference with amino acid metabolism. Lithium does modulate glutamergic transmissions in the CNS in a complex way. These two effects have nothing to do one with another. Glutamate supplementation wouldn't be reasonable in my opinion, since normal nutrition provides enough glutamate.--[[Special:Contributions/84.163.107.30|84.163.107.30]] ([[User talk:84.163.107.30|talk]]) 03:02, 21 April 2008 (UTC)
+
+i spent 2 years as a psychiatric pharmacist.  hyperammonimia is relatively common with valproic acid and is easily treated with l-carnitine (usually 500mg bid).  they are NOT frequently used together.  they are both used as mood stabilizers; ie antimanic drugs.  as such, they are usually used INSTEAD of one another, not in addition to.  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/198.49.6.225|198.49.6.225]] ([[User talk:198.49.6.225|talk]]) 12:48, 22 March 2015 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== About Valproic Acid ==
+
+Valproic acid, as I have read causes Hepatic toxicity.  But I haven't really read anything about whether or not it is suitable for child use.  Is it ok for a 3 or 4 year old child to use Valproic acid for treatment of Epilepsy?  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/194.170.95.210|194.170.95.210]] ([[User talk:194.170.95.210|talk]]) 04:21, 16 April 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:Valproates are the [[first-line treatment|drugs of choice]] for many if not most childhood seizure disorders, including [[Lennox-Gastaut syndrome]] (the symptoms of which usually start before the age of six), and are widely used in young children. You should really talk to your [[pediatrician]] about any safety concerns; Wikipedia is not the place to [[Wikipedia:Medical disclaimer|seek advice on health matters]]. Best, [[User:Fvasconcellos|Fvasconcellos]]&lt;small&gt;&amp;nbsp;([[User talk:Fvasconcellos|t]]·[[Special:Contributions/Fvasconcellos|c]])&lt;/small&gt; 15:18, 18 May 2008 (UTC)
+
+Is Valprocic acid considered a psycholic drug?  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/69.216.123.107|69.216.123.107]] ([[User talk:69.216.123.107|talk]]) 14:24, 14 June 2008 (UTC)&lt;/small&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Need to clarify medical terms so laymen can understand ==
+
+In this and other Wikipedia medical articles, there should be more attention paid to clarifying what medical terms mean in ordinary English to maximize the usefulness of an article. This is not a medical text, this is a general Web site. Please translate complex technical terms in addition to providing links to other articles.
+
+== Why are the indications listed also as &quot;absolute contraindications&quot;? ==
+
+Why? [[User:Azu Mao|Azu Mao]] ([[User talk:Azu Mao|talk]]) 18:45, 6 August 2010 (UTC)
+
+* In Contraindications, Adverse Effects section should be added on polycystic ovarian syndrome (PCOS) in pre-menarche girls.
+
+==Valparin==
+I have added Valparin, as one of the commectial names. When I use Valparin in the search window, it does bring up this same page. Please check for veracity. Several documents also mention that one of the commercial names of Valproic acid is Valparin.
+
+--[[User:C.R.Selvakumar|C.R.Selvakumar]] ([[User talk:C.R.Selvakumar|talk]]) 20:05, 29 April 2011 (UTC)
+
+:Sorry; we have a spam list for a reason. Trying to circumvent it to add commercial links isn't going to work. I've removed the links and would encourage you not to add them again. Thanks. [[User:Keepcalmandcarryon|Keepcalmandcarryon]] ([[User talk:Keepcalmandcarryon|talk]]) 20:49, 29 April 2011 (UTC)
+
+== Investigational ==
+
+I checked the &quot;Cancer&quot; section and it turned out to be basically plagiarized from http://www.news-medical.net/health/Valproic-Acid-Uses.aspx which doesn't seem to be a [[WP:RS]]. There are links to original studies (some of which are dead links), but they're cell culture and other preliminary research that would violate [[WP:MEDMOS]], and at best it's [[WP:OR]]. 
+
+I didn't check out the entire &quot;Investigational&quot; section but it also seems to be similarly unreliable. 
+
+One of the problems with valproic acid is that manufacturers are (illegally) promoting it in the US for all kinds of off-label indications. There are lots of unsupported claims going around. 
+
+I personally think the molecular biology stuff is very interesting, as biology, but any mention should make it clear that these are not clinical indications. --[[User:Nbauman|Nbauman]] ([[User talk:Nbauman|talk]]) 15:23, 8 May 2012 (UTC)
+
+== Naming organic acids ==
+
+The section that explains how organic acids are named doesn't belong in this article  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/184.47.48.24|184.47.48.24]] ([[User talk:184.47.48.24|talk]]) 20:39, 8 August 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:I agree, so I have removed it.  [[User:ChemNerd|ChemNerd]] ([[User talk:ChemNerd|talk]]) 20:51, 8 August 2012 (UTC)
+
+== Valproate ==
+
+VPA and valproate seem to be used here as clinically equivalent. Are they ? - [[User:Rod57|Rod57]] ([[User talk:Rod57|talk]]) 12:21, 24 March 2013 (UTC)
+vpa is an abbreviation for valproic acid while valproate is the ion form of the drug (as is the case in all of chemistry naming schemes).  they are functionally interchangeable. sodium divalproex and valproic acid are both absorbed as valproate in the gastrointestinal tract, where divalproex is cleaved in half to yield 2 valproates.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/159.238.36.19|159.238.36.19]] ([[User talk:159.238.36.19|talk]]) 21:25, 16 June 2014 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Valproate and depression ==
+
+Article states valproate can be used for treatment of depression. This requires reference(s).  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/132.234.251.230|132.234.251.230]] ([[User talk:132.234.251.230|talk]]) 22:43, 1 September 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+
+== Study about recently discovered side effect ==
+
+I don't have time right now but I discovered the following article about an interesting research result about valproic acid.
+Maybe someone can add this?
+
+http://www.dailymail.co.uk/sciencetech/article-2531276/Bad-singer-Theres-DRUG-Brain-altering-compound-help-cure-tone-deafness.html  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/82.176.83.178|82.176.83.178]] ([[User talk:82.176.83.178|talk]]) 00:23, 14 January 2014 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+Point of the article was that in increases neural plasticity in adults, to match that of a child. In other words, its possible first step towards &quot;Limitless.&quot; There's some other articles on it, but cant find it at moment. Need brain boosting pill first.
+
+:Hello and thanks for the link. The research is already mentioned in the article. Browse to the &quot;Uses\Investigational\Learning&quot; subsection. Note that not much more can be added without further research articles, whether they be from the past or the future. --[[User:IO Device|IO Device]] ([[User talk:IO Device|talk]]) 00:43, 14 January 2014 (UTC)
+
+== Just my contribution on this one.. ==
+
+Most of these &quot;miracle&quot; neuropills just alter metabolic balance plus this one burns into an alkene.. Check [[pregabalin]] for these same conditions maybe? This       medicine and [[tricyclic]] [[antidepressant]]s and [[neurolept]]ics just scream for [[cancer]]. I think there is much smarter ways to save energy.. --[[User:Slowpoke21837240|Slowpoke21837240]] ([[User talk:Slowpoke21837240|talk]]) 14:05, 23 January 2015 (UTC)
+
+==Merge==
+We basically have three article dealing with what is basically the same drug: [[Valproic acid]], [[Sodium valproate]] and [[Valproate semisodium]]. I suggest that we merge them all to this [[Valproate]] page (which is currently a redirect), since &quot;valproate&quot; is more commonly used than &quot;Valproic acid&quot;, both in standard Google ([https://www.google.se/search?q=%22valproate%22] compared to [https://www.google.se/search?q&amp;#61;%22valproic+acid%22]) and Google Scholar ([https://scholar.google.se/scholar?hl&amp;#61;n&amp;q&amp;#61;%22valproate%22] compared to [https://scholar.google.se/scholar?hl&amp;#61;en&amp;q&amp;#61;%22valproic+acid%22]). Also, the fact that it is an acid is not important in reality, so the simpler name is better. A merge would avail for finding all relevant characteristics in one place, without risking to miss something by ending up in the wrong one of those three articles. I don't see any text in any of these articles specifically mentioning any difference between the three formulations, and after the merge we should have a section dealing with that topic (if we find anything). Official listings of adverse effects may practically vary somewhat, but we already have e.g. [[List of adverse effects of valproate semisodium]] as a separate page. We can discuss later whether to try to merge lists of adverse effects to into one as well, like first listing those that are common to all formulations and then detailing differences. [[User:Mikael Häggström|Mikael Häggström]] ([[User talk:Mikael Häggström|talk]]) 13:29, 6 June 2015 (UTC)
+*'''Support''' Yes having them all go to the same spot will reduce confusion. This is splitting hairs. [[User:Doc James|&lt;span style=&quot;color:#0000f1&quot;&gt;'''Doc James'''&lt;/span&gt;]] ([[User talk:Doc James|talk]] · [[Special:Contributions/Doc James|contribs]] · [[Special:EmailUser/Doc James|email]]) 16:44, 6 June 2015 (UTC)
+*'''Support''' They are all the same drug. We don't have separate pages for [[phenobarbital]] (freebase) and [[phenobarbital sodium]]. [[User:Clr324|Clr324]] ([[User talk:Clr324|say hi]]) 07:18, 11 June 2015 (UTC)
+::The section called 'Merge' is what was formerly in [[Talk:Valproate]] before I moved [[Talk:Valproic acid]] on top of it. This was done per a merge request at [[WP:ANI]]. [[User:EdJohnston|EdJohnston]] ([[User talk:EdJohnston|talk]]) 20:19, 14 June 2015 (UTC)
+
+== How to finish the merge ==
+
+See [https://en.wikipedia.org/w/index.php?title=Wikipedia:Administrators%27_noticeboard/Incidents&amp;oldid=666951634#Valproate_merger this ANI request (permanent link)] by [[User:Mikael Häggström]]. Valproate was only a redirect, so the name was available for a merged article. As stated in the above section, the idea is to move Valproic acid to Valproate, preserving the target talk page in some way, and then merging in [[Sodium valproate]] and [[Valproate semisodium]]. I've done the move to Valproate, so the history of Valproic acid has been preserved. The people who've been working on this should go ahead and merge in any useful information from [[Sodium valproate]] and [[Valproate semisodium]]. Those histories can only be captured indirectly; see [[WP:Copying within Wikipedia]] for some options. The original content of [[Talk:Valproate]] has been saved here by merging the text in. I've replaced [[Sodium valproate]] and [[Valproate semisodium]] with redirects but the former content of those articles is still in the history. I left the original talk pages at [[Talk:Sodium valproate]] and [[Talk:Valproate semisodium]] undisturbed. Probably they should also be changed to redirects after their content is preserved. Let me know if you have any questions. Thanks, [[User:EdJohnston|EdJohnston]] ([[User talk:EdJohnston|talk]]) 20:36, 14 June 2015 (UTC)
+* Note to mergers: also pay close attention to the steps in [[WP:Merging]] (esp. [[Wikipedia:Merging#How_to_merge|the &quot;How to merge&quot; section]]) if/when merging is carried out. I've done mostly [[WP:Splitting]] before, not merging, but with either it's really easy to skip a step here and there, and then have to go back to complete the &quot;skipped&quot; steps... --[[User:IJBall|IJBall]] &lt;small&gt;([[Special:Contributions/IJBall|contribs]] • [[User talk:IJBall|talk]])&lt;/small&gt; 20:54, 14 June 2015 (UTC)
+::Thanks to both of you {{=)}} I've merged what I found useful from [[Sodium valproate]] and [[Valproate semisodium]] into this one now. I think the talk pages can remain in those pages, because it makes it easier to track discussions to actual article content back then. [[User:Mikael Häggström|Mikael Häggström]] ([[User talk:Mikael Häggström|talk]]) 13:13, 15 June 2015 (UTC)
+::: Yes – even if you convert them to [[WP:Redirect|Redirect]]s, their Talk pages will still remain unchanged, and available to anyone who wants to check them as an &quot;archive&quot;... However, I notice that [[Talk:Sodium valproate]], at least, hasn't had the {{tl|Merged-to}} added to that Talk page, nor has the {{tl|Merged-from}} tag been added to this one, as per '''Step #5''' of the [[Wikipedia:Merging#How_to_merge|the &quot;How to merge&quot; section]]. --[[User:IJBall|IJBall]] &lt;small&gt;([[Special:Contributions/IJBall|contribs]] • [[User talk:IJBall|talk]])&lt;/small&gt;
+
+==Moved from the article==
+&quot;details of use and efficacy. This is one of the most widely used anticonvulsants, but we have only 2 sentences describing its use and efficacy, vs. scores describing AEs, contraindications, interactions, and brand names used in developing markets. We're all very clear on what the problems are with the drug, and what its called in Bhutan, but a little sketchy on how and why it is used&quot; [[User:Doc James|&lt;span style=&quot;color:#0000f1&quot;&gt;'''Doc James'''&lt;/span&gt;]] ([[User talk:Doc James|talk]] · [[Special:Contributions/Doc James|contribs]] · [[Special:EmailUser/Doc James|email]]) 13:12, 23 October 2015 (UTC)
+
+== Revisions and Added sections ==
+
+Took the liberty to revise and reorganize the article. Revisions included updating and re-organizing the drug indications, drug interactions, general adverse effects, adverse reactions in pregnancy and the overdose sections. Also cleaned up the grammar and syntax of the article to keep it more concise and improve word flow. Lastly added a new section for adverse effects in the elderly. [[User:Laurelcarmichael25|Laurelcarmichael25]] ([[User talk:Laurelcarmichael25|talk]]) 19:21, 5 November 2015 (UTC)
+
+== Peer Review ==
+
+'''1. Does the article provide a neutral point of view?''' Yes. The article is written in an objective manner and it doesn’t have opinions or thoughts of the authors. 
+
+'''2. Are the points included verifiable with cited published material?'''  See below for recommendations.
+
+'''3. What recommendations can you provide your colleague for improvement of their draft'''? 
+* Clarify use in pregnancy in introduction- not only contraindicated for pregnant women with migraines. 
+* Citations: 34 + 35; missing article titles
+* Add links to “pancreatitis” and other terms on the page
+* The second paragraph at the beginning of the section needs a citation. 
+* The adverse effects section includes some medical jargon that can be improved. For example, instead of somnolence, words like sleepiness or drowsiness can be used.  Also, asthenia is a very sophisticated word to say physical weakness or lack of energy. 
+* There are some areas where the grammar could be improved.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Jennynew24|Jennynew24]] ([[User talk:Jennynew24|talk]] • [[Special:Contributions/Jennynew24|contribs]]) 19:39, 9 November 2015 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Can we have info on typical dosing levels and how the side effect incidence relate to dose ==
+
+The adverse effects list gives % incidence but does not state what doses or conditions being treated these relate to. What dose ranges are used for different indications ? At what dosage are the pregnancy effects reported (since it advises to reduce dosage in pregnancy) ? - [[User:Rod57|Rod57]] ([[User talk:Rod57|talk]]) 15:35, 9 March 2016 (UTC)
+
+==Kudos==
+Kudos to {{Ping|Doc James}}. The move from [https://en.wikipedia.org/w/index.php?title=Valproate&amp;oldid=733596010 this version] to [https://en.wikipedia.org/w/index.php?title=Valproate&amp;oldid=733624967 this version] was sheer brilliance. In retrospect I am embarrassed that I did not think of it myself. Like all genius moves it is &quot;obvious in retrospect.&quot; I look forward to emulating the move. The heart of it is that beyond straightening out the ontologic error (which is the first level of improvement, which I was analytically focused on), one can mention the various forms of something, up front, in such words (&quot;various forms&quot; etc), without explaining at that spot how they differ from each other. Which certainly comes later (versus not at all). Thus goes the next level of improvement, a pedagogical one. Thanks again. [[User:Quercus solaris|Quercus solaris]] ([[User talk:Quercus solaris|talk]]) 03:13, 9 August 2016 (UTC)
+::Thanks for picking up the oversimplification [[User:Quercus solaris]]. Glad we were able to find something that works for both of us :-) [[User:Doc James|&lt;span style=&quot;color:#0000f1&quot;&gt;'''Doc James'''&lt;/span&gt;]] ([[User talk:Doc James|talk]] · [[Special:Contributions/Doc James|contribs]] · [[Special:EmailUser/Doc James|email]]) 03:18, 9 August 2016 (UTC)</text>
+      <sha1>iicq6p5kcfy84re0xcp6wv40zxen23m</sha1>
+    </revision>
+  </page>
+</mediawiki>

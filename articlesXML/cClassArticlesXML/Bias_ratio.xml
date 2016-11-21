@@ -1,0 +1,185 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bias ratio</title>
+    <ns>0</ns>
+    <id>21200863</id>
+    <revision>
+      <id>749568892</id>
+      <parentid>747301090</parentid>
+      <timestamp>2016-11-15T00:39:52Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>1 archive template merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18470">{{Use dmy dates|date=August 2012}}
+{{Use British English|date=August 2012}}
+The '''bias ratio''' is an indicator used in [[finance]] to analyze the returns of investment portfolios, and in performing [[due diligence]].
+
+The bias ratio is a concrete metric that detects valuation bias or deliberate price manipulation of portfolio assets by a manager of a hedge fund, mutual fund or similar investment vehicle, without requiring disclosure (transparency) of the actual holdings.  This metric measures abnormalities in the distribution of returns that indicate the presence of bias in subjective pricing.  The formulation of the Bias Ratio stems from an insight into the behavior of asset managers as they address the expectations of investors with the valuation of assets that determine their performance.
+
+The bias ratio measures how far the returns from an investment portfolio – e.g. one managed by a [[hedge fund]] – are from an unbiased distribution. Thus the bias ratio of a pure [[equity index]] will usually be close to 1. However, if a fund smooths its returns using subjective pricing of illiquid assets the bias ratio will be higher.  As such, it can help identify the presence of illiquid securities where they are not expected.
+
+The bias ratio was first defined by Adil Abdulali, a risk manager at the investment firm Protégé Partners. The Concepts behind the Bias Ratio were formulated between 2001 and 2003 and privately used to screen money managers.  The first public discussions on the subject took place in 2004 at New York University's Courant Institute and in 2006 at Columbia University.&lt;ref name=&quot;Courant Study&quot;&gt;[http://www.cims.nyu.edu/events/archive/04-10-27.html Courant Institute Study]&lt;/ref&gt;&lt;ref name=&quot;Columbia Study&quot;&gt;[http://www.ieor.columbia.edu/seminars/financialengineering/2005-2006/spring/Abdulali_Adil/seminar.html Columbia University Study] {{webarchive |url=https://web.archive.org/web/20080821210723/http://www.ieor.columbia.edu/seminars/financialengineering/2005-2006/spring/Abdulali_Adil/seminar.html |date=21 August 2008 }}&lt;/ref&gt; In 2006, the Bias Ratio was published in a letter to Investors and made available to the public by [[Riskdata]], a risk management solution provider, that included it in its standard suite of analytics.
+
+The Bias Ratio has since been used by a number of Risk Management professionals to spot suspicious funds that subsequently turned out to be frauds.  The most spectacular example of this was reported in the [[Financial Times]] on 22 January 2009 titled &quot;Bias ratio seen to unmask [[Bernard Madoff|Madoff]]&quot;!&lt;ref name=&quot;FT Madoff&quot;&gt;[http://www.ft.com/cms/s/8604a934-e825-11dd-b2a5-0000779fd2ac.html Bias ratio seen to unmask Madoff (Financial Times 22 January 2009)]&lt;/ref&gt;
+
+==Explanation==
+Imagine that you are a hedge fund manager who invests in securities that are hard to value, such as [[Mortgage-backed security|mortgage-backed securities]].  Your peer group consists of funds with similar mandates, and all have track records with high [[Sharpe ratio]]s, very few down months, and investor demand from the &quot;[one per cent per month]&quot; crowd.  You are keenly aware that your potential investors look carefully at the characteristics of returns, including such calculations as the percentage of months with negative and positive returns.
+
+Furthermore, assume that no pricing service can reliably price your portfolio, and the assets are often [[sui generis]] with no quoted market.  In order to price the portfolio for return calculations, you poll dealers for prices on each security monthly and get results that vary widely on each asset.  The following real-world example illustrates this theoretical construct.
+
+&lt;!-- Deleted image removed: [[File:BiasRatioTable1.png|thumb|right|400px|Table 1]] --&gt;
+When pricing this portfolio, standard market practice allows a manager to discard outliers and average the remaining prices.  But what constitutes an outlier?  Market participants contend that outliers are difficult to characterize methodically and thus use the heuristic rule &quot;you know it when you see it.&quot;  Visible outliers consider the particular security’s characteristics and liquidity as well as the market environment in which quotes are solicited.  After discarding outliers, a manager sums up the relevant figures and determines the [[net asset value]] (&quot;NAV&quot;).  Now let’s consider what happens when this NAV calculation results in a small monthly loss, such as -0.01%.  Lo and behold, just before the CFO publishes the return, an aspiring junior analyst notices that the pricing process included a dealer quote 50% below all the other prices for that security.  Throwing out that one quote would raise the monthly return to +0.01%.
+
+A manager with high integrity faces two pricing alternatives.  Either the manager can close the books, report the -0.01% return, and ignore new information, ensuring the consistency of the pricing policy (Option 1) or the manager can accept the improved data, report the +0.01% return, and document the reasons for discarding the quote (Option 2).
+
+&lt;!-- Deleted image removed: [[File:BiasRatioFigure1.png|thumb|right|400px|Figure 1]] --&gt;
+The smooth blue [[histogram]] represents a manager who employed Option 1, and the kinked red histogram represents a manager who chose Option 2 in those critical months.  Given the proclivity of Hedge Fund investors for consistent, positive monthly returns, many a smart businessman might choose Option 2, resulting in more frequent small positive results and far fewer small negative ones than in Option 1.  The &quot;reserve&quot; that allows &quot;false positives&quot; with regularity is evident in the unusual hump at the -1.5 Standard Deviation point.  This psychology is summed up in a phrase often heard on trading desks on Wall Street, &quot;let us take the pain now!&quot;  The geometry of this behavior in figure 1 is the area in between the blue line and the red line from -1σ to 0.0, which has been displaced, like toothpaste squeezed from a tube, farther out into negative territory.
+
+By itself, such a small cover up might not concern some beyond the irritation of misstated return volatility.  However, the empirical evidence that justifies using a &quot;Slippery Slope&quot; argument here includes almost every mortgage backed fund that has blown up because of valuation problems, such as the Safe Harbor  fund, and equity funds such as the Bayou fund.   Both funds ended up perpetrating outright fraud born from minor cover ups.  More generally, financial history has several well-known examples where hiding small losses eventually led to fraud such as the [[Sumitomo copper affair]] as well as the demise of [[Barings Bank]].
+
+==Mathematical formulation==
+Although the hump at -σ is difficult to model, behavior induced modifications manifest themselves in the shape of the return histogram around a small neighborhood of zero.  It is approximated by a straightforward formula.
+
+Let: [0, +σ] = the closed interval from zero to +1 standard deviation of returns (including zero)
+
+Let: [-σ, 0) = the half open interval from -1 standard deviation of returns to zero (including -σ and excluding zero)
+
+Let:
+:&lt;math&gt;r_i = &lt;/math&gt; return in month i, 1 ≤ i ≤ n, and n = number of monthly returns
+
+Then: 
+:&lt;math&gt;\mathrm{Bias\ Ratio} = \mathrm{BR} = \frac{\mathrm{Count} (r_i | r_i \in [0, \sigma]  )}{1+\mathrm{Count}(r_i | r_i \in [-\sigma, 0))}  &lt;/math&gt;
+
+The Bias Ratio roughly approximates the ratio between the area under the return histogram near zero in the first quadrant and the similar area in the second quadrant.  It holds the following properties:
+
+: a. &lt;math&gt; 0 \leq \mathrm{BR} \leq n &lt;/math&gt;
+
+: b. If &lt;math&gt; r_i \leq 0,  \forall{i}, &lt;/math&gt;  then BR = 0
+
+: c. If &lt;math&gt;\forall{r_i} &lt;/math&gt;  such that &lt;math&gt; r_i &gt; 0,\ r_i &gt; 1.0 \sigma &lt;/math&gt; then BR = 0
+
+: d. If the distribution &lt;math&gt; r_i &lt;/math&gt; is Normal with mean = 0, then BR approaches 1 as n goes to infinity.
+
+The Bias Ratio defined by a 1σ interval around zero works well to discriminate amongst hedge funds.  Other intervals provide metrics with varying resolutions, but these tend towards 0 as the interval shrinks.
+
+==Examples and Context==
+
+===Natural Bias Ratios of asset returns===
+
+&lt;!-- Deleted image removed: [[File:BiasRatioTable2.png|thumb|right|400px|Table 2]] --&gt;
+The Bias Ratios of market and hedge fund indices gives some insight into the natural shape of returns near zero.  Theoretically one would not expect demand for markets with [[normal distribution|normally distributed]] returns around a zero mean.  Such markets have distributions with a Bias Ratio of less than 1.0.  Major market indices support this intuition and have Bias Ratios generally greater than 1.0 over long time periods.  The returns of equity and fixed income markets as well as [[Alpha (investment)|alpha generating strategies]] have a natural positive skew that manifests in a smoothed return histogram as a positive slope near zero.  [[Fixed income|Fixed income strategies]] with a relatively constant positive return (&quot;carry&quot;) also exhibit total return series with a naturally positive slope near zero.  Cash investments such as 90-day [[T-bills#Treasury bill|T-Bills]] have large Bias Ratios, because they generally do not experience periodic negative returns.  Consequently, the Bias Ratio is less reliable for the theoretic hedge fund that has an un-levered portfolio with a high cash balance.
+Due diligence, due to the inverted x and y axes, involves manipulation and instigation and extortion etc.
+
+==Contrast to other metrics==
+
+===Bias Ratios vs. Sharpe Ratios===
+Since the Sharpe Ratio measures risk-adjusted returns, and valuation biases are expected to understate volatility, one might reasonably expect a relationship between the two.  For example, an unexpectedly high Sharpe Ratio may be a flag for skeptical practitioners to detect smoothing .  The data does not support a strong statistical relationship between a high Bias Ratio and a high Sharpe Ratio.  High Bias Ratios exist only in strategies that have traditionally exhibited high Sharpe Ratios, but plenty of examples exist of funds in such strategies with high Bias Ratios and low Sharpe Ratios.  The prevalence of low Bias Ratio funds within all strategies further attenuates any relationship between the two.
+
+===Serial correlation===
+Hedge fund investors use serial correlation to detect smoothing in hedge fund returns.  Market frictions such as transaction costs and information processing costs that cannot be arbitraged away lead to serial correlation, as well as do stale prices for illiquid assets.  Managed prices are a more nefarious cause for serial correlation.  Confronted with illiquid, hard to price assets, managers may use some leeway to arrive at the fund’s NAV.  When returns are smoothed by marking securities conservatively in the good months and aggressively in the bad months a manager adds serial correlation as a side effect.  The more liquid the fund’s securities are, the less leeway the manager has to make up the numbers.
+
+The most common measure of serial correlation is the [[Ljung–Box test|Ljung-Box Q-Statistic]].   The p-values of the Q-statistic establish the significance of the serial correlation.   The Bias Ratio compared to the serial correlation metric gives different results.
+
+[[File:BiasRatioTable3.png|thumb|right|400px|Table 3]]
+Serial correlations appear in many cases that are likely not the result of willful manipulation but rather the result of stale prices and illiquid assets.  Both Sun Asia and Plank  are emerging market hedge funds for which the author has full transparency and whose NAVs are based on objective prices.  However, both funds show significant serial correlation.  The presence of serial correlation in several market indices such as the JASDAQ and the SENSEX argues further that serial correlation might be too blunt a tool for uncovering manipulation.  However the two admitted frauds, namely Bayou, an Equity fund and Safe Harbor, an MBS fund (Table IV shows the critical Bias Ratio values for these strategies) are uniquely flagged by the Bias Ratio in this sample set with none of the problems of false positives suffered by the serial correlation metric. The Bias Ratio’s unremarkable values for market indices, adds further credence to its effectiveness in detecting fraud.
+
+==Practical thresholds==
+[[File:BiasRatioFigure2.png|thumb|right|400px|Figure 2]] 
+Hedge fund strategy indices cannot generate benchmark Bias Ratios because aggregated monthly returns mask individual manager behavior.  All else being equal, managers face the difficult pricing options outlined in the introductory remarks in non-synchronous periods, and their choices should average out in aggregate.  However, Bias Ratios can be calculated at the manager level and then aggregated to create useful benchmarks.
+
+[[File:BiasRatioTable4.png|thumb|right|500px|Table 4]]
+Strategies that employ [[illiquid asset]]s can have Bias Ratios with an order of magnitude significantly higher than the Bias Ratios of indices representing the underlying asset class.  For example, most equity indices have Bias Ratios falling between 1.0 and 1.5.  A sample of equity hedge funds may have Bias Ratios ranging from 0.3 to 3.0 with an average of 1.29 and standard deviation of 0.5.  On the other hand, the Lehman Aggregate [[Mortgage-backed security|MBS]] Index had a Bias Ratio of 2.16, while MBS hedge funds may have Bias Ratios from a respectable 1.7 to an astounding 31.0, with an average of 7.7 and standard deviation of 7.5.
+
+==Uses and limitations==
+Ideally, a Hedge Fund investor would examine the price of each individual underlying asset that comprises a manager’s portfolio.  With limited transparency, this ideal falls short in practice, furthermore, even with full transparency, time constraints prohibit the plausibility of this ideal, rendering the Bias Ratio more efficient to highlight problems.  The Bias Ratio can be used to differentiate among a universe of funds within a strategy.  If a fund has a Bias Ratio above the median level for the strategy, perhaps a closer look at the execution of its pricing policy is warranted; whereas, well below the median might warrant only a cursory inspection.
+
+The Bias Ratio is also useful to detect illiquid assets forensically. The table above offers some useful benchmarks.  If a database search for Long/Short Equity managers reveals a fund with a reasonable history and a Bias Ratio greater than 2.5, detailed diligence will no doubt reveal some fixed income or highly illiquid equity investments in the portfolio.
+
+The Bias Ratio gives a strong indication of the presence of a) illiquid assets in a portfolio combined with b) a subjective pricing policy.  Most of the valuation-related hedge fund debacles have exhibited high Bias Ratios.  However, the converse is not always true.  Often managers have legitimate reasons for subjective pricing, including restricted securities, Private Investments in [[public equities]], and deeply distressed securities.  Therefore, it would be unwise to use the Bias Ratio as a stand-alone due diligence tool.  In many cases, the author has found that the subjective policies causing high Bias Ratios also lead to &quot;conservative&quot; pricing that would receive higher grades on a &quot;prudent man&quot; test than would an un-biased policy.  Nevertheless, the coincidence of historical blow-ups with high Bias Ratios encourages the diligent investor to use the tool as a warning flag to investigate the implementation of a manager’s pricing policies.
+
+==See also==
+* [[Omega ratio]]
+* [[Sharpe ratio]]
+* [[Treynor ratio]]
+* [[Jensen's alpha]]
+* [[Sortino ratio]]
+* [[Beta (finance)]]
+* [[Modern portfolio theory]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+
+* [[Eric Weinstein|Weinstein, Eric]]; [[Adil Abdulali|Abdulali, Adil]], [http://www.eric-weinstein.net/Papers/Weinstein_Abdulali_RISK_Vol_15_No._6_June.2002.pdf &quot;Hedge fund transparency: quantifying valuation bias for illiquid assets&quot;, June 2002, Risk.]
+* [[Adil Abdulali|Abdulali, Adil]]; [[Leslie Rahl|Rahl, Leslie]]; [[Eric Weinstein|Weinstein, Eric]], [http://www.eric-weinstein.net/Papers/Nuisance_of_Translucence.pdf &quot;Phantom Prices &amp; Liquidity: The Nuisance of Translucence&quot;, 2002, AIMA.]
+* [https://www.riskdata.com/resource-centre-papers/bias-ratio-indicator/ Bias Ratio: Detecting Hedge-Fund Return Smoothing]
+* [https://www.riskdata.com/resource-centre-papers/madoff-case/ The Madoff Case: Quantitative Beats Qualitative!]
+* [http://www.wallstreetandtech.com/trading-technology/risk-indicator-detects-when-hedge-funds-trading-illiquid-securities-are-smoothing-returns/d/d-id/1258759? Risk Indicator Detects When Hedge Funds Trading Illiquid Securities Are Smoothing Returns, WallStreet &amp; Technology]
+* [http://www.businesswire.com/news/home/20070629005242/en/Riskdata-Research-Shows-30-Funds-Trading-Illiquid Riskdata Research Shows That 30% of Funds Trading Illiquid Securities Smooth Their Returns, Business Wire]
+* [https://www.riskdata.com/ Riskdata]
+* Pension Risk Matters [http://www.pensionriskmatters.com/tags/bias-ratio]
+* [[Mila Getmansky|Getmansky, Mila]]; [[Andrew Lo|Lo, Andrew]]; [[Igor Makarov (economist)|Makarov, Igor]]; &quot;An Econometric Model of Serial Correlation and Illiquidity In Hedge Fund Returns&quot;, 2003, NBER Working Paper No. w9571 Issued in March 2003.)
+* [[Cliff Asness|Asness, Clifford S.]]; [[Robert J. Krail|Krail, Robert J.]]; [[John M. Liew|Liew, John M.]], &quot;Alternative Investments: Do Hedge Funds Hedge?&quot;, 2001, Journal of Portfolio Management, Volume 28, Number 1.
+* SEC Litigation Release No. 18950, 28 October 2004
+* SEC Litigation Release No. 19692, 9 May 2006
+* [[Andrew Weisman|Weisman, Andrew]], &quot;Dangerous Attractions: Informationless Investing and Hedge Fund Performance Measurement Bias&quot;, 2002, Journal of Portfolio Management.
+* [[Andrew Lo|Lo, Andrew W.]]; &quot;Risk Management For Hedge Funds: Introduction and Overview&quot;, White Paper, June, 2001.
+* [[G.M. Ljung|Ljung, G.M.]]; [[G.E.P. Box|Box, G.E.P.]]; &quot;On a measure of lack of fit in time series models&quot;, Biometrika, 65, 2, pp.&amp;nbsp;297–303. 1978.
+* Chan, Nicholas; [[Mila Getmansky|Getmansky, Mila]]; [[Shane M. Haas|Haas, Shane M.]]; [[Andrew Lo|Lo, Andrew]]; &quot;Systemic Risk and Hedge Funds&quot;, 2005, NBER Draft, 1 August 2005.
+* [[Peter Urbani|Urbani, Peter]], [https://www.academia.edu/6135263/Benford_Bias_Ratio_VBA_2014 &quot;Bias Ratio in Excel and VBA]
+
+
+[[Category:Financial ratios]]</text>
+      <sha1>sshxzzumh2llllfnxnjz802691qrsr7</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,82 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:St Padarn's Church, Llanbadarn Fawr</title>
+    <ns>1</ns>
+    <id>20098954</id>
+    <revision>
+      <id>675351045</id>
+      <parentid>673329139</parentid>
+      <timestamp>2015-08-10T01:43:42Z</timestamp>
+      <contributor>
+        <username>LT910001</username>
+        <id>18974729</id>
+      </contributor>
+      <comment>mark PR as closed</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2275">{{Old peer review|archive = 1}}
+{{Connected contributor|Ncox|Noel Cox|here=yes|declared=no|otherlinks=}}
+{{WikiProject Wales|class=A|importance=mid}}
+{{ChristianityWikiProject|class=A|importance=low|anglicanism=yes|anglicanism-importance=low}}
+
+==comment==
+I've extensively rewritten this article, using original research (by which as I explain later, I've used secondary sources that weren't referred to previously), where possible - I am curate at this church, so it is in my jurisdiction, as it were.[[User:Ncox|Ncox]] ([[User talk:Ncox|talk]]) 15:51, 11 April 2015 (UTC)
+
+== Original research ==
+
+The article itself specifies that it includes original research. There are also a number of weasel words, such as &quot;It is possibly the second most important church,&quot; and uncited areas.
+
+I have added a declaration of interest box for [[User talk:Ncox|Noel Cox]], and some citation needed tags... I'm going to look at some other content now, as this is the second article of Noel's that I've tagged, and I don't want to give the impression that I'm following one particular person! [[Special:Contributions/86.181.149.124|86.181.149.124]] ([[User talk:86.181.149.124|talk]]) 19:04, 4 May 2015 (UTC)
+
+I have added in-line citations. There is no original research in the Wikipedia sense, I simply meant that I had drawn together a number of disparate secondary sources, some of what hadn't been used for the history of this church. I do have an interest in the church as I work there, but I think you will find that the article is fully reference and does not have anything that could be said to be inaccurate, contentious or otherwise inappropriate.[[User:Ncox|Ncox]] ([[User talk:Ncox|talk]]) 12:03, 5 May 2015 (UTC)
+
+I would be grateful for an explanation of how this page can be &quot;rated as Stub-Class on the project's quality scale&quot;.[[User:Ncox|Ncox]] ([[User talk:Ncox|talk]]) 16:11, 5 May 2015 (UTC)
+
+:{{ping|Ncox}} I've upgraded this to A-class. I think you should consider nominating it for Peer Review (I would be happy to do the reviewing) and later for Featured status. [[User:Ham II|Ham II]] ([[User talk:Ham II|talk]]) 06:27, 13 June 2015 (UTC) Thank you. I have requested a review as you suggested[[User:Ncox|Ncox]] ([[User talk:Ncox|talk]]) 15:27, 13 June 2015 (UTC)</text>
+      <sha1>etw84q42p40erwcdm86f9u6mdls0s26</sha1>
+    </revision>
+  </page>
+</mediawiki>

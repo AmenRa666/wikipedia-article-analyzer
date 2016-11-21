@@ -1,0 +1,89 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Holy Piby</title>
+    <ns>0</ns>
+    <id>699597</id>
+    <revision>
+      <id>745619723</id>
+      <parentid>730018736</parentid>
+      <timestamp>2016-10-22T07:28:18Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3394">{{italic title}}
+{{Rastafari}}
+The '''''Holy Piby''''' is a proto-[[Rastafari movement|Rastafari]] text written by an [[Anguilla]]n, [[Robert Athlyi Rogers]] (d. 1931), for the use of an [[Afrocentric]] [[religion]] in the [[West Indies]] founded by Rogers in the 1920s, known as the [[Afro-Athlican Constructive Gaathly]]. The [[theology]] outlined in this work saw [[Ethiopia]]ns (in the classical sense of all Africans) as the chosen people of God. The church preached self-reliance and self-determination for Africans, using the Piby as its guiding document.
+
+The ''Holy Piby'' is made up of four books. The first, entitled &quot;The First Book of Athlyi Called Athlyi&quot;, has only two chapters. The next, &quot;The Second Book of Athlyi Called Aggregation&quot;, is the largest, with fifteen chapters, the seventh of which identifies [[Marcus Garvey]]&lt;ref&gt;[http://www.sacred-texts.com/afr/piby/piby12.htm Marcus Garvey], [[Internet Sacred Text Archive]] , Last Accessed May 24, 2007.&lt;/ref&gt; as one of three apostles of God. The &quot;Third Book of Athlyi Named The Facts of the Apostles&quot; presents two prominent members of the [[UNIA-ACL]], [[Robert Lincoln Poston]]&lt;ref&gt;[http://www.sacred-texts.com/afr/piby/piby21.htm Apostles Anointed], [[Internet Sacred Text Archive]] , Last Accessed May 24, 2007.&lt;/ref&gt; and [[Henrietta Vinton Davis]],&lt;ref&gt;[http://www.sacred-texts.com/afr/piby/piby22.htm#fr_4 God spoke to his Apostles], [[Internet Sacred Text Archive]] , Last Accessed May 24, 2007.&lt;/ref&gt; as the other apostles in the [[Holy Trinity]]. The title of the last book is &quot;The Fourth Book of Athlyi Called Precaution&quot;. That book is followed by a series of [[catechism]]-style questions and answers wherein Garvey, Davis and Poston are proclaimed to be the saviors of the &quot;down trodden children of [[Ethiopia]]&quot;.
+
+Together with the ''[[Royal Parchment Scroll of Black Supremacy]]'' by [[Fitz Balintine Pettersburg]] and [[Leonard P. Howell]]'s ''[[The Promise Key]]'', the ''Holy Piby'' is today recognized as a root document of Rastafari thought.&lt;ref name=&quot;Price2009&quot;&gt;{{cite book|author=Charles Price|title=Becoming Rasta: Origins of Rastafari Identity in Jamaica|url=https://books.google.com/books?id=OC399TZD2BwC&amp;pg=PA49|year=2009|publisher=NYU Press|isbn=978-0-8147-6768-9|pages=48–49}}&lt;/ref&gt;  While not strictly speaking a &quot;Rastafari text&quot;, it was certainly a primary source of influence to many in the [[Rastafari movement]], who see His Imperial Majesty, [[Haile Selassie I|Emperor Haile Selassie I of Ethiopia]], as [[Christ]] (or rather, his [[second coming]]). Some Rastafari see Emperor Haile Selassie I as Christ in His Kingly Character as written in the [[Book of Revelation]], Chapter 5 and Marcus Mosia Garvey, as a [[prophet]].
+
+The original edition of the ''Holy Piby'' was published in the United States, at [[Newark, New Jersey]], in 1924. It is very rare. There are no copies listed in either the [[Library of Congress]] nor the [[University of California]] catalogs. 
+
+The ''Holy Piby'' was banned in [[Jamaica]] and other Caribbean Islands in the middle and late 1920s.{{Citation needed|date=September 2015}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.sacred-texts.com/afr/piby/index.htm Electronic text of the ''Holy Piby'' at sacred-texts.com]
+
+[[Category:Rastafarian texts]]
+[[Category:Anguillan culture]]
+
+[[Category:1924 books]]
+
+{{Reli-book-stub}}
+{{Anguilla-stub}}</text>
+      <sha1>rvp9cflknrtok37pnqyi5sof2od8mo9</sha1>
+    </revision>
+  </page>
+</mediawiki>

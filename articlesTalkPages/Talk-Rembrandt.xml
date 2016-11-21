@@ -1,0 +1,207 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Rembrandt</title>
+    <ns>1</ns>
+    <id>26231</id>
+    <revision>
+      <id>722914010</id>
+      <parentid>722913894</parentid>
+      <timestamp>2016-05-30T21:52:40Z</timestamp>
+      <contributor>
+        <ip>2601:903:0:2BC0:DC9:C3EB:FD60:7204</ip>
+      </contributor>
+      <comment>/* Selection */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11802">{{Talk header}}
+{{ArticleHistory
+|action1=RBP
+|action1date=January 19,2004
+|action1link=Wikipedia:Archive/Refreshing_brilliant_prose_-_People_and_culture
+|action1result=kept
+|action1oldid=2806633
+|action2=FAR
+|action2date=February 16,2005
+|action2link=Wikipedia:Featured_article_removal_candidates/Rembrandt
+|action2result=demoted
+|action2oldid=10677327
+|action3=GAN
+|action3date=October 4, 2007
+|action3link=Talk:Rembrandt#GA Review
+|action3result=Listed
+|action3oldid=162152308
+|currentstatus=FFA/GA
+|maindate=May 24,2004
+|topic=art
+}}
+{{OnThisDay|date1=2004-07-15|oldid1=4662561|date2=2006-07-15|oldid2=63914028}}
+{{Vital article|level=3|topic=People|class=GA}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=no|class=GA|a&amp;e-priority=Top|core=yes|a&amp;e-work-group=yes|listas=Rembrandt}}
+{{WP1.0|class=GA|importance=top|category=Arts|v0.5=pass|VA=yes|WPCD=yes}}
+{{WikiProject Netherlands|class=GA}}[[category:Netherlands Todays FA]]
+{{WikiProject Visual arts|class=GA}}
+}}
+{{onlinesource
+| year=2004
+| section=September
+| author=Randy Dotinga
+| title=Did Walleye Make Rembrandt a Master?
+| org=HealthDay
+| date=[[September 15]], [[2004]]
+| url=http://www.healthcentral.com/news/NewsFullText.cfm?id=521230
+}}
+{{User:MiszaBot/config 
+| archive             = Talk:Rembrandt/Archive %(counter)d
+| algo                = old(90d)
+| counter             = 1
+| maxarchivesize      = 70K
+| minthreadsleft      = 5
+| minthreadstoarchive = 1
+| archiveheader       = {{talk archive navigation}}
+}}
+{{Auto archiving notice|bot=Lowercase sigmabot III|age=90|units=days}}
+
+== Listing External Link ==
+
+I would like to add our company link to your Rembrandt External Links. 
+
+We represent the complete collection of Rembrandt etchings by Amand-Durand, featuring Rembrandt's self portraits, landscapes, biblical scenes and other portraiture. Our website is www.rembrandtart.com.
+
+
+Thank You, www.rembrandtart.com
+
+
+----
+
+Why is the article located at [http://www.anthonychristian.co.uk/ezine14.html www.anthonychristian.co.uk/ezine14.html] not relevant enough to be included in the external links?  
+
+It is written by a very well known art-historian and makes the interesting point that Rembrandt did, in fact, use impressionist techniques 400 years before the impressionist movement.
+
+Mike Hannon 22.05.06
+
+----
+
+==Suggestion==
+
+[[The European Library]] presents more than 150 online objects of or related to [http://www.theeuropeanlibrary.org/portal/?lang=en&amp;coll=collections:a0027&amp;q=(&quot;rembrandt+&quot;)&amp;pos=3&amp;src=SE Rembrandt]
+
+== 4 or 5 pictures per row + new additions  ==
+[[File:51001.jpg|thumb|'' Young Girl at the Window'', Hendrickje, 1651 REMOVED]]
+As it is now with 4 pictures per row + additions we have a gallery that has 12 rows + the drawings,= that makes it '''15 rows'''! - and  that is an '''enormous''' gallery. Before, with 5  pictures per row  we had a gallery that was 6 rows + the drawings. I strongly oppose these changes, they are not an improvment. 
+
+I like pictures and galleries but one has to make a selection, and this supposed to be a good article. 12 rows plus the drawings it is just a big, giant, and even more unselected gallery as it was before, with a lot of pictures that are NOT famous or representative for Rembrandt. Themes are repeating themselves, a good deal of the new pictures are unsignificant works, their visibility is extra bad due to the small size and the dark quality of Rembrandts works.  When we were talking about the gallery, above,  were talkig removing a few '''more pictures''', not adding some new   pictures.  If not getting any response, (as usual) start an Rcf, soon.  [[User:Hafspajen|Hafspajen]] ([[User talk:Hafspajen|talk]]) 13:11, 13 July 2014 (UTC)
+:Agree; I've trimmed 3 rows I think. How over 4 per row works on smaller screens etc I'm not sure. Otherwise I'm in favour. [[User:Johnbod|Johnbod]] ([[User talk:Johnbod|talk]]) 14:18, 13 July 2014 (UTC)
+::That looks fine...[[User:Modernist|Modernist]] ([[User talk:Modernist|talk]]) 14:21, 13 July 2014 (UTC)
+If we take 3 per row, we will have even more rows, it will be long-long and small. We must select the pictures that are representative and look good in the gallery. [[User:Hafspajen|Hafspajen]] ([[User talk:Hafspajen|talk]]) 14:24, 13 July 2014 (UTC)
+:Aside from the fact that I added a few very important paintings including his first painting - Rembrandt is one of the most important painters in European art history - get off it...Try reading this:[[WP:OWN]]...[[User:Modernist|Modernist]] ([[User talk:Modernist|talk]]) 14:31, 13 July 2014 (UTC)
+::Now, now, exacly when I thought we were having a civilized discussion here.  Hendrickje, that was his second - woman, we can't remove her. And his first picture it doesn't look much in the gallery, it probably looks better in the article, if we have to have that one. Try reading  [[WP:OWN]] yourself, it is you who take things personally. And [[WP:POLITE]] too.  I don't care about ownership, I care about quality. I  know very well that Rembrandt is one of the most important painters in European art history, that is why we have to make it good. I read enought art history to know that. As long as the changes are for the better, fine. [[User:Hafspajen|Hafspajen]] ([[User talk:Hafspajen|talk]]) 14:34, 13 July 2014 (UTC)
+:::Make a section of early paintings and since the first painting also includes a self-portrait; write that up as well; and remove it from the gallery. I think the article is fine right now...[[User:Modernist|Modernist]] ([[User talk:Modernist|talk]]) 14:39, 13 July 2014 (UTC)
+::Well, for example, that is a good idea. [[User:Hafspajen|Hafspajen]] ([[User talk:Hafspajen|talk]]) 14:42, 13 July 2014 (UTC)
+:::Try it...[[User:Modernist|Modernist]] ([[User talk:Modernist|talk]]) 14:43, 13 July 2014 (UTC)
+..No, I will NOT. I know quite a lot about art history and I am an academic but English is not my first language. I can write that kind of things in Swedish, but in English, that will not work well - '''but''' that doesn't mean that I am not good at arts, because I am. And some of the Rembrand that I added were pictures  which, while not particularly well known, were none the less wonderful examples of Rembrandt's art. This kind of things I can judge. &lt;sup&gt;And I probably can write better in English than you in Swedish.&lt;/sup&gt; [[User:Hafspajen|Hafspajen]] ([[User talk:Hafspajen|talk]]) 14:51, 13 July 2014 (UTC)
+[[File:Rembrandt Harmensz van Rijn - Ahasuerus, Haman and Esther - Google Art Project.jpg|thumb|540px|''Ahasuerus and Haman at the [[Feast of Esther]]'', 1660 - THIS LOOKS GOOD AT BIG SIZE BUT SHOWS NOTHING IN GALLERY.]]
+[[File:Rembrandt Harmensz van Rijn - Ahasuerus, Haman and Esther - Google Art Project.jpg|thumb|300px|''Ahasuerus and Haman at the [[Feast of Esther]]'', 1660 - THIS LOOKS GOOD AT BIG SIZE BUT SHOWS NOTHING IN GALLERY.]]
+[[File:Rembrandt Harmensz van Rijn - Ahasuerus, Haman and Esther - Google Art Project.jpg|thumb|''Ahasuerus and Haman at the [[Feast of Esther]]'', 1660 - THIS LOOKS GOOD AT BIG SIZE BUT not quite at thumb size .]]
+&lt;gallery widths=&quot;140px&quot; heights=&quot;140px&quot; perrow= &quot;5&quot; caption= &quot;&quot;&gt;
+File:Buitenlandse admiraal.jpg|Like these|REMOVED
+File:Rembrandt Harmensz. van Rijn 082.jpg|REMOVED
+File:Rembrandt Harmenszoon van Rijn - An Old Man in Red.JPG|REMOVED
+File:51001.jpg|'' Young Girl at the Window'', REMOVED
+&lt;/gallery&gt;
+These are not so good reproductions for small size -  but are in the gallery. 
+&lt;gallery widths=&quot;140px&quot; heights=&quot;140px&quot; perrow= &quot;5&quot; caption= &quot;&quot;&gt;
+File:Rembrandt Harmensz van Rijn - Ahasuerus, Haman and Esther - Google Art Project.jpg|''Ahasuerus and Haman at the [[Feast of Esther]]'', 1660 - THIS LOOKS GOOD AT BIG SIZE BUT SHOWS NOTHING IN GALLERY. 
+Image:Rembrandt Harmensz. van Rijn 041.jpg|''The Blinding of Samson'', 1636, which Rembrandt gave to Huyghens THIS ONE IS A RATHER POOR QUALITY FILE. 
+&lt;/gallery&gt;
+One has to think over certain paintings placement, shall it be in the gallery, or not. Shall it be in the article or create a single row of a  possible bigger gallery? As someone said: putting together galleries that look good takes a lot of work. Jamming together every picture  after a timeline is not always best.  You need to choose high quality images that sit well together and  you need to arrange them as if you were hanging works in a real gallery. - [[User:Hafspajen|Hafspajen]] ([[User talk:Hafspajen|talk]]) 15:15, 13 July 2014 (UTC)
+
+::OK; hope I explained how I was thinking, and sorry if i was a bit sharp, but it is not so nice to hear ''one of the most important painters in European art history - get off it.'' - I am good at art articles in my own way, and can help. [[User:Hafspajen|Hafspajen]] ([[User talk:Hafspajen|talk]]) 17:15, 13 July 2014 (UTC)
+{{-}}
+==Selection==
+I am not entirely satisfied with our selection of his works. We say: '''''Having achieved youthful success as a portrait painter, Rembrandt's later years were marked by personal tragedy and financial hardships. Yet his etchings and paintings were popular throughout his lifetime, his reputation as an artist remained high ... Rembrandt's greatest creative triumphs are exemplified especially in his portraits of his contemporaries, self-portraits and illustrations of scenes from the Bible.''''' Well, selfportraits we have to many of in the gallery  really, but we removed portraits lately. We should have more portraits, more organized after themes and not entirely  timeline, more - of the great works he had, genre painting, portraits, and so on. 
+
+Just as Nabokov had no use for social, moral or political advocacy in art, he was equally disinterested in classifying art by themes or generalities, looking instead into the details of a work of art in order to extract its essence.  
+
+ 
+&lt;gallery widths=&quot;170px&quot; heights=&quot;170px&quot; perrow=&quot;5&quot;&gt;
+File:Rembrandt (Rembrandt van Rijn) - A Woman in Bed - Google Art Project - cropped.jpg
+File:Rembrandt van Rijn - Agatha Bas (1611-58) - Google Art Project.jpg 
+
+File:Rembrandt Harmensz. van Rijn, Dutch (active Leiden and Amsterdam) - Head of Christ - Google Art Project.jpg
+File:Rembrandt Harmensz. van Rijn (Dutch - St. Bartholomew) - Google Art Project.jpg|St. Bartholomew, 1661
+
+
+
+File:51001.jpg|'' Young Girl at the Window'', 
+
+File:Rembrandt, De roerdompjager, 1639, Gemäldegalerie Alte Meister, Dresden.jpg
+File:Buitenlandse admiraal.jpg|
+
+File:Scholar at his desk (1631), by Rembrandt van Rijn.jpg
+File:Rembrandt Two old men disputing 1628.jpg
+
+File:Possibly Rembrandt or workshop - Self-portrait - WGA07937.jpg|Even our selfportraits are many the same composition - this has a different theme.
+
+&lt;/gallery&gt;
+[[User:Hafspajen|Hafspajen]] ([[User talk:Hafspajen|talk]]) 20:05, 17 July 2014 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[Rembrandt]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=699887703 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20070929010501/http://www.westernciv.com/courses/2004/noeuart.shtml to http://www.westernciv.com/courses/2004/noeuart.shtml
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 01:20, 15 January 2016 (UTC)</text>
+      <sha1>qgj6t6mgnrdtzdzwj7dxykbtpzyjj19</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,238 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Pitsunda</title>
+    <ns>0</ns>
+    <id>2294180</id>
+    <revision>
+      <id>748130435</id>
+      <parentid>741902230</parentid>
+      <timestamp>2016-11-06T14:28:30Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* History */clean up; http&amp;rarr;https for [[Google Books]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11833">{{Infobox settlement
+|name                   = Pitsunda
+|native_name            = {{lang|ka|ბიჭვინთა}} &lt;small&gt;{{ge icon}}&lt;/small&gt;&lt;br/&gt;{{lang|ab|Пиҵунда}} &lt;small&gt;{{ab icon}}&lt;/small&gt;
+|other_name             = Bichvinta
+|image_skyline          = Ridge view from pitsunda cape.jpg
+|image_caption          = The view of Caucasus mountains from Pitsunda cape.
+|image_map=  	Picunda.svg
+|pushpin_map            = Georgia 
+|mapsize                = 
+|map_caption            = Location of Pitsunda
+|coordinates_display    = inline,title
+|subdivision_type       = [[List of states with limited recognition|Country]]
+|subdivision_name       = [[Georgia (country)|Georgia]] ([[Abkhazia]]&lt;ref name=status group=note/&gt;)
+|subdivision_name1      = [[Gagra District|Gagra]]
+|leader_title           = [[Mayor of Pitsunda|Mayor]]
+|leader_name            = [[Chingis Bigvava]]&lt;ref name=apress13366/&gt;
+|leader_title2          = Deputy Mayor
+|leader_name2           = [[Beslan Smyr]]&lt;ref name=gcity-admin&gt;{{cite web|title=Администрация городов, сёл и посёлков Гагрского района|url=http://gagra.biz/administratsiya/administratsiya-gorodov-sjol-i-posjolkov-gagrskogo-rajona|publisher=[[Gagra District]] Administration|accessdate=28 May 2012}}&lt;/ref&gt;
+|established_title      =
+|established_date       = 
+|area_total_km2         = 
+|area_footnotes         = 
+|population_as_of       = 
+|population_total       = 
+|population_density_km2 =
+|timezone               =
+|utc_offset             = 
+|timezone_DST           = 
+|utc_offset_DST         = 
+|latd=43|latm=10|lats=|latNS=N
+|longd=40|longm=20|longs=|longEW=E
+|elevation_m            = 
+|area_code              =
+|blank_name             = [[Köppen climate classification|Climate]]
+|blank_info             = [[Humid subtropical climate|Cfa]] 
+|website                =  http://www.pitsunda-ab.ru/
+}}
+
+'''Pitsunda''' or '''Bichvinta'''&lt;ref&gt;[[Talk:Pitsunda#Bichvinta !|Numerous sources in the discussion]]&lt;/ref&gt; ({{lang-ka|ბიჭვინთა}} {{IPA-ka|bitʃʼvintʰɑ||Bichvinta.ogg}}; {{lang-ab|Пиҵунда}}; {{lang-ru|Пицунда}}) is a [[resort town]] in [[Gagra district]] of [[Abkhazia]].&lt;ref name=status group=note&gt;{{Abkhazia-note}}&lt;/ref&gt;
+
+==History==
+The town was founded in the 5th century BC as '''Pityus''' ([[Ancient Greek]]: ''Pityus'', Πιτυοῦς, genitive ''Pityuntos'', Πιτυοῦντος) or Pitiunt, a [[Ancient Greece|Greek]] colony and trade port on the coast of the Kingdom of [[Lazica]].&lt;ref name=&quot;catholic&quot;&gt;{{CathEncy|wstitle=Pityus}}&lt;/ref&gt; The city was surrounded by a defensive wall, the castellum had a second line of defence built in mid-3rd century AD.&lt;ref&gt;{{cite journal |last=Kacharava |first=D. D. |title=Archaeological Investigations on the Eastern Black Sea Littoral, 1970-80 |journal=Archaeological Reports |volume=30 |pages=99 |publisher=The Society for the Promotion of Hellenic Studies |date=1983–1984 |jstor=581033 |doi=10.2307/581033 }}&lt;/ref&gt; Excavations guided by [[Andria Apakidze]] unearthed remains of three 4th-century churches and a bath with superb [[mosaic]] floors. The former &quot;Great Pityus&quot; harbour is now a mere lake within the town.
+
+The [[Goths]]&lt;ref&gt;Called ''Scythae'' and ''Borani'' in comtemporary sources&lt;/ref&gt; attacked the city in 255 CE after taking the [[Bosporan Kingdom|Bosporan]] fleet. The Roman garrison under the command of [[Successianus]] repelled the attack, however they returned in the next year, took the city and proceeded further to sack [[Trabzon|Trebizond]].&lt;ref&gt;{{cite book |title=History of the Goths |last1=Wolfram |first1=Herwig |last2=Dunlap |first2=Thomas J. |year=1990 |publisher=University of California Press |isbn=978-0-520-06983-1 |pages=49}}&lt;/ref&gt;
+
+Saint [[John Chrysostom]] was being led towards Pityus by the imperial soldiers, in execution of the decree of exile, when he died on the way in 407.&lt;ref name=&quot;catholic&quot; /&gt; Like Dioskurias, it remained under Roman control within the [[Georgian people|Georgian]] kingdom of [[Colchis]] until the 7th century. The city passed under Abasgian control and became one of the major political and religious centres of the '''kingdom of [[Egrisi]]''' ('''[[Lazica]]'''). An archbishopric of Pitiunt was instituted in 541. In medieval Georgia, the town's name was spelled as ''Bichvinta''. At the end of the 10th century, King [[Bagrat III of Georgia]] built there the [[Pitsunda Cathedral]] which survives to this day and contains vestiges of wall-painting from the 13th and the 16th centuries. Bichvinta also served as the seat of the [[Georgian Orthodox]] [[Catholicate of Abkhazia]] until the late 16th century when Abkhazia came under the [[Ottoman Empire|Ottoman]] hegemony within [[Georgia (country)|Georgia]]. In his 1911 article for the ''Catholic Encyclopedia'', Sophrone Pétridès described Pityus as a [[titular see]],&lt;ref name=&quot;catholic&quot; /&gt; but it is not now found in the [[Catholic Church]]'s list of such sees.&lt;ref&gt;''Annuario Pontificio 2013'' (Libreria Editrice Vaticana, 2013, ISBN 978-88-209-9070-1), p. 953&lt;/ref&gt; In the late 13th century, the area housed a short-lived [[Republic of Genoa|Genoese]] trade colony called ''Pezonda''.
+
+Pitsunda was the favourite resort of First Secretary of the Communist Party of the Soviet Union [[Nikita Khrushchev]]. In October 1964 he happened to be vacationing in Pitsunda when he was deposed from power. Khrushchev once proposed a major dam and hydroelectric power scheme on the [[Bzyb River]] near Pitsunda, but his experts informed him that a dam built on the Bzyb River would have had catastrophic effects in causing beach erosion at Pitsunda. In the end, the dam was built on the [[Inguri River]] instead, where the impact upon the coastline was assessed to be considerably less pronounced.&lt;ref&gt;{{cite book|url=https://books.google.com/books?id=Lb-66oPHwGIC&amp;pg=PA221|last1=Blatter |first1=Joachim |last2=Ingram |first2=Helen M. |title=Reflections on water: new approaches to transboundary conflicts and cooperation|publisher=MIT Press|year=2001|pages=221–2|isbn=0-262-02487-X}}&lt;/ref&gt;
+
+==Administration==
+
+===Town status===
+On 7 February 2007, after many appeals by inhabitants, the [[People's Assembly of Abkhazia]] resolved to give Pitsunda town-status. Parliamentarians expressed the hope that the decision would help Pitsunda develop as a resort.&lt;ref name=apress4080&gt;{{cite news|title=Курорт Пицунда стал городом|url=http://www.abkhaziagov.org/ru/president/press/news/detail.php?ID=4080|accessdate=27 January 2012|newspaper=Администрация Президента Республики Абхазия|date=8 February 2007}}&lt;/ref&gt;&lt;ref name=&quot;ainform2502&quot;&gt;{{cite news|title=В ПЕРВОМ ЧТЕНИИ ПРИНЯТА ПОПРАВКА К КОНСТИТУЦИИ КАСАЮЩАЯСЯ МЕСТНОГО САМОУПРАВЛЕНИЯ И УПРАВЛЕНИЯ В АБХАЗИИ|url=http://abkhazinform.com/item/2502-v-pervom-chtenii-prinyata-popravka-k-konstitutsii-kasayushchayasya-mestnogo-samoupravleniya-i-upravleniya-v-abkhazii|accessdate=13 March 2016|agency=[[Abkhazia Inform]]|date=4 November 2015}}&lt;/ref&gt; Since becoming a town, the Mayor of Pitsunda is no longer appointed by the Governor of [[Gagra District]] but instead directly by the [[President of Abkhazia]]. On 29 January 2016, Pitsunda's town-status was formally enshrined in [[Constitution of Abkhazia|Abkhazia's constitution]].&lt;ref name=&quot;ainform3076&quot;&gt;{{cite news|title=ГЛАВЫ АДМИНИСТРАЦИЙ ГОРОДОВ И РАЙОНОВ БУДУТ НАЗНАЧАТЬСЯ ПРЕЗИДЕНТОМ ПО СОГЛАСОВАНИЮ С СОБРАНИЕМ СООТВЕТСТВУЮЩЕЙ АДМИНИСТРАТИВНО-ТЕРРИТОРИАЛЬНОЙ ЕДИНИЦЫ|url=http://abkhazinform.com/item/3076-glavy-administratsij-gorodov-i-rajonov-budut-naznachatsya-prezidentom-po-soglasovaniyu-s-sobraniem-sootvetstvuyushchej-administrativno-territorialnoj-edinitsy|accessdate=13 March 2016|agency=[[Abkhazia Inform]]|date=29 January 2016}}&lt;/ref&gt;&lt;ref name=&quot;ainform2502&quot;/&gt;
+
+===2011 Assembly elections===
+{{see also|Abkhazian local elections, 2011}}
+
+In the 2011 assembly elections, Mayor [[Beslan Ardzinba]] and six other incumbent deputies of the Assembly stood for re-election. The winning candidates were Beslan Ardzinba, Badra Avidzba, Olga Grigorenko, Chengiz Bigvava, Georgi Zardania, Gennadi Cherkezia, Gennadi Mikanba, Damia Kokoskeria and Inessa Dzkuia.&lt;ref name=p-ab97&gt;{{cite news|title=Подведены итоги выборов в так называемое народное собрание г.Пицунда|url=http://www.pitsunda-ab.ru/index.php/novosti/97-podvedeny-itogi-vyborov-v-narodnoe-sobranie-gpitsunda|accessdate=5 April 2012|newspaper=City Administration of Pitsunda|date=17 February 2011}}&lt;/ref&gt; On 14 February, during the first session of the new convocation, Damir Kokoskeria was elected Chairman of the Assembly over Gennadi Cherkezia, by a one vote difference.&lt;ref name=p-ab98&gt;{{cite news|title=В Администрации города Пицунды прошло первое заседание так называемого Народного собрания|url=http://www.pitsunda-ab.ru/index.php/novosti/98-v-administratsii-goroda-pitsundy-proshlo-pervoe-zasedanie-narodnogo-sobraniya|accessdate=5 April 2012|newspaper=City Administration of Pitsunda|date=18 February 2011}}&lt;/ref&gt;
+
+===Since 2014===
+Following the [[Abkhazian Revolution|May 2014 Revolution]] and the election of [[Raul Khajimba]] as President, on 28 October 2014 he replaced Ardzinba as Mayor with [[Chingis Bigvava]].&lt;ref name=apress13366&gt;{{cite news|title=У К А З &quot;О главе администрации города Пицунда&quot;|url=http://apsnypress.info/news/13366.html|accessdate=29 October 2014|agency=[[Apsnypress]]|date=28 October 2014}}&lt;/ref&gt;
+
+===List of Mayors===
+
+{| class=&quot;wikitable&quot; style=&quot;width:75%;&quot;
+|-
+|colspan=8 align=center|'''Heads of the Administration of the Urban-type Settlement Pitsunda:'''
+|-  style=&quot;font-weight:bold; text-align:left;&quot;
+| #
+| width=240|Name
+| width=200|Entered office
+|
+| width=200|Left office
+|
+| width=200|Governor of Gagra District
+| width=200|Comments
+|-
+|
+|[[Chingiz Bigvava]]
+|≤ June 2000
+|
+|
+|
+|[[Grigori Enik]]
+|
+|-
+|
+|[[Jon Dbar]]
+|
+|
+|≥ January 2006
+|
+|rowspan=1|[[Valeri Bganba]]
+|
+|-
+|
+|[[Beslan Ardzinba]]
+|October 2006
+|&lt;ref name=pitsunda_ardzinba&gt;{{cite web|title= так называемый Глава Администрации г.Пицунда|url=http://www.pitsunda-ab.ru/index.php/administratsiya/glava-administratsii-gpitsunda|work=The official website of the City Administration of Pitsunda|accessdate=27 January 2012}}&lt;/ref&gt;
+|8 February 2007
+|
+|[[Astamur Ketsba]]
+|
+|-
+|colspan=8 align=center|'''Heads of the Administration of the Town Pitsunda:'''
+|-  style=&quot;font-weight:bold; text-align:left;&quot;
+| #
+| width=240|Name
+| width=200|Entered office
+|
+| width=200|Left office
+|
+| width=200|President
+| width=200|Comments
+|-
+|rowspan=3|1
+|rowspan=3|[[Beslan Ardzinba]]
+|8 February 2007
+|
+|29 May 2011
+|
+|[[Sergei Bagapsh]]
+|
+|-
+|29 May 2011
+|
+|1 June 2014
+|
+|[[Alexander Ankvab]]
+|
+|-
+|1 June 2014
+|
+|28 October 2014
+|&lt;ref name=apress13366/&gt;
+
+|''[[Valeri Bganba]]''
+|
+|-
+|2
+|[[Chingis Bigvava]]
+|28 October 2014
+|&lt;ref name=apress13366/&gt;
+
+|''Present''
+|
+|[[Raul Khajimba]]
+|
+|}
+
+==Gallery==
+&lt;center&gt;
+&lt;gallery&gt;
+PitsundaPineGrove.jpg|Pine grove
+&lt;/gallery&gt;&lt;/center&gt;
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{commons category|Pitsunda}}
+{{reflist}}
+
+{{Cities and towns in Georgia (country)}} 
+{{Gagra District}}
+{{Administrative divisions of Abkhazia}}
+
+{{Pontic colonies}}
+
+{{Authority control}}
+
+[[Category:Populated places established in the 5th century BC]]
+[[Category:Populated coastal places in Georgia (country)]]
+[[Category:Greek colonies in Colchis]]</text>
+      <sha1>dbatnu43bslosr2yim6p7opg5nsr6cq</sha1>
+    </revision>
+  </page>
+</mediawiki>

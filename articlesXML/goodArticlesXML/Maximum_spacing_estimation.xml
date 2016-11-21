@@ -1,0 +1,390 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Maximum spacing estimation</title>
+    <ns>0</ns>
+    <id>20410675</id>
+    <revision>
+      <id>750249489</id>
+      <parentid>738954867</parentid>
+      <timestamp>2016-11-18T16:38:37Z</timestamp>
+      <contributor>
+        <username>Marcocapelle</username>
+        <id>14965160</id>
+      </contributor>
+      <comment>removed [[Category:Estimation theory]]; added [[Category:Estimation methods]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25618">[[Image:Spacings.svg|thumb|right|260px|The maximum spacing method tries to find a distribution function such that the spacings, ''D''&lt;sub&gt;(''i'')&lt;/sub&gt;, are all approximately of the same length. This is done by maximizing their [[geometric mean]].]]
+
+In [[statistics]], '''maximum spacing estimation''' ('''MSE''' or '''MSP'''), or '''maximum product of spacing estimation (MPS)''', is a method for estimating the parameters of a univariate [[parametric model|statistical model]].&lt;ref name=&quot;CA83&quot;&gt;{{harvtxt|Cheng|Amin|1983}}&lt;/ref&gt; The method requires maximization of the [[geometric mean]] of ''spacings'' in the data, which are the differences between the values of the [[cumulative distribution function]] at neighbouring data points.
+
+The concept underlying the method is based on the [[probability integral transform]], in that a set of independent random samples derived from any random variable should on average be uniformly distributed with respect to the cumulative distribution function of the random variable. The MPS method chooses the parameter values that make the observed data as uniform as possible, according to a specific quantitative measure of uniformity.
+
+One of the most common methods for estimating the parameters of a distribution from data, the method of [[maximum likelihood]] (MLE), can break down in various cases, such as involving certain mixtures of continuous distributions.&lt;ref name = &quot;R84&quot;&gt;{{harvtxt|Ranneby|1984}}&lt;/ref&gt; In these cases the method of maximum spacing estimation may be successful.
+
+Apart from its use in pure mathematics and statistics, the trial applications of the method have been reported using data from fields such as [[hydrology]],&lt;ref&gt;{{harvtxt|Hall|al.|2004}}&lt;/ref&gt; [[econometrics]],&lt;ref&gt;{{harvtxt|Anatolyev|Kosenok|2004}}&lt;/ref&gt; [[magnetic resonance imaging]],&lt;ref&gt;{{harvtxt|Pieciak|2014}}&lt;/ref&gt; and others.&lt;ref&gt;{{harvtxt|Wong|Li|2006}}&lt;/ref&gt;
+
+==History and usage==
+The MSE method was derived independently by Russel Cheng and Nik Amin at the [[Cardiff University|University of Wales Institute of Science and Technology]], and Bo Ranneby at the [[Swedish University of Agricultural Sciences]].&lt;ref name = &quot;R84&quot; /&gt; The authors explained that due to the [[probability integral transform]] at the true parameter, the “spacing” between each observation should be uniformly distributed. This would imply that the difference between the values of the [[cumulative distribution function]] at consecutive observations should be equal. This is the case that maximizes the [[geometric mean]] of such spacings, so solving for the parameters that maximize the geometric mean would achieve the “best” fit as defined this way. {{harvtxt|Ranneby|1984}} justified the method by demonstrating that it is an estimator of the [[Kullback–Leibler divergence]], similar to [[maximum likelihood estimation]], but with more robust properties for various classes of problems.
+
+There are certain distributions, especially those with three or more parameters, whose [[Likelihood#Likelihoods for continuous distributions|likelihoods]] may become infinite along certain paths in the [[parameter space]]. Using maximum likelihood to estimate these parameters often breaks down, with one parameter tending to the specific value that causes the likelihood to be infinite, rendering the other parameters inconsistent. The method of maximum spacings, however, being dependent on the difference between points on the cumulative distribution function and not individual likelihood points, does not have this issue, and will return valid results over a much wider array of distributions.&lt;ref name = &quot;CA83&quot; /&gt;
+
+The distributions that tend to have likelihood issues are often those used to model physical phenomena. {{harvtxt|Hall|al.|2004}} seek to analyze flood alleviation methods, which requires accurate models of river flood effects. The distributions that better model these effects are all three-parameter models, which suffer from the infinite likelihood issue described above, leading to Hall’s investigation of the maximum spacing procedure. {{harvtxt|Wong|Li|2006}}, when comparing the method to maximum likelihood, use various data sets ranging from a set on the oldest ages at death in Sweden between 1905 and 1958 to a set containing annual maximum wind speeds.
+
+==Definition==
+Given an [[iid]] [[random sample]] {''x''&lt;sub&gt;1&lt;/sub&gt;, …, ''x''&lt;sub&gt;''n''&lt;/sub&gt;} of size ''n'' from a [[univariate distribution]] with the cumulative distribution function ''F''(''x'';''θ''&lt;sub&gt;0&lt;/sub&gt;), where ''θ''&lt;sub&gt;0&lt;/sub&gt; ∈ Θ is an unknown parameter to be [[estimation|estimated]], let {''x''&lt;sub&gt;(1)&lt;/sub&gt;, …, ''x''&lt;sub&gt;(''n'')&lt;/sub&gt;} be the corresponding [[order statistic|ordered]] sample, that is the result of sorting of all observations from smallest to largest. For convenience also denote ''x''&lt;sub&gt;(0)&lt;/sub&gt; = −∞ and ''x''&lt;sub&gt;(''n''+1)&lt;/sub&gt; = +∞.
+
+Define the ''spacings'' as the “gaps” between the values of the distribution function at adjacent ordered points:&lt;ref name = &quot;Pyke65&quot;&gt;{{harvtxt|Pyke|1965}}&lt;/ref&gt;
+: &lt;math&gt;
+    D_i(\theta) = F(x_{(i)};\,\theta) - F(x_{(i-1)};\,\theta), \quad i=1,\ldots,n+1.
+  &lt;/math&gt;
+
+Then the '''maximum spacing estimator''' of ''θ''&lt;sub&gt;0&lt;/sub&gt; is defined as a value that maximizes the [[natural logarithm|logarithm]] of the [[geometric mean]] of sample spacings:
+: &lt;math&gt;
+   \hat{\theta} = \underset{\theta\in\Theta}{\operatorname{arg\,max}} \; S_n(\theta),
+   \quad\text{where }\ 
+   S_n(\theta) = \ln\!\! \sqrt[n+1]{D_1D_2\cdots D_{n+1}}
+                = \frac{1}{n+1}\sum_{i=1}^{n+1}\ln{D_i}(\theta).
+  &lt;/math&gt;
+
+By the [[inequality of arithmetic and geometric means]], function ''S''&lt;sub&gt;''n''&lt;/sub&gt;(''θ'') is bounded from above by −ln(''n''+1), and thus the maximum has to exist at least in the [[supremum]] sense.
+
+Note that some authors define the function ''S''&lt;sub&gt;''n''&lt;/sub&gt;(''θ'') somewhat differently. In particular, {{harvtxt|Ranneby|1984}} multiplies each ''D''&lt;sub&gt;''i''&lt;/sub&gt; by a factor of (''n''+1), whereas {{harvtxt|Cheng|Stephens|1989}} omit the {{frac|''n''+1}} factor in front of the sum and add the “−” sign in order to turn the maximization into minimization. As these are constants with respect to ''θ'', the modifications do not alter the location of the maximum of the function ''S''&lt;sub&gt;''n''&lt;/sub&gt;.
+
+==Examples==
+This section presents two examples of calculating the maximum spacing estimator.
+
+===Example 1===
+[[Image:Spacing Estimation plot for MSE example.svg|thumb|right|350px|alt=A box containing the graph of two offset concave functions with different peaks, vertical lines bisecting the peaks, and labeled arrows pointing to where the vertical lines intersect the bottom of the box.|Plots of the [[Natural logarithm|log]] value of ''λ'' for the simplistic example under both likelihood and spacing estimation. The values for which both likelihood and spacing are maximized, the maximum likelihood and maximum spacing estimates, are identified.]]
+
+Suppose two values ''x''&lt;sub&gt;(1)&lt;/sub&gt; = 2, ''x''&lt;sub&gt;(2)&lt;/sub&gt; = 4 were sampled from the [[exponential distribution]] ''F''(''x'';''λ'') = 1 − e&lt;sup&gt;−''xλ''&lt;/sup&gt;, ''x'' ≥ 0 with unknown parameter ''λ'' &gt; 0. In order to construct the MSE we have to first find the spacings:
+&lt;center&gt;
+{| class=&quot;wikitable&quot;
+|-
+! ''i'' !! ''F''(''x''&lt;sub&gt;(''i'')&lt;/sub&gt;)  !! ''F''(''x''&lt;sub&gt;(''i''−1)&lt;/sub&gt;)  !! ''D''&lt;sub&gt;''i''&lt;/sub&gt; = ''F''(''x''&lt;sub&gt;(''i'')&lt;/sub&gt;) − ''F''(''x''&lt;sub&gt;(''i''−1)&lt;/sub&gt;)
+|-
+|  1  || 1 − e&lt;sup&gt;−2''λ''&lt;/sup&gt;  || 0                        || 1 − e&lt;sup&gt;−2''λ''&lt;/sup&gt; 
+|-
+|  2  || 1 − e&lt;sup&gt;−4''λ''&lt;/sup&gt;  || 1 − e&lt;sup&gt;−2''λ''&lt;/sup&gt;  || e&lt;sup&gt;−2''λ''&lt;/sup&gt; − e&lt;sup&gt;−4''λ''&lt;/sup&gt; 
+|-
+|  3  || 1                        || 1 − e&lt;sup&gt;−4''λ''&lt;/sup&gt;  || e&lt;sup&gt;−4''λ''&lt;/sup&gt; 
+|}
+&lt;/center&gt;
+
+The process continues by finding the ''λ'' that maximizes the geometric mean of the “difference” column. Using the convention that ignores taking the (''n''+1)st root, this turns into the maximization of the following product: (1 − e&lt;sup&gt;−2''λ''&lt;/sup&gt;) · (e&lt;sup&gt;−2''λ''&lt;/sup&gt; − e&lt;sup&gt;−4''λ''&lt;/sup&gt;) · (e&lt;sup&gt;−4''λ''&lt;/sup&gt;). Letting ''μ'' = e&lt;sup&gt;−2''λ''&lt;/sup&gt;, the problem becomes finding the maximum of ''μ''&lt;sup&gt;5&lt;/sup&gt;−2''μ''&lt;sup&gt;4&lt;/sup&gt;+''μ''&lt;sup&gt;3&lt;/sup&gt;. Differentiating, the ''μ'' has to satisfy 5''μ''&lt;sup&gt;4&lt;/sup&gt;−8''μ''&lt;sup&gt;3&lt;/sup&gt;+3''μ''&lt;sup&gt;2&lt;/sup&gt; = 0. This equation has roots 0, 0.6, and 1. As ''μ'' is actually e&lt;sup&gt;−2''λ''&lt;/sup&gt;, it has to be greater than zero but less than one. Therefore, the only acceptable solution is
+: &lt;math&gt;
+    \mu=0.6 \quad \Rightarrow \quad \lambda_{\text{MSE}} = \frac{\ln 0.6}{-2} \approx 0.255,
+  &lt;/math&gt;
+which corresponds to an exponential distribution with a mean of {{frac|''λ''}} ≈ 3.915. For comparison, the maximum likelihood estimate of λ is the inverse of the sample mean, 3, so ''λ''&lt;sub&gt;MLE&lt;/sub&gt; = ⅓ ≈ 0.333.
+
+===Example 2===
+Suppose {''x''&lt;sub&gt;(1)&lt;/sub&gt;, …, ''x''&lt;sub&gt;(''n'')&lt;/sub&gt;} is the ordered sample from a [[Uniform distribution (continuous)|uniform distribution]] ''U''(''a'',''b'') with unknown endpoints ''a'' and ''b''. The cumulative distribution function is ''F''(''x'';''a'',''b'') = (''x''−''a'')/(''b''−''a'') when ''x''∈[''a'',''b'']. Therefore individual spacings are given by
+: &lt;math&gt;
+    D_1 = \frac{x_{(1)}-a}{b-a}, \ \ 
+    D_i = \frac{x_{(i)}-x_{(i-1)}}{b-a}\ \text{for } i = 2, \ldots, n, \ \ 
+    D_{n+1} = \frac{b-x_{(n)}}{b-a} \ \ 
+  &lt;/math&gt;
+
+Calculating the geometric mean and then taking the logarithm, statistic ''S''&lt;sub&gt;''n''&lt;/sub&gt; will be equal to
+: &lt;math&gt;
+    S_n(a,b) = \tfrac{1}{n+1}\ln(x_{(1)}-a) + \tfrac{1}{n+1}\ln(b-x_{(n)}) - \ln(b-a) + \sum_{i=2}^n \ln(x_{(i)}-x_{(i-1)})
+  &lt;/math&gt;
+Here only the first three terms depend on the parameters ''a'' and ''b''. Differentiating with respect to those parameters and solving the resulting linear system, the maximum spacing estimates will be
+: &lt;math alt=&quot;MS estimator of a is the minimal x minus the sample range divided by n−1; MS estimator of b is the maximal x plus the sample range divided by n−1&quot;&gt;
+    \hat{a} = \frac{nx_{(1)} - x_{(n)}}{n-1},\ \ \hat{b} = \frac{nx_{(n)}-x_{(1)}}{n-1}.
+  &lt;/math&gt;
+These are known to be the [[uniformly minimum variance unbiased]] (UMVU) estimators for the continuous uniform distribution.&lt;ref name=&quot;CA83&quot;/&gt; In comparison, the maximum likelihood estimates for this problem &lt;math alt=&quot;ML estimate of a is the smallest of x’s&quot;&gt;\scriptstyle\hat{a}=x_{(1)}&lt;/math&gt; and &lt;math alt=&quot;ML estimate of b is the largest of x’s&quot;&gt;\scriptstyle\hat{b}=x_{(n)}&lt;/math&gt; are biased and have higher [[mean-squared error]].
+
+==Properties==
+
+===Consistency and efficiency===
+{{Expand section|date=May 2010}}
+{{multiple image
+   | width     = 200
+   | footer    = Plot of a “J-shaped” density function and its corresponding distribution. A [[Weibull distribution#Related distributions|shifted Weibull]] with a [[scale parameter]] of 15, a [[shape parameter]] of 0.5, and a [[location parameter]] of 10. The density asymptotically approaches infinity as ''x'' approaches 10, rendering the estimates of the other parameters inconsistent. Note that there is no [[inflection point]] in the graph of the distribution.
+   | image1    = J-shaped density.svg
+   | alt1      = A box containing a graph of an offset straight line and a &quot;reverse J&quot; curve that rises to meet the straight line.
+   | caption1  = Density
+   | image2    = J-shaped density - corresponding distribution.svg
+   | alt2      = A box containing a graph of an offset straight line and a &quot;J&quot; curve that rises from the straight line.
+   | caption2  = Distribution
+}}
+
+The maximum spacing estimator is a [[consistent estimator]] in that it [[convergence in probability|converges in probability]] to the true value of the parameter, ''θ''&lt;sub&gt;0&lt;/sub&gt;, as the sample size increases to infinity.&lt;ref name = &quot;R84&quot; /&gt; The consistency of maximum spacing estimation holds under much more general conditions than for [[maximum likelihood]] estimators. In particular, in cases where the underlying distribution is J-shaped, maximum likelihood will fail where MSE succeeds.&lt;ref name = &quot;CA83&quot; /&gt; An example of a J-shaped density is the [[Weibull distribution]], specifically a [[Weibull distribution#Related distributions|shifted Weibull]], with a [[shape parameter]] less than 1. The density will tend to infinity as ''x'' approaches the [[location parameter]] rendering estimates of the other parameters inconsistent.
+
+Maximum spacing estimators are also at least as [[Efficiency (statistics)#Asymptotic efficiency|asymptotically efficient]] as maximum likelihood estimators, where the latter exist. However, MSEs may exist in cases where MLEs do not.&lt;ref name = &quot;CA83&quot; /&gt;
+
+===Sensitivity===
+Maximum spacing estimators are sensitive to closely spaced observations, and especially ties.&lt;ref name = &quot;CS89&quot;&gt;{{harvtxt|Cheng|Stephens|1989}}&lt;/ref&gt; Given
+: &lt;math&gt;
+    X_{i+k} = X_{i+k-1}=\cdots=X_i, \,
+  &lt;/math&gt;
+we get
+: &lt;math&gt;
+    D_{i+k}(\theta) = D_{i+k-1}(\theta) = \cdots = D_{i+1}(\theta) = 0. \,
+  &lt;/math&gt;
+
+When the ties are due to multiple observations, the repeated spacings (those that would otherwise be zero) should be replaced by the corresponding likelihood.&lt;ref name = &quot;CA83&quot; /&gt; That is, one should substitute &lt;math&gt;f_{i}(\theta)&lt;/math&gt; for &lt;math&gt;D_i(\theta)&lt;/math&gt;, as
+: &lt;math&gt;
+    \lim_{x_i \to x_{i-1}}\frac{\int_{x_{i-1}}^{x_i}f(t;\theta)\,dt}{x_i-x_{i-1}} = f(x_{i-1},\theta) = f(x_{i},\theta), 
+  &lt;/math&gt;
+since &lt;math&gt;x_{i} = x_{i-1}&lt;/math&gt;.
+
+When ties are due to rounding error, {{harvtxt|Cheng|Stephens|1989}} suggest another method to remove the effects.&lt;ref group=&quot;note&quot;&gt;There appear to be some minor typographical errors in the paper. For example, in section 4.2, equation (4.1), the rounding replacement for &lt;math&gt;D_j&lt;/math&gt;, should not have the log term. In section 1, equation (1.2), &lt;math&gt;D_j&lt;/math&gt; is defined to be the spacing itself, and &lt;math&gt;M(\theta)&lt;/math&gt; is the negative sum of the logs of &lt;math&gt;D_j&lt;/math&gt;. If &lt;math&gt;D_j&lt;/math&gt; is logged at this step, the result is always&amp;nbsp;≤&amp;nbsp;0, as the difference between two adjacent points on a cumulative distribution is always &amp;le; 1, and strictly&amp;nbsp;&lt;&amp;nbsp;1 unless there are only two points at the bookends. Also, in section 4.3, on page 392, calculation shows that it is the variance &lt;math&gt;\textstyle\tilde{\sigma^2}&lt;/math&gt; which has MPS estimate of 6.87, not the standard deviation &lt;math&gt;\textstyle\tilde{\sigma}&lt;/math&gt;. – ''Editor''&lt;/ref&gt;
+Given ''r'' tied observations from ''x''&lt;sub&gt;''i''&lt;/sub&gt; to ''x''&lt;sub&gt;''i''+''r''−1&lt;/sub&gt;, let ''δ'' represent the [[round-off error]]. All of the true values should then fall in the range &lt;math&gt;x \pm \delta&lt;/math&gt;. The corresponding points on the distribution should now fall between &lt;math&gt;y_L = F(x-\delta, \hat\theta)&lt;/math&gt; and &lt;math&gt;y_U = F(x+\delta, \hat\theta)&lt;/math&gt;. Cheng and Stephens suggest assuming that the rounded values are [[Uniform distribution (continuous)|uniformly spaced]] in this interval, by defining
+: &lt;math&gt;
+    D_j = \frac{y_U-y_L}{r-1} \quad (j=i+1,\ldots,i+r-1).
+  &lt;/math&gt;
+
+The MSE method is also sensitive to secondary clustering.&lt;ref name = &quot;CS89&quot; /&gt; One example of this phenomenon is when a set of observations is thought to come from a single [[normal distribution]], but in fact comes from a [[Mixture (probability)|mixture]] normals with different means. A second example is when the data is thought to come from an [[exponential distribution]], but actually comes from a [[gamma distribution]]. In the latter case, smaller spacings may occur in the lower tail. A high value of ''M''(''θ'') would indicate this secondary clustering effect, and suggesting a closer look at the data is required.&lt;ref name = &quot;CS89&quot; /&gt;
+
+==Goodness of fit==
+The statistic ''S&lt;sub&gt;n&lt;/sub&gt;''(''θ'') is also a form of [[Pat Moran (statistician)|Moran]] or Moran-Darling statistic, ''M''(''θ''), which can be used to test [[goodness of fit]].&lt;ref group=&quot;note&quot;&gt;The literature refers to related statistics as Moran or Moran-Darling statistics. For example, {{harvtxt|Cheng|Stephens|1989}} analyze the form &lt;math&gt;\scriptstyle M(\theta)= -\sum_{j=1}^{n+1}\log{D_i(\theta)}&lt;/math&gt; where &lt;math&gt;\scriptstyle D_i(\theta)&lt;/math&gt; is defined as above. {{harvtxt|Wong|Li|2006}} use the same form as well. However, {{harvtxt|Beirlant|al.|2001}} uses the form &lt;math&gt;\scriptstyle M_n= -\sum_{j=0}^{n}\ln{((n + 1)(X_{n,i+1} - X_{n,i}))}&lt;/math&gt;, with the additional factor of &lt;math&gt;(n+1)&lt;/math&gt; inside the logged summation. The extra factors will make a difference in terms of the expected mean and variance of the statistic. For consistency, this article will continue to use the Cheng &amp; Amin/Wong &amp; Li form. -- ''Editor''&lt;/ref&gt;
+It has been shown that the statistic, when defined as
+: &lt;math&gt;
+    S_n(\theta) = M_n(\theta)= -\sum_{j=1}^{n+1}\ln{D_j(\theta)},
+  &lt;/math&gt;
+is [[Estimator#Asymptotic normality|asymptotically normal]], and that a chi-squared approximation exists for small samples.&lt;ref name = &quot;CS89&quot; /&gt; In the case where we know the true parameter &lt;math&gt;\theta^0&lt;/math&gt;, {{harvtxt|Cheng|Stephens|1989}} show that the statistic &lt;math&gt;\scriptstyle M_n(\theta)&lt;/math&gt; has a [[normal distribution]] with
+: &lt;math&gt;\begin{align}
+   \mu_M      &amp; \approx (n+1)(\ln(n+1)+\gamma)-\frac{1}{2}-\frac{1}{12(n+1)},\\
+   \sigma^2_M &amp; \approx (n+1)\left ( \frac{\pi^2}{6} -1 \right ) -\frac{1}{2}-\frac{1}{6(n+1)},
+  \end{align}&lt;/math&gt;
+where ''γ'' is the [[Euler–Mascheroni constant]] which is approximately 0.57722.&lt;ref group=&quot;note&quot;&gt;{{harvtxt|Wong|Li|2006}} leave out the [[Euler–Mascheroni constant]] from their description. -- ''Editor''&lt;/ref&gt;
+
+The distribution can also be approximated by that of &lt;math&gt;A&lt;/math&gt;, where
+: &lt;math&gt;
+    A = C_1 + C_2\chi^2_n \,
+  &lt;/math&gt;,
+in which
+: &lt;math&gt;\begin{align}
+    C_1 &amp;= \mu_M - \sqrt{\frac{\sigma^2_Mn}{2}},\\
+    C_2 &amp;= {\sqrt\frac{\sigma^2_M}{2n}},\\
+  \end{align}&lt;/math&gt;
+and where &lt;math&gt;\chi^2_n&lt;/math&gt; follows a [[chi-squared distribution]] with &lt;math&gt;n&lt;/math&gt; [[Degrees of freedom (statistics)|degrees of freedom]]. Therefore, to test the hypothesis &lt;math&gt;H_0&lt;/math&gt; that a random sample of &lt;math&gt;n&lt;/math&gt; values comes from the distribution &lt;math&gt;F(x,\theta)&lt;/math&gt;, the statistic &lt;math&gt;T(\theta)= \frac{M(\theta)-C_1}{C_2}&lt;/math&gt; can be calculated. Then &lt;math&gt;H_0&lt;/math&gt; should be rejected with [[Statistical significance|significance]] &lt;math&gt;\alpha&lt;/math&gt; if the value is greater than the [[critical value]] of the appropriate chi-squared distribution.&lt;ref name = &quot;CS89&quot; /&gt;
+
+Where ''θ''&lt;sub&gt;0&lt;/sub&gt; is being estimated by &lt;math&gt;\hat\theta&lt;/math&gt;, {{harvtxt|Cheng|Stephens|1989}} showed that &lt;math&gt;S_n(\hat\theta) = M_n(\hat\theta)&lt;/math&gt; has the same asymptotic mean and variance as in the known case. However, the test statistic to be used requires the addition of a bias correction term and is:
+: &lt;math&gt;
+    T(\hat\theta) =  \frac{M(\hat\theta)+\frac{k}{2}-C_1}{C_2},
+  &lt;/math&gt;
+where &lt;math&gt;k&lt;/math&gt; is the number of parameters in the estimate.
+
+==Generalized maximum spacing==
+
+===Alternate measures and spacings===
+{{harvtxt|Ranneby|Ekström|1997}} generalized the MSE method to approximate other [[F-divergence|measures]] besides the Kullback&amp;ndash;Leibler measure. {{harvtxt|Ekström|1997}} further expanded the method to investigate properties of estimators using higher order spacings, where an ''m''-order spacing would be defined as &lt;math&gt;F(X_{j+m}) - F(X_{j})&lt;/math&gt;.
+
+===Multivariate distributions===
+{{harvtxt|Ranneby|al.|2005}} discuss extended maximum spacing methods to the [[Joint probability distribution|multivariate]] case. As there is no natural order for &lt;math&gt;\mathbb{R}^k (k&gt;1)&lt;/math&gt;, they discuss two alternative approaches: a geometric approach based on [[Dirichlet cell]]s and a probabilistic approach based on a “nearest neighbor ball” metric.
+
+==See also==
+* [[Kullback–Leibler divergence]]
+* [[Maximum likelihood]]
+* [[Probability distribution]]
+
+==Notes==
+{{Reflist|group=&quot;note&quot;}}
+
+==References==
+{{Reflist|3}}
+
+===Works cited===
+{{refbegin}}
+* {{cite journal
+ | last1 = Anatolyev | first1 = Stanislav
+ | last2 = Kosenok   | first2 = Grigory
+ | year  = 2005
+ | title = An alternative to maximum likelihood based on spacings
+ | journal = Econometric Theory
+ | volume = 21 | issue = 2 | pages = 472–476
+ | doi = 10.1017/S0266466605050255
+ | url = http://fir.nes.ru/~gkosenok/MPS.pdf
+ | accessdate = 2009-01-21
+ | ref = CITEREFAnatolyevKosenok2004
+ }}
+* {{cite journal
+ | last1 = Beirlant       | first1 = J.
+ | last2 = Dudewicz       | first2 = E.J.
+ | last3 = Györfi         | first3 = L.
+ | last4 = van der Meulen | first4 = E.C.
+ | year  = 1997
+ | title = Nonparametric entropy estimation: an overview
+ | journal = International Journal of Mathematical and Statistical Sciences
+ | volume = 6 | issue = 1 | pages = 17–40
+ | issn = 1055-7490
+ | url = http://www.menem.com/ilya/digital_library/entropy/beirlant_etal_97.pdf
+ | accessdate = 2008-12-31
+ | ref = CITEREFBeirlantal.2001
+ |archiveurl = https://web.archive.org/web/20050505044534/http://www.menem.com/ilya/digital_library/entropy/beirlant_etal_97.pdf |archivedate = May 5, 2005}} &lt;small&gt;''Note: linked paper is an updated 2001 version.''&lt;/small&gt;
+* {{cite journal
+ | last1 = Cheng | first1 = R.C.H.
+ | last2 = Amin  | first2 = N.A.K.
+ | year  = 1983
+ | title = Estimating parameters in continuous univariate distributions with a shifted origin
+ | journal = Journal of the Royal Statistical Society, Series B
+ | volume = 45 | issue = 3 | pages = 394–403
+ | issn = 0035-9246
+ | jstor = 2345411
+ | ref = harv
+ }}
+* {{cite journal
+ | last1 = Cheng    | first1 = R.C.H
+ | last2 = Stephens | first2 = M. A.
+ | year  = 1989
+ | title = A goodness-of-fit test using Moran’s statistic with estimated parameters
+ | journal = Biometrika
+ | volume = 76 | issue = 2 | pages = 386–392
+ | doi = 10.1093/biomet/76.2.385
+ | ref = harv
+ }}
+* {{cite journal
+ | last  = Ekström
+ | first = Magnus
+ | year  = 1997
+ | title = Generalized maximum spacing estimates
+ | journal = University of Umeå, Department of Mathematics
+ | volume = 6
+ | issn = 0345-3928
+ | url = http://www.matstat.umu.se/varia/reports/rep9706.ps.gz
+ | accessdate = 2008-12-30
+ | ref = harv
+ |archiveurl = https://web.archive.org/web/20070214143052/http://www.matstat.umu.se/varia/reports/rep9706.ps.gz |archivedate = February 14, 2007}}
+* {{cite journal
+ | last1 = Hall             | first1 = M.J.
+ | last2 = van den Boogaard | first2 = H.F.P.
+ | last3 = Fernando         | first3 = R.C.
+ | last4 = Mynett           | first4 = A.E.
+ | year  = 2004
+ | title = The construction of confidence intervals for frequency analysis using resampling techniques
+ | journal = Hydrology and Earth System Sciences
+ | volume = 8 | issue = 2 | pages = 235–246
+ | issn = 1027-5606
+ | url = http://www.hydrol-earth-syst-sci.net/8/235/2004/hess-8-235-2004.pdf
+ | accessdate = 2009-01-21
+ | ref = CITEREFHallal.2004 | doi=10.5194/hess-8-235-2004
+ }}
+* {{cite conference
+ | last1 = Pieciak        | first1 = Tomasz
+ | year  = 2014
+ | title = The maximum spacing noise estimation in single-coil background MRI data
+ | conference = IEEE International Conference on Image Processing
+ | pages = 1743-1747
+ | location = Paris
+ | url = http://home.agh.edu.pl/pieciak/publikacje_pieciak/2014_ICIP_Pieciak.pdf
+ | accessdate = 2015-07-07
+ | ref = CITEREFPieciak2014
+ }}
+* {{cite journal
+ | last  = Pyke | first = Ronald
+ | year  = 1965
+ | title = Spacings
+ | journal = Journal of the Royal Statistical Society, Series B
+ | volume = 27 | pages = 395–449
+ | issn = 0035-9246
+ | jstor = 2345793
+ | ref = harv
+ | issue  = 3
+ }}
+* {{cite journal
+ | last  = Ranneby | first = Bo
+ | year  = 1984
+ | title = The maximum spacing method. An estimation method related to the maximum likelihood method
+ | journal = Scandinavian Journal of Statistics
+ | volume = 11 | issue = 2 | pages = 93–112
+ | issn = 0303-6898
+ | jstor = 4615946
+ | ref = harv
+ }}
+* {{cite journal
+ | last1 = Ranneby | first1 = Bo
+ | last2 = Ekström | first2 = Magnus
+ | year  = 1997
+ | title = Maximum spacing estimates based on different metrics
+ | journal = University of Umeå, Department of Mathematics
+ | volume = 5
+ | issn = 0345-3928
+ | url = http://www.matstat.umu.se/varia/reports/rep9705.ps.gz
+ | accessdate = 2008-12-30
+ | ref = harv
+ |archiveurl = https://web.archive.org/web/20070214143042/http://www.matstat.umu.se/varia/reports/rep9705.ps.gz |archivedate = February 14, 2007}}
+* {{cite journal
+ | last1 = Ranneby        | first1 = Bo
+ | last2 = Jammalamadakab | first2 = S. Rao
+ | last3 = Teterukovskiy  | first3 = Alex
+ | year  = 2005
+ | title = The maximum spacing estimation for multivariate observations
+ | journal = Journal of Statistical Planning and Inference
+ | volume = 129 | issue = 1–2 | pages = 427–446
+ | doi = 10.1016/j.jspi.2004.06.059
+ | url = http://www.pstat.ucsb.edu/faculty/jammalam/html/research%20publication_files/MSP2.pdf
+ | accessdate = 2008-12-31
+ | ref = CITEREFRannebyal.2005
+ }}
+* {{cite book
+ | last1 = Wong | first1 = T.S.T
+ | last2 = Li   | first2 = W.K.
+ | year = 2006
+ | title = Time series and related topics: in memory of Ching-Zong Wei
+ | chapter = A note on the estimation of extreme value distributions using maximum product of spacings
+ | location = Beachwood, Ohio | publisher = Institute of Mathematical Statistic
+ | pages = 272–283
+ | doi = 10.1214/074921706000001102
+ | arxiv = math/0702830v1 
+ | ref = harv
+ }}
+
+{{refend}}
+
+{{Statistics}}
+
+{{good article}}
+
+{{DEFAULTSORT:Maximum Spacing Estimation}}
+[[Category:Estimation methods]]
+[[Category:Fitting probability distributions]]</text>
+      <sha1>ecoo0i5rhm3unsfesh315xj9kk90iy2</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,663 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ontario Highway 35</title>
+    <ns>0</ns>
+    <id>8170508</id>
+    <revision>
+      <id>742675408</id>
+      <parentid>738469791</parentid>
+      <timestamp>2016-10-05T03:19:22Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29114">{{Infobox road
+|province       = ON
+|type           = Hwy
+|route          = 35
+|map            = 
+|map_alt        = A map showing southern Ontario and the surrounding areas. The highways in Ontario are represented by dark lines, while Highway 35 is represented as a thick orange line.
+|map_notes      = 
+|length_km      = 195.6
+|length_ref     = &lt;ref name=&quot;km&quot; /&gt;
+|direction_a    = South
+|terminus_a     = {{jcon|Hwy|401|town=Newcastle}}
+|direction_b    = North
+|terminus_b     = {{jcon|Hwy|60}} near [[Algonquin Park]]
+|junction       = {{jcon|Hwy|7A}}&lt;br /&gt;{{jcon|Hwy|7|town=Lindsay}}&lt;br /&gt;{{jcon|Hwy|118|town=Carnarvon}}
+|established    = 1931
+|counties       = [[Regional Municipality of Durham|Durham]]&lt;br /&gt;[[Kawartha Lakes]]&lt;br /&gt;[[Haliburton Highlands]]&lt;br /&gt;[[District Municipality of Muskoka|Muskoka]]
+|towns= [[Newcastle, Ontario|Newcastle]], [[Orono, Ontario|Orono]], [[Lindsay, Ontario|Lindsay]], [[Coboconk, Ontario|Coboconk]], [[Minden, Ontario|Minden]], [[Carnarvon, Ontario|Carnarvon]], [[Dorset, Ontario|Dorset]], [[Dwight, Ontario|Dwight]]
+|browse         = {{On-former browse|previous_current=34|next_current=37|next_former=36}}
+}}
+'''King's Highway 35''', also known as '''Highway 35''', is a [[Provincial highways in Ontario|provincial highway]] in the Canadian province of [[Ontario]], linking [[Highway 401]] with [[Peterborough, Ontario|Peterborough]], [[Kawartha Lakes]], and [[Algonquin Park]]. The highway travels from west of [[Newcastle, Ontario|Newcastle]], through [[Lindsay, Ontario|Lindsay]] and [[Kawartha lakes (Ontario)|the Kawarthas]] and into [[Haliburton County, Ontario|Haliburton]] before terminating at [[Ontario Highway 60|Highway 60]] to the west of [[Algonquin Park]], the province's largest. The winding course of the highway, combined with the picturesque views offered along its length, have led some to declare it the most scenic highway in Ontario.&lt;ref&gt;{{cite news
+
+ | title      = Nature's Palette Ablaze in Canada
+ | first      = George
+ | last       = Cantor
+ | publisher  = The Los Angeles Times
+ | date       = September 29, 1974
+ | section    = I
+ | page       = 4
+ | quote      = Highway 35 which might be Ontario's most scenic road}}&lt;/ref&gt;
+
+Most of the highway, including a portion of today's Highway 60, was assumed by the Department of Highways by 1940. In 1961, [[Ontario Highway 115|Highway 115]] was signed concurrently with Highway 35 for {{convert|19|km|0}}. This was widened to a divided expressway in the late eighties. In the mid-1950s, several bypasses were constructed to divert Highway&amp;nbsp;35 away from town centres such as Lindsay, [[Fenelon Falls]] and [[Minden, Ontario|Minden]].
+
+Highway 35 is patrolled along its entirety by the [[Ontario Provincial Police]]. The speed limit for most of the length of the highway is {{convert|80|km/h|0}}, slowing to {{convert|50|km/h|0|abbr=on}} within built-up areas, and increasing to {{convert|90|km/h|0|abbr=on}} when it connects with Highway 115.
+
+== Route description ==
+[[File:Enterprise Hill.png|thumb|left|alt=&quot;A photo of a four-lane divided highway on a sunny day.&quot;|Highway 35 immediately south of the split with Highway&amp;nbsp;115]]
+Highway 35 begins at a [[trumpet interchange]] with Highway 401, and is [[concurrency (road)|concurrent]] with Highway 115 for {{convert|18.9|km|mi|1|abbr=on}} to Enterprise Hill.&lt;ref name=&quot;SCON&quot;&gt;{{cite map
+
+ | title     = Southcentral Ontario
+ | publisher = MapArt
+ | year      = 2010
+ | isbn      = 978-1-55368-221-9}}&lt;/ref&gt;&lt;ref name=&quot;ON map&quot;&gt;{{cite map
+
+ | title     = Ontario Official Road Map
+ | author    = Queen's Printer for Ontario
+ | publisher = Government of Ontario
+ | year      = 1990}}&lt;/ref&gt;&lt;ref name=&quot;Perlys&quot;&gt;{{cite map
+
+ | title     = Toronto &amp; area map book
+ | author    = Perly's
+ | publisher = Rand McNally
+ | year      = 2007
+ | page      = Page 4
+ | isbn      = 978-0-88640-928-9}}&lt;/ref&gt;
+For the length of this concurrency, it is a divided four lane expressway with no left turns, known as [[right-in/right-out]] (RIRO). At Enterprise Hill, Highway 35 exits the divided highway (which continues as Highway 115 east to Peterborough) and proceeds north as a two lane road.&lt;ref&gt;{{Google maps
+
+ | title      = Highway 35 / 115 junction
+ | url        = http://maps.google.ca/?ie=UTF8&amp;hq=&amp;hnear=Toronto,+Toronto+Division,+Ontario&amp;ll=44.061447,-78.62237&amp;spn=0.003284,0.006899&amp;t=k&amp;z=17
+ | accessdate = May 15, 2010}}&lt;/ref&gt; The highway crosses the [[Oak Ridges Moraine]] as it passes into the City of [[Kawartha Lakes]].&lt;ref name=&quot;geology&quot;&gt;{{cite report
+
+ | title      = Paleozoic Region - Bedrock Topography and Geology
+ | author     = Trent Conservation Coalition
+ | publisher  = Ontario Ministry of Environment
+ | year       = 2004
+ | url        = http://www.ene.gov.on.ca/envision/water/groundwater/trent_river_watershed/precambrian/Map03-BedrockTopographyAndGeology.pdf
+ | accessdate = December 26, 2009}}&lt;/ref&gt;
+The terrain flattens approaching [[Lindsay, Ontario|Lindsay]], which the highway bypasses.&lt;ref name=&quot;SCON&quot; /&gt; Between Lindsay and [[Coboconk]], the route is generally straight and crosses through a mix of agricultural lands and forest. After passing through Coboconk, it descends from the flat limestone plateau into the rocky [[Canadian Shield]] south of [[Norland, Ontario|Norland]].&lt;ref name=&quot;geology&quot; /&gt;
+The highway hugs the [[Gull River (Balsam Lake)|Gull River]] north of Norland and cuts through [[granite]] along its route into the [[Haliburton Highlands]].&lt;ref name=&quot;geology&quot; /&gt;&lt;ref name=&quot;2010 mapart&quot;&gt;{{cite map
+
+ | title     = Ontario Back Road Atlas
+ | publisher = [[MapArt]]
+ | year      = 2010
+ | isbn      = 978-1-55198-226-7}}&lt;/ref&gt;
+After passing [[Minden, Ontario|Minden]], the scenic highway begins diving into valleys and along cliffs overlooking several lakes.&lt;ref name=&quot;CP&quot; /&gt;
+
+[[File:Highway 35 Ontario.jpg|thumb|right|alt=A low perspective of a highway. The highway curves to the right, with rolling hills in the background. A reassurance marker is posted in the ground to the right of the highway|Highway 35 near [[Fenelon Falls, Ontario|Fenelon Falls]]]]
+Highway 35 generally follows the former ''Bobcaygeon [[List of Ontario Colonization Roads|Colonization Road]]'' north of Minden, though several realignments over the years have led to its current winding route. At [[Carnarvon, Ontario|Carnarvon]], it meets with [[Ontario Highway 118|Highway 118]].
+&lt;ref name=&quot;CP&quot;&gt;{{cite web
+
+ | title      = Haliburton County
+ | publisher  = CanPages
+ | work       = Scenic Highway 35
+ | page       = 38
+ | url        = http://www.myvirtualpaper.com/doc/Canpages_/HAL/2009050601/40.html
+ | accessdate = May 15, 2010}}&lt;/ref&gt;
+Heading northward into increasingly mountainous terrain, the highway crosses into [[Muskoka]] near [[Dorset, Ontario|Dorset]], and shortly thereafter reaches its terminus at [[Ontario Highway 60|Highway 60]] west of [[Algonquin Park]].&lt;ref name=&quot;2010 mapart&quot; /&gt;
+
+Traffic volumes on Highway&amp;nbsp;35 vary considerably over the length of the highway, as well as over the course of the year due to its use for recreational purposes, including snowmobiling, [[cottaging]] and camping. Along the Highway&amp;nbsp;35 and Highway&amp;nbsp;115 concurrency, the average daily vehicle count is above 20,000. This drops as Highway&amp;nbsp;35 splits off at Enterprise Hill to under 10,000. This volume is fairly consistent as far north as Minden, at which point the vehicle count drops below 5,000 and tapers off as low as 2,000 at Highway&amp;nbsp;60.&lt;ref name=&quot;km&quot; /&gt;
+
+== History ==
+[[File:35 near Cameron Lake.png|thumb|left|alt=&quot;A black and white photo of a highway curving gently to the left. A lake occupies most of the background, while several large trees dominate the foreground.&quot;|Highway 35 overlooking [[Cameron Lake (Ontario)|Cameron Lake]] in 1941]]
+Highway 35, like many highways that begin at [[Lake Ontario]] and eventually cross into the [[Canadian Shield]], began as several trails connecting settlements.&lt;ref name=&quot;rat&quot;&gt;Suggitt pp.&amp;nbsp;66&amp;ndash;67&lt;/ref&gt; Most of the southern portion of the highway follows various [[concession road|sidelines and concessions]].&lt;ref name=&quot;2010 mapart&quot; /&gt; Between Lindsay and Fenelon Falls, Highway 35 follows the former ''Fenelon Road'', while north of there it follows ''The Cameron Road'', a trail carved in the 1850s between Fenelon and [[Minden, Ontario|Minden]]. North of Minden, the highway generally follows ''The Bobcaygeon Road'', a colonization road built as far north as Dwight in the 1850s.&lt;ref name=&quot;p18&quot; /&gt;
+
+The ''Highway 35'' designation was first applied in 1931 to the road between Lindsay and Fenelon Falls. In 1934 it was extended along the road between Fenelon Falls and Rosedale,&lt;ref name=&quot;hita&quot;&gt;Miller pp.&amp;nbsp;97&amp;ndash;98&lt;/ref&gt;
+bringing the length of the highway up to {{convert|38.9|km|1|abbr=on}}. The Department of Northern Development had meanwhile spent the early 1930s upgrading the trails north of the [[Trent&amp;ndash;Severn Canal]] that fell under their jurisdiction. A new road was constructed north of Dorset as part of the Ontario Northern Highways Program,&lt;ref name=&quot;rat&quot; /&gt; avoiding the straight Bobcaygeon Road.&lt;ref name=&quot;p18&quot;&gt;Shragge p.&amp;nbsp;18&lt;/ref&gt;
+The entire route from Rosedale to Huntsville became part of Highway 35 on April 1, 1937 when the Department of Northern Development merged into the Department of Highways,&lt;ref name=&quot;rat&quot; /&gt;&lt;ref&gt;Shragge. p.&amp;nbsp;71&lt;/ref&gt;
+adding {{convert|138.4|km|1|abbr=on}} to the route. Finally in 1938, Highway 35 was extended south to Newcastle.&lt;ref name=&quot;hita&quot; /&gt;
+
+[[File:35 Rock cut at Miners Bay.png|thumb|right|Highway 35 passes through several imposing [[rock cuts]] beginning north of [[Norland, Ontario|Norland]]]]
+At this point, much of the assumed route was a [[gravel road]]. Only the section south of Orono was paved. The Lindsay to Norland section was paved in the 1940s, and north of that point beginning in 1954. It would take until 1958 for paving to commence south of Lindsay.&lt;ref name=&quot;hita&quot; /&gt;
+
+In 1953, Highway 115 was built as a two lane road eastward from Highway 35 near [[Pontypool, Ontario|Pontypool]].&lt;ref name=&quot;hita&quot; /&gt; It was completed to [[Peterborough, Ontario|Peterborough]] by 1954,&lt;ref&gt;{{cite news
+
+ | title      = &quot;Dishonest Practices&quot; Hid Real Highway Work&amp;mdash;Frost
+ | author     = Canadian Press
+ | publisher  = The Ottawa Citizen
+ | date       = March 1, 1955
+ | page       = 21
+ | volume     = 112
+ | issue      = 213
+ | url        = https://news.google.com/newspapers?id=bIcwAAAAIBAJ&amp;sjid=4dwFAAAAIBAJ&amp;dq=ontario%20highway-35&amp;pg=6551%2C1829426
+ | accessdate = May 20, 2010}}&lt;/ref&gt;
+and co-designated with Highway 35 southwards in 1961.&lt;ref name=&quot;hita&quot; /&gt;&lt;ref name=&quot;1961map&quot;&gt;{{cite map
+ | title       = Ontario Road Map
+ | cartography = C.P. Robins
+ | publisher   = Ontario Department of Highways
+ | year        = 1961
+ | section     = R35&amp;ndash;S35}}&lt;/ref&gt;&lt;!-- this 1961 map shows the concurrency of 35 and 115. The 1960 map logs 115 between 35 and 28. This adds another backup to the claim made by Miller. --&gt;
+Construction began to widen both to four lanes beginning in 1984,&lt;ref&gt;{{cite report
+ | title      = Annual Report 1983&amp;ndash;1984
+ | publisher  = Ontario Ministry of Transportation and Communications
+ | date       = March 31, 1984
+ | url        = https://books.google.com/books?ei=RrEjTNC4E4P7lweD7KyDAQ&amp;ct=result&amp;id=scA7AAAAMAAJ&amp;dq=annual+report+Highway+403&amp;q=Highway+403#search_anchor
+ | accessdate = June 24, 2010}}&lt;/ref&gt;
+which was completed in the late 1980s and early 1990s.&lt;ref&gt;{{cite news
+
+ | title      = Transport minister promises 4-lane Highway 115 by 1992
+ | first      = Ed
+ | last       = Fulton
+ | publisher  = The Toronto Star
+ | date       = August 16, 1987
+ | section    = News
+ | page       = C.28
+ | issue      = 213
+ | url        = http://pqasb.pqarchiver.com/thestar/access/472964531.html?dids=472964531:472964531&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Aug+24%2C+1987&amp;author=Special+to+The+Star&amp;pub=Toronto+Star&amp;desc=Transport+minister+promises+4-lane+Highway+115+by+1992&amp;pqatl=google
+ | accessdate = May 20, 2010}}&lt;/ref&gt;
+The concurrency with Highway 60 was removed from Highway 35 after 1961,&lt;ref&gt;{{cite map
+ | title       = Ontario Road Map
+ | cartography = C.P. Robins
+ | publisher   = Ontario Department of Highways
+ | year        = 1961
+ | section     = P34}}&lt;/ref&gt;
+but before 1969.&lt;ref&gt;Department of Highways p.&amp;nbsp;77&amp;ndash;78&lt;/ref&gt;
+
+Beginning in 1954, several bypasses were constructed around the towns and villages along the route.&lt;ref name=&quot;hita&quot; /&gt;
+The first of these was in Minden, bypassing the old route along the Bobcaygeon Road and South Water Street.&lt;ref&gt;{{cite map
+ | title      = County of Haliburton
+ | publisher  = C. Tarling &amp; Co
+ | year       = 1951
+ | url        = http://www.archives.gov.on.ca/english/on-line-exhibits/maps/counties/haliburton.aspx
+ | accessdate = June 26, 2010}}&lt;/ref&gt;
+This was followed by the bypassing of Fenelon Falls in 1955. Highway 35 followed present day [[Kawartha Lakes Road 121]] and [[Kawartha Lakes Road 8]] into and out of the village until the Seventh Concession Line was paved and the highway rerouted onto it.&lt;ref name=&quot;rat&quot; /&gt;&lt;ref&gt;{{cite map
+ | title      = County of Victoria
+ | publisher  = C. Tarling &amp; Co
+ | year       = 1951
+ | url        = http://www.archives.gov.on.ca/english/on-line-exhibits/maps/counties/victoria.aspx
+ | accessdate = June 26, 2010}}&lt;/ref&gt;
+In 1956, Newcastle was bypassed and Highway 35 connected directly to the then eastern terminus of Highway 401 west of the village.&lt;ref name=&quot;hita&quot; /&gt; The former route is now [[Durham Regional Road 19]].&lt;ref name=&quot;2010 mapart&quot; /&gt;
+By 1958, construction had begun on several bypasses of Lindsay,&lt;ref name=&quot;1958map&quot;&gt;{{cite map
+ | title       = Ontario Road Map
+ | cartography = C.P. Robins
+ | publisher   = Ontario Department of Highways
+ | year        = 1958
+ | section     = Lindsay Inset}}&lt;/ref&gt;
+including the ''Lindsay Bypass'' that Highway 7 and 35 follow today. Prior to the opening of the bypass, Highway 35 followed Lindsay Street to Kent Street and jogged northwest along William Street and Colborne Street. It then followed today's [[Kawartha Lakes Road 4]] north and west to the current intersection with Highway 35. This routing became Highway 35B when the bypass opened in 1959.&lt;ref name=&quot;hita&quot; /&gt;&lt;ref name=&quot;1960map&quot;&gt;{{cite map
+ | title       = Ontario Road Map
+ | cartography = C.P. Robins
+ | publisher   = Ontario Department of Highways
+ | year        = 1960
+ | section     = Lindsay Inset}}&lt;/ref&gt;
+In the 1960s, the route through Pontypool (now known as John Street) was bypassed.&lt;ref name=&quot;hita&quot; /&gt;
+
+[[File:35 north of Coboconk.jpg|thumb|left|Highway&amp;nbsp;35 north of [[Coboconk]], showcasing the fall display. [[Shadow Lake|Shadow]] and [[Silver Lake (Ontario)|Silver]] lakes are visible.]]
+Prior to 2007, the highway was extensively rehabilitated between Kawartha Lakes Road 121, near Fenelon Falls and Highway 118 in Carnarvon. This included widening the highway for a third passing lane, as well as the resurfacing of several sections.&lt;ref&gt;{{cite report
+
+ | title      = Southern Highways Program 2007 to 2011
+ | author     = Ministry of Transportation of Ontario
+ | publisher  = Government of Ontario
+ | section    = Appendix
+ | page       = 50}}&lt;/ref&gt;
+
+On the day before [[Remembrance Day]], 2009, the section of Highway&amp;nbsp;35 between Lindsay and Norland was renamed the [[Midland Regiment]] Commemorative Highway, in honour of veterans of World War II. Signs are placed along the highway at regular intervals to acknowledge the designation.&lt;ref&gt;{{cite news
+
+ | title      = New Highway Name Honours Regiment
+ | first      = Catherine
+ | last       = Whitnall
+ | publisher  = Metroland Media
+ | work       = MyKawartha.com
+ | date       = November 12, 2009
+ | url        = http://www.mykawartha.com/news/article/161665--new-highway-name-honours-regiment
+ | accessdate = October 12, 2012}}&lt;/ref&gt;
+On April&amp;nbsp;25, 2012, four bridges along the highway were renamed in memory of police officers killed in the line of duty: The Constable Randall F. Skidmore Bridge over the [[Trent–Severn Waterway]] in Rosedale; the Constable Eric Nystedt Bridge over the [[Gull River (Balsam Lake)|Gull River]] in Moore Falls; and the Corporal James Smith Bridge and Detective Sergeant Lorne J. Chapitis Bridge between Miners Bay and Minden.&lt;ref&gt;{{cite press release
+
+ | title      = Backgrounder - Haliburton Area Bridges Dedicated to Fallen Police Officers
+ | publisher  = Government of Ontario
+ | date       = April 26, 2012
+ | url        = http://news.ontario.ca/mcscs/en/2012/04/haliburton-area-bridges-dedicated-to-fallen-police-officers.html
+ | accessdate = October 12, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news
+
+ | title      = Minden Area Bridges Dedicated To Fallen Police Officers
+ | publisher  = FYI Haliburton
+ | date       = April 27, 2012
+ | url        = http://www.fyihaliburton.com/archive2012.htm#bridges
+ | accessdate = October 12, 2012}}&lt;/ref&gt;
+
+== Future ==
+The MTO is currently performing an environmental assessment on Highway 35 between the Highway 115 split and Lindsay, in preparation for a four-lane expansion.&lt;ref&gt;{{cite web
+
+ | title      = Transportation &amp; Logistics
+ | publisher  = City of Kawartha Lakes Economic Development
+ | url        = http://www.advantagekawarthalakes.ca/en/locateexpand/transportationlogistics.asp
+ | accessdate = May 3, 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite report
+
+ | title       = Highway 35 Planning Study Site
+ | author      = URS Consulting Canada
+ | publisher   = Government of Ontario
+ | url         = http://highway35.planningstudy.on.ca/
+ | accessdate  = May 3, 2010
+ | archiveurl  = https://web.archive.org/web/20070929110210/http://highway35.planningstudy.on.ca/
+ | archivedate=September 29, 2007}}&lt;/ref&gt;
+Work has also commenced on the widening of the ''Lindsay Bypass'' section of Highways 35 and 7 from two lanes to four.&lt;ref&gt;{{cite report
+ | title      = Southern Ontario Highways Program 2006 to 2010
+ | author     = Ministry of Transportation of Ontario
+ | publisher  = Government of Ontario
+ | section    = Greater Golden Horseshoe Expansion 2006 to 2011
+ | page       = 18
+ | url        = http://files.newswire.ca/6/routesud.pdf
+ | accessdate = May 3, 2010
+}}&lt;/ref&gt;
+
+{{clear}}
+
+== Major intersections ==
+{{ONinttop|maint=MTO|length_ref=&lt;ref name=&quot;km&quot;&gt;{{cite web
+
+ | title      = Annual Average Daily Traffic (AADT) counts
+ | author     = Ministry of Transportation of Ontario
+ | year       = 2008
+ | url        = http://www.raqsb.mto.gov.on.ca/techpubs/TrafficVolumes.nsf/tvweb?OpenForm&amp;Seq=5
+ | accessdate = February 16, 2011}}&lt;/ref&gt;}}
+{{ONint
+| division         = Durham
+| dspan            = 20
+| location         = Newcastle
+| lspan            = 3
+| km               = 0.0
+| road             = {{jcon|Hwy|401|city=Toronto|city2=Kingston}}
+| notes            = Beginning of divided highway; southern end of {{jcon|Hwy|115}} concurrency
+}}
+{{ONint
+| km               = 
+| road             = Lovekin Road
+| notes            = No access across highway
+}}
+{{ONint
+| km               = 1.3
+| road             = {{jcon|Durham Regional Highway|2|formerly {{jcon|Hwy|2}}}}
+| notes            = 
+}}
+{{ONint
+| location_special = [[Clarington]]
+| lspan            = 2
+| km               = 4.2
+| road             = Clarke 3rd Concession
+| notes            = 
+}}
+{{ONint
+| km               = 6.2
+| road             = Clarke 4th Concession
+| notes            = 
+}}
+{{ONint
+| location         = Orono
+| lspan            = 6
+| km               = 8.1
+| road             = {{jcon|Durham|17|Main Street|town=Orono}}
+| notes            = Southbound exit and entrance; northbound exit, access to Main Street via Clarke 5th Concession
+}}
+{{ONint
+| km               = 8.6
+| road             = Station Street
+| notes            = No access across highway
+}}
+{{ONint
+| km               = 10.2
+| uspan            = 2
+| road             = Mill Street
+| notes            = Southbound exit and entrance
+}}
+{{ONint
+| km               = none
+| road             = Tamblyn Road
+| notes            = Northbound exit and entrance
+}}
+{{ONint
+| km               = 
+| road             = Co-Op Road&lt;br /&gt;Clarke 6th Concession
+| notes            = Southbound exit and entrance
+}}
+{{ONint
+| km               = 9.9
+| road             = {{jcon|Durham|4|Taunton Road}}&lt;br /&gt;Clarke 6th Concession
+| notes            = No access from southbound 35/115 to Clarke 6th Concession; No access to southbound 35/115
+}}
+{{ONint
+| location_special = [[Clarington]]
+| lspan            = 6
+| km               = 13.4
+| road             = {{jcon|Durham|9|Ganaraska Road|town=Bewdley|town2=Kirby}}&lt;br /&gt;Clarke 7th Concession
+| notes            = 
+}}
+{{ONint|unbuilt
+| km               = 
+| road             = [[Ontario Highway 407|Highway 407]]
+| notes            = Future interchange&lt;ref&gt;{{cite report
+ | title      = East Mainline Report
+ | author     = 407 Study Team
+ | publisher  = Government of Ontario
+ | date       = 2009
+ | url        = http://www.407eastea.com/downloads/2009/East_Mainline_Part2.pdf
+ | accessdate = September 8, 2010}}&lt;/ref&gt;
+}}
+{{ONint
+| km               = 
+| uspan            = 4
+| road             = Clarke 8th Concession
+| notes            = 
+}}
+{{ONint
+| km               = none
+| road             = Skelding Road
+| notes            = Southbound exit and entrance
+}}
+{{ONint
+| km               = none
+| road             = Beaucage Road
+| notes            = Southbound entrance
+}}
+{{ONint
+| km               = none
+| road             = Wilcox Road
+| notes            = Northbound exit and entrance
+}}
+{{ONint
+| location_special = Enterprise Hill
+| km               = 18.9
+| road             = {{jcon|Hwy|115|city=Peterborough}}
+| notes            = Northern end of {{jcon|nolink=y|Hwy|115}} concurrency
+}}
+{{jctgap
+| col              = 5
+| text             = &lt;center&gt;End of divided highway&lt;/center&gt;
+}}
+{{ONint
+| location         = Manvers
+| km               = 20.4
+| road             = {{jcon|Durham|20|Boundary Road}}
+| notes            = 
+}}
+{{ONintfiller
+| division         = Kawartha Lakes
+| dspan            = 20
+}}
+{{ONint
+| location         = Pontypool
+| km               = 22.9
+| road             = {{jcon|KL|12|Pontypool Road}}
+| notes            = 
+}}
+{{ONint
+| location         = &amp;#32;
+| lspan            = 4
+| km               = 30.5
+| road             = {{jcon|Hwy|7A|city=Peterborough|town=Bethany}}
+| notes            = Southern end of {{jcon|nolink=y|Hwy|7A}} concurrency
+}}
+{{ONint
+| km               = 32.0
+| road             = {{jcon|Hwy|7A|town=Port Perry}}
+| notes            = Northern end of {{jcon|nolink=y|Hwy|7A}} concurrency
+}}
+{{ONint
+| km               = 39.1
+| road             = {{jcon|KL|57|Golf Course Road|town=Janetville}}
+| notes            = 
+}}
+{{ONint
+| km               = 40.6
+| road             = {{jcon|KL|31|Mount Horeb Road|town=Omemee}}
+| notes            = 
+}}
+{{ONint
+| location         = Lindsay
+| lspan            = 5
+| km               = 50.0
+| road             = {{jcon|Hwy|7|dir=East|town=Omemee|city=Peterborough}} / {{jcon|KL|15|Victoria Street|dir=North}}
+| notes            = Beginning of {{jcon|nolink=y|Hwy|7}} concurrency; City Road 15 formerly Highways 7B and 35B
+}}
+{{ONint
+| km               = 
+| road             = {{jcon|KL|4|Angeline Street South / Little Britain Road}}
+| notes            = 
+}}
+{{ONint
+| km               = 55.5
+| road             = {{jcon|Hwy|7|city=Toronto}}
+| notes            = End of {{jcon|nolink=y|Hwy|7}} concurrency; beginning of {{jcon|nolink=y|Hwy|7B}} concurrency
+}}
+{{ONint
+| km               = 56.3
+| road             = {{jcon|Hwy|7B|dir=East|Kent Street West}} / Uniroyal Road&amp;nbsp;(South)
+| notes            = End of {{jcon|nolink=y|Hwy|7B}} concurrency; Highway 35 continues north; eastbound road continues as Highway 7B, formerly Highways 7B and 35B
+}}
+{{ONint
+| km               = 59.5
+| road             = {{jcon|KL|4|Thunder Bridge Road}}
+| notes            = 
+}}
+{{ONint
+| location_special = &amp;#32;
+| km               = 62.9
+| road             = {{jcon|KL|21|Killarney Bay Road}}
+| notes            = 
+}}
+{{ONint
+| location         = Cameron
+| km               = 67.2
+| road             = {{jcon|KL|34|Cameron Road}}
+| notes            = 
+}}
+{{ONint
+| location_special = &amp;#32;
+| lspan            = 3
+| km               = 72.4
+| road             = {{jcon|KL|121|Victoria Road|town=Fenelon Falls}}
+| notes            = Formerly {{jcon|Hwy|121}}
+}}
+{{ONint
+| km               = 76.6
+| road             = {{jcon|KL|8|Victoria Road|town=Fenelon Falls}}
+| notes            = Formerly {{jcon|Hwy|35A}}
+}}
+{{ONint
+| km               = 77.4
+| road             = {{jcon|KL|8|Glenarm Road}}
+| notes            = 
+}}
+{{ONint
+| location_special = [[Coboconk]]
+| lspan            = 3
+| km               = 92.5
+| road             = {{jcon|KL|43|Somerville 7th Concession|town=Burnt River|town2=Four Mile Lake}}
+| notes            = 
+}}
+{{ONint
+| km               = 92.9
+| road             = {{jcon|KL|42|Baseline Road}}
+| notes            = 
+}}
+{{ONint
+| km               = 93.7
+| road             = {{jcon|KL|48|Portage Road|town=Beaverton}}
+| notes            = Formerly {{jcon|Hwy|48}}
+}}
+{{ONint
+| location_special = [[Norland, Ontario|Norland]]
+| km               = 101.4
+| road             = {{jcon|KL|45|Monck Road|town=Uphill|town2=Kinmount}}
+| notes            = Formerly {{jcon|Hwy|503}}
+}}
+{{ONint
+| division         = Haliburton
+| dspan            = 10
+| location         = Minden Hills
+| km               = 111.8
+| road             = {{jcon|HH|2|Deep Bay Road}}
+| notes            = 
+}}
+{{ONint
+| location         = Minden
+| lspan            = 3
+| km               = 126.0
+| road             = {{jcon|HH|121|town=Kinmount}}
+| notes            = Formerly {{jcon|Hwy|121}}
+}}
+{{ONint
+| km               = 128.7
+| road             = {{jcon|HH|16|South Lake Road|town=Gelert|town2=Lochlin}}&lt;br /&gt;{{jcon|HH|2|Newcastle Street}}
+| notes            = 
+}}
+{{ONint
+| km               = 130.5
+| road             = {{jcon|HH|21|town=Haliburton Village}}
+| notes            = Formerly {{jcon|Hwy|121}}
+}}
+{{ONint
+| location         = Carnarvon
+| km               = 143.6
+| road             = {{jcon|Hwy|118|town=Bracebridge|town2=Haliburton Village}}
+| notes            = 
+}}
+{{ONint
+| location         = Halls Lake
+| km               = 154.2
+| road             = {{jcon|HH|13|Little Hawk Lake Road}}
+| notes            = 
+}}
+{{ONint
+| location_special = Ox Narrows
+| km               = 160.4
+| road             = {{jcon|HH|11|Kushog Lake Road}}
+| notes            = 
+}}
+{{ONint
+| location         = Dorset
+| lspan            = 3
+| km               = 177.9
+| road             = {{jcon|Muskoka|117|town=Bracebridge}}
+| notes            = Formerly {{jcon|Hwy|117}}
+}}
+{{ONint
+| km               = 
+| road             = {{jcon|HH|39|Main Street}}
+| notes            = 
+}}
+{{ONint
+| km               = 
+| road             = {{jcon|HH|8|Kawagama Lake Road}}
+| notes            = 
+}}
+{{ONint
+| division         = Muskoka
+| dspan            = 2
+| location         = Lake of Bays
+| km               = 
+| road             = {{jcon|Muskoka|21|Fox Point Road}}
+| notes            = 
+}}
+{{ONint
+| location         = Dwight
+| km               = 195.6
+| road             = {{jcon|Hwy|60|town=Huntsville|town2=Whitney}}, [[Algonquin Park]]
+| notes            = 
+}}
+{{jctbtm|keys=unbuilt}}
+
+==References==
+;Sources
+{{Reflist}}
+;Bibliography
+*{{cite book
+
+ | title      = From Coal Oil Lights to Satellites
+ | first      = Ray Y C
+ | last       = Miller
+ | publisher  = Trafford Publishing
+ | year       = 2005
+ | isbn       = 1-4120-4894-X
+ | section    = History of Highways in the Area
+ | url        = https://books.google.com/books?id=Tk6fG4rvd8UC&amp;lpg=PA97&amp;dq=Highway%2035%20Huntsville%20Ontario&amp;pg=PA97#v=onepage&amp;q=Highway%2035%20Huntsville%20Ontario&amp;f=false
+ | accessdate = June 25, 2010}}
+*{{cite book
+
+ | title      = From Footpaths to Freeways
+ | last1      = Shragge
+ | first1     = John
+ | last2      = Bagnato
+ | first2     = Sharon
+ | publisher  = Ontario Ministry of Transportation and Communications, Historical Committee
+ | year       = 1984
+ | isbn       = 0-7743-9388-2}}
+*{{cite book
+
+ | title     = Roses and Thorns, A Goodly Heritage - The Early Days of Baddow and Area
+ | last      = Suggitt
+ | first     = Gladys M.
+ | publisher = John Deyell Co
+ | year      = 1972}}
+*{{cite book
+
+ | title     = AADT Traffic Volumes 1955&amp;ndash;1969 And Traffic Collision Data 1967&amp;ndash;1969
+ | publisher = Department of Highways
+ | year      = 1969}}
+
+==External links==
+{{Attached KML|display=title,inline}}
+{{Commons category-inline}}
+* [https://web.archive.org/web/20070929110210/http://highway35.planningstudy.on.ca/ Highway 35 Planning Study official website (archived September 29, 2007)]
+* [https://web.archive.org/web/20070929110205/highway35.planningstudy.on.ca/images/lg_studyarea.gif Map of the study area (archived September 29, 2007)]
+* [http://www.asphaltplanet.ca/ON/highway_35.htm Highway 35 at OntHighways.com]
+* [http://www.gregcons.com/KateBlog/ScopeCreepInRealLife.aspx Highway 35 and the issue of &quot;Scope Creep&quot;]
+
+{{Ontario King's Highways}}
+
+{{good article}}
+
+[[Category:Ontario provincial highways|035]]
+[[Category:Kawartha Lakes]]
+[[Category:Transport in Clarington]]</text>
+      <sha1>9bf9o091q03t999ltulw1zahwkqc6sc</sha1>
+    </revision>
+  </page>
+</mediawiki>

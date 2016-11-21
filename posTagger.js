@@ -2,13 +2,15 @@
 var Tagger = require("node-stanford-postagger/postagger").Tagger
 var _ = require('underscore')
 var async = require('async')
+// docker run -p 9000:9000 cuzzo/stanford-pos-tagger
 
 
 // LOGIC
 // Tagger
 var tagger = new Tagger({
   port: "9000",
-  host: "localhost"
+  host: "192.168.99.100"
+  // host: "localhost"
 });
 
 // Return Object
