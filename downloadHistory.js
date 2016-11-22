@@ -23,6 +23,13 @@ var client = new bot({
 
 var articleTitle = ''
 
+// var articleTitle = 'History_of_Texas_A&amp;M_University'
+// client.getArticleRevisions(articleTitle, (err, data) => {
+//   if (err) throw err
+//   console.log(data[0]);
+//   process.exit()
+// })
+
 var bots = []
 
 const downloadRevisionHistory = (_title, cb) => {

@@ -10,7 +10,7 @@ var lengthAnalyzer = require('./analyzers/lengthAnalyzer.js')
 var structureAnalyzer = require('./analyzers/structureAnalyzer.js')
 var lexicalAnalyzer = require('./analyzers/lexicalAnalyzer.js')
 var styleAnalyzer = require('./analyzers/styleAnalyzer.js')
-// var revisionAnalyzer = require('./analyzers/revisionAnalyzer.js')
+var revisionAnalyzer = require('./analyzers/revisionAnalyzer.js')
 
 
 // LOGIC
@@ -35,9 +35,9 @@ var articleJSON = {
     structureFeatures : {},
     styleFeatures: {},
     readabilityFeatures: {},
-  //   posTrigrams: {},
-  //   charTrigrams: {},
-  //   reviewFeatures: {}
+    posTrigrams: {},
+    charTrigrams: {},
+    reviewFeatures: {}
   }
 }
 
@@ -142,9 +142,10 @@ const getCharTrigrams = (cb) => {
 }
 
 const getReviewFeatures = (cb) => {
-  // revisionAnalyzer.getReviewFeatures
-
-  cb (null, 'Get Review Features')
+  revisionAnalyzer.getReviewFeatures(articleJSON.title, (reviewFeatures) => {
+    articleJSON.features.reviewFeatures = reviewFeatures
+    cb(null, 'Get Review Features')
+  })
 }
 
 const analyze = (articleTextFromXML, id, title, textWithSectionTitles, subsectionIndexes, abstract, sections, text, sentences, onlyLettersAndNumbersText, words, cb) => {

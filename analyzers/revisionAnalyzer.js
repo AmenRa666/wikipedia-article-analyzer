@@ -10,7 +10,7 @@ var dbAgent = require('../dbAgent.js')
 
 
 // LOGIC
-var articleTitle = "Jack the Ripper: The Final Solution"
+var articleTitle = ''
 
 var _reverts = fs.readFileSync(path.join(__dirname, '../reverts.csv'), 'utf8').trim().split('\n')
 _reverts.shift()
@@ -102,7 +102,6 @@ const getReviewsPerUserStdDev = (cb) => {
 
 const countReviews = (cb) => {
   var reviewCount = reviews.length
-
   var registeredReviewCount = 0
   var anonymouseReviewCount = 0
   reviews.forEach((review) => {
@@ -149,7 +148,7 @@ const countDiscussion = (cb) => {
   ]
   // dbAgent.findArticleByTitle(articleTitle.replace(/_/g, ' '), (doc) => {
     // var xmlFilename = folder + paths[doc.qualityClass - 1] + 'Talk-' + sanitize(articleTitle) + '.xml'
-    var xmlFilename = folder + 'Talk-' + sanitize(articleTitle).replace(/ /g, '_') + '.xml'
+    var xmlFilename = folder + 'Talk-' + articleTitle.replace(/ /g, '_') + '.xml'
     fs.readFile(path.join(__dirname, folder, xmlFilename), 'utf8', (err, talkPage) => {
       if (err) throw err
       else {
@@ -271,7 +270,7 @@ const getThreeMonthsAgoFeatures = (cb) => {
 const getRevertsFeatures = (cb) => {
   var revertCount = 0
   for (var i = 0; i < reverts.length; i++) {
-    if (reverts[i][0] == sanitize(articleTitle)) {
+    if (reverts[i][0] == articleTitle) {
       revertCount = reverts[i][1]
       break
     }
@@ -281,89 +280,97 @@ const getRevertsFeatures = (cb) => {
   cb(null, 'Get Revers Features')
 }
 
-dbAgent.findRevisionByArticleTitle(sanitize(articleTitle).replace(/ /g, '_'), (docs) => {
-  reviews = docs
-  timestamps = []
-  users = []
+const getReviewFeatures = (_articleTitle, cb) => {
+  articleTitle = sanitize(_articleTitle).replace(/&amp;/g, '&')
+  dbAgent.findRevisionByArticleTitle(articleTitle.replace(/ /g, '_'), (docs) => {
 
-  reviewFeatures.age = 0
-  reviewFeatures.agePerReview = 0
-  reviewFeatures.reviewPerDay = 0
-  reviewFeatures.reviewsPerUser = 0
-  reviewFeatures.reviewsPerUserStdDev = 0
-  reviewFeatures.discussionCount = 0
-  reviewFeatures.reviewCount = 0
-  reviewFeatures.registeredReviewCount = 0
-  reviewFeatures.anonymouseReviewCount = 0
-  reviewFeatures.registeredReviewRate = 0
-  reviewFeatures.anonymouseReviewRate = 0
-  reviewFeatures.registeredAnonymouseReviewRatio = 0
-  reviewFeatures.userCount = 0
-  reviewFeatures.occasionalUserCount = 0
-  reviewFeatures.occasionalUserRate = 0
-  reviewFeatures.registeredUserCount = 0
-  reviewFeatures.anonymouseUserCount = 0
-  reviewFeatures.registerdAnonymouseUserRatio = 0
-  reviewFeatures.registeredUserRate = 0
-  reviewFeatures.anonymouseUserRate = 0
-  reviewFeatures.revertCount = 0
-  reviewFeatures.revertReviewRatio = 0
-  reviewFeatures.diversity = 0
-  reviewFeatures.modifiedLinesRate = 0
-  reviewFeatures.mostActiveUsersReviewCount = 0
-  reviewFeatures.mostActiveUsersReviewRate = 0
-  reviewFeatures.occasionalUsersReviewCount = 0
-  reviewFeatures.occasionalUsersReviewRate = 0
-  reviewFeatures.lastThreeMonthsReviewCount = 0
-  reviewFeatures.lastThreeMonthsReviewRate = 0
+    for (var i = 0; i < docs.length; i++) {
+      if(!docs[i].user) {
+        docs[i].user = 'undefined' + i
+      }
+    }
 
+    reviews = docs
+    timestamps = []
+    users = []
 
-  // console.log(timestamps.length);
+    reviewFeatures.age = 0
+    reviewFeatures.agePerReview = 0
+    reviewFeatures.reviewPerDay = 0
+    reviewFeatures.reviewsPerUser = 0
+    reviewFeatures.reviewsPerUserStdDev = 0
+    reviewFeatures.discussionCount = 0
+    reviewFeatures.reviewCount = 0
+    reviewFeatures.registeredReviewCount = 0
+    reviewFeatures.anonymouseReviewCount = 0
+    reviewFeatures.registeredReviewRate = 0
+    reviewFeatures.anonymouseReviewRate = 0
+    reviewFeatures.registeredAnonymouseReviewRatio = 0
+    reviewFeatures.userCount = 0
+    reviewFeatures.occasionalUserCount = 0
+    reviewFeatures.occasionalUserRate = 0
+    reviewFeatures.registeredUserCount = 0
+    reviewFeatures.anonymouseUserCount = 0
+    reviewFeatures.registerdAnonymouseUserRatio = 0
+    reviewFeatures.registeredUserRate = 0
+    reviewFeatures.anonymouseUserRate = 0
+    reviewFeatures.revertCount = 0
+    reviewFeatures.revertReviewRatio = 0
+    reviewFeatures.diversity = 0
+    reviewFeatures.modifiedLinesRate = 0
+    reviewFeatures.mostActiveUsersReviewCount = 0
+    reviewFeatures.mostActiveUsersReviewRate = 0
+    reviewFeatures.occasionalUsersReviewCount = 0
+    reviewFeatures.occasionalUsersReviewRate = 0
+    reviewFeatures.lastThreeMonthsReviewCount = 0
+    reviewFeatures.lastThreeMonthsReviewRate = 0
 
-  docs.sort((a,b) => {
-    // Turn your strings into dates, and then subtract them
-    // to get a value that is either negative, positive, or zero.
-    return new Date(b.timestamp) - new Date(a.timestamp);
-  });
+    docs.sort((a,b) => {
+      // Turn your strings into dates, and then subtract them
+      // to get a value that is either negative, positive, or zero.
+      return new Date(b.timestamp) - new Date(a.timestamp);
+    });
 
-  docs.forEach((review) => {
-    timestamps.push(review.timestamp)
-    users.push(review.user)
+    docs.forEach((review) => {
+      timestamps.push(review.timestamp)
+      users.push(review.user)
+    })
+
+    users = _.uniq(users)
+
+    async.parallel([
+      getRevertsFeatures,
+      getReviewsPerUserStdDev,
+      countReviews,
+      countUsers,
+      countDiscussion,
+      getDiversity,
+      getThreeMonthsAgoFeatures,
+      (cb) => {
+        async.series([
+          getAge,
+          (cb) => {
+            async.parallel([
+              getAgePerReview,
+              getReviewPerDay,
+              getReviewsPerUser
+            ], cb)
+          }
+        ], cb)
+      }
+    ], (err, res) => {
+      if (err) throw error
+      else {
+        cb(reviewFeatures)
+      }
+    })
+
   })
 
-  users = _.uniq(users)
-
-  async.parallel([
-    getRevertsFeatures,
-    getReviewsPerUserStdDev,
-    countReviews,
-    countUsers,
-    countDiscussion,
-    getDiversity,
-    getThreeMonthsAgoFeatures,
-    (cb) => {
-      async.series([
-        getAge,
-        (cb) => {
-          async.parallel([
-            getAgePerReview,
-            getReviewPerDay,
-            getReviewsPerUser
-          ], cb)
-        }
-      ], cb)
-    }
-  ], (err, res) => {
-    if (err) throw error
-    else {
-      console.log(reviewFeatures);
-      process.exit()
-    }
-  })
+}
 
 
-})
-
+module.exports.getReviewFeatures = getReviewFeatures
 
 
 

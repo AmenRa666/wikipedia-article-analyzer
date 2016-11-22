@@ -5,6 +5,7 @@ mongoose.connect('mongodb://localhost/wikipedia')
 // models
 var Article = require('./models/article.js').Article
 var Revision = require('./models/revision.js').Revision
+var Revision2 = require('./models/revision2.js').Revision2
 
 // get notified if we connect successfully or if a connection error occurs
 var db = mongoose.connection
@@ -45,7 +46,6 @@ const insertRevision = (revision, cb) => {
   Revision.create(revision, (err, obj) => {
     if (err) return handleError(err)
     else {
-      console.log('Revision saved!')
       cb(null, 'Revision Saved')
     }
   })

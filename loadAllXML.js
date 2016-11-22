@@ -193,6 +193,7 @@ const load = (file, cb) => {
                 var lexicalFeatures = articleJSON.features.lexicalFeatures
                 var posTrigrams = articleJSON.features.posTrigrams
                 var charTrigrams = articleJSON.features.charTrigrams
+                var reviewFeatures = articleJSON.features.reviewFeatures
 
                 var article = {
                   id: id,
@@ -380,9 +381,15 @@ const load = (file, cb) => {
                   "_to": charTrigrams["_to"],
                   "to_": charTrigrams["to_"],
                   "as_": charTrigrams["as_"],
-                  // Quality Class
-                  qualityClass: qualityClass
+
                 }
+                // Review Features
+                for (key in reviewFeatures) {
+                  article[key] = reviewFeatures[key]
+                }
+
+                // Quality Class
+                article.qualityClass = qualityClass
 
                 dbAgent.insertArticle(article, cb)
 
