@@ -47,24 +47,18 @@
     <ns>0</ns>
     <id>239897</id>
     <revision>
-      <id>750494844</id>
-      <parentid>749654596</parentid>
-      <timestamp>2016-11-20T02:40:12Z</timestamp>
+      <id>750905358</id>
+      <parentid>750494844</parentid>
+      <timestamp>2016-11-22T04:28:40Z</timestamp>
       <contributor>
-        <username>BattyBot</username>
-        <id>15996738</id>
+        <username>Caballero1967</username>
+        <id>395969</id>
       </contributor>
-      <minor/>
-      <comment>[[WP:AWB/GF|General fixes]], replaced: [[turkey]] → [[turkey (bird)|turkey]] using [[Project:AWB|AWB]]</comment>
+      <comment>Removing multiple issues template. Demands met, Explained edit in the article' talk page. Before reverting, please, follow up in the talk page.</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="87493">{{redirect|VA Tech}}
+      <text xml:space="preserve" bytes="87360">{{redirect|VA Tech}}
 {{pp-move-indef}}
-{{multiple issues|
-{{Primary sources|date=December 2015}}
-{{refimprove|date=December 2015}}
-{{Cleanup gallery|date=October 2016}}
-}}
 {{Use mdy dates|date=November 2013}}
 {{Infobox university
 | name= Virginia Polytechnic Institute&lt;br /&gt;and State University
@@ -819,7 +813,7 @@ Since opening in 1872 as Virginia Agricultural and Mechanical College, Virginia 
 [[Category:Former Big East Conference schools]]
 [[Category:Former Southern Conference schools]]
 [[Category:Visitor attractions in Montgomery County, Virginia]]</text>
-      <sha1>ggmfguf58tztw325maafft6iq540e3g</sha1>
+      <sha1>r4ltn53x7ggbccirgnk9ulqdtr86jr1</sha1>
     </revision>
   </page>
 </mediawiki>

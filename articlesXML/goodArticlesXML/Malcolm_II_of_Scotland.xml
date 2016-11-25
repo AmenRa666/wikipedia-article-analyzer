@@ -47,18 +47,17 @@
     <ns>0</ns>
     <id>148037</id>
     <revision>
-      <id>750686811</id>
-      <parentid>750392856</parentid>
-      <timestamp>2016-11-21T07:18:02Z</timestamp>
+      <id>750877753</id>
+      <parentid>750686811</parentid>
+      <timestamp>2016-11-22T00:29:47Z</timestamp>
       <contributor>
-        <username>Yobot</username>
-        <id>7328338</id>
+        <username>Bgwhite</username>
+        <id>264323</id>
       </contributor>
-      <minor/>
-      <comment>/* External links */[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]]</comment>
+      <comment>fix bad isbn using [[Project:AWB|AWB]]</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="23904">{{redirects|Malcolm II|other people named Malcolm II}}
+      <text xml:space="preserve" bytes="23898">{{redirects|Malcolm II|other people named Malcolm II}}
 {{Infobox royalty
 | name = Malcolm II
 | image = Malcolm II of Scotland.jpg
@@ -86,11 +85,11 @@ Malcolm II was born to [[Kenneth II of Scotland]]. He was grandson of [[Malcolm 
 [[John of Fordun]] writes that Malcolm defeated a [[Norway|Norwegian]] army &quot;in almost the first days after his coronation&quot;, but this is not reported elsewhere. Fordun says that the [[Diocese of Aberdeen|Bishopric of Mortlach]] (later moved to [[Aberdeen]]) was founded in thanks for this victory over the Norwegians.&lt;ref&gt;''Early Sources'', p. 525, note 1; Fordun, IV, xxxix&amp;ndash;xl.&lt;/ref&gt;
 
 == Children ==
-Malcolm demonstrated a rare ability to survive among early Scottish kings by reigning for twenty-nine years. He was a clever and ambitious man. Brehon tradition provided that the successor to Malcolm was to be selected by him from among the descendants of [[Áed mac Cináeda|King Aedh]], with the consent of Malcolm’s ministers and of the church. Ostensibly in an attempt to end the devastating feuds in the north of Scotland, but obviously influenced by the Norman feudal model, Malcolm ignored tradition and determined to retain the succession within his own line. But since Malcolm had no son of his own, he undertook to negotiate a series of dynastic marriages of his three daughters to men who might otherwise be his rivals, while securing the loyalty of the principal chiefs, their relatives. First he married his daughter [[Bethóc|Bethoc]] to [[Crínán of Dunkeld|Crinan]], Thane of The Isles, head of the house of Atholl and secular Abbot of Dunkeld; then his youngest daughter, Olith, to [[Sigurd the Stout|Sigurd, Earl of Orkney]]. His middle daughter, Donada, was married to [[Findláech of Moray|Finlay, Earl of Moray]], Thane of Ross and Cromarty and a descendant of [[Loarn mac Eirc|Loarn of Dalriada]]. This was risky business under the rules of succession of the Gael, but he thereby secured his rear and, taking advantage of the renewal of Viking attacks on England, marched south to fight the English. He defeated the Angles at [[Battle of Carham|Carham]] in 1018 and installed his grandson, Duncan, son of the Abbot of Dunkeld and his choice as Tanist, in Carlisle as King of Cumbria that same year.&lt;ref&gt;1. BETHOC [Beatrix Beatrice Betoch] &quot;Genealogy of King William the Lyon&quot; dated 1175 names &quot;Betoch filii Malcolmi&quot; as parent of &quot;Malcolmi filii Dunecani&quot;. The Chronicle of the Scots and Picts dated 1177 names &quot;Cran Abbatis de Dunkelden et Bethok filia Malcolm mac Kynnet&quot; as parents of King Duncan. source Beatrice who married Crynyne Abthane of Dul and Steward of the Isles
+Malcolm demonstrated a rare ability to survive among early Scottish kings by reigning for twenty-nine years. He was a clever and ambitious man. Brehon tradition provided that the successor to Malcolm was to be selected by him from among the descendants of [[Áed mac Cináeda|King Aedh]], with the consent of Malcolm's ministers and of the church. Ostensibly in an attempt to end the devastating feuds in the north of Scotland, but obviously influenced by the Norman feudal model, Malcolm ignored tradition and determined to retain the succession within his own line. But since Malcolm had no son of his own, he undertook to negotiate a series of dynastic marriages of his three daughters to men who might otherwise be his rivals, while securing the loyalty of the principal chiefs, their relatives. First he married his daughter [[Bethóc|Bethoc]] to [[Crínán of Dunkeld|Crinan]], Thane of The Isles, head of the house of Atholl and secular Abbot of Dunkeld; then his youngest daughter, Olith, to [[Sigurd the Stout|Sigurd, Earl of Orkney]]. His middle daughter, Donada, was married to [[Findláech of Moray|Finlay, Earl of Moray]], Thane of Ross and Cromarty and a descendant of [[Loarn mac Eirc|Loarn of Dalriada]]. This was risky business under the rules of succession of the Gael, but he thereby secured his rear and, taking advantage of the renewal of Viking attacks on England, marched south to fight the English. He defeated the Angles at [[Battle of Carham|Carham]] in 1018 and installed his grandson, Duncan, son of the Abbot of Dunkeld and his choice as Tanist, in Carlisle as King of Cumbria that same year.&lt;ref&gt;1. BETHOC [Beatrix Beatrice Betoch] &quot;Genealogy of King William the Lyon&quot; dated 1175 names &quot;Betoch filii Malcolmi&quot; as parent of &quot;Malcolmi filii Dunecani&quot;. The Chronicle of the Scots and Picts dated 1177 names &quot;Cran Abbatis de Dunkelden et Bethok filia Malcolm mac Kynnet&quot; as parents of King Duncan. source Beatrice who married Crynyne Abthane of Dul and Steward of the Isles
 
 2. DONADA [Dovada Duada Doada Donalda] R alph Holinshed's 1577 Chronicle of Scotland names &quot;Doada&quot; as second daughter of Malcolm II King of Scotland and adds that she married &quot;Sinell the thane of Glammis, by whom she had issue one Makbeth&quot;.
 
-3. OLITH [Alice Olith Anlite] Orkneyinga Saga records that “Earl Sigurd” married “the daughter of Malcolm King of Scots”. Snorre records the marriage of &quot;Sigurd the Thick&quot; and &quot;a daughter of the Scottish king Malcolm&quot;. Ulster journal of archaeology, Volume 6  By Ulster Archaeological Society names her as (Alice) wife of Sygurt and daughter of Malcolm II. The American historical magazine, Volume 2 By Publishing Society of New York, Americana Society pg 529 names her Olith or Alice.
+3. OLITH [Alice Olith Anlite] Orkneyinga Saga records that &quot;Earl Sigurd&quot; married &quot;the daughter of Malcolm King of Scots&quot;. Snorre records the marriage of &quot;Sigurd the Thick&quot; and &quot;a daughter of the Scottish king Malcolm&quot;. Ulster journal of archaeology, Volume 6  By Ulster Archaeological Society names her as (Alice) wife of Sygurt and daughter of Malcolm II. The American historical magazine, Volume 2 By Publishing Society of New York, Americana Society pg 529 names her Olith or Alice.
 &lt;/ref&gt;
 
 == Bernicia ==
@@ -132,7 +131,7 @@ On the question of Malcolm's putative pilgrimage, pilgrimages to Rome, or other 
 Not a great deal is known of Malcolm's activities beyond the wars and killings. The [[Book of Deer]] records that Malcolm &quot;gave a king's dues in Biffie and in Pett Meic-Gobraig, and two davochs&quot; to the monastery of [[Old Deer]].&lt;ref&gt;Gaelic Notes in the Book of Deer.&lt;/ref&gt; He was also probably not the founder of the Bishopric of Mortlach-Aberdeen. John of Fordun has a peculiar tale to tell, related to the supposed &quot;Laws of Malcolm MacKenneth&quot;, saying that Malcolm gave away all of Scotland, except for the Moot Hill at [[Scone, Perth and Kinross|Scone]], which is unlikely to have any basis in fact.&lt;ref&gt;Fordun, IV, xliii and Skene's notes; Duncan, p. 150; Barrow, ''Kingdom of the Scots'', p. 39.&lt;/ref&gt;
 
 == Notes ==
-{{reflist|2}}
+{{Reflist|30em}}
 
 == References ==
 ''For primary sources see also '' '''External links''' ''below.''
@@ -140,7 +139,7 @@ Not a great deal is known of Malcolm's activities beyond the wars and killings. 
 * [[Alan Orr Anderson|Anderson, Alan Orr]], ''Early Sources of Scottish History A.D. 500&amp;ndash;1286'', volume 1. Reprinted with corrections. Paul Watkins, Stamford, 1990. ISBN 1-871615-03-8
 * Anon., ''Orkneyinga Saga: The History of the Earls of Orkney'', tr. Hermann Pálsson and Paul Edwards. Penguin, London, 1978. ISBN 0-14-044383-5
 * [[Geoffrey Barrow|Barrow, G.W.S.]], ''The Kingdom of the Scots.'' Edinburgh University Press, Edinburgh, 2003. ISBN 0-7486-1803-1
-* Clarkson, Tim, ''Strathclyde and the Anglo-Saxons in the Viking Age'', Birlinn, Edinburgh, 2014, ISBN 1-906566-78-4
+* Clarkson, Tim, ''Strathclyde and the Anglo-Saxons in the Viking Age'', Birlinn, Edinburgh, 2014, ISBN 	9781906566784
 * Duncan, A.A.M., ''The Kingship of the Scots 842&amp;ndash;1292: Succession and Independence.'' Edinburgh University Press, Edinburgh, 2002. ISBN 0-7486-1626-8
 * Fletcher, Richard, ''Bloodfeud: Murder and Revenge in Anglo-Saxon England.'' Penguin, London, 2002. ISBN 0-14-028692-6
 * [[John of Fordun]], ''Chronicle of the Scottish Nation'', ed. [[William Forbes Skene]], tr. Felix J.H. Skene, 2 vols. Reprinted, Llanerch Press, Lampeter, 1993. ISBN 1-897853-05-X
@@ -184,7 +183,7 @@ Not a great deal is known of Malcolm's activities beyond the wars and killings. 
 [[Category:Burials at Iona Abbey]]
 [[Category:Year of birth unknown]]
 [[Category:954 births]]</text>
-      <sha1>irrvx0x0ro2rdhrlffs3ia4gib2iroj</sha1>
+      <sha1>anr1jvb8t6kvmeqze9vu90qj2553nen</sha1>
     </revision>
   </page>
 </mediawiki>

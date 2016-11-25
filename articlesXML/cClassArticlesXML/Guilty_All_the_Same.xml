@@ -47,17 +47,15 @@
     <ns>0</ns>
     <id>42126310</id>
     <revision>
-      <id>749471687</id>
-      <parentid>749419953</parentid>
-      <timestamp>2016-11-14T14:58:36Z</timestamp>
+      <id>750714811</id>
+      <parentid>749471687</parentid>
+      <timestamp>2016-11-21T12:07:45Z</timestamp>
       <contributor>
-        <username>Kokoro20</username>
-        <id>6052754</id>
+        <ip>2405:204:4003:3FCF:0:0:1E07:88A5</ip>
       </contributor>
-      <comment>Undid revision 749419953 by [[Special:Contributions/Killer Punk1999|Killer Punk1999]] ([[User talk:Killer Punk1999|talk]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="16099">{{Use mdy dates|date=April 2014}}
+      <text xml:space="preserve" bytes="16100">{{Use mdy dates|date=April 2014}}
 {{Infobox single &lt;!-- See Wikipedia:WikiProject_Songs --&gt;
 | Name           = Guilty All the Same
 | Cover          = guilty all the same.jpg
@@ -67,7 +65,7 @@
 | Album          = [[The Hunting Party (album)|The Hunting Party]]
 | Released       = March 7, 2014
 | Recorded       = 2013-14
-| Genre          = [[Hard rock]], [[heavy metal music|heavy metal]], {{nowrap|[[rap metal]]}}&lt;!-- These genres are cited in the prose. Please do not alter them without additional sourcing and/or talk page discussion. --&gt;
+| Genre          = [[Heavy metal music|Heavy metal]], [[hard rock]],  {{nowrap|[[rap metal]]}}&lt;!-- These genres are cited in the prose. Please do not alter them without additional sourcing and/or talk page discussion. --&gt;
 | Length         = 5:55
 | Label          = [[Warner Bros. Records|Warner Bros.]], [[Machine Shop Recordings|Machine Shop]]
 | Producer       = [[Brad Delson]], [[Mike Shinoda]]
@@ -244,7 +242,7 @@ The music video for &quot;Guilty All the Same&quot; is a collaboration between L
 [[Category:Billboard Mainstream Rock number-one singles]]
 [[Category:Hard rock songs]]
 [[Category:Rap metal songs]]</text>
-      <sha1>61zhdzv45lvywlvh7752hzhf3uyhxok</sha1>
+      <sha1>do4vxt7e1mshkesil7e1bq9mj4q48tz</sha1>
     </revision>
   </page>
 </mediawiki>

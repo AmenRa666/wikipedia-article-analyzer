@@ -47,20 +47,18 @@
     <ns>0</ns>
     <id>30297</id>
     <revision>
-      <id>750520726</id>
-      <parentid>750520610</parentid>
-      <timestamp>2016-11-20T07:22:03Z</timestamp>
+      <id>750945274</id>
+      <parentid>750929353</parentid>
+      <timestamp>2016-11-22T12:00:24Z</timestamp>
       <contributor>
-        <username>Sjö</username>
-        <id>202394</id>
+        <ip>83.170.101.202</ip>
       </contributor>
-      <minor/>
-      <comment>/* See also */ Also removed [[Model audit]] as unconnected</comment>
+      <comment>/* Goods and services */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="97932">{{Use dmy dates|date=May 2015}}
+      <text xml:space="preserve" bytes="98012">{{Use dmy dates|date=May 2015}}
 {{Taxation}}
-A '''tax''' (from the [[Latin]] ''[[wikt:en:taxo#Latin|taxo]]'') is a financial charge or other levy imposed upon a taxpayer (an individual or [[Legal person|legal entity]]) by a [[State (polity)|state]] or the functional equivalent of a state to fund various public expenditures.&lt;ref&gt;{{cite web | url =http://www.britannica.com/EBchecked/topic/584578/taxation|title=Taxation|work=[[Britannica]]|author=Charles E. McLure, Jr.|accessdate = 3 March 2015}}&lt;/ref&gt; A failure to pay, or evasion of or resistance to taxation, is usually punishable by law. Taxes consist of [[direct tax|direct]] or [[indirect tax]]es and may be paid in money or as its labour equivalent. Most countries have a tax system in place to pay for public/common/agreed national needs and government functions: some levy a flat percentage rate of taxation on personal annual income, some on a scale based on annual income amounts, and some countries impose almost no taxation at all, or a very low tax rate for a certain area of taxation. Some countries also charge a tax on corporate income, dividends, or distributions - this is often referred to as [[double taxation]] as the individual shareholder(s) receiving this payment from the company will also be levied some tax on that personal income.
+A '''tax''' (from the [[Latin]] ''[[wikt:en:taxo#Latin|taxo]]'') is a financial charge or other levy imposed upon a taxpayer (an individual or [[Legal person|legal entity]]) by a [[State (polity)|state]] or the functional equivalent of a state to fund various public expenditures. &lt;ref&gt;{{cite web | url =http://www.britannica.com/EBchecked/topic/584578/taxation|title=Taxation|work=[[Britannica]]|author=Charles E. McLure, Jr.|accessdate = 3 March 2015}}&lt;/ref&gt; A failure to pay, or evasion of or resistance to taxation, is usually punishable by law. Taxes consist of [[direct tax|direct]] or [[indirect tax]]es and may be paid in money or as its labour equivalent. Most countries have a tax system in place to pay for public/common/agreed national needs and government functions: some levy a flat percentage rate of taxation on personal annual income, some on a scale based on annual income amounts, and some countries impose almost no taxation at all, or a very low tax rate for a certain area of taxation. Some countries also charge a tax on corporate income, dividends, or distributions - this is often referred to as [[double taxation]] as the individual shareholder(s) receiving this payment from the company will also be levied some tax on that personal income.
 
 ==Overview==
 [[File:Pieter Brueghel the Younger, 'Paying the Tax (The Tax Collector)' oil on panel, 1620-1640. USC Fisher Museum of Art.jpg|thumb|left|[[Pieter Brueghel the Younger]], ''The tax collector's office'', 1640]]
@@ -154,7 +152,7 @@ A value added tax (VAT), also known as Goods and Services Tax (G.S.T), Single Bu
 
 VAT is usually administrated by requiring the company to complete a VAT return, giving details of VAT it has been charged (referred to as input tax) and VAT it has charged to others (referred to as output tax). The difference between output tax and input tax is payable to the Local Tax Authority.
 
-Many tax authorities have introduced automated VAT which has increased [[accountability]] and [[auditability]], by utilizing computer-systems, thereby also enabling anti-cybercrime offices as well.{{cn|date=September 2016}}
+Many tax authorities have introduced automated VAT which has increased [[accountability]] and [[auditability]], by utilizing computer-systems, thereby also enabling anti-cybercrime offices as well.&lt;ref&gt;{{cite web|title=CIS Tax Birmingham|url=http://www.ruhaanandco.co.uk/|accessdate=21 Oct 2016}}&lt;/ref&gt;
 
 ====Sales====
 {{Main article|Sales tax}}
@@ -473,7 +471,7 @@ Taxes are most often levied as a percentage, called the ''tax rate''. An importa
 
 [[Category:Taxation| ]]
 [[Category:Public finance]]</text>
-      <sha1>s2j2mkmvhrttjmkqszfh4nwbsyzg57e</sha1>
+      <sha1>0itrf3kkingee3dtyglzr5g3qg7bkq7</sha1>
     </revision>
   </page>
 </mediawiki>

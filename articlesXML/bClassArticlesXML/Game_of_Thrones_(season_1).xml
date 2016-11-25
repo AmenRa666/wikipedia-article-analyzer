@@ -47,16 +47,17 @@
     <ns>0</ns>
     <id>31615401</id>
     <revision>
-      <id>749292833</id>
-      <parentid>749292330</parentid>
-      <timestamp>2016-11-13T15:43:18Z</timestamp>
+      <id>750889657</id>
+      <parentid>750889072</parentid>
+      <timestamp>2016-11-22T02:04:18Z</timestamp>
       <contributor>
-        <ip>86.179.94.208</ip>
+        <username>AlexTheWhovian</username>
+        <id>22194871</id>
       </contributor>
-      <comment>/* Episodes */</comment>
+      <comment>/* External links */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="93621">{{Use mdy dates|date=February 2013}}
+      <text xml:space="preserve" bytes="93626">{{Use mdy dates|date=February 2013}}
 {{Infobox television season
 | show_name     = Game of Thrones
 | season_number = 1
@@ -64,7 +65,7 @@
 | image         = Game of Thrones Season 1.jpg
 | image_alt     = Game of Thrones Season 1, Region 1 DVD box artwork, depicting Eddard Stark on the Iron Throne
 | caption       = Region 1 DVD artwork
-| starring      = See [[List of Game of Thrones characters#Main characters|List of ''Game of Thrones'' characters]]
+| starring      = See [[List of Game of Thrones characters#Main cast|List of ''Game of Thrones'' cast]]
 | country       = United States
 | num_episodes  = 10
 | network       = [[HBO]]
@@ -976,14 +977,15 @@ HBO released a ''Collector's Edition'' DVD/Blu-ray combo pack of the first seaso
 * {{imdb episodes|0944947|Game of Thrones}}
 * {{tv.com episodes|game-of-thrones|77121|Game of Thrones}}
 * {{Rotten Tomatoes TV | id= game-of-thrones/s01 | title= Game of Thrones: Season 1 }}
-{{ASOIAF}}
-{{Game of Thrones Episodes}}
+
+{{A Song of Ice and Fire}}
+{{Game of Thrones episodes}}
 {{Hugo Award for Best Dramatic Presentation, Long Form}}
 
 [[Category:2011 American television seasons]]
 [[Category:Game of Thrones (TV series)|Season 1]]
 [[Category:Hugo Award for Best Dramatic Presentation, Long Form winning works]]</text>
-      <sha1>smnhdiao875oorgap6dbp67wcrmtx7i</sha1>
+      <sha1>9hzl3np8zdlbv63o8do9l5ibl4oixlz</sha1>
     </revision>
   </page>
 </mediawiki>

@@ -47,17 +47,17 @@
     <ns>1</ns>
     <id>693312</id>
     <revision>
-      <id>744763544</id>
-      <parentid>732624012</parentid>
-      <timestamp>2016-10-17T08:30:13Z</timestamp>
+      <id>750875023</id>
+      <parentid>744763544</parentid>
+      <timestamp>2016-11-22T00:09:07Z</timestamp>
       <contributor>
-        <username>Hanif Al Husaini</username>
-        <id>20566455</id>
+        <username>El cid, el campeador</username>
+        <id>28857043</id>
       </contributor>
-      <comment>Deleted double Vital article template</comment>
+      <comment>/* Most iconic? */ new section</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="4959">{{Talk header|search=y}}
+      <text xml:space="preserve" bytes="5468">{{Talk header|search=y}}
 {{American English}}
 {{Vital article|level=4|topic=People|class=C}}
 {{WikiProjectBannerShell|collapsed=yes|blp=yes|1=
@@ -83,8 +83,15 @@ I support using the singular since it is a single band. We wouldn't say &quot;Fr
 
 Isn't it time to remove them? They haven't been in the band for a good few years now.  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/101.98.246.64|101.98.246.64]] ([[User talk:101.98.246.64|talk]]) 14:24, 8 May 2016 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
 
-:[http://www.thebeachboys.com/#go_page_2605 They are still considered current members.]--[[User:Ilovetopaint|Ilovetopaint]] ([[User talk:Ilovetopaint|talk]]) 12:56, 2 June 2016 (UTC)</text>
-      <sha1>88654h6tbmq2bl5tmpr0awf6ki3ghwl</sha1>
+:[http://www.thebeachboys.com/#go_page_2605 They are still considered current members.]--[[User:Ilovetopaint|Ilovetopaint]] ([[User talk:Ilovetopaint|talk]]) 12:56, 2 June 2016 (UTC)
+
+== Most iconic? ==
+
+Right now the wiki says &quot;The Beach Boys are regarded as the most iconic American band.&quot; I think it should be changed to say they are regarded as '''one of''' the most iconic bands. I mean, it's not like there is a single most iconic band, and saying they are the most iconic makes it seem like a fact not an opinion.
+
+Those are my thoughts, what do you guys think?
+[[User:El cid, el campeador|El cid, el campeador]] ([[User talk:El cid, el campeador|talk]]) 00:09, 22 November 2016 (UTC)</text>
+      <sha1>fr9yuo7574rud8uoisu4zf11b39ky1q</sha1>
     </revision>
   </page>
 </mediawiki>

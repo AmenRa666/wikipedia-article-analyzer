@@ -1,23 +1,23 @@
 // MODULES
-var nlp = require('nlp_compromise')
+const nlp = require('nlp_compromise')
 nlp.plugin(require('nlp-syllables'))
-var math = require('mathjs')
-var async = require('async')
+const math = require('mathjs')
+const async = require('async')
 
 
 // Readability Modules
-var automatedReadability = require('automated-readability')
-var colemanLiau = require('coleman-liau')
-var flesch = require('flesch')
-var fleschKincaid = require('flesch-kincaid')
-var gunningFog = require('gunning-fog')
-var smogFormula = require('smog-formula')
-var daleChallFormula = require('dale-chall-formula')
-var daleChall = require('dale-chall')
+const automatedReadability = require('automated-readability')
+const colemanLiau = require('coleman-liau')
+const flesch = require('flesch')
+const fleschKincaid = require('flesch-kincaid')
+const gunningFog = require('gunning-fog')
+const smogFormula = require('smog-formula')
+const daleChallFormula = require('dale-chall-formula')
+const daleChall = require('dale-chall')
 
 
 // LOGIC
-var readabilityFeatures = {
+let readabilityFeatures = {
   automatedReadabilityIndex: 0,
   colemanLiauIndex: 0,
   fleshReadingEase: 0,
@@ -30,19 +30,19 @@ var readabilityFeatures = {
 }
 
 // Complex words count
-var complexWordCount = 0
+let complexWordCount = 0
 // Dale-Chall complex word count
-var daleChallComplexWordCount = 0
+let daleChallComplexWordCount = 0
 // Long words count
-var longWordCount = 0
+let longWordCount = 0
 
-var characterCount = 0
-var wordCount = 0
-var sentenceCount = 0
-var syllableCount = 0
-var words = []
-var text = ''
-var periodCount = 0
+let characterCount = 0
+let wordCount = 0
+let sentenceCount = 0
+let syllableCount = 0
+let words = []
+let text = ''
+let periodCount = 0
 
 const preprocess = (cb) => {
   words.forEach((word) => {
@@ -82,7 +82,7 @@ const getColemanLiauIndex = (cb) => {
 
 // Flesch Reading Ease
 const getFleshReadingEase = (cb) => {
-  var fleshReadingEase = flesch({
+  let fleshReadingEase = flesch({
     sentence: sentenceCount,
     word: wordCount,
     syllable: syllableCount
@@ -134,12 +134,11 @@ const getSmogGrading = (cb) => {
 
 // Linsear Write Formula
 const getLinsearWriteFormula = (cb) => {
-  var lwf = 0
-  var lwfSimpleWordCount = 0
-  var lwfComplexWordCount = 0
+  let lwfSimpleWordCount = 0
+  let lwfComplexWordCount = 0
 
-  for (var i = 0; i < 99; i++) {
-    var word = words[Math.floor(Math.random()*words.length)]
+  for (let i = 0; i < 99; i++) {
+    let word = words[Math.floor(Math.random()*words.length)]
     if (nlp.term(word).syllables().length >= 3) {
       lwfComplexWordCount++
     }
@@ -148,7 +147,7 @@ const getLinsearWriteFormula = (cb) => {
     }
   }
 
-  var lwf = (lwfSimpleWordCount + 3*lwfComplexWordCount)/sentenceCount
+  let lwf = (lwfSimpleWordCount + 3*lwfComplexWordCount)/sentenceCount
   if (lwf > 20) {
     lwf = lwf/2
   }

@@ -1,14 +1,48 @@
 // MODULES
-var _ = require('underscore')
-var async = require('async')
+const _ = require('underscore')
+const async = require('async')
 
 
 // LOGIC
-var posTrigramTags = [ "DT,NNP,NNP", "NNP,NNP,NNP", "DT,NN,IN", "NN,IN,DT", "IN,DT,NNP", "NNP,NNP,IN", "NNP,IN,NNP", "NNP,IN,DT", "IN,DT,NN", "DT,NN,VBD", "NNS,IN,DT", "NNP,NNP,VBD", "JJ,NN,IN", "IN,DT,JJ", "DT,JJ,NN", "NN,IN,NNP", "IN,NNP,NNP", "VBD,DT,NN", "VBD,VBN,IN", "VBN,IN,DT", "NN,IN,NN", "IN,NN,IN", "JJ,NNS,IN", "NN,CC,NN", "IN,JJ,NNS", "IN,DT,NNS", "TO,VB,DT", "DT,NN,NN", "NNP,NNP,CC", "IN,JJ,NN", "NNP,CC,NNP", "NNP,POS,NN", "NN,IN,JJ" ]
+const posTrigramTags = [
+  "DT,NNP,NNP",
+  "NNP,NNP,NNP",
+  "DT,NN,IN",
+  "NN,IN,DT",
+  "IN,DT,NNP",
+  "NNP,NNP,IN",
+  "NNP,IN,NNP",
+  "NNP,IN,DT",
+  "IN,DT,NN",
+  "DT,NN,VBD",
+  "NNS,IN,DT",
+  "NNP,NNP,VBD",
+  "JJ,NN,IN",
+  "IN,DT,JJ",
+  "DT,JJ,NN",
+  "NN,IN,NNP",
+  "IN,NNP,NNP",
+  "VBD,DT,NN",
+  "VBD,VBN,IN",
+  "VBN,IN,DT",
+  "NN,IN,NN",
+  "IN,NN,IN",
+  "JJ,NNS,IN",
+  "NN,CC,NN",
+  "IN,JJ,NNS",
+  "IN,DT,NNS",
+  "TO,VB,DT",
+  "DT,NN,NN",
+  "NNP,NNP,CC",
+  "IN,JJ,NN",
+  "NNP,CC,NNP",
+  "NNP,POS,NN",
+  "NN,IN,JJ"
+]
 
 // POS Trigram example: 'DT,NN,CC': 3 (the number indicates the repetition of the trigram in the article's text)
 const getPosTrigrams = (sentencesTags, cb) => {
-  var posTrigrams = {
+  let posTrigrams = {
       "DT,NNP,NNP": 0,
       "NNP,NNP,NNP": 0,
       "DT,NN,IN": 0,
@@ -56,7 +90,7 @@ const getPosTrigrams = (sentencesTags, cb) => {
 }
 
 const getAllPosTrigrams = (sentencesTags, cb) => {
-  var posTrigrams = {}
+  let posTrigrams = {}
 
   sentencesTags.forEach((sentenceTags) => {
     for (let i = 0; i <= sentenceTags.length-3; i++) {

@@ -1,9 +1,9 @@
 // MODULES
-var fs = require('fs');
-var async = require('async')
-var _ = require('underscore')
-var math = require('mathjs')
-var json2csv = require('json2csv');
+const fs = require('fs');
+const async = require('async')
+const _ = require('underscore')
+const math = require('mathjs')
+const json2csv = require('json2csv');
 
 
 // LOGIC

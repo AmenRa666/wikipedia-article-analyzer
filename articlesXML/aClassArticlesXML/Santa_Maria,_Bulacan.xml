@@ -47,17 +47,17 @@
     <ns>0</ns>
     <id>2004733</id>
     <revision>
-      <id>749752632</id>
-      <parentid>749640342</parentid>
-      <timestamp>2016-11-16T00:28:19Z</timestamp>
+      <id>750877158</id>
+      <parentid>750876986</parentid>
+      <timestamp>2016-11-22T00:24:53Z</timestamp>
       <contributor>
         <username>Secaundis</username>
         <id>7741185</id>
       </contributor>
-      <comment>Undid revision 749640342 by [[Special:Contributions/P199|P199]] ([[User talk:P199|talk]]) read the article first before you delete. which is ONE OF THE lowest in the Philippines not THE LOWEST. &quot;isa sa pinakamababa&quot; hindi &quot;pinakamababa&quot;</comment>
+      <comment>/* top */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="60227">{{Infobox settlement
+      <text xml:space="preserve" bytes="60158">{{Infobox settlement
 | name                    = Santa Maria
 | official_name           = ''Bayan ng Santa Maria'' &lt;!-- as per seal --&gt;
 | other_name              = Santa Maria de Pandi
@@ -177,7 +177,7 @@ With the continuous expansion of [[Metro Manila]], the municipality is now part 
 
 Located on the banks of the [[Santa Maria River (Philippines)|Santa Maria River]], {{convert|32|km|mi|1}} north of [[Manila]], Santa Maria has been a thriving settlement for almost four centuries. It was founded as a ''[[barrio]]'' of [[Bocaue]] in the early [[17th century]] until it was established as an independent municipality on November 26, 1793 by the [[Spanish Friars in Colonial Philippines|Spanish friar]] Francisco Dominguez Javier [[Franciscan|OFM]]. Known before as ''Santa Maria de Pandi'' ({{IPA-tl|pɐnˈde}}), it is named under the patronage of the [[Virgin Mary|Immaculate Conception]] (also known as La Purisima Concepcion). Santa Maria's ancient core, the [[Poblacion]], is surrounded by four rivers and it still largely retains its 2.88 square-kilometer boundaries since the [[History of the Philippines (1521–1898)|Spanish Colonial Era]].
 
-Santa Maria, with a population of 256,454, remains by a significant margin the most populous [[Philippine municipality|municipality]] in [[Central Luzon]], as well as the [[List of Philippine cities and municipalities by population|5th most populous]] municipality in the [[Philippines]]. Its downtown area, known as the Santa Maria Central Business District, consists of three (3) highly urbanized barangays: Poblacion, [[Bagbaguin, Bulacan|Bagbaguin]], and [[Santa Clara, Bulacan|Santa Clara]]. It is one of the biggest and busiest commercial centers in the province as it accounts for more than half of all economic activities in the municipality. It is also one of Bulacan's leading financial centers. According to the [[Bangko Sentral ng Pilipinas]] (BSP) and the [[Philippine Deposit Insurance Corporation]] (PDIC), Santa Maria's total bank deposits reached [[Philippine Peso|PHP]] 17.3 billion as of June 2016, this accounts for almost 75% of eastern [[Bulacan]]'s total bank deposits and dwarfing other cities and municipalities in the country.&lt;ref&gt;https://www.pdic.gov.ph/files/BSDStats/DDD_PBS_ProvinceMunicipality.htm&lt;/ref&gt; Likewise, Santa Maria is the richest municipality in [[Bulacan]] with an assets totaling to [[Philippine Peso|PHP]] 873 million and revenues reaching an all-time high of [[Philippine Peso|PHP]] 533 million as of the 2015 report from the [[Commission on Audit of the Philippines|Commission on Audit]] (COA).&lt;ref&gt;http://www.coa.gov.ph/index.php/local-government-units/2015/category/5798-municipalities&lt;/ref&gt; It has a relatively high standard of living, with only 4% of the population living in poverty which is one of the lowest in the [[Philippines]].&lt;ref&gt;https://psa.gov.ph/sites/default/files/2012%20SAE_final_1.xlsx&lt;/ref&gt;
+Santa Maria, with a population of 256,454, remains by a significant margin the most populous [[Philippine municipality|municipality]] in [[Central Luzon]], as well as the [[List of Philippine cities and municipalities by population|5th most populous]] municipality in the [[Philippines]]. Its downtown area, known as the Santa Maria Central Business District, consists of three (3) highly urbanized barangays: Poblacion, [[Bagbaguin, Bulacan|Bagbaguin]], and [[Santa Clara, Bulacan|Santa Clara]]. It is one of the biggest and busiest commercial centers in the province as it accounts for more than half of all economic activities in the municipality. It is also one of Bulacan's leading financial centers. According to the [[Bangko Sentral ng Pilipinas]] (BSP) and the [[Philippine Deposit Insurance Corporation]] (PDIC), Santa Maria's total bank deposits reached [[Philippine Peso|PHP]] 17.3 billion as of June 2016, this accounts for almost 75% of eastern [[Bulacan]]'s total bank deposits.&lt;ref&gt;https://www.pdic.gov.ph/files/BSDStats/DDD_PBS_ProvinceMunicipality.htm&lt;/ref&gt; Likewise, Santa Maria is the richest municipality in [[Bulacan]] with an assets totaling to [[Philippine Peso|PHP]] 873 million and revenues reaching an all-time high of [[Philippine Peso|PHP]] 533 million as of the 2015 report from the [[Commission on Audit of the Philippines|Commission on Audit]] (COA).&lt;ref&gt;http://www.coa.gov.ph/index.php/local-government-units/2015/category/5798-municipalities&lt;/ref&gt; It has a relatively high standard of living, with only 4% of the population living in poverty which is the third lowest in [[Bulacan]].&lt;ref&gt;https://psa.gov.ph/sites/default/files/2012%20SAE_final_1.xlsx&lt;/ref&gt;
 
 In 2015, Santa Maria with a score of 42.1807 was ranked second among all municipalities in the country in the overall Municipalities Competitiveness Index issued by the National Competitiveness Council of the Philippines.&lt;ref&gt;http://www.competitive.org.ph/cmcindex/&lt;/ref&gt;
 
@@ -880,7 +880,7 @@ These are Santa Maria's sister cities with strong relationship and partnership.
 [[Category:Populated places established in 1792]]
 [[Category:1792 establishments in the Philippines]]
 [[Category:Municipalities of Bulacan]]</text>
-      <sha1>1j3jlmsbr4u93ol1dct602oik7lhpgb</sha1>
+      <sha1>qxtayu6hvm33f5xd1z5il92ex33vhu6</sha1>
     </revision>
   </page>
 </mediawiki>

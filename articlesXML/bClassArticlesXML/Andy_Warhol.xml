@@ -47,17 +47,17 @@
     <ns>0</ns>
     <id>864</id>
     <revision>
-      <id>748115430</id>
-      <parentid>745162899</parentid>
-      <timestamp>2016-11-06T12:21:57Z</timestamp>
+      <id>750877162</id>
+      <parentid>748115430</parentid>
+      <timestamp>2016-11-22T00:24:54Z</timestamp>
       <contributor>
-        <username>Sleeping is fun</username>
-        <id>14855173</id>
+        <username>SteveStrummer</username>
+        <id>3309623</id>
       </contributor>
-      <comment>cleaned up unnecessary linking</comment>
+      <comment>Rmvd 2 dead extl links.</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="104548">{{for|the song by David Bowie|Andy Warhol (song)}}
+      <text xml:space="preserve" bytes="104209">{{for|the song by David Bowie|Andy Warhol (song)}}
 {{pp-vandalism|expiry=indef|small=yes}}
 {{pp-move-indef}}
 {{Use mdy dates|date=November 2014}}
@@ -413,8 +413,6 @@ In 2002, the [[U.S. Postal Service]] issued an 18-cent stamp commemorating Warho
 * [http://www.warholcity.com/ The Andy Warhol Museum of Modern Art—city of origin]
 * {{IMDb name|912238}}
 * [http://www.computerhistory.org/atchm/warhol-the-computer/ Warhol &amp; The Computer]
-* [http://www.thefirstpost.co.uk/46784,in-pictures,news-in-pictures,in-pictures-andy-warhol-exhibition-in-paris Warhol in Paris]—slideshow by ''[[The First Post]]''
-* [https://www.youtube.com/watch?v=3oqUd8utr14 Andy Warhol makes a [[digital painting]] of [[Debbie Harry]] at the Commodore Amiga product launch press conference in 1985]
 * [http://www.pbs.org/wnet/americanmasters/episodes/andy-warhol/a-documentary-film/44 ''Andy Warhol: A Documentary film''] by [[Ric Burns]] for [[Public Broadcasting Service|PBS]]
 * [http://www.moreeuw.com/histoire-art/andy-warhol.htm Andy Warhol]
 * [http://channel.louisiana.dk/video/peter-jensen-lonely-side-glamorous-life Designer Peter Jensen takes you on a tour of the early drawings of Andy Warhol]. Video by [[Louisiana Channel]], Denmark, 2013.
@@ -483,7 +481,7 @@ In 2002, the [[U.S. Postal Service]] issued an 18-cent stamp commemorating Warho
 [[Category:Writers from Pittsburgh]]
 [[Category:American male writers]]
 [[Category:Male artists]]</text>
-      <sha1>lw6cejces23jfzs6zcfv5wfwnpmldnf</sha1>
+      <sha1>mq7r0274jwivqq54f0o33r7efo36pv4</sha1>
     </revision>
   </page>
 </mediawiki>

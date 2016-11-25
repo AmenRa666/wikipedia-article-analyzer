@@ -47,18 +47,16 @@
     <ns>0</ns>
     <id>22544414</id>
     <revision>
-      <id>749973156</id>
-      <parentid>749937896</parentid>
-      <timestamp>2016-11-17T04:00:04Z</timestamp>
+      <id>750921972</id>
+      <parentid>749973156</parentid>
+      <timestamp>2016-11-22T07:14:42Z</timestamp>
       <contributor>
-        <username>Binksternet</username>
-        <id>4967956</id>
+        <ip>2001:8003:250F:3500:B17A:4479:442B:A07A</ip>
       </contributor>
-      <minor/>
-      <comment>Reverted 4 edits by [[Special:Contributions/2001:8003:103E:6300:75C4:E09C:F9C5:89FE|2001:8003:103E:6300:75C4:E09C:F9C5:89FE]] ([[User talk:2001:8003:103E:6300:75C4:E09C:F9C5:89FE|talk]]) to last revision by FilmandTVFan28. ([[WP:TW|TW]])</comment>
+      <comment>/* Children */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="28965">{{redirect-distinguish|GO! (Australian TV channel)|Go (disambiguation)#Television{{!}}other channels named GO!}}
+      <text xml:space="preserve" bytes="28969">{{redirect-distinguish|GO! (Australian TV channel)|Go (disambiguation)#Television{{!}}other channels named GO!}}
 {{Use Australian English|date=June 2014}}
 {{Infobox television channel
 | name              = 9Go!
@@ -184,7 +182,7 @@ Leading up to the ad break, GO! airs replays of [[Nine News#Nine Newsbreak|Nine'
 * ''[[Crunch Time (TV series)|Crunch Time]]''
 * ''[[Green Lantern: The Animated Series]]'' (repeats)
 *''Heidi'' (repeats)
-* ''Imagination Train'' (repeats)
+* ''[[Imagination Train]]'' (repeats)
 * ''[[Kids' WB Australia|Kids' WB]]'' block
 * ''[[Kitchen Whiz]]''
 * ''[[Little Charmers]]''
@@ -466,7 +464,7 @@ File:9Go! logo.png|26 November 2015 – present
 [[Category:English-language television stations in Australia]]
 [[Category:Television channels and stations established in 2009]]
 [[Category:2009 establishments in Australia]]</text>
-      <sha1>k99ja7j9p8fgodxdue1jz08ai2sjppk</sha1>
+      <sha1>a9sngpfn56n3qeooosqto9bkksaq2j4</sha1>
     </revision>
   </page>
 </mediawiki>

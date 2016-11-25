@@ -47,14 +47,15 @@
     <ns>0</ns>
     <id>48567377</id>
     <revision>
-      <id>750602924</id>
-      <parentid>750560880</parentid>
-      <timestamp>2016-11-20T19:49:29Z</timestamp>
+      <id>750782925</id>
+      <parentid>750782861</parentid>
+      <timestamp>2016-11-21T20:19:38Z</timestamp>
       <contributor>
-        <username>Aumnamahashiva</username>
-        <id>4594714</id>
+        <username>MBlaze Lightning</username>
+        <id>25901056</id>
       </contributor>
-      <comment>/* Chennai and Tamil Nadu */  - minor grammatical</comment>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/82.23.59.216|82.23.59.216]] ([[User talk:82.23.59.216|talk]]) ([[WP:HG|HG]]) (3.1.22)</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="158235">{{Use Indian English|date=December 2015}}

@@ -47,20 +47,19 @@
     <ns>0</ns>
     <id>4477</id>
     <revision>
-      <id>750304178</id>
-      <parentid>750299951</parentid>
-      <timestamp>2016-11-18T23:48:25Z</timestamp>
+      <id>750773790</id>
+      <parentid>750773628</parentid>
+      <timestamp>2016-11-21T19:21:41Z</timestamp>
       <contributor>
-        <username>GentleCollapse16</username>
-        <id>16899771</id>
+        <username>Mlpearc</username>
+        <id>8356162</id>
       </contributor>
-      <comment>Psychedelic and baroque are not nouns</comment>
+      <comment>/* top */ ce</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="185289">{{About||the band's eponymous album|The Beach Boys (album)|other uses}}
+      <text xml:space="preserve" bytes="185288">{{About||the band's eponymous album|The Beach Boys (album)|other uses}}
 {{Use mdy dates|date=February 2016}}
 {{Use American English|date=February 2013}}
-
 {{Infobox musical artist
 | name    = The Beach Boys
 | image   = The Beach Boys, May 29, 2012.jpg
@@ -706,7 +705,7 @@ The life of the Beach Boys is the subject of two [[television film|made-for-tele
 [[Category:1961 establishments in California]]
 [[Category:Experimental pop musicians]]
 [[Category:Pioneers of music genres]]</text>
-      <sha1>s3x2lx46i4sptogwdh37ph5rbnflu84</sha1>
+      <sha1>njqsjlazjf1eo1wht839nuwhsrb3i0l</sha1>
     </revision>
   </page>
 </mediawiki>

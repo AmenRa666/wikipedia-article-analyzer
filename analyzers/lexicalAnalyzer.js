@@ -1,15 +1,15 @@
 // MODULES
-var _ = require('underscore')
-var async = require('async')
-var nlp = require('nlp_compromise')
+const _ = require('underscore')
+const async = require('async')
+const nlp = require('nlp_compromise')
 nlp.plugin(require('nlp-syllables'))
-var Lemmer = require('lemmer')
-var WordNet = require("node-wordnet")
-var wordnet = new WordNet({cache:true})
-var time = require('node-tictoc')
+const Lemmer = require('lemmer')
+const WordNet = require("node-wordnet")
+const wordnet = new WordNet({cache:true})
+const time = require('node-tictoc')
 
 // LOGIC
-var lexicalFeatures = {
+let lexicalFeatures = {
   differentWordCount: 0,
   differentWordsPerSentence: 0,
   differentWordsRate: 0,
@@ -66,26 +66,25 @@ var lexicalFeatures = {
   charactersPerWord: 0
 }
 
-var words = []
-var nouns = []
-var difNouns = []
-var verbs = []
-var difVerbs = []
-var pronouns = []
-var adjectives = []
-var adverbs = []
-var coordinatingConjunctions = []
-var subordinatingPrepositionsAndConjunctions = []
-var words = []
-var characterCount = 0
-var wordCount = 0
-var syllableCount = 0
-var sentenceCount = 0
-var lemmatizedVerbs = []
-var lemmatizedNouns = []
+let words = []
+let nouns = []
+let difNouns = []
+let verbs = []
+let difVerbs = []
+let pronouns = []
+let adjectives = []
+let adverbs = []
+let coordinatingConjunctions = []
+let subordinatingPrepositionsAndConjunctions = []
+let characterCount = 0
+let wordCount = 0
+let syllableCount = 0
+let sentenceCount = 0
+let lemmatizedVerbs = []
+let lemmatizedNouns = []
 
 const countDifferentWords = (cb) => {
-  var difWords = words.map((word) => {
+  let difWords = words.map((word) => {
     if (word == undefined) {
       return 'undef'
     }
@@ -125,8 +124,8 @@ const countDifferentNouns = (cb) => {
 
 
 
-  // var singularNouns = []
-  // for (var i = 0; i < nouns.length; i++) {
+  // let singularNouns = []
+  // for (let i = 0; i < nouns.length; i++) {
   //   if (nouns[i].substr(nouns[i].length - 1) == 's') {
   //     console.log(nouns[i]);
   //     console.log(nouns[i].substring(0, nouns[i].length - 1));
@@ -221,7 +220,7 @@ const getPronounsRate = (cb) => {
 }
 
 const countDifferentPronouns = (cb) => {
-  var difPronouns = pronouns.map((word) => {
+  let difPronouns = pronouns.map((word) => {
     if (word == undefined) {
       return 'undef'
     }
@@ -262,7 +261,7 @@ const getAdjectiveRate = (cb) => {
 }
 
 const countDifferentAdjectives = (cb) => {
-  var difAdjectives = adjectives.map((word) => {
+  let difAdjectives = adjectives.map((word) => {
     if (word == undefined) {
       return 'undef'
     }
@@ -303,7 +302,7 @@ const getAdverbsRate = (cb) => {
 }
 
 const countDifferentAdverbs = (cb) => {
-  var difAdverbs = adverbs.map((word) => {
+  let difAdverbs = adverbs.map((word) => {
     if (word == undefined) {
       return 'undef'
     }
@@ -344,7 +343,7 @@ const getCoordinatingConjunctionsRate = (cb) => {
 }
 
 const countDifferentCoordinatingConjunctions = (cb) => {
-  var difCoordinatingConjunction = coordinatingConjunctions.map((word) => {
+  let difCoordinatingConjunction = coordinatingConjunctions.map((word) => {
     if (word == undefined) {
       return 'undef'
     }
@@ -385,7 +384,7 @@ const getSubordinatingPrepositionsAndConjunctionsRate = (cb) => {
 }
 
 const countDifferentSubordinatingPrepositionsAndConjunctions = (cb) => {
-  var diffSubordinatingPrepositionAndConjunction = subordinatingPrepositionsAndConjunctions.map((word) => {
+  let diffSubordinatingPrepositionAndConjunction = subordinatingPrepositionsAndConjunctions.map((word) => {
     if (word == undefined) {
       return 'undef'
     }
@@ -423,7 +422,7 @@ const getCharactersPerWord = (cb) => {
 const lemmatizeVerb = (verb, cb) => {
   wordnet.validFormsAsync(verb).then((results) => {
     if (results.length > 0) {
-      for (var i = 0; i < results.length; i++) {
+      for (let i = 0; i < results.length; i++) {
         if (results[i].slice(-1) === 'v') {
           lemmatizedVerbs.push(results[i].substring(0, results[i].length - 2))
           break
@@ -436,7 +435,7 @@ const lemmatizeVerb = (verb, cb) => {
 
   // wordnet.validForms(verb, (results) => {
   //   if (results.length > 0) {
-  //     for (var i = 0; i < results.length; i++) {
+  //     for (let i = 0; i < results.length; i++) {
   //       if (results[i].slice(-1) === 'v') {
   //         lemmatizedVerbs.push(results[i].substring(0, results[i].length - 2))
   //         break
@@ -450,7 +449,7 @@ const lemmatizeVerb = (verb, cb) => {
 const lemmatizeNoun = (noun, cb) => {
   wordnet.validFormsAsync(noun).then((results) => {
     if (results.length > 0) {
-      for (var i = 0; i < results.length; i++) {
+      for (let i = 0; i < results.length; i++) {
         if (results[i].slice(-1) === 'n') {
           lemmatizedNouns.push(results[i].substring(0, results[i].length - 2))
           break
@@ -462,7 +461,7 @@ const lemmatizeNoun = (noun, cb) => {
 
   // wordnet.validForms(noun, (results) => {
   //   if (results.length > 0) {
-  //     for (var i = 0; i < results.length; i++) {
+  //     for (let i = 0; i < results.length; i++) {
   //       if (results[i].slice(-1) === 'n') {
   //         lemmatizedNouns.push(results[i].substring(0, results[i].length - 2))
   //         break
@@ -508,13 +507,13 @@ const lemmatizeNouns = (_nouns, cb) => {
 }
 
 const lemmatize = (cb) => {
-  for (var i = 0; i < difNouns.length; i++) {
+  for (let i = 0; i < difNouns.length; i++) {
     if (/[~`!#$%\^&*+=\-\[\]\\';,/{}|\\":<>\?]/g.test(difNouns[i])) {
       difNouns.splice(i, 1)
       i--
     }
   }
-  for (var i = 0; i < difVerbs.length; i++) {
+  for (let i = 0; i < difVerbs.length; i++) {
     if (/[~`!#$%\^&*+=\-\[\]\\';,/{}|\\":<>\?]/g.test(difVerbs[i])) {
       difVerbs.splice(i, 1)
       i--

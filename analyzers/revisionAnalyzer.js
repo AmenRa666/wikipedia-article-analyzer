@@ -1,21 +1,32 @@
 // MODULES
-var math = require('mathjs')
-var async = require('async')
-var _ = require('underscore')
-var fs = require('fs')
-var path = require("path")
-var sanitize = require("sanitize-filename")
+const math = require('mathjs')
+const async = require('async')
+const _ = require('underscore')
+const fs = require('fs')
+const path = require("path")
+const sanitize = require("sanitize-filename")
 // Database Agent
-var dbAgent = require('../dbAgent.js')
+const dbAgent = require('../dbAgent.js')
 
 
 // LOGIC
-var articleTitle = ''
+let articleTitle = ''
 
-var _reverts = fs.readFileSync(path.join(__dirname, '../reverts.csv'), 'utf8').trim().split('\n')
+const folder = path.join('..', 'articlesTalkPages')
+const paths = [
+  'stubArticlesTalkPages',
+  'startArticlesTalkPages',
+  'cClassArticlesTalkPages',
+  'bClassArticlesTalkPages',
+  'goodArticlesTalkPages',
+  'aClassArticlesTalkPages',
+  'featuredArticlesTalkPages',
+]
+
+let _reverts = fs.readFileSync(path.join(__dirname, '..', 'reverts.csv'), 'utf8').trim().split('\n')
 _reverts.shift()
 
-var reverts = []
+let reverts = []
 
 _reverts.forEach((revert) => {
   revert = revert.split(/"/)
@@ -24,11 +35,11 @@ _reverts.forEach((revert) => {
   reverts.push(revert)
 })
 
-var reviews = []
-var timestamps = []
-var users = []
+let reviews = []
+let timestamps = []
+let users = []
 
-var reviewFeatures = {
+let reviewFeatures = {
   age: 0,
   agePerReview: 0,
   reviewPerDay: 0,
@@ -62,10 +73,10 @@ var reviewFeatures = {
 }
 
 const getAge = (cb) => {
-  var creationDate = timestamps[timestamps.length - 1]
-  var today = new Date()
-  var timeDiff = Math.abs(today.getTime() - creationDate.getTime())
-  var diffDays = Math.ceil(timeDiff / (1000 * 3600 * 24))
+  let creationDate = timestamps[timestamps.length - 1]
+  let today = new Date()
+  let timeDiff = Math.abs(today.getTime() - creationDate.getTime())
+  let diffDays = Math.ceil(timeDiff / (1000 * 3600 * 24))
   reviewFeatures.age = diffDays
   cb(null, 'Get Age')
 }
@@ -86,9 +97,9 @@ const getReviewsPerUser = (cb) => {
 }
 
 const getReviewsPerUserStdDev = (cb) => {
-  var reviewsGroupedByUser = []
+  let reviewsGroupedByUser = []
   users.forEach((user) => {
-    var reviewByUser = 0
+    let reviewByUser = 0
     reviews.forEach((review) => {
       if (review.user == user) {
         reviewByUser++
@@ -101,12 +112,12 @@ const getReviewsPerUserStdDev = (cb) => {
 }
 
 const countReviews = (cb) => {
-  var reviewCount = reviews.length
-  var registeredReviewCount = 0
-  var anonymouseReviewCount = 0
+  let reviewCount = reviews.length
+  let registeredReviewCount = 0
+  let anonymouseReviewCount = 0
   reviews.forEach((review) => {
-    var registered = false
-    var blocks = review.user.split('.')
+    let registered = false
+    let blocks = review.user.split('.')
     if (blocks.length < 4 || blocks.length > 8) {
       registered = true
     }
@@ -136,28 +147,18 @@ const countReviews = (cb) => {
 }
 
 const countDiscussion = (cb) => {
-  var folder = '../articlesTalkPages/'
-  var paths = [
-    'stubArticlesTalkPages/',
-    'startArticlesTalkPages/',
-    'cClassArticlesTalkPages/',
-    'bClassArticlesTalkPages/',
-    'goodArticlesTalkPages/',
-    'aClassArticlesTalkPages/',
-    'featuredArticlesTalkPages/',
-  ]
   // dbAgent.findArticleByTitle(articleTitle.replace(/_/g, ' '), (doc) => {
-    // var xmlFilename = folder + paths[doc.qualityClass - 1] + 'Talk-' + sanitize(articleTitle) + '.xml'
-    var xmlFilename = folder + 'Talk-' + articleTitle.replace(/ /g, '_') + '.xml'
+    // let xmlFilename = folder + paths[doc.qualityClass - 1] + 'Talk-' + sanitize(articleTitle) + '.xml'
+    let xmlFilename = path.join(folder, ('Talk-' + articleTitle.replace(/ /g, '_') + '.xml'))
     fs.readFile(path.join(__dirname, folder, xmlFilename), 'utf8', (err, talkPage) => {
       if (err) throw err
       else {
         // Remove subsubsection titles and similar
-        var subsubsectionRegex = /===(.+?)===/g
+        const subsubsectionRegex = /===(.+?)===/g
         talkPage = talkPage.replace(subsubsectionRegex, '') || []
         // Count sections
-        var sectionsRegex = /==(.+?)==/g
-        var rawSections = talkPage.match(sectionsRegex) || []
+        const sectionsRegex = /==(.+?)==/g
+        let rawSections = talkPage.match(sectionsRegex) || []
         reviewFeatures.discussionCount = rawSections.length
         cb(null, 'Count Discussion')
       }
@@ -166,12 +167,12 @@ const countDiscussion = (cb) => {
 }
 
 const countUsers = (cb) => {
-  var userCount = users.length
-  var registeredUserCount = 0
-  var anonymouseUserCount = 0
+  let userCount = users.length
+  let registeredUserCount = 0
+  let anonymouseUserCount = 0
   users.forEach((user) => {
-    var registered = false
-    var blocks = user.split('.')
+    let registered = false
+    let blocks = user.split('.')
     if (blocks.length < 4 || blocks.length > 8) {
       registered = true
     }
@@ -190,17 +191,17 @@ const countUsers = (cb) => {
     }
   })
 
-  var usersActivity = []
-  var occasionalUsers = []
+  let usersActivity = []
+  let occasionalUsers = []
 
   users.forEach((user) => {
-    var editCount = 0
+    let editCount = 0
     reviews.forEach((review) => {
       if (review.user == user) {
         editCount++
       }
     })
-    var u = {
+    let u = {
       username: user,
       editCount: editCount
     }
@@ -215,14 +216,14 @@ const countUsers = (cb) => {
   });
 
   // Most active users
-  var fivePercent = Math.round((userCount*5)/100)
-  var mostActiveUsersReviewCount = 0
-  var mostActiveUsersReviewRate = 0
-  for (var i = 0; i < fivePercent; i++) {
+  let fivePercent = Math.round((userCount*5)/100)
+  let mostActiveUsersReviewCount = 0
+  let mostActiveUsersReviewRate = 0
+  for (let i = 0; i < fivePercent; i++) {
     mostActiveUsersReviewCount = mostActiveUsersReviewCount + usersActivity[i].editCount
   }
 
-  var occasionalUsersReviewCount = 0
+  let occasionalUsersReviewCount = 0
   occasionalUsers.forEach((user) => {
     occasionalUsersReviewCount = occasionalUsersReviewCount + user.editCount
   })
@@ -249,9 +250,9 @@ const getDiversity = (cb) => {
 }
 
 const getThreeMonthsAgoFeatures = (cb) => {
-  var today = new Date();
-  var todayThreeMonthsAgo = new Date(today.setMonth(today.getMonth() - 3))
-  var lastThreeMonthsReviews = []
+  let today = new Date();
+  let todayThreeMonthsAgo = new Date(today.setMonth(today.getMonth() - 3))
+  let lastThreeMonthsReviews = []
   reviews.forEach((review) => {
     if (new Date(review.timestamp) > todayThreeMonthsAgo) {
       lastThreeMonthsReviews.push(review)
@@ -268,8 +269,8 @@ const getThreeMonthsAgoFeatures = (cb) => {
 }
 
 const getRevertsFeatures = (cb) => {
-  var revertCount = 0
-  for (var i = 0; i < reverts.length; i++) {
+  let revertCount = 0
+  for (let i = 0; i < reverts.length; i++) {
     if (reverts[i][0] == articleTitle) {
       revertCount = reverts[i][1]
       break
@@ -284,7 +285,7 @@ const getReviewFeatures = (_articleTitle, cb) => {
   articleTitle = sanitize(_articleTitle).replace(/&amp;/g, '&')
   dbAgent.findRevisionByArticleTitle(articleTitle.replace(/ /g, '_'), (docs) => {
 
-    for (var i = 0; i < docs.length; i++) {
+    for (let i = 0; i < docs.length; i++) {
       if(!docs[i].user) {
         docs[i].user = 'undefined' + i
       }

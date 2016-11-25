@@ -1,20 +1,20 @@
 // MODULES
-var Tagger = require("node-stanford-postagger/postagger").Tagger
-var _ = require('underscore')
-var async = require('async')
+const Tagger = require("node-stanford-postagger/postagger").Tagger
+const _ = require('underscore')
+const async = require('async')
 // docker run -p 9000:9000 cuzzo/stanford-pos-tagger
 
 
 // LOGIC
 // Tagger
-var tagger = new Tagger({
+const tagger = new Tagger({
   port: "9000",
-  host: "192.168.99.100"
-  // host: "localhost"
+  // host: "192.168.99.100"
+  host: "localhost"
 });
 
 // Return Object
-var pos = {
+let pos = {
   taggedWords: [],
   coordinatingConjunctions: [],
   cardinalNumbers: [],
@@ -62,122 +62,122 @@ var pos = {
 // read at http://www.comp.leeds.ac.uk/amalgam/tagsets/upenn.html
 // for en extensive explaination
 
-var tags = ['CC', 'CD', 'DT', 'EX', 'FW', 'IN', 'JJ', 'JJR', 'JJS', 'LS', 'MD', 'NN', 'NNS', 'NNP', 'NNPS', 'PDT', 'POS', 'PRP', 'PRP$', 'RB', 'RBR', 'RBS', 'RP', 'SYM', 'TO', 'UH', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ', 'WDT', 'WP', 'WP$', 'WRB']
+const tags = ['CC', 'CD', 'DT', 'EX', 'FW', 'IN', 'JJ', 'JJR', 'JJS', 'LS', 'MD', 'NN', 'NNS', 'NNP', 'NNPS', 'PDT', 'POS', 'PRP', 'PRP$', 'RB', 'RBR', 'RBS', 'RP', 'SYM', 'TO', 'UH', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ', 'WDT', 'WP', 'WP$', 'WRB']
 
 // CC conjunction, coordinating
-var coordinatingConjunctionTag = 'CC'
+const coordinatingConjunctionTag = 'CC'
 
 // CD numeral, cardinal
-var cardinalNumberTag = 'CD'
+const cardinalNumberTag = 'CD'
 
 // DT determiner
-var determinerTag = 'DT'
+const determinerTag = 'DT'
 
 // EX existential there
-var existentialThereTag = 'EX'
+const existentialThereTag = 'EX'
 
 // FW foreign word
-var foreignWordTag = 'FW'
+const foreignWordTag = 'FW'
 
 // IN preposition or conjunction, subordinating
-var subordinatingPrepositionsAndConjunctionsTag = 'IN'
+const subordinatingPrepositionsAndConjunctionsTag = 'IN'
 
 // JJ adjective or numeral, ordinal
-var ordinalAdjectiveAndNumeralTag = 'JJ'
+const ordinalAdjectiveAndNumeralTag = 'JJ'
 
 // JJR adjective, comparative
-var comparativeAdjectiveTag = 'JJR'
+const comparativeAdjectiveTag = 'JJR'
 
 // JJS adjective, superlative
-var superlativeAdjectiveTag = 'JJS'
+const superlativeAdjectiveTag = 'JJS'
 
 // LS list item marker
-var listItemMarkerTag = 'LS'
+const listItemMarkerTag = 'LS'
 
 // MD modal auxiliary
-var modalAuxiliaryTag = 'MD'
+const modalAuxiliaryTag = 'MD'
 
 // NN noun, common, singular or mass
-var singolarCommonNounAndMassTag = 'NN'
+const singolarCommonNounAndMassTag = 'NN'
 
 // NNS noun, common, plural
-var pluralCommonNounTag = 'NNS'
+const pluralCommonNounTag = 'NNS'
 
 // NNP noun, proper, singular
-var singularProperNounTag = 'NNP'
+const singularProperNounTag = 'NNP'
 
 // NNPS noun, proper, plural
-var pluralProperNounTag = 'NNPS'
+const pluralProperNounTag = 'NNPS'
 
 // PDT pre-determiner
-var preDeterminerTag = 'PDT'
+const preDeterminerTag = 'PDT'
 
 // POS genitive marker
-var genitiveMarkerTag = 'POS'
+const genitiveMarkerTag = 'POS'
 
 // PRP pronoun, personal
-var personalPronounTag = 'PRP'
+const personalPronounTag = 'PRP'
 
 // PRP$ pronoun, possessive
-var possessivePronounTag = 'PRP$'
+const possessivePronounTag = 'PRP$'
 
 // RB adverb
-var adverbTag = 'RB'
+const adverbTag = 'RB'
 
 // RBR adverb, comparative
-var comparativeAdverbTag = 'RBR'
+const comparativeAdverbTag = 'RBR'
 
 // RBS adverb, superlative
-var superlativeAdverbTag = 'RBS'
+const superlativeAdverbTag = 'RBS'
 
 // RP particle
-var particleTag = 'RP'
+const particleTag = 'RP'
 
 // SYM symbol
-var symbolTag = 'SYM'
+const symbolTag = 'SYM'
 
 // TO "to" as preposition or infinitive marker
-var toTag = 'TO'
+const toTag = 'TO'
 
 // UH interjection
-var interjectionTag = 'UH'
+const interjectionTag = 'UH'
 
 // VB verb, base form
-var baseFormVerbTag = 'VB'
+const baseFormVerbTag = 'VB'
 
 // VBD verb, past tense
-var pastTenseVerbTag = 'VBD'
+const pastTenseVerbTag = 'VBD'
 
 // VBG verb, present participle or gerund
-var presentParticipleAndGerundVerbTag = 'VBG'
+const presentParticipleAndGerundVerbTag = 'VBG'
 
 // VBN verb, past participle
-var pastParticipleVerbTag = 'VBN'
+const pastParticipleVerbTag = 'VBN'
 
 // VBP verb, present tense, not 3rd person singular
-var  notThirdPersonSingularPresentTenseVerbTag = 'VBP'
+const  notThirdPersonSingularPresentTenseVerbTag = 'VBP'
 
 // VBZ verb, present tense, 3rd person singular
-var thirdPersonSingularPresentTenseVerbTag = 'VBZ'
+const thirdPersonSingularPresentTenseVerbTag = 'VBZ'
 
 // WDT WH-determiner
-var whDeterminerTag = 'WDT'
+const whDeterminerTag = 'WDT'
 
 // WP WH-pronoun
-var whPronounTag = 'WP'
+const whPronounTag = 'WP'
 
 // WP$ WH-pronoun, possessive
-var possessiveWHPronounTag = 'WP$'
+const possessiveWHPronounTag = 'WP$'
 
 // WRB Wh-adverb
-var whAdverbTag = 'WRB'
+const whAdverbTag = 'WRB'
 
 ////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 
 const groupBytag = (cb) => {
-  var taggedWordsGroupedByTag = _.groupBy(pos.taggedWords, 'tag')
+  let taggedWordsGroupedByTag = _.groupBy(pos.taggedWords, 'tag')
 
   pos.coordinatingConjunctions = _.pluck(taggedWordsGroupedByTag[coordinatingConjunctionTag], 'word') || []
   pos.cardinalNumbers = _.pluck(taggedWordsGroupedByTag[cardinalNumberTag], 'word') || []
@@ -222,8 +222,8 @@ const groupBytag = (cb) => {
 ////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////
 
-var taggedSentences = []
-var sentencesTags = []
+let taggedSentences = []
+let sentencesTags = []
 
 const tagSentence = (sentence, cb) => {
 
@@ -233,9 +233,9 @@ const tagSentence = (sentence, cb) => {
     }
     else {
       resp = resp.join(' ')
-      var taggedWords = resp.split(' ')
-      var sentenceTags = []
-      var taggedSentence = []
+      let taggedWords = resp.split(' ')
+      let sentenceTags = []
+      let taggedSentence = []
       taggedWords.forEach((taggedWord) => {
         // Array with two element, word and tag
         taggedWord = taggedWord.split('_')
@@ -257,7 +257,7 @@ const tagSentence = (sentence, cb) => {
 }
 
 const tagSentences = (sentences, cb) => {
-  var _sentences = []
+  let _sentences = []
 
   taggedSentences = []
   sentencesTags = []

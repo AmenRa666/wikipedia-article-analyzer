@@ -47,15 +47,15 @@
     <ns>0</ns>
     <id>155311</id>
     <revision>
-      <id>749742847</id>
-      <parentid>749742834</parentid>
-      <timestamp>2016-11-15T23:11:50Z</timestamp>
+      <id>750943480</id>
+      <parentid>750943395</parentid>
+      <timestamp>2016-11-22T11:38:56Z</timestamp>
       <contributor>
-        <username>ClueBot NG</username>
-        <id>13286072</id>
+        <username>Materialscientist</username>
+        <id>7852030</id>
       </contributor>
       <minor/>
-      <comment>Reverting possible vandalism by [[Special:Contribs/2602:306:8001:ABB0:6929:26DC:5F28:AA17|2602:306:8001:ABB0:6929:26DC:5F28:AA17]] to version by MarnetteD. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2837690) (Bot)</comment>
+      <comment>Reverted edits by [[Special:Contribs/197.159.189.230|197.159.189.230]] ([[User talk:197.159.189.230|talk]]) to last version by ClueBot NG</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="65135">{{About|the novel by Leo Tolstoy}}

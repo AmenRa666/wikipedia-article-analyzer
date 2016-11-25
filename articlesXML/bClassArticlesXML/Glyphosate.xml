@@ -47,18 +47,17 @@
     <ns>0</ns>
     <id>294295</id>
     <revision>
-      <id>750270783</id>
-      <parentid>750270660</parentid>
-      <timestamp>2016-11-18T19:13:22Z</timestamp>
+      <id>750792258</id>
+      <parentid>750270783</parentid>
+      <timestamp>2016-11-21T21:21:02Z</timestamp>
       <contributor>
         <username>Smartse</username>
         <id>1640548</id>
       </contributor>
-      <minor/>
-      <comment>/* Mode of action */ oops</comment>
+      <comment>/* Human */ a) primary, b) geographically limited, c) misrepresenting the source which basically says that this isn't surprising due to the widespread use and that no hospitalisations due to pesticides were due to gly</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="112139">{{Distinguish|Glufosinate}}
+      <text xml:space="preserve" bytes="111312">{{Distinguish|Glufosinate}}
 {{Use mdy dates|date=March 2016}}
 {{chembox
 | Verifiedfields = changed
@@ -265,8 +264,6 @@ Glyphosate-based formulations  may contain a number of [[Agricultural spray adju
 ====Human====
 A 2000 review concluded that &quot;under present and expected conditions of new use, there is no potential for Roundup herbicide to pose a health risk to humans&quot;.&lt;ref name=&quot;wkc00&quot;&gt;{{cite journal | vauthors = Williams GM, Kroes R, Munro IC | title = Safety evaluation and risk assessment of the herbicide Roundup and its active ingredient, glyphosate, for humans | journal = Regulatory Toxicology and Pharmacology | volume = 31 | issue = 2 Pt 1 | pages = 117–65 | date = Apr 2000 | pmid = 10854122 | doi = 10.1006/rtph.1999.1371 }}&lt;/ref&gt; A 2002 review by the European Union reached the same conclusion.&lt;ref name=&quot;urlec.europa.eu&quot;&gt;{{cite web | url = http://ec.europa.eu/food/fs/ph_ps/pro/eva/existing/list1_glyphosate_en.pdf | title = Review report for the active substance glyphosate | date = 2002-01-21 | format = | work = Commission working document | publisher = European Commission, Health and Protection Directorate-General: Directorate E – Food Safety: plant health, animal health and welfare, international questions: E1 - Plant Health }}&lt;/ref&gt;
 
-Data from the [[California Environmental Protection Agency]]'s Pesticide Illness Surveillance Program, show glyphosate-related incidents are some of the most common.&lt;ref name=&quot;pmid12507058&quot;&gt;{{cite journal | vauthors = Goldstein DA, Acquavella JF, Mannion RM, Farmer DR | title = An analysis of glyphosate data from the California Environmental Protection Agency Pesticide Illness Surveillance Program | journal = Journal of Toxicology. Clinical Toxicology | volume = 40 | issue = 7 | pages = 885–92 | year = 2002 | pmid = 12507058 | doi = 10.1081/CLT-120016960 }}&lt;/ref&gt;&lt;ref name=&quot;EPA1996&quot;&gt;{{cite web | url = http://www.cdpr.ca.gov/docs/whs/pisp.htm | title = Pesticide Illness Surveillance Program | year = 2010 | work = California Pesticide Illness Serveillance Program Report HS-1733 | publisher = California EPA }}&lt;/ref&gt;
-
 A 2012 meta-analysis of all epidemiological studies of exposure to glyphosate formulations found no correlation with any kind of cancer.&lt;ref name=&quot;Mink_2012&quot;/&gt;  The 2013 systematic review by the German Institute for Risk Assessment of epidemiological studies of workers who use pesticides, exposed to glyphosate formulations found no significant risk, stating that &quot;the available data are contradictory and far from being convincing&quot;.&lt;ref name=BFR2014/&gt;{{rp|Volume 1, p64-66}}  However, a 2014 meta-analysis of the same studies found a correlation between occupational exposure to glyphosate formulations and increased risk of [[B cell lymphoma]], the most common kind of non-Hodgkin lymphoma. Workers exposed to glyphosate were about twice as likely to get B cell lymphoma.&lt;ref name=&quot;Schinasi&quot;&gt;{{cite journal |vauthors=Schinasi L, Leon ME |title=Non-Hodgkin lymphoma and occupational exposure to agricultural pesticide chemical groups and active ingredients: a systematic review and meta-analysis |journal=International Journal of Environmental Research and Public Health |volume=11 |issue=4 |pages=4449–527 |date=Apr 2014 |pmid=24762670 |pmc=4025008 |doi=10.3390/ijerph110404449}}&lt;/ref&gt;
 
 [[Acute toxicity]] is dose-related; Skin exposure to ready-to-use glyphosate formulations can cause irritation, and [[Contact dermatitis#Photocontact dermatitis|photocontact dermatitis]] has been occasionally reported. These effects are probably due to the preservative [[benzisothiazolin-3-one]]. Severe skin burns are very rare.&lt;ref name=&quot;Bradberry_2004&quot; /&gt; Inhalation is a minor route of exposure, but spray mist may cause oral or nasal discomfort, an unpleasant taste in the mouth, or tingling and irritation in the throat. Eye exposure may lead to mild conjunctivitis. Superficial corneal injury is possible if irrigation is delayed or inadequate.&lt;ref name=&quot;Bradberry_2004&quot; /&gt;
@@ -413,7 +410,7 @@ United States companies have cited trade issues with glyphosate being dumped int
 [[Category:Chelating agents]]
 
 [[ja:ラウンドアップ]]</text>
-      <sha1>m64yyzjnj1i8laubt3mw2l5m6gneri3</sha1>
+      <sha1>1u0evl0in9xpn2f0pea0358i94ui4vw</sha1>
     </revision>
   </page>
 </mediawiki>

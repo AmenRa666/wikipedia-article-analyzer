@@ -47,13 +47,15 @@
     <ns>0</ns>
     <id>350666</id>
     <revision>
-      <id>749502659</id>
-      <parentid>746221318</parentid>
-      <timestamp>2016-11-14T17:56:41Z</timestamp>
+      <id>750907198</id>
+      <parentid>750907178</parentid>
+      <timestamp>2016-11-22T04:45:43Z</timestamp>
       <contributor>
-        <ip>192.35.35.34</ip>
+        <username>ClueBot NG</username>
+        <id>13286072</id>
       </contributor>
-      <comment>rv</comment>
+      <minor/>
+      <comment>Reverting possible vandalism by [[Special:Contribs/50.35.51.4|50.35.51.4]] to version by 163.153.77.1. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2845232) (Bot)</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="67238">{{For|the town of Kilauea on Kauai|Kilauea, Hawaii}}

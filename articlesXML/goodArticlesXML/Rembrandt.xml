@@ -47,18 +47,15 @@
     <ns>0</ns>
     <id>4254144</id>
     <revision>
-      <id>750170022</id>
-      <parentid>749797662</parentid>
-      <timestamp>2016-11-18T04:27:08Z</timestamp>
+      <id>750810024</id>
+      <parentid>750709268</parentid>
+      <timestamp>2016-11-21T22:18:45Z</timestamp>
       <contributor>
-        <username>GreenC bot</username>
-        <id>27823944</id>
+        <ip>27.74.252.82</ip>
       </contributor>
-      <minor/>
-      <comment>1 archive template merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="70349">{{about|the Dutch artist}}
+      <text xml:space="preserve" bytes="70408">{{about|the Dutch artist}}
 {{Use dmy dates|date=October 2011}}
 {{Infobox artist
 | name          = Rembrandt van Rijn
@@ -77,7 +74,7 @@
 | patrons       =
 | awards        = }}
 
-'''Rembrandt Harmenszoon van Rijn''' ({{IPAc-en|ˈ|r|ɛ|m|b|r|æ|n|t|,_|-|b|r|ɑː|n|t}};&lt;ref&gt;[http://dictionary.reference.com/browse/rembrandt &quot;Rembrandt&quot;]. ''[[Random House Webster's Unabridged Dictionary]]''.&lt;/ref&gt; {{IPA-nl|ˈrɛmbrɑnt ˈɦɑrmə(n)soːn vɑn ˈrɛin|lang|Rembrandtvanrijn.ogg}}; 15&amp;nbsp;July 1606&lt;ref name=&quot;BY&quot;/&gt;&amp;nbsp;– 4&amp;nbsp;October 1669) was a [[Dutch people|Dutch]] [[draughtsman]], [[painter]] and [[printmaker]]. He is generally considered one of the greatest painters and printmakers in [[European art]] and the most important in [[Dutch art]] history.&lt;ref name=&quot;Gombrich, p. 420&quot;&gt;Gombrich, p. 420.&lt;/ref&gt; Unlike most [[Dutch Masters]] of the 17th century, Rembrandt's works depict a wide range of style and subject matter, from portraits, self-portraits, to landscapes, allegorical scenes, biblical and mythological themes as well as animal studies. His contributions to art came in a period of great wealth and cultural achievement that historians call the [[Dutch Golden Age]] when [[Dutch Golden Age painting]], although in many ways antithetical to the [[Baroque]] style that dominated Europe, was extremely prolific and innovative, and gave rise to important new genres in painting.
+'''Rembrandt Harmenszoon van Rijn''' ({{IPAc-en|ˈ|r|ɛ|m|b|r|æ|n|t|,_|-|b|r|ɑː|n|t}};&lt;ref&gt;[http://dictionary.reference.com/browse/rembrandt &quot;Rembrandt&quot;]. ''[[Random House Webster's Unabridged Dictionary]]''.&lt;/ref&gt; {{IPA-nl|ˈrɛmbrɑnt ˈɦɑrmə(n)soːn vɑn ˈrɛin|lang|Rembrandtvanrijn.ogg}}; 15&amp;nbsp;July 1606&lt;ref name=&quot;BY&quot;/&gt;&amp;nbsp;– 4&amp;nbsp;October 1669) was a [[Dutch people|Dutch]] [[draughtsman]], [[painter]] and [[printmaker]]. A [[Old Masters|master]] across three [[art media|media]], he is generally considered one of the greatest [[visual artists]] in the [[history of art]] and the most important in [[Dutch art]] history.&lt;ref name=&quot;Gombrich, p. 420&quot;&gt;Gombrich, p. 420.&lt;/ref&gt; Unlike most [[Dutch Masters]] of the 17th century, Rembrandt's works depict a wide range of style and subject matter, from portraits, self-portraits, to landscapes, allegorical scenes, biblical and mythological themes as well as animal studies. His contributions to art came in a period of great wealth and cultural achievement that historians call the [[Dutch Golden Age]] when [[Dutch Golden Age painting]], although in many ways antithetical to the [[Baroque]] style that dominated Europe, was extremely prolific and innovative, and gave rise to important new genres in painting.
 
 Having achieved youthful success as a [[portrait painting|portrait]] painter, Rembrandt's later years were marked by personal tragedy and financial hardships. Yet his etchings and paintings were popular throughout his lifetime, his reputation as an artist remained high,&lt;ref&gt;Gombrich, p. 427.&lt;/ref&gt; and for twenty years he taught many important Dutch painters.&lt;ref name=Clark_203&gt;{{Harvnb|Clark|1969|pp=203}}&lt;/ref&gt; Rembrandt's greatest creative triumphs are exemplified most notably in his portraits of his contemporaries, self-portraits and illustrations of scenes from the Bible. [[Self-portraits by Rembrandt|His self-portraits]] form a unique and intimate biography, in which the artist surveyed himself without vanity and with the utmost sincerity.&lt;ref name=&quot;Gombrich, p. 420&quot;&gt;Gombrich, p. 420.&lt;/ref&gt; His reputation as the greatest [[etcher]] in the history of the medium was established in his lifetime, and never questioned since. Few of [[List of paintings by Rembrandt|his paintings]] left the [[Dutch Republic]] whilst he lived, but his [[old master prints|prints]] were circulated throughout Europe, and his wider reputation was initially based on them alone.
 
@@ -453,7 +450,7 @@ Image:Rembrandt Christus aan het volk getoond.jpg|''Christ presented to the Peop
 [[Category:Artists from Leiden]]
 [[Category:1606 births]]
 [[Category:1669 deaths]]</text>
-      <sha1>r5xce5t9g265dau227tsb09l4iud4hj</sha1>
+      <sha1>67xv7j9dwhi0lc04ga41ro7k97sldjw</sha1>
     </revision>
   </page>
 </mediawiki>

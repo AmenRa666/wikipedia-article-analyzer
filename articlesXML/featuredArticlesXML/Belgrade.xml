@@ -47,18 +47,16 @@
     <ns>0</ns>
     <id>55904</id>
     <revision>
-      <id>750242600</id>
-      <parentid>750209564</parentid>
-      <timestamp>2016-11-18T15:47:45Z</timestamp>
+      <id>750729454</id>
+      <parentid>750242600</parentid>
+      <timestamp>2016-11-21T14:16:24Z</timestamp>
       <contributor>
-        <username>Sluzzelin</username>
-        <id>1718065</id>
+        <ip>92.231.34.151</ip>
       </contributor>
-      <minor/>
-      <comment>restoring last version by GreenC bot</comment>
+      <comment>This is the most important picture, because it shows the city and it's location and profile perfectly. No other picture shows it like this. No picture of a building can show or represent the city like this. This should never be removed.</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="132602">{{Other uses}}
+      <text xml:space="preserve" bytes="132586">{{Other uses}}
 {{pp-move-indef}}
 {{Use dmy dates|date=July 2015}}
 {{Infobox settlement
@@ -67,7 +65,7 @@
 |native_name            = Beograd / Београд
 |settlement_type        = [[Capital city|Capital]] of [[Serbia]]
 |image_skyline          ={{Photomontage|position=center
-| photo1a = Luis-Filipe-Gaspar-Belgrado-Servia.jpg
+| photo1a = Belgrade iz balona.jpg
 | photo2a = KnezMihailova ped.jpg
 | photo2b = Zindan kapija i most.jpg
 | photo3a = Stari_dvor,_Beograd.JPG
@@ -755,7 +753,7 @@ Belgrade has received various domestic and international honors, including the F
 [[Category:Populated places established in the 3rd century BC]]
 [[Category:Populated places on the Danube]]
 [[Category:Šumadija]]</text>
-      <sha1>m1rmxoz0uhvuffanorjwajnzoyomvwr</sha1>
+      <sha1>p8jf2mdg2xlapzjabug4aco4t4big6d</sha1>
     </revision>
   </page>
 </mediawiki>

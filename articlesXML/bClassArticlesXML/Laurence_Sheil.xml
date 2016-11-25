@@ -47,18 +47,17 @@
     <ns>0</ns>
     <id>29233333</id>
     <revision>
-      <id>737469366</id>
-      <parentid>719475465</parentid>
-      <timestamp>2016-09-03T00:47:11Z</timestamp>
+      <id>750903697</id>
+      <parentid>737469366</parentid>
+      <timestamp>2016-11-22T04:11:59Z</timestamp>
       <contributor>
-        <username>Seasider7</username>
-        <id>13629175</id>
+        <username>Good Olfactory</username>
+        <id>6454287</id>
       </contributor>
-      <minor/>
-      <comment>Added 'being' between 'after' and 'ordained'</comment>
+      <comment>added [[Category:Roman Catholic missionaries in Australia]] using [[WP:HC|HotCat]]</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="9517">{{EngvarB|date=October 2013}}
+      <text xml:space="preserve" bytes="9571">{{EngvarB|date=October 2013}}
 {{Use dmy dates|date=October 2013}}
 {{Infobox Christian leader
 | type = bishop
@@ -139,8 +138,9 @@ The second report, commissioned by the Congregation of the Propagation of the Fa
 [[Category:19th-century Roman Catholic bishops]]
 [[Category:Roman Catholic Bishops of Adelaide]]
 [[Category:Infectious disease deaths in South Australia]]
-[[Category:Burials in South Australia]]</text>
-      <sha1>03jtb9kfsafwmbdicmba4xn8h3ovag5</sha1>
+[[Category:Burials in South Australia]]
+[[Category:Roman Catholic missionaries in Australia]]</text>
+      <sha1>7hpoekigwc22qvxr6j51lzszonsmzqn</sha1>
     </revision>
   </page>
 </mediawiki>

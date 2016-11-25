@@ -47,14 +47,15 @@
     <ns>0</ns>
     <id>216102</id>
     <revision>
-      <id>750122197</id>
-      <parentid>750120998</parentid>
-      <timestamp>2016-11-17T23:08:54Z</timestamp>
+      <id>750760918</id>
+      <parentid>750760705</parentid>
+      <timestamp>2016-11-21T17:52:24Z</timestamp>
       <contributor>
-        <username>Gap9551</username>
-        <id>8367391</id>
+        <username>Tryptofish</username>
+        <id>7627571</id>
       </contributor>
-      <comment>Reverted 1 pending edit by [[Special:Contributions/83.32.0.145|83.32.0.145]] to revision 748259308 by Marcocapelle: no improvement</comment>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/209.87.206.69|209.87.206.69]] ([[User talk:209.87.206.69|talk]]) to last version by Gap9551</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="104194">{{pp-pc1}}

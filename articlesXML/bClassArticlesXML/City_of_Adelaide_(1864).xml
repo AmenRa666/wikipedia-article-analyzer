@@ -47,23 +47,23 @@
     <ns>0</ns>
     <id>3792867</id>
     <revision>
-      <id>749938913</id>
-      <parentid>749749075</parentid>
-      <timestamp>2016-11-16T23:59:02Z</timestamp>
+      <id>750750400</id>
+      <parentid>750745310</parentid>
+      <timestamp>2016-11-21T16:41:51Z</timestamp>
       <contributor>
-        <username>Bahudhara</username>
-        <id>12215099</id>
+        <username>Vicarage</username>
+        <id>109729</id>
       </contributor>
-      <comment>Rm unnecessary comment from infobox, not supported elsewhere in WP or Commons</comment>
+      <comment>remove Category:Ships and vessels on the National Archive of Historic Vessels as only in archive status there, as now in Oz</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="76201">{{For|the earlier emigrant ship of the same name|City of Adelaide (1838)}}
+      <text xml:space="preserve" bytes="76156">{{For|the earlier emigrant ship of the same name|City of Adelaide (1838)}}
 {{Use dmy dates|date=November 2012}}
 {{coord|-34.841633|138.508736|dim:56_type:landmark_region:AU-SA|display=title}}
 {|{{Infobox ship begin}}
 {{Infobox ship image
 | Ship image               = [[File:SV City Adelaide Dutton Lithograph.jpg|300px]]
-| Ship caption             = ''Clipper Ship, 'City of Adelaide', 1000 tons, David Bruce, Commander''. Hand-coloured lithograph by Thomas Dutton, August 1864. Dedicated &quot;To Messrs. [[Devitt and Moore]] Owners, Messrs Wm Pile, Hay &amp; Co. Builders &amp; the Officers of the Ship this print is most respectfully dedicated by their obedient servant, Wm. Foster”.
+| Ship caption             = ''Clipper Ship, 'City of Adelaide', 1000 tons, David Bruce, Commander''. Hand-coloured lithograph by [[Thomas Goldsworthy Dutton|Thomas Dutton]], August 1864. Dedicated &quot;To Messrs. [[Devitt and Moore]] Owners, Messrs Wm Pile, Hay &amp; Co. Builders &amp; the Officers of the Ship this print is most respectfully dedicated by their obedient servant, Wm. Foster”.
 }}
 {{Infobox ship career
 | Hide header              =
@@ -466,7 +466,6 @@ http://messenger.newspaperdirect.com/epaper/viewer.aspx Portside Messenger artic
 [[Category:Clipper ships of Australia]]
 [[Category:Tall ships of the United Kingdom]]
 [[Category:Individual sailing vessels]]
-[[Category:Ships and vessels on the National Archive of Historic Vessels]]
 [[Category:Museum ships in Australia]]
 [[Category:1851–70 ships of Australia]]
 [[Category:Ships of South Australia]]
@@ -476,7 +475,7 @@ http://messenger.newspaperdirect.com/epaper/viewer.aspx Portside Messenger artic
 [[Category:Maritime incidents in 1874]]
 [[Category:Full-rigged ships]]
 [[Category:1864 in England]]</text>
-      <sha1>i07zc9j17af61tygsufa48eizlm4b71</sha1>
+      <sha1>7wzd1abplc6bjc1b20mzndulh9b76jy</sha1>
     </revision>
   </page>
 </mediawiki>

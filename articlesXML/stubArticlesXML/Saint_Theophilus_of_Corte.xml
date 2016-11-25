@@ -47,15 +47,17 @@
     <ns>0</ns>
     <id>22862006</id>
     <revision>
-      <id>746928595</id>
-      <parentid>746928371</parentid>
-      <timestamp>2016-10-30T11:49:43Z</timestamp>
+      <id>750929555</id>
+      <parentid>750929542</parentid>
+      <timestamp>2016-11-22T08:54:44Z</timestamp>
       <contributor>
-        <ip>78.237.238.30</ip>
+        <username>Good Olfactory</username>
+        <id>6454287</id>
       </contributor>
+      <comment>added [[Category:Franciscan missionaries]] using [[WP:HC|HotCat]]</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="2783">{{refimprove|date=April 2013}}
+      <text xml:space="preserve" bytes="2871">{{refimprove|date=April 2013}}
 {{Use mdy dates|date=April 2012}}
 {{Infobox saint
 | name            = [[Canonization|Saint]]&lt;br&gt;Theophilus of Corte
@@ -113,9 +115,11 @@ He was [[Beatification|beatified]] on 19 January 1896 by [[Pope Leo XIII]] and w
 [[Category:Italian Roman Catholic priests]]
 [[Category:Reformers]]
 [[Category:18th-century French people]]
+[[Category:Roman Catholic missionaries in Europe]]
+[[Category:Franciscan missionaries]]
 
 {{Saint-stub}}</text>
-      <sha1>1e2976j27qamhhu0u1tj2zpswlacth4</sha1>
+      <sha1>1orh1nny2nfvsvw9yoo93sr2nwavb2u</sha1>
     </revision>
   </page>
 </mediawiki>

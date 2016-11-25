@@ -47,18 +47,17 @@
     <ns>1</ns>
     <id>1624058</id>
     <revision>
-      <id>693263424</id>
-      <parentid>693259489</parentid>
-      <timestamp>2015-12-01T12:48:50Z</timestamp>
+      <id>750923536</id>
+      <parentid>693263424</parentid>
+      <timestamp>2016-11-22T07:35:38Z</timestamp>
       <contributor>
-        <username>William Avery</username>
-        <id>1398</id>
+        <username>Hskoppek</username>
+        <id>20322866</id>
       </contributor>
-      <minor/>
-      <comment>Reverted edits by [[Special:Contribs/27.114.177.197|27.114.177.197]] ([[User talk:27.114.177.197|talk]]) to last version by ERAGON</comment>
+      <comment>/* Disputed accuracy, original research, unreliable sources */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="30067">{{ArticleHistory
+      <text xml:space="preserve" bytes="30891">{{ArticleHistory
 |action1=GAN
 |action1date=21:21, 20 April 2012
 |action1link=Talk:Lettuce/GA1
@@ -253,6 +252,10 @@ I'd be happy to suggest alternative wording if anyone is interested, and look at
 ::::[http://www.efloras.org/florataxon.aspx?flora_id=1&amp;taxon_id=20701 Here's a reference] for the floral stuff; I'd add it, but you'd just have to correct my &lt;nowiki&gt;&lt;ref&gt;&lt;/nowiki&gt; syntax. I've modified the text so that the connection to the reference, which is about the entire tribe [[Cichorieae]], is clear.--[[User:Curtis Clark|Curtis Clark]] ([[User talk:Curtis Clark|talk]]) 23:36, 21 September 2012 (UTC)
 :::::OK, I've added the new ref in. My apologies for taking a few days to do so - I saw your post about the source and then completely forgot about taking action on it :( Thanks again for your help, and if you have any further comments, I'd love to hear them, [[User:Dana boomer|Dana boomer]] ([[User talk:Dana boomer|talk]]) 13:55, 24 September 2012 (UTC)
 
+Some information in this article is inaccurate and misleading, in particular &quot;In the first years of the 21st century, bagged salad products began to hold a growing portion of the lettuce market, especially in the US. Processed from what was previously waste lettuce not considered acceptable for the fresh market, these products are packaged in a manner that makes them last longer than standard head lettuce after harvest.[44]&quot;.  I have purchased bagged loose leaf salads (mesclun) in the US in the nineties and it was not considered a waste product, but a high value item.  Unfortunately, I do not have the time to research this further, but want to make people aware that the reference under 44 does not reflect the entire truth.  
+
+[[User:Hskoppek|Hskoppek]] ([[User talk:Hskoppek|talk]]) 07:35, 22 November 2016 (UTC)
+
 == Weaver Source ==
 
 Quite a bit of the info in this article is cited from &quot;Weaver,&quot; who I presume is the author of a book, but I can't find a title of the book or anything else about this source.  Who is Weaver?  And how is it OK to cite him/her so heavily in this article without even proving that he/she (or the source authored by him/her) even exists?  Am I missing something?  I'm not a regular Wikipedia editor, but I use Wikipedia every day, and if I'm having trouble locating this source, I'm sure many others are, too. [[Special:Contributions/24.252.90.73|24.252.90.73]] ([[User talk:24.252.90.73|talk]]) 16:50, 13 May 2015 (UTC)
@@ -260,7 +263,7 @@ Quite a bit of the info in this article is cited from &quot;Weaver,&quot; who I 
 ==Worthy of Note?==
 
 Lettuce is now the first foodstuff to be grown and consumed in space. [http://www.theguardian.com/science/2015/aug/10/nasa-astronauts-lettuce-vegetables-grown-space?CMP=fb_gu] --[[User:ERAGON|ERAGON]] ([[User talk:ERAGON|talk]]) 12:47, 11 August 2015 (UTC)</text>
-      <sha1>taafcfog2zdm32b00wqck10in3gxcld</sha1>
+      <sha1>h94i27dc6h4vcrr7qaht9tdcrfx92at</sha1>
     </revision>
   </page>
 </mediawiki>

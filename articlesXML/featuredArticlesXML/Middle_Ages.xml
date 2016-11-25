@@ -47,15 +47,15 @@
     <ns>0</ns>
     <id>18836</id>
     <revision>
-      <id>750041457</id>
-      <parentid>750041453</parentid>
-      <timestamp>2016-11-17T14:39:22Z</timestamp>
+      <id>750874524</id>
+      <parentid>750874507</parentid>
+      <timestamp>2016-11-22T00:05:15Z</timestamp>
       <contributor>
-        <username>ClueBot NG</username>
-        <id>13286072</id>
+        <username>Lazylaces</username>
+        <id>794069</id>
       </contributor>
       <minor/>
-      <comment>Reverting possible vandalism by [[Special:Contribs/164.83.127.204|164.83.127.204]] to version by Tobby72. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2839397) (Bot)</comment>
+      <comment>Reverted edits by [[Special:Contributions/186.151.63.61|186.151.63.61]] ([[User talk:186.151.63.61|talk]]) ([[WP:HG|HG]]) (3.1.19)</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text xml:space="preserve" bytes="165178">{{About|medieval Europe|a global history of the period between the 5th and 15th centuries|Post-classical history|other uses|Middle Ages (disambiguation)}}

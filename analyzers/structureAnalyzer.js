@@ -1,11 +1,11 @@
 // MODULES
-var async = require('async')
-var nlp = require('nlp_compromise')
-var math = require('mathjs')
+const async = require('async')
+const nlp = require('nlp_compromise')
+const math = require('mathjs')
 
 
 // LOGIC
-var structureFeatures = {
+let structureFeatures = {
   sectionCount: 0,
   subsectionCount: 0,
   paragraphCount: 0,
@@ -29,13 +29,13 @@ var structureFeatures = {
   imagePerSection: 0
 }
 
-var sections = []
-var subsectionIndexes = []
-var characterCount = 0
-var wordCount = 0
-var sectionSizes = []
-var sentenceCount = 0
-var textFromXML = ''
+let sections = []
+let subsectionIndexes = []
+let characterCount = 0
+let wordCount = 0
+let sectionSizes = []
+let sentenceCount = 0
+let textFromXML = ''
 
 const countSections = (cb) => {
   structureFeatures.sectionCount = sections.length
@@ -48,7 +48,7 @@ const countSubsections = (cb) => {
 }
 
 const countParagraphs = (cb) => {
-  var paragraphCount = 0
+  let paragraphCount = 0
   sections.forEach((section) => {
     paragraphCount = paragraphCount + section.split('.\n').length
   })
@@ -69,19 +69,19 @@ const getMeanParagraphSize = (cb) => {
 const getSectionSizes = (cb) => {
   sections.forEach((section) => {
     // Expand contractions
-    var expandedSectionText = nlp.text(section).contractions.expand().text()
+    let expandedSectionText = nlp.text(section).contractions.expand().text()
     // Normalize text (remove all punctation, except for dots, and 'new line')
-    var normalizedSectionText = nlp.text(expandedSectionText).normal();
+    let normalizedSectionText = nlp.text(expandedSectionText).normal();
     // Remove dots, question marks, exclamation marks and brackets
-    var noPointsSectionText = normalizedSectionText.replace(/[\.|?|!|{|}|\[|\]]/g, '')
-    var sectionSize = noPointsSectionText.replace(/ /g, '').length
+    let noPointsSectionText = normalizedSectionText.replace(/[\.|?|!|{|}|\[|\]]/g, '')
+    let sectionSize = noPointsSectionText.replace(/ /g, '').length
     sectionSizes.push(sectionSize)
   })
   cb(null, 'Get Section Sizes')
 }
 
 const getLargestSectionSize = (cb) => {
-  var largestSectionSize = 1
+  let largestSectionSize = 1
   sectionSizes.forEach((sectionSize) => {
     if (sectionSize != 0 && sectionSize > largestSectionSize) {
       largestSectionSize = sectionSize
@@ -96,7 +96,7 @@ const getLargestSectionSize = (cb) => {
 }
 
 const getShortestSectionSize = (cb) => {
-  var shortestSectionSize = sectionSizes.min()
+  let shortestSectionSize = sectionSizes.min()
   if (shortestSectionSize < 1) {
     shortestSectionSize = 1
   }
@@ -138,19 +138,19 @@ const countCitations = (cb) => {
 
   ////////////////////////////// PROVA UNIQUE REF //////////////////////////////
 
-  // var citationCountText = textFromXML.replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/<ref/g, '\n\n<ref').replace(/\/>/g, '/>\n\n').replace(/\/ref>/g, '/ref>\n\n').replace(/ /g, '')
+  // let citationCountText = textFromXML.replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/<ref/g, '\n\n<ref').replace(/\/>/g, '/>\n\n').replace(/\/ref>/g, '/ref>\n\n').replace(/ /g, '')
   //
   // // console.log(citationCountText);
   //
-  // // var citationsRegex = /<ref|&lt;ref|{{sfn\|/g
+  // // const citationsRegex = /<ref|&lt;ref|{{sfn\|/g
   //
-  // // var citationsRegex = /<ref.*\/>|<ref.*\/ref>/g
-  // var citationsRegex = /<ref.*\/ref>/g
-  // // var citationsRegex = /<ref.*\/>/g
+  // // const citationsRegex = /<ref.*\/>|<ref.*\/ref>/g
+  // const citationsRegex = /<ref.*\/ref>/g
+  // // const citationsRegex = /<ref.*\/>/g
   //
-  // // var citationsRegex = /&lt;ref.*ref&gt;|{{sfn.*}}|<ref.*ref>|<ref.*\/>/g
+  // // const citationsRegex = /&lt;ref.*ref&gt;|{{sfn.*}}|<ref.*ref>|<ref.*\/>/g
   //
-  // // var citationsRegex = /&lt;ref.*ref&gt;/g
+  // // const citationsRegex = /&lt;ref.*ref&gt;/g
   // structureFeatures.citationCount = (citationCountText.toLowerCase().match(citationsRegex) || []).length
   //
   // // console.log(textFromXML);
@@ -164,7 +164,7 @@ const countCitations = (cb) => {
 
   //////////////////////////////////////////////////////////////////////////////
 
-  var citationsRegex = /<ref|&lt;ref|{{sfn\|/g
+  const citationsRegex = /<ref|&lt;ref|{{sfn\|/g
   structureFeatures.citationCount = (textFromXML.toLowerCase().match(citationsRegex) || []).length
   cb(null, 'Count Citations')
 }
@@ -180,7 +180,7 @@ const getCitationCountPerSection = (cb) => {
 }
 
 const countExternalLinks = (cb) => {
-  var webURLRegex = /\|url=|\| url=|url =| url =|\[http/g
+  const webURLRegex = /\|url=|\| url=|url =| url =|\[http/g
   structureFeatures.externalLinksCount = (textFromXML.toLowerCase().match(webURLRegex) || []).length
   cb(null, 'Count External Links')
 }
@@ -196,7 +196,7 @@ const getExternalLinksPerSection = (cb) => {
 }
 
 const countImages = (cb) => {
-  var imageRegex = /\[\[file:|\[\[image:/g
+  const imageRegex = /\[\[file:|\[\[image:/g
   structureFeatures.imageCount = (textFromXML.toLowerCase().match(imageRegex) || []).length
   cb(null, 'Count Images')
 }

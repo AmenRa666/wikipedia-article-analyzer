@@ -47,18 +47,17 @@
     <ns>0</ns>
     <id>80028</id>
     <revision>
-      <id>750110794</id>
-      <parentid>749991866</parentid>
-      <timestamp>2016-11-17T21:49:58Z</timestamp>
+      <id>750892098</id>
+      <parentid>750891987</parentid>
+      <timestamp>2016-11-22T02:26:22Z</timestamp>
       <contributor>
-        <username>WikiPedant</username>
-        <id>596674</id>
+        <username>A2soup</username>
+        <id>12026264</id>
       </contributor>
-      <minor/>
-      <comment>Undid edits by [[Special:Contributions/Blahblahselcric|Blahblahselcric]] ([[User talk:Blahblahselcric|talk]]). Added nothing substantive.</comment>
+      <comment>/* Tablet one */ clarify who shamash is</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="45656">{{Other uses}}
+      <text xml:space="preserve" bytes="45668">{{Other uses}}
 {{Italic title}}
 {{Mesopotamian myth|expanded=5}}
 {{Uruk Epics|expanded=3}}
@@ -96,7 +95,7 @@ The 12th tablet is a sequel to the original 11, and was probably added at a late
 (''Based on [[Andrew R. George|Andrew George]]'s translation'')
 
 ===== Tablet one =====
-The story introduces Gilgamesh, king of [[Uruk]]. Gilgamesh, two-thirds god and one-third man, is oppressing his people, who cry out to the gods for help. For the young women of Uruk this oppression takes the form of a ''[[droit du seigneur]]'', or &quot;lord's right&quot;, to sleep with brides on their wedding night. For the young men (the tablet is damaged at this point) it is conjectured that Gilgamesh exhausts them through games, tests of strength, or perhaps forced labour on building projects. The gods respond to the people's pleas by creating an equal to Gilgamesh who will be able to stop his oppression. This is the primitive man, [[Enkidu]], who is covered in hair and lives in the wild with the animals. He is spotted by a trapper, whose livelihood is being ruined because Enkidu is uprooting his traps. The trapper tells Shamash about the man, and it is arranged for Enkidu to be seduced by [[Shamhat]], a [[Sacred prostitution|temple prostitute]], his first step towards being tamed, and after six days and seven nights of continuous lovemaking she takes Enkidu to a shepherd's camp to learn how to be civilized. Gilgamesh, meanwhile, has been having dreams about the imminent arrival of a beloved new companion.
+The story introduces Gilgamesh, king of [[Uruk]]. Gilgamesh, two-thirds god and one-third man, is oppressing his people, who cry out to the gods for help. For the young women of Uruk this oppression takes the form of a ''[[droit du seigneur]]'', or &quot;lord's right&quot;, to sleep with brides on their wedding night. For the young men (the tablet is damaged at this point) it is conjectured that Gilgamesh exhausts them through games, tests of strength, or perhaps forced labour on building projects. The gods respond to the people's pleas by creating an equal to Gilgamesh who will be able to stop his oppression. This is the primitive man, [[Enkidu]], who is covered in hair and lives in the wild with the animals. He is spotted by a trapper, whose livelihood is being ruined because Enkidu is uprooting his traps. The trapper tells the sun-god [[Shamash]] about the man, and it is arranged for Enkidu to be seduced by [[Shamhat]], a [[Sacred prostitution|temple prostitute]], his first step towards being tamed. After six days and seven nights of continuous lovemaking she takes Enkidu to a shepherd's camp to learn how to be civilized. Gilgamesh, meanwhile, has been having dreams about the imminent arrival of a beloved new companion.
 
 ===== Tablet two =====
 Shamhat brings Enkidu to the shepherds' camp, where he is introduced to a human diet and becomes the night watchman. Learning from a passing stranger about Gilgamesh's treatment of new brides, Enkidu is incensed and travels to Uruk to intervene at a wedding. When Gilgamesh attempts to visit the wedding chamber, Enkidu blocks his way, and they fight. After a fierce battle, Enkidu acknowledges Gilgamesh's superior strength and they become friends. Gilgamesh proposes a journey to the Cedar Forest to slay the monstrous demi-god [[Humbaba]] in order to gain fame and renown. Despite warnings from Enkidu and the council of elders, Gilgamesh is not deterred.
@@ -334,7 +333,7 @@ The ''Epic of Gilgamesh'' has inspired many works of literature, art, music, as 
 [[Category:Mesopotamian literature]]
 [[Category:Flood myths]]
 [[Category:Archaeological corpora documents]]</text>
-      <sha1>3ev3bff8csxby1tkqp8mqjpehwido8u</sha1>
+      <sha1>7qxjgydly6bomt19mjyo9mviyhx852g</sha1>
     </revision>
   </page>
 </mediawiki>

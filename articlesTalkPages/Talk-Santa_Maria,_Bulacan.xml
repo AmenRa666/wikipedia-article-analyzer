@@ -47,17 +47,17 @@
     <ns>1</ns>
     <id>11615443</id>
     <revision>
-      <id>717864175</id>
-      <parentid>702932987</parentid>
-      <timestamp>2016-04-30T05:26:26Z</timestamp>
+      <id>750731417</id>
+      <parentid>717864175</parentid>
+      <timestamp>2016-11-21T14:31:41Z</timestamp>
       <contributor>
-        <username>JJMC89 bot</username>
-        <id>27446209</id>
+        <username>P199</username>
+        <id>897376</id>
       </contributor>
-      <comment>subst /Comments to [[WP:DCS|discontinue comments subpage]]) ([[Project:AWB|AWB]] [12009]</comment>
+      <comment>add</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="17513">{{Skip to talk}}
+      <text xml:space="preserve" bytes="18463">{{Skip to talk}}
 {{Talk header}}
 {{FailedGA|17:17, 24 January 2014 (UTC)|topic=Geography and places|page=1}}
 {{WikiProject banner shell|1=
@@ -646,8 +646,14 @@ Greetings to you Sir and to the Honorable Vice Mayor and the Honorable Municipal
 Please do something about the perenial heavy traffic congestion along the connecting road just after the north expresway going towards Bagbaguin. Perhaps we can appeal to the national government to put another exit right after the Bocaue exit towards north to connect Guyong to the North expresway in order to decongest the daily, heavy traffic in the area.
 
 Moreover, please extend the services of the water district to the Cityland Bulacan Heights.}}
-Substituted at 05:26, 30 April 2016 (UTC)</text>
-      <sha1>cztppx37gp6dmjkjwogoxqdt7sv4fxk</sha1>
+Substituted at 05:26, 30 April 2016 (UTC)
+
+==POV and promotional statements==
+The 3rd paragraph stated that:
+{{quote|Santa Maria's total bank deposits reached PHP 17.3 billion as of June 2016, this accounts for almost 75% of eastern Bulacan's total bank deposits and ''dwarfing other cities and municipalities in the country''. ... It has a relatively high standard of living, with only 4% of the population living in poverty ''which is one of the lowest in the Philippines''.}}
+
+The statements in italics are ''not'' in the references but are improper editorial synthesis to imply a new (and [[WP:POV|POV]]) conclusion, see [[WP:SYNTHESIS]]. Furthermore, they are clearly promotional statements, against [[WP:PROMOTION]]. Therefore these statements are against WP policy and will be removed. If disagree, discuss here before reinstating it. -- '''&lt;font color=&quot;#199199&quot;&gt;[[User:P199|P&amp;nbsp;1&amp;nbsp;9&amp;nbsp;9]]&lt;/font&gt;'''&amp;nbsp;&amp;nbsp;&lt;big&gt;[[User talk:P199|✉]]&lt;/big&gt; 14:30, 21 November 2016 (UTC)</text>
+      <sha1>boo30ao007epnunor77yuzpwox0828c</sha1>
     </revision>
   </page>
 </mediawiki>

@@ -1,11 +1,11 @@
 // MODULES
-var async = require('async')
-var nlp = require('nlp_compromise')
-var passive = require('passive-voice');
+const async = require('async')
+const nlp = require('nlp_compromise')
+const passive = require('passive-voice');
 
 
 // LOGIC
-var styleFeatures = {
+let styleFeatures = {
   meanSentenceSize: 0,
   largestSentenceSize: 0,
   shortestSentenceSize: 0,
@@ -45,14 +45,14 @@ var styleFeatures = {
   numberOfSentencesThatStartWithAnArticleRatio: 0
 }
 
-var pos = []
-var verbs = []
-var words = []
-var sentences = []
-var sentencesTags = []
-var wordCount = 0
-var sentenceCount = 0
-var firstWordsTags = {}
+let pos = []
+let verbs = []
+let words = []
+let sentences = []
+let sentencesTags = []
+let wordCount = 0
+let sentenceCount = 0
+let firstWordsTags = {}
 
 const getMeanSentenceSize = (cb) => {
   styleFeatures.meanSentenceSize = wordCount/sentenceCount
@@ -60,11 +60,11 @@ const getMeanSentenceSize = (cb) => {
 }
 
 const getLargestSentenceSize = (cb) => {
-  var largestSentenceSize = 0
+  let largestSentenceSize = 0
   sentences.forEach((sentence) => {
     // Expand contractions (i'll -> i will)
-    var expandedSentence = sentence.contractions.expand().text()
-    var sentenceLengthInWords = expandedSentence.split(' ').length
+    let expandedSentence = sentence.contractions.expand().text()
+    let sentenceLengthInWords = expandedSentence.split(' ').length
     if (sentenceLengthInWords > largestSentenceSize) {
       largestSentenceSize = sentenceLengthInWords
     }
@@ -74,11 +74,11 @@ const getLargestSentenceSize = (cb) => {
 }
 
 const getShortestSentenceSize = (cb) => {
-  var shortestSentenceSize = sentences[0].str.length
+  let shortestSentenceSize = sentences[0].str.length
   sentences.forEach((sentence) => {
     // Expand contractions (i'll -> i will)
-    var expandedSentence = sentence.contractions.expand().text()
-    var sentenceLengthInWords = expandedSentence.split(' ').length
+    let expandedSentence = sentence.contractions.expand().text()
+    let sentenceLengthInWords = expandedSentence.split(' ').length
     if (sentenceLengthInWords < shortestSentenceSize) {
       shortestSentenceSize = sentenceLengthInWords
     }
@@ -88,11 +88,11 @@ const getShortestSentenceSize = (cb) => {
 }
 
 const getLargeSentenceRate = (cb) => {
-  var largeSentenceCount = 0
+  let largeSentenceCount = 0
   sentences.forEach((sentence) => {
     // Expand contractions (i'll -> i will)
-    var expandedSentence = nlp.text(sentence.str.toLowerCase()).contractions.expand().text()
-    var sentenceLengthInWords = expandedSentence.split(' ').length
+    let expandedSentence = nlp.text(sentence.str.toLowerCase()).contractions.expand().text()
+    let sentenceLengthInWords = expandedSentence.split(' ').length
     if (sentenceLengthInWords > styleFeatures.meanSentenceSize + 10) {
       largeSentenceCount++
     }
@@ -102,11 +102,11 @@ const getLargeSentenceRate = (cb) => {
 }
 
 const getShortSentenceRate = (cb) => {
-  var shortSentenceCount = 0
+  let shortSentenceCount = 0
   sentences.forEach((sentence) => {
     // Expand contractions (i'll -> i will)
-    var expandedSentence = nlp.text(sentence.str.toLowerCase()).contractions.expand().text()
-    var sentenceLengthInWords = expandedSentence.split(' ').length
+    let expandedSentence = nlp.text(sentence.str.toLowerCase()).contractions.expand().text()
+    let sentenceLengthInWords = expandedSentence.split(' ').length
     if (sentenceLengthInWords < styleFeatures.meanSentenceSize - 5) {
       shortSentenceCount++
     }
@@ -116,7 +116,7 @@ const getShortSentenceRate = (cb) => {
 }
 
 const countQuestions = (cb) => {
-  var questionCount = 0
+  let questionCount = 0
   sentences.forEach((sentence) => {
     if (sentence.sentence_type() == 'interrogative') {
       questionCount++
@@ -132,7 +132,7 @@ const getQuestionRatio = (cb) => {
 }
 
 const countExclamations = (cb) => {
-  var exclamationCount = 0
+  let exclamationCount = 0
   sentences.forEach((sentence) => {
     if (sentence.sentence_type() == 'exclamative') {
       exclamationCount++
@@ -148,7 +148,7 @@ const getExclamationRatio = (cb) => {
 }
 
 const getToBeVerbFeatures = (cb) => {
-  var count = 0
+  let count = 0
   words.forEach((word) => {
     if (word == 'am' || word == 'are' || word == 'is' || word == 'was' || word == 'were' || word == 'been' || word == 'being') {
       count++
@@ -162,7 +162,7 @@ const getToBeVerbFeatures = (cb) => {
 }
 
 const getPassiveVoiceFeatures = (cb) => {
-  var passiveVoiceCount = 0
+  let passiveVoiceCount = 0
   sentences.forEach((sentence) => {
     passiveVoiceCount = passiveVoiceCount + passive(sentence.str).length
   })
@@ -174,7 +174,7 @@ const getPassiveVoiceFeatures = (cb) => {
 }
 
 const getModalAuxiliaryFeatures = (cb) => {
-  var modalAuxiliaryVerbCount = pos.modalAuxiliaries.length
+  let modalAuxiliaryVerbCount = pos.modalAuxiliaries.length
   styleFeatures.modalAuxiliaryVerbCount = modalAuxiliaryVerbCount
   styleFeatures.modalAuxiliaryVerbsRatio = modalAuxiliaryVerbCount/verbs.length
   styleFeatures.modalAuxiliaryVerbsPerSentence = modalAuxiliaryVerbCount/sentenceCount
@@ -187,7 +187,7 @@ const getModalAuxiliaryFeatures = (cb) => {
 ////////////////////////////////////////////////////////////////////////////////
 
 const getNumberOfSentencesThatStartWithACoordinatingConjunction = (cb) => {
-  var count  = 0
+  let count  = 0
   if (firstWordsTags['CC'] != undefined) {
     count = firstWordsTags['CC']
   }
@@ -197,7 +197,7 @@ const getNumberOfSentencesThatStartWithACoordinatingConjunction = (cb) => {
 }
 
 const getNumberOfSentencesThatStartWithADeterminer = (cb) => {
-  var count  = 0
+  let count  = 0
   if (firstWordsTags['DT'] != undefined) {
     count = firstWordsTags['DT']
   }
@@ -210,7 +210,7 @@ const getNumberOfSentencesThatStartWithADeterminer = (cb) => {
 }
 
 const getNumberOfSentencesThatStartWithASubordinatingPrepositionOrConjunction = (cb) => {
-  var count  = 0
+  let count  = 0
   if (firstWordsTags['IN'] != undefined) {
     count = firstWordsTags['IN']
   }
@@ -220,7 +220,7 @@ const getNumberOfSentencesThatStartWithASubordinatingPrepositionOrConjunction = 
 }
 
 const getNumberOfSentencesThatStartWithAnAdjective = (cb) => {
-  var count  = 0
+  let count  = 0
   if (firstWordsTags['JJ'] != undefined) {
     count = firstWordsTags['JJ']
   }
@@ -236,7 +236,7 @@ const getNumberOfSentencesThatStartWithAnAdjective = (cb) => {
 }
 
 const getNumberOfSentencesThatStartWithANoun = (cb) => {
-  var count  = 0
+  let count  = 0
   if (firstWordsTags['NN'] != undefined) {
     count = firstWordsTags['NN']
   }
@@ -255,7 +255,7 @@ const getNumberOfSentencesThatStartWithANoun = (cb) => {
 }
 
 const getNumberOfSentencesThatStartWithAPronoun = (cb) => {
-  var count  = 0
+  let count  = 0
   if (firstWordsTags['PRP'] != undefined) {
     count = firstWordsTags['PRP']
   }
@@ -277,7 +277,7 @@ const getNumberOfSentencesThatStartWithAPronoun = (cb) => {
 }
 
 const getNumberOfSentencesThatStartWithAnAdverb = (cb) => {
-  var count  = 0
+  let count  = 0
   if (firstWordsTags['RB'] != undefined) {
     count = firstWordsTags['RB']
   }
@@ -296,7 +296,7 @@ const getNumberOfSentencesThatStartWithAnAdverb = (cb) => {
 }
 
 const getNumberOfSentencesThatStartWithAnArticle = (cb) => {
-  var count = 0
+  let count = 0
   sentences.forEach((sentence) => {
     sentence = sentence.str.split(' ')
     if (sentence[0] == 'The' || sentence[0] == 'the' || sentence[0] == 'A' || sentence[0] == 'a' || sentence[0] == 'An' || sentence[0] == 'an') {
@@ -309,7 +309,7 @@ const getNumberOfSentencesThatStartWithAnArticle = (cb) => {
 }
 
 const getNumberOfSentencesThatStartWith = (cb) => {
-  var sentecesFirstTag = []
+  let sentecesFirstTag = []
   sentencesTags.forEach((sentenceTags) => {
     sentecesFirstTag.push(sentenceTags[0])
   })

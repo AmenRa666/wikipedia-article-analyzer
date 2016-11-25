@@ -1,8 +1,8 @@
-var mongoose = require('mongoose');
-var Schema = mongoose.Schema;
+const mongoose = require('mongoose');
+const Schema = mongoose.Schema;
 
 // schema maps to a MongoDB collection and defines the shape of the documents within that collection
-var revisionsSchema = new Schema({
+let revisionsSchema = new Schema({
   user: String,
   timestamp: Date,
   articleTitle: String,

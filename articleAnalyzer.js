@@ -1,24 +1,24 @@
 // MODULES
-var async = require('async')
+const async = require('async')
 // POS Tagger
-var posTagger = require('./posTagger.js')
+const posTagger = require('./posTagger.js')
 // Analizers
-var posAnalyzer = require('./analyzers/posAnalyzer.js')
-var trigramAnalyzer = require('./analyzers/trigramAnalyzer.js')
-var readabilityAnalyzer = require('./analyzers/readabilityAnalyzer.js')
-var lengthAnalyzer = require('./analyzers/lengthAnalyzer.js')
-var structureAnalyzer = require('./analyzers/structureAnalyzer.js')
-var lexicalAnalyzer = require('./analyzers/lexicalAnalyzer.js')
-var styleAnalyzer = require('./analyzers/styleAnalyzer.js')
-var revisionAnalyzer = require('./analyzers/revisionAnalyzer.js')
+const posAnalyzer = require('./analyzers/posAnalyzer.js')
+const trigramAnalyzer = require('./analyzers/trigramAnalyzer.js')
+const readabilityAnalyzer = require('./analyzers/readabilityAnalyzer.js')
+const lengthAnalyzer = require('./analyzers/lengthAnalyzer.js')
+const structureAnalyzer = require('./analyzers/structureAnalyzer.js')
+const lexicalAnalyzer = require('./analyzers/lexicalAnalyzer.js')
+const styleAnalyzer = require('./analyzers/styleAnalyzer.js')
+const revisionAnalyzer = require('./analyzers/revisionAnalyzer.js')
 
 
 // LOGIC
-var pos = []
-var words = []
-var sentencesTags = []
+let pos = []
+let words = []
+let sentencesTags = []
 
-var articleJSON = {
+let articleJSON = {
   id: '',
   title: '',
   abstract: '',
@@ -162,9 +162,9 @@ const analyze = (articleTextFromXML, id, title, textWithSectionTitles, subsectio
   articleJSON.onlyLettersAndNumbersText = onlyLettersAndNumbersText
   articleJSON.words = words
 
-  var pos = []
-  var words = []
-  var sentencesTags = []
+  pos = []
+  words = []
+  sentencesTags = []
 
   articleJSON.features.lengthFeatures = {}
   articleJSON.features.structureFeatures = {}
@@ -175,6 +175,7 @@ const analyze = (articleTextFromXML, id, title, textWithSectionTitles, subsectio
   articleJSON.features.reviewFeatures = {}
 
   // async.series([
+  //   getReviewFeatures,
   //   getLengthFeatures,
   //   getStructureFeatures,
   //   getReadabilityIndexes,
@@ -182,8 +183,9 @@ const analyze = (articleTextFromXML, id, title, textWithSectionTitles, subsectio
   //   getPosTrigrams,
   //   getCharTrigrams,
   //   getLexicalFeatures,
-  //   getStyleFeatures
-  // ], (res, result) => {
+  //   getStyleFeatures,
+  // ], (err, res) => {
+  //   if (err) throw err
   //   cb(articleJSON)
   // })
 

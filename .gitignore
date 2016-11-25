@@ -70,3 +70,5 @@ articlesHistory
 
 # python compiled
 .pyc
+
+.DS_Store

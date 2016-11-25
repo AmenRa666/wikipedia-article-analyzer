@@ -39,6 +39,11 @@ const downloadRevisionHistory = (_title, cb) => {
   client.getArticleRevisions(articleTitle, (err, data) => {
     if (err) throw err
 
+    if(data.length == 0) {
+      console.log(articleTitle);
+      process.exit()
+    }
+
     data.forEach((review) => {
       if (bots.indexOf(review.user) > -1) {
         data.splice(data.indexOf(review), 1)

@@ -47,18 +47,18 @@
     <ns>0</ns>
     <id>30927438</id>
     <revision>
-      <id>750630149</id>
-      <parentid>750630137</parentid>
-      <timestamp>2016-11-20T23:08:02Z</timestamp>
+      <id>750854059</id>
+      <parentid>750853742</parentid>
+      <timestamp>2016-11-21T23:29:01Z</timestamp>
       <contributor>
-        <username>ClueBot NG</username>
-        <id>13286072</id>
+        <username>Smd75jr</username>
+        <id>11226188</id>
       </contributor>
       <minor/>
-      <comment>Reverting possible vandalism by [[Special:Contribs/173.178.194.31|173.178.194.31]] to version by Jackfork. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2843412) (Bot)</comment>
+      <comment>Reverted edits by [[Special:Contributions/75.99.60.2|75.99.60.2]] ([[User talk:75.99.60.2|talk]]) ([[WP:HG|HG]]) (3.1.22)</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="144514">{{Infobox former country
+      <text xml:space="preserve" bytes="144517">{{Infobox former country
 |native_name            = 
 |conventional_long_name = Achaemenid Empire
 |common_name        = Persia
@@ -479,7 +479,7 @@ The Achaemenid Empire left a lasting impression on the heritage and the cultural
 
 The famous American orientalist, Professor [[Arthur Upham Pope]] (1881–1969) said:&lt;ref&gt;&quot;The History of the Persian Civilization&quot; by Arthur Pope, P.11&lt;/ref&gt; &quot;The western world has a vast unpaid debt to the Persian Civilization!&quot;
 
-[[Will Durant]], the American historian and philosopher, during one his speeches, &quot;Persia in the History of Civilization&quot;, as an address before the ''[[Iran–America Society]]'' in [[Tehran]] on 21 April 1948, stated:&lt;ref&gt;{{cite web|last=Durant|first=Will|title=Persia in the History of Civilization|url=http://www.mazdapublisher.com/Documents/Persian%20Civilization.pdf|work=Addressing 'Iran-America Society|publisher=Mazda Publishers, Inc.}}&lt;/ref&gt;
+[[Will Durant]], the American historian and philosopher, during one of his speeches, &quot;Persia in the History of Civilization&quot;, as an address before the ''[[Iran–America Society]]'' in [[Tehran]] on 21 April 1948, stated:&lt;ref&gt;{{cite web|last=Durant|first=Will|title=Persia in the History of Civilization|url=http://www.mazdapublisher.com/Documents/Persian%20Civilization.pdf|work=Addressing 'Iran-America Society|publisher=Mazda Publishers, Inc.}}&lt;/ref&gt;
 
 :For thousands of years Persians have been creating beauty. Sixteen centuries before Christ there went from these regions or near it&amp;nbsp;... You have been here a kind of watershed of civilization, pouring your blood and thought and art and religion eastward and westward into the world&amp;nbsp;... I need not rehearse for you again the achievements of your Achaemenid period. Then for the first time in known history an empire almost as extensive as the United States received an orderly government, a competence of administration, a web of swift communications, a security of movement by men and goods on majestic roads, equaled before our time only by the zenith of Imperial Rome.
 
@@ -726,7 +726,7 @@ File:Cambyses I - April 2013 - 5.jpg|Lateral view of tomb of [[Cambyses I]], [[P
 [[Category:550s BC in Asia]]
 [[Category:States and territories established in the 6th century BC]]
 [[Category:330s BC in Asia]]</text>
-      <sha1>7rbveb4e56406iqfnmmzsqspdpuiizo</sha1>
+      <sha1>877s0yqyfizhggky9p3qgumi7vknmov</sha1>
     </revision>
   </page>
 </mediawiki>

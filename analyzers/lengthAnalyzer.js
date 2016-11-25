@@ -1,22 +1,22 @@
 // MODULES
-var nlp = require('nlp_compromise')
+const nlp = require('nlp_compromise')
 nlp.plugin(require('nlp-syllables'))
-var async = require('async')
+const async = require('async')
 
 
 // LOGIC
-var lengthFeatures = {
+let lengthFeatures = {
   characterCount: 0,
   wordCount: 0,
   syllableCount: 0,
   sentenceCount: 0
 }
 
-var words = []
-var sentences = []
+let words = []
+let sentences = []
 
 const countCharacters = (cb) => {
-  var characterCount = 0
+  let characterCount = 0
   words.forEach((word) => {
     characterCount = characterCount + word.length
   })
@@ -30,7 +30,7 @@ const countWords = (cb) => {
 }
 
 const countSyllables = (cb) => {
-  var syllableCount = 0
+  let syllableCount = 0
   words.forEach((word) => {
     syllableCount = syllableCount + nlp.term(word).syllables().length
   })
@@ -51,7 +51,7 @@ const analyze = (_words, _sentences, cb) => {
   lengthFeatures.wordCount = 0
   lengthFeatures.syllableCount = 0
   lengthFeatures.sentenceCount = 0
-  
+
   async.parallel([
     countCharacters,
     countWords,

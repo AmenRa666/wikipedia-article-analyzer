@@ -47,17 +47,18 @@
     <ns>0</ns>
     <id>45286</id>
     <revision>
-      <id>750276680</id>
-      <parentid>750150459</parentid>
-      <timestamp>2016-11-18T19:59:13Z</timestamp>
+      <id>750884512</id>
+      <parentid>750779202</parentid>
+      <timestamp>2016-11-22T01:21:08Z</timestamp>
       <contributor>
-        <username>Splicevariant</username>
-        <id>18416415</id>
+        <username>Motivação</username>
+        <id>28401773</id>
       </contributor>
-      <comment>/* External links */  Adding a link to the Bonobo genome assembly at UCSC</comment>
+      <minor/>
+      <comment>/* Conservation status */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="64988">{{Other uses}}
+      <text xml:space="preserve" bytes="64998">{{Other uses}}
 {{Speciesbox
 | taxon = Pan paniscus
 | name = Bonobo&lt;ref name=MSW&gt;{{MSW3 Groves|pages=183}}&lt;/ref&gt;
@@ -177,7 +178,7 @@ During the wars in the 1990s, researchers and international [[non-governmental o
 
 The port town of [[Basankusu]] is situated on the [[Lulonga River]], at the confluence of the [[Lopori River|Lopori]] and [[Maringa River|Maringa]] Rivers, in the north of the country, making it well placed to receive and transport local goods to the cities of [[Mbandaka]] and [[Kinshasa]]. With Basankusu being the last port of substance before the wilderness of the Lopori Basin and the Lomako River—–the bonobo heartland—conservation efforts for the bonobo&lt;ref&gt;Hart, Therese (2012-07-27) [http://www.bonoboincongo.com/the-bonobo Searching for Bonobo in Congo]. Bonoboincongo.com. Retrieved on 2012-12-26.&lt;/ref&gt; use the town as a base.&lt;ref&gt;[http://lolayabonobo.wildlifedirect.org/ Lola Ya Bonobo (Bonobo Heaven)]. Lolayabonobo.wildlifedirect.org. Retrieved on 2012-12-26.&lt;/ref&gt;&lt;ref&gt;[http://www.friendsofbonobos.org/images/newsnov09.pdf Bonobo Reintroduction in the Democratic Republic of Congo]. friendsofbonobos.org (November 2009) . Retrieved on 2012-12-26.&lt;/ref&gt;
 
-In 1995, concern over declining numbers of bonobos in the wild led the Zoological Society of Milwaukee, in [[Milwaukee, Wisconsin]], with contributions from bonobo scientists around the world, to publish the Action Plan for ''Pan paniscus'': A Report on Free Ranging Populations and Proposals for their Preservation. The Action Plan compiles population data on bonobos from 20 years of research conducted at various sites throughout the bonobo's range. The plan identifies priority actions for bonobo conservation and serves as a reference for developing conservation programs for researchers, government officials, and donor agencies.
+In 1995, concern over declining numbers of bonobos in the wild led the Zoological Society of Milwaukee, in [[Milwaukee|Milwaukee, Wisconsin]], with contributions from bonobo scientists around the world, to publish the Action Plan for ''Pan paniscus'': A Report on Free Ranging Populations and Proposals for their Preservation. The Action Plan compiles population data on bonobos from 20 years of research conducted at various sites throughout the bonobo's range. The plan identifies priority actions for bonobo conservation and serves as a reference for developing conservation programs for researchers, government officials, and donor agencies.
 
 Acting on Action Plan recommendations, the ZSM developed the Bonobo and Congo Biodiversity Initiative. This program includes habitat and rain-forest preservation, training for Congolese nationals and conservation institutions, wildlife population assessment and monitoring, and education. The Zoological Society has conducted regional surveys within the range of the bonobo in conjunction with training Congolese researchers in survey methodology and biodiversity monitoring. The Zoological Society’s initial goal was to survey Salonga National Park to determine the conservation status of the bonobo within the park and to provide financial and technical assistance to strengthen park protection. As the project has developed, the Zoological Society has become more involved in helping the Congolese living in bonobo habitat. The Zoological Society has built schools, hired teachers, provided some medicines, and started an agriculture project to help the Congolese learn to grow crops and depend less on hunting wild animals.&lt;ref&gt;{{cite web | url = http://www.zoosociety.org/conservation/Bonobo/BCBI/ | title = Bonobo and Congo Biodiversity Initiative | publisher = Zoological Society of Milwaukee}}&lt;/ref&gt;
 
@@ -271,7 +272,7 @@ In addition, concerned parties have addressed the crisis on several science and 
 [[Category:Mammals of the Democratic Republic of the Congo]]
 [[Category:Tool-using mammals]]
 [[Category:Extant Pleistocene first appearances]]</text>
-      <sha1>h25vauaa7zozvgbfayxw2ww13cvfwp8</sha1>
+      <sha1>r128h8kztdrvtvohonntigozfvafqsy</sha1>
     </revision>
   </page>
 </mediawiki>

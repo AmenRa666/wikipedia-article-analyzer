@@ -47,17 +47,17 @@
     <ns>0</ns>
     <id>4349459</id>
     <revision>
-      <id>750685384</id>
-      <parentid>750673444</parentid>
-      <timestamp>2016-11-21T07:10:25Z</timestamp>
+      <id>750915278</id>
+      <parentid>750685384</parentid>
+      <timestamp>2016-11-22T05:58:49Z</timestamp>
       <contributor>
-        <username>Ugog Nizdast</username>
-        <id>18935077</id>
+        <username>Hydloc009</username>
+        <id>29614378</id>
       </contributor>
-      <comment>Reverted 1 edit by [[Special:Contributions/2405:204:D280:FEF4:CDC7:909B:C14B:A8A2|2405:204:D280:FEF4:CDC7:909B:C14B:A8A2]] ([[User talk:2405:204:D280:FEF4:CDC7:909B:C14B:A8A2|talk]]): [[WP:UNSOURCED]]. ([[WP:TW|WT]])</comment>
+      <comment>skyline/images is for city articles, not for province/state/country article</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="226731">{{About|the Indian state of Kerala|the genus of moth|Kerala (moth)}}
+      <text xml:space="preserve" bytes="226625">{{About|the Indian state of Kerala|the genus of moth|Kerala (moth)}}
 {{good article}}
 {{Use dmy dates|date=November 2015}}
 {{Use Indian English|date=June 2016}}
@@ -67,8 +67,6 @@
 |native_name = കേരളം
 |native_name_lang = ml
 |type = [[States and union territories of India|State]]
-|image_skyline = Boathouse (7063399547).jpg
-|image_caption = A [[houseboat]] in the [[Kerala backwaters]]
 |image_shield = Seal of Kerala.svg
 |nickname = [[God's Own Country]], Spice Garden of India, Land of Coconuts
 |image_map = IN-KL.svg
@@ -723,7 +721,7 @@ Asia's largest, and the world's third-largest, Naval Academy-Ezhimala Naval Acad
 [[Category:Kerala| ]]&lt;!--please leave the empty space as standard--&gt;
 [[Category:South India|.]]
 [[Category:States and territories established in 1956]]</text>
-      <sha1>cgusu5bxirg1yodyaq8edydcco7hdvu</sha1>
+      <sha1>40pe0h43rfnkxfqfjtwjkb8l2qz638x</sha1>
     </revision>
   </page>
 </mediawiki>

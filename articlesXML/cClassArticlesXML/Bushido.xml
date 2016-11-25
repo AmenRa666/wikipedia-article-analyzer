@@ -47,17 +47,19 @@
     <ns>0</ns>
     <id>65734</id>
     <revision>
-      <id>749583536</id>
-      <parentid>749566778</parentid>
-      <timestamp>2016-11-15T02:38:45Z</timestamp>
+      <id>750882942</id>
+      <parentid>750882736</parentid>
+      <timestamp>2016-11-22T01:09:51Z</timestamp>
       <contributor>
-        <ip>177.235.20.93</ip>
+        <username>ER 21</username>
+        <id>29717207</id>
       </contributor>
+      <comment>Moved parenthesis around for fixctustion</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="33351">{{About|the Japanese concept of chivalry}}
-{{Refimprove|date=February 2011}}
-[[Image:Samurai.jpg|thumb|Japanese samurai in armor, 1860s. Photograph by [[Felice Beato]]]]
+      <text xml:space="preserve" bytes="33342">{About|the Japanese concept of chivalry}
+{Refimprove|date=February 2011}
+[Image:Samurai.jpg|thumb|Japanese samurai in armor, 1860s. Photograph by [Felice Beato]
 
 {{nihongo|'''Bushido'''|[[wiktionary:武士道|武士道]]||&quot;the way (or the [[moral]]) of the warrior&quot;}} is a [[Japanese language|Japanese]] term for the [[samurai]] way of life, loosely analogous to the concept of [[chivalry]] in [[Europe]]. 
 
@@ -290,7 +292,7 @@ In May 2008, [[Thomas Cleary]] translated a collection of 22 writings on Bushido
 [[Category:Codes of conduct]]
 [[Category:Samurai|*]]
 [[Category:Bushido| ]]</text>
-      <sha1>3btdwfxz3yho76up3qyo8qzuo67yd2r</sha1>
+      <sha1>o8zfgvyusq689qcgor5llm98hvlzwam</sha1>
     </revision>
   </page>
 </mediawiki>

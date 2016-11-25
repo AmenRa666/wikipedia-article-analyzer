@@ -2,10 +2,30 @@
 
 
 // LOGIC
-var charTrigrams = [ "he ", "ing", "ng ", " th", "the", " of", "of ", "in ", " in", "ion", "on ", "ed ", " an", "and", "nd ", "er ", " to", "to ", "as " ]
+const charTrigrams = [
+  "he ",
+  "ing",
+  "ng ",
+  " th",
+  "the",
+  " of",
+  "of ",
+  "in ",
+  " in",
+  "ion",
+  "on ",
+  "ed ",
+  " an",
+  "and",
+  "nd ",
+  "er ",
+  " to",
+  "to ",
+  "as "
+]
 
 const getCharTrigrams = (text, cb) => {
-  var charTrigramsObj = {
+  let charTrigramsObj = {
     "he_": 0,
     "ing": 0,
     "ng_": 0,
@@ -38,9 +58,9 @@ const getCharTrigrams = (text, cb) => {
 
 
 const getAllCharTrigrams = (text, cb) => {
-  var charTrigramsObj = {}
+  let charTrigramsObj = {}
 
-  for (var i = 0; i <= text.length-3; i++) {
+  for (let i = 0; i <= text.length-3; i++) {
     if (text.slice(i, i + 3).length == 3) {
       if (text.slice(i, i + 3) in charTrigramsObj) {
         charTrigramsObj[text.slice(i, i + 3)]++
@@ -50,7 +70,7 @@ const getAllCharTrigrams = (text, cb) => {
       }
     }
   }
-  
+
   cb(trigrams)
 }
 

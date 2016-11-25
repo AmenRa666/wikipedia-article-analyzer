@@ -1,12 +1,12 @@
 // open a connection to the database on our locally running instance of MongoDB
-var mongoose = require('mongoose')
+const mongoose = require('mongoose')
 mongoose.connect('mongodb://localhost/wikipedia')
 
 // models
-var ArticleWithTrigrams = require('../models/articleWithTrigrams.js').ArticleWithTrigrams
+const ArticleWithTrigrams = require('../models/articleWithTrigrams.js').ArticleWithTrigrams
 
 // get notified if we connect successfully or if a connection error occurs
-var db = mongoose.connection
+const db = mongoose.connection
 db.on('error', console.error.bind(console, 'connection error:'))
 db.once('open', function() {
   console.log('Connected to MongoDB')

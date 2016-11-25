@@ -1,14 +1,14 @@
 // open a connection to the database on our locally running instance of MongoDB
-var mongoose = require('mongoose')
+const mongoose = require('mongoose')
 mongoose.connect('mongodb://localhost/wikipedia')
 
 // models
-var Article = require('./models/article.js').Article
-var Revision = require('./models/revision.js').Revision
-var Revision2 = require('./models/revision2.js').Revision2
+const Article = require('./models/article.js').Article
+const Revision = require('./models/revision.js').Revision
+const Revision2 = require('./models/revision2.js').Revision2
 
 // get notified if we connect successfully or if a connection error occurs
-var db = mongoose.connection
+const db = mongoose.connection
 db.on('error', console.error.bind(console, 'connection error:'))
 db.once('open', function() {
   console.log('Connected to MongoDB')
@@ -25,7 +25,7 @@ const insertArticle = (article, cb) => {
 }
 
 const findArticleByTitle = (title, cb) => {
-  var query = {"title":title}
+  let query = {"title":title}
   Article.findOne(query, (err, doc) => {
     if (err) console.log(err);
     else {
@@ -35,7 +35,7 @@ const findArticleByTitle = (title, cb) => {
 }
 
 const findById = (id, cb) => {
-  var query = {"id":id}
+  let query = {"id":id}
   Article.findOne(query, (err, doc) => {
     if (err) console.log(err);
     else cb(doc)
@@ -52,7 +52,7 @@ const insertRevision = (revision, cb) => {
 }
 
 const findRevisionByArticleTitle = (articleTitle, cb) => {
-  var query = {"articleTitle":articleTitle}
+  let query = {"articleTitle":articleTitle}
   Revision.find(query, (err, docs) => {
     if (err) console.log(err);
     else cb(docs)

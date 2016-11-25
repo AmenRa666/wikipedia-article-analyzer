@@ -47,18 +47,17 @@
     <ns>0</ns>
     <id>1658874</id>
     <revision>
-      <id>737795221</id>
-      <parentid>731440986</parentid>
-      <timestamp>2016-09-05T02:57:04Z</timestamp>
+      <id>750754917</id>
+      <parentid>750754708</parentid>
+      <timestamp>2016-11-21T17:12:08Z</timestamp>
       <contributor>
-        <username>GreenC bot</username>
-        <id>27823944</id>
+        <username>Gogreener</username>
+        <id>29714384</id>
       </contributor>
       <minor/>
-      <comment>[[User:Green Cardamom/WaybackMedic 2|WaybackMedic 2]]</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="13017">{{refimprove|date=January 2012}}
+      <text xml:space="preserve" bytes="13255">{{refimprove|date=January 2012}}
 {{Use dmy dates|date=May 2015}}
 {{contains Arabic text}}
 {{Infobox University
@@ -117,6 +116,12 @@ The University Foundations Program prepares students for academic degree program
 
 In addition to undergraduate and graduate programs, the UAEU conducts continuous education courses and vocational certificates for the community across all disciplines and hosts the Emirates Health Services, which provides medical skills training.
 
+==Symposiums==
+
+In 2016, the University held its first ever symposium on genomics and bioinformatics  attended by experts from different parts of the world.
+
+&lt;ref&gt;http://www.wam.ae/en/news/emirates-international/1395303227679.html&lt;/ref&gt;
+
 ==Research==
 The university launched the first PhD program at a national university in the UAE. As a research institution it attracts national, international, and industrial grants. PhD programs and professional doctorate degrees cover a range including Pharmacy, Public Health, and a Doctorate of Business Administration.
 
@@ -169,7 +174,7 @@ The university hosts research centers including the Zayed Center for Health Scie
 [[Category:Educational institutions established in 1976]]
 [[Category:1976 establishments in the United Arab Emirates]]
 [[Category:United Arab Emirates University| ]]</text>
-      <sha1>ae2ii2go74xs6b6eh3i28tbsithyj4b</sha1>
+      <sha1>0288qns4w5da729rjdfsf6jk4ak5vl1</sha1>
     </revision>
   </page>
 </mediawiki>
