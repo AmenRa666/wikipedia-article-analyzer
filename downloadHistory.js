@@ -1,36 +1,42 @@
 // MODULES
-var fs = require('fs')
-var request = require('request')
-var async = require('async')
-var qs = require('querystring')
-var mkdirp = require('mkdirp');
-var _ = require('underscore')
-var sanitize = require("sanitize-filename");
+const fs = require('fs')
+const request = require('request')
+const async = require('async')
+const qs = require('querystring')
+const mkdirp = require('mkdirp');
+const _ = require('underscore')
+const sanitize = require("sanitize-filename");
+const path = require('path')
+const time = require('node-tictoc')
 // Database Agent
-var dbAgent = require('./dbAgent.js')
+const dbAgent = require('./dbAgent.js')
 
 
 // LOGIC
-var title = 'Raccoon'
-var bot = require('nodemw');
+const bot = require('nodemw');
 
 // pass configuration object
-var client = new bot({
+const client = new bot({
   server: 'en.wikipedia.org',  // host name of MediaWiki-powered site
   path: '/w',                  // path to api.php script
   debug: false                 // is more verbose when set to true
 });
 
-var articleTitle = ''
+let articleTitle = ''
+let bots = []
+let folder = path.join('articles', 'articleLists')
 
-// var articleTitle = 'History_of_Texas_A&amp;M_University'
-// client.getArticleRevisions(articleTitle, (err, data) => {
-//   if (err) throw err
-//   console.log(data[0]);
-//   process.exit()
-// })
-
-var bots = []
+const saveRevision = (_revision, cb) => {
+  let revision = {
+    articleTitle: sanitize(articleTitle),
+    user: _revision.user,
+    timestamp: _revision.timestamp,
+    revid: _revision.revid,
+    parentid: _revision.parentid,
+    size: _revision.size
+  }
+  dbAgent.insertRevision(revision, (cb))
+}
 
 const downloadRevisionHistory = (_title, cb) => {
   console.log(_title);
@@ -50,10 +56,10 @@ const downloadRevisionHistory = (_title, cb) => {
       }
     })
 
-    var revisions = data
-    var _revisions = []
+    let revisions = data
+    let _revisions = []
 
-    for (var i = 0; i < revisions.length; i++) {
+    for (let i = 0; i < revisions.length; i++) {
       if (revisions[i+1] == undefined) {
         _revisions.push(revisions[i])
       }
@@ -76,26 +82,14 @@ const downloadRevisionHistory = (_title, cb) => {
   })
 }
 
-const saveRevision = (_revision, cb) => {
-  var revision = {
-    articleTitle: sanitize(articleTitle),
-    user: _revision.user,
-    timestamp: _revision.timestamp,
-    revid: _revision.revid,
-    parentid: _revision.parentid,
-    size: _revision.size
-  }
-  dbAgent.insertRevision(revision, (cb))
-}
-
 const downloadFeaturedArticlesRevisionHistory = (cb) => {
-  var filename = './articleLists/featuredArticleList.txt'
+  let filename = path.join(folder, 'featuredArticleList.txt')
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Featured Article List: LOADED');
-    var titles = data.trim().split('\n')
-    for (var i = 0; i < titles.length; i++) {
+    let titles = data.trim().split('\n')
+    for (let i = 0; i < titles.length; i++) {
       titles[i] = decodeURIComponent(titles[i].trim())
     }
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -117,13 +111,13 @@ const downloadFeaturedArticlesRevisionHistory = (cb) => {
 }
 
 const downloadAClassArticlesRevisionHistory = (cb) => {
-  var filename = './articleLists/aClassArticleList.txt'
+  let filename = path.join(folder, 'aClassArticleList.txt')
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('A Class Article List: LOADED');
-    var titles = data.trim().split('\n')
-    for (var i = 0; i < titles.length; i++) {
+    let titles = data.trim().split('\n')
+    for (let i = 0; i < titles.length; i++) {
       titles[i] = decodeURIComponent(titles[i].trim())
     }
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -145,13 +139,13 @@ const downloadAClassArticlesRevisionHistory = (cb) => {
 }
 
 const downloadGoodArticlesRevisionHistory = (cb) => {
-  var filename = './articleLists/goodArticleList.txt'
+  let filename = path.join(folder, 'goodArticleList.txt')
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Good Article List: LOADED');
-    var titles = data.trim().split('\n')
-    for (var i = 0; i < titles.length; i++) {
+    let titles = data.trim().split('\n')
+    for (let i = 0; i < titles.length; i++) {
       titles[i] = decodeURIComponent(titles[i].trim())
     }
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -173,13 +167,13 @@ const downloadGoodArticlesRevisionHistory = (cb) => {
 }
 
 const downloadBClassArticlesRevisionHistory = (cb) => {
-  var filename = './articleLists/bClassArticleList.txt'
+  let filename = path.join(folder, 'bClassArticleList.txt')
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('B Class Article List: LOADED');
-    var titles = data.trim().split('\n')
-    for (var i = 0; i < titles.length; i++) {
+    let titles = data.trim().split('\n')
+    for (let i = 0; i < titles.length; i++) {
       titles[i] = decodeURIComponent(titles[i].trim())
     }
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -201,13 +195,13 @@ const downloadBClassArticlesRevisionHistory = (cb) => {
 }
 
 const downloadCClassArticlesRevisionHistory = (cb) => {
-  var filename = './articleLists/cClassArticleList.txt'
+  let filename = path.join(folder, 'cClassArticleList.txt')
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('C Class Article List: LOADED');
-    var titles = data.trim().split('\n')
-    for (var i = 0; i < titles.length; i++) {
+    let titles = data.trim().split('\n')
+    for (let i = 0; i < titles.length; i++) {
       titles[i] = decodeURIComponent(titles[i].trim())
     }
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -229,13 +223,13 @@ const downloadCClassArticlesRevisionHistory = (cb) => {
 }
 
 const downloadStartArticlesRevisionHistory = (cb) => {
-  var filename = './articleLists/startArticleList.txt'
+  let filename = path.join(folder, 'startArticleList.txt')
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Start Article List: LOADED');
-    var titles = data.trim().split('\n')
-    for (var i = 0; i < titles.length; i++) {
+    let titles = data.trim().split('\n')
+    for (let i = 0; i < titles.length; i++) {
       titles[i] = decodeURIComponent(titles[i].trim())
     }
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -257,13 +251,13 @@ const downloadStartArticlesRevisionHistory = (cb) => {
 }
 
 const downloadStubArticlesRevisionHistory = (cb) => {
-  var filename = './articleLists/stubArticleList.txt'
+  let filename = path.join(folder, 'stubArticleList.txt')
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Stub Article List: LOADED');
-    var titles = data.trim().split('\n')
-    for (var i = 0; i < titles.length; i++) {
+    let titles = data.trim().split('\n')
+    for (let i = 0; i < titles.length; i++) {
       titles[i] = decodeURIComponent(titles[i].trim())
     }
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -284,6 +278,8 @@ const downloadStubArticlesRevisionHistory = (cb) => {
   })
 }
 
+time.tic()
+
 fs.readFile("Bots.txt", 'utf8', (err, data) => {
   if (err) throw err;
   bots = _.uniq(data.trim().split(/[\n,\|]/))
@@ -299,8 +295,11 @@ fs.readFile("Bots.txt", 'utf8', (err, data) => {
       downloadStubArticlesRevisionHistory
     ],
     // optional callback
-    function(err, results) {
+    (err, results) => {
       console.log('All articles revision history have been saved!');
+      console.log('Time elapsed: ');
+      time.toc()
+      process.exit()
   });
 
 })

@@ -5,7 +5,6 @@ mongoose.connect('mongodb://localhost/wikipedia')
 // models
 const Article = require('./models/article.js').Article
 const Revision = require('./models/revision.js').Revision
-const Revision2 = require('./models/revision2.js').Revision2
 
 // get notified if we connect successfully or if a connection error occurs
 const db = mongoose.connection

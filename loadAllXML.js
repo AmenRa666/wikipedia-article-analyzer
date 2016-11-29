@@ -19,7 +19,7 @@ const dbAgent = require('./dbAgent.js')
 const parser = new xml2js.Parser()
 
 // LOGIC
-const folder = 'articlesXML'
+const folder = path.join('articles', 'articlesXML')
 const paths = ['featuredArticlesXML','aClassArticlesXML', 'goodArticlesXML', 'bClassArticlesXML', 'cClassArticlesXML', 'startArticlesXML', 'stubArticlesXML']
 let pathIndex = 0
 let qualityClass = 7
