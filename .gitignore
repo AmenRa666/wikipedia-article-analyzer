@@ -40,14 +40,7 @@ jspm_packages
 tmp
 
 # XMLs of articles
-#articlesXML
-#featuredArticlesXML
-#aClassArticlesXML
-#goodArticlesXML
-#bClassArticlesXML
-#cClassArticlesXML
-#startArticlesXML
-#stubArticlesXML
+articlesXML
 
 # Articles History
 articlesHistory
@@ -59,14 +52,9 @@ articlesHistory
 .DS_Store
 
 # Articles Talk Pages
-#articlesTalkPages
-#featuredArticlesTalkPages
-#aClassArticlesTalkPages
-#goodArticlesTalkPages
-#bClassArticlesTalkPages
-#cClassArticlesTalkPages
-#startArticlesTalkPages
-#stubArticlesTalkPages
+talkPagesXML
+
+articlesLists
 
 # python compiled
 .pyc
