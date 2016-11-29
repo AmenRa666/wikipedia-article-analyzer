@@ -3,9 +3,8 @@ const fs = require('fs')
 const request = require('request')
 const async = require('async')
 const qs = require('querystring')
-const mkdirp = require('mkdirp');
+const mkdirp = require('mkdirp')
 const _ = require('underscore')
-const sanitize = require("sanitize-filename");
 const path = require('path')
 const time = require('node-tictoc')
 // Database Agent
@@ -22,13 +21,14 @@ const client = new bot({
   debug: false                 // is more verbose when set to true
 });
 
-let articleTitle = ''
 let bots = []
 let folder = path.join('articles', 'articlesLists')
+let undefinedCount = 1
+let articleCount = 1
 
 const saveRevision = (_revision, cb) => {
   let revision = {
-    articleTitle: sanitize(articleTitle),
+    articleTitle: _revision.articleTitle,
     user: _revision.user,
     timestamp: _revision.timestamp,
     revid: _revision.revid,
@@ -40,50 +40,72 @@ const saveRevision = (_revision, cb) => {
 
 const downloadRevisionHistory = (_title, cb) => {
   console.log(_title);
-  articleTitle = _title
+  let articleTitle = _title.replace(/&#58;/g, ':').replace(/∕/g, '/')
 
-  client.getArticleRevisions(articleTitle, (err, data) => {
-    if (err) throw err
-
-    if(data.length == 0) {
-      console.log(articleTitle);
-      process.exit()
+  dbAgent.findRevisionByArticleTitle(articleTitle, (docs) => {
+    if (docs.length > 0) {
+      console.log('Review history found in DB!');
+      cb(null, 'Article history alreasy downloaded!')
     }
+    else {
+      client.getArticleRevisions(articleTitle, (err, data) => {
+        if (err) throw err
 
-    data.forEach((review) => {
-      if (bots.indexOf(review.user) > -1) {
-        data.splice(data.indexOf(review), 1)
-      }
-    })
+        if(data.length == 0) {
+          console.log(articleTitle);
+          process.exit()
+        }
 
-    let revisions = data
-    let _revisions = []
+        data.forEach((revision) => {
+          if(revision == undefined) {
+            console.log(articleTitle);
+            console.log(data);
+            process.exit()
+          }
+          if(revision.user == undefined) {
+            revision.user = 'undefined' + undefinedCount
+            undefinedCount++
+          }
+          if (bots.indexOf(revision.user) > -1) {
+            data.splice(data.indexOf(revision), 1)
+          }
+          revision.articleTitle = articleTitle
+        })
 
-    for (let i = 0; i < revisions.length; i++) {
-      if (revisions[i+1] == undefined) {
-        _revisions.push(revisions[i])
-      }
-      else if (revisions[i].user != revisions[i+1].user) {
-        _revisions.push(revisions[i])
-      }
+        let revisions = data
+        let _revisions = []
+
+        for (let i = 0; i < revisions.length; i++) {
+          if (revisions[i+1] == undefined) {
+            _revisions.push(revisions[i])
+          }
+          else if (revisions[i].user != revisions[i+1].user) {
+            _revisions.push(revisions[i])
+          }
+        }
+
+        // cb(null, 'kasjhdkasjhd')
+
+        async.each(
+          _revisions,
+          saveRevision,
+          (err, result) => {
+            if (err) console.log(err);
+            else {
+              console.log(articleCount);
+              articleCount++
+              cb(null, 'All Revisions Have Been Saved!')
+            }
+          }
+        )
+
+      })
     }
-
-    // cb(null, 'kasjhdkasjhd')
-
-    async.eachSeries(
-      _revisions,
-      saveRevision,
-      (err, result) => {
-        if (err) console.log(err);
-        else cb(null, 'All Revisions Have Been Saved!')
-      }
-    )
-
   })
 }
 
 const downloadFeaturedArticlesRevisionHistory = (cb) => {
-  let filename = path.join(folder, 'featuredArticleList.txt')
+  let filename = path.join(folder, 'featuredArticles.txt')
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -95,7 +117,7 @@ const downloadFeaturedArticlesRevisionHistory = (cb) => {
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Featured Articles download: STARTING');
     console.log('- - - - - - - - - - - - - - - - - - - -')
-    async.eachSeries(
+    async.each(
       titles,
       downloadRevisionHistory,
       (err, result) => {
@@ -111,7 +133,7 @@ const downloadFeaturedArticlesRevisionHistory = (cb) => {
 }
 
 const downloadAClassArticlesRevisionHistory = (cb) => {
-  let filename = path.join(folder, 'aClassArticleList.txt')
+  let filename = path.join(folder, 'aClassArticles.txt')
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -123,7 +145,7 @@ const downloadAClassArticlesRevisionHistory = (cb) => {
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('A Class Articles download: STARTING');
     console.log('- - - - - - - - - - - - - - - - - - - -')
-    async.eachSeries(
+    async.each(
       titles,
       downloadRevisionHistory,
       (err, result) => {
@@ -139,7 +161,7 @@ const downloadAClassArticlesRevisionHistory = (cb) => {
 }
 
 const downloadGoodArticlesRevisionHistory = (cb) => {
-  let filename = path.join(folder, 'goodArticleList.txt')
+  let filename = path.join(folder, 'goodArticles.txt')
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -151,7 +173,7 @@ const downloadGoodArticlesRevisionHistory = (cb) => {
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Good Articles download: STARTING');
     console.log('- - - - - - - - - - - - - - - - - - - -')
-    async.eachSeries(
+    async.each(
       titles,
       downloadRevisionHistory,
       (err, result) => {
@@ -167,7 +189,7 @@ const downloadGoodArticlesRevisionHistory = (cb) => {
 }
 
 const downloadBClassArticlesRevisionHistory = (cb) => {
-  let filename = path.join(folder, 'bClassArticleList.txt')
+  let filename = path.join(folder, 'bClassArticles.txt')
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -179,7 +201,7 @@ const downloadBClassArticlesRevisionHistory = (cb) => {
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('B Class Articles download: STARTING');
     console.log('- - - - - - - - - - - - - - - - - - - -')
-    async.eachSeries(
+    async.each(
       titles,
       downloadRevisionHistory,
       (err, result) => {
@@ -195,7 +217,7 @@ const downloadBClassArticlesRevisionHistory = (cb) => {
 }
 
 const downloadCClassArticlesRevisionHistory = (cb) => {
-  let filename = path.join(folder, 'cClassArticleList.txt')
+  let filename = path.join(folder, 'cClassArticles.txt')
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -207,7 +229,7 @@ const downloadCClassArticlesRevisionHistory = (cb) => {
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('C Class Articles download: STARTING');
     console.log('- - - - - - - - - - - - - - - - - - - -')
-    async.eachSeries(
+    async.each(
       titles,
       downloadRevisionHistory,
       (err, result) => {
@@ -223,7 +245,7 @@ const downloadCClassArticlesRevisionHistory = (cb) => {
 }
 
 const downloadStartArticlesRevisionHistory = (cb) => {
-  let filename = path.join(folder, 'startArticleList.txt')
+  let filename = path.join(folder, 'startArticles.txt')
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -235,7 +257,7 @@ const downloadStartArticlesRevisionHistory = (cb) => {
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Start Articles download: STARTING');
     console.log('- - - - - - - - - - - - - - - - - - - -')
-    async.eachSeries(
+    async.each(
       titles,
       downloadRevisionHistory,
       (err, result) => {
@@ -251,7 +273,7 @@ const downloadStartArticlesRevisionHistory = (cb) => {
 }
 
 const downloadStubArticlesRevisionHistory = (cb) => {
-  let filename = path.join(folder, 'stubArticleList.txt')
+  let filename = path.join(folder, 'stubArticles.txt')
   fs.readFile(filename, 'utf8', (err, data) => {
     if (err) throw err;
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -263,7 +285,7 @@ const downloadStubArticlesRevisionHistory = (cb) => {
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Stub Articles download: STARTING');
     console.log('- - - - - - - - - - - - - - - - - - - -')
-    async.eachSeries(
+    async.each(
       titles,
       downloadRevisionHistory,
       (err, result) => {
@@ -297,8 +319,7 @@ fs.readFile("Bots.txt", 'utf8', (err, data) => {
     // optional callback
     (err, results) => {
       console.log('All articles revision history have been saved!');
-      console.log('Time elapsed: ');
-      time.toc()
+      console.log('Time elapsed: ' + time.stoc());
       process.exit()
   });
 
