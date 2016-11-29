@@ -24,7 +24,7 @@ const client = new bot({
 
 let articleTitle = ''
 let bots = []
-let folder = path.join('articles', 'articleLists')
+let folder = path.join('articles', 'articlesLists')
 
 const saveRevision = (_revision, cb) => {
   let revision = {
