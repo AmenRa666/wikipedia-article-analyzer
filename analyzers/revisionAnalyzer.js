@@ -4,7 +4,7 @@ const async = require('async')
 const _ = require('underscore')
 const fs = require('fs')
 const path = require("path")
-const sanitize = require("sanitize-filename")
+// const sanitize = require("sanitize-filename")
 // Database Agent
 const dbAgent = require('../dbAgent.js')
 
@@ -12,32 +12,33 @@ const dbAgent = require('../dbAgent.js')
 // LOGIC
 let articleTitle = ''
 
-const folder = path.join('..', 'articlesTalkPages')
+const folder = path.join('..', 'articles', 'talkPagesXML')
 const paths = [
-  'stubArticlesTalkPages',
-  'startArticlesTalkPages',
-  'cClassArticlesTalkPages',
-  'bClassArticlesTalkPages',
-  'goodArticlesTalkPages',
-  'aClassArticlesTalkPages',
-  'featuredArticlesTalkPages',
+  'stubArticles',
+  'startArticles',
+  'cClassArticles',
+  'bClassArticles',
+  'goodArticles',
+  'aClassArticles',
+  'featuredArticles',
 ]
 
-let _reverts = fs.readFileSync(path.join(__dirname, '..', 'reverts.csv'), 'utf8').trim().split('\n')
-_reverts.shift()
-
-let reverts = []
-
-_reverts.forEach((revert) => {
-  revert = revert.split(/"/)
-  revert.shift()
-  revert[1] = revert[1].replace(/,/g, '').replace(/\r/g, '')
-  reverts.push(revert)
-})
+// let _reverts = fs.readFileSync(path.join(__dirname, '..', 'reverts.csv'), 'utf8').trim().split('\n')
+// _reverts.shift()
+//
+// let reverts = []
+//
+// _reverts.forEach((revert) => {
+//   revert = revert.split(/"/)
+//   revert.shift()
+//   revert[1] = revert[1].replace(/,/g, '').replace(/\r/g, '')
+//   reverts.push(revert)
+// })
 
 let reviews = []
 let timestamps = []
 let users = []
+let qualityClass = null
 
 let reviewFeatures = {
   age: 0,
@@ -149,8 +150,11 @@ const countReviews = (cb) => {
 const countDiscussion = (cb) => {
   // dbAgent.findArticleByTitle(articleTitle.replace(/_/g, ' '), (doc) => {
     // let xmlFilename = folder + paths[doc.qualityClass - 1] + 'Talk-' + sanitize(articleTitle) + '.xml'
-    let xmlFilename = path.join(folder, ('Talk-' + articleTitle.replace(/ /g, '_') + '.xml'))
-    fs.readFile(path.join(__dirname, folder, xmlFilename), 'utf8', (err, talkPage) => {
+
+    // let xmlFilename = path.join(folder, paths[qualityClass - 1], ('Talk&#58;' + articleTitle.replace(/ /g, '_') + '.xml'))
+    let xmlFilename = path.join(folder, paths[qualityClass - 1], ('Talk&#58;' + articleTitle + '.xml'))
+
+    fs.readFile(path.join(__dirname, xmlFilename), 'utf8', (err, talkPage) => {
       if (err) throw err
       else {
         // Remove subsubsection titles and similar
@@ -281,8 +285,8 @@ const getRevertsFeatures = (cb) => {
   cb(null, 'Get Revers Features')
 }
 
-const getReviewFeatures = (_articleTitle, cb) => {
-  articleTitle = sanitize(_articleTitle).replace(/&amp;/g, '&')
+const getReviewFeatures = (_articleTitle, _qualityClass, cb) => {
+  articleTitle = _articleTitle.replace(/&amp;/g, '&').replace(/∕/g, '/')
   dbAgent.findRevisionByArticleTitle(articleTitle.replace(/ /g, '_'), (docs) => {
 
     for (let i = 0; i < docs.length; i++) {
@@ -294,6 +298,8 @@ const getReviewFeatures = (_articleTitle, cb) => {
     reviews = docs
     timestamps = []
     users = []
+
+    qualityClass = _qualityClass
 
     reviewFeatures.age = 0
     reviewFeatures.agePerReview = 0
@@ -340,7 +346,7 @@ const getReviewFeatures = (_articleTitle, cb) => {
     users = _.uniq(users)
 
     async.parallel([
-      getRevertsFeatures,
+      // getRevertsFeatures,
       getReviewsPerUserStdDev,
       countReviews,
       countUsers,

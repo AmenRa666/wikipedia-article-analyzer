@@ -39,13 +39,12 @@ const saveRevision = (_revision, cb) => {
 }
 
 const downloadRevisionHistory = (_title, cb) => {
-  console.log(_title);
-  let articleTitle = _title.replace(/&#58;/g, ':').replace(/∕/g, '/')
+  let articleTitle = decodeURIComponent(_title).trim().replace(/&#58;/g, ':').replace(/∕/g, '/')
 
   dbAgent.findRevisionByArticleTitle(articleTitle, (docs) => {
     if (docs.length > 0) {
       console.log('Review history found in DB!');
-      cb(null, 'Article history alreasy downloaded!')
+      cb(null, 'Article history already downloaded!')
     }
     else {
       client.getArticleRevisions(articleTitle, (err, data) => {
@@ -69,7 +68,7 @@ const downloadRevisionHistory = (_title, cb) => {
           if (bots.indexOf(revision.user) > -1) {
             data.splice(data.indexOf(revision), 1)
           }
-          revision.articleTitle = articleTitle
+          revision.articleTitle = _title
         })
 
         let revisions = data
@@ -83,8 +82,6 @@ const downloadRevisionHistory = (_title, cb) => {
             _revisions.push(revisions[i])
           }
         }
-
-        // cb(null, 'kasjhdkasjhd')
 
         async.each(
           _revisions,
@@ -111,9 +108,6 @@ const downloadFeaturedArticlesRevisionHistory = (cb) => {
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Featured Article List: LOADED');
     let titles = data.trim().split('\n')
-    for (let i = 0; i < titles.length; i++) {
-      titles[i] = decodeURIComponent(titles[i].trim())
-    }
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Featured Articles download: STARTING');
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -139,9 +133,6 @@ const downloadAClassArticlesRevisionHistory = (cb) => {
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('A Class Article List: LOADED');
     let titles = data.trim().split('\n')
-    for (let i = 0; i < titles.length; i++) {
-      titles[i] = decodeURIComponent(titles[i].trim())
-    }
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('A Class Articles download: STARTING');
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -167,9 +158,6 @@ const downloadGoodArticlesRevisionHistory = (cb) => {
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Good Article List: LOADED');
     let titles = data.trim().split('\n')
-    for (let i = 0; i < titles.length; i++) {
-      titles[i] = decodeURIComponent(titles[i].trim())
-    }
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Good Articles download: STARTING');
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -195,9 +183,6 @@ const downloadBClassArticlesRevisionHistory = (cb) => {
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('B Class Article List: LOADED');
     let titles = data.trim().split('\n')
-    for (let i = 0; i < titles.length; i++) {
-      titles[i] = decodeURIComponent(titles[i].trim())
-    }
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('B Class Articles download: STARTING');
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -223,9 +208,6 @@ const downloadCClassArticlesRevisionHistory = (cb) => {
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('C Class Article List: LOADED');
     let titles = data.trim().split('\n')
-    for (let i = 0; i < titles.length; i++) {
-      titles[i] = decodeURIComponent(titles[i].trim())
-    }
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('C Class Articles download: STARTING');
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -251,9 +233,6 @@ const downloadStartArticlesRevisionHistory = (cb) => {
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Start Article List: LOADED');
     let titles = data.trim().split('\n')
-    for (let i = 0; i < titles.length; i++) {
-      titles[i] = decodeURIComponent(titles[i].trim())
-    }
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Start Articles download: STARTING');
     console.log('- - - - - - - - - - - - - - - - - - - -')
@@ -279,9 +258,6 @@ const downloadStubArticlesRevisionHistory = (cb) => {
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Stub Article List: LOADED');
     let titles = data.trim().split('\n')
-    for (let i = 0; i < titles.length; i++) {
-      titles[i] = decodeURIComponent(titles[i].trim())
-    }
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Stub Articles download: STARTING');
     console.log('- - - - - - - - - - - - - - - - - - - -')

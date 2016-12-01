@@ -583,7 +583,7 @@ class Extractor(object):
         res += self.transform1(wikitext[cur:])
         return res
 
-        
+
     def transform1(self, text):
         """Transform text not containing <nowiki>"""
         if Extractor.expand_templates:
@@ -951,7 +951,7 @@ class Extractor(object):
         # part-value      = wikitext-L3
         # wikitext-L3     = literal / template / tplarg / link / comment /
         #                   line-eating-comment / unclosed-comment /
-        #                   xmlish-element / *wikitext-L3
+        #           	    xmlish-element / *wikitext-L3
 
         # A tplarg may contain other parameters as well as templates, e.g.:
         #   {{{text|{{{quote|{{{1|{{error|Error: No text given}}}}}}}}}}}
@@ -1326,7 +1326,7 @@ def string_find(args):
         return source.find(pattern, start) + 1 # lua is 1-based
     else:
         return (re.compile(pattern).search(source, start) or -1) + 1
-        
+
 # ----------------------------------------------------------------------
 # Module:Roman
 # http://en.wikipedia.org/w/index.php?title=Module:Roman
@@ -1336,11 +1336,11 @@ def string_find(args):
 def roman_main(args):
     """Convert first arg to roman numeral if <= 5000 else :return: second arg."""
     num = int(float(args.get('1')))
- 
+
     # Return a message for numbers too big to be expressed in Roman numerals.
     if 0 > num or num >= 5000:
         return args.get('2', 'N/A')
- 
+
     def toRoman(n, romanNumeralMap):
         """convert integer to Roman numeral"""
         result = ""
@@ -1355,7 +1355,7 @@ def roman_main(args):
         (1000, "M"),
         (900, "CM"), (500, "D"), (400, "CD"), (100, "C"),
         (90, "XC"), (50, "L"), (40, "XL"), (10, "X"),
-        (9, "IX"), (5, "V"), (4, "IV"), (1, "I") 
+        (9, "IX"), (5, "V"), (4, "IV"), (1, "I")
     )
     return toRoman(num, smallRomans)
 
@@ -2095,7 +2095,7 @@ def replaceInternalLinks(text):
 #                 if '%' in m.group(1):
 #                     m.group(1) = rawurldecode(m.group(1))
 #                 trail = ""
-#             else:     # Invalid form; output directly
+#             else:		# Invalid form; output directly
 #                 s += prefix + '[[' + line
 #                 continue
 
@@ -2128,7 +2128,7 @@ def replaceInternalLinks(text):
 #         ns = nt.getNamespace()
 #         iw = nt.getInterwiki()
 
-#         if might_be_img { # if this is actually an invalid link
+#         if might_be_img {	# if this is actually an invalid link
 #             if (ns == NS_FILE and noforce) { # but might be an image
 #                 found = False
 #                 while True:
@@ -2880,7 +2880,7 @@ def reduce_process(output_queue, spool_length,
         output = sys.stdout if PY2 else sys.stdout.buffer
         if file_compress:
             logging.warn("writing to stdout, so no output compression (use an external tool)")
-    
+
     interval_start = default_timer()
     # FIXME: use a heap
     spool = {}        # collected pages

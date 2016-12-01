@@ -20,14 +20,13 @@ const parser = new xml2js.Parser()
 
 // LOGIC
 const folder = path.join('articles', 'articlesXML')
-const paths = ['featuredArticlesXML','aClassArticlesXML', 'goodArticlesXML', 'bClassArticlesXML', 'cClassArticlesXML', 'startArticlesXML', 'stubArticlesXML']
+const paths = ['featuredArticles','aClassArticles', 'goodArticles', 'bClassArticles', 'cClassArticles', 'startArticles', 'stubArticles']
 let pathIndex = 0
 let qualityClass = 7
 
 let articleNumber = 1
 
 const load = (file, cb) => {
-  let _title = file.replace(/_/g, ' ').replace(/\.xml/, '').trim()
   let xmlFilename = path.join(folder, paths[pathIndex], file)
 
   // Read the file and print its contents.
@@ -50,7 +49,10 @@ const load = (file, cb) => {
 
     // Run Python script
     PythonShell.run('WikiExtractor.py', options, (err, results) => {
-      if (err) throw err
+      if (err && JSON.stringify(err.toString()).indexOf('2703') == -1) {
+        throw err
+      }
+
 
       // Load extracted article
       fs.readFile('tmp/AA/wiki_00', 'utf8', (err, extractedArticle) => {
@@ -101,8 +103,12 @@ const load = (file, cb) => {
               console.log('Article NOT Found in DB');
               console.log('ID: ' + id);
 
-              // Article title
-              let title = decodeURI(textWithTitleAndSectionTitles.substring(0, textWithTitleAndSectionTitles.indexOf("\n")).replace(/\//g, '\u2215').replace(/:/g, '&#58;'))
+              // Article title from filename
+              let title = file.replace(/\.xml/, '').trim()
+
+              // Article title from article text
+              // let title = decodeURI(textWithTitleAndSectionTitles.substring(0, textWithTitleAndSectionTitles.indexOf("\n")).replace(/\//g, '\u2215').replace(/:/g, '&#58;'))
+
               console.log('Title: ' + title);
               console.log('- - - - - - - - - - - - - - - - - - - -')
 
@@ -180,7 +186,12 @@ const load = (file, cb) => {
               // Root text (she sold seashells -> she sell seashell)
               let rootText = nlp.text(expandedText).root()
 
-              articleAnalyzer.analyze(articleTextFromXML, id, title, textWithSectionTitles, subsectionIndexes, abstract, sections, text, sentences, onlyLettersAndNumbersText, words, (articleJSON) => {
+              if(text.length == 0) {
+                console.log('NO TESTO');
+                process.exit()
+              }
+
+              articleAnalyzer.analyze(articleTextFromXML, id, title, textWithSectionTitles, subsectionIndexes, abstract, sections, text, sentences, onlyLettersAndNumbersText, words, qualityClass, (articleJSON) => {
                 // console.log(JSON.stringify(articleJSON.features, null, 2));
 
                 let lengthFeatures = {}
@@ -239,10 +250,6 @@ const load = (file, cb) => {
                 }
                 // Quality Class
                 article.qualityClass = qualityClass
-
-                console.log(article);
-
-                process.exit()
 
                 dbAgent.insertArticle(article, cb)
 

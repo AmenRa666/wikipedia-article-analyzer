@@ -1,5 +1,6 @@
 // MODULES
 const async = require('async')
+const time = require('node-tictoc')
 // POS Tagger
 const posTagger = require('./posTagger.js')
 // Analizers
@@ -21,6 +22,7 @@ let sentencesTags = []
 let articleJSON = {
   id: '',
   title: '',
+  qualityClass: 0,
   abstract: '',
   text: '',
   textFromXML: '',
@@ -142,14 +144,17 @@ const getCharTrigrams = (cb) => {
 }
 
 const getReviewFeatures = (cb) => {
-  revisionAnalyzer.getReviewFeatures(articleJSON.title, (reviewFeatures) => {
+  revisionAnalyzer.getReviewFeatures(articleJSON.title, articleJSON.qualityClass, (reviewFeatures) => {
     articleJSON.features.reviewFeatures = reviewFeatures
     cb(null, 'Get Review Features')
   })
 }
 
-const analyze = (articleTextFromXML, id, title, textWithSectionTitles, subsectionIndexes, abstract, sections, text, sentences, onlyLettersAndNumbersText, words, cb) => {
+const analyze = (articleTextFromXML, id, title, textWithSectionTitles, subsectionIndexes, abstract, sections, text, sentences, onlyLettersAndNumbersText, words, qualityClass, cb) => {
 
+  time.tic()
+
+  articleJSON.qualityClass = qualityClass
   articleJSON.textFromXML = articleTextFromXML
   articleJSON.id = id
   articleJSON.title = title
@@ -221,6 +226,7 @@ const analyze = (articleTextFromXML, id, title, textWithSectionTitles, subsectio
     }
   ], (err, res) => {
     if (err) throw err
+    time.toc()
     cb(articleJSON)
   })
 
