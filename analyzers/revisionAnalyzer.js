@@ -274,15 +274,24 @@ const getThreeMonthsAgoFeatures = (cb) => {
 
 const getRevertsFeatures = (cb) => {
   let revertCount = 0
-  for (let i = 0; i < reverts.length; i++) {
-    if (reverts[i][0] == articleTitle) {
-      revertCount = reverts[i][1]
-      break
-    }
-  }
-  reviewFeatures.revertCount = revertCount
-  reviewFeatures.revertReviewRatio = revertCount/reviews.length
-  cb(null, 'Get Revers Features')
+
+  dbAgent.findRevertsByArticleTitle(articleTitle, (reverts) => {
+    revertCount = reverts.length
+    reviewFeatures.revertCount = revertCount
+    reviewFeatures.revertReviewRatio = revertCount/reviews.length
+    cb(null, 'Get Revers Features')
+  })
+
+  // let revertCount = 0
+  // for (let i = 0; i < reverts.length; i++) {
+  //   if (reverts[i][0] == articleTitle) {
+  //     revertCount = reverts[i][1]
+  //     break
+  //   }
+  // }
+  // reviewFeatures.revertCount = revertCount
+  // reviewFeatures.revertReviewRatio = revertCount/reviews.length
+  // cb(null, 'Get Revers Features')
 }
 
 const getReviewFeatures = (_articleTitle, _qualityClass, cb) => {
@@ -346,7 +355,7 @@ const getReviewFeatures = (_articleTitle, _qualityClass, cb) => {
     users = _.uniq(users)
 
     async.parallel([
-      // getRevertsFeatures,
+      getRevertsFeatures,
       getReviewsPerUserStdDev,
       countReviews,
       countUsers,

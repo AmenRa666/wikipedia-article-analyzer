@@ -5,6 +5,7 @@ mongoose.connect('mongodb://localhost/wikipedia')
 // models
 const Article = require('./models/article.js').Article
 const Revision = require('./models/revision.js').Revision
+var Revert = require('./models/revert.js').Revert
 
 // get notified if we connect successfully or if a connection error occurs
 const db = mongoose.connection
@@ -52,9 +53,21 @@ const insertRevision = (revision, cb) => {
 
 const findRevisionByArticleTitle = (articleTitle, cb) => {
   let query = {"articleTitle":articleTitle}
-  Revision.find(query, (err, docs) => {
+  Revision.find(query, (err, revisions) => {
     if (err) console.log(err);
-    else cb(docs)
+    else {
+      cb(revisions)
+    }
+  })
+}
+
+const findRevertsByArticleTitle = (articleTitle, cb) => {
+  var query = {
+    'articleTitle': decodeURIComponent(articleTitle).replace(/_/g, ' ')
+  }
+  Revert.find(query, (err, reverts) => {
+    if (err) console.log(err);
+    else cb(reverts)
   })
 }
 
@@ -64,3 +77,4 @@ module.exports.insertRevision = insertRevision
 module.exports.findArticleByTitle = findArticleByTitle
 module.exports.findById = findById
 module.exports.findRevisionByArticleTitle = findRevisionByArticleTitle
+module.exports.findRevertsByArticleTitle = findRevertsByArticleTitle

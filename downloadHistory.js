@@ -49,53 +49,53 @@ const downloadRevisionHistory = (_title, cb) => {
     else {
       client.getArticleRevisions(articleTitle, (err, data) => {
         if (err) throw err
-
-        if(data.length == 0) {
-          console.log(articleTitle);
-          process.exit()
-        }
-
-        data.forEach((revision) => {
-          if(revision == undefined) {
+        else {
+          if(data.length == 0) {
             console.log(articleTitle);
-            console.log(data);
             process.exit()
           }
-          if(revision.user == undefined) {
-            revision.user = 'undefined' + undefinedCount
-            undefinedCount++
-          }
-          if (bots.indexOf(revision.user) > -1) {
-            data.splice(data.indexOf(revision), 1)
-          }
-          revision.articleTitle = _title
-        })
 
-        let revisions = data
-        let _revisions = []
+          data.forEach((revision) => {
+            if(revision == undefined) {
+              console.log(articleTitle);
+              console.log(data);
+              process.exit()
+            }
+            if(revision.user == undefined) {
+              revision.user = 'undefined' + undefinedCount
+              undefinedCount++
+            }
+            if (bots.indexOf(revision.user) > -1) {
+              data.splice(data.indexOf(revision), 1)
+            }
+            revision.articleTitle = _title
+          })
 
-        for (let i = 0; i < revisions.length; i++) {
-          if (revisions[i+1] == undefined) {
-            _revisions.push(revisions[i])
-          }
-          else if (revisions[i].user != revisions[i+1].user) {
-            _revisions.push(revisions[i])
-          }
-        }
+          let revisions = data
+          let _revisions = []
 
-        async.each(
-          _revisions,
-          saveRevision,
-          (err, result) => {
-            if (err) console.log(err);
-            else {
-              console.log(articleCount);
-              articleCount++
-              cb(null, 'All Revisions Have Been Saved!')
+          for (let i = 0; i < revisions.length; i++) {
+            if (revisions[i+1] == undefined) {
+              _revisions.push(revisions[i])
+            }
+            else if (revisions[i].user != revisions[i+1].user) {
+              _revisions.push(revisions[i])
             }
           }
-        )
 
+          async.each(
+            _revisions,
+            saveRevision,
+            (err, result) => {
+              if (err) console.log(err);
+              else {
+                console.log(articleCount);
+                articleCount++
+                cb(null, 'All Revisions Have Been Saved!')
+              }
+            }
+          )
+        }
       })
     }
   })
@@ -111,7 +111,7 @@ const downloadFeaturedArticlesRevisionHistory = (cb) => {
     console.log('- - - - - - - - - - - - - - - - - - - -')
     console.log('Featured Articles download: STARTING');
     console.log('- - - - - - - - - - - - - - - - - - - -')
-    async.each(
+    async.eachSeries(
       titles,
       downloadRevisionHistory,
       (err, result) => {
