@@ -20,9 +20,11 @@ const parser = new xml2js.Parser()
 
 // LOGIC
 const folder = path.join('articles', 'articlesXML')
-const paths = ['featuredArticles','aClassArticles', 'goodArticles', 'bClassArticles', 'cClassArticles', 'startArticles', 'stubArticles']
+// const paths = ['featuredArticles','aClassArticles', 'goodArticles', 'bClassArticles', 'cClassArticles', 'startArticles', 'stubArticles']
+const paths = ['stubArticles']
 let pathIndex = 0
-let qualityClass = 7
+// let qualityClass = 7
+let qualityClass = 1
 
 let articleNumber = 1
 

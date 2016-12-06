@@ -155,7 +155,12 @@ const getToBeVerbFeatures = (cb) => {
     }
   })
   styleFeatures.toBeVerbCount = count
-  styleFeatures.toBeVerbRatio = count/verbs.length
+  if (verbs.length > 0) {
+    styleFeatures.toBeVerbRatio = count/verbs.length
+  }
+  else {
+    styleFeatures.toBeVerbRatio = count
+  }
   styleFeatures.toBeVerbPerSentence = count/sentenceCount
   styleFeatures.toBeVerbRate = count/wordCount
   cb(null, 'Count To Be Verb')
@@ -167,7 +172,12 @@ const getPassiveVoiceFeatures = (cb) => {
     passiveVoiceCount = passiveVoiceCount + passive(sentence.str).length
   })
   styleFeatures.passiveVoiceCount = passiveVoiceCount
-  styleFeatures.passiveVoiceRatio = passiveVoiceCount/verbs.length
+  if (verbs.length > 0) {
+    styleFeatures.passiveVoiceRatio = passiveVoiceCount/verbs.length
+  }
+  else {
+    styleFeatures.passiveVoiceRatio = passiveVoiceCount
+  }  
   styleFeatures.passiveVoicePerSentence = passiveVoiceCount/sentenceCount
   styleFeatures.passiveVoiceRate = passiveVoiceCount/wordCount
   cb(null, 'Get Passive Voice Features')
@@ -176,7 +186,12 @@ const getPassiveVoiceFeatures = (cb) => {
 const getModalAuxiliaryFeatures = (cb) => {
   let modalAuxiliaryVerbCount = pos.modalAuxiliaries.length
   styleFeatures.modalAuxiliaryVerbCount = modalAuxiliaryVerbCount
-  styleFeatures.modalAuxiliaryVerbsRatio = modalAuxiliaryVerbCount/verbs.length
+  if (verbs.length > 0){
+    styleFeatures.modalAuxiliaryVerbsRatio = modalAuxiliaryVerbCount/verbs.length
+  }
+  else {
+    styleFeatures.modalAuxiliaryVerbsRatio = modalAuxiliaryVerbCount
+  }
   styleFeatures.modalAuxiliaryVerbsPerSentence = modalAuxiliaryVerbCount/sentenceCount
   styleFeatures.modalAuxiliaryVerbsRate = modalAuxiliaryVerbCount/wordCount
   cb(null, 'Get Modal Auxiliaries Features')

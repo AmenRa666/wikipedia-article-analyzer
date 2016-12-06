@@ -16,7 +16,10 @@ db.once('open', function() {
 
 const insertArticle = (article, cb) => {
   Article.create(article, (err, obj) => {
-    if (err) return handleError(err)
+    if (err) {
+      console.log(err);
+      process.exit()
+    }
     else {
       console.log('Article saved!')
       cb(null, 'Article Saved')

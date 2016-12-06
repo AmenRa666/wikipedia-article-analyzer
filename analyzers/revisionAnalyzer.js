@@ -142,8 +142,12 @@ const countReviews = (cb) => {
   reviewFeatures.anonymouseReviewCount = anonymouseReviewCount
   reviewFeatures.registeredReviewRate = registeredReviewCount/reviewCount
   reviewFeatures.anonymouseReviewRate = anonymouseReviewCount/reviewCount
-  reviewFeatures.registeredAnonymouseReviewRatio = registeredReviewCount/anonymouseReviewCount
-
+  if (anonymouseReviewCount > 0) {
+    reviewFeatures.registeredAnonymouseReviewRatio = registeredReviewCount/anonymouseReviewCount
+  }
+  else {
+    reviewFeatures.registeredAnonymouseReviewRatio = registeredReviewCount
+  }
   cb(null, 'Get Review Count')
 }
 
@@ -236,7 +240,12 @@ const countUsers = (cb) => {
   reviewFeatures.userCount = userCount
   reviewFeatures.registeredUserCount = registeredUserCount
   reviewFeatures.anonymouseUserCount = anonymouseUserCount
-  reviewFeatures.registerdAnonymouseUserRatio = registeredUserCount/anonymouseUserCount
+  if (anonymouseUserCount > 0) {
+    reviewFeatures.registerdAnonymouseUserRatio = registeredUserCount/anonymouseUserCount
+  }
+  else {
+    reviewFeatures.registerdAnonymouseUserRatio = registeredUserCount
+  }
   reviewFeatures.registeredUserRate = registeredUserCount/userCount
   reviewFeatures.anonymouseUserRate = anonymouseUserCount/userCount
   reviewFeatures.occasionalUserCount = occasionalUsers.length
