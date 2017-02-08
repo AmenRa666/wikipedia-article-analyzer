@@ -144,7 +144,7 @@ const getCharTrigrams = (cb) => {
 }
 
 const getReviewFeatures = (cb) => {
-  revisionAnalyzer.getReviewFeatures(articleJSON.title, articleJSON.qualityClass, (reviewFeatures) => {
+  revisionAnalyzer.getReviewFeatures(articleJSON.title, articleJSON.qualityClass, articleJSON.sentences, (reviewFeatures) => {
     articleJSON.features.reviewFeatures = reviewFeatures
     cb(null, 'Get Review Features')
   })

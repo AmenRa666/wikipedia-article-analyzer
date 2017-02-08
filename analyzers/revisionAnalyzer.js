@@ -4,6 +4,10 @@ const async = require('async')
 const _ = require('underscore')
 const fs = require('fs')
 const path = require("path")
+const PythonShell = require('python-shell')
+const mkdirp = require('mkdirp')
+const request = require('request')
+const nlp = require('nlp_compromise')
 // const sanitize = require("sanitize-filename")
 // Database Agent
 const dbAgent = require('../dbAgent.js')
@@ -38,7 +42,11 @@ const paths = [
 let reviews = []
 let timestamps = []
 let users = []
+let sentences = []
 let qualityClass = null
+
+const dir = 'tmp'
+const specialExportUrl = 'https://en.wikipedia.org/w/index.php?title=Special:Export&pages='
 
 let reviewFeatures = {
   age: 0,
@@ -67,8 +75,8 @@ let reviewFeatures = {
   modifiedLinesRate: 0,
   mostActiveUsersReviewCount: 0,
   mostActiveUsersReviewRate: 0,
-  occasionalUsersReviewCount: 0,
-  occasionalUsersReviewRate: 0,
+  occasionalReviewCount: 0,
+  occasionalReviewRate: 0,
   lastThreeMonthsReviewCount: 0,
   lastThreeMonthsReviewRate: 0
 }
@@ -231,9 +239,9 @@ const countUsers = (cb) => {
     mostActiveUsersReviewCount = mostActiveUsersReviewCount + usersActivity[i].editCount
   }
 
-  let occasionalUsersReviewCount = 0
+  let occasionalReviewCount = 0
   occasionalUsers.forEach((user) => {
-    occasionalUsersReviewCount = occasionalUsersReviewCount + user.editCount
+    occasionalReviewCount = occasionalReviewCount + user.editCount
   })
 
 
@@ -252,8 +260,8 @@ const countUsers = (cb) => {
   reviewFeatures.occasionalUserRate = occasionalUsers.length/userCount
   reviewFeatures.mostActiveUsersReviewCount = mostActiveUsersReviewCount
   reviewFeatures.mostActiveUsersReviewRate = mostActiveUsersReviewCount/reviews.length
-  reviewFeatures.occasionalUsersReviewCount = occasionalUsersReviewCount
-  reviewFeatures.occasionalUsersReviewRate = occasionalUsersReviewCount/reviews.length
+  reviewFeatures.occasionalReviewCount = occasionalReviewCount
+  reviewFeatures.occasionalReviewRate = occasionalReviewCount/reviews.length
   cb(null, 'Count Users')
 }
 
@@ -284,38 +292,97 @@ const getThreeMonthsAgoFeatures = (cb) => {
 const getRevertsFeatures = (cb) => {
   let revertCount = 0
 
-  dbAgent.findRevertsByArticleTitle(articleTitle, (reverts) => {
+  dbAgent.findRevertsByArticleTitle(decodeURIComponent(articleTitle).replace(/_/g, ' '), (reverts) => {
     revertCount = reverts.length
     reviewFeatures.revertCount = revertCount
     reviewFeatures.revertReviewRatio = revertCount/reviews.length
     cb(null, 'Get Revers Features')
   })
-
-  // let revertCount = 0
-  // for (let i = 0; i < reverts.length; i++) {
-  //   if (reverts[i][0] == articleTitle) {
-  //     revertCount = reverts[i][1]
-  //     break
-  //   }
-  // }
-  // reviewFeatures.revertCount = revertCount
-  // reviewFeatures.revertReviewRatio = revertCount/reviews.length
-  // cb(null, 'Get Revers Features')
 }
 
-const getReviewFeatures = (_articleTitle, _qualityClass, cb) => {
-  articleTitle = _articleTitle.replace(/&amp;/g, '&').replace(/∕/g, '/')
-  dbAgent.findRevisionByArticleTitle(articleTitle.replace(/ /g, '_'), (docs) => {
+const getModifiedLinesRate = (cb) => {
+  let date = new Date(reviews[0].timestamp);
+  date.setMonth(date.getMonth()-3)
+  let offset = date.toISOString()
+  let url = specialExportUrl + reviews[0].articleTitle + '&offset=' + offset + '&limit=1'
+  url = url.replace(/&#58;/g, ':')
+  request.post(url, (err, res, body) => {
+    if (!err && res.statusCode == 200) {
+      let data = body
+      let filename = 'threeMonthsAgoRevision.xml'
+      let _path = path.join(dir, filename)
+      mkdirp(dir, (err) => {
+        if (err) throw err
+        else {
+          fs.writeFileSync(_path, data)
+          let options = {
+            args: ['-o', 'tmp', '-q', _path]
+          };
+          // Run Python script
+          PythonShell.run('./WikiExtractor.py', options, (err, results) => {
+            if (err && JSON.stringify(err.toString()).indexOf('2703') == -1) {
+              throw err
+            }
+            else {
+              // Load extracted article
+              fs.readFile('./tmp/AA/wiki_00', 'utf8', (err, extractedArticle) => {
+                if (err) throw err
+                else {
+                  // Delete surraunding tags (<doc> ...text... <\doc>)
+                  extractedArticle = extractedArticle.substring(extractedArticle.indexOf(">") + 1, extractedArticle.length - 7).trim()
+                  // Removes title
+                  extractedArticle = extractedArticle.substring(extractedArticle.indexOf("\n")).trim()
+                  // Extract sentences
+                  let _oldSentences = nlp.text(extractedArticle).sentences
+                  let oldSentences = []
+                  _oldSentences.forEach((sentence) => {
+                    oldSentences.push(sentence.str)
+                  })
 
-    for (let i = 0; i < docs.length; i++) {
-      if(!docs[i].user) {
-        docs[i].user = 'undefined' + i
+                  let modifiedLinesRate = 0
+
+                  oldSentences.forEach((sentence) => {
+                    if (sentences.indexOf(sentence) == -1) {
+                      modifiedLinesRate++
+                    }
+                  })
+
+                  reviewFeatures.modifiedLinesRate = modifiedLinesRate
+                  cb(null, 'Get Modified Lines Rate')
+                }
+              })
+            }
+          })
+        }
+      })
+    }
+    else {
+      console.log(err);
+      process.exit()
+    }
+  })
+}
+
+
+
+const getReviewFeatures = (_articleTitle, _qualityClass, _sentences, cb) => {
+  articleTitle = _articleTitle.replace(/&amp;/g, '&').replace(/∕/g, '/')
+  dbAgent.findRevisionByArticleTitle(articleTitle.replace(/ /g, '_'), (revisions) => {
+
+    for (let i = 0; i < revisions.length; i++) {
+      if(!revisions[i].user) {
+        revisions[i].user = 'undefined' + i
       }
     }
 
-    reviews = docs
+    reviews = revisions
     timestamps = []
     users = []
+    sentences = []
+
+    _sentences.forEach((sentence) => {
+      sentences.push(sentence.str)
+    })
 
     qualityClass = _qualityClass
 
@@ -345,18 +412,19 @@ const getReviewFeatures = (_articleTitle, _qualityClass, cb) => {
     reviewFeatures.modifiedLinesRate = 0
     reviewFeatures.mostActiveUsersReviewCount = 0
     reviewFeatures.mostActiveUsersReviewRate = 0
-    reviewFeatures.occasionalUsersReviewCount = 0
-    reviewFeatures.occasionalUsersReviewRate = 0
+    reviewFeatures.occasionalReviewCount = 0
+    reviewFeatures.occasionalReviewRate = 0
     reviewFeatures.lastThreeMonthsReviewCount = 0
     reviewFeatures.lastThreeMonthsReviewRate = 0
 
-    docs.sort((a,b) => {
+    // Sort DESC
+    revisions.sort((a,b) => {
       // Turn your strings into dates, and then subtract them
       // to get a value that is either negative, positive, or zero.
       return new Date(b.timestamp) - new Date(a.timestamp);
     });
 
-    docs.forEach((review) => {
+    revisions.forEach((review) => {
       timestamps.push(review.timestamp)
       users.push(review.user)
     })
@@ -364,6 +432,7 @@ const getReviewFeatures = (_articleTitle, _qualityClass, cb) => {
     users = _.uniq(users)
 
     async.parallel([
+      getModifiedLinesRate,
       getRevertsFeatures,
       getReviewsPerUserStdDev,
       countReviews,

@@ -19,13 +19,13 @@ let structureFeatures = {
   abstractSize: 0,
   abstractSizeArtcileLengthRatio: 0,
   citationCount: 0,
-  citationCountPerSentence: 0,
+  citationCountPerTextLength: 0,
   citationCountPerSection: 0,
   externalLinksCount: 0,
-  externalLinksPerSentence: 0,
+  externalLinksPerTextLength: 0,
   externalLinksPerSection: 0,
   imageCount: 0,
-  imagePerSentence: 0,
+  imagePerTextLength: 0,
   imagePerSection: 0
 }
 
@@ -135,42 +135,13 @@ const getAbstractSizeArtcileLengthRatio = (cb) => {
 }
 
 const countCitations = (cb) => {
-
-  ////////////////////////////// PROVA UNIQUE REF //////////////////////////////
-
-  // let citationCountText = textFromXML.replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/<ref/g, '\n\n<ref').replace(/\/>/g, '/>\n\n').replace(/\/ref>/g, '/ref>\n\n').replace(/ /g, '')
-  //
-  // // console.log(citationCountText);
-  //
-  // // const citationsRegex = /<ref|&lt;ref|{{sfn\|/g
-  //
-  // // const citationsRegex = /<ref.*\/>|<ref.*\/ref>/g
-  // const citationsRegex = /<ref.*\/ref>/g
-  // // const citationsRegex = /<ref.*\/>/g
-  //
-  // // const citationsRegex = /&lt;ref.*ref&gt;|{{sfn.*}}|<ref.*ref>|<ref.*\/>/g
-  //
-  // // const citationsRegex = /&lt;ref.*ref&gt;/g
-  // structureFeatures.citationCount = (citationCountText.toLowerCase().match(citationsRegex) || []).length
-  //
-  // // console.log(textFromXML);
-  //
-  //
-  //
-  //
-  // console.log(structureFeatures.citationCount);
-  // console.log(_.uniq(citationCountText.toLowerCase().match(citationsRegex)).length);
-  // console.log(citationCountText.toLowerCase().match(citationsRegex));
-
-  //////////////////////////////////////////////////////////////////////////////
-
   const citationsRegex = /<ref|&lt;ref|{{sfn\|/g
   structureFeatures.citationCount = (textFromXML.toLowerCase().match(citationsRegex) || []).length
   cb(null, 'Count Citations')
 }
 
-const getCitationCountPerSentence = (cb) => {
-  structureFeatures.citationCountPerSentence = structureFeatures.citationCount/sentenceCount
+const getCitationCountPerTextLength = (cb) => {
+  structureFeatures.citationCountPerTextLength = structureFeatures.citationCount/sentenceCount
   cb(null, 'Get Citation Count Per Text Length')
 }
 
@@ -185,8 +156,8 @@ const countExternalLinks = (cb) => {
   cb(null, 'Count External Links')
 }
 
-const getExternalLinksPerSentence = (cb) => {
-  structureFeatures.externalLinksPerSentence = structureFeatures.externalLinksCount/sentenceCount
+const getExternalLinksPerTextLength = (cb) => {
+  structureFeatures.externalLinksPerTextLength = structureFeatures.externalLinksCount/sentenceCount
   cb(null, 'Get External Links Per Text Length')
 }
 
@@ -201,8 +172,8 @@ const countImages = (cb) => {
   cb(null, 'Count Images')
 }
 
-const getImagesPerSentence = (cb) => {
-  structureFeatures.imagePerSentence = structureFeatures.imageCount/sentenceCount
+const getImagesPerTextLength = (cb) => {
+  structureFeatures.imagePerTextLength = structureFeatures.imageCount/sentenceCount
   cb(null, 'Get Images Per Text Length')
 }
 
@@ -234,13 +205,13 @@ const analyze = (_sections, _subsectionIndexes, _characterCount, _wordCount, _se
   structureFeatures.abstractSize = 0
   structureFeatures.abstractSizeArtcileLengthRatio = 0
   structureFeatures.citationCount = 0
-  structureFeatures.citationCountPerSentence = 0
+  structureFeatures.citationCountPerTextLength = 0
   structureFeatures.citationCountPerSection = 0
   structureFeatures.externalLinksCount = 0
-  structureFeatures.externalLinksPerSentence = 0
+  structureFeatures.externalLinksPerTextLength = 0
   structureFeatures.externalLinksPerSection = 0
   structureFeatures.imageCount = 0
-  structureFeatures.imagePerSentence = 0
+  structureFeatures.imagePerTextLength = 0
   structureFeatures.imagePerSection = 0
 
   async.parallel([
@@ -292,7 +263,7 @@ const analyze = (_sections, _subsectionIndexes, _characterCount, _wordCount, _se
       countCitations,
       (cb) => {
         async.parallel([
-          getCitationCountPerSentence,
+          getCitationCountPerTextLength,
           getCitationCountPerSection
         ], cb )
       }
@@ -303,7 +274,7 @@ const analyze = (_sections, _subsectionIndexes, _characterCount, _wordCount, _se
       countExternalLinks,
       (cb) => {
         async.parallel([
-          getExternalLinksPerSentence,
+          getExternalLinksPerTextLength,
           getExternalLinksPerSection
         ], cb )
       }
@@ -314,7 +285,7 @@ const analyze = (_sections, _subsectionIndexes, _characterCount, _wordCount, _se
       countImages,
       (cb) => {
         async.parallel([
-          getImagesPerSentence,
+          getImagesPerTextLength,
           getImagesLinksPerSection
         ], cb )
       }
