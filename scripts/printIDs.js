@@ -11,10 +11,6 @@ const time = require('node-tictoc')
 const jsonfile = require('jsonfile')
 const mkdirp = require('mkdirp')
 const path = require('path')
-// Analizer
-const articleAnalyzer = require('./articleAnalyzer.js')
-// Database Agent
-const dbAgent = require('./dbAgent.js')
 // XML Parser
 const parser = new xml2js.Parser()
 
@@ -29,45 +25,49 @@ let articleNumber = 1
 let ids = []
 
 const load = (file, cb) => {
-  let xmlFilename = path.join(folder, paths[pathIndex], file)
+  if (file == '.DS_Store') {
+    cb(null, 'ds_store')
+  }
+  else {
+    let xmlFilename = path.join(folder, paths[pathIndex], file)
 
-  // Read the file and print its contents.
-  fs.readFile(xmlFilename, 'utf8', (err, xmlArticle) => {
-    if (err) throw err
+    // Read the file and print its contents.
+    fs.readFile(xmlFilename, 'utf8', (err, xmlArticle) => {
+      if (err) throw err
 
-    console.log('- - - - - - - - - - - - - - - - - - - -')
-    console.log(articleNumber + ' XML LOADED: ' + file)
-    console.log('- - - - - - - - - - - - - - - - - - - -')
+      console.log('- - - - - - - - - - - - - - - - - - - -')
+      console.log(articleNumber + ' XML LOADED: ' + file)
+      console.log('- - - - - - - - - - - - - - - - - - - -')
 
-    articleNumber++
+      articleNumber++
 
-    // Remove subsubsection titles and similar
-    const subsubsectionRegex = /====(.+?)====/g
-    xmlArticle = xmlArticle.replace(subsubsectionRegex, '') || []
+      // Remove subsubsection titles and similar
+      const subsubsectionRegex = /====(.+?)====/g
+      xmlArticle = xmlArticle.replace(subsubsectionRegex, '') || []
 
-    let options = {
-      args: ['-o', 'tmp', '--sections', '-q', xmlFilename]
-    };
+      let options = {
+        args: ['-o', 'tmp', '--sections', '-q', xmlFilename]
+      };
 
-    // Run Python script
-    PythonShell.run('WikiExtractor.py', options, (err, results) => {
-      if (err && JSON.stringify(err.toString()).indexOf('2703') == -1) {
-        throw err
-      }
+      // Run Python script
+      PythonShell.run('WikiExtractor.py', options, (err, results) => {
+        if (err && JSON.stringify(err.toString()).indexOf('2703') == -1) {
+          throw err
+        }
 
 
-      // Load extracted article
-      fs.readFile('tmp/AA/wiki_00', 'utf8', (err, extractedArticle) => {
-        if (err) throw err
+        // Load extracted article
+        fs.readFile('tmp/AA/wiki_00', 'utf8', (err, extractedArticle) => {
+          if (err) throw err
 
-        // ID
-        let id = extractedArticle.split('\"')[1]
-        ids.push(id)
-        cb(null, 'ok')
+          // ID
+          let id = extractedArticle.split('\"')[1]
+          ids.push(id)
+          cb(null, 'ok')
+        })
       })
     })
-  })
-
+  }
 }
 
 const readAllFiles = (_path, cb) => {

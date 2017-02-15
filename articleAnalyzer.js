@@ -12,6 +12,7 @@ const structureAnalyzer = require('./analyzers/structureAnalyzer.js')
 const lexicalAnalyzer = require('./analyzers/lexicalAnalyzer.js')
 const styleAnalyzer = require('./analyzers/styleAnalyzer.js')
 const revisionAnalyzer = require('./analyzers/revisionAnalyzer.js')
+const networkAnalyzer = require('./analyzers/networkAnalyzer.js')
 
 
 // LOGIC
@@ -39,7 +40,8 @@ let articleJSON = {
     readabilityFeatures: {},
     posTrigrams: {},
     charTrigrams: {},
-    reviewFeatures: {}
+    reviewFeatures: {},
+    networkFeatures: {}
   }
 }
 
@@ -150,6 +152,13 @@ const getReviewFeatures = (cb) => {
   })
 }
 
+const getNetworkFeatures = (cb) => {
+  networkAnalyzer.getNetworkFeatures(articleJSON.id, (networkFeatures) => {
+    articleJSON.features.networkFeatures = networkFeatures
+    cb(null, 'Get Network Features')
+  })
+}
+
 const analyze = (articleTextFromXML, id, title, textWithSectionTitles, subsectionIndexes, abstract, sections, text, sentences, onlyLettersAndNumbersText, words, qualityClass, cb) => {
 
   time.tic()
@@ -178,6 +187,7 @@ const analyze = (articleTextFromXML, id, title, textWithSectionTitles, subsectio
   articleJSON.features.posTrigrams = {}
   articleJSON.features.charTrigrams = {}
   articleJSON.features.reviewFeatures = {}
+  articleJSON.features.networkFeatures = {}
 
   // async.series([
   //   getReviewFeatures,
@@ -196,6 +206,7 @@ const analyze = (articleTextFromXML, id, title, textWithSectionTitles, subsectio
 
   async.parallel([
     getReviewFeatures,
+    getNetworkFeatures,
     (cb) => {
       async.series([
         (cb) => {

@@ -266,6 +266,18 @@ let articlesSchema = new Schema({
   occasionalUsersReviewRate: Number,
   lastThreeMonthsReviewCount: Number,
   lastThreeMonthsReviewRate: Number,
+  // Network Features
+  pageRank: Number,
+  indegree: Number,
+  outdegree: Number,
+  assortativity_inin: Number,
+  assortativity_inout: Number,
+  assortativity_outin: Number,
+  assortativity_outout: Number,
+  localClusteringCoefficient: Number,
+  reciprocity: Number,
+  linkCount: Number,
+  translationCount: Number,
   // Quality Class
   qualityClass: Number
 });

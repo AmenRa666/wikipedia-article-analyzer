@@ -1,6 +1,25 @@
-// open a connection to the database on our locally running instance of MongoDB
+// MODULE
 const mongoose = require('mongoose')
-mongoose.connect('mongodb://localhost/wikipedia')
+
+// open a connection to the database on our locally running instance of MongoDB
+var options = {
+  server: {
+    socketOptions: {
+      keepAlive: 3000000,
+      connectTimeoutMS: 300000
+     }
+   },
+   replset: {
+    socketOptions: {
+      keepAlive: 3000000,
+      connectTimeoutMS : 300000
+    }
+  }
+}
+
+var mongodbUri = 'mongodb://localhost/wikipedia'
+
+mongoose.connect(mongodbUri, options)
 
 // models
 const Article = require('./models/article.js').Article

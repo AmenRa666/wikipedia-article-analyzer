@@ -7,16 +7,16 @@ const async = require('async')
 
 // LOGIC
 time.tic()
-let idsFile = fs.readFileSync('../ids.txt', 'utf-8').trim()
+let idsFile = fs.readFileSync('../data/ids.txt', 'utf-8').trim()
 let ids = idsFile.split('\n')
 
-let targetFile = '../pageRanks.csv'
+let targetFile = '../data/pageRanks2.csv'
 fs.appendFileSync(targetFile, 'id,langLinksCount\n')
 
 let articlesFound = 0
 
 let buffer = '';
-let rs = fs.createReadStream('ranks.csv');
+let rs = fs.createReadStream('../data/ranks.csv');
 rs.on('data', (chunk) => {
   let lines = (buffer + chunk).split(/\r?\n/g);
   buffer = lines.pop();

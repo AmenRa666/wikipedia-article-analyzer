@@ -12,12 +12,12 @@ mongoose.connect('mongodb://localhost/wikipedia')
 const Article = require('../models/article.js').Article
 
 const fields = [
-  "id",
-  "title",
+  // Length Features
   "characterCount",
   "wordCount",
   "syllableCount",
   "sentenceCount",
+  // Structure Features
   "sectionCount",
   "subsectionCount",
   "paragraphCount",
@@ -39,6 +39,7 @@ const fields = [
   "imageCount",
   "imagePerTextLength",
   "imagePerSection",
+  // Style Features
   "meanSentenceSize",
   "largestSentenceSize",
   "shortestSentenceSize",
@@ -54,7 +55,7 @@ const fields = [
   "toBeVerbRate",
   "modalAuxiliaryVerbCount",
   "modalAuxiliaryVerbsRatio",
-  "modalAuxiliaryVerbsPerSentence"r,
+  "modalAuxiliaryVerbsPerSentence" ,
   "modalAuxiliaryVerbsRate",
   "passiveVoiceCount",
   "passiveVoiceRatio",
@@ -76,6 +77,7 @@ const fields = [
   "numberOfSentencesThatStartWithAPronounRatio",
   "numberOfSentencesThatStartWithAnAdverbRatio",
   "numberOfSentencesThatStartWithAnArticleRatio",
+  // Readability Features
   "automatedReadabilityIndex",
   "colemanLiauIndex",
   "fleshReadingEase",
@@ -84,6 +86,7 @@ const fields = [
   "lasbarhetsIndex",
   "smogGrading",
   "daleChallReadabilityFormula",
+  // Lexical Features
   "differentWordCount",
   "differentWordsPerSentence",
   "differentWordsRate",
@@ -138,39 +141,43 @@ const fields = [
   "differentSubordinatingPrepositionsAndConjunctionsDifferentWordsRatio",
   "syllablesPerWord",
   "charactersPerWord",
-  "DT,NNP,NNP",
+  // POS Trigrmas
   "NNP,NNP,NNP",
-  "DT,NN,IN",
-  "NN,IN,DT",
+  "VBD,DT,JJ",
   "IN,DT,NNP",
-  "NNP,NNP,IN",
-  "NNP,IN,NNP",
   "NNP,IN,DT",
-  "IN,DT,NN",
-  "DT,NN,VBD",
-  "NNS,IN,DT",
-  "NNP,NNP,VBD",
+  "DT,NNP,NNP",
   "JJ,NN,IN",
-  "IN,DT,JJ",
-  "DT,JJ,NN",
+  "NN,IN,DT",
+  "IN,DT,NN",
   "NN,IN,NNP",
   "IN,NNP,NNP",
+  "NNP,VBD,DT",
   "VBD,DT,NN",
+  "DT,NN,IN",
   "VBD,VBN,IN",
-  "VBN,IN,DT",
-  "NN,IN,NN",
+  "NNP,NNP,VBD",
   "IN,NN,IN",
+  "NNP,NNP,IN",
+  "NNP,IN,NNP",
+  "VBD,IN,DT",
+  "IN,DT,JJ",
   "JJ,NNS,IN",
-  "NN,CC,NN",
-  "IN,JJ,NNS",
+  "DT,JJ,NN",
   "IN,DT,NNS",
-  "TO,VB,DT",
+  "IN,CD,NNP",
+  "VBN,IN,DT",
   "DT,NN,NN",
-  "NNP,NNP,CC",
-  "IN,JJ,NN",
+  "IN,PRP$,NN",
+  "NNP,VBD,VBN",
   "NNP,CC,NNP",
+  "NNS,IN,DT",
+  "NN,IN,NN",
+  "DT,NN,VBD",
+  "NN,VBD,VBN",
+  "TO,VB,DT",
   "NNP,POS,NN",
-  "NN,IN,JJ",
+  // Char Trigrmas
   "ter",
   "er_",
   "_wa",
@@ -185,39 +192,28 @@ const fields = [
   "nd_",
   "_re",
   "ent",
-  "nt_",
   "_of",
   "of_",
   "f_t",
   "_th",
   "the",
   "he_",
-  "'s_",
-  "s_o",
   "on_",
   ",_a",
-  "tha",
-  "hat",
   "at_",
   "ed_",
-  "ver",
   "_on",
   "n_t",
   "or_",
   "ing",
   "ng_",
-  "ers",
   "_in",
   "in_",
   "d_t",
   "d_a",
   "_he",
-  "_ha",
   "_to",
-  "e_w",
   "ted",
-  "_wi",
-  "ith",
   "th_",
   "al_",
   "es_",
@@ -227,7 +223,6 @@ const fields = [
   "ere",
   "_fo",
   "for",
-  "_at",
   "s,_",
   "to_",
   "ati",
@@ -235,29 +230,18 @@ const fields = [
   "re_",
   "_be",
   "ly_",
-  "_wh",
   "her",
-  "n_a",
   "_hi",
   "his",
   "is_",
   "e_t",
   "en_",
-  "e_s",
-  "con",
   "e_o",
-  "s_t",
-  "_pr",
-  "_as",
   "t_t",
-  "._T",
-  "_de",
-  "_we",
+  // "._T",
   "tio",
   "_Th",
-  "The",
-  "d_b",
-  "res",
+  // Review features
   "age",
   "agePerReview",
   "reviewPerDay",
@@ -284,10 +268,23 @@ const fields = [
   "modifiedLinesRate",
   "mostActiveUsersReviewCount",
   "mostActiveUsersReviewRate",
-  "occasionalUsersReviewCount",
-  "occasionalUsersReviewRate",
+  // "occasionalUsersReviewCount",
+  // "occasionalUsersReviewRate",
   "lastThreeMonthsReviewCount",
   "lastThreeMonthsReviewRate",
+  // Network Features
+  "pageRank",
+  "indegree",
+  "outdegree",
+  "assortativity_inin",
+  "assortativity_inout",
+  "assortativity_outin",
+  "assortativity_outout",
+  "localClusteringCoefficient",
+  "reciprocity",
+  "linkCount",
+  "translationCount",
+  // Quality Class
   "qualityClass"
 ]
 
@@ -301,18 +298,25 @@ db.once('open', function() {
     if (err) console.log(err);
     else if (articles) {
 
+      console.log(articles[0]);
+
       // articles.sort(function(a, b) {
       //   return b.qualityClass - a.qualityClass
       // })
+
+
 
       let csv = json2csv({ data: articles, fields: fields })
       fs.writeFileSync('../datasets/MHDataset.csv', csv)
       console.log('CSV Saved!')
 
-      let shuffledArticles = shuffle(articles)
-      let shuffledCSV = json2csv({ data: shuffledArticles, fields: fields })
-      fs.writeFileSync('../datasets/MHShuffledDataset.csv', shuffledCSV)
-      console.log('Shuffled CSV Saved!')
+
+
+
+      // let shuffledArticles = shuffle(articles)
+      // let shuffledCSV = json2csv({ data: shuffledArticles, fields: fields })
+      // fs.writeFileSync('../datasets/MHShuffledDataset.csv', shuffledCSV)
+      // console.log('Shuffled CSV Saved!')
 
       process.exit()
     }

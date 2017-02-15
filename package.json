@@ -25,6 +25,7 @@
   "dependencies": {
     "async": "^2.0.1",
     "automated-readability": "^1.0.0",
+    "babyparse": "^0.4.6",
     "coleman-liau": "^1.0.0",
     "corenlp-js-prefab": "^1.0.1",
     "csvtojson": "^1.0.3",
