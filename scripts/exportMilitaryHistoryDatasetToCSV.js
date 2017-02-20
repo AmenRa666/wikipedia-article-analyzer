@@ -268,8 +268,8 @@ const fields = [
   "modifiedLinesRate",
   "mostActiveUsersReviewCount",
   "mostActiveUsersReviewRate",
-  // "occasionalUsersReviewCount",
-  // "occasionalUsersReviewRate",
+  "occasionalUsersReviewCount",
+  "occasionalUsersReviewRate",
   "lastThreeMonthsReviewCount",
   "lastThreeMonthsReviewRate",
   // Network Features
@@ -284,6 +284,7 @@ const fields = [
   "reciprocity",
   "linkCount",
   "translationCount",
+  "probReviewRank",
   // Quality Class
   "qualityClass"
 ]
@@ -298,7 +299,7 @@ db.once('open', function() {
     if (err) console.log(err);
     else if (articles) {
 
-      console.log(articles[0]);
+      // console.log(articles[0]);
 
       // articles.sort(function(a, b) {
       //   return b.qualityClass - a.qualityClass

@@ -1,183 +1,48 @@
-// let sum = [
-//   7,
-//   1,
-//   40,
-//   78,
-//   33,
-//   2,
-//   134,
-//   21,
-//   26,
-//   1,
-//   4,
-//   34,
-//   143,
-//   14,
-//   11,
-//   196,
-//   12,
-//   96,
-//   50,
-//   19,
-//   286,
-//   20,
-//   45,
-//   106,
-//   80,
-//   49,
-//   15,
-//   27,
-//   1474,
-//   55,
-//   38,
-//   41,
-//   7,
-//   11,
-//   139,
-//   5,
-//   8,
-//   13,
-//   69,
-//   6552,
-//   48,
-//   47,
-//   52,
-//   39,
-//   45,
-//   20,
-//   1716,
-//   191,
-//   6,
-//   22,
-//   24,
-//   455,
-//   4861,
-//   11,
-//   41,
-//   51,
-//   13,
-//   684,
-//   6,
-//   4,
-//   452,
-//   137,
-//   32,
-//   52,
-//   6,
-//   27,
-//   8,
-//   7,
-//   27,
-//   62,
-//   4,
-//   8,
-//   26,
-//   53,
-//   150,
-//   121,
-//   2762,
-//   17,
-//   2,
-//   17,
-//   7,
-//   19,
-//   14,
-//   12,
-//   36,
-//   24,
-//   7,
-//   46,
-//   4,
-//   59,
-//   395,
-//   8,
-//   6,
-//   64,
-//   5,
-//   15,
-//   85,
-//   27,
-//   152,
-//   106,
-//   27,
-//   254,
-//   4,
-//   44,
-//   131,
-//   19,
-//   49,
-//   82,
-//   24,
-//   290,
-//   47,
-//   39,
-//   39,
-//   3,
-//   382,
-//   45,
-//   34,
-//   8,
-//   577,
-//   33,
-//   78,
-//   39,
-//   89,
-//   64,
-//   35,
-//   8,
-//   121,
-//   140,
-//   67,
-//   17,
-//   19,
-//   94,
-//   8,
-//   497,
-//   29,
-//   52,
-//   57,
-//   37,
-//   133,
-//   128,
-//   22,
-//   17,
-//   16,
-//   18,
-//   29,
-//   435,
-//   1023,
-//   9,
-//   20,
-//   1,
-//   13,
-//   9,
-//   14,
-//   24,
-//   166,
-//   31,
-//   85,
-//   137,
-//   11,
-//   50,
-//   12,
-//   181,
-//   31,
-//   318,
-//   524,
-//   44,
-//   575,
-//   63,
-//   3045,
-//   14,
-//   1524
-// ].reduce(add, 0);
-//
-// function add(a, b) {
-//     return a + b;
-// }
-//
-// console.log(sum)
+// MODULES
+const fs = require('fs')
+const inspect = require('util').inspect
+const time = require('node-tictoc')
+const async = require('async')
 
-let s = "The old dream of a universal repository containing all the human knowledge and culture is becoming possible through the Internet and the Web. Moreover, this is happening with the direct collaborative, participation of people. Wikipedia is a great example. It is an enormous repository of infor- mation with free access and edition, created by the community in a collaborative manner. However, this large amount of information, made available democratically and virtually without any control, raises questions about its relative quality. In this work we explore a significant number of quality indicators, some of them proposed by us and used here for the first time, and study their capability to assess the quality of Wikipedia articles. Furthermore, we explore machine learning techniques to combine these quality indicators into one single assessment judgment. Through experiments, we show that the most important quality indicators are the easiest ones to extract, namely, textual features related to length, structure and style. We were also able to determine which indicators did not contribute significantly to the quality assessment. These were, coincidentally, the most complex features, such as those based on link analysis. Finally, we compare our combination method with state-of-the-art solution and show significant improvements in terms of effective quality prediction."
 
-console.log(s.length);
+// LOGIC
+let endOfLine = require('os').EOL
+
+let probReviewRanks = fs.readFileSync('data/probReviewRanks.csv', 'utf-8').split(endOfLine)
+
+for (var i = 0; i < probReviewRanks.length; i++) {
+  probReviewRanks[i] = probReviewRanks[i].split(',')
+}
+
+console.log(probReviewRanks);
+
+
+// time.tic()
+// let idsFile = fs.readFileSync('../data/ids.txt', 'utf-8').trim()
+// let ids = idsFile.split('\n')
+//
+// let targetFile = '../data/pageRanks2.csv'
+// fs.appendFileSync(targetFile, 'id,langLinksCount\n')
+//
+// let articlesFound = 0
+//
+// let buffer = '';
+// let rs = fs.createReadStream('../data/ranks.csv');
+// rs.on('data', (chunk) => {
+//   let lines = (buffer + chunk).split(/\r?\n/g);
+//   buffer = lines.pop();
+//   for (let i = 0; i < lines.length; ++i) {
+//     let tuple = lines[i].split(',')
+//     if (ids.indexOf(tuple[0]) > 0) {
+//       fs.appendFileSync(targetFile, lines[i] + '\n')
+//       articlesFound++
+//       console.log(articlesFound);
+//     }
+//   }
+// })
+// rs.on('end', () => {
+//   console.log('- - - - - - - - - -');
+//   console.log('END');
+//   console.log('Elapsed time: ');
+//   time.toc()
+// })

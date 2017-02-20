@@ -13,7 +13,8 @@ const parsed = Baby.parseFiles(
     dataFolderPath + 'pageRanks.csv',
     dataFolderPath + 'langLinks.csv',
     dataFolderPath + 'networkFeatures.csv',
-    dataFolderPath + 'linkCount.csv'
+    dataFolderPath + 'linkCount.csv',
+    dataFolderPath + 'probReviewRanks.csv'
   ]
 )
 
@@ -21,6 +22,7 @@ const pageRanks = parsed[0].data
 const langLinks = parsed[1].data
 const networkFeaturesArray = parsed[2].data
 const linkCount = parsed[3].data
+const probReviewRanks = parsed[4].data
 
 
 let networkFeatures = {
@@ -49,6 +51,7 @@ const getNetworkFeatures = (id, cb) => {
   networkFeatures.reciprocity = 0
   networkFeatures.linkCount = 0
   networkFeatures.translationCount = 0
+  networkFeatures.probReviewRank = 0
 
   for (let i = 0; i < pageRanks.length; i++) {
     if (pageRanks[i][0] == id) {
@@ -76,14 +79,19 @@ const getNetworkFeatures = (id, cb) => {
     }
   }
 
-  id = 693018
-
   for (let l = 0; l < linkCount.length; l++) {
     if (linkCount[l][0] == id) {
       networkFeatures.linkCount = linkCount[l][1]
     }
   }
-  
+
+  for (let i = 0; i < probReviewRanks.length; i++) {
+    if (probReviewRanks[i][0] == id) {
+      networkFeatures.probReviewRank = probReviewRanks[i][1]
+      break
+    }
+  }
+
   cb(networkFeatures)
 }
 

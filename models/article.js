@@ -278,6 +278,7 @@ let articlesSchema = new Schema({
   reciprocity: Number,
   linkCount: Number,
   translationCount: Number,
+  probReviewRank: Number,
   // Quality Class
   qualityClass: Number
 });

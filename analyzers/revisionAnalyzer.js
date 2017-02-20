@@ -75,8 +75,8 @@ let reviewFeatures = {
   modifiedLinesRate: 0,
   mostActiveUsersReviewCount: 0,
   mostActiveUsersReviewRate: 0,
-  occasionalReviewCount: 0,
-  occasionalReviewRate: 0,
+  occasionalUsersReviewCount: 0,
+  occasionalUsersReviewRate: 0,
   lastThreeMonthsReviewCount: 0,
   lastThreeMonthsReviewRate: 0
 }
@@ -239,9 +239,9 @@ const countUsers = (cb) => {
     mostActiveUsersReviewCount = mostActiveUsersReviewCount + usersActivity[i].editCount
   }
 
-  let occasionalReviewCount = 0
+  let occasionalUsersReviewCount = 0
   occasionalUsers.forEach((user) => {
-    occasionalReviewCount = occasionalReviewCount + user.editCount
+    occasionalUsersReviewCount = occasionalUsersReviewCount + user.editCount
   })
 
 
@@ -260,8 +260,8 @@ const countUsers = (cb) => {
   reviewFeatures.occasionalUserRate = occasionalUsers.length/userCount
   reviewFeatures.mostActiveUsersReviewCount = mostActiveUsersReviewCount
   reviewFeatures.mostActiveUsersReviewRate = mostActiveUsersReviewCount/reviews.length
-  reviewFeatures.occasionalReviewCount = occasionalReviewCount
-  reviewFeatures.occasionalReviewRate = occasionalReviewCount/reviews.length
+  reviewFeatures.occasionalUsersReviewCount = occasionalUsersReviewCount
+  reviewFeatures.occasionalUsersReviewRate = occasionalUsersReviewCount/reviews.length
   cb(null, 'Count Users')
 }
 
@@ -412,8 +412,8 @@ const getReviewFeatures = (_articleTitle, _qualityClass, _sentences, cb) => {
     reviewFeatures.modifiedLinesRate = 0
     reviewFeatures.mostActiveUsersReviewCount = 0
     reviewFeatures.mostActiveUsersReviewRate = 0
-    reviewFeatures.occasionalReviewCount = 0
-    reviewFeatures.occasionalReviewRate = 0
+    reviewFeatures.occasionalUsersReviewCount = 0
+    reviewFeatures.occasionalUsersReviewRate = 0
     reviewFeatures.lastThreeMonthsReviewCount = 0
     reviewFeatures.lastThreeMonthsReviewRate = 0
 
